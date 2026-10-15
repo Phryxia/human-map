@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-10-15T00:43:29.095Z",
-  "nextSeq": 5,
-  "stops": 2,
+  "savedAt": "2026-10-15T04:34:42.777Z",
+  "nextSeq": 7,
+  "stops": 3,
   "items": [
+    {
+      "id": "b02587b7",
+      "title": "urge-to-cancel-plans 보강: 학술 파편",
+      "priority": 50,
+      "note": "확인됨 2개뿐, 학술 종류 없음. Vice 기사에 나온 Johanna Jarcho(Temple) 연구 탐색",
+      "createdAt": "2026-10-15T04:34:39.993Z",
+      "seq": 6
+    },
     {
       "id": "98256cc4",
       "title": "소유 효과",
@@ -27,6 +35,14 @@
       "note": "F1(Tversky-Kahneman 1991)이 선호가 기준점에 달린다고 적음. loss-aversion 과 관계 후보",
       "createdAt": "2026-10-15T00:42:50.459Z",
       "seq": 3
+    },
+    {
+      "id": "cd68a53d",
+      "title": "약속 취소를 받는 쪽의 반응",
+      "priority": 10,
+      "note": "urge-to-cancel-plans 보조 후보: 82cook 자유게시판 2023-10-24 당일 약속 취소 자주하는 사람들 글. 원문 대목 미확보",
+      "createdAt": "2026-10-15T04:34:39.843Z",
+      "seq": 5
     }
   ]
 }
