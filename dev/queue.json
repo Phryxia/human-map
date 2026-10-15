@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-15T12:37:34.918Z",
-  "nextSeq": 10,
-  "stops": 5,
+  "savedAt": "2026-10-15T16:34:37.186Z",
+  "nextSeq": 11,
+  "stops": 6,
   "items": [
-    {
-      "id": "57e3dfad",
-      "title": "urge-to-cancel-plans 보강: 학술 파편",
-      "priority": 50,
-      "note": "PMC(PMC4191827 Kashdan 2014)는 fetch 시 recaptcha 로 NOT_FOUND. PMC 외 HTML 학술 출처(arXiv, PsyArXiv 등) 필요. Jarcho 연구는 실재 출처 미확인이라 버림",
-      "createdAt": "2026-10-15T08:35:32.245Z",
-      "seq": 7
-    },
     {
       "id": "1f791ae0",
       "title": "나쁜 소식 확인 미루기 보강: 타조 효과 원 논문",
@@ -19,6 +11,14 @@
       "note": "delaying-bad-news: Karlsson, Loewenstein, Seppi 2009 초록 원문 미확보(IDEAS 초록 없음). 비 PDF HTML 출처 필요",
       "createdAt": "2026-10-15T12:37:26.130Z",
       "seq": 8
+    },
+    {
+      "id": "0631e132",
+      "title": "약속 취소 충동 직접 학술 출처",
+      "priority": 50,
+      "note": "urge-to-cancel-plans F2(Kim 2022)는 사회불안 안전행동 문장으로 취소를 직접 다루지 않음. 약속 취소 자체를 다룬 HTML 학술 출처 필요 (EMAC 2025 Aslan 등은 PDF라 미확인 처리됨, Givi&Kirk JPSP 2023은 PsycNet 열리지 않음)",
+      "createdAt": "2026-10-15T16:34:28.839Z",
+      "seq": 10
     },
     {
       "id": "98256cc4",
