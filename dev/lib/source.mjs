@@ -45,3 +45,6 @@ export function judge(frag, result, record) {
 }
 
 export const daysBetween = (a, b) => Math.floor((Date.parse(b) - Date.parse(a)) / 86400000)
+
+// Node 의 fetch 는 HTTPS_PROXY 를 기본으로 따르지 않는다. 프록시 환경이면 NODE_USE_ENV_PROXY=1 로 다시 실행해야 한다.
+export const needsProxyReexec = env => !!(env.HTTPS_PROXY || env.https_proxy) && env.NODE_USE_ENV_PROXY !== '1'

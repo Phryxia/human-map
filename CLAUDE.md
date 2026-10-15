@@ -229,6 +229,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 - 결과는 파편마다 VERIFIED, NOT_FOUND(200 이지만 원문이 없음), UNREACHABLE(4xx, 5xx, 타임아웃, 로그인 벽, PDF 처럼 텍스트를 못 뽑음) 셋 중 하나다.
 - `dev/sources.json` 에 URL 별로 첫 확인일, 마지막 확인일, 마지막 결과를 기록한다. `--changed` 와 `--stale` 은 이 기록으로 재확인 범위를 정한다.
 - 판정. 처음 보는 파편이 NOT_FOUND 면 종료코드 1(전사나 출처가 틀림). 처음 보는 파편이 UNREACHABLE 이면 줄에 `(미확인)` 이 없을 때만 종료코드 1. 기록에 VERIFIED 가 있던 파편이 NOT_FOUND 나 UNREACHABLE 이 되면 출처가 바뀌거나 사라진 것이므로 줄 끝을 `(소멸, <마지막 VERIFIED 일> 까지 확인)` 으로 바꾸라고 출력하고 종료코드 1. 표시를 바꾼 뒤에는 통과한다. `(미확인)` 이 붙은 파편이 VERIFIED 가 되면 표시를 떼라고 출력한다.
+- 프록시 환경(`HTTPS_PROXY`)에서는 `NODE_USE_ENV_PROXY=1` 로 자신을 다시 실행해 fetch 가 프록시를 따르게 한다.
 - 소멸 파편은 그대로 둔다. 지우지 않고 대체하지 않는다. 그 시점에 그 글이 있었다는 기록이다.
 
 ### style-check.mjs

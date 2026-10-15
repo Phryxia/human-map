@@ -26,3 +26,10 @@ test('judge: 기록에 VERIFIED 가 있던 파편이 사라지면 소멸 표시�
   assert.equal(judge({unverified: false, vanished: '2026-08-01'}, 'UNREACHABLE', rec).exit, 0)
 })
 test('daysBetween', () => assert.equal(daysBetween('2026-01-01', '2026-04-11'), 100))
+test('needsProxyReexec: 프록시 환경에서 NODE_USE_ENV_PROXY 가 없으면 다시 실행한다', async () => {
+  const {needsProxyReexec} = await import('./lib/source.mjs')
+  assert.equal(needsProxyReexec({HTTPS_PROXY: 'http://x'}), true)
+  assert.equal(needsProxyReexec({https_proxy: 'http://x'}), true)
+  assert.equal(needsProxyReexec({HTTPS_PROXY: 'http://x', NODE_USE_ENV_PROXY: '1'}), false)
+  assert.equal(needsProxyReexec({}), false)
+})

@@ -4,7 +4,12 @@ import fs from 'node:fs'
 import path from 'node:path'
 import {spawnSync} from 'node:child_process'
 import {loadAll, ROOT} from './lib/doc.mjs'
-import {fetchText, quoteIn, judge, daysBetween} from './lib/source.mjs'
+import {fetchText, quoteIn, judge, daysBetween, needsProxyReexec} from './lib/source.mjs'
+
+if (needsProxyReexec(process.env)) {
+  const r = spawnSync(process.execPath, ['--disable-warning=UNDICI-EHPA', ...process.argv.slice(1)], {stdio: 'inherit', env: {...process.env, NODE_USE_ENV_PROXY: '1'}})
+  process.exit(r.status ?? 1)
+}
 
 const SOURCES = path.join(ROOT, 'dev', 'sources.json')
 const today = new Date().toISOString().slice(0, 10)
