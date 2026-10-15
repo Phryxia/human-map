@@ -50,8 +50,8 @@
 
 ## 최상위 현상
 
-- [손실 회피](loss-aversion.md)
-- [약속 취소 충동](urge-to-cancel-plans.md)
+- [손실 회피](docs/loss-aversion.md)
+- [약속 취소 충동](docs/urge-to-cancel-plans.md)
 
 ## 되먹임 (원인 그래프의 순환)
 
