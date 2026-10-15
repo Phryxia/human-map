@@ -1,7 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-15T00:34:58.192Z",
-  "nextSeq": 1,
-  "stops": 1,
-  "items": []
+  "savedAt": "2026-10-15T00:43:29.095Z",
+  "nextSeq": 5,
+  "stops": 2,
+  "items": [
+    {
+      "id": "98256cc4",
+      "title": "소유 효과",
+      "priority": 10,
+      "note": "F3(loss-aversion, 한경 생글생글)가 손실 회피와 맥이 닿는다고 적음. loss-aversion 과 원인 후보",
+      "createdAt": "2026-10-15T00:42:50.233Z",
+      "seq": 1
+    },
+    {
+      "id": "940b74b0",
+      "title": "처분 효과",
+      "priority": 10,
+      "note": "F3 의 손절 못 하는 투자자 사례. loss-aversion 의 결과 후보",
+      "createdAt": "2026-10-15T00:42:50.339Z",
+      "seq": 2
+    },
+    {
+      "id": "47188408",
+      "title": "기준점 의존",
+      "priority": 10,
+      "note": "F1(Tversky-Kahneman 1991)이 선호가 기준점에 달린다고 적음. loss-aversion 과 관계 후보",
+      "createdAt": "2026-10-15T00:42:50.459Z",
+      "seq": 3
+    }
+  ]
 }
