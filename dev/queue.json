@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-15T04:34:42.777Z",
-  "nextSeq": 7,
-  "stops": 3,
+  "savedAt": "2026-10-15T08:35:34.607Z",
+  "nextSeq": 8,
+  "stops": 4,
   "items": [
     {
-      "id": "b02587b7",
+      "id": "57e3dfad",
       "title": "urge-to-cancel-plans 보강: 학술 파편",
       "priority": 50,
-      "note": "확인됨 2개뿐, 학술 종류 없음. Vice 기사에 나온 Johanna Jarcho(Temple) 연구 탐색",
-      "createdAt": "2026-10-15T04:34:39.993Z",
-      "seq": 6
+      "note": "PMC(PMC4191827 Kashdan 2014)는 fetch 시 recaptcha 로 NOT_FOUND. PMC 외 HTML 학술 출처(arXiv, PsyArXiv 등) 필요. Jarcho 연구는 실재 출처 미확인이라 버림",
+      "createdAt": "2026-10-15T08:35:32.245Z",
+      "seq": 7
     },
     {
       "id": "98256cc4",
