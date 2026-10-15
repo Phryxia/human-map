@@ -20,7 +20,7 @@ const records = fs.existsSync(SOURCES) ? JSON.parse(fs.readFileSync(SOURCES, 'ut
 const git = (...a) => spawnSync('git', a, {cwd: ROOT, encoding: 'utf8'}).stdout ?? ''
 const changedIds = () => {
   const files = new Set([...git('diff', '--name-only', 'HEAD~1', 'HEAD').split('\n'), ...git('status', '--porcelain').split('\n').map(l => l.slice(3))])
-  return [...files].filter(f => /^[^/]+\.md$/.test(f)).map(f => f.slice(0, -3)).filter(id => docs.has(id))
+  return [...files].filter(f => /^docs\/[^/]+\.md$/.test(f)).map(f => f.slice(5, -3)).filter(id => docs.has(id))
 }
 
 let targets = []   // {doc, frag}

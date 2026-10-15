@@ -4,7 +4,7 @@ import path from 'node:path'
 import {fileURLToPath} from 'node:url'
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..')
-export const DOCS = ROOT
+export const DOCS = path.join(ROOT, 'docs')
 export const KINDS = ['학술', '공공', '매체', 'SNS', '문학']
 export const AXES = ['특성', '사고', '감정', '행동']
 export const SECTIONS = ['서술', '조건', '파편', '관계']

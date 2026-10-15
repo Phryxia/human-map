@@ -35,7 +35,7 @@ export function buildReadme(docs, head = '') {
   L.push('', `파편이 한 10년 안에만 있는 문서: ${oneDecade}`)
   L.push('', '## 최상위 현상', '')
   const roots = [...docs.values()].filter(d => !d.rel['상위']?.length)
-  L.push(...(roots.length ? roots.map(d => `- [${d.title}](${d.id}.md)`) : ['없음.']))
+  L.push(...(roots.length ? roots.map(d => `- [${d.title}](docs/${d.id}.md)`) : ['없음.']))
   L.push('', '## 되먹임 (원인 그래프의 순환)', '')
   const fb = findCycles(edgeMap(docs, '결과'))
   L.push(...(fb.length ? fb.map(c => `- ${c.join(' -> ')}`) : ['없음.']))
