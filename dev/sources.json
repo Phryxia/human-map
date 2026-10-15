@@ -58,5 +58,27 @@
     "last": "2026-10-15",
     "result": "VERIFIED",
     "lastVerified": "2026-10-15"
+  },
+  "https://www.jjan.kr/article/20180904648824": {
+    "first": "2026-10-15",
+    "last": "2026-10-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-15"
+  },
+  "https://mediahub.seoul.go.kr/archives/2004224": {
+    "first": "2026-10-15",
+    "last": "2026-10-15",
+    "result": "UNREACHABLE",
+    "lastVerified": "2026-10-15"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11323640/": {
+    "first": "2026-10-15",
+    "last": "2026-10-15",
+    "result": "NOT_FOUND"
+  },
+  "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19560-0": {
+    "first": "2026-10-15",
+    "last": "2026-10-15",
+    "result": "NOT_FOUND"
   }
 }
