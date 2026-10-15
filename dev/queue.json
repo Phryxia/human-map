@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-15T08:35:34.607Z",
-  "nextSeq": 8,
-  "stops": 4,
+  "savedAt": "2026-10-15T12:37:34.918Z",
+  "nextSeq": 10,
+  "stops": 5,
   "items": [
     {
       "id": "57e3dfad",
@@ -11,6 +11,14 @@
       "note": "PMC(PMC4191827 Kashdan 2014)는 fetch 시 recaptcha 로 NOT_FOUND. PMC 외 HTML 학술 출처(arXiv, PsyArXiv 등) 필요. Jarcho 연구는 실재 출처 미확인이라 버림",
       "createdAt": "2026-10-15T08:35:32.245Z",
       "seq": 7
+    },
+    {
+      "id": "1f791ae0",
+      "title": "나쁜 소식 확인 미루기 보강: 타조 효과 원 논문",
+      "priority": 50,
+      "note": "delaying-bad-news: Karlsson, Loewenstein, Seppi 2009 초록 원문 미확보(IDEAS 초록 없음). 비 PDF HTML 출처 필요",
+      "createdAt": "2026-10-15T12:37:26.130Z",
+      "seq": 8
     },
     {
       "id": "98256cc4",
@@ -43,6 +51,14 @@
       "note": "urge-to-cancel-plans 보조 후보: 82cook 자유게시판 2023-10-24 당일 약속 취소 자주하는 사람들 글. 원문 대목 미확보",
       "createdAt": "2026-10-15T04:34:39.843Z",
       "seq": 5
+    },
+    {
+      "id": "54b0cc3c",
+      "title": "빈처 아내의 어려움 말하지 않기",
+      "priority": 10,
+      "note": "현진건 빈처 위키문헌: 예술가의 처 노릇을 하려는 결심으로 생활난을 입 밖에 내지 않음. 원문 재확인 필요",
+      "createdAt": "2026-10-15T12:37:26.284Z",
+      "seq": 9
     }
   ]
 }
