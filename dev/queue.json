@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T08:32:37.576Z",
-  "nextSeq": 15,
-  "stops": 10,
+  "savedAt": "2026-10-16T12:35:55.042Z",
+  "nextSeq": 17,
+  "stops": 11,
   "items": [
     {
       "id": "0631e132",
@@ -75,6 +75,22 @@
       "note": "spouse-financial-concealment 하위/관련 후보. 빈처(위키문헌)는 아내가 친가에서 얻어 와 살림을 대는 장면이나 숨김을 직접 말하지 않아 보류. Springer Joseph&Peetz 2025 초록 대목 재확인 필요",
       "createdAt": "2026-10-16T04:35:36.491Z",
       "seq": 14
+    },
+    {
+      "id": "0d75f251",
+      "title": "심리적 계약 위반 후 직장 침묵",
+      "priority": 10,
+      "note": "silent-work-awaiting-reward F3(Balikçi 2022): 계약 위반 지각이 체념적 침묵에 양의 효과. 원인 후보",
+      "createdAt": "2026-10-16T12:35:45.678Z",
+      "seq": 15
+    },
+    {
+      "id": "0bfc2b5f",
+      "title": "소작인 아들의 영문 모를 괴롭힘 당하기 (동백꽃)",
+      "priority": 10,
+      "note": "김유정 동백꽃 위키문헌: 점순이가 닭을 괴롭히는 대목 확인 필요. 문학 파편 확보 후보",
+      "createdAt": "2026-10-16T12:35:45.817Z",
+      "seq": 16
     }
   ]
 }
