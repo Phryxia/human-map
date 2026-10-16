@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T04:35:43.610Z",
+  "savedAt": "2026-10-16T08:32:37.576Z",
   "nextSeq": 15,
-  "stops": 9,
+  "stops": 10,
   "items": [
-    {
-      "id": "2f15228a",
-      "title": "dev: source-check 가 Springer 페이지를 봇 차단 응답(3KB)으로 받아 NOT_FOUND 처리",
-      "priority": 60,
-      "note": "link.springer.com/article/10.1007/s10834-024-09988-2 는 curl 로는 초록 전문(Relationship partners may sometimes turn to clandestine means...)이 있으나 source-check 의 UA 로는 3036자 응답에 없음",
-      "createdAt": "2026-10-16T04:35:36.371Z",
-      "seq": 13
-    },
     {
       "id": "0631e132",
       "title": "약속 취소 충동 직접 학술 출처",
