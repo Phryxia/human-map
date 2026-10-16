@@ -133,5 +133,17 @@
     "last": "2026-10-16",
     "result": "VERIFIED",
     "lastVerified": "2026-10-16"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3057069/": {
+    "first": "2026-10-16",
+    "last": "2026-10-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-16"
+  },
+  "https://www.fastreat.com/community/posts/10043": {
+    "first": "2026-10-16",
+    "last": "2026-10-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-16"
   }
 }
