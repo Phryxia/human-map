@@ -1,6 +1,6 @@
 import {test} from 'node:test'
 import assert from 'node:assert/strict'
-import {normalize, extractText, quoteIn, judge, daysBetween} from './lib/source.mjs'
+import {normalize, extractText, quoteIn, judge, daysBetween, fetchText} from './lib/source.mjs'
 
 test('normalize: 따옴표, 대시, 공백 종류를 맞춘다', () => {
   assert.equal(normalize('“그는” 말했다 – 그리고  떠났다'), '"그는" 말했다 - 그리고 떠났다')
@@ -32,4 +32,19 @@ test('needsProxyReexec: 프록시 환경에서 NODE_USE_ENV_PROXY 가 없으면 
   assert.equal(needsProxyReexec({https_proxy: 'http://x'}), true)
   assert.equal(needsProxyReexec({HTTPS_PROXY: 'http://x', NODE_USE_ENV_PROXY: '1'}), false)
   assert.equal(needsProxyReexec({}), false)
+})
+test('fetchText: 브라우저형 UA 를 봇으로 막는 사이트는 다른 UA 로 다시 받는다', async () => {
+  const fetchImpl = async (url, {headers}) => {
+    const body = /Mozilla/.test(headers['user-agent']) ? '<html>차단</html>' : '<html>본문 clandestine means</html>'
+    return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body}
+  }
+  fetchImpl.headers = null
+  const page = await fetchText('https://example.org/a', {fetchImpl, quote: 'clandestine means'})
+  assert.ok(page.ok && quoteIn(page.text, 'clandestine means'))
+})
+test('fetchText: quote 가 없으면 첫 응답을 그대로 쓴다', async () => {
+  let n = 0
+  const fetchImpl = async () => { n++; return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>x</html>'} }
+  await fetchText('https://example.org/a', {fetchImpl})
+  assert.equal(n, 1)
 })

@@ -20,14 +20,26 @@ export function extractText(body, contentType = '') {
   return null
 }
 
-export async function fetchText(url, {timeout = 20000, fetchImpl = fetch} = {}) {
+// 브라우저형 UA 를 봇으로 막는 사이트(Springer 등)가 있어 quote 가 주어지면 UA 를 바꿔 한 번 더 받는다.
+const USER_AGENTS = ['Mozilla/5.0 (compatible; human-map-source-check)', 'curl/8.5.0']
+
+async function fetchOnce(url, ua, {timeout, fetchImpl}) {
   try {
-    const res = await fetchImpl(url, {redirect: 'follow', signal: AbortSignal.timeout(timeout), headers: {'user-agent': 'Mozilla/5.0 (compatible; human-map-source-check)', accept: 'text/html,text/plain,*/*'}})
+    const res = await fetchImpl(url, {redirect: 'follow', signal: AbortSignal.timeout(timeout), headers: {'user-agent': ua, accept: 'text/html,text/plain,*/*'}})
     if (!res.ok) return {ok: false, reason: `HTTP ${res.status}`}
     const ct = res.headers.get('content-type') ?? ''
     const text = extractText(await res.text(), ct)
     return text === null ? {ok: false, reason: `텍스트가 아니다 (${ct})`} : {ok: true, text}
   } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' ? '타임아웃' : e.message} }
+}
+
+export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, quote} = {}) {
+  let page
+  for (const ua of USER_AGENTS) {
+    page = await fetchOnce(url, ua, {timeout, fetchImpl})
+    if (quote === undefined || (page.ok && quoteIn(page.text, quote))) break
+  }
+  return page
 }
 
 export const quoteIn = (text, quote) => normalize(text).includes(normalize(quote))

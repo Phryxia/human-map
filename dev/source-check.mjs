@@ -44,7 +44,7 @@ const cache = new Map()
 let failed = false
 for (const {doc, frag} of targets) {
   if (records[frag.url]?.removed) { failed = true; continue }
-  if (!cache.has(frag.url)) cache.set(frag.url, await fetchText(frag.url))
+  if (!cache.has(frag.url)) cache.set(frag.url, await fetchText(frag.url, {quote: frag.quote}))
   const page = cache.get(frag.url)
   const result = !page.ok ? 'UNREACHABLE' : quoteIn(page.text, frag.quote) ? 'VERIFIED' : 'NOT_FOUND'
   const rec = records[frag.url]
