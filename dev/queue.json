@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T00:33:50.187Z",
-  "nextSeq": 13,
-  "stops": 8,
+  "savedAt": "2026-10-16T04:35:43.610Z",
+  "nextSeq": 15,
+  "stops": 9,
   "items": [
+    {
+      "id": "2f15228a",
+      "title": "dev: source-check 가 Springer 페이지를 봇 차단 응답(3KB)으로 받아 NOT_FOUND 처리",
+      "priority": 60,
+      "note": "link.springer.com/article/10.1007/s10834-024-09988-2 는 curl 로는 초록 전문(Relationship partners may sometimes turn to clandestine means...)이 있으나 source-check 의 UA 로는 3036자 응답에 없음",
+      "createdAt": "2026-10-16T04:35:36.371Z",
+      "seq": 13
+    },
     {
       "id": "0631e132",
       "title": "약속 취소 충동 직접 학술 출처",
@@ -67,6 +75,14 @@
       "note": "delaying-bad-news F2(Gherzi 2014): 음의 수익률에도 확인이 늘었다. 타조 효과와 긴장 후보",
       "createdAt": "2026-10-16T00:33:43.693Z",
       "seq": 12
+    },
+    {
+      "id": "68ebfaf7",
+      "title": "배우자의 재정 곤란 은폐",
+      "priority": 10,
+      "note": "spouse-financial-concealment 하위/관련 후보. 빈처(위키문헌)는 아내가 친가에서 얻어 와 살림을 대는 장면이나 숨김을 직접 말하지 않아 보류. Springer Joseph&Peetz 2025 초록 대목 재확인 필요",
+      "createdAt": "2026-10-16T04:35:36.491Z",
+      "seq": 14
     }
   ]
 }
