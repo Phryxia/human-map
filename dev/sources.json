@@ -103,5 +103,23 @@
     "first": "2026-10-16",
     "last": "2026-10-16",
     "result": "NOT_FOUND"
+  },
+  "https://ko.wikisource.org/wiki/봄봄": {
+    "first": "2026-10-16",
+    "last": "2026-10-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-16"
+  },
+  "https://m.go.seoul.co.kr/news/2015/06/25/20150625012001": {
+    "first": "2026-10-16",
+    "last": "2026-10-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-16"
+  },
+  "https://europeanproceedings.com/article/10.15405/epsbs.2022.12.02.6": {
+    "first": "2026-10-16",
+    "last": "2026-10-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-16"
   }
 }
