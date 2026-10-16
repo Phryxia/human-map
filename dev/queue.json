@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T19:34:39.094Z",
+  "savedAt": "2026-10-16T20:34:06.990Z",
   "nextSeq": 18,
-  "stops": 13,
+  "stops": 14,
   "items": [
-    {
-      "id": "98256cc4",
-      "title": "소유 효과",
-      "priority": 10,
-      "note": "F3(loss-aversion, 한경 생글생글)가 손실 회피와 맥이 닿는다고 적음. loss-aversion 과 원인 후보",
-      "createdAt": "2026-10-15T00:42:50.233Z",
-      "seq": 1
-    },
     {
       "id": "940b74b0",
       "title": "처분 효과",
