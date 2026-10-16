@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-15T20:36:40.661Z",
-  "nextSeq": 12,
-  "stops": 7,
+  "savedAt": "2026-10-16T00:33:50.187Z",
+  "nextSeq": 13,
+  "stops": 8,
   "items": [
-    {
-      "id": "1f791ae0",
-      "title": "나쁜 소식 확인 미루기 보강: 타조 효과 원 논문",
-      "priority": 50,
-      "note": "delaying-bad-news: Karlsson, Loewenstein, Seppi 2009 초록 원문 미확보(IDEAS 초록 없음). 비 PDF HTML 출처 필요",
-      "createdAt": "2026-10-15T12:37:26.130Z",
-      "seq": 8
-    },
     {
       "id": "0631e132",
       "title": "약속 취소 충동 직접 학술 출처",
@@ -67,6 +59,14 @@
       "note": "현진건 빈처 위키문헌: 예술가의 처 노릇을 하려는 결심으로 생활난을 입 밖에 내지 않음. 원문 재확인 필요",
       "createdAt": "2026-10-15T12:37:26.284Z",
       "seq": 9
+    },
+    {
+      "id": "89fa5a0a",
+      "title": "정보 확인 빈도와 시장 등락 (미어캣 효과)",
+      "priority": 10,
+      "note": "delaying-bad-news F2(Gherzi 2014): 음의 수익률에도 확인이 늘었다. 타조 효과와 긴장 후보",
+      "createdAt": "2026-10-16T00:33:43.693Z",
+      "seq": 12
     }
   ]
 }
