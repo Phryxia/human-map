@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T12:35:55.042Z",
+  "savedAt": "2026-10-16T16:38:15.209Z",
   "nextSeq": 17,
-  "stops": 11,
+  "stops": 12,
   "items": [
-    {
-      "id": "0631e132",
-      "title": "약속 취소 충동 직접 학술 출처",
-      "priority": 50,
-      "note": "urge-to-cancel-plans F2(Kim 2022)는 사회불안 안전행동 문장으로 취소를 직접 다루지 않음. 약속 취소 자체를 다룬 HTML 학술 출처 필요 (EMAC 2025 Aslan 등은 PDF라 미확인 처리됨, Givi&Kirk JPSP 2023은 PsycNet 열리지 않음)",
-      "createdAt": "2026-10-15T16:34:28.839Z",
-      "seq": 10
-    },
-    {
-      "id": "8790aeb3",
-      "title": "혼밥 학술 파편 보강",
-      "priority": 50,
-      "note": "eating-alone-feelings: Björnwall 2024 BMC Public Health(PMC11323640) 대목 'Some report how it makes them feel lonely, miss a partner...' 는 PMC/BMC HTML 에서 source-check NOT_FOUND. 텍스트가 잡히는 HTML 학술 출처 필요",
-      "createdAt": "2026-10-15T20:35:35.680Z",
-      "seq": 11
-    },
     {
       "id": "98256cc4",
       "title": "소유 효과",
