@@ -8,16 +8,19 @@
 
 2018년 전북일보 시민기자 기고는 식사 시간을 남의 눈치 없이 자신을 위해 쓰겠다는 인식이 퍼지면서 혼밥이 쓸쓸함의 동의어에서 자유의 동의어로 바뀌고 있다고 적는다. [F1]
 
-2022년 서울시는 혼자만의 시간을 보내며 여유롭게 식사하는 것도 좋지만 가족과 지인이 어울려 먹는 북적거리는 시간이 그리울 때도 있다고 적는다. [F2]
+2021년 한 학술대회 초록은 재미 한인 노인에서 혼자 먹는 사람의 정신적 고통이 외로움을 거쳐 이어지는 경로가 여성에게서만 확인됐다고 적는다. [F2]
+
+2022년 서울시는 혼자만의 시간을 보내며 여유롭게 식사하는 것도 좋지만 가족과 지인이 어울려 먹는 북적거리는 시간이 그리울 때도 있다고 적는다. [F3]
 
 # 조건
 
-2018년 F1 은 혼밥의 의미가 쓸쓸함에서 자유로 바뀌고 있다고 적고, 2022년 F2 는 여유와 그리움이 한 문장에 함께 있다고 적는다. [F1][F2]
+2018년 F1 은 혼밥의 의미가 쓸쓸함에서 자유로 바뀌고 있다고 적고, 2022년 F2 는 여유와 그리움이 한 문장에 함께 있다고 적는다. [F1][F3]
 
 # 파편
 
 - F1 [매체] "식사시간을 남의 눈치를 보지 않고 오롯이 자신을 위한 시간으로 쓰겠다는 인식이 퍼지면서 혼밥은 쓸쓸함의 동의어에서 자유의 동의어로 바뀌고 있다." — 전북일보 시민기자 기고, "[참여&소통 2018 시민기자가 뛴다] '혼밥', 외로움에서 자유로 의미를 바꿔가다", 2018-09-04, https://www.jjan.kr/article/20180904648824, 2026-10-15 접속
-- F2 [공공] "혼자만의 시간을 보내면서 여유롭게 식사하는 것도 좋지만, 가끔은 가족·지인들과 어울려 식사하는 북적거리는 시간이 그리울 때도 있는데요" — 서울특별시, 「내 손안에 서울」 "'혼밥은 그만' 중장년 1인가구, 함께 요리하며 건강 챙긴다", 2022-04-06, https://mediahub.seoul.go.kr/archives/2004224, 2026-10-15 접속
+- F2 [학술] "Analyses demonstrated that mental distress was linked with living with others/eating alone and living/eating alone, of which relationships were mediated by loneliness only among women." — Nan Sook Park, Yuri Jang, Soondool Chung, David Chiriboga, William Haley, "Living/Eating Arrangement, Loneliness, and Mental Distress among Older Korean Immigrants: Gender Difference", Innovation in Aging 5(Suppl 1), 2021-12-17, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8682511/, 2026-10-16 접속
+- F3 [공공] "혼자만의 시간을 보내면서 여유롭게 식사하는 것도 좋지만, 가끔은 가족·지인들과 어울려 식사하는 북적거리는 시간이 그리울 때도 있는데요" — 서울특별시, 「내 손안에 서울」 "'혼밥은 그만' 중장년 1인가구, 함께 요리하며 건강 챙긴다", 2022-04-06, https://mediahub.seoul.go.kr/archives/2004224, 2026-10-15 접속
 
 # 관계
 

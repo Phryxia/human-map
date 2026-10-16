@@ -61,15 +61,15 @@
   },
   "https://www.jjan.kr/article/20180904648824": {
     "first": "2026-10-15",
-    "last": "2026-10-15",
+    "last": "2026-10-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-15"
+    "lastVerified": "2026-10-16"
   },
   "https://mediahub.seoul.go.kr/archives/2004224": {
     "first": "2026-10-15",
-    "last": "2026-10-15",
+    "last": "2026-10-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-15"
+    "lastVerified": "2026-10-16"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11323640/": {
     "first": "2026-10-15",
@@ -123,6 +123,12 @@
     "lastVerified": "2026-10-16"
   },
   "https://www.cambridge.org/core/journals/bjpsych-open/article/survey-on-attitudes-of-social-engagement/AC189B41701BDEE362CA1A342AD5FCDA": {
+    "first": "2026-10-16",
+    "last": "2026-10-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-16"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8682511/": {
     "first": "2026-10-16",
     "last": "2026-10-16",
     "result": "VERIFIED",
