@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T20:34:06.990Z",
-  "nextSeq": 18,
-  "stops": 14,
+  "savedAt": "2026-10-16T23:38:51.750Z",
+  "nextSeq": 19,
+  "stops": 15,
   "items": [
     {
       "id": "940b74b0",
@@ -75,6 +75,14 @@
       "note": "replaying-conversations-afterward F1(Price 2010): PEP 가 치료 반응을 늦춤. 사회불안 문서 후보. 보조 SNS: mindline.sg/t/probably-not-social-anxiety/21160 (원문 대목 전체 재확인 필요)",
       "createdAt": "2026-10-16T19:34:30.792Z",
       "seq": 17
+    },
+    {
+      "id": "15f216e7",
+      "title": "또래 관계 어려움으로 인한 등교 거부",
+      "priority": 10,
+      "note": "social-withdrawal-at-home F3 서울시 보도자료의 유스톡 스쿨 등교 거부 대목. 하위/관련 후보",
+      "createdAt": "2026-10-16T23:38:45.187Z",
+      "seq": 18
     }
   ]
 }
