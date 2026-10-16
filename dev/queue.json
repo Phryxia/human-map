@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T16:38:15.209Z",
-  "nextSeq": 17,
-  "stops": 12,
+  "savedAt": "2026-10-16T19:34:39.094Z",
+  "nextSeq": 18,
+  "stops": 13,
   "items": [
     {
       "id": "98256cc4",
@@ -75,6 +75,14 @@
       "note": "김유정 동백꽃 위키문헌: 점순이가 닭을 괴롭히는 대목 확인 필요. 문학 파편 확보 후보",
       "createdAt": "2026-10-16T12:35:45.817Z",
       "seq": 16
+    },
+    {
+      "id": "f85e73be",
+      "title": "대화 뒤 되짚기와 사회불안",
+      "priority": 10,
+      "note": "replaying-conversations-afterward F1(Price 2010): PEP 가 치료 반응을 늦춤. 사회불안 문서 후보. 보조 SNS: mindline.sg/t/probably-not-social-anxiety/21160 (원문 대목 전체 재확인 필요)",
+      "createdAt": "2026-10-16T19:34:30.792Z",
+      "seq": 17
     }
   ]
 }
