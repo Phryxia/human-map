@@ -37,6 +37,7 @@
 - [보상을 기다리며 불만 없이 일하기](silent-work-awaiting-reward.md)
 - [불만 제기 회피](non-complaining.md)
 - [층간소음 참기](enduring-neighbor-noise.md)
+- [모인 자리에서 말하지 않기](staying-quiet-in-groups.md)
 
 ## 원인
 
