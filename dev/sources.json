@@ -619,5 +619,22 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://www.gutenberg.org/cache/epub/1749/pg1749-images.html": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://link.springer.com/article/10.3758/s13415-020-00802-8": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "UNREACHABLE"
+  },
+  "https://cris.haifa.ac.il/en/publications/what-do-we-envy-how-internal-and-external-self-relevance-shape-en/": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   }
 }
