@@ -10,9 +10,13 @@ export function normalize(s) {
     .replace(/\s+/g, ' ').trim()
 }
 
+// 블록 태그 경계에는 공백을 넣는다. '안다든지</P><P>이러면' 이 '안다든지이러면' 으로 붙지 않게 하려는 것이다.
+const BLOCK_TAGS = ['p', 'br', 'div', 'li', 'ul', 'ol', 'dd', 'dt', 'tr', 'td', 'th', 'table', 'h[1-6]', 'blockquote', 'section', 'article', 'header', 'footer', 'pre', 'hr']
+const BLOCK_TAG_RE = new RegExp(`<(/?(?:${BLOCK_TAGS.join('|')}))(?=[\\s/>])`, 'gi')
+
 export function extractText(body, contentType = '') {
   if (/html|xml/i.test(contentType) || /^\s*<(!doctype|html)/i.test(body)) {
-    const root = parse(body, {blockTextElements: {script: false, style: false, noscript: false}})
+    const root = parse(body.replace(BLOCK_TAG_RE, ' <$1'), {blockTextElements: {script: false, style: false, noscript: false}})
     root.querySelectorAll('script,style,noscript,template').forEach(n => n.remove())
     return root.textContent
   }

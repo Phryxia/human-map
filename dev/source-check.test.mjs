@@ -74,3 +74,11 @@ test('fetchText: UA 를 모두 돌아도 봇 확인 페이지면 쉬었다가 �
   assert.ok(page.ok && quoteIn(page.text, 'tendency to limit'))
   assert.equal(n, 3)
 })
+
+test('extractText: 블록 태그 경계에 공백을 넣어 문단을 넘는 원문을 찾는다', () => {
+  // kin.naver.com docId=56416069: '안다든지</P><P>이러면' 이 '안다든지이러면' 으로 붙었다
+  const t = extractText('<html><body><P>다 안다든지</P><P>이러면 완전</P>줄<br>바꿈<div>가</div><li>나</li></body></html>', 'text/html')
+  assert.ok(quoteIn(t, '다 안다든지 이러면 완전'))
+  assert.ok(quoteIn(t, '줄 바꿈 가 나'))
+  assert.ok(quoteIn(extractText('<html><p>본문 <b>문</b>장</p></html>', 'text/html'), '본문 문장'))
+})
