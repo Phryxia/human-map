@@ -1,0 +1,46 @@
+# 도움받을 때의 자존감 위협
+
+별칭: 도움의 자존감 위협, Threat to self-esteem in receiving help
+
+자기보다 가진 것이 많은 사람에게 도움을 받는 사람이 자신을 낮게 느끼고 그 도움을 밀어내거나 스스로 해결하려 한다.
+
+# 서술
+
+1936년 김유정의 「동백꽃」에서 화자는 마름의 딸이 건넨 감자를 받지 않는다. 화자는 '느 집엔 이거 없지.' 라는 말을 문제 삼고 자기 집이 마름 집에 땅을 얻어 부치며 늘 굽실거린다고 덧붙인다. [F1]
+
+1976년 Fisher 와 Nadler 의 실험에서 자원이 많은 상대에게 도움을 받은 참가자는 도움을 받지 않은 참가자보다 자신을 덜 긍정적으로 보았고 스스로 해결하는 행동을 더 하는 경향을 보였다. [F2]
+
+# 조건
+
+1976년 F2 의 실험에서 자원이 적은 상대에게 도움을 받은 참가자는 반대로 자신을 더 긍정적으로 보았고 스스로 해결하는 행동을 덜 했다. [F2]
+
+1936년 F1 의 화자는 도움을 주는 쪽이 자기 집이 기대어 사는 마름 집안이라는 점을 함께 말한다. [F1]
+
+# 파편
+
+- F1 [문학] "설혹 주는 감자를 안 받아먹는 것이 실례라 하면, 주면 그냥 주었지 '느 집엔 이거 없지.'는 다 뭐냐. 그렇잖아도 저희는 마름이고 우리는 그 손에서 배재를 얻어 땅을 부치므로 일상 굽실거린다." — 김유정, 「동백꽃」, 1936, https://ko.wikisource.org/wiki/동백꽃, 2026-10-17 접속
+- F2 [학술] "subjects who received aid from a high resource donor perceived themselves less positively and tended to engage in more self-help behavior" (자원이 많은 기부자에게 도움을 받은 참가자는 자신을 덜 긍정적으로 지각했고 스스로 돕는 행동을 더 하는 경향을 보였다) — Jeffrey D. Fisher, Arie Nadler, "Effect of donor resources on recipient self-esteem and self-help", Journal of Experimental Social Psychology, 1976-03, https://cris.tau.ac.il/en/publications/effect-of-donor-resources-on-recipient-self-esteem-and-self-help-2/, 2026-10-17 접속
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 긴장
+
+없음.
+
+#감정 #행동 #관계
