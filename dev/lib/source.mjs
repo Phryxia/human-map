@@ -23,21 +23,31 @@ export function extractText(body, contentType = '') {
 // 브라우저형 UA 를 봇으로 막는 사이트(Springer 등)가 있어 quote 가 주어지면 UA 를 바꿔 한 번 더 받는다.
 const USER_AGENTS = ['Mozilla/5.0 (compatible; human-map-source-check)', 'curl/8.5.0']
 
+// 200 으로 오지만 본문 대신 봇 확인을 띄우는 페이지. PMC 는 간헐적으로 reCAPTCHA 확인 페이지를 준다.
+export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i]
+
 async function fetchOnce(url, ua, {timeout, fetchImpl}) {
   try {
     const res = await fetchImpl(url, {redirect: 'follow', signal: AbortSignal.timeout(timeout), headers: {'user-agent': ua, accept: 'text/html,text/plain,*/*'}})
     if (!res.ok) return {ok: false, reason: `HTTP ${res.status}`}
     const ct = res.headers.get('content-type') ?? ''
-    const text = extractText(await res.text(), ct)
+    const body = await res.text()
+    if (CHALLENGE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
+    const text = extractText(body, ct)
     return text === null ? {ok: false, reason: `텍스트가 아니다 (${ct})`} : {ok: true, text}
   } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' ? '타임아웃' : e.message} }
 }
 
-export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, quote} = {}) {
+// 봇 확인 페이지만 받았으면 challengeDelay 만큼 쉬고 UA 목록을 한 번 더 돈다.
+export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, quote, challengeDelay = 5000} = {}) {
   let page
-  for (const ua of USER_AGENTS) {
-    page = await fetchOnce(url, ua, {timeout, fetchImpl})
-    if (quote === undefined || (page.ok && quoteIn(page.text, quote))) break
+  for (let round = 0; round < 2; round++) {
+    if (round) await new Promise(r => setTimeout(r, challengeDelay))
+    for (const ua of USER_AGENTS) {
+      page = await fetchOnce(url, ua, {timeout, fetchImpl})
+      if (quote === undefined || (page.ok && quoteIn(page.text, quote))) return page
+    }
+    if (page.reason !== '봇 확인 페이지') break
   }
   return page
 }

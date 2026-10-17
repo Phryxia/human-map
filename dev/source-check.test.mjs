@@ -48,3 +48,29 @@ test('fetchText: quote 가 없으면 첫 응답을 그대로 쓴다', async () =
   await fetchText('https://example.org/a', {fetchImpl})
   assert.equal(n, 1)
 })
+test('fetchText: 200 으로 온 봇 확인 페이지는 UNREACHABLE 로 본다 (PMC 의 reCAPTCHA)', async () => {
+  const challenge = '<!doctype html><html><head><base href="https://www.google.com/recaptcha/challengepage/"></head><body>x</body></html>'
+  const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => challenge})
+  const page = await fetchText('https://pmc.ncbi.nlm.nih.gov/articles/PMC1/', {fetchImpl, quote: 'tendency to limit', challengeDelay: 0})
+  assert.equal(page.ok, false)
+  assert.match(page.reason, /봇 확인/)
+})
+test('fetchText: 봇 확인 페이지가 한 번 오면 다시 받는다', async () => {
+  let n = 0
+  const fetchImpl = async () => {
+    const body = n++ === 0 ? '<html><head><base href="https://www.google.com/recaptcha/challengepage/"></head></html>' : '<html>본문 tendency to limit</html>'
+    return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body}
+  }
+  const page = await fetchText('https://pmc.ncbi.nlm.nih.gov/articles/PMC1/', {fetchImpl, quote: 'tendency to limit'})
+  assert.ok(page.ok && quoteIn(page.text, 'tendency to limit'))
+})
+test('fetchText: UA 를 모두 돌아도 봇 확인 페이지면 쉬었다가 한 바퀴 더 받는다', async () => {
+  let n = 0
+  const fetchImpl = async () => {
+    const body = n++ < 2 ? '<html><head><base href="https://www.google.com/recaptcha/challengepage/"></head></html>' : '<html>본문 tendency to limit</html>'
+    return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body}
+  }
+  const page = await fetchText('https://pmc.ncbi.nlm.nih.gov/articles/PMC1/', {fetchImpl, quote: 'tendency to limit', challengeDelay: 0})
+  assert.ok(page.ok && quoteIn(page.text, 'tendency to limit'))
+  assert.equal(n, 3)
+})
