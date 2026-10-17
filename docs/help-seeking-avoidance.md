@@ -8,16 +8,25 @@
 
 2006년 Clegg 등은 대학 교직원이 학생들에게 지원받을 기회를 열어 두었다고 여기는데도 학생들이 그 지원을 쓰지 않는다고 적었다. [F1]
 
-2026년 브런치 에세이의 저자는 자신이 도와 달라는 말을 잘 못한다고 적었다. [F2]
+2010년 Gulliver 등의 체계적 문헌고찰에서 젊은이들은 낙인과 당혹감, 증상을 알아차리기 어려움, 혼자 해결하려는 선호를 정신건강 도움 요청의 가장 중요한 장벽으로 꼽았다. [F2]
+
+2012년 영어 포럼 게시글의 글쓴이는 무언가를 해 달라고 부탁하면 상대에게 큰 짐을 지우는 것 같다고 적었다. 2023년 클리앙 게시글의 글쓴이는 민폐라고 생각해서 일을 안 하면 안 했지 도와 달라는 말은 하지 않는다고 적었다. [F3][F4]
+
+2026년 브런치 에세이의 저자는 자신이 도와 달라는 말을 잘 못한다고 적었다. [F5]
 
 # 조건
 
-2006년 F1 은 대학에서 교직원이 지원을 제공한다고 여기는 상황을 다룬다. [F1]
+2006년 F1 은 대학에서 교직원이 지원을 제공한다고 여기는 상황을 다룬다. 2010년 F2 는 정신건강 문제를 겪는 젊은이의 도움 요청을 다룬다. [F1][F2]
+
+2012년 F3 와 2023년 F4 의 글쓴이들은 도움을 청하지 않는 이유로 상대에게 지우는 부담을 든다. [F3][F4]
 
 # 파편
 
 - F1 [학술] "despite their perception that they offer students opportunities for support, students do not take advantage of them" (교직원들은 학생들에게 지원받을 기회를 준다고 여기지만 학생들은 그 기회를 쓰지 않는다) — Sue Clegg, Sally Bradley, Karen Smith, "'I've had to swallow my pride': help seeking and self-esteem", Higher Education Research and Development, 2006, https://uhra.herts.ac.uk/id/eprint/23751/, 2026-10-17 접속
-- F2 [매체] "나는 도와달라는 말을 잘 못한다." — 달조각, 「도움은 왜 자존심을 건드리는가」, 브런치, 2026-06-28, https://brunch.co.kr/@beliebt83/8, 2026-10-17 접속
+- F2 [학술] "Young people perceived stigma and embarrassment, problems recognising symptoms (poor mental health literacy), and a preference for self-reliance as the most important barriers to help-seeking." (젊은이들은 낙인과 당혹감, 증상 인식의 어려움(낮은 정신건강 이해력), 자립 선호를 도움 요청의 가장 중요한 장벽으로 인식했다) — Amelia Gulliver, Kathleen M. Griffiths, Helen Christensen, "Perceived barriers and facilitators to mental health help-seeking in young people: a systematic review", BMC Psychiatry 10:113, 2010-12-30, https://pmc.ncbi.nlm.nih.gov/articles/PMC3022639/, 2026-10-17 접속
+- F3 [SNS] "It also feels like I am imposing a huge burden on the other person by asking them to do something for me" (무언가를 해 달라고 부탁하면 상대에게 큰 짐을 지우는 것 같은 기분도 든다) — TypologyCentral 포럼 게시글, 2012-11-15, https://www.typologycentral.com/threads/i-hate-asking-for-help.59671/, 2026-10-17 접속
+- F4 [SNS] "저는 도와 달라고 하지 않는 성격이라 그렇습니다. 일을 안 하면 안 했지, 도와달라는 말은 안 합니다. 민폐라고 생각했거든요." — 클리앙 모두의공원 게시글, 2023-06-05, https://www.clien.net/service/board/park/18116516, 2026-10-17 접속
+- F5 [매체] "나는 도와달라는 말을 잘 못한다." — 달조각, 「도움은 왜 자존심을 건드리는가」, 브런치, 2026-06-28, https://brunch.co.kr/@beliebt83/8, 2026-10-17 접속
 
 # 관계
 
