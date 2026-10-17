@@ -1,9 +1,73 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T00:33:36.070Z",
-  "nextSeq": 20,
-  "stops": 16,
+  "savedAt": "2026-10-17T04:56:54.459Z",
+  "nextSeq": 36,
+  "stops": 17,
   "items": [
+    {
+      "id": "607f79e9",
+      "title": "자기 침묵과 보상을 기다리며 불만 없이 일하기의 관계",
+      "priority": 50,
+      "note": "self-silencing 과 silent-work-awaiting-reward: 불만을 말하지 않는 점이 겹침. 상위 간선 근거 파편 필요",
+      "createdAt": "2026-10-17T04:33:16.875Z",
+      "seq": 21
+    },
+    {
+      "id": "e687c81b",
+      "title": "불만 제기 회피와 자기 침묵의 관계",
+      "priority": 50,
+      "note": "non-complaining F1(Salo&Makkonen 2014) 'remain silent' 와 self-silencing. 상위 또는 무관 판단할 근거 파편 필요",
+      "createdAt": "2026-10-17T04:38:03.261Z",
+      "seq": 23
+    },
+    {
+      "id": "136316b4",
+      "title": "아파도 출근하기: 학술 파편 보강",
+      "priority": 50,
+      "note": "sickness-presenteeism 은 매체 2007, 공공 2022 뿐. 덴마크 2017 연구(보건복지부 보도자료 각주 언급, 아파도 일한 근로자의 재발 확률 53% 높음) 원문 확인 후보. 결과 간선 후보",
+      "createdAt": "2026-10-17T04:41:23.716Z",
+      "seq": 25
+    },
+    {
+      "id": "4639551e",
+      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
+      "priority": 50,
+      "note": "concealing-poverty 와 threat-in-receiving-help: 도움이 필요한 형편을 숨기는 것과 도움 수용의 자존감 위협. 원인 간선 근거 파편 필요",
+      "createdAt": "2026-10-17T04:45:05.245Z",
+      "seq": 28
+    },
+    {
+      "id": "c32abb9f",
+      "title": "술을 마신 뒤의 안도와 감정 변화의 어긋남",
+      "priority": 50,
+      "note": "drinking-to-cope 보강: PMC8480418 초록은 DTC 에서 안도는 보고되나 우울·불안은 줄지 않았다고 적음. 같은 출처라 다른 출처 필요",
+      "createdAt": "2026-10-17T04:52:30.306Z",
+      "seq": 32
+    },
+    {
+      "id": "e8682835",
+      "title": "외로움과 혼밥 감정, 집 안 은둔의 관계",
+      "priority": 50,
+      "note": "loneliness 와 eating-alone-feelings, social-withdrawal-at-home. 원인/결과 간선 근거 파편 필요",
+      "createdAt": "2026-10-17T04:55:14.847Z",
+      "seq": 34
+    },
+    {
+      "id": "7dfb641b",
+      "title": "외로움: 학술 또는 문학 파편 보강, 다른 시기",
+      "priority": 50,
+      "note": "loneliness 는 2018 공공, 2019 매체 뿐. 10년 이상 떨어진 시기의 파편 필요",
+      "createdAt": "2026-10-17T04:55:14.966Z",
+      "seq": 35
+    },
+    {
+      "id": "baa1ed23",
+      "title": "dev: rebase 때 dev/sources.json 충돌을 손으로 합친다",
+      "priority": 40,
+      "note": "2026-10-17 회차에서 sickness-presenteeism, retail-therapy, drinking-to-cope 를 rebase 할 때 세 번 sources.json 충돌을 URL 키 합집합(마지막 확인일이 늦은 쪽 우선)으로 손으로 풀었다. merge 명령 또는 .gitattributes merge driver 후보",
+      "createdAt": "2026-10-17T04:52:42.758Z",
+      "seq": 33
+    },
     {
       "id": "47188408",
       "title": "기준점 의존",
@@ -83,6 +147,62 @@
       "note": "disposition-effect F1 초록: 심적 회계, 후회 회피, 자기통제, 세금 고려를 틀의 요소로 적음. 원인 후보",
       "createdAt": "2026-10-17T00:33:30.870Z",
       "seq": 19
+    },
+    {
+      "id": "280af022",
+      "title": "참아 온 불만이 자극을 받아 터져 나오기",
+      "priority": 10,
+      "note": "빈처(위키문헌) 아내가 T의 양산에 자극을 받아 참았던 말을 꺼냄. self-silencing 의 결과 후보",
+      "createdAt": "2026-10-17T04:33:16.992Z",
+      "seq": 22
+    },
+    {
+      "id": "4a74fbdf",
+      "title": "불만을 말하지 않고 거래를 끊기 (조용한 이탈)",
+      "priority": 10,
+      "note": "non-complaining F1 의 switch, quit usage. 블라인드 댓글에도 '다신 안감'. 결과 후보",
+      "createdAt": "2026-10-17T04:38:03.380Z",
+      "seq": 24
+    },
+    {
+      "id": "a1dbebe0",
+      "title": "소득 상실 우려",
+      "priority": 10,
+      "note": "보건복지부 2022-01-19 상병수당 보도자료: 감염병 증상에도 소득 상실 우려로 출근. sickness-presenteeism 의 원인 후보",
+      "createdAt": "2026-10-17T04:41:23.838Z",
+      "seq": 26
+    },
+    {
+      "id": "f75248b9",
+      "title": "도움 요청 회피",
+      "priority": 10,
+      "note": "threat-in-receiving-help 의 F2(Fisher&Nadler 1976) 자존감 위협 모형. 도움을 구하지 않는 행동은 별개 현상 후보, 원인 간선 후보",
+      "createdAt": "2026-10-17T04:42:16.198Z",
+      "seq": 27
+    },
+    {
+      "id": "48a7bab1",
+      "title": "구매 결정 미루기로 충동 소비 늦추기",
+      "priority": 10,
+      "note": "네이트판 375614092(2026-09-08): 장바구니에 담아만 두고 하루 뒤 다시 보면 판단이 된다. retail-therapy 와 긴장 후보",
+      "createdAt": "2026-10-17T04:49:38.435Z",
+      "seq": 29
+    },
+    {
+      "id": "dbf67421",
+      "title": "미루기",
+      "priority": 10,
+      "note": "last-minute-tax-filing, delaying-message-replies, delaying-bad-news 의 상위 후보. 일반 미루기 문서 없음. NBC 2022 제목이 procrastinators 라 부름",
+      "createdAt": "2026-10-17T04:51:17.776Z",
+      "seq": 30
+    },
+    {
+      "id": "8a6aac00",
+      "title": "기분 회복 행동",
+      "priority": 10,
+      "note": "drinking-to-cope 와 retail-therapy 의 상위 후보(mood repair). Atalay&Meloy 2011 초록 'repair a bad mood', Wycoff 2021 'relieve negative affective states'",
+      "createdAt": "2026-10-17T04:52:30.184Z",
+      "seq": 31
     }
   ]
 }
