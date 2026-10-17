@@ -738,5 +738,10 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://link.springer.com/article/10.1007/s12160-010-9210-8": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "UNREACHABLE"
   }
 }
