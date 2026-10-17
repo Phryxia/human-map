@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T13:00:32.005Z",
-  "nextSeq": 77,
-  "stops": 20,
+  "savedAt": "2026-10-17T15:04:27.657Z",
+  "nextSeq": 104,
+  "stops": 21,
   "items": [
     {
-      "id": "17117046",
-      "title": "dev: source-check 가 Springer/BMC 의 3KB Client Challenge 페이지를 NOT_FOUND 로 판정한다",
+      "id": "148b1d20",
+      "title": "dev: validate 의 줄임표 WARN 이 원문 자체에 든 줄임표를 잡는다",
       "priority": 60,
-      "note": "link.springer.com/article/10.1007/s12160-010-9210-8 와 bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-10-113: 브라우저형 UA 로 200, 3036바이트 '<title>Client Challenge</title>' 페이지, curl UA 로는 429. 봇 확인 패턴(CHALLENGE_PATTERNS)에 Client Challenge 를 넣어 UNREACHABLE 로 판정해야 한다. 2026-10-17 help-seeking-avoidance 는 PMC3022639 로 바꿔 썼다",
-      "createdAt": "2026-10-17T12:44:57.353Z",
-      "seq": 73
+      "note": "delaying-message-replies:26 F4(지식iN 2026-06-28) 원문 '힘들어요… 미루고미루다가' 와 끝의 '..' 는 원글의 문장부호이고 인용을 자른 것이 아니다. source-check VERIFIED. 원문의 시작이나 끝이 줄임표일 때만 잡도록 좁히는 안. 오탐 사례 하나 더 필요(직녀성 제6장 '신세만저서……' 대목도 후보)",
+      "createdAt": "2026-10-17T14:59:30.571Z",
+      "seq": 101
     },
     {
       "id": "607f79e9",
@@ -75,6 +75,70 @@
       "note": "procrastination 보강: Steel 2007 Psychological Bulletin 'voluntarily delay an intended course of action despite expecting to be worse off'. PubMed 쿠키 챌린지, PMC9029680 reCAPTCHA, psycnet 403 이라 HTML 판 못 구함",
       "createdAt": "2026-10-17T12:53:48.156Z",
       "seq": 75
+    },
+    {
+      "id": "b4f3796f",
+      "title": "부채감과 도움받을 때의 자존감 위협의 관계",
+      "priority": 50,
+      "note": "W Korea 2025-11-30 기사: '받은 만큼 돌려줄 자신이 없다는 불안, 혹은 받은 호의에 내가 충분히 가치가 없다는 생각' (자존감이 낮을수록). indebtedness 와 threat-in-receiving-help 간선 근거 파편 필요. 같은 기사는 이미 indebtedness F5 라 다른 출처 필요",
+      "createdAt": "2026-10-17T14:39:15.970Z",
+      "seq": 92
+    },
+    {
+      "id": "88e4d3e6",
+      "title": "부채감: 친구·가족 호의의 죄책감 조건",
+      "priority": 50,
+      "note": "Gao 외 2024 PMC10762097 Discussion: 'favors from friends and family ... can also elicit guilt in a beneficiary who may feel that they have burdened a benefactor'. 같은 출처는 이미 F3 라 다른 출처로 조건 보강. He 외 2022 PMC8965834 의 사회적 거리 조절 결과도 후보",
+      "createdAt": "2026-10-17T14:39:16.105Z",
+      "seq": 93
+    },
+    {
+      "id": "8884e399",
+      "title": "짐이 되기 싫은 마음과 도움 요청 회피의 관계",
+      "priority": 50,
+      "note": "self-perceived-burden F1(Cahill 2009): 자녀에게 짐을 지워선 안 된다는 생각. help-seeking-avoidance 원인 간선 후보, 'because' 를 말하는 근거 파편 필요. Jahn 외 2013 PMC3809949: 배우자 대 자녀에 따른 부담감 차이(조건 후보, 원문 200자 넘음)",
+      "createdAt": "2026-10-17T14:52:15.940Z",
+      "seq": 94
+    },
+    {
+      "id": "7c76f309",
+      "title": "짐이 되기 싫은 마음: 10년 이상 떨어진 시기 파편",
+      "priority": 50,
+      "note": "self-perceived-burden 파편이 2009~2026. 2025 장기요양실태조사 '다른 사람의 도움을 받는 것이 꺼려져서 39.6%' 는 검색 요약에만 있음, HTML 원문 확인 필요. 영국 Anchor 조사 '77% worry about burdening' 미확인",
+      "createdAt": "2026-10-17T14:52:16.085Z",
+      "seq": 95
+    },
+    {
+      "id": "b5a768cd",
+      "title": "구직 단념: 경기 악화 조건과 전체 연령 쉬었음 이유",
+      "priority": 50,
+      "note": "index.go.kr idxCd=1494 '경기악화시 구직단념자가 증가하더라도 실업률이 거의 증가하지 않을 수 있음'(같은 출처라 다른 출처 필요). 뉴시스 2025-11-05 전체 연령 '몸이 좋지 않아서'(34.9%)는 같은 출처. 국가데이터처 보도자료 원문 HTML 미확보",
+      "createdAt": "2026-10-17T14:56:57.389Z",
+      "seq": 97
+    },
+    {
+      "id": "4c71248e",
+      "title": "상습 지각과 미루기의 관계",
+      "priority": 50,
+      "note": "chronic-lateness 와 procrastination: 준비를 미루는 모습. 원인 또는 상위 간선 근거 파편 필요. Live Science 2023 기사의 시간 과소추정 대목은 전문가 실명 인용이라 못 씀",
+      "createdAt": "2026-10-17T14:59:15.043Z",
+      "seq": 99
+    },
+    {
+      "id": "3b68934c",
+      "title": "진료 회피와 나쁜 소식 확인 미루기의 관계",
+      "priority": 50,
+      "note": "medical-care-avoidance F3(MPIB 2025): 진료 미루기·검사 결과 안 듣기를 건강 정보 회피로 묶음. delaying-bad-news 의 상위/하위 간선 근거 파편 필요",
+      "createdAt": "2026-10-17T15:04:18.797Z",
+      "seq": 102
+    },
+    {
+      "id": "de61314e",
+      "title": "진료 회피: 2026 암검진 미수검 이유",
+      "priority": 50,
+      "note": "fnnews.com/news/202603121601547430 검색 요약: '건강하다고 생각해서' 43.4%, '시간적 여유가 없어서' 17.4%. 열어서 확인 필요. 공공 파편 후보: 국립암센터 ncc.re.kr, 국가암정보센터 cancer.go.kr 보도자료",
+      "createdAt": "2026-10-17T15:04:18.929Z",
+      "seq": 103
     },
     {
       "id": "baa1ed23",
@@ -307,6 +371,38 @@
       "note": "procrastination F2(Sirois&Pychyl 2013) 'short-term mood repair'. 기분 회복 행동 항목(8a6aac00)과 원인/상위 후보",
       "createdAt": "2026-10-17T12:53:48.278Z",
       "seq": 76
+    },
+    {
+      "id": "bc9297df",
+      "title": "감사 선물 주기",
+      "priority": 10,
+      "note": "indebtedness F4(Oishi 2025 PMC12106001): 감사 선물을 가장 잘 예측한 감정이 부채감. indebtedness 의 결과 간선 후보",
+      "createdAt": "2026-10-17T14:39:15.846Z",
+      "seq": 91
+    },
+    {
+      "id": "e88bb209",
+      "title": "악의적 시기와 적대 행동",
+      "priority": 10,
+      "note": "envy F3(Blatz 2026): malicious envy 가 hostility 를 동반. 하위 현상 후보(양성 시기/악성 시기)",
+      "createdAt": "2026-10-17T14:54:28.912Z",
+      "seq": 96
+    },
+    {
+      "id": "9431bd02",
+      "title": "학습된 무력감",
+      "priority": 10,
+      "note": "giving-up-job-search F1(Falk 외 2006): 실패한 구직이 자신감을 낮추고 구직 포기로 이어짐. 상위 또는 원인 후보",
+      "createdAt": "2026-10-17T14:56:57.515Z",
+      "seq": 98
+    },
+    {
+      "id": "40047652",
+      "title": "계획 오류",
+      "priority": 10,
+      "note": "chronic-lateness F2·F3(익숙한 경로의 시간 과소어림). 시간 과소추정 현상 후보, chronic-lateness 원인 후보",
+      "createdAt": "2026-10-17T14:59:15.183Z",
+      "seq": 100
     }
   ]
 }
