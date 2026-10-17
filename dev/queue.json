@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T20:52:23.135Z",
-  "nextSeq": 129,
-  "stops": 22,
+  "savedAt": "2026-10-17T21:04:03.992Z",
+  "nextSeq": 133,
+  "stops": 23,
   "items": [
     {
       "id": "8dbb0014",
@@ -85,6 +85,22 @@
       "seq": 120
     },
     {
+      "id": "43a5c8fc",
+      "title": "향수와 외로움의 관계",
+      "priority": 50,
+      "note": "Stroebe 2002 (ora.ox.ac.uk uuid:c0a466b9) 초록: ruminations about home and loneliness. homesickness 와 loneliness 관계 후보, 인과 표현인지 원문 확인 필요",
+      "createdAt": "2026-10-17T20:57:50.785Z",
+      "seq": 131
+    },
+    {
+      "id": "aad31662",
+      "title": "화재 경보 반응 지연 (대피 훈련)",
+      "priority": 50,
+      "note": "delayed-evacuation 보강 후보: PolyU ira.lib.polyu.edu.hk/handle/10397/111467 (2025-03) 참가자 약 50% 가 화재 경보 반응을 늦춤. 페이지가 공백을 &#x20; 로 인코딩해 source-check 확인 필요",
+      "createdAt": "2026-10-17T21:02:26.990Z",
+      "seq": 132
+    },
+    {
       "id": "baa1ed23",
       "title": "dev: rebase 때 dev/sources.json 충돌을 손으로 합친다",
       "priority": 40,
@@ -107,14 +123,6 @@
       "note": "urge-to-cancel-plans 보조 후보: 82cook 자유게시판 2023-10-24 당일 약속 취소 자주하는 사람들 글. 원문 대목 미확보",
       "createdAt": "2026-10-15T04:34:39.843Z",
       "seq": 5
-    },
-    {
-      "id": "54b0cc3c",
-      "title": "빈처 아내의 어려움 말하지 않기",
-      "priority": 10,
-      "note": "현진건 빈처 위키문헌: 예술가의 처 노릇을 하려는 결심으로 생활난을 입 밖에 내지 않음. 원문 재확인 필요",
-      "createdAt": "2026-10-15T12:37:26.284Z",
-      "seq": 9
     },
     {
       "id": "89fa5a0a",
@@ -291,14 +299,6 @@
       "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
       "createdAt": "2026-10-17T11:55:36.323Z",
       "seq": 64
-    },
-    {
-      "id": "51cd3a83",
-      "title": "힘든 사정을 남에게 털어놓지 않기",
-      "priority": 10,
-      "note": "네이트판 358803161(2021-04-01) '남한테 약한 사람처럼 보이고 싶지도 않고'. help-seeking-avoidance, self-silencing 과 관계 후보",
-      "createdAt": "2026-10-17T12:45:02.818Z",
-      "seq": 74
     },
     {
       "id": "d1a021d5",
