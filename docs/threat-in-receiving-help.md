@@ -10,6 +10,8 @@
 
 1976년 Fisher 와 Nadler 의 실험에서 자원이 많은 상대에게 도움을 받은 참가자는 도움을 받지 않은 참가자보다 자신을 덜 긍정적으로 보았고 스스로 해결하는 행동을 더 하는 경향을 보였다. [F2]
 
+2025년 Nakahara 의 초록이 소개하는 기존 이론의 가정에서 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림한다. [F3]
+
 # 조건
 
 1976년 F2 의 실험에서 자원이 적은 상대에게 도움을 받은 참가자는 반대로 자신을 더 긍정적으로 보았고 스스로 해결하는 행동을 덜 했다. [F2]
@@ -20,6 +22,7 @@
 
 - F1 [문학] "설혹 주는 감자를 안 받아먹는 것이 실례라 하면, 주면 그냥 주었지 '느 집엔 이거 없지.'는 다 뭐냐. 그렇잖아도 저희는 마름이고 우리는 그 손에서 배재를 얻어 땅을 부치므로 일상 굽실거린다." — 김유정, 「동백꽃」, 1936, https://ko.wikisource.org/wiki/동백꽃, 2026-10-17 접속
 - F2 [학술] "subjects who received aid from a high resource donor perceived themselves less positively and tended to engage in more self-help behavior" (자원이 많은 기부자에게 도움을 받은 참가자는 자신을 덜 긍정적으로 지각했고 스스로 돕는 행동을 더 하는 경향을 보였다) — Jeffrey D. Fisher, Arie Nadler, "Effect of donor resources on recipient self-esteem and self-help", Journal of Experimental Social Psychology, 1976-03, https://cris.tau.ac.il/en/publications/effect-of-donor-resources-on-recipient-self-esteem-and-self-help-2/, 2026-10-17 접속
+- F3 [학술] "Previous theoretical assumptions show that individuals with high self-esteem and instability would estimate the ego-threat associated with help-seeking as high and suppress help-seeking" (기존 이론의 가정에 따르면 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하여 도움 요청을 억제한다) — Jun Nakahara, "Effects of the level and instability of self-esteem on help-seeking and its orientation", Innovation in Aging 9(Suppl 2), 2025-12-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC12760982/, 2026-10-17 접속
 
 # 관계
 
@@ -37,7 +40,7 @@
 
 ## 결과
 
-없음.
+- [도움 요청 회피](help-seeking-avoidance.md) [F3]
 
 ## 긴장
 
