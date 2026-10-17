@@ -595,5 +595,29 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2825742/": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3999031/": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://kormedi.com/2781982/": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://www.index.go.kr/unify/idx-info.do?idxCd=2767": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   }
 }
