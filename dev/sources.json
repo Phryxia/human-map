@@ -743,5 +743,11 @@
     "first": "2026-10-17",
     "last": "2026-10-17",
     "result": "UNREACHABLE"
+  },
+  "https://www.fnnews.com/news/202603121601547430": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   }
 }
