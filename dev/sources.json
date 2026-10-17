@@ -61,15 +61,15 @@
   },
   "https://www.jjan.kr/article/20180904648824": {
     "first": "2026-10-15",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://mediahub.seoul.go.kr/archives/2004224": {
     "first": "2026-10-15",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11323640/": {
     "first": "2026-10-15",
@@ -130,9 +130,9 @@
   },
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8682511/": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3057069/": {
     "first": "2026-10-16",
@@ -172,21 +172,21 @@
   },
   "https://www.fnnews.com/news/202111121450101495": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://jknpa.org/DOIx.php?id=10.4306%2Fjknpa.2023.62.4.164": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://news.seoul.go.kr/welfare/archives/577132": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://api.crossref.org/works/10.1111/j.1540-6261.1985.tb05002.x": {
     "first": "2026-10-17",
@@ -549,6 +549,18 @@
     "lastVerified": "2026-10-17"
   },
   "https://doctornow.co.kr/content/qna/16650f6d862241dc8ea87398d164d731": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://kormedi.com/2707535/": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://www.kihasa.re.kr/hswr/v.45/3/383/%EA%B3%A0%EB%A6%BD%EC%9D%80%EB%91%94+%EC%B2%AD%EB%85%84%EC%9D%98+%EC%84%B1%EC%9D%B8%EA%B8%B0+%ED%9B%84+%EB%B6%80%EC%A0%95%EC%A0%81+%EC%83%9D%EC%95%A0%EA%B2%BD%ED%97%98+%EC%9C%A0%ED%98%95%ED%99%94": {
     "first": "2026-10-17",
     "last": "2026-10-17",
     "result": "VERIFIED",
