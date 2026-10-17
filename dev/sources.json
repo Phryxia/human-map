@@ -834,5 +834,17 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://news.seoul.go.kr/gov/archives/540969": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://www.smarttoday.co.kr/ko-kr/articles/28343": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   }
 }
