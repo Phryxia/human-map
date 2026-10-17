@@ -74,3 +74,13 @@ test('순환 탐지와 check-cycle', () => {
   const docs = loadAll(makeRepo({a: makeDoc({rel: {상위: ['- [비](b.md)']}}), b: makeDoc({title: '비', rel: {하위: ['- [제목](a.md)']}})}))
   assert.deepEqual(edgeMap(docs, '상위').get('a'), ['b'])
 })
+
+test('줄임표 WARN 은 출처에서 원문 그대로 확인된 파편에는 뜨지 않는다', () => {
+  const q = (n, quote, url) => `- F${n} [SNS] "${quote}" — 네이버 지식iN 게시글, 2026-06-28, ${url}, 2026-10-17 접속`
+  const frags = [frag(1, '학술', '2001', 'https://a.example/1'), q(2, '힘들어요… 미루고미루다가 마음 먹고 봐야지', 'https://b.example/v'), q(3, '신세만저서……', 'https://b.example/n')]
+  const docs = loadAll(makeRepo({a: makeDoc({body: '문단. [F1][F2][F3]', frags})}))
+  const warns = s => validateAll(docs, s).filter(r => r.msg.includes('줄임표')).map(r => r.ln)
+  assert.equal(warns({}).length, 2)
+  const sources = {'https://b.example/v': {result: 'VERIFIED', lastVerified: '2026-10-17'}, 'https://b.example/n': {result: 'NOT_FOUND'}}
+  assert.deepEqual(warns(sources), [warns({})[1]])
+})

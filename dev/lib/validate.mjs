@@ -21,7 +21,8 @@ export const accountOf = url => {
 const DATE_OK = d => d === '발행일 미상' || /^\d{4}(-\d{2}(-\d{2})?)?$/.test(d)
 const sortKey = d => d === '발행일 미상' ? '' : d
 
-export function validateDoc(doc, docs) {
+// sources 는 dev/sources.json 의 URL 별 기록. VERIFIED 인 출처의 원문은 출처에 글자 그대로 있으므로 줄임표도 원글의 것이다.
+export function validateDoc(doc, docs, sources = {}) {
   const out = []
   const err = (ln, msg) => out.push({level: 'ERROR', id: doc.id, ln, msg})
   const warn = (ln, msg) => out.push({level: 'WARN', id: doc.id, ln, msg})
@@ -43,7 +44,7 @@ export function validateDoc(doc, docs) {
     if (!KINDS.includes(f.kind)) err(f.ln, `종류가 다섯 중 하나가 아니다: ${f.kind}`)
     if (!DATE_OK(f.date)) err(f.ln, `발행일 형식: ${f.date}`)
     if ([...f.quote].length > 200) err(f.ln, `원문이 200자를 넘는다 (${[...f.quote].length})`)
-    if (/…|\.\.\.$/.test(f.quote)) warn(f.ln, '원문이 줄임표를 담고 있다')
+    if (/…|\.\.\.$/.test(f.quote) && sources[f.url]?.result !== 'VERIFIED') warn(f.ln, '원문이 줄임표를 담고 있다')
     if (i > 0 && sortKey(f.date) < sortKey(doc.fragments[i - 1].date)) err(f.ln, '파편이 발행일 순이 아니다')
     if (f.kind === 'SNS' && (/@/.test(f.biblio) || !/^\S+(?: \S+)? (게시글|댓글)$/.test(f.biblio))) err(f.ln, `SNS 서지는 플랫폼명과 글의 종류만 쓴다: ${f.biblio}`)
   })
@@ -83,9 +84,9 @@ export function validateDoc(doc, docs) {
   return out
 }
 
-export function validateAll(docs) {
+export function validateAll(docs, sources = {}) {
   const out = []
-  for (const d of docs.values()) out.push(...validateDoc(d, docs))
+  for (const d of docs.values()) out.push(...validateDoc(d, docs, sources))
   const byUrl = new Map(), byAcct = new Map()
   for (const d of docs.values()) for (const f of d.fragments) {
     byUrl.set(f.url, (byUrl.get(f.url) ?? new Set()).add(d.id))

@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 // 그래프 검사와 조회. 사용법은 CLAUDE.md 7절.
+import fs from 'node:fs'
 import {loadAll, KINDS, AXES} from './lib/doc.mjs'
 import {edgeMap, findCycles, wouldCycle} from './lib/graph-lib.mjs'
 import {validateAll} from './lib/validate.mjs'
@@ -10,7 +11,8 @@ const docs = loadAll()
 
 switch (cmd) {
   case 'validate': {
-    const res = validateAll(docs)
+    const src = new URL('./sources.json', import.meta.url)
+    const res = validateAll(docs, fs.existsSync(src) ? JSON.parse(fs.readFileSync(src, 'utf8')) : {})
     for (const r of res) console.log(`${r.level} ${r.id}${r.ln ? ':' + r.ln : ''} ${r.msg}`)
     const errs = res.filter(r => r.level === 'ERROR').length
     console.log(`${docs.size} docs, ${errs} errors, ${res.length - errs} warnings`)
