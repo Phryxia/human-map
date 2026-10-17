@@ -1,9 +1,25 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T11:35:37.652Z",
-  "nextSeq": 47,
-  "stops": 18,
+  "savedAt": "2026-10-17T12:02:31.442Z",
+  "nextSeq": 69,
+  "stops": 19,
   "items": [
+    {
+      "id": "c4d6ca0c",
+      "title": "dev: source-check 가 블록 태그 사이에 공백을 넣지 않아 문단을 넘는 원문을 NOT_FOUND 로 판정한다",
+      "priority": 60,
+      "note": "kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069 (2007-09-01): 원문 '학교 선생님들이 다 안다든지 이러면 완전 쪽팔리잖아요' 가 '...안다든지</P><P>이러면...' 로 나뉘어 있어 추출 텍스트가 '안다든지이러면' 이 된다. 2026-10-17 concealing-failure 에서 이 파편을 뺐다. P, BR, DIV, LI 경계에 공백을 넣어야 한다",
+      "createdAt": "2026-10-17T11:52:34.540Z",
+      "seq": 61
+    },
+    {
+      "id": "0362a798",
+      "title": "dev: source-check 가 Springer 의 3KB 대체 페이지를 NOT_FOUND 로 판정한다",
+      "priority": 60,
+      "note": "link.springer.com/article/10.1007/s12160-010-9210-8: curl 명령(UA curl/8.5.0)은 원문 'raising the desire to reconnect' 를 담은 전체 페이지를 받지만 node fetch(같은 UA, NODE_USE_ENV_PROXY=1)는 200, 3036바이트 페이지를 받는다. 봇 확인 패턴에 넣거나 요청 헤더를 curl 과 맞춰야 한다. 2026-10-17 loneliness 보강에서 이 파편을 쓰지 못했다",
+      "createdAt": "2026-10-17T11:57:40.932Z",
+      "seq": 65
+    },
     {
       "id": "607f79e9",
       "title": "자기 침묵과 보상을 기다리며 불만 없이 일하기의 관계",
@@ -19,14 +35,6 @@
       "note": "non-complaining F1(Salo&Makkonen 2014) 'remain silent' 와 self-silencing. 상위 또는 무관 판단할 근거 파편 필요",
       "createdAt": "2026-10-17T04:38:03.261Z",
       "seq": 23
-    },
-    {
-      "id": "136316b4",
-      "title": "아파도 출근하기: 학술 파편 보강",
-      "priority": 50,
-      "note": "sickness-presenteeism 은 매체 2007, 공공 2022 뿐. 덴마크 2017 연구(보건복지부 보도자료 각주 언급, 아파도 일한 근로자의 재발 확률 53% 높음) 원문 확인 후보. 결과 간선 후보",
-      "createdAt": "2026-10-17T04:41:23.716Z",
-      "seq": 25
     },
     {
       "id": "4639551e",
@@ -53,14 +61,6 @@
       "seq": 34
     },
     {
-      "id": "7dfb641b",
-      "title": "외로움: 학술 또는 문학 파편 보강, 다른 시기",
-      "priority": 50,
-      "note": "loneliness 는 2018 공공, 2019 매체 뿐. 10년 이상 떨어진 시기의 파편 필요",
-      "createdAt": "2026-10-17T04:55:14.966Z",
-      "seq": 35
-    },
-    {
       "id": "f066c636",
       "title": "답장 미루기와 나쁜 소식 확인 미루기 관계",
       "priority": 50,
@@ -69,12 +69,44 @@
       "seq": 37
     },
     {
-      "id": "e53591e3",
-      "title": "실직 사실 숨기기 보강: 학술 파편",
+      "id": "dd55dfd2",
+      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
       "priority": 50,
-      "note": "concealing-job-loss 는 확인됨 2개뿐. 후보: Peterie 외 2019 Sociology(scholars.hkbu.edu.hk, 수치심 관리로 관계망에서 물러남), 이란 'Social Shame of Unemployment' jspi.khu.ac.ir/article_8282_en.html(연결 실패), 2025 중국 가짜 사무실 보도",
-      "createdAt": "2026-10-17T04:55:51.510Z",
-      "seq": 38
+      "note": "phone-call-fear F6 원문 페이지(accesson 2024 콜 포비아 척도)의 '걱정 및 반추 요인'. replaying-conversations-afterward 와 상위/원인 간선 근거 파편 필요",
+      "createdAt": "2026-10-17T11:39:58.504Z",
+      "seq": 58
+    },
+    {
+      "id": "8a421a7a",
+      "title": "실패 사실 숨기기: SNS 파편 보강",
+      "priority": 50,
+      "note": "concealing-failure 는 문학 1891, 학술 2024, SNS 2026 셋. 후보: kin 56416069(2007 수시 불합격이 학교에 알려질까 쪽팔림, dev 수정 뒤 재확인), kin 493870652(2026-06-15 이력서 150곳 탈락, 친구에게 근황 말하기 쪽팔려 멀리함, 원문에 '..')",
+      "createdAt": "2026-10-17T11:52:34.677Z",
+      "seq": 62
+    },
+    {
+      "id": "450ba55f",
+      "title": "외로움: 학술 파편 보강",
+      "priority": 50,
+      "note": "후보: Hawkley&Cacioppo 2010 Ann Behav Med (springer s12160-010-9210-8) 'Perceptions of social isolation, or loneliness, increase vigilance for threat and heighten feelings of vulnerability while also raising the desire to reconnect.' source-check 수정 뒤 재확인. Sugawara 외 2026 Ann Gen Psychiatry (springer s12991-026-00685-y) 고립 없는 외로움",
+      "createdAt": "2026-10-17T11:57:41.057Z",
+      "seq": 66
+    },
+    {
+      "id": "26065e6e",
+      "title": "도움 요청 회피와 도움받을 때의 자존감 위협의 관계",
+      "priority": 50,
+      "note": "help-seeking-avoidance F1(Clegg 외 2006 uhra.herts.ac.uk/id/eprint/23751, 제목 'I've had to swallow my pride': help seeking and self-esteem)과 threat-in-receiving-help F2(Fisher&Nadler 1976). 원인 간선 근거 파편 필요. 브런치 beliebt83/8 의 '도움을 요청하는 순간 내가 부족한 사람이 되는 것 같았다' 는 여러 요소로 쪼개져 있음",
+      "createdAt": "2026-10-17T12:02:20.268Z",
+      "seq": 67
+    },
+    {
+      "id": "a3ce652b",
+      "title": "도움 요청 회피: SNS 파편과 이유 대목 보강",
+      "priority": 50,
+      "note": "help-seeking-avoidance 는 확인됨 2개뿐(학술 2006, 매체 2026). 공개 게시판 1인칭 글 필요",
+      "createdAt": "2026-10-17T12:02:20.408Z",
+      "seq": 68
     },
     {
       "id": "baa1ed23",
@@ -189,14 +221,6 @@
       "seq": 26
     },
     {
-      "id": "f75248b9",
-      "title": "도움 요청 회피",
-      "priority": 10,
-      "note": "threat-in-receiving-help 의 F2(Fisher&Nadler 1976) 자존감 위협 모형. 도움을 구하지 않는 행동은 별개 현상 후보, 원인 간선 후보",
-      "createdAt": "2026-10-17T04:42:16.198Z",
-      "seq": 27
-    },
-    {
       "id": "48a7bab1",
       "title": "구매 결정 미루기로 충동 소비 늦추기",
       "priority": 10,
@@ -237,14 +261,6 @@
       "seq": 40
     },
     {
-      "id": "d014cce4",
-      "title": "거절당한 사실을 창피해 숨기는 거짓말",
-      "priority": 10,
-      "note": "채만식 레디메이드 인생(위키문헌, 1934-05): P가 K사장에게 거절당한 이야기가 창피해 시치미를 뗀다. 문학 파편 후보",
-      "createdAt": "2026-10-17T04:37:57.236Z",
-      "seq": 41
-    },
-    {
       "id": "936cfd41",
       "title": "메신저 빠른 응답 의무감",
       "priority": 10,
@@ -283,6 +299,38 @@
       "note": "Peterie 외 2019 Sociology 53(6): withdrawal from social networks to manage stigma-related shame. concealing-poverty F3 와 비슷한 물러남",
       "createdAt": "2026-10-17T04:55:51.631Z",
       "seq": 46
+    },
+    {
+      "id": "c3541bfb",
+      "title": "통화 전 할 말을 대본으로 적어 두기",
+      "priority": 10,
+      "note": "phone-call-fear F3(네이트판 354708830), 클리앙 park/12509490 댓글 '전화하기전에 예행연습'. 하위 후보",
+      "createdAt": "2026-10-17T11:39:58.634Z",
+      "seq": 59
+    },
+    {
+      "id": "7b5cc18d",
+      "title": "모르는 번호의 전화 받지 않기",
+      "priority": 10,
+      "note": "phone-call-fear F5(twig24 2023 알바천국 조사 39.2%), 한경비즈니스 2024-06-07 '예상치 못한 전화 = 나쁜 소식 불안'. delaying-bad-news 와 관련 후보",
+      "createdAt": "2026-10-17T11:39:58.757Z",
+      "seq": 60
+    },
+    {
+      "id": "c8d0eed6",
+      "title": "창피한 일을 꾸며 둘러대기",
+      "priority": 10,
+      "note": "심훈 상록수 제14장 위키문헌: 기천이 머슴에게 맞은 것을 창피해 자전거 사고로 꾸며 대고 소문날까 고소도 못 함. Dickens Great Expectations 57장 'ashamed to tell him exactly how I was placed'. concealing-failure 와 관련",
+      "createdAt": "2026-10-17T11:52:34.809Z",
+      "seq": 63
+    },
+    {
+      "id": "e68467b8",
+      "title": "아파도 출근한 뒤의 건강 악화와 병가",
+      "priority": 10,
+      "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
+      "createdAt": "2026-10-17T11:55:36.323Z",
+      "seq": 64
     }
   ]
 }
