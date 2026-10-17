@@ -38,6 +38,7 @@
 - [불만 제기 회피](non-complaining.md)
 - [층간소음 참기](enduring-neighbor-noise.md)
 - [모인 자리에서 말하지 않기](staying-quiet-in-groups.md)
+- [힘든 사정 털어놓지 않기](keeping-hardship-to-oneself.md)
 
 ## 원인
 
