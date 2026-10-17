@@ -26,7 +26,7 @@
 
 ## 상위
 
-없음.
+- [실패 사실 숨기기](concealing-failure.md)
 
 ## 하위
 
