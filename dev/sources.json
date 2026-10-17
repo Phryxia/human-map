@@ -822,5 +822,17 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://ko.wikisource.org/wiki/%EB%A9%94%EB%B0%80%EA%BD%83_%ED%95%84_%EB%AC%B4%EB%A0%B5": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://www.livescience.com/8530-older-people-repeat-stories.html": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   }
 }
