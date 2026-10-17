@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T04:56:54.459Z",
-  "nextSeq": 36,
-  "stops": 17,
+  "savedAt": "2026-10-17T04:58:30.032Z",
+  "nextSeq": 47,
+  "stops": 18,
   "items": [
+    {
+      "id": "ba79b3af",
+      "title": "dev: queue stop 이 동시 세션의 queue.json 을 덮어쓴다",
+      "priority": 100,
+      "note": "2026-10-17 04:3x 세션: 시작 때 stops=16, 10 items 로 서버를 띄웠는데 그사이 원격 94d85a8 이 stops=17, 25 items 를 커밋했다. stop 은 메모리 상태만 써서 다른 세션이 넣은 항목과 pop 을 잃는다. stop 시 원격 queue.json 과 id 기준 병합 필요",
+      "createdAt": "2026-10-17T04:58:13.981Z",
+      "seq": 36
+    },
     {
       "id": "607f79e9",
       "title": "자기 침묵과 보상을 기다리며 불만 없이 일하기의 관계",
@@ -59,6 +67,22 @@
       "note": "loneliness 는 2018 공공, 2019 매체 뿐. 10년 이상 떨어진 시기의 파편 필요",
       "createdAt": "2026-10-17T04:55:14.966Z",
       "seq": 35
+    },
+    {
+      "id": "f066c636",
+      "title": "답장 미루기와 나쁜 소식 확인 미루기 관계",
+      "priority": 50,
+      "note": "delaying-message-replies F4(지식iN 2026-06-28): 안 좋은 말이 왔을까 봐 메시지를 바로 못 연다. delaying-bad-news 의 상위/하위 후보, 근거 파편 더 필요",
+      "createdAt": "2026-10-17T04:46:57.599Z",
+      "seq": 37
+    },
+    {
+      "id": "e53591e3",
+      "title": "실직 사실 숨기기 보강: 학술 파편",
+      "priority": 50,
+      "note": "concealing-job-loss 는 확인됨 2개뿐. 후보: Peterie 외 2019 Sociology(scholars.hkbu.edu.hk, 수치심 관리로 관계망에서 물러남), 이란 'Social Shame of Unemployment' jspi.khu.ac.ir/article_8282_en.html(연결 실패), 2025 중국 가짜 사무실 보도",
+      "createdAt": "2026-10-17T04:55:51.510Z",
+      "seq": 38
     },
     {
       "id": "baa1ed23",
@@ -203,6 +227,70 @@
       "note": "drinking-to-cope 와 retail-therapy 의 상위 후보(mood repair). Atalay&Meloy 2011 초록 'repair a bad mood', Wycoff 2021 'relieve negative affective states'",
       "createdAt": "2026-10-17T04:52:30.184Z",
       "seq": 31
+    },
+    {
+      "id": "c7c37091",
+      "title": "가난 수치심과 가장(pretence)",
+      "priority": 10,
+      "note": "concealing-poverty 원인 후보: Walker 외 2013 JSP 초록 'shame ... variably leading to pretence, withdrawal' (cambridge.org DED0C9DC02D8ABCAA8F177BA3CC477AB). 문장 223자라 다른 대목 필요",
+      "createdAt": "2026-10-17T04:37:56.945Z",
+      "seq": 39
+    },
+    {
+      "id": "0481b19e",
+      "title": "가난을 숨기려는 아이의 또래 관계 회피",
+      "priority": 10,
+      "note": "concealing-poverty F3(ScienceNordic 2013): 처지를 숨기려 스스로 친구 관계에서 빠짐. 결과 간선 후보, 또래 관계 등교 거부 항목과 관련",
+      "createdAt": "2026-10-17T04:37:57.067Z",
+      "seq": 40
+    },
+    {
+      "id": "d014cce4",
+      "title": "거절당한 사실을 창피해 숨기는 거짓말",
+      "priority": 10,
+      "note": "채만식 레디메이드 인생(위키문헌, 1934-05): P가 K사장에게 거절당한 이야기가 창피해 시치미를 뗀다. 문학 파편 후보",
+      "createdAt": "2026-10-17T04:37:57.236Z",
+      "seq": 41
+    },
+    {
+      "id": "936cfd41",
+      "title": "메신저 빠른 응답 의무감",
+      "priority": 10,
+      "note": "윤상석 외 2014 이중언어학 56 초록: 'they appear to feel obligation of responding as quickly as possible'. delaying-message-replies 와 긴장 후보",
+      "createdAt": "2026-10-17T04:46:57.724Z",
+      "seq": 42
+    },
+    {
+      "id": "6b3595b6",
+      "title": "답장 지연 뒤 죄책감",
+      "priority": 10,
+      "note": "delaying-message-replies F3, Substack angelatyler 'im-a-bad-friend' 댓글(2024-07-17) 후보. 결과 간선 후보",
+      "createdAt": "2026-10-17T04:46:57.853Z",
+      "seq": 43
+    },
+    {
+      "id": "ad438c7c",
+      "title": "투표했다고 거짓으로 답하기",
+      "priority": 10,
+      "note": "census.gov cenbr98-04: nonvoters reporting they did vote because they want to show they are civically responsible. not-voting 과 관련, 사회적 바람직성 응답",
+      "createdAt": "2026-10-17T04:51:56.924Z",
+      "seq": 44
+    },
+    {
+      "id": "c86f082c",
+      "title": "외부 정치 효능감 저하",
+      "priority": 10,
+      "note": "Abramson-Aldrich 1982 APSR 초록: 하락 추세가 1960-80 투표율 하락의 2/3~7/10 를 설명. not-voting 원인 간선 후보",
+      "createdAt": "2026-10-17T04:51:57.047Z",
+      "seq": 45
+    },
+    {
+      "id": "f87674e5",
+      "title": "실직 수치심과 관계망에서 물러나기",
+      "priority": 10,
+      "note": "Peterie 외 2019 Sociology 53(6): withdrawal from social networks to manage stigma-related shame. concealing-poverty F3 와 비슷한 물러남",
+      "createdAt": "2026-10-17T04:55:51.631Z",
+      "seq": 46
     }
   ]
 }
