@@ -35,6 +35,7 @@
 ## 하위
 
 - [보상을 기다리며 불만 없이 일하기](silent-work-awaiting-reward.md)
+- [불만 제기 회피](non-complaining.md)
 
 ## 원인
 
