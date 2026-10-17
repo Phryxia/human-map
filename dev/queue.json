@@ -1,88 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T15:04:27.657Z",
-  "nextSeq": 104,
-  "stops": 21,
+  "savedAt": "2026-10-17T17:02:46.466Z",
+  "nextSeq": 121,
+  "stops": 22,
   "items": [
     {
-      "id": "148b1d20",
-      "title": "dev: validate 의 줄임표 WARN 이 원문 자체에 든 줄임표를 잡는다",
+      "id": "094a84b2",
+      "title": "dev: source-check 가 Springer 에서 curl 로는 받는 본문을 봇 확인 페이지로 판정한다",
       "priority": 60,
-      "note": "delaying-message-replies:26 F4(지식iN 2026-06-28) 원문 '힘들어요… 미루고미루다가' 와 끝의 '..' 는 원글의 문장부호이고 인용을 자른 것이 아니다. source-check VERIFIED. 원문의 시작이나 끝이 줄임표일 때만 잡도록 좁히는 안. 오탐 사례 하나 더 필요(직녀성 제6장 '신세만저서……' 대목도 후보)",
-      "createdAt": "2026-10-17T14:59:30.571Z",
-      "seq": 101
-    },
-    {
-      "id": "607f79e9",
-      "title": "자기 침묵과 보상을 기다리며 불만 없이 일하기의 관계",
-      "priority": 50,
-      "note": "self-silencing 과 silent-work-awaiting-reward: 불만을 말하지 않는 점이 겹침. 상위 간선 근거 파편 필요",
-      "createdAt": "2026-10-17T04:33:16.875Z",
-      "seq": 21
-    },
-    {
-      "id": "e687c81b",
-      "title": "불만 제기 회피와 자기 침묵의 관계",
-      "priority": 50,
-      "note": "non-complaining F1(Salo&Makkonen 2014) 'remain silent' 와 self-silencing. 상위 또는 무관 판단할 근거 파편 필요",
-      "createdAt": "2026-10-17T04:38:03.261Z",
-      "seq": 23
-    },
-    {
-      "id": "4639551e",
-      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
-      "priority": 50,
-      "note": "concealing-poverty 와 threat-in-receiving-help: 도움이 필요한 형편을 숨기는 것과 도움 수용의 자존감 위협. 원인 간선 근거 파편 필요",
-      "createdAt": "2026-10-17T04:45:05.245Z",
-      "seq": 28
-    },
-    {
-      "id": "c32abb9f",
-      "title": "술을 마신 뒤의 안도와 감정 변화의 어긋남",
-      "priority": 50,
-      "note": "drinking-to-cope 보강: PMC8480418 초록은 DTC 에서 안도는 보고되나 우울·불안은 줄지 않았다고 적음. 같은 출처라 다른 출처 필요",
-      "createdAt": "2026-10-17T04:52:30.306Z",
-      "seq": 32
-    },
-    {
-      "id": "f066c636",
-      "title": "답장 미루기와 나쁜 소식 확인 미루기 관계",
-      "priority": 50,
-      "note": "delaying-message-replies F4(지식iN 2026-06-28): 안 좋은 말이 왔을까 봐 메시지를 바로 못 연다. delaying-bad-news 의 상위/하위 후보, 근거 파편 더 필요",
-      "createdAt": "2026-10-17T04:46:57.599Z",
-      "seq": 37
-    },
-    {
-      "id": "dd55dfd2",
-      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
-      "priority": 50,
-      "note": "phone-call-fear F6 원문 페이지(accesson 2024 콜 포비아 척도)의 '걱정 및 반추 요인'. replaying-conversations-afterward 와 상위/원인 간선 근거 파편 필요",
-      "createdAt": "2026-10-17T11:39:58.504Z",
-      "seq": 58
-    },
-    {
-      "id": "450ba55f",
-      "title": "외로움: 학술 파편 보강",
-      "priority": 50,
-      "note": "후보: Hawkley&Cacioppo 2010 Ann Behav Med (springer s12160-010-9210-8) 'Perceptions of social isolation, or loneliness, increase vigilance for threat and heighten feelings of vulnerability while also raising the desire to reconnect.' source-check 수정 뒤 재확인. Sugawara 외 2026 Ann Gen Psychiatry (springer s12991-026-00685-y) 고립 없는 외로움",
-      "createdAt": "2026-10-17T11:57:41.057Z",
-      "seq": 66
-    },
-    {
-      "id": "4fecf142",
-      "title": "미루기: 같은 출처 아닌 Steel 2007 정의 대목",
-      "priority": 50,
-      "note": "procrastination 보강: Steel 2007 Psychological Bulletin 'voluntarily delay an intended course of action despite expecting to be worse off'. PubMed 쿠키 챌린지, PMC9029680 reCAPTCHA, psycnet 403 이라 HTML 판 못 구함",
-      "createdAt": "2026-10-17T12:53:48.156Z",
-      "seq": 75
-    },
-    {
-      "id": "b4f3796f",
-      "title": "부채감과 도움받을 때의 자존감 위협의 관계",
-      "priority": 50,
-      "note": "W Korea 2025-11-30 기사: '받은 만큼 돌려줄 자신이 없다는 불안, 혹은 받은 호의에 내가 충분히 가치가 없다는 생각' (자존감이 낮을수록). indebtedness 와 threat-in-receiving-help 간선 근거 파편 필요. 같은 기사는 이미 indebtedness F5 라 다른 출처 필요",
-      "createdAt": "2026-10-17T14:39:15.970Z",
-      "seq": 92
+      "note": "loneliness F2 link.springer.com/article/10.1007/s12160-010-9210-8: curl -A curl/8.5.0 -L 로는 본문(원문 'increase vigilance for threat' 4회)을 받는데 source-check 는 두 번 돌려도 UNREACHABLE(봇 확인 페이지). node fetch 의 TLS 지문 차이 후보. 2026-10-17",
+      "createdAt": "2026-10-17T16:54:29.512Z",
+      "seq": 119
     },
     {
       "id": "88e4d3e6",
@@ -91,14 +19,6 @@
       "note": "Gao 외 2024 PMC10762097 Discussion: 'favors from friends and family ... can also elicit guilt in a beneficiary who may feel that they have burdened a benefactor'. 같은 출처는 이미 F3 라 다른 출처로 조건 보강. He 외 2022 PMC8965834 의 사회적 거리 조절 결과도 후보",
       "createdAt": "2026-10-17T14:39:16.105Z",
       "seq": 93
-    },
-    {
-      "id": "8884e399",
-      "title": "짐이 되기 싫은 마음과 도움 요청 회피의 관계",
-      "priority": 50,
-      "note": "self-perceived-burden F1(Cahill 2009): 자녀에게 짐을 지워선 안 된다는 생각. help-seeking-avoidance 원인 간선 후보, 'because' 를 말하는 근거 파편 필요. Jahn 외 2013 PMC3809949: 배우자 대 자녀에 따른 부담감 차이(조건 후보, 원문 200자 넘음)",
-      "createdAt": "2026-10-17T14:52:15.940Z",
-      "seq": 94
     },
     {
       "id": "7c76f309",
@@ -117,14 +37,6 @@
       "seq": 97
     },
     {
-      "id": "4c71248e",
-      "title": "상습 지각과 미루기의 관계",
-      "priority": 50,
-      "note": "chronic-lateness 와 procrastination: 준비를 미루는 모습. 원인 또는 상위 간선 근거 파편 필요. Live Science 2023 기사의 시간 과소추정 대목은 전문가 실명 인용이라 못 씀",
-      "createdAt": "2026-10-17T14:59:15.043Z",
-      "seq": 99
-    },
-    {
       "id": "3b68934c",
       "title": "진료 회피와 나쁜 소식 확인 미루기의 관계",
       "priority": 50,
@@ -133,12 +45,44 @@
       "seq": 102
     },
     {
-      "id": "de61314e",
-      "title": "진료 회피: 2026 암검진 미수검 이유",
+      "id": "c4199839",
+      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
       "priority": 50,
-      "note": "fnnews.com/news/202603121601547430 검색 요약: '건강하다고 생각해서' 43.4%, '시간적 여유가 없어서' 17.4%. 열어서 확인 필요. 공공 파편 후보: 국립암센터 ncc.re.kr, 국가암정보센터 cancer.go.kr 보도자료",
-      "createdAt": "2026-10-17T15:04:18.929Z",
-      "seq": 103
+      "note": "2026-10-17 회차: concealing-poverty F4(핀란드 적십자)는 낙인을 피하려 도움 필요를 숨긴다고 하나 도움 수용의 자존감 위협을 원인으로 말하지 않아 간선 보류. 후보: DIW Weekly Report 26/27 2019 'Fear of Stigmatization Prevents Individuals from Claiming Benefits'(diw.de), poverty.ac.uk/node/606(2012), turn2us 2020 보도자료 — 낙인 때문에 급여를 신청하지 않음. help-seeking-avoidance 쪽 간선 후보일 수 있음",
+      "createdAt": "2026-10-17T16:43:45.052Z",
+      "seq": 115
+    },
+    {
+      "id": "ba6b7bf8",
+      "title": "대처 음주 뒤의 안도 믿음과 실제 감정의 어긋남",
+      "priority": 50,
+      "note": "drinking-to-cope 보강 후보: BPS Research Digest 2021-10-20 bps.org.uk/research-digest/drinking-cope-doesnt-work(Wycoff 2021 해설이라 F2 와 같은 연구), NHS Borders limit-alcohol(발행일 미상) 'short lived feeling of relaxation ... may make things worse', drinkaware alcohol-and-mental-health 'temporary relief'",
+      "createdAt": "2026-10-17T16:46:22.997Z",
+      "seq": 116
+    },
+    {
+      "id": "0ae059fc",
+      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
+      "priority": 50,
+      "note": "2026-10-17: phone-call-fear F4(아시아경제 2020-11-07) 같은 기사에 '통화한 이후에도 내가 잘못 말한 것은 없는지 계속 생각한다'(인터뷰 인용). 같은 출처라 못 씀. mindline 21160(2025-03-27) 은 되짚기 문장과 '짧은 전화 통화에도' 문장이 따로라 하나만 가능. insidehook telephobia 는 전문가 실명 인용. 인과를 말하는 다른 출처 필요",
+      "createdAt": "2026-10-17T16:51:30.081Z",
+      "seq": 117
+    },
+    {
+      "id": "b7f96fb2",
+      "title": "미루기: 같은 출처 아닌 Steel 2007 정의 대목",
+      "priority": 50,
+      "note": "procrastination 보강: Steel 2007 'voluntarily delay an intended course of action despite expecting to be worse off'. PubMed 쿠키 챌린지, PMC9029680 reCAPTCHA(2026-10-17 재시도도 동일), psycnet 403. Steel 정의를 옮긴 다른 HTML 출처를 찾을 것",
+      "createdAt": "2026-10-17T16:53:31.567Z",
+      "seq": 118
+    },
+    {
+      "id": "3ea407df",
+      "title": "부채감과 도움받을 때의 자존감 위협의 관계",
+      "priority": 50,
+      "note": "2026-10-17: 인과를 한 대목에 말하는 출처 못 찾음. 후보: jps.ecnu.edu.cn 20240229 초록 'This perception of inferiority stems from three contributing factors.'(이미 indebtedness F4 출처라 다른 출처 필요), hercampus 2021-04-28 'little ability to reciprocate ... feel more uneasy', cris.haifa.ac.il Nadler 1985 초록(자존감은 조절변수)",
+      "createdAt": "2026-10-17T16:56:58.633Z",
+      "seq": 120
     },
     {
       "id": "baa1ed23",
@@ -403,6 +347,14 @@
       "note": "chronic-lateness F2·F3(익숙한 경로의 시간 과소어림). 시간 과소추정 현상 후보, chronic-lateness 원인 후보",
       "createdAt": "2026-10-17T14:59:15.183Z",
       "seq": 100
+    },
+    {
+      "id": "8f457e5a",
+      "title": "마음에 들지 않는 결과 앞에서 칭찬하기",
+      "priority": 10,
+      "note": "non-complaining 하위 후보. 인사이트 2018-05-18 insight.co.kr/news/128052 '미용실 언니에게는 너무 완벽하다고 칭찬하지만, 집에 와선 소심한 나 자신을 자책하기 바쁘다.' 보조: phillymag 2015-02-12 salon etiquette 'sparing the stylist’s feelings', client-x 461 'don’t want to get the employee in trouble'",
+      "createdAt": "2026-10-17T16:40:49.765Z",
+      "seq": 114
     }
   ]
 }
