@@ -55,6 +55,14 @@ test('fetchText: 200 으로 온 봇 확인 페이지는 UNREACHABLE 로 본다 (
   assert.equal(page.ok, false)
   assert.match(page.reason, /봇 확인/)
 })
+test('fetchText: Springer/BMC 의 Client Challenge 페이지는 UNREACHABLE 로 본다', async () => {
+  // link.springer.com/article/10.1007/s12160-010-9210-8, bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-10-113: 200 으로 온 3KB 페이지
+  const challenge = '<!DOCTYPE html>\n<html>\n  <head>\n    <title>Client Challenge</title>\n  </head>\n  <body>A required part of this site couldn’t load.</body></html>'
+  const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => challenge})
+  const page = await fetchText('https://link.springer.com/article/10.1007/s12160-010-9210-8', {fetchImpl, quote: 'increase vigilance for threat', challengeDelay: 0})
+  assert.equal(page.ok, false)
+  assert.match(page.reason, /봇 확인/)
+})
 test('fetchText: 봇 확인 페이지가 한 번 오면 다시 받는다', async () => {
   let n = 0
   const fetchImpl = async () => {

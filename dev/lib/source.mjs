@@ -27,8 +27,8 @@ export function extractText(body, contentType = '') {
 // 브라우저형 UA 를 봇으로 막는 사이트(Springer 등)가 있어 quote 가 주어지면 UA 를 바꿔 한 번 더 받는다.
 const USER_AGENTS = ['Mozilla/5.0 (compatible; human-map-source-check)', 'curl/8.5.0']
 
-// 200 으로 오지만 본문 대신 봇 확인을 띄우는 페이지. PMC 는 간헐적으로 reCAPTCHA 확인 페이지를 준다.
-export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i]
+// 200 으로 오지만 본문 대신 봇 확인을 띄우는 페이지. PMC 는 간헐적으로 reCAPTCHA 확인 페이지를, Springer/BMC 는 Client Challenge 페이지를 준다.
+export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i, /<title>\s*Client Challenge\s*<\/title>/i]
 
 async function fetchOnce(url, ua, {timeout, fetchImpl}) {
   try {

@@ -231,7 +231,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 - `dev/sources.json` 에 URL 별로 첫 확인일, 마지막 확인일, 마지막 결과를 기록한다. `--changed` 와 `--stale` 은 이 기록으로 재확인 범위를 정한다.
 - 판정. 처음 보는 파편이 NOT_FOUND 면 종료코드 1(전사나 출처가 틀림). 처음 보는 파편이 UNREACHABLE 이면 줄에 `(미확인)` 이 없을 때만 종료코드 1. 기록에 VERIFIED 가 있던 파편이 NOT_FOUND 나 UNREACHABLE 이 되면 출처가 바뀌거나 사라진 것이므로 줄 끝을 `(소멸, <마지막 VERIFIED 일> 까지 확인)` 으로 바꾸라고 출력하고 종료코드 1. 표시를 바꾼 뒤에는 통과한다. `(미확인)` 이 붙은 파편이 VERIFIED 가 되면 표시를 떼라고 출력한다.
 - 원문이 첫 응답에 없으면 UA 를 `curl/8.5.0` 으로 바꿔 한 번 더 받는다. 브라우저형 UA 를 봇으로 막는 사이트(Springer 등)가 있기 때문이다.
-- 200 으로 왔어도 봇 확인 페이지(reCAPTCHA challengepage, "Just a moment..." 등. 패턴은 `dev/lib/source.mjs` 상단 배열)는 UNREACHABLE(`봇 확인 페이지`)이다. 모든 UA 가 봇 확인 페이지를 받으면 5초 쉬고 UA 목록을 한 번 더 돈다. PMC 가 간헐적으로 reCAPTCHA 페이지를 준다.
+- 200 으로 왔어도 봇 확인 페이지(reCAPTCHA challengepage, "Just a moment...", Springer/BMC 의 "Client Challenge" 등. 패턴은 `dev/lib/source.mjs` 상단 배열)는 UNREACHABLE(`봇 확인 페이지`)이다. 모든 UA 가 봇 확인 페이지를 받으면 5초 쉬고 UA 목록을 한 번 더 돈다. PMC 가 간헐적으로 reCAPTCHA 페이지를 준다.
 - 프록시 환경(`HTTPS_PROXY`)에서는 `NODE_USE_ENV_PROXY=1` 로 자신을 다시 실행해 fetch 가 프록시를 따르게 한다.
 - 소멸 파편은 그대로 둔다. 지우지 않고 대체하지 않는다. 그 시점에 그 글이 있었다는 기록이다.
 
