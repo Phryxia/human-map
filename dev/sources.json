@@ -106,21 +106,21 @@
   },
   "https://ko.wikisource.org/wiki/봄봄": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://m.go.seoul.co.kr/news/2015/06/25/20150625012001": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://europeanproceedings.com/article/10.15405/epsbs.2022.12.02.6": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-17"
   },
   "https://www.cambridge.org/core/journals/bjpsych-open/article/survey-on-attitudes-of-social-engagement/AC189B41701BDEE362CA1A342AD5FCDA": {
     "first": "2026-10-16",
@@ -704,6 +704,12 @@
     "lastVerified": "2026-10-17"
   },
   "https://www.mpib-berlin.mpg.de/press-releases/medical-information-avoidance": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://www.nbcnews.com/id/wbna47313799": {
     "first": "2026-10-17",
     "last": "2026-10-17",
     "result": "VERIFIED",
