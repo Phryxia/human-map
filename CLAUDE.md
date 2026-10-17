@@ -214,7 +214,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 
 ## 5. 부트스트랩 회차
 
-`dev/` 가 없거나 1절의 스크립트 중 하나라도 없으면 이 회차는 스크립트를 만드는 회차다. 문서는 쓰지 않는다. 의존성은 markdown 파서 하나(markdown-it)와 HTML 텍스트 추출용 하나(예: node-html-parser)로 제한한다. 모두 JavaScript(ESM) 로 쓰고 각 스크립트에 `*.test.mjs` 를 둔다. `queue.mjs`, `queue-server.mjs`, `timer.mjs` 는 math-map 저장소(`github.com/Phryxia/math-map`)의 것을 그대로 가져오고 환경변수 접두사만 바꾼다. `queue.mjs status` 는 지금까지 `stop` 이 호출된 횟수를 회차 번호로 보여 준다.
+`dev/` 가 없거나 1절의 스크립트 중 하나라도 없으면 이 회차는 스크립트를 만드는 회차다. 문서는 쓰지 않는다. 의존성은 markdown 파서 하나(markdown-it)와 HTML 텍스트 추출용 하나(예: node-html-parser)로 제한한다. 모두 JavaScript(ESM) 로 쓰고 각 스크립트에 `*.test.mjs` 를 둔다. `queue.mjs`, `queue-server.mjs`, `timer.mjs` 는 math-map 저장소(`github.com/Phryxia/math-map`)의 것을 그대로 가져오고 환경변수 접두사만 바꾼다. `queue.mjs status` 는 지금까지 `stop` 이 호출된 횟수를 회차 번호로 보여 준다. `save` 와 `stop` 은 쓰기 전에 디스크의 `dev/queue.json` 을 다시 읽어, 서버가 마지막으로 읽거나 쓴 시점 이후 이 세션이 꺼낸 항목은 빼고 넣은 항목과 `stop` 횟수는 더해 id 기준으로 합친다. 그사이 `git pull` 로 들어온 다른 세션의 항목과 pop 을 잃지 않기 위해서다.
 
 ### graph.mjs
 

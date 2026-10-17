@@ -1,4 +1,5 @@
 // 우선순위 큐 HTTP 서버. 메모리에 들고 있다가 stop 시에만 dev/queue.json 으로 persist 하고 git 커밋한다.
+// persist 는 그사이 디스크에 들어온 다른 세션의 변경(git pull)을 마지막 저장 시점 기준으로 id 별로 합친다.
 import fs from 'node:fs'
 import http from 'node:http'
 import path from 'node:path'
@@ -20,9 +21,10 @@ const byPriority = (a, b) => b.priority - a.priority || a.seq - b.seq
 
 export function createQueue(initial) {
   if (initial && initial.version !== QUEUE_VERSION) throw new Error(`queue.json version ${initial.version} 은 지원하지 않는다 (기대: ${QUEUE_VERSION})`)
-  const items = (initial?.items ?? []).map(i => ({...i}))
+  let items = (initial?.items ?? []).map(i => ({...i}))
   let stops = initial?.stops ?? 0
   let nextSeq = initial?.nextSeq ?? (items.reduce((m, i) => Math.max(m, i.seq), 0) + 1)
+  let baseIds = new Set(items.map(i => i.id)), baseStops = stops
   const q = {
     dirty: false,
     size: () => items.length,
@@ -52,6 +54,20 @@ export function createQueue(initial) {
     stops: () => stops,
     countStop() { stops++; q.dirty = true },
     toJSON: () => ({version: QUEUE_VERSION, savedAt: new Date().toISOString(), nextSeq, stops, items: q.list()}),
+    // disk: 지금 디스크의 queue.json. 기준 시점 이후 내가 꺼낸 항목은 빼고, 내가 넣은 항목과 stop 횟수는 더한다.
+    mergeDisk(disk) {
+      if (disk) {
+        if (disk.version !== QUEUE_VERSION) throw new Error(`queue.json version ${disk.version} 은 지원하지 않는다 (기대: ${QUEUE_VERSION})`)
+        const mine = new Set(items.map(i => i.id))
+        const merged = disk.items.filter(i => !(baseIds.has(i.id) && !mine.has(i.id))).map(i => ({...i}))
+        const have = new Set(merged.map(i => i.id))
+        nextSeq = Math.max(nextSeq, disk.nextSeq ?? 0, merged.reduce((m, i) => Math.max(m, i.seq + 1), 0))
+        for (const i of [...items].sort((a, b) => a.seq - b.seq)) if (!baseIds.has(i.id) && !have.has(i.id)) merged.push({...i, seq: nextSeq++})
+        stops = (disk.stops ?? 0) + stops - baseStops
+        items = merged
+      }
+      baseIds = new Set(items.map(i => i.id)); baseStops = stops
+    },
   }
   return q
 }
@@ -62,6 +78,7 @@ export function loadQueueFile(file) {
 }
 
 export function persist(queue, file) {
+  queue.mergeDisk(loadQueueFile(file))
   fs.mkdirSync(path.dirname(file), {recursive: true})
   fs.writeFileSync(file + '.tmp', JSON.stringify(queue.toJSON(), null, 2) + '\n')
   fs.renameSync(file + '.tmp', file)
