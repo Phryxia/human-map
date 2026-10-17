@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-16T23:38:51.750Z",
-  "nextSeq": 19,
-  "stops": 15,
+  "savedAt": "2026-10-17T00:33:36.070Z",
+  "nextSeq": 20,
+  "stops": 16,
   "items": [
-    {
-      "id": "940b74b0",
-      "title": "처분 효과",
-      "priority": 10,
-      "note": "F3 의 손절 못 하는 투자자 사례. loss-aversion 의 결과 후보",
-      "createdAt": "2026-10-15T00:42:50.339Z",
-      "seq": 2
-    },
     {
       "id": "47188408",
       "title": "기준점 의존",
@@ -83,6 +75,14 @@
       "note": "social-withdrawal-at-home F3 서울시 보도자료의 유스톡 스쿨 등교 거부 대목. 하위/관련 후보",
       "createdAt": "2026-10-16T23:38:45.187Z",
       "seq": 18
+    },
+    {
+      "id": "ab14fe09",
+      "title": "손실 종목 보유와 후회 회피",
+      "priority": 10,
+      "note": "disposition-effect F1 초록: 심적 회계, 후회 회피, 자기통제, 세금 고려를 틀의 요소로 적음. 원인 후보",
+      "createdAt": "2026-10-17T00:33:30.870Z",
+      "seq": 19
     }
   ]
 }
