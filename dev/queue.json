@@ -1,24 +1,96 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T20:32:45.698Z",
-  "nextSeq": 5,
-  "stops": 3,
+  "savedAt": "2026-10-17T20:52:23.135Z",
+  "nextSeq": 129,
+  "stops": 22,
   "items": [
     {
-      "id": "98256cc4",
-      "title": "소유 효과",
-      "priority": 10,
-      "note": "F3(loss-aversion, 한경 생글생글)가 손실 회피와 맥이 닿는다고 적음. loss-aversion 과 원인 후보",
-      "createdAt": "2026-10-15T00:42:50.233Z",
-      "seq": 1
+      "id": "8dbb0014",
+      "title": "dev: source-check 가 curl 로 200 인 mcst.go.kr 을 fetch 연결 시간 초과(UND_ERR_CONNECT_TIMEOUT)로 UNREACHABLE 판정한다",
+      "priority": 60,
+      "note": "unused-annual-leave F2 https://www.mcst.go.kr/site/s_notice/press/pressView.jsp?pSeq=16142: curl 200, NODE_USE_ENV_PROXY=1 fetch 는 UND_ERR_CONNECT_TIMEOUT. httpsFetch 대체 경로를 연결 오류에도 쓰는 방안 후보. 2026-10-17",
+      "createdAt": "2026-10-17T20:44:53.070Z",
+      "seq": 126
     },
     {
-      "id": "940b74b0",
-      "title": "처분 효과",
-      "priority": 10,
-      "note": "F3 의 손절 못 하는 투자자 사례. loss-aversion 의 결과 후보",
-      "createdAt": "2026-10-15T00:42:50.339Z",
-      "seq": 2
+      "id": "88e4d3e6",
+      "title": "부채감: 친구·가족 호의의 죄책감 조건",
+      "priority": 50,
+      "note": "Gao 외 2024 PMC10762097 Discussion: 'favors from friends and family ... can also elicit guilt in a beneficiary who may feel that they have burdened a benefactor'. 같은 출처는 이미 F3 라 다른 출처로 조건 보강. He 외 2022 PMC8965834 의 사회적 거리 조절 결과도 후보",
+      "createdAt": "2026-10-17T14:39:16.105Z",
+      "seq": 93
+    },
+    {
+      "id": "7c76f309",
+      "title": "짐이 되기 싫은 마음: 10년 이상 떨어진 시기 파편",
+      "priority": 50,
+      "note": "self-perceived-burden 파편이 2009~2026. 2025 장기요양실태조사 '다른 사람의 도움을 받는 것이 꺼려져서 39.6%' 는 검색 요약에만 있음, HTML 원문 확인 필요. 영국 Anchor 조사 '77% worry about burdening' 미확인",
+      "createdAt": "2026-10-17T14:52:16.085Z",
+      "seq": 95
+    },
+    {
+      "id": "b5a768cd",
+      "title": "구직 단념: 경기 악화 조건과 전체 연령 쉬었음 이유",
+      "priority": 50,
+      "note": "index.go.kr idxCd=1494 '경기악화시 구직단념자가 증가하더라도 실업률이 거의 증가하지 않을 수 있음'(같은 출처라 다른 출처 필요). 뉴시스 2025-11-05 전체 연령 '몸이 좋지 않아서'(34.9%)는 같은 출처. 국가데이터처 보도자료 원문 HTML 미확보",
+      "createdAt": "2026-10-17T14:56:57.389Z",
+      "seq": 97
+    },
+    {
+      "id": "3b68934c",
+      "title": "진료 회피와 나쁜 소식 확인 미루기의 관계",
+      "priority": 50,
+      "note": "medical-care-avoidance F3(MPIB 2025): 진료 미루기·검사 결과 안 듣기를 건강 정보 회피로 묶음. delaying-bad-news 의 상위/하위 간선 근거 파편 필요",
+      "createdAt": "2026-10-17T15:04:18.797Z",
+      "seq": 102
+    },
+    {
+      "id": "c4199839",
+      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
+      "priority": 50,
+      "note": "2026-10-17 회차: concealing-poverty F4(핀란드 적십자)는 낙인을 피하려 도움 필요를 숨긴다고 하나 도움 수용의 자존감 위협을 원인으로 말하지 않아 간선 보류. 후보: DIW Weekly Report 26/27 2019 'Fear of Stigmatization Prevents Individuals from Claiming Benefits'(diw.de), poverty.ac.uk/node/606(2012), turn2us 2020 보도자료 — 낙인 때문에 급여를 신청하지 않음. help-seeking-avoidance 쪽 간선 후보일 수 있음",
+      "createdAt": "2026-10-17T16:43:45.052Z",
+      "seq": 115
+    },
+    {
+      "id": "ba6b7bf8",
+      "title": "대처 음주 뒤의 안도 믿음과 실제 감정의 어긋남",
+      "priority": 50,
+      "note": "drinking-to-cope 보강 후보: BPS Research Digest 2021-10-20 bps.org.uk/research-digest/drinking-cope-doesnt-work(Wycoff 2021 해설이라 F2 와 같은 연구), NHS Borders limit-alcohol(발행일 미상) 'short lived feeling of relaxation ... may make things worse', drinkaware alcohol-and-mental-health 'temporary relief'",
+      "createdAt": "2026-10-17T16:46:22.997Z",
+      "seq": 116
+    },
+    {
+      "id": "0ae059fc",
+      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
+      "priority": 50,
+      "note": "2026-10-17: phone-call-fear F4(아시아경제 2020-11-07) 같은 기사에 '통화한 이후에도 내가 잘못 말한 것은 없는지 계속 생각한다'(인터뷰 인용). 같은 출처라 못 씀. mindline 21160(2025-03-27) 은 되짚기 문장과 '짧은 전화 통화에도' 문장이 따로라 하나만 가능. insidehook telephobia 는 전문가 실명 인용. 인과를 말하는 다른 출처 필요",
+      "createdAt": "2026-10-17T16:51:30.081Z",
+      "seq": 117
+    },
+    {
+      "id": "b7f96fb2",
+      "title": "미루기: 같은 출처 아닌 Steel 2007 정의 대목",
+      "priority": 50,
+      "note": "procrastination 보강: Steel 2007 'voluntarily delay an intended course of action despite expecting to be worse off'. PubMed 쿠키 챌린지, PMC9029680 reCAPTCHA(2026-10-17 재시도도 동일), psycnet 403. Steel 정의를 옮긴 다른 HTML 출처를 찾을 것",
+      "createdAt": "2026-10-17T16:53:31.567Z",
+      "seq": 118
+    },
+    {
+      "id": "3ea407df",
+      "title": "부채감과 도움받을 때의 자존감 위협의 관계",
+      "priority": 50,
+      "note": "2026-10-17: 인과를 한 대목에 말하는 출처 못 찾음. 후보: jps.ecnu.edu.cn 20240229 초록 'This perception of inferiority stems from three contributing factors.'(이미 indebtedness F4 출처라 다른 출처 필요), hercampus 2021-04-28 'little ability to reciprocate ... feel more uneasy', cris.haifa.ac.il Nadler 1985 초록(자존감은 조절변수)",
+      "createdAt": "2026-10-17T16:56:58.633Z",
+      "seq": 120
+    },
+    {
+      "id": "baa1ed23",
+      "title": "dev: rebase 때 dev/sources.json 충돌을 손으로 합친다",
+      "priority": 40,
+      "note": "2026-10-17 회차에서 sickness-presenteeism, retail-therapy, drinking-to-cope 를 rebase 할 때 세 번 sources.json 충돌을 URL 키 합집합(마지막 확인일이 늦은 쪽 우선)으로 손으로 풀었다. merge 명령 또는 .gitattributes merge driver 후보",
+      "createdAt": "2026-10-17T04:52:42.758Z",
+      "seq": 33
     },
     {
       "id": "47188408",
@@ -27,6 +99,278 @@
       "note": "F1(Tversky-Kahneman 1991)이 선호가 기준점에 달린다고 적음. loss-aversion 과 관계 후보",
       "createdAt": "2026-10-15T00:42:50.459Z",
       "seq": 3
+    },
+    {
+      "id": "cd68a53d",
+      "title": "약속 취소를 받는 쪽의 반응",
+      "priority": 10,
+      "note": "urge-to-cancel-plans 보조 후보: 82cook 자유게시판 2023-10-24 당일 약속 취소 자주하는 사람들 글. 원문 대목 미확보",
+      "createdAt": "2026-10-15T04:34:39.843Z",
+      "seq": 5
+    },
+    {
+      "id": "54b0cc3c",
+      "title": "빈처 아내의 어려움 말하지 않기",
+      "priority": 10,
+      "note": "현진건 빈처 위키문헌: 예술가의 처 노릇을 하려는 결심으로 생활난을 입 밖에 내지 않음. 원문 재확인 필요",
+      "createdAt": "2026-10-15T12:37:26.284Z",
+      "seq": 9
+    },
+    {
+      "id": "89fa5a0a",
+      "title": "정보 확인 빈도와 시장 등락 (미어캣 효과)",
+      "priority": 10,
+      "note": "delaying-bad-news F2(Gherzi 2014): 음의 수익률에도 확인이 늘었다. 타조 효과와 긴장 후보",
+      "createdAt": "2026-10-16T00:33:43.693Z",
+      "seq": 12
+    },
+    {
+      "id": "68ebfaf7",
+      "title": "배우자의 재정 곤란 은폐",
+      "priority": 10,
+      "note": "spouse-financial-concealment 하위/관련 후보. 빈처(위키문헌)는 아내가 친가에서 얻어 와 살림을 대는 장면이나 숨김을 직접 말하지 않아 보류. Springer Joseph&Peetz 2025 초록 대목 재확인 필요",
+      "createdAt": "2026-10-16T04:35:36.491Z",
+      "seq": 14
+    },
+    {
+      "id": "0d75f251",
+      "title": "심리적 계약 위반 후 직장 침묵",
+      "priority": 10,
+      "note": "silent-work-awaiting-reward F3(Balikçi 2022): 계약 위반 지각이 체념적 침묵에 양의 효과. 원인 후보",
+      "createdAt": "2026-10-16T12:35:45.678Z",
+      "seq": 15
+    },
+    {
+      "id": "f85e73be",
+      "title": "대화 뒤 되짚기와 사회불안",
+      "priority": 10,
+      "note": "replaying-conversations-afterward F1(Price 2010): PEP 가 치료 반응을 늦춤. 사회불안 문서 후보. 보조 SNS: mindline.sg/t/probably-not-social-anxiety/21160 (원문 대목 전체 재확인 필요)",
+      "createdAt": "2026-10-16T19:34:30.792Z",
+      "seq": 17
+    },
+    {
+      "id": "15f216e7",
+      "title": "또래 관계 어려움으로 인한 등교 거부",
+      "priority": 10,
+      "note": "social-withdrawal-at-home F3 서울시 보도자료의 유스톡 스쿨 등교 거부 대목. 하위/관련 후보",
+      "createdAt": "2026-10-16T23:38:45.187Z",
+      "seq": 18
+    },
+    {
+      "id": "ab14fe09",
+      "title": "손실 종목 보유와 후회 회피",
+      "priority": 10,
+      "note": "disposition-effect F1 초록: 심적 회계, 후회 회피, 자기통제, 세금 고려를 틀의 요소로 적음. 원인 후보",
+      "createdAt": "2026-10-17T00:33:30.870Z",
+      "seq": 19
+    },
+    {
+      "id": "280af022",
+      "title": "참아 온 불만이 자극을 받아 터져 나오기",
+      "priority": 10,
+      "note": "빈처(위키문헌) 아내가 T의 양산에 자극을 받아 참았던 말을 꺼냄. self-silencing 의 결과 후보",
+      "createdAt": "2026-10-17T04:33:16.992Z",
+      "seq": 22
+    },
+    {
+      "id": "4a74fbdf",
+      "title": "불만을 말하지 않고 거래를 끊기 (조용한 이탈)",
+      "priority": 10,
+      "note": "non-complaining F1 의 switch, quit usage. 블라인드 댓글에도 '다신 안감'. 결과 후보",
+      "createdAt": "2026-10-17T04:38:03.380Z",
+      "seq": 24
+    },
+    {
+      "id": "a1dbebe0",
+      "title": "소득 상실 우려",
+      "priority": 10,
+      "note": "보건복지부 2022-01-19 상병수당 보도자료: 감염병 증상에도 소득 상실 우려로 출근. sickness-presenteeism 의 원인 후보",
+      "createdAt": "2026-10-17T04:41:23.838Z",
+      "seq": 26
+    },
+    {
+      "id": "48a7bab1",
+      "title": "구매 결정 미루기로 충동 소비 늦추기",
+      "priority": 10,
+      "note": "네이트판 375614092(2026-09-08): 장바구니에 담아만 두고 하루 뒤 다시 보면 판단이 된다. retail-therapy 와 긴장 후보",
+      "createdAt": "2026-10-17T04:49:38.435Z",
+      "seq": 29
+    },
+    {
+      "id": "8a6aac00",
+      "title": "기분 회복 행동",
+      "priority": 10,
+      "note": "drinking-to-cope 와 retail-therapy 의 상위 후보(mood repair). Atalay&Meloy 2011 초록 'repair a bad mood', Wycoff 2021 'relieve negative affective states'",
+      "createdAt": "2026-10-17T04:52:30.184Z",
+      "seq": 31
+    },
+    {
+      "id": "c7c37091",
+      "title": "가난 수치심과 가장(pretence)",
+      "priority": 10,
+      "note": "concealing-poverty 원인 후보: Walker 외 2013 JSP 초록 'shame ... variably leading to pretence, withdrawal' (cambridge.org DED0C9DC02D8ABCAA8F177BA3CC477AB). 문장 223자라 다른 대목 필요",
+      "createdAt": "2026-10-17T04:37:56.945Z",
+      "seq": 39
+    },
+    {
+      "id": "0481b19e",
+      "title": "가난을 숨기려는 아이의 또래 관계 회피",
+      "priority": 10,
+      "note": "concealing-poverty F3(ScienceNordic 2013): 처지를 숨기려 스스로 친구 관계에서 빠짐. 결과 간선 후보, 또래 관계 등교 거부 항목과 관련",
+      "createdAt": "2026-10-17T04:37:57.067Z",
+      "seq": 40
+    },
+    {
+      "id": "936cfd41",
+      "title": "메신저 빠른 응답 의무감",
+      "priority": 10,
+      "note": "윤상석 외 2014 이중언어학 56 초록: 'they appear to feel obligation of responding as quickly as possible'. delaying-message-replies 와 긴장 후보",
+      "createdAt": "2026-10-17T04:46:57.724Z",
+      "seq": 42
+    },
+    {
+      "id": "6b3595b6",
+      "title": "답장 지연 뒤 죄책감",
+      "priority": 10,
+      "note": "delaying-message-replies F3, Substack angelatyler 'im-a-bad-friend' 댓글(2024-07-17) 후보. 결과 간선 후보",
+      "createdAt": "2026-10-17T04:46:57.853Z",
+      "seq": 43
+    },
+    {
+      "id": "ad438c7c",
+      "title": "투표했다고 거짓으로 답하기",
+      "priority": 10,
+      "note": "census.gov cenbr98-04: nonvoters reporting they did vote because they want to show they are civically responsible. not-voting 과 관련, 사회적 바람직성 응답",
+      "createdAt": "2026-10-17T04:51:56.924Z",
+      "seq": 44
+    },
+    {
+      "id": "c86f082c",
+      "title": "외부 정치 효능감 저하",
+      "priority": 10,
+      "note": "Abramson-Aldrich 1982 APSR 초록: 하락 추세가 1960-80 투표율 하락의 2/3~7/10 를 설명. not-voting 원인 간선 후보",
+      "createdAt": "2026-10-17T04:51:57.047Z",
+      "seq": 45
+    },
+    {
+      "id": "f87674e5",
+      "title": "실직 수치심과 관계망에서 물러나기",
+      "priority": 10,
+      "note": "Peterie 외 2019 Sociology 53(6): withdrawal from social networks to manage stigma-related shame. concealing-poverty F3 와 비슷한 물러남",
+      "createdAt": "2026-10-17T04:55:51.631Z",
+      "seq": 46
+    },
+    {
+      "id": "c3541bfb",
+      "title": "통화 전 할 말을 대본으로 적어 두기",
+      "priority": 10,
+      "note": "phone-call-fear F3(네이트판 354708830), 클리앙 park/12509490 댓글 '전화하기전에 예행연습'. 하위 후보",
+      "createdAt": "2026-10-17T11:39:58.634Z",
+      "seq": 59
+    },
+    {
+      "id": "7b5cc18d",
+      "title": "모르는 번호의 전화 받지 않기",
+      "priority": 10,
+      "note": "phone-call-fear F5(twig24 2023 알바천국 조사 39.2%), 한경비즈니스 2024-06-07 '예상치 못한 전화 = 나쁜 소식 불안'. delaying-bad-news 와 관련 후보",
+      "createdAt": "2026-10-17T11:39:58.757Z",
+      "seq": 60
+    },
+    {
+      "id": "c8d0eed6",
+      "title": "창피한 일을 꾸며 둘러대기",
+      "priority": 10,
+      "note": "심훈 상록수 제14장 위키문헌: 기천이 머슴에게 맞은 것을 창피해 자전거 사고로 꾸며 대고 소문날까 고소도 못 함. Dickens Great Expectations 57장 'ashamed to tell him exactly how I was placed'. concealing-failure 와 관련",
+      "createdAt": "2026-10-17T11:52:34.809Z",
+      "seq": 63
+    },
+    {
+      "id": "e68467b8",
+      "title": "아파도 출근한 뒤의 건강 악화와 병가",
+      "priority": 10,
+      "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
+      "createdAt": "2026-10-17T11:55:36.323Z",
+      "seq": 64
+    },
+    {
+      "id": "51cd3a83",
+      "title": "힘든 사정을 남에게 털어놓지 않기",
+      "priority": 10,
+      "note": "네이트판 358803161(2021-04-01) '남한테 약한 사람처럼 보이고 싶지도 않고'. help-seeking-avoidance, self-silencing 과 관계 후보",
+      "createdAt": "2026-10-17T12:45:02.818Z",
+      "seq": 74
+    },
+    {
+      "id": "d1a021d5",
+      "title": "미루기와 기분 회복 행동의 관계",
+      "priority": 10,
+      "note": "procrastination F2(Sirois&Pychyl 2013) 'short-term mood repair'. 기분 회복 행동 항목(8a6aac00)과 원인/상위 후보",
+      "createdAt": "2026-10-17T12:53:48.278Z",
+      "seq": 76
+    },
+    {
+      "id": "bc9297df",
+      "title": "감사 선물 주기",
+      "priority": 10,
+      "note": "indebtedness F4(Oishi 2025 PMC12106001): 감사 선물을 가장 잘 예측한 감정이 부채감. indebtedness 의 결과 간선 후보",
+      "createdAt": "2026-10-17T14:39:15.846Z",
+      "seq": 91
+    },
+    {
+      "id": "e88bb209",
+      "title": "악의적 시기와 적대 행동",
+      "priority": 10,
+      "note": "envy F3(Blatz 2026): malicious envy 가 hostility 를 동반. 하위 현상 후보(양성 시기/악성 시기)",
+      "createdAt": "2026-10-17T14:54:28.912Z",
+      "seq": 96
+    },
+    {
+      "id": "9431bd02",
+      "title": "학습된 무력감",
+      "priority": 10,
+      "note": "giving-up-job-search F1(Falk 외 2006): 실패한 구직이 자신감을 낮추고 구직 포기로 이어짐. 상위 또는 원인 후보",
+      "createdAt": "2026-10-17T14:56:57.515Z",
+      "seq": 98
+    },
+    {
+      "id": "40047652",
+      "title": "계획 오류",
+      "priority": 10,
+      "note": "chronic-lateness F2·F3(익숙한 경로의 시간 과소어림). 시간 과소추정 현상 후보, chronic-lateness 원인 후보",
+      "createdAt": "2026-10-17T14:59:15.183Z",
+      "seq": 100
+    },
+    {
+      "id": "8f457e5a",
+      "title": "마음에 들지 않는 결과 앞에서 칭찬하기",
+      "priority": 10,
+      "note": "non-complaining 하위 후보. 인사이트 2018-05-18 insight.co.kr/news/128052 '미용실 언니에게는 너무 완벽하다고 칭찬하지만, 집에 와선 소심한 나 자신을 자책하기 바쁘다.' 보조: phillymag 2015-02-12 salon etiquette 'sparing the stylist’s feelings', client-x 461 'don’t want to get the employee in trouble'",
+      "createdAt": "2026-10-17T16:40:49.765Z",
+      "seq": 114
+    },
+    {
+      "id": "e2c1bdf5",
+      "title": "층간소음 보복",
+      "priority": 10,
+      "note": "enduring-neighbor-noise F2 출처(korea.kr newsId=148905290)가 보복행위를 적음. 이투데이 2023-07-23 news/view/2268524 보복 스피커. 참기의 결과 후보",
+      "createdAt": "2026-10-17T20:39:47.154Z",
+      "seq": 125
+    },
+    {
+      "id": "b60a056e",
+      "title": "누구에게 말했는지 잊기 (목적지 기억)",
+      "priority": 10,
+      "note": "retelling-same-story F2 출처(livescience 8530)가 노인이 누구에게 정보를 말했는지 잊는다고 적음. retelling-same-story 의 원인 후보",
+      "createdAt": "2026-10-17T20:46:22.326Z",
+      "seq": 127
+    },
+    {
+      "id": "44b99959",
+      "title": "애정을 거친 말이나 행동으로 드러내기",
+      "priority": 10,
+      "note": "harsh-words-for-worry 와 teasing-someone-liked 의 공통 상위 후보. 둘 다 호감·걱정을 꾸지람이나 놀림으로 드러냄",
+      "createdAt": "2026-10-17T20:49:44.223Z",
+      "seq": 128
     }
   ]
 }
