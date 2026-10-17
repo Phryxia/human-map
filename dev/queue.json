@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T12:02:31.442Z",
-  "nextSeq": 69,
-  "stops": 19,
+  "savedAt": "2026-10-17T13:00:32.005Z",
+  "nextSeq": 77,
+  "stops": 20,
   "items": [
     {
-      "id": "c4d6ca0c",
-      "title": "dev: source-check 가 블록 태그 사이에 공백을 넣지 않아 문단을 넘는 원문을 NOT_FOUND 로 판정한다",
+      "id": "17117046",
+      "title": "dev: source-check 가 Springer/BMC 의 3KB Client Challenge 페이지를 NOT_FOUND 로 판정한다",
       "priority": 60,
-      "note": "kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069 (2007-09-01): 원문 '학교 선생님들이 다 안다든지 이러면 완전 쪽팔리잖아요' 가 '...안다든지</P><P>이러면...' 로 나뉘어 있어 추출 텍스트가 '안다든지이러면' 이 된다. 2026-10-17 concealing-failure 에서 이 파편을 뺐다. P, BR, DIV, LI 경계에 공백을 넣어야 한다",
-      "createdAt": "2026-10-17T11:52:34.540Z",
-      "seq": 61
-    },
-    {
-      "id": "0362a798",
-      "title": "dev: source-check 가 Springer 의 3KB 대체 페이지를 NOT_FOUND 로 판정한다",
-      "priority": 60,
-      "note": "link.springer.com/article/10.1007/s12160-010-9210-8: curl 명령(UA curl/8.5.0)은 원문 'raising the desire to reconnect' 를 담은 전체 페이지를 받지만 node fetch(같은 UA, NODE_USE_ENV_PROXY=1)는 200, 3036바이트 페이지를 받는다. 봇 확인 패턴에 넣거나 요청 헤더를 curl 과 맞춰야 한다. 2026-10-17 loneliness 보강에서 이 파편을 쓰지 못했다",
-      "createdAt": "2026-10-17T11:57:40.932Z",
-      "seq": 65
+      "note": "link.springer.com/article/10.1007/s12160-010-9210-8 와 bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-10-113: 브라우저형 UA 로 200, 3036바이트 '<title>Client Challenge</title>' 페이지, curl UA 로는 429. 봇 확인 패턴(CHALLENGE_PATTERNS)에 Client Challenge 를 넣어 UNREACHABLE 로 판정해야 한다. 2026-10-17 help-seeking-avoidance 는 PMC3022639 로 바꿔 썼다",
+      "createdAt": "2026-10-17T12:44:57.353Z",
+      "seq": 73
     },
     {
       "id": "607f79e9",
@@ -53,14 +45,6 @@
       "seq": 32
     },
     {
-      "id": "e8682835",
-      "title": "외로움과 혼밥 감정, 집 안 은둔의 관계",
-      "priority": 50,
-      "note": "loneliness 와 eating-alone-feelings, social-withdrawal-at-home. 원인/결과 간선 근거 파편 필요",
-      "createdAt": "2026-10-17T04:55:14.847Z",
-      "seq": 34
-    },
-    {
       "id": "f066c636",
       "title": "답장 미루기와 나쁜 소식 확인 미루기 관계",
       "priority": 50,
@@ -77,14 +61,6 @@
       "seq": 58
     },
     {
-      "id": "8a421a7a",
-      "title": "실패 사실 숨기기: SNS 파편 보강",
-      "priority": 50,
-      "note": "concealing-failure 는 문학 1891, 학술 2024, SNS 2026 셋. 후보: kin 56416069(2007 수시 불합격이 학교에 알려질까 쪽팔림, dev 수정 뒤 재확인), kin 493870652(2026-06-15 이력서 150곳 탈락, 친구에게 근황 말하기 쪽팔려 멀리함, 원문에 '..')",
-      "createdAt": "2026-10-17T11:52:34.677Z",
-      "seq": 62
-    },
-    {
       "id": "450ba55f",
       "title": "외로움: 학술 파편 보강",
       "priority": 50,
@@ -93,20 +69,12 @@
       "seq": 66
     },
     {
-      "id": "26065e6e",
-      "title": "도움 요청 회피와 도움받을 때의 자존감 위협의 관계",
+      "id": "4fecf142",
+      "title": "미루기: 같은 출처 아닌 Steel 2007 정의 대목",
       "priority": 50,
-      "note": "help-seeking-avoidance F1(Clegg 외 2006 uhra.herts.ac.uk/id/eprint/23751, 제목 'I've had to swallow my pride': help seeking and self-esteem)과 threat-in-receiving-help F2(Fisher&Nadler 1976). 원인 간선 근거 파편 필요. 브런치 beliebt83/8 의 '도움을 요청하는 순간 내가 부족한 사람이 되는 것 같았다' 는 여러 요소로 쪼개져 있음",
-      "createdAt": "2026-10-17T12:02:20.268Z",
-      "seq": 67
-    },
-    {
-      "id": "a3ce652b",
-      "title": "도움 요청 회피: SNS 파편과 이유 대목 보강",
-      "priority": 50,
-      "note": "help-seeking-avoidance 는 확인됨 2개뿐(학술 2006, 매체 2026). 공개 게시판 1인칭 글 필요",
-      "createdAt": "2026-10-17T12:02:20.408Z",
-      "seq": 68
+      "note": "procrastination 보강: Steel 2007 Psychological Bulletin 'voluntarily delay an intended course of action despite expecting to be worse off'. PubMed 쿠키 챌린지, PMC9029680 reCAPTCHA, psycnet 403 이라 HTML 판 못 구함",
+      "createdAt": "2026-10-17T12:53:48.156Z",
+      "seq": 75
     },
     {
       "id": "baa1ed23",
@@ -229,14 +197,6 @@
       "seq": 29
     },
     {
-      "id": "dbf67421",
-      "title": "미루기",
-      "priority": 10,
-      "note": "last-minute-tax-filing, delaying-message-replies, delaying-bad-news 의 상위 후보. 일반 미루기 문서 없음. NBC 2022 제목이 procrastinators 라 부름",
-      "createdAt": "2026-10-17T04:51:17.776Z",
-      "seq": 30
-    },
-    {
       "id": "8a6aac00",
       "title": "기분 회복 행동",
       "priority": 10,
@@ -331,6 +291,22 @@
       "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
       "createdAt": "2026-10-17T11:55:36.323Z",
       "seq": 64
+    },
+    {
+      "id": "51cd3a83",
+      "title": "힘든 사정을 남에게 털어놓지 않기",
+      "priority": 10,
+      "note": "네이트판 358803161(2021-04-01) '남한테 약한 사람처럼 보이고 싶지도 않고'. help-seeking-avoidance, self-silencing 과 관계 후보",
+      "createdAt": "2026-10-17T12:45:02.818Z",
+      "seq": 74
+    },
+    {
+      "id": "d1a021d5",
+      "title": "미루기와 기분 회복 행동의 관계",
+      "priority": 10,
+      "note": "procrastination F2(Sirois&Pychyl 2013) 'short-term mood repair'. 기분 회복 행동 항목(8a6aac00)과 원인/상위 후보",
+      "createdAt": "2026-10-17T12:53:48.278Z",
+      "seq": 76
     }
   ]
 }
