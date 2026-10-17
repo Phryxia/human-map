@@ -259,5 +259,17 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://www.newswire.co.kr/newsRead.php?no=231335": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=369826&mid=a10503010100&nPage=172&tag=": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   }
 }
