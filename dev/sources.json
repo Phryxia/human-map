@@ -535,5 +535,23 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://www.gutenberg.org/cache/epub/11397/pg11397-images.html": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://eprints.whiterose.ac.uk/id/eprint/91793/": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
+  },
+  "https://doctornow.co.kr/content/qna/16650f6d862241dc8ea87398d164d731": {
+    "first": "2026-10-17",
+    "last": "2026-10-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   }
 }

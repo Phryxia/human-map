@@ -26,7 +26,7 @@
 
 ## 상위
 
-없음.
+- [미루기](procrastination.md)
 
 ## 하위
 

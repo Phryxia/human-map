@@ -18,30 +18,31 @@
 
 # 집계
 
-- 문서 25개
-- 간선: 상위 1, 원인 1, 긴장 0
+- 문서 26개
+- 간선: 상위 3, 원인 1, 긴장 0
 
 ## 축 태그별 문서 수
 
 - 특성: 0
 - 사고: 6
-- 감정: 16
-- 행동: 21
+- 감정: 17
+- 행동: 22
 
 ## 파편 종류
 
-- 학술: 34 (38.6%)
-- 공공: 9 (10.2%)
-- 매체: 22 (25.0%)
-- SNS: 14 (15.9%)
-- 문학: 9 (10.2%)
+- 학술: 35 (38.5%)
+- 공공: 9 (9.9%)
+- 매체: 23 (25.3%)
+- SNS: 15 (16.5%)
+- 문학: 9 (9.9%)
 
 ## 확인 상태
 
-- 확인됨 88 (100.0%), 미확인 0 (0.0%), 소멸 0 (0.0%)
+- 확인됨 91 (100.0%), 미확인 0 (0.0%), 소멸 0 (0.0%)
 
 ## 파편 발행 연도 분포
 
+- 1750년대: 1
 - 1890년대: 1
 - 1920년대: 4
 - 1930년대: 4
@@ -49,8 +50,8 @@
 - 1980년대: 2
 - 1990년대: 5
 - 2000년대: 8
-- 2010년대: 22
-- 2020년대: 41
+- 2010년대: 23
+- 2020년대: 42
 
 파편이 한 10년 안에만 있는 문서: 2
 
@@ -59,18 +60,17 @@
 - [실패 사실 숨기기](docs/concealing-failure.md)
 - [가난 감추기](docs/concealing-poverty.md)
 - [나쁜 소식 확인 미루기](docs/delaying-bad-news.md)
-- [답장 미루기](docs/delaying-message-replies.md)
 - [처분 효과](docs/disposition-effect.md)
 - [시름을 술로 달래기](docs/drinking-to-cope.md)
 - [혼자 먹는 식사의 감정](docs/eating-alone-feelings.md)
 - [소유 효과](docs/endowment-effect.md)
 - [도움 요청 회피](docs/help-seeking-avoidance.md)
-- [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md)
 - [외로움](docs/loneliness.md)
 - [손실 회피](docs/loss-aversion.md)
 - [불만 제기 회피](docs/non-complaining.md)
 - [투표 불참](docs/not-voting.md)
 - [전화 통화 두려움](docs/phone-call-fear.md)
+- [미루기](docs/procrastination.md)
 - [대화 뒤 되짚기](docs/replaying-conversations-afterward.md)
 - [기분을 달래려는 소비](docs/retail-therapy.md)
 - [자기 침묵](docs/self-silencing.md)
@@ -87,5 +87,5 @@
 
 ## 상위 그래프 깊이 분포
 
-- 깊이 0: 24
-- 깊이 1: 1
+- 깊이 0: 23
+- 깊이 1: 3
