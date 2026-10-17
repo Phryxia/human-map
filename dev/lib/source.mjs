@@ -1,5 +1,6 @@
 // 출처 확인 공용 코드: 정규화, 텍스트 추출, 판정.
 import {parse} from 'node-html-parser'
+import https from 'node:https'
 
 export function normalize(s) {
   return String(s).normalize('NFC')
@@ -42,8 +43,27 @@ async function fetchOnce(url, ua, {timeout, fetchImpl}) {
   } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' ? '타임아웃' : e.message} }
 }
 
-// 봇 확인 페이지만 받았으면 challengeDelay 만큼 쉬고 UA 목록을 한 번 더 돈다.
-export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, quote, challengeDelay = 5000} = {}) {
+// fetch 는 sec-fetch-mode, accept-language 같은 헤더를 덧붙여 Springer 가 UA 를 curl 로 바꿔도 Client Challenge 를 준다.
+// node:https 로 헤더를 그대로 보내는 fetch 꼴 함수. 프록시는 NODE_USE_ENV_PROXY=1 이면 https.get 도 따른다.
+export function httpsFetch(url, {headers = {}, signal} = {}, hops = 0) {
+  return new Promise((resolve, reject) => {
+    const req = https.get(url, {headers, signal}, res => {
+      const loc = res.headers.location
+      if (res.statusCode >= 300 && res.statusCode < 400 && loc && hops < 5) { res.resume(); return resolve(httpsFetch(new URL(loc, url).href, {headers, signal}, hops + 1)) }
+      const chunks = []
+      res.on('data', c => chunks.push(c))
+      res.on('error', reject)
+      res.on('end', () => {
+        const body = Buffer.concat(chunks).toString('utf8')
+        resolve({ok: res.statusCode >= 200 && res.statusCode < 300, status: res.statusCode, headers: new Map([['content-type', res.headers['content-type'] ?? '']]), text: async () => body})
+      })
+    })
+    req.on('error', reject)
+  })
+}
+
+// 봇 확인 페이지만 받았으면 challengeDelay 만큼 쉬고 UA 목록을 한 번 더 돈다. 그래도 봇 확인이면 fallbackImpl 에 curl UA 로 받는다.
+export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, fallbackImpl = httpsFetch, quote, challengeDelay = 5000} = {}) {
   let page
   for (let round = 0; round < 2; round++) {
     if (round) await new Promise(r => setTimeout(r, challengeDelay))
@@ -53,6 +73,7 @@ export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, quote,
     }
     if (page.reason !== '봇 확인 페이지') break
   }
+  if (page.reason === '봇 확인 페이지') page = await fetchOnce(url, USER_AGENTS.at(-1), {timeout, fetchImpl: fallbackImpl})
   return page
 }
 

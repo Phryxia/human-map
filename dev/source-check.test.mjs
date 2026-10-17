@@ -51,7 +51,7 @@ test('fetchText: quote 가 없으면 첫 응답을 그대로 쓴다', async () =
 test('fetchText: 200 으로 온 봇 확인 페이지는 UNREACHABLE 로 본다 (PMC 의 reCAPTCHA)', async () => {
   const challenge = '<!doctype html><html><head><base href="https://www.google.com/recaptcha/challengepage/"></head><body>x</body></html>'
   const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => challenge})
-  const page = await fetchText('https://pmc.ncbi.nlm.nih.gov/articles/PMC1/', {fetchImpl, quote: 'tendency to limit', challengeDelay: 0})
+  const page = await fetchText('https://pmc.ncbi.nlm.nih.gov/articles/PMC1/', {fetchImpl, fallbackImpl: fetchImpl, quote: 'tendency to limit', challengeDelay: 0})
   assert.equal(page.ok, false)
   assert.match(page.reason, /봇 확인/)
 })
@@ -59,9 +59,19 @@ test('fetchText: Springer/BMC 의 Client Challenge 페이지는 UNREACHABLE 로 
   // link.springer.com/article/10.1007/s12160-010-9210-8, bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-10-113: 200 으로 온 3KB 페이지
   const challenge = '<!DOCTYPE html>\n<html>\n  <head>\n    <title>Client Challenge</title>\n  </head>\n  <body>A required part of this site couldn’t load.</body></html>'
   const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => challenge})
-  const page = await fetchText('https://link.springer.com/article/10.1007/s12160-010-9210-8', {fetchImpl, quote: 'increase vigilance for threat', challengeDelay: 0})
+  const page = await fetchText('https://link.springer.com/article/10.1007/s12160-010-9210-8', {fetchImpl, fallbackImpl: fetchImpl, quote: 'increase vigilance for threat', challengeDelay: 0})
   assert.equal(page.ok, false)
   assert.match(page.reason, /봇 확인/)
+})
+test('fetchText: fetch 가 봇 확인 페이지만 받으면 node:https 로 curl UA 를 붙여 한 번 더 받는다', async () => {
+  // link.springer.com/article/10.1007/s12160-010-9210-8: fetch 는 UA 를 curl 로 바꿔도 Client Challenge, https.get 은 본문(2026-10-17)
+  const challenge = '<html><head><title>Client Challenge</title></head></html>'
+  const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => challenge})
+  let ua
+  const fallbackImpl = async (url, {headers}) => { ua = headers['user-agent']; return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>to increase vigilance for threat</html>'} }
+  const page = await fetchText('https://link.springer.com/article/10.1007/s12160-010-9210-8', {fetchImpl, fallbackImpl, quote: 'increase vigilance for threat', challengeDelay: 0})
+  assert.ok(page.ok && quoteIn(page.text, 'increase vigilance for threat'))
+  assert.equal(ua, 'curl/8.5.0')
 })
 test('fetchText: 봇 확인 페이지가 한 번 오면 다시 받는다', async () => {
   let n = 0
