@@ -467,7 +467,8 @@
   "https://kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069": {
     "first": "2026-10-17",
     "last": "2026-10-17",
-    "result": "NOT_FOUND"
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-17"
   },
   "https://cris.haifa.ac.il/en/publications/studies-on-the-functions-and-mechanisms-of-shame-and-pride-a-syst/": {
     "first": "2026-10-17",
