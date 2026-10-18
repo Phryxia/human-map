@@ -1649,5 +1649,11 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1177/2158244015613107?fields=title,abstract,year": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
