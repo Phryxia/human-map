@@ -47,7 +47,7 @@
 
 ## 결과
 
-없음.
+- [참아 온 불만의 폭발](suppressed-anger-outburst.md) [F1]
 
 ## 긴장
 
