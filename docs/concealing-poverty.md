@@ -37,7 +37,7 @@
 
 ## 하위
 
-없음.
+- [가난을 숨기려는 또래 관계 회피](poverty-peer-withdrawal.md)
 
 ## 원인
 
