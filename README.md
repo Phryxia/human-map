@@ -18,27 +18,27 @@
 
 # 집계
 
-- 문서 87개
-- 간선: 상위 16, 원인 18, 긴장 0
+- 문서 88개
+- 간선: 상위 18, 원인 18, 긴장 0
 
 ## 축 태그별 문서 수
 
 - 특성: 0
 - 사고: 32
-- 감정: 51
-- 행동: 70
+- 감정: 52
+- 행동: 71
 
 ## 파편 종류
 
-- 학술: 132 (32.8%)
-- 공공: 40 (10.0%)
-- 매체: 149 (37.1%)
-- SNS: 41 (10.2%)
-- 문학: 40 (10.0%)
+- 학술: 134 (32.9%)
+- 공공: 40 (9.8%)
+- 매체: 151 (37.1%)
+- SNS: 42 (10.3%)
+- 문학: 40 (9.8%)
 
 ## 확인 상태
 
-- 확인됨 401 (99.8%), 미확인 1 (0.2%), 소멸 0 (0.0%)
+- 확인됨 406 (99.8%), 미확인 1 (0.2%), 소멸 0 (0.0%)
 
 ## 파편 발행 연도 분포
 
@@ -57,9 +57,9 @@
 - 1950년대: 2
 - 1970년대: 1
 - 1980년대: 6
-- 1990년대: 10
-- 2000년대: 45
-- 2010년대: 124
+- 1990년대: 11
+- 2000년대: 46
+- 2010년대: 127
 - 2020년대: 171
 - 미상: 5
 
@@ -83,7 +83,6 @@
 - [구매 결정 미루기](docs/delaying-purchases.md)
 - [처분 효과](docs/disposition-effect.md)
 - [계산 피하기](docs/dodging-the-bill.md)
-- [시름을 술로 달래기](docs/drinking-to-cope.md)
 - [혼자 먹는 식사의 감정](docs/eating-alone-feelings.md)
 - [엘리베이터 안의 침묵](docs/elevator-silence.md)
 - [소유 효과](docs/endowment-effect.md)
@@ -102,6 +101,7 @@
 - [카페에 오래 앉은 손님의 눈치](docs/lingering-in-cafe-guilt.md)
 - [외로움](docs/loneliness.md)
 - [미어캣 효과](docs/meerkat-effect.md)
+- [기분 회복 행동](docs/mood-repair.md)
 - [빌려준 돈 돌려 달라고 못 하기](docs/not-asking-for-loan-back.md)
 - [범죄 피해 신고하지 않기](docs/not-reporting-crime.md)
 - [투표 불참](docs/not-voting.md)
@@ -115,7 +115,6 @@
 - [후회 회피](docs/regret-aversion.md)
 - [할 말 미리 연습하기](docs/rehearsing-what-to-say.md)
 - [대화 뒤 되짚기](docs/replaying-conversations-afterward.md)
-- [기분을 달래려는 소비](docs/retail-therapy.md)
 - [같은 이야기 되풀이](docs/retelling-same-story.md)
 - [의례적 사양](docs/ritual-refusal.md)
 - [등교 거부](docs/school-refusal.md)
@@ -146,6 +145,6 @@
 
 ## 상위 그래프 깊이 분포
 
-- 깊이 0: 72
-- 깊이 1: 14
+- 깊이 0: 71
+- 깊이 1: 16
 - 깊이 2: 1
