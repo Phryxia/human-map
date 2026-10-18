@@ -51,6 +51,7 @@
 
 ## 결과
 
+- [도움 요청 회피](help-seeking-avoidance.md)
 - [도움받을 때의 자존감 위협](threat-in-receiving-help.md)
 
 ## 긴장
