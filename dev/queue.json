@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T03:02:53.656Z",
-  "nextSeq": 166,
-  "stops": 25,
+  "savedAt": "2026-10-18T04:00:38.301Z",
+  "nextSeq": 188,
+  "stops": 26,
   "items": [
-    {
-      "id": "30b6a4ff",
-      "title": "dev: source-check 가 EUC-KR(cp949) 페이지를 디코딩하지 못해 NOT_FOUND 를 준다",
-      "priority": 60,
-      "note": "m.news.nate.com/view/20260110n00225(조선일보 2026-01-10 전재, charset EUC-KR): iconv -f cp949 로는 '평소 미용사가 말 거는 게 싫어 자는 척 눈을 감고 있는데' 가 있으나 source-check 는 NOT_FOUND. Content-Type/meta charset 을 읽어 TextDecoder 로 디코딩",
-      "createdAt": "2026-10-18T02:58:04.216Z",
-      "seq": 162
-    },
-    {
-      "id": "84b30e9a",
-      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
-      "priority": 50,
-      "note": "2026-10-18: ferwer 블로그(phone-call-fear F7)와 reachlink.com/advice/phobias/phone-anxiety(2026-05-28, 'replay calls afterward analyzing every word', curl UA 로는 0)는 공존만 말하고 인과 표현이 없어 간선 보류. Conversation 2021-02-23 은 통화 전후 걱정만",
-      "createdAt": "2026-10-18T00:54:48.817Z",
-      "seq": 141
-    },
-    {
-      "id": "1813e322",
-      "title": "부채감과 도움받을 때의 자존감 위협의 관계",
-      "priority": 50,
-      "note": "2026-10-18 재탐색 실패: hercampus, LibreTexts 24.05, leidenpsychologyblog pay-it-forward, PMC6650596, Psychology Today 2012-10-03 rebuffed(열등감과 부채감이 다른 이유로 따로 나옴). 다음 후보: Greenberg & Westcott 1983 'Indebtedness as a mediator of reactions to aid' 초록 HTML, ECNU 2024 리뷰의 다른 호스트 사본",
-      "createdAt": "2026-10-18T01:01:33.457Z",
-      "seq": 142
-    },
-    {
-      "id": "cd55f43b",
-      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
-      "priority": 50,
-      "note": "2026-10-18: kashmirreader 2020(concealing-poverty F4)은 자존심과 수치 두려움을 숨김의 이유로 드나 도움 수용을 말하지 않아 간선 보류. Kardec The Spirits' Book 888(kardecpedia, 1857, 번역 발행일 미상) 'kept back from begging by dread of humiliation ... suffer silently and in secret' 후보. DIW, turn2us, JRF 미확인",
-      "createdAt": "2026-10-18T02:33:53.492Z",
-      "seq": 156
-    },
-    {
-      "id": "9876a390",
-      "title": "보내지 않는 편지 쓰기와 자기 침묵의 관계",
-      "priority": 50,
-      "note": "unsent-letters F7(Yin·Xiao 2026 arXiv) 같은 초록 'hold back in conversations, fearing vulnerability or social consequences'. self-silencing 과 상위/원인 후보, 인과 대목 확인 필요",
-      "createdAt": "2026-10-18T02:42:02.752Z",
-      "seq": 157
-    },
-    {
-      "id": "e7094dbd",
-      "title": "퇴근 뒤 업무 연락에 답하기와 메신저 빠른 응답 의무감의 관계",
-      "priority": 50,
-      "note": "after-hours-work-replies F3 출처(Eurofound 2023-11-30)가 응답 이유로 책임감 82%, 기대 75%, 무응답 불이익 우려 61% 를 듦(한 문장 200자 초과라 다른 대목 필요). 936cfd41 메신저 빠른 응답 의무감 항목과 원인 후보",
-      "createdAt": "2026-10-18T02:52:51.123Z",
-      "seq": 160
-    },
-    {
-      "id": "72c56359",
-      "title": "pretending-to-sleep-to-avoid-talk 보강: 미용실·택시 대화 회피",
-      "priority": 50,
-      "note": "조선일보 2026-01-10 [아무튼, 주말] '쉿! 말 걸지 마세요' 네이트 전재 m.news.nate.com/view/20260110n00225 F 후보 '평소 미용사가 말 거는 게 싫어 자는 척 눈을 감고 있는데, 필요한 질문 외에 아무 말도 하지 않아 편했다'(EUC-KR 디코딩 dev 항목 뒤, 또는 chosun.com 원문 URL). 디아이투데이 2018-11-28 ditoday.com/?p=14673 '말을 걸지 않을 거라는 마음의 안정.' 택시",
-      "createdAt": "2026-10-18T02:58:04.335Z",
-      "seq": 163
-    },
-    {
-      "id": "7126d57b",
-      "title": "elevator-silence 보강: 학술 파편과 시기 조건",
-      "priority": 50,
-      "note": "Zuckerman·Miserandino·Bernieri 1983 PSPB doi 10.1177/0146167283094007 civil inattention 엘리베이터 연구(SAGE 봇 차단). 브런치 @pungun/89 2026-01-07, @jungcd/64 2025-08-11. HN 39716631 2024-03-15 'on their phone and specifically avoiding eye contact'. NPR 원 문장 'if two people ... elevator's crowded' 는 223자",
-      "createdAt": "2026-10-18T03:00:52.323Z",
-      "seq": 164
-    },
     {
       "id": "392bc87a",
       "title": "게시 직전 자기검열과 보내지 않는 편지 쓰기의 관계",
@@ -75,6 +11,30 @@
       "note": "last-minute-self-censorship F2(Das·Kramer 2013)와 unsent-letters F7(Yin·Xiao 2026) 모두 써 놓고 내보내지 않음. 상위(써 놓고 내보내지 않기) 후보. HN 4102907(2012-06-12) 'so I deleted my reply' 는 게시 전후가 불분명. meta.discourse.org/t/75277(2017-12-03) 댓글 '71% of users kept content in a compose for ten minutes' 는 측정 방식 반론",
       "createdAt": "2026-10-18T03:02:46.056Z",
       "seq": 165
+    },
+    {
+      "id": "0bd124ec",
+      "title": "부채감과 도움 요청 회피의 관계",
+      "priority": 50,
+      "note": "nature.com/articles/s41467-023-44286-9(Gao 외 2024, indebtedness F5 와 같은 논문): 'The guilt and obligation components of indebtedness instead appear to be associated with increasing the likelihood of rejecting help.' 감사는 수락 쪽. 부채감과 감사의 긴장 후보이기도 함",
+      "createdAt": "2026-10-18T03:49:49.456Z",
+      "seq": 180
+    },
+    {
+      "id": "ac792baf",
+      "title": "help-seeking-avoidance 보강: 갚을 기회와 자존감",
+      "priority": 50,
+      "note": "cris.haifa.ac.il/en/publications/effects-of-opportunity-to-reciprocate-and-self-esteem-on-help-see/ (Nadler 외 1985-03-01): 갚을 기회가 없다고 본 고자존감 참가자가 도움을 가장 덜 구했다",
+      "createdAt": "2026-10-18T03:49:49.575Z",
+      "seq": 181
+    },
+    {
+      "id": "5d06b71b",
+      "title": "pretending-to-sleep-to-avoid-talk 보강: 택시",
+      "priority": 50,
+      "note": "ditoday.com/?p=14673(디아이투데이 2018-11-28) '말을 걸지 않을 거라는 마음의 안정.' 택시 대화 회피. 이번 회차엔 미용실 파편(nate 20260110n00225)만 더함",
+      "createdAt": "2026-10-18T04:00:11.716Z",
+      "seq": 185
     },
     {
       "id": "47188408",
@@ -379,6 +339,70 @@
       "note": "Hu 외 2019 redalyc 231360290002 초록: boundary crossing 을 통해 telepressure 가 physical fatigue, poor sleep quality 와 연관. 결과 간선 후보(인과 표현 확인 필요)",
       "createdAt": "2026-10-18T02:52:51.239Z",
       "seq": 161
+    },
+    {
+      "id": "9b285595",
+      "title": "사회불안의 안전 행동",
+      "priority": 10,
+      "note": "replaying-conversations-afterward F2(Carnahan 2019): 안전 행동 증가 → 사건 후 처리 증가. replaying-conversations-afterward 의 원인 후보",
+      "createdAt": "2026-10-18T03:41:09.689Z",
+      "seq": 177
+    },
+    {
+      "id": "3c062cdb",
+      "title": "예기불안 (다가올 사회적 상황 앞의 불안)",
+      "priority": 10,
+      "note": "replaying-conversations-afterward F2(Carnahan 2019): 사건 후 처리 → 다음 발표 과제 예기불안. replaying-conversations-afterward 의 결과 후보",
+      "createdAt": "2026-10-18T03:41:09.797Z",
+      "seq": 178
+    },
+    {
+      "id": "a033fa3c",
+      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
+      "priority": 10,
+      "note": "2026-10-18 2차: kormedi.com/1350541(2021-08-12, 이제 replaying F3)는 통화 뒤 되짚기 → 그 실수에 대한 초조까지만 말함. insidehook.com/wellness/telephobia(2021-02-23)는 시간순 서술이고 200자 넘음. 전화 통화 두려움 자체와의 인과를 말하는 원문을 찾아야 간선",
+      "createdAt": "2026-10-18T03:41:09.927Z",
+      "seq": 179
+    },
+    {
+      "id": "704b6afc",
+      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
+      "priority": 10,
+      "note": "2026-10-18 2차: poverty.ac.uk/node/1302(이제 concealing-poverty F4)는 남의 시선 걱정 → 수급 사실 숨김으로 자존감 위협과 직접 잇지 않음. 세계일보 2026-08-24 segye.com/newsView/20260824515111 '창피해서, 가난하다는 낙인이 찍히는 것 같아서 봉투를 거절' 은 도움 거절만. um.edu.mt OAR 124822(Abela 2020) 'shaming, making them seek ways to conceal' 은 도움 언급 없음",
+      "createdAt": "2026-10-18T03:55:34.060Z",
+      "seq": 182
+    },
+    {
+      "id": "43d7fd22",
+      "title": "도움받기를 창피해 거절하기",
+      "priority": 10,
+      "note": "segye.com/newsView/20260824515111(2026-08-24) 중장년 남성이 창피해서 지원 봉투를 거절. mt.co.kr 2022-03-15 '나라의 도움을 받는 걸 자존심 상하는 일'. threat-in-receiving-help 보강 또는 하위 후보",
+      "createdAt": "2026-10-18T03:55:34.176Z",
+      "seq": 183
+    },
+    {
+      "id": "8fa56699",
+      "title": "퇴근 뒤 업무 연락에 답하기와 메신저 빠른 응답 의무감의 관계",
+      "priority": 10,
+      "note": "2026-10-18: after-hours-work-replies 가 이미 telepressure 를 별칭으로 두고 redalyc Hu 2019 정의를 F3 로 씀. 메신저 빠른 응답 의무감 문서는 업무 밖 개인 메신저(읽씹 걱정 등) 파편으로 세워야 중복이 아님. 인과 후보: hal.univ-lille.fr/hal-04453951 'Employees under telepressure are likely to respond more frequently and more quickly to e-mails'(이메일, 발행일 미상)",
+      "createdAt": "2026-10-18T03:59:08.968Z",
+      "seq": 184
+    },
+    {
+      "id": "4e3a43ad",
+      "title": "서비스 공간의 대화 거절 선택지",
+      "priority": 10,
+      "note": "pretending-to-sleep-to-avoid-talk F3(조선일보 2026-01-10): 미용실 예약의 '조용히 시술받기' 옵션, 스몰토크 거부. pretending-to-sleep 과 원인/결과 후보",
+      "createdAt": "2026-10-18T04:00:11.843Z",
+      "seq": 186
+    },
+    {
+      "id": "c2580b26",
+      "title": "말 걸까 봐 택시 피하기",
+      "priority": 10,
+      "note": "ditoday.com/?p=14673(디지털 인사이트 2018-11-28) '말을 걸지 않을 거라는 마음의 안정. 상대가 거는 말에 대답을 해야 하는 의무감은 애초에 없을 거라는 것' 이 택시를 타지 않던 이유. 자는 척이 아니라 서비스 선택이라 pretending-to-sleep-to-avoid-talk 에 안 넣음. 서비스 공간의 대화 거절 선택지와 관계 후보",
+      "createdAt": "2026-10-18T04:00:35.878Z",
+      "seq": 187
     }
   ]
 }
