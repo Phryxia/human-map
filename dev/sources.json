@@ -1968,5 +1968,23 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://www.gutenberg.org/cache/epub/2814/pg2814-images.html": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://repository.lsu.edu/cmst_pubs/104": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.ytn.co.kr/_ln/0103_202311011050017994": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
