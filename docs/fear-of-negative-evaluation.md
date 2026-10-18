@@ -40,6 +40,7 @@
 ## 결과
 
 - [대화 뒤 되짚기](replaying-conversations-afterward.md) [F3]
+- [수줍은 방광](shy-bladder.md)
 
 ## 긴장
 
