@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T05:00:44.023Z",
-  "nextSeq": 208,
-  "stops": 27,
+  "savedAt": "2026-10-18T06:05:16.469Z",
+  "nextSeq": 217,
+  "stops": 28,
   "items": [
-    {
-      "id": "392bc87a",
-      "title": "게시 직전 자기검열과 보내지 않는 편지 쓰기의 관계",
-      "priority": 50,
-      "note": "last-minute-self-censorship F2(Das·Kramer 2013)와 unsent-letters F7(Yin·Xiao 2026) 모두 써 놓고 내보내지 않음. 상위(써 놓고 내보내지 않기) 후보. HN 4102907(2012-06-12) 'so I deleted my reply' 는 게시 전후가 불분명. meta.discourse.org/t/75277(2017-12-03) 댓글 '71% of users kept content in a compose for ten minutes' 는 측정 방식 반론",
-      "createdAt": "2026-10-18T03:02:46.056Z",
-      "seq": 165
-    },
-    {
-      "id": "ac792baf",
-      "title": "help-seeking-avoidance 보강: 갚을 기회와 자존감",
-      "priority": 50,
-      "note": "cris.haifa.ac.il/en/publications/effects-of-opportunity-to-reciprocate-and-self-esteem-on-help-see/ (Nadler 외 1985-03-01): 갚을 기회가 없다고 본 고자존감 참가자가 도움을 가장 덜 구했다",
-      "createdAt": "2026-10-18T03:49:49.575Z",
-      "seq": 181
-    },
-    {
-      "id": "5d06b71b",
-      "title": "pretending-to-sleep-to-avoid-talk 보강: 택시",
-      "priority": 50,
-      "note": "ditoday.com/?p=14673(디아이투데이 2018-11-28) '말을 걸지 않을 거라는 마음의 안정.' 택시 대화 회피. 이번 회차엔 미용실 파편(nate 20260110n00225)만 더함",
-      "createdAt": "2026-10-18T04:00:11.716Z",
-      "seq": 185
-    },
-    {
-      "id": "d33d1f0d",
-      "title": "waiting-for-a-reply 보강: 기대 응답 시간과 읽고 답하지 않는 이유",
-      "priority": 50,
-      "note": "W Korea 2025 기사가 CHI 2022 'Why Did You/I Read but Not Reply?' 인용. 원 논문 확인 필요. 답장 미루기와 관계 후보",
-      "createdAt": "2026-10-18T04:39:08.332Z",
-      "seq": 200
-    },
-    {
-      "id": "ab3bb248",
-      "title": "staying-in-group-chats 보강: 2013년 이전 출처",
-      "priority": 50,
-      "note": "파편이 2017~2026 에 몰림. 단체 문자, 메일링 리스트, 카페 탈퇴 시기의 글로 시기 조건 확인",
-      "createdAt": "2026-10-18T04:50:14.478Z",
-      "seq": 204
-    },
-    {
-      "id": "0a0dc173",
-      "title": "not-asking-for-loan-back 보강: 학술과 한국어 출처",
-      "priority": 50,
-      "note": "파편이 문학 1, 매체 3. Wherry 외 2019 Social Forces(OUP 403). 위키문헌 염상섭 「갈등」 돈 받으러 다니는 장면 확인 필요",
-      "createdAt": "2026-10-18T04:53:16.845Z",
-      "seq": 205
-    },
-    {
-      "id": "a8dc2864",
-      "title": "ritual-refusal 보강: 한국어 출처와 관계에 따른 조건",
-      "priority": 50,
-      "note": "파편이 중국어 화자에 한정. CARLA 페이지: 사양 여부가 관계의 성격에 달림. 한국 '세 번 권해야 먹는다' 류 출처 필요",
-      "createdAt": "2026-10-18T04:56:13.389Z",
-      "seq": 207
-    },
-    {
-      "id": "47188408",
-      "title": "기준점 의존",
-      "priority": 10,
-      "note": "F1(Tversky-Kahneman 1991)이 선호가 기준점에 달린다고 적음. loss-aversion 과 관계 후보",
-      "createdAt": "2026-10-15T00:42:50.459Z",
-      "seq": 3
-    },
-    {
-      "id": "cd68a53d",
-      "title": "약속 취소를 받는 쪽의 반응",
-      "priority": 10,
-      "note": "urge-to-cancel-plans 보조 후보: 82cook 자유게시판 2023-10-24 당일 약속 취소 자주하는 사람들 글. 원문 대목 미확보",
-      "createdAt": "2026-10-15T04:34:39.843Z",
-      "seq": 5
-    },
     {
       "id": "89fa5a0a",
       "title": "정보 확인 빈도와 시장 등락 (미어캣 효과)",
@@ -475,6 +403,30 @@
       "note": "Starling Bank 2023: 어려운 대화를 피하려고 받을 돈을 포기. not-asking-for-loan-back 의 결과 후보",
       "createdAt": "2026-10-18T04:53:16.973Z",
       "seq": 206
+    },
+    {
+      "id": "284365c8",
+      "title": "읽고 답하지 않기 (읽씹)",
+      "priority": 10,
+      "note": "Chou 외 CHI 2022 'Why Did You/I Read but Not Reply?' (doi 10.1145/3491102.3517496): 받는 쪽이 답하지 않는 이유 8유형. ACM DL 봇 확인 페이지라 다른 HTML 사본 필요. waiting-for-a-reply 와 원인 후보, delaying-message-replies 와 상위/하위 후보",
+      "createdAt": "2026-10-18T05:44:39.690Z",
+      "seq": 214
+    },
+    {
+      "id": "1d02be1d",
+      "title": "친구 끊기를 상대가 알아챌까 봐 망설이기",
+      "priority": 10,
+      "note": "archive.blogs.harvard.edu/digitalnatives/2008/12/15/unfriending-stealth-tactics-and-sensible-responses/ (2008-12-15) 'they’re quite likely to discover the unfriending eventually.' blog.commarts.wisc.edu/2009/11/18/unfriended (Ellcessor 2009-11-18) 알림이 없어 상처를 덜 줌. staying-in-group-chats 와 관련 후보",
+      "createdAt": "2026-10-18T05:47:32.692Z",
+      "seq": 215
+    },
+    {
+      "id": "b701b2dd",
+      "title": "약속 취소를 받는 쪽의 반응",
+      "priority": 10,
+      "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련",
+      "createdAt": "2026-10-18T06:05:10.707Z",
+      "seq": 216
     }
   ]
 }
