@@ -39,7 +39,7 @@
 
 ## 원인
 
-없음.
+- [정치 무력감](political-inefficacy.md) [F1]
 
 ## 결과
 
