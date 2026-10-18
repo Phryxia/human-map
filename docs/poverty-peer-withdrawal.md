@@ -10,14 +10,19 @@
 
 2013년 F2 의 기사는 가난한 아이들이 자기 처지를 숨기려고 스스로 사회적으로 빠지는 일이 잦다고 썼다. [F2]
 
+2022년 F3 의 글은 웨일스 학생 설문의 응답으로 반 친구들의 생활에 어울리지 못하는 것과 사람들을 자기 집에 부르기 부끄러운 것을 옮긴다. [F3]
+
 # 조건
 
 2013년 F1 은 젊은 사람들의 사회 참여를 다루고 2013년 F2 는 가난한 집의 아이들을 다룬다. [F1][F2]
+
+2013년 F2 는 아이들이 처지를 숨기려고 스스로 빠지는 모습을 적고 2022년 F3 는 친구를 집에 부르는 일에서 드는 부끄러움을 적는다. [F2][F3]
 
 # 파편
 
 - F1 [학술] "Poverty research has demonstrated that financial constraints and the social withdrawal that result from feelings of shame cause lower participation rates." (빈곤 연구는 경제적 제약과 수치심에서 비롯된 사회적 물러남이 더 낮은 참여율을 낳는다는 것을 보여 주었다.) — Andreas Damelang, Georgi Kloß, 「Poverty and the social participation of young people: an analysis of poverty-related withdrawal mechanisms」, Journal for Labour Market Research 46(4), 2013, https://ideas.repec.org/a/iab/iabjlr/v46i4p321-333.html, 2026-10-18 접속
 - F2 [매체] "But problems arise because poor children often exclude themselves socially to conceal their situation." (가난한 아이들은 자기 처지를 숨기려고 스스로 친구 관계에서 빠지는 일이 잦아 문제가 생긴다.) — Britt Embry, "Poor kids help at home but hide at school", ScienceNordic, 2013-04-19, https://sciencenordic.com/poor-kids-help-home-hide-school, 2026-10-18 접속
+- F3 [매체] "Not being able to relate or fit in with the lifestyle of classmates and being embarrassed about inviting people to one’s home" (반 친구들의 생활 방식에 공감하거나 어울리지 못하는 것, 그리고 사람들을 자기 집에 부르기를 부끄러워하는 것) — Sally Power, 「Poverty in the classroom: School pupils in Wales are acutely aware of hardships experienced by their classmates」, WISERD, 2022-11-09, https://wiserd.ac.uk/blog/poverty-in-the-classroom-school-pupils-in-wales-are-acutely-aware-of-hardships-experienced-by-their-classmates/, 2026-10-18 접속
 
 # 관계
 
