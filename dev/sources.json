@@ -136,15 +136,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3057069/": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-18"
   },
   "https://www.fastreat.com/community/posts/10043": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-18"
   },
   "https://ideas.repec.org/a/ucp/jpolec/v98y1990i6p1325-48.html": {
     "first": "2026-10-16",
@@ -1134,6 +1134,18 @@
     "lastVerified": "2026-10-18"
   },
   "https://aaai.org/papers/00120-14412-self-censorship-on-facebook/": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/perpetuating-factors-of-social-anxiety-a-serial-mediation-model/7E671CEC6A84F385DAFC74B210BA2173": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://kormedi.com/1350541/": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
