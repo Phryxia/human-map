@@ -40,7 +40,7 @@
 
 ## 원인
 
-없음.
+- [노력이 소용없다는 생각](feeling-ones-effort-makes-no-difference.md) [F1]
 
 ## 결과
 
