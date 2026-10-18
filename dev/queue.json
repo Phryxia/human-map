@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T19:04:34.080Z",
-  "nextSeq": 384,
-  "stops": 38,
+  "savedAt": "2026-10-18T20:59:08.447Z",
+  "nextSeq": 398,
+  "stops": 39,
   "items": [
-    {
-      "id": "61637012",
-      "title": "dev: style-check 연결어미 뒤 쉼표가 '적고,' 처럼 하고 밖의 ~고, 를 놓친다",
-      "priority": 80,
-      "note": "eating-alone-feelings:20 '바뀌고 있다고 적고, 2022년' 이 style-check 를 통과했다(9b22c3e 에서 수정). 패턴이 하고/이고 만 본다. 동사 어간+고, 를 잡되 '그리고,' 나 인용 안은 제외 검토",
-      "createdAt": "2026-10-18T18:39:21.542Z",
-      "seq": 377
-    },
     {
       "id": "d77cce97",
       "title": "dev: source-check 가 302 리다이렉트 URL 을 fetch failed 로 UNREACHABLE 처리한다",
@@ -37,12 +29,36 @@
       "seq": 382
     },
     {
+      "id": "7737a200",
+      "title": "향수 보강",
+      "priority": 50,
+      "note": "homesickness 와 returning-home-feels-strange 사이 긴장 근거 파편 찾기(그리던 고향과 돌아온 고향의 어긋남). 서울신문 2018-06-16 칼럼은 이미 returning-home F4",
+      "createdAt": "2026-10-18T20:53:19.602Z",
+      "seq": 396
+    },
+    {
+      "id": "c5c176ec",
+      "title": "일요일 밤의 출근 걱정 보강",
+      "priority": 50,
+      "note": "sunday-night-dread: 매체 3·SNS 1, 학술·공공 없음. Kickresume 2024-11 설문 '68% happy with job, 70% Sunday Scaries'(발행일 미상) 조건 후보. aasm.org 수면 설문 보도자료 미확인. lying-awake-thinking 과 결과 간선 후보(F3 불면)",
+      "createdAt": "2026-10-18T20:58:46.103Z",
+      "seq": 397
+    },
+    {
       "id": "39c26f2a",
       "title": "dev: validate 의 F<n> 언급 검사를 WARN 에서 ERROR 로 올린다",
       "priority": 40,
       "note": "eating-alone-feelings:20 이 고쳐진 뒤. dev: validate warns when a paragraph names F<n> 커밋",
       "createdAt": "2026-10-18T18:39:02.523Z",
       "seq": 376
+    },
+    {
+      "id": "6cf9d225",
+      "title": "dev: style-check 의 동사 어간+고, 패턴을 WARN 에서 ERROR 로 올린다",
+      "priority": 40,
+      "note": "delaying-bad-news, disposition-effect, pretending-to-sleep-to-avoid-talk, silent-work-awaiting-reward 의 '고,' 가 고쳐진 뒤. style-rules.mjs 의 level: 'WARN' 을 뗀다",
+      "createdAt": "2026-10-18T20:33:26.587Z",
+      "seq": 393
     },
     {
       "id": "ad438c7c",
@@ -651,6 +667,22 @@
       "note": "delaying-message-replies F3 의 결과 후보. 확인된 매체 후보: Refinery29 2021-12-10 refinery29.com/en-gb/late-replies-whatsapp-excuses 'And the longer I go, the more insurmountable the task of opening an app and typing another round of \"sorry sorry sorry\" begins to feel.', soulsthatlisten.substack.com/p/i-forget-to-reply 2021-01-17. 학술: Li, Zheng, Schroeder 2026 PSPB doi 10.1177/01461672261478732(HTML 초록 열리지 않음). 학술이나 SNS 출처 필요",
       "createdAt": "2026-10-18T19:04:32.927Z",
       "seq": 383
+    },
+    {
+      "id": "718145d3",
+      "title": "치료 부담감",
+      "priority": 10,
+      "note": "서울신문 2014-03-31 결핵 기사: 6개월 복약 동안 심리적·육체적·경제적 부담을 느끼고 '그런 이유로 복약을 중단'. stopping-medication-when-feeling-better 의 원인 후보",
+      "createdAt": "2026-10-18T20:40:05.153Z",
+      "seq": 394
+    },
+    {
+      "id": "eb1ee9d5",
+      "title": "날짜 지난 음식에 남는 찜찜함",
+      "priority": 10,
+      "note": "매일신문 2012-03-03 imaeil 2012030307252073161: 하루 지난 우유가 냄새·맛에 이상이 없어도 '마음이 영 찝찝'. discarding-food-by-date-label 의 원인 후보(같은 출처는 이미 F3 로 씀, 다른 출처 필요)",
+      "createdAt": "2026-10-18T20:47:07.098Z",
+      "seq": 395
     }
   ]
 }
