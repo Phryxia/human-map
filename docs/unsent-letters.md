@@ -32,6 +32,7 @@
 
 ## 상위
 
+- [써 놓고 내보내지 않기](writing-without-sending.md)
 - [자기 침묵](self-silencing.md)
 
 ## 하위
