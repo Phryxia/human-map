@@ -623,20 +623,21 @@
   },
   "https://www.gutenberg.org/cache/epub/1749/pg1749-images.html": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://link.springer.com/article/10.3758/s13415-020-00802-8": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
-    "result": "UNREACHABLE"
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   },
   "https://cris.haifa.ac.il/en/publications/what-do-we-envy-how-internal-and-external-self-relevance-shape-en/": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://www.iza.org/publications/dp/2531": {
     "first": "2026-10-17",
@@ -688,9 +689,9 @@
   },
   "https://www.hangyo.com/mobile/article.html?no=108675": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4351276/": {
     "first": "2026-10-17",
@@ -934,9 +935,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%B9%88%EC%B2%98": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://www.sidae.com/article/2016102808278064569": {
     "first": "2026-10-17",
@@ -2264,6 +2265,30 @@
     "lastVerified": "2026-10-18"
   },
   "https://www.imaeil.com/page/view/2022120214291895618": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.gutenberg.org/files/599/599-h/599-h.htm": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.gutenberg.org/files/833/833-h/833-h.htm": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.nber.org/papers/w13392": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://v.daum.net/v/20180417142727710": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
