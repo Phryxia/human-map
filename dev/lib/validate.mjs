@@ -71,8 +71,8 @@ export function validateDoc(doc, docs, sources = {}) {
       // "2021년 F3 는" 처럼 본문이 이름으로 부른 파편은 그 문단의 근거에 있고 연도가 발행일과 같아야 한다
       for (const m of p.text.matchAll(MENTION_RE)) {
         const [, year, n] = m, f = doc.fragments.find(x => x.n === Number(n))
-        if (!refs.includes(Number(n))) warn(p.ln, `본문이 F${n} 를 언급하지만 문단의 근거에 없다`)
-        else if (year && f && !f.date.startsWith(year)) warn(p.ln, `${year}년 F${n} 의 연도가 파편 발행일(${f.date})과 다르다`)
+        if (!refs.includes(Number(n))) err(p.ln, `본문이 F${n} 를 언급하지만 문단의 근거에 없다`)
+        else if (year && f && !f.date.startsWith(year)) err(p.ln, `${year}년 F${n} 의 연도가 파편 발행일(${f.date})과 다르다`)
       }
     }
   }

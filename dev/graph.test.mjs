@@ -106,8 +106,8 @@ test('관계 줄의 붙여 쓴 근거 파편 [F1][F2] 도 간선으로 읽고, �
   assert.ok(m.some(x => x.includes('관계 줄 형식')))
 })
 
-test('본문의 F<n> 언급이 그 문단의 [Fn] 에 없거나 연도가 파편 발행일과 다르면 WARN', () => {
-  const bad = (cond) => warns(loadAll(makeRepo({a: makeDoc({cond})})))
+test('본문의 F<n> 언급이 그 문단의 [Fn] 에 없거나 연도가 파편 발행일과 다르면 ERROR', () => {
+  const bad = (cond) => errs(loadAll(makeRepo({a: makeDoc({cond})})))
   assert.ok(bad('2001년 F2 는 조건을 다룬다. [F1]').some(x => x.includes('F2 를 언급하지만 문단의 근거에 없다')))
   assert.ok(bad('2011년 F1 는 조건을 다룬다. [F1]').some(x => x.includes('2011년 F1')))
   assert.deepEqual(bad('2001년 F1 과 2011년 F2 에서 조건이 달랐다. [F1][F2]'), [])
