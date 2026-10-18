@@ -1674,5 +1674,23 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://api.crossref.org/works/10.1002/job.4030150306": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://api.crossref.org/works/10.1111/j.1744-6570.2007.00087.x": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.newsis.com/view/NISX20240212_0002623608": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
