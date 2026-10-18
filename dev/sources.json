@@ -2659,5 +2659,22 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://boards.straightdope.com/t/at-what-point-do-you-alert-the-authorities-when-you-cant-reach-someone/417139": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://eprints.gla.ac.uk/109954": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "UNREACHABLE"
+  },
+  "https://eprints.gla.ac.uk/109954/": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
