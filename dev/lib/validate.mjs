@@ -21,7 +21,9 @@ export const accountOf = url => {
 const DATE_OK = d => d === '발행일 미상' || /^\d{4}(-\d{2}(-\d{2})?)?$/.test(d)
 const sortKey = d => d === '발행일 미상' ? '' : d
 // 문장 끝: 공백이나 문단 끝 앞의 마침표·물음표·느낌표. 15.6% 같은 소수점은 세지 않는다.
-const sentenceCount = text => text.replace(/\[F\d+\]/g, '').match(/[.?!](?=\s|$)/g)?.length ?? 0
+// 본문의 파편 언급: 대괄호 밖의 F<n>, 앞에 "YYYY년 (M월 (D일))" 이 붙을 수 있다.
+const MENTION_RE = /(?<!\[)(?:(\d{4})년(?: \d{1,2}월)?(?: \d{1,2}일)? )?\bF(\d+)\b(?!\])/g
+const sentenceCount =text => text.replace(/\[F\d+\]/g, '').match(/[.?!](?=\s|$)/g)?.length ?? 0
 
 // sources 는 dev/sources.json 의 URL 별 기록. VERIFIED 인 출처의 원문은 출처에 글자 그대로 있으므로 줄임표도 원글의 것이다.
 export function validateDoc(doc, docs, sources = {}) {
@@ -66,6 +68,12 @@ export function validateDoc(doc, docs, sources = {}) {
       const refs = [...p.text.matchAll(/\[F(\d+)\]/g)].map(m => Number(m[1]))
       if (!refs.length) err(p.ln, '문단에 근거 파편이 없다')
       for (const r of refs) { used.add(r); if (!nums.has(r)) err(p.ln, `없는 파편 F${r} 를 가리킨다`) }
+      // "2021년 F3 는" 처럼 본문이 이름으로 부른 파편은 그 문단의 근거에 있고 연도가 발행일과 같아야 한다
+      for (const m of p.text.matchAll(MENTION_RE)) {
+        const [, year, n] = m, f = doc.fragments.find(x => x.n === Number(n))
+        if (!refs.includes(Number(n))) warn(p.ln, `본문이 F${n} 를 언급하지만 문단의 근거에 없다`)
+        else if (year && f && !f.date.startsWith(year)) warn(p.ln, `${year}년 F${n} 의 연도가 파편 발행일(${f.date})과 다르다`)
+      }
     }
   }
   for (const [rel, edges] of Object.entries(doc.rel)) for (const e of edges ?? []) for (const r of e.frags) { used.add(r); if (!nums.has(r)) err(e.ln, `없는 파편 F${r} 를 가리킨다`) }

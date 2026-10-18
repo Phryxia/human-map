@@ -6,6 +6,7 @@ import {findCycles, wouldCycle, edgeMap} from './lib/graph-lib.mjs'
 import {makeDoc, makeRepo, frag} from './lib/fixture.mjs'
 
 const errs = docs => validateAll(docs).filter(r => r.level === 'ERROR').map(r => r.msg)
+const warns = docs => validateAll(docs).filter(r => r.level === 'WARN').map(r => r.msg)
 
 test('정상 문서는 통과한다', () => {
   const docs = loadAll(makeRepo({a: makeDoc()}))
@@ -103,4 +104,12 @@ test('관계 줄의 붙여 쓴 근거 파편 [F1][F2] 도 간선으로 읽고, �
   const bad = makeDoc({rel: {원인: ['- [B](b.md) F1']}})
   const m = errs(loadAll(makeRepo({a: bad, b})))
   assert.ok(m.some(x => x.includes('관계 줄 형식')))
+})
+
+test('본문의 F<n> 언급이 그 문단의 [Fn] 에 없거나 연도가 파편 발행일과 다르면 WARN', () => {
+  const bad = (cond) => warns(loadAll(makeRepo({a: makeDoc({cond})})))
+  assert.ok(bad('2001년 F2 는 조건을 다룬다. [F1]').some(x => x.includes('F2 를 언급하지만 문단의 근거에 없다')))
+  assert.ok(bad('2011년 F1 는 조건을 다룬다. [F1]').some(x => x.includes('2011년 F1')))
+  assert.deepEqual(bad('2001년 F1 과 2011년 F2 에서 조건이 달랐다. [F1][F2]'), [])
+  assert.deepEqual(bad('2001년 9월 F1 은 조건을 다룬다. [F1]'), [])
 })
