@@ -1097,5 +1097,22 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://www.sciencedaily.com/releases/2012/08/120801093615.htm": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.clien.net/service/board/park/10204233": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://m.news.nate.com/view/20260110n00225": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "NOT_FOUND"
   }
 }
