@@ -191,21 +191,21 @@
   },
   "https://api.crossref.org/works/10.1111/j.1540-6261.1985.tb05002.x": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://api.crossref.org/works/10.1111/0022-1082.00072": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://www.wikitree.co.kr/articles/1145727": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://ko.wikisource.org/wiki/빈처": {
     "first": "2026-10-17",
@@ -2084,6 +2084,30 @@
     "lastVerified": "2026-10-18"
   },
   "https://www.clien.net/service/board/park/19127841": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://pensionresearchcouncil.wharton.upenn.edu/?p=700": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/32440?mode=full": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/36765": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://kbmaeil.com/article/202212130350283": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
