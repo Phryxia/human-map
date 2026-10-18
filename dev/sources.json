@@ -3078,5 +3078,40 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://weekly.khan.co.kr/article/6571": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.nature.com/news/2004/041229/full/news041229-5.html": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.accesson.kr/healthpsy/v.12/3/631/18715": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "NOT_FOUND"
+  },
+  "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6430a1.htm": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://eprints.whiterose.ac.uk/id/eprint/101957": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "UNREACHABLE",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.medicalrepublic.com.au/you-snooze-you-dont-necessarily-lose/18153": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
