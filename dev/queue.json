@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T17:06:50.303Z",
-  "nextSeq": 346,
-  "stops": 36,
+  "savedAt": "2026-10-18T18:01:57.646Z",
+  "nextSeq": 366,
+  "stops": 37,
   "items": [
+    {
+      "id": "d6d27d81",
+      "title": "생각 때문에 잠 못 이루기 보강",
+      "priority": 50,
+      "note": "lying-awake-thinking: Austen Pride and Prejudice 44장(gutenberg 1342) 'she lay awake two whole hours, endeavouring to make them out.' 후보. Oxford Health NHS 'worrying-about-sleep' 페이지 후보. replaying-conversations-afterward 와 관계 근거 파편 찾기",
+      "createdAt": "2026-10-18T17:35:16.782Z",
+      "seq": 357
+    },
+    {
+      "id": "d9ba9e4a",
+      "title": "마음에 들지 않는 선물에 기뻐하는 척하기 보강",
+      "priority": 50,
+      "note": "feigning-delight-at-gifts: Ipsos 2010-12-23 ipsos.com/en-ca/node/205926 'Almost half (47%) of Canadians say they pretend to be overjoyed when receiving an unwanted gift.' 후보, Garrett-Peters & Fox 2007 eric.ed.gov/?id=EJ808268 후보. 큐의 '마음에 들지 않는 결과 앞에서 칭찬하기' 와 상위/형제 관계 후보",
+      "createdAt": "2026-10-18T17:48:20.295Z",
+      "seq": 360
+    },
+    {
+      "id": "d277a7c5",
+      "title": "분리배출 하지 않기 보강",
+      "priority": 50,
+      "note": "not-sorting-recyclables: 서울신문 1991 F1 의 앞 문장(분리해 줬더니 무슨 도움이 되느냐는 불평)이 '노력이 소용없다는 생각' 원인 간선 근거 후보. Strydom 2018 초록 'insufficient space, no time, ... main reasons why people do not recycle'(200자 초과라 미사용)",
+      "createdAt": "2026-10-18T17:52:34.340Z",
+      "seq": 361
+    },
+    {
+      "id": "5ef96505",
+      "title": "늦는 사람을 기다리며 서성이기 보강",
+      "priority": 50,
+      "note": "waiting-for-someone-late: 학술 파편 없음. 확인됨 3개(문학 2, 매체 1). 학술 출처 찾기. 술 권하는 사회 위키문헌 '대문은 열렸다 ... 문 밖에는 아무도 없다!' 대목, Jane Eyre XXV 장 문 앞까지 나가 보는 장면 후보",
+      "createdAt": "2026-10-18T17:54:40.833Z",
+      "seq": 362
+    },
+    {
+      "id": "3bf619be",
+      "title": "노년의 계속 일하기 희망 보강",
+      "priority": 50,
+      "note": "wanting-to-keep-working-in-old-age: 확인됨 3개(공공 2, 매체 1). 학술, SNS 파편 없음. Census acsbr08-10 앞 문장(part-time 으로 계속 일하는 이유) 후보, 뉴시스 같은 기사 성별 차이(남 76.5%, 여 62.4%)",
+      "createdAt": "2026-10-18T17:57:09.164Z",
+      "seq": 363
+    },
+    {
+      "id": "e21a7f96",
+      "title": "작심삼일 보강",
+      "priority": 50,
+      "note": "abandoning-resolutions: 확인됨 3개(학술 1, SNS 2). F1 은 PLOS ONE 2020 서론의 선행 연구(Norcross, Vangarelli) 요약. 원 연구나 공공·매체 설문 출처 찾기. 같은 논문 결과: 접근 목표 58.9% 대 회피 목표 47.1%(페이지 원문 미확인), procrastination 과의 관계 후보",
+      "createdAt": "2026-10-18T18:00:14.133Z",
+      "seq": 364
+    },
+    {
+      "id": "42676ccc",
+      "title": "자기에 대한 말 엿듣기 보강",
+      "priority": 50,
+      "note": "overhearing-talk-about-oneself: 학술 없음. rug.nl 블로그(Martinescu 2015)가 저자 자신의 연구를 소개함, 원 논문 찾기. 같은 페이지 'which makes gossip targets angry' 는 결과 간선(분노) 후보. Jane Eyre 3장 다음 문장 'Missis was, she dared say, glad enough to get rid of such a tiresome, ill-conditioned child' 후보",
+      "createdAt": "2026-10-18T18:01:47.292Z",
+      "seq": 365
+    },
     {
       "id": "936cfd41",
       "title": "메신저 빠른 응답 의무감",
@@ -579,6 +635,30 @@
       "note": "mood-repair F2·F3(주간경향 2004, 비즈한국 2015). 하위 후보",
       "createdAt": "2026-10-18T16:55:32.322Z",
       "seq": 345
+    },
+    {
+      "id": "a7520acc",
+      "title": "잠자리에서 시계 지켜보기",
+      "priority": 10,
+      "note": "lying-awake-thinking F3(Tang 외 2007 wrap.warwick.ac.uk/65972): 시계를 지켜본 참가자가 잠들기 전 걱정이 늘고 잠들기까지 더 오래 걸림. lying-awake-thinking 원인 간선 후보, F5(NHLBI) 도 시계 지켜보기 언급",
+      "createdAt": "2026-10-18T17:35:16.626Z",
+      "seq": 356
+    },
+    {
+      "id": "2f7f349d",
+      "title": "신호 대기 중의 답답함",
+      "priority": 10,
+      "note": "jaywalking F4(news.seoul.go.kr/traffic/archives/510853): 빨간불 남은 시간을 모를 때 기다리는 답답함, 무단횡단 원인 후보. korea.kr 148757052 도 '보행자 신호가 자주 바뀌지 않기 때문에 ... 무단횡단의 유혹' 원인 문장",
+      "createdAt": "2026-10-18T17:38:59.342Z",
+      "seq": 358
+    },
+    {
+      "id": "019d3c9d",
+      "title": "회식을 업무의 연장으로 느끼기",
+      "priority": 10,
+      "note": "레이디경향 2021-09-30 lady.khan.co.kr/culture/article/202109301729001: 회식에 부정적인 이유 '업무의 연장 같다는 생각 때문(48.2%)'. company-dinner-pressure 원인 간선 후보(같은 URL)",
+      "createdAt": "2026-10-18T17:41:10.270Z",
+      "seq": 359
     }
   ]
 }
