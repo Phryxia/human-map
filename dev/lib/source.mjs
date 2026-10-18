@@ -31,12 +31,19 @@ const USER_AGENTS = ['Mozilla/5.0 (compatible; human-map-source-check)', 'curl/8
 // 200 으로 오지만 본문 대신 봇 확인을 띄우는 페이지. PMC 는 간헐적으로 reCAPTCHA 확인 페이지를, Springer/BMC 는 Client Challenge 페이지를 준다.
 export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i, /<title>\s*Client Challenge\s*<\/title>/i]
 
+// 바이트를 Content-Type 의 charset, 없으면 앞부분의 meta charset 으로 디코딩한다. 네이트 뉴스처럼 EUC-KR 로 오는 페이지가 있다.
+export function decodeBody(bytes, contentType = '') {
+  const head = new TextDecoder('latin1').decode(bytes.subarray(0, 4096))
+  const label = (/charset\s*=\s*["']?([\w-]+)/i.exec(contentType) ?? /<meta[^>]+charset\s*=\s*["']?([\w-]+)/i.exec(head))?.[1]
+  try { return new TextDecoder(label ?? 'utf-8').decode(bytes) } catch { return new TextDecoder('utf-8').decode(bytes) }
+}
+
 async function fetchOnce(url, ua, {timeout, fetchImpl}) {
   try {
     const res = await fetchImpl(url, {redirect: 'follow', signal: AbortSignal.timeout(timeout), headers: {'user-agent': ua, accept: 'text/html,text/plain,*/*'}})
     if (!res.ok) return {ok: false, reason: `HTTP ${res.status}`}
     const ct = res.headers.get('content-type') ?? ''
-    const body = await res.text()
+    const body = res.arrayBuffer ? decodeBody(new Uint8Array(await res.arrayBuffer()), ct) : await res.text()
     if (CHALLENGE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
     const text = extractText(body, ct)
     return text === null ? {ok: false, reason: `텍스트가 아니다 (${ct})`} : {ok: true, text}
@@ -54,8 +61,9 @@ export function httpsFetch(url, {headers = {}, signal} = {}, hops = 0) {
       res.on('data', c => chunks.push(c))
       res.on('error', reject)
       res.on('end', () => {
-        const body = Buffer.concat(chunks).toString('utf8')
-        resolve({ok: res.statusCode >= 200 && res.statusCode < 300, status: res.statusCode, headers: new Map([['content-type', res.headers['content-type'] ?? '']]), text: async () => body})
+        const buf = Buffer.concat(chunks)
+        const bytes = new Uint8Array(buf.buffer, buf.byteOffset, buf.length)
+        resolve({ok: res.statusCode >= 200 && res.statusCode < 300, status: res.statusCode, headers: new Map([['content-type', res.headers['content-type'] ?? '']]), arrayBuffer: async () => bytes.slice().buffer, text: async () => buf.toString('utf8')})
       })
     })
     req.on('error', reject)

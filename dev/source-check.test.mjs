@@ -120,3 +120,13 @@ test('mergeRecords: rebase 충돌 때 두 쪽 sources.json 을 URL 합집합으�
   assert.equal(m.r.removed, true)
   assert.equal(m.r.lastVerified, '2026-10-12')
 })
+test('fetchText: EUC-KR 페이지는 Content-Type 이나 meta charset 을 읽어 디코딩한다 (네이트 뉴스)', async () => {
+  const html = '<html><head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr"></head><body>평소 미용사가 말 거는 게 싫어 자는 척</body></html>'
+  const eucKr = Buffer.from('3c68746d6c3e3c686561643e3c6d65746120687474702d65717569763d22436f6e74656e742d547970652220636f6e74656e743d22746578742f68746d6c3b20636861727365743d6575632d6b72223e3c2f686561643e3c626f64793ec6f2bcd220b9ccbfebbbe7b0a120b8bb20b0c5b4c220b0d420bdc8beee20c0dab4c220c3b43c2f626f64793e3c2f68746d6c3e', 'hex')
+  assert.equal(new TextDecoder('euc-kr').decode(eucKr), html)
+  for (const ct of ['text/html; charset=EUC-KR', 'text/html']) {
+    const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', ct]]), arrayBuffer: async () => eucKr.buffer.slice(eucKr.byteOffset, eucKr.byteOffset + eucKr.length), text: async () => eucKr.toString('utf8')})
+    const page = await fetchText('https://m.news.nate.com/view/20260110n00225', {fetchImpl, quote: '평소 미용사가 말 거는 게 싫어 자는 척'})
+    assert.ok(page.ok && quoteIn(page.text, '평소 미용사가 말 거는 게 싫어 자는 척'), ct)
+  }
+})
