@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T15:01:48.913Z",
-  "nextSeq": 335,
-  "stops": 35,
+  "savedAt": "2026-10-18T17:06:50.303Z",
+  "nextSeq": 346,
+  "stops": 36,
   "items": [
-    {
-      "id": "c3334c01",
-      "title": "dev: 관계 줄의 [F1][F2] 붙여 쓰기를 파서가 간선으로 읽지 못한다",
-      "priority": 80,
-      "note": "2026-10-18 income-loss-worry 결과 '- [아파도 출근하기](sickness-presenteeism.md) [F1][F2]' 가 간선으로 파싱되지 않아 상대 쪽에 ASYMMETRIC 만 났다. doc.mjs 관계 정규식이 ' [F1] [F2]' 만 받음. 형식 불일치 줄을 ERROR 로 보고하거나 붙여 쓰기도 받기",
-      "createdAt": "2026-10-18T13:01:07.479Z",
-      "seq": 324
-    },
-    {
-      "id": "280af022",
-      "title": "참아 온 불만이 자극을 받아 터져 나오기",
-      "priority": 10,
-      "note": "빈처(위키문헌) 아내가 T의 양산에 자극을 받아 참았던 말을 꺼냄. self-silencing 의 결과 후보",
-      "createdAt": "2026-10-17T04:33:16.992Z",
-      "seq": 22
-    },
-    {
-      "id": "48a7bab1",
-      "title": "구매 결정 미루기로 충동 소비 늦추기",
-      "priority": 10,
-      "note": "네이트판 375614092(2026-09-08): 장바구니에 담아만 두고 하루 뒤 다시 보면 판단이 된다. retail-therapy 와 긴장 후보",
-      "createdAt": "2026-10-17T04:49:38.435Z",
-      "seq": 29
-    },
-    {
-      "id": "8a6aac00",
-      "title": "기분 회복 행동",
-      "priority": 10,
-      "note": "drinking-to-cope 와 retail-therapy 의 상위 후보(mood repair). Atalay&Meloy 2011 초록 'repair a bad mood', Wycoff 2021 'relieve negative affective states'",
-      "createdAt": "2026-10-17T04:52:30.184Z",
-      "seq": 31
-    },
-    {
-      "id": "c7c37091",
-      "title": "가난 수치심과 가장(pretence)",
-      "priority": 10,
-      "note": "concealing-poverty 원인 후보: Walker 외 2013 JSP 초록 'shame ... variably leading to pretence, withdrawal' (cambridge.org DED0C9DC02D8ABCAA8F177BA3CC477AB). 문장 223자라 다른 대목 필요",
-      "createdAt": "2026-10-17T04:37:56.945Z",
-      "seq": 39
-    },
-    {
-      "id": "0481b19e",
-      "title": "가난을 숨기려는 아이의 또래 관계 회피",
-      "priority": 10,
-      "note": "concealing-poverty F3(ScienceNordic 2013): 처지를 숨기려 스스로 친구 관계에서 빠짐. 결과 간선 후보, 또래 관계 등교 거부 항목과 관련",
-      "createdAt": "2026-10-17T04:37:57.067Z",
-      "seq": 40
-    },
     {
       "id": "936cfd41",
       "title": "메신저 빠른 응답 의무감",
@@ -115,14 +67,6 @@
       "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
       "createdAt": "2026-10-17T11:55:36.323Z",
       "seq": 64
-    },
-    {
-      "id": "d1a021d5",
-      "title": "미루기와 기분 회복 행동의 관계",
-      "priority": 10,
-      "note": "procrastination F2(Sirois&Pychyl 2013) 'short-term mood repair'. 기분 회복 행동 항목(8a6aac00)과 원인/상위 후보",
-      "createdAt": "2026-10-17T12:53:48.278Z",
-      "seq": 76
     },
     {
       "id": "bc9297df",
@@ -603,6 +547,38 @@
       "note": "Maupassant The Necklace(gutenberg pg3080-images) 'there’s nothing more humiliating than to look poor among other women who are rich.' showing-off-possessions 와 concealing-poverty 관련 후보",
       "createdAt": "2026-10-18T14:56:26.209Z",
       "seq": 334
+    },
+    {
+      "id": "278fe775",
+      "title": "분노를 엉뚱한 대상에게 옮기기",
+      "priority": 10,
+      "note": "suppressed-anger-outburst F1(Carfagnini 2005 'anger outbursts and displacement'). 전위된 분노, suppressed-anger-outburst 결과 후보",
+      "createdAt": "2026-10-18T16:38:15.813Z",
+      "seq": 342
+    },
+    {
+      "id": "34a8fa00",
+      "title": "분노 억제 뒤 분노 증가",
+      "priority": 10,
+      "note": "Hosie 외 2005 Psychologia 48(4) jstage 48_4_288: suppression led to an increase in females’ self reports of anger. suppressed-anger-outburst 원인/하위 후보, 성별 조건",
+      "createdAt": "2026-10-18T16:38:15.953Z",
+      "seq": 343
+    },
+    {
+      "id": "3a7c9e0b",
+      "title": "구매 욕구와 의지의 맞섬",
+      "priority": 10,
+      "note": "Hoch&Loewenstein 1991 JCR 17(4) ideas.repec.org/a/oup/jconrs/v17y1991i4p492-507.html 'a struggle between two psychological forces, desire and willpower'. delaying-purchases 와 retail-therapy 사이 긴장 근거 후보",
+      "createdAt": "2026-10-18T16:45:10.190Z",
+      "seq": 344
+    },
+    {
+      "id": "2b2b5c8c",
+      "title": "보상 소비로서의 매운 음식 찾기",
+      "priority": 10,
+      "note": "mood-repair F2·F3(주간경향 2004, 비즈한국 2015). 하위 후보",
+      "createdAt": "2026-10-18T16:55:32.322Z",
+      "seq": 345
     }
   ]
 }
