@@ -58,10 +58,10 @@ export function validateDoc(doc, docs, sources = {}) {
   for (const sec of ['서술', '조건']) {
     const ps = paragraphs(doc, sec)
     if (!ps.length) err(doc.sections[sec]?.ln ?? 1, `${sec} 절이 비어 있다`)
-    if (sec === '서술' && ps.length > 4) warn(ps[4].ln, `서술 문단이 4개를 넘는다 (${ps.length})`)
+    if (sec === '서술' && ps.length > 4) err(ps[4].ln, `서술 문단이 4개를 넘는다 (${ps.length})`)
     for (const p of ps) {
       const sentences = sec === '서술' ? sentenceCount(p.text) : 0
-      if (sentences > 4) warn(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
+      if (sentences > 4) err(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
       const refs = [...p.text.matchAll(/\[F(\d+)\]/g)].map(m => Number(m[1]))
       if (!refs.length) err(p.ln, '문단에 근거 파편이 없다')
       for (const r of refs) { used.add(r); if (!nums.has(r)) err(p.ln, `없는 파편 F${r} 를 가리킨다`) }

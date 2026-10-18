@@ -85,12 +85,11 @@ test('줄임표 WARN 은 출처에서 원문 그대로 확인된 파편에는 �
   assert.deepEqual(warns(sources), [warns({})[1]])
 })
 
-test('서술 문단 수 1~4, 문단당 4문장 이내는 WARN', () => {
-  const warns = docs => validateAll(docs).filter(r => r.level === 'WARN').map(r => r.msg)
+test('서술 문단 수 1~4, 문단당 4문장 이내가 아니면 ERROR', () => {
   const five = Array.from({length: 5}, (_, i) => `문단 ${i}. [F1][F2]`).join('\n\n')
-  assert.ok(warns(loadAll(makeRepo({a: makeDoc({body: five})}))).some(x => x.includes('서술 문단이 4개를 넘는다 (5)')))
+  assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: five})}))).some(x => x.includes('서술 문단이 4개를 넘는다 (5)')))
   const long = '하나다. 둘이다. 15.6%였다. 넷이다. 다섯이다. [F1][F2]'
-  assert.ok(warns(loadAll(makeRepo({a: makeDoc({body: long})}))).some(x => x.includes('문단이 4문장을 넘는다 (5)')))
+  assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: long})}))).some(x => x.includes('문단이 4문장을 넘는다 (5)')))
   const ok = '하나다. 둘은 15.6%였다. 셋이다. 넷이다. [F1][F2]\n\n문단. [F1]\n\n문단. [F2]\n\n문단. [F1]'
-  assert.deepEqual(warns(loadAll(makeRepo({a: makeDoc({body: ok})}))), [])
+  assert.deepEqual(validateAll(loadAll(makeRepo({a: makeDoc({body: ok})}))).map(r => r.msg), [])
 })
