@@ -46,7 +46,7 @@
 
 ## 결과
 
-없음.
+- [할 말 미리 연습하기](rehearsing-what-to-say.md) [F3]
 
 ## 긴장
 
