@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T04:00:38.301Z",
-  "nextSeq": 188,
-  "stops": 26,
+  "savedAt": "2026-10-18T05:00:44.023Z",
+  "nextSeq": 208,
+  "stops": 27,
   "items": [
     {
       "id": "392bc87a",
@@ -11,14 +11,6 @@
       "note": "last-minute-self-censorship F2(Das·Kramer 2013)와 unsent-letters F7(Yin·Xiao 2026) 모두 써 놓고 내보내지 않음. 상위(써 놓고 내보내지 않기) 후보. HN 4102907(2012-06-12) 'so I deleted my reply' 는 게시 전후가 불분명. meta.discourse.org/t/75277(2017-12-03) 댓글 '71% of users kept content in a compose for ten minutes' 는 측정 방식 반론",
       "createdAt": "2026-10-18T03:02:46.056Z",
       "seq": 165
-    },
-    {
-      "id": "0bd124ec",
-      "title": "부채감과 도움 요청 회피의 관계",
-      "priority": 50,
-      "note": "nature.com/articles/s41467-023-44286-9(Gao 외 2024, indebtedness F5 와 같은 논문): 'The guilt and obligation components of indebtedness instead appear to be associated with increasing the likelihood of rejecting help.' 감사는 수락 쪽. 부채감과 감사의 긴장 후보이기도 함",
-      "createdAt": "2026-10-18T03:49:49.456Z",
-      "seq": 180
     },
     {
       "id": "ac792baf",
@@ -35,6 +27,38 @@
       "note": "ditoday.com/?p=14673(디아이투데이 2018-11-28) '말을 걸지 않을 거라는 마음의 안정.' 택시 대화 회피. 이번 회차엔 미용실 파편(nate 20260110n00225)만 더함",
       "createdAt": "2026-10-18T04:00:11.716Z",
       "seq": 185
+    },
+    {
+      "id": "d33d1f0d",
+      "title": "waiting-for-a-reply 보강: 기대 응답 시간과 읽고 답하지 않는 이유",
+      "priority": 50,
+      "note": "W Korea 2025 기사가 CHI 2022 'Why Did You/I Read but Not Reply?' 인용. 원 논문 확인 필요. 답장 미루기와 관계 후보",
+      "createdAt": "2026-10-18T04:39:08.332Z",
+      "seq": 200
+    },
+    {
+      "id": "ab3bb248",
+      "title": "staying-in-group-chats 보강: 2013년 이전 출처",
+      "priority": 50,
+      "note": "파편이 2017~2026 에 몰림. 단체 문자, 메일링 리스트, 카페 탈퇴 시기의 글로 시기 조건 확인",
+      "createdAt": "2026-10-18T04:50:14.478Z",
+      "seq": 204
+    },
+    {
+      "id": "0a0dc173",
+      "title": "not-asking-for-loan-back 보강: 학술과 한국어 출처",
+      "priority": 50,
+      "note": "파편이 문학 1, 매체 3. Wherry 외 2019 Social Forces(OUP 403). 위키문헌 염상섭 「갈등」 돈 받으러 다니는 장면 확인 필요",
+      "createdAt": "2026-10-18T04:53:16.845Z",
+      "seq": 205
+    },
+    {
+      "id": "a8dc2864",
+      "title": "ritual-refusal 보강: 한국어 출처와 관계에 따른 조건",
+      "priority": 50,
+      "note": "파편이 중국어 화자에 한정. CARLA 페이지: 사양 여부가 관계의 성격에 달림. 한국 '세 번 권해야 먹는다' 류 출처 필요",
+      "createdAt": "2026-10-18T04:56:13.389Z",
+      "seq": 207
     },
     {
       "id": "47188408",
@@ -403,6 +427,54 @@
       "note": "ditoday.com/?p=14673(디지털 인사이트 2018-11-28) '말을 걸지 않을 거라는 마음의 안정. 상대가 거는 말에 대답을 해야 하는 의무감은 애초에 없을 거라는 것' 이 택시를 타지 않던 이유. 자는 척이 아니라 서비스 선택이라 pretending-to-sleep-to-avoid-talk 에 안 넣음. 서비스 공간의 대화 거절 선택지와 관계 후보",
       "createdAt": "2026-10-18T04:00:35.878Z",
       "seq": 187
+    },
+    {
+      "id": "f8721723",
+      "title": "읽음 표시를 피하려고 메시지를 열지 않기",
+      "priority": 10,
+      "note": "waiting-for-a-reply F4(Lynden 2017)가 읽음 표시와 회피 전략을 연결. delaying-message-replies 와 관계 후보",
+      "createdAt": "2026-10-18T04:39:08.066Z",
+      "seq": 198
+    },
+    {
+      "id": "44360713",
+      "title": "메시징 의존",
+      "priority": 10,
+      "note": "waiting-for-a-reply F5(Kato 2020): 의존도 높은 집단에서 답 기다릴 때 부정 감정이 더 빨리 생김. 원인 후보",
+      "createdAt": "2026-10-18T04:39:08.198Z",
+      "seq": 199
+    },
+    {
+      "id": "b2750e5a",
+      "title": "명절 잔소리를 웃음으로 넘기기",
+      "priority": 10,
+      "note": "K-공감 2020 기사: 잔소리 대처 '웃음으로 대충 넘긴다' 32.8%. skipping-holiday-gatherings 와 대비되는 현상",
+      "createdAt": "2026-10-18T04:44:28.364Z",
+      "seq": 201
+    },
+    {
+      "id": "0ed92fd4",
+      "title": "혼자 보내는 명절에 받는 시선 피하기",
+      "priority": 10,
+      "note": "경향신문 2015-09-25 칼럼: 마트에서 혼자 온 자신을 불쌍하게 보는 시선이 싫다. skipping-holiday-gatherings, eating-alone-feelings 관계 후보",
+      "createdAt": "2026-10-18T04:44:28.525Z",
+      "seq": 202
+    },
+    {
+      "id": "ee1d30ac",
+      "title": "단톡방 알림 끄고 남기와 알림 과부하",
+      "priority": 10,
+      "note": "First Monday 2021(Garcia, Vivacqua): 응답자 26%가 무음 그룹 보유, notification fatigue. staying-in-group-chats 보강 또는 관계 후보",
+      "createdAt": "2026-10-18T04:50:14.344Z",
+      "seq": 203
+    },
+    {
+      "id": "11c5a3ae",
+      "title": "받을 돈 포기하기",
+      "priority": 10,
+      "note": "Starling Bank 2023: 어려운 대화를 피하려고 받을 돈을 포기. not-asking-for-loan-back 의 결과 후보",
+      "createdAt": "2026-10-18T04:53:16.973Z",
+      "seq": 206
     }
   ]
 }
