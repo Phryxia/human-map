@@ -39,6 +39,7 @@ export function validateDoc(doc, docs, sources = {}) {
   if (h2.map(h => h.text).join('|') !== REL_SECTIONS.join('|') || h2.some(h => h.parent !== '관계')) err(1, `관계의 하위 헤딩이 ${REL_SECTIONS.join(', ')} 순서와 다르다`)
   // 파편
   for (const b of doc.badFragLines) err(b.ln, '파편 줄이 형식에 맞지 않는다')
+  for (const b of doc.badRelLines) err(b.ln, '관계 줄 형식이 맞지 않는다: - [제목](id.md) [Fn]')
   const nums = new Set()
   doc.fragments.forEach((f, i) => {
     if (f.n !== i + 1) err(f.ln, `파편 번호가 순서와 다르다 (F${f.n}, 기대 F${i + 1})`)

@@ -28,7 +28,7 @@ export function parseFragment(line) {
 export function parseDoc(id, dir = DOCS) {
   const file = path.join(dir, id + '.md')
   const lines = fs.readFileSync(file, 'utf8').replace(/\n+$/, '').split('\n')
-  const doc = {id, file, lines, title: null, aliases: null, summary: null, sections: {}, headings: [], fragments: [], badFragLines: [], rel: {}, tags: [], tagLine: null}
+  const doc = {id, file, lines, title: null, aliases: null, summary: null, sections: {}, headings: [], fragments: [], badFragLines: [], badRelLines: [], rel: {}, tags: [], tagLine: null}
   for (const r of REL_SECTIONS) doc.rel[r] = null
   let h1 = null, h2 = null
   lines.forEach((text, i) => {
@@ -52,8 +52,10 @@ export function parseDoc(id, dir = DOCS) {
       const f = parseFragment(text)
       if (f) { f.ln = ln; doc.fragments.push(f) } else doc.badFragLines.push({ln, text})
     }
-    if (h1 === '관계' && h2 && doc.rel[h2] && (m = /^- \[([^\]]*)\]\(([^)]*)\.md\)((?: \[F\d+\])*)\s*$/.exec(text))) {
-      doc.rel[h2].push({title: m[1], id: m[2], frags: [...m[3].matchAll(/F(\d+)/g)].map(x => Number(x[1])), ln})
+    if (h1 === '관계' && h2 && doc.rel[h2] && text.startsWith('- ')) {
+      // 근거 파편은 ' [F1] [F2]' 와 붙여 쓴 ' [F1][F2]' 를 모두 받는다
+      if ((m = /^- \[([^\]]*)\]\(([^)]*)\.md\)((?: ?\[F\d+\])*)\s*$/.exec(text))) doc.rel[h2].push({title: m[1], id: m[2], frags: [...m[3].matchAll(/F(\d+)/g)].map(x => Number(x[1])), ln})
+      else doc.badRelLines.push({ln, text})
     }
   })
   const last = lines[lines.length - 1] ?? ''

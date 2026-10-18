@@ -93,3 +93,14 @@ test('서술 문단 수 1~4, 문단당 4문장 이내가 아니면 ERROR', () =>
   const ok = '하나다. 둘은 15.6%였다. 셋이다. 넷이다. [F1][F2]\n\n문단. [F1]\n\n문단. [F2]\n\n문단. [F1]'
   assert.deepEqual(validateAll(loadAll(makeRepo({a: makeDoc({body: ok})}))).map(r => r.msg), [])
 })
+
+test('관계 줄의 붙여 쓴 근거 파편 [F1][F2] 도 간선으로 읽고, 형식이 틀린 관계 줄은 오류', () => {
+  const a = makeDoc({rel: {원인: ['- [B](b.md) [F1][F2]']}})
+  const b = makeDoc({title: 'B', rel: {결과: ['- [A](a.md) [F1]']}})
+  const docs = loadAll(makeRepo({a, b}))
+  assert.deepEqual(docs.get('a').rel['원인'][0].frags, [1, 2])
+  assert.deepEqual(errs(docs), [])
+  const bad = makeDoc({rel: {원인: ['- [B](b.md) F1']}})
+  const m = errs(loadAll(makeRepo({a: bad, b})))
+  assert.ok(m.some(x => x.includes('관계 줄 형식')))
+})
