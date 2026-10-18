@@ -14,11 +14,14 @@ F1 의 언어교육 자료는 중국어 화자가 초대나 권유를 바로 받
 
 F1 의 자료는 사양하는 쪽이 이 거절로 권유가 진심인지 체면치레인지 가늠한다고 적었다. [F1]
 
+2025년 F4 의 필자는 한국에서는 예의상 몇 번 사양하고 권하는 쪽도 그 말을 거절로 받아들이지 않았지만 독일에서는 두 번째 권유가 거의 오가지 않았다고 적었다. [F4]
+
 # 파편
 
 - F1 [학술] "Generally in Chinese, speakers are not supposed to accept an invitation or an offer right away but should normally refuse several times before accepting." (중국어에서 화자는 대개 초대나 제안을 바로 받아들이지 않고 받기 전에 보통 여러 번 거절해야 한다.) — Center for Advanced Research on Language Acquisition, University of Minnesota, "Pragmatics and Speech Acts: Refusals", 발행일 미상, https://archive.carla.umn.edu/speechacts/refusals/tt.html, 2026-10-18 접속
 - F2 [문학] "Chia Lien and lady Feng promptly pressed her to have a glass of wine, and bade her sit on the stove-couch, but dame Chao was obstinate in her refusal." (가련과 봉저는 곧바로 그녀에게 술 한 잔을 권하고 구들 위에 앉으라고 했지만 조 유모는 한사코 사양했다.) — Cao Xueqin, Hung Lou Meng, or, the Dream of the Red Chamber, Book I, H. Bencraft Joly 옮김, Project Gutenberg, 2006-01-01, https://www.gutenberg.org/cache/epub/9603/pg9603-images.html, 2026-10-18 접속
 - F3 [학술] "the verbal refusal in reacting to people’s offerings (especially gifts) does not literally mean “No, I don’t want it.”" (사람들이 건네는 것(특히 선물)에 반응하며 하는 말로 된 거절은 글자 그대로 "아니요, 원하지 않아요" 라는 뜻이 아니다.) — Yawei Li, "A Polite and Respectful Acceptance: Implicit Function of Refusal in Chinese from Pedagogical Perspective", Chinese Language Teaching Methodology and Technology 3(2), 2020, https://engagedscholarship.csuohio.edu/cltmt/vol3/iss2/3, 2026-10-18 접속
+- F4 [매체] "예의상 몇 번은 거절을 하고, 그 말을 거절로 받아들이지 않는 그 접대 방식이 익숙했던 한국과 달리 독일에서는 두 번째 권하는 말이 거의 오가지 않았다." — 메이, 「거절하는 연습, 거절을 받아들이는 연습」, 다음 세상의 모든 문화, 2025-05-09, https://v.daum.net/v/Fa0lMeDxRv, 2026-10-18 접속
 
 # 관계
 
