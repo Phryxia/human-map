@@ -12,15 +12,17 @@
 
 2021년 F4 의 기사는 전화를 끊은 뒤 통화 중 실수를 되풀이해 떠올릴수록 그 실수에 더 초조해질 수 있다고 썼다. [F4]
 
-2026년 2월 성인 ADHD 를 다루는 한 공개 Q&A 게시판의 질문 글은 대화를 되풀이해 떠올리며 남에게 어떻게 비쳤는지 걱정한다고 적는다. 작성자는 나쁜 일이 없었는데도 그렇다고 적고 마음속에서 놓기가 왜 어려운지 묻는다. [F5]
+2026년 2월 성인 ADHD 를 다루는 한 공개 Q&A 게시판의 질문 글은 대화를 되풀이해 떠올리며 남에게 어떻게 비쳤는지 걱정한다고 적는다. 작성자는 나쁜 일이 없었는데도 그렇다고 적고 마음속에서 놓기가 왜 어려운지 묻는다. [F6]
 
 # 조건
 
 2010년 F1 은 사회불안장애로 진단받은 참가자 91명을 대상으로 PEP 를 쟀다. 치료 뒤 PEP 가 줄었고 PEP 수준이 높았던 참가자는 사회불안 증상이 더 느리게 나아졌다고 보고한다. [F1]
 
-2021년 F3 는 전화 통화를 불안해하는 사람이 통화를 끊은 뒤 하는 되짚기를 다룬다. [F4]
+2021년 F4 는 전화 통화를 불안해하는 사람이 통화를 끊은 뒤 하는 되짚기를 다룬다. [F4]
 
-2026년 F4 의 작성자는 대화 중에 나쁜 일이 없었다고 적는다. 사회불안 진단 여부는 글에 적혀 있지 않다. [F5]
+2026년 F6 의 작성자는 대화 중에 나쁜 일이 없었다고 적는다. 사회불안 진단 여부는 글에 적혀 있지 않다. [F6]
+
+2026년 1월 F5 의 기사는 대화를 되짚는 일이 대체로 사소한 생각에 그치고 어떤 사람에게는 잠을 방해한다고 적었다. [F5]
 
 # 파편
 
@@ -28,7 +30,8 @@
 - F2 [학술] "셋째, 부정적 평가에 대한 두려움이 사후반추사고를 통해 발표불안에 영향을 미치는 경로에서 경험회피가 조절된 매개효과를 가지는 것으로 나타났다." — 박소원, 이아라, 「부정적 평가에 대한 두려움 및 사후반추사고가 대학생의 발표불안에 미치는 영향: 경험회피의 조절된 매개효과」, 상담학연구 20(2), 2019, https://scholarworks.gnu.ac.kr/handle/sw.gnu/10417, 2026-10-18 접속
 - F3 [학술] "The increase in safety behaviours led to an increase of post-event processing which resulted in greater anticipatory anxiety for a future speech task." (안전 행동이 늘자 사건 후 처리가 늘었고 그 결과 다음 발표 과제에 대한 예기불안이 커졌다.) — Nicolette D. Carnahan, Michele M. Carter, Nathaniel R. Herr, "Perpetuating factors of social anxiety: a serial mediation model", Behavioural and Cognitive Psychotherapy 48(3), 2019-11-13, https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/perpetuating-factors-of-social-anxiety-a-serial-mediation-model/7E671CEC6A84F385DAFC74B210BA2173, 2026-10-18 접속
 - F4 [매체] "반복하며 이를 떠올릴수록 자신의 실수에 더욱 초조해질 수 있다." — 문세영, 「전화벨 울리면 불안...사회불안장애일까?」, 코메디닷컴, 2021-08-12, https://kormedi.com/1350541/, 2026-10-18 접속
-- F5 [SNS] "I replay conversations and worry about how I came across, even when nothing bad happened." (대화를 되풀이해 떠올리며 남에게 어떻게 비쳤는지 걱정한다. 나쁜 일이 없었는데도 그렇다.) — FasTreat Community 게시글, 2026-02-20, https://www.fastreat.com/community/posts/10043, 2026-10-16 접속
+- F5 [매체] "누군가와 대화를 마친 뒤 이미 끝난 상황을 머릿속에서 반복해 떠올리며 했던 말과 지었던 표정, 말투까지 되짚어보는 경험은 누구에게나 있다. 대체로는 사소한 생각에 그치지만, 어떤 사람에게는 잠을 방해하고 감정적 소진을 불러올 만큼 고통스러운 습관으로 이어지기도 한다." — 지해미, 「“그때 왜 그랬을까”...지난 대화 자꾸 곱씹는 이유, 심리학이 밝힌 5가지」, 코메디닷컴, 2026-01-11, https://kormedi.com/2779574/, 2026-10-18 접속
+- F6 [SNS] "I replay conversations and worry about how I came across, even when nothing bad happened." (대화를 되풀이해 떠올리며 남에게 어떻게 비쳤는지 걱정한다. 나쁜 일이 없었는데도 그렇다.) — FasTreat Community 게시글, 2026-02-20, https://www.fastreat.com/community/posts/10043, 2026-10-16 접속
 
 # 관계
 
@@ -46,7 +49,7 @@
 
 ## 결과
 
-없음.
+- [생각 때문에 잠 못 이루기](lying-awake-thinking.md) [F5]
 
 ## 긴장
 

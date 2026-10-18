@@ -22,6 +22,8 @@
 
 1813년 F1, 1847년 F2, 1921년 F3 에서 잠을 막은 생각은 그날 만난 사람과 들은 이야기였고 2014년 F5 와 2022년 F6 에서는 잠 자체에 대한 걱정이었다. [F1][F2][F3][F5][F6]
 
+2026년 1월 F8 의 기사는 대화를 마친 뒤 그 장면을 되짚는 일이 어떤 사람에게는 잠을 방해한다고 적었다. [F8]
+
 # 파편
 
 - F1 [문학] "the evening, though as it passed it seemed long, was not long enough to determine her feelings towards one in that mansion; and she lay awake two whole hours, endeavouring to make them out." (저녁은 지나는 동안 길게 느껴졌지만 그 저택의 한 사람에 대한 자기 감정을 정하기에는 충분히 길지 않았다. 그녀는 그 감정을 알아내려 애쓰며 꼬박 두 시간을 깨어 누워 있었다.) — Jane Austen, Pride and Prejudice, T. Egerton, 1813, https://www.gutenberg.org/cache/epub/1342/pg1342-images.html, 2026-10-18 접속
@@ -31,6 +33,7 @@
 - F5 [학술] "Dispositional and general worry predicted self-reported insomnia severity while sleep-specific pre-sleep concerns predicted sleep onset latency and overall sleep efficiency." (기질적이고 일반적인 걱정은 자기보고 불면증 심각도를 예측했고 잠에 관한 잠들기 전 걱정은 잠들기까지 걸린 시간과 전체 수면 효율을 예측했다.) — R. O'Kearney, M. Pech, "General and sleep-specific worry in insomnia", Sleep and Biological Rhythms 12(3), 2014-07, https://researchportalplus.anu.edu.au/en/publications/general-and-sleep-specific-worry-in-insomnia/, 2026-10-18 접속
 - F6 [공공] "Worrying about whether you will get enough sleep and watching the clock can also raise your risk of insomnia or make it worse." (잠을 충분히 잘 수 있을지 걱정하고 시계를 지켜보는 것도 불면증의 위험을 높이거나 불면증을 악화시킬 수 있다.) — National Heart, Lung, and Blood Institute, "Insomnia – Causes and Risk Factors", 2022-03-24, https://www.nhlbi.nih.gov/health/insomnia/causes, 2026-10-18 접속
 - F7 [SNS] "자려고 누우면 생각하느냐  잠을 못잘때도 있어요생각들이 이쪽 저쪽 생각나니까 시끄럽게 느껴집니다" — 닥터나우 게시글, 2025-07-16, https://doctornow.co.kr/content/qna/17e6718a5ed4427eac3e17cd1522fd61, 2026-10-18 접속
+- F8 [매체] "누군가와 대화를 마친 뒤 이미 끝난 상황을 머릿속에서 반복해 떠올리며 했던 말과 지었던 표정, 말투까지 되짚어보는 경험은 누구에게나 있다. 대체로는 사소한 생각에 그치지만, 어떤 사람에게는 잠을 방해하고 감정적 소진을 불러올 만큼 고통스러운 습관으로 이어지기도 한다." — 지해미, 「“그때 왜 그랬을까”...지난 대화 자꾸 곱씹는 이유, 심리학이 밝힌 5가지」, 코메디닷컴, 2026-01-11, https://kormedi.com/2779574/, 2026-10-18 접속
 
 # 관계
 
@@ -44,7 +47,7 @@
 
 ## 원인
 
-없음.
+- [대화 뒤 되짚기](replaying-conversations-afterward.md) [F8]
 
 ## 결과
 
