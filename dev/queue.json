@@ -1,33 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T11:01:19.831Z",
-  "nextSeq": 293,
-  "stops": 32,
+  "savedAt": "2026-10-18T12:05:07.691Z",
+  "nextSeq": 302,
+  "stops": 33,
   "items": [
-    {
-      "id": "1479365e",
-      "title": "phone-use-while-driving 상위 검토: smartphone-checking-habit",
-      "priority": 50,
-      "note": "Hudecek 2023 PLoS ONE e0284984 'FOMO is positively linked to PSU and that both are positively associated with SUWD', 'a person with higher levels of PSU will more likely use their phone when driving (e.g., to reduce boredom)'. 같은 출처가 phone-use-while-driving F5 라 다른 출처 필요. 지식iN 2020 '핸드폰 사용습관' 은 운전 중 사용 자체의 습관",
-      "createdAt": "2026-10-18T10:57:54.120Z",
-      "seq": 290
-    },
-    {
-      "id": "3423d23b",
-      "title": "lingering-in-cafe-guilt 보강: 학술 또는 공공",
-      "priority": 50,
-      "note": "2026-10-18 회차에 학술·공공 HTML 미발견. 문지혜 외 2019 소비문화연구 22(4) 카페 의미 분석(consumer.snu.ac.kr/11945) 은 몰입 공간만 말함. Griffiths·Gilly 2012 JSR 원문 SAGE 봇 확인. 한국외식산업연구원 2019 손익분기 1시간 42분 HTML 후보",
-      "createdAt": "2026-10-18T11:01:09.820Z",
-      "seq": 291
-    },
-    {
-      "id": "742c00a1",
-      "title": "bereavement-regret 보강: 조건(자기 비난과 후회의 차이)",
-      "priority": 50,
-      "note": "Stroebe 외 2014 PLoS ONE 은 이미 F2 라 같은 출처로 조건 파편 불가. 자기 비난과 후회를 나눈 다른 학술 출처 필요. HKU Bereavement Guilt Scale(성인 자녀 873명) 봇 확인",
-      "createdAt": "2026-10-18T11:01:18.844Z",
-      "seq": 292
-    },
     {
       "id": "15f216e7",
       "title": "또래 관계 어려움으로 인한 등교 거부",
@@ -139,14 +115,6 @@
       "note": "Peterie 외 2019 Sociology 53(6): withdrawal from social networks to manage stigma-related shame. concealing-poverty F3 와 비슷한 물러남",
       "createdAt": "2026-10-17T04:55:51.631Z",
       "seq": 46
-    },
-    {
-      "id": "c3541bfb",
-      "title": "통화 전 할 말을 대본으로 적어 두기",
-      "priority": 10,
-      "note": "phone-call-fear F3(네이트판 354708830), 클리앙 park/12509490 댓글 '전화하기전에 예행연습'. 하위 후보",
-      "createdAt": "2026-10-17T11:39:58.634Z",
-      "seq": 59
     },
     {
       "id": "7b5cc18d",
@@ -587,6 +555,22 @@
       "note": "KICJ 2025-04-08 이슈통계(list_no=16396) 폭력범죄 미신고 이유 '보복이 두려워서' 9.8%, Felson 2002 fear of reprisal. not-reporting-crime 하위 또는 원인 후보",
       "createdAt": "2026-10-18T10:45:43.664Z",
       "seq": 289
+    },
+    {
+      "id": "93649c9a",
+      "title": "상상된 대화 뒤 실제 대화가 어긋날 때의 당혹",
+      "priority": 10,
+      "note": "Dostoevsky Notes from the Underground(gutenberg 600) 전날부터 준비했으나 예상 밖 응대. rehearsing-what-to-say 관련",
+      "createdAt": "2026-10-18T11:55:49.740Z",
+      "seq": 300
+    },
+    {
+      "id": "534bbeca",
+      "title": "카공하는 사람의 비용 지출과 눈치 사이의 긴장",
+      "priority": 10,
+      "note": "조은혜 2025 서울대 석사논문(RISS control_no=e78ddc1fe02abb7cffe0bdc3ef48d419) 목차 '비용 지출과 행동의 자유', '눈치와 행동의 통제'. lingering-in-cafe-guilt 긴장 후보",
+      "createdAt": "2026-10-18T12:00:36.654Z",
+      "seq": 301
     }
   ]
 }
