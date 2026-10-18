@@ -1,104 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-17T21:04:03.992Z",
-  "nextSeq": 133,
-  "stops": 23,
+  "savedAt": "2026-10-18T01:05:09.504Z",
+  "nextSeq": 143,
+  "stops": 24,
   "items": [
     {
-      "id": "8dbb0014",
-      "title": "dev: source-check 가 curl 로 200 인 mcst.go.kr 을 fetch 연결 시간 초과(UND_ERR_CONNECT_TIMEOUT)로 UNREACHABLE 판정한다",
-      "priority": 60,
-      "note": "unused-annual-leave F2 https://www.mcst.go.kr/site/s_notice/press/pressView.jsp?pSeq=16142: curl 200, NODE_USE_ENV_PROXY=1 fetch 는 UND_ERR_CONNECT_TIMEOUT. httpsFetch 대체 경로를 연결 오류에도 쓰는 방안 후보. 2026-10-17",
-      "createdAt": "2026-10-17T20:44:53.070Z",
-      "seq": 126
-    },
-    {
-      "id": "88e4d3e6",
-      "title": "부채감: 친구·가족 호의의 죄책감 조건",
-      "priority": 50,
-      "note": "Gao 외 2024 PMC10762097 Discussion: 'favors from friends and family ... can also elicit guilt in a beneficiary who may feel that they have burdened a benefactor'. 같은 출처는 이미 F3 라 다른 출처로 조건 보강. He 외 2022 PMC8965834 의 사회적 거리 조절 결과도 후보",
-      "createdAt": "2026-10-17T14:39:16.105Z",
-      "seq": 93
-    },
-    {
-      "id": "7c76f309",
-      "title": "짐이 되기 싫은 마음: 10년 이상 떨어진 시기 파편",
-      "priority": 50,
-      "note": "self-perceived-burden 파편이 2009~2026. 2025 장기요양실태조사 '다른 사람의 도움을 받는 것이 꺼려져서 39.6%' 는 검색 요약에만 있음, HTML 원문 확인 필요. 영국 Anchor 조사 '77% worry about burdening' 미확인",
-      "createdAt": "2026-10-17T14:52:16.085Z",
-      "seq": 95
-    },
-    {
-      "id": "b5a768cd",
-      "title": "구직 단념: 경기 악화 조건과 전체 연령 쉬었음 이유",
-      "priority": 50,
-      "note": "index.go.kr idxCd=1494 '경기악화시 구직단념자가 증가하더라도 실업률이 거의 증가하지 않을 수 있음'(같은 출처라 다른 출처 필요). 뉴시스 2025-11-05 전체 연령 '몸이 좋지 않아서'(34.9%)는 같은 출처. 국가데이터처 보도자료 원문 HTML 미확보",
-      "createdAt": "2026-10-17T14:56:57.389Z",
-      "seq": 97
-    },
-    {
-      "id": "3b68934c",
-      "title": "진료 회피와 나쁜 소식 확인 미루기의 관계",
-      "priority": 50,
-      "note": "medical-care-avoidance F3(MPIB 2025): 진료 미루기·검사 결과 안 듣기를 건강 정보 회피로 묶음. delaying-bad-news 의 상위/하위 간선 근거 파편 필요",
-      "createdAt": "2026-10-17T15:04:18.797Z",
-      "seq": 102
-    },
-    {
-      "id": "c4199839",
+      "id": "7b7263cf",
       "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
       "priority": 50,
-      "note": "2026-10-17 회차: concealing-poverty F4(핀란드 적십자)는 낙인을 피하려 도움 필요를 숨긴다고 하나 도움 수용의 자존감 위협을 원인으로 말하지 않아 간선 보류. 후보: DIW Weekly Report 26/27 2019 'Fear of Stigmatization Prevents Individuals from Claiming Benefits'(diw.de), poverty.ac.uk/node/606(2012), turn2us 2020 보도자료 — 낙인 때문에 급여를 신청하지 않음. help-seeking-avoidance 쪽 간선 후보일 수 있음",
-      "createdAt": "2026-10-17T16:43:45.052Z",
-      "seq": 115
+      "note": "2026-10-18: kashmirreader 2020(concealing-poverty F4)은 자존심과 수치 두려움을 숨김의 이유로 드나 도움 수용을 말하지 않아 간선 보류. Kardec The Spirits' Book 888(kardecpedia, 1857, 번역 발행일 미상) 'kept back from begging by dread of humiliation ... suffer silently and in secret' 후보. DIW, turn2us, JRF 미확인",
+      "createdAt": "2026-10-18T00:49:22.424Z",
+      "seq": 140
     },
     {
-      "id": "ba6b7bf8",
-      "title": "대처 음주 뒤의 안도 믿음과 실제 감정의 어긋남",
-      "priority": 50,
-      "note": "drinking-to-cope 보강 후보: BPS Research Digest 2021-10-20 bps.org.uk/research-digest/drinking-cope-doesnt-work(Wycoff 2021 해설이라 F2 와 같은 연구), NHS Borders limit-alcohol(발행일 미상) 'short lived feeling of relaxation ... may make things worse', drinkaware alcohol-and-mental-health 'temporary relief'",
-      "createdAt": "2026-10-17T16:46:22.997Z",
-      "seq": 116
-    },
-    {
-      "id": "0ae059fc",
+      "id": "84b30e9a",
       "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
       "priority": 50,
-      "note": "2026-10-17: phone-call-fear F4(아시아경제 2020-11-07) 같은 기사에 '통화한 이후에도 내가 잘못 말한 것은 없는지 계속 생각한다'(인터뷰 인용). 같은 출처라 못 씀. mindline 21160(2025-03-27) 은 되짚기 문장과 '짧은 전화 통화에도' 문장이 따로라 하나만 가능. insidehook telephobia 는 전문가 실명 인용. 인과를 말하는 다른 출처 필요",
-      "createdAt": "2026-10-17T16:51:30.081Z",
-      "seq": 117
+      "note": "2026-10-18: ferwer 블로그(phone-call-fear F7)와 reachlink.com/advice/phobias/phone-anxiety(2026-05-28, 'replay calls afterward analyzing every word', curl UA 로는 0)는 공존만 말하고 인과 표현이 없어 간선 보류. Conversation 2021-02-23 은 통화 전후 걱정만",
+      "createdAt": "2026-10-18T00:54:48.817Z",
+      "seq": 141
     },
     {
-      "id": "b7f96fb2",
-      "title": "미루기: 같은 출처 아닌 Steel 2007 정의 대목",
-      "priority": 50,
-      "note": "procrastination 보강: Steel 2007 'voluntarily delay an intended course of action despite expecting to be worse off'. PubMed 쿠키 챌린지, PMC9029680 reCAPTCHA(2026-10-17 재시도도 동일), psycnet 403. Steel 정의를 옮긴 다른 HTML 출처를 찾을 것",
-      "createdAt": "2026-10-17T16:53:31.567Z",
-      "seq": 118
-    },
-    {
-      "id": "3ea407df",
+      "id": "1813e322",
       "title": "부채감과 도움받을 때의 자존감 위협의 관계",
       "priority": 50,
-      "note": "2026-10-17: 인과를 한 대목에 말하는 출처 못 찾음. 후보: jps.ecnu.edu.cn 20240229 초록 'This perception of inferiority stems from three contributing factors.'(이미 indebtedness F4 출처라 다른 출처 필요), hercampus 2021-04-28 'little ability to reciprocate ... feel more uneasy', cris.haifa.ac.il Nadler 1985 초록(자존감은 조절변수)",
-      "createdAt": "2026-10-17T16:56:58.633Z",
-      "seq": 120
-    },
-    {
-      "id": "43a5c8fc",
-      "title": "향수와 외로움의 관계",
-      "priority": 50,
-      "note": "Stroebe 2002 (ora.ox.ac.uk uuid:c0a466b9) 초록: ruminations about home and loneliness. homesickness 와 loneliness 관계 후보, 인과 표현인지 원문 확인 필요",
-      "createdAt": "2026-10-17T20:57:50.785Z",
-      "seq": 131
-    },
-    {
-      "id": "aad31662",
-      "title": "화재 경보 반응 지연 (대피 훈련)",
-      "priority": 50,
-      "note": "delayed-evacuation 보강 후보: PolyU ira.lib.polyu.edu.hk/handle/10397/111467 (2025-03) 참가자 약 50% 가 화재 경보 반응을 늦춤. 페이지가 공백을 &#x20; 로 인코딩해 source-check 확인 필요",
-      "createdAt": "2026-10-17T21:02:26.990Z",
-      "seq": 132
+      "note": "2026-10-18 재탐색 실패: hercampus, LibreTexts 24.05, leidenpsychologyblog pay-it-forward, PMC6650596, Psychology Today 2012-10-03 rebuffed(열등감과 부채감이 다른 이유로 따로 나옴). 다음 후보: Greenberg & Westcott 1983 'Indebtedness as a mediator of reactions to aid' 초록 HTML, ECNU 2024 리뷰의 다른 호스트 사본",
+      "createdAt": "2026-10-18T01:01:33.457Z",
+      "seq": 142
     },
     {
       "id": "baa1ed23",
@@ -371,6 +299,22 @@
       "note": "harsh-words-for-worry 와 teasing-someone-liked 의 공통 상위 후보. 둘 다 호감·걱정을 꾸지람이나 놀림으로 드러냄",
       "createdAt": "2026-10-17T20:49:44.223Z",
       "seq": 128
+    },
+    {
+      "id": "76ddf187",
+      "title": "연인 사이 사회적 빚의 공유",
+      "priority": 10,
+      "note": "Peng·Nelissen·Zeelenberg 2024 Emotion 24(1) research.tilburguniversity.edu: 공동 관계에서 상대가 받은 호의에 부채감을 느끼고 상대를 통해 갚는다, 비공동 관계에는 없음. indebtedness 하위 후보. 대만 NCCU 석사논문(thesis.lib.nccu.edu.tw d271052591444c5edda2cc380d75d95c) 보통 친구 도움에 부채감이 더 높음, curl UA 는 Empty reply",
+      "createdAt": "2026-10-18T00:37:23.995Z",
+      "seq": 138
+    },
+    {
+      "id": "4d1ec4de",
+      "title": "장기요양서비스를 쓰지 않는 노인의 도움 꺼림",
+      "priority": 10,
+      "note": "뉴시스 2026-08-06 NISX20260806_0003738299: 장기요양 미이용 사유 '다른 사람의 도움을 받는 것이 꺼려져서 39.6%'. help-seeking-avoidance 또는 self-perceived-burden 보강 후보. 문학 후보: Pearl S. Buck The Mother(1934, gutenberg 68577) 눈먼 딸 'ashamed to live as such a burden'",
+      "createdAt": "2026-10-18T00:41:27.552Z",
+      "seq": 139
     }
   ]
 }
