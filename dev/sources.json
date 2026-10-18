@@ -173,21 +173,21 @@
   },
   "https://www.fnnews.com/news/202111121450101495": {
     "first": "2026-10-16",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://jknpa.org/DOIx.php?id=10.4306%2Fjknpa.2023.62.4.164": {
     "first": "2026-10-16",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://news.seoul.go.kr/welfare/archives/577132": {
     "first": "2026-10-16",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://api.crossref.org/works/10.1111/j.1540-6261.1985.tb05002.x": {
     "first": "2026-10-17",
@@ -2030,6 +2030,18 @@
     "lastVerified": "2026-10-18"
   },
   "https://www.hangyo.com/mobile/article.html?no=95832": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://link.springer.com/article/10.1007/s10578-020-01064-8": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://khan.co.kr/article/201609071822001": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
