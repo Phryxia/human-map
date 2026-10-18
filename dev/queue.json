@@ -1,64 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T08:01:44.220Z",
-  "nextSeq": 235,
-  "stops": 29,
+  "savedAt": "2026-10-18T09:04:25.015Z",
+  "nextSeq": 253,
+  "stops": 30,
   "items": [
     {
-      "id": "13f6255a",
-      "title": "bystander-effect 보강: 위험 정도 조건과 SNS 목격담",
+      "id": "6a1add89",
+      "title": "fear-of-negative-evaluation 보강: 관계와 다른 시기",
       "priority": 50,
-      "note": "파편 확인됨 2개뿐. Fischer 2011 초록의 위험 상황에서 효과 약화 문장은 239자라 다른 대목 필요. Darley·Latané 1968 psycnet doiLanding h0025589, Philpot 외 2020 CCTV 연구. staying-quiet-in-groups 와 관계 후보",
-      "createdAt": "2026-10-18T07:57:48.838Z",
-      "seq": 232
-    },
-    {
-      "id": "a1bf5100",
-      "title": "rear-seat-belt-nonuse 보강: 2000년대 한국 출처와 짧은 거리 조건",
-      "priority": 50,
-      "note": "YTN 2015-10-26 ytn.co.kr/_ln/0483_201510260517064735 고속도로 뒷좌석 17%, 시대일보 2017-01-26 48.3%, 디지털데일리 2025-10-02 ddaily 2025100211181540538 '착용율 30% 이하', IIHS 2017 짧은 거리·택시 대목",
-      "createdAt": "2026-10-18T08:01:27.633Z",
-      "seq": 233
-    },
-    {
-      "id": "f2b56658",
-      "title": "dodging-the-bill 보강: 학술 출처와 계산 다툼",
-      "priority": 50,
-      "note": "학술 파편 없음. Gneezy·Haruvy·Yafe 2004 EJ 는 나눠 내기 과소비라 관련만. Himalayan Times 는 이미 F3 으로 써서 같은 출처 불가. 클리앙 image/260260 계산 다툼 → '서로 계산하겠다고 다투기' 신규 후보(이미 큐에 있음)",
-      "createdAt": "2026-10-18T08:01:43.068Z",
-      "seq": 234
-    },
-    {
-      "id": "89fa5a0a",
-      "title": "정보 확인 빈도와 시장 등락 (미어캣 효과)",
-      "priority": 10,
-      "note": "delaying-bad-news F2(Gherzi 2014): 음의 수익률에도 확인이 늘었다. 타조 효과와 긴장 후보",
-      "createdAt": "2026-10-16T00:33:43.693Z",
-      "seq": 12
-    },
-    {
-      "id": "68ebfaf7",
-      "title": "배우자의 재정 곤란 은폐",
-      "priority": 10,
-      "note": "spouse-financial-concealment 하위/관련 후보. 빈처(위키문헌)는 아내가 친가에서 얻어 와 살림을 대는 장면이나 숨김을 직접 말하지 않아 보류. Springer Joseph&Peetz 2025 초록 대목 재확인 필요",
-      "createdAt": "2026-10-16T04:35:36.491Z",
-      "seq": 14
-    },
-    {
-      "id": "0d75f251",
-      "title": "심리적 계약 위반 후 직장 침묵",
-      "priority": 10,
-      "note": "silent-work-awaiting-reward F3(Balikçi 2022): 계약 위반 지각이 체념적 침묵에 양의 효과. 원인 후보",
-      "createdAt": "2026-10-16T12:35:45.678Z",
-      "seq": 15
-    },
-    {
-      "id": "f85e73be",
-      "title": "대화 뒤 되짚기와 사회불안",
-      "priority": 10,
-      "note": "replaying-conversations-afterward F1(Price 2010): PEP 가 치료 반응을 늦춤. 사회불안 문서 후보. 보조 SNS: mindline.sg/t/probably-not-social-anxiety/21160 (원문 대목 전체 재확인 필요)",
-      "createdAt": "2026-10-16T19:34:30.792Z",
-      "seq": 17
+      "note": "replaying-conversations-afterward F1(Price 2010) 과 관계 후보. 브런치 minotebook/57 의 회피·의견 억제 대목은 같은 출처라 다른 문서용(self-silencing 원인 후보). Watson·Friend 1969, Leary 1983 BFNE 초록 HTML 필요",
+      "createdAt": "2026-10-18T09:04:10.086Z",
+      "seq": 252
     },
     {
       "id": "15f216e7",
@@ -483,6 +435,46 @@
       "note": "clien image/260260(2007) 계산을 놓고 실랑이. dodging-the-bill 과 긴장 후보",
       "createdAt": "2026-10-18T07:54:12.087Z",
       "seq": 231
+    },
+    {
+      "id": "a6c7ab57",
+      "title": "구경꾼 한 사람이 나서면 다른 사람들이 따라 돕기",
+      "priority": 10,
+      "note": "서울시 미디어허브 mediahub.seoul.go.kr/archives/1055052 (2017-01-06) 지하철 플랫폼 실험: 처음엔 지나치다 한 사람이 다가가자 모여들어 도움. bystander-effect 와 긴장 후보",
+      "createdAt": "2026-10-18T08:37:59.003Z",
+      "seq": 247
+    },
+    {
+      "id": "870be3f4",
+      "title": "식사비를 누가 낼지 상대와 상황으로 정하기",
+      "priority": 10,
+      "note": "학술: 김은영·김우식 2006 사회과학연구논총 16 RISS control_no=2533a994c22c6316e9810257f7042666 '상대의 성, 연령, 친한 정도...누가 식사비를 부담할 것인가를 구별', 박영재 외 2024 한국식생활문화학회지 39(4) RISS cb04d238819674f0e9810257f7042666 젊은 층 균등 분담 선호. dodging-the-bill 상위/관련 후보",
+      "createdAt": "2026-10-18T08:50:11.092Z",
+      "seq": 248
+    },
+    {
+      "id": "5195a69e",
+      "title": "평가 염려로 돕기가 늘어남",
+      "priority": 10,
+      "note": "Schwartz·Gottlieb 1976 JPSP 34(6) eutils PMID 1003323: 책임 분산은 도움을 줄이고 평가 염려는 늘림. bystander-effect 와 긴장 후보. Garcia 외 2002 JPSP 83(4) PMID 12374439 집단을 상상만 해도 도움 감소(암묵적 방관자 효과) — bystander-effect 하위 후보",
+      "createdAt": "2026-10-18T08:51:59.753Z",
+      "seq": 249
+    },
+    {
+      "id": "a3f422fc",
+      "title": "meerkat-effect 와 delaying-bad-news 긴장 근거",
+      "priority": 10,
+      "note": "같은 사람 안에서 확인 욕구와 회피가 함께 민다는 대목 필요. 뉴시스 NISX20260731_0003731916 두 대목은 서로 다른 투자자라 근거 아님. delaying-bad-news 보강 파편으로는 쓸 수 있음('하락하면 계좌를 확인하는 것조차 두려워하는 투자자')",
+      "createdAt": "2026-10-18T08:58:30.381Z",
+      "seq": 250
+    },
+    {
+      "id": "3a4cdeae",
+      "title": "재정 파탄을 알리지 않고 파산 신청하기에 대한 상대의 반응",
+      "priority": 10,
+      "note": "Mong 외 2021 J Financial Therapy 12(1) journals.newprairiepress.org/jft/article/id/5558/: 관계를 떠날 의향을 부른 유일한 행동은 알리지 않은 파산 신청. spouse-financial-concealment 결과 후보",
+      "createdAt": "2026-10-18T09:00:22.353Z",
+      "seq": 251
     }
   ]
 }
