@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T13:01:59.771Z",
-  "nextSeq": 325,
-  "stops": 34,
+  "savedAt": "2026-10-18T15:01:48.913Z",
+  "nextSeq": 335,
+  "stops": 35,
   "items": [
-    {
-      "id": "8f67816e",
-      "title": "dev: 서술 문단 수·문장 수 WARN 을 ERROR 로 올리기",
-      "priority": 80,
-      "note": "2026-10-18 서술 문단 4개 초과 문서 7개를 모두 고쳐 validate WARN 0. validate.mjs 의 서술 문단·문장 수 검사를 ERROR 로",
-      "createdAt": "2026-10-18T12:42:29.746Z",
-      "seq": 321
-    },
     {
       "id": "c3334c01",
       "title": "dev: 관계 줄의 [F1][F2] 붙여 쓰기를 파서가 간선으로 읽지 못한다",
@@ -19,14 +11,6 @@
       "note": "2026-10-18 income-loss-worry 결과 '- [아파도 출근하기](sickness-presenteeism.md) [F1][F2]' 가 간선으로 파싱되지 않아 상대 쪽에 ASYMMETRIC 만 났다. doc.mjs 관계 정규식이 ' [F1] [F2]' 만 받음. 형식 불일치 줄을 ERROR 로 보고하거나 붙여 쓰기도 받기",
       "createdAt": "2026-10-18T13:01:07.479Z",
       "seq": 324
-    },
-    {
-      "id": "9ca2471c",
-      "title": "regret-aversion: SNS 또는 공공 파편 보강",
-      "priority": 50,
-      "note": "현재 학술 3, 매체 2(2022, 2026). 게시판 글이나 공공 자료에서 후회가 두려워 결정을 못 하는 대목. 후보: jasonzweig.com ?p=5702(2011-10-18)",
-      "createdAt": "2026-10-18T12:58:07.208Z",
-      "seq": 323
     },
     {
       "id": "280af022",
@@ -579,6 +563,46 @@
       "note": "regret-aversion F3(이우빈·김재휘 2019, 단일 대안 제시가 선택 연기에 미치는 효과를 예상 후회가 매개). regret-aversion 의 결과 후보, procrastination 과 관련",
       "createdAt": "2026-10-18T12:57:40.661Z",
       "seq": 322
+    },
+    {
+      "id": "54432e81",
+      "title": "운전 중단 뒤 고립감",
+      "priority": 10,
+      "note": "delaying-driving-cessation 서술 출처 BMC Geriatrics 2024(s12877-024-04835-3) 와 서플 댓글 '고령 운전자를 고립시킬수는 없어요'. 결과 간선 후보",
+      "createdAt": "2026-10-18T14:37:42.090Z",
+      "seq": 330
+    },
+    {
+      "id": "23a05521",
+      "title": "경보 둔감화와 대피 지연",
+      "priority": 10,
+      "note": "ignoring-emergency-alerts F5(Sutton&Wood 2025 desensitization) 와 delayed-evacuation 사이 원인 간선 후보. 2008 Simmons&Sutter AMS 초록 ams.confex.com/ams/88Annual/webprogram/Paper135736.html 'False alarms are widely perceived to reduce response to warnings'",
+      "createdAt": "2026-10-18T14:45:56.271Z",
+      "seq": 331
+    },
+    {
+      "id": "e166e609",
+      "title": "남 탓의 전염",
+      "priority": 10,
+      "note": "blaming-others F3(USC 2009, Fast&Tiedens): 남이 탓하는 것을 본 사람이 더 탓한다. 하위 또는 결과 후보. 같은 페이지 'Blaming becomes common when people are worried about their safety in an organization'",
+      "createdAt": "2026-10-18T14:51:39.261Z",
+      "seq": 332
+    },
+    {
+      "id": "2c918452",
+      "title": "운명이나 신을 탓하기",
+      "priority": 10,
+      "note": "King Lear 1막 2장 Edmund(gutenberg pg1532-images) 'we make guilty of our disasters the sun, the moon, and the stars', Odyssey 1권 Zeus. blaming-others 하위 후보",
+      "createdAt": "2026-10-18T14:51:39.391Z",
+      "seq": 333
+    },
+    {
+      "id": "040452d6",
+      "title": "부유해 보이려고 형편 넘는 것 빌리기",
+      "priority": 10,
+      "note": "Maupassant The Necklace(gutenberg pg3080-images) 'there’s nothing more humiliating than to look poor among other women who are rich.' showing-off-possessions 와 concealing-poverty 관련 후보",
+      "createdAt": "2026-10-18T14:56:26.209Z",
+      "seq": 334
     }
   ]
 }
