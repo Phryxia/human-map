@@ -19,7 +19,7 @@
 # 집계
 
 - 문서 45개
-- 간선: 상위 8, 원인 6, 긴장 0
+- 간선: 상위 9, 원인 6, 긴장 0
 
 ## 축 태그별 문서 수
 
@@ -79,7 +79,6 @@
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md)
 - [외로움](docs/loneliness.md)
 - [손실 회피](docs/loss-aversion.md)
-- [진료 회피](docs/medical-care-avoidance.md)
 - [투표 불참](docs/not-voting.md)
 - [전화 통화 두려움](docs/phone-call-fear.md)
 - [미루기](docs/procrastination.md)
@@ -104,5 +103,5 @@
 
 ## 상위 그래프 깊이 분포
 
-- 깊이 0: 37
-- 깊이 1: 8
+- 깊이 0: 36
+- 깊이 1: 9

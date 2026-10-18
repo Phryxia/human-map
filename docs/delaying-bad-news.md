@@ -38,7 +38,7 @@
 
 ## 하위
 
-없음.
+- [진료 회피](medical-care-avoidance.md)
 
 ## 원인
 
