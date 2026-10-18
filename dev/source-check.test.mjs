@@ -73,6 +73,21 @@ test('fetchText: fetch 가 봇 확인 페이지만 받으면 node:https 로 curl
   assert.ok(page.ok && quoteIn(page.text, 'increase vigilance for threat'))
   assert.equal(ua, 'curl/8.5.0')
 })
+test('fetchText: fetch 응답 모두에 원문이 없으면 node:https 로 curl UA 를 붙여 한 번 더 받는다', async () => {
+  // accesson.kr/healthpsy/v.12/3/631/18715: fetch 로 받은 본문에는 초록 절이 빠지고 https.get 은 초록을 준다(2026-10-18)
+  const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html><head><meta name="description" content="활동형으로 일컬어지는"></head></html>'})
+  let ua
+  const fallbackImpl = async (url, {headers}) => { ua = headers['user-agent']; return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html><p>활동형으로 일컬어지는</p></html>'} }
+  const page = await fetchText('https://www.accesson.kr/healthpsy/v.12/3/631/18715', {fetchImpl, fallbackImpl, quote: '활동형으로 일컬어지는'})
+  assert.ok(page.ok && quoteIn(page.text, '활동형으로 일컬어지는'))
+  assert.equal(ua, 'curl/8.5.0')
+})
+test('fetchText: node:https 로도 원문이 없거나 실패하면 fetch 의 응답을 돌려준다', async () => {
+  const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>다른 글</html>'})
+  const fallbackImpl = async () => { throw new Error('ECONNRESET') }
+  const page = await fetchText('https://example.org/a', {fetchImpl, fallbackImpl, quote: '없는 문장'})
+  assert.ok(page.ok && quoteIn(page.text, '다른 글'))
+})
 test('fetchText: 봇 확인 페이지가 한 번 오면 다시 받는다', async () => {
   let n = 0
   const fetchImpl = async () => {

@@ -70,7 +70,8 @@ export function httpsFetch(url, {headers = {}, signal} = {}, hops = 0) {
   })
 }
 
-// 봇 확인 페이지만 받았으면 challengeDelay 만큼 쉬고 UA 목록을 한 번 더 돈다. 그래도 봇 확인이면 fallbackImpl 에 curl UA 로 받는다.
+// 봇 확인 페이지만 받았으면 challengeDelay 만큼 쉬고 UA 목록을 한 번 더 돈다. 그래도 봇 확인이거나 받은 본문 모두에 원문이 없으면 fallbackImpl 에 curl UA 로 받는다.
+// accesson.kr 은 fetch 에는 초록 절을 뺀 본문을, https.get 에는 초록이 있는 본문을 준다(2026-10-18).
 export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, fallbackImpl = httpsFetch, quote, challengeDelay = 5000} = {}) {
   let page
   for (let round = 0; round < 2; round++) {
@@ -81,8 +82,10 @@ export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, fallba
     }
     if (page.reason !== '봇 확인 페이지') break
   }
-  if (page.reason === '봇 확인 페이지') page = await fetchOnce(url, USER_AGENTS.at(-1), {timeout, fetchImpl: fallbackImpl})
-  return page
+  if (page.reason === '봇 확인 페이지') return fetchOnce(url, USER_AGENTS.at(-1), {timeout, fetchImpl: fallbackImpl})
+  if (!page.ok) return page
+  const last = await fetchOnce(url, USER_AGENTS.at(-1), {timeout, fetchImpl: fallbackImpl})
+  return last.ok && quoteIn(last.text, quote) ? last : page
 }
 
 export const quoteIn = (text, quote) => normalize(text).includes(normalize(quote))
