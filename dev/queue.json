@@ -1,24 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T12:05:07.691Z",
-  "nextSeq": 302,
-  "stops": 33,
+  "savedAt": "2026-10-18T13:01:59.771Z",
+  "nextSeq": 325,
+  "stops": 34,
   "items": [
     {
-      "id": "15f216e7",
-      "title": "또래 관계 어려움으로 인한 등교 거부",
-      "priority": 10,
-      "note": "social-withdrawal-at-home F3 서울시 보도자료의 유스톡 스쿨 등교 거부 대목. 하위/관련 후보",
-      "createdAt": "2026-10-16T23:38:45.187Z",
-      "seq": 18
+      "id": "8f67816e",
+      "title": "dev: 서술 문단 수·문장 수 WARN 을 ERROR 로 올리기",
+      "priority": 80,
+      "note": "2026-10-18 서술 문단 4개 초과 문서 7개를 모두 고쳐 validate WARN 0. validate.mjs 의 서술 문단·문장 수 검사를 ERROR 로",
+      "createdAt": "2026-10-18T12:42:29.746Z",
+      "seq": 321
     },
     {
-      "id": "ab14fe09",
-      "title": "손실 종목 보유와 후회 회피",
-      "priority": 10,
-      "note": "disposition-effect F1 초록: 심적 회계, 후회 회피, 자기통제, 세금 고려를 틀의 요소로 적음. 원인 후보",
-      "createdAt": "2026-10-17T00:33:30.870Z",
-      "seq": 19
+      "id": "c3334c01",
+      "title": "dev: 관계 줄의 [F1][F2] 붙여 쓰기를 파서가 간선으로 읽지 못한다",
+      "priority": 80,
+      "note": "2026-10-18 income-loss-worry 결과 '- [아파도 출근하기](sickness-presenteeism.md) [F1][F2]' 가 간선으로 파싱되지 않아 상대 쪽에 ASYMMETRIC 만 났다. doc.mjs 관계 정규식이 ' [F1] [F2]' 만 받음. 형식 불일치 줄을 ERROR 로 보고하거나 붙여 쓰기도 받기",
+      "createdAt": "2026-10-18T13:01:07.479Z",
+      "seq": 324
+    },
+    {
+      "id": "9ca2471c",
+      "title": "regret-aversion: SNS 또는 공공 파편 보강",
+      "priority": 50,
+      "note": "현재 학술 3, 매체 2(2022, 2026). 게시판 글이나 공공 자료에서 후회가 두려워 결정을 못 하는 대목. 후보: jasonzweig.com ?p=5702(2011-10-18)",
+      "createdAt": "2026-10-18T12:58:07.208Z",
+      "seq": 323
     },
     {
       "id": "280af022",
@@ -27,22 +35,6 @@
       "note": "빈처(위키문헌) 아내가 T의 양산에 자극을 받아 참았던 말을 꺼냄. self-silencing 의 결과 후보",
       "createdAt": "2026-10-17T04:33:16.992Z",
       "seq": 22
-    },
-    {
-      "id": "4a74fbdf",
-      "title": "불만을 말하지 않고 거래를 끊기 (조용한 이탈)",
-      "priority": 10,
-      "note": "non-complaining F1 의 switch, quit usage. 블라인드 댓글에도 '다신 안감'. 결과 후보",
-      "createdAt": "2026-10-17T04:38:03.380Z",
-      "seq": 24
-    },
-    {
-      "id": "a1dbebe0",
-      "title": "소득 상실 우려",
-      "priority": 10,
-      "note": "보건복지부 2022-01-19 상병수당 보도자료: 감염병 증상에도 소득 상실 우려로 출근. sickness-presenteeism 의 원인 후보",
-      "createdAt": "2026-10-17T04:41:23.838Z",
-      "seq": 26
     },
     {
       "id": "48a7bab1",
@@ -571,6 +563,22 @@
       "note": "조은혜 2025 서울대 석사논문(RISS control_no=e78ddc1fe02abb7cffe0bdc3ef48d419) 목차 '비용 지출과 행동의 자유', '눈치와 행동의 통제'. lingering-in-cafe-guilt 긴장 후보",
       "createdAt": "2026-10-18T12:00:36.654Z",
       "seq": 301
+    },
+    {
+      "id": "2580610d",
+      "title": "등교 거부 뒤 또래 관계 문제",
+      "priority": 10,
+      "note": "aafp.org 2003 p1555 'Short-term sequelae include ... problems with peer relationships'. school-refusal 의 결과 후보",
+      "createdAt": "2026-10-18T12:36:29.383Z",
+      "seq": 320
+    },
+    {
+      "id": "8e3a0de9",
+      "title": "선택 연기",
+      "priority": 10,
+      "note": "regret-aversion F3(이우빈·김재휘 2019, 단일 대안 제시가 선택 연기에 미치는 효과를 예상 후회가 매개). regret-aversion 의 결과 후보, procrastination 과 관련",
+      "createdAt": "2026-10-18T12:57:40.661Z",
+      "seq": 322
     }
   ]
 }
