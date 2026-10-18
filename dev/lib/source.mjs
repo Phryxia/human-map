@@ -95,3 +95,22 @@ export const daysBetween = (a, b) => Math.floor((Date.parse(b) - Date.parse(a)) 
 
 // Node 의 fetch 는 HTTPS_PROXY 를 기본으로 따르지 않는다. 프록시 환경이면 NODE_USE_ENV_PROXY=1 로 다시 실행해야 한다.
 export const needsProxyReexec = env => !!(env.HTTPS_PROXY || env.https_proxy) && env.NODE_USE_ENV_PROXY !== '1'
+
+// rebase 충돌 때 두 쪽 dev/sources.json 을 URL 합집합으로 합친다. 같은 URL 은 마지막 확인이 늦은 쪽의 결과를 쓰고,
+// 첫 확인일은 이른 쪽, 마지막 VERIFIED 일은 늦은 쪽, removed 는 한쪽에만 있어도 남긴다.
+export function mergeRecords(ours, theirs) {
+  const out = {...ours}
+  const max = (x, y) => (!x ? y : !y ? x : x > y ? x : y)
+  const min = (x, y) => (!x ? y : !y ? x : x < y ? x : y)
+  for (const [url, t] of Object.entries(theirs)) {
+    const o = out[url]
+    if (!o) { out[url] = t; continue }
+    const m = {...((t.last ?? '') > (o.last ?? '') ? t : o)}
+    m.first = min(o.first, t.first)
+    const lv = max(o.lastVerified, t.lastVerified)
+    if (lv) m.lastVerified = lv; else delete m.lastVerified
+    if (o.removed || t.removed) m.removed = true
+    out[url] = m
+  }
+  return out
+}

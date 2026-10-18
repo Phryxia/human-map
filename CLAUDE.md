@@ -234,6 +234,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 - 200 으로 왔어도 봇 확인 페이지(reCAPTCHA challengepage, "Just a moment...", Springer/BMC 의 "Client Challenge" 등. 패턴은 `dev/lib/source.mjs` 상단 배열)는 UNREACHABLE(`봇 확인 페이지`)이다. 모든 UA 가 봇 확인 페이지를 받으면 5초 쉬고 UA 목록을 한 번 더 돈다. PMC 가 간헐적으로 reCAPTCHA 페이지를 준다. 두 바퀴 모두 봇 확인 페이지면 마지막으로 `node:https` 로 `curl/8.5.0` UA 를 붙여 받는다. fetch 가 덧붙이는 헤더(sec-fetch-mode 등) 때문에 Springer 가 UA 를 바꿔도 Client Challenge 를 주기 때문이다.
 - 프록시 환경(`HTTPS_PROXY`)에서는 `NODE_USE_ENV_PROXY=1` 로 자신을 다시 실행해 fetch 가 프록시를 따르게 한다.
 - 소멸 파편은 그대로 둔다. 지우지 않고 대체하지 않는다. 그 시점에 그 글이 있었다는 기록이다.
+- `--resolve`: rebase 나 merge 중 `dev/sources.json` 이 충돌하면 두 쪽(git index 의 :2, :3) 기록을 URL 합집합으로 합쳐 쓰고 `git add` 한다. 같은 URL 은 마지막 확인일이 늦은 쪽의 결과를 쓰고, 첫 확인일은 이른 쪽, 마지막 VERIFIED 일은 늦은 쪽을 쓰며, `removed` 는 한쪽에만 있어도 남긴다.
 
 ### style-check.mjs
 

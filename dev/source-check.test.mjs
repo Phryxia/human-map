@@ -100,3 +100,23 @@ test('extractText: 블록 태그 경계에 공백을 넣어 문단을 넘는 원
   assert.ok(quoteIn(t, '줄 바꿈 가 나'))
   assert.ok(quoteIn(extractText('<html><p>본문 <b>문</b>장</p></html>', 'text/html'), '본문 문장'))
 })
+test('mergeRecords: rebase 충돌 때 두 쪽 sources.json 을 URL 합집합으로 합친다', async () => {
+  const {mergeRecords} = await import('./lib/source.mjs')
+  const ours = {
+    a: {first: '2026-10-15', last: '2026-10-15', result: 'VERIFIED', lastVerified: '2026-10-15'},
+    b: {first: '2026-10-16', last: '2026-10-16', result: 'VERIFIED', lastVerified: '2026-10-16'},
+    r: {first: '2026-10-10', last: '2026-10-10', result: 'VERIFIED', lastVerified: '2026-10-10', removed: true},
+  }
+  const theirs = {
+    a: {first: '2026-10-14', last: '2026-10-17', result: 'NOT_FOUND', lastVerified: '2026-10-14'},
+    c: {first: '2026-10-17', last: '2026-10-17', result: 'UNREACHABLE'},
+    r: {first: '2026-10-10', last: '2026-10-12', result: 'VERIFIED', lastVerified: '2026-10-12'},
+  }
+  const m = mergeRecords(ours, theirs)
+  assert.deepEqual(Object.keys(m).sort(), ['a', 'b', 'c', 'r'])
+  assert.deepEqual(m.a, {first: '2026-10-14', last: '2026-10-17', result: 'NOT_FOUND', lastVerified: '2026-10-15'})
+  assert.deepEqual(m.b, ours.b)
+  assert.deepEqual(m.c, theirs.c)
+  assert.equal(m.r.removed, true)
+  assert.equal(m.r.lastVerified, '2026-10-12')
+})
