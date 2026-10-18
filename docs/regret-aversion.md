@@ -12,7 +12,7 @@
 
 2019년 F3 의 연구에서 대안이 하나만 제시될 때 소비자가 선택을 미루는 효과를 구매에 대해 예상되는 후회가 매개했다. [F3]
 
-2022년 F4 의 칼럼 필자는 무언가를 택하기도 전에 후회가 남을까 봐 드는 초조함이 마음을 좁게 만든다고 적었다. [F4]
+2022년 F4 의 칼럼 필자는 무언가를 택하기도 전에 후회가 남을까 봐 드는 초조함이 마음을 좁게 만든다고 적었다. 2026년 F5 의 칼럼 필자는 더 나은 선택에 대한 기대와 잘못된 선택에 대한 두려움 때문에 많은 사람이 결정 앞에서 멈춰 선다고 적었다. [F4][F5]
 
 # 조건
 
@@ -26,6 +26,7 @@
 - F2 [학술] "those who felt the withdrawal regret more strongly decided to keep their stock, while those who felt the persistence regret more strongly decided to sell their stock" (포기 후회를 더 강하게 느낀 사람은 주식을 계속 보유하기로 했고, 유지 후회를 더 강하게 느낀 사람은 주식을 팔기로 했다) — 한미영, 김재휘, 안서원, 「손실 상황의 주식투자결정에서 사전가정사고와 예상되는 후회의 역할」, 한국심리학회지: 사회및성격 23(2), 2009-05, https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/32440?mode=full, 2026-10-18 접속
 - F3 [학술] "the effect of a single option on choice deferral was mediated by anticipated regret on purchasing" (단일 대안이 선택 연기에 미치는 효과는 구매에 대해 예상되는 후회가 매개했다) — 이우빈, 김재휘, 「단일 대안 제시가 선택 연기에 미치는 효과: 예상되는 후회를 중심으로」, 한국심리학회지: 소비자·광고 20(3), 2019-08, https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/36765, 2026-10-18 접속
 - F4 [매체] "두 가지 중 하나를 택하는 것도 어렵지만, 무언가를 택하기도 전에 혹시 후회가 남으면 어쩌지 하는 초조함은 결국 나의 마음을 좁고 초라하게 만든다." — 윤여진, 「후회를 포기하지 않는 방법」, 경북매일, 2022-12-14, https://kbmaeil.com/article/202212130350283, 2026-10-18 접속
+- F5 [매체] "그럼에도 많은 사람들은 결정 앞에서 멈춰 선다. 더 나은 선택이 있을 것이라는 기대와 잘못된 선택에 대한 두려움이 동시에 작용하기 때문이다." — 오문성, 「우리는 왜 저지른 실수보다 하지 않은 것을 더 후회하는가」, 세무사신문, 2026-05-01, https://www.taxtimes.co.kr/mobile/article.html?no=274965, 2026-10-18 접속
 
 # 관계
 
