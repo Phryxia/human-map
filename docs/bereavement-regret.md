@@ -36,7 +36,7 @@
 
 ## 하위
 
-없음.
+- [자살 유족의 자책](suicide-bereavement-self-blame.md)
 
 ## 원인
 
