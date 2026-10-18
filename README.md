@@ -19,7 +19,7 @@
 # 집계
 
 - 문서 51개
-- 간선: 상위 9, 원인 8, 긴장 0
+- 간선: 상위 10, 원인 8, 긴장 0
 
 ## 축 태그별 문서 수
 
@@ -100,7 +100,6 @@
 - [배우자에게 재정 정보 숨기기](docs/spouse-financial-concealment.md)
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md)
 - [도움받을 때의 자존감 위협](docs/threat-in-receiving-help.md)
-- [보내지 않는 편지 쓰기](docs/unsent-letters.md)
 - [연차휴가 남기기](docs/unused-annual-leave.md)
 - [쓰지 않는 구독 유지](docs/unused-subscription.md)
 - [약속 취소 충동](docs/urge-to-cancel-plans.md)
@@ -111,5 +110,5 @@
 
 ## 상위 그래프 깊이 분포
 
-- 깊이 0: 42
-- 깊이 1: 9
+- 깊이 0: 41
+- 깊이 1: 10
