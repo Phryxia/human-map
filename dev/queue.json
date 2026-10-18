@@ -1,32 +1,64 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T22:02:20.564Z",
-  "nextSeq": 410,
-  "stops": 40,
+  "savedAt": "2026-10-18T23:02:53.220Z",
+  "nextSeq": 430,
+  "stops": 41,
   "items": [
     {
-      "id": "14892178",
-      "title": "실직 뒤 사람 만남 피하기 보강",
-      "priority": 50,
-      "note": "withdrawing-after-job-loss: SNS 없음, 파편 2개. IDA(ida.dk how-to-support-a-loved-one-who-has-been-dismissed) 'Shame is one of the biggest causes of isolation.' 발행일 미상. 브런치 2026-06-15 @9e37fea367c240a/66 '갑작스러운 퇴사 후, 반년 정도 사람들을 만나지 않았다.' concealing-job-loss 와 관계 후보(NBC 2009 F1 은 숨기기 위해 초대를 미룸)",
-      "createdAt": "2026-10-18T21:56:42.106Z",
-      "seq": 408
+      "id": "9a64e201",
+      "title": "dev: source-check 가 accesson.kr 초록을 텍스트에서 놓친다",
+      "priority": 60,
+      "note": "https://www.accesson.kr/healthpsy/v.12/3/631/18715 의 <section class=\"abstract ko\"><p class=\"first\">아침/저녁 활동형으로 일컬어지는 수면 일주기리듬의 개인차는 ... 원문 HTML(fetch 두 UA 모두 245308바이트)에 있으나 fetchText 결과 text 에 '일컬어지는' 이 없어 NOT_FOUND. 주석 <!-- --> 개수는 맞음(62/62). extractText(node-html-parser) 파싱 문제 의심. 고친 뒤 evening-chronotype 에 김정기·송혜수 2007 파편 추가 후보",
+      "createdAt": "2026-10-18T23:01:06.581Z",
+      "seq": 427
     },
     {
-      "id": "3d8ead77",
+      "id": "f31282f2",
+      "title": "복지 급여 미신청 보강",
+      "priority": 50,
+      "note": "not-claiming-benefits: SNS·문학 없음. 후보: Manchester 2024-09-16 manchester.ac.uk/about/news/older-people-on-low-incomes-often-dont-claim-means-tested-benefits 'feel embarrassed about asking for help'. Stanford FSI 2026-10-06 fsi.stanford.edu/node/39883 공개 신청 절차가 28% 걸러냄(남이 보는 자리의 신청). 서울신문 2013-01-30 m.go.seoul.co.kr/news/2013/01/30/20130130011026 기초노령연금 미신청 2070명(주소 노출 우려). Kurita 외 2019 MPRA 98301 낙인 모형",
+      "createdAt": "2026-10-18T22:37:29.545Z",
+      "seq": 421
+    },
+    {
+      "id": "4c05898a",
+      "title": "알람 끄고 다시 잠들기 보강",
+      "priority": 50,
+      "note": "snoozing-the-alarm: 매체·공공 없음. 클리앙 2010-01-15 park/671272 비몽사몽에 알람을 끄고 약속을 놓침(chronic-lateness 결과 후보). Ogawa 2022 같은 초록: 'Using a snooze alarm prolongs sleep inertia compared to a single alarm'",
+      "createdAt": "2026-10-18T22:41:02.761Z",
+      "seq": 424
+    },
+    {
+      "id": "54ce9096",
+      "title": "지나치게 일찍 도착하기 보강",
+      "priority": 50,
+      "note": "arriving-too-early: SNS·공공 없음, 1993 F3 는 습관만 말하고 동기 없음. elliott.org 2025-11-09 passengers-are-arriving-too-early '95 percent of early birds were driven by fear' (curl 봇 확인 페이지). Gaskell North and South 46장 같은 쪽 'Margaret was ready long before the appointed time'",
+      "createdAt": "2026-10-18T22:46:24.758Z",
+      "seq": 425
+    },
+    {
+      "id": "9a12ac51",
       "title": "정치 무력감 보강",
       "priority": 50,
-      "note": "political-inefficacy: not-voting 원인 간선 근거 필요. Abramson-Aldrich 1982 초록(ideas.repec.org v76y1982i03p502-521_18) 'Between two-thirds and seven-tenths of the decline in presidential turnout between 1960 and 1980 appears to result from the combined impact of these trends.' 을 not-voting 에 파편으로. 한국어 출처와 공공 출처(선관위 유권자 의식조사) 없음. Pew 2024 글의 'In the early 2000s, by comparison, a much smaller majority' 시기 조건",
-      "createdAt": "2026-10-18T21:58:49.153Z",
-      "seq": 409
+      "note": "political-inefficacy: 한국어 출처와 공공 출처(선관위 유권자 의식조사) 없음. Pew 2024 글의 'In the early 2000s, by comparison, a much smaller majority' 시기 조건. not-voting 원인 간선은 not-voting F1(Abramson-Aldrich 1982)로 그었음",
+      "createdAt": "2026-10-18T22:47:45.075Z",
+      "seq": 426
     },
     {
-      "id": "39c26f2a",
-      "title": "dev: validate 의 F<n> 언급 검사를 WARN 에서 ERROR 로 올린다",
-      "priority": 40,
-      "note": "eating-alone-feelings:20 이 고쳐진 뒤. dev: validate warns when a paragraph names F<n> 커밋",
-      "createdAt": "2026-10-18T18:39:02.523Z",
-      "seq": 376
+      "id": "cc285678",
+      "title": "저녁형 성향 보강",
+      "priority": 50,
+      "note": "evening-chronotype: SNS 없음, 원인·결과 간선 없음. snoozing-the-alarm 과 관계 후보(Medical Republic 2023 F5 는 연관만 말함). 경향신문 2015-08-22 khan.co.kr/article/201508221500011 '해가 지고 야심한 시간이 되면 정신이 맑아지면서'. 코메디닷컴 2015-09-29 kormedi.com/1216343. Barclay 2016 같은 초록 유전 영향의 시간 안정성",
+      "createdAt": "2026-10-18T23:02:19.379Z",
+      "seq": 428
+    },
+    {
+      "id": "79fa98a0",
+      "title": "수줍은 방광 보강",
+      "priority": 50,
+      "note": "shy-bladder: 한국어 출처 없음. BMJ Open 2024 같은 초록 유병률 mild 25.8%·severe 14.9%. Watson & Freeland 2000(PMID 11132118) 정의 문장, PubMed HTML 이 열리지 않음",
+      "createdAt": "2026-10-18T23:02:52.253Z",
+      "seq": 429
     },
     {
       "id": "c8d0eed6",
@@ -635,6 +667,22 @@
       "note": "위키트리 2026-09-24 articles/1158353: Z세대가 모르는 번호 전화를 받은 뒤 말없이 기다림, 스팸·보이스피싱 경계심. not-answering-unknown-numbers 와 관련",
       "createdAt": "2026-10-18T21:53:37.558Z",
       "seq": 407
+    },
+    {
+      "id": "21521b5a",
+      "title": "부양의무자에게 가난 증명을 청하지 않기",
+      "priority": 10,
+      "note": "뉴스타파 2014-03-11 newstapa.org/article/pHRZU: 왕래 없는 자식의 가난까지 증명해야 해서 기초생활수급 신청 포기, 자존심. 특정 개인 서술이라 다른 출처 필요. not-claiming-benefits 원인 후보",
+      "createdAt": "2026-10-18T22:37:29.656Z",
+      "seq": 422
+    },
+    {
+      "id": "89920ab6",
+      "title": "늦잠에 대한 불안",
+      "priority": 10,
+      "note": "snoozing-the-alarm F2(클리앙 2016 park/9222948)·F3(Ogawa 2022): 늦잠 불안 때문에 알람을 여러 개 맞추거나 스누즈. snoozing-the-alarm 원인 후보",
+      "createdAt": "2026-10-18T22:41:02.612Z",
+      "seq": 423
     }
   ]
 }
