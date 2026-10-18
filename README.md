@@ -19,7 +19,7 @@
 # 집계
 
 - 문서 88개
-- 간선: 상위 18, 원인 18, 긴장 0
+- 간선: 상위 19, 원인 18, 긴장 0
 
 ## 축 태그별 문서 수
 
@@ -108,7 +108,6 @@
 - [전화 통화 두려움](docs/phone-call-fear.md)
 - [운전 중 휴대전화 사용](docs/phone-use-while-driving.md)
 - [말을 피하려고 자는 척하기](docs/pretending-to-sleep-to-avoid-talk.md)
-- [미루기](docs/procrastination.md)
 - [심리적 계약 위반 지각](docs/psychological-contract-breach.md)
 - [뒷좌석 안전띠 미착용](docs/rear-seat-belt-nonuse.md)
 - [기준점 의존](docs/reference-dependence.md)
@@ -145,6 +144,6 @@
 
 ## 상위 그래프 깊이 분포
 
-- 깊이 0: 71
-- 깊이 1: 16
-- 깊이 2: 1
+- 깊이 0: 70
+- 깊이 1: 15
+- 깊이 2: 3

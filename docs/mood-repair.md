@@ -38,6 +38,7 @@
 
 - [시름을 술로 달래기](drinking-to-cope.md)
 - [기분을 달래려는 소비](retail-therapy.md)
+- [미루기](procrastination.md)
 
 ## 원인
 
