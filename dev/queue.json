@@ -1,32 +1,592 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T11:33:44.806Z",
-  "nextSeq": 5,
-  "stops": 3,
+  "savedAt": "2026-10-18T11:01:19.831Z",
+  "nextSeq": 293,
+  "stops": 32,
   "items": [
     {
-      "id": "98256cc4",
-      "title": "소유 효과",
-      "priority": 10,
-      "note": "F3(loss-aversion, 한경 생글생글)가 손실 회피와 맥이 닿는다고 적음. loss-aversion 과 원인 후보",
-      "createdAt": "2026-10-15T00:42:50.233Z",
-      "seq": 1
+      "id": "1479365e",
+      "title": "phone-use-while-driving 상위 검토: smartphone-checking-habit",
+      "priority": 50,
+      "note": "Hudecek 2023 PLoS ONE e0284984 'FOMO is positively linked to PSU and that both are positively associated with SUWD', 'a person with higher levels of PSU will more likely use their phone when driving (e.g., to reduce boredom)'. 같은 출처가 phone-use-while-driving F5 라 다른 출처 필요. 지식iN 2020 '핸드폰 사용습관' 은 운전 중 사용 자체의 습관",
+      "createdAt": "2026-10-18T10:57:54.120Z",
+      "seq": 290
     },
     {
-      "id": "940b74b0",
-      "title": "처분 효과",
-      "priority": 10,
-      "note": "F3 의 손절 못 하는 투자자 사례. loss-aversion 의 결과 후보",
-      "createdAt": "2026-10-15T00:42:50.339Z",
-      "seq": 2
+      "id": "3423d23b",
+      "title": "lingering-in-cafe-guilt 보강: 학술 또는 공공",
+      "priority": 50,
+      "note": "2026-10-18 회차에 학술·공공 HTML 미발견. 문지혜 외 2019 소비문화연구 22(4) 카페 의미 분석(consumer.snu.ac.kr/11945) 은 몰입 공간만 말함. Griffiths·Gilly 2012 JSR 원문 SAGE 봇 확인. 한국외식산업연구원 2019 손익분기 1시간 42분 HTML 후보",
+      "createdAt": "2026-10-18T11:01:09.820Z",
+      "seq": 291
     },
     {
-      "id": "47188408",
-      "title": "기준점 의존",
+      "id": "742c00a1",
+      "title": "bereavement-regret 보강: 조건(자기 비난과 후회의 차이)",
+      "priority": 50,
+      "note": "Stroebe 외 2014 PLoS ONE 은 이미 F2 라 같은 출처로 조건 파편 불가. 자기 비난과 후회를 나눈 다른 학술 출처 필요. HKU Bereavement Guilt Scale(성인 자녀 873명) 봇 확인",
+      "createdAt": "2026-10-18T11:01:18.844Z",
+      "seq": 292
+    },
+    {
+      "id": "15f216e7",
+      "title": "또래 관계 어려움으로 인한 등교 거부",
       "priority": 10,
-      "note": "F1(Tversky-Kahneman 1991)이 선호가 기준점에 달린다고 적음. loss-aversion 과 관계 후보",
-      "createdAt": "2026-10-15T00:42:50.459Z",
-      "seq": 3
+      "note": "social-withdrawal-at-home F3 서울시 보도자료의 유스톡 스쿨 등교 거부 대목. 하위/관련 후보",
+      "createdAt": "2026-10-16T23:38:45.187Z",
+      "seq": 18
+    },
+    {
+      "id": "ab14fe09",
+      "title": "손실 종목 보유와 후회 회피",
+      "priority": 10,
+      "note": "disposition-effect F1 초록: 심적 회계, 후회 회피, 자기통제, 세금 고려를 틀의 요소로 적음. 원인 후보",
+      "createdAt": "2026-10-17T00:33:30.870Z",
+      "seq": 19
+    },
+    {
+      "id": "280af022",
+      "title": "참아 온 불만이 자극을 받아 터져 나오기",
+      "priority": 10,
+      "note": "빈처(위키문헌) 아내가 T의 양산에 자극을 받아 참았던 말을 꺼냄. self-silencing 의 결과 후보",
+      "createdAt": "2026-10-17T04:33:16.992Z",
+      "seq": 22
+    },
+    {
+      "id": "4a74fbdf",
+      "title": "불만을 말하지 않고 거래를 끊기 (조용한 이탈)",
+      "priority": 10,
+      "note": "non-complaining F1 의 switch, quit usage. 블라인드 댓글에도 '다신 안감'. 결과 후보",
+      "createdAt": "2026-10-17T04:38:03.380Z",
+      "seq": 24
+    },
+    {
+      "id": "a1dbebe0",
+      "title": "소득 상실 우려",
+      "priority": 10,
+      "note": "보건복지부 2022-01-19 상병수당 보도자료: 감염병 증상에도 소득 상실 우려로 출근. sickness-presenteeism 의 원인 후보",
+      "createdAt": "2026-10-17T04:41:23.838Z",
+      "seq": 26
+    },
+    {
+      "id": "48a7bab1",
+      "title": "구매 결정 미루기로 충동 소비 늦추기",
+      "priority": 10,
+      "note": "네이트판 375614092(2026-09-08): 장바구니에 담아만 두고 하루 뒤 다시 보면 판단이 된다. retail-therapy 와 긴장 후보",
+      "createdAt": "2026-10-17T04:49:38.435Z",
+      "seq": 29
+    },
+    {
+      "id": "8a6aac00",
+      "title": "기분 회복 행동",
+      "priority": 10,
+      "note": "drinking-to-cope 와 retail-therapy 의 상위 후보(mood repair). Atalay&Meloy 2011 초록 'repair a bad mood', Wycoff 2021 'relieve negative affective states'",
+      "createdAt": "2026-10-17T04:52:30.184Z",
+      "seq": 31
+    },
+    {
+      "id": "c7c37091",
+      "title": "가난 수치심과 가장(pretence)",
+      "priority": 10,
+      "note": "concealing-poverty 원인 후보: Walker 외 2013 JSP 초록 'shame ... variably leading to pretence, withdrawal' (cambridge.org DED0C9DC02D8ABCAA8F177BA3CC477AB). 문장 223자라 다른 대목 필요",
+      "createdAt": "2026-10-17T04:37:56.945Z",
+      "seq": 39
+    },
+    {
+      "id": "0481b19e",
+      "title": "가난을 숨기려는 아이의 또래 관계 회피",
+      "priority": 10,
+      "note": "concealing-poverty F3(ScienceNordic 2013): 처지를 숨기려 스스로 친구 관계에서 빠짐. 결과 간선 후보, 또래 관계 등교 거부 항목과 관련",
+      "createdAt": "2026-10-17T04:37:57.067Z",
+      "seq": 40
+    },
+    {
+      "id": "936cfd41",
+      "title": "메신저 빠른 응답 의무감",
+      "priority": 10,
+      "note": "윤상석 외 2014 이중언어학 56 초록: 'they appear to feel obligation of responding as quickly as possible'. delaying-message-replies 와 긴장 후보",
+      "createdAt": "2026-10-17T04:46:57.724Z",
+      "seq": 42
+    },
+    {
+      "id": "6b3595b6",
+      "title": "답장 지연 뒤 죄책감",
+      "priority": 10,
+      "note": "delaying-message-replies F3, Substack angelatyler 'im-a-bad-friend' 댓글(2024-07-17) 후보. 결과 간선 후보",
+      "createdAt": "2026-10-17T04:46:57.853Z",
+      "seq": 43
+    },
+    {
+      "id": "ad438c7c",
+      "title": "투표했다고 거짓으로 답하기",
+      "priority": 10,
+      "note": "census.gov cenbr98-04: nonvoters reporting they did vote because they want to show they are civically responsible. not-voting 과 관련, 사회적 바람직성 응답",
+      "createdAt": "2026-10-17T04:51:56.924Z",
+      "seq": 44
+    },
+    {
+      "id": "c86f082c",
+      "title": "외부 정치 효능감 저하",
+      "priority": 10,
+      "note": "Abramson-Aldrich 1982 APSR 초록: 하락 추세가 1960-80 투표율 하락의 2/3~7/10 를 설명. not-voting 원인 간선 후보",
+      "createdAt": "2026-10-17T04:51:57.047Z",
+      "seq": 45
+    },
+    {
+      "id": "f87674e5",
+      "title": "실직 수치심과 관계망에서 물러나기",
+      "priority": 10,
+      "note": "Peterie 외 2019 Sociology 53(6): withdrawal from social networks to manage stigma-related shame. concealing-poverty F3 와 비슷한 물러남",
+      "createdAt": "2026-10-17T04:55:51.631Z",
+      "seq": 46
+    },
+    {
+      "id": "c3541bfb",
+      "title": "통화 전 할 말을 대본으로 적어 두기",
+      "priority": 10,
+      "note": "phone-call-fear F3(네이트판 354708830), 클리앙 park/12509490 댓글 '전화하기전에 예행연습'. 하위 후보",
+      "createdAt": "2026-10-17T11:39:58.634Z",
+      "seq": 59
+    },
+    {
+      "id": "7b5cc18d",
+      "title": "모르는 번호의 전화 받지 않기",
+      "priority": 10,
+      "note": "phone-call-fear F5(twig24 2023 알바천국 조사 39.2%), 한경비즈니스 2024-06-07 '예상치 못한 전화 = 나쁜 소식 불안'. delaying-bad-news 와 관련 후보",
+      "createdAt": "2026-10-17T11:39:58.757Z",
+      "seq": 60
+    },
+    {
+      "id": "c8d0eed6",
+      "title": "창피한 일을 꾸며 둘러대기",
+      "priority": 10,
+      "note": "심훈 상록수 제14장 위키문헌: 기천이 머슴에게 맞은 것을 창피해 자전거 사고로 꾸며 대고 소문날까 고소도 못 함. Dickens Great Expectations 57장 'ashamed to tell him exactly how I was placed'. concealing-failure 와 관련",
+      "createdAt": "2026-10-17T11:52:34.809Z",
+      "seq": 63
+    },
+    {
+      "id": "e68467b8",
+      "title": "아파도 출근한 뒤의 건강 악화와 병가",
+      "priority": 10,
+      "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
+      "createdAt": "2026-10-17T11:55:36.323Z",
+      "seq": 64
+    },
+    {
+      "id": "d1a021d5",
+      "title": "미루기와 기분 회복 행동의 관계",
+      "priority": 10,
+      "note": "procrastination F2(Sirois&Pychyl 2013) 'short-term mood repair'. 기분 회복 행동 항목(8a6aac00)과 원인/상위 후보",
+      "createdAt": "2026-10-17T12:53:48.278Z",
+      "seq": 76
+    },
+    {
+      "id": "bc9297df",
+      "title": "감사 선물 주기",
+      "priority": 10,
+      "note": "indebtedness F4(Oishi 2025 PMC12106001): 감사 선물을 가장 잘 예측한 감정이 부채감. indebtedness 의 결과 간선 후보",
+      "createdAt": "2026-10-17T14:39:15.846Z",
+      "seq": 91
+    },
+    {
+      "id": "e88bb209",
+      "title": "악의적 시기와 적대 행동",
+      "priority": 10,
+      "note": "envy F3(Blatz 2026): malicious envy 가 hostility 를 동반. 하위 현상 후보(양성 시기/악성 시기)",
+      "createdAt": "2026-10-17T14:54:28.912Z",
+      "seq": 96
+    },
+    {
+      "id": "9431bd02",
+      "title": "학습된 무력감",
+      "priority": 10,
+      "note": "giving-up-job-search F1(Falk 외 2006): 실패한 구직이 자신감을 낮추고 구직 포기로 이어짐. 상위 또는 원인 후보",
+      "createdAt": "2026-10-17T14:56:57.515Z",
+      "seq": 98
+    },
+    {
+      "id": "40047652",
+      "title": "계획 오류",
+      "priority": 10,
+      "note": "chronic-lateness F2·F3(익숙한 경로의 시간 과소어림). 시간 과소추정 현상 후보, chronic-lateness 원인 후보",
+      "createdAt": "2026-10-17T14:59:15.183Z",
+      "seq": 100
+    },
+    {
+      "id": "8f457e5a",
+      "title": "마음에 들지 않는 결과 앞에서 칭찬하기",
+      "priority": 10,
+      "note": "non-complaining 하위 후보. 인사이트 2018-05-18 insight.co.kr/news/128052 '미용실 언니에게는 너무 완벽하다고 칭찬하지만, 집에 와선 소심한 나 자신을 자책하기 바쁘다.' 보조: phillymag 2015-02-12 salon etiquette 'sparing the stylist’s feelings', client-x 461 'don’t want to get the employee in trouble'",
+      "createdAt": "2026-10-17T16:40:49.765Z",
+      "seq": 114
+    },
+    {
+      "id": "e2c1bdf5",
+      "title": "층간소음 보복",
+      "priority": 10,
+      "note": "enduring-neighbor-noise F2 출처(korea.kr newsId=148905290)가 보복행위를 적음. 이투데이 2023-07-23 news/view/2268524 보복 스피커. 참기의 결과 후보",
+      "createdAt": "2026-10-17T20:39:47.154Z",
+      "seq": 125
+    },
+    {
+      "id": "b60a056e",
+      "title": "누구에게 말했는지 잊기 (목적지 기억)",
+      "priority": 10,
+      "note": "retelling-same-story F2 출처(livescience 8530)가 노인이 누구에게 정보를 말했는지 잊는다고 적음. retelling-same-story 의 원인 후보",
+      "createdAt": "2026-10-17T20:46:22.326Z",
+      "seq": 127
+    },
+    {
+      "id": "44b99959",
+      "title": "애정을 거친 말이나 행동으로 드러내기",
+      "priority": 10,
+      "note": "harsh-words-for-worry 와 teasing-someone-liked 의 공통 상위 후보. 둘 다 호감·걱정을 꾸지람이나 놀림으로 드러냄",
+      "createdAt": "2026-10-17T20:49:44.223Z",
+      "seq": 128
+    },
+    {
+      "id": "76ddf187",
+      "title": "연인 사이 사회적 빚의 공유",
+      "priority": 10,
+      "note": "Peng·Nelissen·Zeelenberg 2024 Emotion 24(1) research.tilburguniversity.edu: 공동 관계에서 상대가 받은 호의에 부채감을 느끼고 상대를 통해 갚는다, 비공동 관계에는 없음. indebtedness 하위 후보. 대만 NCCU 석사논문(thesis.lib.nccu.edu.tw d271052591444c5edda2cc380d75d95c) 보통 친구 도움에 부채감이 더 높음, curl UA 는 Empty reply",
+      "createdAt": "2026-10-18T00:37:23.995Z",
+      "seq": 138
+    },
+    {
+      "id": "4d1ec4de",
+      "title": "장기요양서비스를 쓰지 않는 노인의 도움 꺼림",
+      "priority": 10,
+      "note": "뉴시스 2026-08-06 NISX20260806_0003738299: 장기요양 미이용 사유 '다른 사람의 도움을 받는 것이 꺼려져서 39.6%'. help-seeking-avoidance 또는 self-perceived-burden 보강 후보. 문학 후보: Pearl S. Buck The Mother(1934, gutenberg 68577) 눈먼 딸 'ashamed to live as such a burden'",
+      "createdAt": "2026-10-18T00:41:27.552Z",
+      "seq": 139
+    },
+    {
+      "id": "21a6e33d",
+      "title": "답장하지 않은 뒤의 수치감",
+      "priority": 10,
+      "note": "Anna Karenina 3부 24장(gutenberg 1399) 'He sent the saddle without an answer, and with a sense of having done something shameful;'. delaying-message-replies, unsent-letters 결과 후보",
+      "createdAt": "2026-10-18T02:42:02.876Z",
+      "seq": 158
+    },
+    {
+      "id": "51dc003a",
+      "title": "이웃 인사에 반응이 없은 뒤 아는 체하지 않기",
+      "priority": 10,
+      "note": "중앙일보 2025-12-22 v.daum.net/v/20251222050218552: '너무 머쓱해서 그 이후로는 되도록 아는 체하지 않는다'. avoiding-shared-elevator 원인/관련 후보. 82cook 2013-05-31 bn=15&num=1572696(냉담한 이웃이 불쾌해 늦장) 은 curl fetch failed 로 미확인",
+      "createdAt": "2026-10-18T02:48:28.124Z",
+      "seq": 159
+    },
+    {
+      "id": "624b0db2",
+      "title": "퇴근 뒤 업무 연락에 답하기와 수면 질 저하",
+      "priority": 10,
+      "note": "Hu 외 2019 redalyc 231360290002 초록: boundary crossing 을 통해 telepressure 가 physical fatigue, poor sleep quality 와 연관. 결과 간선 후보(인과 표현 확인 필요)",
+      "createdAt": "2026-10-18T02:52:51.239Z",
+      "seq": 161
+    },
+    {
+      "id": "9b285595",
+      "title": "사회불안의 안전 행동",
+      "priority": 10,
+      "note": "replaying-conversations-afterward F2(Carnahan 2019): 안전 행동 증가 → 사건 후 처리 증가. replaying-conversations-afterward 의 원인 후보",
+      "createdAt": "2026-10-18T03:41:09.689Z",
+      "seq": 177
+    },
+    {
+      "id": "3c062cdb",
+      "title": "예기불안 (다가올 사회적 상황 앞의 불안)",
+      "priority": 10,
+      "note": "replaying-conversations-afterward F2(Carnahan 2019): 사건 후 처리 → 다음 발표 과제 예기불안. replaying-conversations-afterward 의 결과 후보",
+      "createdAt": "2026-10-18T03:41:09.797Z",
+      "seq": 178
+    },
+    {
+      "id": "a033fa3c",
+      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
+      "priority": 10,
+      "note": "2026-10-18 2차: kormedi.com/1350541(2021-08-12, 이제 replaying F3)는 통화 뒤 되짚기 → 그 실수에 대한 초조까지만 말함. insidehook.com/wellness/telephobia(2021-02-23)는 시간순 서술이고 200자 넘음. 전화 통화 두려움 자체와의 인과를 말하는 원문을 찾아야 간선",
+      "createdAt": "2026-10-18T03:41:09.927Z",
+      "seq": 179
+    },
+    {
+      "id": "704b6afc",
+      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
+      "priority": 10,
+      "note": "2026-10-18 2차: poverty.ac.uk/node/1302(이제 concealing-poverty F4)는 남의 시선 걱정 → 수급 사실 숨김으로 자존감 위협과 직접 잇지 않음. 세계일보 2026-08-24 segye.com/newsView/20260824515111 '창피해서, 가난하다는 낙인이 찍히는 것 같아서 봉투를 거절' 은 도움 거절만. um.edu.mt OAR 124822(Abela 2020) 'shaming, making them seek ways to conceal' 은 도움 언급 없음",
+      "createdAt": "2026-10-18T03:55:34.060Z",
+      "seq": 182
+    },
+    {
+      "id": "43d7fd22",
+      "title": "도움받기를 창피해 거절하기",
+      "priority": 10,
+      "note": "segye.com/newsView/20260824515111(2026-08-24) 중장년 남성이 창피해서 지원 봉투를 거절. mt.co.kr 2022-03-15 '나라의 도움을 받는 걸 자존심 상하는 일'. threat-in-receiving-help 보강 또는 하위 후보",
+      "createdAt": "2026-10-18T03:55:34.176Z",
+      "seq": 183
+    },
+    {
+      "id": "8fa56699",
+      "title": "퇴근 뒤 업무 연락에 답하기와 메신저 빠른 응답 의무감의 관계",
+      "priority": 10,
+      "note": "2026-10-18: after-hours-work-replies 가 이미 telepressure 를 별칭으로 두고 redalyc Hu 2019 정의를 F3 로 씀. 메신저 빠른 응답 의무감 문서는 업무 밖 개인 메신저(읽씹 걱정 등) 파편으로 세워야 중복이 아님. 인과 후보: hal.univ-lille.fr/hal-04453951 'Employees under telepressure are likely to respond more frequently and more quickly to e-mails'(이메일, 발행일 미상)",
+      "createdAt": "2026-10-18T03:59:08.968Z",
+      "seq": 184
+    },
+    {
+      "id": "4e3a43ad",
+      "title": "서비스 공간의 대화 거절 선택지",
+      "priority": 10,
+      "note": "pretending-to-sleep-to-avoid-talk F3(조선일보 2026-01-10): 미용실 예약의 '조용히 시술받기' 옵션, 스몰토크 거부. pretending-to-sleep 과 원인/결과 후보",
+      "createdAt": "2026-10-18T04:00:11.843Z",
+      "seq": 186
+    },
+    {
+      "id": "c2580b26",
+      "title": "말 걸까 봐 택시 피하기",
+      "priority": 10,
+      "note": "ditoday.com/?p=14673(디지털 인사이트 2018-11-28) '말을 걸지 않을 거라는 마음의 안정. 상대가 거는 말에 대답을 해야 하는 의무감은 애초에 없을 거라는 것' 이 택시를 타지 않던 이유. 자는 척이 아니라 서비스 선택이라 pretending-to-sleep-to-avoid-talk 에 안 넣음. 서비스 공간의 대화 거절 선택지와 관계 후보",
+      "createdAt": "2026-10-18T04:00:35.878Z",
+      "seq": 187
+    },
+    {
+      "id": "f8721723",
+      "title": "읽음 표시를 피하려고 메시지를 열지 않기",
+      "priority": 10,
+      "note": "waiting-for-a-reply F4(Lynden 2017)가 읽음 표시와 회피 전략을 연결. delaying-message-replies 와 관계 후보",
+      "createdAt": "2026-10-18T04:39:08.066Z",
+      "seq": 198
+    },
+    {
+      "id": "44360713",
+      "title": "메시징 의존",
+      "priority": 10,
+      "note": "waiting-for-a-reply F5(Kato 2020): 의존도 높은 집단에서 답 기다릴 때 부정 감정이 더 빨리 생김. 원인 후보",
+      "createdAt": "2026-10-18T04:39:08.198Z",
+      "seq": 199
+    },
+    {
+      "id": "b2750e5a",
+      "title": "명절 잔소리를 웃음으로 넘기기",
+      "priority": 10,
+      "note": "K-공감 2020 기사: 잔소리 대처 '웃음으로 대충 넘긴다' 32.8%. skipping-holiday-gatherings 와 대비되는 현상",
+      "createdAt": "2026-10-18T04:44:28.364Z",
+      "seq": 201
+    },
+    {
+      "id": "0ed92fd4",
+      "title": "혼자 보내는 명절에 받는 시선 피하기",
+      "priority": 10,
+      "note": "경향신문 2015-09-25 칼럼: 마트에서 혼자 온 자신을 불쌍하게 보는 시선이 싫다. skipping-holiday-gatherings, eating-alone-feelings 관계 후보",
+      "createdAt": "2026-10-18T04:44:28.525Z",
+      "seq": 202
+    },
+    {
+      "id": "ee1d30ac",
+      "title": "단톡방 알림 끄고 남기와 알림 과부하",
+      "priority": 10,
+      "note": "First Monday 2021(Garcia, Vivacqua): 응답자 26%가 무음 그룹 보유, notification fatigue. staying-in-group-chats 보강 또는 관계 후보",
+      "createdAt": "2026-10-18T04:50:14.344Z",
+      "seq": 203
+    },
+    {
+      "id": "11c5a3ae",
+      "title": "받을 돈 포기하기",
+      "priority": 10,
+      "note": "Starling Bank 2023: 어려운 대화를 피하려고 받을 돈을 포기. not-asking-for-loan-back 의 결과 후보",
+      "createdAt": "2026-10-18T04:53:16.973Z",
+      "seq": 206
+    },
+    {
+      "id": "284365c8",
+      "title": "읽고 답하지 않기 (읽씹)",
+      "priority": 10,
+      "note": "Chou 외 CHI 2022 'Why Did You/I Read but Not Reply?' (doi 10.1145/3491102.3517496): 받는 쪽이 답하지 않는 이유 8유형. ACM DL 봇 확인 페이지라 다른 HTML 사본 필요. waiting-for-a-reply 와 원인 후보, delaying-message-replies 와 상위/하위 후보",
+      "createdAt": "2026-10-18T05:44:39.690Z",
+      "seq": 214
+    },
+    {
+      "id": "1d02be1d",
+      "title": "친구 끊기를 상대가 알아챌까 봐 망설이기",
+      "priority": 10,
+      "note": "archive.blogs.harvard.edu/digitalnatives/2008/12/15/unfriending-stealth-tactics-and-sensible-responses/ (2008-12-15) 'they’re quite likely to discover the unfriending eventually.' blog.commarts.wisc.edu/2009/11/18/unfriended (Ellcessor 2009-11-18) 알림이 없어 상처를 덜 줌. staying-in-group-chats 와 관련 후보",
+      "createdAt": "2026-10-18T05:47:32.692Z",
+      "seq": 215
+    },
+    {
+      "id": "b701b2dd",
+      "title": "약속 취소를 받는 쪽의 반응",
+      "priority": 10,
+      "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련",
+      "createdAt": "2026-10-18T06:05:10.707Z",
+      "seq": 216
+    },
+    {
+      "id": "d8400e5d",
+      "title": "에너지 비용 때문에 식비 줄이기 (heat or eat)",
+      "priority": 10,
+      "note": "energy-limiting-behavior F1 출처(Anderson 2012 ideas.repec.org) 초록: 'spending on food was usually reduced by cutting the range and quality of food purchased'. 냉난방 참기와 관련 후보",
+      "createdAt": "2026-10-18T07:39:46.363Z",
+      "seq": 228
+    },
+    {
+      "id": "4be884eb",
+      "title": "에어컨이 있어도 켜지 않기 (더위 위험 낮게 어림)",
+      "priority": 10,
+      "note": "energy-limiting-behavior F4 출처(NYC DOHMH heat data story): AC 가 있어도 더울 때 쓰지 않는 15%. 요금 외 이유. CDC mm6222a1(2013) 'a functioning air conditioner was present but not turned on'",
+      "createdAt": "2026-10-18T07:39:46.488Z",
+      "seq": 229
+    },
+    {
+      "id": "ea4799ff",
+      "title": "가족이 받은 칭찬을 대신 낮추기",
+      "priority": 10,
+      "note": "나혜석 경희 1절(위키문헌): 김 부인이 딸 바느질 칭찬에 '어디 바느질이나 제법 앉아서 배울 새나 있나요'. deflecting-compliments 하위 후보",
+      "createdAt": "2026-10-18T07:44:50.095Z",
+      "seq": 230
+    },
+    {
+      "id": "4496710a",
+      "title": "서로 계산하겠다고 다투기",
+      "priority": 10,
+      "note": "clien image/260260(2007) 계산을 놓고 실랑이. dodging-the-bill 과 긴장 후보",
+      "createdAt": "2026-10-18T07:54:12.087Z",
+      "seq": 231
+    },
+    {
+      "id": "a6c7ab57",
+      "title": "구경꾼 한 사람이 나서면 다른 사람들이 따라 돕기",
+      "priority": 10,
+      "note": "서울시 미디어허브 mediahub.seoul.go.kr/archives/1055052 (2017-01-06) 지하철 플랫폼 실험: 처음엔 지나치다 한 사람이 다가가자 모여들어 도움. bystander-effect 와 긴장 후보",
+      "createdAt": "2026-10-18T08:37:59.003Z",
+      "seq": 247
+    },
+    {
+      "id": "870be3f4",
+      "title": "식사비를 누가 낼지 상대와 상황으로 정하기",
+      "priority": 10,
+      "note": "학술: 김은영·김우식 2006 사회과학연구논총 16 RISS control_no=2533a994c22c6316e9810257f7042666 '상대의 성, 연령, 친한 정도...누가 식사비를 부담할 것인가를 구별', 박영재 외 2024 한국식생활문화학회지 39(4) RISS cb04d238819674f0e9810257f7042666 젊은 층 균등 분담 선호. dodging-the-bill 상위/관련 후보",
+      "createdAt": "2026-10-18T08:50:11.092Z",
+      "seq": 248
+    },
+    {
+      "id": "5195a69e",
+      "title": "평가 염려로 돕기가 늘어남",
+      "priority": 10,
+      "note": "Schwartz·Gottlieb 1976 JPSP 34(6) eutils PMID 1003323: 책임 분산은 도움을 줄이고 평가 염려는 늘림. bystander-effect 와 긴장 후보. Garcia 외 2002 JPSP 83(4) PMID 12374439 집단을 상상만 해도 도움 감소(암묵적 방관자 효과) — bystander-effect 하위 후보",
+      "createdAt": "2026-10-18T08:51:59.753Z",
+      "seq": 249
+    },
+    {
+      "id": "a3f422fc",
+      "title": "meerkat-effect 와 delaying-bad-news 긴장 근거",
+      "priority": 10,
+      "note": "같은 사람 안에서 확인 욕구와 회피가 함께 민다는 대목 필요. 뉴시스 NISX20260731_0003731916 두 대목은 서로 다른 투자자라 근거 아님. delaying-bad-news 보강 파편으로는 쓸 수 있음('하락하면 계좌를 확인하는 것조차 두려워하는 투자자')",
+      "createdAt": "2026-10-18T08:58:30.381Z",
+      "seq": 250
+    },
+    {
+      "id": "3a4cdeae",
+      "title": "재정 파탄을 알리지 않고 파산 신청하기에 대한 상대의 반응",
+      "priority": 10,
+      "note": "Mong 외 2021 J Financial Therapy 12(1) journals.newprairiepress.org/jft/article/id/5558/: 관계를 떠날 의향을 부른 유일한 행동은 알리지 않은 파산 신청. spouse-financial-concealment 결과 후보",
+      "createdAt": "2026-10-18T09:00:22.353Z",
+      "seq": 251
+    },
+    {
+      "id": "605345df",
+      "title": "보복이 두려워 신고하지 않기",
+      "priority": 10,
+      "note": "not-reporting-crime 원인 후보: BJS 2012 보도자료 'women (20 percent) ... afraid of reprisal or of getting the offender in trouble', Felson 2002 fear of reprisal. 하위 또는 원인",
+      "createdAt": "2026-10-18T09:37:34.596Z",
+      "seq": 267
+    },
+    {
+      "id": "a217ef72",
+      "title": "신고해도 소용없다는 믿음",
+      "priority": 10,
+      "note": "not-reporting-crime F2(서울신문 2003), F3(BJS 2012 believed the police would not or could not help) 원인 후보. 외부 정치 효능감 저하 항목과 비슷한 무력감",
+      "createdAt": "2026-10-18T09:37:34.753Z",
+      "seq": 268
+    },
+    {
+      "id": "f57ffce7",
+      "title": "얹혀사는 대가로 집안일 거들기",
+      "priority": 10,
+      "note": "김유정 따라지(위키문헌) '아우는 마당도 쓸어 놓고, 부뚜막의 그릇도 치우고'. shrinking-in-hosts-home 하위 또는 결과 후보, indebtedness 와 관련",
+      "createdAt": "2026-10-18T09:45:50.307Z",
+      "seq": 270
+    },
+    {
+      "id": "6c6a4c26",
+      "title": "집에 늦게 들어가 마주침 피하기",
+      "priority": 10,
+      "note": "주간경향 2015-01-20 캥거루족 기사: 부모 집에 사는 30대가 귀가를 늦추려 저녁 약속을 만든다. shrinking-in-hosts-home, avoiding-shared-elevator 와 관련",
+      "createdAt": "2026-10-18T09:45:50.428Z",
+      "seq": 271
+    },
+    {
+      "id": "be7f435d",
+      "title": "얻어먹기를 거절하는 자존심",
+      "priority": 10,
+      "note": "나도향 행랑자식(위키문헌 1923): 진태 '나는 밥 얻어먹으러 들어가기는 싫어요', 어멈 '먹을 것 있어요' 부끄러운 웃음. threat-in-receiving-help, help-seeking-avoidance 와 관련",
+      "createdAt": "2026-10-18T09:45:50.582Z",
+      "seq": 272
+    },
+    {
+      "id": "74db9293",
+      "title": "식대를 의식한 경조사 참석 조정",
+      "priority": 10,
+      "note": "클리앙 park/18914024 댓글(2025-02-10) '밥값은 따로 내준다 생각하고 축의 더 내야하나'. weighing-gift-money 하위 후보",
+      "createdAt": "2026-10-18T09:50:01.156Z",
+      "seq": 274
+    },
+    {
+      "id": "8255c45c",
+      "title": "놓칠까 두려운 마음 (FOMO)",
+      "priority": 10,
+      "note": "Hudecek 외 2023 PLoS ONE 0284984 초록: 'FOMO is positively linked to PSU and that both are positively associated with SUWD'. phone-use-while-driving, smartphone-checking-habit 와 관련(연관이지 인과 아님)",
+      "createdAt": "2026-10-18T09:54:15.715Z",
+      "seq": 275
+    },
+    {
+      "id": "0d826243",
+      "title": "말과 다른 행동 (자기보고와 관찰의 차이)",
+      "priority": 10,
+      "note": "질병관리청 2026-10-15 보도자료: 올바른 손씻기 실천 응답 51.2%, 관찰 11.4%. Lawson 2019: 남이 있어도 같다고 답했으나 혼자일 때 덜 씻음. phone-use-while-driving F2(위험 인지 98%)와 관련",
+      "createdAt": "2026-10-18T10:03:37.349Z",
+      "seq": 279
+    },
+    {
+      "id": "0669b76a",
+      "title": "보는 사람이 있을 때 행동 바꾸기 (관찰자 효과)",
+      "priority": 10,
+      "note": "skipping-handwashing F2(Lawson 2019) 혼자일 때 준수율 낮음. 원인 간선 후보",
+      "createdAt": "2026-10-18T10:03:37.473Z",
+      "seq": 280
+    },
+    {
+      "id": "b0a8c6a4",
+      "title": "타인의 표정을 부정적으로 읽기",
+      "priority": 10,
+      "note": "Winton·Clark·Edelmann 1995 BRT 33(2) Europe PMC EXT_ID:7887878: high social anxiety subjects have a bias towards identifying others' emotional expressions as negative. fear-of-negative-evaluation 결과 후보",
+      "createdAt": "2026-10-18T10:40:04.853Z",
+      "seq": 287
+    },
+    {
+      "id": "2bbe2799",
+      "title": "대화 중 끼어들지 않기",
+      "priority": 10,
+      "note": "Natale 외 1979 JPSP 37(6) Europe PMC EXT_ID:490308: interruptive behavior is inversely related to social anxiety (fear of negative evaluation). fear-of-negative-evaluation 결과 후보",
+      "createdAt": "2026-10-18T10:40:04.963Z",
+      "seq": 288
+    },
+    {
+      "id": "e02cd85e",
+      "title": "보복이 두려워 신고하지 않기",
+      "priority": 10,
+      "note": "KICJ 2025-04-08 이슈통계(list_no=16396) 폭력범죄 미신고 이유 '보복이 두려워서' 9.8%, Felson 2002 fear of reprisal. not-reporting-crime 하위 또는 원인 후보",
+      "createdAt": "2026-10-18T10:45:43.664Z",
+      "seq": 289
     }
   ]
 }
