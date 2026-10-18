@@ -1992,5 +1992,17 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4885458/": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.segye.com/newsView/20201105527510": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
