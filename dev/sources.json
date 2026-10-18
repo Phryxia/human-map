@@ -274,15 +274,15 @@
   },
   "https://ko.wikisource.org/wiki/동백꽃": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://cris.tau.ac.il/en/publications/effect-of-donor-resources-on-recipient-self-esteem-and-self-help-2/": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://scholar.korea.ac.kr/handle/2021.sw.korea/133330?mode=full": {
     "first": "2026-10-17",
@@ -532,9 +532,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12760982/": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://www.gutenberg.org/cache/epub/11397/pg11397-images.html": {
     "first": "2026-10-17",
@@ -723,9 +723,9 @@
   },
   "https://kyeonggi.com/article/20260624580106": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://talkingsober.com/t/anxiety-after-drinking/176843": {
     "first": "2026-10-17",
@@ -1146,6 +1146,12 @@
     "lastVerified": "2026-10-18"
   },
   "https://kormedi.com/1350541/": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.824326/full": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
