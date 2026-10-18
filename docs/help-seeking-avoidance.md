@@ -44,7 +44,7 @@
 
 ## 하위
 
-없음.
+- [복지 급여 미신청](not-claiming-benefits.md)
 
 ## 원인
 

@@ -43,6 +43,7 @@
 
 - [가난 감추기](concealing-poverty.md)
 - [가난을 숨기려는 또래 관계 회피](poverty-peer-withdrawal.md) [F2]
+- [복지 급여 미신청](not-claiming-benefits.md)
 
 ## 긴장
 
