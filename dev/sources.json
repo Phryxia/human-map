@@ -1391,5 +1391,11 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://ko.wikisource.org/wiki/%EB%A7%9D%EB%B6%80%EC%84%9D": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
