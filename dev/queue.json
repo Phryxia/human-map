@@ -1,48 +1,24 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T20:59:08.447Z",
-  "nextSeq": 398,
-  "stops": 39,
+  "savedAt": "2026-10-18T22:02:20.564Z",
+  "nextSeq": 410,
+  "stops": 40,
   "items": [
     {
-      "id": "d77cce97",
-      "title": "dev: source-check 가 302 리다이렉트 URL 을 fetch failed 로 UNREACHABLE 처리한다",
-      "priority": 60,
-      "note": "https://eprints.gla.ac.uk/109954 (curl 은 302 → /109954/ 후 200). source-check 는 'fetch failed'. 끝에 / 를 붙인 URL 은 VERIFIED. 리다이렉트 뒤 연결 실패인지 재현 필요",
-      "createdAt": "2026-10-18T18:47:20.378Z",
-      "seq": 379
+      "id": "14892178",
+      "title": "실직 뒤 사람 만남 피하기 보강",
+      "priority": 50,
+      "note": "withdrawing-after-job-loss: SNS 없음, 파편 2개. IDA(ida.dk how-to-support-a-loved-one-who-has-been-dismissed) 'Shame is one of the biggest causes of isolation.' 발행일 미상. 브런치 2026-06-15 @9e37fea367c240a/66 '갑작스러운 퇴사 후, 반년 정도 사람들을 만나지 않았다.' concealing-job-loss 와 관계 후보(NBC 2009 F1 은 숨기기 위해 초대를 미룸)",
+      "createdAt": "2026-10-18T21:56:42.106Z",
+      "seq": 408
     },
     {
-      "id": "1ddf2655",
-      "title": "작심삼일 보강",
+      "id": "3d8ead77",
+      "title": "정치 무력감 보강",
       "priority": 50,
-      "note": "abandoning-resolutions: 문학 없음. Pepys 일기 1661-12-31(pepysdiary.com/diary/1661/12/31/) 연극과 술을 끊겠다는 맹세, 1662-01-01 바로 연극을 보러 감. 맹세를 깬 것으로 본인이 여겼는지 확인 필요. Norcross 2002 Europe PMC REST(EXT_ID:11920693) 'Self-efficacy, skills to change, and readiness to change ... predicted positive outcome' 조건 후보",
-      "createdAt": "2026-10-18T18:55:21.031Z",
-      "seq": 380
-    },
-    {
-      "id": "7fe513c8",
-      "title": "빨리 답해야 한다는 압박 보강",
-      "priority": 50,
-      "note": "pressure-to-reply-quickly: SNS, 2000년대 이전 출처 없음. 윤상석 외 2014 이중언어학 56 초록(obligation of responding as quickly as possible) KCI 페이지 미확인. delaying-message-replies 와 긴장 근거 파편 찾기. Kato 외 2017 초록의 읽음 표시 뒤 무응답 부정 감정은 waiting-for-a-reply 쪽 파편 후보",
-      "createdAt": "2026-10-18T19:02:13.413Z",
-      "seq": 382
-    },
-    {
-      "id": "7737a200",
-      "title": "향수 보강",
-      "priority": 50,
-      "note": "homesickness 와 returning-home-feels-strange 사이 긴장 근거 파편 찾기(그리던 고향과 돌아온 고향의 어긋남). 서울신문 2018-06-16 칼럼은 이미 returning-home F4",
-      "createdAt": "2026-10-18T20:53:19.602Z",
-      "seq": 396
-    },
-    {
-      "id": "c5c176ec",
-      "title": "일요일 밤의 출근 걱정 보강",
-      "priority": 50,
-      "note": "sunday-night-dread: 매체 3·SNS 1, 학술·공공 없음. Kickresume 2024-11 설문 '68% happy with job, 70% Sunday Scaries'(발행일 미상) 조건 후보. aasm.org 수면 설문 보도자료 미확인. lying-awake-thinking 과 결과 간선 후보(F3 불면)",
-      "createdAt": "2026-10-18T20:58:46.103Z",
-      "seq": 397
+      "note": "political-inefficacy: not-voting 원인 간선 근거 필요. Abramson-Aldrich 1982 초록(ideas.repec.org v76y1982i03p502-521_18) 'Between two-thirds and seven-tenths of the decline in presidential turnout between 1960 and 1980 appears to result from the combined impact of these trends.' 을 not-voting 에 파편으로. 한국어 출처와 공공 출처(선관위 유권자 의식조사) 없음. Pew 2024 글의 'In the early 2000s, by comparison, a much smaller majority' 시기 조건",
+      "createdAt": "2026-10-18T21:58:49.153Z",
+      "seq": 409
     },
     {
       "id": "39c26f2a",
@@ -51,46 +27,6 @@
       "note": "eating-alone-feelings:20 이 고쳐진 뒤. dev: validate warns when a paragraph names F<n> 커밋",
       "createdAt": "2026-10-18T18:39:02.523Z",
       "seq": 376
-    },
-    {
-      "id": "6cf9d225",
-      "title": "dev: style-check 의 동사 어간+고, 패턴을 WARN 에서 ERROR 로 올린다",
-      "priority": 40,
-      "note": "delaying-bad-news, disposition-effect, pretending-to-sleep-to-avoid-talk, silent-work-awaiting-reward 의 '고,' 가 고쳐진 뒤. style-rules.mjs 의 level: 'WARN' 을 뗀다",
-      "createdAt": "2026-10-18T20:33:26.587Z",
-      "seq": 393
-    },
-    {
-      "id": "ad438c7c",
-      "title": "투표했다고 거짓으로 답하기",
-      "priority": 10,
-      "note": "census.gov cenbr98-04: nonvoters reporting they did vote because they want to show they are civically responsible. not-voting 과 관련, 사회적 바람직성 응답",
-      "createdAt": "2026-10-17T04:51:56.924Z",
-      "seq": 44
-    },
-    {
-      "id": "c86f082c",
-      "title": "외부 정치 효능감 저하",
-      "priority": 10,
-      "note": "Abramson-Aldrich 1982 APSR 초록: 하락 추세가 1960-80 투표율 하락의 2/3~7/10 를 설명. not-voting 원인 간선 후보",
-      "createdAt": "2026-10-17T04:51:57.047Z",
-      "seq": 45
-    },
-    {
-      "id": "f87674e5",
-      "title": "실직 수치심과 관계망에서 물러나기",
-      "priority": 10,
-      "note": "Peterie 외 2019 Sociology 53(6): withdrawal from social networks to manage stigma-related shame. concealing-poverty F3 와 비슷한 물러남",
-      "createdAt": "2026-10-17T04:55:51.631Z",
-      "seq": 46
-    },
-    {
-      "id": "7b5cc18d",
-      "title": "모르는 번호의 전화 받지 않기",
-      "priority": 10,
-      "note": "phone-call-fear F5(twig24 2023 알바천국 조사 39.2%), 한경비즈니스 2024-06-07 '예상치 못한 전화 = 나쁜 소식 불안'. delaying-bad-news 와 관련 후보",
-      "createdAt": "2026-10-17T11:39:58.757Z",
-      "seq": 60
     },
     {
       "id": "c8d0eed6",
@@ -107,14 +43,6 @@
       "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
       "createdAt": "2026-10-17T11:55:36.323Z",
       "seq": 64
-    },
-    {
-      "id": "bc9297df",
-      "title": "감사 선물 주기",
-      "priority": 10,
-      "note": "indebtedness F4(Oishi 2025 PMC12106001): 감사 선물을 가장 잘 예측한 감정이 부채감. indebtedness 의 결과 간선 후보",
-      "createdAt": "2026-10-17T14:39:15.846Z",
-      "seq": 91
     },
     {
       "id": "e88bb209",
@@ -683,6 +611,30 @@
       "note": "매일신문 2012-03-03 imaeil 2012030307252073161: 하루 지난 우유가 냄새·맛에 이상이 없어도 '마음이 영 찝찝'. discarding-food-by-date-label 의 원인 후보(같은 출처는 이미 F3 로 씀, 다른 출처 필요)",
       "createdAt": "2026-10-18T20:47:07.098Z",
       "seq": 395
+    },
+    {
+      "id": "eac0f910",
+      "title": "메신저 알림 꺼 두기",
+      "priority": 10,
+      "note": "pressure-to-reply-quickly F5(지식iN 2025-09-04 docId=488565138): 바로 답해야 한다는 부담감 때문에 친한 친구 알림을 꺼 둔다. 결과 간선 후보",
+      "createdAt": "2026-10-18T21:38:53.727Z",
+      "seq": 405
+    },
+    {
+      "id": "f74effe1",
+      "title": "휴일에 나타나는 몸의 증상",
+      "priority": 10,
+      "note": "별칭 Sunday neurosis, leisure sickness. Ferenczi 1926 Further Contributions XIII(archive.org/stream/furthercontribut017926mbp/furthercontribut017926mbp_djvu.txt) 일요일마다 두통·위장 장애, 'often utterly spoilt the young people's one free day of the week'. sunday-night-dread 와 달리 다음 날 출근이 아니라 휴일 자체. 다른 시기 출처 필요",
+      "createdAt": "2026-10-18T21:45:11.715Z",
+      "seq": 406
+    },
+    {
+      "id": "a1f33b60",
+      "title": "모르는 번호 전화를 받고 먼저 말하지 않기",
+      "priority": 10,
+      "note": "위키트리 2026-09-24 articles/1158353: Z세대가 모르는 번호 전화를 받은 뒤 말없이 기다림, 스팸·보이스피싱 경계심. not-answering-unknown-numbers 와 관련",
+      "createdAt": "2026-10-18T21:53:37.558Z",
+      "seq": 407
     }
   ]
 }
