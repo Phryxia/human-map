@@ -83,9 +83,9 @@
   },
   "https://openaccess.city.ac.uk/3875/": {
     "first": "2026-10-16",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84": {
     "first": "2026-10-16",
@@ -1651,6 +1651,18 @@
     "lastVerified": "2026-10-18"
   },
   "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1177/2158244015613107?fields=title,abstract,year": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://ideas.repec.org/a/oup/rfinst/v29y2016i4p863-897..html": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.newsis.com/view/NISX20260731_0003731916": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
