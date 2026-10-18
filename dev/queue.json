@@ -1,9 +1,33 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T06:05:16.469Z",
-  "nextSeq": 217,
-  "stops": 28,
+  "savedAt": "2026-10-18T08:01:44.220Z",
+  "nextSeq": 235,
+  "stops": 29,
   "items": [
+    {
+      "id": "13f6255a",
+      "title": "bystander-effect 보강: 위험 정도 조건과 SNS 목격담",
+      "priority": 50,
+      "note": "파편 확인됨 2개뿐. Fischer 2011 초록의 위험 상황에서 효과 약화 문장은 239자라 다른 대목 필요. Darley·Latané 1968 psycnet doiLanding h0025589, Philpot 외 2020 CCTV 연구. staying-quiet-in-groups 와 관계 후보",
+      "createdAt": "2026-10-18T07:57:48.838Z",
+      "seq": 232
+    },
+    {
+      "id": "a1bf5100",
+      "title": "rear-seat-belt-nonuse 보강: 2000년대 한국 출처와 짧은 거리 조건",
+      "priority": 50,
+      "note": "YTN 2015-10-26 ytn.co.kr/_ln/0483_201510260517064735 고속도로 뒷좌석 17%, 시대일보 2017-01-26 48.3%, 디지털데일리 2025-10-02 ddaily 2025100211181540538 '착용율 30% 이하', IIHS 2017 짧은 거리·택시 대목",
+      "createdAt": "2026-10-18T08:01:27.633Z",
+      "seq": 233
+    },
+    {
+      "id": "f2b56658",
+      "title": "dodging-the-bill 보강: 학술 출처와 계산 다툼",
+      "priority": 50,
+      "note": "학술 파편 없음. Gneezy·Haruvy·Yafe 2004 EJ 는 나눠 내기 과소비라 관련만. Himalayan Times 는 이미 F3 으로 써서 같은 출처 불가. 클리앙 image/260260 계산 다툼 → '서로 계산하겠다고 다투기' 신규 후보(이미 큐에 있음)",
+      "createdAt": "2026-10-18T08:01:43.068Z",
+      "seq": 234
+    },
     {
       "id": "89fa5a0a",
       "title": "정보 확인 빈도와 시장 등락 (미어캣 효과)",
@@ -427,6 +451,38 @@
       "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련",
       "createdAt": "2026-10-18T06:05:10.707Z",
       "seq": 216
+    },
+    {
+      "id": "d8400e5d",
+      "title": "에너지 비용 때문에 식비 줄이기 (heat or eat)",
+      "priority": 10,
+      "note": "energy-limiting-behavior F1 출처(Anderson 2012 ideas.repec.org) 초록: 'spending on food was usually reduced by cutting the range and quality of food purchased'. 냉난방 참기와 관련 후보",
+      "createdAt": "2026-10-18T07:39:46.363Z",
+      "seq": 228
+    },
+    {
+      "id": "4be884eb",
+      "title": "에어컨이 있어도 켜지 않기 (더위 위험 낮게 어림)",
+      "priority": 10,
+      "note": "energy-limiting-behavior F4 출처(NYC DOHMH heat data story): AC 가 있어도 더울 때 쓰지 않는 15%. 요금 외 이유. CDC mm6222a1(2013) 'a functioning air conditioner was present but not turned on'",
+      "createdAt": "2026-10-18T07:39:46.488Z",
+      "seq": 229
+    },
+    {
+      "id": "ea4799ff",
+      "title": "가족이 받은 칭찬을 대신 낮추기",
+      "priority": 10,
+      "note": "나혜석 경희 1절(위키문헌): 김 부인이 딸 바느질 칭찬에 '어디 바느질이나 제법 앉아서 배울 새나 있나요'. deflecting-compliments 하위 후보",
+      "createdAt": "2026-10-18T07:44:50.095Z",
+      "seq": 230
+    },
+    {
+      "id": "4496710a",
+      "title": "서로 계산하겠다고 다투기",
+      "priority": 10,
+      "note": "clien image/260260(2007) 계산을 놓고 실랑이. dodging-the-bill 과 긴장 후보",
+      "createdAt": "2026-10-18T07:54:12.087Z",
+      "seq": 231
     }
   ]
 }
