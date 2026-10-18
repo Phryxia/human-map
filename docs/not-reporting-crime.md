@@ -1,0 +1,55 @@
+# 범죄 피해 신고하지 않기
+
+별칭: 범죄 미신고, 암수 범죄 피해, Non-reporting of crime victimization
+
+범죄 피해를 당한 사람이 경찰에 알리지 않고 넘어간다.
+
+# 서술
+
+2002년 F1 의 저자들은 가정폭력 피해자가 다른 폭력 피해자보다 경찰을 덜 부른다고 적었다. 그 이유로 사생활에 대한 걱정, 보복에 대한 두려움, 가해자를 보호하려는 마음을 든다. [F1]
+
+2003년 서울신문 기사가 전한 2001년 통계청 조사에서 신고하지 않은 피해자 가운데 강도 39.0%, 절도 45.9%, 폭행과 상해 28.9%가 경찰이 아무 조치도 하지 않을 것 같았다고 답했다. [F2]
+
+2021년 캐나다 통계청 보고서에서 가구 대상 범죄를 신고하지 않은 이유로 범죄가 너무 경미했다는 답이 71%, 사건이 충분히 중요하지 않았다는 답이 63%였다. [F4]
+
+2026년 파이낸셜뉴스가 전한 조사에서 온라인 사기 피해자의 신고율은 27.2%였고 개인정보 유출과 네트워크 피해는 4.5%, 온라인 폭력범죄는 7.3%였다. [F5]
+
+# 조건
+
+2002년 F1 은 피해가 가정폭력일 때 신고가 줄어든다고 적는다. [F1]
+
+미국 법무통계국의 2012년 보도자료에서 신고되지 않은 폭력 피해 가운데 경찰이 도와주지 않거나 도울 수 없다고 믿은 피해자 비율은 1994년 10%에서 2010년 20%로 늘었다. [F3]
+
+2026년 F5 는 온라인 범죄의 종류에 따라 신고율이 4.5%에서 27.2%까지 다르다고 전한다. [F5]
+
+# 파편
+
+- F1 [학술] "Victims of domestic violence are less likely than victims of other types of violence to call the police because of their privacy concerns, their fear of reprisal, and their desire to protect offenders" (가정폭력 피해자는 사생활에 대한 걱정, 보복에 대한 두려움, 가해자를 보호하려는 마음 때문에 다른 유형의 폭력 피해자보다 경찰을 덜 부른다) — Richard B. Felson, Steven F. Messner, Anthony W. Hoskin, Glenn Deane, "Reasons for reporting and not reporting domestic violence to the police", Criminology 40(3), 2002-08, https://pure.psu.edu/en/publications/reasons-for-reporting-and-not-reporting-domestic-violence-to-the-/, 2026-10-18 접속
+- F2 [매체] "통계청이 2001년 ‘피해자들이 경찰에 신고를 하지 않은 이유’를 조사한 결과 강도 39.0%,절도 45.9%,폭행·상해 28.9%가 ‘경찰이 아무런 조치도 취하지 않을 것 같아서’라고 답했다." — 장택동, 「[수평사회를 만들자]제3부 경찰과 시민(1)사건해결 의지 없는 경찰」, 서울신문, 2003-07-18, https://www.seoul.co.kr/news/2003/07/18/20030718012001, 2026-10-18 접속
+- F3 [공공] "Among unreported violent victimizations, the percentage of victims who believed the police would not or could not help doubled, from 10 percent in 1994 to 20 percent in 2010." (신고되지 않은 폭력 피해 가운데 경찰이 도와주지 않거나 도울 수 없다고 믿은 피해자의 비율은 1994년 10%에서 2010년 20%로 두 배가 되었다.) — Bureau of Justice Statistics, "Nearly 3.4 Million Violent Crimes per Year Went Unreported to Police from 2006 to 2010", 보도자료, 2012-08-09, https://bjs.ojp.gov/press-release/victimizations-not-reported-police-2006-2010, 2026-10-18 접속
+- F4 [공공] "As with violent victimization, some of the most common reasons for not reporting household victimization were that the crime was too minor (71%) or that the incident wasn’t important enough (63%)." (폭력 피해와 마찬가지로 가구 대상 범죄를 신고하지 않은 가장 흔한 이유 가운데 일부는 범죄가 너무 경미했다(71%)거나 사건이 충분히 중요하지 않았다(63%)는 것이었다.) — Adam Cotter, "Criminal victimization in Canada, 2019", Juristat, Statistics Canada, 2021-08-25, https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00014-eng.htm, 2026-10-18 접속
+- F5 [매체] "온라인 사기 피해자의 신고율은 27.2%였고, 개인정보 유출 및 네트워크 피해는 4.5%, 온라인 폭력범죄는 7.3%에 그쳤다." — 최은솔, 「피해금액 적어서, 번거로워서… 온라인 사기 신고율 27% 불과」, 파이낸셜뉴스, 2026-07-02, https://www.fnnews.com/news/202607021822011420, 2026-10-18 접속
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 긴장
+
+없음.
+
+#행동 #사고
