@@ -3094,7 +3094,8 @@
   "https://www.accesson.kr/healthpsy/v.12/3/631/18715": {
     "first": "2026-10-18",
     "last": "2026-10-18",
-    "result": "NOT_FOUND"
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   },
   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6430a1.htm": {
     "first": "2026-10-18",
@@ -3105,7 +3106,7 @@
   "https://eprints.whiterose.ac.uk/id/eprint/101957": {
     "first": "2026-10-18",
     "last": "2026-10-18",
-    "result": "UNREACHABLE",
+    "result": "VERIFIED",
     "lastVerified": "2026-10-18"
   },
   "https://www.medicalrepublic.com.au/you-snooze-you-dont-necessarily-lose/18153": {
@@ -3163,6 +3164,12 @@
     "lastVerified": "2026-10-18"
   },
   "https://www.index.go.kr/unify/idx-info.do?idxCd=8104": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.khan.co.kr/article/201508221500011": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
