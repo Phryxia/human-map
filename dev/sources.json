@@ -568,33 +568,33 @@
   },
   "https://ko.wikisource.org/wiki/직녀성/제6장": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://greatergood.berkeley.edu/article/item/how_to_say_thanks_without_feeling_indebted": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10762097/": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12106001/": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://www.wkorea.com/2025/11/30/관심-받는-게-힘든-사람들의-공통점/": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2825742/": {
     "first": "2026-10-17",
@@ -753,9 +753,9 @@
   },
   "https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20240229": {
     "first": "2026-10-17",
-    "last": "2026-10-17",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-18"
   },
   "https://boards.straightdope.com/t/chronically-late-people-disorganized-or-something-else/153374": {
     "first": "2026-10-17",
@@ -942,5 +942,17 @@
     "last": "2026-10-17",
     "result": "VERIFIED",
     "lastVerified": "2026-10-17"
+  },
+  "https://www.theglobeandmail.com/life/without-a-little-help-from-my-friends/article4212606/": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8965834/": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
