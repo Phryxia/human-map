@@ -1,80 +1,48 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T18:01:57.646Z",
-  "nextSeq": 366,
-  "stops": 37,
+  "savedAt": "2026-10-18T19:04:34.080Z",
+  "nextSeq": 384,
+  "stops": 38,
   "items": [
     {
-      "id": "d6d27d81",
-      "title": "생각 때문에 잠 못 이루기 보강",
-      "priority": 50,
-      "note": "lying-awake-thinking: Austen Pride and Prejudice 44장(gutenberg 1342) 'she lay awake two whole hours, endeavouring to make them out.' 후보. Oxford Health NHS 'worrying-about-sleep' 페이지 후보. replaying-conversations-afterward 와 관계 근거 파편 찾기",
-      "createdAt": "2026-10-18T17:35:16.782Z",
-      "seq": 357
+      "id": "61637012",
+      "title": "dev: style-check 연결어미 뒤 쉼표가 '적고,' 처럼 하고 밖의 ~고, 를 놓친다",
+      "priority": 80,
+      "note": "eating-alone-feelings:20 '바뀌고 있다고 적고, 2022년' 이 style-check 를 통과했다(9b22c3e 에서 수정). 패턴이 하고/이고 만 본다. 동사 어간+고, 를 잡되 '그리고,' 나 인용 안은 제외 검토",
+      "createdAt": "2026-10-18T18:39:21.542Z",
+      "seq": 377
     },
     {
-      "id": "d9ba9e4a",
-      "title": "마음에 들지 않는 선물에 기뻐하는 척하기 보강",
-      "priority": 50,
-      "note": "feigning-delight-at-gifts: Ipsos 2010-12-23 ipsos.com/en-ca/node/205926 'Almost half (47%) of Canadians say they pretend to be overjoyed when receiving an unwanted gift.' 후보, Garrett-Peters & Fox 2007 eric.ed.gov/?id=EJ808268 후보. 큐의 '마음에 들지 않는 결과 앞에서 칭찬하기' 와 상위/형제 관계 후보",
-      "createdAt": "2026-10-18T17:48:20.295Z",
-      "seq": 360
+      "id": "d77cce97",
+      "title": "dev: source-check 가 302 리다이렉트 URL 을 fetch failed 로 UNREACHABLE 처리한다",
+      "priority": 60,
+      "note": "https://eprints.gla.ac.uk/109954 (curl 은 302 → /109954/ 후 200). source-check 는 'fetch failed'. 끝에 / 를 붙인 URL 은 VERIFIED. 리다이렉트 뒤 연결 실패인지 재현 필요",
+      "createdAt": "2026-10-18T18:47:20.378Z",
+      "seq": 379
     },
     {
-      "id": "d277a7c5",
-      "title": "분리배출 하지 않기 보강",
-      "priority": 50,
-      "note": "not-sorting-recyclables: 서울신문 1991 F1 의 앞 문장(분리해 줬더니 무슨 도움이 되느냐는 불평)이 '노력이 소용없다는 생각' 원인 간선 근거 후보. Strydom 2018 초록 'insufficient space, no time, ... main reasons why people do not recycle'(200자 초과라 미사용)",
-      "createdAt": "2026-10-18T17:52:34.340Z",
-      "seq": 361
-    },
-    {
-      "id": "5ef96505",
-      "title": "늦는 사람을 기다리며 서성이기 보강",
-      "priority": 50,
-      "note": "waiting-for-someone-late: 학술 파편 없음. 확인됨 3개(문학 2, 매체 1). 학술 출처 찾기. 술 권하는 사회 위키문헌 '대문은 열렸다 ... 문 밖에는 아무도 없다!' 대목, Jane Eyre XXV 장 문 앞까지 나가 보는 장면 후보",
-      "createdAt": "2026-10-18T17:54:40.833Z",
-      "seq": 362
-    },
-    {
-      "id": "3bf619be",
-      "title": "노년의 계속 일하기 희망 보강",
-      "priority": 50,
-      "note": "wanting-to-keep-working-in-old-age: 확인됨 3개(공공 2, 매체 1). 학술, SNS 파편 없음. Census acsbr08-10 앞 문장(part-time 으로 계속 일하는 이유) 후보, 뉴시스 같은 기사 성별 차이(남 76.5%, 여 62.4%)",
-      "createdAt": "2026-10-18T17:57:09.164Z",
-      "seq": 363
-    },
-    {
-      "id": "e21a7f96",
+      "id": "1ddf2655",
       "title": "작심삼일 보강",
       "priority": 50,
-      "note": "abandoning-resolutions: 확인됨 3개(학술 1, SNS 2). F1 은 PLOS ONE 2020 서론의 선행 연구(Norcross, Vangarelli) 요약. 원 연구나 공공·매체 설문 출처 찾기. 같은 논문 결과: 접근 목표 58.9% 대 회피 목표 47.1%(페이지 원문 미확인), procrastination 과의 관계 후보",
-      "createdAt": "2026-10-18T18:00:14.133Z",
-      "seq": 364
+      "note": "abandoning-resolutions: 문학 없음. Pepys 일기 1661-12-31(pepysdiary.com/diary/1661/12/31/) 연극과 술을 끊겠다는 맹세, 1662-01-01 바로 연극을 보러 감. 맹세를 깬 것으로 본인이 여겼는지 확인 필요. Norcross 2002 Europe PMC REST(EXT_ID:11920693) 'Self-efficacy, skills to change, and readiness to change ... predicted positive outcome' 조건 후보",
+      "createdAt": "2026-10-18T18:55:21.031Z",
+      "seq": 380
     },
     {
-      "id": "42676ccc",
-      "title": "자기에 대한 말 엿듣기 보강",
+      "id": "7fe513c8",
+      "title": "빨리 답해야 한다는 압박 보강",
       "priority": 50,
-      "note": "overhearing-talk-about-oneself: 학술 없음. rug.nl 블로그(Martinescu 2015)가 저자 자신의 연구를 소개함, 원 논문 찾기. 같은 페이지 'which makes gossip targets angry' 는 결과 간선(분노) 후보. Jane Eyre 3장 다음 문장 'Missis was, she dared say, glad enough to get rid of such a tiresome, ill-conditioned child' 후보",
-      "createdAt": "2026-10-18T18:01:47.292Z",
-      "seq": 365
+      "note": "pressure-to-reply-quickly: SNS, 2000년대 이전 출처 없음. 윤상석 외 2014 이중언어학 56 초록(obligation of responding as quickly as possible) KCI 페이지 미확인. delaying-message-replies 와 긴장 근거 파편 찾기. Kato 외 2017 초록의 읽음 표시 뒤 무응답 부정 감정은 waiting-for-a-reply 쪽 파편 후보",
+      "createdAt": "2026-10-18T19:02:13.413Z",
+      "seq": 382
     },
     {
-      "id": "936cfd41",
-      "title": "메신저 빠른 응답 의무감",
-      "priority": 10,
-      "note": "윤상석 외 2014 이중언어학 56 초록: 'they appear to feel obligation of responding as quickly as possible'. delaying-message-replies 와 긴장 후보",
-      "createdAt": "2026-10-17T04:46:57.724Z",
-      "seq": 42
-    },
-    {
-      "id": "6b3595b6",
-      "title": "답장 지연 뒤 죄책감",
-      "priority": 10,
-      "note": "delaying-message-replies F3, Substack angelatyler 'im-a-bad-friend' 댓글(2024-07-17) 후보. 결과 간선 후보",
-      "createdAt": "2026-10-17T04:46:57.853Z",
-      "seq": 43
+      "id": "39c26f2a",
+      "title": "dev: validate 의 F<n> 언급 검사를 WARN 에서 ERROR 로 올린다",
+      "priority": 40,
+      "note": "eating-alone-feelings:20 이 고쳐진 뒤. dev: validate warns when a paragraph names F<n> 커밋",
+      "createdAt": "2026-10-18T18:39:02.523Z",
+      "seq": 376
     },
     {
       "id": "ad438c7c",
@@ -659,6 +627,30 @@
       "note": "레이디경향 2021-09-30 lady.khan.co.kr/culture/article/202109301729001: 회식에 부정적인 이유 '업무의 연장 같다는 생각 때문(48.2%)'. company-dinner-pressure 원인 간선 후보(같은 URL)",
       "createdAt": "2026-10-18T17:41:10.270Z",
       "seq": 359
+    },
+    {
+      "id": "446e217e",
+      "title": "기후 행동 하지 않기",
+      "priority": 10,
+      "note": "feeling-ones-effort-makes-no-difference F4(Hamann 2024 PMC10851658): 차이를 만들 수 없다고 느껴 함께 행동하지 않는다. 결과 간선 후보. 그린피스 코리아 2020-04-17 '나 하나가 달라진다고 무슨 소용이 있겠어.' 후보",
+      "createdAt": "2026-10-18T18:40:08.765Z",
+      "seq": 378
+    },
+    {
+      "id": "0597c551",
+      "title": "뒷말에 대한 분노와 보복 의도",
+      "priority": 10,
+      "note": "Martinescu 외 2019 Frontiers fpsyg.2018.02603 초록: 부정적 뒷말이 분노를 일으키고 분노가 뒷말한 사람에 대한 보복 의도를 예측(문장 213자, 연속 구간 'Negative gossip, however, also generated other-directed negative emotions (e.g., anger), especially for targets with high reputational concerns'). overhearing-talk-about-oneself 의 결과 후보. Zong 외 2021 fpsyg.2021.629376 체면 손실 두려움 → 맞뒷말",
+      "createdAt": "2026-10-18T18:58:49.869Z",
+      "seq": 381
+    },
+    {
+      "id": "02429188",
+      "title": "답장 지연 뒤 죄책감",
+      "priority": 10,
+      "note": "delaying-message-replies F3 의 결과 후보. 확인된 매체 후보: Refinery29 2021-12-10 refinery29.com/en-gb/late-replies-whatsapp-excuses 'And the longer I go, the more insurmountable the task of opening an app and typing another round of \"sorry sorry sorry\" begins to feel.', soulsthatlisten.substack.com/p/i-forget-to-reply 2021-01-17. 학술: Li, Zheng, Schroeder 2026 PSPB doi 10.1177/01461672261478732(HTML 초록 열리지 않음). 학술이나 SNS 출처 필요",
+      "createdAt": "2026-10-18T19:04:32.927Z",
+      "seq": 383
     }
   ]
 }
