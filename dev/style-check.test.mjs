@@ -28,3 +28,11 @@ test('개수 규칙: 대구 둘, 적 N 셋, 같은 종결 네 번', () => {
   assert.ok(issues('그가 갔다. 그녀가 갔다. 우리가 갔다. 모두 갔다. [F1][F2]').length > 0)
 })
 test('5문장 문단은 문단 길이로 잡는다', () => assert.ok(has('가 했다. 나 했다? 다는 안 했다. 라는 봤다. 마는 왔다. [F1][F2]', '문단 길이')))
+test('동사 어간+고, 는 연결어미 뒤 쉼표 WARN 으로 잡는다', () => {
+  const w = issues('2024년 F1 은 바뀌고 있다고 적고, 2022년 F2 는 달랐다. [F1][F2]').filter(i => i.group === '연결어미 뒤 쉼표')
+  assert.equal(w.length, 1)
+  assert.equal(w[0].level, 'WARN')
+  assert.ok(!has('그리고, 갔다. [F1][F2]', '연결어미 뒤 쉼표'))
+  assert.ok(!has('F1 은 "먹고, 잤다" 라고 적는다. [F1][F2]', '연결어미 뒤 쉼표'))
+  assert.equal(issues('말하고, 갔다. [F1][F2]').filter(i => i.group === '연결어미 뒤 쉼표').length, 1)
+})

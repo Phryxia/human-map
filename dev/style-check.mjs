@@ -7,7 +7,11 @@ export function styleIssues(doc) {
   const out = []
   for (const sec of ['서술', '조건']) {
     for (const {ln, text} of doc.sections[sec]?.lines ?? []) {
-      for (const g of GROUPS) for (const re of g.patterns) { const m = re.exec(text); if (m) out.push({id: doc.id, ln, group: g.name, msg: `'${m[0]}'`}) }
+      const bare = text.replace(/"[^"]*"|“[^”]*”|'[^']*'|‘[^’]*’/g, '')
+      for (const g of GROUPS) for (const re of g.patterns) {
+        const m = re.exec(g.unquoted ? bare : text)
+        if (m) out.push({id: doc.id, ln, group: g.name, msg: `'${m[0]}'`, level: g.level ?? 'ERROR'})
+      }
     }
   }
   const all = ['서술', '조건'].flatMap(s => paragraphs(doc, s))
@@ -29,7 +33,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const docs = loadAll()
   if (id && !docs.has(id)) { console.error(`문서 없음: ${id}`); process.exit(2) }
   const issues = [...(id ? [docs.get(id)] : docs.values())].flatMap(styleIssues)
-  for (const i of issues) console.log(`${i.id}:${i.ln} [${i.group}] ${i.msg}`)
-  console.log(`${issues.length} issues`)
-  process.exit(issues.length ? 1 : 0)
+  for (const i of issues) console.log(`${i.level === 'WARN' ? 'WARN ' : ''}${i.id}:${i.ln} [${i.group}] ${i.msg}`)
+  const errors = issues.filter(i => i.level !== 'WARN').length
+  console.log(`${errors} issues, ${issues.length - errors} warnings`)
+  process.exit(errors ? 1 : 0)
 }
