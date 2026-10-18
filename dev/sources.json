@@ -1824,5 +1824,23 @@
     "last": "2026-10-18",
     "result": "VERIFIED",
     "lastVerified": "2026-10-18"
+  },
+  "https://ko.wikisource.org/wiki/%EC%A0%84%EC%95%84%EC%82%AC": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096606": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://meeco.kr/free/27216142": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   }
 }
