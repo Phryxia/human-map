@@ -89,20 +89,21 @@
   },
   "https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-18"
   },
   "https://www.nfcc.org/press_release/financial-infidelity-growing-concern/": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
+    "last": "2026-10-18",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-16"
+    "lastVerified": "2026-10-18"
   },
   "https://link.springer.com/article/10.1007/s10834-024-09988-2": {
     "first": "2026-10-16",
-    "last": "2026-10-16",
-    "result": "NOT_FOUND"
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
   },
   "https://ko.wikisource.org/wiki/봄봄": {
     "first": "2026-10-16",
@@ -1663,6 +1664,12 @@
     "lastVerified": "2026-10-18"
   },
   "https://www.newsis.com/view/NISX20260731_0003731916": {
+    "first": "2026-10-18",
+    "last": "2026-10-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-18"
+  },
+  "https://www.imaeil.com/page/view/2007111517391962006": {
     "first": "2026-10-18",
     "last": "2026-10-18",
     "result": "VERIFIED",
