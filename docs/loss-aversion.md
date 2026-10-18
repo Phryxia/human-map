@@ -31,7 +31,7 @@ Tversky 와 Kahneman 은 1991년 논문에서 손실과 불리함이 이득과 �
 
 ## 상위
 
-없음.
+- [기준점 의존](reference-dependence.md)
 
 ## 하위
 
