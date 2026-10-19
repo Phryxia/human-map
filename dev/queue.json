@@ -1,64 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T06:56:12.123Z",
-  "nextSeq": 482,
-  "stops": 45,
+  "savedAt": "2026-10-19T08:59:55.269Z",
+  "nextSeq": 495,
+  "stops": 46,
   "items": [
     {
-      "id": "32682328",
-      "title": "잠자리 미루기와 미루기의 되먹임",
+      "id": "e0d5ce7f",
+      "title": "답하지 않은 뒤의 수치감이 답장을 더 막음",
       "priority": 50,
-      "note": "bbs.ruliweb.com/family/4526/board/300143/read/76592812 (2026-09-08) '할 일을 미루다보니 수면을 미루게 되고 수면을 미루다보니 할 일이 조금씩 미뤄지고'. bedtime-procrastination 원인·결과 간선 후보(같은 사이트 다른 글이므로 계정 경로 확인)",
-      "createdAt": "2026-10-19T06:55:52.280Z",
-      "seq": 480
-    },
-    {
-      "id": "e99e4fcb",
-      "title": "피로가 잠자리 미루기를 부름",
-      "priority": 50,
-      "note": "sgh.com.sg bedtime-procrastination(이미 bedtime-procrastination F2) 'After a long day, some people are just too tired to make logical decisions'. 한 출처 한 파편이라 다른 출처로 원인 근거 필요",
-      "createdAt": "2026-10-19T06:55:52.394Z",
-      "seq": 481
-    },
-    {
-      "id": "b60a056e",
-      "title": "누구에게 말했는지 잊기 (목적지 기억)",
-      "priority": 10,
-      "note": "retelling-same-story F2 출처(livescience 8530)가 노인이 누구에게 정보를 말했는지 잊는다고 적음. retelling-same-story 의 원인 후보",
-      "createdAt": "2026-10-17T20:46:22.326Z",
-      "seq": 127
-    },
-    {
-      "id": "44b99959",
-      "title": "애정을 거친 말이나 행동으로 드러내기",
-      "priority": 10,
-      "note": "harsh-words-for-worry 와 teasing-someone-liked 의 공통 상위 후보. 둘 다 호감·걱정을 꾸지람이나 놀림으로 드러냄",
-      "createdAt": "2026-10-17T20:49:44.223Z",
-      "seq": 128
-    },
-    {
-      "id": "76ddf187",
-      "title": "연인 사이 사회적 빚의 공유",
-      "priority": 10,
-      "note": "Peng·Nelissen·Zeelenberg 2024 Emotion 24(1) research.tilburguniversity.edu: 공동 관계에서 상대가 받은 호의에 부채감을 느끼고 상대를 통해 갚는다, 비공동 관계에는 없음. indebtedness 하위 후보. 대만 NCCU 석사논문(thesis.lib.nccu.edu.tw d271052591444c5edda2cc380d75d95c) 보통 친구 도움에 부채감이 더 높음, curl UA 는 Empty reply",
-      "createdAt": "2026-10-18T00:37:23.995Z",
-      "seq": 138
-    },
-    {
-      "id": "4d1ec4de",
-      "title": "장기요양서비스를 쓰지 않는 노인의 도움 꺼림",
-      "priority": 10,
-      "note": "뉴시스 2026-08-06 NISX20260806_0003738299: 장기요양 미이용 사유 '다른 사람의 도움을 받는 것이 꺼려져서 39.6%'. help-seeking-avoidance 또는 self-perceived-burden 보강 후보. 문학 후보: Pearl S. Buck The Mother(1934, gutenberg 68577) 눈먼 딸 'ashamed to live as such a burden'",
-      "createdAt": "2026-10-18T00:41:27.552Z",
-      "seq": 139
-    },
-    {
-      "id": "21a6e33d",
-      "title": "답장하지 않은 뒤의 수치감",
-      "priority": 10,
-      "note": "Anna Karenina 3부 24장(gutenberg 1399) 'He sent the saddle without an answer, and with a sense of having done something shameful;'. delaying-message-replies, unsent-letters 결과 후보",
-      "createdAt": "2026-10-18T02:42:02.876Z",
-      "seq": 158
+      "note": "shame-after-unanswered-message → delaying-message-replies 원인 간선 후보. americamagazine 2015 B 문장 'And that guilt/shame/I-have-no-good-excuse-for-this-delay starts to get in the way of actually writing anything.' 은 같은 출처라 shame 문서에 둘째 파편으로 못 씀. 다른 출처 필요. delaying-message-replies F4(Substack 2024)도 같은 방향을 말함",
+      "createdAt": "2026-10-19T08:59:37.372Z",
+      "seq": 494
     },
     {
       "id": "51dc003a",
@@ -731,6 +683,30 @@
       "note": "not-donating F2(Statistics Canada 2009) 'did not like the ways in which requests for donations were made'. not-donating 원인 후보",
       "createdAt": "2026-10-19T06:50:32.209Z",
       "seq": 479
+    },
+    {
+      "id": "a0289254",
+      "title": "나이 들어 같은 기억을 거듭 꺼내기의 의미 찾기",
+      "priority": 10,
+      "note": "brunch.co.kr/@philanthr/14 (2026-04-08) '이미 여러 번 꺼낸 기억인데도 또 꺼냅니다.' 저자는 망각이 아니라 삶을 다시 이해하려는 데서 원인을 찾음. retelling-same-story 원인 후보, destination-memory-failure 와 대비. 이어지는 문장은 추출이 깨져 미확인",
+      "createdAt": "2026-10-19T08:51:09.088Z",
+      "seq": 491
+    },
+    {
+      "id": "b406f614",
+      "title": "귀여운 공격성 (이형 표현)",
+      "priority": 10,
+      "note": "Aragón·Clark·Dyer·Bargh 2015 Psychological Science 26(3) psychologicalscience.org/journals/psychological-science/0956797614561044/ 강한 긍정 감정이 부정 감정용 표현으로 나옴. rough-affection 과 관계 후보",
+      "createdAt": "2026-10-19T08:53:47.324Z",
+      "seq": 492
+    },
+    {
+      "id": "bf43e3a5",
+      "title": "연인 사이 사회적 빚의 공유",
+      "priority": 10,
+      "note": "2026-10-19: 학술 확인 research.tilburguniversity.edu/en/publications/emotional-consequences-of-social-debt-sharing-in-communal-relatio/ (Peng·Nelissen·Zeelenberg 2024 Emotion 24(1)) 초록 'Study 1 (N = 470) revealed that participants experienced vicarious gratitude and indebtedness to favors extended to their partners by others.' 및 비공동 관계엔 효과 없음 문장. 비학술(배우자가 받은 도움에 신세 진 느낌) 미발견: 네이트판·82cook 사이트 내 검색, 브런치, vicarious indebtedness 보도자료 시도 필요. indebtedness 하위 후보",
+      "createdAt": "2026-10-19T08:55:54.663Z",
+      "seq": 493
     }
   ]
 }
