@@ -1,48 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T17:05:36.191Z",
-  "nextSeq": 549,
-  "stops": 49,
+  "savedAt": "2026-10-19T19:01:31.946Z",
+  "nextSeq": 558,
+  "stops": 50,
   "items": [
     {
-      "id": "8036ab81",
-      "title": "의무 해제 뒤에도 마스크 쓰기 보강: 한국 공공 출처",
-      "priority": 50,
-      "note": "2026-10-19 탐색에서 kdca·정책브리핑·서울시 HTML 에 착용 지속 비율 대목 못 찾음. 한국갤럽 데일리 오피니언 536호(2023-03-31, gallup.co.kr seqNo=1377) '열에 일곱(71%)이 계속 착용' 은 민간 조사. kukinews 는 Cloudflare 차단",
-      "createdAt": "2026-10-19T14:56:05.747Z",
-      "seq": 534
-    },
-    {
-      "id": "36006cd9",
-      "title": "배송 조회 되풀이하기 보강: 한국어 출처",
-      "priority": 50,
-      "note": "2026-10-19 탐색: 검색 엔진이 지식iN·클리앙·뽐뿌 개별 글을 돌려주지 않음. '배송 조회 중독', '택배 조회 무한 새로고침' 으로 포털 뉴스 검색 시도. local10.com 2021-08-10 기사는 404. smartphone-checking-habit 과 상위 관계 후보",
-      "createdAt": "2026-10-19T15:00:56.135Z",
-      "seq": 535
-    },
-    {
-      "id": "f7131c0f",
-      "title": "독감 예방접종 거르기 보강: 한국 공공 출처와 시간 부족",
-      "priority": 50,
-      "note": "2026-10-19 탐색: kdca·korea.kr HTML 에 미접종 이유 대목 못 찾음. medicaltimes.com Main/view.html?ID=20330 (2005-09-01) 엄마 조사 '바빠서'(16%) 는 자녀 접종이라 보류. PMC8903929 충칭 의료인 '시간 없음' 65.7%. delaying-medical-care 관계 후보",
-      "createdAt": "2026-10-19T15:02:46.822Z",
-      "seq": 536
-    },
-    {
-      "id": "38822dbc",
-      "title": "하차 표시 망설이기 보강: 학술과 다른 시기",
-      "priority": 50,
-      "note": "2026-10-19: 파편 2개뿐. 한국 기사·설문 수치·HTML 학술 초록 못 찾음. 인스티즈 43413990 의 다른 댓글('소리가 크게 나고 시선이 나에게 집중되는 것 같아서')은 같은 출처라 못 씀. 인천시 시민의소리 IC020505/2080427 은 발행일 미상·조바심. fear-of-negative-evaluation 과 관계 후보",
-      "createdAt": "2026-10-19T17:00:24.886Z",
-      "seq": 548
-    },
-    {
-      "id": "51dc003a",
-      "title": "이웃 인사에 반응이 없은 뒤 아는 체하지 않기",
-      "priority": 10,
-      "note": "중앙일보 2025-12-22 v.daum.net/v/20251222050218552: '너무 머쓱해서 그 이후로는 되도록 아는 체하지 않는다'. avoiding-shared-elevator 원인/관련 후보. 82cook 2013-05-31 bn=15&num=1572696(냉담한 이웃이 불쾌해 늦장) 은 curl fetch failed 로 미확인",
-      "createdAt": "2026-10-18T02:48:28.124Z",
-      "seq": 159
+      "id": "5464f9e7",
+      "title": "인사 안 받는 이웃에게 아는 체 그만두기 보강: 다른 시기",
+      "priority": 30,
+      "note": "82cook bn=15&num=1572696(2013-05-31) '이제는 그 아줌마 엘리베이터에서 만나도 인사를 안하기로 결정' + '무시당하는 기분' 은 2026-10-19 curl 연결 끊김으로 미확인. 열리면 다른 시기 파편. avoiding-shared-elevator 와 관계 후보",
+      "createdAt": "2026-10-19T18:57:00.197Z",
+      "seq": 557
     },
     {
       "id": "624b0db2",
@@ -51,22 +19,6 @@
       "note": "Hu 외 2019 redalyc 231360290002 초록: boundary crossing 을 통해 telepressure 가 physical fatigue, poor sleep quality 와 연관. 결과 간선 후보(인과 표현 확인 필요)",
       "createdAt": "2026-10-18T02:52:51.239Z",
       "seq": 161
-    },
-    {
-      "id": "9b285595",
-      "title": "사회불안의 안전 행동",
-      "priority": 10,
-      "note": "replaying-conversations-afterward F2(Carnahan 2019): 안전 행동 증가 → 사건 후 처리 증가. replaying-conversations-afterward 의 원인 후보",
-      "createdAt": "2026-10-18T03:41:09.689Z",
-      "seq": 177
-    },
-    {
-      "id": "3c062cdb",
-      "title": "예기불안 (다가올 사회적 상황 앞의 불안)",
-      "priority": 10,
-      "note": "replaying-conversations-afterward F2(Carnahan 2019): 사건 후 처리 → 다음 발표 과제 예기불안. replaying-conversations-afterward 의 결과 후보",
-      "createdAt": "2026-10-18T03:41:09.797Z",
-      "seq": 178
     },
     {
       "id": "a033fa3c",
@@ -827,6 +779,14 @@
       "note": "wishing-guests-would-leave F5(Mastroianni 2021 PMC7958231): 대화 46.83% 에서 둘 다 더 일찍 끝나기를 원함. 초록 'conversations almost never ended when both conversants wanted them to'. wishing-guests-would-leave 와 상위/관련 후보",
       "createdAt": "2026-10-19T16:56:06.700Z",
       "seq": 547
+    },
+    {
+      "id": "02b2f242",
+      "title": "독감 예방접종 거르기 보강: 한국 공공 출처",
+      "priority": 5,
+      "note": "2026-10-19 3차까지 한국 공공(kdca, korea.kr, 국건영 분석)·KCI 에서 성인 본인 미접종 이유 대목 못 찾음. CDC RespVaxView 는 F6 으로 씀. 미사용 PMC6153712(캐나다 2018) lack of time",
+      "createdAt": "2026-10-19T18:52:20.517Z",
+      "seq": 556
     }
   ]
 }
