@@ -31,7 +31,7 @@
 
 ## 원인
 
-없음.
+- [답장 미루기](delaying-message-replies.md) [F2]
 
 ## 결과
 
