@@ -1,6 +1,6 @@
 import {test} from 'node:test'
 import assert from 'node:assert/strict'
-import {normalize, extractText, quoteIn, judge, daysBetween, fetchText} from './lib/source.mjs'
+import {normalize, extractText, quoteIn, judge, daysBetween, fetchText, hostBlocked} from './lib/source.mjs'
 
 test('normalize: 따옴표, 대시, 공백 종류를 맞춘다', () => {
   assert.equal(normalize('“그는” 말했다 – 그리고  떠났다'), '"그는" 말했다 - 그리고 떠났다')
@@ -144,4 +144,22 @@ test('fetchText: EUC-KR 페이지는 Content-Type 이나 meta charset 을 읽어
     const page = await fetchText('https://m.news.nate.com/view/20260110n00225', {fetchImpl, quote: '평소 미용사가 말 거는 게 싫어 자는 척'})
     assert.ok(page.ok && quoteIn(page.text, '평소 미용사가 말 거는 게 싫어 자는 척'), ct)
   }
+})
+
+// instiz.net 은 2026-10-19 오전 VERIFIED 였던 name/49861851 을 저녁에 403 으로 줬고, 홈(/)도 403 이었다. 글이 아니라 호스트가 막은 것이다.
+test('judge: 호스트 전체가 막혔으면 VERIFIED 기록이 있어도 소멸 표시를 요구하지 않는다', () => {
+  const rec = {first: '2026-10-19', last: '2026-10-19', result: 'VERIFIED', lastVerified: '2026-10-19'}
+  const f = {unverified: false, vanished: null}
+  const j = judge(f, 'UNREACHABLE', rec, {hostBlocked: true})
+  assert.equal(j.exit, 0)
+  assert.match(j.note, /호스트/)
+  assert.equal(judge(f, 'UNREACHABLE', rec, {hostBlocked: false}).exit, 1)
+  assert.equal(judge(f, 'NOT_FOUND', rec, {hostBlocked: true}).exit, 1)
+})
+
+test('hostBlocked: 원글이 4xx 이고 호스트의 / 도 열리지 않으면 true', async () => {
+  const mk = map => async url => { const s = map[new URL(url).pathname] ?? 200; return {ok: s < 300, status: s, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>x</html>'} }
+  assert.equal(await hostBlocked('https://www.instiz.net/name/49861851', 'HTTP 403', {fetchImpl: mk({'/': 403, '/name/49861851': 403})}), true)
+  assert.equal(await hostBlocked('https://example.com/gone', 'HTTP 404', {fetchImpl: mk({'/gone': 404})}), false)
+  assert.equal(await hostBlocked('https://example.com/slow', '타임아웃', {fetchImpl: mk({'/': 403})}), false)
 })

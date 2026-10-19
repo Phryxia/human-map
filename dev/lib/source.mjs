@@ -90,12 +90,20 @@ export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, fallba
 
 export const quoteIn = (text, quote) => normalize(text).includes(normalize(quote))
 
+// 원글이 4xx 일 때 같은 호스트의 / 도 열리지 않으면 글이 아니라 호스트가 이 환경을 막은 것이다(instiz.net, 2026-10-19).
+export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 20000} = {}) {
+  if (!/^HTTP 4\d\d$/.test(reason ?? '')) return false
+  const home = await fetchOnce(new URL('/', url).href, USER_AGENTS.at(-1), {timeout, fetchImpl})
+  return !home.ok
+}
+
 // 결과를 기록과 줄 표시에 맞춰 판정한다. 돌려주는 값: {exit: 0|1, note}
-export function judge(frag, result, record) {
+export function judge(frag, result, record, {hostBlocked = false} = {}) {
   const wasVerified = !!record?.lastVerified
   if (result === 'VERIFIED') return {exit: 0, note: frag.unverified ? '(미확인) 표시를 뗄 수 있다' : ''}
   if (wasVerified) {
     if (frag.vanished) return {exit: 0, note: ''}
+    if (result === 'UNREACHABLE' && hostBlocked) return {exit: 0, note: '호스트 전체가 막혀 있다(/ 도 열리지 않음). 소멸로 보지 않는다'}
     return {exit: 1, note: `줄 끝을 (소멸, ${record.lastVerified} 까지 확인) 으로 바꾼다`}
   }
   if (result === 'NOT_FOUND') return {exit: 1, note: '원문이 페이지에 없다. 전사나 출처가 틀렸다'}
