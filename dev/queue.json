@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T20:03:52.341Z",
-  "nextSeq": 568,
-  "stops": 51,
+  "savedAt": "2026-10-19T23:04:34.240Z",
+  "nextSeq": 588,
+  "stops": 52,
   "items": [
-    {
-      "id": "5464f9e7",
-      "title": "인사 안 받는 이웃에게 아는 체 그만두기 보강: 다른 시기",
-      "priority": 30,
-      "note": "82cook bn=15&num=1572696(2013-05-31) '이제는 그 아줌마 엘리베이터에서 만나도 인사를 안하기로 결정' + '무시당하는 기분' 은 2026-10-19 curl 연결 끊김으로 미확인. 열리면 다른 시기 파편. avoiding-shared-elevator 와 관계 후보",
-      "createdAt": "2026-10-19T18:57:00.197Z",
-      "seq": 557
-    },
-    {
-      "id": "624b0db2",
-      "title": "퇴근 뒤 업무 연락에 답하기와 수면 질 저하",
-      "priority": 10,
-      "note": "Hu 외 2019 redalyc 231360290002 초록: boundary crossing 을 통해 telepressure 가 physical fatigue, poor sleep quality 와 연관. 결과 간선 후보(인과 표현 확인 필요)",
-      "createdAt": "2026-10-18T02:52:51.239Z",
-      "seq": 161
-    },
-    {
-      "id": "a033fa3c",
-      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
-      "priority": 10,
-      "note": "2026-10-18 2차: kormedi.com/1350541(2021-08-12, 이제 replaying F3)는 통화 뒤 되짚기 → 그 실수에 대한 초조까지만 말함. insidehook.com/wellness/telephobia(2021-02-23)는 시간순 서술이고 200자 넘음. 전화 통화 두려움 자체와의 인과를 말하는 원문을 찾아야 간선",
-      "createdAt": "2026-10-18T03:41:09.927Z",
-      "seq": 179
-    },
-    {
-      "id": "704b6afc",
-      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
-      "priority": 10,
-      "note": "2026-10-18 2차: poverty.ac.uk/node/1302(이제 concealing-poverty F4)는 남의 시선 걱정 → 수급 사실 숨김으로 자존감 위협과 직접 잇지 않음. 세계일보 2026-08-24 segye.com/newsView/20260824515111 '창피해서, 가난하다는 낙인이 찍히는 것 같아서 봉투를 거절' 은 도움 거절만. um.edu.mt OAR 124822(Abela 2020) 'shaming, making them seek ways to conceal' 은 도움 언급 없음",
-      "createdAt": "2026-10-18T03:55:34.060Z",
-      "seq": 182
-    },
-    {
-      "id": "43d7fd22",
-      "title": "도움받기를 창피해 거절하기",
-      "priority": 10,
-      "note": "segye.com/newsView/20260824515111(2026-08-24) 중장년 남성이 창피해서 지원 봉투를 거절. mt.co.kr 2022-03-15 '나라의 도움을 받는 걸 자존심 상하는 일'. threat-in-receiving-help 보강 또는 하위 후보",
-      "createdAt": "2026-10-18T03:55:34.176Z",
-      "seq": 183
-    },
-    {
-      "id": "8fa56699",
-      "title": "퇴근 뒤 업무 연락에 답하기와 메신저 빠른 응답 의무감의 관계",
-      "priority": 10,
-      "note": "2026-10-18: after-hours-work-replies 가 이미 telepressure 를 별칭으로 두고 redalyc Hu 2019 정의를 F3 로 씀. 메신저 빠른 응답 의무감 문서는 업무 밖 개인 메신저(읽씹 걱정 등) 파편으로 세워야 중복이 아님. 인과 후보: hal.univ-lille.fr/hal-04453951 'Employees under telepressure are likely to respond more frequently and more quickly to e-mails'(이메일, 발행일 미상)",
-      "createdAt": "2026-10-18T03:59:08.968Z",
-      "seq": 184
-    },
-    {
-      "id": "4e3a43ad",
-      "title": "서비스 공간의 대화 거절 선택지",
-      "priority": 10,
-      "note": "pretending-to-sleep-to-avoid-talk F3(조선일보 2026-01-10): 미용실 예약의 '조용히 시술받기' 옵션, 스몰토크 거부. pretending-to-sleep 과 원인/결과 후보",
-      "createdAt": "2026-10-18T04:00:11.843Z",
-      "seq": 186
-    },
-    {
-      "id": "c2580b26",
-      "title": "말 걸까 봐 택시 피하기",
-      "priority": 10,
-      "note": "ditoday.com/?p=14673(디지털 인사이트 2018-11-28) '말을 걸지 않을 거라는 마음의 안정. 상대가 거는 말에 대답을 해야 하는 의무감은 애초에 없을 거라는 것' 이 택시를 타지 않던 이유. 자는 척이 아니라 서비스 선택이라 pretending-to-sleep-to-avoid-talk 에 안 넣음. 서비스 공간의 대화 거절 선택지와 관계 후보",
-      "createdAt": "2026-10-18T04:00:35.878Z",
-      "seq": 187
-    },
-    {
-      "id": "f8721723",
-      "title": "읽음 표시를 피하려고 메시지를 열지 않기",
-      "priority": 10,
-      "note": "waiting-for-a-reply F4(Lynden 2017)가 읽음 표시와 회피 전략을 연결. delaying-message-replies 와 관계 후보",
-      "createdAt": "2026-10-18T04:39:08.066Z",
-      "seq": 198
-    },
     {
       "id": "44360713",
       "title": "메시징 의존",
@@ -789,12 +717,68 @@
       "seq": 567
     },
     {
+      "id": "f5183f41",
+      "title": "퇴근 뒤 일 생각 곱씹기와 생각 때문에 잠 못 이루기의 관계",
+      "priority": 10,
+      "note": "work-rumination-after-hours F3(브런치 2026-05-26) '잠들기 전에도, 심지어 꿈속에서도 같은 장면이 반복' 은 인과 표현 없음. PMC8626826(Kubo 외 2021) 'job‐related e‐mailing after working hours negatively affected the quality of sleep, rumination' 은 2026-10-19 PMC reCAPTCHA 로 미확인. 곱씹음 → 잠 못 이룸 인과 원문 필요",
+      "createdAt": "2026-10-19T22:44:08.613Z",
+      "seq": 581
+    },
+    {
+      "id": "d887e966",
+      "title": "서비스 받는 동안 잡담 피하기와 자는 척하기의 관계",
+      "priority": 10,
+      "note": "avoiding-small-talk-during-service 와 pretending-to-sleep-to-avoid-talk 모두 대화를 피함. 한쪽이 다른 쪽을 대신한다는 원문(예: 조용히 옵션이 없어 자는 척)이 있으면 간선",
+      "createdAt": "2026-10-19T22:57:01.731Z",
+      "seq": 585
+    },
+    {
+      "id": "1023c86d",
+      "title": "읽음 표시를 피하려고 메시지 열지 않기와 답장 미루기의 관계",
+      "priority": 10,
+      "note": "avoiding-read-receipts F3 브런치(brunch.co.kr/@longvacation/112, 2026-08-17) 같은 글 '그 의무를 피하려고 사람들은 결국 읽지 않은 척하는 기술을 익혔다' 는 빨리 답해야 한다는 압박(pressure-to-reply-quickly) → 이 현상의 원인 후보. 한 출처 한 파편이라 이 문서에는 못 씀. 다른 출처 필요. segye.com/newsView/20251005501605(카카오 몰래 읽기 기능 보도) 미열람",
+      "createdAt": "2026-10-19T23:04:25.966Z",
+      "seq": 587
+    },
+    {
       "id": "02b2f242",
       "title": "독감 예방접종 거르기 보강: 한국 공공 출처",
       "priority": 5,
       "note": "2026-10-19 3차까지 한국 공공(kdca, korea.kr, 국건영 분석)·KCI 에서 성인 본인 미접종 이유 대목 못 찾음. CDC RespVaxView 는 F6 으로 씀. 미사용 PMC6153712(캐나다 2018) lack of time",
       "createdAt": "2026-10-19T18:52:20.517Z",
       "seq": 556
+    },
+    {
+      "id": "cae55699",
+      "title": "전화 통화 두려움과 대화 뒤 되짚기의 관계",
+      "priority": 5,
+      "note": "2026-10-19 3차: 인과 원문 없음. ferwer.com/blog/-fear-of-phone-calls-and-how-to-overcome-it-step-by-step(2026-10-15) 'replay every call afterwards' 다음 문장 'This inner critic then becomes one of the main reasons they try at all costs to avoid the next call.' 은 지시어로 앞 문장에 기대고 합치면 200자 초과. reachlink.com/advice/fobias-mx/phone-anxiety/(2026-05-28) 'replay calls afterward analyzing every word' 는 공존 서술. 한국심리학회지 콜포비아 척도 논문(29권 3호, 걱정 및 반추 요인)은 PDF 만",
+      "createdAt": "2026-10-19T22:51:57.430Z",
+      "seq": 582
+    },
+    {
+      "id": "6e41abec",
+      "title": "가난 감추기와 도움받을 때의 자존감 위협의 관계",
+      "priority": 5,
+      "note": "2026-10-19 3차 보류: 2차 note 의 세 출처 외 새 후보 못 찾음. poverty.ac.uk/node/1302, segye 20260824515111, um.edu.mt OAR 124822 모두 인과 원문 아님",
+      "createdAt": "2026-10-19T22:52:14.577Z",
+      "seq": 583
+    },
+    {
+      "id": "9ff09e8d",
+      "title": "퇴근 뒤 업무 연락에 답하기와 빨리 답해야 한다는 압박의 관계",
+      "priority": 5,
+      "note": "2026-10-19: 메신저 응답 의무감은 이미 pressure-to-reply-quickly 의 별칭. hal-04453951 은 lilloa.hal.science/hal-04453951 로 넘어감(Matignon, Dose, proceedings) 'Employees under telepressure are likely to respond more frequently and more quickly to e-mails, in order to reduce response times' 는 근무시간 밖 조건이 없어 after-hours-work-replies 원인 간선 근거로 약함. 퇴근 뒤/주말 응답과 압박을 한 문장에 잇는 원문 필요",
+      "createdAt": "2026-10-19T22:53:21.896Z",
+      "seq": 584
+    },
+    {
+      "id": "e3229c92",
+      "title": "서비스 받는 동안 잡담 피하기 보강: 학술, 2015년 이전",
+      "priority": 5,
+      "note": "2026-10-19 3차: yougov.com/en-gb 19784(2017-12-12) 는 F1 로 씀. 남은 후보: Emerald 학술 2편 curl 403(EJM 2022 doi 10.1108/EJM-06-2021-0460, Garzaniti 외 2011 doi 10.1108/09604521111185646), dcist.com 2006-01-23 은 질문문, kakaocorp 7888 은 NOT_FOUND 예상",
+      "createdAt": "2026-10-19T23:01:16.507Z",
+      "seq": 586
     }
   ]
 }
