@@ -44,7 +44,7 @@
 
 ## 결과
 
-없음.
+- [퇴근 뒤 일 생각 곱씹기](work-rumination-after-hours.md) [F5]
 
 ## 긴장
 
