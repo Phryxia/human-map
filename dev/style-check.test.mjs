@@ -36,3 +36,12 @@ test('동사 어간+고, 는 연결어미 뒤 쉼표 ERROR 로 잡는다', () =>
   assert.ok(!has('F1 은 "먹고, 잤다" 라고 적는다. [F1][F2]', '연결어미 뒤 쉼표'))
   assert.equal(issues('말하고, 갔다. [F1][F2]').filter(i => i.group === '연결어미 뒤 쉼표').length, 1)
 })
+test('제목·별칭·요약 줄의 한자와 이모지도 잡는다', () => {
+  const head = text => styleIssues(loadAll(makeRepo({a: text})).get('a')).filter(i => i.group === '이모지와 한자')
+  const alias = makeDoc().replace('별칭: 없음', '별칭: 상사 눈치에 퇴근 못 하기, 付き合い残業')
+  assert.deepEqual(head(alias).map(i => i.ln), [3])
+  assert.equal(head(alias)[0].level, 'ERROR')
+  assert.equal(head(makeDoc({title: '향수 😀'})).length, 1)
+  assert.equal(head(makeDoc({summary: '사람이 殘業 한다.'})).length, 1)
+  assert.deepEqual(head(makeDoc()), [])
+})

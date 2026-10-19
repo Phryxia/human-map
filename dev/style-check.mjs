@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// 서술과 조건 절의 문체 규칙 검사. 사용법: node dev/style-check.mjs [<id>]
+// 서술과 조건 절의 문체 규칙 검사(제목·별칭·요약 줄은 이모지와 한자만). 사용법: node dev/style-check.mjs [<id>]
 import {loadAll, listDocIds, paragraphs} from './lib/doc.mjs'
 import {GROUPS, countRules} from './lib/style-rules.mjs'
 
@@ -14,6 +14,14 @@ export function styleIssues(doc) {
       }
     }
   }
+  // 제목·별칭·요약 줄(첫 절 앞)은 이모지와 한자만 본다.
+  const headEnd = doc.headings.find(h => h.level === 1)?.ln ?? doc.lines.length + 1
+  doc.lines.slice(0, headEnd - 1).forEach((text, i) => {
+    for (const g of GROUPS.filter(g => g.name === '이모지와 한자')) for (const re of g.patterns) {
+      const m = re.exec(text)
+      if (m) out.push({id: doc.id, ln: i + 1, group: g.name, msg: `'${m[0]}'`, level: g.level ?? 'ERROR'})
+    }
+  })
   const all = ['서술', '조건'].flatMap(s => paragraphs(doc, s))
   for (const p of all) {
     const sentences = p.text.replace(/\[F\d+\]/g, '').split(/(?<=[.?!])\s+/).filter(Boolean)
