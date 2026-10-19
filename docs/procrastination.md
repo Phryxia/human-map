@@ -12,7 +12,7 @@
 
 2024년 F4 의 블로그 글은 늘 늦는 사람들이 시간 맞추기와 미루기에 어려움을 겪고 그것이 반복되는 지각으로 이어진다고 적는다. [F4]
 
-2026년 1월 닥터나우 질문 글의 글쓴이는 미리 준비하면 다음 날 일이 수월한 줄 알면서도 너무 하기 싫고 스트레스가 높아져 일을 미루고 결국 당일에 한꺼번에 처리한다고 적었다. [F5]
+2026년 1월 닥터나우 질문 글의 글쓴이는 미리 준비하면 다음 날 일이 수월한 줄 알면서도 너무 하기 싫고 스트레스가 높아져 일을 미루고 결국 당일에 한꺼번에 처리한다고 적었다. 2026년 9월 루리웹 게시글의 글쓴이는 할 일을 미루다 보니 수면을 미루게 되고 수면을 미루다 보니 할 일이 조금씩 미뤄진다고 적었다. [F5][F6]
 
 # 조건
 
@@ -25,6 +25,7 @@
 - F3 [학술] "Furthermore, Steel (2007) emphasized that a core characteristic of procrastination is the realization by the actor that one will be worse off because of the delay." (나아가 Steel(2007)은 미루기의 핵심 특징이 미루는 사람 스스로 그 지연 때문에 더 나빠지리라는 것을 안다는 점이라고 강조했다.) — Frode Svartdal, Silje Granmo, Fredrik S. Færevaag, "On the Behavioral Side of Procrastination: Exploring Behavioral Delay in Real-Life Settings", Frontiers in Psychology 9, 2018-05-16, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00746/full, 2026-10-18 접속
 - F4 [매체] "Such late people often struggle with timing and procrastination, contributing to their recurring tardiness." (그렇게 늦는 사람들은 흔히 시간 맞추기와 미루기에 어려움을 겪고 이것이 반복되는 지각에 기여한다.) — Jacob, "The Intriguing Psychology Of Chronic Lateness: Exploring Why Some People are Always Late", Reason Future Tech, 2024-08-08, https://www.tryreason.com/blog/the-intriguing-psychology-of-chronic-lateness-exploring-why-some-people-are-always-late/, 2026-10-17 접속
 - F5 [SNS] "일이 많음을 인지하고 미리 미리 이것 저것을 준비해놔야 내일 나의 일이 수월해짐을 알고 있지만 너무 하기싫고 스트레스가 높아져 일을 미루게 되고 결국 당일 많은일을 한꺼번에 처리 하게 됩니다" — 닥터나우 Q&A 게시글, 2026-01-01, https://doctornow.co.kr/content/qna/16650f6d862241dc8ea87398d164d731, 2026-10-17 접속
+- F6 [SNS] "할 일을 미루다보니 수면을 미루게 되고 수면을 미루다보니 할 일이 조금씩 미뤄지고" — 루리웹 게시글, 2026-09-08, https://bbs.ruliweb.com/family/4526/board/300143/read/76592812, 2026-10-19 접속
 
 # 관계
 
@@ -40,11 +41,12 @@
 
 ## 원인
 
-없음.
+- [잠자리 미루기](bedtime-procrastination.md) [F6]
 
 ## 결과
 
 - [상습 지각](chronic-lateness.md) [F4]
+- [잠자리 미루기](bedtime-procrastination.md) [F6]
 
 ## 긴장
 
