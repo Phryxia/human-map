@@ -16,7 +16,7 @@
 
 1999년 F1 의 응답자는 미국 메디케어 수급자이고 2024년 F5 의 응답자는 노르웨이 사람이다. [F1][F5]
 
-2013년 F3 의 일본 조사에서 20~59세 남성 미접종자가 가장 많이 든 이유는 의료기관에 갈 시간이 없다는 것(32.3~42.8%)이었다. [F3]
+2013년 F3 의 일본 조사에서 20~59세 남성 미접종자가 가장 많이 든 이유는 의료기관에 갈 시간이 없다는 것(32.3~42.8%)이었다. 2024년 F6 에서 2023~24년 독감 백신을 맞지 않은 미국 성인의 10.7%는 시간이 없거나 미뤄 두었다는 것을 주된 이유로 골랐다. [F3][F6]
 
 # 파편
 
@@ -25,6 +25,7 @@
 - F3 [학술] "In males, “No time to visit a medical institution” was the most frequent reason among those aged 20–59 (32.3-42.8%)" (남성에서는 20~59세 가운데 "의료기관에 갈 시간이 없음" 이 가장 많은 이유였다(32.3~42.8%).) — T. Iwasa, K. Wada, "Reasons for and against receiving influenza vaccination in a working age population in Japan: a national cross-sectional study", BMC Public Health, 2013-07-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC3718666/, 2026-10-19 접속
 - F4 [매체] "일반인이 독감 예방접종을 기피하는 공통적인 이유는 '부작용'이다." — 머니투데이, 머니투데이, 2023-11-08, https://www.mt.co.kr/thebio/2023/11/08/2023110814435362579, 2026-10-19 접속
 - F5 [매체] "The most cited reasons were “no need” for the vaccine and “no specific reason”, followed by “not recommended/offered the vaccine”, “worry about side effects” and “vaccine refusal”." (가장 많이 꼽힌 이유는 백신이 "필요 없다" 와 "특별한 이유 없음" 이었고 "권유받거나 제공받지 못함", "부작용 걱정", "백신 거부" 가 뒤를 이었다.) — PANSOC, "New paper: Drivers and barriers of seasonal vaccination uptake", OsloMet, 2024-10-02, https://uni.oslomet.no/pansoc/2024/10/02/new-paper-drivers-and-barriers-of-seasonal-vaccination-uptake/, 2026-10-19 접속
+- F6 [공공] "While not one of the most common reasons overall, not having time / not getting around to it was among the five most commonly selected main reasons for non-vaccination (10.7%)" (전체 이유 가운데 가장 흔한 것은 아니었지만 시간이 없음 / 미뤄 둠은 미접종의 주된 이유로 가장 많이 고른 다섯 가운데 하나였다(10.7%)) — Centers for Disease Control and Prevention, "Reasons for non-vaccination with COVID-19, influenza, and RSV vaccines during the 2023–24 respiratory virus season", RespVaxView, 2024-11-08, https://www.cdc.gov/respvaxview/publications/reasons-for-nonvaccination-2023-24.html, 2026-10-19 접속
 
 # 관계
 
