@@ -41,6 +41,7 @@
 
 - [대화 뒤 되짚기](replaying-conversations-afterward.md) [F3]
 - [수줍은 방광](shy-bladder.md)
+- [거절하지 못하기](difficulty-saying-no.md)
 
 ## 긴장
 
