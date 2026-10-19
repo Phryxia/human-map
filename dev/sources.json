@@ -1055,7 +1055,7 @@
   },
   "https://www.82cook.com/entiz/read.php?bn=15&num=1572696": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "UNREACHABLE"
   },
   "https://www.audacy.com/987thespot/blogs/miles-morning/study-finds-majority-people-dont-want-talk-others-elevator": {
@@ -4174,7 +4174,7 @@
   "https://www.instiz.net/name/49861851": {
     "first": "2026-10-19",
     "last": "2026-10-19",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-19"
   },
   "https://letstalk.mindline.sg/t/social-anxiety-or-not/22898": {
@@ -4286,6 +4286,12 @@
     "lastVerified": "2026-10-19"
   },
   "https://thespinoff.co.nz/society/14-09-2023/help-me-hera-my-cousins-almost-forgot-my-birthday-and-im-stewing": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://m.go.seoul.co.kr/news/2012/08/02/20120802014008": {
     "first": "2026-10-19",
     "last": "2026-10-19",
     "result": "VERIFIED",
