@@ -1,9 +1,25 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T05:02:40.000Z",
-  "nextSeq": 468,
-  "stops": 44,
+  "savedAt": "2026-10-19T06:56:12.123Z",
+  "nextSeq": 482,
+  "stops": 45,
   "items": [
+    {
+      "id": "32682328",
+      "title": "잠자리 미루기와 미루기의 되먹임",
+      "priority": 50,
+      "note": "bbs.ruliweb.com/family/4526/board/300143/read/76592812 (2026-09-08) '할 일을 미루다보니 수면을 미루게 되고 수면을 미루다보니 할 일이 조금씩 미뤄지고'. bedtime-procrastination 원인·결과 간선 후보(같은 사이트 다른 글이므로 계정 경로 확인)",
+      "createdAt": "2026-10-19T06:55:52.280Z",
+      "seq": 480
+    },
+    {
+      "id": "e99e4fcb",
+      "title": "피로가 잠자리 미루기를 부름",
+      "priority": 50,
+      "note": "sgh.com.sg bedtime-procrastination(이미 bedtime-procrastination F2) 'After a long day, some people are just too tired to make logical decisions'. 한 출처 한 파편이라 다른 출처로 원인 근거 필요",
+      "createdAt": "2026-10-19T06:55:52.394Z",
+      "seq": 481
+    },
     {
       "id": "b60a056e",
       "title": "누구에게 말했는지 잊기 (목적지 기억)",
@@ -675,6 +691,46 @@
       "note": "enduring-neighbor-noise 결과 후보. 확인함(2026-10-19): korea.kr newsId=148905290 (2022-08-29) 은 '층간 소음 보복행위의 경우 스토킹 범죄로 처벌받을 수 있고' 만, etoday 2268524 (2023-07-23) 는 보복 스피커 판매만 다룸. 사람이 참다가 보복했다는 장면(SNS, 판결 기사, 학술) 필요",
       "createdAt": "2026-10-19T05:02:38.729Z",
       "seq": 467
+    },
+    {
+      "id": "9833865d",
+      "title": "운동에 관심이 없어 운동하지 않기",
+      "priority": 10,
+      "note": "no-time-to-exercise F8(머니투데이 2026-01-19) 60대 '관심 부족' 1순위, ABS 2007 media release 85051A8899... 여성 'not interested in exercising'(19%). no-time-to-exercise 와 형제 현상 후보",
+      "createdAt": "2026-10-19T06:37:54.840Z",
+      "seq": 475
+    },
+    {
+      "id": "1a8f1f11",
+      "title": "일하는 어머니의 시간 부족 지각",
+      "priority": 10,
+      "note": "PMC3162476(Brown·Roberts 2011) 'Working mothers who juggle employment and motherhood may perceive that they do not have the time to participate in physical activity'. no-time-to-exercise 하위 후보. 같은 URL 은 이미 no-time-to-exercise F3 이므로 다른 출처 필요",
+      "createdAt": "2026-10-19T06:37:54.946Z",
+      "seq": 476
+    },
+    {
+      "id": "7b669e63",
+      "title": "no-time-to-exercise 와 아침 식사 거르기의 공통 상위(시간 부족으로 건강 습관 미루기)",
+      "priority": 10,
+      "note": "skipping-breakfast 와 no-time-to-exercise 모두 '시간이 없어서' 가 1순위 이유. 공통 상위를 말하는 파편을 찾아야 간선",
+      "createdAt": "2026-10-19T06:37:55.055Z",
+      "seq": 477
+    },
+    {
+      "id": "1bf18929",
+      "title": "기부 단체 불신",
+      "priority": 10,
+      "note": "not-donating F5(서울시 2019 '믿을 수 없어서 24.4%'), F6(지식iN 2023 해피빈 불신). 지식iN 글은 횡령 뉴스를 본 뒤 불신이 생겼다고 적음. not-donating 원인 후보",
+      "createdAt": "2026-10-19T06:50:32.086Z",
+      "seq": 478
+    },
+    {
+      "id": "c23f68d1",
+      "title": "자선 요청 방식에 대한 거부감",
+      "priority": 10,
+      "note": "not-donating F2(Statistics Canada 2009) 'did not like the ways in which requests for donations were made'. not-donating 원인 후보",
+      "createdAt": "2026-10-19T06:50:32.209Z",
+      "seq": 479
     }
   ]
 }
