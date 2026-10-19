@@ -1,96 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T13:05:56.609Z",
-  "nextSeq": 528,
-  "stops": 47,
+  "savedAt": "2026-10-19T15:04:07.613Z",
+  "nextSeq": 537,
+  "stops": 48,
   "items": [
     {
-      "id": "1c8595e6",
-      "title": "dev: style-check 막연한 시간 '앞으로' 가 공간의 '앞으로' 를 잡음",
-      "priority": 60,
-      "note": "2026-10-19 fear-of-being-found-out 서술 초안 '물건을 앞으로 들고 나가다'(F2 김유정 「솥」 원문 '앞으로 들고 나갔으면') 가 막연한 시간으로 걸림. 오탐 사례가 하나뿐이라 둘째 사례를 찾은 뒤 좁힌다(예: '앞으로 (들고|나가|걸어|숙이)')",
-      "createdAt": "2026-10-19T12:56:00.142Z",
-      "seq": 522
+      "id": "8036ab81",
+      "title": "의무 해제 뒤에도 마스크 쓰기 보강: 한국 공공 출처",
+      "priority": 50,
+      "note": "2026-10-19 탐색에서 kdca·정책브리핑·서울시 HTML 에 착용 지속 비율 대목 못 찾음. 한국갤럽 데일리 오피니언 536호(2023-03-31, gallup.co.kr seqNo=1377) '열에 일곱(71%)이 계속 착용' 은 민간 조사. kukinews 는 Cloudflare 차단",
+      "createdAt": "2026-10-19T14:56:05.747Z",
+      "seq": 534
     },
     {
-      "id": "e0d5ce7f",
-      "title": "답하지 않은 뒤의 수치감이 답장을 더 막음",
+      "id": "36006cd9",
+      "title": "배송 조회 되풀이하기 보강: 한국어 출처",
       "priority": 50,
-      "note": "shame-after-unanswered-message → delaying-message-replies 원인 간선 후보. americamagazine 2015 B 문장 'And that guilt/shame/I-have-no-good-excuse-for-this-delay starts to get in the way of actually writing anything.' 은 같은 출처라 shame 문서에 둘째 파편으로 못 씀. 다른 출처 필요. delaying-message-replies F4(Substack 2024)도 같은 방향을 말함",
-      "createdAt": "2026-10-19T08:59:37.372Z",
-      "seq": 494
+      "note": "2026-10-19 탐색: 검색 엔진이 지식iN·클리앙·뽐뿌 개별 글을 돌려주지 않음. '배송 조회 중독', '택배 조회 무한 새로고침' 으로 포털 뉴스 검색 시도. local10.com 2021-08-10 기사는 404. smartphone-checking-habit 과 상위 관계 후보",
+      "createdAt": "2026-10-19T15:00:56.135Z",
+      "seq": 535
     },
     {
-      "id": "b62335ea",
-      "title": "거울 속 늙은 얼굴의 낯섦 보강: 젊은 사람의 경우와 2006년 학술",
+      "id": "f7131c0f",
+      "title": "독감 예방접종 거르기 보강: 한국 공공 출처와 시간 부족",
       "priority": 50,
-      "note": "aged-face-in-mirror 조건 보강. Rubin & Berntsen 2006 PMC3969748 (25세 미만은 주관적 나이가 더 많고 40세 이후 20% 젊게 느낌, curl 에 reCAPTCHA). Wharton House of Mirth gutenberg 284 'when a girl looks old to herself' 젊은 여성의 사례",
-      "createdAt": "2026-10-19T12:35:56.306Z",
-      "seq": 512
-    },
-    {
-      "id": "36697cd6",
-      "title": "눈치 야근 보강: 부서장 솔선 정시 퇴근과 2014 PC-off",
-      "priority": 50,
-      "note": "staying-late-for-boss 조건 보강 후보. korea.kr newsId=148890196 (2021-07-15, 인사처 '눈치야근은 그만하게' 부서장 솔선 정시퇴근), korea.kr newsId=148775250 (2014-03-14, '과도한 업무, 상사의 눈치 등의 이유로'), president.jp/articles/-/28249 (잔업이 상사에서 부하로 '유전')",
-      "createdAt": "2026-10-19T12:38:38.086Z",
-      "seq": 514
-    },
-    {
-      "id": "42187456",
-      "title": "약관 읽지 않고 동의하기 보강: 사회 규범과 프라이버시 피로가 원인",
-      "priority": 50,
-      "note": "aisel.aisnet.org/icis2024/security/security/5 (ICIS 2024): 'social norms and privacy fatigue were positively related to privacy policy acceptance'. today.uconn.edu/2016/08/privacy-paradox (2016-08-18) 학생 74% 건너뜀, 'cultural norm not to read them'. FCA consumer panel 2018-04-19 '읽어도 이해 못함'. 프라이버시 피로 문서가 생기면 원인 간선",
-      "createdAt": "2026-10-19T12:42:30.802Z",
-      "seq": 516
-    },
-    {
-      "id": "93ea3f6e",
-      "title": "얼굴 붉어짐과 부정적 평가에 대한 두려움의 관계",
-      "priority": 50,
-      "note": "neurosciencenews.com/blushing-neuroimaging-cerebellum-26463 (2024-07-18): 청소년은 남의 의견에 민감하고 거절을 두려워해 더 붉어짐(연구자 실명 포함 문장이라 다른 대목이나 다른 출처 필요). blushing 원인 간선 후보",
-      "createdAt": "2026-10-19T12:44:42.183Z",
-      "seq": 519
-    },
-    {
-      "id": "28f6c398",
-      "title": "주말 몰아 자기 보강: 청소년 수면 부족의 원인과 결과",
-      "priority": 50,
-      "note": "frontiersin fped.2023.1213558 같은 출처의 원인 문장('due to psychosocial factors including academic demands...')은 한 출처 한 파편이라 못 씀. nhlbi.nih.gov/news/2019/study-weekend-catch-sleep-linked-weight-gain (2019-02-28) 주말 보충 수면 뒤 체중 증가·인슐린 감수성 27% 저하. yle.fi/a/3-6305863 (2012-09-23). 2012년 이전 출처 필요. bedtime-procrastination 과의 원인 관계 후보",
-      "createdAt": "2026-10-19T12:52:30.325Z",
-      "seq": 521
-    },
-    {
-      "id": "2184f19a",
-      "title": "의무 해제 뒤에도 마스크 쓰기 보강: 공공 출처와 외모 걱정",
-      "priority": 50,
-      "note": "frontiersin fpsyg.2025.1498560 같은 쪽: 여성이 냉담해 보일까, 외모 걱정 등으로 더 불안(한 출처 한 파편이라 못 씀). syu.ac.kr 상담심리학과 게시 쿠키뉴스 2023-06-14 '나만 튀는 상황을 불쾌하게'. ajunews.com/view/20230130125145045 '맨얼굴 어색'(인터뷰 성씨 인접, 주의). kdca.go.kr·서울서베이에서 공공 출처 필요",
-      "createdAt": "2026-10-19T12:58:40.108Z",
-      "seq": 524
-    },
-    {
-      "id": "99eab4cf",
-      "title": "졸음운전 보강: 졸음 과소평가와 조건(나이, 성별, 고속도로)",
-      "priority": 50,
-      "note": "aaafoundation 같은 쪽 'low perceived levels of drowsiness ... 75% of them were moderately or highly drowsy'(한 출처 한 파편). Radun 2015 남성이 더 자주 잠듦. CDC MMWR 'prevalence decreased with age'. m.seoul.co.kr/news/2022/09/27/20220927009005 고속도로는 같은 패턴이라 졸음. 2005년 이전 출처 필요",
-      "createdAt": "2026-10-19T13:01:18.304Z",
-      "seq": 525
-    },
-    {
-      "id": "991e6d70",
-      "title": "배송 조회 되풀이하기 보강: 한국어 출처와 조건",
-      "priority": 50,
-      "note": "checking-parcel-tracking 은 영어 출처뿐이고 조건 절이 비어 있음. 지식iN·클리앙 내부 검색('배송조회 새로고침')으로 한국 SNS 파편, 기다림 불안을 다룬 학술 출처 필요. smartphone-checking-habit 과 상위 관계 후보",
-      "createdAt": "2026-10-19T13:04:10.119Z",
-      "seq": 526
-    },
-    {
-      "id": "102794be",
-      "title": "독감 예방접종 거르기 보강: 시간 부족과 비용, 한국 공공 출처",
-      "priority": 50,
-      "note": "ncirs.org.au 2025 national survey adult influenza: 비용, 바쁨, 예약 어려움(발행일 확인 필요). cdc.gov/mmwr/preview/mmwrhtml/mm5343a3.htm (2004) 같은 이유 지속(같은 CDC MMWR 계열). kdca.go.kr 출처 필요. delaying-medical-care(진료 회피) 와 관계 후보",
-      "createdAt": "2026-10-19T13:05:47.288Z",
-      "seq": 527
+      "note": "2026-10-19 탐색: kdca·korea.kr HTML 에 미접종 이유 대목 못 찾음. medicaltimes.com Main/view.html?ID=20330 (2005-09-01) 엄마 조사 '바빠서'(16%) 는 자녀 접종이라 보류. PMC8903929 충칭 의료인 '시간 없음' 65.7%. delaying-medical-care 관계 후보",
+      "createdAt": "2026-10-19T15:02:46.822Z",
+      "seq": 536
     },
     {
       "id": "51dc003a",
@@ -835,6 +771,14 @@
       "note": "scientificamerican.com Hutson 2017-05-30 (이제 fear-of-being-found-out F4): 'The more often their mind wandered to a secret, the more they reported that it damaged their well-being'. sciencealert 2017-05-29 같은 연구. fear-of-being-found-out 의 하위 또는 별개 현상 후보",
       "createdAt": "2026-10-19T12:56:00.268Z",
       "seq": 523
+    },
+    {
+      "id": "c3ac211f",
+      "title": "상사가 겪은 장시간 근무를 부하에게 되풀이하기",
+      "priority": 10,
+      "note": "president.jp/articles/-/28249 (2019-04-10, 中原淳) '残業は上司から部下へと“遺伝”する'. staying-late-for-boss 원인 간선 후보",
+      "createdAt": "2026-10-19T14:37:49.937Z",
+      "seq": 533
     }
   ]
 }
