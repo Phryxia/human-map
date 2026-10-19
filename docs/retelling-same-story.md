@@ -31,7 +31,7 @@
 
 ## 원인
 
-없음.
+- [누구에게 말했는지 잊기](destination-memory-failure.md) [F2]
 
 ## 결과
 
