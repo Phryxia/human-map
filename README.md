@@ -18,27 +18,27 @@
 
 # 집계
 
-- 문서 127개
-- 간선: 상위 24, 원인 35, 긴장 1
+- 문서 128개
+- 간선: 상위 26, 원인 35, 긴장 1
 
 ## 축 태그별 문서 수
 
 - 특성: 1
 - 사고: 45
-- 감정: 72
-- 행동: 99
+- 감정: 73
+- 행동: 100
 
 ## 파편 종류
 
-- 학술: 198 (31.7%)
+- 학술: 199 (31.7%)
 - 공공: 67 (10.7%)
-- 매체: 224 (35.8%)
+- 매체: 225 (35.9%)
 - SNS: 70 (11.2%)
-- 문학: 66 (10.6%)
+- 문학: 66 (10.5%)
 
 ## 확인 상태
 
-- 확인됨 625 (100.0%), 미확인 0 (0.0%), 소멸 0 (0.0%)
+- 확인됨 627 (100.0%), 미확인 0 (0.0%), 소멸 0 (0.0%)
 
 ## 파편 발행 연도 분포
 
@@ -60,9 +60,9 @@
 - 1970년대: 1
 - 1980년대: 10
 - 1990년대: 16
-- 2000년대: 72
+- 2000년대: 73
 - 2010년대: 202
-- 2020년대: 251
+- 2020년대: 252
 - 미상: 6
 
 파편이 한 10년 안에만 있는 문서: 7
@@ -103,7 +103,6 @@
 - [노력이 소용없다는 생각](docs/feeling-ones-effort-makes-no-difference.md)
 - [마음에 들지 않는 선물에 기뻐하는 척하기](docs/feigning-delight-at-gifts.md)
 - [구직 단념](docs/giving-up-job-search.md)
-- [거친 말로 드러내는 걱정](docs/harsh-words-for-worry.md)
 - [도움 요청 회피](docs/help-seeking-avoidance.md)
 - [이별 앞에서 눈물 참기](docs/holding-back-tears-at-breakup.md)
 - [향수](docs/homesickness.md)
@@ -142,6 +141,7 @@
 - [같은 이야기 되풀이](docs/retelling-same-story.md)
 - [돌아온 고향의 낯섦](docs/returning-home-feels-strange.md)
 - [의례적 사양](docs/ritual-refusal.md)
+- [애정을 거친 말이나 행동으로 드러내기](docs/rough-affection.md)
 - [남의 불행에 대한 기쁨](docs/schadenfreude.md)
 - [등교 거부](docs/school-refusal.md)
 - [짐이 되기 싫은 마음](docs/self-perceived-burden.md)
@@ -161,7 +161,6 @@
 - [나아지면 약 끊기](docs/stopping-medication-when-feeling-better.md)
 - [일요일 밤의 출근 걱정](docs/sunday-night-dread.md)
 - [참아 온 불만의 폭발](docs/suppressed-anger-outburst.md)
-- [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md)
 - [감사 선물](docs/thank-you-gift.md)
 - [도움받을 때의 자존감 위협](docs/threat-in-receiving-help.md)
 - [연차휴가 남기기](docs/unused-annual-leave.md)
@@ -180,6 +179,6 @@
 
 ## 상위 그래프 깊이 분포
 
-- 깊이 0: 104
-- 깊이 1: 19
+- 깊이 0: 103
+- 깊이 1: 21
 - 깊이 2: 4
