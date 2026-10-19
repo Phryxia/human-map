@@ -19,7 +19,7 @@
 # 집계
 
 - 문서 120개
-- 간선: 상위 21, 원인 28, 긴장 1
+- 간선: 상위 22, 원인 28, 긴장 1
 
 ## 축 태그별 문서 수
 
@@ -89,7 +89,6 @@
 - [나쁜 소식 확인 미루기](docs/delaying-bad-news.md)
 - [운전 그만두기 미루기](docs/delaying-driving-cessation.md)
 - [구매 결정 미루기](docs/delaying-purchases.md)
-- [거절하지 못하기](docs/difficulty-saying-no.md)
 - [날짜 표시만 보고 음식 버리기](docs/discarding-food-by-date-label.md)
 - [처분 효과](docs/disposition-effect.md)
 - [계산 피하기](docs/dodging-the-bill.md)
@@ -176,6 +175,6 @@
 
 ## 상위 그래프 깊이 분포
 
-- 깊이 0: 100
-- 깊이 1: 17
+- 깊이 0: 99
+- 깊이 1: 18
 - 깊이 2: 3
