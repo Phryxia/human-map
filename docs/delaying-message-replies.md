@@ -41,6 +41,7 @@ F3 의 글쓴이는 용건이 없는 연락에서 미루고 용건이나 질문�
 ## 원인
 
 - [나쁜 소식 확인 미루기](delaying-bad-news.md) [F5]
+- [답하지 않은 뒤의 수치감](shame-after-unanswered-message.md) [F4]
 
 ## 결과
 
