@@ -1,16 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T00:03:07.267Z",
-  "nextSeq": 434,
-  "stops": 42,
+  "savedAt": "2026-10-19T03:05:31.727Z",
+  "nextSeq": 454,
+  "stops": 43,
   "items": [
     {
-      "id": "d2daf85c",
-      "title": "창피한 일을 꾸며 둘러대기 보강",
+      "id": "98630246",
+      "title": "거절하지 못하기와 상사 관계 걱정",
       "priority": 50,
-      "note": "covering-up-embarrassment: 확인됨 2개뿐, SNS·학술 없음, F1 발행일 미상(상록수 동아일보 연재 1935~1936, 연재일 확인 필요). 후보: The Spectator 2022-10-19 spectator.com/article/the-embarrassing-truth-about-how-i-got-injured 'I then toyed with the idea of pretending I had been in a fight'. Dickens Great Expectations 57장 'ashamed to tell him exactly how I was placed'. concealing-failure 와의 관계 검토",
-      "createdAt": "2026-10-19T00:02:55.028Z",
-      "seq": 433
+      "note": "difficulty-saying-no F3(뉴스와이어 2008): 관계 불편 걱정이 거절 못함의 이유 43.1%. fear-of-negative-evaluation 원인 간선 후보, self-silencing 상위 후보 검토",
+      "createdAt": "2026-10-19T02:43:13.231Z",
+      "seq": 444
+    },
+    {
+      "id": "e787852e",
+      "title": "schadenfreude 조건 보강: 비교가 모호할 때",
+      "priority": 50,
+      "note": "Lin·Liang 2021 PMC8711567 'malicious envy does not always increase schadenfreude particularly when schadenfreude is elicited through social comparisons'. 이미 F6 출처라 같은 출처 두 번 못 씀; 다른 출처로 조건 보강",
+      "createdAt": "2026-10-19T02:56:37.140Z",
+      "seq": 452
+    },
+    {
+      "id": "ba897f50",
+      "title": "창피한 일을 꾸며 둘러대기 F1 발행일",
+      "priority": 50,
+      "note": "covering-up-embarrassment F1 상록수 제14장 발행일 미상(동아일보 연재 1935~1936, 연재일 확인 필요). SNS·학술은 2026-10-19 보강함. 후보: Spectator 2022-10-19, Great Expectations 57장. concealing-failure 관계 검토",
+      "createdAt": "2026-10-19T02:59:33.390Z",
+      "seq": 453
     },
     {
       "id": "e68467b8",
@@ -635,6 +651,62 @@
       "note": "루리웹 2025-11-06 bbs.ruliweb.com/community/board/300143/read/72947567 '꼴랑 75만원 받자고 그 자존심 스크래치내면서 온갖 서류 다 준비하고 내 통장 다 까서 소득 증명까지 함?'. 지식iN 2008-05-28 docId=48305697 '제 자존심을 너무 무너뜨리더군요.' not-claiming-benefits 원인 또는 poverty-shame 하위 후보",
       "createdAt": "2026-10-18T23:39:45.935Z",
       "seq": 432
+    },
+    {
+      "id": "6afd7a9d",
+      "title": "요청자의 승낙 과소평가",
+      "priority": 10,
+      "note": "difficulty-saying-no F5(Bohns 2016 eCommons): requesters underestimate compliance by 48%. help-seeking-avoidance 원인 후보, Flynn·Bohns 2008 ecommons 9c0adbfb 초록",
+      "createdAt": "2026-10-19T02:43:13.384Z",
+      "seq": 445
+    },
+    {
+      "id": "116adda4",
+      "title": "내키지 않는 초대에 응하기",
+      "priority": 10,
+      "note": "Emma Vol II Ch XII(gutenberg 158) 'I could not refuse; ... I would rather be at home'(187자). difficulty-saying-no 하위 후보, company-dinner-pressure 관련",
+      "createdAt": "2026-10-19T02:43:13.516Z",
+      "seq": 446
+    },
+    {
+      "id": "b88a54fc",
+      "title": "사과 거부 뒤의 자존감 상승",
+      "priority": 10,
+      "note": "apology-reluctance F3(Okimoto 2013 Monash): apology refusal → self-esteem, power/control, value integrity 매개. 결과 간선 후보",
+      "createdAt": "2026-10-19T02:47:07.853Z",
+      "seq": 447
+    },
+    {
+      "id": "d354c6f0",
+      "title": "명예 문화의 평판 걱정",
+      "priority": 10,
+      "note": "apology-reluctance F6(Lin 외 2022 PNAS PMC9564922): 평판 걱정이 사과 꺼림을 이끈다. 원인 간선 후보",
+      "createdAt": "2026-10-19T02:47:07.985Z",
+      "seq": 448
+    },
+    {
+      "id": "870c1395",
+      "title": "사과하고 싶으면서 태연한 척하기",
+      "priority": 10,
+      "note": "Little Women 28장(gutenberg 514) Meg 'She longed to run to meet him, and beg pardon' 대목. apology-reluctance 하위 후보. 나도향 물레방아(위키문헌) 사과할 마음이 거친 말로 나옴: harsh-words-for-worry 관련",
+      "createdAt": "2026-10-19T02:47:08.108Z",
+      "seq": 449
+    },
+    {
+      "id": "9820ef0f",
+      "title": "응분의 불행에 대한 기쁨",
+      "priority": 10,
+      "note": "schadenfreude F3(HN 2009 item 998910) 'getting its just deserts'. HN item 9515722(2015) 도 같은 면. schadenfreude 하위 후보",
+      "createdAt": "2026-10-19T02:56:36.862Z",
+      "seq": 450
+    },
+    {
+      "id": "c45fb561",
+      "title": "경쟁 집단의 불행에 대한 기쁨",
+      "priority": 10,
+      "note": "schadenfreude F4(Cikara·Fiske 2013 PMC4472308) 'inferiority ... leads to inter-group schadenfreude'. 이광수 이차돈의 사(위키문헌) 경쟁자가 벌받으리라 고소해함. schadenfreude 하위 후보",
+      "createdAt": "2026-10-19T02:56:37.005Z",
+      "seq": 451
     }
   ]
 }
