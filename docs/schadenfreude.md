@@ -10,13 +10,13 @@
 
 2009년 해커 뉴스의 한 댓글은 이것이 샤덴프로이데인 줄 알지만 좋다고 말한다. 글쓴이는 그 도시가 당할 만한 일을 당했다고 본다. [F4]
 
-2021년 F8 의 기사는 악의적 시기심을 가진 사람에게 질투의 대상이 불운을 겪으면 긍정적 감정이 생긴다는 연구팀의 말을 옮긴다. [F8]
+2021년 F9 의 기사는 악의적 시기심을 가진 사람에게 질투의 대상이 불운을 겪으면 긍정적 감정이 생긴다는 연구팀의 말을 옮긴다. [F9]
 
 # 조건
 
-2013년 F5 의 저자들은 지위가 높고 경쟁적인 대상이 시기를 부르고 그 시기가 샤덴프로이데를 예측한다고 쓴다. 2021년 F9 의 저자들은 시기 때문에 샤덴프로이데가 커지는 까닭을 남의 불운이 시기의 고통을 덜어 주는 데서 찾는다. [F5][F9]
+2013년 F5 의 저자들은 지위가 높고 경쟁적인 대상이 시기를 부르고 그 시기가 샤덴프로이데를 예측한다고 쓴다. 2021년 F10 의 저자들은 시기 때문에 샤덴프로이데가 커지는 까닭을 남의 불운이 시기의 고통을 덜어 주는 데서 찾는다. [F5][F10]
 
-2005년 F3 의 실험에서 불운에 대한 책임이 클수록 샤덴프로이데가 커졌고 이 효과는 그 불운을 당할 만하다고 보는 정도를 거쳤다. 2016년 F6 의 실험에서 샤덴프로이데는 결과가 심각하고 당사자의 책임이 적을 때 가장 많이 줄었다. 2018년 F7 에서 연구자는 응원하는 팀에 강하게 동일시하는 농구 팬들이 상대 팀 선수가 크게 다쳤을 때 꽤 기뻐했다고 말한다. [F3][F6][F7]
+2005년 F3 의 실험에서 불운에 대한 책임이 클수록 샤덴프로이데가 커졌고 이 효과는 그 불운을 당할 만하다고 보는 정도를 거쳤다. 2016년 F6 의 실험에서 샤덴프로이데는 결과가 심각하고 당사자의 책임이 적을 때 가장 많이 줄었다. 2018년 F7 에서 연구자는 응원하는 팀에 강하게 동일시하는 농구 팬들이 상대 팀 선수가 크게 다쳤을 때 꽤 기뻐했다고 말한다. 2018년 F8 의 기사는 자존감이 낮은 사람이 남의 성공을 자기 평판에 대한 위협으로 여겨 샤덴프로이데를 더 자주 겪는다는 연구를 옮긴다. [F3][F6][F7][F8]
 
 # 파편
 
@@ -27,8 +27,9 @@
 - F5 [학술] "One potent predictor of schadenfreude is envy, which, according to the stereotype content model, is elicited by high-status, competitive targets." (샤덴프로이데의 강력한 예측 변인 하나는 시기이며, 고정관념 내용 모형에 따르면 시기는 지위가 높고 경쟁적인 대상이 불러일으킨다.) — Mina Cikara, Susan T. Fiske, "Their pain, our pleasure: stereotype content and schadenfreude", Annals of the New York Academy of Sciences 1299, 2013-09, https://pmc.ncbi.nlm.nih.gov/articles/PMC4472308/, 2026-10-19 접속
 - F6 [학술] "Most reduction in schadenfreude occurred when the consequences were serious and when the person was less responsible for the misfortune." (샤덴프로이데가 가장 많이 줄어든 것은 결과가 심각하고 당사자가 그 불운에 책임이 덜할 때였다.) — Mariëtte Berndsen, N. T. Feather, "Reflecting on schadenfreude: serious consequences of a misfortune for which one is not responsible diminish previously expressed schadenfreude; the role of immorality appraisals and moral emotions", Motivation and Emotion, 2016-12, https://link.springer.com/article/10.1007/s11031-016-9580-8, 2026-10-19 접속
 - F7 [매체] "We showed pretty clearly that, especially people who were highly identified basketball fans, were quite happy when the rival player for an opposing team got a severe injury." (우리는 특히 팀에 강하게 동일시하는 농구 팬들이 상대 팀 라이벌 선수가 심하게 다쳤을 때 꽤 기뻐했다는 것을 꽤 분명하게 보여 주었다.) — Shankar Vedantam, "Competition Fuels Schadenfreude, Research Shows", NPR Morning Edition 방송 원고, 2018-09-04, https://www.npr.org/transcripts/644447045, 2026-10-19 접속
-- F8 [매체] "이에 대해 연구팀은 “악의적인 시기심을 가진 사람들의 목표는 상대방이 피해를 입거나 곤란을 겪는 것”이라며 “질투의 대상에게 실질적으로 불운한 일이 생기면 긍정적인 감정이 촉발된다”고 말했다." — 코메디닷컴, 「남의 불행에서 '쾌감' 얻는 시기심의 유형」, 2021-07-24, https://kormedi.com/1347382/, 2026-10-19 접속
-- F9 [학술] "Increased schadenfreude in the influence of envy is because other’s misfortune relieves individuals’ feelings of pain (Takahashi et al., 2009)." (시기의 영향으로 샤덴프로이데가 커지는 것은 남의 불운이 개인의 고통스러운 느낌을 덜어 주기 때문이다.) — Huiyan Lin, Jiafeng Liang, "The Effect of Malicious Envy on Schadenfreude When Schadenfreude Is Elicited Through Social Comparisons", Frontiers in Psychology 12, 2021-12-13, https://pmc.ncbi.nlm.nih.gov/articles/PMC8711567/, 2026-10-19 접속
+- F8 [매체] "특히 자존감이 낮은 사람은 다른 사람의 성공이 자신의 평판을 위협한다고 여기기 때문에 샤덴프로이데를 좀 더 자주 경험한다." — 코메디닷컴, 「누구나 '순간' 사이코패스 감정 느껴 (연구)」, 2018-11-13, https://kormedi.com/1255198/, 2026-10-19 접속
+- F9 [매체] "이에 대해 연구팀은 “악의적인 시기심을 가진 사람들의 목표는 상대방이 피해를 입거나 곤란을 겪는 것”이라며 “질투의 대상에게 실질적으로 불운한 일이 생기면 긍정적인 감정이 촉발된다”고 말했다." — 코메디닷컴, 「남의 불행에서 '쾌감' 얻는 시기심의 유형」, 2021-07-24, https://kormedi.com/1347382/, 2026-10-19 접속
+- F10 [학술] "Increased schadenfreude in the influence of envy is because other’s misfortune relieves individuals’ feelings of pain (Takahashi et al., 2009)." (시기의 영향으로 샤덴프로이데가 커지는 것은 남의 불운이 개인의 고통스러운 느낌을 덜어 주기 때문이다.) — Huiyan Lin, Jiafeng Liang, "The Effect of Malicious Envy on Schadenfreude When Schadenfreude Is Elicited Through Social Comparisons", Frontiers in Psychology 12, 2021-12-13, https://pmc.ncbi.nlm.nih.gov/articles/PMC8711567/, 2026-10-19 접속
 
 # 관계
 
@@ -42,7 +43,7 @@
 
 ## 원인
 
-- [시기심](envy.md) [F9]
+- [시기심](envy.md) [F10]
 
 ## 결과
 
