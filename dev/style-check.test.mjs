@@ -45,3 +45,9 @@ test('제목·별칭·요약 줄의 한자와 이모지도 잡는다', () => {
   assert.equal(head(makeDoc({summary: '사람이 殘業 한다.'})).length, 1)
   assert.deepEqual(head(makeDoc()), [])
 })
+test('공간의 앞으로는 막연한 시간으로 잡지 않는다', () => {
+  assert.ok(!has('남편은 솥을 앞으로 들고 나갔다. [F1][F2]', '막연한 시간'))
+  assert.ok(!has('누나는 동생 앞으로 그릇을 밀어 놓았다. [F1][F2]', '막연한 시간'))
+  assert.ok(has('앞으로 그 수가 늘어난다. [F1][F2]', '막연한 시간'))
+  assert.ok(has('앞으로도 일하기를 바란다. [F1][F2]', '막연한 시간'))
+})
