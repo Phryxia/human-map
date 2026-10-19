@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T19:01:31.946Z",
-  "nextSeq": 558,
-  "stops": 50,
+  "savedAt": "2026-10-19T20:03:52.341Z",
+  "nextSeq": 568,
+  "stops": 51,
   "items": [
     {
       "id": "5464f9e7",
@@ -85,14 +85,6 @@
       "seq": 199
     },
     {
-      "id": "b2750e5a",
-      "title": "명절 잔소리를 웃음으로 넘기기",
-      "priority": 10,
-      "note": "K-공감 2020 기사: 잔소리 대처 '웃음으로 대충 넘긴다' 32.8%. skipping-holiday-gatherings 와 대비되는 현상",
-      "createdAt": "2026-10-18T04:44:28.364Z",
-      "seq": 201
-    },
-    {
       "id": "0ed92fd4",
       "title": "혼자 보내는 명절에 받는 시선 피하기",
       "priority": 10,
@@ -155,14 +147,6 @@
       "note": "energy-limiting-behavior F4 출처(NYC DOHMH heat data story): AC 가 있어도 더울 때 쓰지 않는 15%. 요금 외 이유. CDC mm6222a1(2013) 'a functioning air conditioner was present but not turned on'",
       "createdAt": "2026-10-18T07:39:46.488Z",
       "seq": 229
-    },
-    {
-      "id": "ea4799ff",
-      "title": "가족이 받은 칭찬을 대신 낮추기",
-      "priority": 10,
-      "note": "나혜석 경희 1절(위키문헌): 김 부인이 딸 바느질 칭찬에 '어디 바느질이나 제법 앉아서 배울 새나 있나요'. deflecting-compliments 하위 후보",
-      "createdAt": "2026-10-18T07:44:50.095Z",
-      "seq": 230
     },
     {
       "id": "4496710a",
@@ -779,6 +763,30 @@
       "note": "wishing-guests-would-leave F5(Mastroianni 2021 PMC7958231): 대화 46.83% 에서 둘 다 더 일찍 끝나기를 원함. 초록 'conversations almost never ended when both conversants wanted them to'. wishing-guests-would-leave 와 상위/관련 후보",
       "createdAt": "2026-10-19T16:56:06.700Z",
       "seq": 547
+    },
+    {
+      "id": "80787093",
+      "title": "놀림받는 자리에서 눈물을 감추려고 바쁜 척하기",
+      "priority": 10,
+      "note": "Richardson, The Getting of Wisdom(1910) en.wikisource The_Getting_of_Wisdom/Chapter_V 'Laura, on her knees before her shelf, pretended to be busy; but she could not see what she was doing, for the mist that gathered in her eyes.' 미검증. pretending-to-sleep-to-avoid-talk, holding-back-tears-at-breakup 관계 후보",
+      "createdAt": "2026-10-19T19:45:06.044Z",
+      "seq": 565
+    },
+    {
+      "id": "9e5d1de0",
+      "title": "아는 사람을 마주치고 못 본 척하기와 엘리베이터 같이 타기 피하기의 관계",
+      "priority": 10,
+      "note": "pretending-not-to-see-acquaintance 와 avoiding-shared-elevator, stopping-greeting-unresponsive-neighbor 는 인사 회피가 겹침. 인과나 상하위를 말하는 파편 필요. 문화일보 2026-05-29 munhwa.com/article/11592115 원문 B '아는 체해 봐야 서로 머쓱할 것 같았다'(이유: 예상 어색함). Opinium 2014 같은 페이지: 70% 핑계 대고 자리 뜸, 18~34세 16% 다른 사람인 척",
+      "createdAt": "2026-10-19T19:49:34.242Z",
+      "seq": 566
+    },
+    {
+      "id": "d1c5eadf",
+      "title": "가족이 받은 칭찬을 대신 낮추기와 칭찬 부정하기의 관계",
+      "priority": 10,
+      "note": "downplaying-praise-of-family 와 deflecting-compliments. brunch.co.kr/@l-p/379(2026-08-18) 저자는 가족 칭찬 낮추기를 자기 겸손과 구별('내가 겸손한 것이 아니다. 아이를 대신해서 아이를 낮춘 것이다'). 동기 '칭찬을 그대로 받으면 팔불출처럼 보일 것 같고'. 원인 간선 후보는 파편 필요. Han 2011 tku 초록의 Ambivalence 유형(칭찬 수용+다른 결점 불평)",
+      "createdAt": "2026-10-19T19:58:49.118Z",
+      "seq": 567
     },
     {
       "id": "02b2f242",
