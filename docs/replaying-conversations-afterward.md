@@ -46,6 +46,7 @@
 ## 원인
 
 - [부정적 평가에 대한 두려움](fear-of-negative-evaluation.md) [F2]
+- [사회불안의 안전 행동](social-anxiety-safety-behaviors.md) [F3]
 
 ## 결과
 

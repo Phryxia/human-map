@@ -35,7 +35,7 @@
 
 ## 결과
 
-없음.
+- [대화 뒤 되짚기](replaying-conversations-afterward.md)
 
 ## 긴장
 
