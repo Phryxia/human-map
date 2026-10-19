@@ -3486,5 +3486,47 @@
     "last": "2026-10-19",
     "result": "VERIFIED",
     "lastVerified": "2026-10-19"
+  },
+  "https://www.gutenberg.org/files/46/46-h/46-h.htm": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://www.statcan.gc.ca/pub/71-542-x/2009001/summary-sommaire-eng.htm": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://www150.statcan.gc.ca/n1/pub/11-008-x/2012001/article/11637-eng.htm": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122133": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://news.seoul.go.kr/gov/?p=505674": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://kin.naver.com/qna/detail.naver?dirId=61002&docId=458108675": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://research.beautifulfund.org/13875/": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
   }
 }
