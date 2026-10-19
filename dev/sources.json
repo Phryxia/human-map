@@ -3312,5 +3312,23 @@
     "last": "2026-10-19",
     "result": "VERIFIED",
     "lastVerified": "2026-10-19"
+  },
+  "https://www.korea.kr/news/reporterView.do?newsId=135089239": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148913890": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://nutritionj.biomedcentral.com/articles/10.1186/s12937-024-00998-2": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
   }
 }
