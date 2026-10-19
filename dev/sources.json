@@ -641,27 +641,27 @@
   },
   "https://www.iza.org/publications/dp/2531": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://www.newsis.com/view/NISX20210717_0001516390": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://www.newsis.com/view/NISX20251105_0003390662": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://www.index.go.kr/unify/idx-info.do?idxCd=1494": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://gutenberg.org/cache/epub/8178/pg8178-images.html": {
     "first": "2026-10-17",
@@ -965,15 +965,15 @@
   },
   "https://www150.statcan.gc.ca/pub/75-001-x/2008111/quickfact-enbref-eng.htm": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://www.ajunews.com/view/20090421000244": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://kashmirreader.com/2020/05/30/i-cannot-ask-for-help-because-i-have-never-done-so/": {
     "first": "2026-10-18",
@@ -3380,6 +3380,24 @@
     "lastVerified": "2026-10-19"
   },
   "https://brunch.co.kr/@jmg5308/341": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://kormedi.com/1615792/": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://pure.ul.ie/en/publications/prolonged-unemployment-is-associated-with-control-loss-and-person/": {
     "first": "2026-10-19",
     "last": "2026-10-19",
     "result": "VERIFIED",
