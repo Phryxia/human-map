@@ -10,14 +10,17 @@
 
 2018년 캡틴 어쿼드 상담란에 실린 편지에서 글쓴이는 친구들에게서 생일 메시지를 하나도 받지 못해 생각보다 훨씬 마음이 아팠다고 적었다. 글쓴이는 올해 모두에게 메시지를 기대한 것도 아니었다고 먼저 적었다. [F2]
 
+2023년 9월 스핀오프의 상담 칼럼에서 필자는 생일을 중시하는 사람에게 생일날 뒷전으로 밀리는 일은 자기가 아무 가치 없다고 느끼게 하기에 충분하다고 적었다. [F3]
+
 # 조건
 
-기록된 조건 없음. [F1][F2]
+기록된 조건 없음. [F1][F2][F3]
 
 # 파편
 
 - F1 [문학] "I know perfectly well that they love me just the same even if they have forgotten my birthday, and I won't let such old black crow thoughts flock down on me." (그들이 내 생일을 잊었어도 나를 똑같이 사랑한다는 걸 나는 잘 알아. 그런 시커먼 까마귀 같은 생각들이 내게 몰려 내려앉게 두지 않을 거야.) — Annie Fellows Johnston, The Little Colonel's Hero, 1장, L. C. Page & Company, 1902, https://www.gutenberg.org/cache/epub/15122/pg15122-images.html, 2026-10-19 접속
 - F2 [매체] "I didn’t even expect messages from all of them this year – it’s just that not receiving even ONE hurt a lot more than I thought it would." (올해 그들 모두에게서 메시지를 기대한 것도 아니었다. 다만 단 하나도 받지 못한 것이 생각보다 훨씬 아팠다.) — Captain Awkward, "#1069: “My friends forgot my birthday.”", 독자 편지, 2018-01-16, https://captainawkward.com/2018/01/16/1069-my-friends-forgot-my-birthday, 2026-10-19 접속
+- F3 [매체] "For Birthday Obsessives, being an afterthought on the day you came into existence is enough to make you feel completely worthless." (생일에 집착하는 사람에게 자기가 태어난 날에 뒷전이 되는 것은 완전히 쓸모없는 사람이 된 기분을 느끼기에 충분하다.) — "Help Me Hera: My cousins almost forgot my birthday and I’m stewing", The Spinoff, 2023-09-14, https://thespinoff.co.nz/society/14-09-2023/help-me-hera-my-cousins-almost-forgot-my-birthday-and-im-stewing, 2026-10-19 접속
 
 # 관계
 
