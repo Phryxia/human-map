@@ -36,7 +36,7 @@
 
 ## 결과
 
-없음.
+- [상습 지각](chronic-lateness.md)
 
 ## 긴장
 
