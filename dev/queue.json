@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T03:05:31.727Z",
-  "nextSeq": 454,
-  "stops": 43,
+  "savedAt": "2026-10-19T05:02:40.000Z",
+  "nextSeq": 468,
+  "stops": 44,
   "items": [
-    {
-      "id": "98630246",
-      "title": "거절하지 못하기와 상사 관계 걱정",
-      "priority": 50,
-      "note": "difficulty-saying-no F3(뉴스와이어 2008): 관계 불편 걱정이 거절 못함의 이유 43.1%. fear-of-negative-evaluation 원인 간선 후보, self-silencing 상위 후보 검토",
-      "createdAt": "2026-10-19T02:43:13.231Z",
-      "seq": 444
-    },
-    {
-      "id": "e787852e",
-      "title": "schadenfreude 조건 보강: 비교가 모호할 때",
-      "priority": 50,
-      "note": "Lin·Liang 2021 PMC8711567 'malicious envy does not always increase schadenfreude particularly when schadenfreude is elicited through social comparisons'. 이미 F6 출처라 같은 출처 두 번 못 씀; 다른 출처로 조건 보강",
-      "createdAt": "2026-10-19T02:56:37.140Z",
-      "seq": 452
-    },
-    {
-      "id": "ba897f50",
-      "title": "창피한 일을 꾸며 둘러대기 F1 발행일",
-      "priority": 50,
-      "note": "covering-up-embarrassment F1 상록수 제14장 발행일 미상(동아일보 연재 1935~1936, 연재일 확인 필요). SNS·학술은 2026-10-19 보강함. 후보: Spectator 2022-10-19, Great Expectations 57장. concealing-failure 관계 검토",
-      "createdAt": "2026-10-19T02:59:33.390Z",
-      "seq": 453
-    },
-    {
-      "id": "e68467b8",
-      "title": "아파도 출근한 뒤의 건강 악화와 병가",
-      "priority": 10,
-      "note": "sickness-presenteeism F3(Taloyan 2012 PLOS ONE, ideas.repec.org): SP 가 이후 자기평가 건강 악화와 병가의 위험 요인. 결과 간선 후보",
-      "createdAt": "2026-10-17T11:55:36.323Z",
-      "seq": 64
-    },
-    {
-      "id": "e88bb209",
-      "title": "악의적 시기와 적대 행동",
-      "priority": 10,
-      "note": "envy F3(Blatz 2026): malicious envy 가 hostility 를 동반. 하위 현상 후보(양성 시기/악성 시기)",
-      "createdAt": "2026-10-17T14:54:28.912Z",
-      "seq": 96
-    },
-    {
-      "id": "9431bd02",
-      "title": "학습된 무력감",
-      "priority": 10,
-      "note": "giving-up-job-search F1(Falk 외 2006): 실패한 구직이 자신감을 낮추고 구직 포기로 이어짐. 상위 또는 원인 후보",
-      "createdAt": "2026-10-17T14:56:57.515Z",
-      "seq": 98
-    },
-    {
-      "id": "40047652",
-      "title": "계획 오류",
-      "priority": 10,
-      "note": "chronic-lateness F2·F3(익숙한 경로의 시간 과소어림). 시간 과소추정 현상 후보, chronic-lateness 원인 후보",
-      "createdAt": "2026-10-17T14:59:15.183Z",
-      "seq": 100
-    },
-    {
-      "id": "8f457e5a",
-      "title": "마음에 들지 않는 결과 앞에서 칭찬하기",
-      "priority": 10,
-      "note": "non-complaining 하위 후보. 인사이트 2018-05-18 insight.co.kr/news/128052 '미용실 언니에게는 너무 완벽하다고 칭찬하지만, 집에 와선 소심한 나 자신을 자책하기 바쁘다.' 보조: phillymag 2015-02-12 salon etiquette 'sparing the stylist’s feelings', client-x 461 'don’t want to get the employee in trouble'",
-      "createdAt": "2026-10-17T16:40:49.765Z",
-      "seq": 114
-    },
-    {
-      "id": "e2c1bdf5",
-      "title": "층간소음 보복",
-      "priority": 10,
-      "note": "enduring-neighbor-noise F2 출처(korea.kr newsId=148905290)가 보복행위를 적음. 이투데이 2023-07-23 news/view/2268524 보복 스피커. 참기의 결과 후보",
-      "createdAt": "2026-10-17T20:39:47.154Z",
-      "seq": 125
-    },
     {
       "id": "b60a056e",
       "title": "누구에게 말했는지 잊기 (목적지 기억)",
@@ -707,6 +635,46 @@
       "note": "schadenfreude F4(Cikara·Fiske 2013 PMC4472308) 'inferiority ... leads to inter-group schadenfreude'. 이광수 이차돈의 사(위키문헌) 경쟁자가 벌받으리라 고소해함. schadenfreude 하위 후보",
       "createdAt": "2026-10-19T02:56:37.005Z",
       "seq": 451
+    },
+    {
+      "id": "1321893d",
+      "title": "남의 비위 맞추기 (people-pleasing)",
+      "priority": 10,
+      "note": "difficulty-saying-no 상위 또는 원인 후보. Kuang 외 2025 PsyCh Journal PMC12318589 'These students may struggle to decline requests due to fears of social isolation, a desire for approval, or a need for harmonious interactions.' 보조: psyche.co/guides/how-to-stop-people-pleasing-by-learning-to-say-no 2023-09-20",
+      "createdAt": "2026-10-19T04:39:29.281Z",
+      "seq": 463
+    },
+    {
+      "id": "080c2b05",
+      "title": "양성 시기 (benign envy)",
+      "priority": 10,
+      "note": "envy 하위, malicious-envy 와 대비. van de Ven 외 2011 Springer s11031-011-9235-8 'benign envy (aimed at improving one’s own situation)' 는 malicious-envy F2 라 다른 출처 필요",
+      "createdAt": "2026-10-19T04:48:31.322Z",
+      "seq": 464
+    },
+    {
+      "id": "cb03f0aa",
+      "title": "학습된 무력감이 일반화된 뒤의 우울한 기분",
+      "priority": 10,
+      "note": "learned-helplessness F2(kormedi 1615792) 칼럼이 무력감이 일반화하면 우울증을 경험한다고 적음. 진단명은 저자 말로만. 결과 간선 후보. 보조: adn.com 2025-07-28 learned helplessness workplace 'You stop trying'",
+      "createdAt": "2026-10-19T04:53:32.286Z",
+      "seq": 465
+    },
+    {
+      "id": "34f0b3c2",
+      "title": "마음에 들지 않는 결과 앞에서 칭찬하기",
+      "priority": 10,
+      "note": "non-complaining 하위 후보(check-cycle OK). 매체 확보: insight.co.kr/news/128052 (2018-05-18, 이다래), seattlemet.com/eat-and-drink/2014/08/what-do-you-say-when-the-waiter-asks-how-is-everything-august-2014 ('I said everything was fine. I know. I lied.'), morningadvertiser.co.uk 2018-01-04 (YouGov). 학술 또는 SNS 하나 필요: Snyder(BI Norwegian Business School) 소비자 거짓말 연구 원문(cxm.world/?p=26390 가 소개), LessWrong 댓글 등",
+      "createdAt": "2026-10-19T05:02:02.599Z",
+      "seq": 466
+    },
+    {
+      "id": "f2407748",
+      "title": "층간소음 보복",
+      "priority": 10,
+      "note": "enduring-neighbor-noise 결과 후보. 확인함(2026-10-19): korea.kr newsId=148905290 (2022-08-29) 은 '층간 소음 보복행위의 경우 스토킹 범죄로 처벌받을 수 있고' 만, etoday 2268524 (2023-07-23) 는 보복 스피커 판매만 다룸. 사람이 참다가 보복했다는 장면(SNS, 판결 기사, 학술) 필요",
+      "createdAt": "2026-10-19T05:02:38.729Z",
+      "seq": 467
     }
   ]
 }
