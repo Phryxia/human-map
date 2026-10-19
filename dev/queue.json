@@ -1,72 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-18T23:02:53.220Z",
-  "nextSeq": 430,
-  "stops": 41,
+  "savedAt": "2026-10-19T00:03:07.267Z",
+  "nextSeq": 434,
+  "stops": 42,
   "items": [
     {
-      "id": "9a64e201",
-      "title": "dev: source-check 가 accesson.kr 초록을 텍스트에서 놓친다",
-      "priority": 60,
-      "note": "https://www.accesson.kr/healthpsy/v.12/3/631/18715 의 <section class=\"abstract ko\"><p class=\"first\">아침/저녁 활동형으로 일컬어지는 수면 일주기리듬의 개인차는 ... 원문 HTML(fetch 두 UA 모두 245308바이트)에 있으나 fetchText 결과 text 에 '일컬어지는' 이 없어 NOT_FOUND. 주석 <!-- --> 개수는 맞음(62/62). extractText(node-html-parser) 파싱 문제 의심. 고친 뒤 evening-chronotype 에 김정기·송혜수 2007 파편 추가 후보",
-      "createdAt": "2026-10-18T23:01:06.581Z",
-      "seq": 427
-    },
-    {
-      "id": "f31282f2",
-      "title": "복지 급여 미신청 보강",
+      "id": "d2daf85c",
+      "title": "창피한 일을 꾸며 둘러대기 보강",
       "priority": 50,
-      "note": "not-claiming-benefits: SNS·문학 없음. 후보: Manchester 2024-09-16 manchester.ac.uk/about/news/older-people-on-low-incomes-often-dont-claim-means-tested-benefits 'feel embarrassed about asking for help'. Stanford FSI 2026-10-06 fsi.stanford.edu/node/39883 공개 신청 절차가 28% 걸러냄(남이 보는 자리의 신청). 서울신문 2013-01-30 m.go.seoul.co.kr/news/2013/01/30/20130130011026 기초노령연금 미신청 2070명(주소 노출 우려). Kurita 외 2019 MPRA 98301 낙인 모형",
-      "createdAt": "2026-10-18T22:37:29.545Z",
-      "seq": 421
-    },
-    {
-      "id": "4c05898a",
-      "title": "알람 끄고 다시 잠들기 보강",
-      "priority": 50,
-      "note": "snoozing-the-alarm: 매체·공공 없음. 클리앙 2010-01-15 park/671272 비몽사몽에 알람을 끄고 약속을 놓침(chronic-lateness 결과 후보). Ogawa 2022 같은 초록: 'Using a snooze alarm prolongs sleep inertia compared to a single alarm'",
-      "createdAt": "2026-10-18T22:41:02.761Z",
-      "seq": 424
-    },
-    {
-      "id": "54ce9096",
-      "title": "지나치게 일찍 도착하기 보강",
-      "priority": 50,
-      "note": "arriving-too-early: SNS·공공 없음, 1993 F3 는 습관만 말하고 동기 없음. elliott.org 2025-11-09 passengers-are-arriving-too-early '95 percent of early birds were driven by fear' (curl 봇 확인 페이지). Gaskell North and South 46장 같은 쪽 'Margaret was ready long before the appointed time'",
-      "createdAt": "2026-10-18T22:46:24.758Z",
-      "seq": 425
-    },
-    {
-      "id": "9a12ac51",
-      "title": "정치 무력감 보강",
-      "priority": 50,
-      "note": "political-inefficacy: 한국어 출처와 공공 출처(선관위 유권자 의식조사) 없음. Pew 2024 글의 'In the early 2000s, by comparison, a much smaller majority' 시기 조건. not-voting 원인 간선은 not-voting F1(Abramson-Aldrich 1982)로 그었음",
-      "createdAt": "2026-10-18T22:47:45.075Z",
-      "seq": 426
-    },
-    {
-      "id": "cc285678",
-      "title": "저녁형 성향 보강",
-      "priority": 50,
-      "note": "evening-chronotype: SNS 없음, 원인·결과 간선 없음. snoozing-the-alarm 과 관계 후보(Medical Republic 2023 F5 는 연관만 말함). 경향신문 2015-08-22 khan.co.kr/article/201508221500011 '해가 지고 야심한 시간이 되면 정신이 맑아지면서'. 코메디닷컴 2015-09-29 kormedi.com/1216343. Barclay 2016 같은 초록 유전 영향의 시간 안정성",
-      "createdAt": "2026-10-18T23:02:19.379Z",
-      "seq": 428
-    },
-    {
-      "id": "79fa98a0",
-      "title": "수줍은 방광 보강",
-      "priority": 50,
-      "note": "shy-bladder: 한국어 출처 없음. BMJ Open 2024 같은 초록 유병률 mild 25.8%·severe 14.9%. Watson & Freeland 2000(PMID 11132118) 정의 문장, PubMed HTML 이 열리지 않음",
-      "createdAt": "2026-10-18T23:02:52.253Z",
-      "seq": 429
-    },
-    {
-      "id": "c8d0eed6",
-      "title": "창피한 일을 꾸며 둘러대기",
-      "priority": 10,
-      "note": "심훈 상록수 제14장 위키문헌: 기천이 머슴에게 맞은 것을 창피해 자전거 사고로 꾸며 대고 소문날까 고소도 못 함. Dickens Great Expectations 57장 'ashamed to tell him exactly how I was placed'. concealing-failure 와 관련",
-      "createdAt": "2026-10-17T11:52:34.809Z",
-      "seq": 63
+      "note": "covering-up-embarrassment: 확인됨 2개뿐, SNS·학술 없음, F1 발행일 미상(상록수 동아일보 연재 1935~1936, 연재일 확인 필요). 후보: The Spectator 2022-10-19 spectator.com/article/the-embarrassing-truth-about-how-i-got-injured 'I then toyed with the idea of pretending I had been in a fight'. Dickens Great Expectations 57장 'ashamed to tell him exactly how I was placed'. concealing-failure 와의 관계 검토",
+      "createdAt": "2026-10-19T00:02:55.028Z",
+      "seq": 433
     },
     {
       "id": "e68467b8",
@@ -683,6 +627,14 @@
       "note": "snoozing-the-alarm F2(클리앙 2016 park/9222948)·F3(Ogawa 2022): 늦잠 불안 때문에 알람을 여러 개 맞추거나 스누즈. snoozing-the-alarm 원인 후보",
       "createdAt": "2026-10-18T22:41:02.612Z",
       "seq": 423
+    },
+    {
+      "id": "7711117c",
+      "title": "기초생활수급 신청 과정의 자존심 손상",
+      "priority": 10,
+      "note": "루리웹 2025-11-06 bbs.ruliweb.com/community/board/300143/read/72947567 '꼴랑 75만원 받자고 그 자존심 스크래치내면서 온갖 서류 다 준비하고 내 통장 다 까서 소득 증명까지 함?'. 지식iN 2008-05-28 docId=48305697 '제 자존심을 너무 무너뜨리더군요.' not-claiming-benefits 원인 또는 poverty-shame 하위 후보",
+      "createdAt": "2026-10-18T23:39:45.935Z",
+      "seq": 432
     }
   ]
 }
