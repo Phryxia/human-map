@@ -44,6 +44,7 @@
 ## 원인
 
 - [시기심](envy.md) [F10]
+- [악의적 시기](malicious-envy.md) [F9]
 
 ## 결과
 
