@@ -3027,9 +3027,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2600/pg2600-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://www.seoul.co.kr/news/1993/02/17/19930217012001": {
     "first": "2026-10-18",
@@ -3194,6 +3194,36 @@
     "lastVerified": "2026-10-19"
   },
   "https://guybri.substack.com/p/how-did-you-hurt-yourself": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://www.gutenberg.org/cache/epub/2860/pg2860-images.html": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://www.newswire.co.kr/newsRead.php?no=311420": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://news.ycombinator.com/item?id=8064581": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://ecommons.cornell.edu/entities/publication/2c50b460-fb5c-4490-9047-9bb02b9f6f25": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://www.nature.com/articles/s41598-023-50532-3": {
     "first": "2026-10-19",
     "last": "2026-10-19",
     "result": "VERIFIED",
