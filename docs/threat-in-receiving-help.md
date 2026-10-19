@@ -12,7 +12,7 @@
 
 2022년 He 외는 앞선 연구를 들어 부채감이 자존감을 낮추고 자율성을 해치는 식으로 개인의 안녕에 불쾌한 영향을 줄 수 있다고 적는다. 2025년 Nakahara 의 초록이 소개하는 기존 이론의 가정에서 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림한다. [F3][F4]
 
-2026년 경기일보는 결식아동 급식카드 충전액 가운데 낙인감이나 사용 방법 미숙지 등으로 쓰이지 않고 소멸한 금액이 2024년 기준 171억원으로 전체 충전액의 7.8%였다고 보도했다. [F5]
+2026년 경기일보는 결식아동 급식카드 충전액 가운데 낙인감이나 사용 방법 미숙지 등으로 쓰이지 않고 소멸한 금액이 2024년 기준 171억원으로 전체 충전액의 7.8%였다고 보도했다. 2026년 8월 세계일보는 고립과 은둔을 겪은 중장년 남성 가운데 도움을 받는다는 동정의 시선이 싫거나 사람들이 무시할까 봐 도움을 거부하는 사례가 있다고 썼다. [F5][F6]
 
 # 조건
 
@@ -27,6 +27,7 @@
 - F3 [학술] "Previous studies suggest that indebtedness can lead to aversive effects on personal wellbeing, such as lowering self-esteem, compromising autonomy (Fisher, 1983; Greenberg and Westcott, 1983)" (앞선 연구들은 부채감이 자존감을 낮추고 자율성을 해치는 것처럼 개인의 안녕에 불쾌한 영향을 줄 수 있음을 시사한다.) — Wuming He, Junjie Qiu, Yingying Chen, Yufang Zhong, "Gratitude Intervention Evokes Indebtedness: Moderated by Perceived Social Distance", Frontiers in Psychology 13, 2022-03-16, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.824326/full, 2026-10-18 접속
 - F4 [학술] "Previous theoretical assumptions show that individuals with high self-esteem and instability would estimate the ego-threat associated with help-seeking as high and suppress help-seeking" (기존 이론의 가정에 따르면 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하여 도움 요청을 억제한다) — Jun Nakahara, "Effects of the level and instability of self-esteem on help-seeking and its orientation", Innovation in Aging 9(Suppl 2), 2025-12-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC12760982/, 2026-10-17 접속
 - F5 [매체] "카드 사용 시 불필요한 낙인감이나 사용 방법 미숙지 등으로 인해 충전된 급식비를 다 쓰지 못하고 자동 소멸된 금액이 2024년 기준 171억원(전체 충전액의 7.8%)에 달했다." — 최신웅, 「아이 밥값으로 술·담배 산 부모들…결식아동 급식카드 '대수술'」, 경기일보, 2026-06-24, https://kyeonggi.com/article/20260624580106, 2026-10-17 접속
+- F6 [매체] "도움을 받는다는 동정의 시선이 싫어서, 사람들이 나를 무시할까 봐 도움을 거부하는 사례도 있다." — 구예지, 장한서, 이지민, 「강한 남자 콤플렉스에 갇히다 [심층기획-닫힌 문 너머]」, 세계일보, 2026-08-24, https://www.segye.com/newsView/20260824515111, 2026-10-19 접속
 
 # 관계
 
