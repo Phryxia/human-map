@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T15:04:07.613Z",
-  "nextSeq": 537,
-  "stops": 48,
+  "savedAt": "2026-10-19T17:05:36.191Z",
+  "nextSeq": 549,
+  "stops": 49,
   "items": [
     {
       "id": "8036ab81",
@@ -27,6 +27,14 @@
       "note": "2026-10-19 탐색: kdca·korea.kr HTML 에 미접종 이유 대목 못 찾음. medicaltimes.com Main/view.html?ID=20330 (2005-09-01) 엄마 조사 '바빠서'(16%) 는 자녀 접종이라 보류. PMC8903929 충칭 의료인 '시간 없음' 65.7%. delaying-medical-care 관계 후보",
       "createdAt": "2026-10-19T15:02:46.822Z",
       "seq": 536
+    },
+    {
+      "id": "38822dbc",
+      "title": "하차 표시 망설이기 보강: 학술과 다른 시기",
+      "priority": 50,
+      "note": "2026-10-19: 파편 2개뿐. 한국 기사·설문 수치·HTML 학술 초록 못 찾음. 인스티즈 43413990 의 다른 댓글('소리가 크게 나고 시선이 나에게 집중되는 것 같아서')은 같은 출처라 못 씀. 인천시 시민의소리 IC020505/2080427 은 발행일 미상·조바심. fear-of-negative-evaluation 과 관계 후보",
+      "createdAt": "2026-10-19T17:00:24.886Z",
+      "seq": 548
     },
     {
       "id": "51dc003a",
@@ -779,6 +787,46 @@
       "note": "president.jp/articles/-/28249 (2019-04-10, 中原淳) '残業は上司から部下へと“遺伝”する'. staying-late-for-boss 원인 간선 후보",
       "createdAt": "2026-10-19T14:37:49.937Z",
       "seq": 533
+    },
+    {
+      "id": "006c5f56",
+      "title": "재발 두려움",
+      "priority": 10,
+      "note": "hiding-illness-from-family F4(Perndorfer 2018, PMC6815683): 환자의 보호적 완충이 그날 배우자의 FCR 증가를 예측. 결과 간선 후보(인과 표현 확인 필요)",
+      "createdAt": "2026-10-19T16:39:20.869Z",
+      "seq": 543
+    },
+    {
+      "id": "314bc23c",
+      "title": "의사에게 고민을 말하지 않기",
+      "priority": 10,
+      "note": "데일리안 2026-07-27 dailian.co.kr/news/view/1671044: 삼성서울병원 암 환자 24명 면담 '의사에게도 말 못 했다'. hiding-illness-from-family, help-seeking-avoidance 관계 후보",
+      "createdAt": "2026-10-19T16:39:20.977Z",
+      "seq": 544
+    },
+    {
+      "id": "e4edf5d4",
+      "title": "벌이 없는 식구의 미안함",
+      "priority": 10,
+      "note": "백신애 「나의 어머니」(1928, ko.wikisource) '불평을 말할 수가 없어졌다' 바로 앞 대목: 벌이 없는 딸이 어머니 살림에 미안해함. self-perceived-burden 하위 후보",
+      "createdAt": "2026-10-19T16:39:21.100Z",
+      "seq": 545
+    },
+    {
+      "id": "18a716e8",
+      "title": "연락받는 사람의 감사 과소평가",
+      "priority": 10,
+      "note": "hesitating-to-contact-old-friends F3(코메디닷컴 2022-07-13, Liu 외 2022 JPSP 보도): 연락한 사람이 상대의 감사를 과소평가. 원인 간선 후보(인과 표현 확인 필요). Aknin & Sandstrom 2024 PMC11332216 서론 'people overestimate the awkwardness of reaching out'",
+      "createdAt": "2026-10-19T16:47:45.101Z",
+      "seq": 546
+    },
+    {
+      "id": "9deea46a",
+      "title": "원할 때 대화를 끝내지 못하기",
+      "priority": 10,
+      "note": "wishing-guests-would-leave F5(Mastroianni 2021 PMC7958231): 대화 46.83% 에서 둘 다 더 일찍 끝나기를 원함. 초록 'conversations almost never ended when both conversants wanted them to'. wishing-guests-would-leave 와 상위/관련 후보",
+      "createdAt": "2026-10-19T16:56:06.700Z",
+      "seq": 547
     }
   ]
 }
