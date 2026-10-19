@@ -1019,9 +1019,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1399/pg1399-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-19"
   },
   "https://ko.wikisource.org/wiki/%EC%A7%81%EB%85%80%EC%84%B1/%EC%A0%9C12%EC%9E%A5": {
     "first": "2026-10-18",
@@ -3608,6 +3608,12 @@
     "lastVerified": "2026-10-19"
   },
   "https://www.newsis.com/view/NISX20260806_0003738299": {
+    "first": "2026-10-19",
+    "last": "2026-10-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-19"
+  },
+  "https://www.americamagazine.org/politics-society/dispatches/2015/04/30/email-debt-forgiveness-day-jubilee-rest-us/": {
     "first": "2026-10-19",
     "last": "2026-10-19",
     "result": "VERIFIED",
