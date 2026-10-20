@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T06:00:37.024Z",
-  "nextSeq": 683,
-  "stops": 58,
+  "savedAt": "2026-10-20T07:01:16.204Z",
+  "nextSeq": 697,
+  "stops": 59,
   "items": [
     {
       "id": "da9d05ef",
@@ -51,6 +51,54 @@
       "note": "medicaldaily.co.kr/news/7402 F2 로 사용(매체). 공공 파편 아직 없음: korea.kr 2015-07 질병관리본부 기침예절 실태조사 보도자료, kdca.go.kr 2020~2021 감염병 예방행태 실태조사 본문 확인 필요. PMC4942042 병원 입구 미가림 RR 7·8. skipping-handwashing 과 관계 후보",
       "createdAt": "2026-10-20T06:00:21.338Z",
       "seq": 682
+    },
+    {
+      "id": "a748acc9",
+      "title": "keeping-belongings-of-the-dead 보강: 간직 이유와 지속 유대",
+      "priority": 50,
+      "note": "jstage.jst.go.jp/article/jssp/36/2/36_1813/_article (2020-11-30) 영문 초록 'a memento mainly contains four meanings' 및 continuing bonds 관련 문장. PMC7351592 'Mothers who found comfort in the objects visited them more frequently' 조건 후보. bereavement-regret 와 관계 후보",
+      "createdAt": "2026-10-20T06:37:12.958Z",
+      "seq": 690
+    },
+    {
+      "id": "bf55a017",
+      "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
+      "priority": 50,
+      "note": "PMC1784087 Armfield 2007 'vicious cycle of dental fear whereby people with high dental fear are more likely to delay treatment, leading to more extensive dental problems' (F2 와 같은 출처라 다른 출처 필요). betterhealth 'vicious cycle of dental anxiety'. ADHS 2009 미러 nhsd-proxy.openprescribing.net 12% extreme dental anxiety. doctornow.co.kr qna '치과가 무서워서 못가고있어요' SNS 후보",
+      "createdAt": "2026-10-20T06:43:05.202Z",
+      "seq": 692
+    },
+    {
+      "id": "ca470314",
+      "title": "flattering-superiors 관계: 눈치 야근, 바쁜 척하기와 상사 눈치",
+      "priority": 50,
+      "note": "staying-late-for-boss, pretending-to-be-busy 와 상위 또는 긴장 후보. 근거 문장 필요. seoul.co.kr 2009-08-05 아부의 기술 '기발하지도 않은 상사의 아이디어에 “그것 괜찮겠네요.”라고 공치사' (F2 와 같은 출처). gutenberg 1342 Pride and Prejudice ch15 'veneration for her as his patroness' (이미 3개 문서가 1342 사용)",
+      "createdAt": "2026-10-20T06:45:40.457Z",
+      "seq": 693
+    },
+    {
+      "id": "afcf395a",
+      "title": "speeding 관계: 서두름과 과속, 졸음운전·운전 중 휴대전화 사용과 상위 후보",
+      "priority": 50,
+      "note": "accesson 2003 이순철 초록 '서두름 행동' 주요 요인, 안 B '과속운전으로 얻을 수 있는 이익이 사회적으로 인정받게 되면 과속운전은 습관화될 있다'(F1 과 같은 출처). m.seoul.co.kr/news/2018/12/05/20181205006001 '신호등이 없어 운전자들이 일반고속도로처럼 맘껏 속도를 내고 있기 때문이다' 원인 후보. driving-while-drowsy, phone-use-while-driving 공통 상위 '위험 운전' 후보",
+      "createdAt": "2026-10-20T06:52:31.000Z",
+      "seq": 694
+    },
+    {
+      "id": "56e272a2",
+      "title": "superstitious-rituals 보강: 의례와 불안 완화의 인과, 한국 수능 미신",
+      "priority": 50,
+      "note": "PMC5452956 Hobson 2017 'ritual buffers against uncertainty and anxiety'(실험실 의례). heraldk.com/article/2025111304344241415 미역국 미신 원인 문장(AFP 풀이). dspace.stir.ac.uk/handle/1893/15907 Ofori 2013 박사논문 'under conditions of impending failure' 조건(F4 와 같은 저자). gutenberg 74 Tom Sawyer 금요일 회피 대사",
+      "createdAt": "2026-10-20T06:55:39.277Z",
+      "seq": 695
+    },
+    {
+      "id": "fbe88f4a",
+      "title": "guilt-tipping 보강: 공공·SNS 파편과 결제 단말기 압박",
+      "priority": 50,
+      "note": "공공 출처 미발견(연준, CFPB, 소비자원 검색). lup.lub.lu.se 9237717 다음 문장 'design of the card terminal ... psychologically pressuring'(F4 와 같은 출처). thefiscaltimes.com 2013-05-29 'The major reason people tip is to avoid social disapproval,'. weighing-gift-money 와 관계 후보",
+      "createdAt": "2026-10-20T06:59:13.622Z",
+      "seq": 696
     },
     {
       "id": "ee1d30ac",
@@ -923,6 +971,14 @@
       "note": "heraldnet.com/?p=425837 (AP 2002-06-02) 'half with multiple sunburns said it was worth it to get the tan that followed.' 태닝을 위해 화상을 감수하기 신규 후보, sunscreen-nonuse 원인 후보. PMC2475461 Owen 2004 'Use of high factor sunscreen was inversely proportional to perceived importance of a suntan.'",
       "createdAt": "2026-10-20T05:37:50.518Z",
       "seq": 676
+    },
+    {
+      "id": "82fe2460",
+      "title": "고인의 방을 그대로 두는 것과 사회의 '벗어나라' 기대 사이의 갈등",
+      "priority": 10,
+      "note": "fredhutch.org 2016-10-12 rooms that remain 기사, 'societal expectations to move on' 문장(216자로 김). keeping-belongings-of-the-dead 와 긴장 후보",
+      "createdAt": "2026-10-20T06:37:13.096Z",
+      "seq": 691
     },
     {
       "id": "02b2f242",
