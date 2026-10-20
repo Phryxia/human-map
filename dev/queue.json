@@ -1,64 +1,56 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T05:00:30.076Z",
-  "nextSeq": 669,
-  "stops": 57,
+  "savedAt": "2026-10-20T06:00:37.024Z",
+  "nextSeq": 683,
+  "stops": 58,
   "items": [
     {
-      "id": "2fdd4f32",
-      "title": "sunscreen-nonuse 보강: 1990~2000년대 파편과 덧바르지 않기",
-      "priority": 50,
-      "note": "파편 2015~2022. 1990~2000년대 비사용 이유 자료 미확보(PMC1380901 Koh 1997 봇 확인). 덧바르지 않기 후보: advdermatology.com/blog/sun-safety-2022 '39% say they only apply sunscreen once'(F4 와 같은 URL 이라 미사용), ytn.co.kr/_ln/0103_202406131335004221 (2024-06-13) 진행자 질문 '외출전에 1번만 바르면'",
-      "createdAt": "2026-10-20T03:47:11.121Z",
-      "seq": 654
-    },
-    {
-      "id": "c16e6972",
+      "id": "da9d05ef",
       "title": "hosting-beyond-means 와 concealing-poverty 관계 근거",
       "priority": 50,
-      "note": "인과 문장 아직 없음. gutenberg 8600 Zola 목로주점(hosting-beyond-means F2 와 같은 URL) 7장: 잔칫돈 모자라 드레스를 전당포에 맡기며 'on account of the neighbors who had no need to know' 숨김 — 같은 장면이나 인과 아님. 같은 7장 'on the days when she had twenty sous she arranged things to let people think that she had forty'. Jane Addams Democracy and Social Ethics(gutenberg 15487) 장례 등급과 동네 위신",
-      "createdAt": "2026-10-20T03:54:02.882Z",
-      "seq": 655
+      "note": "인과 표지 있는 문장 아직 없음. christianitytoday 2023 만사프(F9 로 사용, 'while avoiding' 동시 서술). gutenberg 599 Vanity Fair: 'invented a thousand notable methods to conceal or evade it' / 'entertained her friends ... much more frequently' 수단 관계이나 때문에 없음, 인과 문장은 204자. gutenberg 58691 Pember Reeves 1913: pauper burial 거부하고 빚냄(크게 치른 것 아님). 한국어 출처 미발견",
+      "createdAt": "2026-10-20T05:44:26.331Z",
+      "seq": 677
     },
     {
-      "id": "80ffc3af",
-      "title": "nonurgent-emergency-room-visits 보강: 불안과 지각된 긴급성",
+      "id": "8e8529b8",
+      "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
       "priority": 50,
-      "note": "ajmc.com Uscher-Pines 2013 '>80% felt that their condition was urgent' (F2 와 같은 URL 이라 미사용). Healthwatch Enfield 2018 nds.healthwatch.co.uk/node/4738 '20% ... because they could not get an appointment with their GP'. PMC1694659 초록 '38% ... willingness to trade' (F1 과 같은 URL). medical-care-avoidance 와 긴장 후보 근거 필요",
-      "createdAt": "2026-10-20T04:39:10.190Z",
-      "seq": 664
+      "note": "digital-release.kdvr.com/?p=160426 (FOX31 2013-02-21) 'one-third of men will put off going to the doctor as long as possible' 뒤 인용 'They'll wait until it gets to the point where they go to the emergency room'(실명 붙음, 경증 아님). healthpolicy.ucla.edu 2006-02-01 Meng 천식 delay care→ED(이유는 비용). PMC1725740 Olsson 2001 'overwhelming anxiety compels them to seek urgent help'(빈번 이용자). PMC6612776 2019 불안과 관계 미확인(403)",
+      "createdAt": "2026-10-20T05:50:05.899Z",
+      "seq": 678
     },
     {
-      "id": "91bdcc00",
-      "title": "romantic-jealousy 보강: 매체·SNS 파편과 envy 관계",
+      "id": "d588dd8f",
+      "title": "romantic-jealousy 와 envy 관계 근거",
       "priority": 50,
-      "note": "psypost.org 2026-05-03 Dolan 'giving away resources is viewed as a serious relationship threat by both men and women'. PMC4895349 초록: 관계 성립 뒤 질투 증가(217자 초과). envy(시기심)와 상위/긴장 근거 필요",
-      "createdAt": "2026-10-20T04:41:52.580Z",
-      "seq": 665
+      "note": "SNS 파편 2개 추가(pann 338184398, letstalk.mindline.sg 28683). envy 와 상위/긴장 근거 문장 아직 없음. loveshack.org/forums/topic/661268 (2025-02-21) 'I’m not sure if I’m being overly anxious and untrusting' 의심과 망설임 후보",
+      "createdAt": "2026-10-20T05:55:26.646Z",
+      "seq": 679
     },
     {
-      "id": "7c0b0373",
-      "title": "walking-dog-off-leash 보강: 내 개는 믿을 수 있다는 믿음과 긴장",
+      "id": "7a333d0b",
+      "title": "walking-dog-off-leash 보강: 내 개는 믿을 수 있다는 믿음",
       "priority": 50,
-      "note": "behaviourworksaustralia.org/projects/do-dog-walkers-need-obedience-training (2018, Darebin) 'Dog walkers recognise that keeping their dogs on the lead benefits other park users and wildlife, but they also want their dogs to exercise' 긴장 근거 후보. PMC4261546 Westgarth 2014 'being able to walk their dog off-leash is important for many dog owners'. news.tf.co.kr/read/life/2134391.htm 위험성 미인식 원인 문장",
-      "createdAt": "2026-10-20T04:50:29.072Z",
-      "seq": 666
+      "note": "behaviourworksaustralia 프로젝트 소개 F1 로 사용(운동 바람과 목줄 이점 인식). 내 개는 순하다, 통제된다는 믿음 문장 아직 없음. news.tf.co.kr/read/life/2134391.htm 위험성 미인식 원인 문장 확인 필요",
+      "createdAt": "2026-10-20T05:57:09.280Z",
+      "seq": 680
     },
     {
-      "id": "12dee95a",
-      "title": "gift-choosing-anxiety 보강: 주는 쪽과 받는 쪽 선호 어긋남, 한국 파편",
+      "id": "269f517d",
+      "title": "gift-choosing-anxiety 와 feigning-delight-at-gifts 관계 근거",
       "priority": 50,
-      "note": "minds.wisconsin.edu/handle/1793/43455 Nomura 2009 초록 'individuals experience anxiety when selecting gifts that best perfect this desired identity'(F3 와 같은 URL). Emerald EJM 불일치 논문 초록 HTML 없음. feigning-delight-at-gifts 와 관계 근거 필요",
-      "createdAt": "2026-10-20T04:53:15.751Z",
-      "seq": 667
+      "note": "주는 쪽·받는 쪽 어긋남 F5(cmu.edu 2016), 한국 SNS F7(moyoplan) 추가. 관계 근거 문장 아직 없음. seoul.co.kr/news/2000/12/11/20001211014003 (2000-12-11) '크리스마스·연말이 되면 가장 부담스러운 것 중 하나가 선물이다.' kormedi.com/1213118 (2014-12-22) 고민하며 스트레스 수치 상승 후보",
+      "createdAt": "2026-10-20T05:59:44.349Z",
+      "seq": 681
     },
     {
-      "id": "37259281",
-      "title": "not-covering-coughs 보강: 공공 파편과 가리지 않은 비율",
+      "id": "278b117c",
+      "title": "not-covering-coughs 보강: 공공 파편",
       "priority": 50,
-      "note": "PMC4942042 초록 'Around a quarter of respiratory events (27·3%) were uncovered'(237자, F1 과 같은 URL). 병원 입구에서 미가림이 더 흔함(RR 7·8). korea.kr 2015-07 질병관리본부 기침예절 실태조사 보도자료, kdca.go.kr 2020~2021 감염병 예방행태 실태조사 본문 확인 필요. medicaldaily.co.kr/news/7402 (2015-07-08) 성인 37.6% 청소년 39.8%. skipping-handwashing 과 관계 후보",
-      "createdAt": "2026-10-20T04:56:41.734Z",
-      "seq": 668
+      "note": "medicaldaily.co.kr/news/7402 F2 로 사용(매체). 공공 파편 아직 없음: korea.kr 2015-07 질병관리본부 기침예절 실태조사 보도자료, kdca.go.kr 2020~2021 감염병 예방행태 실태조사 본문 확인 필요. PMC4942042 병원 입구 미가림 RR 7·8. skipping-handwashing 과 관계 후보",
+      "createdAt": "2026-10-20T06:00:21.338Z",
+      "seq": 682
     },
     {
       "id": "ee1d30ac",
@@ -923,6 +915,14 @@
       "note": "7f88a615 와 같은 현상. 학술 후보(미확인): Morvinski & Shani OBHDP(빌려준 사람이 소액 상환을 기대하지 않음, ScienceDirect HTML 초록 확인 필요), daily.jstor.org/when-you-know-that-loan-wont-be-repaid/ 가 인용하는 Social Forces 2019 논문(대출을 속으로 선물로 여김). in.bgu.ac.il 은 봇 차단",
       "createdAt": "2026-10-20T04:01:04.325Z",
       "seq": 658
+    },
+    {
+      "id": "deefde3a",
+      "title": "heraldnet 2002 청소년 태닝 화상 감수",
+      "priority": 10,
+      "note": "heraldnet.com/?p=425837 (AP 2002-06-02) 'half with multiple sunburns said it was worth it to get the tan that followed.' 태닝을 위해 화상을 감수하기 신규 후보, sunscreen-nonuse 원인 후보. PMC2475461 Owen 2004 'Use of high factor sunscreen was inversely proportional to perceived importance of a suntan.'",
+      "createdAt": "2026-10-20T05:37:50.518Z",
+      "seq": 676
     },
     {
       "id": "02b2f242",
