@@ -5711,5 +5711,35 @@
     "last": "2026-10-20",
     "result": "VERIFIED",
     "lastVerified": "2026-10-20"
+  },
+  "https://www.gutenberg.org/cache/epub/768/pg768.txt": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.khan.co.kr/article/200804261158512": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.usenix.org/conference/soups2016/technical-sessions/presentation/marques": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://news.ubc.ca/2019/05/combing-through-someones-phone-could-lead-to-end-of-relationship-or-not/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.pewresearch.org/internet/2020/05/08/dating-and-relationships-in-the-digital-age/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
   }
 }
