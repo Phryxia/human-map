@@ -1,48 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T03:04:17.316Z",
-  "nextSeq": 640,
-  "stops": 55,
+  "savedAt": "2026-10-20T04:01:05.472Z",
+  "nextSeq": 659,
+  "stops": 56,
   "items": [
     {
-      "id": "d80b7389",
-      "title": "dev: source-check 가 호스트 전체 타임아웃을 소멸로 판정",
+      "id": "ef17dc8d",
+      "title": "dev: source-check 가 PMC·mediahub 의 간헐 실패를 바로 소멸로 판정",
       "priority": 60,
-      "note": "2026-10-20 concealing-poverty F3 strathprints.strath.ac.uk/id/eprint/36504: 글 URL 타임아웃, 같은 호스트 / 도 30초 타임아웃. 4xx 호스트 차단 예외처럼 타임아웃이고 / 도 안 열리면 소멸로 보지 않아야 함",
-      "createdAt": "2026-10-20T02:37:33.978Z",
-      "seq": 630
+      "note": "2026-10-20 bicycle-helmet-nonuse F3 PMC1730748 이 같은 날 VERIFIED 뒤 HTTP 403, 다음 실행에 다시 VERIFIED. F5 mediahub.seoul.go.kr/archives/1179033 이 같은 날 VERIFIED 뒤 fetch failed 두 번, 다시 VERIFIED. 이전 VERIFIED 파편이 실패하면 잠시 뒤 한 번 더 받아 보고 판정해야 함",
+      "createdAt": "2026-10-20T03:54:26.722Z",
+      "seq": 656
     },
     {
-      "id": "ffd27e14",
-      "title": "bicycle-helmet-nonuse 보강: 학술 파편과 전동킥보드",
+      "id": "2fdd4f32",
+      "title": "sunscreen-nonuse 보강: 1990~2000년대 파편과 덧바르지 않기",
       "priority": 50,
-      "note": "학술 HTML 미확보(PubMed 쿠키 페이지, SWOV Cloudflare). korea.kr/news/reporterView.do?newsId=148854002(2018-09-28) 정책기자 기사의 이용자 말 '안전모는 정말 귀찮다...보관할 곳이 없어' 후보. 전동킥보드 헬멧 미착용 자료 필요",
-      "createdAt": "2026-10-20T02:44:47.147Z",
-      "seq": 632
+      "note": "파편 2015~2022. 1990~2000년대 비사용 이유 자료 미확보(PMC1380901 Koh 1997 봇 확인). 덧바르지 않기 후보: advdermatology.com/blog/sun-safety-2022 '39% say they only apply sunscreen once'(F4 와 같은 URL 이라 미사용), ytn.co.kr/_ln/0103_202406131335004221 (2024-06-13) 진행자 질문 '외출전에 1번만 바르면'",
+      "createdAt": "2026-10-20T03:47:11.121Z",
+      "seq": 654
     },
     {
-      "id": "4b1e851e",
-      "title": "hosting-beyond-means 보강: 체면 동기와 장례 잔치",
+      "id": "c16e6972",
+      "title": "hosting-beyond-means 와 concealing-poverty 관계 근거",
       "priority": 50,
-      "note": "Dickens All the Year Round 1868 같은 페이지 'Others keep up appearances and make a necessary of the superfluous in giving parties'(한 출처 한 파편이라 미사용). Crime and Punishment 5부 2장 'poor man’s pride' 장례 추도 식사(gutenberg 2554 는 avoiding-creditors 가 이미 씀). 채만식 「논이야기」 1946 ko.wikisource 굶으며 관리 대접(동기가 징용 회피라 경계 사례). concealing-poverty 와 관계 근거 필요",
-      "createdAt": "2026-10-20T02:51:29.950Z",
-      "seq": 633
-    },
-    {
-      "id": "b6747286",
-      "title": "awaiting-uncertain-news 관계와 한국어 파편",
-      "priority": 50,
-      "note": "delaying-bad-news(확인 미루기)와 긴장 후보, checking-parcel-tracking 하위 후보 — 근거 파편 필요. 한국어 후보 brunch.co.kr/@geehyonee/19 (2018-11-15) '잠시 결과를 기다리는 이 시간이 너무 길고 무겁게 느껴진다' — Mozilla UA 는 카카오 로그인 302, curl UA 로만 열림. Villano 2024 F4 초록: 시험 성적 기다리는 학생 625명의 기대가 비관 쪽으로 옮겨감(bracing) — 하위 현상 후보",
-      "createdAt": "2026-10-20T02:56:12.868Z",
-      "seq": 635
-    },
-    {
-      "id": "02a919d9",
-      "title": "sunscreen-nonuse 보강: 다른 시기 파편과 흐린 날·짧은 외출 이유",
-      "priority": 50,
-      "note": "파편 발행일이 2015~2020에 몰림. Diehl 2020 PMC8520879 표 2: 끈적임 36.2%. 덧바르지 않기 자료 없음. intentional-tanning 과 관계 근거 필요",
-      "createdAt": "2026-10-20T03:00:41.730Z",
-      "seq": 636
+      "note": "인과 문장 아직 없음. gutenberg 8600 Zola 목로주점(hosting-beyond-means F2 와 같은 URL) 7장: 잔칫돈 모자라 드레스를 전당포에 맡기며 'on account of the neighbors who had no need to know' 숨김 — 같은 장면이나 인과 아님. 같은 7장 'on the days when she had twenty sous she arranged things to let people think that she had forty'. Jane Addams Democracy and Social Ethics(gutenberg 15487) 장례 등급과 동네 위신",
+      "createdAt": "2026-10-20T03:54:02.882Z",
+      "seq": 655
     },
     {
       "id": "ee1d30ac",
@@ -875,6 +859,38 @@
       "note": "haggling F2(진현정·정아영 2009) 흥정을 부담으로 여김, F3(브런치 2026) 끝까지 밀지 못함. qz.com Indiana University 연구 '미국 성인 95% 협상 회피'는 봇 확인 페이지. haggling 하위 후보",
       "createdAt": "2026-10-20T03:04:08.440Z",
       "seq": 639
+    },
+    {
+      "id": "e8184d28",
+      "title": "공용 헬멧 위생 걱정으로 쓰지 않기",
+      "priority": 10,
+      "note": "bicycle-helmet-nonuse F8(canberra 2024) 이유에 hygiene concerns. 공유 킥보드 공용 헬멧. bicycle-helmet-nonuse 하위 후보",
+      "createdAt": "2026-10-20T03:41:41.438Z",
+      "seq": 652
+    },
+    {
+      "id": "90fd64b5",
+      "title": "안전 장비 미착용 공통 상위 현상",
+      "priority": 10,
+      "note": "bicycle-helmet-nonuse 와 rear-seat-belt-nonuse 가 불편·잊음·위험 낮게 봄 이유를 공유. 두 현상을 함께 말하는 파편이 있으면 상위 간선 근거",
+      "createdAt": "2026-10-20T03:41:41.581Z",
+      "seq": 653
+    },
+    {
+      "id": "7f88a615",
+      "title": "받을 돈 포기하기",
+      "priority": 10,
+      "note": "not-asking-for-loan-back 의 결과 후보. 매체 후보 확인됨(curl): starlingbank.com/news/one-third-of-uk-adults-owed-money-by-friends-and-family/ (2023-07-07) 'This is leading to many people writing off debts to avoid difficult conversations.' / newsroom.au.paypal-corp.com Avoid_the_awkward_tax (2024-07-30) '44% say they decide not to chase money they’re owed for that reason'. 학술·공공·SNS·문학 종류 미확보. 미확인: mpamag.com/uk/news/general/one-third-of-brits-lend-to-relatives/331795",
+      "createdAt": "2026-10-20T03:59:32.053Z",
+      "seq": 657
+    },
+    {
+      "id": "7ef60587",
+      "title": "받을 돈 포기하기: 학술 단서",
+      "priority": 10,
+      "note": "7f88a615 와 같은 현상. 학술 후보(미확인): Morvinski & Shani OBHDP(빌려준 사람이 소액 상환을 기대하지 않음, ScienceDirect HTML 초록 확인 필요), daily.jstor.org/when-you-know-that-loan-wont-be-repaid/ 가 인용하는 Social Forces 2019 논문(대출을 속으로 선물로 여김). in.bgu.ac.il 은 봇 차단",
+      "createdAt": "2026-10-20T04:01:04.325Z",
+      "seq": 658
     },
     {
       "id": "02b2f242",
