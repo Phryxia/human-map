@@ -1,104 +1,120 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T07:01:16.204Z",
-  "nextSeq": 697,
-  "stops": 59,
+  "savedAt": "2026-10-20T09:04:20.936Z",
+  "nextSeq": 736,
+  "stops": 60,
   "items": [
     {
-      "id": "da9d05ef",
+      "id": "f8453cfe",
+      "title": "irish-goodbye 보강: 다른 시기와 학술·문학 파편",
+      "priority": 50,
+      "note": "2026-10-20 신설, 파편 2개(2023 Mental Floss, 2023 HN 37840563). 후보: HN item?id=17866337 (2018-08-29) 'You get to leave without having to decide who to say goodbye to' (퇴사 비유), HN 8682807 (2014-12-01) 인원수에 따라 적절성이 다르다는 조건(미확인). gutenberg 'took French leave' 문학 파편 미탐색. silent-exit 와는 다른 현상(소비자 이탈)",
+      "createdAt": "2026-10-20T09:02:31.064Z",
+      "seq": 734
+    },
+    {
+      "id": "32d7f1c9",
       "title": "hosting-beyond-means 와 concealing-poverty 관계 근거",
-      "priority": 50,
-      "note": "인과 표지 있는 문장 아직 없음. christianitytoday 2023 만사프(F9 로 사용, 'while avoiding' 동시 서술). gutenberg 599 Vanity Fair: 'invented a thousand notable methods to conceal or evade it' / 'entertained her friends ... much more frequently' 수단 관계이나 때문에 없음, 인과 문장은 204자. gutenberg 58691 Pember Reeves 1913: pauper burial 거부하고 빚냄(크게 치른 것 아님). 한국어 출처 미발견",
-      "createdAt": "2026-10-20T05:44:26.331Z",
-      "seq": 677
+      "priority": 30,
+      "note": "인과 표지 있는 문장 아직 없음. christianitytoday 2023 만사프(F9 로 사용, 'while avoiding' 동시 서술). gutenberg 599 Vanity Fair: 'invented a thousand notable methods to conceal or evade it' / 'entertained her friends ... much more frequently' 수단 관계이나 때문에 없음, 인과 문장은 204자. gutenberg 58691 Pember Reeves 1913: pauper burial 거부하고 빚냄(크게 치른 것 아님). 2026-10-20: djo.org.uk all-the-year-round volume-xix page-414(이미 F1) 'Heaven and their creditors know how poor they are' 도 인과 아님. strathprints 36504 Hamilton·Catterall 2007 은 초록에 접대 언급 없음. 한국어 출처 미발견. 여러 회차 실패로 priority 50→30",
+      "createdAt": "2026-10-20T08:36:15.139Z",
+      "seq": 720
     },
     {
-      "id": "8e8529b8",
+      "id": "e8ba47a7",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
-      "priority": 50,
-      "note": "digital-release.kdvr.com/?p=160426 (FOX31 2013-02-21) 'one-third of men will put off going to the doctor as long as possible' 뒤 인용 'They'll wait until it gets to the point where they go to the emergency room'(실명 붙음, 경증 아님). healthpolicy.ucla.edu 2006-02-01 Meng 천식 delay care→ED(이유는 비용). PMC1725740 Olsson 2001 'overwhelming anxiety compels them to seek urgent help'(빈번 이용자). PMC6612776 2019 불안과 관계 미확인(403)",
-      "createdAt": "2026-10-20T05:50:05.899Z",
-      "seq": 678
+      "priority": 30,
+      "note": "2026-10-20: 진료 미룸→응급실 인과 문장은 있으나 모두 상태가 나빠진 뒤의 응급실(경증 아님): healthcaredive.com/news/high-costs-narrow-networks-drive-insured-patients-to-ed/408071 (2015-10-28) 'because they delayed care due to high out-of-pocket costs', wagner.nyu.edu/impact/research/publications/emergency-department-use-new-york-story (Billings 2000, curl UA 403), ajmc.com 2026-03-12 Latino adults. 이전: kdvr 2013, ucla 2006, PMC1725740, PMC6612776. 경증 응급실과 잇는 문장 미발견. 대신 '진료를 미루다 응급실 가기' 신규 현상 후보(healthcaredive 를 근거로 medical-care-avoidance 결과)",
+      "createdAt": "2026-10-20T08:41:21.636Z",
+      "seq": 722
     },
     {
-      "id": "d588dd8f",
+      "id": "80027153",
       "title": "romantic-jealousy 와 envy 관계 근거",
-      "priority": 50,
-      "note": "SNS 파편 2개 추가(pann 338184398, letstalk.mindline.sg 28683). envy 와 상위/긴장 근거 문장 아직 없음. loveshack.org/forums/topic/661268 (2025-02-21) 'I’m not sure if I’m being overly anxious and untrusting' 의심과 망설임 후보",
-      "createdAt": "2026-10-20T05:55:26.646Z",
-      "seq": 679
+      "priority": 30,
+      "note": "SNS 파편 2개 추가(pann 338184398, letstalk.mindline.sg 28683). loveshack.org/forums/topic/661268 (2025-02-21) 'I’m not sure if I’m being overly anxious and untrusting' 의심과 망설임 후보. 2026-10-20: psychologytoday.com/us/blog/joy-and-pain/201401/what-is-the-difference-between-envy-and-jealousy (Richard H. Smith 2014-01-03) 'When someone is feeling jealous, they are often feeling envious as well.' / 'Seeing a loved one show interest in an enviable rival can produce a debilitating blend of jealousy and envy.' 동반만 말함. 상위·원인·긴장 어느 것도 아님. 원인 표지(경쟁자가 부러워서 질투가 커진다 등) 문장 찾으면 간선",
+      "createdAt": "2026-10-20T08:41:51.751Z",
+      "seq": 723
     },
     {
-      "id": "7a333d0b",
-      "title": "walking-dog-off-leash 보강: 내 개는 믿을 수 있다는 믿음",
-      "priority": 50,
-      "note": "behaviourworksaustralia 프로젝트 소개 F1 로 사용(운동 바람과 목줄 이점 인식). 내 개는 순하다, 통제된다는 믿음 문장 아직 없음. news.tf.co.kr/read/life/2134391.htm 위험성 미인식 원인 문장 확인 필요",
-      "createdAt": "2026-10-20T05:57:09.280Z",
-      "seq": 680
-    },
-    {
-      "id": "269f517d",
+      "id": "9014b250",
       "title": "gift-choosing-anxiety 와 feigning-delight-at-gifts 관계 근거",
-      "priority": 50,
-      "note": "주는 쪽·받는 쪽 어긋남 F5(cmu.edu 2016), 한국 SNS F7(moyoplan) 추가. 관계 근거 문장 아직 없음. seoul.co.kr/news/2000/12/11/20001211014003 (2000-12-11) '크리스마스·연말이 되면 가장 부담스러운 것 중 하나가 선물이다.' kormedi.com/1213118 (2014-12-22) 고민하며 스트레스 수치 상승 후보",
-      "createdAt": "2026-10-20T05:59:44.349Z",
-      "seq": 681
+      "priority": 30,
+      "note": "주는 쪽·받는 쪽 어긋남 F5(cmu.edu 2016), 한국 SNS F7(moyoplan) 추가. seoul.co.kr/news/2000/12/11/20001211014003 (2000-12-11), kormedi.com/1213118 (2014-12-22) 후보. 2026-10-20: psychologytoday happy-together/202412 은 인과 문장 없음(none). retailcustomerexperience Groupon 설문 73% 꾸민 반응, Galak 리뷰(source.washu.edu/2019/12/how-to-win-the-holidays...) 주는 쪽·받는 쪽 7가지 어긋남. 꾸민 반응 때문에 주는 쪽이 맞는 선물을 모른다는 문장 미발견",
+      "createdAt": "2026-10-20T08:46:49.854Z",
+      "seq": 724
     },
     {
-      "id": "278b117c",
-      "title": "not-covering-coughs 보강: 공공 파편",
-      "priority": 50,
-      "note": "medicaldaily.co.kr/news/7402 F2 로 사용(매체). 공공 파편 아직 없음: korea.kr 2015-07 질병관리본부 기침예절 실태조사 보도자료, kdca.go.kr 2020~2021 감염병 예방행태 실태조사 본문 확인 필요. PMC4942042 병원 입구 미가림 RR 7·8. skipping-handwashing 과 관계 후보",
-      "createdAt": "2026-10-20T06:00:21.338Z",
-      "seq": 682
+      "id": "6713362a",
+      "title": "keeping-belongings-of-the-dead 보강: 공공 파편과 버리기와의 긴장",
+      "priority": 30,
+      "note": "2026-10-20 m.cafe.daum.net/amtb/6Zfw/14950/comments (2011-02-10 댓글) F2 로 사용. 같은 스레드에 유품을 남에게 주거나 태우라는 댓글들(긴장 후보, 같은 URL 은 한 문서에 한 파편). m.cafe.daum.net/subdued20club/ReHf/113723 (2011-12-20 스크랩) '집안 곳곳이 엄마 손길이 있어서 청소도 못 하겠고' 후보. gutenberg 1511 King John 3막 4장 'Stuffs out his vacant garments with his form' 후보. 공공 파편 미발견",
+      "createdAt": "2026-10-20T08:49:29.220Z",
+      "seq": 725
     },
     {
-      "id": "a748acc9",
-      "title": "keeping-belongings-of-the-dead 보강: 간직 이유와 지속 유대",
-      "priority": 50,
-      "note": "jstage.jst.go.jp/article/jssp/36/2/36_1813/_article (2020-11-30) 영문 초록 'a memento mainly contains four meanings' 및 continuing bonds 관련 문장. PMC7351592 'Mothers who found comfort in the objects visited them more frequently' 조건 후보. bereavement-regret 와 관계 후보",
-      "createdAt": "2026-10-20T06:37:12.958Z",
-      "seq": 690
-    },
-    {
-      "id": "bf55a017",
-      "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
-      "priority": 50,
-      "note": "PMC1784087 Armfield 2007 'vicious cycle of dental fear whereby people with high dental fear are more likely to delay treatment, leading to more extensive dental problems' (F2 와 같은 출처라 다른 출처 필요). betterhealth 'vicious cycle of dental anxiety'. ADHS 2009 미러 nhsd-proxy.openprescribing.net 12% extreme dental anxiety. doctornow.co.kr qna '치과가 무서워서 못가고있어요' SNS 후보",
-      "createdAt": "2026-10-20T06:43:05.202Z",
-      "seq": 692
-    },
-    {
-      "id": "ca470314",
+      "id": "8730bc72",
       "title": "flattering-superiors 관계: 눈치 야근, 바쁜 척하기와 상사 눈치",
-      "priority": 50,
-      "note": "staying-late-for-boss, pretending-to-be-busy 와 상위 또는 긴장 후보. 근거 문장 필요. seoul.co.kr 2009-08-05 아부의 기술 '기발하지도 않은 상사의 아이디어에 “그것 괜찮겠네요.”라고 공치사' (F2 와 같은 출처). gutenberg 1342 Pride and Prejudice ch15 'veneration for her as his patroness' (이미 3개 문서가 1342 사용)",
-      "createdAt": "2026-10-20T06:45:40.457Z",
-      "seq": 693
+      "priority": 30,
+      "note": "staying-late-for-boss, pretending-to-be-busy 와 상위 또는 긴장 후보. seoul.co.kr 2009-08-05(F2 와 같은 출처). gutenberg 1342 이미 3개 문서. 2026-10-20 검색: ajunews.com/view/20130313000094 (2013) 비효율 원인 '상사의 눈치' 22.5% 는 아부와 무관. 세 현상을 한 문장에서 '상사에게 잘 보이려는' 행동으로 묶는 출처 미발견. 공통 상위 '상사에게 잘 보이기(upward impression management)' 신규 문서 후보",
+      "createdAt": "2026-10-20T08:50:57.833Z",
+      "seq": 726
     },
     {
-      "id": "afcf395a",
-      "title": "speeding 관계: 서두름과 과속, 졸음운전·운전 중 휴대전화 사용과 상위 후보",
-      "priority": 50,
-      "note": "accesson 2003 이순철 초록 '서두름 행동' 주요 요인, 안 B '과속운전으로 얻을 수 있는 이익이 사회적으로 인정받게 되면 과속운전은 습관화될 있다'(F1 과 같은 출처). m.seoul.co.kr/news/2018/12/05/20181205006001 '신호등이 없어 운전자들이 일반고속도로처럼 맘껏 속도를 내고 있기 때문이다' 원인 후보. driving-while-drowsy, phone-use-while-driving 공통 상위 '위험 운전' 후보",
-      "createdAt": "2026-10-20T06:52:31.000Z",
-      "seq": 694
+      "id": "efea1dfd",
+      "title": "speeding 관계: 졸음운전·운전 중 휴대전화 사용과 공통 상위 '위험 운전'",
+      "priority": 30,
+      "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr/news/2018/12/05/20181205006001 '신호등이 없어 ... 맘껏 속도를 내고 있기 때문이다' 조건 후보. faac 같은 글 'people are generally bad at estimating how much time they save by speeding up' 시간 절약 과대 어림 후보",
+      "createdAt": "2026-10-20T08:52:20.641Z",
+      "seq": 727
     },
     {
-      "id": "56e272a2",
-      "title": "superstitious-rituals 보강: 의례와 불안 완화의 인과, 한국 수능 미신",
-      "priority": 50,
-      "note": "PMC5452956 Hobson 2017 'ritual buffers against uncertainty and anxiety'(실험실 의례). heraldk.com/article/2025111304344241415 미역국 미신 원인 문장(AFP 풀이). dspace.stir.ac.uk/handle/1893/15907 Ofori 2013 박사논문 'under conditions of impending failure' 조건(F4 와 같은 저자). gutenberg 74 Tom Sawyer 금요일 회피 대사",
-      "createdAt": "2026-10-20T06:55:39.277Z",
-      "seq": 695
+      "id": "acdbe477",
+      "title": "superstitious-rituals 보강: SNS·공공 파편, 의례와 불안 완화의 인과",
+      "priority": 30,
+      "note": "2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
+      "createdAt": "2026-10-20T08:55:10.227Z",
+      "seq": 728
     },
     {
-      "id": "fbe88f4a",
-      "title": "guilt-tipping 보강: 공공·SNS 파편과 결제 단말기 압박",
-      "priority": 50,
-      "note": "공공 출처 미발견(연준, CFPB, 소비자원 검색). lup.lub.lu.se 9237717 다음 문장 'design of the card terminal ... psychologically pressuring'(F4 와 같은 출처). thefiscaltimes.com 2013-05-29 'The major reason people tip is to avoid social disapproval,'. weighing-gift-money 와 관계 후보",
-      "createdAt": "2026-10-20T06:59:13.622Z",
-      "seq": 696
+      "id": "09067f84",
+      "title": "guilt-tipping 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-10-20 SNS 파편 F3(news.ycombinator.com/item?id=15590814, 2017) 추가. 공공 출처 미발견(연준, CFPB, 소비자원 검색). HN 후보: item?id=18243157 (2018-10-17) 'No Tip' 버튼을 직접 눌러야 하는 압박, 36215490 (2023-06-06) 'face to face to maximize the guilt factor'. weighing-gift-money 와 관계 후보",
+      "createdAt": "2026-10-20T08:55:55.634Z",
+      "seq": 729
+    },
+    {
+      "id": "b487560a",
+      "title": "heat-or-eat 보강: 한국어 파편과 energy-limiting-behavior 관계",
+      "priority": 30,
+      "note": "2026-10-20 파편 3개(2012 Anderson repec, 2018 EIA, 2023 Scottish Housing News). 한국어 파편 없음(난방비 때문에 식비 줄여). ageuk.org.uk/cymru/latest-news/archive/welsh-pensioners-cut-back-on-heating-and-eating (2013-05-10) 난방과 식사를 함께 줄임(인과 아님). eia 같은 글 'Of the 25 million households that reported forgoing food and medicine to pay energy bills, 7 million faced that decision nearly every month.' energy-limiting-behavior(냉난방 참기) 와 긴장 근거 문장 필요",
+      "createdAt": "2026-10-20T09:00:36.641Z",
+      "seq": 733
+    },
+    {
+      "id": "1c8ee4cc",
+      "title": "walking-dog-off-leash 보강: 2015년 이전과 학술 파편(내 개는 순하다는 믿음)",
+      "priority": 30,
+      "note": "2026-10-20 heraldcorp 2016(F4), 노컷뉴스 2017(F5) 사용. 남은 후보: ytn.co.kr/_ln/0103_202206270524073776 (2022, '~로 보입니다' 추측), galvnews USA TODAY 2026-08-01 'my dog is friendly'. Nesbitt 2006 NCSU 학위논문 TLS 실패",
+      "createdAt": "2026-10-20T09:04:15.251Z",
+      "seq": 735
+    },
+    {
+      "id": "3797cf1d",
+      "title": "not-covering-coughs 보강: 공공 파편",
+      "priority": 20,
+      "note": "공공 파편 아직 없음. 2026-10-20 확인: kdca.go.kr/bbs/kdca/42/312943/artclView.do (2026-10-16) 손씻기만, news.seoul.go.kr welfare 576918·567993, gangdong.go.kr b_068/141570 수칙 안내뿐. ytn 2015-07-09 는 이미 F3. 2014 기침예절 실태조사 원 보도자료(korea.kr, kdca.go.kr 2015-07) 를 찾아야 함. PMC4942042 병원 입구 미가림 RR. skipping-handwashing 과 관계 후보",
+      "createdAt": "2026-10-20T08:56:58.686Z",
+      "seq": 730
+    },
+    {
+      "id": "75b0ae75",
+      "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
+      "priority": 20,
+      "note": "PMC1784087 Armfield 2007 vicious cycle(F3 와 같은 출처). weekly.khan.co.kr/article/9058 (2005-02-01) F2 로 추가됨. 되먹임 간선을 그으려면 상대 정점(예: 구강 상태 악화를 부끄러워하기) 문서가 필요. accesson.kr/jkda 60-1-30 (PDF) 자책감·자존감 하락이 다시 기피로 이어진다는 국내 논문 HTML 사본 필요. drbicuspid 15370883 스웨덴 학위논문 회피→수치심→위축 악순환 후보",
+      "createdAt": "2026-10-20T08:57:04.179Z",
+      "seq": 731
     },
     {
       "id": "ee1d30ac",
@@ -139,14 +155,6 @@
       "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련",
       "createdAt": "2026-10-18T06:05:10.707Z",
       "seq": 216
-    },
-    {
-      "id": "d8400e5d",
-      "title": "에너지 비용 때문에 식비 줄이기 (heat or eat)",
-      "priority": 10,
-      "note": "energy-limiting-behavior F1 출처(Anderson 2012 ideas.repec.org) 초록: 'spending on food was usually reduced by cutting the range and quality of food purchased'. 냉난방 참기와 관련 후보",
-      "createdAt": "2026-10-18T07:39:46.363Z",
-      "seq": 228
     },
     {
       "id": "4be884eb",
@@ -979,6 +987,22 @@
       "note": "fredhutch.org 2016-10-12 rooms that remain 기사, 'societal expectations to move on' 문장(216자로 김). keeping-belongings-of-the-dead 와 긴장 후보",
       "createdAt": "2026-10-20T06:37:13.096Z",
       "seq": 691
+    },
+    {
+      "id": "9565ce14",
+      "title": "작별 인사 길게 끌기와 손님이 가 주기를 바라기의 관계",
+      "priority": 10,
+      "note": "lingering-goodbye F5(PMC7958231 Mastroianni 2021) 끝내고 싶은 바람을 상대 기분 상할까 감춤. wishing-guests-would-leave 도 같은 논문 F5 사용. 원인/긴장 근거 문장 필요",
+      "createdAt": "2026-10-20T08:38:21.969Z",
+      "seq": 721
+    },
+    {
+      "id": "e8f6bc8b",
+      "title": "delayed-care-emergency-visits 와 nonurgent-emergency-room-visits 관계, 비학술 다른 시기",
+      "priority": 10,
+      "note": "2026-10-20 신설. 경증 응급실 이용과 구분됨(미룬 끝의 응급실은 상태가 나빠진 뒤). 비용 외 이유(두려움, 시간)로 미룬 사례와 한국어 파편 필요. wagner.nyu.edu Billings 2000 같은 글 'economic constraints cause many of the uninsured to delay seeking treatment until their medical condition has seriously worsened.'",
+      "createdAt": "2026-10-20T08:58:03.077Z",
+      "seq": 732
     },
     {
       "id": "02b2f242",
