@@ -1,9 +1,33 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T13:02:09.870Z",
-  "nextSeq": 765,
-  "stops": 62,
+  "savedAt": "2026-10-20T13:55:58.249Z",
+  "nextSeq": 771,
+  "stops": 63,
   "items": [
+    {
+      "id": "437007cf",
+      "title": "confiding-in-strangers 관계: keeping-hardship-to-oneself 와 긴장, 조건(상대가 먼저 털어놓을 때)",
+      "priority": 50,
+      "note": "2026-10-20 후보: psychologytoday.com/gb/blog/consequential-strangers/201003/... (F3 와 같은 출처) 'We can talk about ourselves without worrying that it will get back to the people closest to us.' 'we're more likely to tell our troubles to a stranger if the other person opens up first'(Rubin 버스 터미널·공항 연구). airlineratings.com/articles/airborne-intimacy-what-and-why-we-confess-on-high (2014-05-01) 'Then there’s the absence of consequence.' 매체 다른 출처. gutenberg 8744 Turgenev Hamlet of Shchigry 'Why have I begun talking so unexpectedly to you, a man utterly a stranger?' 문학 후보. 한국어 매체 미발견",
+      "createdAt": "2026-10-20T13:42:30.661Z",
+      "seq": 768
+    },
+    {
+      "id": "3a54df36",
+      "title": "leaving-mail-unopened 보강: 원인 간선(빚, 돈 불안)과 다른 시기 파편",
+      "priority": 50,
+      "note": "2026-10-20 후보: onefamily 같은 글 'More than a third (36%) who have done this say it's because they feel anxious at the thought of checking them' (불안이 원인, 여 41% 남 30% 조건). link.springer.com/10.1007/978-3-319-57568-1_7 (Custers 2017, avoiding-creditors 에서 사용) 'not opening letters' — avoiding-creditors 와 관계 후보. gutenberg 599 Vanity Fair (1848) 'did not hurry himself to break the seal of Miss Dobbin's letter' 문장 일부라 보류, gutenberg 766 David Copperfield(1850) 동일. jlpartners.kr 의뢰인후기 2026-08-12 독촉장 서랍 3년(광고성). gall.dcinside.com cs_new1 8892409 (2026-08-05) 전기세 고지서",
+      "createdAt": "2026-10-20T13:52:18.587Z",
+      "seq": 769
+    },
+    {
+      "id": "3f6b75fd",
+      "title": "snooping-on-partners-phone 보강: 문학·SNS 파편, 결과(다툼) 간선",
+      "priority": 50,
+      "note": "2026-10-20 gutenberg 768 Wuthering Heights 21장 'My curiosity and suspicions were roused; ...' 239자라 못 씀(편지 몰래 읽기, 같은 장에서 200자 이하 문장 찾기). teamblind.com/kr/post/-kbE0kmi4 (2022-02-08) 페이지 머리에 회사명 표시라 제외. CHI 2019 'Vulnerability & Blame' dl.acm.org 봇 확인. khan F1 같은 글 '연인의 다른 이성을 감시하기 위해서' 는 비밀번호 공유 이유",
+      "createdAt": "2026-10-20T13:55:30.860Z",
+      "seq": 770
+    },
     {
       "id": "e8ba47a7",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
