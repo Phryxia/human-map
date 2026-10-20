@@ -1564,9 +1564,9 @@
   },
   "https://www.eia.gov/todayinenergy/detail.php?id=37072": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://www.gutenberg.org/ebooks/514.html.images": {
     "first": "2026-10-18",
@@ -5347,6 +5347,12 @@
     "lastVerified": "2026-10-20"
   },
   "https://www.ajmc.com/view/when-routine-care-is-out-of-reach-latino-adults-end-up-in-the-emergency-department": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.scottishhousingnews.com/articles/over-one-millions-scots-cut-back-on-groceries-due-to-rising-energy-bills": {
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "VERIFIED",
