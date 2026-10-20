@@ -16,7 +16,9 @@
 
 2018년 F4 와 2019년 F5 는 미네소타의 작별을 다룬다. 2022년 F7 의 글쓴이는 다른 곳 사람들이 서둘러 문을 나서는 것이 처음에는 무례하게 느껴졌고 나중에야 그것이 그곳의 보통 방식임을 알았다고 썼다. [F4][F5][F7]
 
-2024년 YTN 기사는 뉴질랜드 더니든공항에서 이용객의 작별 시간이 길어져 공항 운용에 차질이 생기자 공항이 작별 포옹 시간을 제한했다고 보도했다. [F8]
+2023년 Hacker News 의 한 댓글 작성자는 인사 없이 자리를 뜨는 아이리시 굿바이가 있는 까닭으로 길고 거창한 작별을 들었다. [F8]
+
+2024년 YTN 기사는 뉴질랜드 더니든공항에서 이용객의 작별 시간이 길어져 공항 운용에 차질이 생기자 공항이 작별 포옹 시간을 제한했다고 보도했다. [F9]
 
 # 파편
 
@@ -27,7 +29,8 @@
 - F5 [매체] "The 'Minnesota Goodbye' is essentially a long, drawn-out phenomenon that extends the process of saying goodbye into one that's much longer than it really needs to be." ('미네소타 굿바이'는 작별 인사 과정을 실제로 필요한 것보다 훨씬 길게 늘이는, 길게 늘어지는 현상이다.) — "The 9 Stages of the 'Minnesota Goodbye' Explained", KROC News, 2019-11-21, https://krocnews.com/the-9-stages-of-the-minnesota-goodbye-explained/, 2026-10-20 접속
 - F6 [학술] "Because expressing a desire to end carries a significant risk of offending one’s partner, people may generally mask those desires when they arise" (끝내고 싶다는 바람을 드러내면 상대의 기분을 상하게 할 위험이 크기 때문에 사람들은 그런 바람이 생겨도 대개 감출 수 있다) — Adam M. Mastroianni, Daniel T. Gilbert, Gus Cooney, Timothy D. Wilson, "Do conversations end when people want them to?", PNAS 118(10), 2021-03-01, https://pmc.ncbi.nlm.nih.gov/articles/PMC7958231/, 2026-10-20 접속
 - F7 [매체] "I felt personally offended until I realized that these dashes for the door that felt premature, truncated, and even a little rude to me, were business as usual for the rest of the world." (나는 개인적으로 기분이 상했는데 그러다 내게는 이르고 잘려 나간 듯하고 조금 무례하게까지 느껴지던 이렇게 문으로 서둘러 나가는 모습이 다른 곳에서는 늘 하던 대로의 일이라는 것을 깨달았다.) — Karla Theilen, "The Minnesota Goodbye", Strong Towns, 2022-12-13, https://strongtowns.org/journal/2022/12/13/ns2022-the-minnesota-goodbye, 2026-10-20 접속
-- F8 [매체] "현재 더니든공항은 공항을 방문한 차량이 15분간 무료로 주차할 수 있도록 허용하고 있는데, 이용객들의 작별 시간이 길어지면서 공항 운용에 차질이 빚어져 이 같은 조치를 한 것으로 알려졌습니다." — 이유나, YTN, 2024-10-22, https://www.ytn.co.kr/_ln/0134_202410220943053493, 2026-10-20 접속
+- F8 [SNS] "The Irish goodbye exists because the alternative is a long ass poetic farewell." (아이리시 굿바이가 있는 건 그 대안이 엄청나게 길고 시적인 작별이기 때문이다.) — Hacker News, 댓글, 2023-10-11, https://news.ycombinator.com/item?id=37840563, 2026-10-20 접속
+- F9 [매체] "현재 더니든공항은 공항을 방문한 차량이 15분간 무료로 주차할 수 있도록 허용하고 있는데, 이용객들의 작별 시간이 길어지면서 공항 운용에 차질이 빚어져 이 같은 조치를 한 것으로 알려졌습니다." — 이유나, YTN, 2024-10-22, https://www.ytn.co.kr/_ln/0134_202410220943053493, 2026-10-20 접속
 
 # 관계
 
@@ -45,7 +48,7 @@
 
 ## 결과
 
-없음.
+- [아이리시 굿바이](irish-goodbye.md) [F8]
 
 ## 긴장
 
