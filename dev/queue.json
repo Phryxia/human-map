@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T11:03:43.771Z",
-  "nextSeq": 749,
-  "stops": 61,
+  "savedAt": "2026-10-20T13:02:09.870Z",
+  "nextSeq": 765,
+  "stops": 62,
   "items": [
-    {
-      "id": "f8453cfe",
-      "title": "irish-goodbye 보강: 다른 시기와 학술·문학 파편",
-      "priority": 50,
-      "note": "2026-10-20 신설, 파편 2개(2023 Mental Floss, 2023 HN 37840563). 후보: HN item?id=17866337 (2018-08-29) 'You get to leave without having to decide who to say goodbye to' (퇴사 비유), HN 8682807 (2014-12-01) 인원수에 따라 적절성이 다르다는 조건(미확인). gutenberg 'took French leave' 문학 파편 미탐색. silent-exit 와는 다른 현상(소비자 이탈)",
-      "createdAt": "2026-10-20T09:02:31.064Z",
-      "seq": 734
-    },
-    {
-      "id": "4b257e69",
-      "title": "overestimating-peer-drinking 보강: 한국어 파편과 원인 간선",
-      "priority": 50,
-      "note": "2026-10-20 신설(F1 NIAAA 미상, F2 1993, F3 2005, F4 2019). 후보: accesson.kr/healthpsy/v.14/4/871/18840 (신행우 2009, 503), health.mn.gov/communities/alcohol/documents/alcoholpeers.pdf (MDH 2025-02, PDF·403) 'students overestimate how often their peers drink alcohol, which may indirectly influence students to initiate alcohol use' 과대 추정→음주 인과. hws 같은 글 'students tend to focus on the most extreme examples' 기제. 상위 후보: 다원적 무지(남들은 나와 다르게 생각한다고 믿기) 신규 문서, staying-quiet-in-groups 와 관계 후보",
-      "createdAt": "2026-10-20T10:36:41.932Z",
-      "seq": 743
-    },
-    {
-      "id": "6542b4da",
-      "title": "driving-overconfidence 보강: 과신→과속 원인 간선과 한국 공공 파편",
-      "priority": 50,
-      "note": "2026-10-20 신설. tac.vic.gov.au/about-the-tac/media-room/news-and-events/2013-media-releases/latest-tac-data-finds-over-confidence-can-lead-to-speeding (2013-08-16, Cloudflare 차단) 'the more confidence a road user has in their driving ability, the more likely they are to take unnecessary risks' → speeding 원인 후보. EC ERSO young-drivers_en 'Young drivers tend to overestimate their ability to control a vehicle under emergency conditions.' 같은 EC novice-drivers 글은 F3. 한국 공공(도로교통공단, 교통안전공단) 파편 미발견",
-      "createdAt": "2026-10-20T10:41:13.186Z",
-      "seq": 744
-    },
-    {
-      "id": "811a41b7",
-      "title": "reusing-leftover-medicine 관계: stopping-medication-when-feeling-better 결과 간선",
-      "priority": 50,
-      "note": "2026-10-20 신설. 중간에 끊어서 약이 남는다는 인과 문장 필요. kormedi.com/1196451 (2010-02-18) 식약청 조사 '61.0%는 항생제 복용 중 증상이 나아지면 남은 항생제를 먹지 않겠다고' (인과 아님). mt.co.kr 같은 글(F3) '모아둔 항생제를 권하기도 한다' 가족에게 나눠 주기 조건 후보. PMC11607477 (2024 사우디) 'store excess pills of antibiotics ... reuse them later' 조건 후보",
-      "createdAt": "2026-10-20T10:46:03.963Z",
-      "seq": 745
-    },
-    {
-      "id": "8e2adcae",
-      "title": "unrealistic-optimism 보강: 원인·결과 간선과 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-10-20 신설(2015 학술, 2022 공공, 2026 매체). F3(brazosriverauthority 2026) '나에게는 일어나지 않을 것이라 생각해서 대비하지 않는다' → 비상 대비 안 하기 신규 현상 또는 ignoring-emergency-alerts·delayed-evacuation 결과 간선 후보(상대 문서 파편 필요). PMC4467896 같은 글 'Yet area home owners estimated only a 27% chance that their own home would have a radon problem' 수치 후보. driving-overconfidence 와 상위·관계 후보. Weinstein 1980 이전 파편 필요",
-      "createdAt": "2026-10-20T10:57:55.493Z",
-      "seq": 746
-    },
-    {
-      "id": "42ed728a",
-      "title": "spotlight-effect 보강: 공공·SNS 파편, fear-of-negative-evaluation·blushing 관계",
-      "priority": 50,
-      "note": "2026-10-20 신설(2021, 2025 학술, 2025 매체). 후보: inews365 885468 같은 글 티셔츠 실험 '고작 23%' 수치, PubMed 10707330 Gilovich 2000 (쿠키 벽), psychiatricnews.net idxno=34678 (2023-08-12, 본문 추출 실패). 온라인 수업 카메라 끄기(PMC8057329)와 관계 후보",
-      "createdAt": "2026-10-20T11:03:32.903Z",
-      "seq": 747
-    },
-    {
-      "id": "03c50056",
-      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
-      "priority": 50,
-      "note": "2026-10-20 신설. 해경(남해해경청 110명 중 97명, 부산해경) 수치는 기사에만. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22 행안부 실장 인터뷰) '구명조끼를 착용하지 않은 채 ... 90% 이상' 후보. bicycle-helmet-nonuse·rear-seat-belt-nonuse 와 공통 상위(안전장비 안 쓰기) 후보",
-      "createdAt": "2026-10-20T11:03:33.027Z",
-      "seq": 748
-    },
-    {
-      "id": "32d7f1c9",
-      "title": "hosting-beyond-means 와 concealing-poverty 관계 근거",
-      "priority": 30,
-      "note": "인과 표지 있는 문장 아직 없음. christianitytoday 2023 만사프(F9 로 사용, 'while avoiding' 동시 서술). gutenberg 599 Vanity Fair: 'invented a thousand notable methods to conceal or evade it' / 'entertained her friends ... much more frequently' 수단 관계이나 때문에 없음, 인과 문장은 204자. gutenberg 58691 Pember Reeves 1913: pauper burial 거부하고 빚냄(크게 치른 것 아님). 2026-10-20: djo.org.uk all-the-year-round volume-xix page-414(이미 F1) 'Heaven and their creditors know how poor they are' 도 인과 아님. strathprints 36504 Hamilton·Catterall 2007 은 초록에 접대 언급 없음. 한국어 출처 미발견. 여러 회차 실패로 priority 50→30",
-      "createdAt": "2026-10-20T08:36:15.139Z",
-      "seq": 720
-    },
     {
       "id": "e8ba47a7",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
@@ -149,6 +85,62 @@
       "seq": 735
     },
     {
+      "id": "22ecddab",
+      "title": "irish-goodbye 보강: 학술 파편과 원인 간선",
+      "priority": 30,
+      "note": "2026-10-20 F2 Brewer 1894, F3 CBC 2017, F6 1News(Meehan 2026), F7 brunch 2026 추가. 후보: gerflint.fr/Base/Espagne5/romera.pdf (Romera 2012, PDF라 미확인 예상) 'quitter une réunion sans se faire remarquer pour ne pas offenser les hôtes' 17세기 기원. 1News 같은 글 'Leaving quietly can become a way to protect yourself from the discomfort of saying goodbye.' 작별의 불편 회피 원인 후보, 'because leaving loudly feels like shouting out' 주목받기 싫음(spotlight-effect 관계 후보). 경험 연구 미발견",
+      "createdAt": "2026-10-20T12:35:30.872Z",
+      "seq": 757
+    },
+    {
+      "id": "a901474e",
+      "title": "overestimating-peer-drinking 원인 간선: 과음 문서 신설",
+      "priority": 30,
+      "note": "2026-10-20 한국 학술 F4(신행우 2009), F5(류미 2010) 추가. 원인 문장 후보: frontiersin.org/journals/public-health/articles/10.3389/fpubh.2021.653435/full (Wolter 2021-06-10) 'Social relationships with peers strongly affect University students' perception of the drinking behavior of others, which in turn plays a crucial role in determining their own alcohol intake.', healthday.com 528146 (2005-09-28) 'this kind of misperception has a strong effect on personal alcohol consumption'. 상대가 될 '과음/폭음' 문서 없음. earticle.net/Article/A285507 (최정화 2016) 사회적 편익 인식 조건",
+      "createdAt": "2026-10-20T12:40:07.433Z",
+      "seq": 758
+    },
+    {
+      "id": "737b2af7",
+      "title": "driving-overconfidence 보강: 한국 공공 파편과 SNS",
+      "priority": 30,
+      "note": "2026-10-20 F2 이순열 2007(accesson kpacsi v.13/3/111/26318), F4 TAC 2013(web.archive.org 20160214202833 스냅숏) 추가, speeding 결과 간선. 후보: rac.com.au/about-rac/media/media-releases/february-2022/survey-reveals-risk-taking-among-overconfident-young-drivers (2022-02-17) '73 per cent of young drivers rate their driving ability as better or much better', vertumotors.com/news/brake-warns-about-overconfident-driving (2011-03-09) 'just one per cent think they are below the average'. m.seoul.co.kr/news/society/2017/12/13/20171213008011 '안전에 큰 문제가 없다고 생각했다' 는 speeding 조건 후보. 한국 공공기관 비PDF 페이지 미발견",
+      "createdAt": "2026-10-20T12:44:39.812Z",
+      "seq": 759
+    },
+    {
+      "id": "ad1c55d8",
+      "title": "reusing-leftover-medicine 보강: 남은 약 보관 비율과 재사용 의향",
+      "priority": 30,
+      "note": "2026-10-20 PIDS(2023-11-22) 원인 간선 추가. 후보: healio.com/news/infectious-disease/20231108/leftover-antibiotics-major-barrier-to-antimicrobial-stewardship 'For those who stopped antibiotics early, 74% kept the leftover antibiotics.', PMC10677768 (IDWeek 2023 초록, reCAPTCHA) '51% reported they intended to take leftover antibiotics without contacting a healthcare provider in the future.', f1000research.com/articles/12-304 (2023) '71.1% of patients did not complete their antibiotic treatment because they felt better.' → stopping-medication 보강",
+      "createdAt": "2026-10-20T12:48:26.057Z",
+      "seq": 760
+    },
+    {
+      "id": "c83db2e5",
+      "title": "unrealistic-optimism 결과 간선: 대비 안 하기·대피 지연",
+      "priority": 30,
+      "note": "2026-10-20 Weinstein 1982·1987 추가. 인과 후보: link.springer.com/article/10.1007/BF00845372 같은 글 '(b) unrealistic optimism undermined interest in risk reduction indirectly by decreasing worry;' (위험 줄이기 관심 감소, 상대 문서 없음), theglobeandmail.com/opinion/article-lessons-from-hurricane-florence-why-dont-people-leave (2018-10-08) 'they still convinced themselves that it wouldn't affect them' → delayed-evacuation 후보, climatecommunication.yale.edu/publications/coastal-ct-hurricane-segments/toc/3 (2015-06-29) Optimists 'it won't be necessary because a hurricane isn't going to happen'. 한국 학술 scholar.korea.ac.kr/handle/2021.sw.korea/105539 (장정헌 2013) 낙관적 편견이 행동의도 영향 약화",
+      "createdAt": "2026-10-20T12:52:43.547Z",
+      "seq": 761
+    },
+    {
+      "id": "3be5f09e",
+      "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
+      "priority": 30,
+      "note": "2026-10-20 F1 Psychology Today 1998, F2 HN 11842423 추가. 인과 후보: psych-your-mind.blogspot.com/2011/08/spotlight-effect-youre-only-one-who.html (2011-08-08) 'I instantly blush and put my head down, hoping to avoid the pity and humor that I’m sure is on the faces of all those who witnessed' → blushing, gohighbrow.com/turn-off-that-spotlight-on-you (2017) 'This causes you to feel panicky, totally uncomfortable, and planning your escape.', brunch.co.kr/@humanfreshnk/1712 (2026-06-18) '그래서 도전하지 못하고, 시작하지 못하고, 실수할까 봐 움츠러든다.' HN 5097681 (2013) 걷는 사람이 없는 동네에서 시선 느낌 조건",
+      "createdAt": "2026-10-20T12:57:50.716Z",
+      "seq": 762
+    },
+    {
+      "id": "99c52dc5",
+      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-10-20 문화일보 2026-06-12(남해해경청 110명 중 97명), 아주경제 2026-06-15 추가. 공공 HTML 페이지 여전히 미발견. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22) 행안부 실장 '구명조끼를 착용하지 않은 채 안타까운 사망 사고가 발생한 게 거의 90% 이상' (매체), 같은 글 '많은 국민들, 피서객들이 구명조끼를 직접 가지고 오시더라고요' 다른 시기 조건 후보",
+      "createdAt": "2026-10-20T12:59:58.877Z",
+      "seq": 763
+    },
+    {
       "id": "3797cf1d",
       "title": "not-covering-coughs 보강: 공공 파편",
       "priority": 20,
@@ -163,6 +155,14 @@
       "note": "PMC1784087 Armfield 2007 vicious cycle(F3 와 같은 출처). weekly.khan.co.kr/article/9058 (2005-02-01) F2 로 추가됨. 되먹임 간선을 그으려면 상대 정점(예: 구강 상태 악화를 부끄러워하기) 문서가 필요. accesson.kr/jkda 60-1-30 (PDF) 자책감·자존감 하락이 다시 기피로 이어진다는 국내 논문 HTML 사본 필요. drbicuspid 15370883 스웨덴 학위논문 회피→수치심→위축 악순환 후보",
       "createdAt": "2026-10-20T08:57:04.179Z",
       "seq": 731
+    },
+    {
+      "id": "9c373e67",
+      "title": "hosting-beyond-means 와 concealing-poverty 관계 근거",
+      "priority": 20,
+      "note": "인과 표지 있는 문장 아직 없음. 이전: christianitytoday 2023 만사프(F9), gutenberg 599 Vanity Fair, gutenberg 58691, djo.org.uk volume-xix page-414, strathprints 36504 모두 인과 아님. 2026-10-20: etc.usf.edu/lit2go/182/crime-and-punishment/3419/part-5-chapter-2/ (Dostoyevsky 1866) 'peculiar “poor man’s pride,” which compels many poor people to spend their last savings on some traditional social ceremony, simply in order to do “like other people,” and not to “be looked down upon.”' 는 무시당하지 않으려는 자존심 → 잔치 지출(가난 숨기기 아님, hosting-beyond-means 문학 파편 후보). thequint.com mrityu-bhoj 2026-06-16, heartlines.org.za deadly-price-of-ostentatious-funerals 2013 은 사회적 배제·경쟁 원인. 한국어 출처 미발견. priority 30→20",
+      "createdAt": "2026-10-20T13:02:08.432Z",
+      "seq": 764
     },
     {
       "id": "ee1d30ac",
