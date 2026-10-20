@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T04:01:05.472Z",
-  "nextSeq": 659,
-  "stops": 56,
+  "savedAt": "2026-10-20T05:00:30.076Z",
+  "nextSeq": 669,
+  "stops": 57,
   "items": [
-    {
-      "id": "ef17dc8d",
-      "title": "dev: source-check 가 PMC·mediahub 의 간헐 실패를 바로 소멸로 판정",
-      "priority": 60,
-      "note": "2026-10-20 bicycle-helmet-nonuse F3 PMC1730748 이 같은 날 VERIFIED 뒤 HTTP 403, 다음 실행에 다시 VERIFIED. F5 mediahub.seoul.go.kr/archives/1179033 이 같은 날 VERIFIED 뒤 fetch failed 두 번, 다시 VERIFIED. 이전 VERIFIED 파편이 실패하면 잠시 뒤 한 번 더 받아 보고 판정해야 함",
-      "createdAt": "2026-10-20T03:54:26.722Z",
-      "seq": 656
-    },
     {
       "id": "2fdd4f32",
       "title": "sunscreen-nonuse 보강: 1990~2000년대 파편과 덧바르지 않기",
@@ -27,6 +19,46 @@
       "note": "인과 문장 아직 없음. gutenberg 8600 Zola 목로주점(hosting-beyond-means F2 와 같은 URL) 7장: 잔칫돈 모자라 드레스를 전당포에 맡기며 'on account of the neighbors who had no need to know' 숨김 — 같은 장면이나 인과 아님. 같은 7장 'on the days when she had twenty sous she arranged things to let people think that she had forty'. Jane Addams Democracy and Social Ethics(gutenberg 15487) 장례 등급과 동네 위신",
       "createdAt": "2026-10-20T03:54:02.882Z",
       "seq": 655
+    },
+    {
+      "id": "80ffc3af",
+      "title": "nonurgent-emergency-room-visits 보강: 불안과 지각된 긴급성",
+      "priority": 50,
+      "note": "ajmc.com Uscher-Pines 2013 '>80% felt that their condition was urgent' (F2 와 같은 URL 이라 미사용). Healthwatch Enfield 2018 nds.healthwatch.co.uk/node/4738 '20% ... because they could not get an appointment with their GP'. PMC1694659 초록 '38% ... willingness to trade' (F1 과 같은 URL). medical-care-avoidance 와 긴장 후보 근거 필요",
+      "createdAt": "2026-10-20T04:39:10.190Z",
+      "seq": 664
+    },
+    {
+      "id": "91bdcc00",
+      "title": "romantic-jealousy 보강: 매체·SNS 파편과 envy 관계",
+      "priority": 50,
+      "note": "psypost.org 2026-05-03 Dolan 'giving away resources is viewed as a serious relationship threat by both men and women'. PMC4895349 초록: 관계 성립 뒤 질투 증가(217자 초과). envy(시기심)와 상위/긴장 근거 필요",
+      "createdAt": "2026-10-20T04:41:52.580Z",
+      "seq": 665
+    },
+    {
+      "id": "7c0b0373",
+      "title": "walking-dog-off-leash 보강: 내 개는 믿을 수 있다는 믿음과 긴장",
+      "priority": 50,
+      "note": "behaviourworksaustralia.org/projects/do-dog-walkers-need-obedience-training (2018, Darebin) 'Dog walkers recognise that keeping their dogs on the lead benefits other park users and wildlife, but they also want their dogs to exercise' 긴장 근거 후보. PMC4261546 Westgarth 2014 'being able to walk their dog off-leash is important for many dog owners'. news.tf.co.kr/read/life/2134391.htm 위험성 미인식 원인 문장",
+      "createdAt": "2026-10-20T04:50:29.072Z",
+      "seq": 666
+    },
+    {
+      "id": "12dee95a",
+      "title": "gift-choosing-anxiety 보강: 주는 쪽과 받는 쪽 선호 어긋남, 한국 파편",
+      "priority": 50,
+      "note": "minds.wisconsin.edu/handle/1793/43455 Nomura 2009 초록 'individuals experience anxiety when selecting gifts that best perfect this desired identity'(F3 와 같은 URL). Emerald EJM 불일치 논문 초록 HTML 없음. feigning-delight-at-gifts 와 관계 근거 필요",
+      "createdAt": "2026-10-20T04:53:15.751Z",
+      "seq": 667
+    },
+    {
+      "id": "37259281",
+      "title": "not-covering-coughs 보강: 공공 파편과 가리지 않은 비율",
+      "priority": 50,
+      "note": "PMC4942042 초록 'Around a quarter of respiratory events (27·3%) were uncovered'(237자, F1 과 같은 URL). 병원 입구에서 미가림이 더 흔함(RR 7·8). korea.kr 2015-07 질병관리본부 기침예절 실태조사 보도자료, kdca.go.kr 2020~2021 감염병 예방행태 실태조사 본문 확인 필요. medicaldaily.co.kr/news/7402 (2015-07-08) 성인 37.6% 청소년 39.8%. skipping-handwashing 과 관계 후보",
+      "createdAt": "2026-10-20T04:56:41.734Z",
+      "seq": 668
     },
     {
       "id": "ee1d30ac",
