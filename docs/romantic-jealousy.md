@@ -1,0 +1,46 @@
+# 연애 질투
+
+별칭: 질투, 사랑의 질투, Romantic jealousy
+
+연인을 둔 사람이 연인 곁의 경쟁자나 사소한 단서를 보고 연인을 의심하며 괴로워한다.
+
+# 서술
+
+1622년 셰익스피어의 희곡에서 이아고는 질투하는 사람에게 공기처럼 가벼운 사소한 일도 성서의 증거처럼 강한 확증이 된다고 말한다. 1922년 영역된 프루스트의 소설에서 스완은 오데트가 할 수 있는 모든 말을 의심스럽게 여긴다. [F1][F2]
+
+2016년 Sun 외의 연구에서 연애 질투의 강도는 연애에서 느끼는 행복의 강도와 관련되었다. [F3]
+
+# 조건
+
+2020년 Pollet 와 Saxton 의 메타분석에서 경쟁자의 매력이 일으키는 질투에는 작고 유의한 성별 효과가 있었고 경쟁자의 지배성에는 그런 반응이 없었다. [F4]
+
+# 파편
+
+- F1 [문학] "Trifles light as air Are to the jealous confirmations strong As proofs of holy writ." (공기처럼 가벼운 사소한 일도 질투하는 자에게는 성서의 증거만큼 강한 확증이다.) — William Shakespeare, "Othello, the Moor of Venice", Project Gutenberg, 1622, https://www.gutenberg.org/cache/epub/1531/pg1531-images.html, 2026-10-20 접속
+- F2 [문학] "Given that, everything that Odette might say appeared to him suspect." (그렇게 되자 오데트가 할지 모르는 모든 말이 그에게 의심스러워 보였다.) — Marcel Proust, "Swann's Way", C. K. Scott-Moncrieff 옮김, Project Gutenberg, 1922, https://www.gutenberg.org/cache/epub/7178/pg7178-images.html, 2026-10-20 접속
+- F3 [학술] "The intensity of romantic jealousy was related to the intensity of romantic happiness, which mainly correlated with ventral medial prefrontal cortex activation." (연애 질투의 강도는 연애 행복의 강도와 관련되었고, 연애 행복은 주로 복내측 전전두피질 활성과 상관되었다.) — Yan Sun, Hongbo Yu, Jie Chen, Jie Liang, Lin Lu, Xiaolin Zhou, "Neural substrates and behavioral profiles of romantic jealousy and its temporal dynamics", Scientific Reports, 2016-06-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC4895349/, 2026-10-20 접속
+- F4 [학술] "These meta-analyses showed a small, significant effect of gender on jealousy provoked by rival attractiveness, but no such response to rival dominance." (이 메타분석들은 경쟁자의 매력이 일으키는 질투에 성별의 작고 유의한 효과가 있지만 경쟁자의 지배성에는 그런 반응이 없음을 보여 주었다.) — Thomas V. Pollet, Tamsin K. Saxton, "Jealousy as a Function of Rival Characteristics: Two Large Replication Studies and Meta-Analyses Support Gender Differences in Reactions to Rival Attractiveness But Not Dominance", Personality and Social Psychology Bulletin, 2020-03-10, https://pmc.ncbi.nlm.nih.gov/articles/PMC7493204/, 2026-10-20 접속
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 긴장
+
+없음.
+
+#감정 #사고 #관계
