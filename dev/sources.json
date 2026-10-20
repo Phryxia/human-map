@@ -5591,5 +5591,17 @@
     "last": "2026-10-20",
     "result": "VERIFIED",
     "lastVerified": "2026-10-20"
+  },
+  "https://www.accesson.kr/kpacsi/v.13/3/111/26318": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://web.archive.org/web/20160214202833/http://www.tac.vic.gov.au:80/about-the-tac/media-room/news-and-events/2013-media-releases/latest-tac-data-finds-over-confidence-can-lead-to-speeding": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
   }
 }
