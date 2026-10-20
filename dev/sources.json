@@ -2739,33 +2739,33 @@
   },
   "https://news.un.org/en/story/2003/07/73022": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://www.seoul.co.kr/news/2014/03/31/20140331025003": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://m.dailypharm.com/user/news/55445": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10872517/": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2935112/": {
     "first": "2026-10-18",
@@ -5599,6 +5599,12 @@
     "lastVerified": "2026-10-20"
   },
   "https://web.archive.org/web/20160214202833/http://www.tac.vic.gov.au:80/about-the-tac/media-room/news-and-events/2013-media-releases/latest-tac-data-finds-over-confidence-can-lead-to-speeding": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://pids.org/2023/11/22/in-the-news-leftover-antibiotics-major-barrier-to-antimicrobial-stewardship/": {
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "VERIFIED",

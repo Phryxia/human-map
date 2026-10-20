@@ -12,7 +12,7 @@
 
 2021년 F4 의 기사가 전한 분석에서 관절병증 환자가 약을 먹지 않은 이유는 증상이 사라져서(69%)가 가장 많았다. 그다음은 약을 자꾸 먹으면 몸에 나쁠까 봐(12.4%), 효과가 별로 없어서(12%)였다. [F4]
 
-2023년 F5 의 세계정신건강조사 분석에서 항우울제를 끊은 환자가 든 주된 이유는 나아졌다고 느껴서(46.6%)였다. [F5]
+2023년 F5 의 세계정신건강조사 분석에서 항우울제를 끊은 환자가 든 주된 이유는 나아졌다고 느껴서(46.6%)였다. 2023년 F6 가 전한 미국 외래 환자 조사에서 남은 항생제를 가진 사람 대부분은 몸이 나아져서 항생제를 일찍 끊었기 때문에 약이 남았다. [F5][F6]
 
 # 조건
 
@@ -27,6 +27,7 @@
 - F3 [공공] "Close to one third (32%) of people surveyed believe they should stop taking antibiotics when they feel better, rather than completing the prescribed course of treatment." (조사 대상의 3분의 1 가까이(32%)가 처방된 치료 과정을 마치지 않고 몸이 나아지면 항생제 복용을 멈춰야 한다고 믿는다.) — World Health Organization, "WHO multi-country survey reveals widespread public misunderstanding about antibiotic resistance", 2015-11-16, https://www.who.int/news/item/16-11-2015-who-multi-country-survey-reveals-widespread-public-misunderstanding-about-antibiotic-resistance, 2026-10-18 접속
 - F4 [매체] "관절병증 환자의 복약 비 이행 이유로는 ‘증상이 사라져서’가 69%로 가장 많았으며, 약을 자꾸 먹으면 몸에 나쁠까봐(12.4%), 효과가 별로 없어서(12%) 순이었다." — 데일리팜, 「의도적으로 '장기 처방약' 안먹은 환자, 왜 그럴까」, 2021-01-08, https://m.dailypharm.com/user/news/55445, 2026-10-18 접속
 - F5 [학술] "main patient-reported reason for discontinuation was feeling better (46.6%), which was reported by a higher proportion of patients who discontinued within the first 2 weeks of treatment than later." (환자가 보고한 주된 중단 이유는 나아졌다는 느낌(46.6%)이었고 치료 첫 2주 안에 중단한 환자에게서 그 뒤에 중단한 환자보다 높은 비율로 보고되었다.) — Alan E. Kazdin 외, "Patterns, predictors, and patient-reported reasons for antidepressant discontinuation in the WHO World Mental Health Surveys", Psychological Medicine, 2023-09-14, https://pmc.ncbi.nlm.nih.gov/articles/PMC10872517/, 2026-10-18 접속
+- F6 [매체] "Most people acquired leftover antibiotics because they stopped taking prescribed antibiotics early due to feeling better" (사람들 대부분은 몸이 나아져서 처방받은 항생제를 일찍 끊었기 때문에 남은 항생제를 갖게 되었다) — Pediatric Infectious Diseases Society, "In the News: Leftover antibiotics major barrier to antimicrobial stewardship", 2023-11-22, https://pids.org/2023/11/22/in-the-news-leftover-antibiotics-major-barrier-to-antimicrobial-stewardship/, 2026-10-20 접속
 
 # 관계
 
@@ -44,7 +45,7 @@
 
 ## 결과
 
-없음.
+- [남은 약 다시 먹기](reusing-leftover-medicine.md) [F6]
 
 ## 긴장
 
