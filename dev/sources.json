@@ -3231,9 +3231,9 @@
   },
   "https://www.gutenberg.org/cache/epub/514/pg514-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-19",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-19"
+    "lastVerified": "2026-10-20"
   },
   "https://ko.wikisource.org/wiki/%EB%82%A0%EA%B0%9C": {
     "first": "2026-10-19",
@@ -5095,6 +5095,24 @@
     "lastVerified": "2026-10-20"
   },
   "https://www.medicaldaily.co.kr/news/7402": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.fredhutch.org/en/news/center-news/2016/10/parents-grieving-children-lost-to-cancer-by-preserving-bedrooms.html": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7351592/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://bravo.etoday.co.kr/view/atc_view/13924": {
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "VERIFIED",
