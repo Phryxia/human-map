@@ -2626,9 +2626,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-19",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-19"
+    "lastVerified": "2026-10-20"
   },
   "https://www.ipsos.com/en-ca/almost-half-47-canadians-pretend-be-overjoyed-when-receiving-unwanted-gift-during-holiday-gift": {
     "first": "2026-10-18",
@@ -4736,6 +4736,24 @@
     "lastVerified": "2026-10-20"
   },
   "https://ideas.repec.org/a/taf/jdevst/v38y2001i1p71-97.html": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.sciencedaily.com/releases/2009/02/090224132901.htm": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.classicalfm.ca/health/2015/04/10/medical-test-anxiety/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC13614487/": {
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "VERIFIED",
