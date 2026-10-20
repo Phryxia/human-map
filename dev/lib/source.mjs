@@ -90,6 +90,15 @@ export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, fallba
 
 export const quoteIn = (text, quote) => normalize(text).includes(normalize(quote))
 
+// PMC 와 mediahub.seoul.go.kr 은 같은 날 VERIFIED 였던 글을 한 번씩 403, fetch failed 로 줬다가 다음 실행에 다시 줬다(2026-10-20).
+// VERIFIED 기록이 있던 파편의 첫 결과에 원문이 없으면 delay 만큼 쉬고 한 번 더 받아 그 결과로 판정한다.
+export async function recheckText(url, {quote, wasVerified, fetchText: get = fetchText, delay = 10000} = {}) {
+  const page = await get(url, {quote})
+  if (!wasVerified || (page.ok && quoteIn(page.text, quote))) return page
+  await new Promise(r => setTimeout(r, delay))
+  return get(url, {quote})
+}
+
 // 원글이 4xx 일 때 같은 호스트의 / 도 열리지 않으면 글이 아니라 호스트가 이 환경을 막은 것이다(instiz.net, 2026-10-19).
 // 원글이 타임아웃일 때 / 도 타임아웃이면 마찬가지다(strathprints.strath.ac.uk, 2026-10-20). / 가 다른 이유(도메인 소멸 등)로 실패하면 막힌 것으로 보지 않는다.
 export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 20000} = {}) {

@@ -1,6 +1,6 @@
 import {test} from 'node:test'
 import assert from 'node:assert/strict'
-import {normalize, extractText, quoteIn, judge, daysBetween, fetchText, hostBlocked} from './lib/source.mjs'
+import {normalize, extractText, quoteIn, judge, daysBetween, fetchText, hostBlocked, recheckText} from './lib/source.mjs'
 
 test('normalize: 따옴표, 대시, 공백 종류를 맞춘다', () => {
   assert.equal(normalize('“그는” 말했다 – 그리고  떠났다'), '"그는" 말했다 - 그리고 떠났다')
@@ -180,4 +180,28 @@ test('fetchText: 연결 단계 타임아웃도 사유를 타임아웃으로 준�
   const fetchImpl = async () => { throw Object.assign(new TypeError('fetch failed'), {cause: {code: 'UND_ERR_CONNECT_TIMEOUT'}}) }
   const page = await fetchText('https://strathprints.strath.ac.uk/id/eprint/36504', {fetchImpl, fallbackImpl: fetchImpl, challengeDelay: 0})
   assert.equal(page.reason, '타임아웃')
+})
+
+// 2026-10-20 bicycle-helmet-nonuse F3 의 PMC1730748 은 VERIFIED 다음 실행에서 HTTP 403, 그다음 실행에서 다시 VERIFIED 였다.
+// 같은 날 F5 의 mediahub.seoul.go.kr/archives/1179033 은 fetch failed 두 번 뒤 다시 VERIFIED 였다. VERIFIED 기록이 있던 파편이 실패하면 쉬었다가 한 번 더 받는다.
+test('recheckText: VERIFIED 기록이 있던 파편이 한 번 실패하면 쉬었다가 다시 받는다', async () => {
+  const quote = '헬멧을 쓰지 않는 이유'
+  const ok = {ok: true, text: `앞 ${quote} 뒤`}
+  const seq = pages => { let i = 0; const calls = []; return {calls, fetch: async url => { calls.push(url); return pages[Math.min(i++, pages.length - 1)] }} }
+  const pmc = seq([{ok: false, reason: 'HTTP 403'}, ok])
+  const p1 = await recheckText('https://pmc.ncbi.nlm.nih.gov/articles/PMC1730748/', {quote, wasVerified: true, fetchText: pmc.fetch, delay: 0})
+  assert.ok(p1.ok && quoteIn(p1.text, quote)); assert.equal(pmc.calls.length, 2)
+  const hub = seq([{ok: false, reason: 'fetch failed'}, ok])
+  assert.ok((await recheckText('https://mediahub.seoul.go.kr/archives/1179033', {quote, wasVerified: true, fetchText: hub.fetch, delay: 0})).ok)
+  // 원문이 없는 200 도 한 번 더 받는다
+  const nf = seq([{ok: true, text: '다른 본문'}, ok])
+  assert.ok(quoteIn((await recheckText('https://example.com/a', {quote, wasVerified: true, fetchText: nf.fetch, delay: 0})).text, quote))
+  // 두 번 모두 실패하면 두 번째 결과로 판정한다
+  const gone = seq([{ok: false, reason: 'HTTP 404'}, {ok: false, reason: 'HTTP 410'}])
+  assert.equal((await recheckText('https://example.com/gone', {quote, wasVerified: true, fetchText: gone.fetch, delay: 0})).reason, 'HTTP 410')
+  // 처음 보는 파편과 첫 응답이 맞은 파편은 다시 받지 않는다
+  const first = seq([{ok: false, reason: 'HTTP 403'}, ok])
+  assert.equal((await recheckText('https://example.com/new', {quote, wasVerified: false, fetchText: first.fetch, delay: 0})).ok, false); assert.equal(first.calls.length, 1)
+  const once = seq([ok, ok])
+  await recheckText('https://example.com/ok', {quote, wasVerified: true, fetchText: once.fetch, delay: 0}); assert.equal(once.calls.length, 1)
 })

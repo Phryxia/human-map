@@ -4,7 +4,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import {spawnSync} from 'node:child_process'
 import {loadAll, ROOT} from './lib/doc.mjs'
-import {fetchText, quoteIn, judge, hostBlocked, daysBetween, needsProxyReexec, mergeRecords} from './lib/source.mjs'
+import {recheckText, quoteIn, judge, hostBlocked, daysBetween, needsProxyReexec, mergeRecords} from './lib/source.mjs'
 
 if (needsProxyReexec(process.env)) {
   const r = spawnSync(process.execPath, ['--disable-warning=UNDICI-EHPA', ...process.argv.slice(1)], {stdio: 'inherit', env: {...process.env, NODE_USE_ENV_PROXY: '1'}})
@@ -57,7 +57,7 @@ const cache = new Map()
 let failed = false
 for (const {doc, frag} of targets) {
   if (records[frag.url]?.removed) { failed = true; continue }
-  if (!cache.has(frag.url)) cache.set(frag.url, await fetchText(frag.url, {quote: frag.quote}))
+  if (!cache.has(frag.url)) cache.set(frag.url, await recheckText(frag.url, {quote: frag.quote, wasVerified: !!records[frag.url]?.lastVerified && !frag.vanished}))
   const page = cache.get(frag.url)
   const result = !page.ok ? 'UNREACHABLE' : quoteIn(page.text, frag.quote) ? 'VERIFIED' : 'NOT_FOUND'
   const rec = records[frag.url]
