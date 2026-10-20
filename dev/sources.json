@@ -5063,5 +5063,17 @@
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "UNREACHABLE"
+  },
+  "https://pann.nate.com/talk/338184398": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://letstalk.mindline.sg/t/jealousy-over-boyfriend-social-circle/28683": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
   }
 }
