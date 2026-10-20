@@ -10,18 +10,21 @@
 
 2019년 브런치 에세이의 글쓴이는 수능 이틀 전 식탁에서 미역에 젓가락을 대자 아버지가 다급하게 먹지 말라고 했다고 적었다. [F3]
 
+2025년 헤럴드경제 기사는 AFP 통신이 한국 수험생이 수능날 미역국을 먹지 않는 이유를 미끄러운 미역을 먹으면 시험에서 미끄러질 수 있다는 미신으로 풀이했다고 전했다. [F4]
+
 # 조건
 
 2013년 Perkos 등은 운동선수가 미신 믿음과 의례를 쓰는 정도가 통제 소재와 불안에 크게 좌우된다고 적었다. [F2]
 
-2025년 Ofori 등은 영국과 가나의 학생 선수를 조사해 선수들이 스트레스 상황에서 통제하고 있다는 느낌을 얻는 대처로 미신 행동을 할 수 있다고 적었다. [F4]
+2025년 Ofori 등은 영국과 가나의 학생 선수를 조사해 선수들이 스트레스 상황에서 통제하고 있다는 느낌을 얻는 대처로 미신 행동을 할 수 있다고 적었다. [F5]
 
 # 파편
 
 - F1 [문학] "I got up and turned around in my tracks three times and crossed my breast every time; and then I tied up a little lock of my hair with a thread to keep witches away." (나는 일어나 제자리에서 세 번 돌며 돌 때마다 가슴에 성호를 그었다. 그리고 마녀를 쫓으려고 머리카락 한 타래를 실로 묶었다.) — Mark Twain, Adventures of Huckleberry Finn, 1884, https://www.gutenberg.org/cache/epub/76/pg76-images.html, 2026-10-20 접속
 - F2 [학술] "Their use is heavily affected by athletes’ locus of control and anxiety." (그것을 쓰는 정도는 선수의 통제 소재와 불안에 크게 좌우된다.) — Perkos S, Barkoukis V, Christopoulos I, "Superstitious beliefs and rituals in sport: Association with locus of control, anxiety and demographic characteristics", Inquiries in Physical Education and Sport 11(1), 2013-04-30, https://journals.lib.uth.gr/index.php/inquiries/article/view/1391, 2026-10-20 접속
 - F3 [매체] "부지런히 젓가락질을 하던 내가 한 곳에 손이 닿자 아빠가 다급하게 말했다. “먹지 마라.” 미역이었다." — 「미역이 문제였을까?」, 브런치, 2019-11-12, https://brunch.co.kr/@bteach/11, 2026-10-20 접속
-- F4 [학술] "Findings suggest that athletes may engage in superstitious behaviour as a coping mechanism and as a secondary control strategy to offer them a sense of being in control in stressful situations." (결과는 선수들이 스트레스 상황에서 통제하고 있다는 느낌을 얻기 위한 대처 기제이자 이차 통제 전략으로 미신 행동을 할 수 있음을 시사한다.) — Ofori 외, "An exploratory investigation of superstitious behaviours, coping, control strategies, and personal control in Ghanaian and British student-athletes", Culture and inclusion in sport and physical activity, Routledge, 2025-11-28, https://rke.abertay.ac.uk/en/publications/an-exploratory-investigation-of-superstitious-behaviours-coping-c-2/, 2026-10-20 접속
+- F4 [매체] "이는 미끄덩거리는 식감의 미역을 먹으면 자칫 중요한 시험에서 ‘미끄러져’ 낙방할 수도 있다는 미신 때문이라고 통신은 풀이했다." — 「“韓 수험생 미역국 안 먹는다고?” 외신도 주목한 수능날 이모저모」, 헤럴드경제, 2025-11-13, https://www.heraldk.com/article/2025111304344241415, 2026-10-20 접속
+- F5 [학술] "Findings suggest that athletes may engage in superstitious behaviour as a coping mechanism and as a secondary control strategy to offer them a sense of being in control in stressful situations." (결과는 선수들이 스트레스 상황에서 통제하고 있다는 느낌을 얻기 위한 대처 기제이자 이차 통제 전략으로 미신 행동을 할 수 있음을 시사한다.) — Ofori 외, "An exploratory investigation of superstitious behaviours, coping, control strategies, and personal control in Ghanaian and British student-athletes", Culture and inclusion in sport and physical activity, Routledge, 2025-11-28, https://rke.abertay.ac.uk/en/publications/an-exploratory-investigation-of-superstitious-behaviours-coping-c-2/, 2026-10-20 접속
 
 # 관계
 
