@@ -47,7 +47,7 @@ async function fetchOnce(url, ua, {timeout, fetchImpl}) {
     if (CHALLENGE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
     const text = extractText(body, ct)
     return text === null ? {ok: false, reason: `텍스트가 아니다 (${ct})`} : {ok: true, text}
-  } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' ? '타임아웃' : e.message} }
+  } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' || e.cause?.code === 'UND_ERR_CONNECT_TIMEOUT' ? '타임아웃' : e.message} }
 }
 
 // fetch 는 sec-fetch-mode, accept-language 같은 헤더를 덧붙여 Springer 가 UA 를 curl 로 바꿔도 Client Challenge 를 준다.
@@ -91,10 +91,12 @@ export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, fallba
 export const quoteIn = (text, quote) => normalize(text).includes(normalize(quote))
 
 // 원글이 4xx 일 때 같은 호스트의 / 도 열리지 않으면 글이 아니라 호스트가 이 환경을 막은 것이다(instiz.net, 2026-10-19).
+// 원글이 타임아웃일 때 / 도 타임아웃이면 마찬가지다(strathprints.strath.ac.uk, 2026-10-20). / 가 다른 이유(도메인 소멸 등)로 실패하면 막힌 것으로 보지 않는다.
 export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 20000} = {}) {
-  if (!/^HTTP 4\d\d$/.test(reason ?? '')) return false
+  const http4xx = /^HTTP 4\d\d$/.test(reason ?? '')
+  if (!http4xx && reason !== '타임아웃') return false
   const home = await fetchOnce(new URL('/', url).href, USER_AGENTS.at(-1), {timeout, fetchImpl})
-  return !home.ok
+  return http4xx ? !home.ok : home.reason === '타임아웃'
 }
 
 // 결과를 기록과 줄 표시에 맞춰 판정한다. 돌려주는 값: {exit: 0|1, note}

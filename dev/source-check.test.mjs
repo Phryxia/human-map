@@ -163,3 +163,21 @@ test('hostBlocked: 원글이 4xx 이고 호스트의 / 도 열리지 않으면 t
   assert.equal(await hostBlocked('https://example.com/gone', 'HTTP 404', {fetchImpl: mk({'/gone': 404})}), false)
   assert.equal(await hostBlocked('https://example.com/slow', '타임아웃', {fetchImpl: mk({'/': 403})}), false)
 })
+
+// strathprints.strath.ac.uk 는 2026-10-18 VERIFIED 였던 id/eprint/36504 를 2026-10-20 에 타임아웃으로 줬고(fetch 의 TimeoutError, 연결 단계의 UND_ERR_CONNECT_TIMEOUT 두 꼴), 홈(/)도 연결 타임아웃이었다.
+test('hostBlocked: 원글이 타임아웃이고 호스트의 / 도 타임아웃이면 true, / 가 다른 이유로 실패하면 false', async () => {
+  const timeout = () => Object.assign(new Error('The operation was aborted due to timeout'), {name: 'TimeoutError'})
+  const connectTimeout = () => Object.assign(new TypeError('fetch failed'), {cause: {code: 'UND_ERR_CONNECT_TIMEOUT'}})
+  const dead = () => Object.assign(new TypeError('fetch failed'), {cause: {code: 'ENOTFOUND'}})
+  const url = 'https://strathprints.strath.ac.uk/id/eprint/36504'
+  assert.equal(await hostBlocked(url, '타임아웃', {fetchImpl: async () => { throw connectTimeout() }}), true)
+  assert.equal(await hostBlocked(url, '타임아웃', {fetchImpl: async () => { throw timeout() }}), true)
+  assert.equal(await hostBlocked(url, '타임아웃', {fetchImpl: async () => { throw dead() }}), false)
+  assert.equal(await hostBlocked(url, 'fetch failed', {fetchImpl: async () => { throw dead() }}), false)
+})
+
+test('fetchText: 연결 단계 타임아웃도 사유를 타임아웃으로 준다', async () => {
+  const fetchImpl = async () => { throw Object.assign(new TypeError('fetch failed'), {cause: {code: 'UND_ERR_CONNECT_TIMEOUT'}}) }
+  const page = await fetchText('https://strathprints.strath.ac.uk/id/eprint/36504', {fetchImpl, fallbackImpl: fetchImpl, challengeDelay: 0})
+  assert.equal(page.reason, '타임아웃')
+})
