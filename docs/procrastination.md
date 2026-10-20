@@ -38,6 +38,7 @@
 - [세금 신고 마감 직전까지 미루기](last-minute-tax-filing.md)
 - [답장 미루기](delaying-message-replies.md)
 - [잠자리 미루기](bedtime-procrastination.md)
+- [노후 준비 미루기](delaying-retirement-saving.md)
 
 ## 원인
 
