@@ -44,7 +44,7 @@ CCTV 기록을 본 두 연구는 결과가 갈린다. 2019년 Liebst 외는 폭�
 
 ## 원인
 
-없음.
+- [다원적 무지](pluralistic-ignorance.md) [F7]
 
 ## 결과
 

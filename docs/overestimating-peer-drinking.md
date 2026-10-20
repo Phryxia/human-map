@@ -29,7 +29,7 @@ NIAAA 의 대학 음주 안내 F1 은 학생들이 대학에 오기 전부터 �
 
 ## 상위
 
-없음.
+- [다원적 무지](pluralistic-ignorance.md)
 
 ## 하위
 
