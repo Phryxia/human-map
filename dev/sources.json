@@ -239,27 +239,27 @@
   },
   "https://ko.wikisource.org/wiki/탈출기": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://strathprints.strath.ac.uk/id/eprint/36504": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
-    "result": "VERIFIED",
+    "last": "2026-10-20",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-18"
   },
   "https://sciencenordic.com/poor-kids-help-home-hide-school": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://www.redcross.fi/news/2025/survey-on-poverty-among-families-with-children-low-income-reflected-in-lack-of-food-and-clothing--good-holiday-spirit-campaign-helps-families-during-the-holidays/": {
     "first": "2026-10-17",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://www.newswire.co.kr/newsRead.php?no=231335": {
     "first": "2026-10-17",
@@ -977,9 +977,9 @@
   },
   "https://kashmirreader.com/2020/05/30/i-cannot-ask-for-help-because-i-have-never-done-so/": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://www.nhsborders.scot.nhs.uk/creating-hope/ways-to-be-well/limit-alcohol/": {
     "first": "2026-10-18",
@@ -1162,9 +1162,9 @@
   },
   "https://www.poverty.ac.uk/node/1302": {
     "first": "2026-10-18",
-    "last": "2026-10-18",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-18"
+    "lastVerified": "2026-10-20"
   },
   "https://www.segye.com/newsView/20160211000875": {
     "first": "2026-10-18",
@@ -4682,6 +4682,12 @@
     "lastVerified": "2026-10-20"
   },
   "https://brunch.co.kr/@@aeGe/72": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.gutenberg.org/cache/epub/394/pg394-images.html": {
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "VERIFIED",
