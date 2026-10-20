@@ -1,9 +1,57 @@
 {
   "version": 1,
-  "savedAt": "2026-10-19T23:04:34.240Z",
-  "nextSeq": 588,
-  "stops": 52,
+  "savedAt": "2026-10-20T01:03:21.430Z",
+  "nextSeq": 616,
+  "stops": 53,
   "items": [
+    {
+      "id": "4fb710db",
+      "title": "over-apologizing 와 사회불안 안전 행동 관계",
+      "priority": 50,
+      "note": "vice.com/en/article/apologizing-anxiety (2017-11-14): Martin Antony 'it could be conceptualized as a safety behavior' — social-anxiety-safety-behaviors 상위/관련 후보. 체호프 Love, and Other Stories(gutenberg 13414) 'I'd forgotten it, and you keep on about it!' 로 문학 파편 보강 가능",
+      "createdAt": "2026-10-20T00:52:13.607Z",
+      "seq": 607
+    },
+    {
+      "id": "a3306588",
+      "title": "pretending-to-be-busy 와 staying-late-for-boss 관계",
+      "priority": 50,
+      "note": "eweek 2025-06-02 ghostworking: 관리자는 붐비는 사무실을 생산성으로 여김, 사무실 복귀와 감시감. HN 36794740 상사가 의자에 앉은 모습을 보고 싶어함. 두 문서 상위/원인 후보, 근거 파편 필요",
+      "createdAt": "2026-10-20T00:54:05.826Z",
+      "seq": 608
+    },
+    {
+      "id": "582d71e4",
+      "title": "not-volunteering 보강: 부탁받지 않아서 봉사하지 않기",
+      "priority": 50,
+      "note": "StatCan dq150618b(2015-06-18): 아무도 부탁하지 않았다 40%(2004) → 49%(2013), 관심 없음 23% → 29%. 11-627-m2026018(2023 GSVP): 비은퇴자 시간 없음 74%, 아무도 부탁 안 함 41%. 조건 절의 시기 비교용(같은 출처 재사용 불가, 2023 자료는 다른 URL)",
+      "createdAt": "2026-10-20T00:55:15.004Z",
+      "seq": 609
+    },
+    {
+      "id": "ba1bf38e",
+      "title": "talking-to-oneself 와 loneliness 원인 간선 근거",
+      "priority": 50,
+      "note": "Brinthaupt 2019 Frontiers fpsyg.2019.01088 은 사회적 고립 가설(가설일 뿐). PMC12916616 'Further evidence for the cognitive disruption and self-talk frequency hypothesis' 에 고립과 혼잣말 빈도 결과가 있는지 확인 필요",
+      "createdAt": "2026-10-20T00:58:19.956Z",
+      "seq": 612
+    },
+    {
+      "id": "e63297c7",
+      "title": "phantom-phone-vibration 와 smartphone-checking-habit 관계",
+      "priority": 50,
+      "note": "HN 45703235(2025-10-25) 스마트폰 조건화로 유령 진동. Pisano 외 2019 PLoS ONE e0210095(10~14세 2,959명, 58.9%) 로 다른 시기·집단 보강 가능",
+      "createdAt": "2026-10-20T01:01:12.193Z",
+      "seq": 614
+    },
+    {
+      "id": "6ef78f8f",
+      "title": "earworm 보강: 노래를 찾아 듣거나 다른 소리로 돌리기",
+      "priority": 50,
+      "note": "Williamson 외 2014 PLoS ONE e86170: 가장 흔하고 효과적인 대응은 그 곡을 찾아 듣기, 음악이나 말로 주의 돌리기. HN 32078718(2022-07-13) 곡을 반복 재생해야 놓여남. 다른 시기 파편 필요",
+      "createdAt": "2026-10-20T01:02:00.987Z",
+      "seq": 615
+    },
     {
       "id": "44360713",
       "title": "메시징 의존",
@@ -739,6 +787,70 @@
       "note": "avoiding-read-receipts F3 브런치(brunch.co.kr/@longvacation/112, 2026-08-17) 같은 글 '그 의무를 피하려고 사람들은 결국 읽지 않은 척하는 기술을 익혔다' 는 빨리 답해야 한다는 압박(pressure-to-reply-quickly) → 이 현상의 원인 후보. 한 출처 한 파편이라 이 문서에는 못 씀. 다른 출처 필요. segye.com/newsView/20251005501605(카카오 몰래 읽기 기능 보도) 미열람",
       "createdAt": "2026-10-19T23:04:25.966Z",
       "seq": 587
+    },
+    {
+      "id": "383de2e6",
+      "title": "위협 지각과 사재기 (판매 제한에 줄서기)",
+      "priority": 10,
+      "note": "panic-buying F1(AFP 2011): 광저우 마트가 1인 2봉지 제한, 손님 줄서기. F3(Garbe 2020) 위협 지각이 비축을 늘림. 2023년 한국 천일염 품귀(fnnews 202306181847022495, 1인 1개 제한)로 다른 시기 파편 보강 가능",
+      "createdAt": "2026-10-20T00:34:23.737Z",
+      "seq": 602
+    },
+    {
+      "id": "26a4c361",
+      "title": "헌혈 뒤 다시 오지 않기 (헌혈 두려움과 재방문)",
+      "priority": 10,
+      "note": "avoiding-blood-donation 조사 중: PMC8645584(중국 헌혈자, 두려움 점수 높을수록 재헌혈 의도 낮음), PMC8665004(첫 헌혈자 1,479명, 채혈 두려움과 이후 헌혈 시도 감소). PMC 는 reCAPTCHA 라 다른 사본 필요",
+      "createdAt": "2026-10-20T00:37:31.540Z",
+      "seq": 603
+    },
+    {
+      "id": "451168a2",
+      "title": "새치기에 항의하기 (뒤에 선 사람이 더 항의)",
+      "priority": 10,
+      "note": "psychologyinaction.org 2014-04-29 Milgram's Other Work: 새치기한 사람 뒤에 선 사람이 앞에 선 사람보다 더 항의(자기 이익). staying-silent-at-line-cutting 과 긴장 후보. 원 논문 Milgram 외 1986 JPSP 51(4) 683, Brintzenhofe 2023 T&F OA 장(403)",
+      "createdAt": "2026-10-20T00:39:02.146Z",
+      "seq": 604
+    },
+    {
+      "id": "079603a7",
+      "title": "친구와 보내는 시간 줄어듦",
+      "priority": 10,
+      "note": "StatCan The Daily 2025-06-17(dq250617d): 하루에 친구를 만난 캐나다인 1986년 47.9% → 2022년 19.3%. 가족·친구와 시간이 부족하다는 걱정 33.7%(1992) → 46.3%(2022). feeling-rushed, loneliness 와 관련 후보",
+      "createdAt": "2026-10-20T00:45:59.368Z",
+      "seq": 605
+    },
+    {
+      "id": "99edd777",
+      "title": "자리를 양보받고 거절하기 (노인 취급에 대한 거부감)",
+      "priority": 10,
+      "note": "hangyo.com/mobile/article.html?no=16850 (2006-03-30) 학생이 자리를 양보하자 '양보받을 나이는 아닌데' 하며 사양. hesitating-to-offer-seat 의 원인 후보(F2 불쾌하게 할까 봐 두려움)",
+      "createdAt": "2026-10-20T00:48:56.301Z",
+      "seq": 606
+    },
+    {
+      "id": "57992cc7",
+      "title": "보낸 메시지를 후회하기 (보내고 나서 걱정)",
+      "priority": 10,
+      "note": "HN 60295(2007-09-27) sender's remorse, Grammarly 2019 블로그: 응답자 약 1/3 이 unsend 기능 사용. rereading-messages-before-sending 과 관련 후보",
+      "createdAt": "2026-10-20T00:56:45.828Z",
+      "seq": 610
+    },
+    {
+      "id": "189c7718",
+      "title": "높은 사람에게 길 비켜 주기",
+      "priority": 10,
+      "note": "도스토옙스키 Notes from Underground(gutenberg 600) 'continually moving aside to make way for generals, for officers of the guards and the hussars, or for ladies' 뒤 굴욕감. 비학술 외 파편 필요(보행자 양보 연구: psychologicalscience.org 2020 포스터, PMC8758047 상황 요인)",
+      "createdAt": "2026-10-20T00:57:27.248Z",
+      "seq": 611
+    },
+    {
+      "id": "b1a27cc3",
+      "title": "화상 회의에서 자기 얼굴 보기 불편함",
+      "priority": 10,
+      "note": "HN 26364880(2021-03-06): 화상 면접에서 자기 모습을 보게 되고 자기 입과 얼굴이 싫다. disliking-recorded-own-voice, aged-face-in-mirror 와 관련 후보",
+      "createdAt": "2026-10-20T01:00:15.264Z",
+      "seq": 613
     },
     {
       "id": "02b2f242",
