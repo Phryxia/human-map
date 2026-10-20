@@ -13,6 +13,21 @@ export function kindCounts(docs) {
   return c
 }
 
+// 문서 목록. 최상위 현상을 첫 상황 태그(축 태그가 아닌 첫 태그)로 묶고, 하위 현상은 상위 아래에 들여 쓴다.
+// 묶음은 줄 수가 많은 순, 상황 태그가 없는 묶음은 맨 뒤다.
+export function docList(docs) {
+  const byTitle = (a, b) => a.title.localeCompare(b.title, 'ko')
+  const tree = (d, depth, path) => [`${'  '.repeat(depth)}- [${d.title}](docs/${d.id}.md)`,
+    ...(d.rel['하위'] ?? []).map(e => docs.get(e.id)).filter(c => c && !path.has(c.id)).sort(byTitle).flatMap(c => tree(c, depth + 1, new Set([...path, c.id])))]
+  const groups = new Map()
+  for (const d of [...docs.values()].filter(d => !d.rel['상위']?.length).sort(byTitle)) {
+    const tag = d.tags.find(t => !AXES.includes(t))
+    const name = tag ? `#${tag}` : '상황 태그 없음'
+    groups.set(name, [...(groups.get(name) ?? []), ...tree(d, 0, new Set([d.id]))])
+  }
+  return [...groups].sort((a, b) => (a[0] === '상황 태그 없음') - (b[0] === '상황 태그 없음') || b[1].length - a[1].length || a[0].localeCompare(b[0], 'ko'))
+}
+
 export function buildReadme(docs, head = '') {
   const L = []
   const frags = [...docs.values()].flatMap(d => d.fragments.map(f => ({...f, doc: d.id})))
@@ -33,9 +48,11 @@ export function buildReadme(docs, head = '') {
   for (const [k, n] of [...dec].sort()) L.push(`- ${k}: ${n}`)
   const oneDecade = [...docs.values()].filter(d => d.fragments.length && new Set(d.fragments.map(f => f.date.slice(0, 3))).size === 1).length
   L.push('', `파편이 한 10년 안에만 있는 문서: ${oneDecade}`)
-  L.push('', '## 최상위 현상', '')
-  const roots = [...docs.values()].filter(d => !d.rel['상위']?.length)
-  L.push(...(roots.length ? roots.map(d => `- [${d.title}](docs/${d.id}.md)`) : ['없음.']))
+  L.push('', '## 문서 목록', '')
+  const groups = docList(docs)
+  if (!groups.length) L.push('없음.')
+  for (const [name, lines] of groups) L.push(`### ${name} (${lines.length})`, '', ...lines, '')
+  if (groups.length) L.pop()
   L.push('', '## 되먹임 (원인 그래프의 순환)', '')
   const fb = findCycles(edgeMap(docs, '결과'))
   L.push(...(fb.length ? fb.map(c => `- ${c.join(' -> ')}`) : ['없음.']))

@@ -14,3 +14,15 @@ test('집계: 문서, 종류, 깊이', () => {
   assert.ok(r.startsWith('머리말')); assert.match(r, /문서 2개/); assert.match(r, /상위 1/); assert.match(r, /깊이 1: 1/)
   assert.equal(buildReadme(docs, '머리말'), r)
 })
+
+test('문서 목록: 상황 태그로 묶고 하위 현상은 상위 아래에 들여 쓴다', () => {
+  const docs = loadAll(makeRepo({
+    a: makeDoc({title: '가', rel: {상위: ['- [나](b.md)']}, tags: '#행동 #돈'}),
+    b: makeDoc({title: '나', rel: {하위: ['- [가](a.md)']}, tags: '#감정 #돈'}),
+    c: makeDoc({title: '다', tags: '#감정 #관계'}),
+    d: makeDoc({title: '라', tags: '#행동'}),
+  }))
+  const r = buildReadme(docs, '')
+  assert.doesNotMatch(r, /최상위 현상/)
+  assert.match(r, /## 문서 목록\n\n### #돈 \(2\)\n\n- \[나\]\(docs\/b\.md\)\n  - \[가\]\(docs\/a\.md\)\n\n### #관계 \(1\)\n\n- \[다\]\(docs\/c\.md\)\n\n### 상황 태그 없음 \(1\)\n\n- \[라\]\(docs\/d\.md\)\n/)
+})
