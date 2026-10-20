@@ -37,9 +37,9 @@
   },
   "https://ko.wikisource.org/wiki/운수_좋은_날": {
     "first": "2026-10-15",
-    "last": "2026-10-17",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-17"
+    "lastVerified": "2026-10-20"
   },
   "https://ideas.repec.org/a/aea/jeclit/v55y2017i1p96-135.html": {
     "first": "2026-10-15",
@@ -4778,6 +4778,18 @@
     "lastVerified": "2026-10-20"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8520879/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/33504": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://brunch.co.kr/@darius7/48": {
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "VERIFIED",
