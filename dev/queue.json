@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T09:04:20.936Z",
-  "nextSeq": 736,
-  "stops": 60,
+  "savedAt": "2026-10-20T11:03:43.771Z",
+  "nextSeq": 749,
+  "stops": 61,
   "items": [
     {
       "id": "f8453cfe",
@@ -11,6 +11,54 @@
       "note": "2026-10-20 신설, 파편 2개(2023 Mental Floss, 2023 HN 37840563). 후보: HN item?id=17866337 (2018-08-29) 'You get to leave without having to decide who to say goodbye to' (퇴사 비유), HN 8682807 (2014-12-01) 인원수에 따라 적절성이 다르다는 조건(미확인). gutenberg 'took French leave' 문학 파편 미탐색. silent-exit 와는 다른 현상(소비자 이탈)",
       "createdAt": "2026-10-20T09:02:31.064Z",
       "seq": 734
+    },
+    {
+      "id": "4b257e69",
+      "title": "overestimating-peer-drinking 보강: 한국어 파편과 원인 간선",
+      "priority": 50,
+      "note": "2026-10-20 신설(F1 NIAAA 미상, F2 1993, F3 2005, F4 2019). 후보: accesson.kr/healthpsy/v.14/4/871/18840 (신행우 2009, 503), health.mn.gov/communities/alcohol/documents/alcoholpeers.pdf (MDH 2025-02, PDF·403) 'students overestimate how often their peers drink alcohol, which may indirectly influence students to initiate alcohol use' 과대 추정→음주 인과. hws 같은 글 'students tend to focus on the most extreme examples' 기제. 상위 후보: 다원적 무지(남들은 나와 다르게 생각한다고 믿기) 신규 문서, staying-quiet-in-groups 와 관계 후보",
+      "createdAt": "2026-10-20T10:36:41.932Z",
+      "seq": 743
+    },
+    {
+      "id": "6542b4da",
+      "title": "driving-overconfidence 보강: 과신→과속 원인 간선과 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-10-20 신설. tac.vic.gov.au/about-the-tac/media-room/news-and-events/2013-media-releases/latest-tac-data-finds-over-confidence-can-lead-to-speeding (2013-08-16, Cloudflare 차단) 'the more confidence a road user has in their driving ability, the more likely they are to take unnecessary risks' → speeding 원인 후보. EC ERSO young-drivers_en 'Young drivers tend to overestimate their ability to control a vehicle under emergency conditions.' 같은 EC novice-drivers 글은 F3. 한국 공공(도로교통공단, 교통안전공단) 파편 미발견",
+      "createdAt": "2026-10-20T10:41:13.186Z",
+      "seq": 744
+    },
+    {
+      "id": "811a41b7",
+      "title": "reusing-leftover-medicine 관계: stopping-medication-when-feeling-better 결과 간선",
+      "priority": 50,
+      "note": "2026-10-20 신설. 중간에 끊어서 약이 남는다는 인과 문장 필요. kormedi.com/1196451 (2010-02-18) 식약청 조사 '61.0%는 항생제 복용 중 증상이 나아지면 남은 항생제를 먹지 않겠다고' (인과 아님). mt.co.kr 같은 글(F3) '모아둔 항생제를 권하기도 한다' 가족에게 나눠 주기 조건 후보. PMC11607477 (2024 사우디) 'store excess pills of antibiotics ... reuse them later' 조건 후보",
+      "createdAt": "2026-10-20T10:46:03.963Z",
+      "seq": 745
+    },
+    {
+      "id": "8e2adcae",
+      "title": "unrealistic-optimism 보강: 원인·결과 간선과 다른 시기 파편",
+      "priority": 50,
+      "note": "2026-10-20 신설(2015 학술, 2022 공공, 2026 매체). F3(brazosriverauthority 2026) '나에게는 일어나지 않을 것이라 생각해서 대비하지 않는다' → 비상 대비 안 하기 신규 현상 또는 ignoring-emergency-alerts·delayed-evacuation 결과 간선 후보(상대 문서 파편 필요). PMC4467896 같은 글 'Yet area home owners estimated only a 27% chance that their own home would have a radon problem' 수치 후보. driving-overconfidence 와 상위·관계 후보. Weinstein 1980 이전 파편 필요",
+      "createdAt": "2026-10-20T10:57:55.493Z",
+      "seq": 746
+    },
+    {
+      "id": "42ed728a",
+      "title": "spotlight-effect 보강: 공공·SNS 파편, fear-of-negative-evaluation·blushing 관계",
+      "priority": 50,
+      "note": "2026-10-20 신설(2021, 2025 학술, 2025 매체). 후보: inews365 885468 같은 글 티셔츠 실험 '고작 23%' 수치, PubMed 10707330 Gilovich 2000 (쿠키 벽), psychiatricnews.net idxno=34678 (2023-08-12, 본문 추출 실패). 온라인 수업 카메라 끄기(PMC8057329)와 관계 후보",
+      "createdAt": "2026-10-20T11:03:32.903Z",
+      "seq": 747
+    },
+    {
+      "id": "03c50056",
+      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-10-20 신설. 해경(남해해경청 110명 중 97명, 부산해경) 수치는 기사에만. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22 행안부 실장 인터뷰) '구명조끼를 착용하지 않은 채 ... 90% 이상' 후보. bicycle-helmet-nonuse·rear-seat-belt-nonuse 와 공통 상위(안전장비 안 쓰기) 후보",
+      "createdAt": "2026-10-20T11:03:33.027Z",
+      "seq": 748
     },
     {
       "id": "32d7f1c9",
