@@ -4221,9 +4221,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1400/pg1400-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-19",
+    "last": "2026-10-20",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-19"
+    "lastVerified": "2026-10-20"
   },
   "https://www.opinium.com/avoiding-awkward-situations/": {
     "first": "2026-10-19",
@@ -5323,6 +5323,12 @@
     "lastVerified": "2026-10-20"
   },
   "https://news.ycombinator.com/item?id=15590814": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.ytn.co.kr/_ln/0134_202410220943053493": {
     "first": "2026-10-20",
     "last": "2026-10-20",
     "result": "VERIFIED",
