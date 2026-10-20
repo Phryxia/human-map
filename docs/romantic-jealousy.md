@@ -14,12 +14,15 @@
 
 2020년 Pollet 와 Saxton 의 메타분석에서 경쟁자의 매력이 일으키는 질투에는 작고 유의한 성별 효과가 있었고 경쟁자의 지배성에는 그런 반응이 없었다. [F4]
 
+2026년 PsyPost 기사가 전한 실험에서 남녀 모두 연인이 다른 사람에게 자원을 내주는 일을 심각한 관계 위협으로 여겼다. [F5]
+
 # 파편
 
 - F1 [문학] "Trifles light as air Are to the jealous confirmations strong As proofs of holy writ." (공기처럼 가벼운 사소한 일도 질투하는 자에게는 성서의 증거만큼 강한 확증이다.) — William Shakespeare, "Othello, the Moor of Venice", Project Gutenberg, 1622, https://www.gutenberg.org/cache/epub/1531/pg1531-images.html, 2026-10-20 접속
 - F2 [문학] "Given that, everything that Odette might say appeared to him suspect." (그렇게 되자 오데트가 할지 모르는 모든 말이 그에게 의심스러워 보였다.) — Marcel Proust, "Swann's Way", C. K. Scott-Moncrieff 옮김, Project Gutenberg, 1922, https://www.gutenberg.org/cache/epub/7178/pg7178-images.html, 2026-10-20 접속
 - F3 [학술] "The intensity of romantic jealousy was related to the intensity of romantic happiness, which mainly correlated with ventral medial prefrontal cortex activation." (연애 질투의 강도는 연애 행복의 강도와 관련되었고, 연애 행복은 주로 복내측 전전두피질 활성과 상관되었다.) — Yan Sun, Hongbo Yu, Jie Chen, Jie Liang, Lin Lu, Xiaolin Zhou, "Neural substrates and behavioral profiles of romantic jealousy and its temporal dynamics", Scientific Reports, 2016-06-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC4895349/, 2026-10-20 접속
 - F4 [학술] "These meta-analyses showed a small, significant effect of gender on jealousy provoked by rival attractiveness, but no such response to rival dominance." (이 메타분석들은 경쟁자의 매력이 일으키는 질투에 성별의 작고 유의한 효과가 있지만 경쟁자의 지배성에는 그런 반응이 없음을 보여 주었다.) — Thomas V. Pollet, Tamsin K. Saxton, "Jealousy as a Function of Rival Characteristics: Two Large Replication Studies and Meta-Analyses Support Gender Differences in Reactions to Rival Attractiveness But Not Dominance", Personality and Social Psychology Bulletin, 2020-03-10, https://pmc.ncbi.nlm.nih.gov/articles/PMC7493204/, 2026-10-20 접속
+- F5 [매체] "The findings provide evidence that giving away resources is viewed as a serious relationship threat by both men and women." (연구 결과는 자원을 내주는 일이 남녀 모두에게 심각한 관계 위협으로 여겨진다는 증거를 보여 준다.) — Eric W. Dolan, "Both men and women view a partner’s financial investment in a rival as a major relationship threat", PsyPost, 2026-05-03, https://www.psypost.org/both-men-and-women-view-a-partners-financial-investment-in-a-rival-as-a-major-relationship-threat/, 2026-10-20 접속
 
 # 관계
 
