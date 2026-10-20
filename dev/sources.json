@@ -5046,5 +5046,22 @@
     "last": "2026-10-20",
     "result": "VERIFIED",
     "lastVerified": "2026-10-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3515357/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.pressian.com/pages/articles/41068": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612776/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "UNREACHABLE"
   }
 }
