@@ -4476,5 +4476,17 @@
     "last": "2026-10-20",
     "result": "VERIFIED",
     "lastVerified": "2026-10-20"
+  },
+  "https://www.gutenberg.org/cache/epub/308/pg308-images.html": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.712703/full": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
   }
 }
