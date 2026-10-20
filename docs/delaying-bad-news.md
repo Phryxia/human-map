@@ -40,6 +40,7 @@
 ## 하위
 
 - [진료 회피](medical-care-avoidance.md)
+- [우편물 뜯지 않기](leaving-mail-unopened.md)
 
 ## 원인
 
