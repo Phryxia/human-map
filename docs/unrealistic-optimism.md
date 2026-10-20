@@ -1,0 +1,45 @@
+# 낙관 편향
+
+별칭: 비현실적 낙관주의, Unrealistic optimism, Optimism bias, 나는 괜찮을 거라는 생각
+
+사람이 사고나 병 같은 나쁜 일이 남보다 자신에게 덜 일어난다고 믿는다.
+
+# 서술
+
+2022년 한국소방산업기술원 웹진 F2 는 위험을 감지하고도 사고가 일어나지 않을 것이다, 나는 괜찮을 것이다 하며 안심하는 것을 안전불감증이라 부른다. [F2]
+
+2026년 브라조스강 관리청 팟캐스트 F3 의 화자는 사람들이 나에게는 일어나지 않을 것이라고 생각해서 비상사태에 대비하지 않는다고 말한다. [F3]
+
+# 조건
+
+2015년 Shepperd 등은 사람들이 자기 힘으로 어쩔 수 없다고 여기는 일에서는 비현실적 낙관을 덜 보인다고 쓴다. [F1]
+
+# 파편
+
+- F1 [학술] "In addition, people are less likely to display unrealistic optimism for events that they perceive to be beyond their control (Klein & Helweg-Larsen, 2002)." (또한 사람들은 자기 통제 밖이라고 여기는 사건에 대해서는 비현실적 낙관을 덜 보인다.) — James A. Shepperd, Erika A. Waters, Neil D. Weinstein, William M. P. Klein, "A Primer on Unrealistic Optimism", Current Directions in Psychological Science, 2015-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC4467896/, 2026-10-20 접속
+- F2 [공공] "안전불감증은 위험을 감지해도 '사고가 발생하진 않을꺼야' 혹은 '나는 괜찮을 거야' 하며, 안심하는 것을 말합니다." — 한국소방산업기술원, 소방안전 웹진 VOL.23, 2022-12, https://www.kfsi.or.kr/contents/webzine/202212/sub04-02.html, 2026-10-20 접속
+- F3 [매체] "We don't prepare for emergencies because we think it won't be me. The percentage is too low. The occurrence is not frequent enough. So, we don't prepare." (우리는 나에게는 일어나지 않을 거라고 생각해서 비상사태에 대비하지 않는다. 확률이 너무 낮고 자주 일어나지 않는다. 그래서 대비하지 않는다.) — Brazos River Authority, "Why your fire extinguisher is in the wrong place", Unpacking the Brazos River 팟캐스트 녹취록, 2026-01-01, https://brazosriverauthority.transistor.fm/s1/10/transcript, 2026-10-20 접속
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 긴장
+
+없음.
+
+#사고
