@@ -48,7 +48,7 @@
 
 ## 결과
 
-- [아이리시 굿바이](irish-goodbye.md) [F8]
+- [인사 없이 모임 자리 뜨기](irish-goodbye.md) [F8]
 
 ## 긴장
 

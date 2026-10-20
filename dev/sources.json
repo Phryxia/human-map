@@ -5741,5 +5741,23 @@
     "last": "2026-10-20",
     "result": "VERIFIED",
     "lastVerified": "2026-10-20"
+  },
+  "https://www.merriam-webster.com/dictionary/French%20leave": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://languagelog.ldc.upenn.edu/nll/?p=33529": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.babbel.com/en/magazine/irish-goodbye": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
   }
 }
