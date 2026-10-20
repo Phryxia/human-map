@@ -4848,5 +4848,17 @@
     "last": "2026-10-20",
     "result": "VERIFIED",
     "lastVerified": "2026-10-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC1730748/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
+  },
+  "https://www.dailian.co.kr/news/view/1036975/": {
+    "first": "2026-10-20",
+    "last": "2026-10-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-20"
   }
 }
