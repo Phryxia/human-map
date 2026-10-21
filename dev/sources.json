@@ -5432,27 +5432,27 @@
   },
   "https://wwwnc.cdc.gov/eid/article/12/10/05-1471_article": {
     "first": "2026-10-20",
-    "last": "2026-10-20",
+    "last": "2026-10-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-20"
+    "lastVerified": "2026-10-21"
   },
   "https://www.who.int/europe/news/item/21-11-2022-1-in-3-use-antibiotics-without-prescription--who-europe-s-study-shows": {
     "first": "2026-10-20",
-    "last": "2026-10-20",
+    "last": "2026-10-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-20"
+    "lastVerified": "2026-10-21"
   },
   "https://www.mt.co.kr/thebio/2023/10/23/2023102315080049470": {
     "first": "2026-10-20",
-    "last": "2026-10-20",
+    "last": "2026-10-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-20"
+    "lastVerified": "2026-10-21"
   },
   "https://doctornow.co.kr/content/qna/6eeb596d1ab74827bc1ae90733fa1dcd": {
     "first": "2026-10-20",
-    "last": "2026-10-20",
+    "last": "2026-10-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-20"
+    "lastVerified": "2026-10-21"
   },
   "https://www.gutenberg.org/cache/epub/1597/pg1597-images.html": {
     "first": "2026-10-20",
@@ -5606,9 +5606,9 @@
   },
   "https://pids.org/2023/11/22/in-the-news-leftover-antibiotics-major-barrier-to-antimicrobial-stewardship/": {
     "first": "2026-10-20",
-    "last": "2026-10-20",
+    "last": "2026-10-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-20"
+    "lastVerified": "2026-10-21"
   },
   "https://link.springer.com/article/10.1007/BF00845372": {
     "first": "2026-10-20",
@@ -5827,6 +5827,12 @@
     "lastVerified": "2026-10-21"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13472532/": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.healio.com/news/infectious-disease/20231108/leftover-antibiotics-major-barrier-to-antimicrobial-stewardship": {
     "first": "2026-10-21",
     "last": "2026-10-21",
     "result": "VERIFIED",
