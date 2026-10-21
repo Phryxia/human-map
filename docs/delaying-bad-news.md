@@ -50,7 +50,7 @@
 
 - [답장 미루기](delaying-message-replies.md) [F3]
 
-## 긴장
+## 대립
 
 - [불확실한 소식을 기다리는 불안](awaiting-uncertain-news.md) [F5]
 

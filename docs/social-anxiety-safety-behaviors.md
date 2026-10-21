@@ -37,7 +37,7 @@
 
 - [대화 뒤 되짚기](replaying-conversations-afterward.md)
 
-## 긴장
+## 대립
 
 없음.
 

@@ -45,7 +45,7 @@
 
 - [은둔형 외톨이](social-withdrawal-at-home.md) [F4]
 
-## 긴장
+## 대립
 
 없음.
 

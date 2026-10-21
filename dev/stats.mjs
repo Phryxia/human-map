@@ -20,7 +20,7 @@ export function buildReadme(docs, head = '', groups = []) {
   const count = rel => [...docs.values()].reduce((n, d) => n + (d.rel[rel]?.length ?? 0), 0)
   L.push(head.replace(/\n+$/, ''), '', '# 집계', '')
   L.push(`- 문서 ${docs.size}개`)
-  L.push(`- 간선: 상위 ${count('상위')}, 원인 ${count('원인')}, 긴장 ${count('긴장') / 2}`)
+  L.push(`- 간선: 상위 ${count('상위')}, 원인 ${count('원인')}, 대립 ${count('대립') / 2}`)
   L.push('', '## 축 태그별 문서 수', '')
   for (const a of AXES) L.push(`- ${a}: ${[...docs.values()].filter(d => d.tags.includes(a)).length}`)
   L.push('', '## 파편 종류', '')

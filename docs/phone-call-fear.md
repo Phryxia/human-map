@@ -49,7 +49,7 @@
 - [할 말 미리 연습하기](rehearsing-what-to-say.md) [F3]
 - [모르는 번호의 전화 받지 않기](not-answering-unknown-numbers.md) [F5]
 
-## 긴장
+## 대립
 
 없음.
 

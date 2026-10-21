@@ -40,7 +40,7 @@
 
 - [운전 중 휴대전화 사용](phone-use-while-driving.md) [F2]
 
-## 긴장
+## 대립
 
 없음.
 

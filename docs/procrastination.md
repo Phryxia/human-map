@@ -49,7 +49,7 @@
 - [상습 지각](chronic-lateness.md) [F4]
 - [잠자리 미루기](bedtime-procrastination.md) [F6]
 
-## 긴장
+## 대립
 
 없음.
 

@@ -49,7 +49,7 @@
 
 - [처분 효과](disposition-effect.md) [F1]
 
-## 긴장
+## 대립
 
 없음.
 

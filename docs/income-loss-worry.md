@@ -44,7 +44,7 @@
 
 - [아파도 출근하기](sickness-presenteeism.md) [F1] [F2] [F3]
 
-## 긴장
+## 대립
 
 없음.
 

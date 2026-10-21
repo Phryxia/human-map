@@ -43,7 +43,7 @@
 
 - [분리배출 하지 않기](not-sorting-recyclables.md) [F2]
 
-## 긴장
+## 대립
 
 없음.
 

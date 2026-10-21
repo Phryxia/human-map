@@ -40,7 +40,7 @@
 
 없음.
 
-## 긴장
+## 대립
 
 - [돌아온 고향의 낯섦](returning-home-feels-strange.md) [F2]
 

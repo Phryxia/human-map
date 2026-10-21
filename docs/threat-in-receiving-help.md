@@ -47,7 +47,7 @@
 
 - [도움 요청 회피](help-seeking-avoidance.md) [F4]
 
-## 긴장
+## 대립
 
 없음.
 

@@ -55,7 +55,7 @@
 - [도움받을 때의 자존감 위협](threat-in-receiving-help.md)
 - [감사 선물](thank-you-gift.md) [F7]
 
-## 긴장
+## 대립
 
 없음.
 

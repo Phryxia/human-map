@@ -53,7 +53,7 @@
 - [사회적 상황 앞의 예기불안](anticipatory-social-anxiety.md) [F3]
 - [생각 때문에 잠 못 이루기](lying-awake-thinking.md) [F5]
 
-## 긴장
+## 대립
 
 없음.
 

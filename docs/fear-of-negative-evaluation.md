@@ -47,7 +47,7 @@
 - [수줍은 방광](shy-bladder.md)
 - [거절하지 못하기](difficulty-saying-no.md)
 
-## 긴장
+## 대립
 
 없음.
 

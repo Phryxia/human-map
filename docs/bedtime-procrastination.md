@@ -48,7 +48,7 @@
 
 - [미루기](procrastination.md) [F6]
 
-## 긴장
+## 대립
 
 없음.
 

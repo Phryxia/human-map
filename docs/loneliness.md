@@ -51,7 +51,7 @@
 - [향수](homesickness.md) [F5]
 - [은둔형 외톨이](social-withdrawal-at-home.md) [F7]
 
-## 긴장
+## 대립
 
 없음.
 

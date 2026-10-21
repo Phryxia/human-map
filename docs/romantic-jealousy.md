@@ -46,7 +46,7 @@
 
 - [연인의 휴대폰 몰래 보기](snooping-on-partners-phone.md)
 
-## 긴장
+## 대립
 
 없음.
 

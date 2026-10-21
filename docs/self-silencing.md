@@ -50,7 +50,7 @@
 
 - [참아 온 불만의 폭발](suppressed-anger-outburst.md) [F1]
 
-## 긴장
+## 대립
 
 없음.
 

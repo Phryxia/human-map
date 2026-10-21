@@ -40,7 +40,7 @@
 
 - [구직 단념](giving-up-job-search.md) [F2]
 
-## 긴장
+## 대립
 
 없음.
 

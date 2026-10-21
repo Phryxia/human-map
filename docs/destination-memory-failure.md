@@ -40,7 +40,7 @@
 
 - [같은 이야기 되풀이](retelling-same-story.md) [F1][F3]
 
-## 긴장
+## 대립
 
 없음.
 

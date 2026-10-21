@@ -44,7 +44,7 @@
 - [방관자 효과](bystander-effect.md) [F2]
 - [모인 자리에서 말하지 않기](staying-quiet-in-groups.md) [F4]
 
-## 긴장
+## 대립
 
 없음.
 

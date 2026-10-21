@@ -40,7 +40,7 @@
 
 - [상습 지각](chronic-lateness.md)
 
-## 긴장
+## 대립
 
 없음.
 

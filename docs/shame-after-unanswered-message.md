@@ -41,7 +41,7 @@
 
 - [답장 미루기](delaying-message-replies.md) [F4]
 
-## 긴장
+## 대립
 
 없음.
 

@@ -51,7 +51,7 @@ Merriam-Webster 사전은 French leave 의 어원을 손님이 주인에게 인�
 
 없음.
 
-## 긴장
+## 대립
 
 없음.
 

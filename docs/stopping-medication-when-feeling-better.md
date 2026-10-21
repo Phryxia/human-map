@@ -47,7 +47,7 @@
 
 - [남은 약 다시 먹기](reusing-leftover-medicine.md) [F6]
 
-## 긴장
+## 대립
 
 없음.
 
