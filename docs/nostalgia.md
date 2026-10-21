@@ -8,7 +8,7 @@
 
 1847년 테니슨의 시[^1]에서 화자는 가을 들판을 바라보며 다시 오지 않는 날들을 생각하다 눈물이 차오른다.
 
-2024년 Cao 의 글[^5]은 노스탤지어가 씁쓸한 까닭으로 그 대상을 영영 잃었고 당시에도 모순과 실망이 섞여 있었다는 점을 든다.
+2024년 Cao 의 글[^5]은 노스탤지어가 씁쓸한 까닭으로 그 대상을 영영 잃었고 당시에도 모순과 실망이 섞여 있었다는 점을 든다. 2026년 Tsigeman 등의 글[^6]은 이론과 경험 연구가 노스탤지어를 따뜻함과 사회적 연결감에 그리움이나 상실이 함께 섞인 달콤씁쓸한 경험으로 그린다고 적는다.
 
 # 조건
 
@@ -45,3 +45,4 @@
 [^3]: [매체] "For four in 10 Americans, it's music. Music ranked first as the thing that makes people the most nostalgic, ahead of a place they've been before, and far ahead of both food and clothing." (미국인 10명 중 4명에게 그것은 음악이다. 음악은 사람들을 가장 노스탤지어에 젖게 하는 것 1위로, 전에 가 본 장소를 앞섰고 음식과 옷을 크게 앞섰다.) — Fred Backus, "Americans see themselves as looking to the future, not the past, CBS News poll finds", CBS News, 2021-05-07, https://www.cbsnews.com/news/poll-future-past-looking-nostalgia/, 2026-10-21 접속
 [^4]: [학술] "That is, the lack of social contact made people more likely to experience loneliness, and those who experienced higher levels of loneliness were more likely to listen to nostalgic songs." (즉 사회적 접촉의 부족은 사람들이 외로움을 겪을 가능성을 높였고, 외로움을 더 크게 겪은 사람일수록 옛 노래를 들을 가능성이 컸다.) — Kuan-Ju Huang, Ya-Hui Chang, Mark J. Landau, "Pandemic Nostalgia: Reduced Social Contact Predicts Consumption of Nostalgic Music During the COVID-19 Pandemic", Social Psychological and Personality Science, 2023-01-18, https://pmc.ncbi.nlm.nih.gov/articles/PMC9892812/, 2026-10-21 접속
 [^5]: [학술] "However, it is also bitter because the object of nostalgia is forever lost, and even in its original context, it was fraught with contradictions and disappointments." (그러나 노스탤지어는 씁쓸하기도 하다. 그 대상은 영영 잃은 것이고 원래 맥락에서도 모순과 실망으로 가득했기 때문이다.) — Shurong Cao, "Emotion and cognition: on the cognitive processing model of nostalgia", Frontiers in Psychology, 2024-09-18, https://pmc.ncbi.nlm.nih.gov/articles/PMC11447693/, 2026-10-21 접속
+[^6]: [학술] "Theoretical and empirical work consistently characterize it as a bittersweet experience, simultaneously blending warmth and social connectedness with longing or loss (Wildschut et al., 2006)." (이론과 경험 연구는 일관되게 노스탤지어를 따뜻함과 사회적 연결감을 그리움이나 상실과 동시에 섞는 달콤씁쓸한 경험으로 그린다.) — Elina S. Tsigeman, Andrei Y. Sivov, Larisa V. Mararitsa, Maxim V. Likhanov, Ksenia V. Bartseva, Evgenia A. Alenina, Elena L. Soldatova, "Experimental Testing of the Affective Consequences of Nostalgia", Psychology in Russia, 2026-03-01, https://pmc.ncbi.nlm.nih.gov/articles/PMC13196901/, 2026-10-21 접속
