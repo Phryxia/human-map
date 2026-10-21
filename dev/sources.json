@@ -5759,5 +5759,41 @@
     "last": "2026-10-20",
     "result": "VERIFIED",
     "lastVerified": "2026-10-20"
+  },
+  "https://fr.wikisource.org/wiki/Paradoxe_sur_le_com%C3%A9dien": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.gutenberg.org/cache/epub/1026/pg1026.txt": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.gutenberg.org/cache/epub/1845/pg1845.txt": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.thelocal.fr/20200722/french-expression-of-the-day-esprit-de-lescalier": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.crozetgazette.com/2020/08/08/staircase-mind-and-related-mental-states/": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://brunch.co.kr/@291/132": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
   }
 }
