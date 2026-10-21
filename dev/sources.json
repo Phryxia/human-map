@@ -4438,7 +4438,7 @@
   "https://www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm": {
     "first": "2026-10-20",
     "last": "2026-10-21",
-    "result": "VERIFIED",
+    "result": "NOT_FOUND",
     "lastVerified": "2026-10-21"
   },
   "https://news.ycombinator.com/item?id=42672920": {
@@ -5881,6 +5881,36 @@
     "lastVerified": "2026-10-21"
   },
   "https://pann.nate.com/talk/372578594": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.unsw.edu.au/newsroom/news/2022/05/when-roads-become-rivers--forming-a-plan-b-can-stop-people-drivi": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.weather.gov/safety/flood-turn-around-dont-drown": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.cdc.gov/Mmwr/preview/mmwrhtml/mm4907a1.htm": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://ehps.net/ehp/index.php/contents/article/view/1894": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.wbrc.com/story/35998627/why-do-people-keep-driving-through-flood-waters": {
     "first": "2026-10-21",
     "last": "2026-10-21",
     "result": "VERIFIED",
