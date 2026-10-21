@@ -47,7 +47,7 @@ async function fetchOnce(url, ua, {timeout, fetchImpl}) {
     if (CHALLENGE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
     const text = extractText(body, ct)
     return text === null ? {ok: false, reason: `텍스트가 아니다 (${ct})`} : {ok: true, text}
-  } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' || e.cause?.code === 'UND_ERR_CONNECT_TIMEOUT' ? '타임아웃' : e.message} }
+  } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' || e.cause?.code === 'UND_ERR_CONNECT_TIMEOUT' ? '타임아웃' : e.cause?.code ? `${e.message} (${e.cause.code})` : e.message} }
 }
 
 // fetch 는 sec-fetch-mode, accept-language 같은 헤더를 덧붙여 Springer 가 UA 를 curl 로 바꿔도 Client Challenge 를 준다.

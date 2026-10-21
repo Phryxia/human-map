@@ -205,3 +205,10 @@ test('recheckText: VERIFIED 기록이 있던 파편이 한 번 실패하면 쉬�
   const once = seq([ok, ok])
   await recheckText('https://example.com/ok', {quote, wasVerified: true, fetchText: once.fetch, delay: 0}); assert.equal(once.calls.length, 1)
 })
+
+// scholarworks.umass.edu 는 2026-10-21 같은 글을 타임아웃과 'fetch failed' 로 번갈아 줬고, 'fetch failed' 의 원인을 기록하지 않아 분류를 고칠 수 없었다.
+test('fetchText 는 fetch failed 의 원인 코드를 reason 에 붙인다', async () => {
+  const fetchImpl = async () => { throw Object.assign(new TypeError('fetch failed'), {cause: {code: 'UND_ERR_SOCKET'}}) }
+  const page = await fetchText('https://example.org/a', {fetchImpl, fallbackImpl: fetchImpl})
+  assert.equal(page.reason, 'fetch failed (UND_ERR_SOCKET)')
+})

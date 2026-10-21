@@ -251,7 +251,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 
 - 인자는 `<id>`, `--all`, `--changed`(마지막 커밋 이후 바뀐 문서), `--stale <일수>`(마지막 확인이 그 일수보다 오래된 파편). 각 파편의 URL 을 fetch 하고 HTML 이면 텍스트를 추출한 뒤(블록 태그 P, BR, DIV, LI 등의 경계에는 공백을 넣는다. 목록은 `dev/lib/source.mjs` 상단 배열) 공백·따옴표·대시 종류를 정규화해 원문이 그 안에 부분 문자열로 있는지 본다.
 - 응답 본문은 바이트로 받아 Content-Type 의 charset, 없으면 본문 앞부분의 `<meta charset>` 으로 디코딩한다(둘 다 없으면 UTF-8). 네이트 뉴스처럼 EUC-KR 로 오는 페이지가 있기 때문이다.
-- 결과는 파편마다 VERIFIED, NOT_FOUND(200 이지만 원문이 없음), UNREACHABLE(4xx, 5xx, 타임아웃, 로그인 벽, PDF 처럼 텍스트를 못 뽑음) 셋 중 하나다.
+- 결과는 파편마다 VERIFIED, NOT_FOUND(200 이지만 원문이 없음), UNREACHABLE(4xx, 5xx, 타임아웃, 로그인 벽, PDF 처럼 텍스트를 못 뽑음) 셋 중 하나다. fetch 가 원인 코드(`cause.code`)를 붙인 오류로 실패하면 사유 뒤에 그 코드를 괄호로 붙여 출력한다(예: `fetch failed (UND_ERR_SOCKET)`).
 - `dev/sources.json` 에 URL 별로 첫 확인일, 마지막 확인일, 마지막 결과를 기록한다. `--changed` 와 `--stale` 은 이 기록으로 재확인 범위를 정한다.
 - 기록에 VERIFIED 가 있던 파편(소멸 표시가 없는 것)의 첫 응답에 원문이 없으면 10초 쉬고 한 번 더 받아 그 응답으로 판정한다. PMC 와 mediahub.seoul.go.kr 이 VERIFIED 였던 글을 한 번씩 403 이나 fetch failed 로 줬다가 다음 실행에 다시 주기 때문이다.
 - 판정. 처음 보는 파편이 NOT_FOUND 면 종료코드 1(전사나 출처가 틀림). 처음 보는 파편이 UNREACHABLE 이면 줄에 `(미확인)` 이 없을 때만 종료코드 1. 기록에 VERIFIED 가 있던 파편이 NOT_FOUND 나 UNREACHABLE 이 되면 출처가 바뀌거나 사라진 것이므로 줄 끝을 `(소멸, <마지막 VERIFIED 일> 까지 확인)` 으로 바꾸라고 출력하고 종료코드 1. 표시를 바꾼 뒤에는 통과한다. 다만 UNREACHABLE 이 4xx 이고 같은 호스트의 `/` 도 열리지 않으면 글이 아니라 호스트가 이 환경을 막은 것이므로 소멸로 보지 않고 `호스트 전체가 막혀 있다` 를 출력하며 통과한다(instiz.net 이 홈부터 403 을 준다). UNREACHABLE 이 타임아웃(연결 단계 타임아웃 포함)이고 같은 호스트의 `/` 도 타임아웃이면 같게 본다(strathprints.strath.ac.uk 가 홈부터 연결 타임아웃이다). `/` 가 타임아웃이 아닌 다른 이유로 실패하면 이 예외를 쓰지 않는다. `(미확인)` 이 붙은 파편이 VERIFIED 가 되면 표시를 떼라고 출력한다.
