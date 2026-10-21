@@ -30,6 +30,7 @@
 - [답장 미루기](delaying-message-replies.md)
 - [잠자리 미루기](bedtime-procrastination.md)
 - [노후 준비 미루기](delaying-retirement-saving.md)
+- [유언장 작성 미루기](delaying-will-writing.md)
 
 ## 원인
 

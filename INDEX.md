@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 215개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 216개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -152,6 +152,7 @@
 - [울리지 않은 휴대전화 진동 느끼기](docs/phantom-phone-vibration.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
+- [유언장 작성 미루기](docs/delaying-will-writing.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [은둔형 외톨이](docs/social-withdrawal-at-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [의례적 사양](docs/ritual-refusal.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [의무 해제 뒤에도 마스크 쓰기](docs/keeping-mask-after-mandate.md) ([건강과 위험](groups/health-and-safety.md))
