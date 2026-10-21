@@ -2,7 +2,7 @@
 
 사람이 혼자 지내거나 사람과 장소를 잃고 떠난 뒤 느끼고 하는 일이다.
 
-문서 11개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 12개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [거울 속 늙은 얼굴의 낯섦](../docs/aged-face-in-mirror.md) 사람이 거울에 비친 자기 얼굴을 보고 스스로 느끼는 나이보다 늙었다고 여기며 낯설어한다.
 - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md) 가까운 사람을 잃은 사람이 고인이 쓰던 물건과 방을 버리거나 정리하지 않고 그대로 둔다.
@@ -12,6 +12,7 @@
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
 - [은둔형 외톨이](../docs/social-withdrawal-at-home.md) 대인관계의 어려움을 포함한 여러 이유로 사람이 다른 사람과의 관계를 끊고 집에 머문다.
+- [집에 없는 척하기](../docs/pretending-not-to-be-home.md) 집에 있는 사람이 초인종이나 노크를 듣고도 문을 열지 않고 집에 없는 척한다.
 - [향수](../docs/homesickness.md) 고향을 떠난 사람이 두고 온 집과 풍경과 가족을 그리워한다.
 - [혼자 먹는 식사의 감정](../docs/eating-alone-feelings.md) 혼자 식사하는 사람은 쓸쓸함이나 함께 먹는 자리에 대한 그리움을 느끼기도 하고 여유나 자유를 느끼기도 한다.
 - [혼잣말](../docs/talking-to-oneself.md) 혼자 있거나 생각에 잠긴 사람이 자기 자신에게 소리 내어 말한다.

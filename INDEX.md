@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 211개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 212개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -185,6 +185,7 @@
 - [진료 회피](docs/medical-care-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [짐이 되기 싫은 마음](docs/self-perceived-burden.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [집에 없는 척하기](docs/pretending-not-to-be-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [집이 부끄러워 손님 들이지 않기](docs/avoiding-inviting-people-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [징크스 지키기](docs/superstitious-rituals.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [참아 온 불만의 폭발](docs/suppressed-anger-outburst.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
