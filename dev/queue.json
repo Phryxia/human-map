@@ -1,24 +1,40 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T21:06:48.073Z",
-  "nextSeq": 875,
-  "stops": 71,
+  "savedAt": "2026-10-21T23:02:15.569Z",
+  "nextSeq": 904,
+  "stops": 72,
   "items": [
     {
-      "id": "f7918ec3",
+      "id": "9f3c5792",
       "title": "feeling-rushed: statcan [^5] 재확인",
       "priority": 100,
-      "note": "2026-10-21 18:40Z www150.statcan.gc.ca 가 두 UA 모두 200 점검 페이지(website is currently unavailable). source-check 가 UNREACHABLE(점검 페이지)로 소멸 표시를 요구하나 같은 날 앞선 실행은 VERIFIED. 사이트 점검이 끝난 뒤 다시 돌리고, 그때도 원문이 없으면 소멸 표시",
-      "createdAt": "2026-10-21T18:34:41.127Z",
-      "seq": 857
+      "note": "2026-10-21 18:40Z, 22:35Z 두 차례 www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). 같은 날 앞선 실행은 VERIFIED. 점검이 끝난 뒤 다시 돌리고, 그때도 원문이 없으면 소멸 표시",
+      "createdAt": "2026-10-21T22:32:27.568Z",
+      "seq": 892
     },
     {
-      "id": "ad4b1372",
-      "title": "leaving-mail-unopened 보강: 원인 간선(빚, 돈 불안)과 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-10-21: 돈 불안을 다루는 문서가 없다(find 불안, 돈). onefamily F4 의 '36% ... feel anxious at the thought of checking them' 은 같은 URL 이라 못 씀. 원인 간선은 '돈 걱정/재정 불안' 신규 문서가 먼저. 이전 후보: link.springer.com/10.1007/978-3-319-57568-1_7 (Custers 2017, avoiding-creditors F3) 'not opening letters' — avoiding-creditors 와 관계 후보. gall.dcinside.com cs_new1 8892409 (2026-08-05) 전기세 고지서",
-      "createdAt": "2026-10-21T08:55:31.013Z",
-      "seq": 783
+      "id": "88cac2f5",
+      "title": "leaving-mail-unopened: onefamily [^4] 재확인",
+      "priority": 100,
+      "note": "2026-10-21 22:40Z onefamily.com 이 200 점검 페이지(<title>OneFamily - Maintenance</title>)를 줘 source-check 가 NOT_FOUND 와 소멸 표시를 요구. 같은 날 앞선 실행은 VERIFIED. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
+      "createdAt": "2026-10-21T22:35:43.903Z",
+      "seq": 893
+    },
+    {
+      "id": "613b8c6c",
+      "title": "not-reporting-crime: statcan [^5] 재확인",
+      "priority": 100,
+      "note": "2026-10-21 22:5xZ www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
+      "createdAt": "2026-10-21T22:55:22.479Z",
+      "seq": 899
+    },
+    {
+      "id": "566d8058",
+      "title": "dev: style-check 연결어미 뒤 쉼표가 명사 '사고,' 를 잡는 오탐",
+      "priority": 60,
+      "note": "2026-10-21 sensation-seeking 11행 '충동성과 감각 추구가 사고, 공격 운전, 위험 운전 ... 을 예측한다' 의 '사고,' (명사 나열)를 '고,' 로 잡음. 오탐 사례 둘 이상 모아 좁힐 것(예: 교통사고, 경고, 보고서 나열)",
+      "createdAt": "2026-10-21T22:52:51.302Z",
+      "seq": 898
     },
     {
       "id": "931fba3e",
@@ -109,12 +125,12 @@
       "seq": 871
     },
     {
-      "id": "79f537f2",
-      "title": "diet-breaking-binge 보강: 다른 시기 파편, abandoning-resolutions 관계",
+      "id": "1aa8a00b",
+      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, 시기 조건",
       "priority": 50,
-      "note": "2026-10-21 파편 발행일 2020~2026 뿐. 후보: PMC7096476 같은 출처 'once they think that they have already “overeaten” or transgressed their diet goal, restrained eaters are likely to continue eating', m.cafe.daum.net/subdued20club/ReHf/5533598 (스크랩, 발행일 미상) '1년간의 자제력이 어제,오늘완전 무너졌다', medicaldaily.co.kr/news/21189 (2026-07-17) 박탈감과 폭식. Polivy & Herman 1980년대 원 연구의 열리는 페이지 필요. 작심삼일(abandoning-resolutions) 상위 후보",
-      "createdAt": "2026-10-21T21:04:15.054Z",
-      "seq": 874
+      "note": "2026-10-21 신설. 경향신문 2026-04-13 (F4 같은 URL) '부어라 마셔라 식의 술자리 분위기가 사라지면서 과도한 음주를 하는 비율도 감소' 는 같은 출처라 못 씀. 다른 출처로 회식 문화 변화와 폭음 감소 조건, 공공 파편(질병관리청 원 보도자료), SNS 파편 필요",
+      "createdAt": "2026-10-21T22:45:10.532Z",
+      "seq": 895
     },
     {
       "id": "e8ba47a7",
@@ -165,28 +181,12 @@
       "seq": 727
     },
     {
-      "id": "acdbe477",
-      "title": "superstitious-rituals 보강: SNS·공공 파편, 의례와 불안 완화의 인과",
-      "priority": 30,
-      "note": "2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
-      "createdAt": "2026-10-20T08:55:10.227Z",
-      "seq": 728
-    },
-    {
       "id": "09067f84",
       "title": "guilt-tipping 보강: 공공 파편",
       "priority": 30,
       "note": "2026-10-20 SNS 파편 F3(news.ycombinator.com/item?id=15590814, 2017) 추가. 공공 출처 미발견(연준, CFPB, 소비자원 검색). HN 후보: item?id=18243157 (2018-10-17) 'No Tip' 버튼을 직접 눌러야 하는 압박, 36215490 (2023-06-06) 'face to face to maximize the guilt factor'. weighing-gift-money 와 관계 후보",
       "createdAt": "2026-10-20T08:55:55.634Z",
       "seq": 729
-    },
-    {
-      "id": "b487560a",
-      "title": "heat-or-eat 보강: 한국어 파편과 energy-limiting-behavior 관계",
-      "priority": 30,
-      "note": "2026-10-20 파편 3개(2012 Anderson repec, 2018 EIA, 2023 Scottish Housing News). 한국어 파편 없음(난방비 때문에 식비 줄여). ageuk.org.uk/cymru/latest-news/archive/welsh-pensioners-cut-back-on-heating-and-eating (2013-05-10) 난방과 식사를 함께 줄임(인과 아님). eia 같은 글 'Of the 25 million households that reported forgoing food and medicine to pay energy bills, 7 million faced that decision nearly every month.' energy-limiting-behavior(냉난방 참기) 와 긴장 근거 문장 필요",
-      "createdAt": "2026-10-20T09:00:36.641Z",
-      "seq": 733
     },
     {
       "id": "1c8ee4cc",
@@ -205,14 +205,6 @@
       "seq": 757
     },
     {
-      "id": "a901474e",
-      "title": "overestimating-peer-drinking 원인 간선: 과음 문서 신설",
-      "priority": 30,
-      "note": "2026-10-20 한국 학술 F4(신행우 2009), F5(류미 2010) 추가. 원인 문장 후보: frontiersin.org/journals/public-health/articles/10.3389/fpubh.2021.653435/full (Wolter 2021-06-10) 'Social relationships with peers strongly affect University students' perception of the drinking behavior of others, which in turn plays a crucial role in determining their own alcohol intake.', healthday.com 528146 (2005-09-28) 'this kind of misperception has a strong effect on personal alcohol consumption'. 상대가 될 '과음/폭음' 문서 없음. earticle.net/Article/A285507 (최정화 2016) 사회적 편익 인식 조건",
-      "createdAt": "2026-10-20T12:40:07.433Z",
-      "seq": 758
-    },
-    {
       "id": "737b2af7",
       "title": "driving-overconfidence 보강: 한국 공공 파편과 SNS",
       "priority": 30,
@@ -229,14 +221,6 @@
       "seq": 760
     },
     {
-      "id": "c83db2e5",
-      "title": "unrealistic-optimism 결과 간선: 대비 안 하기·대피 지연",
-      "priority": 30,
-      "note": "2026-10-20 Weinstein 1982·1987 추가. 인과 후보: link.springer.com/article/10.1007/BF00845372 같은 글 '(b) unrealistic optimism undermined interest in risk reduction indirectly by decreasing worry;' (위험 줄이기 관심 감소, 상대 문서 없음), theglobeandmail.com/opinion/article-lessons-from-hurricane-florence-why-dont-people-leave (2018-10-08) 'they still convinced themselves that it wouldn't affect them' → delayed-evacuation 후보, climatecommunication.yale.edu/publications/coastal-ct-hurricane-segments/toc/3 (2015-06-29) Optimists 'it won't be necessary because a hurricane isn't going to happen'. 한국 학술 scholar.korea.ac.kr/handle/2021.sw.korea/105539 (장정헌 2013) 낙관적 편견이 행동의도 영향 약화",
-      "createdAt": "2026-10-20T12:52:43.547Z",
-      "seq": 761
-    },
-    {
       "id": "3be5f09e",
       "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
       "priority": 30,
@@ -245,28 +229,12 @@
       "seq": 762
     },
     {
-      "id": "99c52dc5",
-      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
-      "priority": 30,
-      "note": "2026-10-20 문화일보 2026-06-12(남해해경청 110명 중 97명), 아주경제 2026-06-15 추가. 공공 HTML 페이지 여전히 미발견. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22) 행안부 실장 '구명조끼를 착용하지 않은 채 안타까운 사망 사고가 발생한 게 거의 90% 이상' (매체), 같은 글 '많은 국민들, 피서객들이 구명조끼를 직접 가지고 오시더라고요' 다른 시기 조건 후보",
-      "createdAt": "2026-10-20T12:59:58.877Z",
-      "seq": 763
-    },
-    {
       "id": "899fe59b",
       "title": "staircase-wit 관계: replaying-conversations-afterward 와 원인·결과 근거",
       "priority": 30,
       "note": "2026-10-21 thelocal.fr 2020-07-22(F4) 'all you can do is replay the conversation in your head' 는 되짚기를 말하지만 인과 표지 약함. springer s10608-011-9357-z (Makkar 2011) 'higher levels of social anxiety were associated with ... regret-based cognitions during PEP' 후보. gutenberg 1399 Anna Karenina 5부 30장 'How often afterwards she thought of words she might have said.' 문학 다른 변형(작별)",
       "createdAt": "2026-10-21T02:43:23.667Z",
       "seq": 775
-    },
-    {
-      "id": "61553bbb",
-      "title": "complying-with-impersonation-calls 관계: not-reporting-crime 과 원인 근거(사기 당한 창피함)",
-      "priority": 30,
-      "note": "2026-10-21 ag.ny.gov/press-release/2021/attorney-general-james-issues-warning-about-scam-targeting-grandparents-during (2021-01-06) 'many victims are often embarrassed and do not want to tell anyone that they fell for the scam.', justice.gov/usao-nh/elder-justice 'they may be too ashamed of being scammed'. clien park/17520704 (2022-08-29) 피해 뒤 자책. econpapers mrrpapers/wp434 DeLiema 2021 'trust in the imposter'. 2010·2026 시기 조건은 F1·F4",
-      "createdAt": "2026-10-21T02:52:56.423Z",
-      "seq": 777
     },
     {
       "id": "ac26ceb9",
@@ -301,20 +269,60 @@
       "seq": 872
     },
     {
-      "id": "e154dd34",
-      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
+      "id": "49378ce7",
+      "title": "diet-breaking-binge 와 abandoning-resolutions 관계",
       "priority": 30,
-      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: PMC8650558 같은 출처 'Social drinkers are commonly unaware of exceeding the legal driving limit when consuming alcohol.', 도로교통공단 2026 교육생 924명 설문 '술이 깼을 것으로 판단' 24.5%(원문 공단 페이지 미발견, segye·wikitree·mtn 보도), RSA Ireland 2025 45% believed fit to drive(403), samhsa ShortReport-2688 (2016-12-27) 11.1%, cdc impaired-driving/facts (2024-05-15) 1.5%, sports.khan.co.kr 200612052128343 몇 미터 이동은 운전 아님. 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요",
-      "createdAt": "2026-10-21T20:58:14.917Z",
-      "seq": 873
+      "note": "2026-10-21 diet-breaking-binge 에 1988 Weber 외 파편 추가로 시기 보강 끝. 남은 것: 작심삼일(abandoning-resolutions) 상위 후보, 근거 파편 필요. 후보 medicaldaily.co.kr/news/21189 (2026-07-17) 박탈감과 폭식",
+      "createdAt": "2026-10-21T22:41:54.890Z",
+      "seq": 894
     },
     {
-      "id": "3797cf1d",
-      "title": "not-covering-coughs 보강: 공공 파편",
-      "priority": 20,
-      "note": "공공 파편 아직 없음. 2026-10-20 확인: kdca.go.kr/bbs/kdca/42/312943/artclView.do (2026-10-16) 손씻기만, news.seoul.go.kr welfare 576918·567993, gangdong.go.kr b_068/141570 수칙 안내뿐. ytn 2015-07-09 는 이미 F3. 2014 기침예절 실태조사 원 보도자료(korea.kr, kdca.go.kr 2015-07) 를 찾아야 함. PMC4942042 병원 입구 미가림 RR. skipping-handwashing 과 관계 후보",
-      "createdAt": "2026-10-20T08:56:58.686Z",
-      "seq": 730
+      "id": "0f8610f7",
+      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-10-20 문화일보 2026-06-12(남해해경청 110명 중 97명), 아주경제 2026-06-15 추가. 공공 HTML 페이지 여전히 미발견. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22) 행안부 실장 '구명조끼를 착용하지 않은 채 안타까운 사망 사고가 발생한 게 거의 90% 이상' (매체), 같은 글 '많은 국민들, 피서객들이 구명조끼를 직접 가지고 오시더라고요' 다른 시기 조건 후보 / 2026-10-21 korea.kr 원문 또 미발견. 해경청 낚시어선 단속 277건 중 구명조끼 미착용 80건(2023~2025, 보도로만 확인), 부산해경 2020-05 kukinews kuk202005260093 19명 중 18명",
+      "createdAt": "2026-10-21T22:45:57.304Z",
+      "seq": 896
+    },
+    {
+      "id": "2ea37ec6",
+      "title": "perfectionism 보강: 문학·공공 파편, 1989년 이전 시기 파편",
+      "priority": 30,
+      "note": "2026-10-21 파편 3개(HN 2010, Curran & Hill 2019, GQ Korea 2023). 후보: Hewitt & Flett 1991 척도 원 논문, brunch.co.kr/@yujipub/9. HN 1120875 같은 스레드의 답글 'The same hangup keeps me from trying many of my software ideas' 는 같은 URL. 묶음 traits 신설(성향과 기질), 다른 #특성 문서(evening-chronotype 등) 의 묶음 이동 검토",
+      "createdAt": "2026-10-21T22:50:02.090Z",
+      "seq": 897
+    },
+    {
+      "id": "d7ec9f05",
+      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
+      "priority": 30,
+      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: PMC8650558 같은 출처 'Social drinkers are commonly unaware of exceeding the legal driving limit when consuming alcohol.', 도로교통공단 2026 교육생 924명 설문 '술이 깼을 것으로 판단' 24.5%(원문 공단 페이지 미발견, segye·wikitree·mtn 보도), RSA Ireland 2025 45% believed fit to drive(403), samhsa ShortReport-2688 (2016-12-27) 11.1%, cdc impaired-driving/facts (2024-05-15) 1.5%, sports.khan.co.kr 200612052128343 몇 미터 이동은 운전 아님. 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요 / 2026-10-21 djsresearch.co.uk insights 01700 (Direct Line 2014) 'the most common reason given for drink driving is that the individual felt they were okay to safely drive' 는 drink-driving 자체의 이유. legalfutures print 같은 조사 'respondents felt they were personally able to drink more alcohol than the “average woman”' 는 평균 이상 효과 후보이나 운전과의 인과 표지 없음",
+      "createdAt": "2026-10-21T22:58:09.528Z",
+      "seq": 900
+    },
+    {
+      "id": "a971eaaa",
+      "title": "sensation-seeking 보강: SNS·공공 파편, 날짜 있는 매체 파편, speeding 관계",
+      "priority": 30,
+      "note": "2026-10-21 파편 3개(Psychology Today 발행일 미상, Hu 외 2021, Aluja 2023). 후보: open.edu openlearn thrill-seeking-and-risk-taking (403), scmp yp 3233893 (403), cris.bgu.ac.il tourist behavior (404). Aluja 2023 의 'predict' 는 예측이라 speeding 원인 간선 근거로 쓰지 않음",
+      "createdAt": "2026-10-21T22:59:25.343Z",
+      "seq": 901
+    },
+    {
+      "id": "837d4c06",
+      "title": "superstitious-rituals 보강: SNS·공공 파편",
+      "priority": 30,
+      "note": "2026-10-21 dailybruin 2016-02-26 F3 로 사용(같은 글 'Following a pre-exam ritual can ease an overwhelmed student’s mind' 는 같은 URL). 이전 메모: 2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
+      "createdAt": "2026-10-21T23:01:20.709Z",
+      "seq": 902
+    },
+    {
+      "id": "dc519139",
+      "title": "heat-or-eat 보강: 한국어 파편과 energy-limiting-behavior 관계",
+      "priority": 30,
+      "note": "2026-10-20 파편 3개(2012 Anderson repec, 2018 EIA, 2023 Scottish Housing News). 한국어 파편 없음(난방비 때문에 식비 줄여). ageuk.org.uk/cymru/latest-news/archive/welsh-pensioners-cut-back-on-heating-and-eating (2013-05-10) 난방과 식사를 함께 줄임(인과 아님). eia 같은 글 'Of the 25 million households that reported forgoing food and medicine to pay energy bills, 7 million faced that decision nearly every month.' energy-limiting-behavior(냉난방 참기) 와 긴장 근거 문장 필요 / 2026-10-21 etoday.co.kr/news/view/2227423 (2023-03-05) 저소득층 연료비 부담 증가와 식비 실질 감소를 함께 보도하나 식비 감소를 식료품 물가 탓으로 풀이해 맞바꿈 근거 아님. nbcnews heat-or-eat n18831 (2014) 영어 매체 후보",
+      "createdAt": "2026-10-21T23:01:55.050Z",
+      "seq": 903
     },
     {
       "id": "75b0ae75",
