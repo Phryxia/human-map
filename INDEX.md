@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 212개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 213개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -111,6 +111,7 @@
 - [손님 오기 전에 집 치우기](docs/tidying-before-guests.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [손님이 가 주기를 바라기](docs/wishing-guests-would-leave.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [손실 회피](docs/loss-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [손톱 물어뜯기](docs/nail-biting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [수줍은 방광](docs/shy-bladder.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [스마트폰 확인 습관](docs/smartphone-checking-habit.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [시간 부족으로 운동하지 않기](docs/no-time-to-exercise.md) ([시간과 하루 습관](groups/daily-time.md))
