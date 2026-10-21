@@ -2,7 +2,7 @@
 
 사람이 돈을 쓰고 아끼고 빌리고 숨기는 자리에서 느끼고 하는 일이다.
 
-문서 20개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 22개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [가난 감추기](../docs/concealing-poverty.md) 가난한 사람이 자신의 가난이나 굶주림, 도움이 필요한 형편을 남이나 식구에게 숨긴다.
   - [가난을 숨기려는 또래 관계 회피](../docs/poverty-peer-withdrawal.md)
@@ -13,6 +13,8 @@
 - [구매 결정 미루기](../docs/delaying-purchases.md) 사고 싶은 물건이 생긴 사람이 충동 구매를 피하려고 바로 사지 않고 시간을 둔 뒤 다시 판단한다.
 - [날짜 표시만 보고 음식 버리기](../docs/discarding-food-by-date-label.md) 집에서 음식을 다루는 사람이 포장의 날짜 표시가 지났거나 가까워졌다는 이유로 아직 먹을 수 있는 음식을 버린다.
 - [냉난방 참기](../docs/energy-limiting-behavior.md) 전기요금이나 연료비를 부담스러워하는 사람이 더위나 추위 속에서도 냉방이나 난방을 켜지 않거나 줄이고 버틴다.
+- [돈 걱정](../docs/money-worry.md) 돈 사정을 생각하는 사람이 돈이 모자랄까 봐 걱정하고 불안해한다.
+  - [소득 상실 우려](../docs/income-loss-worry.md)
 - [반품 포기](../docs/abandoning-returns.md) 산 물건이 마음에 들지 않거나 고장 난 사람이 반품 절차의 번거로움과 비용 때문에 반품을 그만두고 물건을 그냥 갖는다.
 - [배우자에게 재정 정보 숨기기](../docs/spouse-financial-concealment.md) 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨기는 행동이다.
 - [뷔페 접시 넘치게 담기](../docs/overfilling-buffet-plates.md) 뷔페에서 손님이 먹을 수 있는 양보다 많이 접시에 담고 남긴다.

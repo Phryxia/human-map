@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 221개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 222개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -58,6 +58,7 @@
 - [도움 요청 회피](docs/help-seeking-avoidance.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [도움받을 때의 자존감 위협](docs/threat-in-receiving-help.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [독감 예방접종 거르기](docs/skipping-flu-vaccine.md) ([건강과 위험](groups/health-and-safety.md))
+- [돈 걱정](docs/money-worry.md) ([돈과 소비](groups/money.md))
 - [돌아온 고향의 낯섦](docs/returning-home-feels-strange.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [되풀이 사과](docs/over-apologizing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [뒤늦게 떠오른 대답](docs/staircase-wit.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
@@ -110,7 +111,7 @@
 - [선물 고르기 고민](docs/gift-choosing-anxiety.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [설단 현상](docs/tip-of-the-tongue.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md) ([걱정과 기분](groups/worry-and-mood.md))
-- [소득 상실 우려](docs/income-loss-worry.md) ([일터와 일자리](groups/work.md))
+- [소득 상실 우려](docs/income-loss-worry.md) ([돈과 소비](groups/money.md))
 - [소유 효과](docs/endowment-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [손님 오기 전에 집 치우기](docs/tidying-before-guests.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [손님이 가 주기를 바라기](docs/wishing-guests-would-leave.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))

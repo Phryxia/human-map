@@ -4438,7 +4438,7 @@
   "https://www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm": {
     "first": "2026-10-20",
     "last": "2026-10-21",
-    "result": "NOT_FOUND",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://news.ycombinator.com/item?id=42672920": {
@@ -5709,7 +5709,7 @@
   "https://www.onefamily.com/our-story/media-centre/2025/5-million-young-adults-avoid-checking-bills-due-to-money-anxiety/": {
     "first": "2026-10-20",
     "last": "2026-10-21",
-    "result": "VERIFIED",
+    "result": "NOT_FOUND",
     "lastVerified": "2026-10-21"
   },
   "https://www.gutenberg.org/cache/epub/768/pg768.txt": {
@@ -6313,6 +6313,30 @@
     "lastVerified": "2026-10-21"
   },
   "https://www.samhsa.gov/data/sites/default/files/report_2688/ShortReport-2688.html": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2267650/": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://news.gallup.com/poll/116131/Worry-Money-Peaks-Forty-Somethings.aspx": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://sleepfoundation.org/sleep-news/77-percent-lose-sleep-to-financial-worries": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://theintermediary.co.uk/2025/12/five-million-young-adults-avoid-checking-bills-due-to-money-anxiety-study-finds/": {
     "first": "2026-10-21",
     "last": "2026-10-21",
     "result": "VERIFIED",

@@ -2,11 +2,10 @@
 
 일하는 사람이 직장과 일자리를 두고 느끼고 하는 일이다.
 
-문서 14개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 13개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [구직 단념](../docs/giving-up-job-search.md) 일할 뜻과 능력이 있는 사람이 일자리를 찾다가 원하는 일자리가 없거나 될 것 같지 않다고 여겨 구직을 그만둔다.
 - [노년의 계속 일하기 희망](../docs/wanting-to-keep-working-in-old-age.md) 나이가 든 사람이 은퇴하지 않고 앞으로도 일하기를 바란다.
-- [소득 상실 우려](../docs/income-loss-worry.md) 아프거나 다친 근로자가 일을 쉬면 소득이나 일자리를 잃을까 걱정한다.
 - [실직 뒤 사람 만남 피하기](../docs/withdrawing-after-job-loss.md) 일자리를 잃은 사람이 친구나 지인과의 만남과 모임을 피하고 관계망에서 물러난다.
 - [심리적 계약 위반 지각](../docs/psychological-contract-breach.md) 직원이 회사가 고용 때 약속한 의무를 지키지 않았다고 느끼고 회사를 덜 믿게 된다.
 - [아파도 출근하기](../docs/sickness-presenteeism.md) 몸이 아픈 근로자가 쉬지 않고 출근해 일한다.
