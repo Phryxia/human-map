@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 218개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 219개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -207,6 +207,7 @@
 - [퇴근 뒤 일 생각 곱씹기](docs/work-rumination-after-hours.md) ([일터와 일자리](groups/work.md))
 - [투표 불참](docs/not-voting.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [투표했다고 거짓으로 답하기](docs/claiming-to-have-voted.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [편애받는 형제에 대한 질투](docs/sibling-jealousy-over-favoritism.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [하차 표시 망설이기](docs/hesitating-to-signal-bus-stop.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [학습된 무력감](docs/learned-helplessness.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [한숨 쉬기](docs/sighing.md) ([걱정과 기분](groups/worry-and-mood.md))
