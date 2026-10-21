@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T17:05:12.993Z",
-  "nextSeq": 851,
-  "stops": 69,
+  "savedAt": "2026-10-21T19:02:47.401Z",
+  "nextSeq": 863,
+  "stops": 70,
   "items": [
     {
-      "id": "9bb475bb",
-      "title": "dev: source-check 가 200 으로 오는 점검 페이지를 NOT_FOUND 로 판정",
-      "priority": 60,
-      "note": "2026-10-21 feeling-rushed [^5] www150.statcan.gc.ca: curl 로 받으면 200, title 'Statistics Canada - We're sorry! The website is currently unavailable' 점검 페이지. 같은 날 앞선 실행은 VERIFIED. 봇 확인 패턴처럼 점검 페이지 패턴을 두어 UNREACHABLE 로 볼 것. 소멸 표시는 하지 않았다",
-      "createdAt": "2026-10-21T16:42:08.320Z",
-      "seq": 844
+      "id": "f7918ec3",
+      "title": "feeling-rushed: statcan [^5] 재확인",
+      "priority": 100,
+      "note": "2026-10-21 18:40Z www150.statcan.gc.ca 가 두 UA 모두 200 점검 페이지(website is currently unavailable). source-check 가 UNREACHABLE(점검 페이지)로 소멸 표시를 요구하나 같은 날 앞선 실행은 VERIFIED. 사이트 점검이 끝난 뒤 다시 돌리고, 그때도 원문이 없으면 소멸 표시",
+      "createdAt": "2026-10-21T18:34:41.127Z",
+      "seq": 857
     },
     {
       "id": "ad4b1372",
@@ -83,46 +83,6 @@
       "note": "2026-10-21 unsw.edu.au 같은 글(F5) 'And when I saw four-wheel-drives coming towards me I thought, ‘okay I can do this’.', 'Pressure from passengers in the vehicle. Or pressure from other motorists on the road.' — 같은 URL 이라 다른 출처 필요. ehps 초록의 원인 문장은 246자. CDC mm4907a1 '10 (63%) involved trucks and/or sport-utility vehicles' 조건(같은 출처). 한국어: newsis NISX20180703_0000352671 (2018-07-03) 보험 과실, 운전자 동기 문장 미발견. delayed-evacuation 과 관계 후보",
       "createdAt": "2026-10-21T16:42:08.477Z",
       "seq": 845
-    },
-    {
-      "id": "0c173d38",
-      "title": "nostalgia 보강: 한국어 파편, 계절·명절 촉발 조건, homesickness 와 관계",
-      "priority": 50,
-      "note": "2026-10-21 후보: pmc.ncbi.nlm.nih.gov/articles/PMC13196901/ (Tsigeman 2026-03-01) 'Theoretical and empirical work consistently characterize it as a bittersweet experience, simultaneously blending warmth and social connectedness with longing or loss ( Wildschut et al., 2006 ).' gutenberg 15652 Hood 'I Remember, I Remember' 'My spirit flew in feathers then, That is so heavy now' (발행 연도 확인 필요). APS 2008 같은 글 'With the days getting shorter (and colder) and the Holidays quickly approaching, many of us start thinking back to days gone by.'(같은 URL). CBS 2021 '11% of adults 18-34 ... 29% for adults 65 and older' 나이 조건(같은 URL). 한국어 개인 그리움 기사 미발견(ajunews 20131118120051966 복고 소비는 약함)",
-      "createdAt": "2026-10-21T16:48:23.416Z",
-      "seq": 846
-    },
-    {
-      "id": "8e95f65c",
-      "title": "pretending-not-to-be-home 보강: 학술·SNS 파편, 수치심 원인, avoiding-creditors 와 관계",
-      "priority": 50,
-      "note": "2026-10-21 후보: gutenberg 8117 The Possessed (1872) 'Then, jumping up, apparently from his bed, he strode to the door and shouted at the top of his voice: “Shatov is not at home!”' (만나기 싫어 없는 척). yougov 50105 같은 글 'One-third (34%) say curiosity best describes their reaction to an unexpected knocker, while one-quarter (25%) are annoyed.'(같은 URL). prospectmagazine.co.uk/magazine/leith-on-life-the-doorbell-paradox (2014-08-20) 'To be at home but not at home' 매체. kyeonggi.com/article/20230323580174 (2023-03-23, curl UA 404) 낯선 방문객 불안. 공개 SNS(theqoo, Mumsnet 403) 미확보. 학술 파편 없음",
-      "createdAt": "2026-10-21T16:56:31.337Z",
-      "seq": 847
-    },
-    {
-      "id": "d71043c9",
-      "title": "nail-biting 보강: 비율 조건, 매체·SNS 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-21 후보: PMC3556753 같은 글 'The rates of NB in seven to 10-year-old children and during adolescent are suggested being 20–33% and 45%, respectively.'(같은 URL). kormedi.com/1606393/ (2023-07-21) '스트레스를 받으면 손톱을 물어뜯거나 피부를 벗기거나 머리카락을 쥐어뜯는 강박행동을 고치기 위한 과학적 치료법이 개발됐다.' 평가어 포함. 공공·SNS 미발견",
-      "createdAt": "2026-10-21T16:59:38.796Z",
-      "seq": 848
-    },
-    {
-      "id": "792d93cd",
-      "title": "overfilling-buffet-plates 보강: 공공 파편, 탐욕·충동성·접시 크기 원인",
-      "priority": 50,
-      "note": "2026-10-21 PMC10451323 같은 글 'Consequently, dispositional greed drives consumers to buy more food than they can consume.', 'For example, physical design aspects such as plate size and shape have been found to influence plate waste [33,34].'(같은 URL). gulfnews 같은 글 'Their initial finding - that guests ate just a little more than half of the food put out - surprised almost everyone.' 공공(환경부, 구청 보도자료 gangdong.go.kr/web/newportal/press/1772) 은 권고만 있어 미발견. hangyo 같은 글 '음식을 남기면 벌금 5,000원입니다'",
-      "createdAt": "2026-10-21T17:02:33.304Z",
-      "seq": 849
-    },
-    {
-      "id": "6162ff71",
-      "title": "sighing 보강: 한국어 파편, 답답함·좌절의 한숨, 안도 뒤 한숨",
-      "priority": 50,
-      "note": "2026-10-21 research.vu.nl 같은 초록 'Sighing has been suggested to occur both during stress and negative emotions, such as panic and pain, and during positive emotions, such as relaxation and relief.'(같은 URL). psypost 같은 기사 'Muscle tension decreased moderately in the post-sigh measurement period'. 문학에서 안도의 한숨(sigh of relief) 대목 미발견(gutenberg 1342, 1400). 한국어 매체 미검색",
-      "createdAt": "2026-10-21T17:04:20.783Z",
-      "seq": 850
     },
     {
       "id": "e8ba47a7",
@@ -285,6 +245,22 @@
       "seq": 782
     },
     {
+      "id": "26142f94",
+      "title": "sighing 보강: 자기 한숨과 남의 한숨을 다르게 읽기, 한숨에 대한 꾸지람",
+      "priority": 30,
+      "note": "2026-10-21 후보: brunch.co.kr/@igmigm/529 (2026-03-16) Teigen 연구, 자기 한숨은 안도·휴식, 타인 한숨은 좌절·체념으로 해석. wkorea.com/?p=302277 (2024-05-27) 한숨 쉬면 어른에게 꾸지람, 복이 달아난다. snuh.org 화병 의학정보에 증상으로 한숨(진단명이라 출처 밝혀 쓸 것). 같은 플랫폼 doctornow e6fffb1b... 는 [^5] 와 같은 플랫폼",
+      "createdAt": "2026-10-21T18:39:18.142Z",
+      "seq": 858
+    },
+    {
+      "id": "c3a9a100",
+      "title": "pretending-not-to-be-home 보강: 학술 파편, 나이 조건, 아기·택배 이유",
+      "priority": 30,
+      "note": "2026-10-21 후보: ipsos.com/en-ca/knock-knock-whos-there-most-older-canadians-arent-taking-chances (2026-03-02) 55세 이상 34%, 18~34세 20% 가 기다리는 사람 없으면 응답 안 함. brunch.co.kr/@efseo2/1675 (2025-04-23) 아기 깰까 봐, 받을 게 없어서 무응답. j-cast 같은 글 남성 40.9% 여성 53.6% 전체 46.4%(같은 URL). 82cook 15/2912627 (2019-12-26) curl 연결 안 됨. 학술은 여전히 없음(PMC reCAPTCHA)",
+      "createdAt": "2026-10-21T19:02:24.675Z",
+      "seq": 862
+    },
+    {
       "id": "3797cf1d",
       "title": "not-covering-coughs 보강: 공공 파편",
       "priority": 20,
@@ -307,6 +283,30 @@
       "note": "인과 표지 있는 문장 아직 없음. 이전: christianitytoday 2023 만사프(F9), gutenberg 599 Vanity Fair, gutenberg 58691, djo.org.uk volume-xix page-414, strathprints 36504 모두 인과 아님. 2026-10-20: etc.usf.edu/lit2go/182/crime-and-punishment/3419/part-5-chapter-2/ (Dostoyevsky 1866) 'peculiar “poor man’s pride,” which compels many poor people to spend their last savings on some traditional social ceremony, simply in order to do “like other people,” and not to “be looked down upon.”' 는 무시당하지 않으려는 자존심 → 잔치 지출(가난 숨기기 아님, hosting-beyond-means 문학 파편 후보). thequint.com mrityu-bhoj 2026-06-16, heartlines.org.za deadly-price-of-ostentatious-funerals 2013 은 사회적 배제·경쟁 원인. 한국어 출처 미발견. priority 30→20",
       "createdAt": "2026-10-20T13:02:08.432Z",
       "seq": 764
+    },
+    {
+      "id": "48494676",
+      "title": "nail-biting 원인 간선: 지루함·초조함과 결과(매니큐어 긁어내기)",
+      "priority": 20,
+      "note": "2026-10-21 후보: kormedi.com/1211875 (2014-08-21) 매니큐어를 이로 긁어내기. dcinside bitcoins_new1 3882047 (2023-01-26) 조급함으로 손톱 물어뜯기. canakkaleadsm 같은 페이지 'In puberty, most of those who have social appreciation abandon this habit.'(같은 URL)",
+      "createdAt": "2026-10-21T18:44:01.950Z",
+      "seq": 859
+    },
+    {
+      "id": "b875a173",
+      "title": "nostalgia 와 homesickness 관계, 겪지 않은 과거 그리움(아네모이아)",
+      "priority": 20,
+      "note": "2026-10-21 후보: nocutnews.co.kr/news/4596718 (2016-05-22) 노스탤지어가 고향 그리움 병명에서 출발(기사는 향수병과 같은 말로 씀). brunch.co.kr/@illajang/53 (2026-09-19) 노스탤지어와 아네모이아 구분, 그리움은 우울과 달리 따뜻함. kbmaeil.com/article/201409050109180 (2014-09-05) 추석 그때 그 시절. seoulalien.substack.com/p/30 (2021-05-08) 추억과 야만 생각이 함께(원문 대시)",
+      "createdAt": "2026-10-21T18:48:14.874Z",
+      "seq": 860
+    },
+    {
+      "id": "037a3753",
+      "title": "overfilling-buffet-plates 보강: 비율(대만 1인당 115g)과 쟁반 조건",
+      "priority": 20,
+      "note": "2026-10-21 후보: taiwannews.com.tw/news/6246839 (2025-11-18) 대만 뷔페 손님 1인당 평균 115g, 무제한 방식이 먹을 수 있는 것보다 많이 담게 한다(원인 '욕심' 간선 후보). cbsm.com/articles/32656 (Sarjahani 2009) 쟁반 사용 시 낭비가 유의하게 많음(초록 재수록 사이트). dcinside slife 624099 (2025-04-10) 욕심부려 담았다가 버림(욕설 포함)",
+      "createdAt": "2026-10-21T18:55:01.956Z",
+      "seq": 861
     },
     {
       "id": "ee1d30ac",
