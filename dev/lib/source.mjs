@@ -31,6 +31,9 @@ const USER_AGENTS = ['Mozilla/5.0 (compatible; human-map-source-check)', 'curl/8
 // 200 으로 오지만 본문 대신 봇 확인을 띄우는 페이지. PMC 는 간헐적으로 reCAPTCHA 확인 페이지를, Springer/BMC 는 Client Challenge 페이지를 준다.
 export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i, /<title>\s*Client Challenge\s*<\/title>/i]
 
+// 200 으로 오지만 본문 대신 사이트 점검 안내를 띄우는 페이지. Statistics Canada 는 VERIFIED 였던 글 자리에 점검 페이지를 줬다(2026-10-21).
+export const MAINTENANCE_PATTERNS = [/<title>[^<]*website is currently unavailable/i]
+
 // 바이트를 Content-Type 의 charset, 없으면 앞부분의 meta charset 으로 디코딩한다. 네이트 뉴스처럼 EUC-KR 로 오는 페이지가 있다.
 export function decodeBody(bytes, contentType = '') {
   const head = new TextDecoder('latin1').decode(bytes.subarray(0, 4096))
@@ -45,6 +48,7 @@ async function fetchOnce(url, ua, {timeout, fetchImpl}) {
     const ct = res.headers.get('content-type') ?? ''
     const body = res.arrayBuffer ? decodeBody(new Uint8Array(await res.arrayBuffer()), ct) : await res.text()
     if (CHALLENGE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
+    if (MAINTENANCE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '점검 페이지'}
     const text = extractText(body, ct)
     return text === null ? {ok: false, reason: `텍스트가 아니다 (${ct})`} : {ok: true, text}
   } catch (e) { return {ok: false, reason: e.name === 'TimeoutError' || e.cause?.code === 'UND_ERR_CONNECT_TIMEOUT' ? '타임아웃' : e.cause?.code ? `${e.message} (${e.cause.code})` : e.message} }

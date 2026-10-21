@@ -63,6 +63,15 @@ test('fetchText: Springer/BMC 의 Client Challenge 페이지는 UNREACHABLE 로 
   assert.equal(page.ok, false)
   assert.match(page.reason, /봇 확인/)
 })
+test('fetchText: 200 으로 온 점검 페이지는 UNREACHABLE 로 본다 (Statistics Canada)', async () => {
+  // www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm: 2026-10-21 두 UA 모두 200 으로 온 93KB 점검 페이지
+  const down = "<!DOCTYPE html><html><head><title>Statistics Canada - We're sorry! The website is currently unavailable / Statistique Canada : Nous sommes\n        désolés! Le site Web n'est pas disponible pour le moment</title></head><body>x</body></html>"
+  let n = 0
+  const fetchImpl = async () => { n++; return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => down} }
+  const page = await fetchText('https://www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm', {fetchImpl, fallbackImpl: fetchImpl, quote: 'feel rushed', challengeDelay: 0})
+  assert.equal(page.ok, false)
+  assert.match(page.reason, /점검 페이지/)
+})
 test('fetchText: fetch 가 봇 확인 페이지만 받으면 node:https 로 curl UA 를 붙여 한 번 더 받는다', async () => {
   // link.springer.com/article/10.1007/s12160-010-9210-8: fetch 는 UA 를 curl 로 바꿔도 Client Challenge, https.get 은 본문(2026-10-17)
   const challenge = '<html><head><title>Client Challenge</title></head></html>'
