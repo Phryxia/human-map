@@ -291,5 +291,13 @@
       "pluralistic-ignorance",
       "political-inefficacy"
     ]
+  },
+  {
+    "id": "traits",
+    "title": "성향과 기질",
+    "summary": "사람마다 다르고 오래 이어지는 생각과 행동의 성향이다.",
+    "roots": [
+      "perfectionism"
+    ]
   }
 ]
