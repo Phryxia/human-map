@@ -1,0 +1,282 @@
+[
+  {
+    "id": "money",
+    "title": "돈과 소비",
+    "summary": "사람이 돈을 쓰고 아끼고 빌리고 숨기는 자리에서 느끼고 하는 일이다.",
+    "roots": [
+      "avoiding-creditors",
+      "complying-with-impersonation-calls",
+      "concealing-poverty",
+      "delaying-purchases",
+      "discarding-food-by-date-label",
+      "dodging-the-bill",
+      "energy-limiting-behavior",
+      "guilt-tipping",
+      "haggling",
+      "heat-or-eat",
+      "not-asking-for-loan-back",
+      "panic-buying",
+      "poverty-shame",
+      "showing-off-possessions",
+      "spouse-financial-concealment",
+      "unused-subscription"
+    ]
+  },
+  {
+    "id": "judgment-biases",
+    "title": "판단과 어림의 치우침",
+    "summary": "사람이 가치, 확률, 시간을 어림할 때 한쪽으로 기우는 판단이다.",
+    "roots": [
+      "disposition-effect",
+      "endowment-effect",
+      "learned-helplessness",
+      "meerkat-effect",
+      "planning-fallacy",
+      "reference-dependence",
+      "regret-aversion",
+      "unrealistic-optimism"
+    ]
+  },
+  {
+    "id": "work",
+    "title": "일터와 일자리",
+    "summary": "일하는 사람이 직장과 일자리를 두고 느끼고 하는 일이다.",
+    "roots": [
+      "after-hours-work-replies",
+      "company-dinner-pressure",
+      "flattering-superiors",
+      "giving-up-job-search",
+      "income-loss-worry",
+      "pretending-to-be-busy",
+      "psychological-contract-breach",
+      "sickness-presenteeism",
+      "sunday-night-dread",
+      "unused-annual-leave",
+      "wanting-to-keep-working-in-old-age",
+      "withdrawing-after-job-loss",
+      "work-rumination-after-hours"
+    ]
+  },
+  {
+    "id": "daily-time",
+    "title": "시간과 하루 습관",
+    "summary": "사람이 약속 시간, 잠, 끼니, 결심을 두고 되풀이하는 일이다.",
+    "roots": [
+      "abandoning-resolutions",
+      "arriving-too-early",
+      "chronic-lateness",
+      "evening-chronotype",
+      "feeling-rushed",
+      "no-time-to-exercise",
+      "skipping-breakfast",
+      "snoozing-the-alarm",
+      "waiting-for-someone-late",
+      "weekend-catch-up-sleep"
+    ]
+  },
+  {
+    "id": "roads-and-driving",
+    "title": "길과 운전",
+    "summary": "운전자, 보행자, 자전거를 타는 사람이 길에서 하는 일과 그 판단이다.",
+    "roots": [
+      "bicycle-helmet-nonuse",
+      "delaying-driving-cessation",
+      "driving-overconfidence",
+      "driving-while-drowsy",
+      "jaywalking",
+      "phone-use-while-driving",
+      "rear-seat-belt-nonuse",
+      "speeding"
+    ]
+  },
+  {
+    "id": "health-and-safety",
+    "title": "건강과 위험",
+    "summary": "사람이 병, 감염, 사고, 재난의 위험 앞에서 몸을 돌보거나 돌보지 않는 일이다.",
+    "roots": [
+      "avoiding-blood-donation",
+      "delayed-care-emergency-visits",
+      "delayed-evacuation",
+      "ignoring-emergency-alerts",
+      "intentional-tanning",
+      "keeping-mask-after-mandate",
+      "life-jacket-nonuse",
+      "nonurgent-emergency-room-visits",
+      "not-covering-coughs",
+      "reusing-leftover-medicine",
+      "skipping-flu-vaccine",
+      "skipping-handwashing",
+      "stopping-medication-when-feeling-better",
+      "sunscreen-nonuse",
+      "walking-dog-off-leash"
+    ]
+  },
+  {
+    "id": "messages-and-phones",
+    "title": "메시지와 휴대전화",
+    "summary": "사람이 휴대전화, 메신저, 온라인 서비스를 쓰며 느끼고 하는 일이다.",
+    "roots": [
+      "agreeing-without-reading-terms",
+      "avoiding-read-receipts",
+      "checking-parcel-tracking",
+      "deleting-posts-with-few-reactions",
+      "messaging-dependency",
+      "not-answering-unknown-numbers",
+      "phantom-phone-vibration",
+      "phone-call-fear",
+      "pressure-to-reply-quickly",
+      "rereading-messages-before-sending",
+      "shame-after-unanswered-message",
+      "smartphone-checking-habit",
+      "staying-in-group-chats",
+      "writing-without-sending"
+    ]
+  },
+  {
+    "id": "others-gaze",
+    "title": "남의 시선과 창피함",
+    "summary": "사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.",
+    "roots": [
+      "anticipatory-social-anxiety",
+      "blushing",
+      "concealing-failure",
+      "covering-up-embarrassment",
+      "disliking-recorded-own-voice",
+      "fear-of-negative-evaluation",
+      "hesitating-to-signal-bus-stop",
+      "kiosk-order-abandonment",
+      "lingering-in-cafe-guilt",
+      "rehearsing-what-to-say",
+      "replaying-conversations-afterward",
+      "shy-bladder",
+      "social-anxiety-safety-behaviors",
+      "spotlight-effect"
+    ]
+  },
+  {
+    "id": "strangers-and-public-places",
+    "title": "낯선 사람과 공공장소",
+    "summary": "사람이 이웃, 낯선 사람, 서비스 직원과 같은 공간에 있을 때 하는 일이다.",
+    "roots": [
+      "avoiding-shared-elevator",
+      "avoiding-small-talk-during-service",
+      "bystander-effect",
+      "confiding-in-strangers",
+      "elevator-silence",
+      "hesitating-to-offer-seat",
+      "pretending-not-to-see-acquaintance",
+      "pretending-to-sleep-to-avoid-talk",
+      "staying-silent-at-line-cutting",
+      "stopping-greeting-unresponsive-neighbor"
+    ]
+  },
+  {
+    "id": "gifts-and-hospitality",
+    "title": "선물, 대접과 예의",
+    "summary": "사람이 칭찬, 선물, 초대, 손님맞이, 작별을 주고받으며 하는 일이다.",
+    "roots": [
+      "avoiding-inviting-people-home",
+      "deflecting-compliments",
+      "downplaying-praise-of-family",
+      "feigning-delight-at-gifts",
+      "gift-choosing-anxiety",
+      "hosting-beyond-means",
+      "indebtedness",
+      "irish-goodbye",
+      "lingering-goodbye",
+      "ritual-refusal",
+      "shrinking-in-hosts-home",
+      "thank-you-gift",
+      "threat-in-receiving-help",
+      "tidying-before-guests",
+      "urge-to-cancel-plans",
+      "weighing-gift-money",
+      "wishing-guests-would-leave"
+    ]
+  },
+  {
+    "id": "close-relationships",
+    "title": "가까운 사이의 감정과 말",
+    "summary": "사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.",
+    "roots": [
+      "apology-reluctance",
+      "blaming-others",
+      "envy",
+      "help-seeking-avoidance",
+      "hesitating-to-contact-old-friends",
+      "hiding-hurt-over-forgotten-birthday",
+      "holding-back-tears-at-breakup",
+      "laughing-off-holiday-nagging",
+      "overhearing-talk-about-oneself",
+      "retelling-same-story",
+      "romantic-jealousy",
+      "rough-affection",
+      "schadenfreude",
+      "self-perceived-burden",
+      "self-silencing",
+      "skipping-holiday-gatherings",
+      "snooping-on-partners-phone",
+      "suppressed-anger-outburst"
+    ]
+  },
+  {
+    "id": "solitude-and-loss",
+    "title": "혼자 있음과 상실",
+    "summary": "사람이 혼자 지내거나 사람과 장소를 잃고 떠난 뒤 느끼고 하는 일이다.",
+    "roots": [
+      "aged-face-in-mirror",
+      "bereavement-regret",
+      "eating-alone-feelings",
+      "homesickness",
+      "keeping-belongings-of-the-dead",
+      "loneliness",
+      "returning-home-feels-strange",
+      "school-refusal",
+      "social-withdrawal-at-home",
+      "talking-to-oneself"
+    ]
+  },
+  {
+    "id": "worry-and-mood",
+    "title": "걱정과 기분",
+    "summary": "사람이 결과를 모르는 일을 걱정하거나 확인하고 기분을 바꾸려고 하는 일이다.",
+    "roots": [
+      "awaiting-uncertain-news",
+      "delaying-bad-news",
+      "fear-of-being-found-out",
+      "fear-of-walking-alone-at-night",
+      "lying-awake-thinking",
+      "mood-repair",
+      "reading-symptoms-and-suspecting-illness",
+      "rechecking-door-and-stove",
+      "superstitious-rituals"
+    ]
+  },
+  {
+    "id": "memory-and-thoughts",
+    "title": "기억과 떠오르는 생각",
+    "summary": "사람의 머릿속에서 말, 노래, 대답이 떠오르거나 떠오르지 않는 일이다.",
+    "roots": [
+      "destination-memory-failure",
+      "earworm",
+      "staircase-wit",
+      "tip-of-the-tongue"
+    ]
+  },
+  {
+    "id": "civic-life",
+    "title": "시민 참여와 공공의 일",
+    "summary": "사람이 투표, 기부, 신고, 봉사 같은 공공의 일에 참여하거나 참여하지 않는 일이다.",
+    "roots": [
+      "claiming-to-have-voted",
+      "feeling-ones-effort-makes-no-difference",
+      "not-donating",
+      "not-reporting-crime",
+      "not-sorting-recyclables",
+      "not-volunteering",
+      "not-voting",
+      "pluralistic-ignorance",
+      "political-inefficacy"
+    ]
+  }
+]

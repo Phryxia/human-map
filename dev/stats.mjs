@@ -1,9 +1,10 @@
 #!/usr/bin/env node
-// README 집계. 사용법: node dev/stats.mjs --write | --check | --kinds
+// README, INDEX, 묶음 문서 집계. 사용법: node dev/stats.mjs --write | --check | --kinds
 import fs from 'node:fs'
 import path from 'node:path'
 import {loadAll, ROOT, KINDS, AXES} from './lib/doc.mjs'
 import {edgeMap, findCycles, depths} from './lib/graph-lib.mjs'
+import {loadGroups, groupPage, indexPage, groupLines} from './lib/groups.mjs'
 
 const pct = (n, d) => d ? `${(100 * n / d).toFixed(1)}%` : '0.0%'
 
@@ -13,22 +14,7 @@ export function kindCounts(docs) {
   return c
 }
 
-// 문서 목록. 최상위 현상을 첫 상황 태그(축 태그가 아닌 첫 태그)로 묶고, 하위 현상은 상위 아래에 들여 쓴다.
-// 묶음은 줄 수가 많은 순, 상황 태그가 없는 묶음은 맨 뒤다.
-export function docList(docs) {
-  const byTitle = (a, b) => a.title.localeCompare(b.title, 'ko')
-  const tree = (d, depth, path) => [`${'  '.repeat(depth)}- [${d.title}](docs/${d.id}.md)`,
-    ...(d.rel['하위'] ?? []).map(e => docs.get(e.id)).filter(c => c && !path.has(c.id)).sort(byTitle).flatMap(c => tree(c, depth + 1, new Set([...path, c.id])))]
-  const groups = new Map()
-  for (const d of [...docs.values()].filter(d => !d.rel['상위']?.length).sort(byTitle)) {
-    const tag = d.tags.find(t => !AXES.includes(t))
-    const name = tag ? `#${tag}` : '상황 태그 없음'
-    groups.set(name, [...(groups.get(name) ?? []), ...tree(d, 0, new Set([d.id]))])
-  }
-  return [...groups].sort((a, b) => (a[0] === '상황 태그 없음') - (b[0] === '상황 태그 없음') || b[1].length - a[1].length || a[0].localeCompare(b[0], 'ko'))
-}
-
-export function buildReadme(docs, head = '') {
+export function buildReadme(docs, head = '', groups = []) {
   const L = []
   const frags = [...docs.values()].flatMap(d => d.fragments.map(f => ({...f, doc: d.id})))
   const count = rel => [...docs.values()].reduce((n, d) => n + (d.rel[rel]?.length ?? 0), 0)
@@ -48,11 +34,8 @@ export function buildReadme(docs, head = '') {
   for (const [k, n] of [...dec].sort()) L.push(`- ${k}: ${n}`)
   const oneDecade = [...docs.values()].filter(d => d.fragments.length && new Set(d.fragments.map(f => f.date.slice(0, 3))).size === 1).length
   L.push('', `파편이 한 10년 안에만 있는 문서: ${oneDecade}`)
-  L.push('', '## 문서 목록', '')
-  const groups = docList(docs)
-  if (!groups.length) L.push('없음.')
-  for (const [name, lines] of groups) L.push(`### ${name} (${lines.length})`, '', ...lines, '')
-  if (groups.length) L.pop()
+  L.push('', '## 문서 묶음', '', `주제가 가까운 현상끼리 묶었다. 묶음 문서마다 최상위 현상 아래에 하위 현상을 들여 쓴다. 제목 순 목록은 [전체 문서 목록](INDEX.md)이다.`, '')
+  L.push(...(groups.length ? groupLines(docs, groups) : ['없음.']))
   L.push('', '## 되먹임 (원인 그래프의 순환)', '')
   const fb = findCycles(edgeMap(docs, '결과'))
   L.push(...(fb.length ? fb.map(c => `- ${c.join(' -> ')}`) : ['없음.']))
@@ -63,6 +46,13 @@ export function buildReadme(docs, head = '') {
   return L.join('\n') + '\n'
 }
 
+// README.md, INDEX.md, groups/<id>.md 를 경로별 내용으로 만든다.
+export function buildOutputs(docs, head = '', groups = []) {
+  const out = new Map([['README.md', buildReadme(docs, head, groups)], ['INDEX.md', indexPage(docs, groups)]])
+  for (const g of groups) out.set(`groups/${g.id}.md`, groupPage(g, docs))
+  return out
+}
+
 if (import.meta.url === `file://${process.argv[1]}`) {
   const mode = process.argv[2]
   const docs = loadAll()
@@ -71,9 +61,18 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   if (mode === '--kinds') { for (const [k, n] of Object.entries(kindCounts(docs))) console.log(`${k}\t${n}`) }
   else if (mode === '--write' || mode === '--check') {
     if (!fs.existsSync(headFile) && fs.existsSync(readme)) fs.writeFileSync(headFile, fs.readFileSync(readme, 'utf8').split(/\n# 집계\n/)[0].replace(/\n+$/, '') + '\n')
-    const text = buildReadme(docs, fs.existsSync(headFile) ? fs.readFileSync(headFile, 'utf8') : '')
-    if (mode === '--write') { fs.writeFileSync(readme, text); console.log('README.md 를 다시 만들었다') }
-    else if (!fs.existsSync(readme) || fs.readFileSync(readme, 'utf8') !== text) { console.log('README.md 의 집계가 현재 그래프와 다르다 (--write)'); process.exit(1) }
-    else console.log('README.md 집계 일치')
+    const outs = buildOutputs(docs, fs.existsSync(headFile) ? fs.readFileSync(headFile, 'utf8') : '', loadGroups())
+    const gdir = path.join(ROOT, 'groups')
+    const stale = fs.existsSync(gdir) ? fs.readdirSync(gdir).map(f => `groups/${f}`).filter(f => !outs.has(f)) : []
+    if (mode === '--write') {
+      fs.mkdirSync(gdir, {recursive: true})
+      for (const [f, text] of outs) fs.writeFileSync(path.join(ROOT, f), text)
+      for (const f of stale) fs.rmSync(path.join(ROOT, f))
+      console.log(`README.md, INDEX.md, 묶음 문서 ${outs.size - 2}개를 다시 만들었다`)
+    } else {
+      const diff = [...outs].filter(([f, text]) => !fs.existsSync(path.join(ROOT, f)) || fs.readFileSync(path.join(ROOT, f), 'utf8') !== text).map(([f]) => f).concat(stale)
+      if (diff.length) { console.log(`집계가 현재 그래프와 다르다 (--write): ${diff.join(', ')}`); process.exit(1) }
+      console.log('README.md, INDEX.md, 묶음 문서 집계 일치')
+    }
   } else { console.log('사용법: node dev/stats.mjs --write | --check | --kinds'); process.exit(mode ? 2 : 0) }
 }

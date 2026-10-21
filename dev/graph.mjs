@@ -4,6 +4,7 @@ import fs from 'node:fs'
 import {loadAll, KINDS, AXES} from './lib/doc.mjs'
 import {edgeMap, findCycles, wouldCycle} from './lib/graph-lib.mjs'
 import {validateAll} from './lib/validate.mjs'
+import {loadGroups, checkGroups} from './lib/groups.mjs'
 
 const norm = s => s.toLowerCase().replace(/\s+/g, '')
 const [cmd, ...args] = process.argv.slice(2)
@@ -12,7 +13,7 @@ const docs = loadAll()
 switch (cmd) {
   case 'validate': {
     const src = new URL('./sources.json', import.meta.url)
-    const res = validateAll(docs, fs.existsSync(src) ? JSON.parse(fs.readFileSync(src, 'utf8')) : {})
+    const res = [...validateAll(docs, fs.existsSync(src) ? JSON.parse(fs.readFileSync(src, 'utf8')) : {}), ...checkGroups(docs, loadGroups())]
     for (const r of res) console.log(`${r.level} ${r.id}${r.ln ? ':' + r.ln : ''} ${r.msg}`)
     const errs = res.filter(r => r.level === 'ERROR').length
     console.log(`${docs.size} docs, ${errs} errors, ${res.length - errs} warnings`)

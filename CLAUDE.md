@@ -30,7 +30,7 @@ node dev/graph.mjs cycles
 node dev/style-check.mjs
 node dev/source-check.mjs --changed    # 지난 회차 이후 바뀐 문서의 파편만 다시 확인
 node dev/source-check.mjs --stale 90   # 마지막 확인이 90일 넘은 파편을 다시 확인. 사라진 출처는 소멸 처리
-node dev/stats.mjs --check             # README 의 집계가 현재 그래프와 같은지
+node dev/stats.mjs --check             # README, INDEX, 묶음 문서가 현재 그래프와 같은지
 gh issue list --state open --json number,title,labels,createdAt   # 독자가 올린 요청
 ```
 
@@ -80,14 +80,15 @@ gh issue close <번호>
 6. 문서를 쓴다. 규격은 4절. 서술의 모든 문단은 파편 하나 이상을 가리킨다.
 7. `node dev/source-check.mjs <id>`. 결과가 NOT_FOUND 인 파편은 전사가 틀렸거나 출처가 틀린 것이다. 고치거나 뺀다. UNREACHABLE 인 파편은 줄 끝에 `(미확인)` 을 붙인다. 미확인 파편은 4절의 최소 개수에 세지 않는다.
 8. 관계를 긋는다. 상위 간선은 넣기 전에 `node dev/graph.mjs check-cycle <child> <parent> [--allow-new]` 로 확인하고 CYCLE 이면 넣지 않는다. 원인 간선과 긴장 간선은 근거 파편을 붙인다. 모든 간선은 양쪽 문서에 적는다.
-9. `node dev/graph.mjs validate && node dev/graph.mjs cycles && node dev/style-check.mjs <id> && node dev/stats.mjs --write`. 전부 종료코드 0 이어야 한다. `stats.mjs --write` 는 README 를 다시 만든다.
-10. 커밋한다. 메시지는 한 줄. 예: `add loss-aversion under risk-avoidance`, `add 3 fragments to procrastination`.
-11. 작업 중 파편 안에서 본 다른 현상, 관계의 상대가 될 현상, 발견한 오류는 그 자리에서 큐에 넣는다.
+9. 상위가 없는 새 문서는 `dev/groups.json` 에서 주제가 가장 가까운 묶음 하나의 `roots` 에 id 를 넣는다. 맞는 묶음이 없으면 묶음을 새로 만든다(id, 제목, 한 문장 요약, roots). 상위를 얻은 문서는 `roots` 에서 뺀다. 하위 현상은 상위를 따라 묶음에 든다.
+10. `node dev/graph.mjs validate && node dev/graph.mjs cycles && node dev/style-check.mjs <id> && node dev/stats.mjs --write`. 전부 종료코드 0 이어야 한다. `stats.mjs --write` 는 README, INDEX, 묶음 문서를 다시 만든다.
+11. 커밋한다. 메시지는 한 줄. 예: `add loss-aversion under risk-avoidance`, `add 3 fragments to procrastination`.
+12. 작업 중 파편 안에서 본 다른 현상, 관계의 상대가 될 현상, 발견한 오류는 그 자리에서 큐에 넣는다.
     ```bash
     node dev/queue.mjs push "<현상 이름>" --priority <정수> --note "<어디서 봤는지, 어느 문서와 어떤 관계인지>"
     ```
     오류 수정 100, 기존 문서 보강 50, 신규 현상 10. 스크립트에 관한 것은 제목을 `dev: ` 로 시작하고 5.5절의 기준으로 priority 를 매긴다.
-12. 1로 돌아간다.
+13. 1로 돌아간다.
 
 ### 파편 우선 (짝수 회차)
 
@@ -100,13 +101,13 @@ gh issue close <번호>
 
 ```bash
 git pull --rebase origin claude/human
-node dev/stats.mjs --write && git add README.md && git commit -m "update stats" || true
+node dev/stats.mjs --write && git add README.md INDEX.md groups && git commit -m "update stats" || true
 git push -u origin claude/human
 node dev/queue.mjs stop
 git push -u origin claude/human
 ```
 
-rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경을 그 위에 다시 얹는다. README 는 충돌을 풀지 않고 `stats.mjs --write` 로 다시 만든다.
+rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경을 그 위에 다시 얹는다. README, INDEX.md, `groups/` 는 충돌을 풀지 않고 `stats.mjs --write` 로 다시 만든다.
 
 ## 4. 문서 규격
 
@@ -217,7 +218,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 
 ### graph.mjs
 
-- `validate`: 모든 문서에 대해 파일명 규격, 헤딩이 4절의 고정 구조와 순서대로 있는지, 별칭 줄과 요약 줄(마침표 하나로 끝나는 한 문장)이 있는지, 서술과 조건의 모든 문단이 `[Fn]` 을 하나 이상 달고 있는지, 참조된 `Fn` 이 파편 절에 있는지, 참조되지 않은 파편이 없는지, 파편 줄이 4절 형식과 정규식으로 맞는지, 종류가 다섯 중 하나인지, 발행일 형식이 맞고 파편이 발행일 순인지, 원문이 200자 이하인지, 확인됨 파편(VERIFIED 또는 소멸)이 2개 이상이고 종류가 2가지 이상인지, SNS 파편의 서지에 `@`, 계정명으로 보이는 토큰, 실명 꼴이 없는지, 관계 줄이 `- [제목](id.md)` 에 근거 파편(` [F1] [F2]` 또는 붙여 쓴 ` [F1][F2]`)이 붙은 형식인지, 관계의 링크 대상 파일이 있는지, 모든 간선이 양쪽에 적혀 있는지(아니면 ASYMMETRIC), 원인과 긴장 간선에 근거 파편이 있는지, 마지막 줄이 태그이고 축 태그(6절)를 하나 이상 포함하는지를 검사한다. 같은 URL 이 5개 이상 문서에 쓰이면 WARN. 서술 절 문단이 4개를 넘거나 서술의 한 문단이 4문장을 넘으면 오류(문장 끝은 `[Fn]` 을 뺀 뒤 공백이나 문단 끝 앞의 `.?!`). 서술과 조건 문단이 대괄호 밖에서 `F<n>`(앞에 `YYYY년`, `M월`, `D일` 이 붙을 수 있다)을 언급하면 그 번호가 그 문단의 `[Fn]` 에 있어야 하고 연도가 그 파편의 발행일과 같아야 하며, 어기면 오류. 원문에 줄임표(`…`, 끝의 `...`)가 있으면 WARN 이고, `dev/sources.json` 에서 그 URL 의 마지막 결과가 VERIFIED 이면 원글의 문장부호이므로 경고하지 않는다. SNS URL 의 계정 경로(플랫폼별 패턴을 스크립트 상단 배열로 둔다)가 저장소 전체에서 둘 이상의 파편에 나오면 오류. 오류가 하나라도 있으면 종료코드 1.
+- `validate`: 모든 문서에 대해 파일명 규격, 헤딩이 4절의 고정 구조와 순서대로 있는지, 별칭 줄과 요약 줄(마침표 하나로 끝나는 한 문장)이 있는지, 서술과 조건의 모든 문단이 `[Fn]` 을 하나 이상 달고 있는지, 참조된 `Fn` 이 파편 절에 있는지, 참조되지 않은 파편이 없는지, 파편 줄이 4절 형식과 정규식으로 맞는지, 종류가 다섯 중 하나인지, 발행일 형식이 맞고 파편이 발행일 순인지, 원문이 200자 이하인지, 확인됨 파편(VERIFIED 또는 소멸)이 2개 이상이고 종류가 2가지 이상인지, SNS 파편의 서지에 `@`, 계정명으로 보이는 토큰, 실명 꼴이 없는지, 관계 줄이 `- [제목](id.md)` 에 근거 파편(` [F1] [F2]` 또는 붙여 쓴 ` [F1][F2]`)이 붙은 형식인지, 관계의 링크 대상 파일이 있는지, 모든 간선이 양쪽에 적혀 있는지(아니면 ASYMMETRIC), 원인과 긴장 간선에 근거 파편이 있는지, 마지막 줄이 태그이고 축 태그(6절)를 하나 이상 포함하는지를 검사한다. `dev/groups.json` 의 묶음 검사도 한다. 상위가 없는 문서가 어느 묶음의 `roots` 에도 없거나, 두 묶음에 있거나, 상위가 있는 문서가 `roots` 에 있거나, `roots` 의 id 에 파일이 없거나, 묶음 id 가 `^[a-z0-9][a-z0-9-]*$` 가 아니거나 겹치거나, 제목이나 한 문장 요약이 없으면 오류. 같은 URL 이 5개 이상 문서에 쓰이면 WARN. 서술 절 문단이 4개를 넘거나 서술의 한 문단이 4문장을 넘으면 오류(문장 끝은 `[Fn]` 을 뺀 뒤 공백이나 문단 끝 앞의 `.?!`). 서술과 조건 문단이 대괄호 밖에서 `F<n>`(앞에 `YYYY년`, `M월`, `D일` 이 붙을 수 있다)을 언급하면 그 번호가 그 문단의 `[Fn]` 에 있어야 하고 연도가 그 파편의 발행일과 같아야 하며, 어기면 오류. 원문에 줄임표(`…`, 끝의 `...`)가 있으면 WARN 이고, `dev/sources.json` 에서 그 URL 의 마지막 결과가 VERIFIED 이면 원글의 문장부호이므로 경고하지 않는다. SNS URL 의 계정 경로(플랫폼별 패턴을 스크립트 상단 배열로 둔다)가 저장소 전체에서 둘 이상의 파편에 나오면 오류. 오류가 하나라도 있으면 종료코드 1.
 - `cycles`: 상위 그래프에 순환이 있으면 CYCLE 과 경로를 출력하고 종료코드 1. 원인 그래프의 순환은 FEEDBACK 과 경로를 출력하고 종료코드는 0.
 - `check-cycle <child> <parent> [--allow-new]`: 상위 간선 하나를 더했을 때 순환이 생기는지. `--allow-new` 는 한쪽이 아직 파일이 없을 때.
 - `find "<문자열>"`: 제목, 별칭, 요약에서 부분 문자열(대소문자 무시, 공백 무시)을 찾아 id 와 제목을 출력한다.
@@ -244,8 +245,8 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 
 ### stats.mjs
 
-- `--write`: README.md 를 통째로 다시 만든다. 내용은 문서 수, 간선 수(상위·원인·긴장 각각), 축 태그별 문서 수, 파편 종류별 개수와 비율, 확인됨·미확인·소멸 비율, 파편 발행 연도의 10년 단위 분포, 파편이 한 10년 안에만 있는 문서 수, 문서 목록(최상위 현상을 첫 상황 태그로 묶고 하위 현상을 상위 아래에 들여 쓴 트리. 묶음은 줄 수가 많은 순, 상황 태그 없는 묶음은 맨 뒤), 원인 그래프의 되먹임 목록(경로 그대로), 상위 그래프의 깊이 분포다. 손으로 쓴 머리말은 `README.head.md` 에서 읽어 맨 앞에 붙인다.
-- `--check`: 지금 만들 내용과 현재 README 가 같지 않으면 종료코드 1.
+- `--write`: README.md, INDEX.md, `groups/<id>.md` 를 통째로 다시 만든다. README 의 내용은 문서 수, 간선 수(상위·원인·긴장 각각), 축 태그별 문서 수, 파편 종류별 개수와 비율, 확인됨·미확인·소멸 비율, 파편 발행 연도의 10년 단위 분포, 파편이 한 10년 안에만 있는 문서 수, 문서 묶음 목록(`dev/groups.json` 의 순서대로 묶음 문서 링크, 문서 수, 요약. 문서 링크는 README 에 두지 않는다), 원인 그래프의 되먹임 목록(경로 그대로), 상위 그래프의 깊이 분포다. 손으로 쓴 머리말은 `README.head.md` 에서 읽어 맨 앞에 붙인다. 묶음 문서 `groups/<id>.md` 는 제목, 요약, 문서 수, 그리고 묶음의 최상위 현상을 제목 순으로 요약과 함께 적고 하위 현상을 상위 아래에 들여 쓴 트리다. INDEX.md 는 전체 문서를 제목 순으로 적고 줄마다 그 문서가 든 묶음을 링크한다. `dev/groups.json` 에 없는 `groups/` 의 파일은 지운다.
+- `--check`: 지금 만들 내용과 현재 README, INDEX.md, `groups/` 가 같지 않거나 `groups/` 에 남은 파일이 있으면 종료코드 1.
 - `--kinds`: 파편 종류별 개수만 출력한다.
 
 부트스트랩 회차는 모든 테스트가 통과하면 `bootstrap dev scripts` 로 커밋하고 3절로 간다.
