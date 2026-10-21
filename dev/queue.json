@@ -1,88 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T11:12:53.824Z",
-  "nextSeq": 827,
-  "stops": 67,
+  "savedAt": "2026-10-21T13:03:16.626Z",
+  "nextSeq": 837,
+  "stops": 68,
   "items": [
     {
-      "id": "8f2e9812",
-      "title": "source-check: reference-dependence regret-aversion rehearsing-what-to-say replaying-conversations-afterward rereading-messages-before-sending retail-therapy retelling-same-story returning-home-feels-strange reusing-leftover-medicine ritual-refusal",
-      "priority": 100,
-      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
-      "createdAt": "2026-10-21T10:34:03.390Z",
-      "seq": 813
-    },
-    {
-      "id": "3079e7e1",
-      "title": "source-check: romantic-jealousy rough-affection schadenfreude school-refusal self-perceived-burden self-silencing shame-after-unanswered-message showing-off-possessions shrinking-in-hosts-home shy-bladder",
-      "priority": 100,
-      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
-      "createdAt": "2026-10-21T10:34:03.534Z",
-      "seq": 814
-    },
-    {
-      "id": "e1f9d31b",
-      "title": "source-check: sickness-presenteeism silent-exit silent-work-awaiting-reward skipping-breakfast skipping-flu-vaccine skipping-handwashing skipping-holiday-gatherings smartphone-checking-habit snooping-on-partners-phone snoozing-the-alarm",
-      "priority": 100,
-      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
-      "createdAt": "2026-10-21T10:34:03.665Z",
-      "seq": 815
-    },
-    {
-      "id": "ac4316dc",
-      "title": "source-check: social-anxiety-safety-behaviors social-withdrawal-at-home speeding spotlight-effect spouse-financial-concealment staircase-wit staying-in-group-chats staying-late-for-boss staying-quiet-in-groups staying-silent-at-line-cutting",
-      "priority": 100,
-      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
-      "createdAt": "2026-10-21T10:34:03.804Z",
-      "seq": 816
-    },
-    {
-      "id": "b4c922d9",
-      "title": "source-check: stopping-greeting-unresponsive-neighbor stopping-medication-when-feeling-better suicide-bereavement-self-blame sunday-night-dread sunscreen-nonuse superstitious-rituals suppressed-anger-outburst talking-to-oneself teasing-someone-liked thank-you-gift",
-      "priority": 100,
-      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
-      "createdAt": "2026-10-21T10:34:03.962Z",
-      "seq": 817
-    },
-    {
-      "id": "4cd3c52e",
-      "title": "source-check: threat-in-receiving-help tidying-before-guests tip-of-the-tongue unrealistic-optimism unsent-letters unused-annual-leave unused-subscription urge-to-cancel-plans waiting-for-a-reply waiting-for-someone-late",
-      "priority": 100,
-      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
-      "createdAt": "2026-10-21T10:34:04.090Z",
-      "seq": 818
-    },
-    {
-      "id": "e9f4515f",
-      "title": "source-check: walking-dog-off-leash wanting-to-keep-working-in-old-age weekend-catch-up-sleep weighing-gift-money wishing-guests-would-leave withdrawing-after-job-loss work-rumination-after-hours writing-without-sending",
-      "priority": 100,
-      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
-      "createdAt": "2026-10-21T10:34:04.220Z",
-      "seq": 819
-    },
-    {
-      "id": "08fffa97",
-      "title": "dev: source-check 호스트 예외에 TLS 인증서 실패 포함",
+      "id": "d723b326",
+      "title": "dev: source-check 연결 타임아웃이 fetch failed 로 분류됨",
       "priority": 60,
-      "note": "2026-10-21 ignoring-emergency-alerts [^2] start.umd.edu/publication/cry-wolf-effect-... 가 fetch failed. curl 로 글과 / 모두 'self-signed certificate in certificate chain'(프록시 CA 번들로도 동일). 2026-10-18 VERIFIED 였던 글이 호스트 TLS 문제로 소멸 표시됨. / 도 같은 TLS 오류면 호스트 전체 막힘으로 보는 예외 후보(덜 잡게 하는 변경인지 먼저 따질 것)",
-      "createdAt": "2026-10-21T10:56:49.991Z",
-      "seq": 822
-    },
-    {
-      "id": "dfc1940f",
-      "title": "dev: source-check 호스트 예외에 5xx 포함",
-      "priority": 60,
-      "note": "2026-10-21 no-time-to-exercise [^2] abs.gov.au/AUSSTATS/... 503, abs.gov.au/ 도 503(서버 장애). 2026-10-19 VERIFIED 글이 소멸 표시됨. TLS 실패 항목(start.umd.edu, ignoring-emergency-alerts)과 같이 다룰 것",
-      "createdAt": "2026-10-21T11:04:55.336Z",
-      "seq": 824
-    },
-    {
-      "id": "3f6b75fd",
-      "title": "snooping-on-partners-phone 보강: 문학·SNS 파편, 결과(다툼) 간선",
-      "priority": 50,
-      "note": "2026-10-20 gutenberg 768 Wuthering Heights 21장 'My curiosity and suspicions were roused; ...' 239자라 못 씀(편지 몰래 읽기, 같은 장에서 200자 이하 문장 찾기). teamblind.com/kr/post/-kbE0kmi4 (2022-02-08) 페이지 머리에 회사명 표시라 제외. CHI 2019 'Vulnerability & Blame' dl.acm.org 봇 확인. khan F1 같은 글 '연인의 다른 이성을 감시하기 위해서' 는 비밀번호 공유 이유",
-      "createdAt": "2026-10-20T13:55:30.860Z",
-      "seq": 770
+      "note": "2026-10-21 unused-annual-leave [^3] scholarworks.umass.edu: 같은 조건에서 '타임아웃 — 소멸', 'fetch failed — 소멸', '타임아웃 — 호스트 전체 막힘' 이 번갈아 나옴. 이제 reason 에 cause.code 가 붙으므로(dev 커밋 2026-10-21) 다음에 'fetch failed (<코드>)' 가 나오면 그 코드가 연결 단계 타임아웃인지 보고 분류에 넣을 것",
+      "createdAt": "2026-10-21T12:59:43.362Z",
+      "seq": 835
     },
     {
       "id": "ad4b1372",
@@ -123,6 +51,30 @@
       "note": "2026-10-21 abs.gov.au 호스트 전체 503 으로 [^2] 소멸 표시. dev: source-check 호스트 예외에 5xx 포함 항목의 두 번째 사례",
       "createdAt": "2026-10-21T11:11:12.446Z",
       "seq": 826
+    },
+    {
+      "id": "4846061c",
+      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 / 도 TLS 'unable to get local issuer certificate'(curl). dev: source-check 호스트 예외에 TLS 인증서 실패 포함 항목의 두 번째 사례",
+      "createdAt": "2026-10-21T12:34:27.406Z",
+      "seq": 833
+    },
+    {
+      "id": "728bddbc",
+      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 / 도 TLS self-signed certificate. 이슈 #6 사례",
+      "createdAt": "2026-10-21T12:43:36.545Z",
+      "seq": 834
+    },
+    {
+      "id": "2b761878",
+      "title": "snooping-on-partners-phone 보강: 문학 파편, 결과(다툼) 간선, 다른 시기 파편",
+      "priority": 50,
+      "note": "2026-10-21 SNS [^5] 네이트판 추가. 남은 후보: mumsnet.com/talk/relationships/4542111 (2022-05-02) 'I haven’t told him and don’t plan to as I hate myself for checking it.'(감추기·자책), mumsnet AIBU 5369167 (2025-07-07). 다툼: pann.nate.com/talk/364385079 '남편 핸드폰 몰래보는 문제로 대판' fetch 미확인. 82cook num=3180430 은 남편이 알고 있어 몰래 아님. 이전: gutenberg 768 21장 239자라 못 씀, teamblind 회사명 표시 제외",
+      "createdAt": "2026-10-21T13:03:00.224Z",
+      "seq": 836
     },
     {
       "id": "e8ba47a7",
