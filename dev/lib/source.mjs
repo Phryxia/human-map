@@ -32,7 +32,11 @@ const USER_AGENTS = ['Mozilla/5.0 (compatible; human-map-source-check)', 'curl/8
 export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i, /<title>\s*Client Challenge\s*<\/title>/i]
 
 // 200 으로 오지만 본문 대신 사이트 점검 안내를 띄우는 페이지. Statistics Canada 는 VERIFIED 였던 글 자리에 점검 페이지를 줬다(2026-10-21).
-export const MAINTENANCE_PATTERNS = [/<title>[^<]*website is currently unavailable/i]
+// OneFamily 는 "OneFamily - Maintenance" 제목의 점검 페이지를 줬다(2026-10-21). 제목 중간의 maintenance 는 글 제목일 수 있어 끝에 올 때만 본다.
+export const MAINTENANCE_PATTERNS = [
+  /<title>[^<]*website is currently unavailable/i,
+  /<title>\s*(?:[^<]*[-|:–]\s*)?(?:site |website )?(?:under )?maintenance\s*<\/title>/i,
+]
 
 // 바이트를 Content-Type 의 charset, 없으면 앞부분의 meta charset 으로 디코딩한다. 네이트 뉴스처럼 EUC-KR 로 오는 페이지가 있다.
 export function decodeBody(bytes, contentType = '') {

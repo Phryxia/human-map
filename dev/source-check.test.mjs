@@ -72,6 +72,20 @@ test('fetchText: 200 으로 온 점검 페이지는 UNREACHABLE 로 본다 (Stat
   assert.equal(page.ok, false)
   assert.match(page.reason, /점검 페이지/)
 })
+test('fetchText: 제목이 "- Maintenance" 로 끝나는 점검 페이지도 UNREACHABLE 로 본다 (OneFamily)', async () => {
+  // www.onefamily.com/our-story/media-centre/2025/5-million-young-adults-avoid-checking-bills-due-to-money-anxiety/: 2026-10-21 200 으로 온 92KB 점검 페이지
+  const down = '﻿<!DOCTYPE html>\n<html lang="en">\n<head>\n    <meta charset="UTF-8">\n    <title>OneFamily - Maintenance</title>\n</head><body>x</body></html>'
+  const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => down})
+  const page = await fetchText('https://www.onefamily.com/our-story/media-centre/2025/5-million-young-adults-avoid-checking-bills-due-to-money-anxiety/', {fetchImpl, fallbackImpl: fetchImpl, quote: 'avoided opening their bills', challengeDelay: 0})
+  assert.equal(page.ok, false)
+  assert.match(page.reason, /점검 페이지/)
+})
+test('fetchText: 제목 중간에 maintenance 가 든 글은 점검 페이지로 보지 않는다', async () => {
+  const article = '<html><head><title>Home maintenance tips for winter - Example</title></head><body><p>avoided opening their bills</p></body></html>'
+  const fetchImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => article})
+  const page = await fetchText('https://example.com/a', {fetchImpl, fallbackImpl: fetchImpl, quote: 'avoided opening their bills', challengeDelay: 0})
+  assert.equal(page.ok, true)
+})
 test('fetchText: fetch 가 봇 확인 페이지만 받으면 node:https 로 curl UA 를 붙여 한 번 더 받는다', async () => {
   // link.springer.com/article/10.1007/s12160-010-9210-8: fetch 는 UA 를 curl 로 바꿔도 Client Challenge, https.get 은 본문(2026-10-17)
   const challenge = '<html><head><title>Client Challenge</title></head></html>'
