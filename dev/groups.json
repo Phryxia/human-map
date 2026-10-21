@@ -82,6 +82,7 @@
     "summary": "운전자, 보행자, 자전거를 타는 사람이 길에서 하는 일과 그 판단이다.",
     "roots": [
       "bicycle-helmet-nonuse",
+      "drink-driving",
       "delaying-driving-cessation",
       "driving-overconfidence",
       "driving-while-drowsy",
