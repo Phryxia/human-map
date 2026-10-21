@@ -6,18 +6,13 @@
 
 # 서술
 
-2015년 F1 의 글쓴이는 녹음을 다시 들을 때 자기 목소리가 정말 싫다고 적었다. [F1]
+2015년 게시글[^1]의 글쓴이는 녹음을 다시 들을 때 자기 목소리가 정말 싫다고 적었다.
 
-2018년 F2 의 저자들은 녹음된 자기 목소리를 들을 때의 불편함이 불쾌한 골짜기의 바닥에 해당할 수 있다고 추측한다. [F2]
+2018년 연구[^2]의 저자들은 녹음된 자기 목소리를 들을 때의 불편함이 불쾌한 골짜기의 바닥에 해당할 수 있다고 추측한다.
 
 # 조건
 
-기록된 조건 없음. [F1][F2]
-
-# 파편
-
-- F1 [SNS] "I really hate the sound of my own voice when I hear a recording back." (나는 녹음을 다시 들을 때 내 목소리가 정말 싫다.) — Hacker News, 댓글, 2015-11-28, https://news.ycombinator.com/item?id=10639846, 2026-10-20 접속
-- F2 [학술] "The feeling of discomfort experienced when people hear their recorded voice may correspond to the floor of the proposed uncanny valley." (사람들이 녹음된 자기 목소리를 들을 때 겪는 불편한 느낌은 제안된 불쾌한 골짜기의 바닥에 해당할 수 있다.) — Kimura M, Yotsumoto Y, "Auditory traits of "own voice"", PLoS ONE 13(6): e0199443, 2018-06-26, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199443, 2026-10-20 접속
+기록된 조건 없음.[^1][^2]
 
 # 관계
 
@@ -42,3 +37,6 @@
 없음.
 
 #감정
+
+[^1]: [SNS] "I really hate the sound of my own voice when I hear a recording back." (나는 녹음을 다시 들을 때 내 목소리가 정말 싫다.) — Hacker News, 댓글, 2015-11-28, https://news.ycombinator.com/item?id=10639846, 2026-10-20 접속
+[^2]: [학술] "The feeling of discomfort experienced when people hear their recorded voice may correspond to the floor of the proposed uncanny valley." (사람들이 녹음된 자기 목소리를 들을 때 겪는 불편한 느낌은 제안된 불쾌한 골짜기의 바닥에 해당할 수 있다.) — Kimura M, Yotsumoto Y, "Auditory traits of "own voice"", PLoS ONE 13(6): e0199443, 2018-06-26, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199443, 2026-10-20 접속

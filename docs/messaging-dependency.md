@@ -6,21 +6,15 @@
 
 # 서술
 
-2008년 F1 이 전하는 일본 조사에서 메일 답장이 없으면 몹시 불안해질 때가 있다고 답한 학생은 중학교 2학년의 24.3%, 초등학교 5학년의 18.0%였다. [F1]
+2008년 글[^1]이 전하는 일본 조사에서 메일 답장이 없으면 몹시 불안해질 때가 있다고 답한 학생은 중학교 2학년의 24.3%, 초등학교 5학년의 18.0%였다.
 
-2018년 F2 의 미국 대학생 연구는 휴대전화에 대해 느끼는 감정이 일상에서 문자 메시지에 얼마나 기대는지와 관련이 있어 보인다고 적는다. [F2]
+2018년 연구[^2]의 미국 대학생 연구는 휴대전화에 대해 느끼는 감정이 일상에서 문자 메시지에 얼마나 기대는지와 관련이 있어 보인다고 적는다.
 
-2026년 F3 의 글쓴이는 상대가 메시지를 읽었는지 보려고 화면을 껐다가 2분 뒤 다시 켜고 그대로인 것을 보고 또 껐다. [F3]
+2026년 글[^3]의 글쓴이는 상대가 메시지를 읽었는지 보려고 화면을 껐다가 2분 뒤 다시 켜고 그대로인 것을 보고 또 껐다.
 
 # 조건
 
-기록된 조건 없음. [F1][F2]
-
-# 파편
-
-- F1 [매체] "「メールの返信がないととても不安になる（ことがある）」という問いに「ある」と答えた中学2年生は24.3%（同18.0%）という数字になっています。" (“메일 답장이 없으면 몹시 불안해진다(그럴 때가 있다)”는 물음에 “있다”고 답한 중학교 2학년은 24.3%(초등학교 5학년은 18.0%)라는 수치다.) — 小林啓倫, 「「子供たちのメール依存度が高まっている」に感じる違和感」, ITmedia オルタナティブ・ブログ, 2008-05-16, https://blogs.itmedia.co.jp/akihito/2008/05/post-1b60.html, 2026-10-20 접속
-- F2 [학술] "How an individual feels toward their phone appears to relate to how reliant an individual is on texting in their day-to-day lives." (사람이 자기 휴대전화에 대해 느끼는 감정은 그 사람이 일상에서 문자 메시지에 얼마나 기대는지와 관련이 있어 보인다.) — Alex J. Holte, F. Richard Ferraro, "Tethered to texting: Reliance on texting and emotional attachment to cell phones", Current Psychology, 2018-10-26, https://link.springer.com/article/10.1007/s12144-018-0037-y, 2026-10-20 접속
-- F3 [매체] "나는 화면을 껐다가 이 분 뒤에 다시 켰다. 그 1이 사라졌는지 보려고 켰다. 그대로였다. 또 껐다." — 시선, 「노란 1이 사라지지 않는 밤」, 브런치, 2026-09-06, https://brunch.co.kr/@@aeGe/72, 2026-10-20 접속
+기록된 조건 없음.[^1][^2]
 
 # 관계
 
@@ -45,3 +39,7 @@
 없음.
 
 #행동 #감정 #특성 #온라인
+
+[^1]: [매체] "「メールの返信がないととても不安になる（ことがある）」という問いに「ある」と答えた中学2年生は24.3%（同18.0%）という数字になっています。" (“메일 답장이 없으면 몹시 불안해진다(그럴 때가 있다)”는 물음에 “있다”고 답한 중학교 2학년은 24.3%(초등학교 5학년은 18.0%)라는 수치다.) — 小林啓倫, 「「子供たちのメール依存度が高まっている」に感じる違和感」, ITmedia オルタナティブ・ブログ, 2008-05-16, https://blogs.itmedia.co.jp/akihito/2008/05/post-1b60.html, 2026-10-20 접속
+[^2]: [학술] "How an individual feels toward their phone appears to relate to how reliant an individual is on texting in their day-to-day lives." (사람이 자기 휴대전화에 대해 느끼는 감정은 그 사람이 일상에서 문자 메시지에 얼마나 기대는지와 관련이 있어 보인다.) — Alex J. Holte, F. Richard Ferraro, "Tethered to texting: Reliance on texting and emotional attachment to cell phones", Current Psychology, 2018-10-26, https://link.springer.com/article/10.1007/s12144-018-0037-y, 2026-10-20 접속
+[^3]: [매체] "나는 화면을 껐다가 이 분 뒤에 다시 켰다. 그 1이 사라졌는지 보려고 켰다. 그대로였다. 또 껐다." — 시선, 「노란 1이 사라지지 않는 밤」, 브런치, 2026-09-06, https://brunch.co.kr/@@aeGe/72, 2026-10-20 접속

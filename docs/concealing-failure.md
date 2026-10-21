@@ -6,26 +6,19 @@
 
 # 서술
 
-1891년 기싱의 소설에서 소설가 리어든은 지난 몇 달 동안 서로 다른 책을 열두 권쯤 시작했고 새로 시작할 때마다 창피해서 아내에게 말하지 못했다고 털어놓는다. [F1]
+1891년 기싱의 소설에서 소설가 리어든은 지난 몇 달 동안 서로 다른 책을 열두 권쯤 시작했고 새로 시작할 때마다 창피해서 아내에게 말하지 못했다고 털어놓는다.[^1]
 
-2007년 9월 네이버 지식iN 질문 글의 글쓴이는 담임 몰래 수시에 지원하면서 불합격 통보가 학교로 와서 선생님들이 다 알게 되면 창피하다고 적었다. [F2]
+2007년 9월 네이버 지식iN 질문 글의 글쓴이는 담임 몰래 수시에 지원하면서 불합격 통보가 학교로 와서 선생님들이 다 알게 되면 창피하다고 적었다.[^2]
 
-2024년 F3 의 저자들은 실험에서 실패와 숨김 사이에 강한 관계가 나타났고 이 결과가 뒤이은 세 실험에서 반복됐다고 보고했다. [F3]
+2024년 연구[^3]의 저자들은 실험에서 실패와 숨김 사이에 강한 관계가 나타났고 이 결과가 뒤이은 세 실험에서 반복됐다고 보고했다.
 
-2026년 7월 네이버 지식iN 질문 글의 글쓴이는 두 번째 필기 점수를 말하기 싫어서 말하기 싫다고 했다가 말싸움이 시작됐다고 적었다. [F4]
+2026년 7월 네이버 지식iN 질문 글의 글쓴이는 두 번째 필기 점수를 말하기 싫어서 말하기 싫다고 했다가 말싸움이 시작됐다고 적었다.[^4]
 
 # 조건
 
-2024년 F3 의 실험에서 실패는 숨김과, 성공은 드러내기 행동과 이어졌다. [F3]
+2024년 연구[^3]의 실험에서 실패는 숨김과, 성공은 드러내기 행동과 이어졌다.
 
-1891년 F1 에서 리어든이 숨기는 상대는 아내다. 2007년 F2 에서 글쓴이가 결과를 알리고 싶지 않은 상대는 학교 선생님들이다. [F1][F2]
-
-# 파편
-
-- F1 [문학] "In these last few months, I must have begun a dozen different books; I have been ashamed to tell you of each new beginning." (지난 몇 달 동안 나는 서로 다른 책을 열두 권쯤 시작했을 거야. 새로 시작할 때마다 당신에게 말하기가 부끄러웠어.) — George Gissing, New Grub Street, Smith, Elder & Co., 1891, https://www.gutenberg.org/cache/epub/1709/pg1709-images.html, 2026-10-17 접속
-- F2 [SNS] "학교로 전화가 와서 학교 선생님들이 다 안다든지 이러면 완전 쪽팔리잖아요" — 네이버 지식iN 게시글, 2007-09-01, https://kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069, 2026-10-17 접속
-- F3 [학술] "The results suggested a strong relationship between failure and concealment, as well as between success and exposure behaviors, a finding that was replicated in the subsequent three experiments." (결과는 실패와 숨김 사이, 성공과 드러내기 행동 사이에 강한 관계를 시사했고 이 결과는 뒤이은 세 실험에서 반복되었다.) — Yiftach Argaman, Leehee Elishmereni, Assaf Kron, "Studies on the Functions and Mechanisms of Shame and Pride: A Systematic Examination of the Relationship Between Shame/Pride and Concealment/Exposure Behaviors", Journal of Personality and Social Psychology 127(3), 2024-08-15, https://cris.haifa.ac.il/en/publications/studies-on-the-functions-and-mechanisms-of-shame-and-pride-a-syst/, 2026-10-17 접속
-- F4 [SNS] "그리고 솔직히 말싸움 시작하게 된게 두번째 필기 점수말하기 싫어서 말하기 싫다고 했어요" — 네이버 지식iN 게시글, 2026-07-03, https://kin.naver.com/qna/detail.naver?dirId=2001&docId=494152814, 2026-10-17 접속
+1891년 작품[^1]에서 리어든이 숨기는 상대는 아내다. 2007년 게시글[^2]에서 글쓴이가 결과를 알리고 싶지 않은 상대는 학교 선생님들이다.
 
 # 관계
 
@@ -50,3 +43,8 @@
 없음.
 
 #행동 #감정
+
+[^1]: [문학] "In these last few months, I must have begun a dozen different books; I have been ashamed to tell you of each new beginning." (지난 몇 달 동안 나는 서로 다른 책을 열두 권쯤 시작했을 거야. 새로 시작할 때마다 당신에게 말하기가 부끄러웠어.) — George Gissing, New Grub Street, Smith, Elder & Co., 1891, https://www.gutenberg.org/cache/epub/1709/pg1709-images.html, 2026-10-17 접속
+[^2]: [SNS] "학교로 전화가 와서 학교 선생님들이 다 안다든지 이러면 완전 쪽팔리잖아요" — 네이버 지식iN 게시글, 2007-09-01, https://kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069, 2026-10-17 접속
+[^3]: [학술] "The results suggested a strong relationship between failure and concealment, as well as between success and exposure behaviors, a finding that was replicated in the subsequent three experiments." (결과는 실패와 숨김 사이, 성공과 드러내기 행동 사이에 강한 관계를 시사했고 이 결과는 뒤이은 세 실험에서 반복되었다.) — Yiftach Argaman, Leehee Elishmereni, Assaf Kron, "Studies on the Functions and Mechanisms of Shame and Pride: A Systematic Examination of the Relationship Between Shame/Pride and Concealment/Exposure Behaviors", Journal of Personality and Social Psychology 127(3), 2024-08-15, https://cris.haifa.ac.il/en/publications/studies-on-the-functions-and-mechanisms-of-shame-and-pride-a-syst/, 2026-10-17 접속
+[^4]: [SNS] "그리고 솔직히 말싸움 시작하게 된게 두번째 필기 점수말하기 싫어서 말하기 싫다고 했어요" — 네이버 지식iN 게시글, 2026-07-03, https://kin.naver.com/qna/detail.naver?dirId=2001&docId=494152814, 2026-10-17 접속

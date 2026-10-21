@@ -6,19 +6,13 @@
 
 # 서술
 
-2019년 오다시 블로그는 티센크루프 설문에서 응답자 5명 중 1명이 싫어하는 사람이 타 있으면 엘리베이터에 타지 않겠다고 답했다고 전한다. [F1]
+2019년 오다시 블로그는 티센크루프 설문에서 응답자 5명 중 1명이 싫어하는 사람이 타 있으면 엘리베이터에 타지 않겠다고 답했다고 전한다.[^1]
 
-2025년 중앙일보 기사의 한 응답자는 이웃이 엘리베이터에 타는 소리를 듣고 나서 문을 열고 나간다. 2026년 리멤버 커뮤니티 게시글의 글쓴이는 앞집 사람이 나오는 기척이 들리면 그 사람이 내려갈 때까지 기다린다고 쓰고 인사하는 것이 어색하다고 덧붙였다. [F2][F3]
+2025년 중앙일보 기사의 한 응답자는 이웃이 엘리베이터에 타는 소리를 듣고 나서 문을 열고 나간다. 2026년 리멤버 커뮤니티 게시글의 글쓴이는 앞집 사람이 나오는 기척이 들리면 그 사람이 내려갈 때까지 기다린다고 쓰고 인사하는 것이 어색하다고 덧붙였다.[^2][^3]
 
 # 조건
 
-2019년 F1 은 싫어하는 사람이 타 있을 때를 든다. 2026년 F3 는 특정한 반감 없이 마주쳐 인사하는 어색함을 이유로 든다. [F1][F3]
-
-# 파편
-
-- F1 [매체] "Also, 1 in 5 people surveyed said they would actively avoid getting into an elevator if someone they didn't like was in it." (또한 설문 응답자 5명 중 1명은 싫어하는 사람이 타 있으면 엘리베이터에 타지 않으려고 적극적으로 피하겠다고 답했다.) — "Study Finds The Majority Of People Don't Want To Talk To Others In An Elevator", Audacy, 2019-08-02, https://www.audacy.com/987thespot/blogs/miles-morning/study-finds-majority-people-dont-want-talk-others-elevator, 2026-10-18 접속
-- F2 [매체] "엘리베이터에 타는 소리가 들리면 그때 문을 열고 나간다" — 이에스더, 신성식, 정종훈, 채혜선, 남수현, "나가려다 옆집 기척에 멈칫…이젠 '포비아'가 된 이웃사촌 [관계빈곤의 시대]", 중앙일보, 2025-12-22, https://v.daum.net/v/20251222050218552, 2026-10-18 접속
-- F3 [SNS] "저는 반대로 제가 나가려다가도 밖에서 앞집 사람이 나오는 기척이 들리면 그분이 엘리베이터 타고 내려갈 때까지 잠시 기다리거든요. 뻘쭘하게 인사하는 것도 어색하고 같이 1층까지 내려가는 게 서로 피곤하지 않나요...?" — 리멤버 커뮤니티, 게시글, 2026-04-21, https://community.rememberapp.co.kr/post/196730, 2026-10-18 접속
+2019년 글[^1]은 싫어하는 사람이 타 있을 때를 든다. 2026년 게시글[^3]은 특정한 반감 없이 마주쳐 인사하는 어색함을 이유로 든다.
 
 # 관계
 
@@ -43,3 +37,7 @@
 없음.
 
 #행동 #감정 #관계
+
+[^1]: [매체] "Also, 1 in 5 people surveyed said they would actively avoid getting into an elevator if someone they didn't like was in it." (또한 설문 응답자 5명 중 1명은 싫어하는 사람이 타 있으면 엘리베이터에 타지 않으려고 적극적으로 피하겠다고 답했다.) — "Study Finds The Majority Of People Don't Want To Talk To Others In An Elevator", Audacy, 2019-08-02, https://www.audacy.com/987thespot/blogs/miles-morning/study-finds-majority-people-dont-want-talk-others-elevator, 2026-10-18 접속
+[^2]: [매체] "엘리베이터에 타는 소리가 들리면 그때 문을 열고 나간다" — 이에스더, 신성식, 정종훈, 채혜선, 남수현, "나가려다 옆집 기척에 멈칫…이젠 '포비아'가 된 이웃사촌 [관계빈곤의 시대]", 중앙일보, 2025-12-22, https://v.daum.net/v/20251222050218552, 2026-10-18 접속
+[^3]: [SNS] "저는 반대로 제가 나가려다가도 밖에서 앞집 사람이 나오는 기척이 들리면 그분이 엘리베이터 타고 내려갈 때까지 잠시 기다리거든요. 뻘쭘하게 인사하는 것도 어색하고 같이 1층까지 내려가는 게 서로 피곤하지 않나요...?" — 리멤버 커뮤니티, 게시글, 2026-04-21, https://community.rememberapp.co.kr/post/196730, 2026-10-18 접속

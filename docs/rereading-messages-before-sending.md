@@ -6,18 +6,13 @@
 
 # 서술
 
-2019년 F1 의 조사에서 응답자의 절반 넘게 이메일 초안을 두 번에서 네 번까지 읽은 뒤에 보냈다. [F1]
+2019년 글[^1]의 조사에서 응답자의 절반 넘게 이메일 초안을 두 번에서 네 번까지 읽은 뒤에 보냈다.
 
-2024년 F2 의 글쓴이는 이메일을 보내기 전에 스무 번쯤 고쳐 쓴다고 적었다. [F2]
+2024년 게시글[^2]의 글쓴이는 이메일을 보내기 전에 스무 번쯤 고쳐 쓴다고 적었다.
 
 # 조건
 
-기록된 조건 없음. [F1][F2]
-
-# 파편
-
-- F1 [매체] "More than half of respondents read their email drafts 2–4 times before pressing send." (응답자의 절반 넘게 전송 버튼을 누르기 전에 이메일 초안을 2~4번 읽는다.) — Grammarly, "Introducing Grammarly’s “State of Workplace Email” Survey", Grammarly 블로그, 2019-09-18, https://www.grammarly.com/blog/workplace-email-report/, 2026-10-20 접속
-- F2 [SNS] "I rewrite emails like 20 times before sending them." (나는 이메일을 보내기 전에 스무 번쯤 고쳐 쓴다.) — Hacker News, 댓글, 2024-06-12, https://news.ycombinator.com/item?id=40657815, 2026-10-20 접속
+기록된 조건 없음.[^1][^2]
 
 # 관계
 
@@ -42,3 +37,6 @@
 없음.
 
 #행동 #온라인
+
+[^1]: [매체] "More than half of respondents read their email drafts 2–4 times before pressing send." (응답자의 절반 넘게 전송 버튼을 누르기 전에 이메일 초안을 2~4번 읽는다.) — Grammarly, "Introducing Grammarly’s “State of Workplace Email” Survey", Grammarly 블로그, 2019-09-18, https://www.grammarly.com/blog/workplace-email-report/, 2026-10-20 접속
+[^2]: [SNS] "I rewrite emails like 20 times before sending them." (나는 이메일을 보내기 전에 스무 번쯤 고쳐 쓴다.) — Hacker News, 댓글, 2024-06-12, https://news.ycombinator.com/item?id=40657815, 2026-10-20 접속
