@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 210개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 211개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -39,6 +39,7 @@
 - [냉난방 참기](docs/energy-limiting-behavior.md) ([돈과 소비](groups/money.md))
 - [노년의 계속 일하기 희망](docs/wanting-to-keep-working-in-old-age.md) ([일터와 일자리](groups/work.md))
 - [노력이 소용없다는 생각](docs/feeling-ones-effort-makes-no-difference.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [노스탤지어](docs/nostalgia.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [노후 준비 미루기](docs/delaying-retirement-saving.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [녹음된 자기 목소리 싫어하기](docs/disliking-recorded-own-voice.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [누구에게 말했는지 잊기](docs/destination-memory-failure.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
