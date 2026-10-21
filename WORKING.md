@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-없음.
+- 2026-10-21T10:32Z | 2026-10-21T10:56Z | source-check 기록 (10개 문서), ignoring-emergency-alerts 소멸 표시 | dev/sources.json, ignoring-emergency-alerts, README.md INDEX.md groups
