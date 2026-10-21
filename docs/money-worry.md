@@ -30,6 +30,7 @@
 
 ## 결과
 
+- [생각 때문에 잠 못 이루기](lying-awake-thinking.md)[^3]
 - [우편물 뜯지 않기](leaving-mail-unopened.md)[^4]
 
 ## 대립
