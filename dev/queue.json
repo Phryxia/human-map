@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-20T22:36:59.129Z",
-  "nextSeq": 771,
-  "stops": 64,
+  "savedAt": "2026-10-21T02:53:45.058Z",
+  "nextSeq": 779,
+  "stops": 65,
   "items": [
     {
       "id": "437007cf",
@@ -163,6 +163,22 @@
       "note": "2026-10-20 문화일보 2026-06-12(남해해경청 110명 중 97명), 아주경제 2026-06-15 추가. 공공 HTML 페이지 여전히 미발견. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22) 행안부 실장 '구명조끼를 착용하지 않은 채 안타까운 사망 사고가 발생한 게 거의 90% 이상' (매체), 같은 글 '많은 국민들, 피서객들이 구명조끼를 직접 가지고 오시더라고요' 다른 시기 조건 후보",
       "createdAt": "2026-10-20T12:59:58.877Z",
       "seq": 763
+    },
+    {
+      "id": "899fe59b",
+      "title": "staircase-wit 관계: replaying-conversations-afterward 와 원인·결과 근거",
+      "priority": 30,
+      "note": "2026-10-21 thelocal.fr 2020-07-22(F4) 'all you can do is replay the conversation in your head' 는 되짚기를 말하지만 인과 표지 약함. springer s10608-011-9357-z (Makkar 2011) 'higher levels of social anxiety were associated with ... regret-based cognitions during PEP' 후보. gutenberg 1399 Anna Karenina 5부 30장 'How often afterwards she thought of words she might have said.' 문학 다른 변형(작별)",
+      "createdAt": "2026-10-21T02:43:23.667Z",
+      "seq": 775
+    },
+    {
+      "id": "61553bbb",
+      "title": "complying-with-impersonation-calls 관계: not-reporting-crime 과 원인 근거(사기 당한 창피함)",
+      "priority": 30,
+      "note": "2026-10-21 ag.ny.gov/press-release/2021/attorney-general-james-issues-warning-about-scam-targeting-grandparents-during (2021-01-06) 'many victims are often embarrassed and do not want to tell anyone that they fell for the scam.', justice.gov/usao-nh/elder-justice 'they may be too ashamed of being scammed'. clien park/17520704 (2022-08-29) 피해 뒤 자책. econpapers mrrpapers/wp434 DeLiema 2021 'trust in the imposter'. 2010·2026 시기 조건은 F1·F4",
+      "createdAt": "2026-10-21T02:52:56.423Z",
+      "seq": 777
     },
     {
       "id": "3797cf1d",
@@ -1075,6 +1091,22 @@
       "note": "2026-10-20 신설. 경증 응급실 이용과 구분됨(미룬 끝의 응급실은 상태가 나빠진 뒤). 비용 외 이유(두려움, 시간)로 미룬 사례와 한국어 파편 필요. wagner.nyu.edu Billings 2000 같은 글 'economic constraints cause many of the uninsured to delay seeking treatment until their medical condition has seriously worsened.'",
       "createdAt": "2026-10-20T08:58:03.077Z",
       "seq": 732
+    },
+    {
+      "id": "179bd440",
+      "title": "말문이 막힘(대화 중 얼어붙음)",
+      "priority": 10,
+      "note": "2026-10-21 crozetgazette.com/2020/08/08/staircase-mind-and-related-mental-states 'the brain freezes and we are rendered speechless' — staircase-wit 의 원인 후보. mentalfloss.com/article/544512 (2018-07-16) 내향·외향 차이 후보",
+      "createdAt": "2026-10-21T02:43:23.789Z",
+      "seq": 776
+    },
+    {
+      "id": "de63e791",
+      "title": "사기 피해 뒤 자책",
+      "priority": 10,
+      "note": "2026-10-21 clien.net/service/board/park/17520704 (2022-08-29) '제 자신이 너무 초라해보이고 무능력 해 보여서 정신적으로 너무 힘들었습니다', clien park/18400094 (2023-11-02) 대환대출 사기 '자괴감이 너무 밀려와요'. complying-with-impersonation-calls 결과 후보",
+      "createdAt": "2026-10-21T02:52:56.556Z",
+      "seq": 778
     },
     {
       "id": "02b2f242",
