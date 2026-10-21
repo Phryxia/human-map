@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 220개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 221개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -48,6 +48,7 @@
 - [눈치 야근](docs/staying-late-for-boss.md) ([일터와 일자리](groups/work.md))
 - [늦는 사람을 기다리며 서성이기](docs/waiting-for-someone-late.md) ([시간과 하루 습관](groups/daily-time.md))
 - [다원적 무지](docs/pluralistic-ignorance.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [다이어트 중 폭식](docs/diet-breaking-binge.md) ([시간과 하루 습관](groups/daily-time.md))
 - [단톡방 나가지 못하기](docs/staying-in-group-chats.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [답장 기다리며 초조해하기](docs/waiting-for-a-reply.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [답장 미루기](docs/delaying-message-replies.md) ([걱정과 기분](groups/worry-and-mood.md))
