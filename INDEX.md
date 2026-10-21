@@ -1,12 +1,13 @@
 # 전체 문서 목록
 
-문서 224개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 225개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
 - [가난을 숨기려는 또래 관계 회피](docs/poverty-peer-withdrawal.md) ([돈과 소비](groups/money.md))
 - [가족이 받은 칭찬을 대신 낮추기](docs/downplaying-praise-of-family.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [가진 것 과시하기](docs/showing-off-possessions.md) ([돈과 소비](groups/money.md))
+- [감각 추구](docs/sensation-seeking.md) ([성향과 기질](groups/traits.md))
 - [감사 선물](docs/thank-you-gift.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [값 흥정](docs/haggling.md) ([돈과 소비](groups/money.md))
 - [같은 이야기 되풀이](docs/retelling-same-story.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
