@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T19:02:47.401Z",
-  "nextSeq": 863,
-  "stops": 70,
+  "savedAt": "2026-10-21T21:06:48.073Z",
+  "nextSeq": 875,
+  "stops": 71,
   "items": [
     {
       "id": "f7918ec3",
@@ -83,6 +83,38 @@
       "note": "2026-10-21 unsw.edu.au 같은 글(F5) 'And when I saw four-wheel-drives coming towards me I thought, ‘okay I can do this’.', 'Pressure from passengers in the vehicle. Or pressure from other motorists on the road.' — 같은 URL 이라 다른 출처 필요. ehps 초록의 원인 문장은 246자. CDC mm4907a1 '10 (63%) involved trucks and/or sport-utility vehicles' 조건(같은 출처). 한국어: newsis NISX20180703_0000352671 (2018-07-03) 보험 과실, 운전자 동기 문장 미발견. delayed-evacuation 과 관계 후보",
       "createdAt": "2026-10-21T16:42:08.477Z",
       "seq": 845
+    },
+    {
+      "id": "1286679a",
+      "title": "delaying-will-writing 보강: SNS·문학 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-10-21 SNS 후보 미발견(mumsnet 403, reddit 403, 82cook 연결 끊김). 남은 후보: thegazette.co.uk/all-notices/content/100356 (발행일 미상) 'people delay doing it through a mixture of denial and simply not getting around to it.', content/100799 (발행일 미상) 'waiting for when they were older, or wealthier', biz.sbs.co.kr/amp/article/20000107065 (2023-03-09) '나쁜 미래를 대비한다는 것이 마음에 걸리기도'. Weisbord 2012 초록은 절차가 복잡하고 부담스러워서라고 봄(원인 후보). 죽음 생각 회피 신규 현상과 원인 간선 후보",
+      "createdAt": "2026-10-21T20:37:32.528Z",
+      "seq": 869
+    },
+    {
+      "id": "0bb23349",
+      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편, 한국어 매체",
+      "priority": 50,
+      "note": "2026-10-21 남은 후보: PMC3525794 같은 출처 'Among wives, 8% of those who reported not having premarital doubts divorced by four years ... 19%' (결과 후보, 같은 URL 이라 다른 출처 필요), sciencedaily 120913173324 (2012-09-13) 'their doubts were more meaningful in predicting trouble', khan.co.kr/article/201311132212365 (2013-11-13) 메리지 블루 정의, wikitree.co.kr/articles/1141915 (2026-06-17) 청첩장을 돌려 파혼 결정을 못 함(매몰비용 관계 후보), gutenberg 1399 Anna Karenina 'There came over him a dread and doubt—doubt of everything.'(신랑 쪽, 1399 는 이미 2개 문서), gutenberg 19500 Trollope 날짜 정하기 미루기",
+      "createdAt": "2026-10-21T20:42:11.236Z",
+      "seq": 870
+    },
+    {
+      "id": "4a8aaa90",
+      "title": "smoking-relapse 보강: 원인 간선(스트레스, 술자리), 문학 파편, 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-10-21 후보: PMC2862311 (McKee 2006) '13% relapsed on the first day and that 49% had relapsed by the first week' 술과 재흡연, PMC4908897 (Chaiton 2016) '30 or more quit attempts', newsis NISX20200109_0000884214 (2020-01-12) 금연이 어려운 이유 스트레스 52.6%, clien park/19235900 (2026-07-28) 술자리·권유·스트레스·꿈 '한 대로 안 끝납니다', gangdong.go.kr press/6043 (2016-01-06) 금연시도율 37.2%→28.1%. drinking-to-cope 와 관계 후보. 질병관리청 HTML 수치 미발견",
+      "createdAt": "2026-10-21T20:46:32.461Z",
+      "seq": 871
+    },
+    {
+      "id": "79f537f2",
+      "title": "diet-breaking-binge 보강: 다른 시기 파편, abandoning-resolutions 관계",
+      "priority": 50,
+      "note": "2026-10-21 파편 발행일 2020~2026 뿐. 후보: PMC7096476 같은 출처 'once they think that they have already “overeaten” or transgressed their diet goal, restrained eaters are likely to continue eating', m.cafe.daum.net/subdued20club/ReHf/5533598 (스크랩, 발행일 미상) '1년간의 자제력이 어제,오늘완전 무너졌다', medicaldaily.co.kr/news/21189 (2026-07-17) 박탈감과 폭식. Polivy & Herman 1980년대 원 연구의 열리는 페이지 필요. 작심삼일(abandoning-resolutions) 상위 후보",
+      "createdAt": "2026-10-21T21:04:15.054Z",
+      "seq": 874
     },
     {
       "id": "e8ba47a7",
@@ -259,6 +291,22 @@
       "note": "2026-10-21 후보: ipsos.com/en-ca/knock-knock-whos-there-most-older-canadians-arent-taking-chances (2026-03-02) 55세 이상 34%, 18~34세 20% 가 기다리는 사람 없으면 응답 안 함. brunch.co.kr/@efseo2/1675 (2025-04-23) 아기 깰까 봐, 받을 게 없어서 무응답. j-cast 같은 글 남성 40.9% 여성 53.6% 전체 46.4%(같은 URL). 82cook 15/2912627 (2019-12-26) curl 연결 안 됨. 학술은 여전히 없음(PMC reCAPTCHA)",
       "createdAt": "2026-10-21T19:02:24.675Z",
       "seq": 862
+    },
+    {
+      "id": "aeec58a0",
+      "title": "sibling-jealousy-over-favoritism 와 envy, romantic-jealousy 관계",
+      "priority": 30,
+      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: gutenberg 768 Wuthering Heights 4장 'Heathcliff as a usurper of his parent’s affections' (768 은 이미 1개 문서), gutenberg 1532 King Lear 1막 1장 'he always loved our sister most', PMC2810864 같은 출처 B 'Recollections of maternal favoritism in childhood were more important ... predicting tension among adult siblings', kormedi.com/1789590 (2025-01-18) 덜 선호되는 아이, lady.khan.co.kr 202502280931001 (2025-02-28). 질투가 시기심(envy)의 특수한 경우인지 근거 문장 필요",
+      "createdAt": "2026-10-21T20:51:04.887Z",
+      "seq": 872
+    },
+    {
+      "id": "e154dd34",
+      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
+      "priority": 30,
+      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: PMC8650558 같은 출처 'Social drinkers are commonly unaware of exceeding the legal driving limit when consuming alcohol.', 도로교통공단 2026 교육생 924명 설문 '술이 깼을 것으로 판단' 24.5%(원문 공단 페이지 미발견, segye·wikitree·mtn 보도), RSA Ireland 2025 45% believed fit to drive(403), samhsa ShortReport-2688 (2016-12-27) 11.1%, cdc impaired-driving/facts (2024-05-15) 1.5%, sports.khan.co.kr 200612052128343 몇 미터 이동은 운전 아님. 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요",
+      "createdAt": "2026-10-21T20:58:14.917Z",
+      "seq": 873
     },
     {
       "id": "3797cf1d",
