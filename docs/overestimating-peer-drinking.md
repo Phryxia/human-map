@@ -38,7 +38,7 @@ NIAAA 의 대학 음주 안내 자료[^1]는 학생들이 대학에 오기 전�
 
 ## 결과
 
-없음.
+- [과음](heavy-drinking.md)[^7]
 
 ## 대립
 
@@ -52,3 +52,4 @@ NIAAA 의 대학 음주 안내 자료[^1]는 학생들이 대학에 오기 전�
 [^4]: [학술] "In perceived descriptive norms, the majority of respondents rated close friends and typical students as drinking more frequently, drinking more." (지각된 기술적 규범에서 응답자 다수는 친한 친구와 보통 학생이 더 자주, 더 많이 마신다고 평가했다.) — 신행우, 「대학생 음주규범 지각과 음주 및 음주문제의 관계」, 한국심리학회지: 건강 14(4), 2009, https://www.accesson.kr/healthpsy/v.14/4/871/18840, 2026-10-20 접속
 [^5]: [학술] "폭음집단에서 남녀 모두 친한 친구의 음주정도를 과대추정하였으며, 지각된 동료음주 규준과의 차이가 개인의 음주정도와 유의하게 관련이 있음을 확인하였다." — 류미, 이민규, 신희천, 「대학생의 폭음 관련 사회인지적 요인과 음주 정도의 관계 -지각된 음주규준의 역할을 중심으로」, 한국심리학회지: 문화 및 사회문제 16(1), 2010, https://www.accesson.kr/kpacsi/v.16/1/63/13653, 2026-10-20 접속
 [^6]: [학술] "For both referents, overestimation of peer heavy drinking was associated with more frequent heavy drinking and higher drinking intentions at both time points." (두 기준 집단 모두에서 또래의 과음을 과대 추정할수록 두 시점 모두 과음이 더 잦고 음주 의향이 더 높았다.) — Melissa J Cox, Angelo M DiBello, Matthew K Meisel, Miles Q Ott, Shannon R Kenney, Melissa A Clark, Nancy P Barnett, "Do Misperceptions of Peer Drinking Influence Personal Drinking Behavior? Results from a Complete Social Network of First-Year College Students", Psychology of Addictive Behaviors 33(3), 2019-03-14, https://pmc.ncbi.nlm.nih.gov/articles/PMC6483870/, 2026-10-20 접속
+[^7]: [학술] "Social relationships with peers strongly affect University students' perception of the drinking behavior of others, which in turn plays a crucial role in determining their own alcohol intake." (또래와의 사회적 관계는 대학생이 다른 사람의 음주 행동을 지각하는 방식에 강하게 영향을 주며 이 지각은 다시 자신의 음주량을 정하는 데 결정적인 역할을 한다.) — Christine Wolter 외, "Finding the Right Balance: A Social Norms Intervention to Reduce Heavy Drinking in University Students", Frontiers in Public Health 9, 2021-06-10, https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2021.653435/full, 2026-10-21 접속

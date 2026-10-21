@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 222개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 223개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -20,6 +20,7 @@
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [과속 운전](docs/speeding.md) ([길과 운전](groups/roads-and-driving.md))
+- [과음](docs/heavy-drinking.md) ([건강과 위험](groups/health-and-safety.md))
 - [구매 결정 미루기](docs/delaying-purchases.md) ([돈과 소비](groups/money.md))
 - [구명조끼 미착용](docs/life-jacket-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [구직 단념](docs/giving-up-job-search.md) ([일터와 일자리](groups/work.md))
