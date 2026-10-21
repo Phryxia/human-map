@@ -1,5 +1,5 @@
 // validate 검사 묶음. 결과는 {level: 'ERROR'|'WARN', id, ln, msg} 목록.
-import {KINDS, AXES, SECTIONS, REL_SECTIONS, INVERSE, FILE_RE, paragraphs, isVerified} from './doc.mjs'
+import {KINDS, AXES, SECTIONS, REL_SECTIONS, INVERSE, FILE_RE, paragraphs, isVerified, refsIn} from './doc.mjs'
 
 // SNS URL 의 계정 경로. 첫 캡처 그룹이 계정이다.
 export const ACCOUNT_PATTERNS = [
@@ -21,9 +21,9 @@ export const accountOf = url => {
 const DATE_OK = d => d === '발행일 미상' || /^\d{4}(-\d{2}(-\d{2})?)?$/.test(d)
 const sortKey = d => d === '발행일 미상' ? '' : d
 // 문장 끝: 공백이나 문단 끝 앞의 마침표·물음표·느낌표. 15.6% 같은 소수점은 세지 않는다.
-// 본문의 파편 언급: 대괄호 밖의 F<n>, 앞에 "YYYY년 (M월 (D일))" 이 붙을 수 있다.
-const MENTION_RE = /(?<!\[)(?:(\d{4})년(?: \d{1,2}월)?(?: \d{1,2}일)? )?\bF(\d+)\b(?!\])/g
-const sentenceCount =text => text.replace(/\[F\d+\]/g, '').match(/[.?!](?=\s|$)/g)?.length ?? 0
+// 본문이 파편을 번호로 부르는 F<n>(옛 형식). 파편은 각주 [^n] 로만 가리킨다.
+const MENTION_RE = /(?<![A-Za-z0-9^])F\d+\b/g
+const sentenceCount = text => text.replace(/\[\^\d+\]/g, '').match(/[.?!](?=\s|$)/g)?.length ?? 0
 
 // sources 는 dev/sources.json 의 URL 별 기록. VERIFIED 인 출처의 원문은 출처에 글자 그대로 있으므로 줄임표도 원글의 것이다.
 export function validateDoc(doc, docs, sources = {}) {
@@ -41,10 +41,11 @@ export function validateDoc(doc, docs, sources = {}) {
   if (h2.map(h => h.text).join('|') !== REL_SECTIONS.join('|') || h2.some(h => h.parent !== '관계')) err(1, `관계의 하위 헤딩이 ${REL_SECTIONS.join(', ')} 순서와 다르다`)
   // 파편
   for (const b of doc.badFragLines) err(b.ln, '파편 줄이 형식에 맞지 않는다')
-  for (const b of doc.badRelLines) err(b.ln, '관계 줄 형식이 맞지 않는다: - [제목](id.md) [Fn]')
+  for (const b of doc.badRelLines) err(b.ln, '관계 줄 형식이 맞지 않는다: - [제목](id.md)[^n]')
+  for (const b of doc.strayLines) err(b.ln, b.text.startsWith('[^') ? '각주 정의는 태그 줄 뒤에만 둔다' : '태그 줄 뒤에는 각주 정의만 둔다')
   const nums = new Set()
   doc.fragments.forEach((f, i) => {
-    if (f.n !== i + 1) err(f.ln, `파편 번호가 순서와 다르다 (F${f.n}, 기대 F${i + 1})`)
+    if (f.n !== i + 1) err(f.ln, `파편 번호가 순서와 다르다 ([^${f.n}], 기대 [^${i + 1}])`)
     nums.add(f.n)
     if (!KINDS.includes(f.kind)) err(f.ln, `종류가 다섯 중 하나가 아니다: ${f.kind}`)
     if (!DATE_OK(f.date)) err(f.ln, `발행일 형식: ${f.date}`)
@@ -65,25 +66,21 @@ export function validateDoc(doc, docs, sources = {}) {
     for (const p of ps) {
       const sentences = sec === '서술' ? sentenceCount(p.text) : 0
       if (sentences > 4) err(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
-      const refs = [...p.text.matchAll(/\[F(\d+)\]/g)].map(m => Number(m[1]))
+      const refs = refsIn(p.text)
       if (!refs.length) err(p.ln, '문단에 근거 파편이 없다')
-      for (const r of refs) { used.add(r); if (!nums.has(r)) err(p.ln, `없는 파편 F${r} 를 가리킨다`) }
-      // "2021년 F3 는" 처럼 본문이 이름으로 부른 파편은 그 문단의 근거에 있고 연도가 발행일과 같아야 한다
-      for (const m of p.text.matchAll(MENTION_RE)) {
-        const [, year, n] = m, f = doc.fragments.find(x => x.n === Number(n))
-        if (!refs.includes(Number(n))) err(p.ln, `본문이 F${n} 를 언급하지만 문단의 근거에 없다`)
-        else if (year && f && !f.date.startsWith(year)) err(p.ln, `${year}년 F${n} 의 연도가 파편 발행일(${f.date})과 다르다`)
-      }
+      for (const r of refs) { used.add(r); if (!nums.has(r)) err(p.ln, `없는 파편 [^${r}] 를 가리킨다`) }
+      // 따옴표 안(인용한 말)은 빼고 본다
+      for (const m of p.text.replace(/"[^"]*"|“[^”]*”/g, '').matchAll(MENTION_RE)) err(p.ln, `본문이 파편을 번호(${m[0]})로 부른다. 각주 [^n] 로 가리킨다`)
     }
   }
-  for (const [rel, edges] of Object.entries(doc.rel)) for (const e of edges ?? []) for (const r of e.frags) { used.add(r); if (!nums.has(r)) err(e.ln, `없는 파편 F${r} 를 가리킨다`) }
-  for (const f of doc.fragments) if (!used.has(f.n)) err(f.ln, `참조되지 않은 파편 F${f.n}`)
+  for (const [rel, edges] of Object.entries(doc.rel)) for (const e of edges ?? []) for (const r of e.frags) { used.add(r); if (!nums.has(r)) err(e.ln, `없는 파편 [^${r}] 를 가리킨다`) }
+  for (const f of doc.fragments) if (!used.has(f.n)) err(f.ln, `참조되지 않은 파편 [^${f.n}]`)
   // 관계
   for (const rel of REL_SECTIONS) {
     const sec = doc.headings.find(h => h.text === rel && h.level === 2)
     if (!sec) continue
     const edges = doc.rel[rel] ?? []
-    const body = doc.sections['관계']?.lines.filter(l => l.ln > sec.ln && l.ln < (doc.headings.find(h => h.level === 2 && h.ln > sec.ln)?.ln ?? 1e9) && l.text.trim() && l.ln !== (doc.tagLine ? doc.lines.length : 0)) ?? []
+    const body = doc.sections['관계']?.lines.filter(l => l.ln > sec.ln && l.ln < (doc.headings.find(h => h.level === 2 && h.ln > sec.ln)?.ln ?? 1e9) && l.text.trim()) ?? []
     if (!edges.length && !(body.length === 1 && body[0].text.trim() === '없음.')) err(sec.ln, `${rel} 절이 비어 있으면 '없음.' 을 쓴다`)
     for (const e of edges) {
       const other = docs.get(e.id)
@@ -92,9 +89,8 @@ export function validateDoc(doc, docs, sources = {}) {
       if ((rel === '원인' || rel === '대립') && !e.frags.length) err(e.ln, `${rel} 간선에 근거 파편이 없다`)
     }
   }
-  const last = doc.lines[doc.lines.length - 1]
-  if (!doc.tagLine) err(doc.lines.length, '마지막 줄이 태그 목록이 아니다')
-  else if (!doc.tags.some(t => AXES.includes(t))) err(doc.lines.length, `축 태그(${AXES.join(' ')})가 없다`)
+  if (!doc.tagLine) err(doc.lines.length, '각주 정의 앞의 마지막 줄이 태그 목록이 아니다')
+  else if (!doc.tags.some(t => AXES.includes(t))) err(doc.tagLn, `축 태그(${AXES.join(' ')})가 없다`)
   return out
 }
 
@@ -104,7 +100,7 @@ export function validateAll(docs, sources = {}) {
   const byUrl = new Map(), byAcct = new Map()
   for (const d of docs.values()) for (const f of d.fragments) {
     byUrl.set(f.url, (byUrl.get(f.url) ?? new Set()).add(d.id))
-    if (f.kind === 'SNS') { const a = accountOf(f.url); if (a) byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:F${f.n}`]) }
+    if (f.kind === 'SNS') { const a = accountOf(f.url); if (a) byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
   }
   for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 URL 을 ${ids.size}개 문서가 쓴다: ${url}`})
   for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})

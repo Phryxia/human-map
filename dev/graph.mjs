@@ -47,7 +47,7 @@ switch (cmd) {
     if (!d) { console.error(`문서 없음: ${args[0]}`); process.exit(1) }
     const kinds = KINDS.map(k => [k, d.fragments.filter(f => f.kind === k).length]).filter(([, c]) => c).map(([k, c]) => `${k} ${c}`).join(', ')
     console.log(`${d.title} (${d.id})\n별칭: ${d.aliases}\n${d.summary}\n파편 ${d.fragments.length}: ${kinds} (미확인 ${d.fragments.filter(f => f.unverified).length})\n태그: ${d.tags.join(' ')}`)
-    for (const [rel, es] of Object.entries(d.rel)) console.log(`${rel}: ${es?.length ? es.map(e => e.id + e.frags.map(f => `[F${f}]`).join('')).join(', ') : '없음'}`)
+    for (const [rel, es] of Object.entries(d.rel)) console.log(`${rel}: ${es?.length ? es.map(e => e.id + e.frags.map(f => `[^${f}]`).join('')).join(', ') : '없음'}`)
     break
   }
   case 'roots': for (const d of docs.values()) if (!d.rel['상위']?.length) console.log(`${d.id}\t${d.title}`); break

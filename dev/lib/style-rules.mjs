@@ -32,4 +32,4 @@ export function countRules(sentences) {
   return out
 }
 
-export const ending = s => (/([가-힣]{1,2})[.\s]*(\[F\d+\])*\s*$/.exec(s.trim().replace(/\.$/, '')) ?? [])[1] ?? ''
+export const ending = s => (/([가-힣]{1,2})[.\s]*(\[\^\d+\])*\s*$/.exec(s.trim().replace(/\.$/, '')) ?? [])[1] ?? ''

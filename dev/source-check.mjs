@@ -51,7 +51,7 @@ else if (staleIdx >= 0) {
   targets = docs.get(args[0]).fragments.map(f => ({doc: docs.get(args[0]), frag: f}))
 } else { console.log('사용법: node dev/source-check.mjs <id> | --all | --changed | --stale <일수> | --resolve'); process.exit(args.length ? 2 : 0) }
 
-for (const [url, r] of Object.entries(records)) if (r.removed) for (const {doc, frag} of targets) if (frag.url === url) console.log(`ERROR ${doc.id} F${frag.n} 삭제된 출처를 다시 썼다: ${url}`)
+for (const [url, r] of Object.entries(records)) if (r.removed) for (const {doc, frag} of targets) if (frag.url === url) console.log(`ERROR ${doc.id} [^${frag.n}] 삭제된 출처를 다시 썼다: ${url}`)
 
 const cache = new Map()
 let failed = false
@@ -63,7 +63,7 @@ for (const {doc, frag} of targets) {
   const rec = records[frag.url]
   const blocked = result === 'UNREACHABLE' && rec?.lastVerified && !frag.vanished ? await hostBlocked(frag.url, page.reason) : false
   const j = judge(frag, result, rec, {hostBlocked: blocked})
-  console.log(`${result} ${doc.id} F${frag.n}${page.ok ? '' : ` (${page.reason})`}${j.note ? ' — ' + j.note : ''}`)
+  console.log(`${result} ${doc.id} [^${frag.n}]${page.ok ? '' : ` (${page.reason})`}${j.note ? ' — ' + j.note : ''}`)
   if (j.exit) failed = true
   records[frag.url] = {...rec, first: rec?.first ?? today, last: today, result, lastVerified: result === 'VERIFIED' ? today : rec?.lastVerified}
 }

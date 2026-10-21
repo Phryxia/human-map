@@ -24,9 +24,9 @@ export function styleIssues(doc) {
   })
   const all = ['서술', '조건'].flatMap(s => paragraphs(doc, s))
   for (const p of all) {
-    const sentences = p.text.replace(/\[F\d+\]/g, '').split(/(?<=[.?!])\s+/).filter(Boolean)
+    const sentences = p.text.replace(/\[\^\d+\]/g, '').split(/(?<=[.?!])\s+/).filter(Boolean)
     if (sentences.length > 4) out.push({id: doc.id, ln: p.ln, group: '문단 길이', msg: `문단이 ${sentences.length}문장 (4문장 이내)`})
-    for (const m of countRules(p.text.split(/(?<=[.?!])\s*(?:\[F\d+\])*\s+/).filter(Boolean))) out.push({id: doc.id, ln: p.ln, group: '개수 규칙', msg: m})
+    for (const m of countRules(p.text.split(/(?<=[.?!])\s*(?:\[\^\d+\])*\s+/).filter(Boolean))) out.push({id: doc.id, ln: p.ln, group: '개수 규칙', msg: m})
   }
   const doc2 = all.map(p => p.text).join(' ')
   const contrast = (doc2.match(/[가이] 아니라/g) ?? []).length
