@@ -1727,7 +1727,7 @@
   "https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00014-eng.htm": {
     "first": "2026-10-18",
     "last": "2026-10-21",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://www.fnnews.com/news/202607021822011420": {
@@ -6403,6 +6403,18 @@
     "lastVerified": "2026-10-21"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1058927/full": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://ag.ny.gov/press-release/2021/attorney-general-james-issues-warning-about-scam-targeting-grandparents-during": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://www.justice.gov/usao-nh/elder-justice": {
     "first": "2026-10-21",
     "last": "2026-10-21",
     "result": "VERIFIED",
