@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T13:03:16.626Z",
-  "nextSeq": 837,
-  "stops": 68,
+  "savedAt": "2026-10-21T17:05:12.993Z",
+  "nextSeq": 851,
+  "stops": 69,
   "items": [
     {
-      "id": "d723b326",
-      "title": "dev: source-check 연결 타임아웃이 fetch failed 로 분류됨",
+      "id": "9bb475bb",
+      "title": "dev: source-check 가 200 으로 오는 점검 페이지를 NOT_FOUND 로 판정",
       "priority": 60,
-      "note": "2026-10-21 unused-annual-leave [^3] scholarworks.umass.edu: 같은 조건에서 '타임아웃 — 소멸', 'fetch failed — 소멸', '타임아웃 — 호스트 전체 막힘' 이 번갈아 나옴. 이제 reason 에 cause.code 가 붙으므로(dev 커밋 2026-10-21) 다음에 'fetch failed (<코드>)' 가 나오면 그 코드가 연결 단계 타임아웃인지 보고 분류에 넣을 것",
-      "createdAt": "2026-10-21T12:59:43.362Z",
-      "seq": 835
+      "note": "2026-10-21 feeling-rushed [^5] www150.statcan.gc.ca: curl 로 받으면 200, title 'Statistics Canada - We're sorry! The website is currently unavailable' 점검 페이지. 같은 날 앞선 실행은 VERIFIED. 봇 확인 패턴처럼 점검 페이지 패턴을 두어 UNREACHABLE 로 볼 것. 소멸 표시는 하지 않았다",
+      "createdAt": "2026-10-21T16:42:08.320Z",
+      "seq": 844
     },
     {
       "id": "ad4b1372",
@@ -75,6 +75,54 @@
       "note": "2026-10-21 SNS [^5] 네이트판 추가. 남은 후보: mumsnet.com/talk/relationships/4542111 (2022-05-02) 'I haven’t told him and don’t plan to as I hate myself for checking it.'(감추기·자책), mumsnet AIBU 5369167 (2025-07-07). 다툼: pann.nate.com/talk/364385079 '남편 핸드폰 몰래보는 문제로 대판' fetch 미확인. 82cook num=3180430 은 남편이 알고 있어 몰래 아님. 이전: gutenberg 768 21장 239자라 못 씀, teamblind 회사명 표시 제외",
       "createdAt": "2026-10-21T13:03:00.224Z",
       "seq": 836
+    },
+    {
+      "id": "8b487652",
+      "title": "driving-into-floodwater 보강: 다른 운전자를 보고 따라 건너기(사회적 압력), 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-21 unsw.edu.au 같은 글(F5) 'And when I saw four-wheel-drives coming towards me I thought, ‘okay I can do this’.', 'Pressure from passengers in the vehicle. Or pressure from other motorists on the road.' — 같은 URL 이라 다른 출처 필요. ehps 초록의 원인 문장은 246자. CDC mm4907a1 '10 (63%) involved trucks and/or sport-utility vehicles' 조건(같은 출처). 한국어: newsis NISX20180703_0000352671 (2018-07-03) 보험 과실, 운전자 동기 문장 미발견. delayed-evacuation 과 관계 후보",
+      "createdAt": "2026-10-21T16:42:08.477Z",
+      "seq": 845
+    },
+    {
+      "id": "0c173d38",
+      "title": "nostalgia 보강: 한국어 파편, 계절·명절 촉발 조건, homesickness 와 관계",
+      "priority": 50,
+      "note": "2026-10-21 후보: pmc.ncbi.nlm.nih.gov/articles/PMC13196901/ (Tsigeman 2026-03-01) 'Theoretical and empirical work consistently characterize it as a bittersweet experience, simultaneously blending warmth and social connectedness with longing or loss ( Wildschut et al., 2006 ).' gutenberg 15652 Hood 'I Remember, I Remember' 'My spirit flew in feathers then, That is so heavy now' (발행 연도 확인 필요). APS 2008 같은 글 'With the days getting shorter (and colder) and the Holidays quickly approaching, many of us start thinking back to days gone by.'(같은 URL). CBS 2021 '11% of adults 18-34 ... 29% for adults 65 and older' 나이 조건(같은 URL). 한국어 개인 그리움 기사 미발견(ajunews 20131118120051966 복고 소비는 약함)",
+      "createdAt": "2026-10-21T16:48:23.416Z",
+      "seq": 846
+    },
+    {
+      "id": "8e95f65c",
+      "title": "pretending-not-to-be-home 보강: 학술·SNS 파편, 수치심 원인, avoiding-creditors 와 관계",
+      "priority": 50,
+      "note": "2026-10-21 후보: gutenberg 8117 The Possessed (1872) 'Then, jumping up, apparently from his bed, he strode to the door and shouted at the top of his voice: “Shatov is not at home!”' (만나기 싫어 없는 척). yougov 50105 같은 글 'One-third (34%) say curiosity best describes their reaction to an unexpected knocker, while one-quarter (25%) are annoyed.'(같은 URL). prospectmagazine.co.uk/magazine/leith-on-life-the-doorbell-paradox (2014-08-20) 'To be at home but not at home' 매체. kyeonggi.com/article/20230323580174 (2023-03-23, curl UA 404) 낯선 방문객 불안. 공개 SNS(theqoo, Mumsnet 403) 미확보. 학술 파편 없음",
+      "createdAt": "2026-10-21T16:56:31.337Z",
+      "seq": 847
+    },
+    {
+      "id": "d71043c9",
+      "title": "nail-biting 보강: 비율 조건, 매체·SNS 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-21 후보: PMC3556753 같은 글 'The rates of NB in seven to 10-year-old children and during adolescent are suggested being 20–33% and 45%, respectively.'(같은 URL). kormedi.com/1606393/ (2023-07-21) '스트레스를 받으면 손톱을 물어뜯거나 피부를 벗기거나 머리카락을 쥐어뜯는 강박행동을 고치기 위한 과학적 치료법이 개발됐다.' 평가어 포함. 공공·SNS 미발견",
+      "createdAt": "2026-10-21T16:59:38.796Z",
+      "seq": 848
+    },
+    {
+      "id": "792d93cd",
+      "title": "overfilling-buffet-plates 보강: 공공 파편, 탐욕·충동성·접시 크기 원인",
+      "priority": 50,
+      "note": "2026-10-21 PMC10451323 같은 글 'Consequently, dispositional greed drives consumers to buy more food than they can consume.', 'For example, physical design aspects such as plate size and shape have been found to influence plate waste [33,34].'(같은 URL). gulfnews 같은 글 'Their initial finding - that guests ate just a little more than half of the food put out - surprised almost everyone.' 공공(환경부, 구청 보도자료 gangdong.go.kr/web/newportal/press/1772) 은 권고만 있어 미발견. hangyo 같은 글 '음식을 남기면 벌금 5,000원입니다'",
+      "createdAt": "2026-10-21T17:02:33.304Z",
+      "seq": 849
+    },
+    {
+      "id": "6162ff71",
+      "title": "sighing 보강: 한국어 파편, 답답함·좌절의 한숨, 안도 뒤 한숨",
+      "priority": 50,
+      "note": "2026-10-21 research.vu.nl 같은 초록 'Sighing has been suggested to occur both during stress and negative emotions, such as panic and pain, and during positive emotions, such as relaxation and relief.'(같은 URL). psypost 같은 기사 'Muscle tension decreased moderately in the post-sigh measurement period'. 문학에서 안도의 한숨(sigh of relief) 대목 미발견(gutenberg 1342, 1400). 한국어 매체 미검색",
+      "createdAt": "2026-10-21T17:04:20.783Z",
+      "seq": 850
     },
     {
       "id": "e8ba47a7",
