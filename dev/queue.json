@@ -1,9 +1,81 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T08:56:06.750Z",
-  "nextSeq": 785,
-  "stops": 66,
+  "savedAt": "2026-10-21T11:12:53.824Z",
+  "nextSeq": 827,
+  "stops": 67,
   "items": [
+    {
+      "id": "8f2e9812",
+      "title": "source-check: reference-dependence regret-aversion rehearsing-what-to-say replaying-conversations-afterward rereading-messages-before-sending retail-therapy retelling-same-story returning-home-feels-strange reusing-leftover-medicine ritual-refusal",
+      "priority": 100,
+      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
+      "createdAt": "2026-10-21T10:34:03.390Z",
+      "seq": 813
+    },
+    {
+      "id": "3079e7e1",
+      "title": "source-check: romantic-jealousy rough-affection schadenfreude school-refusal self-perceived-burden self-silencing shame-after-unanswered-message showing-off-possessions shrinking-in-hosts-home shy-bladder",
+      "priority": 100,
+      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
+      "createdAt": "2026-10-21T10:34:03.534Z",
+      "seq": 814
+    },
+    {
+      "id": "e1f9d31b",
+      "title": "source-check: sickness-presenteeism silent-exit silent-work-awaiting-reward skipping-breakfast skipping-flu-vaccine skipping-handwashing skipping-holiday-gatherings smartphone-checking-habit snooping-on-partners-phone snoozing-the-alarm",
+      "priority": 100,
+      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
+      "createdAt": "2026-10-21T10:34:03.665Z",
+      "seq": 815
+    },
+    {
+      "id": "ac4316dc",
+      "title": "source-check: social-anxiety-safety-behaviors social-withdrawal-at-home speeding spotlight-effect spouse-financial-concealment staircase-wit staying-in-group-chats staying-late-for-boss staying-quiet-in-groups staying-silent-at-line-cutting",
+      "priority": 100,
+      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
+      "createdAt": "2026-10-21T10:34:03.804Z",
+      "seq": 816
+    },
+    {
+      "id": "b4c922d9",
+      "title": "source-check: stopping-greeting-unresponsive-neighbor stopping-medication-when-feeling-better suicide-bereavement-self-blame sunday-night-dread sunscreen-nonuse superstitious-rituals suppressed-anger-outburst talking-to-oneself teasing-someone-liked thank-you-gift",
+      "priority": 100,
+      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
+      "createdAt": "2026-10-21T10:34:03.962Z",
+      "seq": 817
+    },
+    {
+      "id": "4cd3c52e",
+      "title": "source-check: threat-in-receiving-help tidying-before-guests tip-of-the-tongue unrealistic-optimism unsent-letters unused-annual-leave unused-subscription urge-to-cancel-plans waiting-for-a-reply waiting-for-someone-late",
+      "priority": 100,
+      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
+      "createdAt": "2026-10-21T10:34:04.090Z",
+      "seq": 818
+    },
+    {
+      "id": "e9f4515f",
+      "title": "source-check: walking-dog-off-leash wanting-to-keep-working-in-old-age weekend-catch-up-sleep weighing-gift-money wishing-guests-would-leave withdrawing-after-job-loss work-rumination-after-hours writing-without-sending",
+      "priority": 100,
+      "note": "2026-10-21 d4af0c5 (#1 각주 전환)로 바뀐 문서. --changed 대상 208개라 10개씩 나눔",
+      "createdAt": "2026-10-21T10:34:04.220Z",
+      "seq": 819
+    },
+    {
+      "id": "08fffa97",
+      "title": "dev: source-check 호스트 예외에 TLS 인증서 실패 포함",
+      "priority": 60,
+      "note": "2026-10-21 ignoring-emergency-alerts [^2] start.umd.edu/publication/cry-wolf-effect-... 가 fetch failed. curl 로 글과 / 모두 'self-signed certificate in certificate chain'(프록시 CA 번들로도 동일). 2026-10-18 VERIFIED 였던 글이 호스트 TLS 문제로 소멸 표시됨. / 도 같은 TLS 오류면 호스트 전체 막힘으로 보는 예외 후보(덜 잡게 하는 변경인지 먼저 따질 것)",
+      "createdAt": "2026-10-21T10:56:49.991Z",
+      "seq": 822
+    },
+    {
+      "id": "dfc1940f",
+      "title": "dev: source-check 호스트 예외에 5xx 포함",
+      "priority": 60,
+      "note": "2026-10-21 no-time-to-exercise [^2] abs.gov.au/AUSSTATS/... 503, abs.gov.au/ 도 503(서버 장애). 2026-10-19 VERIFIED 글이 소멸 표시됨. TLS 실패 항목(start.umd.edu, ignoring-emergency-alerts)과 같이 다룰 것",
+      "createdAt": "2026-10-21T11:04:55.336Z",
+      "seq": 824
+    },
     {
       "id": "3f6b75fd",
       "title": "snooping-on-partners-phone 보강: 문학·SNS 파편, 결과(다툼) 간선",
@@ -19,6 +91,38 @@
       "note": "2026-10-21: 돈 불안을 다루는 문서가 없다(find 불안, 돈). onefamily F4 의 '36% ... feel anxious at the thought of checking them' 은 같은 URL 이라 못 씀. 원인 간선은 '돈 걱정/재정 불안' 신규 문서가 먼저. 이전 후보: link.springer.com/10.1007/978-3-319-57568-1_7 (Custers 2017, avoiding-creditors F3) 'not opening letters' — avoiding-creditors 와 관계 후보. gall.dcinside.com cs_new1 8892409 (2026-08-05) 전기세 고지서",
       "createdAt": "2026-10-21T08:55:31.013Z",
       "seq": 783
+    },
+    {
+      "id": "931fba3e",
+      "title": "abandoning-returns 보강: SNS 파편과 non-complaining 관계",
+      "priority": 50,
+      "note": "2026-10-21 SNS 후보 미발견(anandtech 봇 확인, purseblog·beautylish 403, clien·weolbu 해당 대목 없음). legalshield 같은 글 '29% of shoppers choose to \"do nothing\" because they feel the resolution isn't worth the hassle.' 는 non-complaining 과 관계 후보. 후보: shorr.com/resources/blog/consumer-report-return-habits (2025-12-16) 69%, retailgazette 2017-03-31 'never got around to returning' 26%. accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저는 non-complaining 조건 후보",
+      "createdAt": "2026-10-21T10:49:48.539Z",
+      "seq": 820
+    },
+    {
+      "id": "8d92d8da",
+      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
+      "createdAt": "2026-10-21T10:56:50.105Z",
+      "seq": 823
+    },
+    {
+      "id": "32da8be1",
+      "title": "no-time-to-exercise: abs.gov.au 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 전체 503 으로 소멸 표시",
+      "createdAt": "2026-10-21T11:04:55.510Z",
+      "seq": 825
+    },
+    {
+      "id": "d0f0297e",
+      "title": "panic-buying: abs.gov.au 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 abs.gov.au 호스트 전체 503 으로 [^2] 소멸 표시. dev: source-check 호스트 예외에 5xx 포함 항목의 두 번째 사례",
+      "createdAt": "2026-10-21T11:11:12.446Z",
+      "seq": 826
     },
     {
       "id": "e8ba47a7",
@@ -1115,6 +1219,14 @@
       "note": "2026-10-21 leaving-mail-unopened 의 원인 후보(onefamily 2025 '5 million young adults avoid checking bills due to money anxiety'). moneyadvicetrust 2024 'unable to cope due to money worries'",
       "createdAt": "2026-10-21T08:55:31.184Z",
       "seq": 784
+    },
+    {
+      "id": "db277f2d",
+      "title": "건강검진 유소견 후 재검 미루기",
+      "priority": 10,
+      "note": "koreascience.or.kr/article/JAKO200331462790769.page?lang=ko (권복순 외 2003) '추후의료기관을 이용하지 않은 이유는 가벼운 질환인 것 같아서가 32.4%로 가장 높았으며' (Mozilla UA 로만 열림). medical-care-avoidance 하위 후보. 공공 HTML 출처 미발견",
+      "createdAt": "2026-10-21T10:49:48.691Z",
+      "seq": 821
     },
     {
       "id": "02b2f242",
