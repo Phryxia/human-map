@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T02:53:45.058Z",
-  "nextSeq": 779,
-  "stops": 65,
+  "savedAt": "2026-10-21T08:56:06.750Z",
+  "nextSeq": 785,
+  "stops": 66,
   "items": [
-    {
-      "id": "437007cf",
-      "title": "confiding-in-strangers 관계: keeping-hardship-to-oneself 와 긴장, 조건(상대가 먼저 털어놓을 때)",
-      "priority": 50,
-      "note": "2026-10-20 후보: psychologytoday.com/gb/blog/consequential-strangers/201003/... (F3 와 같은 출처) 'We can talk about ourselves without worrying that it will get back to the people closest to us.' 'we're more likely to tell our troubles to a stranger if the other person opens up first'(Rubin 버스 터미널·공항 연구). airlineratings.com/articles/airborne-intimacy-what-and-why-we-confess-on-high (2014-05-01) 'Then there’s the absence of consequence.' 매체 다른 출처. gutenberg 8744 Turgenev Hamlet of Shchigry 'Why have I begun talking so unexpectedly to you, a man utterly a stranger?' 문학 후보. 한국어 매체 미발견",
-      "createdAt": "2026-10-20T13:42:30.661Z",
-      "seq": 768
-    },
-    {
-      "id": "3a54df36",
-      "title": "leaving-mail-unopened 보강: 원인 간선(빚, 돈 불안)과 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-10-20 후보: onefamily 같은 글 'More than a third (36%) who have done this say it's because they feel anxious at the thought of checking them' (불안이 원인, 여 41% 남 30% 조건). link.springer.com/10.1007/978-3-319-57568-1_7 (Custers 2017, avoiding-creditors 에서 사용) 'not opening letters' — avoiding-creditors 와 관계 후보. gutenberg 599 Vanity Fair (1848) 'did not hurry himself to break the seal of Miss Dobbin's letter' 문장 일부라 보류, gutenberg 766 David Copperfield(1850) 동일. jlpartners.kr 의뢰인후기 2026-08-12 독촉장 서랍 3년(광고성). gall.dcinside.com cs_new1 8892409 (2026-08-05) 전기세 고지서",
-      "createdAt": "2026-10-20T13:52:18.587Z",
-      "seq": 769
-    },
     {
       "id": "3f6b75fd",
       "title": "snooping-on-partners-phone 보강: 문학·SNS 파편, 결과(다툼) 간선",
@@ -27,6 +11,14 @@
       "note": "2026-10-20 gutenberg 768 Wuthering Heights 21장 'My curiosity and suspicions were roused; ...' 239자라 못 씀(편지 몰래 읽기, 같은 장에서 200자 이하 문장 찾기). teamblind.com/kr/post/-kbE0kmi4 (2022-02-08) 페이지 머리에 회사명 표시라 제외. CHI 2019 'Vulnerability & Blame' dl.acm.org 봇 확인. khan F1 같은 글 '연인의 다른 이성을 감시하기 위해서' 는 비밀번호 공유 이유",
       "createdAt": "2026-10-20T13:55:30.860Z",
       "seq": 770
+    },
+    {
+      "id": "ad4b1372",
+      "title": "leaving-mail-unopened 보강: 원인 간선(빚, 돈 불안)과 다른 시기 파편",
+      "priority": 50,
+      "note": "2026-10-21: 돈 불안을 다루는 문서가 없다(find 불안, 돈). onefamily F4 의 '36% ... feel anxious at the thought of checking them' 은 같은 URL 이라 못 씀. 원인 간선은 '돈 걱정/재정 불안' 신규 문서가 먼저. 이전 후보: link.springer.com/10.1007/978-3-319-57568-1_7 (Custers 2017, avoiding-creditors F3) 'not opening letters' — avoiding-creditors 와 관계 후보. gall.dcinside.com cs_new1 8892409 (2026-08-05) 전기세 고지서",
+      "createdAt": "2026-10-21T08:55:31.013Z",
+      "seq": 783
     },
     {
       "id": "e8ba47a7",
@@ -179,6 +171,14 @@
       "note": "2026-10-21 ag.ny.gov/press-release/2021/attorney-general-james-issues-warning-about-scam-targeting-grandparents-during (2021-01-06) 'many victims are often embarrassed and do not want to tell anyone that they fell for the scam.', justice.gov/usao-nh/elder-justice 'they may be too ashamed of being scammed'. clien park/17520704 (2022-08-29) 피해 뒤 자책. econpapers mrrpapers/wp434 DeLiema 2021 'trust in the imposter'. 2010·2026 시기 조건은 F1·F4",
       "createdAt": "2026-10-21T02:52:56.423Z",
       "seq": 777
+    },
+    {
+      "id": "ac26ceb9",
+      "title": "confiding-in-strangers 와 keeping-hardship-to-oneself 대립 근거",
+      "priority": 30,
+      "note": "2026-10-21 후보(같은 사람 안 두 면): fox8.com/news/offering-hope-answering-the-national-suicide-prevention-lifeline/amp/ (2018-09-12) 'It’s easier to call a stranger, sadly, than it is may be to speak to your own loved ones' 매체. 82cook.com/entiz/read.php?bn=15&num=2588668 (2018-06-26 댓글) '힘든일 안좋은일은 가까운 사람한테일수록 얘기를 안하게 되요' curl 연결 끊김, 원문 미확인. 반대 방향으로 민다는 문장은 미발견. 서울신문 2019 F6 은 confiding-in-strangers 에 사용",
+      "createdAt": "2026-10-21T08:55:01.018Z",
+      "seq": 782
     },
     {
       "id": "3797cf1d",
@@ -1107,6 +1107,14 @@
       "note": "2026-10-21 clien.net/service/board/park/17520704 (2022-08-29) '제 자신이 너무 초라해보이고 무능력 해 보여서 정신적으로 너무 힘들었습니다', clien park/18400094 (2023-11-02) 대환대출 사기 '자괴감이 너무 밀려와요'. complying-with-impersonation-calls 결과 후보",
       "createdAt": "2026-10-21T02:52:56.556Z",
       "seq": 778
+    },
+    {
+      "id": "cb760e3b",
+      "title": "돈 걱정",
+      "priority": 10,
+      "note": "2026-10-21 leaving-mail-unopened 의 원인 후보(onefamily 2025 '5 million young adults avoid checking bills due to money anxiety'). moneyadvicetrust 2024 'unable to cope due to money worries'",
+      "createdAt": "2026-10-21T08:55:31.184Z",
+      "seq": 784
     },
     {
       "id": "02b2f242",
