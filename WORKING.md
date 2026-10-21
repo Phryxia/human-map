@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-없음.
+- 2026-10-21T12:32Z | 2026-10-21T12:43Z | source-check 기록 (10개 문서), spouse-financial-concealment 소멸 표시 | dev/sources.json, spouse-financial-concealment
