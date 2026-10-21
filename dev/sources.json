@@ -6059,5 +6059,17 @@
     "last": "2026-10-21",
     "result": "VERIFIED",
     "lastVerified": "2026-10-21"
+  },
+  "https://m.seoul.co.kr/news/2007/10/16/20071016023006": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
+  },
+  "https://hangyo.com/news/article.html?no=94555": {
+    "first": "2026-10-21",
+    "last": "2026-10-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-21"
   }
 }
