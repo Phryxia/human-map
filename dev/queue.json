@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T11:05:07.021Z",
-  "nextSeq": 981,
+  "savedAt": "2026-10-22T11:05:57.532Z",
+  "nextSeq": 983,
   "stops": 77,
   "items": [
     {
@@ -149,14 +149,6 @@
       "seq": 962
     },
     {
-      "id": "5a2bc5d4",
-      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-22 서울신문 1997 신고 뒤 보복 더함. 남은 후보: boards.straightdope.com/t/370475 (2006-08-28) 신고자임이 알려질까 보복 두려움(같은 플랫폼 다른 계정이나 한 문서 한 출처면 [^6] 와 다른 글이라 가능), kicj 2025 9.8%",
-      "createdAt": "2026-10-22T11:02:10.974Z",
-      "seq": 968
-    },
-    {
       "id": "949a6841",
       "title": "believing-reporting-is-futile 보강: 학술·SNS 파편, 다른 시기",
       "priority": 50,
@@ -171,6 +163,14 @@
       "note": "2026-10-22 thegazette 100799·100356 공공 파편 더함. 남은 후보: biz.sbs.co.kr/amp/article/20000107065 (2023-03-09) '나쁜 미래를 대비한다는 것이 마음에 걸리기도'. 죽음 생각 회피 신규 현상과 원인 간선 후보",
       "createdAt": "2026-10-22T11:04:36.791Z",
       "seq": 974
+    },
+    {
+      "id": "4a7c7715",
+      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-22 매체 3, 학술, 공공, SNS 2 더함. 남은 후보: kicj 2025 9.8%(곧은 따옴표 없는 문장 필요). 문학 출처 미탐색",
+      "createdAt": "2026-10-22T11:05:57.391Z",
+      "seq": 982
     },
     {
       "id": "e8ba47a7",
