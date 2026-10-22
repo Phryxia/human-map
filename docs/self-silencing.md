@@ -43,6 +43,7 @@
 ## 결과
 
 - [참아 온 불만의 폭발](suppressed-anger-outburst.md)[^1]
+- [엉뚱한 대상에게 화풀이하기](displaced-aggression.md)
 
 ## 대립
 

@@ -2,7 +2,7 @@
 
 사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.
 
-문서 34개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 35개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [같은 이야기 되풀이](../docs/retelling-same-story.md) 자기 지난 일을 이야기하는 사람이 이미 그 이야기를 들은 상대에게 같은 이야기를 다시 들려준다.
 - [결혼 전 불안](../docs/pre-wedding-doubts.md) 결혼을 앞둔 사람이 이 결혼을 해도 될지 의심하거나 두려워한다.
@@ -19,6 +19,7 @@
 - [애정을 거친 말이나 행동으로 드러내기](../docs/rough-affection.md) 가까운 사람을 아끼는 사람이 그 마음을 다정한 말 대신 퉁명스러운 말이나 놀림으로 드러낸다.
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)
   - [좋아하는 상대 괴롭히기](../docs/teasing-someone-liked.md)
+- [엉뚱한 대상에게 화풀이하기](../docs/displaced-aggression.md) 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
 - [연애 질투](../docs/romantic-jealousy.md) 연인을 둔 사람이 연인 곁의 경쟁자나 사소한 단서를 보고 연인을 의심하며 괴로워한다.
 - [연인의 휴대폰 몰래 보기](../docs/snooping-on-partners-phone.md) 배우자나 연인의 휴대전화를 그 사람 몰래 열어 본다.
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.

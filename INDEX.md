@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 233개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 234개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -149,6 +149,7 @@
 - [얹혀사는 집에서 몸 낮추기](docs/shrinking-in-hosts-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얼굴 붉어짐](docs/blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엄숙한 자리에서 터지는 웃음](docs/laughing-at-solemn-occasions.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [엉뚱한 대상에게 화풀이하기](docs/displaced-aggression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [에너지 요금 때문에 식비 줄이기](docs/heat-or-eat.md) ([돈과 소비](groups/money.md))
 - [엘리베이터 안의 침묵](docs/elevator-silence.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [연애 질투](docs/romantic-jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

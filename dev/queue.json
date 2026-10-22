@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T10:36:23.472Z",
-  "nextSeq": 955,
+  "savedAt": "2026-10-22T10:43:28.330Z",
+  "nextSeq": 957,
   "stops": 77,
   "items": [
     {
@@ -643,14 +643,6 @@
       "note": "Maupassant The Necklace(gutenberg pg3080-images) 'there’s nothing more humiliating than to look poor among other women who are rich.' showing-off-possessions 와 concealing-poverty 관련 후보",
       "createdAt": "2026-10-18T14:56:26.209Z",
       "seq": 334
-    },
-    {
-      "id": "278fe775",
-      "title": "분노를 엉뚱한 대상에게 옮기기",
-      "priority": 10,
-      "note": "suppressed-anger-outburst F1(Carfagnini 2005 'anger outbursts and displacement'). 전위된 분노, suppressed-anger-outburst 결과 후보",
-      "createdAt": "2026-10-18T16:38:15.813Z",
-      "seq": 342
     },
     {
       "id": "34a8fa00",
@@ -1323,6 +1315,14 @@
       "note": "2026-10-22 wikitree.co.kr/articles/1141915 (2026-06-17) 청첩장을 돌려 파혼 결정을 못 함(pre-wedding-doubts [^8]). pre-wedding-doubts 와 관계 후보",
       "createdAt": "2026-10-22T07:01:20.238Z",
       "seq": 942
+    },
+    {
+      "id": "5bd13a89",
+      "title": "분노를 곱씹기 (분노 반추)",
+      "priority": 10,
+      "note": "displaced-aggression [^4] Bushman 2005 kar.kent.ac.uk/34963: 도발을 곱씹으면 전위된 공격이 커짐. displaced-aggression 원인 후보",
+      "createdAt": "2026-10-22T10:43:28.191Z",
+      "seq": 956
     },
     {
       "id": "02b2f242",
