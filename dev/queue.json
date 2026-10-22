@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T10:57:30.768Z",
-  "nextSeq": 963,
+  "savedAt": "2026-10-22T10:59:38.787Z",
+  "nextSeq": 965,
   "stops": 77,
   "items": [
     {
@@ -147,6 +147,14 @@
       "note": "2026-10-22 sciencedaily 2012-09-13 이혼율 19% 대 8% 조건 더함. 이혼이나 결혼 만족 문서가 생기면 결과 간선 후보. 매몰비용 문서가 생기면 원인 후보(위키트리 [^9])",
       "createdAt": "2026-10-22T10:57:30.646Z",
       "seq": 962
+    },
+    {
+      "id": "2adbda02",
+      "title": "not-reporting-for-fear-of-reprisal 보강: SNS·문학 파편, 다른 시기",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦(학술 Felson 2002, 매체 서울신문 2003, 공공 BJS 2012). 남은 후보: kicj.re.kr list_no=16396 (2025-04-08) 폭력피해 '보복이 두려워서' 9.8% (원문에 곧은 따옴표가 있어 다른 문장 필요), 학교폭력·직장 내 괴롭힘 보복 우려 기사",
+      "createdAt": "2026-10-22T10:59:38.642Z",
+      "seq": 964
     },
     {
       "id": "e8ba47a7",
@@ -493,14 +501,6 @@
       "seq": 251
     },
     {
-      "id": "605345df",
-      "title": "보복이 두려워 신고하지 않기",
-      "priority": 10,
-      "note": "not-reporting-crime 원인 후보: BJS 2012 보도자료 'women (20 percent) ... afraid of reprisal or of getting the offender in trouble', Felson 2002 fear of reprisal. 하위 또는 원인",
-      "createdAt": "2026-10-18T09:37:34.596Z",
-      "seq": 267
-    },
-    {
       "id": "a217ef72",
       "title": "신고해도 소용없다는 믿음",
       "priority": 10,
@@ -571,14 +571,6 @@
       "note": "Natale 외 1979 JPSP 37(6) Europe PMC EXT_ID:490308: interruptive behavior is inversely related to social anxiety (fear of negative evaluation). fear-of-negative-evaluation 결과 후보",
       "createdAt": "2026-10-18T10:40:04.963Z",
       "seq": 288
-    },
-    {
-      "id": "e02cd85e",
-      "title": "보복이 두려워 신고하지 않기",
-      "priority": 10,
-      "note": "KICJ 2025-04-08 이슈통계(list_no=16396) 폭력범죄 미신고 이유 '보복이 두려워서' 9.8%, Felson 2002 fear of reprisal. not-reporting-crime 하위 또는 원인 후보",
-      "createdAt": "2026-10-18T10:45:43.664Z",
-      "seq": 289
     },
     {
       "id": "93649c9a",
