@@ -2,7 +2,7 @@
 
 사람이 결과를 모르는 일을 걱정하거나 확인하고 기분을 바꾸려고 하는 일이다.
 
-문서 24개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 25개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [기분 회복 행동](../docs/mood-repair.md) 기분이 나쁜 사람이 그 기분을 낫게 하려고 먹기, 마시기, 사기, 자기 같은 행동을 한다.
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
@@ -10,6 +10,7 @@
     - [노후 준비 미루기](../docs/delaying-retirement-saving.md)
     - [답장 미루기](../docs/delaying-message-replies.md)
     - [세금 신고 마감 직전까지 미루기](../docs/last-minute-tax-filing.md)
+    - [소프트웨어 업데이트 미루기](../docs/delaying-software-updates.md)
     - [유언장 작성 미루기](../docs/delaying-will-writing.md)
     - [잠자리 미루기](../docs/bedtime-procrastination.md)
     - [장기기증 등록 미루기](../docs/delaying-organ-donor-registration.md)
