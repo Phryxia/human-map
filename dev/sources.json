@@ -3027,9 +3027,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2600/pg2600-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.seoul.co.kr/news/1993/02/17/19930217012001": {
     "first": "2026-10-18",
@@ -6437,5 +6437,29 @@
     "last": "2026-10-21",
     "result": "VERIFIED",
     "lastVerified": "2026-10-21"
+  },
+  "https://ko.wikisource.org/wiki/여수_(정인택)": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6389229/": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://annabelport.substack.com/p/asking-someone-to-repeat-themselves": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://brunch.co.kr/@smallwave5/2021": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
   }
 }

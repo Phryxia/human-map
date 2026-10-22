@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 225개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 226개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -137,6 +137,7 @@
 - [아픈 것을 가족에게 숨기기](docs/hiding-illness-from-family.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [악의적 시기](docs/malicious-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [알람 끄고 다시 잠들기](docs/snoozing-the-alarm.md) ([시간과 하루 습관](groups/daily-time.md))
+- [알아들은 척하기](docs/pretending-to-understand.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [압박에 못 이겨 팁 주기](docs/guilt-tipping.md) ([돈과 소비](groups/money.md))
 - [애정을 거친 말이나 행동으로 드러내기](docs/rough-affection.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [야반도주](docs/moonlight-flit.md) ([돈과 소비](groups/money.md))

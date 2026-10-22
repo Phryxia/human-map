@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T00:34:33.212Z",
-  "nextSeq": 904,
+  "savedAt": "2026-10-22T00:42:25.030Z",
+  "nextSeq": 910,
   "stops": 72,
   "items": [
     {
@@ -27,6 +27,14 @@
       "note": "2026-10-21 22:5xZ www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
       "createdAt": "2026-10-21T22:55:22.479Z",
       "seq": 899
+    },
+    {
+      "id": "5f8b94e6",
+      "title": "dev: style-check 번역체 '다시 말해' 가 '다시 말해 달라고'(되묻기)를 잡는 오탐",
+      "priority": 60,
+      "note": "2026-10-22 pretending-to-understand 조건 절 초안 '상대에게 다시 말해 달라고 하고도' 를 '다시 말해' 로 잡음. 오탐 사례 하나 더 모아 '다시 말해 (달라|주|줘)' 를 뺄 것",
+      "createdAt": "2026-10-22T00:42:14.833Z",
+      "seq": 905
     },
     {
       "id": "931fba3e",
@@ -123,6 +131,14 @@
       "note": "2026-10-21 신설. 경향신문 2026-04-13 (F4 같은 URL) '부어라 마셔라 식의 술자리 분위기가 사라지면서 과도한 음주를 하는 비율도 감소' 는 같은 출처라 못 씀. 다른 출처로 회식 문화 변화와 폭음 감소 조건, 공공 파편(질병관리청 원 보도자료), SNS 파편 필요",
       "createdAt": "2026-10-21T22:45:10.532Z",
       "seq": 895
+    },
+    {
+      "id": "ea3f62ea",
+      "title": "pretending-to-understand 보강: 결과 간선과 빈도",
+      "priority": 50,
+      "note": "2026-10-22 후보: PMC6324389 (Levy 2018) 의사 지시를 못 알아들었다고 말하지 않음 31.8%/24.3%, ojed.org/index.php/jis/article/view/530 (Terui 2012) 유학생의 이해한 척 대처 전략, superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨(결과), noba.to 2015-06-04 수업에서 손 안 들기 pluralistic-ignorance 관계 후보",
+      "createdAt": "2026-10-22T00:42:24.910Z",
+      "seq": 909
     },
     {
       "id": "e8ba47a7",
@@ -1275,6 +1291,14 @@
       "note": "koreascience.or.kr/article/JAKO200331462790769.page?lang=ko (권복순 외 2003) '추후의료기관을 이용하지 않은 이유는 가벼운 질환인 것 같아서가 32.4%로 가장 높았으며' (Mozilla UA 로만 열림). medical-care-avoidance 하위 후보. 공공 HTML 출처 미발견",
       "createdAt": "2026-10-21T10:49:48.691Z",
       "seq": 821
+    },
+    {
+      "id": "6f8ed8bb",
+      "title": "읽지 못함을 숨기기",
+      "priority": 10,
+      "note": "2026-10-22 pretending-to-understand 탐색 중. scholars.uky.edu/en/publications/shame-and-health-literacy-the-unspoken-connection/ (Parikh 외 1996) 'Many patients with reading problems are ashamed and hide their inability to read.' 수치심 원인 후보. pretending-to-understand 와 관계 후보",
+      "createdAt": "2026-10-22T00:42:24.788Z",
+      "seq": 908
     },
     {
       "id": "02b2f242",

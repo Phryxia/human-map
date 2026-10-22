@@ -34,6 +34,7 @@
 
 ## 결과
 
+- [알아들은 척하기](pretending-to-understand.md)
 - [대화 뒤 되짚기](replaying-conversations-afterward.md)[^3]
 - [얼굴 붉어짐](blushing.md)[^4]
 - [수줍은 방광](shy-bladder.md)
