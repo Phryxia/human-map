@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T04:35:16.963Z",
-  "nextSeq": 914,
+  "savedAt": "2026-10-22T04:44:11.852Z",
+  "nextSeq": 916,
   "stops": 74,
   "items": [
     {
@@ -147,6 +147,14 @@
       "note": "2026-10-22 후보: asol.ling.utexas.edu/salsa/proceedings/2000/sun.pdf (2000, PDF 미확인) 'The propitiatory function is to defuse potential hostility of silence', pmc PMC10970140 (Latkin 2024) 날씨 대화는 인사치레 수단, ipsos.com/en-uk/45-percent-agree-brits-talk-about-weather-too-much (2024-09-02) 22%/45%, allurekorea 같은 글 엘리베이터 장면 '그리고 침묵.', 82cook bn=15 num=3267620 (2021-08-04) 댓글 '본인도 날씨 얘기 같은 거 말하고 싶어서 하겠어요?' 미대조",
       "createdAt": "2026-10-22T01:00:58.221Z",
       "seq": 913
+    },
+    {
+      "id": "90354b1c",
+      "title": "hiding-hearing-loss 보강: 원인·결과 간선과 공공 파편",
+      "priority": 50,
+      "note": "2026-10-22 후보: NIA nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults (2017-05-17) 'Some people may not want to admit they have trouble hearing.' 와 창피함 때문에 위축된다는 문장(curl UA 는 WAF, 브라우저 UA 만 열림). cambridgenetwork.co.uk/news/adults-take-time-seek-sound-advice (2013-09-13) 창피함 등으로 도움 요청 지연 → medical-care-avoidance 와 관계 후보. pretending-to-understand 와 관계 후보: hearinghealthmatters 2019 '알아듣는 척'",
+      "createdAt": "2026-10-22T04:44:11.719Z",
+      "seq": 915
     },
     {
       "id": "e8ba47a7",
