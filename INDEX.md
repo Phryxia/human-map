@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 227개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 228개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -35,6 +35,7 @@
 - [나쁜 소식 확인 미루기](docs/delaying-bad-news.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [나아지면 약 끊기](docs/stopping-medication-when-feeling-better.md) ([건강과 위험](groups/health-and-safety.md))
 - [낙관 편향](docs/unrealistic-optimism.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [날씨 이야기로 말문 열기](docs/weather-small-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [날짜 표시만 보고 음식 버리기](docs/discarding-food-by-date-label.md) ([돈과 소비](groups/money.md))
 - [남 탓하기](docs/blaming-others.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남은 약 다시 먹기](docs/reusing-leftover-medicine.md) ([건강과 위험](groups/health-and-safety.md))

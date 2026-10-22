@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T00:51:23.326Z",
-  "nextSeq": 912,
+  "savedAt": "2026-10-22T01:00:58.339Z",
+  "nextSeq": 914,
   "stops": 72,
   "items": [
     {
@@ -147,6 +147,14 @@
       "note": "2026-10-22 후보: spsp.org/news-center/character-context-blog/how-technology-complicates-breakup-process (2020-09-14) 'people who were nostalgic reported being more likely to hold onto digital items, which in turn led them to adjust less well' (nostalgia 원인 후보, 보존이지 읽기 아님), eprints.lancs.ac.uk/id/eprint/60831 (Sas 2013) 이별 뒤 디지털 소지품, link.springer.com/article/10.1007/s12144-018-0006-5 (Bassett 2018) 고인 메시지 second loss, community.thriveglobal.com/trying-to-digest-the-grief-soaked-digital-breadcrumbs/ (2018-12-11). keeping-belongings-of-the-dead 와 관계 후보",
       "createdAt": "2026-10-22T00:51:23.199Z",
       "seq": 911
+    },
+    {
+      "id": "2ae01992",
+      "title": "weather-small-talk 보강: 학술 파편과 elevator-silence 관계",
+      "priority": 50,
+      "note": "2026-10-22 후보: asol.ling.utexas.edu/salsa/proceedings/2000/sun.pdf (2000, PDF 미확인) 'The propitiatory function is to defuse potential hostility of silence', pmc PMC10970140 (Latkin 2024) 날씨 대화는 인사치레 수단, ipsos.com/en-uk/45-percent-agree-brits-talk-about-weather-too-much (2024-09-02) 22%/45%, allurekorea 같은 글 엘리베이터 장면 '그리고 침묵.', 82cook bn=15 num=3267620 (2021-08-04) 댓글 '본인도 날씨 얘기 같은 거 말하고 싶어서 하겠어요?' 미대조",
+      "createdAt": "2026-10-22T01:00:58.221Z",
+      "seq": 913
     },
     {
       "id": "e8ba47a7",
