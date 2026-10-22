@@ -82,7 +82,7 @@
 - [미어캣 효과](docs/meerkat-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [반려견 목줄 풀어 두기](docs/walking-dog-off-leash.md) ([건강과 위험](groups/health-and-safety.md))
 - [반응 없는 게시물 지우기](docs/deleting-posts-with-few-reactions.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
-- [반품 포기](docs/abandoning-returns.md) ([돈과 소비](groups/money.md))
+- [반품 포기](docs/abandoning-returns.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [받은 편지와 메시지 되풀이해 읽기](docs/rereading-received-messages.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [밤길 혼자 걷기 두려움](docs/fear-of-walking-alone-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [방관자 효과](docs/bystander-effect.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

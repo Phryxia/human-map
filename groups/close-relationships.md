@@ -2,7 +2,7 @@
 
 사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.
 
-문서 33개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 34개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [같은 이야기 되풀이](../docs/retelling-same-story.md) 자기 지난 일을 이야기하는 사람이 이미 그 이야기를 들은 상대에게 같은 이야기를 다시 들려준다.
 - [결혼 전 불안](../docs/pre-wedding-doubts.md) 결혼을 앞둔 사람이 이 결혼을 해도 될지 의심하거나 두려워한다.
@@ -29,6 +29,7 @@
   - [보내지 않는 편지 쓰기](../docs/unsent-letters.md)
   - [보상을 기다리며 불만 없이 일하기](../docs/silent-work-awaiting-reward.md)
   - [불만 제기 회피](../docs/non-complaining.md)
+    - [반품 포기](../docs/abandoning-returns.md)
     - [조용한 이탈](../docs/silent-exit.md)
   - [층간소음 참기](../docs/enduring-neighbor-noise.md)
   - [힘든 사정 털어놓지 않기](../docs/keeping-hardship-to-oneself.md)

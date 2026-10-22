@@ -221,21 +221,21 @@
   },
   "https://jyx.jyu.fi/jyx/Record/jyx_123456789_55942/Description": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-10-17"
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
   },
   "https://repository.uwl.ac.uk/id/eprint/6500/": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.teamblind.com/kr/post/남자들은-컴플레인-거의-안하지-않아-nXMj5hQT": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ko.wikisource.org/wiki/탈출기": {
     "first": "2026-10-17",
@@ -719,9 +719,9 @@
   },
   "https://client-x.com/en/news/461": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://kyeonggi.com/article/20260624580106": {
     "first": "2026-10-17",
