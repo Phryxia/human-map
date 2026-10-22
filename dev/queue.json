@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T17:02:33.204Z",
-  "nextSeq": 1081,
-  "stops": 82,
+  "savedAt": "2026-10-22T19:00:06.376Z",
+  "nextSeq": 1091,
+  "stops": 83,
   "items": [
     {
       "id": "4c9e8a53",
@@ -155,6 +155,38 @@
       "note": "2026-10-22 문서 만듦(문학 King Lear 1606, 매체 HealthDay 2011-01-03). 학술 후보: Exline 외 2011 JPSP PMID 21219078 초록 'Anger toward God was frequently reported in response to negative events, although positive feelings predominated.'(pubmed 429, europepmc 403). 같은 HealthDay 글 '나이 어린 사람과 백인이 더 화를 냄' 조건은 같은 URL. Odyssey 1권 Zeus 대목 문학 후보. 한국어 '팔자 탓' 파편 미탐색",
       "createdAt": "2026-10-22T16:57:55.924Z",
       "seq": 1075
+    },
+    {
+      "id": "ddee87d2",
+      "title": "hesitating-at-the-door 보강: SNS·학술 파편, 사회불안 원인 간선",
+      "priority": 50,
+      "note": "2026-10-22 문학 3(1843·1850·1914), 매체 3 으로 만듦. yahoo 2026-04-17 같은 글 바로 앞 문장 'Social anxiety. Simple as that.' 은 anticipatory-social-anxiety 원인 간선 후보(파편 문장에 인과 필요). reddit r/Anxiety '다른 사람 문을 두드려야 할 때 더 불안' 댓글은 이 환경에서 403. 학술 후보: Davies 2011, IJSRM 16(4) 'Negotiating doorstep access'(호스트 막힘). 1861 Great Expectations 'my hesitating ring at the gate' 는 pg1400 이 이미 4개 문서라 못 씀. 한국어 게시판 방문자 쪽 글 미발견",
+      "createdAt": "2026-10-22T18:41:58.873Z",
+      "seq": 1086
+    },
+    {
+      "id": "d3d0e037",
+      "title": "low-battery-anxiety 보강: 2000년대 파편, 원인·결과 간선",
+      "priority": 50,
+      "note": "2026-10-22 매체 4, SNS 2, 학술 1 로 만듦. 남은 후보: hurroz.com/anonimo/the-panic-of-seeing-20-battery-5k3cf (2026-07-18) 'seeing the battery percentage drop makes me nervous'(인과), meeco.kr/anonymous/36461549 (2022-12-02) 100% 안 되면 불안해서 꽂아놓고, nocutnews.co.kr/news/5018966 (2018-08-22) 보조배터리 들고 다녀야 해방, openaccess.city.ac.uk/id/eprint/22401 Robinson·Arnould 2020 'hysteresis of the battery'. channelnews 같은 글 연인과 다툼 23%(같은 URL). thenextweb 2016-05-20 Uber 배터리 낮을 때 할증 수용(2차 보도). 2003 khan 컬러폰 충전 불편은 불안 아님. 휴대전화 없을 때 불안(노모포비아) 상위 후보",
+      "createdAt": "2026-10-22T18:49:19.606Z",
+      "seq": 1088
+    },
+    {
+      "id": "cb43e9fd",
+      "title": "saving-things-for-best 보강: SNS 파편, 한국어 다른 시기",
+      "priority": 50,
+      "note": "2026-10-22 문학 2(1855·1860), 학술 1, 매체 3 으로 만듦. 남은 후보: youlookfab.com/welookfab/topic/the-perils-of-not-saving-your-best (발행일 '10 years ago' 뿐) 옷이 입기도 전에 유행이 지남, knowledge.wharton.upenn.edu curbing-clutter (2021-11-16) 한 번 안 쓰면 다음에도 안 씀(같은 연구), talbotspy.org Using the Good China, Anne of Green Gables pg45 손님 왔을 때만 꺼내는 좋은 그릇(손님 쪽 시점), Cranford pg394 새 카펫에 신문지 깔기, Middlemarch pg145 보석 잠가 둠. 한국어 게시판 글 미발견. 물건 쌓아 두기(clutter) 결과 간선 후보",
+      "createdAt": "2026-10-22T18:53:12.690Z",
+      "seq": 1089
+    },
+    {
+      "id": "da79f6f8",
+      "title": "walking-while-using-phone 보강: SNS·매체 파편, phone-use-while-driving 과 관계",
+      "priority": 50,
+      "note": "2026-10-22 공공 3, 학술 1 로 만듦. 남은 후보: mediahub.seoul.go.kr/archives/998259 (2016-06-16) 시범사업 지역은 10~30대 보행자 많은 곳(나이 조건), mediahub 1158467 같은 글 사상자 53.8% 가 10대·20대(같은 URL). 본인이 걸으며 폰 보다 부딪혔다는 공개 게시글 미발견(clien, meeco 검색). austroads.gov.au 봇 확인, tfd.metro.tokyo.lg.jp 점검, seoulsolution.kr SSL 만료. 2012 이전 출처 없음",
+      "createdAt": "2026-10-22T18:57:45.518Z",
+      "seq": 1090
     },
     {
       "id": "e8ba47a7",
@@ -1339,6 +1371,14 @@
       "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련 / 2026-10-22 msutoday 같은 글 'Overall, people reported relatively low levels of distress when canceled on unless it was by a good friend.' 조건 후보(VERIFIED 가능). 82cook 3726220·2059415 둘 다 타임아웃. Straight Dope 검색('friend cancelled plans last minute hurt') 맞는 글 없음. 두 번째 종류 필요",
       "createdAt": "2026-10-22T17:00:45.979Z",
       "seq": 1078
+    },
+    {
+      "id": "e3739333",
+      "title": "문자로 도착 알리기",
+      "priority": 10,
+      "note": "hankyung.com/article/2026061970727 (2026-06-19) Uswitch 조사 18~29세 33% 가 초인종 대신 문자나 전화. hesitating-at-the-door [^6] 과 같은 글이라 다른 출처 필요(uswitch.com/media-centre/2026/06/...)",
+      "createdAt": "2026-10-22T18:41:58.993Z",
+      "seq": 1087
     },
     {
       "id": "02b2f242",
