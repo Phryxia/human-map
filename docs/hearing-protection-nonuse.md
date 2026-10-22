@@ -1,0 +1,45 @@
+# 청력 보호구 미착용
+
+별칭: 귀마개 안 쓰기, Hearing protection nonuse
+
+시끄러운 작업장이나 공연장에 있는 사람이 귀마개나 귀덮개를 쓰지 않거나 꾸준히 쓰지 않는다.
+
+# 서술
+
+2021년 미국 국립산업안전보건연구원 자료[^5]에서 2014년 소음에 노출된 노동자의 53%는 청력 보호구를 꾸준히 쓰지 않았다. 2009년 기사[^3]가 전한 영국 조사에서 보호구를 쓰지 않은 사람들은 소리가 잘 들리지 않는 것을 이유로 들었다.
+
+2005년 기사[^2]가 전한 공연 관객 연구에서 응답자의 80%는 공연장에서 청력 보호구를 한 번도 쓰지 않았다고 답했다.
+
+# 조건
+
+2002년 자료[^1]는 의사소통 방해, 작업 방해, 불편, 자기 청력에 대한 인식, 경고음을 듣지 못하는 것을 보호구를 꾸준히 쓰지 않는 것과 관련된 변수로 든다. 2016년 말레이시아 제재소 연구[^4]에서 노동자의 58%는 불편을, 42%는 인식 부족을, 25%는 의사소통 장벽을 말했다.
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 대립
+
+없음.
+
+#행동 #집단
+
+[^1]: [공공] "interference with communication, interference with job performance, comfort issues, self-perception of hearing condition and inability to detect warning signals when wearing HPDs" (의사소통 방해, 작업 수행 방해, 착용감 문제, 자기 청력 상태에 대한 인식, 청력 보호구를 쓰면 경고음을 듣지 못하는 것) — Thais C. Morata, "Issues Regarding Hearing Protection Device Use in Manufacturing and Mining", NIOSH, 2002-12-02, https://stacks.cdc.gov/view/cdc/195890, 2026-10-22 접속
+[^2]: [매체] "80 per cent said they never wore hearing protection at such events." (80%는 그런 행사에서 청력 보호구를 한 번도 쓰지 않았다고 말했다.) — Janet Wong, "Tommy, Can You Hear Me?", U of T Magazine, 2005-06-19, https://magazine.utoronto.ca/?p=2114, 2026-10-22 접속
+[^3]: [매체] "Typically, those who did not said reduced audibility was the reason, according to the executive summary of the 74-page study, titled "Real world use and performance of hearing protection."" (74쪽 분량의 연구 '청력 보호구의 실제 사용과 성능' 요약에 따르면 보호구를 쓰지 않은 사람들은 대개 소리가 덜 들리는 것을 이유로 들었다.) — Occupational Health & Safety, "Bad News for Workers in HSE Hearing Protection Field Study", 2009-08-06, https://ohsonline.com/articles/2009/08/06/bad-news-for-workers.aspx, 2026-10-22 접속
+[^4]: [학술] "58% of the workers reported on uncomfortable feeling while 42% were lack of awareness and 25% feel that the devices created a barrier in communication." (노동자의 58%는 불편함을, 42%는 인식 부족을 말했고 25%는 보호구가 의사소통에 장벽을 만든다고 느꼈다.) — Mainul Haque, Nor Iza A. Rahman, Siti Najihah Yahya, "Satisfaction Study of Using Hearing Protection Device Among Sawmill Workers In Kuantan, Malaysia", International Journal of Pharmaceutical Research 8(1), 2016, https://eprints.unisza.edu.my/7396, 2026-10-22 접속
+[^5]: [공공] "Among all workers exposed to noise in 2014, researchers found the majority (53%) did not wear hearing protection consistently." (2014년 소음에 노출된 전체 노동자 가운데 다수(53%)가 청력 보호구를 꾸준히 쓰지 않았다.) — NIOSH, "Half of Noise-Exposed Workers Do Not Use Hearing Protection When Exposed to Noise on the Job", NIOSH Update, 2021-10-07, https://archive.cdc.gov/www_cdc_gov/niosh/updates/upd-10-07-21.html, 2026-10-22 접속
