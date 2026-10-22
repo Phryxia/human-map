@@ -863,15 +863,15 @@
   },
   "https://link.springer.com/article/10.1007/s00779-011-0412-2": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://gonggam.korea.kr/newsContentView.es?mid=a10205000000&section_id=NCCD_PUBLISH&content=&code_cd=&news_id=3e575862-031d-4813-bfe0-fbbd96191d63": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ko.wikisource.org/wiki/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83_(%EC%8B%9C%EC%A7%91)/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83": {
     "first": "2026-10-17",
@@ -1798,9 +1798,9 @@
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284984": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://main.kotsa.or.kr/portal/bbs/report_view.do?bbscCode=report&cateCode=&bbscSeqn=18505&pageNumb=1&sechCdtn=&sechKywd=&menuCode=05010200": {
     "first": "2026-10-18",
@@ -6963,7 +6963,7 @@
   "https://www.incheon.go.kr/moo/MOO020101/3072824": {
     "first": "2026-10-22",
     "last": "2026-10-22",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-22"
   },
   "https://www.gutenberg.org/cache/epub/7178/pg7178.txt": {
@@ -7345,6 +7345,12 @@
     "lastVerified": "2026-10-22"
   },
   "https://www.police.pref.kanagawa.jp/ps/atsugi/sounann01.html": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://www.scielo.br/j/rbp/a/tPdLwLwPBSBssVP5DcC779S/?lang=en": {
     "first": "2026-10-22",
     "last": "2026-10-22",
     "result": "VERIFIED",
