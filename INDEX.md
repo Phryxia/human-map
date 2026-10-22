@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 241개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 242개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -211,6 +211,7 @@
 - [집에 없는 척하기](docs/pretending-not-to-be-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [집이 부끄러워 손님 들이지 않기](docs/avoiding-inviting-people-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [징크스 지키기](docs/superstitious-rituals.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [차 안에 아이를 잊고 내리기](docs/forgetting-child-in-car.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [참아 온 불만의 폭발](docs/suppressed-anger-outburst.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [창피한 일을 꾸며 둘러대기](docs/covering-up-embarrassment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [처분 효과](docs/disposition-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
