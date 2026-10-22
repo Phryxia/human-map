@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T07:02:38.623Z",
-  "nextSeq": 944,
-  "stops": 76,
+  "savedAt": "2026-10-22T09:05:02.200Z",
+  "nextSeq": 953,
+  "stops": 77,
   "items": [
     {
       "id": "9f3c5792",
@@ -11,14 +11,6 @@
       "note": "2026-10-21 18:40Z, 22:35Z 두 차례 www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). 같은 날 앞선 실행은 VERIFIED. 점검이 끝난 뒤 다시 돌리고, 그때도 원문이 없으면 소멸 표시",
       "createdAt": "2026-10-21T22:32:27.568Z",
       "seq": 892
-    },
-    {
-      "id": "88cac2f5",
-      "title": "leaving-mail-unopened: onefamily [^4] 재확인",
-      "priority": 100,
-      "note": "2026-10-21 22:40Z onefamily.com 이 200 점검 페이지(<title>OneFamily - Maintenance</title>)를 줘 source-check 가 NOT_FOUND 와 소멸 표시를 요구. 같은 날 앞선 실행은 VERIFIED. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
-      "createdAt": "2026-10-21T22:35:43.903Z",
-      "seq": 893
     },
     {
       "id": "613b8c6c",
@@ -115,6 +107,38 @@
       "note": "2026-10-22 뉴시스 2020 스트레스 52.6% 조건 더함. 스트레스·음주 문서가 없어 원인 간선 보류. PMC2862311 (McKee 2006) 은 술과 재흡연의 연관(association)만 말함",
       "createdAt": "2026-10-22T07:02:25.644Z",
       "seq": 943
+    },
+    {
+      "id": "c45c3e11",
+      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안), 한국어 파편, 사별 중 웃음",
+      "priority": 50,
+      "note": "2026-10-22 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안), eutils efetch PubMed 9325589 Keltner·Bonanno 1997 사별 중 웃음(가설), newsarchive.berkeley.edu/news/berkeleyan/1997/0827/keltner.html (1997-08-27) 'Some 90 percent of all the laughter in the study occurred while people talked about negative things'(조건). 문학 후보: gutenberg 102 Pudd'nhead Wilson XX, 580 Pickwick XI. 한국어 출처 미발견",
+      "createdAt": "2026-10-22T08:46:45.044Z",
+      "seq": 949
+    },
+    {
+      "id": "3d463781",
+      "title": "daydreaming-about-windfall 보강: SNS 파편, 불황·소득 조건",
+      "priority": 50,
+      "note": "2026-10-22 남은 후보: boards.straightdope.com/t/do-you-fantasize-about-winning-the-lottery-or-other-windfall/451106 (2008-05-30) 댓글 'I definitely fantasize about winning the lottery.'(매일 광고판), khan.co.kr/article/200904071741025 (2009-04-07) 구매 이유 희망 60.0%, imaeil.com/page/view/2009031906215952205 (2009-03-19) 불황일수록 인생 역전을 꿈꾸는 사람 증가, segye 20240103515727 의 소득 조건 문장(같은 출처라 못 씀), maily.so/jojal/posts/g0zmk6y3oql (2023-11-08) 당첨금 수령 과정까지 상상, gutenberg 11339 우유 짜는 처녀 공상이 깨짐",
+      "createdAt": "2026-10-22T08:51:56.252Z",
+      "seq": 950
+    },
+    {
+      "id": "88379b24",
+      "title": "tip-of-the-tongue 보강: 첫 글자만 떠오름, 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-22 남은 문학 후보: gutenberg 12 Through the Looking-Glass III (1871) 'L, I _know_ it begins with L!'(자기 이름, 첫 글자), gutenberg 57333 Chekhov 'A Living Calendar' 이름 대신 생김새가 떠오른 뒤 회복(원문 줄임표 있음). 한국어 출처 미확인",
+      "createdAt": "2026-10-22T08:56:34.252Z",
+      "seq": 951
+    },
+    {
+      "id": "52e85051",
+      "title": "retail-therapy 보강: 산 뒤의 죄책감, 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-22 후보: gutenberg 514 Little Women 28장 다음 문장 'She always felt wicked after it'(이미 쓴 출처라 다른 출처 필요). Zola Ladies' Paradise, Pepys, Main Street 에는 기분과 구매를 잇는 대목 없음",
+      "createdAt": "2026-10-22T09:04:46.342Z",
+      "seq": 952
     },
     {
       "id": "e8ba47a7",
