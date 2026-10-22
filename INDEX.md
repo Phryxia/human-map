@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 247개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 248개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -41,6 +41,7 @@
 - [남 탓하기](docs/blaming-others.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남은 약 다시 먹기](docs/reusing-leftover-medicine.md) ([건강과 위험](groups/health-and-safety.md))
 - [남의 불행에 대한 기쁨](docs/schadenfreude.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [낯선 사람에게 속내 털어놓기](docs/confiding-in-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [냉난방 참기](docs/energy-limiting-behavior.md) ([돈과 소비](groups/money.md))
 - [노년의 계속 일하기 희망](docs/wanting-to-keep-working-in-old-age.md) ([일터와 일자리](groups/work.md))
