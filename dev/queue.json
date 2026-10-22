@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T11:01:27.792Z",
-  "nextSeq": 967,
+  "savedAt": "2026-10-22T11:02:11.105Z",
+  "nextSeq": 969,
   "stops": 77,
   "items": [
     {
@@ -149,12 +149,12 @@
       "seq": 962
     },
     {
-      "id": "78c72578",
-      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편, 신고 뒤 보복 경험",
+      "id": "5a2bc5d4",
+      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편",
       "priority": 50,
-      "note": "2026-10-22 SNS·매체 더함. 남은 후보: seoul.co.kr/news/1997/07/08/19970708001001 (1997-07-08) 교사에게 알렸다가 뭇매를 맞은 뒤 말하지 않음, boards.straightdope.com/t/370475 (2006-08-28) 신고자임이 알려질까 보복 두려움(같은 플랫폼 다른 계정), kicj 2025 9.8%",
-      "createdAt": "2026-10-22T11:01:27.627Z",
-      "seq": 966
+      "note": "2026-10-22 서울신문 1997 신고 뒤 보복 더함. 남은 후보: boards.straightdope.com/t/370475 (2006-08-28) 신고자임이 알려질까 보복 두려움(같은 플랫폼 다른 계정이나 한 문서 한 출처면 [^6] 와 다른 글이라 가능), kicj 2025 9.8%",
+      "createdAt": "2026-10-22T11:02:10.974Z",
+      "seq": 968
     },
     {
       "id": "e8ba47a7",
