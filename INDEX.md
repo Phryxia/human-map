@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 229개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 230개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -185,6 +185,7 @@
 - [작별 인사 길게 끌기](docs/lingering-goodbye.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [작심삼일](docs/abandoning-resolutions.md) ([시간과 하루 습관](groups/daily-time.md))
 - [잠자리 미루기](docs/bedtime-procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [장기기증 등록 미루기](docs/delaying-organ-donor-registration.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [재난 문자 무시하기](docs/ignoring-emergency-alerts.md) ([건강과 위험](groups/health-and-safety.md))
 - [저녁형 성향](docs/evening-chronotype.md) ([시간과 하루 습관](groups/daily-time.md))
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))

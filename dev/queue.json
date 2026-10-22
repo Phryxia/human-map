@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T04:44:11.852Z",
-  "nextSeq": 916,
+  "savedAt": "2026-10-22T04:48:45.088Z",
+  "nextSeq": 918,
   "stops": 74,
   "items": [
     {
@@ -1315,6 +1315,14 @@
       "note": "2026-10-22 pretending-to-understand 탐색 중. scholars.uky.edu/en/publications/shame-and-health-literacy-the-unspoken-connection/ (Parikh 외 1996) 'Many patients with reading problems are ashamed and hide their inability to read.' 수치심 원인 후보. pretending-to-understand 와 관계 후보",
       "createdAt": "2026-10-22T00:42:24.788Z",
       "seq": 908
+    },
+    {
+      "id": "9e642eda",
+      "title": "유족의 장기기증 거부",
+      "priority": 10,
+      "note": "2026-10-22 delaying-organ-donor-registration 탐사 중. 뉴시스 2025-08-10 mobile.newsis.com/view/NISX20250808_0003283754 '생전에 기증 의사를 밝혀도 남겨진 가족들이 문화적 관습을 이유로 동의를 거부하는 경우가 적지 않다는 것이다.' NHSBT 2026-08-05 family support 하락. PMC6778422 가족과 뜻을 나누지 않은 80%",
+      "createdAt": "2026-10-22T04:48:44.954Z",
+      "seq": 917
     },
     {
       "id": "02b2f242",
