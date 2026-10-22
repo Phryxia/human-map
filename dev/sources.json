@@ -1019,9 +1019,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1399/pg1399-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ko.wikisource.org/wiki/%EC%A7%81%EB%85%80%EC%84%B1/%EC%A0%9C12%EC%9E%A5": {
     "first": "2026-10-18",
@@ -6134,33 +6134,33 @@
   },
   "https://www.gutenberg.org/cache/epub/13412/pg13412-images.html": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ko.wikisource.org/wiki/%EC%B2%AB%EB%82%A0%EB%B0%A4": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3525794/": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://showme.missouri.edu/2025/study-explores-how-reddit-is-used-to-work-through-pre-wedding-doubts": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.teamblind.com/kr/post/결혼-전-불안함-wh4nscks": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2443944/": {
     "first": "2026-10-21",
@@ -6284,9 +6284,9 @@
   },
   "https://www.khan.co.kr/article/201311132212365": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7096476/": {
     "first": "2026-10-21",
@@ -6739,6 +6739,12 @@
     "lastVerified": "2026-10-22"
   },
   "https://www.kdca.go.kr/bbs/kdca/42/215513/artclView.do": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://www.wikitree.co.kr/articles/1141915": {
     "first": "2026-10-22",
     "last": "2026-10-22",
     "result": "VERIFIED",

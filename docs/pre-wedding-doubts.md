@@ -18,6 +18,8 @@
 
 1903년 단편[^2]의 불안은 결혼식까지 한 달이 채 남지 않은 때에 시작됐고 2026년 게시글[^7]의 불안은 식장 계약을 하려던 때에 커졌다.
 
+2026년 기사[^8]가 전한 사연의 글쓴이는 결혼을 약속한 상대와의 미래가 보이지 않는데도 이미 청첩장을 돌리고 하객을 초대한 상황이라 파혼을 정하지 못했다.
+
 # 관계
 
 ## 상위
@@ -49,3 +51,4 @@
 [^5]: [매체] "이들은 우여곡절 끝에 백년가약을 맺기로 결심했지만 결혼식을 코앞에 두고 초조함과 우울증에 시달린다. 영화는 이런 심리적 불안을 일컫는 ‘메리지 블루’(marriage blue)를 보여준다." — 경향신문, "[리뷰]'결혼전야'", 2013-11-13, https://www.khan.co.kr/article/201311132212365, 2026-10-21 접속
 [^6]: [매체] "Researchers also found that people on Reddit often tried to talk themselves into staying, especially if they were afraid of hurting their partner." (연구자들은 또한 Reddit 의 사람들이 특히 상대에게 상처를 줄까 두려울 때 남아 있도록 스스로를 설득하려는 일이 많다는 것을 발견했다.) — Eric Stann, "Study explores how Reddit is used to work through pre-wedding doubts", University of Missouri Show Me Mizzou, 2025-05-06, https://showme.missouri.edu/2025/study-explores-how-reddit-is-used-to-work-through-pre-wedding-doubts, 2026-10-21 접속
 [^7]: [SNS] "막상 식장 계약하려고 하니 불안한 마음이 너무 들어요 잘 살 수 있을까, 독립 한번 안 해봤는데 출가해서 내 가정을 잘 꾸릴 수 있을까" — 블라인드 게시글, 2026-04-28, https://www.teamblind.com/kr/post/결혼-전-불안함-wh4nscks, 2026-10-21 접속
+[^8]: [매체] "결혼을 약속한 여자친구와의 미래가 보이지 않지만 이미 청첩장을 돌리고 하객들을 초대한 상황이라 파혼 결정을 내리지 못하고 있다는 사연이 16일 직장인 익명 커뮤니티 블라인드에 올라왔다." — 채석원, 「"결혼식 한 달 남았는데 파혼할까요?"... 직장인들 한목소리도 "네, 파혼하세요"」, 위키트리, 2026-06-17, https://www.wikitree.co.kr/articles/1141915, 2026-10-22 접속
