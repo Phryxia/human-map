@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T10:50:46.353Z",
-  "nextSeq": 959,
+  "savedAt": "2026-10-22T10:56:35.216Z",
+  "nextSeq": 961,
   "stops": 77,
   "items": [
     {
@@ -139,6 +139,14 @@
       "note": "2026-10-22 문서 만듦. Groenestein 2024 PLOS ONE 0308643 'The few experimental findings supported the impact of FoMO on digital technology use (path 2)'(같은 출처라 못 씀, 다른 출처 필요). smartphone-checking-habit 결과 후보. Hudecek 2023 PLoS ONE 0284984 은 연관만",
       "createdAt": "2026-10-22T10:50:46.181Z",
       "seq": 958
+    },
+    {
+      "id": "3ac21b74",
+      "title": "clock-watching-in-bed 보강: 2000년대 이전 비문학 파편, 한국어 SNS",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글",
+      "createdAt": "2026-10-22T10:56:35.088Z",
+      "seq": 960
     },
     {
       "id": "e8ba47a7",
@@ -667,14 +675,6 @@
       "note": "mood-repair F2·F3(주간경향 2004, 비즈한국 2015). 하위 후보",
       "createdAt": "2026-10-18T16:55:32.322Z",
       "seq": 345
-    },
-    {
-      "id": "a7520acc",
-      "title": "잠자리에서 시계 지켜보기",
-      "priority": 10,
-      "note": "lying-awake-thinking F3(Tang 외 2007 wrap.warwick.ac.uk/65972): 시계를 지켜본 참가자가 잠들기 전 걱정이 늘고 잠들기까지 더 오래 걸림. lying-awake-thinking 원인 간선 후보, F5(NHLBI) 도 시계 지켜보기 언급",
-      "createdAt": "2026-10-18T17:35:16.626Z",
-      "seq": 356
     },
     {
       "id": "2f7f349d",

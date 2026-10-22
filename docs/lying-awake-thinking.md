@@ -36,6 +36,7 @@
 
 ## 원인
 
+- [잠자리에서 시계 보기](clock-watching-in-bed.md)[^4]
 - [대화 뒤 되짚기](replaying-conversations-afterward.md)[^9]
 - [돈 걱정](money-worry.md)[^7]
 
