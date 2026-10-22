@@ -785,15 +785,15 @@
   },
   "https://www.korea.kr/news/interviewView.do?newsId=148770708": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.korea.kr/news/cultureColumnView.do?newsId=148905290": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ko.wikisource.org/wiki/%EC%9A%B4%EC%88%98_%EC%A2%8B%EC%9D%80_%EB%82%A0": {
     "first": "2026-10-17",
@@ -6667,6 +6667,18 @@
     "lastVerified": "2026-10-22"
   },
   "https://youthdaily.co.kr/news/article.html?no=223643": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://www.ipsos.com/en-uk/node/161636": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://urbanohio.com/topic/2964-heres-an-urban-topic-noisy-neighbors/": {
     "first": "2026-10-22",
     "last": "2026-10-22",
     "result": "VERIFIED",
