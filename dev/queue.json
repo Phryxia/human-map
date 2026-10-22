@@ -1,24 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T11:04:36.957Z",
-  "nextSeq": 975,
+  "savedAt": "2026-10-22T11:05:07.021Z",
+  "nextSeq": 981,
   "stops": 77,
   "items": [
     {
-      "id": "9f3c5792",
+      "id": "786c6ffd",
       "title": "feeling-rushed: statcan [^5] 재확인",
       "priority": 100,
-      "note": "2026-10-21 18:40Z, 22:35Z 두 차례 www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). 같은 날 앞선 실행은 VERIFIED. 점검이 끝난 뒤 다시 돌리고, 그때도 원문이 없으면 소멸 표시",
-      "createdAt": "2026-10-21T22:32:27.568Z",
-      "seq": 892
+      "note": "2026-10-21 18:40Z, 22:35Z, 2026-10-22 10:33Z, 11:05Z www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). 2026-10-22 에는 호스트 / 도 같은 점검 페이지라 호스트 전체 장애. 같은 날 앞선 실행은 VERIFIED. 점검이 끝난 뒤 다시 돌리고, 그때도 원문이 없으면 소멸 표시",
+      "createdAt": "2026-10-22T11:05:06.554Z",
+      "seq": 978
     },
     {
-      "id": "613b8c6c",
+      "id": "3fca8950",
       "title": "not-reporting-crime: statcan [^5] 재확인",
       "priority": 100,
-      "note": "2026-10-21 22:5xZ www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
-      "createdAt": "2026-10-21T22:55:22.479Z",
-      "seq": 899
+      "note": "2026-10-21 22:5xZ, 2026-10-22 10:33Z www150.statcan.gc.ca 200 점검 페이지. 호스트 / 도 같은 점검 페이지. feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
+      "createdAt": "2026-10-22T11:05:06.686Z",
+      "seq": 979
+    },
+    {
+      "id": "8935aa7d",
+      "title": "dev: source-check 점검 페이지가 호스트 / 에서도 나오면 호스트 장애로 보고 소멸 지시하지 않기",
+      "priority": 60,
+      "note": "feeling-rushed [^5], not-reporting-crime [^5]: 2026-10-21~22 www150.statcan.gc.ca 글과 / 모두 200 점검 페이지인데 '줄 끝을 (소멸, ...) 으로 바꾼다' 출력. 4xx·타임아웃 호스트 예외와 같은 꼴. 이슈 #6(TLS·5xx 포함, needs-owner)과 겹치는지 먼저 확인",
+      "createdAt": "2026-10-22T11:05:06.856Z",
+      "seq": 980
     },
     {
       "id": "8d92d8da",
