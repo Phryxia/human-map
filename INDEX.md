@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 246개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 247개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -165,6 +165,7 @@
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [우편물 뜯지 않기](docs/leaving-mail-unopened.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [운명이나 신을 탓하기](docs/blaming-fate-or-god.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [운전 그만두기 미루기](docs/delaying-driving-cessation.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전 실력 과신](docs/driving-overconfidence.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전 중 휴대전화 사용](docs/phone-use-while-driving.md) ([길과 운전](groups/roads-and-driving.md))

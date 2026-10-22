@@ -2,11 +2,12 @@
 
 사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.
 
-문서 35개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 36개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [같은 이야기 되풀이](../docs/retelling-same-story.md) 자기 지난 일을 이야기하는 사람이 이미 그 이야기를 들은 상대에게 같은 이야기를 다시 들려준다.
 - [결혼 전 불안](../docs/pre-wedding-doubts.md) 결혼을 앞둔 사람이 이 결혼을 해도 될지 의심하거나 두려워한다.
 - [남 탓하기](../docs/blaming-others.md) 잘못이나 실패를 겪은 사람이 그 원인을 자기가 아닌 다른 사람이나 주위 환경에 돌린다.
+  - [운명이나 신을 탓하기](../docs/blaming-fate-or-god.md)
 - [남의 불행에 대한 기쁨](../docs/schadenfreude.md) 남의 불행이나 실패를 보거나 떠올린 사람이 기쁨을 느낀다.
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
