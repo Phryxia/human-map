@@ -10,7 +10,7 @@
 
 2011년 대학 신문 기사[^2]는 FOMO 를 자기가 끼어 있을 수도 있었던 다른 행사를 알게 된 뒤 느끼는 불안으로 설명했다. 2013년 연구[^3]는 FoMO 의 특징으로 다른 사람이 하는 일과 계속 연결되어 있으려는 욕구를 들었다. 2020년 문헌 고찰[^5]의 저자들은 FOMO 가 SNS 알림을 지나치게 확인하고 응답하게 몰 수 있다고 적는다.
 
-2025년 게시판 댓글[^8]의 글쓴이는 친구 둘이 단체 대화방에 노래 영상을 올렸고 그 자리에 없던 자기 아이가 FOMO 로 울며 무너졌다고 썼다. 2026년 인천시 웹진 글[^9]은 남의 이런 모습을 계속 접하면 나만 뒤처지는 것이 아닌가 하는 생각이 들 수 있다고 적었다.
+2025년 게시판 댓글[^9]의 글쓴이는 친구 둘이 단체 대화방에 노래 영상을 올렸고 그 자리에 없던 자기 아이가 FOMO 로 울며 무너졌다고 썼다. 2026년 인천시 웹진 글[^10]은 남의 이런 모습을 계속 접하면 나만 뒤처지는 것이 아닌가 하는 생각이 들 수 있다고 적었다. 2025년 논문[^8]의 저자들은 외로움을 많이 느낄수록 FoMO 가 높아지고 이것이 SNS 과다 사용으로 이어진다고 적는다.
 
 # 조건
 
@@ -30,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [외로움](loneliness.md)[^8]
 
 ## 결과
 
@@ -49,5 +49,6 @@
 [^5]: [학술] "Thus, FOMO can drive excessive checking for and responding to SNS notifications, making it difficult to remain productive in daily life." (그러므로 FOMO 는 SNS 알림을 지나치게 확인하고 응답하도록 몰아 일상에서 생산성을 유지하기 어렵게 만들 수 있다.) — Jon D. Elhai, Haibo Yang, Christian Montag, "Fear of missing out (FOMO): overview, theoretical underpinnings, and literature review on relations with severity of negative affectivity and problematic technology use", Brazilian Journal of Psychiatry 43(2), 2020-05-11, https://www.scielo.br/j/rbp/a/tPdLwLwPBSBssVP5DcC779S/?lang=en, 2026-10-22 접속
 [^6]: [매체] "부동산 가격 상승에 이어 주식 시장의 고공행진, 나아가 가상화폐까지 이어지는 이른바 '돈 복사'에 대한 선망은 이제는 이 대열에 동참하지 않으면 자신만 '벼락 거지'가 된다는 두려움으로 이미 포모증후군을 넘어서고 있다." — 이인복, 「포모 막아도 모자를 판에 정부가 조장하나」, 메디칼타임즈, 2021-04-22, https://medicaltimes.com/Users/News/NewsView.html?ID=1140141, 2026-10-22 접속
 [^7]: [학술] "The limited experimental studies that have been conducted, also provide preliminary causal support for an opposing effect; i.e., that restricted technology use increases FoMO (path 4)." (수행된 소수의 실험 연구는 반대 방향의 효과, 곧 기술 사용 제한이 FoMO 를 높인다는 것(경로 4)에도 예비적인 인과 근거를 준다.) — Groenestein, Willemsen, van Koningsbruggen, Ket, Kerkhof, "The relationship between fear of missing out, digital technology use, and psychological well-being: A scoping review of conceptual and empirical issues", PLOS ONE, 2024-10-04, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308643, 2026-10-22 접속
-[^8]: [SNS] "This year it was a FOMO meltdown because two friends posted a video of them singing a song to the group chat, and my kid wasn’t there, because my kid went out with another friend." (올해는 FOMO 로 무너졌다. 친구 둘이 노래 부르는 영상을 단체 대화방에 올렸는데 우리 아이는 다른 친구와 나가 있어서 그 자리에 없었기 때문이다.) — Straight Dope 댓글, 2025-11-03, https://boards.straightdope.com/t/thoughts-on-becoming-a-sahm/1023160/106, 2026-10-22 접속
-[^9]: [공공] "이런 모습을 계속 접하다 보면 자신도 모르게 ‘나만 뒤처지는 건 아닐까?‘, ’나만 아무것도 안 하고 있는 건가‘라는 생각이 들 수 있다." — 박지후, 「혹시 나만 놓치고 있는 건 아닐까? 포모증후군이 만드는 불안」, 인천광역시 웹진 MOO, 2026-05-21, https://www.incheon.go.kr/moo/MOO020101/3072824, 2026-10-22 접속
+[^8]: [학술] "Therefore, the more the individual experiences feelings of loneliness, the higher the levels of FoMO, which ultimately leads to the overuse of social networking sites." (그러므로 개인이 외로움을 많이 느낄수록 FoMO 수준이 높아지고 이것이 결국 소셜 네트워킹 사이트의 과다 사용으로 이어진다.) — Yuhua Wang, Yufei Sun, Taiping Li 외, "The longitudinal relationship between loneliness and problematic social networking site use in college students: the mediating role of trait- and state-fear of missing out", Frontiers in Psychology 16, 2025-03-19, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1477239/full, 2026-10-22 접속
+[^9]: [SNS] "This year it was a FOMO meltdown because two friends posted a video of them singing a song to the group chat, and my kid wasn’t there, because my kid went out with another friend." (올해는 FOMO 로 무너졌다. 친구 둘이 노래 부르는 영상을 단체 대화방에 올렸는데 우리 아이는 다른 친구와 나가 있어서 그 자리에 없었기 때문이다.) — Straight Dope 댓글, 2025-11-03, https://boards.straightdope.com/t/thoughts-on-becoming-a-sahm/1023160/106, 2026-10-22 접속
+[^10]: [공공] "이런 모습을 계속 접하다 보면 자신도 모르게 ‘나만 뒤처지는 건 아닐까?‘, ’나만 아무것도 안 하고 있는 건가‘라는 생각이 들 수 있다." — 박지후, 「혹시 나만 놓치고 있는 건 아닐까? 포모증후군이 만드는 불안」, 인천광역시 웹진 MOO, 2026-05-21, https://www.incheon.go.kr/moo/MOO020101/3072824, 2026-10-22 접속

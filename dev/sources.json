@@ -383,21 +383,21 @@
   },
   "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/lonelinesswhatcharacteristicsandcircumstancesareassociatedwithfeelinglonely/2018-04-10": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://view.asiae.co.kr/article/2019120613064829122": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ko.wikisource.org/wiki/메밀꽃_필_무렵": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202505/the-cost-of-keeping-the-peace": {
     "first": "2026-10-17",
@@ -557,15 +557,15 @@
   },
   "https://kormedi.com/2707535/": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.kihasa.re.kr/hswr/v.45/3/383/%EA%B3%A0%EB%A6%BD%EC%9D%80%EB%91%94+%EC%B2%AD%EB%85%84%EC%9D%98+%EC%84%B1%EC%9D%B8%EA%B8%B0+%ED%9B%84+%EB%B6%80%EC%A0%95%EC%A0%81+%EC%83%9D%EC%95%A0%EA%B2%BD%ED%97%98+%EC%9C%A0%ED%98%95%ED%99%94": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ko.wikisource.org/wiki/직녀성/제6장": {
     "first": "2026-10-17",
@@ -743,9 +743,9 @@
   },
   "https://link.springer.com/article/10.1007/s12160-010-9210-8": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.fnnews.com/news/202603121601547430": {
     "first": "2026-10-17",
@@ -1001,9 +1001,9 @@
   },
   "https://www.koreadaily.com/article/8251080": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://ira.lib.polyu.edu.hk/handle/10397/111467": {
     "first": "2026-10-18",
@@ -5936,9 +5936,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9892812/": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11447693/": {
     "first": "2026-10-21",
@@ -6963,7 +6963,7 @@
   "https://www.incheon.go.kr/moo/MOO020101/3072824": {
     "first": "2026-10-22",
     "last": "2026-10-22",
-    "result": "UNREACHABLE",
+    "result": "VERIFIED",
     "lastVerified": "2026-10-22"
   },
   "https://www.gutenberg.org/cache/epub/7178/pg7178.txt": {
@@ -7375,6 +7375,12 @@
     "lastVerified": "2026-10-22"
   },
   "https://mobile.newsis.com/view/NISX20120416_0011027929": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1477239/full": {
     "first": "2026-10-22",
     "last": "2026-10-22",
     "result": "VERIFIED",
