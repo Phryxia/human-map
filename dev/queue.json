@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T10:34:45.023Z",
-  "nextSeq": 953,
+  "savedAt": "2026-10-22T10:36:23.472Z",
+  "nextSeq": 955,
   "stops": 77,
   "items": [
     {
@@ -109,14 +109,6 @@
       "seq": 943
     },
     {
-      "id": "c45c3e11",
-      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안), 한국어 파편, 사별 중 웃음",
-      "priority": 50,
-      "note": "2026-10-22 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안), eutils efetch PubMed 9325589 Keltner·Bonanno 1997 사별 중 웃음(가설), newsarchive.berkeley.edu/news/berkeleyan/1997/0827/keltner.html (1997-08-27) 'Some 90 percent of all the laughter in the study occurred while people talked about negative things'(조건). 문학 후보: gutenberg 102 Pudd'nhead Wilson XX, 580 Pickwick XI. 한국어 출처 미발견",
-      "createdAt": "2026-10-22T08:46:45.044Z",
-      "seq": 949
-    },
-    {
       "id": "88379b24",
       "title": "tip-of-the-tongue 보강: 첫 글자만 떠오름, 한국어 파편",
       "priority": 50,
@@ -131,6 +123,14 @@
       "note": "2026-10-22 후보: gutenberg 514 Little Women 28장 다음 문장 'She always felt wicked after it'(이미 쓴 출처라 다른 출처 필요). Zola Ladies' Paradise, Pepys, Main Street 에는 기분과 구매를 잇는 대목 없음",
       "createdAt": "2026-10-22T09:04:46.342Z",
       "seq": 952
+    },
+    {
+      "id": "335c8c0b",
+      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안), 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-22 berkeleyan 1997 사별 면담 웃음 90% 조건 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), PubMed 9325589 Keltner·Bonanno 1997. 문학 후보: gutenberg 580 Pickwick XI. 한국어 출처 미발견",
+      "createdAt": "2026-10-22T10:36:23.343Z",
+      "seq": 954
     },
     {
       "id": "e8ba47a7",
