@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [화재경보를 오작동으로 여기기](dismissing-fire-alarms.md)
 
 ## 원인
 
