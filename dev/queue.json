@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "savedAt": "2026-10-21T23:02:15.569Z",
+  "savedAt": "2026-10-22T00:34:33.212Z",
   "nextSeq": 904,
   "stops": 72,
   "items": [
@@ -27,14 +27,6 @@
       "note": "2026-10-21 22:5xZ www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
       "createdAt": "2026-10-21T22:55:22.479Z",
       "seq": 899
-    },
-    {
-      "id": "566d8058",
-      "title": "dev: style-check 연결어미 뒤 쉼표가 명사 '사고,' 를 잡는 오탐",
-      "priority": 60,
-      "note": "2026-10-21 sensation-seeking 11행 '충동성과 감각 추구가 사고, 공격 운전, 위험 운전 ... 을 예측한다' 의 '사고,' (명사 나열)를 '고,' 로 잡음. 오탐 사례 둘 이상 모아 좁힐 것(예: 교통사고, 경고, 보고서 나열)",
-      "createdAt": "2026-10-21T22:52:51.302Z",
-      "seq": 898
     },
     {
       "id": "931fba3e",
