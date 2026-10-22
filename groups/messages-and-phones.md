@@ -2,7 +2,7 @@
 
 사람이 휴대전화, 메신저, 온라인 서비스를 쓰며 느끼고 하는 일이다.
 
-문서 18개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 19개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [놓칠까 두려운 마음](../docs/fear-of-missing-out.md) 다른 사람들이 자기 없이 좋은 일을 겪고 있을지 모른다고 여기는 사람이 그것을 놓칠까 불안해한다.
 - [단톡방 나가지 못하기](../docs/staying-in-group-chats.md) 단체 대화방에서 나가고 싶은 사람이 퇴장이 남들 눈에 띄어 관계가 상할까 봐 나가지 않고 남아 있다.
@@ -12,6 +12,7 @@
 - [반응 없는 게시물 지우기](../docs/deleting-posts-with-few-reactions.md) 소셜 미디어에 글이나 사진을 올린 사람이 반응이 적으면 그 게시물을 지운다.
 - [받은 편지와 메시지 되풀이해 읽기](../docs/rereading-received-messages.md) 사람이 가까운 사람에게서 받은 편지나 메시지를 몇 번이고 다시 읽는다.
 - [배송 조회 되풀이하기](../docs/checking-parcel-tracking.md) 온라인으로 주문한 물건을 기다리는 사람이 배송 조회 페이지를 되풀이해 확인한다.
+- [배터리 부족 불안](../docs/low-battery-anxiety.md) 휴대전화를 가진 사람이 배터리 잔량이 줄어드는 것을 보고 불안해하며 충전할 곳을 찾거나 쓰임을 줄인다.
 - [보내기 전 메시지 다시 읽기](../docs/rereading-messages-before-sending.md) 이메일이나 메시지를 쓴 사람이 보내기 전에 초안을 여러 번 다시 읽거나 고쳐 쓴다.
 - [빨리 답해야 한다는 압박](../docs/pressure-to-reply-quickly.md) 메시지를 받은 사람이 되도록 빨리 답해야 한다는 압박을 느낀다.
 - [스마트폰 확인 습관](../docs/smartphone-checking-habit.md) 스마트폰 이용자가 화면을 짧게 자주 들여다보다가 다른 일로 넘어가 쓰는 시간이 늘고 그 시간을 조절하지 못한다.
