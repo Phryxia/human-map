@@ -8,7 +8,7 @@
 
 2008년 K2 사고 기사[^2]는 일부 등반가가 오후 8시가 넘은 어둠 속에서 정상에 닿았다고 전한다. 2014년 우메오 대학 소식[^4]은 같은 사고로 11명이 숨진 일을 두고 참가자들이 목표에 사로잡혀 분명한 위험에도 계속 오르기로 했다고 적는다.
 
-2021년 산행기[^5]의 글쓴이는 구름을 지켜보기로 했지만 정상까지 수백 피트가 남아 계속 올랐다고 적는다. 2021년 뉴질랜드 산악안전협의회 글[^7]은 목표를 이루지 못한 채 돌아서는 것을 산에서 가장 내리기 어려운 결정 가운데 하나로 든다. 2026년 기사[^9]에서 구조대원들은 정상 집착에 빠진 사람들이 정상에 올랐다가 안전하게 내려오는 시간을 적게 잡는다고 말했다.
+2021년 산행기[^5]의 글쓴이는 구름을 지켜보기로 했지만 정상까지 수백 피트가 남아 계속 올랐다고 적는다. 2021년 뉴질랜드 산악안전협의회 글[^7]은 목표를 이루지 못한 채 돌아서는 것을 산에서 가장 내리기 어려운 결정 가운데 하나로 든다. 2026년 기사[^9]에서 구조대원들은 정상 집착에 빠진 사람들이 정상에 올랐다가 안전하게 내려오는 시간을 적게 잡는다고 말했다. 2026년 산행기[^10]의 글쓴이는 우박 소리에 깬 새벽 2시부터 매시간 포기를 고민하면서도 정상에 갈 수 있으리라는 기대를 놓지 못했다고 적었다.
 
 # 조건
 
@@ -51,3 +51,4 @@
 [^7]: [매체] "Turning around, with your objective not completed, can be one of the most difficult decisions to make in the mountains." (목표를 이루지 못한 채 돌아서는 것은 산에서 내리기 가장 어려운 결정 가운데 하나일 수 있다.) — New Zealand Mountain Safety Council, "Sometimes it's not that easy to turn back", 2021-09-15, https://www.mountainsafety.org.nz/read/sometimes-its-not-that-easy-to-turn-back/, 2026-10-22 접속
 [^8]: [공공] "Be prepared to turn around if conditions worsen, if you are not feeling well, or if members of your party are ready to turn back. It is always ok to turn around and try another day." (날씨가 나빠지거나 몸이 좋지 않거나 일행이 돌아서려 하면 돌아설 준비를 하라. 돌아섰다가 다른 날 다시 시도해도 언제나 괜찮다.) — National Park Service, Rocky Mountain National Park, "Climbing", 2024-08-13, https://www.nps.gov/romo/planyourvisit/climbing.htm, 2026-10-22 접속
 [^9]: [매체] "Some rescuers say people sometimes get sucked into summit fever and underestimate the time to get up the peak and back down safely." (일부 구조대원은 사람들이 때로 정상 집착에 빠져 정상에 올랐다가 안전하게 내려오는 데 드는 시간을 적게 잡는다고 말한다.) — Lakes Weekly Bulletin, "Experts warn against pushing on amid multiple rescues", 2026-08-12, https://lwb.co.nz/content/experts-warn-against-pushing-on-amid-multiple-rescues/, 2026-10-22 접속
+[^10]: [매체] "우박소리에 눈을 뜬 새벽 2시부터 지금까지 매시간마다 포기를 고민했지만 내심 정상을 갈 수 있을 거란 기대를 놓지 못했다" — 「포기는 어렵다 - 대만 설산 등산 (2)」, 브런치, 2026-08-28, https://brunch.co.kr/@300mm/58, 2026-10-22 접속
