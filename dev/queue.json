@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T00:42:25.030Z",
-  "nextSeq": 910,
+  "savedAt": "2026-10-22T00:51:23.326Z",
+  "nextSeq": 912,
   "stops": 72,
   "items": [
     {
@@ -139,6 +139,14 @@
       "note": "2026-10-22 후보: PMC6324389 (Levy 2018) 의사 지시를 못 알아들었다고 말하지 않음 31.8%/24.3%, ojed.org/index.php/jis/article/view/530 (Terui 2012) 유학생의 이해한 척 대처 전략, superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨(결과), noba.to 2015-06-04 수업에서 손 안 들기 pluralistic-ignorance 관계 후보",
       "createdAt": "2026-10-22T00:42:24.910Z",
       "seq": 909
+    },
+    {
+      "id": "d1c9e040",
+      "title": "rereading-received-messages 보강: 학술 파편과 관계",
+      "priority": 50,
+      "note": "2026-10-22 후보: spsp.org/news-center/character-context-blog/how-technology-complicates-breakup-process (2020-09-14) 'people who were nostalgic reported being more likely to hold onto digital items, which in turn led them to adjust less well' (nostalgia 원인 후보, 보존이지 읽기 아님), eprints.lancs.ac.uk/id/eprint/60831 (Sas 2013) 이별 뒤 디지털 소지품, link.springer.com/article/10.1007/s12144-018-0006-5 (Bassett 2018) 고인 메시지 second loss, community.thriveglobal.com/trying-to-digest-the-grief-soaked-digital-breadcrumbs/ (2018-12-11). keeping-belongings-of-the-dead 와 관계 후보",
+      "createdAt": "2026-10-22T00:51:23.199Z",
+      "seq": 911
     },
     {
       "id": "e8ba47a7",
