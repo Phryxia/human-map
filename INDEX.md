@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 239개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 240개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -196,6 +196,7 @@
 - [재난 문자 무시하기](docs/ignoring-emergency-alerts.md) ([건강과 위험](groups/health-and-safety.md))
 - [저녁형 성향](docs/evening-chronotype.md) ([시간과 하루 습관](groups/daily-time.md))
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [정상 집착](docs/summit-fever.md) ([건강과 위험](groups/health-and-safety.md))
 - [정치 무력감](docs/political-inefficacy.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [조명 효과](docs/spotlight-effect.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [조용한 이탈](docs/silent-exit.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
