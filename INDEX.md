@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 244개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 245개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -96,6 +96,7 @@
 - [보복이 두려워 신고하지 않기](docs/not-reporting-for-fear-of-reprisal.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [보상을 기다리며 불만 없이 일하기](docs/silent-work-awaiting-reward.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [복지 급여 미신청](docs/not-claiming-benefits.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [부유한 척하기](docs/faking-wealth.md) ([돈과 소비](groups/money.md))
 - [부정적 평가에 대한 두려움](docs/fear-of-negative-evaluation.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [부채감](docs/indebtedness.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [분리배출 하지 않기](docs/not-sorting-recyclables.md) ([시민 참여와 공공의 일](groups/civic-life.md))
