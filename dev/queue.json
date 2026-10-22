@@ -1,144 +1,160 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T15:07:59.122Z",
-  "nextSeq": 1022,
-  "stops": 81,
+  "savedAt": "2026-10-22T17:02:33.204Z",
+  "nextSeq": 1081,
+  "stops": 82,
   "items": [
     {
-      "id": "64f9a66d",
-      "title": "fear-of-missing-out 보강: 결과 간선(휴대전화 확인), 원인 간선",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. Groenestein 2024 PLOS ONE 0308643 'The few experimental findings supported the impact of FoMO on digital technology use (path 2)'(같은 출처라 못 씀, 다른 출처 필요). smartphone-checking-habit 결과 후보. Hudecek 2023 PLoS ONE 0284984 은 연관만",
-      "createdAt": "2026-10-22T10:50:46.181Z",
-      "seq": 958
-    },
-    {
-      "id": "3ac21b74",
-      "title": "clock-watching-in-bed 보강: 2000년대 이전 비문학 파편, 한국어 SNS",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글",
-      "createdAt": "2026-10-22T10:56:35.088Z",
-      "seq": 960
-    },
-    {
-      "id": "96c810bd",
+      "id": "4c9e8a53",
       "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편",
       "priority": 50,
-      "note": "2026-10-22 sciencedaily 2012-09-13 이혼율 19% 대 8% 조건 더함. 이혼이나 결혼 만족 문서가 생기면 결과 간선 후보. 매몰비용 문서가 생기면 원인 후보(위키트리 [^9])",
-      "createdAt": "2026-10-22T10:57:30.646Z",
-      "seq": 962
+      "note": "2026-10-22 sciencedaily 2012-09-13 이혼율 19% 대 8% 조건 더함. 이혼이나 결혼 만족 문서가 생기면 결과 간선 후보. 매몰비용 문서가 생기면 원인 후보(위키트리 [^9]). 2026-10-22 16:40Z '메리지 블루 go.kr' 검색에 공공 출처 없음",
+      "createdAt": "2026-10-22T16:38:19.234Z",
+      "seq": 1053
     },
     {
-      "id": "949a6841",
-      "title": "believing-reporting-is-futile 보강: 학술·SNS 파편, 다른 시기",
+      "id": "d3afa393",
+      "title": "forgetting-child-in-car 보강: SNS 파편, destination-memory-failure 와 관계",
       "priority": 50,
-      "note": "2026-10-22 문서 만듦(매체 서울신문 2003, 공공 BJS 2012, not-reporting-crime 과 같은 출처). kicj.re.kr list_no=16396 (2025-04-08) '경찰이 아무 조치도 취하지 않을 것이라 생각해서' 9.8% 는 표 셀이라 문장 필요. not-reporting-crime 의 dcinside bjd/118699 (2021) 는 같은 계정 규칙 확인 필요",
-      "createdAt": "2026-10-22T11:04:36.284Z",
-      "seq": 973
+      "note": "2026-10-22 학술 Ho 2019 PMC7147705 (~55%) 더함. 같은 논문 'Attention or memory lapses are hypothesized to occur due to distraction, stress, fatigue, or routine changes.' 는 같은 출처라 못 씀. 남은 후보: theconversation 'Parents who have forgotten their children in cars often report stressful or distracting experiences', kormedi '전날 밤 수면 부족'. 미래 기억 실패(prospective memory failure) 상위 문서 후보",
+      "createdAt": "2026-10-22T16:39:50.917Z",
+      "seq": 1054
     },
     {
-      "id": "73a0884d",
-      "title": "delaying-will-writing 보강: SNS 파편, 원인 간선",
+      "id": "ddc89437",
+      "title": "believing-reporting-is-futile 보강: SNS 파편, 다른 시기",
       "priority": 50,
-      "note": "2026-10-22 thegazette 100799·100356 공공 파편 더함. 남은 후보: biz.sbs.co.kr/amp/article/20000107065 (2023-03-09) '나쁜 미래를 대비한다는 것이 마음에 걸리기도'. 죽음 생각 회피 신규 현상과 원인 간선 후보",
-      "createdAt": "2026-10-22T11:04:36.791Z",
-      "seq": 974
+      "note": "2026-10-22 학술 Fissel 2023 (ideas.repec 초록, 성별 조건) 더함. 같은 초록 '(32.98%)' 문장은 같은 출처. mdpi.com 본문은 403. kicj.re.kr list_no=16396 (2025-04-08) 9.8% 는 표 셀이라 문장 필요. not-reporting-crime 의 dcinside bjd/118699 (2021) 는 같은 계정 규칙 확인 필요. 2000년대 이전 출처 없음",
+      "createdAt": "2026-10-22T16:41:08.273Z",
+      "seq": 1055
     },
     {
-      "id": "4a7c7715",
+      "id": "f4718957",
+      "title": "delaying-will-writing 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-10-22 SNS mariecurie 2015-04-11 댓글 더함. 남은 후보: biz.sbs.co.kr/amp/article/20000107065 (2023-03-09) '나쁜 미래를 대비한다는 것이 마음에 걸리기도', cmmllp.com/?p=990 변호사 블로그 'don't want to face their own mortality'(인과), 같은 mariecurie 글 2014-11-25 댓글 'too big a task to face emotionally'(같은 URL 이라 못 씀). 죽음 생각 회피 신규 현상과 원인 간선 후보",
+      "createdAt": "2026-10-22T16:42:17.094Z",
+      "seq": 1056
+    },
+    {
+      "id": "96d51eba",
       "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편",
       "priority": 50,
-      "note": "2026-10-22 매체 3, 학술, 공공, SNS 2 더함. 남은 후보: kicj 2025 9.8%(곧은 따옴표 없는 문장 필요). 문학 출처 미탐색",
-      "createdAt": "2026-10-22T11:05:57.391Z",
-      "seq": 982
+      "note": "2026-10-22 매체 3, 학술, 공공, SNS 2 더함. 남은 후보: kicj 2025 9.8%(곧은 따옴표 없는 문장 필요). 2026-10-22 16:44Z Gutenberg 19권(Oliver Twist, Bleak House, Our Mutual Friend, Crime and Punishment, Holmes 4권, Moonstone, Woman in White, The Jungle, Maggie 등)에서 police·inform 과 afraid·revenge 가 한 문장에 있는 대목 검색, 맞는 것 없음. 한국 문학(위키문헌) 미탐색",
+      "createdAt": "2026-10-22T16:44:08.142Z",
+      "seq": 1057
     },
     {
-      "id": "57d3b3f0",
+      "id": "f4371d10",
       "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
       "priority": 50,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z 도 / 가 TLS 실패. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
-      "createdAt": "2026-10-22T12:37:09.735Z",
-      "seq": 996
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z 도 / 가 TLS 실패(curl 60). 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
+      "createdAt": "2026-10-22T16:44:17.490Z",
+      "seq": 1058
     },
     {
-      "id": "b89bbe18",
+      "id": "70530b6a",
       "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
       "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z 호스트 / 도 TLS 실패. 이슈 #6 사례",
-      "createdAt": "2026-10-22T12:37:28.928Z",
-      "seq": 997
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례",
+      "createdAt": "2026-10-22T16:44:17.633Z",
+      "seq": 1059
     },
     {
-      "id": "ad90d735",
+      "id": "1a40f1be",
       "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
       "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z 호스트 / 도 TLS 실패. 이슈 #6 사례",
-      "createdAt": "2026-10-22T12:37:29.086Z",
-      "seq": 998
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례",
+      "createdAt": "2026-10-22T16:44:17.772Z",
+      "seq": 1060
     },
     {
-      "id": "fe0021bb",
+      "id": "b144f2fb",
       "title": "snooping-on-partners-phone 보강: 결과 간선(다툼·이별, 의심 증폭)",
       "priority": 50,
       "note": "2026-10-22 문화일보 2024-08-21 사연을 [^6] 으로 사용(같은 글 답변 '경우에 따라 의심만 더욱 커져 갈 수도 있고' 는 같은 URL 이라 못 씀). 후보: edition.cnn.com/2015/05/26/living/feat-ok-to-snoop-on-partner-texts-emails (2015-05-26) 'opening a can of worms in terms of trust and intimacy issues' 인과 표지 약함. Arikewuyo 2020 Psychological Reports (Europe PMC API 로만 열림) 'cell phone snooping partially mediates ... intention to break up, and conflicts' 문장 232자. seoul.co.kr/news/2007/04/25/20070425029020 감시받는 쪽 결혼생활 그만두고 싶음(휴대전화 외 감시 포함). 상대가 될 '연인과의 다툼' 문서 없음",
-      "createdAt": "2026-10-22T12:43:40.793Z",
-      "seq": 999
+      "createdAt": "2026-10-22T16:44:29.408Z",
+      "seq": 1061
     },
     {
-      "id": "2314ea2d",
+      "id": "865ef515",
       "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안), 한국어 파편",
       "priority": 50,
       "note": "2026-10-22 berkeleyan 1997 사별 면담 웃음 90% 조건 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), PubMed 9325589 Keltner·Bonanno 1997, gutenberg 580 Pickwick XI. 2026-10-22 한국어: fnnews.com/news/202508160332237789 (2025-08-16) 장례 중 긴장이 풀려 영상 보다 웃음(원문에 '웃' 없음), khan.co.kr/article/202606102008005 (2026-06-10) 웃음은 뜻과 무관하게 터진다(일반론). 게시판 제목형 검색어('웃참 실패 장례식', '조문 가서 웃음') 미시도",
-      "createdAt": "2026-10-22T13:09:06.342Z",
-      "seq": 1007
+      "createdAt": "2026-10-22T16:44:38.245Z",
+      "seq": 1062
     },
     {
-      "id": "3dfed2b0",
-      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 관계, 결과 간선",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: newsseoul.co.kr/news/view/1065572420034157 (2023-02-14) 경북소방본부 '비화재경보가 잦으면 ... 즉시 대피하지 않아'(인과), teamblind.com/kr 2021-11-21 댓글 오작동 무시하려다 남들 대피 보고 나감(남 따라 대피하기 현상 후보), thestar.com.my 2026-08-02 'repeated false alarms' 망설임, research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자). 재난 문자 경보 피로와 같은 상위(경보 피로) 후보",
-      "createdAt": "2026-10-22T14:39:47.237Z",
-      "seq": 1015
-    },
-    {
-      "id": "256c62b8",
+      "id": "4291fae9",
       "title": "summit-fever 보강: 매몰비용·목표 고착 관계, 한국어·공공 파편",
       "priority": 50,
       "note": "2026-10-22 문서 만듦. 남은 후보: mountainsafety.org.nz/read/sometimes-its-not-that-easy-to-turn-back/ (2021-09-15) 'Turning around, with your objective not completed, can be one of the most difficult decisions'(공공 여부 판단 필요), nps.gov/yose/planyourvisit/halfdome.htm 'Hikers commonly struggle down the trail after dark', nationalgeographic 2013-10-08 K2 'Overcome perhaps with summit fever'(추측), police.pref.kanagawa.jp/ps/atsugi/sounann01.html '引き返す勇気を持ちましょう。'. 한국 국립공원공단 자료 미발견. 매몰비용 문서가 생기면 원인 간선 후보",
-      "createdAt": "2026-10-22T14:49:01.115Z",
-      "seq": 1017
+      "createdAt": "2026-10-22T16:44:38.404Z",
+      "seq": 1063
     },
     {
-      "id": "6fee474b",
-      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
+      "id": "0a9c776f",
+      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 관계, 결과 간선",
       "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: PMC4199019 Bethel 2014 성과급이면 쉬기 불편(219자, 다른 문장 필요), nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망, mt.co.kr 2026-07-28 '조금만 더 일하고 쉬자는 인식'. 한국 공공(kdca, rda) 은 이 환경에서 연결 리셋",
-      "createdAt": "2026-10-22T14:54:45.868Z",
-      "seq": 1018
+      "note": "2026-10-22 문서 만듦. 남은 후보: teamblind.com/kr 2021-11-21 댓글 오작동 무시하려다 남들 대피 보고 나감(남 따라 대피하기 현상 후보), research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자). newsseoul 2023-02-14 와 thestar 2026-08-02 는 이미 [^7] [^10]. 공통 상위(경보 둔감화) 후보는 ignoring-emergency-alerts 가 별칭 '경보 피로' 를 이미 써서 이름과 범위를 먼저 정해야 함(병원 alarm fatigue 포함 여부)",
+      "createdAt": "2026-10-22T16:44:50.433Z",
+      "seq": 1064
     },
     {
-      "id": "4eab973d",
-      "title": "forgetting-child-in-car 보강: 학술·SNS 파편, destination-memory-failure 와 관계",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: npr.org/2019/08/02/747719425 'When there's a change in routine, sometimes the parent will forget', theconversation 같은 글 'Parents who have forgotten their children in cars often report stressful or distracting experiences', kormedi 같은 글 '전날 밤 수면 부족'. Diamond 2019 Medicine, Science and the Law 원 논문 페이지 미확인. nhtsa.gov 는 403. 미래 기억 실패(prospective memory failure) 상위 문서 후보",
-      "createdAt": "2026-10-22T14:58:50.942Z",
-      "seq": 1019
-    },
-    {
-      "id": "c3befcf4",
+      "id": "a7ad481f",
       "title": "not-calling-for-help-at-overdose 보강: SNS·한국어 파편, not-reporting-for-fear-of-reprisal 과 관계",
       "priority": 50,
       "note": "2026-10-22 문서 만듦. 남은 후보: cbc.ca/news/politics/good-samaritan-law-overdose-1.4786094 (CBC Radio 판과 같은 문장이라 못 씀). canada.ca 는 이 환경에서 연결 안 됨. 같은 '신고 꺼리기' 상위(경찰 개입이 두려워 신고하지 않기) 후보",
-      "createdAt": "2026-10-22T15:02:12.162Z",
-      "seq": 1020
+      "createdAt": "2026-10-22T16:44:55.380Z",
+      "seq": 1065
     },
     {
-      "id": "f8b8c121",
-      "title": "hearing-protection-nonuse 보강: SNS·한국어 파편, 멋없음 이유",
+      "id": "36219fc9",
+      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
       "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: magazine.utoronto.ca/?p=2114 같은 글 '74 per cent of attendees thought it was likely or very likely that noise levels ... could damage'(위험을 알아도 안 씀, 같은 URL 이라 못 씀), ohsonline 같은 글 'one in seven employees did not wear any'. 한국 안전보건공단 자료 미탐색",
-      "createdAt": "2026-10-22T15:05:12.444Z",
-      "seq": 1021
+      "note": "2026-10-22 문학 Anna Karenina 1878 풀베기 대목 더함(같은 장 'He would clearly have died sooner than own it was hard work for him.' 은 같은 URL 이라 못 씀). 남은 후보: PMC4199019 Bethel 2014 성과급이면 쉬기 불편(219자, 다른 문장 필요), nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망. 한국어 게시판 검색('폭염 엄마 말려도 밭일') 결과 없음. 한국 공공(kdca, rda) 은 이 환경에서 연결 리셋",
+      "createdAt": "2026-10-22T16:46:08.711Z",
+      "seq": 1066
+    },
+    {
+      "id": "c064c854",
+      "title": "hearing-protection-nonuse 보강: SNS 파편, 멋없음 이유",
+      "priority": 50,
+      "note": "2026-10-22 한국어 매체 뉴시스 2012-05-04 군 사격훈련 분위기 더함(같은 기사 군인권센터 '반드시 착용하라는 지시는 없다' 는 같은 URL). 남은 후보: magazine.utoronto.ca 같은 글 74%(같은 URL), ohsonline 같은 글 'one in seven'. 한국 안전보건공단 자료 미탐색, koreascience JAKO200544272479235.pdf 는 PDF",
+      "createdAt": "2026-10-22T16:47:05.124Z",
+      "seq": 1067
+    },
+    {
+      "id": "7500e13b",
+      "title": "clock-watching-in-bed 보강: 2000년대 이전 비문학 파편, 한국어 SNS",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글. 2026-10-22 16:40Z 시도: archive.org 수면 안내서 djvu(Bruce 1915, Granville 1879, Powell 1908, b28718045 1892 등)에 잠 못 들며 시계 보는 대목 없음. kyeonggi 2003-06-23 무관. 한국어 게시판 검색 결과 없음",
+      "createdAt": "2026-10-22T16:49:19.701Z",
+      "seq": 1068
+    },
+    {
+      "id": "2b4e343b",
+      "title": "faking-wealth 보강: 학술·SNS 파편, poverty-shame·showing-off-possessions 관계",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦(문학 Necklace 1884, 매체 헤럴드경제 미주판 2026-04-16). 같은 기사 판매자 '대부분은 여성에게 좋은 인상을 주거나 사업 목적으로 사진을 활용한다' 는 같은 URL. Necklace 같은 대목 'I shall look poverty-stricken. I would almost rather not go at all.' 도 같은 URL. poverty-shame 원인 간선은 'A 때문에 B' 문장 필요. seoul.co.kr 2023-11-24 짝퉁 플렉스 후보",
+      "createdAt": "2026-10-22T16:54:46.386Z",
+      "seq": 1073
+    },
+    {
+      "id": "72f12d7f",
+      "title": "behaving-better-when-watched 보강: SNS·한국어 파편, skipping-handwashing·fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦(학술 Bateson 2006, 매체 Newcastle 2015, 학술 Lawson 2019). 같은 보도자료 '4.7% of people dropped the leaflet with eyes compared to 15.6%' 는 같은 URL. boingboing 2015-12-02 다른 사람이 근처에 있으면 효과 없음(조건 후보). danielnettle.org.uk litter PeerJ 논문. 원인 간선은 '때문에' 문장 필요. 한국 사례: segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
+      "createdAt": "2026-10-22T16:56:38.493Z",
+      "seq": 1074
+    },
+    {
+      "id": "4cbe7d89",
+      "title": "blaming-fate-or-god 보강: 학술·한국어 파편",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦(문학 King Lear 1606, 매체 HealthDay 2011-01-03). 학술 후보: Exline 외 2011 JPSP PMID 21219078 초록 'Anger toward God was frequently reported in response to negative events, although positive feelings predominated.'(pubmed 429, europepmc 403). 같은 HealthDay 글 '나이 어린 사람과 백인이 더 화를 냄' 조건은 같은 URL. Odyssey 1권 Zeus 대목 문학 후보. 한국어 '팔자 탓' 파편 미탐색",
+      "createdAt": "2026-10-22T16:57:55.924Z",
+      "seq": 1075
     },
     {
       "id": "e8ba47a7",
@@ -155,14 +171,6 @@
       "note": "주는 쪽·받는 쪽 어긋남 F5(cmu.edu 2016), 한국 SNS F7(moyoplan) 추가. seoul.co.kr/news/2000/12/11/20001211014003 (2000-12-11), kormedi.com/1213118 (2014-12-22) 후보. 2026-10-20: psychologytoday happy-together/202412 은 인과 문장 없음(none). retailcustomerexperience Groupon 설문 73% 꾸민 반응, Galak 리뷰(source.washu.edu/2019/12/how-to-win-the-holidays...) 주는 쪽·받는 쪽 7가지 어긋남. 꾸민 반응 때문에 주는 쪽이 맞는 선물을 모른다는 문장 미발견",
       "createdAt": "2026-10-20T08:46:49.854Z",
       "seq": 724
-    },
-    {
-      "id": "6713362a",
-      "title": "keeping-belongings-of-the-dead 보강: 공공 파편과 버리기와의 긴장",
-      "priority": 30,
-      "note": "2026-10-20 m.cafe.daum.net/amtb/6Zfw/14950/comments (2011-02-10 댓글) F2 로 사용. 같은 스레드에 유품을 남에게 주거나 태우라는 댓글들(긴장 후보, 같은 URL 은 한 문서에 한 파편). m.cafe.daum.net/subdued20club/ReHf/113723 (2011-12-20 스크랩) '집안 곳곳이 엄마 손길이 있어서 청소도 못 하겠고' 후보. gutenberg 1511 King John 3막 4장 'Stuffs out his vacant garments with his form' 후보. 공공 파편 미발견",
-      "createdAt": "2026-10-20T08:49:29.220Z",
-      "seq": 725
     },
     {
       "id": "8730bc72",
@@ -245,14 +253,6 @@
       "seq": 894
     },
     {
-      "id": "0f8610f7",
-      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
-      "priority": 30,
-      "note": "2026-10-20 문화일보 2026-06-12(남해해경청 110명 중 97명), 아주경제 2026-06-15 추가. 공공 HTML 페이지 여전히 미발견. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22) 행안부 실장 '구명조끼를 착용하지 않은 채 안타까운 사망 사고가 발생한 게 거의 90% 이상' (매체), 같은 글 '많은 국민들, 피서객들이 구명조끼를 직접 가지고 오시더라고요' 다른 시기 조건 후보 / 2026-10-21 korea.kr 원문 또 미발견. 해경청 낚시어선 단속 277건 중 구명조끼 미착용 80건(2023~2025, 보도로만 확인), 부산해경 2020-05 kukinews kuk202005260093 19명 중 18명",
-      "createdAt": "2026-10-21T22:45:57.304Z",
-      "seq": 896
-    },
-    {
       "id": "2ea37ec6",
       "title": "perfectionism 보강: 문학·공공 파편, 1989년 이전 시기 파편",
       "priority": 30,
@@ -267,30 +267,6 @@
       "note": "2026-10-21 문서 작성 시 관계 미정. 후보: PMC8650558 같은 출처 'Social drinkers are commonly unaware of exceeding the legal driving limit when consuming alcohol.', 도로교통공단 2026 교육생 924명 설문 '술이 깼을 것으로 판단' 24.5%(원문 공단 페이지 미발견, segye·wikitree·mtn 보도), RSA Ireland 2025 45% believed fit to drive(403), samhsa ShortReport-2688 (2016-12-27) 11.1%, cdc impaired-driving/facts (2024-05-15) 1.5%, sports.khan.co.kr 200612052128343 몇 미터 이동은 운전 아님. 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요 / 2026-10-21 djsresearch.co.uk insights 01700 (Direct Line 2014) 'the most common reason given for drink driving is that the individual felt they were okay to safely drive' 는 drink-driving 자체의 이유. legalfutures print 같은 조사 'respondents felt they were personally able to drink more alcohol than the “average woman”' 는 평균 이상 효과 후보이나 운전과의 인과 표지 없음",
       "createdAt": "2026-10-21T22:58:09.528Z",
       "seq": 900
-    },
-    {
-      "id": "a971eaaa",
-      "title": "sensation-seeking 보강: SNS·공공 파편, 날짜 있는 매체 파편, speeding 관계",
-      "priority": 30,
-      "note": "2026-10-21 파편 3개(Psychology Today 발행일 미상, Hu 외 2021, Aluja 2023). 후보: open.edu openlearn thrill-seeking-and-risk-taking (403), scmp yp 3233893 (403), cris.bgu.ac.il tourist behavior (404). Aluja 2023 의 'predict' 는 예측이라 speeding 원인 간선 근거로 쓰지 않음",
-      "createdAt": "2026-10-21T22:59:25.343Z",
-      "seq": 901
-    },
-    {
-      "id": "837d4c06",
-      "title": "superstitious-rituals 보강: SNS·공공 파편",
-      "priority": 30,
-      "note": "2026-10-21 dailybruin 2016-02-26 F3 로 사용(같은 글 'Following a pre-exam ritual can ease an overwhelmed student’s mind' 는 같은 URL). 이전 메모: 2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
-      "createdAt": "2026-10-21T23:01:20.709Z",
-      "seq": 902
-    },
-    {
-      "id": "dc519139",
-      "title": "heat-or-eat 보강: 한국어 파편과 energy-limiting-behavior 관계",
-      "priority": 30,
-      "note": "2026-10-20 파편 3개(2012 Anderson repec, 2018 EIA, 2023 Scottish Housing News). 한국어 파편 없음(난방비 때문에 식비 줄여). ageuk.org.uk/cymru/latest-news/archive/welsh-pensioners-cut-back-on-heating-and-eating (2013-05-10) 난방과 식사를 함께 줄임(인과 아님). eia 같은 글 'Of the 25 million households that reported forgoing food and medicine to pay energy bills, 7 million faced that decision nearly every month.' energy-limiting-behavior(냉난방 참기) 와 긴장 근거 문장 필요 / 2026-10-21 etoday.co.kr/news/view/2227423 (2023-03-05) 저소득층 연료비 부담 증가와 식비 실질 감소를 함께 보도하나 식비 감소를 식료품 물가 탓으로 풀이해 맞바꿈 근거 아님. nbcnews heat-or-eat n18831 (2014) 영어 매체 후보",
-      "createdAt": "2026-10-21T23:01:55.050Z",
-      "seq": 903
     },
     {
       "id": "0273efe3",
@@ -323,14 +299,6 @@
       "note": "2026-10-22 gohighbrow 2017 '상황을 아예 피함' 파편 더함(상대 문서 없음: 일반 상황 회피 문서가 생기면 결과 간선). blushing 후보 psych-your-mind.blogspot.com/2011/08/spotlight-effect-youre-only-one-who.html 은 인과 문장 아님. brunch.co.kr/@humanfreshnk/1712 (2026-06-18) '그래서 도전하지 못하고...'",
       "createdAt": "2026-10-22T06:48:57.968Z",
       "seq": 936
-    },
-    {
-      "id": "60170caa",
-      "title": "pretending-not-to-be-home 보강: 학술 파편, 아기·택배 이유",
-      "priority": 30,
-      "note": "2026-10-22 나이 조건(Ipsos 2026) 더함. 남은 후보: brunch.co.kr/@efseo2/1675 (2025-04-23) 아기 깰까 봐, 받을 게 없어서 무응답. 학술은 여전히 없음",
-      "createdAt": "2026-10-22T06:49:58.305Z",
-      "seq": 937
     },
     {
       "id": "f2a8d614",
@@ -405,6 +373,54 @@
       "seq": 1006
     },
     {
+      "id": "cd650fe6",
+      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-10-20 문화일보 2026-06-12(남해해경청 110명 중 97명), 아주경제 2026-06-15 추가. 공공 HTML 페이지 여전히 미발견. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22) 행안부 실장 '구명조끼를 착용하지 않은 채 안타까운 사망 사고가 발생한 게 거의 90% 이상' (매체), 같은 글 '많은 국민들, 피서객들이 구명조끼를 직접 가지고 오시더라고요' 다른 시기 조건 후보 / 2026-10-21 korea.kr 원문 또 미발견. 해경청 낚시어선 단속 277건 중 구명조끼 미착용 80건(2023~2025, 보도로만 확인), 부산해경 2020-05 kukinews kuk202005260093 19명 중 18명 / 2026-10-22 '해양경찰청 보도자료 구명조끼 미착용 kcg.go.kr' 검색도 보도로만 나옴(segye 2026-07-29 연안사고 5년 사망자 미착용 91.9%, kbmaeil 2025-02-12 2023년 1008명 중 139명 착용)",
+      "createdAt": "2026-10-22T16:49:52.323Z",
+      "seq": 1069
+    },
+    {
+      "id": "7a19e980",
+      "title": "superstitious-rituals 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-10-22 SNS Straight Dope 2010-03-15 하키 행운 양말 더함(같은 사이트 636665 'weird-little-superstitions-you-have' 2012 도 후보). 이전: 2026-10-21 dailybruin 2016-02-26 F3 로 사용(같은 글 'Following a pre-exam ritual can ease an overwhelmed student’s mind' 는 같은 URL). 이전 메모: 2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
+      "createdAt": "2026-10-22T16:50:54.823Z",
+      "seq": 1070
+    },
+    {
+      "id": "af776979",
+      "title": "sensation-seeking 보강: 공공 파편, 날짜 있는 매체 파편, speeding 관계",
+      "priority": 30,
+      "note": "2026-10-22 SNS Straight Dope 2025-09-27 댓글 더함. 같은 사이트 everest-just-dont-do-it/755397 (2026-05-14) 'the risk IS the allure' 후보. 이전: 2026-10-21 파편 3개(Psychology Today 발행일 미상, Hu 외 2021, Aluja 2023). 후보: open.edu openlearn thrill-seeking-and-risk-taking (403), scmp yp 3233893 (403), cris.bgu.ac.il tourist behavior (404). Aluja 2023 의 'predict' 는 예측이라 speeding 원인 간선 근거로 쓰지 않음",
+      "createdAt": "2026-10-22T16:51:55.274Z",
+      "seq": 1071
+    },
+    {
+      "id": "5c0f78bc",
+      "title": "heat-or-eat 보강: 한국어 파편과 energy-limiting-behavior 관계",
+      "priority": 30,
+      "note": "2026-10-22 학술 NBER w9004 (2002-06) 더함. 한국어 검색('난방비 부담에 식비 줄여', '난방비 내느라 식비 줄였다') 결과 없음, jjan.kr/article/20230212580176 은 무료급식소 운영난(인과 아님). reap.fsi.stanford.edu 403. 이전: 2026-10-20 파편 3개(2012 Anderson repec, 2018 EIA, 2023 Scottish Housing News). 한국어 파편 없음(난방비 때문에 식비 줄여). ageuk.org.uk/cymru/latest-news/archive/welsh-pensioners-cut-back-on-heating-and-eating (2013-05-10) 난방과 식사를 함께 줄임(인과 아님). eia 같은 글 'Of the 25 million households that reported forgoing food and medicine to pay energy bills, 7 million faced that decision nearly every month.' energy-limiting-behavior(냉난방 참기) 와 긴장 근거 문장 필요 / 2026-10-21 etoday.co.kr/news/view/2227423 (2023-03-05) 저소득층 연료비 부담 증가와 식비 실질 감소를 함께 보도하나 식비 감소를 식료품 물가 탓으로 풀이해 맞바꿈 근거 아님. nbcnews heat-or-eat n18831 (2014) 영어 매체 후보",
+      "createdAt": "2026-10-22T16:53:17.303Z",
+      "seq": 1072
+    },
+    {
+      "id": "4d461f05",
+      "title": "pretending-not-to-be-home 보강: 학술 파편, 아기·택배 이유",
+      "priority": 30,
+      "note": "2026-10-22 brunch @efseo2/1675 (2025-04-23) 종교 방문 이유를 [^8] 로 더함(같은 글 '애기가 자고 있어서' 는 같은 URL). 학술은 여전히 없음. 이전: 2026-10-22 나이 조건(Ipsos 2026) 더함. 남은 후보: brunch.co.kr/@efseo2/1675 (2025-04-23) 아기 깰까 봐, 받을 게 없어서 무응답. 학술은 여전히 없음",
+      "createdAt": "2026-10-22T17:02:04.009Z",
+      "seq": 1079
+    },
+    {
+      "id": "13a108b3",
+      "title": "keeping-belongings-of-the-dead 보강: 공공 파편과 버리기와의 긴장",
+      "priority": 30,
+      "note": "2026-10-20 m.cafe.daum.net/amtb/6Zfw/14950/comments (2011-02-10 댓글) F2 로 사용. 같은 스레드에 유품을 남에게 주거나 태우라는 댓글들(긴장 후보, 같은 URL 은 한 문서에 한 파편). m.cafe.daum.net/subdued20club/ReHf/113723 (2011-12-20 스크랩) '집안 곳곳이 엄마 손길이 있어서 청소도 못 하겠고' 후보. gutenberg 1511 King John 3막 4장 'Stuffs out his vacant garments with his form' 후보. 공공 파편 미발견 / 2026-10-22 nhs.uk·gov.uk·gov.au 검색에 공공 출처 없음. 비공공 후보: community.sueryder.org/t/personal-belongingsl/32724 (SNS), bkbooks.com 'wait even months if necessary', legalandgeneral 'this is a personal decision'",
+      "createdAt": "2026-10-22T17:02:23.162Z",
+      "seq": 1080
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -445,14 +461,6 @@
       "seq": 861
     },
     {
-      "id": "ee1d30ac",
-      "title": "단톡방 알림 끄고 남기와 알림 과부하",
-      "priority": 10,
-      "note": "First Monday 2021(Garcia, Vivacqua): 응답자 26%가 무음 그룹 보유, notification fatigue. staying-in-group-chats 보강 또는 관계 후보",
-      "createdAt": "2026-10-18T04:50:14.344Z",
-      "seq": 203
-    },
-    {
       "id": "11c5a3ae",
       "title": "받을 돈 포기하기",
       "priority": 10,
@@ -475,22 +483,6 @@
       "note": "archive.blogs.harvard.edu/digitalnatives/2008/12/15/unfriending-stealth-tactics-and-sensible-responses/ (2008-12-15) 'they’re quite likely to discover the unfriending eventually.' blog.commarts.wisc.edu/2009/11/18/unfriended (Ellcessor 2009-11-18) 알림이 없어 상처를 덜 줌. staying-in-group-chats 와 관련 후보",
       "createdAt": "2026-10-18T05:47:32.692Z",
       "seq": 215
-    },
-    {
-      "id": "b701b2dd",
-      "title": "약속 취소를 받는 쪽의 반응",
-      "priority": 10,
-      "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련",
-      "createdAt": "2026-10-18T06:05:10.707Z",
-      "seq": 216
-    },
-    {
-      "id": "4be884eb",
-      "title": "에어컨이 있어도 켜지 않기 (더위 위험 낮게 어림)",
-      "priority": 10,
-      "note": "energy-limiting-behavior F4 출처(NYC DOHMH heat data story): AC 가 있어도 더울 때 쓰지 않는 15%. 요금 외 이유. CDC mm6222a1(2013) 'a functioning air conditioner was present but not turned on'",
-      "createdAt": "2026-10-18T07:39:46.488Z",
-      "seq": 229
     },
     {
       "id": "4496710a",
@@ -581,14 +573,6 @@
       "seq": 279
     },
     {
-      "id": "0669b76a",
-      "title": "보는 사람이 있을 때 행동 바꾸기 (관찰자 효과)",
-      "priority": 10,
-      "note": "skipping-handwashing F2(Lawson 2019) 혼자일 때 준수율 낮음. 원인 간선 후보",
-      "createdAt": "2026-10-18T10:03:37.473Z",
-      "seq": 280
-    },
-    {
       "id": "b0a8c6a4",
       "title": "타인의 표정을 부정적으로 읽기",
       "priority": 10,
@@ -651,30 +635,6 @@
       "note": "ignoring-emergency-alerts F5(Sutton&Wood 2025 desensitization) 와 delayed-evacuation 사이 원인 간선 후보. 2008 Simmons&Sutter AMS 초록 ams.confex.com/ams/88Annual/webprogram/Paper135736.html 'False alarms are widely perceived to reduce response to warnings'",
       "createdAt": "2026-10-18T14:45:56.271Z",
       "seq": 331
-    },
-    {
-      "id": "e166e609",
-      "title": "남 탓의 전염",
-      "priority": 10,
-      "note": "blaming-others F3(USC 2009, Fast&Tiedens): 남이 탓하는 것을 본 사람이 더 탓한다. 하위 또는 결과 후보. 같은 페이지 'Blaming becomes common when people are worried about their safety in an organization'",
-      "createdAt": "2026-10-18T14:51:39.261Z",
-      "seq": 332
-    },
-    {
-      "id": "2c918452",
-      "title": "운명이나 신을 탓하기",
-      "priority": 10,
-      "note": "King Lear 1막 2장 Edmund(gutenberg pg1532-images) 'we make guilty of our disasters the sun, the moon, and the stars', Odyssey 1권 Zeus. blaming-others 하위 후보",
-      "createdAt": "2026-10-18T14:51:39.391Z",
-      "seq": 333
-    },
-    {
-      "id": "040452d6",
-      "title": "부유해 보이려고 형편 넘는 것 빌리기",
-      "priority": 10,
-      "note": "Maupassant The Necklace(gutenberg pg3080-images) 'there’s nothing more humiliating than to look poor among other women who are rich.' showing-off-possessions 와 concealing-poverty 관련 후보",
-      "createdAt": "2026-10-18T14:56:26.209Z",
-      "seq": 334
     },
     {
       "id": "34a8fa00",
@@ -1355,6 +1315,30 @@
       "note": "teamblind.com/kr 2021-11-21 화재경보 댓글: 오작동이라 무시하려다 다른 분들이 다 대피해서 나감. dismissing-fire-alarms 와 대립 또는 delayed-evacuation 하위 후보",
       "createdAt": "2026-10-22T14:39:47.376Z",
       "seq": 1016
+    },
+    {
+      "id": "7265100c",
+      "title": "에어컨이 있어도 켜지 않기 (더위 위험 낮게 어림)",
+      "priority": 10,
+      "note": "2026-10-22 energy-limiting-behavior 와 겹쳐 아이뉴스24 2026-08-05 사연을 그 문서 [^8] 로 더함(같은 기사 '어머니가 아주 가난한 것도 아니신데' 는 같은 URL). 요금이 아닌 이유(더위를 못 느낌, 위험을 낮게 어림)를 말하는 파편이 있어야 별도 문서가 됨. CDC mm6222a1 (2013) 'In the homes of five persons who died, a functioning air conditioner was present but not turned on.' VERIFIED 가능, 이유 없음. 이전: energy-limiting-behavior F4 출처(NYC DOHMH heat data story): AC 가 있어도 더울 때 쓰지 않는 15%. 요금 외 이유. CDC mm6222a1(2013) 'a functioning air conditioner was present but not turned on'",
+      "createdAt": "2026-10-22T16:59:10.908Z",
+      "seq": 1076
+    },
+    {
+      "id": "6fdc9d9c",
+      "title": "남 탓의 전염",
+      "priority": 10,
+      "note": "2026-10-22 매체 후보 VERIFIED 가능: nbcnews.com/health/health-news/passing-buck-blaming-others-contagious-flna1c9441046 (2010-01-19, LiveScience) 'Participants who read about the governor blaming others for a mistake were twice as likely as the other group of participants to blame someone else for their own slip-ups.' 학술 초록 gsbpreserve.stanford.edu/view/61308 403. 두 번째 종류 필요. 이전: blaming-others F3(USC 2009, Fast&Tiedens): 남이 탓하는 것을 본 사람이 더 탓한다. 하위 또는 결과 후보. 같은 페이지 'Blaming becomes common when people are worried about their safety in an organization'",
+      "createdAt": "2026-10-22T16:59:36.761Z",
+      "seq": 1077
+    },
+    {
+      "id": "8f7c915d",
+      "title": "약속 취소를 받는 쪽의 반응",
+      "priority": 10,
+      "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련 / 2026-10-22 msutoday 같은 글 'Overall, people reported relatively low levels of distress when canceled on unless it was by a good friend.' 조건 후보(VERIFIED 가능). 82cook 3726220·2059415 둘 다 타임아웃. Straight Dope 검색('friend cancelled plans last minute hurt') 맞는 글 없음. 두 번째 종류 필요",
+      "createdAt": "2026-10-22T17:00:45.979Z",
+      "seq": 1078
     },
     {
       "id": "02b2f242",
