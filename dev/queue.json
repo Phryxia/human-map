@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T10:43:28.330Z",
-  "nextSeq": 957,
+  "savedAt": "2026-10-22T10:50:46.353Z",
+  "nextSeq": 959,
   "stops": 77,
   "items": [
     {
@@ -131,6 +131,14 @@
       "note": "2026-10-22 berkeleyan 1997 사별 면담 웃음 90% 조건 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), PubMed 9325589 Keltner·Bonanno 1997. 문학 후보: gutenberg 580 Pickwick XI. 한국어 출처 미발견",
       "createdAt": "2026-10-22T10:36:23.343Z",
       "seq": 954
+    },
+    {
+      "id": "64f9a66d",
+      "title": "fear-of-missing-out 보강: 결과 간선(휴대전화 확인), 원인 간선",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. Groenestein 2024 PLOS ONE 0308643 'The few experimental findings supported the impact of FoMO on digital technology use (path 2)'(같은 출처라 못 씀, 다른 출처 필요). smartphone-checking-habit 결과 후보. Hudecek 2023 PLoS ONE 0284984 은 연관만",
+      "createdAt": "2026-10-22T10:50:46.181Z",
+      "seq": 958
     },
     {
       "id": "e8ba47a7",
@@ -523,14 +531,6 @@
       "note": "클리앙 park/18914024 댓글(2025-02-10) '밥값은 따로 내준다 생각하고 축의 더 내야하나'. weighing-gift-money 하위 후보",
       "createdAt": "2026-10-18T09:50:01.156Z",
       "seq": 274
-    },
-    {
-      "id": "8255c45c",
-      "title": "놓칠까 두려운 마음 (FOMO)",
-      "priority": 10,
-      "note": "Hudecek 외 2023 PLoS ONE 0284984 초록: 'FOMO is positively linked to PSU and that both are positively associated with SUWD'. phone-use-while-driving, smartphone-checking-habit 와 관련(연관이지 인과 아님)",
-      "createdAt": "2026-10-18T09:54:15.715Z",
-      "seq": 275
     },
     {
       "id": "0d826243",
