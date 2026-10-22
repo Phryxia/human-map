@@ -6845,5 +6845,11 @@
     "last": "2026-10-22",
     "result": "VERIFIED",
     "lastVerified": "2026-10-22"
+  },
+  "https://www.gutenberg.org/cache/epub/2413/pg2413.txt": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
   }
 }
