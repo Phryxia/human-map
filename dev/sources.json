@@ -5540,21 +5540,21 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057329/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11961986/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.inews365.com/news/article.html?no=885468": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://words.fromoldbooks.org/Brewer-DictionaryOfPhraseAndFable/f/french-leave.html": {
     "first": "2026-10-20",
@@ -5624,15 +5624,15 @@
   },
   "https://www.psychologytoday.com/us/articles/199809/in-the-spotlight": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://news.ycombinator.com/item?id=11842423": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.munhwa.com/article/11595126": {
     "first": "2026-10-20",
@@ -6703,6 +6703,12 @@
     "lastVerified": "2026-10-22"
   },
   "https://www.psychologytoday.com/us/blog/joy-and-pain/201401/what-is-the-difference-between-envy-and-jealousy": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://gohighbrow.com/turn-off-that-spotlight-on-you/": {
     "first": "2026-10-22",
     "last": "2026-10-22",
     "result": "VERIFIED",
