@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T02:33:12.478Z",
+  "savedAt": "2026-10-22T04:35:16.963Z",
   "nextSeq": 914,
   "stops": 74,
   "items": [
@@ -27,14 +27,6 @@
       "note": "2026-10-21 22:5xZ www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
       "createdAt": "2026-10-21T22:55:22.479Z",
       "seq": 899
-    },
-    {
-      "id": "5f8b94e6",
-      "title": "dev: style-check 번역체 '다시 말해' 가 '다시 말해 달라고'(되묻기)를 잡는 오탐",
-      "priority": 60,
-      "note": "2026-10-22 pretending-to-understand 조건 절 초안 '상대에게 다시 말해 달라고 하고도' 를 '다시 말해' 로 잡음. 오탐 사례 하나 더 모아 '다시 말해 (달라|주|줘)' 를 뺄 것",
-      "createdAt": "2026-10-22T00:42:14.833Z",
-      "seq": 905
     },
     {
       "id": "931fba3e",
