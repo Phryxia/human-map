@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T10:56:35.216Z",
-  "nextSeq": 961,
+  "savedAt": "2026-10-22T10:57:30.768Z",
+  "nextSeq": 963,
   "stops": 77,
   "items": [
     {
@@ -93,14 +93,6 @@
       "seq": 940
     },
     {
-      "id": "0c3892f2",
-      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편",
-      "priority": 50,
-      "note": "2026-10-22 위키트리 2026-06-17(청첩장 뒤 파혼 결정 못 함) 더함. 매몰비용 문서가 생기면 원인 후보. sciencedaily 120913173324 (2012-09-13) 'their doubts were more meaningful in predicting trouble'",
-      "createdAt": "2026-10-22T07:01:10.862Z",
-      "seq": 941
-    },
-    {
       "id": "5176b7ef",
       "title": "smoking-relapse 보강: 원인 간선(스트레스, 술자리), 문학 파편",
       "priority": 50,
@@ -147,6 +139,14 @@
       "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글",
       "createdAt": "2026-10-22T10:56:35.088Z",
       "seq": 960
+    },
+    {
+      "id": "96c810bd",
+      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편",
+      "priority": 50,
+      "note": "2026-10-22 sciencedaily 2012-09-13 이혼율 19% 대 8% 조건 더함. 이혼이나 결혼 만족 문서가 생기면 결과 간선 후보. 매몰비용 문서가 생기면 원인 후보(위키트리 [^9])",
+      "createdAt": "2026-10-22T10:57:30.646Z",
+      "seq": 962
     },
     {
       "id": "e8ba47a7",

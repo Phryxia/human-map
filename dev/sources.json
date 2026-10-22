@@ -7001,5 +7001,11 @@
     "last": "2026-10-22",
     "result": "VERIFIED",
     "lastVerified": "2026-10-22"
+  },
+  "https://www.sciencedaily.com/releases/2012/09/120913173324.htm": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
   }
 }
