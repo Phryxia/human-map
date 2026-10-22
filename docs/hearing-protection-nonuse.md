@@ -8,7 +8,7 @@
 
 2021년 미국 국립산업안전보건연구원 자료[^6]에서 2014년 소음에 노출된 노동자의 53%는 청력 보호구를 꾸준히 쓰지 않았다. 2009년 기사[^3]가 전한 영국 조사에서 보호구를 쓰지 않은 사람들은 소리가 잘 들리지 않는 것을 이유로 들었다.
 
-2005년 기사[^2]가 전한 공연 관객 연구에서 응답자의 80%는 공연장에서 청력 보호구를 한 번도 쓰지 않았다고 답했다.
+2005년 기사[^2]가 전한 공연 관객 연구에서 응답자의 80%는 공연장에서 청력 보호구를 한 번도 쓰지 않았다고 답했다. 2023년 게시판 댓글[^7]의 글쓴이는 10대 때 펑크 록 공연에 자주 다니면서 스스로 너무 멋있다고 여겨 귀마개를 한 번도 하지 않았고 오래된 이명을 그 탓으로 돌렸다.
 
 # 조건
 
@@ -46,3 +46,4 @@
 [^4]: [매체] "막상 사격훈련에 들어가면 귀마개를 하고 싶어도 할 수 없는 분위기" — 정의진, 「[초점]열악한 근로환경 탓…직업병 '소음성난청', 정부 대책마련 시급」, 뉴시스, 2012-05-04, https://mobile.newsis.com/view/NISX20120416_0011027929, 2026-10-22 접속
 [^5]: [학술] "58% of the workers reported on uncomfortable feeling while 42% were lack of awareness and 25% feel that the devices created a barrier in communication." (노동자의 58%는 불편함을, 42%는 인식 부족을 말했고 25%는 보호구가 의사소통에 장벽을 만든다고 느꼈다.) — Mainul Haque, Nor Iza A. Rahman, Siti Najihah Yahya, "Satisfaction Study of Using Hearing Protection Device Among Sawmill Workers In Kuantan, Malaysia", International Journal of Pharmaceutical Research 8(1), 2016, https://eprints.unisza.edu.my/7396, 2026-10-22 접속
 [^6]: [공공] "Among all workers exposed to noise in 2014, researchers found the majority (53%) did not wear hearing protection consistently." (2014년 소음에 노출된 전체 노동자 가운데 다수(53%)가 청력 보호구를 꾸준히 쓰지 않았다.) — NIOSH, "Half of Noise-Exposed Workers Do Not Use Hearing Protection When Exposed to Noise on the Job", NIOSH Update, 2021-10-07, https://archive.cdc.gov/www_cdc_gov/niosh/updates/upd-10-07-21.html, 2026-10-22 접속
+[^7]: [SNS] "Exactly the same for me. I’ve had it for as long as I remember and chalk it up to going to too many punk rock shows as an angsty teen (and never wore ear plugs because I was “too cool”)." (나도 똑같다. 기억나는 한 오래전부터 그랬고 불안한 10대 때 펑크 록 공연에 너무 많이 간 탓으로 여긴다(내가 "너무 멋있어서" 귀마개는 한 번도 안 했다).) — Hacker News, 댓글, 2023-10-12, https://news.ycombinator.com/item?id=37856868, 2026-10-22 접속
