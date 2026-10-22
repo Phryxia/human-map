@@ -1,129 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T12:32:32.633Z",
-  "nextSeq": 983,
-  "stops": 79,
+  "savedAt": "2026-10-22T13:09:15.066Z",
+  "nextSeq": 1008,
+  "stops": 80,
   "items": [
-    {
-      "id": "786c6ffd",
-      "title": "feeling-rushed: statcan [^5] 재확인",
-      "priority": 100,
-      "note": "2026-10-21 18:40Z, 22:35Z, 2026-10-22 10:33Z, 11:05Z www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). 2026-10-22 에는 호스트 / 도 같은 점검 페이지라 호스트 전체 장애. 같은 날 앞선 실행은 VERIFIED. 점검이 끝난 뒤 다시 돌리고, 그때도 원문이 없으면 소멸 표시",
-      "createdAt": "2026-10-22T11:05:06.554Z",
-      "seq": 978
-    },
-    {
-      "id": "3fca8950",
-      "title": "not-reporting-crime: statcan [^5] 재확인",
-      "priority": 100,
-      "note": "2026-10-21 22:5xZ, 2026-10-22 10:33Z www150.statcan.gc.ca 200 점검 페이지. 호스트 / 도 같은 점검 페이지. feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
-      "createdAt": "2026-10-22T11:05:06.686Z",
-      "seq": 979
-    },
-    {
-      "id": "8935aa7d",
-      "title": "dev: source-check 점검 페이지가 호스트 / 에서도 나오면 호스트 장애로 보고 소멸 지시하지 않기",
-      "priority": 60,
-      "note": "feeling-rushed [^5], not-reporting-crime [^5]: 2026-10-21~22 www150.statcan.gc.ca 글과 / 모두 200 점검 페이지인데 '줄 끝을 (소멸, ...) 으로 바꾼다' 출력. 4xx·타임아웃 호스트 예외와 같은 꼴. 이슈 #6(TLS·5xx 포함, needs-owner)과 겹치는지 먼저 확인",
-      "createdAt": "2026-10-22T11:05:06.856Z",
-      "seq": 980
-    },
-    {
-      "id": "8d92d8da",
-      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
-      "createdAt": "2026-10-21T10:56:50.105Z",
-      "seq": 823
-    },
-    {
-      "id": "4846061c",
-      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 / 도 TLS 'unable to get local issuer certificate'(curl). dev: source-check 호스트 예외에 TLS 인증서 실패 포함 항목의 두 번째 사례",
-      "createdAt": "2026-10-21T12:34:27.406Z",
-      "seq": 833
-    },
-    {
-      "id": "728bddbc",
-      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 / 도 TLS self-signed certificate. 이슈 #6 사례",
-      "createdAt": "2026-10-21T12:43:36.545Z",
-      "seq": 834
-    },
-    {
-      "id": "2b761878",
-      "title": "snooping-on-partners-phone 보강: 문학 파편, 결과(다툼) 간선, 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-10-21 SNS [^5] 네이트판 추가. 남은 후보: mumsnet.com/talk/relationships/4542111 (2022-05-02) 'I haven’t told him and don’t plan to as I hate myself for checking it.'(감추기·자책), mumsnet AIBU 5369167 (2025-07-07). 다툼: pann.nate.com/talk/364385079 '남편 핸드폰 몰래보는 문제로 대판' fetch 미확인. 82cook num=3180430 은 남편이 알고 있어 몰래 아님. 이전: gutenberg 768 21장 239자라 못 씀, teamblind 회사명 표시 제외",
-      "createdAt": "2026-10-21T13:03:00.224Z",
-      "seq": 836
-    },
-    {
-      "id": "8b487652",
-      "title": "driving-into-floodwater 보강: 다른 운전자를 보고 따라 건너기(사회적 압력), 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-21 unsw.edu.au 같은 글(F5) 'And when I saw four-wheel-drives coming towards me I thought, ‘okay I can do this’.', 'Pressure from passengers in the vehicle. Or pressure from other motorists on the road.' — 같은 URL 이라 다른 출처 필요. ehps 초록의 원인 문장은 246자. CDC mm4907a1 '10 (63%) involved trucks and/or sport-utility vehicles' 조건(같은 출처). 한국어: newsis NISX20180703_0000352671 (2018-07-03) 보험 과실, 운전자 동기 문장 미발견. delayed-evacuation 과 관계 후보",
-      "createdAt": "2026-10-21T16:42:08.477Z",
-      "seq": 845
-    },
-    {
-      "id": "d1c9e040",
-      "title": "rereading-received-messages 보강: 학술 파편과 관계",
-      "priority": 50,
-      "note": "2026-10-22 후보: spsp.org/news-center/character-context-blog/how-technology-complicates-breakup-process (2020-09-14) 'people who were nostalgic reported being more likely to hold onto digital items, which in turn led them to adjust less well' (nostalgia 원인 후보, 보존이지 읽기 아님), eprints.lancs.ac.uk/id/eprint/60831 (Sas 2013) 이별 뒤 디지털 소지품, link.springer.com/article/10.1007/s12144-018-0006-5 (Bassett 2018) 고인 메시지 second loss, community.thriveglobal.com/trying-to-digest-the-grief-soaked-digital-breadcrumbs/ (2018-12-11). keeping-belongings-of-the-dead 와 관계 후보",
-      "createdAt": "2026-10-22T00:51:23.199Z",
-      "seq": 911
-    },
-    {
-      "id": "f9610d85",
-      "title": "pretending-to-understand 보강: 결과 간선",
-      "priority": 50,
-      "note": "2026-10-22 빈도(Levy 2018) 더함. 남은 후보: superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨, hearinghealthmatters 2013 'bluffing, which is a powerful recipe for trouble'",
-      "createdAt": "2026-10-22T06:46:23.782Z",
-      "seq": 935
-    },
-    {
-      "id": "62c6d266",
-      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-22 질병관리청 2025-12-05 시기 파편 더함. 남은 것: 회식 문화 변화와 폭음 감소 조건(다른 출처), SNS 파편, 관계 근거",
-      "createdAt": "2026-10-22T06:59:55.729Z",
-      "seq": 940
-    },
-    {
-      "id": "5176b7ef",
-      "title": "smoking-relapse 보강: 원인 간선(스트레스, 술자리), 문학 파편",
-      "priority": 50,
-      "note": "2026-10-22 뉴시스 2020 스트레스 52.6% 조건 더함. 스트레스·음주 문서가 없어 원인 간선 보류. PMC2862311 (McKee 2006) 은 술과 재흡연의 연관(association)만 말함",
-      "createdAt": "2026-10-22T07:02:25.644Z",
-      "seq": 943
-    },
-    {
-      "id": "88379b24",
-      "title": "tip-of-the-tongue 보강: 첫 글자만 떠오름, 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-22 남은 문학 후보: gutenberg 12 Through the Looking-Glass III (1871) 'L, I _know_ it begins with L!'(자기 이름, 첫 글자), gutenberg 57333 Chekhov 'A Living Calendar' 이름 대신 생김새가 떠오른 뒤 회복(원문 줄임표 있음). 한국어 출처 미확인",
-      "createdAt": "2026-10-22T08:56:34.252Z",
-      "seq": 951
-    },
-    {
-      "id": "52e85051",
-      "title": "retail-therapy 보강: 산 뒤의 죄책감, 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-22 후보: gutenberg 514 Little Women 28장 다음 문장 'She always felt wicked after it'(이미 쓴 출처라 다른 출처 필요). Zola Ladies' Paradise, Pepys, Main Street 에는 기분과 구매를 잇는 대목 없음",
-      "createdAt": "2026-10-22T09:04:46.342Z",
-      "seq": 952
-    },
-    {
-      "id": "335c8c0b",
-      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안), 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-22 berkeleyan 1997 사별 면담 웃음 90% 조건 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), PubMed 9325589 Keltner·Bonanno 1997. 문학 후보: gutenberg 580 Pickwick XI. 한국어 출처 미발견",
-      "createdAt": "2026-10-22T10:36:23.343Z",
-      "seq": 954
-    },
     {
       "id": "64f9a66d",
       "title": "fear-of-missing-out 보강: 결과 간선(휴대전화 확인), 원인 간선",
@@ -171,6 +51,46 @@
       "note": "2026-10-22 매체 3, 학술, 공공, SNS 2 더함. 남은 후보: kicj 2025 9.8%(곧은 따옴표 없는 문장 필요). 문학 출처 미탐색",
       "createdAt": "2026-10-22T11:05:57.391Z",
       "seq": 982
+    },
+    {
+      "id": "57d3b3f0",
+      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z 도 / 가 TLS 실패. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
+      "createdAt": "2026-10-22T12:37:09.735Z",
+      "seq": 996
+    },
+    {
+      "id": "b89bbe18",
+      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z 호스트 / 도 TLS 실패. 이슈 #6 사례",
+      "createdAt": "2026-10-22T12:37:28.928Z",
+      "seq": 997
+    },
+    {
+      "id": "ad90d735",
+      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z 호스트 / 도 TLS 실패. 이슈 #6 사례",
+      "createdAt": "2026-10-22T12:37:29.086Z",
+      "seq": 998
+    },
+    {
+      "id": "fe0021bb",
+      "title": "snooping-on-partners-phone 보강: 결과 간선(다툼·이별, 의심 증폭)",
+      "priority": 50,
+      "note": "2026-10-22 문화일보 2024-08-21 사연을 [^6] 으로 사용(같은 글 답변 '경우에 따라 의심만 더욱 커져 갈 수도 있고' 는 같은 URL 이라 못 씀). 후보: edition.cnn.com/2015/05/26/living/feat-ok-to-snoop-on-partner-texts-emails (2015-05-26) 'opening a can of worms in terms of trust and intimacy issues' 인과 표지 약함. Arikewuyo 2020 Psychological Reports (Europe PMC API 로만 열림) 'cell phone snooping partially mediates ... intention to break up, and conflicts' 문장 232자. seoul.co.kr/news/2007/04/25/20070425029020 감시받는 쪽 결혼생활 그만두고 싶음(휴대전화 외 감시 포함). 상대가 될 '연인과의 다툼' 문서 없음",
+      "createdAt": "2026-10-22T12:43:40.793Z",
+      "seq": 999
+    },
+    {
+      "id": "2314ea2d",
+      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안), 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-22 berkeleyan 1997 사별 면담 웃음 90% 조건 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), PubMed 9325589 Keltner·Bonanno 1997, gutenberg 580 Pickwick XI. 2026-10-22 한국어: fnnews.com/news/202508160332237789 (2025-08-16) 장례 중 긴장이 풀려 영상 보다 웃음(원문에 '웃' 없음), khan.co.kr/article/202606102008005 (2026-06-10) 웃음은 뜻과 무관하게 터진다(일반론). 게시판 제목형 검색어('웃참 실패 장례식', '조문 가서 웃음') 미시도",
+      "createdAt": "2026-10-22T13:09:06.342Z",
+      "seq": 1007
     },
     {
       "id": "e8ba47a7",
@@ -379,6 +299,62 @@
       "note": "2026-10-22 W Korea 2024 꾸지람 대목 더함. 남은 후보: brunch.co.kr/@igmigm/529 (2026-03-16) Teigen 연구, 자기 한숨은 안도·휴식, 타인 한숨은 좌절·체념으로 해석. snuh.org 화병 의학정보(진단명이라 출처 밝혀 쓸 것)",
       "createdAt": "2026-10-22T06:56:30.322Z",
       "seq": 939
+    },
+    {
+      "id": "f01ecab8",
+      "title": "driving-into-floodwater 보강: 공공 파편과 다른 운전자 따라 건너기의 원인 간선",
+      "priority": 30,
+      "note": "2026-10-22 TCU 2019 [^6], 세계일보 2022 [^8], AMS 2007 [^3] 추가. 남은 후보: climate.gov/news-features/featured-images/better-information-and-more-it-can-improve-driver-safety-flooded (NOAA 2020-07-30) 'environmental cues such as observing other vehicles safely crossing the water' 공공. wdef.com/?p=2137533 (2025-05-04) 'I followed them, but my car shut down.' mprnews.org/story/2014/06/17/why-we-drive-through-standing-water 'there's a \"pull\" for us to get where we're going.' 상대가 될 '남 따라 하기(사회적 증거)' 문서 있으면 원인 간선",
+      "createdAt": "2026-10-22T12:50:28.920Z",
+      "seq": 1000
+    },
+    {
+      "id": "bc5c35d6",
+      "title": "rereading-received-messages 관계: 원인·결과 간선과 사별 학술 파편",
+      "priority": 30,
+      "note": "2026-10-22 Carter 2018 PMC5858224 [^4] 사용(같은 글 'It may be that re-reading letters does not directly impact relationship satisfaction, but instead helps with individual coping, stress, and mental health' 저자 추측, 같은 URL). 후보: PMC8669216 (Holtzman 2021-11-14) 'by allowing them to reminisce about a partner by re-reading texts'. frontiersin fpsyg.2016.00870 (Thomas 2016) 're-experienced when re-reading posts' 문장 260자. 사별 학술 문장 미발견(Herron 2016, Odom 2010 PDF). keeping-belongings-of-the-dead 관계 후보",
+      "createdAt": "2026-10-22T12:58:53.202Z",
+      "seq": 1001
+    },
+    {
+      "id": "f86fcff9",
+      "title": "pretending-to-understand 보강: 결과 간선",
+      "priority": 30,
+      "note": "2026-10-22: 결과 상대 문서 없음(지시를 잘못 따름, 복약 오류 등). 후보: superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨, hearinghealthmatters 2013 'bluffing, which is a powerful recipe for trouble'. '의사 지시를 잘못 이해한 채 따르기' 신규 문서와 함께 처리",
+      "createdAt": "2026-10-22T12:59:09.839Z",
+      "seq": 1002
+    },
+    {
+      "id": "029f79ab",
+      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, 회식 폭음 조건",
+      "priority": 30,
+      "note": "2026-10-22 클리앙 2026-01-07 [^5] 더함. 후보: talkingsober.com/t/newcomer-having-a-hard-time/24080 (2017-12-09) 'Got so drunk at my work Christmas party last night and blacked out. My mother had to bring me home.' 회사 행사 술자리 필름 끊김. '분위기·스트레스 때문에 마셨다' 인과 SNS 문장 미발견",
+      "createdAt": "2026-10-22T13:01:17.357Z",
+      "seq": 1003
+    },
+    {
+      "id": "859e7288",
+      "title": "smoking-relapse 원인 간선: heavy-drinking",
+      "priority": 30,
+      "note": "2026-10-22 Kahler 2010 PMC2893295 [^3] 조건으로 더함(같은 초록 과음일 재흡연 위험 두 배 문장은 270자). 과음 때문에 다시 피운다는 200자 이하 인과 문장 미발견. 후보: m.seoul.co.kr/news/2015/02/23/20150223024001 '술을 마시면 평소 습관대로 담배 생각이 나서 금연에 실패할 수 있다.'(음주 일반). 상대 문서는 heavy-drinking 이 있음. 스트레스 문서 없음",
+      "createdAt": "2026-10-22T13:03:46.994Z",
+      "seq": 1004
+    },
+    {
+      "id": "779b8dd0",
+      "title": "tip-of-the-tongue 보강: 한국어 매체·SNS 파편, 고유명사 조건",
+      "priority": 30,
+      "note": "2026-10-22 박지윤 외 2013 koreascience [^3] 더함. 후보: kormedi.com/1215756 (2015-08-01) '머릿속에 단어의 개념만 떠오르고, 글자와 발음으로 번역되는 과정이 실패했다는 의미다', kormedi.com/2757166 (2025-10-17) '저장되어 있는 것은 확실한데 떠오르지 않아'. scholar.kyobobook.co.kr/article/detail/4010024825343 노인·고유명사·저빈도 단어에서 많음(조건)",
+      "createdAt": "2026-10-22T13:05:19.716Z",
+      "seq": 1005
+    },
+    {
+      "id": "3366182d",
+      "title": "retail-therapy 보강: 산 뒤 죄책감 학술·한국어 파편",
+      "priority": 30,
+      "note": "2026-10-22 abc7news.com/news/511813 (2015-02-10) [^4] 더함. 후보: nerdwallet.com/finance/learn/data-retail-therapy (2025-04-15) '15% of Americans frequently spend money on things they end up regretting'(기분 전환 구매 한정 아님). oak.jejunu.ac.kr/handle/2020.oak/23625 제주대 학위논문 스트레스·충동구매·죄책감(curl 실패). warc.com 37% guilt or shame 문장 추출 실패",
+      "createdAt": "2026-10-22T13:07:15.513Z",
+      "seq": 1006
     },
     {
       "id": "75b0ae75",
