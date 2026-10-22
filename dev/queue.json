@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T05:04:06.745Z",
-  "nextSeq": 920,
-  "stops": 75,
+  "savedAt": "2026-10-22T07:02:38.623Z",
+  "nextSeq": 944,
+  "stops": 76,
   "items": [
     {
       "id": "9f3c5792",
@@ -35,22 +35,6 @@
       "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
       "createdAt": "2026-10-21T10:56:50.105Z",
       "seq": 823
-    },
-    {
-      "id": "32da8be1",
-      "title": "no-time-to-exercise: abs.gov.au 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 전체 503 으로 소멸 표시",
-      "createdAt": "2026-10-21T11:04:55.510Z",
-      "seq": 825
-    },
-    {
-      "id": "d0f0297e",
-      "title": "panic-buying: abs.gov.au 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 abs.gov.au 호스트 전체 503 으로 [^2] 소멸 표시. dev: source-check 호스트 예외에 5xx 포함 항목의 두 번째 사례",
-      "createdAt": "2026-10-21T11:11:12.446Z",
-      "seq": 826
     },
     {
       "id": "4846061c",
@@ -93,38 +77,6 @@
       "seq": 869
     },
     {
-      "id": "0bb23349",
-      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편, 한국어 매체",
-      "priority": 50,
-      "note": "2026-10-21 남은 후보: PMC3525794 같은 출처 'Among wives, 8% of those who reported not having premarital doubts divorced by four years ... 19%' (결과 후보, 같은 URL 이라 다른 출처 필요), sciencedaily 120913173324 (2012-09-13) 'their doubts were more meaningful in predicting trouble', khan.co.kr/article/201311132212365 (2013-11-13) 메리지 블루 정의, wikitree.co.kr/articles/1141915 (2026-06-17) 청첩장을 돌려 파혼 결정을 못 함(매몰비용 관계 후보), gutenberg 1399 Anna Karenina 'There came over him a dread and doubt—doubt of everything.'(신랑 쪽, 1399 는 이미 2개 문서), gutenberg 19500 Trollope 날짜 정하기 미루기",
-      "createdAt": "2026-10-21T20:42:11.236Z",
-      "seq": 870
-    },
-    {
-      "id": "4a8aaa90",
-      "title": "smoking-relapse 보강: 원인 간선(스트레스, 술자리), 문학 파편, 한국 공공 파편",
-      "priority": 50,
-      "note": "2026-10-21 후보: PMC2862311 (McKee 2006) '13% relapsed on the first day and that 49% had relapsed by the first week' 술과 재흡연, PMC4908897 (Chaiton 2016) '30 or more quit attempts', newsis NISX20200109_0000884214 (2020-01-12) 금연이 어려운 이유 스트레스 52.6%, clien park/19235900 (2026-07-28) 술자리·권유·스트레스·꿈 '한 대로 안 끝납니다', gangdong.go.kr press/6043 (2016-01-06) 금연시도율 37.2%→28.1%. drinking-to-cope 와 관계 후보. 질병관리청 HTML 수치 미발견",
-      "createdAt": "2026-10-21T20:46:32.461Z",
-      "seq": 871
-    },
-    {
-      "id": "1aa8a00b",
-      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, 시기 조건",
-      "priority": 50,
-      "note": "2026-10-21 신설. 경향신문 2026-04-13 (F4 같은 URL) '부어라 마셔라 식의 술자리 분위기가 사라지면서 과도한 음주를 하는 비율도 감소' 는 같은 출처라 못 씀. 다른 출처로 회식 문화 변화와 폭음 감소 조건, 공공 파편(질병관리청 원 보도자료), SNS 파편 필요",
-      "createdAt": "2026-10-21T22:45:10.532Z",
-      "seq": 895
-    },
-    {
-      "id": "ea3f62ea",
-      "title": "pretending-to-understand 보강: 결과 간선과 빈도",
-      "priority": 50,
-      "note": "2026-10-22 후보: PMC6324389 (Levy 2018) 의사 지시를 못 알아들었다고 말하지 않음 31.8%/24.3%, ojed.org/index.php/jis/article/view/530 (Terui 2012) 유학생의 이해한 척 대처 전략, superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨(결과), noba.to 2015-06-04 수업에서 손 안 들기 pluralistic-ignorance 관계 후보",
-      "createdAt": "2026-10-22T00:42:24.910Z",
-      "seq": 909
-    },
-    {
       "id": "d1c9e040",
       "title": "rereading-received-messages 보강: 학술 파편과 관계",
       "priority": 50,
@@ -133,28 +85,36 @@
       "seq": 911
     },
     {
-      "id": "2ae01992",
-      "title": "weather-small-talk 보강: 학술 파편과 elevator-silence 관계",
+      "id": "f9610d85",
+      "title": "pretending-to-understand 보강: 결과 간선",
       "priority": 50,
-      "note": "2026-10-22 후보: asol.ling.utexas.edu/salsa/proceedings/2000/sun.pdf (2000, PDF 미확인) 'The propitiatory function is to defuse potential hostility of silence', pmc PMC10970140 (Latkin 2024) 날씨 대화는 인사치레 수단, ipsos.com/en-uk/45-percent-agree-brits-talk-about-weather-too-much (2024-09-02) 22%/45%, allurekorea 같은 글 엘리베이터 장면 '그리고 침묵.', 82cook bn=15 num=3267620 (2021-08-04) 댓글 '본인도 날씨 얘기 같은 거 말하고 싶어서 하겠어요?' 미대조",
-      "createdAt": "2026-10-22T01:00:58.221Z",
-      "seq": 913
+      "note": "2026-10-22 빈도(Levy 2018) 더함. 남은 후보: superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨, hearinghealthmatters 2013 'bluffing, which is a powerful recipe for trouble'",
+      "createdAt": "2026-10-22T06:46:23.782Z",
+      "seq": 935
     },
     {
-      "id": "90354b1c",
-      "title": "hiding-hearing-loss 보강: 원인·결과 간선과 공공 파편",
+      "id": "62c6d266",
+      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, SNS 파편",
       "priority": 50,
-      "note": "2026-10-22 후보: NIA nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults (2017-05-17) 'Some people may not want to admit they have trouble hearing.' 와 창피함 때문에 위축된다는 문장(curl UA 는 WAF, 브라우저 UA 만 열림). cambridgenetwork.co.uk/news/adults-take-time-seek-sound-advice (2013-09-13) 창피함 등으로 도움 요청 지연 → medical-care-avoidance 와 관계 후보. pretending-to-understand 와 관계 후보: hearinghealthmatters 2019 '알아듣는 척'",
-      "createdAt": "2026-10-22T04:44:11.719Z",
-      "seq": 915
+      "note": "2026-10-22 질병관리청 2025-12-05 시기 파편 더함. 남은 것: 회식 문화 변화와 폭음 감소 조건(다른 출처), SNS 파편, 관계 근거",
+      "createdAt": "2026-10-22T06:59:55.729Z",
+      "seq": 940
     },
     {
-      "id": "e1cd302f",
-      "title": "abandoning-returns 보강: non-complaining 관계",
+      "id": "0c3892f2",
+      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편",
       "priority": 50,
-      "note": "2026-10-22 SNS 파편(MSE 2005) 더함. 남은 것: legalshield '29% of shoppers choose to \"do nothing\" because they feel the resolution isn't worth the hassle.' 는 non-complaining 과 관계 후보. accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저는 non-complaining 조건 후보",
-      "createdAt": "2026-10-22T04:53:20.123Z",
-      "seq": 919
+      "note": "2026-10-22 위키트리 2026-06-17(청첩장 뒤 파혼 결정 못 함) 더함. 매몰비용 문서가 생기면 원인 후보. sciencedaily 120913173324 (2012-09-13) 'their doubts were more meaningful in predicting trouble'",
+      "createdAt": "2026-10-22T07:01:10.862Z",
+      "seq": 941
+    },
+    {
+      "id": "5176b7ef",
+      "title": "smoking-relapse 보강: 원인 간선(스트레스, 술자리), 문학 파편",
+      "priority": 50,
+      "note": "2026-10-22 뉴시스 2020 스트레스 52.6% 조건 더함. 스트레스·음주 문서가 없어 원인 간선 보류. PMC2862311 (McKee 2006) 은 술과 재흡연의 연관(association)만 말함",
+      "createdAt": "2026-10-22T07:02:25.644Z",
+      "seq": 943
     },
     {
       "id": "e8ba47a7",
@@ -163,14 +123,6 @@
       "note": "2026-10-20: 진료 미룸→응급실 인과 문장은 있으나 모두 상태가 나빠진 뒤의 응급실(경증 아님): healthcaredive.com/news/high-costs-narrow-networks-drive-insured-patients-to-ed/408071 (2015-10-28) 'because they delayed care due to high out-of-pocket costs', wagner.nyu.edu/impact/research/publications/emergency-department-use-new-york-story (Billings 2000, curl UA 403), ajmc.com 2026-03-12 Latino adults. 이전: kdvr 2013, ucla 2006, PMC1725740, PMC6612776. 경증 응급실과 잇는 문장 미발견. 대신 '진료를 미루다 응급실 가기' 신규 현상 후보(healthcaredive 를 근거로 medical-care-avoidance 결과)",
       "createdAt": "2026-10-20T08:41:21.636Z",
       "seq": 722
-    },
-    {
-      "id": "80027153",
-      "title": "romantic-jealousy 와 envy 관계 근거",
-      "priority": 30,
-      "note": "SNS 파편 2개 추가(pann 338184398, letstalk.mindline.sg 28683). loveshack.org/forums/topic/661268 (2025-02-21) 'I’m not sure if I’m being overly anxious and untrusting' 의심과 망설임 후보. 2026-10-20: psychologytoday.com/us/blog/joy-and-pain/201401/what-is-the-difference-between-envy-and-jealousy (Richard H. Smith 2014-01-03) 'When someone is feeling jealous, they are often feeling envious as well.' / 'Seeing a loved one show interest in an enviable rival can produce a debilitating blend of jealousy and envy.' 동반만 말함. 상위·원인·긴장 어느 것도 아님. 원인 표지(경쟁자가 부러워서 질투가 커진다 등) 문장 찾으면 간선",
-      "createdAt": "2026-10-20T08:41:51.751Z",
-      "seq": 723
     },
     {
       "id": "9014b250",
@@ -229,28 +181,12 @@
       "seq": 757
     },
     {
-      "id": "737b2af7",
-      "title": "driving-overconfidence 보강: 한국 공공 파편과 SNS",
-      "priority": 30,
-      "note": "2026-10-20 F2 이순열 2007(accesson kpacsi v.13/3/111/26318), F4 TAC 2013(web.archive.org 20160214202833 스냅숏) 추가, speeding 결과 간선. 후보: rac.com.au/about-rac/media/media-releases/february-2022/survey-reveals-risk-taking-among-overconfident-young-drivers (2022-02-17) '73 per cent of young drivers rate their driving ability as better or much better', vertumotors.com/news/brake-warns-about-overconfident-driving (2011-03-09) 'just one per cent think they are below the average'. m.seoul.co.kr/news/society/2017/12/13/20171213008011 '안전에 큰 문제가 없다고 생각했다' 는 speeding 조건 후보. 한국 공공기관 비PDF 페이지 미발견",
-      "createdAt": "2026-10-20T12:44:39.812Z",
-      "seq": 759
-    },
-    {
       "id": "ad1c55d8",
       "title": "reusing-leftover-medicine 보강: 남은 약 보관 비율과 재사용 의향",
       "priority": 30,
       "note": "2026-10-20 PIDS(2023-11-22) 원인 간선 추가. 후보: healio.com/news/infectious-disease/20231108/leftover-antibiotics-major-barrier-to-antimicrobial-stewardship 'For those who stopped antibiotics early, 74% kept the leftover antibiotics.', PMC10677768 (IDWeek 2023 초록, reCAPTCHA) '51% reported they intended to take leftover antibiotics without contacting a healthcare provider in the future.', f1000research.com/articles/12-304 (2023) '71.1% of patients did not complete their antibiotic treatment because they felt better.' → stopping-medication 보강",
       "createdAt": "2026-10-20T12:48:26.057Z",
       "seq": 760
-    },
-    {
-      "id": "3be5f09e",
-      "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
-      "priority": 30,
-      "note": "2026-10-20 F1 Psychology Today 1998, F2 HN 11842423 추가. 인과 후보: psych-your-mind.blogspot.com/2011/08/spotlight-effect-youre-only-one-who.html (2011-08-08) 'I instantly blush and put my head down, hoping to avoid the pity and humor that I’m sure is on the faces of all those who witnessed' → blushing, gohighbrow.com/turn-off-that-spotlight-on-you (2017) 'This causes you to feel panicky, totally uncomfortable, and planning your escape.', brunch.co.kr/@humanfreshnk/1712 (2026-06-18) '그래서 도전하지 못하고, 시작하지 못하고, 실수할까 봐 움츠러든다.' HN 5097681 (2013) 걷는 사람이 없는 동네에서 시선 느낌 조건",
-      "createdAt": "2026-10-20T12:57:50.716Z",
-      "seq": 762
     },
     {
       "id": "899fe59b",
@@ -267,22 +203,6 @@
       "note": "2026-10-21 후보(같은 사람 안 두 면): fox8.com/news/offering-hope-answering-the-national-suicide-prevention-lifeline/amp/ (2018-09-12) 'It’s easier to call a stranger, sadly, than it is may be to speak to your own loved ones' 매체. 82cook.com/entiz/read.php?bn=15&num=2588668 (2018-06-26 댓글) '힘든일 안좋은일은 가까운 사람한테일수록 얘기를 안하게 되요' curl 연결 끊김, 원문 미확인. 반대 방향으로 민다는 문장은 미발견. 서울신문 2019 F6 은 confiding-in-strangers 에 사용",
       "createdAt": "2026-10-21T08:55:01.018Z",
       "seq": 782
-    },
-    {
-      "id": "26142f94",
-      "title": "sighing 보강: 자기 한숨과 남의 한숨을 다르게 읽기, 한숨에 대한 꾸지람",
-      "priority": 30,
-      "note": "2026-10-21 후보: brunch.co.kr/@igmigm/529 (2026-03-16) Teigen 연구, 자기 한숨은 안도·휴식, 타인 한숨은 좌절·체념으로 해석. wkorea.com/?p=302277 (2024-05-27) 한숨 쉬면 어른에게 꾸지람, 복이 달아난다. snuh.org 화병 의학정보에 증상으로 한숨(진단명이라 출처 밝혀 쓸 것). 같은 플랫폼 doctornow e6fffb1b... 는 [^5] 와 같은 플랫폼",
-      "createdAt": "2026-10-21T18:39:18.142Z",
-      "seq": 858
-    },
-    {
-      "id": "c3a9a100",
-      "title": "pretending-not-to-be-home 보강: 학술 파편, 나이 조건, 아기·택배 이유",
-      "priority": 30,
-      "note": "2026-10-21 후보: ipsos.com/en-ca/knock-knock-whos-there-most-older-canadians-arent-taking-chances (2026-03-02) 55세 이상 34%, 18~34세 20% 가 기다리는 사람 없으면 응답 안 함. brunch.co.kr/@efseo2/1675 (2025-04-23) 아기 깰까 봐, 받을 게 없어서 무응답. j-cast 같은 글 남성 40.9% 여성 53.6% 전체 46.4%(같은 URL). 82cook 15/2912627 (2019-12-26) curl 연결 안 됨. 학술은 여전히 없음(PMC reCAPTCHA)",
-      "createdAt": "2026-10-21T19:02:24.675Z",
-      "seq": 862
     },
     {
       "id": "aeec58a0",
@@ -347,6 +267,62 @@
       "note": "2026-10-20 파편 3개(2012 Anderson repec, 2018 EIA, 2023 Scottish Housing News). 한국어 파편 없음(난방비 때문에 식비 줄여). ageuk.org.uk/cymru/latest-news/archive/welsh-pensioners-cut-back-on-heating-and-eating (2013-05-10) 난방과 식사를 함께 줄임(인과 아님). eia 같은 글 'Of the 25 million households that reported forgoing food and medicine to pay energy bills, 7 million faced that decision nearly every month.' energy-limiting-behavior(냉난방 참기) 와 긴장 근거 문장 필요 / 2026-10-21 etoday.co.kr/news/view/2227423 (2023-03-05) 저소득층 연료비 부담 증가와 식비 실질 감소를 함께 보도하나 식비 감소를 식료품 물가 탓으로 풀이해 맞바꿈 근거 아님. nbcnews heat-or-eat n18831 (2014) 영어 매체 후보",
       "createdAt": "2026-10-21T23:01:55.050Z",
       "seq": 903
+    },
+    {
+      "id": "0273efe3",
+      "title": "hiding-hearing-loss 와 medical-care-avoidance 관계",
+      "priority": 30,
+      "note": "2026-10-22 후보: cambridgenetwork.co.uk/news/adults-take-time-seek-sound-advice (2013-09-13) 창피함 등으로 청력 도움 요청 지연. NIA hearing-loss-common-problem-older-adults (2017-05-17)",
+      "createdAt": "2026-10-22T06:42:12.979Z",
+      "seq": 932
+    },
+    {
+      "id": "d8a00799",
+      "title": "weather-small-talk 와 elevator-silence 관계",
+      "priority": 30,
+      "note": "2026-10-22 남김: allurekorea 엘리베이터 장면 '그리고 침묵.', asol.ling.utexas.edu sun.pdf 'defuse potential hostility of silence'(PDF 미확인)",
+      "createdAt": "2026-10-22T06:43:26.689Z",
+      "seq": 933
+    },
+    {
+      "id": "95fa4f51",
+      "title": "non-complaining 조건: 무행동 소비자의 불만족 정도",
+      "priority": 30,
+      "note": "2026-10-22 남김: accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저",
+      "createdAt": "2026-10-22T06:45:00.285Z",
+      "seq": 934
+    },
+    {
+      "id": "02f3593b",
+      "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
+      "priority": 30,
+      "note": "2026-10-22 gohighbrow 2017 '상황을 아예 피함' 파편 더함(상대 문서 없음: 일반 상황 회피 문서가 생기면 결과 간선). blushing 후보 psych-your-mind.blogspot.com/2011/08/spotlight-effect-youre-only-one-who.html 은 인과 문장 아님. brunch.co.kr/@humanfreshnk/1712 (2026-06-18) '그래서 도전하지 못하고...'",
+      "createdAt": "2026-10-22T06:48:57.968Z",
+      "seq": 936
+    },
+    {
+      "id": "60170caa",
+      "title": "pretending-not-to-be-home 보강: 학술 파편, 아기·택배 이유",
+      "priority": 30,
+      "note": "2026-10-22 나이 조건(Ipsos 2026) 더함. 남은 후보: brunch.co.kr/@efseo2/1675 (2025-04-23) 아기 깰까 봐, 받을 게 없어서 무응답. 학술은 여전히 없음",
+      "createdAt": "2026-10-22T06:49:58.305Z",
+      "seq": 937
+    },
+    {
+      "id": "f2a8d614",
+      "title": "driving-overconfidence 보강: 한국 공공 파편과 SNS",
+      "priority": 30,
+      "note": "2026-10-22 RAC WA 2022 파편 더함. 한국 공공·SNS 는 여전히 없음",
+      "createdAt": "2026-10-22T06:53:49.516Z",
+      "seq": 938
+    },
+    {
+      "id": "d2330bda",
+      "title": "sighing 보강: 자기 한숨과 남의 한숨을 다르게 읽기",
+      "priority": 30,
+      "note": "2026-10-22 W Korea 2024 꾸지람 대목 더함. 남은 후보: brunch.co.kr/@igmigm/529 (2026-03-16) Teigen 연구, 자기 한숨은 안도·휴식, 타인 한숨은 좌절·체념으로 해석. snuh.org 화병 의학정보(진단명이라 출처 밝혀 쓸 것)",
+      "createdAt": "2026-10-22T06:56:30.322Z",
+      "seq": 939
     },
     {
       "id": "75b0ae75",
@@ -1323,6 +1299,14 @@
       "note": "2026-10-22 delaying-organ-donor-registration 탐사 중. 뉴시스 2025-08-10 mobile.newsis.com/view/NISX20250808_0003283754 '생전에 기증 의사를 밝혀도 남겨진 가족들이 문화적 관습을 이유로 동의를 거부하는 경우가 적지 않다는 것이다.' NHSBT 2026-08-05 family support 하락. PMC6778422 가족과 뜻을 나누지 않은 80%",
       "createdAt": "2026-10-22T04:48:44.954Z",
       "seq": 917
+    },
+    {
+      "id": "70fae5c9",
+      "title": "매몰비용 때문에 그만두지 못하기",
+      "priority": 10,
+      "note": "2026-10-22 wikitree.co.kr/articles/1141915 (2026-06-17) 청첩장을 돌려 파혼 결정을 못 함(pre-wedding-doubts [^8]). pre-wedding-doubts 와 관계 후보",
+      "createdAt": "2026-10-22T07:01:20.238Z",
+      "seq": 942
     },
     {
       "id": "02b2f242",
