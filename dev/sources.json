@@ -311,15 +311,15 @@
   },
   "https://pure.psu.edu/en/publications/retail-therapy-a-strategic-effort-to-improve-mood/": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://pann.nate.com/talk/375614092": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-22"
   },
   "https://www.mprnews.org/story/2013/04/15/news/tax-deadline": {
     "first": "2026-10-17",
@@ -6835,6 +6835,12 @@
     "lastVerified": "2026-10-22"
   },
   "https://www.gutenberg.org/cache/epub/12/pg12.txt": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
+  },
+  "https://www.gutenberg.org/cache/epub/514/pg514.txt": {
     "first": "2026-10-22",
     "last": "2026-10-22",
     "result": "VERIFIED",
