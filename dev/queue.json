@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T04:48:45.088Z",
-  "nextSeq": 918,
+  "savedAt": "2026-10-22T04:53:20.277Z",
+  "nextSeq": 920,
   "stops": 74,
   "items": [
     {
@@ -27,14 +27,6 @@
       "note": "2026-10-21 22:5xZ www150.statcan.gc.ca 200 점검 페이지(website is currently unavailable). feeling-rushed [^5] 와 같은 장애. 점검이 끝난 뒤 다시 돌리고 그때도 원문이 없으면 소멸 표시",
       "createdAt": "2026-10-21T22:55:22.479Z",
       "seq": 899
-    },
-    {
-      "id": "931fba3e",
-      "title": "abandoning-returns 보강: SNS 파편과 non-complaining 관계",
-      "priority": 50,
-      "note": "2026-10-21 SNS 후보 미발견(anandtech 봇 확인, purseblog·beautylish 403, clien·weolbu 해당 대목 없음). legalshield 같은 글 '29% of shoppers choose to \"do nothing\" because they feel the resolution isn't worth the hassle.' 는 non-complaining 과 관계 후보. 후보: shorr.com/resources/blog/consumer-report-return-habits (2025-12-16) 69%, retailgazette 2017-03-31 'never got around to returning' 26%. accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저는 non-complaining 조건 후보",
-      "createdAt": "2026-10-21T10:49:48.539Z",
-      "seq": 820
     },
     {
       "id": "8d92d8da",
@@ -155,6 +147,14 @@
       "note": "2026-10-22 후보: NIA nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults (2017-05-17) 'Some people may not want to admit they have trouble hearing.' 와 창피함 때문에 위축된다는 문장(curl UA 는 WAF, 브라우저 UA 만 열림). cambridgenetwork.co.uk/news/adults-take-time-seek-sound-advice (2013-09-13) 창피함 등으로 도움 요청 지연 → medical-care-avoidance 와 관계 후보. pretending-to-understand 와 관계 후보: hearinghealthmatters 2019 '알아듣는 척'",
       "createdAt": "2026-10-22T04:44:11.719Z",
       "seq": 915
+    },
+    {
+      "id": "e1cd302f",
+      "title": "abandoning-returns 보강: non-complaining 관계",
+      "priority": 50,
+      "note": "2026-10-22 SNS 파편(MSE 2005) 더함. 남은 것: legalshield '29% of shoppers choose to \"do nothing\" because they feel the resolution isn't worth the hassle.' 는 non-complaining 과 관계 후보. accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저는 non-complaining 조건 후보",
+      "createdAt": "2026-10-22T04:53:20.123Z",
+      "seq": 919
     },
     {
       "id": "e8ba47a7",
