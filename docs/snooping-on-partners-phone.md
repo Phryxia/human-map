@@ -10,6 +10,8 @@
 
 2016년 연구는 온라인 참가자 집단에서 남의 휴대전화를 몰래 본 1년 유병률을 31%로 어림했다.[^2] 2019년 보도자료에서 몰래 본 사람 다수는 그 이유로 질투와 다른 사람과의 관계를 통제하려는 마음을 들었다.[^3] 2024년 게시글[^5]의 글쓴이는 술에 취해 들어온 연인의 휴대폰을 지금 말고는 기회가 없을 것 같아 열어 봤다고 썼다.
 
+2024년 신문 상담 칼럼에 실린 사연[^6]의 글쓴이는 남편이 직원과 주고받은 대화를 본 뒤 남편이 휴대전화를 몰래 본 것을 두고 오히려 화를 냈다고 적었다.
+
 # 조건
 
 2020년 조사에서 여성은 42%, 남성은 25%가 상대 몰래 휴대전화를 본 적이 있다고 답했다.[^4]
@@ -43,3 +45,4 @@
 [^3]: [매체] "Many cited jealousy and a desire to “control relationships with others.”" (많은 이가 질투와 "다른 사람과의 관계를 통제하려는" 욕구를 이유로 들었다.) — University of British Columbia, "Combing through someone's phone could lead to end of relationship, or not", UBC News, 2019-05, https://news.ubc.ca/2019/05/combing-through-someones-phone-could-lead-to-end-of-relationship-or-not/, 2026-10-20 접속
 [^4]: [매체] "Still, 34% of partnered adults say they have looked through their partner’s cellphone without that person’s knowledge, with women being more likely than men to say they have done this (42% vs. 25%)." (그래도 파트너가 있는 성인의 34%는 상대 몰래 휴대전화를 들여다본 적이 있다고 말하며, 여성이 남성보다 그렇다고 답할 가능성이 높다(42% 대 25%).) — Emily A. Vogels, Monica Anderson, "Dating and Relationships in the Digital Age", Pew Research Center, 2020-05-08, https://www.pewresearch.org/internet/2020/05/08/dating-and-relationships-in-the-digital-age/, 2026-10-20 접속
 [^5]: [SNS] "근데 얘가 만취 상태로 집에 들어와서 살짝 언짢은 것도 있고 지금 밖에 기회가 없을 것 같아서 열어봤어요." — 네이트판 게시글, 2024-05-20, https://pann.nate.com/talk/372578594, 2026-10-21 접속
+[^6]: [매체] "오히려 휴대전화를 몰래 본 것에 대해 화를 내며 앞으로 따로 연락하지 않겠다고 다짐을 받은 상태지만, 같은 팀에 있는 사람이라 또 만나는 것은 아닐지 회식이나 야근이 있다고만 해도 걱정됩니다." — 하주원, 「남편의 외도 의심되는 상황… 잊고 살 수 있을까요?[마음상담소]」, 문화일보, 2024-08-21, https://www.munhwa.com/article/11448631, 2026-10-22 접속
