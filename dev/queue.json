@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T10:59:38.787Z",
-  "nextSeq": 965,
+  "savedAt": "2026-10-22T11:01:27.792Z",
+  "nextSeq": 967,
   "stops": 77,
   "items": [
     {
@@ -149,12 +149,12 @@
       "seq": 962
     },
     {
-      "id": "2adbda02",
-      "title": "not-reporting-for-fear-of-reprisal 보강: SNS·문학 파편, 다른 시기",
+      "id": "78c72578",
+      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편, 신고 뒤 보복 경험",
       "priority": 50,
-      "note": "2026-10-22 문서 만듦(학술 Felson 2002, 매체 서울신문 2003, 공공 BJS 2012). 남은 후보: kicj.re.kr list_no=16396 (2025-04-08) 폭력피해 '보복이 두려워서' 9.8% (원문에 곧은 따옴표가 있어 다른 문장 필요), 학교폭력·직장 내 괴롭힘 보복 우려 기사",
-      "createdAt": "2026-10-22T10:59:38.642Z",
-      "seq": 964
+      "note": "2026-10-22 SNS·매체 더함. 남은 후보: seoul.co.kr/news/1997/07/08/19970708001001 (1997-07-08) 교사에게 알렸다가 뭇매를 맞은 뒤 말하지 않음, boards.straightdope.com/t/370475 (2006-08-28) 신고자임이 알려질까 보복 두려움(같은 플랫폼 다른 계정), kicj 2025 9.8%",
+      "createdAt": "2026-10-22T11:01:27.627Z",
+      "seq": 966
     },
     {
       "id": "e8ba47a7",
