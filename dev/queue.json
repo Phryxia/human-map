@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T11:03:02.856Z",
-  "nextSeq": 971,
+  "savedAt": "2026-10-22T11:04:36.957Z",
+  "nextSeq": 975,
   "stops": 77,
   "items": [
     {
@@ -149,12 +149,20 @@
       "seq": 968
     },
     {
-      "id": "7eb29a29",
+      "id": "949a6841",
+      "title": "believing-reporting-is-futile 보강: 학술·SNS 파편, 다른 시기",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦(매체 서울신문 2003, 공공 BJS 2012, not-reporting-crime 과 같은 출처). kicj.re.kr list_no=16396 (2025-04-08) '경찰이 아무 조치도 취하지 않을 것이라 생각해서' 9.8% 는 표 셀이라 문장 필요. not-reporting-crime 의 dcinside bjd/118699 (2021) 는 같은 계정 규칙 확인 필요",
+      "createdAt": "2026-10-22T11:04:36.284Z",
+      "seq": 973
+    },
+    {
+      "id": "73a0884d",
       "title": "delaying-will-writing 보강: SNS 파편, 원인 간선",
       "priority": 50,
-      "note": "2026-10-22 thegazette 100799 공공 조건 더함. 남은 후보: thegazette 100356 'people delay doing it through a mixture of denial and simply not getting around to it.'(전문가 인용, 원인 후보), biz.sbs.co.kr/amp/article/20000107065 (2023-03-09). 죽음 생각 회피 신규 현상과 원인 간선 후보",
-      "createdAt": "2026-10-22T11:03:02.731Z",
-      "seq": 970
+      "note": "2026-10-22 thegazette 100799·100356 공공 파편 더함. 남은 후보: biz.sbs.co.kr/amp/article/20000107065 (2023-03-09) '나쁜 미래를 대비한다는 것이 마음에 걸리기도'. 죽음 생각 회피 신규 현상과 원인 간선 후보",
+      "createdAt": "2026-10-22T11:04:36.791Z",
+      "seq": 974
     },
     {
       "id": "e8ba47a7",
@@ -499,14 +507,6 @@
       "note": "Mong 외 2021 J Financial Therapy 12(1) journals.newprairiepress.org/jft/article/id/5558/: 관계를 떠날 의향을 부른 유일한 행동은 알리지 않은 파산 신청. spouse-financial-concealment 결과 후보",
       "createdAt": "2026-10-18T09:00:22.353Z",
       "seq": 251
-    },
-    {
-      "id": "a217ef72",
-      "title": "신고해도 소용없다는 믿음",
-      "priority": 10,
-      "note": "not-reporting-crime F2(서울신문 2003), F3(BJS 2012 believed the police would not or could not help) 원인 후보. 외부 정치 효능감 저하 항목과 비슷한 무력감",
-      "createdAt": "2026-10-18T09:37:34.753Z",
-      "seq": 268
     },
     {
       "id": "f57ffce7",

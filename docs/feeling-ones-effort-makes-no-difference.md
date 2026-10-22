@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [신고해도 소용없다는 믿음](believing-reporting-is-futile.md)
 
 ## 원인
 

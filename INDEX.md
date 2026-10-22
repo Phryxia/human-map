@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 237개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 238개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -130,6 +130,7 @@
 - [시간에 쫓기는 느낌](docs/feeling-rushed.md) ([시간과 하루 습관](groups/daily-time.md))
 - [시기심](docs/envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [시름을 술로 달래기](docs/drinking-to-cope.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [신고해도 소용없다는 믿음](docs/believing-reporting-is-futile.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [실직 뒤 사람 만남 피하기](docs/withdrawing-after-job-loss.md) ([일터와 일자리](groups/work.md))
 - [실직 사실 숨기기](docs/concealing-job-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [실패 사실 숨기기](docs/concealing-failure.md) ([남의 시선과 창피함](groups/others-gaze.md))

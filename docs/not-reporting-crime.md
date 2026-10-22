@@ -36,6 +36,7 @@
 
 ## 원인
 
+- [신고해도 소용없다는 믿음](believing-reporting-is-futile.md)[^2][^3]
 - [사칭 전화에 겁먹고 따르기](complying-with-impersonation-calls.md)[^6]
 
 ## 결과
