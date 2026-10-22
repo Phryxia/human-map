@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 232개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 233개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -215,6 +215,7 @@
 - [침수 도로 진입](docs/driving-into-floodwater.md) ([길과 운전](groups/roads-and-driving.md))
 - [칭찬 부정하기](docs/deflecting-compliments.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [카페에 오래 앉은 손님의 눈치](docs/lingering-in-cafe-guilt.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [큰돈이 생기는 공상](docs/daydreaming-about-windfall.md) ([돈과 소비](groups/money.md))
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [퇴근 뒤 업무 연락에 답하기](docs/after-hours-work-replies.md) ([일터와 일자리](groups/work.md))
 - [퇴근 뒤 일 생각 곱씹기](docs/work-rumination-after-hours.md) ([일터와 일자리](groups/work.md))
