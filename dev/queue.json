@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T13:09:15.066Z",
-  "nextSeq": 1008,
-  "stops": 80,
+  "savedAt": "2026-10-22T15:07:59.122Z",
+  "nextSeq": 1022,
+  "stops": 81,
   "items": [
     {
       "id": "64f9a66d",
@@ -91,6 +91,54 @@
       "note": "2026-10-22 berkeleyan 1997 사별 면담 웃음 90% 조건 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), PubMed 9325589 Keltner·Bonanno 1997, gutenberg 580 Pickwick XI. 2026-10-22 한국어: fnnews.com/news/202508160332237789 (2025-08-16) 장례 중 긴장이 풀려 영상 보다 웃음(원문에 '웃' 없음), khan.co.kr/article/202606102008005 (2026-06-10) 웃음은 뜻과 무관하게 터진다(일반론). 게시판 제목형 검색어('웃참 실패 장례식', '조문 가서 웃음') 미시도",
       "createdAt": "2026-10-22T13:09:06.342Z",
       "seq": 1007
+    },
+    {
+      "id": "3dfed2b0",
+      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 관계, 결과 간선",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: newsseoul.co.kr/news/view/1065572420034157 (2023-02-14) 경북소방본부 '비화재경보가 잦으면 ... 즉시 대피하지 않아'(인과), teamblind.com/kr 2021-11-21 댓글 오작동 무시하려다 남들 대피 보고 나감(남 따라 대피하기 현상 후보), thestar.com.my 2026-08-02 'repeated false alarms' 망설임, research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자). 재난 문자 경보 피로와 같은 상위(경보 피로) 후보",
+      "createdAt": "2026-10-22T14:39:47.237Z",
+      "seq": 1015
+    },
+    {
+      "id": "256c62b8",
+      "title": "summit-fever 보강: 매몰비용·목표 고착 관계, 한국어·공공 파편",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: mountainsafety.org.nz/read/sometimes-its-not-that-easy-to-turn-back/ (2021-09-15) 'Turning around, with your objective not completed, can be one of the most difficult decisions'(공공 여부 판단 필요), nps.gov/yose/planyourvisit/halfdome.htm 'Hikers commonly struggle down the trail after dark', nationalgeographic 2013-10-08 K2 'Overcome perhaps with summit fever'(추측), police.pref.kanagawa.jp/ps/atsugi/sounann01.html '引き返す勇気を持ちましょう。'. 한국 국립공원공단 자료 미발견. 매몰비용 문서가 생기면 원인 간선 후보",
+      "createdAt": "2026-10-22T14:49:01.115Z",
+      "seq": 1017
+    },
+    {
+      "id": "6fee474b",
+      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: PMC4199019 Bethel 2014 성과급이면 쉬기 불편(219자, 다른 문장 필요), nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망, mt.co.kr 2026-07-28 '조금만 더 일하고 쉬자는 인식'. 한국 공공(kdca, rda) 은 이 환경에서 연결 리셋",
+      "createdAt": "2026-10-22T14:54:45.868Z",
+      "seq": 1018
+    },
+    {
+      "id": "4eab973d",
+      "title": "forgetting-child-in-car 보강: 학술·SNS 파편, destination-memory-failure 와 관계",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: npr.org/2019/08/02/747719425 'When there's a change in routine, sometimes the parent will forget', theconversation 같은 글 'Parents who have forgotten their children in cars often report stressful or distracting experiences', kormedi 같은 글 '전날 밤 수면 부족'. Diamond 2019 Medicine, Science and the Law 원 논문 페이지 미확인. nhtsa.gov 는 403. 미래 기억 실패(prospective memory failure) 상위 문서 후보",
+      "createdAt": "2026-10-22T14:58:50.942Z",
+      "seq": 1019
+    },
+    {
+      "id": "c3befcf4",
+      "title": "not-calling-for-help-at-overdose 보강: SNS·한국어 파편, not-reporting-for-fear-of-reprisal 과 관계",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: cbc.ca/news/politics/good-samaritan-law-overdose-1.4786094 (CBC Radio 판과 같은 문장이라 못 씀). canada.ca 는 이 환경에서 연결 안 됨. 같은 '신고 꺼리기' 상위(경찰 개입이 두려워 신고하지 않기) 후보",
+      "createdAt": "2026-10-22T15:02:12.162Z",
+      "seq": 1020
+    },
+    {
+      "id": "f8b8c121",
+      "title": "hearing-protection-nonuse 보강: SNS·한국어 파편, 멋없음 이유",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: magazine.utoronto.ca/?p=2114 같은 글 '74 per cent of attendees thought it was likely or very likely that noise levels ... could damage'(위험을 알아도 안 씀, 같은 URL 이라 못 씀), ohsonline 같은 글 'one in seven employees did not wear any'. 한국 안전보건공단 자료 미탐색",
+      "createdAt": "2026-10-22T15:05:12.444Z",
+      "seq": 1021
     },
     {
       "id": "e8ba47a7",
@@ -1299,6 +1347,14 @@
       "note": "displaced-aggression [^4] Bushman 2005 kar.kent.ac.uk/34963: 도발을 곱씹으면 전위된 공격이 커짐. displaced-aggression 원인 후보",
       "createdAt": "2026-10-22T10:43:28.191Z",
       "seq": 956
+    },
+    {
+      "id": "bbefe5c2",
+      "title": "남들이 움직여야 따라 대피하기",
+      "priority": 10,
+      "note": "teamblind.com/kr 2021-11-21 화재경보 댓글: 오작동이라 무시하려다 다른 분들이 다 대피해서 나감. dismissing-fire-alarms 와 대립 또는 delayed-evacuation 하위 후보",
+      "createdAt": "2026-10-22T14:39:47.376Z",
+      "seq": 1016
     },
     {
       "id": "02b2f242",
