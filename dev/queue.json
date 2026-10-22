@@ -1,129 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T19:00:06.376Z",
-  "nextSeq": 1091,
-  "stops": 83,
+  "savedAt": "2026-10-22T23:06:30.909Z",
+  "nextSeq": 1125,
+  "stops": 84,
   "items": [
-    {
-      "id": "4c9e8a53",
-      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편",
-      "priority": 50,
-      "note": "2026-10-22 sciencedaily 2012-09-13 이혼율 19% 대 8% 조건 더함. 이혼이나 결혼 만족 문서가 생기면 결과 간선 후보. 매몰비용 문서가 생기면 원인 후보(위키트리 [^9]). 2026-10-22 16:40Z '메리지 블루 go.kr' 검색에 공공 출처 없음",
-      "createdAt": "2026-10-22T16:38:19.234Z",
-      "seq": 1053
-    },
-    {
-      "id": "d3afa393",
-      "title": "forgetting-child-in-car 보강: SNS 파편, destination-memory-failure 와 관계",
-      "priority": 50,
-      "note": "2026-10-22 학술 Ho 2019 PMC7147705 (~55%) 더함. 같은 논문 'Attention or memory lapses are hypothesized to occur due to distraction, stress, fatigue, or routine changes.' 는 같은 출처라 못 씀. 남은 후보: theconversation 'Parents who have forgotten their children in cars often report stressful or distracting experiences', kormedi '전날 밤 수면 부족'. 미래 기억 실패(prospective memory failure) 상위 문서 후보",
-      "createdAt": "2026-10-22T16:39:50.917Z",
-      "seq": 1054
-    },
-    {
-      "id": "ddc89437",
-      "title": "believing-reporting-is-futile 보강: SNS 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-10-22 학술 Fissel 2023 (ideas.repec 초록, 성별 조건) 더함. 같은 초록 '(32.98%)' 문장은 같은 출처. mdpi.com 본문은 403. kicj.re.kr list_no=16396 (2025-04-08) 9.8% 는 표 셀이라 문장 필요. not-reporting-crime 의 dcinside bjd/118699 (2021) 는 같은 계정 규칙 확인 필요. 2000년대 이전 출처 없음",
-      "createdAt": "2026-10-22T16:41:08.273Z",
-      "seq": 1055
-    },
-    {
-      "id": "f4718957",
-      "title": "delaying-will-writing 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-10-22 SNS mariecurie 2015-04-11 댓글 더함. 남은 후보: biz.sbs.co.kr/amp/article/20000107065 (2023-03-09) '나쁜 미래를 대비한다는 것이 마음에 걸리기도', cmmllp.com/?p=990 변호사 블로그 'don't want to face their own mortality'(인과), 같은 mariecurie 글 2014-11-25 댓글 'too big a task to face emotionally'(같은 URL 이라 못 씀). 죽음 생각 회피 신규 현상과 원인 간선 후보",
-      "createdAt": "2026-10-22T16:42:17.094Z",
-      "seq": 1056
-    },
-    {
-      "id": "96d51eba",
-      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-22 매체 3, 학술, 공공, SNS 2 더함. 남은 후보: kicj 2025 9.8%(곧은 따옴표 없는 문장 필요). 2026-10-22 16:44Z Gutenberg 19권(Oliver Twist, Bleak House, Our Mutual Friend, Crime and Punishment, Holmes 4권, Moonstone, Woman in White, The Jungle, Maggie 등)에서 police·inform 과 afraid·revenge 가 한 문장에 있는 대목 검색, 맞는 것 없음. 한국 문학(위키문헌) 미탐색",
-      "createdAt": "2026-10-22T16:44:08.142Z",
-      "seq": 1057
-    },
-    {
-      "id": "f4371d10",
-      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z 도 / 가 TLS 실패(curl 60). 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
-      "createdAt": "2026-10-22T16:44:17.490Z",
-      "seq": 1058
-    },
-    {
-      "id": "70530b6a",
-      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례",
-      "createdAt": "2026-10-22T16:44:17.633Z",
-      "seq": 1059
-    },
-    {
-      "id": "1a40f1be",
-      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례",
-      "createdAt": "2026-10-22T16:44:17.772Z",
-      "seq": 1060
-    },
-    {
-      "id": "b144f2fb",
-      "title": "snooping-on-partners-phone 보강: 결과 간선(다툼·이별, 의심 증폭)",
-      "priority": 50,
-      "note": "2026-10-22 문화일보 2024-08-21 사연을 [^6] 으로 사용(같은 글 답변 '경우에 따라 의심만 더욱 커져 갈 수도 있고' 는 같은 URL 이라 못 씀). 후보: edition.cnn.com/2015/05/26/living/feat-ok-to-snoop-on-partner-texts-emails (2015-05-26) 'opening a can of worms in terms of trust and intimacy issues' 인과 표지 약함. Arikewuyo 2020 Psychological Reports (Europe PMC API 로만 열림) 'cell phone snooping partially mediates ... intention to break up, and conflicts' 문장 232자. seoul.co.kr/news/2007/04/25/20070425029020 감시받는 쪽 결혼생활 그만두고 싶음(휴대전화 외 감시 포함). 상대가 될 '연인과의 다툼' 문서 없음",
-      "createdAt": "2026-10-22T16:44:29.408Z",
-      "seq": 1061
-    },
-    {
-      "id": "865ef515",
-      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안), 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-22 berkeleyan 1997 사별 면담 웃음 90% 조건 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), PubMed 9325589 Keltner·Bonanno 1997, gutenberg 580 Pickwick XI. 2026-10-22 한국어: fnnews.com/news/202508160332237789 (2025-08-16) 장례 중 긴장이 풀려 영상 보다 웃음(원문에 '웃' 없음), khan.co.kr/article/202606102008005 (2026-06-10) 웃음은 뜻과 무관하게 터진다(일반론). 게시판 제목형 검색어('웃참 실패 장례식', '조문 가서 웃음') 미시도",
-      "createdAt": "2026-10-22T16:44:38.245Z",
-      "seq": 1062
-    },
-    {
-      "id": "4291fae9",
-      "title": "summit-fever 보강: 매몰비용·목표 고착 관계, 한국어·공공 파편",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: mountainsafety.org.nz/read/sometimes-its-not-that-easy-to-turn-back/ (2021-09-15) 'Turning around, with your objective not completed, can be one of the most difficult decisions'(공공 여부 판단 필요), nps.gov/yose/planyourvisit/halfdome.htm 'Hikers commonly struggle down the trail after dark', nationalgeographic 2013-10-08 K2 'Overcome perhaps with summit fever'(추측), police.pref.kanagawa.jp/ps/atsugi/sounann01.html '引き返す勇気を持ちましょう。'. 한국 국립공원공단 자료 미발견. 매몰비용 문서가 생기면 원인 간선 후보",
-      "createdAt": "2026-10-22T16:44:38.404Z",
-      "seq": 1063
-    },
-    {
-      "id": "0a9c776f",
-      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 관계, 결과 간선",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: teamblind.com/kr 2021-11-21 댓글 오작동 무시하려다 남들 대피 보고 나감(남 따라 대피하기 현상 후보), research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자). newsseoul 2023-02-14 와 thestar 2026-08-02 는 이미 [^7] [^10]. 공통 상위(경보 둔감화) 후보는 ignoring-emergency-alerts 가 별칭 '경보 피로' 를 이미 써서 이름과 범위를 먼저 정해야 함(병원 alarm fatigue 포함 여부)",
-      "createdAt": "2026-10-22T16:44:50.433Z",
-      "seq": 1064
-    },
-    {
-      "id": "a7ad481f",
-      "title": "not-calling-for-help-at-overdose 보강: SNS·한국어 파편, not-reporting-for-fear-of-reprisal 과 관계",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: cbc.ca/news/politics/good-samaritan-law-overdose-1.4786094 (CBC Radio 판과 같은 문장이라 못 씀). canada.ca 는 이 환경에서 연결 안 됨. 같은 '신고 꺼리기' 상위(경찰 개입이 두려워 신고하지 않기) 후보",
-      "createdAt": "2026-10-22T16:44:55.380Z",
-      "seq": 1065
-    },
-    {
-      "id": "36219fc9",
-      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
-      "priority": 50,
-      "note": "2026-10-22 문학 Anna Karenina 1878 풀베기 대목 더함(같은 장 'He would clearly have died sooner than own it was hard work for him.' 은 같은 URL 이라 못 씀). 남은 후보: PMC4199019 Bethel 2014 성과급이면 쉬기 불편(219자, 다른 문장 필요), nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망. 한국어 게시판 검색('폭염 엄마 말려도 밭일') 결과 없음. 한국 공공(kdca, rda) 은 이 환경에서 연결 리셋",
-      "createdAt": "2026-10-22T16:46:08.711Z",
-      "seq": 1066
-    },
-    {
-      "id": "c064c854",
-      "title": "hearing-protection-nonuse 보강: SNS 파편, 멋없음 이유",
-      "priority": 50,
-      "note": "2026-10-22 한국어 매체 뉴시스 2012-05-04 군 사격훈련 분위기 더함(같은 기사 군인권센터 '반드시 착용하라는 지시는 없다' 는 같은 URL). 남은 후보: magazine.utoronto.ca 같은 글 74%(같은 URL), ohsonline 같은 글 'one in seven'. 한국 안전보건공단 자료 미탐색, koreascience JAKO200544272479235.pdf 는 PDF",
-      "createdAt": "2026-10-22T16:47:05.124Z",
-      "seq": 1067
-    },
     {
       "id": "7500e13b",
       "title": "clock-watching-in-bed 보강: 2000년대 이전 비문학 파편, 한국어 SNS",
@@ -187,6 +67,126 @@
       "note": "2026-10-22 공공 3, 학술 1 로 만듦. 남은 후보: mediahub.seoul.go.kr/archives/998259 (2016-06-16) 시범사업 지역은 10~30대 보행자 많은 곳(나이 조건), mediahub 1158467 같은 글 사상자 53.8% 가 10대·20대(같은 URL). 본인이 걸으며 폰 보다 부딪혔다는 공개 게시글 미발견(clien, meeco 검색). austroads.gov.au 봇 확인, tfd.metro.tokyo.lg.jp 점검, seoulsolution.kr SSL 만료. 2012 이전 출처 없음",
       "createdAt": "2026-10-22T18:57:45.518Z",
       "seq": 1090
+    },
+    {
+      "id": "586dedbe",
+      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편",
+      "priority": 50,
+      "note": "2026-10-22 sciencedaily 2012-09-13 이혼율 19% 대 8% 조건 더함. 이혼이나 결혼 만족 문서가 생기면 결과 간선 후보. 매몰비용 문서가 생기면 원인 후보(위키트리 [^9]). 2026-10-22 16:40Z '메리지 블루 go.kr' 검색에 공공 출처 없음",
+      "createdAt": "2026-10-22T22:33:08.364Z",
+      "seq": 1108
+    },
+    {
+      "id": "7283efe2",
+      "title": "prospective-memory-failure 보강: procrastination 원인 간선, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. unige:195353 (2026) 제목 'how boredom and procrastination disrupt prospective memory', 초록 'intentions perceived as boring were more likely to be postponed, which in turn was associated with more frequent PM failures'(같은 URL 이라 [^6] 과 함께 못 씀, 다른 출처 필요). unige:195352 (2026) 'Reminder use was selectively associated with external causes rather than forgetting.' 반대 조건 후보. 결과 간선 후보: 미래 기억 실패 뒤 기분 저하(ideas.repec Mogle 2019 [^4]). 한국어 게시판 글 미발견",
+      "createdAt": "2026-10-22T22:39:51.177Z",
+      "seq": 1109
+    },
+    {
+      "id": "89e76376",
+      "title": "believing-reporting-is-futile 보강: 한국어 SNS 파편, 경찰 경험 조건",
+      "priority": 50,
+      "note": "2026-10-22 매일신문 1999, Straight Dope 2006 게시글 더함. 남은 후보: camdennewjournal.co.uk/article/your-bike-has-been-stolen-but-is-it-worth-calling-police (2021-10-18) 'At the minute I don’t know why anyone would bother reporting to them because it seems so hopeless.' 신고 뒤 접수번호만 받은 경험(조건). 지식iN·클리앙·뽐뿌·82cook·보배드림 '신고해봤자' 검색 결과 없음. bjs 1985 Reporting Crimes to the Police 문장 247자",
+      "createdAt": "2026-10-22T22:50:03.270Z",
+      "seq": 1111
+    },
+    {
+      "id": "d1ffeddd",
+      "title": "avoiding-death-talk 보강: 2010년 이전 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 후보: Pyszczynski 1999 Psychol Rev 106(4) 'Proximal defenses, which entail suppressing death-related thoughts' (pubmed 은 쿠키 벽, 문장 200자 초과). todayswillsandprobate.co.uk/?p=28714 (2018-08-21) 'Our reluctance to discuss death highlights a shockingly poor ability to plan' 유언장 27%. reliasmedia.com/articles/51589 (1997) Access Denied. 클리앙·82cook 게시글 미발견. PMID 32780652 (2022) 티베트인 대 한족 문화 조건",
+      "createdAt": "2026-10-22T22:54:16.791Z",
+      "seq": 1112
+    },
+    {
+      "id": "8c6b39b6",
+      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-22 매체 3, 학술, 공공, SNS 2 더함. 남은 후보: kicj 2025 9.8%(곧은 따옴표 없는 문장 필요). 2026-10-22 16:44Z Gutenberg 19권(Oliver Twist, Bleak House, Our Mutual Friend, Crime and Punishment, Holmes 4권, Moonstone, Woman in White, The Jungle, Maggie 등)에서 police·inform 과 afraid·revenge 가 한 문장에 있는 대목 검색, 맞는 것 없음. 한국 문학(위키문헌) 미탐색",
+      "createdAt": "2026-10-22T22:54:32.271Z",
+      "seq": 1113
+    },
+    {
+      "id": "5c3cda92",
+      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z 도 / 가 TLS 실패(curl 60). 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음. 2026-10-22 22:56Z 도 / 가 TLS 실패(curl 60)",
+      "createdAt": "2026-10-22T22:54:39.795Z",
+      "seq": 1114
+    },
+    {
+      "id": "4ca9711a",
+      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례. 2026-10-22 22:56Z 도 / 가 TLS 실패(curl 60)",
+      "createdAt": "2026-10-22T22:54:40.065Z",
+      "seq": 1115
+    },
+    {
+      "id": "fc14bf12",
+      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례. 2026-10-22 22:56Z 도 / 가 TLS 실패(curl 60)",
+      "createdAt": "2026-10-22T22:54:40.343Z",
+      "seq": 1116
+    },
+    {
+      "id": "778c50d3",
+      "title": "snooping-on-partners-phone 보강: 결과 간선(다툼·이별, 의심 증폭)",
+      "priority": 50,
+      "note": "2026-10-22 문화일보 2024-08-21 사연을 [^6] 으로 사용. 2026-10-22 22:58Z 인과 후보: psychologytoday 2025-09-02 'very likely to cause conflict with your partner, no matter what you find', marieclaire.co.uk 2019-11-02 'relationship ended ... because the phone owner felt their trust was betrayed'(큐 '연인과의 다툼' note 에 원문). 엿보기가 질투를 키운다는 인과 문장은 못 찾음(psychologytoday 2019 'How Your Partner's Phone Causes Jealousy' 에 없음). 상대 문서 '연인과의 다툼' 없음",
+      "createdAt": "2026-10-22T22:56:23.335Z",
+      "seq": 1118
+    },
+    {
+      "id": "9fd79fa5",
+      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안)",
+      "priority": 50,
+      "note": "2026-10-22 Threads 게시글(발행일 미상) 한국어 파편 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), threads.com/@park.real76/post/DMac8dzyiPD 조문 자리 어정쩡해서 웃음(같은 계정 규칙 주의), PubMed 9325589 Keltner·Bonanno 1997",
+      "createdAt": "2026-10-22T22:59:10.515Z",
+      "seq": 1119
+    },
+    {
+      "id": "8feab92d",
+      "title": "summit-fever 보강: 매몰비용·목표 고착 관계, 한국어 매체·공공 파편",
+      "priority": 50,
+      "note": "2026-10-22 브런치 2026-08-28 산행기 더함(같은 글 '이렇게 멀리까지 와서 정상도 못 보고 돌아서자니 속이 쓰렸다' 는 같은 URL). 한국 뉴스 '정상 욕심' 검색 결과는 실명 등반가 인용뿐. 다음 검색어: '산림청 보도자료 정상 욕심', '국립공원공단 무리한 산행 정상 하산'. 매몰비용 문서가 생기면 원인 간선 후보",
+      "createdAt": "2026-10-22T23:01:42.092Z",
+      "seq": 1120
+    },
+    {
+      "id": "d2570103",
+      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 관계, 결과 간선",
+      "priority": 50,
+      "note": "2026-10-22 문서 만듦. 남은 후보: teamblind.com/kr 2021-11-21 댓글 오작동 무시하려다 남들 대피 보고 나감(남 따라 대피하기 현상 후보), research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자). newsseoul 2023-02-14 와 thestar 2026-08-02 는 이미 [^7] [^10]. 공통 상위(경보 둔감화) 후보는 ignoring-emergency-alerts 가 별칭 '경보 피로' 를 이미 써서 이름과 범위를 먼저 정해야 함(병원 alarm fatigue 포함 여부)",
+      "createdAt": "2026-10-22T23:01:53.268Z",
+      "seq": 1121
+    },
+    {
+      "id": "13e5cf1f",
+      "title": "not-calling-for-help-at-overdose 보강: 한국어 파편, 신고 꺼리기 상위",
+      "priority": 50,
+      "note": "2026-10-22 HN 2014-08-27 댓글(경찰이 구급차를 따라오는 곳 조건) 더함. 남은 후보: news.ycombinator.com/item?id=9923457 (2015-07-21) 'Lots of users don't seek medical treatment because they're afraid they'll be arrested.' 인과. 같은 '신고 꺼리기' 상위(경찰 개입이 두려워 신고하지 않기) 후보. not-reporting-for-fear-of-reprisal 은 가해자 보복이라 상위로 맞지 않음",
+      "createdAt": "2026-10-22T23:03:04.667Z",
+      "seq": 1122
+    },
+    {
+      "id": "50036fd5",
+      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
+      "priority": 50,
+      "note": "2026-10-22 문학 Anna Karenina 1878 풀베기 대목 더함(같은 장 'He would clearly have died sooner than own it was hard work for him.' 은 같은 URL 이라 못 씀). 남은 후보: PMC4199019 Bethel 2014 성과급이면 쉬기 불편(219자, 다른 문장 필요), nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망. 한국어 게시판 검색('폭염 엄마 말려도 밭일') 결과 없음. 한국 공공(kdca, rda) 은 이 환경에서 연결 리셋. 2026-10-22 23:05Z HN Algolia 10개 검색어(heat warehouse, piece rate heat 등)와 클리앙·뽐뿌·보배드림 검색에 1인칭 글 없음. 택배 기사 폭염 물량 때문에 못 쉰다는 뉴스 인용(byline.network, newstapa)은 매체로 미확인",
+      "createdAt": "2026-10-22T23:04:26.684Z",
+      "seq": 1123
+    },
+    {
+      "id": "6ee8faaa",
+      "title": "hearing-protection-nonuse 보강: 한국어 SNS 파편, 결과 간선(이명)",
+      "priority": 50,
+      "note": "2026-10-22 HN 2023-10-12 댓글(멋없어 보여 공연장 귀마개 안 함, 이명) 더함. 이명 문서가 생기면 결과 간선 후보(같은 댓글 'chalk it up to'). 한국 안전보건공단 자료 미탐색",
+      "createdAt": "2026-10-22T23:06:17.990Z",
+      "seq": 1124
     },
     {
       "id": "e8ba47a7",
@@ -1379,6 +1379,22 @@
       "note": "hankyung.com/article/2026061970727 (2026-06-19) Uswitch 조사 18~29세 33% 가 초인종 대신 문자나 전화. hesitating-at-the-door [^6] 과 같은 글이라 다른 출처 필요(uswitch.com/media-centre/2026/06/...)",
       "createdAt": "2026-10-22T18:41:58.993Z",
       "seq": 1087
+    },
+    {
+      "id": "2fca0911",
+      "title": "약 먹는 걸 잊기(복약 깜빡함)",
+      "priority": 10,
+      "note": "2026-10-22 prospective-memory-failure 하위 후보. psychologicalscience.org Einstein 1998 'Routine or habitual prospective memory tasks (e.g., taking medication) have the potential for creating confusions regarding whether or not an action has already been performed.' 이미 했는지 헷갈림, 두 번 먹기",
+      "createdAt": "2026-10-22T22:39:51.285Z",
+      "seq": 1110
+    },
+    {
+      "id": "c41ddb0b",
+      "title": "연인과의 다툼(관계 갈등)",
+      "priority": 10,
+      "note": "2026-10-22 snooping-on-partners-phone 결과 간선 상대 후보. psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate (2025-09-02, Cortney S. Warren) 'Violating their boundaries through snooping is very likely to cause conflict with your partner, no matter what you find.' marieclaire.co.uk/life/snooping-670110 (2019-11-02) 'In cases where the relationship ended, it was either because the phone owner felt their trust was betrayed, or the relationship was also experiencing difficulties' 이별 인과",
+      "createdAt": "2026-10-22T22:56:23.218Z",
+      "seq": 1117
     },
     {
       "id": "02b2f242",
