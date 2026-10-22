@@ -7067,5 +7067,11 @@
     "last": "2026-10-22",
     "result": "VERIFIED",
     "lastVerified": "2026-10-22"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC5858224/": {
+    "first": "2026-10-22",
+    "last": "2026-10-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-22"
   }
 }
