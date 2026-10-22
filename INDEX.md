@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 249개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 250개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -208,6 +208,7 @@
 - [조용한 이탈](docs/silent-exit.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [졸음운전](docs/driving-while-drowsy.md) ([길과 운전](groups/roads-and-driving.md))
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [좋은 물건 아껴 두기](docs/saving-things-for-best.md) ([돈과 소비](groups/money.md))
 - [주말 몰아 자기](docs/weekend-catch-up-sleep.md) ([시간과 하루 습관](groups/daily-time.md))
 - [증상을 읽고 병을 의심하기](docs/reading-symptoms-and-suspecting-illness.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [지나치게 일찍 도착하기](docs/arriving-too-early.md) ([시간과 하루 습관](groups/daily-time.md))
