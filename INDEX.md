@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 258개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 259개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -219,6 +219,7 @@
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [증상을 읽고 병을 의심하기](docs/reading-symptoms-and-suspecting-illness.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [지나치게 일찍 도착하기](docs/arriving-too-early.md) ([시간과 하루 습관](groups/daily-time.md))
+- [지난 창피한 일 떠올리며 몸서리치기](docs/cringing-at-past-embarrassment.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [진료 회피](docs/medical-care-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [짐이 되기 싫은 마음](docs/self-perceived-burden.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
