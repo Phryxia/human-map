@@ -8597,5 +8597,23 @@
     "last": "2026-10-23",
     "result": "VERIFIED",
     "lastVerified": "2026-10-23"
+  },
+  "https://www.gutenberg.org/cache/epub/1023/pg1023-images.html": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30041077&rettype=abstract&retmode=text": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://brunch.co.kr/@augustan74/183": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
   }
 }

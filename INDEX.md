@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 291개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 292개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -94,6 +94,7 @@
 - [모인 자리에서 말하지 않기](docs/staying-quiet-in-groups.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [무단횡단](docs/jaywalking.md) ([길과 운전](groups/roads-and-driving.md))
 - [문과 전기 기구 다시 확인하기](docs/rechecking-door-and-stove.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [물건 못 버리기](docs/difficulty-discarding.md) ([돈과 소비](groups/money.md))
 - [미래 기억 실패](docs/prospective-memory-failure.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [미루기](docs/procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [미어캣 효과](docs/meerkat-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
