@@ -2,7 +2,7 @@
 
 사람이 돈을 쓰고 아끼고 빌리고 숨기는 자리에서 느끼고 하는 일이다.
 
-문서 30개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 31개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [가난 감추기](../docs/concealing-poverty.md) 가난한 사람이 자신의 가난이나 굶주림, 도움이 필요한 형편을 남이나 식구에게 숨긴다.
   - [가난을 숨기려는 또래 관계 회피](../docs/poverty-peer-withdrawal.md)
@@ -18,6 +18,7 @@
 - [돈 쓰기 아까워하기](../docs/tightwad-spending.md) 돈을 낼 때의 괴로움을 미리 느끼는 사람이 스스로 바라는 것보다 적게 쓴다.
 - [또래 유행 따라 사기](../docs/following-peer-fashion.md) 아이나 청소년이 또래가 모두 가진 옷이나 물건을 자기도 가지려고 사거나 사 달라고 조른다.
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
+- [물려받을 재산 기대하기](../docs/counting-on-inheritance.md) 사람이 부모나 친척에게서 물려받을 재산을 앞으로의 살림 계산에 넣고 기대한다.
 - [배우자에게 재정 정보 숨기기](../docs/spouse-financial-concealment.md) 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨기는 행동이다.
 - [복권 구매](../docs/buying-lottery-tickets.md) 사람이 당첨을 바라며 복권을 산다.
 - [부유한 척하기](../docs/faking-wealth.md) 남에게 가난해 보이기 싫은 사람이 빌린 물건이나 연출한 사진으로 실제보다 부유해 보이게 꾸민다.
