@@ -1,5 +1,5 @@
 // validate 검사 묶음. 결과는 {level: 'ERROR'|'WARN', id, ln, msg} 목록.
-import {KINDS, AXES, SECTIONS, REL_SECTIONS, INVERSE, FILE_RE, paragraphs, isVerified, refsIn} from './doc.mjs'
+import {KINDS, INTERESTS, SECTIONS, REL_SECTIONS, INVERSE, FILE_RE, paragraphs, isVerified, refsIn} from './doc.mjs'
 
 // SNS URL 의 계정 경로. 첫 캡처 그룹이 계정이다.
 export const ACCOUNT_PATTERNS = [
@@ -31,7 +31,6 @@ export function validateDoc(doc, docs, sources = {}) {
   const err = (ln, msg) => out.push({level: 'ERROR', id: doc.id, ln, msg})
   const warn = (ln, msg) => out.push({level: 'WARN', id: doc.id, ln, msg})
   if (!FILE_RE.test(doc.id + '.md')) err(1, '파일명이 규격이 아니다')
-  if (doc.lines.length > 80) err(81, `80줄 초과 (${doc.lines.length}줄)`)
   if (!doc.title) err(1, '제목이 없다')
   if (doc.aliases === null || doc.aliases === '') err(3, '별칭 줄이 없다')
   if (!doc.summary || !/^[^.]+\.$/.test(doc.summary)) err(5, '요약은 마침표 하나로 끝나는 한 문장이어야 한다')
@@ -62,12 +61,10 @@ export function validateDoc(doc, docs, sources = {}) {
   for (const sec of ['서술']) {
     const ps = paragraphs(doc, sec)
     if (!ps.length) err(doc.sections[sec]?.ln ?? 1, `${sec} 절이 비어 있다`)
-    if (ps.length > 8) err(ps[8].ln, `서술 문단이 8개를 넘는다 (${ps.length})`)
     for (const p of ps) {
       const sentences = sentenceCount(p.text)
       if (sentences > 4) err(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
       const refs = refsIn(p.text)
-      if (!refs.length) err(p.ln, '문단에 근거 파편이 없다')
       for (const r of refs) { used.add(r); if (!nums.has(r)) err(p.ln, `없는 파편 [^${r}] 를 가리킨다`) }
       // 따옴표 안(인용한 말)은 빼고 본다
       for (const m of p.text.replace(/"[^"]*"|“[^”]*”/g, '').matchAll(MENTION_RE)) err(p.ln, `본문이 파편을 번호(${m[0]})로 부른다. 각주 [^n] 로 가리킨다`)
@@ -90,7 +87,7 @@ export function validateDoc(doc, docs, sources = {}) {
     }
   }
   if (!doc.tagLine) err(doc.lines.length, '각주 정의 앞의 마지막 줄이 태그 목록이 아니다')
-  else if (!doc.tags.some(t => AXES.includes(t))) err(doc.tagLn, `축 태그(${AXES.join(' ')})가 없다`)
+  else for (const t of doc.tags) if (!INTERESTS.includes(t)) err(doc.tagLn, `관심사 태그가 아니다: #${t} (${INTERESTS.map(x => '#' + x).join(' ')})`)
   return out
 }
 

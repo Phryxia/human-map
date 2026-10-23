@@ -22,7 +22,7 @@ test('파편 줄 파싱: 번역과 미확인과 소멸', () => {
 
 test('근거 없는 문단, 참조되지 않은 파편, 없는 파편 참조', () => {
   const m = errs(loadAll(makeRepo({a: makeDoc({body: '근거 없음.\n\n문단.[^5]\n\n문단.[^1]'})})))
-  assert.ok(m.some(x => x.includes('근거 파편이 없다')))
+  assert.ok(!m.some(x => x.includes('근거 파편이 없다')))
   assert.ok(m.some(x => x.includes('[^5]')))
   assert.ok(m.some(x => x.includes('참조되지 않은 파편 [^2]')))
 })
@@ -60,9 +60,10 @@ test('같은 SNS 계정 경로가 둘이면 오류', () => {
   assert.ok(m.some(x => x.includes('같은 계정 경로')))
 })
 
-test('축 태그가 없으면 오류, 80줄 초과 오류', () => {
-  assert.ok(errs(loadAll(makeRepo({a: makeDoc({tags: '#집단'})}))).some(x => x.includes('축 태그')))
-  assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: '문단.[^1][^2]\n'.repeat(1).trim() + '\n'.repeat(80)})}))).some(x => x.includes('80줄')))
+test('관심사 태그 밖의 태그는 오류, 줄 수 제한은 없다', () => {
+  assert.ok(errs(loadAll(makeRepo({a: makeDoc({tags: '#집단'})}))).some(x => x.includes('관심사 태그가 아니다: #집단')))
+  assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({tags: '#돈 #마음'})}))), [])
+  assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({body: '문단.[^1][^2]' + '\n'.repeat(80)})}))), [])
 })
 
 test('순환 탐지와 check-cycle', () => {
@@ -86,9 +87,9 @@ test('줄임표 WARN 은 출처에서 원문 그대로 확인된 파편에는 �
   assert.deepEqual(warns(sources), [warns({})[1]])
 })
 
-test('서술 문단 수 1~8, 문단당 4문장 이내가 아니면 ERROR', () => {
+test('문단 수 제한은 없고, 문단당 4문장을 넘으면 ERROR', () => {
   const nine = Array.from({length: 9}, (_, i) => `문단 ${i}.[^1][^2]`).join('\n\n')
-  assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: nine})}))).some(x => x.includes('서술 문단이 8개를 넘는다 (9)')))
+  assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({body: nine})}))), [])
   const long = '하나다. 둘이다. 15.6%였다. 넷이다. 다섯이다.[^1][^2]'
   assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: long})}))).some(x => x.includes('문단이 4문장을 넘는다 (5)')))
   const ok = '하나다. 둘은 15.6%였다. 셋이다. 넷이다.[^1][^2]\n\n문단.[^1]\n\n문단.[^2]\n\n문단.[^1]'

@@ -18,9 +18,9 @@ test('README 는 머리말과 문서 묶음만 담는다', () => {
 
 test('문서 묶음: README 는 묶음 링크만, 묶음 문서는 상위 아래에 하위를 들여 쓰고 INDEX 는 제목 순 전체 목록이다', () => {
   const docs = loadAll(makeRepo({
-    a: makeDoc({title: '가', rel: {상위: ['- [나](b.md)']}, tags: '#행동 #돈'}),
-    b: makeDoc({title: '나', rel: {하위: ['- [가](a.md)']}, tags: '#감정 #돈'}),
-    c: makeDoc({title: '다', tags: '#감정 #관계'}),
+    a: makeDoc({title: '가', rel: {상위: ['- [나](b.md)']}, tags: '#돈'}),
+    b: makeDoc({title: '나', rel: {하위: ['- [가](a.md)']}, tags: '#돈'}),
+    c: makeDoc({title: '다', tags: '#관계'}),
   }))
   const groups = [{id: 'money', title: '돈', summary: '돈 이야기다.', roots: ['b']}, {id: 'rel', title: '관계', summary: '관계 이야기다.', roots: ['c']}]
   const out = buildOutputs(docs, '', groups)

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // 그래프 검사와 조회. 사용법은 CLAUDE.md 7절.
 import fs from 'node:fs'
-import {loadAll, KINDS, AXES} from './lib/doc.mjs'
+import {loadAll, KINDS, INTERESTS} from './lib/doc.mjs'
 import {edgeMap, findCycles, wouldCycle} from './lib/graph-lib.mjs'
 import {validateAll} from './lib/validate.mjs'
 import {loadGroups, checkGroups} from './lib/groups.mjs'
@@ -52,11 +52,9 @@ switch (cmd) {
   }
   case 'roots': for (const d of docs.values()) if (!d.rel['상위']?.length) console.log(`${d.id}\t${d.title}`); break
   case 'tags': {
-    const c = new Map()
-    let untagged = 0
-    for (const d of docs.values()) { if (!d.tags.length) untagged++; for (const t of d.tags) c.set(t, (c.get(t) ?? 0) + 1) }
-    for (const [t, n] of [...c].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))) console.log(`#${t}\t${n}${AXES.includes(t) ? '\t(축)' : ''}`)
-    console.log(`${untagged} untagged`)
+    const c = new Map(INTERESTS.map(t => [t, 0]))
+    for (const d of docs.values()) for (const t of d.tags) c.set(t, (c.get(t) ?? 0) + 1)
+    for (const [t, n] of [...c].sort((a, b) => b[1] - a[1])) console.log(`#${t}\t${n}`)
     break
   }
   default: console.log('사용법: node dev/graph.mjs validate | cycles | check-cycle <child> <parent> [--allow-new] | find "<문자열>" | node <id> | roots | tags'); process.exit(cmd ? 2 : 0)

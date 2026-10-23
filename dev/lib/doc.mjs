@@ -6,7 +6,8 @@ import {fileURLToPath} from 'node:url'
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..')
 export const DOCS = path.join(ROOT, 'docs')
 export const KINDS = ['학술', '공공', '매체', 'SNS', '문학']
-export const AXES = ['특성', '사고', '감정', '행동']
+// 관심사 태그. 여덟 개로 고정이고 다른 태그는 없다.
+export const INTERESTS = ['돈', '일', '시간', '건강', '관계', '공공', '온라인', '마음']
 export const SECTIONS = ['서술', '관계']
 export const REL_SECTIONS = ['상위', '하위', '원인', '결과', '대립']
 export const INVERSE = {상위: '하위', 하위: '상위', 원인: '결과', 결과: '원인', 대립: '대립'}
