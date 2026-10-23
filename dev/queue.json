@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:31:56.284Z",
-  "nextSeq": 1239,
+  "savedAt": "2026-10-23T03:35:04.002Z",
+  "nextSeq": 1241,
   "stops": 85,
   "items": [
     {
@@ -51,14 +51,6 @@
       "note": "2026-10-22 문학 2(1855·1860), 학술 1, 매체 3 으로 만듦. 남은 후보: youlookfab.com/welookfab/topic/the-perils-of-not-saving-your-best (발행일 '10 years ago' 뿐) 옷이 입기도 전에 유행이 지남, knowledge.wharton.upenn.edu curbing-clutter (2021-11-16) 한 번 안 쓰면 다음에도 안 씀(같은 연구), talbotspy.org Using the Good China, Anne of Green Gables pg45 손님 왔을 때만 꺼내는 좋은 그릇(손님 쪽 시점), Cranford pg394 새 카펫에 신문지 깔기, Middlemarch pg145 보석 잠가 둠. 한국어 게시판 글 미발견. 물건 쌓아 두기(clutter) 결과 간선 후보",
       "createdAt": "2026-10-22T18:53:12.690Z",
       "seq": 1089
-    },
-    {
-      "id": "da79f6f8",
-      "title": "walking-while-using-phone 보강: SNS·매체 파편, phone-use-while-driving 과 관계",
-      "priority": 50,
-      "note": "2026-10-22 공공 3, 학술 1 로 만듦. 남은 후보: mediahub.seoul.go.kr/archives/998259 (2016-06-16) 시범사업 지역은 10~30대 보행자 많은 곳(나이 조건), mediahub 1158467 같은 글 사상자 53.8% 가 10대·20대(같은 URL). 본인이 걸으며 폰 보다 부딪혔다는 공개 게시글 미발견(clien, meeco 검색). austroads.gov.au 봇 확인, tfd.metro.tokyo.lg.jp 점검, seoulsolution.kr SSL 만료. 2012 이전 출처 없음",
-      "createdAt": "2026-10-22T18:57:45.518Z",
-      "seq": 1090
     },
     {
       "id": "586dedbe",
@@ -355,6 +347,14 @@
       "note": "2026-10-23 SNS 클리앙 2007, 매체 매일신문 2009·Takeout 2018·위키트리 2026, 학술 arXiv 2509.01035 로 만듦. 후보: imaeil 같은 글 '부득부득 자신이 계산하겠다는 한국인에게 몇 번 얻어먹게 되지만'(같은 URL, 호혜), 위키트리 같은 글 '밥값을 내겠다는 행동에는 경제적 능력뿐 아니라 체면과 자존심도 포함돼 있다'(같은 URL, 원인 간선 후보), Takeout 같은 글 가족 계산서 낚아채기(201자). 미확인 블로그: chinastory.cn, marcopolomandarin.com, mabelkwong.com",
       "createdAt": "2026-10-23T03:28:38.884Z",
       "seq": 1236
+    },
+    {
+      "id": "d53dad84",
+      "title": "walking-while-using-phone 보강: 2012 이전 파편, phone-use-while-driving 과 관계",
+      "priority": 50,
+      "note": "2026-10-23 CBS Miami 2017, HN 댓글 2023 더함. 후보: content.time.com/time/quotes/0,26174,1724522,00.html (2008-03-21) 런던 행인 가로등 부딪힘(문장 257자), techcrunch 2008-03-05 같은 내용 248자, news.ycombinator.com/item?id=38603367 (2023-12-11) 목격담. mediahub.seoul.go.kr/archives/998259 (2016-06-16) 10~30대 보행자 조건. austroads 봇 확인, tfd.metro.tokyo 점검, seoulsolution SSL 만료",
+      "createdAt": "2026-10-23T03:35:03.883Z",
+      "seq": 1240
     },
     {
       "id": "e8ba47a7",
