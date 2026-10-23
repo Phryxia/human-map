@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 295개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 296개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -147,6 +147,7 @@
 - [선택 과부하](docs/choice-overload.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [설단 현상](docs/tip-of-the-tongue.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [소개팅 주선](docs/matchmaking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [소득 상실 우려](docs/income-loss-worry.md) ([돈과 소비](groups/money.md))
 - [소유 효과](docs/endowment-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [소프트웨어 업데이트 미루기](docs/delaying-software-updates.md) ([걱정과 기분](groups/worry-and-mood.md))

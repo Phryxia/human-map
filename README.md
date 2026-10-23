@@ -30,7 +30,7 @@
 - [남의 시선과 창피함](groups/others-gaze.md) (22) 사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.
 - [낯선 사람과 공공장소](groups/strangers-and-public-places.md) (13) 사람이 이웃, 낯선 사람, 서비스 직원과 같은 공간에 있을 때 하는 일이다.
 - [선물, 대접과 예의](groups/gifts-and-hospitality.md) (17) 사람이 칭찬, 선물, 초대, 손님맞이, 작별을 주고받으며 하는 일이다.
-- [가까운 사이의 감정과 말](groups/close-relationships.md) (40) 사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.
+- [가까운 사이의 감정과 말](groups/close-relationships.md) (41) 사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.
 - [혼자 있음과 상실](groups/solitude-and-loss.md) (16) 사람이 혼자 지내거나 사람과 장소를 잃고 떠난 뒤 느끼고 하는 일이다.
 - [걱정과 기분](groups/worry-and-mood.md) (29) 사람이 결과를 모르는 일을 걱정하거나 확인하고 기분을 바꾸려고 하는 일이다.
 - [기억과 떠오르는 생각](groups/memory-and-thoughts.md) (13) 사람의 머릿속에서 말, 노래, 대답이 떠오르거나 떠오르지 않는 일이다.
