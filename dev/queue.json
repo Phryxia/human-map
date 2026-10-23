@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T06:16:03.911Z",
-  "nextSeq": 1249,
+  "savedAt": "2026-10-23T06:21:35.207Z",
+  "nextSeq": 1251,
   "stops": 86,
   "items": [
     {
@@ -355,6 +355,14 @@
       "note": "2026-10-23 공공 3, 매체, 학술 2 로 만듦. 후보: Petts 2020 PMC7030163 휴직 신청 남성이 낮은 평가를 받음(결과 쪽), Bygren·Duvander 2006 JMF 동료 휴직이 사용을 늘림(Wiley 403), korea.kr briefing 156621223 인사혁신처 2024 눈치 대목. 블라인드 글은 회사명 표시라 뺌. unused-annual-leave 와 같은 상위 후보(직장 눈치로 권리 안 쓰기)",
       "createdAt": "2026-10-23T06:16:03.757Z",
       "seq": 1248
+    },
+    {
+      "id": "2a231691",
+      "title": "not-reporting-workplace-injury 보강: SNS 파편, 한국 공공 파편, 1990년대 학술",
+      "priority": 50,
+      "note": "2026-10-23 학술 2, 공공, 매체 로 만듦. 후보: Pransky 1999 Ergonomics PMID 9973879 'fear of reprisal'(HTML 미열람), govinfo FR-2016-05-12 2016-10443 동료 실망 두려움, cdc.gov/niosh/bulletin/2021/neiss-work.html 낙인·징계 두려움, newsis NISX20210305_0001360742 38.7% 공상(제목에 회사명). 한국어 게시판 글 미발견",
+      "createdAt": "2026-10-23T06:21:35.025Z",
+      "seq": 1250
     },
     {
       "id": "e8ba47a7",
@@ -1579,14 +1587,6 @@
       "note": "not-asking-for-loan-back 의 결과 후보. 2026-10-23 탐색: 확인된 후보가 매체뿐. starlingbank 2023-07-07 'This is leading to many people writing off debts to avoid difficult conversations.' 은 not-asking-for-loan-back [^5] 와 같은 URL. PayPal 2015-09-01 'Small, unpaid debts between friends may seem easy to forgive when hoping to avoid awkward conversations' 는 not-asking-for-loan-back [^2] 와 같은 URL. 미열람: newsroom.paypal-corp.com 2024-07-24, cfotech.com.au awkward tax. Gazette Live BACS 기사 402. 학술·SNS·문학 출처 필요",
       "createdAt": "2026-10-23T03:31:56.178Z",
       "seq": 1238
-    },
-    {
-      "id": "3eb0c3a7",
-      "title": "산재 신고 미루기",
-      "priority": 10,
-      "note": "2026-10-23 hesitating-to-take-parental-leave 탐색 중 떠올림. 일자리 불이익이 걱정돼 업무상 부상을 신고하지 않는 노동자. 같은 경력 불이익 걱정의 현상",
-      "createdAt": "2026-10-23T06:16:03.632Z",
-      "seq": 1247
     },
     {
       "id": "02b2f242",
