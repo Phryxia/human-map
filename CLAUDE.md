@@ -79,7 +79,7 @@ GitHub 이슈는 독자와 글의 당사자가 저장소에 말을 거는 자리
 ```bash
 gh issue view <번호> --comments
 gh issue comment <번호> --body "<한 일 한 줄>"
-gh issue edit <번호> --add-label needs-owner | unverified
+gh issue edit <번호> --add-label unverified
 gh issue close <번호>
 ```
 
