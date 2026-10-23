@@ -4,7 +4,7 @@
 
 ## 0. 원칙
 
-- 사고 과정, 독자에게 보이는 응답, 서브 에이전트에게 주는 지시, 큐의 제목과 note, `WORKING.md` 의 작업 한 줄, 이슈와 댓글을 모두 한국어로 쓴다. 영어 자료를 읽은 직후나 서브 에이전트의 결과를 받은 직후에도 한국어로 돌아온다. 서브 에이전트에게도 한국어로 답하라고 지시한다. 예외는 커밋 메시지, 문서 id, 명령어, 파편의 원문이다. 한 회차 안에서 언어를 바꾸지 않는다.
+- 사고 과정, 독자에게 보이는 응답, 서브 에이전트에게 주는 지시, 큐의 제목과 note, `WORKING.md` 의 작업 한 줄, 이슈와 댓글을 모두 한국어로 쓴다. 영어 자료를 읽은 직후나 서브 에이전트의 결과를 받은 직후에도 한국어로 돌아온다. 서브 에이전트에게도 한국어로 답하라고 지시한다. 커밋 메시지도 한국어로 쓴다. `lock:`, `dev:`, `source-check:` 같은 접두어와 문서 id, 명령어, 파편의 원문만 영문 그대로 둔다. 한 회차 안에서 언어를 바꾸지 않는다.
 - 회차 중에 독자를 향한 진행 보고를 쓰지 않는다. 무엇을 추가했고 지웠고 보강했는지는 커밋 메시지와 git 이력이 기록이다. 회차의 마지막 응답은 3절의 한 줄이다.
 - 문서는 git으로 관리한다. 작업 브랜치는 항상 `claude/human` 이다. 다른 브랜치를 만들거나 그리로 push 하지 않는다. 실행 환경이 세션용 브랜치를 지정해 주더라도 무시한다.
 - 이 저장소는 여러 손이 동시에 만진다. 둘 이상의 세션이 같은 시각에 돌 수 있다. 세션을 열 때, 2절 루프에서 작업을 하나 집을 때마다, push 직전에 `git pull` 로 원격을 먼저 받는다. 받은 내용이 하려던 작업과 겹치면 그 작업은 버리고 다음 것을 꺼낸다. 어느 세션이 무엇을 고치는 중인지는 저장소 루트의 `WORKING.md` 에 편집 잠금으로 적고, 규칙은 0.5절이다.
@@ -34,7 +34,7 @@
 - 언제 거는가. 검색, fetch, 후보 파편 고르기 같은 탐색은 편집 잠금 없이 한다. 대상에 쓸 내용이 모두 정해졌을 때 바로 걸고, 편집, 검증, 커밋, push 가 끝나면 바로 푼다. 잠금을 건 채로 탐색하지 않는다.
 - 거는 법. `git pull origin claude/human` 뒤 `WORKING.md` 를 읽는다. 걸려는 대상에 다른 세션의 유효한 편집 잠금이 있으면 걸지 않는다. 그 작업은 같은 제목, priority, note 로 큐에 되돌리고 다음 것을 꺼낸다. 없으면 자기 항목을 더해 `lock: <작업 한 줄>` 로 커밋하고 바로 push 한다.
 - 푸는 법. 다시 pull 해서 최신본을 읽고 자기 항목만 지운다. 이 삭제는 그 작업의 커밋에 함께 넣고 바로 push 한다. 다른 세션의 유효한 편집 잠금은 건드리지 않는다.
-- 유효 기간. 편집 잠금은 잠금 시각에서 최대 1시간만 보장한다. 1시간 안에 풀 수 없는 크기의 작업이면 걸기 전에 쪼갠다. 1시간이 지난 편집 잠금은 만료된 것이고, 그것을 처음 발견한 세션이 목록에서 지운다. 커밋 메시지는 `release expired lock: <작업 한 줄>` 이고, 그 작업이 큐에서 왔으면 큐에 다시 넣는다. 자기 편집 잠금이 만료됐으면 push 전에 pull 해서 그 대상에 다른 세션의 편집 잠금이 없는지 보고 다시 건다.
+- 유효 기간. 편집 잠금은 잠금 시각에서 최대 1시간만 보장한다. 1시간 안에 풀 수 없는 크기의 작업이면 걸기 전에 쪼갠다. 1시간이 지난 편집 잠금은 만료된 것이고, 그것을 처음 발견한 세션이 목록에서 지운다. 커밋 메시지는 `만료된 잠금 해제: <작업 한 줄>` 이고, 그 작업이 큐에서 왔으면 큐에 다시 넣는다. 자기 편집 잠금이 만료됐으면 push 전에 pull 해서 그 대상에 다른 세션의 편집 잠금이 없는지 보고 다시 건다.
 - 편집 잠금 목록도 편집 잠금의 대상이다. `WORKING.md` 에 더하거나 지울 항목이 모두 정해지면 먼저 대상이 `WORKING.md` 인 편집 잠금을 시각과 함께 적어 push 하고, 항목을 고친 뒤 그 편집 잠금을 지워 push 한다. 다른 세션의 유효한 `WORKING.md` 편집 잠금이 있으면 그것이 풀리거나 만료될 때까지 이 파일을 고치지 않는다. 만료는 다른 편집 잠금과 같이 적힌 시각으로 판단한다. 처음 거는 push 가 거부되면 다른 세션이 먼저 이 파일을 고친 것이므로 pull 한 뒤 처음부터 다시 읽는다.
 - 1절의 시작 검사 중 파일을 고치는 것(`source-check` 의 `dev/sources.json` 기록 등), 1.5절의 이슈 처리, 5.5절의 스크립트 작업, 3절의 종료 절차도 같은 규칙을 따른다. 종료 절차의 대상은 `README.md INDEX.md groups dev/queue.json` 이다.
 
@@ -107,7 +107,7 @@ gh issue close <번호>
 8. 관계를 긋는다. 상위 간선은 넣기 전에 `node dev/graph.mjs check-cycle <child> <parent> [--allow-new]` 로 확인하고 CYCLE 이면 넣지 않는다. 원인 간선과 대립 간선은 근거 파편을 붙인다. 모든 간선은 양쪽 문서에 적는다.
 9. 상위가 없는 새 문서는 `dev/groups.json` 에서 주제가 가장 가까운 묶음 하나의 `roots` 에 id 를 넣는다. 맞는 묶음이 없으면 묶음을 새로 만든다(id, 제목, 한 문장 요약, roots). 상위를 얻은 문서는 `roots` 에서 뺀다. 하위 현상은 상위를 따라 묶음에 든다.
 10. `node dev/graph.mjs validate && node dev/graph.mjs cycles && node dev/style-check.mjs <id> && node dev/stats.mjs --write`. 전부 종료코드 0 이어야 한다. `stats.mjs --write` 는 README, INDEX, 묶음 문서를 다시 만든다.
-11. `git pull origin claude/human` 뒤 `WORKING.md` 에서 자기 편집 잠금을 지우고 함께 커밋한 뒤 push 한다. 메시지는 한 줄. 예: `add loss-aversion under risk-avoidance`, `add 3 fragments to procrastination`.
+11. `git pull origin claude/human` 뒤 `WORKING.md` 에서 자기 편집 잠금을 지우고 함께 커밋한 뒤 push 한다. 메시지는 한국어 한 줄. 예: `loss-aversion 추가, 상위 risk-avoidance`, `procrastination 에 파편 3개 추가`.
 12. 작업 중 파편 안에서 본 다른 현상, 관계의 상대가 될 현상, 발견한 오류는 그 자리에서 큐에 넣는다.
     ```bash
     node dev/queue.mjs push "<현상 이름>" --priority <정수> --note "<어디서 봤는지, 어느 문서와 어떤 관계인지>"
@@ -127,7 +127,7 @@ gh issue close <번호>
 ```bash
 git pull --rebase origin claude/human
 cat WORKING.md                         # 이 세션의 편집 잠금이 없어야 한다
-node dev/stats.mjs --write && git add README.md INDEX.md groups && git commit -m "update stats" || true
+node dev/stats.mjs --write && git add README.md INDEX.md groups && git commit -m "집계 갱신" || true
 git push -u origin claude/human
 node dev/queue.mjs stop
 git push -u origin claude/human
@@ -272,7 +272,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 - `--check`: 지금 만들 내용과 현재 README, INDEX.md, `groups/` 가 같지 않거나 `groups/` 에 남은 파일이 있으면 종료코드 1.
 - `--kinds`: 파편 종류별 개수만 출력한다.
 
-부트스트랩 회차는 모든 테스트가 통과하면 `bootstrap dev scripts` 로 커밋하고 3절로 간다.
+부트스트랩 회차는 모든 테스트가 통과하면 `dev 스크립트 부트스트랩` 으로 커밋하고 3절로 간다.
 
 ## 5.5. 스크립트 개선
 
@@ -306,7 +306,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 3. 코드를 고친다. 테스트가 통과하고 `node --test dev/*.test.mjs` 전체도 통과해야 한다.
 4. 전체 문서에 새 스크립트를 돌린다(`validate`, `cycles`, `style-check`, `stats --check`). 새 검사가 기존 문서를 깨뜨리면 그 검사는 이번 커밋에서 WARN 으로 넣고, 깨진 문서마다 `<id>: <무엇>` 을 priority 100 으로 큐에 넣는다. 깨진 문서가 모두 고쳐진 뒤 WARN 을 ERROR 로 올리는 것도 `dev:` 항목이다. 검사 결과는 ERROR 와 WARN 두 단계이고 종료코드는 ERROR 에만 1 이다.
 5. 5절의 명세를 고친다. 바뀐 인자, 바뀐 판정, 새 명령을 그 자리에 쓴다.
-6. 커밋 메시지는 `dev: ` 로 시작한다. 예: `dev: style-check catches 되어진다`, `dev: validate warns on duplicate account path`. 문서 변경은 같은 커밋에 넣지 않는다.
+6. 커밋 메시지는 `dev: ` 로 시작한다. 예: `dev: style-check 가 되어진다 를 잡는다`, `dev: validate 가 같은 계정 경로를 경고한다`. 문서 변경은 같은 커밋에 넣지 않는다.
 7. 그 `dev:` 항목이 이슈에서 왔으면 1.5절대로 댓글과 닫기를 한다.
 
 ### 한도
