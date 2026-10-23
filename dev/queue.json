@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:23:37.908Z",
-  "nextSeq": 1233,
+  "savedAt": "2026-10-23T03:24:34.661Z",
+  "nextSeq": 1235,
   "stops": 85,
   "items": [
     {
@@ -75,14 +75,6 @@
       "note": "2026-10-22 문서 만듦. unige:195353 (2026) 제목 'how boredom and procrastination disrupt prospective memory', 초록 'intentions perceived as boring were more likely to be postponed, which in turn was associated with more frequent PM failures'(같은 URL 이라 [^6] 과 함께 못 씀, 다른 출처 필요). unige:195352 (2026) 'Reminder use was selectively associated with external causes rather than forgetting.' 반대 조건 후보. 결과 간선 후보: 미래 기억 실패 뒤 기분 저하(ideas.repec Mogle 2019 [^4]). 한국어 게시판 글 미발견",
       "createdAt": "2026-10-22T22:39:51.177Z",
       "seq": 1109
-    },
-    {
-      "id": "d1ffeddd",
-      "title": "avoiding-death-talk 보강: 2010년 이전 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 후보: Pyszczynski 1999 Psychol Rev 106(4) 'Proximal defenses, which entail suppressing death-related thoughts' (pubmed 은 쿠키 벽, 문장 200자 초과). todayswillsandprobate.co.uk/?p=28714 (2018-08-21) 'Our reluctance to discuss death highlights a shockingly poor ability to plan' 유언장 27%. reliasmedia.com/articles/51589 (1997) Access Denied. 클리앙·82cook 게시글 미발견. PMID 32780652 (2022) 티베트인 대 한족 문화 조건",
-      "createdAt": "2026-10-22T22:54:16.791Z",
-      "seq": 1112
     },
     {
       "id": "8c6b39b6",
@@ -347,6 +339,14 @@
       "note": "2026-10-23 문학 벙어리 삼룡이 1925, 학술 PMC4312360 2015 더함. 후보: PMC7201637 (2020-05-06) 'Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices.'(결과 간선 근거, 종교 행위 끊기 문서 필요), earticle.net/Article/A275113 (2016-05) 하나님께 분노, sports.khan.co.kr/article/200804022103006 (2008-04-02) 팔자 찾기, ko.wikisource 배따라기 1921 '운명이 데일 힘셉디다'. jjan.kr 2020 수해 기사는 실명 대목",
       "createdAt": "2026-10-23T03:23:37.785Z",
       "seq": 1232
+    },
+    {
+      "id": "ef643978",
+      "title": "avoiding-death-talk 보강: 2010년 이전 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-23 todayswillsandprobate 2018-08-21 Co-op 조사 더함. 같은 글 '16% do not share the loss with others to avoid talking about the' 사별 뒤 말 피하기(같은 URL). 후보: Pyszczynski 1999 Psychol Rev 106(4) 'Proximal defenses' (pubmed 쿠키 벽, 200자 초과). reliasmedia.com/articles/51589 (1997) Access Denied. 클리앙·82cook 게시글 미발견. PMID 32780652 (2022) 티베트인 대 한족 문화 조건",
+      "createdAt": "2026-10-23T03:24:34.559Z",
+      "seq": 1234
     },
     {
       "id": "e8ba47a7",
