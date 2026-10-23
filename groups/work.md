@@ -2,7 +2,7 @@
 
 일하는 사람이 직장과 일자리를 두고 느끼고 하는 일이다.
 
-문서 20개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 21개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [감정노동](../docs/emotional-labor.md) 고객을 응대하는 노동자가 일이 요구하는 표정과 말투를 지으려고 실제로 느끼는 감정을 누르거나 꾸민다.
 - [건강보험 때문에 직장에 남기](../docs/staying-in-job-for-health-insurance.md) 그만두거나 옮기고 싶은 직장인이 지금 직장을 통해 받는 건강보험을 잃을까 봐 그 직장에 남는다.
@@ -21,6 +21,7 @@
 - [일요일 밤의 출근 걱정](../docs/sunday-night-dread.md) 주중에 일하는 사람이 일요일 저녁이나 밤에 다음 날 출근을 떠올리며 긴장하거나 우울해진다.
 - [일터에서 바쁜 척하기](../docs/pretending-to-be-busy.md) 직장인이 실제로 하는 일과 관계없이 일터에서 바빠 보이도록 행동한다.
   - [눈치 야근](../docs/staying-late-for-boss.md)
+- [직장 내 괴롭힘 참고 넘기기](../docs/enduring-workplace-harassment.md) 직장에서 괴롭힘을 당한 사람이 회사나 기관에 알리지 않고 참거나 모르는 척한다.
 - [퇴근 뒤 업무 연락에 답하기](../docs/after-hours-work-replies.md) 일하는 사람이 퇴근 뒤나 휴일에도 업무 메시지와 이메일을 확인하고 답한다.
 - [퇴근 뒤 일 생각 곱씹기](../docs/work-rumination-after-hours.md) 일하는 사람이 퇴근한 뒤에도 낮의 업무 장면과 일에 관한 생각을 되풀이한다.
 - [회식 참석 부담](../docs/company-dinner-pressure.md) 직장인이 회식을 부담스러워하면서도 빠졌을 때 상사나 동료가 어떻게 볼지 신경 쓰며 참석하거나 빠질 핑계를 찾는다.
