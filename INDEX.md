@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 253개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 254개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -227,6 +227,7 @@
 - [처분 효과](docs/disposition-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [청력 보호구 미착용](docs/hearing-protection-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [청력 손실 숨기기](docs/hiding-hearing-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [추운 아침 이불 속에 머물기](docs/lingering-in-bed-on-cold-mornings.md) ([시간과 하루 습관](groups/daily-time.md))
 - [축의금 액수 저울질](docs/weighing-gift-money.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [층간소음 참기](docs/enduring-neighbor-noise.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [치과 공포](docs/dental-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
