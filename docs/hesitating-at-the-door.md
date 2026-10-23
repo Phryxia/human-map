@@ -14,6 +14,8 @@
 
 2026년 4월 기사[^5]의 글쓴이는 이웃을 만나려면 직접 가서 문을 두드려야 했는데 가족 누구도 그 일이 편하지 않았다고 썼다. 2026년 6월 기사[^6]에서 초인종을 쓰지 않는 Z세대의 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했고 기사는 그 이유를 어색함 피하기로 적었다.
 
+2026년 8월 Hacker News 댓글[^7]의 글쓴이는 음식 배달원이 길 한가운데 선 채 전화를 걸었다고 쓰고 그가 다가가 문을 두드리거나 초인종을 누르기를 두려워하는 것처럼 보였다고 적었다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^4]: [매체] "I also anticipated it would feel like I was intruding. Because this is how I feel when somebody comes knocking when I'm at home, relaxing." (나는 또 그것이 남에게 끼어드는 느낌일 거라고 예상했다. 내가 집에서 쉬고 있을 때 누가 문을 두드리면 그렇게 느끼기 때문이다.) — Dave Fleischer, "The fear you feel before you knock on a door", Dave's Substack, 2024-09-08, https://davefleischer.substack.com/p/the-fear-you-feel-before-you-knock, 2026-10-22 접속
 [^5]: [매체] "We'd have to physically go up and knock on our neighbors' doors to meet them, and no one in my family felt comfortable doing that." (이웃을 만나려면 직접 걸어가 이웃집 문을 두드려야 했는데 우리 가족 누구도 그 일이 편하지 않았다.) — Annie Reneau, Upworthy, Yahoo Life, 2026-04-17, https://www.yahoo.com/lifestyle/articles/10-years-social-anxiety-kept-014807941.html, 2026-10-22 접속
 [^6]: [매체] "이 같은 변화의 가장 큰 이유는 '어색함'을 피하기 위해서다. 초인종을 사용하지 않는 Z세대 가운데 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했다." — 장지민, 한국경제, 2026-06-19, https://www.hankyung.com/article/2026061970727, 2026-10-22 접속
+[^7]: [SNS] "I had one food delivery driver call me while standing in the middle of the street. Seemed like he was afraid to approach and knock or ring." (음식 배달원 한 명은 길 한가운데 선 채 내게 전화를 걸었다. 다가가서 문을 두드리거나 초인종을 누르기를 두려워하는 것 같았다.) — Hacker News 댓글, 2026-08-31, https://news.ycombinator.com/item?id=49510448, 2026-10-23 접속

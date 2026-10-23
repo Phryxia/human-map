@@ -1972,9 +1972,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2814/pg2814-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://repository.lsu.edu/cmst_pubs/104": {
     "first": "2026-10-18",
@@ -5144,9 +5144,9 @@
   },
   "https://www.gutenberg.org/cache/epub/766/pg766-images.html": {
     "first": "2026-10-20",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.seoul.co.kr/news/2009/08/05/20090805011004": {
     "first": "2026-10-20",
@@ -7454,27 +7454,27 @@
   },
   "https://www.gutenberg.org/cache/epub/46/pg46-images.html": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://davefleischer.substack.com/p/the-fear-you-feel-before-you-knock": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.yahoo.com/lifestyle/articles/10-years-social-anxiety-kept-014807941.html": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.hankyung.com/article/2026061970727": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.jjan.kr/article/20100908368491": {
     "first": "2026-10-22",
@@ -8065,6 +8065,12 @@
     "lastVerified": "2026-10-23"
   },
   "https://news.ycombinator.com/item?id=36494436": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://news.ycombinator.com/item?id=49510448": {
     "first": "2026-10-23",
     "last": "2026-10-23",
     "result": "VERIFIED",

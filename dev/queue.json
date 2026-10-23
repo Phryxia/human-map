@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:35:04.002Z",
-  "nextSeq": 1241,
+  "savedAt": "2026-10-23T03:37:13.372Z",
+  "nextSeq": 1243,
   "stops": 85,
   "items": [
     {
@@ -27,14 +27,6 @@
       "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글. 2026-10-22 16:40Z 시도: archive.org 수면 안내서 djvu(Bruce 1915, Granville 1879, Powell 1908, b28718045 1892 등)에 잠 못 들며 시계 보는 대목 없음. kyeonggi 2003-06-23 무관. 한국어 게시판 검색 결과 없음",
       "createdAt": "2026-10-22T16:49:19.701Z",
       "seq": 1068
-    },
-    {
-      "id": "ddee87d2",
-      "title": "hesitating-at-the-door 보강: SNS·학술 파편, 사회불안 원인 간선",
-      "priority": 50,
-      "note": "2026-10-22 문학 3(1843·1850·1914), 매체 3 으로 만듦. yahoo 2026-04-17 같은 글 바로 앞 문장 'Social anxiety. Simple as that.' 은 anticipatory-social-anxiety 원인 간선 후보(파편 문장에 인과 필요). reddit r/Anxiety '다른 사람 문을 두드려야 할 때 더 불안' 댓글은 이 환경에서 403. 학술 후보: Davies 2011, IJSRM 16(4) 'Negotiating doorstep access'(호스트 막힘). 1861 Great Expectations 'my hesitating ring at the gate' 는 pg1400 이 이미 4개 문서라 못 씀. 한국어 게시판 방문자 쪽 글 미발견",
-      "createdAt": "2026-10-22T18:41:58.873Z",
-      "seq": 1086
     },
     {
       "id": "d3d0e037",
@@ -355,6 +347,14 @@
       "note": "2026-10-23 CBS Miami 2017, HN 댓글 2023 더함. 후보: content.time.com/time/quotes/0,26174,1724522,00.html (2008-03-21) 런던 행인 가로등 부딪힘(문장 257자), techcrunch 2008-03-05 같은 내용 248자, news.ycombinator.com/item?id=38603367 (2023-12-11) 목격담. mediahub.seoul.go.kr/archives/998259 (2016-06-16) 10~30대 보행자 조건. austroads 봇 확인, tfd.metro.tokyo 점검, seoulsolution SSL 만료",
       "createdAt": "2026-10-23T03:35:03.883Z",
       "seq": 1240
+    },
+    {
+      "id": "4ead50b2",
+      "title": "hesitating-at-the-door 보강: 1인칭 SNS·학술 파편, 사회불안 원인 간선",
+      "priority": 50,
+      "note": "2026-10-23 HN 댓글 2026-08-31 배달원 목격담 더함. 글쓴이 자신의 망설임 SNS 는 HN·지식iN 에서 못 찾음. yahoo 2026-04-17 같은 글 'Social anxiety. Simple as that.' 은 anticipatory-social-anxiety 원인 간선 후보. 학술 후보: Davies 2011 IJSRM 'Negotiating doorstep access'(eprints.ncrm 본문 없음), Chatzifotiou 2000 Sociological Research Online(미열람). pg1400 은 이미 4개 문서",
+      "createdAt": "2026-10-23T03:37:13.247Z",
+      "seq": 1242
     },
     {
       "id": "e8ba47a7",
