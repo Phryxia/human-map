@@ -6,8 +6,10 @@ import {fileURLToPath} from 'node:url'
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..')
 export const DOCS = path.join(ROOT, 'docs')
 export const KINDS = ['학술', '공공', '매체', 'SNS', '문학']
-// 관심사 태그. 여덟 개로 고정이고 다른 태그는 없다.
-export const INTERESTS = ['돈', '일', '시간', '건강', '관계', '공공', '온라인', '마음']
+// 관심사 태그. dev/tags.json 에 적힌 낱말이고 개수는 여덟으로 고정이다. 낱말은 세션이 바꿀 수 있다.
+export const TAG_COUNT = 8
+export const TAGS_FILE = path.join(ROOT, 'dev', 'tags.json')
+export const loadTags = (file = TAGS_FILE) => fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : []
 export const SECTIONS = ['서술', '관계']
 export const REL_SECTIONS = ['상위', '하위', '원인', '결과', '대립']
 export const INVERSE = {상위: '하위', 하위: '상위', 원인: '결과', 결과: '원인', 대립: '대립'}

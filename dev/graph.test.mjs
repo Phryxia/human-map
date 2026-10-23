@@ -60,7 +60,11 @@ test('같은 SNS 계정 경로가 둘이면 오류', () => {
   assert.ok(m.some(x => x.includes('같은 계정 경로')))
 })
 
-test('관심사 태그 밖의 태그는 오류, 줄 수 제한은 없다', () => {
+test('관심사 태그 밖의 태그는 오류, 태그 목록은 서로 다른 8개, 줄 수 제한은 없다', () => {
+  const T = ['돈', '일', '시간', '건강', '관계', '공공', '온라인', '마음']
+  assert.ok(validateAll(loadAll(makeRepo({a: makeDoc({tags: '#돈'})})), {}, T.slice(0, 7)).some(r => r.msg.includes('8개여야 한다 (7개)')))
+  assert.ok(validateAll(loadAll(makeRepo({a: makeDoc({tags: '#돈'})})), {}, [...T.slice(0, 7), '돈']).some(r => r.msg.includes('8개여야 한다')))
+  assert.deepEqual(validateAll(loadAll(makeRepo({a: makeDoc({tags: '#돈'})})), {}, T).map(r => r.msg), [])
   assert.ok(errs(loadAll(makeRepo({a: makeDoc({tags: '#집단'})}))).some(x => x.includes('관심사 태그가 아니다: #집단')))
   assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({tags: '#돈 #마음'})}))), [])
   assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({body: '문단.[^1][^2]' + '\n'.repeat(80)})}))), [])

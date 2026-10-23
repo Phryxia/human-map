@@ -1,5 +1,5 @@
 // validate 검사 묶음. 결과는 {level: 'ERROR'|'WARN', id, ln, msg} 목록.
-import {KINDS, INTERESTS, SECTIONS, REL_SECTIONS, INVERSE, FILE_RE, paragraphs, isVerified, refsIn} from './doc.mjs'
+import {KINDS, TAG_COUNT, loadTags, SECTIONS, REL_SECTIONS, INVERSE, FILE_RE, paragraphs, isVerified, refsIn} from './doc.mjs'
 
 // SNS URL 의 계정 경로. 첫 캡처 그룹이 계정이다.
 export const ACCOUNT_PATTERNS = [
@@ -26,7 +26,7 @@ const MENTION_RE = /(?<![A-Za-z0-9^])F\d+\b/g
 const sentenceCount = text => text.replace(/\[\^\d+\]/g, '').match(/[.?!](?=\s|$)/g)?.length ?? 0
 
 // sources 는 dev/sources.json 의 URL 별 기록. VERIFIED 인 출처의 원문은 출처에 글자 그대로 있으므로 줄임표도 원글의 것이다.
-export function validateDoc(doc, docs, sources = {}) {
+export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
   const out = []
   const err = (ln, msg) => out.push({level: 'ERROR', id: doc.id, ln, msg})
   const warn = (ln, msg) => out.push({level: 'WARN', id: doc.id, ln, msg})
@@ -87,13 +87,14 @@ export function validateDoc(doc, docs, sources = {}) {
     }
   }
   if (!doc.tagLine) err(doc.lines.length, '각주 정의 앞의 마지막 줄이 태그 목록이 아니다')
-  else for (const t of doc.tags) if (!INTERESTS.includes(t)) err(doc.tagLn, `관심사 태그가 아니다: #${t} (${INTERESTS.map(x => '#' + x).join(' ')})`)
+  else for (const t of doc.tags) if (!tags.includes(t)) err(doc.tagLn, `관심사 태그가 아니다: #${t} (dev/tags.json: ${tags.map(x => '#' + x).join(' ')})`)
   return out
 }
 
-export function validateAll(docs, sources = {}) {
+export function validateAll(docs, sources = {}, tags = loadTags()) {
   const out = []
-  for (const d of docs.values()) out.push(...validateDoc(d, docs, sources))
+  if (tags.length !== TAG_COUNT || new Set(tags).size !== TAG_COUNT || tags.some(t => !/^[가-힣a-z0-9_]+$/.test(t))) out.push({level: 'ERROR', id: 'tags.json', ln: 0, msg: `관심사 태그는 서로 다른 ${TAG_COUNT}개여야 한다 (${tags.length}개)`})
+  for (const d of docs.values()) out.push(...validateDoc(d, docs, sources, tags))
   const byUrl = new Map(), byAcct = new Map()
   for (const d of docs.values()) for (const f of d.fragments) {
     byUrl.set(f.url, (byUrl.get(f.url) ?? new Set()).add(d.id))
