@@ -7,7 +7,7 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 export const DOCS = path.join(ROOT, 'docs')
 export const KINDS = ['학술', '공공', '매체', 'SNS', '문학']
 export const AXES = ['특성', '사고', '감정', '행동']
-export const SECTIONS = ['서술', '조건', '관계']
+export const SECTIONS = ['서술', '관계']
 export const REL_SECTIONS = ['상위', '하위', '원인', '결과', '대립']
 export const INVERSE = {상위: '하위', 하위: '상위', 원인: '결과', 결과: '원인', 대립: '대립'}
 // 본문과 관계 줄의 각주 참조
@@ -74,7 +74,7 @@ export function parseDoc(id, dir = DOCS) {
   return doc
 }
 
-// 서술·조건 절의 문단: 빈 줄로 나뉜 덩어리와 그 시작 줄
+// 서술 절의 문단: 빈 줄로 나뉜 덩어리와 그 시작 줄
 export function paragraphs(doc, section) {
   const s = doc.sections[section]
   if (!s) return []

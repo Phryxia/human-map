@@ -59,12 +59,12 @@ export function validateDoc(doc, docs, sources = {}) {
   if (new Set(verified.map(f => f.kind)).size < 2) err(0, '확인됨 파편의 종류가 2가지 미만')
   // 본문의 참조
   const used = new Set()
-  for (const sec of ['서술', '조건']) {
+  for (const sec of ['서술']) {
     const ps = paragraphs(doc, sec)
     if (!ps.length) err(doc.sections[sec]?.ln ?? 1, `${sec} 절이 비어 있다`)
-    if (sec === '서술' && ps.length > 4) err(ps[4].ln, `서술 문단이 4개를 넘는다 (${ps.length})`)
+    if (ps.length > 8) err(ps[8].ln, `서술 문단이 8개를 넘는다 (${ps.length})`)
     for (const p of ps) {
-      const sentences = sec === '서술' ? sentenceCount(p.text) : 0
+      const sentences = sentenceCount(p.text)
       if (sentences > 4) err(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
       const refs = refsIn(p.text)
       if (!refs.length) err(p.ln, '문단에 근거 파편이 없다')

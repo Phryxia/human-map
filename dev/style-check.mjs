@@ -1,11 +1,11 @@
 #!/usr/bin/env node
-// 서술과 조건 절의 문체 규칙 검사(제목·별칭·요약 줄은 이모지와 한자만). 사용법: node dev/style-check.mjs [<id>]
+// 서술 절의 문체 규칙 검사(제목·별칭·요약 줄은 이모지와 한자만). 사용법: node dev/style-check.mjs [<id>]
 import {loadAll, listDocIds, paragraphs} from './lib/doc.mjs'
 import {GROUPS, countRules} from './lib/style-rules.mjs'
 
 export function styleIssues(doc) {
   const out = []
-  for (const sec of ['서술', '조건']) {
+  for (const sec of ['서술']) {
     for (const {ln, text} of doc.sections[sec]?.lines ?? []) {
       const bare = text.replace(/"[^"]*"|“[^”]*”|'[^']*'|‘[^’]*’/g, '')
       for (const g of GROUPS) for (const re of g.patterns) {
@@ -22,7 +22,7 @@ export function styleIssues(doc) {
       if (m) out.push({id: doc.id, ln: i + 1, group: g.name, msg: `'${m[0]}'`, level: g.level ?? 'ERROR'})
     }
   })
-  const all = ['서술', '조건'].flatMap(s => paragraphs(doc, s))
+  const all = paragraphs(doc, '서술')
   for (const p of all) {
     const sentences = p.text.replace(/\[\^\d+\]/g, '').split(/(?<=[.?!])\s+/).filter(Boolean)
     if (sentences.length > 4) out.push({id: doc.id, ln: p.ln, group: '문단 길이', msg: `문단이 ${sentences.length}문장 (4문장 이내)`})
