@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 255개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 256개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -157,6 +157,7 @@
 - [야반도주](docs/moonlight-flit.md) ([돈과 소비](groups/money.md))
 - [약관 읽지 않고 동의하기](docs/agreeing-without-reading-terms.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [약속 취소 충동](docs/urge-to-cancel-plans.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [어둠 공포](docs/fear-of-the-dark.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [얹혀사는 집에서 몸 낮추기](docs/shrinking-in-hosts-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얼굴 붉어짐](docs/blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엄숙한 자리에서 터지는 웃음](docs/laughing-at-solemn-occasions.md) ([남의 시선과 창피함](groups/others-gaze.md))

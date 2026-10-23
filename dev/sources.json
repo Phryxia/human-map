@@ -7739,5 +7739,17 @@
     "last": "2026-10-23",
     "result": "VERIFIED",
     "lastVerified": "2026-10-23"
+  },
+  "https://www.gutenberg.org/cache/epub/785/pg785-images.html": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://www.livescience.com/20869-sleep-fear-dark-insomnia.html": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
   }
 }
