@@ -38,7 +38,7 @@
 
 없음.
 
-#사고 #혼자
+#공공
 
 [^1]: [학술] "The results suggest that motivating consumers to express their concern through actual behavior is to some extent a function of increasing their perception that individual actions do make a difference." (결과는 소비자가 자기 관심을 실제 행동으로 나타내도록 하는 일이 어느 정도는 개인의 행동이 실제로 차이를 만든다는 지각을 높이는 데 달려 있음을 시사한다.) — Pam Scholder Ellen, Joshua Lyle Wiener, Cathy Cobb-Walgren, "The Role of Perceived Consumer Effectiveness in Motivating Environmentally Conscious Behaviors", Journal of Public Policy & Marketing 10(2), 1991, https://verdi.cs.ucl.ac.uk/constructDB/publications/ellen-role-1991.html, 2026-10-18 접속
 [^2]: [매체] "이처럼 힘들여 분리한 쓰레기를 아무렇게나 마구 싣고 가는 것을 본 시민들은 『자원재활용을 위해 분리수거를 한다기에 불편을 무릅쓰고 기껏 분리해 줬더니 결국 환경미화원들의 일손을 줄이는 것 밖에 무슨 도움이 되느냐』고 불평하고 있다." — 서울신문, 「「쓰레기 분리수거」 겉돈다」, 1991-01-06, https://m.seoul.co.kr/news/1991/01/06/19910106015001, 2026-10-18 접속

@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정
+#공공
 
 [^1]: [매체] "지난 5월 선생님에게 폭행사실을 알렸다가 화장실 바닥에서 뭇매를 맞은뒤 속으로만 끙끙 앓다가 최근에서야 부모에게 폭행사실을 알렸다." — 서울신문, 「피해 학생들의 호소(학원폭력 이대로 둘수 없다:1)」, 1997-07-08, https://www.seoul.co.kr/news/1997/07/08/19970708001001, 2026-10-22 접속
 [^2]: [학술] "Victims of domestic violence are less likely than victims of other types of violence to call the police because of their privacy concerns, their fear of reprisal, and their desire to protect offenders" (가정폭력 피해자는 사생활에 대한 걱정, 보복에 대한 두려움, 가해자를 보호하려는 마음 때문에 다른 유형의 폭력 피해자보다 경찰을 덜 부른다) — Richard B. Felson, Steven F. Messner, Anthony W. Hoskin, Glenn Deane, "Reasons for reporting and not reporting domestic violence to the police", Criminology 40(3), 2002-08, https://pure.psu.edu/en/publications/reasons-for-reporting-and-not-reporting-domestic-violence-to-the-/, 2026-10-22 접속

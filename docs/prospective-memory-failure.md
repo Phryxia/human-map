@@ -34,7 +34,7 @@
 
 없음.
 
-#사고 #행동 #시간
+#시간 #마음
 
 [^1]: [학술] "The results showed that age and divided attention contributed to both omission and repetition errors." (결과는 나이와 주의 분산이 빠뜨림 오류와 되풀이 오류 모두에 기여했음을 보여 주었다.) — G. O. Einstein, M. A. McDaniel, R. E. Smith, P. Shaw, "Habitual Prospective Memory and Aging: Remembering Intentions and Forgetting Actions", Psychological Science 9(4), 1998-07, https://www.psychologicalscience.org/journals/psychological-science/1467-9280.00056/, 2026-10-22 접속
 [^2]: [매체] "This type of memory, which appears to be impaired by schizophrenia, enables you to remember that you have to do something in the future, without being prompted." (조현병으로 손상되는 것으로 보이는 이 유형의 기억은 누가 일러 주지 않아도 앞으로 무언가를 해야 한다는 것을 기억하게 한다.) — University of Warwick, "Schizophrenia could cause patients to forget their medication", 2003-08-14, https://warwick.ac.uk/news/pressreleases/ne100000008586, 2026-10-22 접속

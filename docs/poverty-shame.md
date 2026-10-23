@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #돈
+#돈
 
 [^1]: [매체] "또 아이들이 음식점에서 식권을 내는 자체를 수치스럽게 여긴다는 점도 감안한 조치다." — 매일신문, 「탕수육 꿈 빼앗아간 아동 급식 전자카드」, 2011-10-08, https://www.imaeil.com/page/view/2011100808015150700, 2026-10-18 접속
 [^2]: [학술] "Poverty research has demonstrated that financial constraints and the social withdrawal that result from feelings of shame cause lower participation rates." (빈곤 연구는 경제적 제약과 수치심에서 비롯된 사회적 물러남이 더 낮은 참여율을 낳는다는 것을 보여 주었다.) — Andreas Damelang, Georgi Kloß, 「Poverty and the social participation of young people: an analysis of poverty-related withdrawal mechanisms」, Journal for Labour Market Research 46(4), 2013, https://ideas.repec.org/a/iab/iabjlr/v46i4p321-333.html, 2026-10-18 접속

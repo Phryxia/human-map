@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #시간
+#시간
 
 [^1]: [매체] "It does not do him any good to tell her that he was too busy to walk and so had to ride, or that he had no time for exercising; she simply pushes him off to make way for a better man." (너무 바빠 걷지 못하고 탈것을 탔다거나 운동할 시간이 없었다고 그녀에게 말해도 그에게 소용이 없다. 그녀는 그를 밀어내고 더 나은 사람에게 자리를 내준다.) — Walter Camp, Keeping Fit All the Way: How to Obtain and Maintain Health, Strength and Efficiency, 1919, https://www.gutenberg.org/cache/epub/13574/pg13574-images.html, 2026-10-19 접속
 [^2]: [공공] "'Insufficient time due to work or study' was the most common reason (22%) for not exercising or exercising infrequently." ('일이나 학업으로 시간이 부족함'이 운동을 하지 않거나 드물게 하는 가장 흔한 이유(22%)였다.) — Australian Bureau of Statistics, 4177.0 Participation in Sports and Physical Recreation, Australia, 2005-06 (media release), 2007-02-14, https://www.abs.gov.au/AUSSTATS/abs@.nsf/mediareleasesbyCatalogue/85051A8899BB0446CA2572810077450B, 2026-10-19 접속 (소멸, 2026-10-19 까지 확인)

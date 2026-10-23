@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #사고
+#공공
 
 [^1]: [공공] "People underestimate the force and power of water. Many of the deaths occur in cars swept downstream." (사람들은 물의 힘과 위력을 과소평가한다. 사망의 다수는 하류로 떠내려간 차 안에서 일어난다.) — National Weather Service, "Turn Around Don't Drown", 발행일 미상, https://www.weather.gov/safety/flood-turn-around-dont-drown, 2026-10-21 접속
 [^2]: [공공] "Of the 16 water-crossing incidents, 11 (69%) occurred at locations known to reporting authorities to have a history of flooding." (물을 건너다 난 사고 16건 가운데 11건(69%)은 보고 당국이 침수 이력이 있다고 알던 곳에서 일어났다.) — CDC, "Storm-Related Mortality --- Central Texas, October 17-31, 1998", MMWR 49(07), 2000, https://www.cdc.gov/Mmwr/preview/mmwrhtml/mm4907a1.htm, 2026-10-21 접속

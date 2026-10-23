@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정 #특성 #온라인
+#온라인
 
 [^1]: [매체] "「メールの返信がないととても不安になる（ことがある）」という問いに「ある」と答えた中学2年生は24.3%（同18.0%）という数字になっています。" (“메일 답장이 없으면 몹시 불안해진다(그럴 때가 있다)”는 물음에 “있다”고 답한 중학교 2학년은 24.3%(초등학교 5학년은 18.0%)라는 수치다.) — 小林啓倫, 「「子供たちのメール依存度が高まっている」に感じる違和感」, ITmedia オルタナティブ・ブログ, 2008-05-16, https://blogs.itmedia.co.jp/akihito/2008/05/post-1b60.html, 2026-10-20 접속
 [^2]: [학술] "How an individual feels toward their phone appears to relate to how reliant an individual is on texting in their day-to-day lives." (사람이 자기 휴대전화에 대해 느끼는 감정은 그 사람이 일상에서 문자 메시지에 얼마나 기대는지와 관련이 있어 보인다.) — Alex J. Holte, F. Richard Ferraro, "Tethered to texting: Reliance on texting and emotional attachment to cell phones", Current Psychology, 2018-10-26, https://link.springer.com/article/10.1007/s12144-018-0037-y, 2026-10-20 접속

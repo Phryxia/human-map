@@ -36,7 +36,7 @@
 
 없음.
 
-#사고
+#마음
 
 [^1]: [매체] "Uncompleted tasks stick in your mind more than completed ones" (끝내지 않은 일은 끝낸 일보다 마음에 더 남는다) — Coglode, 「Zeigarnik Effect」, 발행일 미상, https://www.coglode.com/research/zeigarnik-effect, 2026-10-23 접속
 [^2]: [학술] "Allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects." (참가자가 이루지 못한 목표에 대해 구체적인 계획을 세우게 하자 여러 활성화 효과와 간섭 효과가 사라졌다.) — E. J. Masicampo, R. F. Baumeister, 「Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals」, Journal of Personality and Social Psychology 101(4), 2011-10, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21688924&rettype=abstract&retmode=text, 2026-10-23 접속

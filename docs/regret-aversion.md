@@ -42,7 +42,7 @@
 
 없음.
 
-#사고 #감정 #돈
+#돈 #마음
 
 [^1]: [학술] "incorporates anticipated regret and pride in individuals preferences and show that those preferences can cause investors to sell winning stocks and hold on to losing stocks" (개인의 선호에 예상되는 후회와 자부심을 넣고, 그 선호가 투자자로 하여금 오른 주식은 팔고 내린 주식은 쥐고 있게 만들 수 있음을 보인다) — Alexander Muermann, Jacqueline M. Volkman, 「Regret, Pride, and the Disposition Effect」, Pension Research Council Working Paper WP2007-03, 2007, https://pensionresearchcouncil.wharton.upenn.edu/?p=700, 2026-10-18 접속
 [^2]: [학술] "those who felt the withdrawal regret more strongly decided to keep their stock, while those who felt the persistence regret more strongly decided to sell their stock" (포기 후회를 더 강하게 느낀 사람은 주식을 계속 보유하기로 했고, 유지 후회를 더 강하게 느낀 사람은 주식을 팔기로 했다) — 한미영, 김재휘, 안서원, 「손실 상황의 주식투자결정에서 사전가정사고와 예상되는 후회의 역할」, 한국심리학회지: 사회및성격 23(2), 2009-05, https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/32440?mode=full, 2026-10-18 접속

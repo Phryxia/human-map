@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고 #돈
+#돈
 
 [^1]: [학술] "Self-control strategies after the buying impulse comprise five categories: normative assesment of impulse buying, reconsidering economic condition, postponing purchasing decision" (구매 충동 뒤의 자기통제 전략은 다섯 범주로 이루어진다: 충동구매에 대한 규범적 평가, 경제 사정 재고, 구매 결정 연기) — 송인숙, 양덕순, 「기혼 여성의 구매충동 제어전략 사용과 관련변인 연구」, 대한가정학회지 44(12), 2006, https://koreascience.kr/article/JAKO200606414526011.pub?lang=ko, 2026-10-18 접속
 [^2]: [매체] "Sometimes the urge grows stronger for a week or two, but then subsides completely. It’s rare that I decide I need something after 30 days of waiting." (때로는 그 충동이 한두 주 동안 더 강해지지만 그 뒤 완전히 가라앉는다. 30일을 기다린 뒤에 무언가가 필요하다고 결정하는 일은 드물다.) — J.D. Roth, 「Control impulse spending with the 30-day rule」, Get Rich Slowly, 2006-09-12, https://www.getrichslowly.org/blog/2006/09/12/control-impulse-spending-with-the-30-day-rule/, 2026-10-18 접속

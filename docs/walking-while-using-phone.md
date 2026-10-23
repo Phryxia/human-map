@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #온라인
+#공공 #온라인
 
 [^1]: [학술] "Participants distracted by music or texting were more likely to be hit by a vehicle in the virtual pedestrian environment than were undistracted participants." (음악이나 문자 보내기로 주의가 흐트러진 참가자는 그렇지 않은 참가자보다 가상 보행 환경에서 차량에 치일 가능성이 높았다.) — David C. Schwebel 외, "Distraction and pedestrian safety: How talking on the phone, texting, and listening to music impact crossing the street", Accident Analysis & Prevention 45, 2012-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC3266515/, 2026-10-22 접속
 [^2]: [매체] "보행자 대부분이 스마트폰을 손에 쥔 채 횡단보도를 건너고 있었다." — 매일신문, 「보행 중 스마트폰 '위험천만'…눈 닫고 귀 막고 폰 속에 갇혔다」, 2015-04-27, https://www.imaeil.com/page/view/2015042705414581842, 2026-10-22 접속

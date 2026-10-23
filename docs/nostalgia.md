@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #혼자
+#마음
 
 [^1]: [문학] "Tears from the depth of some divine despair Rise in the heart, and gather to the eyes, In looking on the happy Autumn-fields, And thinking of the days that are no more." (어떤 신성한 절망의 깊은 곳에서 눈물이 가슴에 솟아 눈에 고인다. 행복한 가을 들판을 바라보며 다시 오지 않는 날들을 생각할 때.) — Alfred Tennyson, "The Princess", Project Gutenberg, 1847, https://www.gutenberg.org/cache/epub/791/pg791-images.html, 2026-10-21 접속
 [^2]: [매체] "가을 바람에 기온이 내려갈 때면 대학 시절 사진 동아리 활동을 하던 시절이 떠오른다." — 이경주, "[여성&남성] 가을 타는 ‘외로운 걸’ ‘고독하 군’", 서울신문, 2007-10-16, https://m.seoul.co.kr/news/2007/10/16/20071016023006, 2026-10-21 접속

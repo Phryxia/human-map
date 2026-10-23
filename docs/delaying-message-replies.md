@@ -41,7 +41,7 @@
 
 없음.
 
-#행동 #감정 #온라인 #시간
+#시간 #온라인 #마음
 
 [^1]: [문학] "The fact is I let my correspondence accumulate until I am going to leave a place; and then I pitch in, overhaul the pile, and my cries of penitence might be heard a mile about." (실은 나는 어떤 곳을 떠나게 될 때까지 편지를 쌓아 두고, 그때가 되어서야 달려들어 더미를 뒤지는데, 그 참회의 외침이 1마일 밖까지 들릴 정도다.) — Robert Louis Stevenson, The Letters of Robert Louis Stevenson to his Family and Friends, Vol. 2, Sidney Colvin 편, 1888, https://gutenberg.org/cache/epub/637/pg637-images.html, 2026-10-18 접속
 [^2]: [학술] "Fourthly, it appears that MMA users try to avoid imposing others for responding quickly: delayed or lack of response and omission of opening or closing remarks seem to be well understood." (넷째, 모바일 메신저 사용자들은 상대에게 빠른 응답을 강요하지 않으려는 것으로 보인다. 늦은 응답이나 무응답, 인사말 생략은 잘 양해되는 것으로 보인다.) — 윤상석, 김정숙, 이동은, 「모바일 메신저 대화에서 나타나는 공손 전략」, 이중언어학 56, 2014, https://scholar.korea.ac.kr/handle/2021.sw.korea/133330?mode=full, 2026-10-17 접속

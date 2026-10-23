@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고 #집단
+#건강
 
 [^1]: [공공] "false alarms are dangerous as people become complacent and do not react to the alarm when there's a real fire" (오경보는 위험하다. 사람들이 안일해져 실제 화재가 났을 때 경보에 반응하지 않기 때문이다.) — London Fire Brigade, "Responding to fire alarms", 발행일 미상, https://www.london-fire.gov.uk/about-us/services-and-facilities/false-alarms-and-lift-calls/responding-to-fire-alarms/, 2026-10-22 접속
 [^2]: [공공] "Each false alarm can lead people to become complacent when they hear the fire alarm." (오경보 하나하나가 화재경보를 들을 때 사람들을 안일하게 만들 수 있다.) — Mid and West Wales Fire and Rescue Service, "False Fire Alarms", 발행일 미상, https://mawwfire.gov.uk/eng/your-safety/business-fire-safety/false-fire-alarms/, 2026-10-22 접속

@@ -34,7 +34,7 @@
 
 없음.
 
-#사고 #돈
+#돈 #마음
 
 [^1]: [문학] "But, Madame, zero has only this moment turned up,” I remonstrated; “wherefore, it may not do so again for ever so long. Wait a little, and you may then have a better chance." (하지만 마님, 0은 방금 나왔습니다, 하고 나는 말렸다. 그러니 한참 동안 다시 나오지 않을 수도 있습니다. 조금 기다리시면 더 나은 기회가 올 겁니다.) — Fyodor Dostoevsky, C. J. Hogarth 옮김, The Gambler, Project Gutenberg, 1866, https://www.gutenberg.org/cache/epub/2197/pg2197-images.html, 2026-10-23 접속
 [^2]: [학술] "Gambling cognitions and gender, but not impulsivity, were associated with adherence to the gambler's fallacy." (충동성이 아니라 도박 인지와 성별이 도박사의 오류를 따르는 정도와 관련되었다.) — H. H. Marmurek, J. Switzer, J. D'Alvise, 「Impulsivity, gambling cognitions, and the gambler's fallacy in university students」, Journal of Gambling Studies 31(1), 2015-03, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24293013&rettype=abstract&retmode=text, 2026-10-23 접속

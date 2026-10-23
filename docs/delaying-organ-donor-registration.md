@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#마음
 
 [^1]: [매체] "A poll of 1,500 people not on the organ donor register found 45% had good intentions to join but had not yet got round to it." (기증자 명부에 오르지 않은 1,500명을 대상으로 한 설문에서 45%는 등록할 좋은 뜻이 있었으나 아직 하지 못했다.) — Management in Practice, 「Campaign launched to increase donor registration」, 2009-11-02, https://managementinpractice.com/news/campaign-launched-to-increase-donor-registration/, 2026-10-22 접속
 [^2]: [SNS] "I've been meaning to do so for a long while but after watching the advert this morning I got my act together and registered to be an organ donor" (오래전부터 그러려고 했는데 오늘 아침 광고를 보고 마음을 다잡아 장기기증자로 등록했다) — eyfs.info 포럼, 게시글, 2010-01-10, https://eyfs.info/forums/topic/22931-organ-donor-register/, 2026-10-22 접속

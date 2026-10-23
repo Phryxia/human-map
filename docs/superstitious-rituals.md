@@ -42,7 +42,7 @@
 
 없음.
 
-#행동 #사고
+#마음
 
 [^1]: [문학] "I got up and turned around in my tracks three times and crossed my breast every time; and then I tied up a little lock of my hair with a thread to keep witches away." (나는 일어나 제자리에서 세 번 돌며 돌 때마다 가슴에 성호를 그었다. 그리고 마녀를 쫓으려고 머리카락 한 타래를 실로 묶었다.) — Mark Twain, Adventures of Huckleberry Finn, 1884, https://www.gutenberg.org/cache/epub/76/pg76-images.html, 2026-10-20 접속
 [^2]: [SNS] "I always wear my lucky socks on game day. If it's the playoffs, I don't wash them until the Canes lose." (경기 날에는 늘 행운의 양말을 신는다. 플레이오프라면 Canes 가 질 때까지 그 양말을 빨지 않는다.) — Straight Dope 게시글, 2010-03-15, https://boards.straightdope.com/t/very-superstitious-a-hockey-mojo-mmp/532503, 2026-10-22 접속

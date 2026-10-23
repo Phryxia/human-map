@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #집단
+#공공
 
 [^1]: [문학] "At length the conversation began, in which the weather and the diversions of the town were well canvassed." (마침내 대화가 시작되었고 날씨와 시내의 오락거리가 두루 오르내렸다.) — Henry Fielding, 「Amelia」, 1751, https://www.gutenberg.org/cache/epub/6098/pg6098-images.html, 2026-10-22 접속
 [^2]: [문학] "The conversation was vapid and conventional—remarks about the opera and its performers—even the heat of the weather was mentioned." (대화는 김빠지고 틀에 박혀 있었다. 오페라와 출연자들에 대한 말이 오갔고 날씨가 덥다는 말까지 나왔다.) — Benjamin Disraeli, 「Lothair」, 1870, https://www.gutenberg.org/cache/epub/7835/pg7835-images.html, 2026-10-22 접속

@@ -44,7 +44,7 @@
 
 없음.
 
-#행동 #감정
+#마음
 
 [^1]: [학술] "drinking is often used to facilitate social interactions, for tension reduction, to manage negative affect, and to enhance positive affect." (음주는 흔히 사회적 상호작용을 돕고 긴장을 줄이고 부정 정서를 다스리고 긍정 정서를 높이는 데 쓰인다.) — Kate B. Carey, Stephen A. Maisto, Michael P. Carey, Christopher M. Gordon, Christopher J. Correia, 「Use of Legal Drugs by Psychiatric Outpatients: Benefits, Costs, and Change」, Cognitive and Behavioral Practice 6(1), 1999, https://pmc.ncbi.nlm.nih.gov/articles/PMC2423733/, 2026-10-18 접속
 [^2]: [매체] "입맛이 없거나 우울할 때 사람들은 자극적인 맛을 찾고 톡 쏘는 매운 맛에 이끌린다." — 황인원, 「매운 맛을 보여다오」, 주간경향, 2004-07-29, https://weekly.khan.co.kr/article/7770, 2026-10-18 접속

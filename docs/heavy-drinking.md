@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #집단
+#건강
 
 [^1]: [매체] "And this kind of misperception has a strong effect on personal alcohol consumption and associated problems, according to a study of more than 76,000 students at 130 colleges and universities." (130개 대학 학생 76,000여 명을 조사한 연구에 따르면 이런 잘못된 인식은 개인의 음주량과 그에 따른 문제에 강한 영향을 미친다.) — HealthDay, "College Students Overestimate Peers' Drinking", HealthDay, 2005-09-28, https://www.healthday.com/health-news/addiction/college-students-overestimate-peers-drinking-528146.html, 2026-10-21 접속
 [^2]: [학술] "Social relationships with peers strongly affect University students' perception of the drinking behavior of others, which in turn plays a crucial role in determining their own alcohol intake." (또래와의 사회적 관계는 대학생이 다른 사람의 음주 행동을 지각하는 방식에 강하게 영향을 주며 이 지각은 다시 자신의 음주량을 정하는 데 결정적인 역할을 한다.) — Christine Wolter 외, "Finding the Right Balance: A Social Norms Intervention to Reduce Heavy Drinking in University Students", Frontiers in Public Health 9, 2021-06-10, https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2021.653435/full, 2026-10-21 접속

@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #돈 #시간
+#돈 #시간 #마음
 
 [^1]: [매체] "노후준비를 하고 있지 않은 이유로는 ‘준비할 능력이 없다’(49.7%)는 답변이 가장 많았고, ‘앞으로 준비할 계획’(24.0%), ‘자녀에게 의탁’(17.4%) 등이 그 뒤를 이었다." — 전민정, 이투데이, 2013-12-04, https://www.etoday.co.kr/news/view/832307, 2026-10-20 접속
 [^2]: [학술] "We provide new and robust empirical evidence that procrastinators behave differently than non-procrastinators for five important retirement-related financial behaviors." (우리는 미루는 사람이 미루지 않는 사람과 다섯 가지 중요한 은퇴 관련 금융 행동에서 다르게 행동한다는 새롭고 견고한 실증 근거를 제시한다.) — Jeffrey R. Brown, Alessandro Previtero, "Procrastination, Present-Biased Preferences, and Financial Behaviors", NBER Retirement Research Center Paper NB14-04, 2014-09, https://www.nber.org/programs-projects/projects-and-centers/retirement-and-disability-research-center/center-papers/rrc-nb14-04, 2026-10-20 접속

@@ -42,7 +42,7 @@ CCTV 기록을 본 두 연구는 결과가 갈린다. 2019년 Liebst 외는 폭�
 
 없음.
 
-#행동 #사고 #집단
+#공공
 
 [^1]: [학술] "Greater ambiguity led to less help; women helped less than men; and fewer people helped when other bystanders were present." (모호성이 클수록 도움이 줄었고 여성이 남성보다 덜 도왔으며 다른 구경꾼이 있을 때 도운 사람이 더 적었다.) — R. Lance Shotland, W. Donald Heinold, "Bystander response to arterial bleeding: Helping skills, the decision-making process, and differentiating the helping response", Journal of Personality and Social Psychology 49(2), 1985-08, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=4032225&rettype=abstract&retmode=text, 2026-10-18 접속
 [^2]: [학술] "In Study 1, increasing group size inhibited intervention in a street violence scenario when bystanders were strangers but encouraged intervention when bystanders were friends." (연구 1에서 거리 폭력 시나리오의 집단 크기가 커지면 구경꾼이 서로 모르는 사이일 때는 개입이 억제되었고 친구일 때는 개입이 촉진되었다.) — Mark Levine, Simon Crowther, "The responsive bystander: How social group membership and group size can encourage as well as inhibit bystander intervention", Journal of Personality and Social Psychology 95(6), 2008-12, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19025293&rettype=abstract&retmode=text, 2026-10-18 접속

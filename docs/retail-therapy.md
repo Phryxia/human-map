@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #행동 #돈
+#돈 #마음
 
 [^1]: [문학] "Meg didn’t like to be pitied and made to feel poor. It irritated her, but she was ashamed to confess it, and now and then she tried to console herself by buying something pretty," (메그는 동정받고 가난하다고 느끼게 되는 것이 싫었다. 그것이 그녀를 짜증 나게 했지만 털어놓기는 부끄러웠고 이따금 예쁜 것을 사서 스스로를 달래려 했다.) — Louisa May Alcott, Little Women, Chapter Twenty-Eight, Project Gutenberg, 1869, https://www.gutenberg.org/cache/epub/514/pg514.txt, 2026-10-22 접속
 [^2]: [문학] "she had the experience of grief, with the certainty that it would not end. A woman who had laid on herself such sacrifices could well allow herself certain whims. She bought a Gothic prie-dieu," (그녀는 끝나지 않으리라는 확신과 함께 슬픔을 겪었다. 자신에게 그런 희생을 지운 여자라면 몇 가지 변덕쯤은 스스로 허락해도 되었다. 그녀는 고딕풍 기도대를 샀고) — Gustave Flaubert, Eleanor Marx-Aveling 옮김, Madame Bovary, Part II, Project Gutenberg, 1886, https://www.gutenberg.org/cache/epub/2413/pg2413.txt, 2026-10-22 접속

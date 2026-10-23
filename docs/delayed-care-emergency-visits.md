@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #돈
+#돈 #건강
 
 [^1]: [학술] "Had they received treatment earlier in an ambulatory care setting, the trip to the ED might have been avoided." (그들이 더 일찍 외래 진료 환경에서 치료를 받았다면 응급실행은 피할 수 있었을지 모른다.) — John Billings, Nina Parikh, Tod Mijanovich, "Emergency Department Use: The New York Story", Commonwealth Fund Issue Brief, 2000-11, https://wagner.nyu.edu/impact/research/publications/emergency-department-use-new-york-story, 2026-10-20 접속
 [^2]: [매체] "seven in 10 emergency physicians are seeing insured patients at hospital emergency departments because they delayed care due to high out-of-pocket costs." (응급의학과 의사 10명 중 7명은 보험이 있는 환자가 높은 본인 부담금 때문에 진료를 미뤄 병원 응급실로 오는 것을 보고 있다.) — Heather Caspi, "High costs, narrow networks drive insured patients to ED", Healthcare Dive, 2015-10-28, https://www.healthcaredive.com/news/high-costs-narrow-networks-drive-insured-patients-to-ed/408071/, 2026-10-20 접속

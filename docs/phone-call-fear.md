@@ -41,7 +41,7 @@
 
 없음.
 
-#감정 #행동 #온라인
+#온라인
 
 [^1]: [학술] "anxiety or fear associated with the anticipated or actual use of the telephone" (전화를 쓸 것을 예상할 때나 실제로 쓸 때 따르는 불안이나 두려움) — Richard Guy Fielding, "Telephone apprehension: a study of individual differences in attitudes to, and usage of the telephone", 박사학위논문, Sheffield City Polytechnic, 1990-11, https://shura.shu.ac.uk/3120/, 2026-10-17 접속
 [^2]: [SNS] "전 어릴때부터 전화 노이로제가 있어서.. 40대인데 아직 전화가 무섭습니다. 요즘 배달앱 너무 사랑해요." — 클리앙 댓글, 2018-08-24, https://www.clien.net/service/board/park/12509490, 2026-10-17 접속

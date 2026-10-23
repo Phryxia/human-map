@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "he had allowed himself to be persuaded to put his name upon it;—not because he was willing in this way to assist his friend, but because he was unable to refuse." (그는 설득에 넘어가 거기에 이름을 적었다. 그런 식으로 친구를 돕고 싶어서가 아니라 거절할 수 없어서였다.) — Anthony Trollope, Framley Parsonage, Chapter XLII, Project Gutenberg, 1861, https://www.gutenberg.org/cache/epub/2860/pg2860-images.html, 2026-10-19 접속
 [^2]: [문학] "Natásha did not want to go, but could not refuse Márya Dmítrievna’s kind offer which was intended expressly for her." (나타샤는 가고 싶지 않았지만 오로지 자기를 위해 마련한 마리야 드미트리예브나의 친절한 제안을 거절할 수 없었다.) — Leo Tolstoy, War and Peace, Book Eight, Chapter VIII, Louise and Aylmer Maude 옮김, Project Gutenberg, 1869, https://www.gutenberg.org/cache/epub/2600/pg2600-images.html, 2026-10-19 접속

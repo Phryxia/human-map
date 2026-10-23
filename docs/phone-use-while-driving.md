@@ -42,7 +42,7 @@
 
 없음.
 
-#행동 #온라인
+#공공 #온라인
 
 [^1]: [공공] "31.2% (CI = 29.0%–33.5%) of U.S. drivers aged 18–64 years reported that they had read or sent text or e-mail messages while driving at least once in the past 30 days" (18~64세 미국 운전자의 31.2%(신뢰구간 29.0~33.5%)가 지난 30일 동안 운전 중 문자나 이메일 메시지를 한 번 이상 읽거나 보냈다고 보고했다) — Centers for Disease Control and Prevention, "Mobile Device Use While Driving — United States and Seven European Countries, 2011", MMWR, 2013-03-15, https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6210a1.htm, 2026-10-18 접속
 [^2]: [매체] "98 percent of motorists who own cellphones and text regularly said they were aware of the dangers, yet three-quarters of them admitted to texting while driving" (휴대전화를 갖고 자주 문자를 보내는 운전자의 98%가 위험을 안다고 했지만 그 가운데 4분의 3은 운전 중 문자를 보냈다고 인정했다) — NBC News, "People Text and Drive, Despite Knowing the Dangers, Survey Shows", 2014-11-05, https://www.nbcnews.com/business/autos/people-text-drive-despite-knowing-dangers-survey-shows-n241831, 2026-10-18 접속

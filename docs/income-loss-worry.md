@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #사고 #돈
+#돈
 
 [^1]: [학술] "Workers most commonly cited the following four reasons for their decision to work while ill: the restaurant did not have paid sick leave or a sick leave policy (43%)" (근로자들이 아픈 상태로 일하기로 한 이유로 가장 많이 든 네 가지는 다음과 같다: 식당에 유급 병가나 병가 제도가 없었다(43%)) — Laurie R. Carpenter 외, 「Food Worker Experiences with and Beliefs about Working While Ill」, Journal of Food Protection 76(12), 2013-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC5578438/, 2026-10-18 접속
 [^2]: [학술] "Attending work when sick for fear of losing the job is common among workers." (일자리를 잃을까 두려워 아픈 채 출근하는 것은 근로자들 사이에 흔하다.) — Beatriz Machado de Campos Corrêa Silva, Aline Bedin Zanatta, Sérgio Roberto de Lucca, 「Prevalence of presenteeism among workers of an industrial company」, Revista Brasileira de Medicina do Trabalho 15(3), 2017-09-01, https://pmc.ncbi.nlm.nih.gov/articles/PMC7104844/, 2026-10-18 접속

@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #관계 #시간
+#시간 #관계 #온라인
 
 [^1]: [문학] "He sent the saddle without an answer, and with a sense of having done something shameful;" (그는 답장 없이 안장을 보냈고 부끄러운 일을 했다는 느낌이 들었다.) — Leo Tolstoy, Anna Karenina, Part Three, Chapter 24, Constance Garnett 옮김, Project Gutenberg, 1878, https://www.gutenberg.org/cache/epub/1399/pg1399-images.html, 2026-10-19 접속
 [^2]: [학술] "Unreturned calls or SMS messages could lead to feelings of guilt." (답하지 않은 전화나 문자 메시지는 죄책감으로 이어질 수 있었다.) — Sara Thomée, Lotta Dellve, Annika Härenstam, Mats Hagberg, "Perceived connections between information and communication technology use and mental symptoms among young adults - a qualitative study", BMC Public Health 10:66, 2010-02-12, https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-10-66, 2026-10-19 접속

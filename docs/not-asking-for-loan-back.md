@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #돈
+#돈
 
 [^1]: [문학] "Neither a borrower nor a lender be: For loan oft loses both itself and friend;" (빌리지도 빌려주지도 마라. 빌려준 돈은 흔히 돈도 친구도 함께 잃게 한다.) — William Shakespeare, The Tragedy of Hamlet, Prince of Denmark, 1603, https://www.gutenberg.org/cache/epub/1524/pg1524.txt, 2026-10-18 접속
 [^2]: [매체] "Nearly half of Americans (46%) said they do not remind friends to pay them back" (미국인의 절반 가까이(46%)가 친구에게 돈을 갚으라고 상기시키지 않는다고 답했다) — Judith Ohikuare, "Money And Friendship Are An Agonizing Mix For Americans", Refinery29, 2017-10-13, https://www.refinery29.com/bank-of-america-study-friendship-money, 2026-10-18 접속

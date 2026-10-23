@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #사고 #관계
+#관계 #마음
 
 [^1]: [문학] "어머니께서는 나 때문에 돌아가셨습니다." — 최서해, 「전아사」, 동광 9호, 위키문헌, 1927-01, https://ko.wikisource.org/wiki/%EC%A0%84%EC%95%84%EC%82%AC, 2026-10-18 접속
 [^2]: [학술] "People often wish that they could have done things differently following the death of a loved one; this can make them feel guilty." (사람들은 사랑하는 이가 죽은 뒤 일을 다르게 할 수 있었기를 바라는 일이 잦고 이것이 죄책감을 느끼게 할 수 있다.) — Margaret Stroebe, Wolfgang Stroebe, Rens van de Schoot, Henk Schut, Georgios Abakoumkin, Jie Li, "Guilt in Bereavement: The Role of Self-Blame and Regret in Coping with Loss", PLoS ONE 9(5), 2014-05-12, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096606, 2026-10-18 접속

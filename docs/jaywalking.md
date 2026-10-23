@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #시간
+#시간 #공공
 
 [^1]: [학술] "apart from gender, the tendency to cross on red was greater when there were fewer people waiting at the curb" (성별 외에도 연석에서 기다리는 사람이 적을 때 빨간불에 건너는 경향이 더 컸다) — Tova Rosenbloom, "Crossing at a red light: Behaviour of individuals and groups", Transportation Research Part F: Traffic Psychology and Behaviour 12(5), 2009-09, https://trid.trb.org/View/902986, 2026-10-18 접속
 [^2]: [공공] "익명의 한 50대 시민은 “바쁜데 신호 간격이 너무 길어 정류장에 도착한 버스를 놓치지 않기 위해 위험함에도 불구하고 무단횡단을 한 경험이 있다.”고 말했다." — 대한민국 정책브리핑, 「달콤하지만 위험한 전용차로 무단횡단의 유혹」, 2013-03-19, https://www.korea.kr/news/policyNewsView.do?newsId=148757052, 2026-10-18 접속

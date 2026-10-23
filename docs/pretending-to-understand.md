@@ -39,7 +39,7 @@
 
 없음.
 
-#행동 #사고 #집단
+#관계
 
 [^1]: [문학] "“Oh, yes,” said Pétya, nodding at the first words Denísov uttered as if he understood it all, though he really did not understand anything of it." ("아, 그럼요." 페탸는 데니소프가 첫마디를 꺼내자마자 다 알아들은 듯 고개를 끄덕이며 말했지만 사실은 하나도 알아듣지 못했다.) — Leo Tolstoy, 「War and Peace」, Louise and Aylmer Maude 옮김, 1869, https://www.gutenberg.org/cache/epub/2600/pg2600-images.html, 2026-10-22 접속
 [^2]: [문학] "말 통하고 못하는 게 딱했으나 서로 그래도 알아듣는 체 고개들을 끄덕이고 웃고 하는 모양이 미소를 자아내인다." — 정인택, 「여수」, 1941, https://ko.wikisource.org/wiki/여수_(정인택), 2026-10-22 접속

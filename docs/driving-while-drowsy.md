@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#공공
 
 [^1]: [매체] "drowsy driving is most prevalent among males (59% males vs 47% females), and especially young males ages 18-29" (졸음운전은 남성에게 가장 많고(남성 59%, 여성 47%) 특히 18~29세 젊은 남성에게 많다) — Sleep Review, "Don't Sleep and Drive", 2002-01-01, https://sleepreviewmag.com/practice-management/laws-regulations/commercial-transportation/dont-sleep-and-drive/, 2026-10-19 접속
 [^2]: [공공] "4.2% reported having fallen asleep while driving at least one time during the previous 30 days." (4.2%가 지난 30일 동안 적어도 한 번 운전 중에 잠든 적이 있다고 답했다.) — Centers for Disease Control and Prevention, "Drowsy Driving — 19 States and the District of Columbia, 2009–2010", MMWR 61(51), 2013-01-04, https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6151a1.htm, 2026-10-19 접속

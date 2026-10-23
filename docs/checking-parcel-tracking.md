@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정 #온라인
+#온라인
 
 [^1]: [SNS] "I had the ring shipped to my office address, and spent much of its arrival date refreshing the tracking page." (나는 반지를 회사 주소로 배송시켰고 도착 예정일의 많은 시간을 배송 조회 페이지를 새로 고치며 보냈다.) — Hacker News, 댓글, 2012-12-27, https://news.ycombinator.com/item?id=4971791, 2026-10-19 접속
 [^2]: [매체] "Our latest BOXpoll findings reveal that 43% of shoppers are tracking deliveries more often now than before the pandemic." (최근 BOXpoll 조사에서 쇼핑객의 43%가 팬데믹 이전보다 지금 배송을 더 자주 추적하는 것으로 나타났다.) — Pitney Bowes, "It's always been a hassle, but now…", BOXpoll 블로그, 2020-11-15, https://www.pitneybowes.com/us/blog/boxpoll/annoying-tracking.html, 2026-10-19 접속

@@ -42,7 +42,7 @@
 
 없음.
 
-#감정 #행동
+#관계
 
 [^1]: [매체] "There’s a palpable relief that comes from canceling plans you’re no longer in the mood for." (더는 내키지 않는 약속을 취소할 때 오는 뚜렷한 안도가 있다.) — Gina Tomaine, Vice, 2020-09-22, https://www.vice.com/en/article/why-do-i-always-cancel-plans-with-friends, 2026-10-15 접속
 [^2]: [학술] "Individuals with SAD believe that safety behaviors are necessary because they momentarily increase their sense of security" — Kim, D., Kang, H.-Y., Ahn, J.-K., "The relationship between three subtypes of safety behaviors and social anxiety: Serial mediating effects of state and trait post-event processing", Frontiers in Psychology 13, 2022-11-02, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987426/full, 2026-10-15 접속

@@ -32,7 +32,7 @@
 
 없음.
 
-#행동 #감정 #온라인
+#온라인
 
 [^1]: [매체] "Among teen social media users, nearly six in ten teens (59%) have deleted or edited something that they posted to their profile in the past." (소셜 미디어를 쓰는 10대 가운데 열에 여섯 가까이(59%)가 자기 프로필에 올린 것을 지우거나 고친 적이 있다.) — Pew Research Center, "Teens, Social Media, and Privacy, Part 3: Reputation management on social media", 2013-05-21, https://www.pewresearch.org/internet/2013/05/21/part-3-reputation-management-on-social-media/, 2026-10-19 접속
 [^2]: [매체] "Teens initially post a lot of photos but delete photos quickly if they do not receive a lot of likes." (10대는 처음에 사진을 많이 올리지만 좋아요를 많이 받지 못하면 사진을 금방 지운다.) — Stephanie Koons, "Penn State researchers study nuances of social media 'likes'", Penn State News, 2016-06-23, https://www.psu.edu/news/research/story/penn-state-researchers-study-nuances-social-media-likes, 2026-10-19 접속

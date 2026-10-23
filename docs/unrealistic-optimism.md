@@ -41,7 +41,7 @@
 
 없음.
 
-#사고
+#마음
 
 [^1]: [학술] "They showed a significant optimistic bias for 34 of these hazards, consistently considering their own chances to be below average." (이들은 이 위험들 가운데 34가지에서 유의한 낙관 편향을 보였고 자기 가능성을 일관되게 평균보다 낮게 여겼다.) — Neil D. Weinstein, "Unrealistic optimism about susceptibility to health problems", Journal of Behavioral Medicine 5, 1982-12, https://link.springer.com/article/10.1007/BF00845372, 2026-10-20 접속
 [^2]: [학술] "It was found that an optimistic bias is often introduced when people extrapolate from their past experience to estimate their future vulnerability." (사람들이 과거 경험에서 미래의 취약성을 미루어 어림할 때 낙관 편향이 자주 생긴다는 것이 발견되었다.) — Neil D. Weinstein, "Unrealistic optimism about susceptibility to health problems: Conclusions from a community-wide sample", Journal of Behavioral Medicine 10, 1987-10, https://link.springer.com/article/10.1007/BF00846146, 2026-10-20 접속

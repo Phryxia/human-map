@@ -45,7 +45,7 @@
 
 없음.
 
-#감정 #혼자
+#마음
 
 [^1]: [문학] "허 생원은 계집과는 연분이 멀었다. 얽둑배기 상판을 대어설 숫기도 없었으나 계집 편에서 정을 보낸 적도 없었고, 쓸쓸하고 뒤틀린 반생이었다." — 이효석, 「메밀꽃 필 무렵」, 1936, https://ko.wikisource.org/wiki/메밀꽃_필_무렵, 2026-10-17 접속
 [^2]: [학술] "Perceptions of social isolation, or loneliness, increase vigilance for threat and heighten feelings of vulnerability while also raising the desire to reconnect." (사회적 고립의 지각, 곧 외로움은 위협에 대한 경계를 늘리고 취약하다는 느낌을 키우는 한편 다시 관계를 맺고 싶은 욕구도 높인다.) — Louise C. Hawkley, John T. Cacioppo, "Loneliness Matters: A Theoretical and Empirical Review of Consequences and Mechanisms", Annals of Behavioral Medicine, 2010-10, https://link.springer.com/article/10.1007/s12160-010-9210-8, 2026-10-17 접속

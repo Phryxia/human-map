@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정
+#공공
 
 [^1]: [매체] "a quarter of Brits (25%) not wanting to talk to their hairdresser or barber. By contrast, two thirds (68%) do prefer to chat while being crimped," (영국인의 4분의 1(25%)은 미용사나 이발사와 이야기하고 싶어 하지 않는다. 반면 3분의 2(68%)는 머리를 하는 동안 대화하는 쪽을 택한다) — YouGov, "It's good to talk? Not if you're young or on public transport", 2017-12-12, https://yougov.com/en-gb/articles/19784-its-good-talk-one-four-brits-would-prefer-not-talk, 2026-10-19 접속
 [^2]: [매체] "내게 필요했던 건 딱 한 가지였다. 말을 걸지 않을 거라는 마음의 안정. 상대가 거는 말에 대답을 해야 하는 의무감은 애초에 없을 거라는 것, 그런 불필요한 감정소모가 없을 거라는 것." — 김신혜, 「온전히 감성 변태가 될 수 있는 시간, 타다(TADA)」, 디지털 인사이트, 2018-11-28, https://ditoday.com/?p=14673, 2026-10-19 접속

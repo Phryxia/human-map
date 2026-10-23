@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #돈 #관계
+#돈 #관계
 
 [^1]: [학술] "Poverty research has demonstrated that financial constraints and the social withdrawal that result from feelings of shame cause lower participation rates." (빈곤 연구는 경제적 제약과 수치심에서 비롯된 사회적 물러남이 더 낮은 참여율을 낳는다는 것을 보여 주었다.) — Andreas Damelang, Georgi Kloß, 「Poverty and the social participation of young people: an analysis of poverty-related withdrawal mechanisms」, Journal for Labour Market Research 46(4), 2013, https://ideas.repec.org/a/iab/iabjlr/v46i4p321-333.html, 2026-10-18 접속
 [^2]: [매체] "But problems arise because poor children often exclude themselves socially to conceal their situation." (가난한 아이들은 자기 처지를 숨기려고 스스로 친구 관계에서 빠지는 일이 잦아 문제가 생긴다.) — Britt Embry, "Poor kids help at home but hide at school", ScienceNordic, 2013-04-19, https://sciencenordic.com/poor-kids-help-home-hide-school, 2026-10-18 접속

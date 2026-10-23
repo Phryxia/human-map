@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #시간 #혼자
+#시간 #마음
 
 [^1]: [학술] "Bedtime procrastination is defined as failing to go to bed at the intended time, while no external circumstances prevent a person from doing so." (잠자리 미루기는 외부 사정이 막지 않는데도 의도한 시각에 잠자리에 들지 못하는 것으로 정의된다.) — Floor Kroese, Denise De Ridder, Catharine Evers, Marieke Adriaanse, "Bedtime procrastination: introducing a new area of procrastination", Frontiers in Psychology 5, 2014-06-19, https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00611/full, 2026-10-19 접속
 [^2]: [학술] "This finding contradicts the prevailing idea that bedtime procrastination is the result of a lack of self-regulatory resources." (이 결과는 잠자리 미루기가 자기조절 자원 부족의 결과라는 지배적인 생각과 어긋난다.) — Jana Kühnel, Christine J. Syrek, Anne Dreher, "Why Don't You Go to Bed on Time? A Daily Diary Study on the Relationships between Chronotype, Self-Control Resources and the Phenomenon of Bedtime Procrastination", Frontiers in Psychology 9, 2018-02-02, https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00077/full, 2026-10-19 접속

@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #혼자
+#마음
 
 [^1]: [문학] "I simply burned with shame the other side of the door, hiding my face in the pillows and did not open, did not even respond." (나는 문 반대편에서 부끄러움에 그저 달아올라 베개에 얼굴을 묻고 문을 열지 않았고 대답조차 하지 않았다.) — Fyodor Dostoevsky, "A Little Hero", White Nights, and Other Stories, Constance Garnett 역, Project Gutenberg, 1857, https://www.gutenberg.org/cache/epub/36034/pg36034-images.html, 2026-10-21 접속
 [^2]: [문학] "Then, jumping up, apparently from his bed, he strode to the door and shouted at the top of his voice: “Shatov is not at home!”" (그러자 그는 침대에서 뛰어 일어난 듯 문으로 성큼 걸어가 목청껏 외쳤다. '샤토프는 집에 없소!') — Fyodor Dostoevsky, "The Possessed", Constance Garnett 역, Project Gutenberg, 1872, https://www.gutenberg.org/cache/epub/8117/pg8117-images.html, 2026-10-21 접속

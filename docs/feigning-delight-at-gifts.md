@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "Of course I wrote and told my aunt that they were the one thing that had been wanting to make existence blossom like a rose;" (물론 나는 숙모에게 그 장갑이야말로 삶을 장미처럼 피어나게 하는 데 모자랐던 단 하나였다고 편지에 썼다) — Saki, Reginald, Methuen & Co., 1904, https://www.gutenberg.org/cache/epub/2830/pg2830-images.html, 2026-10-18 접속
 [^2]: [문학] "Everybody must act a general glee which can be felt only specifically, if at all." (모두가 두루뭉술한 기쁨을 연기해야 한다. 그 기쁨은 느낀다 해도 특정한 것에 대해서만 느낄 수 있다.) — Rupert Hughes, Mrs. Budlong's Christmas Presents, 1912, https://www.gutenberg.org/cache/epub/12881/pg12881-images.html, 2026-10-18 접속

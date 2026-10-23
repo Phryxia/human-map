@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #사고 #집단
+#공공
 
 [^1]: [학술] "Respondents most inclined to overreport their voting are those who are highly educated, those most supportive of the regime norm of voting, and those to whom the norm of voting is most salient" (투표를 과대보고하는 경향이 가장 강한 응답자는 고학력자, 투표라는 체제 규범을 가장 지지하는 사람, 투표 규범이 가장 두드러지는 사람이다) — Brian D. Silver, Barbara A. Anderson, Paul R. Abramson, "Who Overreports Voting?", American Political Science Review 80(2), 1986-06, https://www.cambridge.org/core/journals/american-political-science-review/article/who-overreports-voting/150512926F95A11268E31347A8D50248, 2026-10-18 접속
 [^2]: [공공] "102.2 million persons reported voting in the 1988 elections, some 10.6 million more than actually voted, as recorded by the Clerk of the House, U.S.Congress." (1988년 선거에서 1억 220만 명이 투표했다고 응답했는데, 이는 미국 하원 사무처가 기록한 실제 투표자보다 약 1060만 명 많다.) — U.S. Census Bureau, "Voting and Registration in the Election of November 1988", Current Population Reports P20-440, 1989-10, https://www.census.gov/library/publications/1989/demo/p20-440.html, 2026-10-18 접속

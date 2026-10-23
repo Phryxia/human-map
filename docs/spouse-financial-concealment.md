@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [매체] "최근 주부커뮤니티사이트 '미즈'의 설문조사 결과에 따르면 응답자 1천126명 중 53%가 '가족 몰래 모아둔 비상금이 있다'고 응답했다." — 한윤조, "[한윤조의 수다수다] 비상금, 필요해요?", 매일신문, 2007-11-15, https://www.imaeil.com/page/view/2007111517391962006, 2026-10-18 접속
 [^2]: [학술] "Romantic relationships are built on trust, but partners are not always honest about their financial behavior—they may hide spending, debt, and savings from one another." (연인 관계는 신뢰 위에 서 있지만 상대가 재정 행동에 늘 정직하지는 않다. 지출, 부채, 저축을 서로에게 숨길 수 있다.) — Emily Garbinsky, Joe Gladstone, Hristina Nikolova, Jenny Gin Olson, "Love, Lies, and Money: Financial Infidelity in Romantic Relationships", Journal of Consumer Research, 2019-10-31, https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84, 2026-10-16 접속 (소멸, 2026-10-18 까지 확인)

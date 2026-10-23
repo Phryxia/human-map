@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정
+#시간
 
 [^1]: [학술] "On the CD factor, restrained eaters who received a preload reported eating significantly more calories than nondieters at lunch." (다이어트 관심 요인으로 나눴을 때 사전 섭취를 받은 절제형 섭식자는 다이어트를 하지 않는 사람보다 점심에 칼로리를 유의하게 더 많이 먹었다고 보고했다.) — Jill M. Weber, Robert C. Klesges, Lisa M. Klesges, "Dietary restraint and obesity: Their effects on dietary intake", Journal of Behavioral Medicine 11, 1988-04, https://link.springer.com/article/10.1007/BF00848265, 2026-10-21 접속
 [^2]: [학술] "These disruptions of dietary restraint lead restrained eaters to abandon their diet goals for at least the short term, and instead to indulge in the foods they have been denying themselves." (식이 절제가 이렇게 흐트러지면 절제하던 사람들은 적어도 잠시 다이어트 목표를 버리고 그동안 스스로 금했던 음식을 실컷 먹는다.) — Janet Polivy, C. Peter Herman, "Overeating in Restrained and Unrestrained Eaters", Frontiers in Nutrition, 2020-03-19, https://pmc.ncbi.nlm.nih.gov/articles/PMC7096476/, 2026-10-21 접속

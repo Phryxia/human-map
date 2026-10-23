@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [매체] "어느 손님은 죽을 수북히 담아 세 그릇 먹고 또 한 그릇에 가득 담아 한 두 숟갈 먹고 그대로 버린다는 것이다." — 이영관, "뷔페 식당에서 제일 미운 손님은?", 한국교육신문, 2011-11-17, https://hangyo.com/news/article.html?no=64200, 2026-10-21 접속
 [^2]: [매체] "At the same time, guests pile their plates high to avoid going back for seconds, and to ensure that they get enough of the dishes they want." (동시에 손님들은 다시 가지러 가지 않으려고, 그리고 원하는 음식을 충분히 얻으려고 접시에 음식을 높이 쌓는다.) — Linda Himelstein, "Hotel buffets, a culprit of food waste, get downsized", Gulf News, 2017-09-17, https://gulfnews.com/amp/story/world%2Famericas%2Fhotel-buffets-a-culprit-of-food-waste-get-downsized-1.2091419, 2026-10-21 접속

@@ -42,7 +42,7 @@
 
 없음.
 
-#행동 #사고 #돈
+#돈 #관계
 
 [^1]: [문학] "sooner than fall into the hands of those Cruel Jacks we read of that dodge and drive, and worry and weary, and scorn and shame, the decent poor." (우리가 읽는 그 잔인한 자들, 점잖은 가난한 사람들을 이리저리 몰고 들볶고 지치게 하고 업신여기고 망신 주는 자들의 손에 떨어지느니) — Charles Dickens, 「Our Mutual Friend」 1권 16장, 1864, https://www.gutenberg.org/cache/epub/883/pg883-images.html, 2026-10-19 접속
 [^2]: [학술] "Second, although it may be impossible to devise a definitive test of the “stigma hypothesis”, other, more concrete types of transactions costs are probably a good deal more important." (둘째, '낙인 가설'을 확정적으로 시험할 방법을 고안하기는 불가능할지 모르나 더 구체적인 다른 종류의 거래 비용이 아마 훨씬 더 중요할 것이다.) — Janet Currie, 「The Take-Up of Social Benefits」, IZA Discussion Paper 1103, 2004, https://ideas.repec.org/p/iza/izadps/dp1103.html, 2026-10-18 접속

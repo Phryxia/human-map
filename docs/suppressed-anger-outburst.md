@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #행동 #관계
+#관계
 
 [^1]: [학술] "This leads to occasional anger outbursts and displacement and eventually to increased vulnerability for depression as the relationship further deteriorates." (이것은 이따금의 분노 폭발과 전위로 이어지고 관계가 더 나빠지면서 결국 우울에 더 취약해지게 한다.) — J. Brooke Carfagnini, 「Self-silencing, depressed mood, and anger expression and the meanings behind self-silencing within intimate relationships」, Lakehead University 석사학위논문, 2005, https://knowledgecommons.lakeheadu.ca/handle/2453/2830, 2026-10-18 접속
 [^2]: [학술] "whereas suppression led to an increase in females’ self reports of anger and related affective states, substitution led to an increase in males’ ratings of anger and related affective states." (억제는 여성의 분노와 관련 정서 자기보고를 높인 반면 대체는 남성의 분노와 관련 정서 평정을 높였다.) — J. A. Hosie, A. B. Milne, L. McArthur, 「The after-effects of regulating anger and anger-related emotions on self-report ratings and behavior: divergent consequences for men and women」, Psychologia 48(4), 2005, https://www.jstage.jst.go.jp/article/psysoc/48/4/48_4_288/_article, 2026-10-18 접속

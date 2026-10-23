@@ -42,7 +42,7 @@
 
 없음.
 
-#감정 #사고 #관계
+#관계
 
 [^1]: [매체] "노인 상담소에는 매일 30여명의 노인들이 우울증을 하소연한다.‘자식들에게 짐이 되는 것 같아 부담스럽다’‘왜 사는지 모르겠다’는 등의 내용이다." — 김상연, 「자녀 실직·생활고 겹쳐…/노인들이 내몰린다」, 서울신문, 1998-07-29, https://www.seoul.co.kr/news/1998/07/29/19980729018001, 2026-10-18 접속
 [^2]: [학술] "Ten of the 23 older respondents (43%) thought their children were busy with their own lives and should not be burdened with their parents’ health problems." (노인 응답자 23명 가운데 10명(43%)은 자녀가 자기 삶으로 바쁘고 부모의 건강 문제로 짐을 져서는 안 된다고 생각했다.) — Eileen Cahill, Lisa M Lewis, Frances K Barg, Hillary R Bogner, "You Don't Want to Burden Them: Older Adults’ Views on Family Involvement in Care", Journal of Family Nursing 15(3), 2009-05-27, https://pmc.ncbi.nlm.nih.gov/articles/PMC2825742/, 2026-10-17 접속

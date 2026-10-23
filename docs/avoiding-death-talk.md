@@ -32,7 +32,7 @@
 
 없음.
 
-#사고 #행동 #관계
+#관계 #마음
 
 [^1]: [매체] "In my experience, a major driving factor which deters many people from preparing a Will is that they don’t want to face their own mortality." (내 경험으로는 많은 사람이 유언장을 쓰지 못하게 하는 주된 요인은 자기 죽음을 마주하고 싶지 않다는 것이다.) — Campolo, Middleton & McCormick, LLP, "Everyone Needs a Will, But No One Wants to Do It", 2014-04-27, https://cmmllp.com/?p=990, 2026-10-22 접속
 [^2]: [학술] "End-of-life (EOL) communication is often avoided, especially among young adults. Negative expectations concerning EOL conversations with relatives or significant others are one major reason." (생애 말기 대화는 자주 회피되며 젊은 성인에게서 특히 그렇다. 친척이나 가까운 사람과 나눌 생애 말기 대화에 대한 부정적 예상이 주된 이유의 하나다.) — Y. Bendel, C. Gesualdo, M. Pinquart, P. von Blanckenburg, "Better than expected? Predictors of coping with expectation violations in the communication about death and dying", Frontiers in Psychology 14, 2023-10-30, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1256202/full, 2026-10-22 접속

@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #시간
+#일 #시간
 
 [^1]: [매체] "일요일 저녁이면 괜히 우울해지느냐는 질문에 '매우 그렇다'는 대답이 18.3%, '다소 그렇다'는 응답이 38.6%를 차지했다." — 세계일보, 「휴일에 남성들은 잠을, 여성들은 친구를 만난다」, 2011-03-02, https://www.segye.com/newsView/20110302000318, 2026-10-18 접속
 [^2]: [매체] "According to LinkedIn’s survey, Sunday Scaries are defined as the "stress and anxiousness" a person feels on Sunday nights before they have to return to work on Monday." (링크드인 설문에 따르면 선데이 스케어리는 월요일에 일터로 돌아가기 전 일요일 밤에 느끼는 "스트레스와 불안"으로 정의된다.) — Cortney Moore, "'Sunday Scaries' felt by more than half of American workers: Survey", FOX 5 New York, 2021-08-19, https://www.fox5ny.com/news/sunday-scaries-felt-by-more-than-half-of-american-professionals-survey, 2026-10-18 접속

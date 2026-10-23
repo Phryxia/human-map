@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #온라인 #시간
+#시간 #온라인
 
 [^1]: [학술] "We found that checking habits occasionally spur users to do other things with the device and may increase usage overall." (확인 습관이 때때로 이용자를 기기로 다른 일을 하게 이끌고 전체 사용량을 늘릴 수 있다는 것을 발견했다.) — Antti Oulasvirta, Tye Rattenbury, Lingyi Ma, Eeva Raita, "Habits make smartphone use more pervasive", Personal and Ubiquitous Computing, 2012-01, https://link.springer.com/article/10.1007/s00779-011-0412-2, 2026-10-17 접속
 [^2]: [학술] "Thus, FOMO can drive excessive checking for and responding to SNS notifications, making it difficult to remain productive in daily life." (그러므로 FOMO 는 SNS 알림을 지나치게 확인하고 응답하도록 몰아 일상에서 생산성을 유지하기 어렵게 만들 수 있다.) — Jon D. Elhai, Haibo Yang, Christian Montag, "Fear of missing out (FOMO): overview, theoretical underpinnings, and literature review on relations with severity of negative affectivity and problematic technology use", Brazilian Journal of Psychiatry 43(2), 2020-05-11, https://www.scielo.br/j/rbp/a/tPdLwLwPBSBssVP5DcC779S/?lang=en, 2026-10-22 접속

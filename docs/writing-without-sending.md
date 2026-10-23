@@ -39,7 +39,7 @@
 
 없음.
 
-#행동 #온라인
+#온라인
 
 [^1]: [학술] "However, sometimes instead of targeting a particular audience, users will self-censor, or choose not to share." (그러나 때로 사용자는 특정 청중을 겨냥하는 대신 스스로 검열하거나 공유하지 않기로 한다.) — Manya Sleeper, Rebecca Balebako, Sauvik Das, Amber Lynn McConahy, Jason Wiese, Lorrie Faith Cranor, "The post that wasn't: exploring self-censorship on facebook", CSCW 2013, SciSpace, 2013-02, https://scispace.com/papers/the-post-that-wasn-t-exploring-self-censorship-on-facebook-3ij090pne7, 2026-10-18 접속
 [^2]: [매체] "Around 33 percent of all Facebook posts in a recent study were deleted before ever being published." (최근 한 연구에서 전체 페이스북 게시물의 약 33%가 게시되기 전에 지워졌다.) — Keith Wagstaff, "Think before you post? 5 reasons people self-censor on Facebook", NBC News, 2013-12-17, https://www.nbcnews.com/technolog/think-you-post-5-reasons-people-self-censor-facebook-2D11759816, 2026-10-18 접속

@@ -44,7 +44,7 @@
 
 없음.
 
-#행동 #감정
+#건강
 
 [^1]: [문학] "Le mie giornate finirono coll’essere piene di sigarette e di propositi di non fumare piú e, per dire subito tutto, di tempo in tempo sono ancora tali." (내 나날은 결국 담배와 다시는 피우지 않겠다는 결심으로 가득 차게 되었고, 다 털어놓자면 지금도 때때로 그렇다.) — Italo Svevo, "La coscienza di Zeno", Il fumo, 1923, https://it.wikisource.org/wiki/La_coscienza_di_Zeno/Il_fumo, 2026-10-21 접속
 [^2]: [학술] "Smoking relapse rates remain disturbingly high, with approximately 50% of smokers relapsing within 3 days and 75% within the first 2 weeks" (흡연 재발률은 여전히 우려스러울 만큼 높아서 흡연자의 약 50%가 3일 안에, 75%가 처음 2주 안에 재발한다) — Mustafa al'Absi, Shelley B. Carr, Stephan Bongard, "Anger and Psychobiological Changes During Smoking Abstinence and in Response to Acute Stress: Prediction of Smoking Relapse", International Journal of Psychophysiology, 2007-05-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC2443944/, 2026-10-21 접속

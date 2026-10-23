@@ -40,7 +40,7 @@ Merriam-Webster 사전은 French leave 의 어원을 손님이 주인에게 인�
 
 없음.
 
-#행동 #관계
+#관계
 
 [^1]: [매체] "from an 18th century French custom of leaving a reception without taking leave of the host or hostess" (손님이 주인 내외에게 작별을 고하지 않고 연회를 떠나던 18세기 프랑스 관습에서) — Merriam-Webster, "French leave" 항목, 발행일 미상, https://www.merriam-webster.com/dictionary/French%20leave, 2026-10-20 접속
 [^2]: [문학] "And he is really gone—without saying good-by to any of us" (그 사람 정말 가 버렸네, 우리 누구한테도 작별 인사도 없이) — M. E. Braddon, Mount Royal, 3권, Project Gutenberg, 1882, https://www.gutenberg.org/cache/epub/41341/pg41341-images.html, 2026-10-20 접속

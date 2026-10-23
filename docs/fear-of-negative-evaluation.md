@@ -42,7 +42,7 @@
 
 없음.
 
-#감정 #사고 #집단
+#관계
 
 [^1]: [학술] "is the measure most commonly used to determine the degree to which people experience apprehension at the prospect of being negatively evaluated" (사람이 부정적으로 평가받을 가능성 앞에서 걱정을 느끼는 정도를 정하는 데 가장 흔히 쓰이는 척도다) — C. Musa, N. Kostogianni, J. P. Lépine, "The Fear of Negative Evaluation scale (FNE): psychometric properties of the French version", L'Encéphale 30(6), 2004-11, https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15738853&resultType=core&format=json, 2026-10-18 접속
 [^2]: [학술] "Fear of negative evaluation is a common concern among individuals with visible differences" (부정적 평가에 대한 두려움은 눈에 보이는 차이가 있는 사람들 사이에서 흔한 걱정이다) — R. S. Fox, L. Kwakkenbos, M. E. Carrier 외, "Reliability and Validity of Three Versions of the Brief Fear of Negative Evaluation Scale in Patients With Systemic Sclerosis", Arthritis Care & Research 70(11), 2018-11, https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29409146&resultType=core&format=json, 2026-10-18 접속

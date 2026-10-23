@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #사고 #혼자 #시간
+#시간 #마음
 
 [^1]: [문학] "Or I would strike a match to look at my watch. Nearly midnight." (아니면 성냥을 그어 시계를 보곤 했다. 자정 가까이.) — Marcel Proust, C. K. Scott Moncrieff 옮김, Swann's Way, Project Gutenberg, 1913, https://www.gutenberg.org/cache/epub/7178/pg7178.txt, 2026-10-22 접속
 [^2]: [학술] "Compared to non-monitors, clock-monitors reported more pre-sleep worry and they experienced longer sleep onset latency (SOL). These findings held true for both good and poor sleepers." (시계를 지켜보지 않은 사람과 비교해 시계를 지켜본 사람은 잠들기 전 걱정을 더 많이 보고했고 잠들기까지 걸린 시간이 더 길었다. 이 결과는 잘 자는 사람과 잘 못 자는 사람 모두에게 해당했다.) — N. K. Y. Tang, D. A. Schmidt, A. G. Harvey, "Sleeping with the enemy: clock monitoring in the maintenance of insomnia", Journal of Behavior Therapy and Experimental Psychiatry 38(1), 2007, https://wrap.warwick.ac.uk/65972, 2026-10-22 접속

@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [문학] "그리하여 득춘 부부는 이러한 곤란을 어떻게 하면 피할 수 있을까 하여 여러 날을 두고 생각할 결과, 이 C촌을 슬그머니 도망하는 수밖에 없다고 마음에 작정하고 말았다." — 이익상, 「쫓기어 가는 이들」, 개벽, 1926-01, https://ko.wikisource.org/wiki/쫓기어_가는_이들, 2026-10-18 접속
 [^2]: [학술] "a furtive removal, as under cover of night, to avoid paying debts or to escape some unpleasant consequences." (빚을 갚지 않거나 불쾌한 결과를 피하려고 밤을 틈타 하듯 몰래 옮겨 가는 일.) — Scottish National Dictionary, "Flittin(g) n.", Dictionaries of the Scots Language, 1956, https://www.dsl.ac.uk/entry/snd/flitting, 2026-10-18 접속

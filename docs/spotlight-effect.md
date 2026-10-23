@@ -40,7 +40,7 @@
 
 없음.
 
-#사고 #감정
+#관계
 
 [^1]: [매체] "Though the student was convinced that the "embarrassing" clothing would be noticed by at least half the people, follow-up interviews found that less than 50% of the group recalled the shirt." (그 학생은 "민망한" 옷을 적어도 절반의 사람이 알아차릴 것이라 확신했지만 뒤이은 면담에서 그 셔츠를 기억한 사람은 50% 미만이었다.) — Megan Rooney, "In the Spotlight", Psychology Today, 1998-09-01, https://www.psychologytoday.com/us/articles/199809/in-the-spotlight, 2026-10-20 접속
 [^2]: [SNS] "Just one companion/compadre makes an almost binary difference in terms of feeling "like everyone is questioning why you are there by yourself"." (동행 한 명만 있어도 "모두가 왜 혼자 왔는지 궁금해하는 것 같은" 느낌에는 거의 있고 없고의 차이가 생긴다.) — Hacker News, 댓글, 2016-06-05, https://news.ycombinator.com/item?id=11842423, 2026-10-20 접속

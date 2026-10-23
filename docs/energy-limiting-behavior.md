@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [학술] "Sixty-three per cent of low-income households had cut their energy consumption in the previous winter and 47 per cent had experienced cold homes." (저소득 가구의 63%가 지난겨울 에너지 소비를 줄였고 47%가 추운 집을 겪었다.) — Will Anderson, Vicki White, Andrea Finney, "Coping with low incomes and cold homes", Energy Policy 49, 2012, https://ideas.repec.org/a/eee/enepol/v49y2012icp40-52.html, 2026-10-18 접속
 [^2]: [매체] "낮에 에어컨을 틀고 싶어도 혼자라서 아까워 못 튼다. 같이 있을 때 좀 틀자." — 조찬제, "에어컨 전기요금 폭탄의 '폭탄해법'", 주간경향, 2016-08-17, https://weekly.khan.co.kr/article/201608170957051, 2026-10-18 접속

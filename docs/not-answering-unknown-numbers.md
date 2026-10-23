@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정
+#온라인
 
 [^1]: [매체] "The majority of Americans (67%) say their general practice is to not answer the phone when an incoming call is from an unknown number but to check a voicemail if one is left." (미국인 다수(67%)는 모르는 번호로 걸려 온 전화는 받지 않고 음성 메시지가 남겨지면 확인하는 것이 평소 습관이라고 말한다.) — Colleen McClain, "Most Americans don't answer cellphone calls from unknown numbers", Pew Research Center, 2020-12-14, https://www.pewresearch.org/short-reads/2020/12/14/most-americans-dont-answer-cellphone-calls-from-unknown-numbers/, 2026-10-18 접속
 [^2]: [매체] "‘콜 포비아’ 대처 방법으로는 ‘모르는 번호의 전화는 받지 않기(39.2%)’가 가장 많이 꼽혔다." — 「“전화 대신 카톡 안 되나요”…MZ세대 10명 중 4명 ‘콜포비아’ 경험」, twig24, 2023-10-31, https://www.twig24.com/news/world/2023/10/31/20231031500122, 2026-10-18 접속

@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #시간
+#시간 #건강
 
 [^1]: [문학] "In the very heat of the day the mowing did not seem such hard work to him." (한낮의 더위 속에서도 풀베기가 그에게는 그리 힘든 일로 느껴지지 않았다.) — Leo Tolstoy, Anna Karenina, Constance Garnett 옮김, 1878, https://www.gutenberg.org/cache/epub/1399/pg1399-images.html, 2026-10-22 접속
 [^2]: [공공] "At approximately 2:45 p.m., the employer's son observed the man working slowly and reportedly instructed him to rest, but the man continued working." (오후 2시 45분쯤 고용주의 아들이 그 남성이 느리게 일하는 것을 보고 쉬라고 말했다고 하지만 그는 계속 일했다.) — Centers for Disease Control and Prevention, "Heat-Related Deaths Among Crop Workers — United States, 1992–2006", MMWR, 2008-06, https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5724a1.htm, 2026-10-22 접속

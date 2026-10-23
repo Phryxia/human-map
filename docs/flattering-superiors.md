@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #관계 #집단
+#일 #관계
 
 [^1]: [문학] "These are the kind of little things which please her Ladyship, and it is a sort of attention which I conceive myself peculiarly bound to pay." (이런 작은 것들이 영부인을 기쁘게 하고 이것은 제가 특별히 표해야 할 의무가 있다고 여기는 종류의 관심입니다.) — Jane Austen, Pride and Prejudice, Chapter XIV, 1813, https://www.gutenberg.org/cache/epub/1342/pg1342-images.html, 2026-10-20 접속
 [^2]: [문학] "Father got the monitor-medal by being umble. So did I. Father got made a sexton by being umble." (아버지는 굽실거려서 반장 메달을 받았어요. 저도 그랬고요. 아버지는 굽실거려서 교회지기가 됐어요.) — Charles Dickens, David Copperfield, Chapter XXXIX, 1850, https://www.gutenberg.org/cache/epub/766/pg766-images.html, 2026-10-20 접속

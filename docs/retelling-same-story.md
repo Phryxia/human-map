@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #관계
+#관계
 
 [^1]: [문학] "허 생원은 오늘 밤도 또 그 이야기를 끄집어내려는 것이다. 조 선달은 친구가 된 이래 귀에 못이 박히도록 들어왔다." — 이효석, "메밀꽃 필 무렵", 위키문헌, 1936, https://ko.wikisource.org/wiki/%EB%A9%94%EB%B0%80%EA%BD%83_%ED%95%84_%EB%AC%B4%EB%A0%B5, 2026-10-17 접속
 [^2]: [매체] "This over-confidence presumably causes older adults to repeat information to people." (이 지나친 확신 때문에 노인이 사람들에게 정보를 되풀이하는 것으로 추정된다.) — Live Science Staff, "Why Older People Repeat Stories", Live Science, 2010-08-31, https://www.livescience.com/8530-older-people-repeat-stories.html, 2026-10-17 접속

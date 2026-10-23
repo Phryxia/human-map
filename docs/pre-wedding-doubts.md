@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #사고 #관계
+#관계
 
 [^1]: [문학] "And suddenly a strange feeling came upon him. There came over him a dread and doubt—doubt of everything." (그때 갑자기 이상한 느낌이 그를 덮쳤다. 두려움과 의심, 모든 것에 대한 의심이 그에게 밀려왔다.) — Leo Tolstoy, Anna Karenina, Constance Garnett 옮김, 1878, https://www.gutenberg.org/cache/epub/1399/pg1399-images.html, 2026-10-21 접속
 [^2]: [문학] "But for some reason now when there was hardly a month left before the wedding, she began to feel dread and uneasiness as though something vague and oppressive were before her." (그런데 이제 결혼식까지 한 달도 채 남지 않자 그녀는 어째서인지 무언가 막연하고 답답한 것이 앞에 놓인 듯한 두려움과 불안을 느끼기 시작했다.) — Anton Chekhov, "Betrothed", Constance Garnett 옮김, The Schoolmaster and Other Stories, 1903, https://www.gutenberg.org/cache/epub/13412/pg13412-images.html, 2026-10-21 접속

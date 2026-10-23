@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #돈 #집단
+#돈
 
 [^1]: [매체] "When the check arrives, he either has to go to the ATM or has forgotten his wallet. Sometimes he even times it so he's in the restroom when the bill comes." (계산서가 오면 그는 ATM 에 가야 하거나 지갑을 잊고 왔다. 때로는 계산서가 올 때 화장실에 있도록 때를 맞추기까지 한다.) — Tara Solomon, 상담 칼럼, Honolulu Advertiser, 2005-11-25, https://archives-new.honoluluadvertiser.com/article/2005/Nov/25/il/FP511250304.html, 2026-10-18 접속
 [^2]: [SNS] "계산할때 신발끈 묶는 사람은 봤어도 지갑을 통째로 두고 오는 사람은 첨봤더며 원성을...ㅋㅋ" — 클리앙, 게시글, 2007-10-13, https://www.clien.net/service/board/image/260260, 2026-10-18 접속

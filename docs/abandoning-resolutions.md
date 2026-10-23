@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #시간
+#시간
 
 [^1]: [문학] "And here I drank wine upon necessity, being ill for want of it, and I find reason to fear that by my too sudden leaving off wine, I do contract many evils upon myself." (그리고 여기서 나는 술이 없어 몸이 좋지 않았기에 어쩔 수 없이 포도주를 마셨고, 너무 갑자기 술을 끊은 탓에 내가 스스로 여러 탈을 얻는 것이 아닌가 걱정할 까닭을 찾았다.) — Samuel Pepys, The Diary of Samuel Pepys, 1662-02-17, https://www.pepysdiary.com/diary/1662/02/17/, 2026-10-18 접속
 [^2]: [매체] "Thirty days from now, we shall have cast our reformation to the winds and gone to cutting our ancient short comings considerably shorter than ever." (지금부터 30일 뒤면 우리는 개심을 바람에 날려 버리고 옛 결점을 어느 때보다 훨씬 더 짧게 끊어 내러 나섰을 것이다.) — Mark Twain, "New Year's Day", Territorial Enterprise, 1863-01-01, https://twainquotes.com/18630101bt.html, 2026-10-18 접속

@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정 #돈
+#돈
 
 [^1]: [매체] "Chinese retailers on Thursday reported panic buying of salt, partly because shoppers believe it could help ward off the effects of potential radioactivity from Japan's crippled nuclear power plant." (중국 소매점들은 목요일 소금 사재기를 보고했다. 손님들이 소금이 고장 난 일본 원전에서 나올 수 있는 방사능의 영향을 막는 데 도움이 된다고 믿은 것이 한 이유다.) — AFP, "Chinese snap up salt amid Japan nuclear scare", SpaceMart, 2011-03-16, https://www.solardaily.com/reports/Chinese_snap_up_salt_amid_Japan_nuclear_scare_999.html, 2026-10-20 접속
 [^2]: [공공] "Additional analysis indicates monthly turnover doubled for products such as toilet and tissue paper, and rice and pasta." (추가 분석에서 화장지와 휴지, 쌀과 파스타 같은 품목의 월간 매출이 두 배가 됐다.) — Australian Bureau of Statistics, "Preliminary Retail turnover rises 8.2 per cent in March", 2020-04-22, https://www.abs.gov.au/articles/preliminary-retail-turnover-rises-82-cent-march, 2026-10-20 접속 (소멸, 2026-10-20 까지 확인)

@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #돈
+#돈 #마음
 
 [^1]: [학술] "We find that investors increase their portfolio monitoring following both positive and daily negative market returns" (투자자는 시장 수익률이 양일 때와 일간 음일 때 모두 포트폴리오 확인을 늘린다.) — Simon Gherzi, Daniel Egan, Neil Stewart, Emily Haisley, Peter Ayton, "The Meerkat Effect: Personality and Market Returns Affect Investors' Portfolio Monitoring Behavior", Journal of Economic Behavior & Organization 107, 2014, https://openaccess.city.ac.uk/3875/, 2026-10-18 접속
 [^2]: [학술] "Account logins fall by 9.5% after market declines. Investors also pay less attention when the VIX volatility index is high." (시장이 하락한 뒤 계좌 로그인은 9.5% 줄어든다. 투자자는 VIX 변동성 지수가 높을 때도 주의를 덜 기울인다.) — Nachum Sicherman, George Loewenstein, Duane J. Seppi, Stephen P. Utkus, "Financial Attention", The Review of Financial Studies 29(4), 2016, https://ideas.repec.org/a/oup/rfinst/v29y2016i4p863-897..html, 2026-10-18 접속

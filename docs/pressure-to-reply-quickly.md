@@ -42,7 +42,7 @@
 
 없음.
 
-#감정 #온라인 #관계
+#관계 #온라인
 
 [^1]: [매체] "E-mail is so easy that my volume of correspondence has increased to frightening proportions. When a letter pops up on my computer, I feel obliged to answer it." (이메일은 너무 쉬워서 내 서신의 양이 겁날 만큼 늘었다. 컴퓨터에 편지가 뜨면 나는 답해야 한다는 의무감을 느낀다.) — Gregory Raskin, "Me and my e-mail", Yale Alumni Magazine, 1994-04, https://yalealumnimagazine.org/blog_posts/1295-me-and-my-e-mail-apr-1994, 2026-10-18 접속
 [^2]: [학술] "Demands for and expectations of availability were considered to result in communication overload, and feelings of guilt due to not being able to manage all the communication." (연락이 닿아야 한다는 요구와 기대는 소통 과부하와 모든 연락을 감당하지 못한다는 데서 오는 죄책감을 낳는다고 여겨졌다.) — Sara Thomée, Lotta Dellve, Annika Härenstam, Mats Hagberg, "Perceived connections between information and communication technology use and mental symptoms among young adults - a qualitative study", BMC Public Health 10, 2010-02-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC2836296/, 2026-10-18 접속

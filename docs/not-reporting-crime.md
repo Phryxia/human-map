@@ -45,7 +45,7 @@
 
 없음.
 
-#행동 #사고 #온라인
+#공공 #온라인
 
 [^1]: [학술] "Victims of domestic violence are less likely than victims of other types of violence to call the police because of their privacy concerns, their fear of reprisal, and their desire to protect offenders" (가정폭력 피해자는 사생활에 대한 걱정, 보복에 대한 두려움, 가해자를 보호하려는 마음 때문에 다른 유형의 폭력 피해자보다 경찰을 덜 부른다) — Richard B. Felson, Steven F. Messner, Anthony W. Hoskin, Glenn Deane, "Reasons for reporting and not reporting domestic violence to the police", Criminology 40(3), 2002-08, https://pure.psu.edu/en/publications/reasons-for-reporting-and-not-reporting-domestic-violence-to-the-/, 2026-10-18 접속
 [^2]: [매체] "통계청이 2001년 ‘피해자들이 경찰에 신고를 하지 않은 이유’를 조사한 결과 강도 39.0%,절도 45.9%,폭행·상해 28.9%가 ‘경찰이 아무런 조치도 취하지 않을 것 같아서’라고 답했다." — 장택동, 「[수평사회를 만들자]제3부 경찰과 시민(1)사건해결 의지 없는 경찰」, 서울신문, 2003-07-18, https://www.seoul.co.kr/news/2003/07/18/20030718012001, 2026-10-18 접속

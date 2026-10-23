@@ -46,7 +46,7 @@
 
 없음.
 
-#행동 #사고
+#관계
 
 [^1]: [학술] "The second study assessed actual help-seeking behavior, and found that least help was sought by high self-esteem individuals who did not foresee an opportunity for future reciprocity" (두 번째 연구는 실제 도움 요청 행동을 측정했고, 앞으로 갚을 기회를 예상하지 못한 자존감 높은 사람들이 도움을 가장 적게 구했음을 발견했다) — Arie Nadler, Ofra Mayseless, Abigail Chemenriski, Nehemia Peri, "Effects of Opportunity to Reciprocate and Self-Esteem on Help-Seeking Behavior", Journal of Personality 53(1), 1985-03-01, https://cris.haifa.ac.il/en/publications/effects-of-opportunity-to-reciprocate-and-self-esteem-on-help-see/, 2026-10-18 접속
 [^2]: [학술] "despite their perception that they offer students opportunities for support, students do not take advantage of them" (교직원들은 학생들에게 지원받을 기회를 준다고 여기지만 학생들은 그 기회를 쓰지 않는다) — Sue Clegg, Sally Bradley, Karen Smith, "'I've had to swallow my pride': help seeking and self-esteem", Higher Education Research and Development, 2006, https://uhra.herts.ac.uk/id/eprint/23751/, 2026-10-17 접속

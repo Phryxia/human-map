@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #돈 #관계
+#돈 #관계
 
 [^1]: [매체] "They pinch for six days in the week that they may have an evening reception on the seventh" (그들은 이레째에 저녁 손님맞이를 하려고 한 주의 엿새 동안 아껴 쓴다) — "Margins", All the Year Round 19, 1868-04-11, https://djo.org.uk/all-the-year-round/volume-xix/page-414.html, 2026-10-20 접속
 [^2]: [문학] "You’ve got a shop, you only dream of showing off before the neighborhood. We don’t fall in with it, we don’t. We don’t try to make ourselves out what we are not." (당신은 가게가 있으니 동네 앞에서 뽐낼 생각뿐이지. 우리는 거기 안 끼어. 우리는 우리가 아닌 것처럼 꾸미려 하지 않아.) — Émile Zola, L'Assommoir, 영역본, Project Gutenberg 8600, 1877, https://www.gutenberg.org/cache/epub/8600/pg8600-images.html, 2026-10-20 접속

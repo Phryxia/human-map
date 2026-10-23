@@ -42,7 +42,7 @@
 
 없음.
 
-#행동 #시간
+#시간 #관계
 
 [^1]: [문학] "때가 되면 장인님이 어련하랴 싶어서 군소리 없이 꾸벅꾸벅 일만 해왔다." — 김유정, 「봄봄」, 1935, https://ko.wikisource.org/wiki/봄봄, 2026-10-16 접속
 [^2]: [매체] "The Labor Department rarely cracks down on offenders, saying that it has limited resources and that unpaid interns are loath to file complaints for fear of jeopardizing any future job search." (노동부는 위반 업체를 거의 단속하지 않는데, 자원이 부족하고 무급 인턴들이 이후 구직에 해가 될까 봐 진정을 내기를 꺼린다고 말한다.) — Steven Greenhouse, "Unpaid interns get feeling they're being used", The New York Times (NBC News 게재), 2012-05-06, https://www.nbcnews.com/id/wbna47313799, 2026-10-17 접속

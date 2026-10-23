@@ -36,7 +36,7 @@
 
 없음.
 
-#특성 #사고
+#마음
 
 [^1]: [SNS] "I don't have a blog because my perfectionism keeps me from even starting to write. I feel like if what I write isn't extraordinary, I have no business putting it out there at all." (내가 블로그가 없는 건 완벽주의 때문에 글을 쓰기 시작조차 못 하기 때문이다. 내가 쓴 글이 대단하지 않으면 그걸 내놓을 자격이 전혀 없다고 느낀다.) — Hacker News 댓글, 2010-02-12, https://news.ycombinator.com/item?id=1120875, 2026-10-21 접속
 [^2]: [학술] "Cross-temporal meta-analysis revealed that levels of selforiented perfectionism, socially prescribed perfectionism, and other-oriented perfectionism have linearly increased." (시기 교차 메타분석에서 자기 지향 완벽주의, 사회 부과 완벽주의, 타인 지향 완벽주의의 수준이 모두 직선으로 증가했다.) — Thomas Curran, Andrew Hill, "Perfectionism is increasing over time: A meta-analysis of birth cohort differences from 1989 to 2016", Psychological Bulletin 145(4), 2019-04-01, https://researchportal.bath.ac.uk/en/publications/perfectionism-is-increasing-over-time-a-meta-analysis-of-birth-co/, 2026-10-21 접속

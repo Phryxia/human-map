@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #집단
+#마음
 
 [^1]: [학술] "Stressful events at home or school, or with peers may cause school refusal." (가정이나 학교, 또는 또래와의 스트레스 사건이 등교 거부를 일으킬 수 있다.) — Wanda P. Fremont, 「School Refusal in Children and Adolescents」, American Family Physician 68(8), 2003-10-15, https://www.aafp.org/pubs/afp/issues/2003/1015/p1555.html, 2026-10-18 접속
 [^2]: [매체] "초․중학생에게 등교거부를 하게 된 동기에 대해 질문한 결과, 구체적 이유로 가장 많은 것은 ‘이지메를 제외한 친구관계’가 15.6%, ‘부모와의 관계’가 9.3%, ‘학업 부진’이 7.9%, ‘이지메’가 3.2%로 나타났다." — 변수란, 「日 등교거부 중학생 사상 최고치 기록」, 한국교육신문, 2007-08-29, https://www.hangyo.com/mobile/article.html?no=22907, 2026-10-18 접속

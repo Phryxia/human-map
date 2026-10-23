@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #사고 #돈
+#돈
 
 [^1]: [학술] "confusing ‘best before’ date with ‘use by’ date (with potential for food to be thrown away unnecessarily)" ('best before' 날짜와 'use by' 날짜의 혼동(음식이 불필요하게 버려질 가능성)) — Julian Parfitt, Mark Barthel, Sarah Macnaughton, "Food waste within food supply chains: quantification and potential for change to 2050", Philosophical Transactions of the Royal Society B, 2010-09-27, https://pmc.ncbi.nlm.nih.gov/articles/PMC2935112/, 2026-10-18 접속
 [^2]: [공공] "WRAP research has identified confusion over date labelling as one of the causes of this." (WRAP 의 연구는 날짜 표시 혼동을 그 원인 가운데 하나로 밝혔다.) — Department for Environment, Food & Rural Affairs, "Expiry date for confusing date labels", GOV.UK, 2011-09-15, https://www.gov.uk/government/news/expiry-date-for-confusing-date-labels, 2026-10-18 접속

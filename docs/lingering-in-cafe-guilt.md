@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #돈
+#돈 #관계
 
 [^1]: [매체] "예전에는 오래 자리를 차지하고 앉아 있으면 종업원들 눈치가 보였습니다. 하지만 요즘엔 워낙 나 같은 사람들이 많으니까 오래 앉아있어도 전혀 부담이 없습니다." — 머니투데이, 「카페맘과 코피스족의 新카페문화」, 2010-10-05, https://www.mt.co.kr/article/2010100101378199310, 2026-10-18 접속
 [^2]: [매체] "Others believe in rent in perpetuity, saying that any purchase provides rights to a seat even after the product has been consumed." (다른 이들은 영구 임대를 믿어 무엇이든 하나 사면 다 먹고 마신 뒤에도 자리에 대한 권리가 생긴다고 말한다.) — Social Science Space, "Dibs! Customer Territorial Behaviors", 2012-05-03, https://socialsciencespace.com/2012/05/dibs-customer-territorial-behaviors, 2026-10-18 접속

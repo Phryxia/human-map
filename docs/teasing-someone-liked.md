@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] ""느 집엔 이거 없지?" 하고 생색 있는 큰소리를 하고는 제가 준 것을 남이 알면은 큰일날 테니 여기서 얼른 먹어 버리란다." — 김유정, "동백꽃", 위키문헌, 1936, https://ko.wikisource.org/wiki/%EB%8F%99%EB%B0%B1%EA%BD%83, 2026-10-17 접속
 [^2]: [매체] "My mother had told me that name-calling was love and hair-pulling was affection." (어머니는 내게 놀리는 말은 사랑이고 머리카락을 잡아당기는 것은 애정이라고 말했었다.) — Emma Hollis, "He's Mean Because He Likes You", Farrago, 2016-05-01, https://umsu.unimelb.edu.au/news/article/7797/2016-05-01-hes-mean-because-he-likes-you/, 2026-10-17 접속

@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [학술] "At same time, poor families reduce food expenditures by roughly the same amount as the increase in fuel expenditures, while rich families increase food expenditures." (같은 시기에 가난한 가구는 연료비가 늘어난 만큼 식비를 줄이고 부유한 가구는 식비를 늘린다.) — Jayanta Bhattacharya, Thomas DeLeire, Steven Haider, Janet Currie, "Heat or Eat? Cold Weather Shocks and Nutrition in Poor American Families", NBER Working Paper 9004, 2002-06, https://www.nber.org/papers/w9004, 2026-10-22 접속
 [^2]: [학술] "While spending on food was usually reduced by cutting the range and quality of food purchased, spending on energy was usually reduced by cutting consumption." (식비 지출은 대개 사는 식품의 가짓수와 질을 낮추는 방식으로 줄였고 에너지 지출은 대개 소비량을 줄이는 방식으로 줄였다.) — Will Anderson, Vicki White, Andrea Finney, "Coping with low incomes and cold homes", Energy Policy 49, 2012, https://ideas.repec.org/a/eee/enepol/v49y2012icp40-52.html, 2026-10-20 접속

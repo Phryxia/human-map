@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #사고 #시간
+#시간 #마음
 
 [^1]: [매체] "More than half said they typically need to see an update prompt between two and five times before downloading and installing the new software" (절반 넘게는 보통 업데이트 알림을 두 번에서 다섯 번 보아야 새 소프트웨어를 내려받아 설치한다고 답했다) — Katherine Noyes, 「Too Busy for that Software Update? Survey Says: Join the Club」, PCWorld, 2012-07-23, https://www.pcworld.com/article/460096/too_busy_for_that_software_update_survey_says_join_the_club.html, 2026-10-22 접속
 [^2]: [매체] "because they’re not sure the updates are safe or remain unconvinced that any new features will be useful" (업데이트가 안전한지 확신하지 못하거나 새 기능이 쓸모 있으리라고 여전히 믿지 않기 때문에) — Taylor Armerding, 「Why users don’t often upgrade software when they should」, CSO Online, 2012-07-30, https://www.csoonline.com/article/536572/security-awareness-why-users-don-t-often-upgrade-software-when-they-should.html, 2026-10-22 접속

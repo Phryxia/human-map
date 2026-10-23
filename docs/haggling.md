@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [문학] "“일 원 오십 전은 너무 과한데.” 이런 말을 하며 학생은 고개를 기웃하였다. “아니올시다. 잇수로 치면 여기서 거기가 시오 리가 넘는답니다. 또 이런 진날은 좀 더 주셔야지요.”" — 현진건, 「운수 좋은 날」, 1924, https://ko.wikisource.org/wiki/운수_좋은_날, 2026-10-20 접속
 [^2]: [학술] "more respondents consider the bargain as a burden rather than a merit of the markets and the most important reason for such preference is low price-reliability in the markets." (더 많은 응답자가 흥정을 시장의 장점보다 부담으로 여기며 그렇게 여기는 가장 중요한 이유는 시장 가격에 대한 낮은 신뢰다.) — 진현정, 정아영, 「재래시장의 흥정에 대한 소비자 인식 조사」, 식품유통연구 26(4), 2009, https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/33504, 2026-10-20 접속

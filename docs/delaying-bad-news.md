@@ -43,7 +43,7 @@
 
 - [불확실한 소식을 기다리는 불안](awaiting-uncertain-news.md)[^5]
 
-#행동 #감정 #시간
+#시간 #마음
 
 [^1]: [문학] "불행에 다닥치기 전 시간을 얼마쯤이라도 늘리려고 버르적거렸다." — 현진건, 「운수 좋은 날」, 1924, https://ko.wikisource.org/wiki/운수_좋은_날, 2026-10-15 접속
 [^2]: [학술] "We find that investors increase their portfolio monitoring following both positive and daily negative market returns" (투자자는 시장 수익률이 양일 때와 일간 음일 때 모두 포트폴리오 확인을 늘린다.) — Simon Gherzi, Daniel Egan, Neil Stewart, Emily Haisley, Peter Ayton, "The Meerkat Effect: Personality and Market Returns Affect Investors' Portfolio Monitoring Behavior", Journal of Economic Behavior & Organization 107, 2014, https://openaccess.city.ac.uk/3875/, 2026-10-16 접속

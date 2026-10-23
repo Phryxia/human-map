@@ -34,7 +34,7 @@
 
 없음.
 
-#감정 #사고
+#온라인
 
 [^1]: [학술] "The baseline prevalence of phantom vibration was 78.1%, which increased to 95.9% and 93.2% in the third and sixth internship months." (유령 진동의 기저 유병률은 78.1%였고 인턴 3개월째와 6개월째에 95.9%와 93.2%로 늘었다.) — Lin Y-H 외, "Prevalent Hallucinations during Medical Internships: Phantom Vibration and Ringing Syndromes", PLoS ONE 8(6): e65152, 2013-06-10, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065152, 2026-10-20 접속
 [^2]: [학술] "This suggested that older age, female gender, higher time spent on the smartphone and more frequent checking of the smartphone (self-reported), were all factors linked to PPS" (이는 나이가 많은 것, 여성인 것, 스마트폰에 쓰는 시간이 긴 것, 스마트폰을 더 자주 확인하는 것(자기 보고)이 모두 유령 전화 신호와 관련된 요인임을 시사했다) — Simone Pisano, Pietro Muratori, Vincenzo Paolo Senese 외, "Phantom Phone Signals in youths: Prevalence, correlates and relation to psychopathology", PLoS ONE, 2019-01-04, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210095, 2026-10-20 접속

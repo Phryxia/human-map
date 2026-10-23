@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "머슴놈에게 얻어맞았다기는 창피해서, "취중에 자전거를 타다가 봉변을 했다." 고 꾸며 대고" — 심훈, 「상록수」 제14장, 위키문헌, 발행일 미상, https://ko.wikisource.org/wiki/%EC%83%81%EB%A1%9D%EC%88%98/%EC%A0%9C14%EC%9E%A5, 2026-10-19 접속
 [^2]: [SNS] "When I broke that same bone, I had some convoluted story about saving a colony of nuns from a bunch of terrorists. That saved me from telling the truth, which was that I was beaten up by a skateboard." (같은 뼈가 부러졌을 때 나는 테러리스트 무리에게서 수녀들을 구했다는 복잡한 이야기를 지어냈다. 덕분에 사실대로 말하지 않아도 됐다. 사실은 스케이트보드에 당한 것이었다.) — Straight Dope, 댓글, 2008-02-20, https://boards.straightdope.com/t/need-a-good-how-i-broke-my-hand-story/438390/24, 2026-10-19 접속

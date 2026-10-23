@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고 #시간 #온라인
+#일 #시간 #온라인
 
 [^1]: [매체] "Since 2002, working Americans have become more likely to check their work-related email on weekends, on vacation and before and after they go to work for the day." (2002년 이후 미국의 일하는 사람들은 주말, 휴가 중, 하루 출근 전후에 업무 이메일을 확인하는 경향이 커졌다.) — Mary Madden 외, "Networked Workers", Pew Research Center, 2008-09-24, https://www.pewresearch.org/internet/2008/09/24/networked-workers/, 2026-10-18 접속
 [^2]: [매체] "The pressure to respond to emails when you are not on the clock can cause trouble with your sleep and could be making you sick." (근무시간이 아닐 때 이메일에 답해야 한다는 압박은 잠에 문제를 일으킬 수 있고 당신을 아프게 하고 있을지도 모른다.) — WTOP Staff, "'Telepressure' could be making you sick", WTOP News, 2014-12-02, https://wtop.com/national/2014/12/telepressure-could-be-making-you-sick/, 2026-10-19 접속

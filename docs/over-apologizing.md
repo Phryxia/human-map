@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정
+#관계
 
 [^1]: [문학] "“He won’t speak,” thought Tchervyakov, turning pale; “that means that he is angry." (“말을 안 하는군.” 체르뱌코프는 하얗게 질리며 생각했다. “화가 났다는 뜻이야.) — Anton Chekhov, "The Death of a Government Clerk", Constance Garnett 옮김, Love, and Other Stories, Project Gutenberg, 1883, https://www.gutenberg.org/cache/epub/13414/pg13414-images.html, 2026-10-20 접속
 [^2]: [SNS] "I find it hard to gauge if something I've done has bothered someone else, so I'll apologise just to be safe and try to keep the peace as long as I can." (내가 한 일이 다른 사람을 언짢게 했는지 가늠하기 어려워서 만일을 위해 사과하고 될 수 있는 한 평화를 지키려고 한다.) — RecoverYourLife 포럼, 댓글, 2010-06-29, https://www.recoveryourlife.com/forum/showthread.php?t=140073, 2026-10-20 접속

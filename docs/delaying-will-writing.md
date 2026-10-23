@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #돈 #시간
+#돈 #시간 #마음
 
 [^1]: [공공] "Reasons for not making a will include people waiting for when they were older, or wealthier, or assuming that their assets would go to the correct beneficiary when they die." (유언장을 만들지 않는 이유에는 더 나이 들거나 더 부유해질 때를 기다리는 것, 또는 죽을 때 재산이 알맞은 수혜자에게 가리라고 여기는 것이 있다.) — The Gazette, "Over half of adults have not made a will", 발행일 미상, https://www.thegazette.co.uk/all-notices/content/100799, 2026-10-22 접속
 [^2]: [공공] "it’s likely that people delay doing it through a mixture of denial and simply not getting around to it." (사람들은 부정과 그저 손대지 못한 것이 뒤섞여 그 일을 미루는 것 같다.) — The Gazette, "Reluctance to write a will still prevalent in the UK", 발행일 미상, https://www.thegazette.co.uk/all-notices/content/100356, 2026-10-22 접속

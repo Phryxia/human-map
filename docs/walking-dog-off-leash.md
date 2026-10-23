@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #사고
+#건강
 
 [^1]: [매체] "Dog walkers recognise that keeping their dogs on the lead benefits other park users and wildlife, but they also want their dogs to exercise, play and explore." (견주들은 개에게 목줄을 채우는 것이 다른 공원 이용자와 야생동물에 이롭다는 것을 알지만 개가 운동하고 놀고 탐색하기도 바란다.) — BehaviourWorks Australia, "Do dog walkers need obedience training?", BehaviourWorks Australia 프로젝트 소개, 발행일 미상, https://www.behaviourworksaustralia.org/projects/do-dog-walkers-need-obedience-training, 2026-10-20 접속
 [^2]: [학술] "In 66% of observations the dog was never observed to be on a leash; in 14% of observations the dog was never observed to be off leash." (관찰의 66%에서 개는 한 번도 목줄을 한 채로 관찰되지 않았고 14%에서는 한 번도 목줄 없이 관찰되지 않았다.) — Carri Westgarth, Robert M. Christley, Gina L. Pinchbeck, Rosalind M. Gaskell, Susan Dawson, John W. S. Bradshaw, "Dog behaviour on walks and the effect of use of the leash", Applied Animal Behaviour Science, 2010-04-18, https://pmc.ncbi.nlm.nih.gov/articles/PMC7132425/, 2026-10-20 접속

@@ -34,7 +34,7 @@
 
 없음.
 
-#감정 #행동 #관계
+#관계
 
 [^1]: [문학] "I know perfectly well that they love me just the same even if they have forgotten my birthday, and I won't let such old black crow thoughts flock down on me." (그들이 내 생일을 잊었어도 나를 똑같이 사랑한다는 걸 나는 잘 알아. 그런 시커먼 까마귀 같은 생각들이 내게 몰려 내려앉게 두지 않을 거야.) — Annie Fellows Johnston, The Little Colonel's Hero, 1장, L. C. Page & Company, 1902, https://www.gutenberg.org/cache/epub/15122/pg15122-images.html, 2026-10-19 접속
 [^2]: [매체] "I didn’t even expect messages from all of them this year – it’s just that not receiving even ONE hurt a lot more than I thought it would." (올해 그들 모두에게서 메시지를 기대한 것도 아니었다. 다만 단 하나도 받지 못한 것이 생각보다 훨씬 아팠다.) — Captain Awkward, "#1069: “My friends forgot my birthday.”", 독자 편지, 2018-01-16, https://captainawkward.com/2018/01/16/1069-my-friends-forgot-my-birthday, 2026-10-19 접속

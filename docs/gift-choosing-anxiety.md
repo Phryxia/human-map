@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #행동 #돈
+#돈 #관계
 
 [^1]: [문학] "It surely had been made for Jim and no one else. There was no other like it in any of the stores, and she had turned all of them inside out." (그것은 분명 다른 누구도 아닌 짐을 위해 만들어진 것이었다. 어느 가게에도 그런 것은 없었고, 그녀는 가게를 모두 샅샅이 뒤졌던 것이다.) — O. Henry, "The Gift of the Magi", The Four Million, Project Gutenberg, 1905, https://www.gutenberg.org/cache/epub/2776/pg2776-images.html, 2026-10-20 접속
 [^2]: [매체] "Many Holiday Gift Givers Say "The Crowds" (39%) And "Finding The Right Gift" (32%) Are The Most Stressful Things About Holiday Shopping" (연말 선물을 하는 많은 사람이 "인파"(39%)와 "맞는 선물 찾기"(32%)를 연말 쇼핑에서 가장 스트레스받는 일로 꼽는다) — Ipsos-Reid, "Holiday Gift Giving A Chore For Many", Ipsos, 2004-11-25, https://www.ipsos.com/en-ca/holiday-gift-giving-chore-many, 2026-10-20 접속

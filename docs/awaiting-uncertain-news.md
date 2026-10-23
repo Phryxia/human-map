@@ -34,7 +34,7 @@
 
 - [나쁜 소식 확인 미루기](delaying-bad-news.md)[^4]
 
-#감정 #사고
+#마음
 
 [^1]: [문학] "Every day at Longbourn was now a day of anxiety; but the most anxious part of each was when the post was expected. The arrival of letters was the first grand object of every morning’s impatience." (이제 롱번의 하루하루는 불안의 나날이었지만 그 가운데 가장 불안한 때는 우편이 올 시각이었다. 편지가 오는 것이 매일 아침 조바심의 첫째가는 관심사였다.) — Jane Austen, Pride and Prejudice, 1813, https://www.gutenberg.org/cache/epub/1342/pg1342-images.html, 2026-10-20 접속
 [^2]: [매체] "Women experience considerable anxiety while waiting to undergo breast biopsy and while waiting for the results." (여성들은 유방 생검을 받으려고 기다리는 동안과 결과를 기다리는 동안 상당한 불안을 겪는다.) — Radiological Society of North America, "Waiting For Biopsy Results May Adversely Affect Health", ScienceDaily, 2009-02-26, https://www.sciencedaily.com/releases/2009/02/090224132901.htm, 2026-10-20 접속

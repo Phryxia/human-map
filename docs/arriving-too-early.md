@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #시간
+#시간
 
 [^1]: [문학] "Her last alarm was lest they should be too late and miss the train; but no! they were all in time; and she breathed freely and happily at length" (그녀의 마지막 걱정은 너무 늦어 기차를 놓치지 않을까 하는 것이었다. 그러나 아니었다. 모두 제시간에 닿았고 그녀는 마침내 마음 놓고 행복하게 숨을 쉬었다) — Elizabeth Gaskell, 「North and South」 46장, 1855, https://www.gutenberg.org/cache/epub/4276/pg4276-images.html, 2026-10-18 접속
 [^2]: [문학] "Agraféna Ivánovna used to come to wake Natásha at three in the morning, but generally found her already awake. She was afraid of being late for Matins." (아그라페나 이바노브나는 새벽 세 시에 나타샤를 깨우러 오곤 했지만 대개 나타샤는 이미 깨어 있었다. 나타샤는 아침 기도에 늦을까 두려웠다.) — Leo Tolstoy, 「War and Peace」 9권 17장, Aylmer Maude 옮김, 1869, https://www.gutenberg.org/cache/epub/2600/pg2600-images.html, 2026-10-18 접속

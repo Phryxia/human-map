@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #사고 #집단
+#공공
 
 [^1]: [학술] "the weakening of party identification and declining beliefs about government responsiveness, that is, lowered feelings of "external" political efficacy." (정당 일체감의 약화와 정부 반응성에 대한 믿음의 하락, 곧 외부 정치 효능감의 저하.) — Paul R. Abramson, John H. Aldrich, "The Decline of Electoral Participation in America", American Political Science Review 76(3), 1982-09, https://www.cambridge.org/core/journals/american-political-science-review/article/the-decline-of-electoral-participation-in-america/F400D9741B3027FE65EB402E2BA45368, 2026-10-17 접속
 [^2]: [공공] "A combination of no time off from work or school or being “too busy” was the reason given most often by people for not voting in the 1996 presidential election" (일이나 학교에서 시간을 못 낸 것과 너무 바빴다는 것을 합친 것이 1996년 대통령 선거에서 투표하지 않은 사람들이 가장 많이 든 이유였다.) — U.S. Census Bureau, "'Too Busy' to Vote", Census Brief CENBR/98-4, 1998-07, https://www.census.gov/library/publications/1998/demo/cenbr98-04.html, 2026-10-17 접속

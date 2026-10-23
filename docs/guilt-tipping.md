@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #돈
+#돈
 
 [^1]: [학술] "People tip because this is the social norm and disobeying norms results in social disapproval that creates emotional disutility." (사람들이 팁을 주는 것은 그것이 사회 규범이고 규범을 어기면 감정적 손실을 낳는 사회의 비난을 받기 때문이다.) — Ofer H. Azar, "Tipping: The Economics of a Social Norm", EconWPA Labor and Demography 0309002, 2003-09-04, https://ideas.repec.org/p/wpa/wuwpla/0309002.html, 2026-10-20 접속
 [^2]: [매체] "The major reason people tip is to avoid social disapproval," (사람들이 팁을 주는 주된 이유는 사회의 비난을 피하는 것이다) — "56 Percent of People Tip for Terrible Service", The Fiscal Times, 2013-05-29, https://www.thefiscaltimes.com/2013/05/29/56-Percent-People-Tip-Terrible-Service, 2026-10-20 접속

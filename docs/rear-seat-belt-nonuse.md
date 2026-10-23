@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #사고
+#공공
 
 [^1]: [학술] "The main reasons for not wearing a rear seat belt were that respondents found them uncomfortable and easy to forget." (뒷좌석 안전띠를 매지 않는 주된 이유는 응답자가 띠를 불편하고 잊기 쉽다고 여긴다는 것이었다.) — K.A. Markey, S.C. Buttress, D.G. Harland, "The characteristics and attitudes of adult non-wearers of rear restraints", TRL Report TRL222, 1998-01, https://www.trl.co.uk/publications/trl222, 2026-10-18 접속
 [^2]: [매체] "최근 도로공사 조사 결과에 따르면 고속도로에서의 뒷좌석 안전띠 착용률은 17%로 OECD국가 중 최하위 수준이었습니다." — YTN, "뒷좌석 안전띠 안 매면 사망율 9배", YTN, 2015-10-26, https://www.ytn.co.kr/_ln/0483_201510260517064735, 2026-10-18 접속

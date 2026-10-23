@@ -39,7 +39,7 @@
 
 없음.
 
-#행동 #사고 #집단
+#관계
 
 [^1]: [학술] "We argue that there are powerful forces in many organizations that cause widespread withholding of information about potential problems or issues by employees." (우리는 여러 조직에 직원들이 잠재적 문제나 사안에 관한 정보를 널리 말하지 않게 만드는 강한 힘이 있다고 주장한다.) — E. W. Morrison, F. J. Milliken, "Organizational silence: A barrier to change and development in a pluralistic world", Academy of Management Review, 2000, https://academicnewsletter.sufe.edu.cn/info/367840, 2026-10-17 접속
 [^2]: [SNS] "아직은 튀고 싶지 않아서 자제하고 싶어 ㅠㅠ 모순적이지?? 상처 받고 싶지 않나봐" — 블라인드 게시글, 2022-04-02, https://www.teamblind.com/kr/post/%EB%8C%80%ED%95%99-%EA%B5%90%EC%88%98%EB%8B%98%EA%BB%98-%EC%A7%88%EB%AC%B8%ED%95%98%EB%8A%94-%EB%AC%B8%ED%99%94-8rg6FGDi, 2026-10-17 접속

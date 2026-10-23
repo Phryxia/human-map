@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [문학] "I cannot rest until I have won back my losses. Stake!" (잃은 걸 되찾기 전에는 쉴 수가 없어요. 거세요!) — Fyodor Dostoevsky, C. J. Hogarth 옮김, The Gambler, Project Gutenberg, 1866, https://www.gutenberg.org/cache/epub/2197/pg2197-images.html, 2026-10-23 접속
 [^2]: [학술] "Betting behavior, on the other hand, increased as a function of losing streaks. The increase in betting on losing streaks is interpreted as a manifestation of loss chasing" (반면 거는 행동은 연패에 따라 늘었다. 연패 때 거는 금액이 늘어나는 것은 손실 추격의 한 표현으로 해석된다) — B. Studer, E. H. Limbrick-Oldfield, L. Clark, 「'Put Your Money Where Your Mouth Is!': Effects of Streaks on Confidence and Betting in a Binary Choice Task」, Journal of Behavioral Decision Making 28(3), 2015-07, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26236092&rettype=abstract&retmode=text, 2026-10-23 접속

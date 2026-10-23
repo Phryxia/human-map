@@ -40,7 +40,7 @@
 
 없음.
 
-#사고 #감정 #시간
+#일 #시간
 
 [^1]: [매체] "Nearly a quarter (24%) of workers reported that when they’re at home or out socially, they’re still thinking about work, and almost one-fifth (19%) often dream about work." (노동자의 4분의 1 가까이(24%)가 집에 있거나 사람들과 어울릴 때도 여전히 일 생각을 한다고 답했고, 5분의 1 가까이(19%)는 일에 관한 꿈을 자주 꾼다.) — Rebecca Moore, "Workers Need an Intervention", PLANSPONSOR, 2010-12-20, https://www.plansponsor.com/workers-need-an-intervention/, 2026-10-19 접속
 [^2]: [매체] "직장인 2명 중 1명 45.5%가 퇴근 후나 주말에도 회사 일을 걱정하고 있는 것으로 조사됐다. 회사 일을 걱정하는 이유로는 ‘해결되지 않은 문제가 있어서’가 63.1%로 가장 많았고, ‘해야 할 업무가 너무 많아서’는 46.7%로 뒤를 이었다." — 데일리안 스팟뉴스팀, 「"직장인 76% 퇴근 후·주말 업무 관련 전화 받는다"」, 데일리안, 2014-05-12, https://m.dailian.co.kr/news/view/437070, 2026-10-19 접속

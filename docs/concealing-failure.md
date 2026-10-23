@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정
+#관계
 
 [^1]: [문학] "In these last few months, I must have begun a dozen different books; I have been ashamed to tell you of each new beginning." (지난 몇 달 동안 나는 서로 다른 책을 열두 권쯤 시작했을 거야. 새로 시작할 때마다 당신에게 말하기가 부끄러웠어.) — George Gissing, New Grub Street, Smith, Elder & Co., 1891, https://www.gutenberg.org/cache/epub/1709/pg1709-images.html, 2026-10-17 접속
 [^2]: [SNS] "학교로 전화가 와서 학교 선생님들이 다 안다든지 이러면 완전 쪽팔리잖아요" — 네이버 지식iN 게시글, 2007-09-01, https://kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069, 2026-10-17 접속

@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #온라인
+#온라인
 
 [^1]: [공공] "The reasons that these policies are not read are concerning - it is because they are considered to be too long (52%), complex (20%) or boring (9%)." (이 방침들을 읽지 않는 이유는 우려스럽다. 너무 길다(52%), 복잡하다(20%), 지루하다(9%)고 여기기 때문이다.) — Office of the Australian Information Commissioner, "Community Attitudes to Privacy Survey Research Report 2013", 2013, https://www.oaic.gov.au/engage-with-us/research-and-training-resources/research/australian-community-attitudes-to-privacy-survey/community-attitudes-to-privacy-survey-research-report-2013, 2026-10-19 접속
 [^2]: [매체] "개인정보수집 및 이용에 관한 동의서 및 약관을 개인정보제공자의 83.4%가 내용확인 없이 동의해 사이트에 가입하거나 상품을 구입하는 것으로 나타났다." — 이초희, 「인터넷이용자 83.4% 개인정보 수집약관 읽지 않고 동의」, 아시아경제, 2014-10-07, https://view.asiae.co.kr/article/2014100714580547273, 2026-10-19 접속

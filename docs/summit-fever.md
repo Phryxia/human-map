@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#건강
 
 [^1]: [공공] "引き返す勇気を持ちましょう。" (돌아설 용기를 가집시다.) — 神奈川県警察 厚木警察署, "山岳遭難防止対策について", 발행일 미상, https://www.police.pref.kanagawa.jp/ps/atsugi/sounann01.html, 2026-10-22 접속
 [^2]: [매체] "Mountaineering veterans have questioned the wisdom of an assault on the summit that resulted in some climbers reaching the top in darkness after 8pm last Friday." (노련한 산악인들은 지난 금요일 일부 등반가가 오후 8시가 넘어 어둠 속에서 정상에 닿게 된 정상 공격이 현명했는지 의문을 제기했다.) — Reuters, "Frostbitten Italian survivor reaches K2 base camp", Mail & Guardian, 2008-08-05, https://mg.co.za/article/2008-08-05-frostbitten-italian-survivor-reaches-k2-base-camp, 2026-10-22 접속

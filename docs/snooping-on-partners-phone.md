@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #관계
+#관계
 
 [^1]: [매체] "또한 ‘연인의 핸드폰, 이메일, 미니홈피를 몰래 본 적이 있는가’라는 설문에는 남녀 각각 80%이상이 ‘몰래 뒤져 본 적이 있다’라고 답했으며, 비밀번호를 공유하는 이유는 여성의 경우 ‘연인의 다른 이성을 감시하기 위해서’가 64%로 가장 높게 나타났다." — 경향닷컴, 「미혼남녀 52% ‘애인 핸드폰, 이메일 비밀번호 안다’」, 경향신문, 2008-04-26, https://www.khan.co.kr/article/200804261158512, 2026-10-20 접속
 [^2]: [학술] "We estimated the 1-year prevalence to be 31% in an online participant pool." (온라인 참가자 집단에서 1년 유병률을 31%로 추정했다.) — Diogo Marques, Ildar Muslukhov, Tiago Guerreiro, Konstantin Beznosov, Luís Carriço, "Snooping on Mobile Phones: Prevalence and Trends", SOUPS 2016, USENIX, 2016, https://www.usenix.org/conference/soups2016/technical-sessions/presentation/marques, 2026-10-20 접속

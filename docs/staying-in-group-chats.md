@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #집단 #온라인
+#온라인
 
 [^1]: [매체] "I feel strange having done it, even though I am no less of a friend to each individual as I was before. It just feels like I broke up with someone." (그렇게 하고 나니 기분이 이상하다. 한 사람 한 사람에게 예전보다 덜한 친구가 된 것도 아닌데. 그냥 누군가와 헤어진 것 같다.) — Jason Kottke, "I just unsubscribed from a", kottke.org, 1999-10-27, https://kottke.org/99/10/i-just-unsubscribed-from-a, 2026-10-18 접속
 [^2]: [매체] "“단톡방, 나가고 싶지만 못나간 적이 있다” 70.8%" — 이투데이, 「[카드뉴스 팡팡] 단톡방 아, 탈출하고 싶다~」, 2017-11-01, https://www.etoday.co.kr/news/view/1557179, 2026-10-18 접속

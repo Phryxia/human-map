@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정
+#마음
 
 [^1]: [학술] "Approximately one-fourth reported avoiding medical care because of feeling uncomfortable (26.8%, n=369) or fearing a serious illness (26.4%, n=363)" (약 4분의 1은 불편해서(26.8%, n=369) 또는 심각한 병이 두려워서(26.4%, n=363) 진료를 피했다고 보고했다) — Jennifer M. Taber, Bryan Leyva, Alexander Persoskie, "Why do People Avoid Medical Care? A Qualitative Study Using National Data", Journal of General Internal Medicine, 2014-11-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC4351276/, 2026-10-17 접속
 [^2]: [매체] "seven in 10 emergency physicians are seeing insured patients at hospital emergency departments because they delayed care due to high out-of-pocket costs." (응급의학과 의사 10명 중 7명은 보험이 있는 환자가 높은 본인 부담금 때문에 진료를 미뤄 병원 응급실로 오는 것을 보고 있다.) — Heather Caspi, "High costs, narrow networks drive insured patients to ED", Healthcare Dive, 2015-10-28, https://www.healthcaredive.com/news/high-costs-narrow-networks-drive-insured-patients-to-ed/408071/, 2026-10-20 접속

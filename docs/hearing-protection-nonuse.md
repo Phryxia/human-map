@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #집단
+#건강
 
 [^1]: [공공] "interference with communication, interference with job performance, comfort issues, self-perception of hearing condition and inability to detect warning signals when wearing HPDs" (의사소통 방해, 작업 수행 방해, 착용감 문제, 자기 청력 상태에 대한 인식, 청력 보호구를 쓰면 경고음을 듣지 못하는 것) — Thais C. Morata, "Issues Regarding Hearing Protection Device Use in Manufacturing and Mining", NIOSH, 2002-12-02, https://stacks.cdc.gov/view/cdc/195890, 2026-10-22 접속
 [^2]: [매체] "80 per cent said they never wore hearing protection at such events." (80%는 그런 행사에서 청력 보호구를 한 번도 쓰지 않았다고 말했다.) — Janet Wong, "Tommy, Can You Hear Me?", U of T Magazine, 2005-06-19, https://magazine.utoronto.ca/?p=2114, 2026-10-22 접속

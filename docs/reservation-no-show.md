@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #시간
+#시간 #공공
 
 [^1]: [매체] "Its report found that 23% of no-shows either forgot to cancel, with 13% saying that they ‘couldn’t be bothered’ to do so." (보고서에 따르면 노쇼 가운데 23%는 취소하는 것을 잊었고 13%는 취소하는 것이 '귀찮았다'고 말했다.) — 「One in seven consumers admit to not honouring pub and restaurant bookings says CGA research」, Restaurant Online, 2021-05-04, https://restaurantonline.co.uk/Article/2021/05/04/One-in-seven-consumers-admit-to-not-honouring-pub-and-restaurant-bookings-says-CGA-research, 2026-10-23 접속
 [^2]: [학술] "연구 결과를 종합해보면, 예약부도의 가장 큰 원인은 단순변심으로 나타났으며" — 임다솔, 「네일샵 예약부도 고객인식 및 개선방안 연구」, 미래기술융합논문지 3(1), 2024, https://koreascience.kr/article/JAKO202411039179739.page, 2026-10-23 접속

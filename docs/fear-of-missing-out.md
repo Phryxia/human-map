@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #사고 #온라인
+#온라인
 
 [^1]: [문학] "I don’t like that half as well as going with you and Laurie. Please let me. I’ve been sick with this cold so long, and shut up, I’m dying for some fun." (그건 언니들과 로리랑 같이 가는 것의 반만큼도 좋지 않아. 제발 가게 해 줘. 이 감기로 너무 오래 앓으면서 갇혀 있었어. 재미있는 일이 너무 하고 싶어.) — Louisa May Alcott, Little Women, Chapter 8, Project Gutenberg, 1868, https://www.gutenberg.org/cache/epub/514/pg514.txt, 2026-10-22 접속
 [^2]: [매체] "FOMO is a recently coined term commonly used to describe the insecurity one feels having learned of other events one could be partaking in but isn't." (FOMO 는 자기가 참여할 수도 있었지만 참여하지 않는 다른 행사를 알게 된 뒤 느끼는 불안을 가리키는 데 흔히 쓰이는 최근의 말이다.) — The Tufts Daily, "Online and off, FOMO a phobia here to stay", 2011-03-29, https://www.tuftsdaily.com/article/2011/03/online-and-off-fomo-a-phobia-here-to-stay, 2026-10-22 접속

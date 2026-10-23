@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정
+#관계
 
 [^1]: [SNS] "그냥 벨 누르면 되는걸 되게 부끄럽다해야하나? 그래서 계속 고민하다가 내려야하는곳 지나고 그냥 기사님한테 죄송한데 문 좀 열어주세요!! 이러고 다음 정거장에서 내렸어" — 인스티즈 게시글 댓글, 발행일 미상, https://www.instiz.net/name/43413990, 2026-10-19 접속
 [^2]: [매체] "Fearing this backlash, most commuters stay silent, hoping that the bus would stop on its own or be caught in a traffic jam, so that they can alight from the bus without much hassle." (이런 핀잔이 두려워 대부분의 승객은 버스가 저절로 서거나 차가 막혀 별 번거로움 없이 내릴 수 있기를 바라며 입을 다문다.) — Onmanorama Staff, "Who should ring the bell in KSRTC bus? Looks like we have an answer", Onmanorama, 2016-03-04, https://onmanorama.com/news/kerala/ring-the-bell-in-ksrtc-bus-stop-answer-passengers-women.html, 2026-10-19 접속

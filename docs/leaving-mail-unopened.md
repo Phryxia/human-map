@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #돈
+#돈 #마음
 
 [^1]: [문학] "He did not wish to open it, having some vague idea that, till the letter should have been read, there was a chance of escape." (그는 편지를 뜯고 싶지 않았다. 편지를 읽기 전까지는 빠져나갈 기회가 있다는 막연한 생각이 들었기 때문이다.) — Anthony Trollope, The Way We Live Now, Project Gutenberg, 1875, https://www.gutenberg.org/cache/epub/5231/pg5231.txt, 2026-10-20 접속
 [^2]: [매체] "One in eight (13 percent) people in debt say they are scared of opening post or emails because of what they owe, and one in nine (11 percent) feel they have no one to talk to about their situation." (빚이 있는 사람 여덟 명 중 한 명(13%)은 갚을 돈 때문에 우편물이나 이메일을 여는 것이 무섭다고 말하고, 아홉 명 중 한 명(11%)은 자기 사정을 이야기할 사람이 없다고 느낀다.) — Money Advice Trust, "4.7 million starting New Year feeling unable to cope due to money worries", Money Advice Trust, 2024-01-02, https://moneyadvicetrust.org/latest-news/4-7-million-starting-new-year-feeling-unable-to-cope-due-to-money-worries/, 2026-10-20 접속

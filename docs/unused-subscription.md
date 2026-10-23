@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #사고 #돈
+#돈
 
 [^1]: [학술] "Overconfident agents overestimate attendance as well as the cancellation probability of automatically renewed contracts." (과신하는 행위자는 출석과 함께 자동 갱신 계약의 해지 가능성도 과대평가한다.) — Stefano DellaVigna, Ulrike Malmendier, "Paying Not to Go to the Gym", American Economic Review, 2006-06, https://ideas.repec.org/a/aea/aecrev/v96y2006i3p694-719.html, 2026-10-17 접속
 [^2]: [공공] "Nearly 10 million of 155 million active subscriptions in the UK are unwanted, costing consumers £1.6 billion a year." (영국의 활성 구독 1억 5,500만 건 가운데 1,000만 건 가까이가 원치 않는 구독이고 소비자에게 연 16억 파운드의 비용을 지운다.) — Department for Business and Trade, "Consultation launched on measures to crack down on subscription traps and better protect shoppers", GOV.UK, 2024-11-18, https://www.gov.uk/government/news/new-measures-unveiled-to-crack-down-on-subscription-traps, 2026-10-17 접속

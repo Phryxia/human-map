@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정
+#공공
 
 [^1]: [학술] "a near accident or accident was seen as the only factor that would lead many informants to stop driving and few informants planned for driving cessation" (사고가 날 뻔한 일이나 사고만이 많은 응답자에게 운전을 그만두게 할 요인으로 여겨졌고 운전 중단을 계획한 응답자는 적었다) — Rudman DL, Friedland J, Chipman M, Sciortino P, "Holding On and Letting Go: The Perspectives of Pre-seniors and Seniors on Driving Self-Regulation in Later Life", Canadian Journal on Aging 25(1), 2006, https://www.cambridge.org/core/journals/canadian-journal-on-aging-la-revue-canadienne-du-vieillissement/article/abs/holding-on-and-letting-go-the-perspectives-of-preseniors-and-seniors-on-driving-selfregulation-in-later-life/9C3861F37814819E16F15E5FE8719C84, 2026-10-18 접속
 [^2]: [학술] "Participants reported driving cessation as a significant life event associated with subjectively feeling older." (참가자들은 운전 중단을 주관적으로 더 늙었다고 느끼는 일과 이어진 중요한 생애 사건으로 보고했다.) — Pachana, Jetten, Gustafsson, Liddle, "To be or not to be (an older driver): social identity theory and driving cessation in later life", Ageing & Society, 2016-06-21, https://www.cambridge.org/core/journals/ageing-and-society/article/abs/to-be-or-not-to-be-an-older-driver-social-identity-theory-and-driving-cessation-in-later-life/F41F371A2ADC40AB300F52071ACE1725, 2026-10-18 접속

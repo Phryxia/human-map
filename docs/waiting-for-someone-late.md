@@ -42,7 +42,7 @@
 
 없음.
 
-#감정 #행동 #시간
+#시간
 
 [^1]: [문학] "“I wish he would come! I wish he would come!” I exclaimed, seized with hypochondriac foreboding. I had expected his arrival before tea; now it was dark: what could keep him? Had an accident happened?" ("그가 왔으면! 그가 왔으면!" 나는 병적인 불길한 예감에 사로잡혀 외쳤다. 차 마시기 전에 도착할 줄 알았는데 이제 어두워졌다. 무엇이 그를 붙잡고 있을까? 사고라도 난 걸까?) — Charlotte Brontë, Jane Eyre, Smith, Elder & Co., 1847, https://www.gutenberg.org/cache/epub/1260/pg1260-images.html, 2026-10-18 접속
 [^2]: [문학] "초저녁부터 아내는 별별 생각을 다하면서 남편을 고대고대하고 있었다. 지리한 시간을 속히 보내려고 치웠던 일 가지를 또 꺼내었다. 그것조차 뜻같이 아니되었다." — 현진건, 「술 권하는 사회」, 1921, https://ko.wikisource.org/wiki/%EC%88%A0_%EA%B6%8C%ED%95%98%EB%8A%94_%EC%82%AC%ED%9A%8C, 2026-10-18 접속

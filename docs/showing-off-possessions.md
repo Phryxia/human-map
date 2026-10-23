@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #돈
+#돈
 
 [^1]: [문학] "Why, he rides to see the boys at the little school, too, and to show off before them his new wealth and splendour." (그래, 그는 작은 학교의 아이들을 보러 말을 타고 가서 그들 앞에서 새로 얻은 부와 화려함을 뽐내기도 한다.) — William Makepeace Thackeray, Vanity Fair, 50장, 1848, https://www.gutenberg.org/files/599/599-h/599-h.htm, 2026-10-18 접속
 [^2]: [학술] "In order to gain and to hold the esteem of men it is not sufficient merely to possess wealth or power. The wealth or power must be put in evidence, for esteem is awarded only on evidence." (사람들의 존중을 얻고 지키려면 부나 힘을 갖고 있기만 해서는 모자란다. 부나 힘은 드러나야 한다. 존중은 증거에만 주어지기 때문이다.) — Thorstein Veblen, The Theory of the Leisure Class, 1899, https://www.gutenberg.org/files/833/833-h/833-h.htm, 2026-10-18 접속

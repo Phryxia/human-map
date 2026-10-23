@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#건강
 
 [^1]: [매체] "누구나 구명조끼를 입고 물놀이를 하면 안전하다는 것은 잘 알고 있지만 대부분의 사람들은 이를 불편해 하고, 구명조끼 없이도 수영을 잘한다는 것을 뽐내기 위한 과시욕, 그리고 내가 설마하는 안전 불감증 때문에 구명조끼 입는 것을 꺼려하는 경향이 있다." — 경기일보, 「“물놀이 때 구명조끼는 생명”」, 2011-07-07, https://www.kyeonggi.com/article/201107070412730, 2026-10-20 접속
 [^2]: [학술] "Barriers to consistent life jacket use included discomfort and the belief that life jacket use indicated inexperience or poor swimming ability." (꾸준한 구명조끼 착용을 막는 요인에는 불편함과 구명조끼를 입으면 경험이 없거나 수영을 못한다는 표시라는 믿음이 있었다.) — D. Alex Quistberg, Elizabeth Bennett, Linda Quan, Beth E. Ebel, "Low Life Jacket Use among Adult Recreational Boaters: A Qualitative Study of Risk Perception and Behavior Factors", Accident Analysis and Prevention, 2013-10-24, https://pmc.ncbi.nlm.nih.gov/articles/PMC3919505/, 2026-10-20 접속

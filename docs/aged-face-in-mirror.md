@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #사고 #혼자
+#마음
 
 [^1]: [문학] "I look into my glass, And view my wasting skin, And say, “Would God it came to pass My heart had shrunk as thin!”" (나는 거울을 들여다보고 여위어 가는 살갗을 보며 말한다. "내 마음도 그만큼 여위었으면.") — Thomas Hardy, "I Look Into My Glass", Wessex Poems and Other Verses, Project Gutenberg, 1898, https://www.gutenberg.org/cache/epub/3167/pg3167-images.html, 2026-10-19 접속
 [^2]: [문학] "His hair was already beginning to turn grey. And it seemed strange to him that he had grown so much older, so much plainer during the last few years." (그의 머리는 벌써 세기 시작했다. 지난 몇 해 사이 자기가 그렇게 늙고 그렇게 볼품없어졌다는 것이 그에게는 이상하게 느껴졌다.) — Anton Chekhov, "The Lady with the Dog", Constance Garnett 옮김, The Lady with the Dog and Other Stories, Project Gutenberg, 1899, https://www.gutenberg.org/cache/epub/13415/pg13415-images.html, 2026-10-19 접속

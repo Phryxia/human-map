@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #사고
+#공공
 
 [^1]: [매체] "불감증,‘별 탈 없겠지’하는 요행 심리가 밤마다 엄청난 수의 ‘예비 살인자’들을 양산해낸다." — 김태균, 서울신문, "“한잔 쯤이야” 호기 남의 가정까지 파탄/5월현재 11만명 적발… 작년의 1.6배", 1997-07-17, https://www.seoul.co.kr/news/1997/07/17/19970717023003, 2026-10-21 접속
 [^2]: [공공] "In 2010, an estimated 4 million U.S. adult respondents reported at least one episode of alcohol-impaired driving, for an estimated total of approximately 112 million alcohol-impaired driving episodes" (2010년 미국 성인 응답자 약 400만 명이 음주 운전을 한 번 이상 했다고 보고했으며 음주 운전 횟수는 모두 약 1억 1,200만 번으로 추산된다) — Centers for Disease Control and Prevention, "Vital Signs: Alcohol-Impaired Driving Among Adults — United States, 2010", MMWR 60(39), 2011-10, https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6039a4.htm, 2026-10-21 접속

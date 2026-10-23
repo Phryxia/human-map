@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #사고
+#관계
 
 [^1]: [문학] "He ran over the headings of his speech: Irish hospitality, sad memories, the Three Graces, Paris, the quotation from Browning." (그는 연설의 항목들을 훑어 되짚었다. 아일랜드의 환대, 슬픈 기억, 삼미신, 파리, 브라우닝 인용.) — James Joyce, "The Dead", Dubliners, 1914, https://www.gutenberg.org/cache/epub/2814/pg2814-images.html, 2026-10-18 접속
 [^2]: [학술] "Imagined interactions serve several functions including rehearsal for anticipated encounters." (상상된 상호작용은 예상되는 만남의 리허설을 포함한 여러 기능을 한다.) — Renee Edwards, James M. Honeycutt, Kenneth S. Zagacki, "Imagined interaction as an element of social cognition", Western Journal of Speech Communication 52(1), 1988, https://repository.lsu.edu/cmst_pubs/104, 2026-10-18 접속

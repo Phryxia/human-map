@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계 #공공
 
 [^1]: [문학] "'Why have I begun talking so unexpectedly to you, a man utterly a stranger?--the Lord, the Lord only knows!'" (내가 왜 생판 낯선 당신에게 이렇게 느닷없이 이야기를 꺼냈는지, 하느님, 하느님만 아실 겁니다!) — Ivan Turgenev, "Hamlet of the Shchigry District", A Sportsman's Sketches, Constance Garnett 옮김, Project Gutenberg, 1849, https://www.gutenberg.org/cache/epub/8744/pg8744.txt, 2026-10-20 접속
 [^2]: [문학] "It is the first time I have the honour of seeing you, and yet I have confessed to you as I have never confessed in my life." (당신을 뵙는 영광은 처음인데도 나는 평생 한 번도 고백해 본 적이 없는 방식으로 당신에게 고백했습니다.) — Anton Chekhov, "On the Road", The Chorus Girl and Other Stories, Constance Garnett 옮김, Project Gutenberg, 1886, https://www.gutenberg.org/cache/epub/13418/pg13418.txt, 2026-10-20 접속

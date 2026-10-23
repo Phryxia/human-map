@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고 #집단
+#관계
 
 [^1]: [학술] "Generally in Chinese, speakers are not supposed to accept an invitation or an offer right away but should normally refuse several times before accepting." (중국어에서 화자는 대개 초대나 제안을 바로 받아들이지 않고 받기 전에 보통 여러 번 거절해야 한다.) — Center for Advanced Research on Language Acquisition, University of Minnesota, "Pragmatics and Speech Acts: Refusals", 발행일 미상, https://archive.carla.umn.edu/speechacts/refusals/tt.html, 2026-10-18 접속 (소멸, 2026-10-18 까지 확인)
 [^2]: [문학] "『괜찮어요』 애라는 사양했다. 『아니야. 우리만 먹고 혼자 가만있으면 됐어』 『암 해야지』" — 김규택, 「망부석」, 조선일보, 1935-05, https://ko.wikisource.org/wiki/%EB%A7%9D%EB%B6%80%EC%84%9D, 2026-10-18 접속

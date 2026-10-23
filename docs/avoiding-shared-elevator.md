@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계 #공공
 
 [^1]: [매체] "Also, 1 in 5 people surveyed said they would actively avoid getting into an elevator if someone they didn't like was in it." (또한 설문 응답자 5명 중 1명은 싫어하는 사람이 타 있으면 엘리베이터에 타지 않으려고 적극적으로 피하겠다고 답했다.) — "Study Finds The Majority Of People Don't Want To Talk To Others In An Elevator", Audacy, 2019-08-02, https://www.audacy.com/987thespot/blogs/miles-morning/study-finds-majority-people-dont-want-talk-others-elevator, 2026-10-18 접속
 [^2]: [매체] "엘리베이터에 타는 소리가 들리면 그때 문을 열고 나간다" — 이에스더, 신성식, 정종훈, 채혜선, 남수현, "나가려다 옆집 기척에 멈칫…이젠 '포비아'가 된 이웃사촌 [관계빈곤의 시대]", 중앙일보, 2025-12-22, https://v.daum.net/v/20251222050218552, 2026-10-18 접속

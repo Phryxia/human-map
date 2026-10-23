@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "I declared I wouldn’t and got mad. It lasted all day. I felt bad and wanted you very much. Laurie and I are both so proud, it’s hard to beg pardon." (나는 그러지 않겠다고 선언하고 화를 냈다. 그게 하루 종일 갔다. 기분이 나빴고 엄마가 몹시 보고 싶었다. 로리와 나는 둘 다 자존심이 세서 용서를 빌기가 어렵다.) — Louisa May Alcott, Little Women, Chapter XVI, Project Gutenberg, 1868, https://www.gutenberg.org/cache/epub/514/pg514-images.html, 2026-10-19 접속
 [^2]: [문학] "나는 다시 몸을 돌쳐 이불을 뒤집어쓰고는 개구리처럼 엎드리고 엎드려서 배가 고픈 가운데도 오늘 밤의 외출을 또 한 번 후회하였다. 나는 이불 속에서 아내에게 사죄하였다." — 이상, 「날개」, 조광, 위키문헌, 1936-09, https://ko.wikisource.org/wiki/%EB%82%A0%EA%B0%9C, 2026-10-19 접속

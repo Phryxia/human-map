@@ -37,7 +37,7 @@
 
 없음.
 
-#감정 #집단
+#관계
 
 [^1]: [문학] "Elizabeth blushed and blushed again with shame and vexation." (엘리자베스는 수치와 분함으로 얼굴을 붉히고 또 붉혔다.) — Jane Austen, Pride and Prejudice, Project Gutenberg, 1813, https://www.gutenberg.org/cache/epub/1342/pg1342-images.html, 2026-10-19 접속
 [^2]: [문학] "하고 되알지게 쏘아붙이고 얼굴이 빨개져서 산으로 그저 도망친다." — 김유정, 「봄봄」, 위키문헌, 1935, https://ko.wikisource.org/wiki/%EB%B4%84%EB%B4%84, 2026-10-19 접속

@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "“It’s past five,” he said, looking at his watch. “If our visitors are merciful and leave us at eleven, even then we have another six hours of it. It’s a cheerful prospect, there’s no denying!”" ("다섯 시가 넘었군." 그는 시계를 보며 말했다. "손님들이 자비를 베풀어 열한 시에 떠나 준다 해도 아직 여섯 시간이 남았어. 참 즐거운 전망이야, 그건 부정할 수 없지!") — Anton Chekhov, "The Party", Constance Garnett 옮김, The Party and Other Stories, Project Gutenberg, 1888, https://www.gutenberg.org/cache/epub/13413/pg13413-images.html, 2026-10-19 접속
 [^2]: [문학] "As young Mutlar showed no inclination to go, and it was approaching eleven o’clock, as a hint I reminded Lupin that he had to be up early to-morrow." (젊은 머틀러가 갈 기색을 보이지 않았고 열한 시가 가까워 오고 있었으므로, 나는 암시로 루핀에게 내일 일찍 일어나야 한다는 것을 일깨웠다.) — George Grossmith, Weedon Grossmith, The Diary of a Nobody, Project Gutenberg, 1892, https://www.gutenberg.org/cache/epub/1026/pg1026-images.html, 2026-10-19 접속

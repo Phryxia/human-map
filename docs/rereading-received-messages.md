@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #혼자
+#온라인
 
 [^1]: [문학] "I read her letter many times." (나는 그녀의 편지를 여러 번 읽었다.) — Charles Dickens, 「David Copperfield」, 1850, https://www.gutenberg.org/cache/epub/766/pg766-images.html, 2026-10-22 접속
 [^2]: [문학] "After dinner he went to a play; and it was not until his return home, after midnight, that he drew Madame Olenska's missive out again and re-read it slowly a number of times." (저녁을 먹은 뒤 그는 연극을 보러 갔고 자정이 지나 집에 돌아와서야 올렌스카 부인의 쪽지를 다시 꺼내 천천히 여러 번 읽었다.) — Edith Wharton, 「The Age of Innocence」, 1920, https://www.gutenberg.org/cache/epub/541/pg541-images.html, 2026-10-22 접속

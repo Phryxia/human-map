@@ -39,7 +39,7 @@
 
 없음.
 
-#행동 #사고 #시간
+#시간
 
 [^1]: [문학] "He was late not once or twice, but every day. Sometimes he would scramble in about the time of the second cup of coffee, buttoning his waistcoat as he sidled to his place." (그는 한두 번이 아니라 날마다 늦었다. 때로는 두 번째 커피가 나올 무렵 조끼 단추를 채우며 제자리로 비집고 들어왔다.) — P. G. Wodehouse, "The Politeness of Princes", The Politeness of Princes, and Other School Stories, 1905, https://gutenberg.org/cache/epub/8178/pg8178-images.html, 2026-10-17 접속
 [^2]: [SNS] "But whenever I know it’s not absolutely necessary I be somewhere at a very certain time, I procrastinate about getting ready." (어딘가에 아주 정확한 시각에 가 있을 필요가 꼭 있지는 않다는 걸 알 때면 나는 준비를 미룬다.) — Straight Dope 댓글, 2003-02-07, https://boards.straightdope.com/t/chronically-late-people-disorganized-or-something-else/153374, 2026-10-17 접속

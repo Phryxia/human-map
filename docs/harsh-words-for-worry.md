@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "“이 난장 맞을 년, 남편이 들어오는데 나와보지도 않아, 이 오라질 년.”이라고 고함을 친 게 수상하다. 이 고함이야말로 제 몸을 엄습해오는 무시무시한 증을 쫓아버리려는 허장성세(虛張聲勢)인 까닭이다." — 현진건, "운수 좋은 날", 위키문헌, 1924, https://ko.wikisource.org/wiki/%EC%9A%B4%EC%88%98_%EC%A2%8B%EC%9D%80_%EB%82%A0, 2026-10-17 접속
 [^2]: [매체] "In addition, due to the indirect nature of how they were raised, Asian parents will indirectly communicate their love and care for you through nagging." (게다가 그들이 길러진 간접적인 방식 때문에 아시아계 부모는 사랑과 보살핌을 잔소리로 간접적으로 전한다.) — Sam Louie, "Nagging", Psychology Today, 2019-10-30, https://www.psychologytoday.com/nz/blog/minority-report/201910/nagging, 2026-10-17 접속

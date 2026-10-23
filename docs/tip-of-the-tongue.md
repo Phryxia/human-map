@@ -36,7 +36,7 @@
 
 없음.
 
-#사고
+#마음
 
 [^1]: [문학] "what was her name again? I know it began with a B, and ended with g, but whether it was Waters or--no, it couldn’t have been that, either; but whatever her name was," (그 여자 이름이 뭐였더라? B 로 시작해서 g 로 끝났던 건 아는데 Waters 였는지, 아니, 그것도 아니었을 거야. 아무튼 이름이 뭐였든) — Charles Dickens, Nicholas Nickleby, Chapter 21, Project Gutenberg, 1839, https://www.gutenberg.org/cache/epub/967/pg967.txt, 2026-10-22 접속
 [^2]: [문학] "who am I? I _will_ remember, if I can! I’m determined to do it!” But being determined didn’t help much, and all she could say, after a great deal of puzzling, was, “L, I _know_ it begins with L!”" (나는 누구지? 할 수만 있다면 꼭 기억해 낼 거야! 꼭 그러기로 했어!” 하지만 마음먹은 것은 별 도움이 되지 않았고 한참 궁리한 끝에 그녀가 할 수 있는 말은 “L, L 로 시작한다는 건 알아!” 뿐이었다.) — Lewis Carroll, Through the Looking-Glass, and What Alice Found There, Chapter III, Project Gutenberg, 1871, https://www.gutenberg.org/cache/epub/12/pg12.txt, 2026-10-22 접속

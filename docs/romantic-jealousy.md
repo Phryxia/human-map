@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #사고 #관계
+#관계
 
 [^1]: [문학] "Trifles light as air Are to the jealous confirmations strong As proofs of holy writ." (공기처럼 가벼운 사소한 일도 질투하는 자에게는 성서의 증거만큼 강한 확증이다.) — William Shakespeare, "Othello, the Moor of Venice", Project Gutenberg, 1622, https://www.gutenberg.org/cache/epub/1531/pg1531-images.html, 2026-10-20 접속
 [^2]: [문학] "Given that, everything that Odette might say appeared to him suspect." (그렇게 되자 오데트가 할지 모르는 모든 말이 그에게 의심스러워 보였다.) — Marcel Proust, "Swann's Way", C. K. Scott-Moncrieff 옮김, Project Gutenberg, 1922, https://www.gutenberg.org/cache/epub/7178/pg7178-images.html, 2026-10-20 접속

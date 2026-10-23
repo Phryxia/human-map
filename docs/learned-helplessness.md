@@ -36,7 +36,7 @@
 
 없음.
 
-#사고 #행동 #감정
+#마음
 
 [^1]: [학술] "As with dogs and rats, most of the people from the yoked group failed to escape in the shuttlebox, whereas people from the escapable group and the zero group escaped well in the shuttlebox." (개와 쥐에서처럼 짝지어진 집단의 사람들 대부분은 셔틀박스에서 피하지 못했고, 피할 수 있었던 집단과 아무것도 받지 않은 집단의 사람들은 셔틀박스에서 잘 피했다.) — Steven F. Maier, Martin E. P. Seligman, "Learned helplessness at fifty: Insights from neuroscience", Psychological Review 123(4), 2016-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/, 2026-10-19 접속
 [^2]: [매체] "인간도 비슷하게 직장을 구하려고 여러 번 노력을 많이 했는데 직장을 구할 수 없으면 학습된 절망감 때문에 새로운 직장을 구하는 것을 포기하고 학습된 무력감에 빠질 수 있다." — 채규만, 「통 속에 갇힌 벼룩처럼…우울증은 학습된 무력감」, 코메디닷컴, 2023-08-23, https://kormedi.com/1615792/, 2026-10-19 접속

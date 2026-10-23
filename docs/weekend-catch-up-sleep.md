@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #시간
+#시간
 
 [^1]: [문학] "a few years ago there was so much work that we was putting in fourteen and sixteen hours a day. I used to be so done up by the end of the week that I used to stay in bed nearly all day on Sunday." (몇 년 전에는 일이 너무 많아서 하루 열네 시간, 열여섯 시간씩 일했다. 주말이 되면 너무 지쳐서 일요일엔 거의 하루 종일 침대에 있곤 했다.) — Robert Tressell, The Ragged Trousered Philanthropists, Project Gutenberg, 1914, https://www.gutenberg.org/cache/epub/3608/pg3608-images.html, 2026-10-19 접속
 [^2]: [매체] "People's schedules during the work week were so different from their routines on the weekend that it was as if they had switched time zones." (사람들의 평일 일정은 주말의 일과와 너무 달라서 마치 시간대를 바꾼 것 같았다.) — NPR, "Jet-Lagged By Your Social Calendar? Better Check Your Waistline", The Salt, 2012-05-15, https://www.npr.org/transcripts/152690836, 2026-10-19 접속

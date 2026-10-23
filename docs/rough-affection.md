@@ -35,7 +35,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [학술] "Results showed that participants viewed teasing in general to be negative, but when asked about teasing in a close relationship they viewed it to be considerably more positive." (결과는 참가자들이 놀림을 대체로 부정적으로 보았지만 가까운 관계에서의 놀림에 대해 물었을 때는 훨씬 더 긍정적으로 보았음을 보여 주었다.) — Glen Gorman, "Minimizing a Potential Threat: The Effects of Closeness on Perceptions of Teasing", Theses and Dissertations (Comprehensive) 865, Wilfrid Laurier University, 2008, https://scholars.wlu.ca/etd/865, 2026-10-19 접속
 [^2]: [매체] "지시하는 듯한 말은 자칫 퉁명스러워 보일 수 있지만, 사실 상대를 세심하게 살피는 표현입니다." — 최수, "매력적인 츤데레가 되는 말버릇 3", W Korea, 2025-07-19, https://www.wkorea.com/?p=386451, 2026-10-19 접속

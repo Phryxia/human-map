@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "Good night, good night. Parting is such sweet sorrow That I shall say good night till it be morrow." (잘 자요, 잘 자요. 헤어짐은 이토록 달콤한 슬픔이라 아침이 올 때까지 잘 자라는 말을 하겠어요.) — William Shakespeare, Romeo and Juliet, 2막 2장, Project Gutenberg, 1597, https://www.gutenberg.org/cache/epub/1513/pg1513-images.html, 2026-10-20 접속
 [^2]: [문학] "“Dear boy,” he answered, clasping my hands, “I don’t know when we may meet again, and I don’t like good-bye. Say good-night!”" ("얘야." 그는 내 손을 맞잡으며 대답했다. "다시 언제 만날지 모르겠구나. 나는 작별 인사가 싫다. 잘 자라고만 해 다오!") — Charles Dickens, Great Expectations, 46장, Project Gutenberg, 1861, https://www.gutenberg.org/cache/epub/1400/pg1400-images.html, 2026-10-20 접속

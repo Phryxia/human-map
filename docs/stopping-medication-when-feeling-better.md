@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #사고
+#건강
 
 [^1]: [공공] "says in developed countries, adherence among patients suffering from chronic diseases averages only 50 per cent, and it is even lower in developing countries." (선진국에서 만성질환 환자의 이행률이 평균 50%에 그치며 개발도상국에서는 그보다 더 낮다고 말한다) — UN News, "Poor adherence to treatment of chronic disease massive global problem - WHO", 2003-07-01, https://news.un.org/en/story/2003/07/73022, 2026-10-18 접속
 [^2]: [매체] "그래서 증상이 호전되면 결핵이 완치됐다고 임의로 판단해 복용을 중단하는 사례가 많다." — 서울신문, 「증상 호전 약복용 중단 땐 결핵 내성 탓 완치 어려워」, 2014-03-31, https://www.seoul.co.kr/news/2014/03/31/20140331025003, 2026-10-18 접속

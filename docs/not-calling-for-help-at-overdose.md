@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #집단
+#공공
 
 [^1]: [학술] "Fear of police response was the most commonly cited reason for not calling or delaying before calling for help (52.2%)." (도움을 부르지 않거나 부르기 전에 미룬 이유로 가장 많이 든 것은 경찰의 대응에 대한 두려움이었다(52.2%).) — Melissa Tracy 외, "Circumstances of witnessed drug overdose in New York City: Implications for intervention", Drug and Alcohol Dependence 79(2), 2005-08-01, https://profiles.wustl.edu/en/publications/circumstances-of-witnessed-drug-overdose-in-new-york-city-implica/, 2026-10-22 접속
 [^2]: [공공] "In many cases, people don’t report overdoses because they are afraid they will be arrested and charged with a crime." (많은 경우 사람들은 체포되어 범죄로 기소될까 두려워 과다복용을 신고하지 않는다.) — New Jersey Department of Human Services, "Christie Administration Promotes 'Good Samaritan Law'", 2013, https://www.nj.gov/humanservices/news/press/2013/approved/20130709.html, 2026-10-22 접속

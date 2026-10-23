@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #사고
+#건강
 
 [^1]: [매체] "Reasons given for not using sunscreen included "I sweat it off" (23%), "application is too messy" (16%), "greasiness interferes with my participation in activities" (16%)" (자외선 차단제를 쓰지 않는 이유로 "땀에 씻겨 나간다"(23%), "바르기가 너무 지저분하다"(16%), "끈적임이 활동 참여를 방해한다"(16%)가 꼽혔다) — The Rose Sheet, "Sunscreen study", HBW Insight, 2001-04-30, https://hbw.pharmaintelligence.informa.com/RS009184/Sunscreen-study, 2026-10-20 접속
 [^2]: [매체] "Our study found that 73 percent of those who applied sunscreen became sunburned - the majority of these people went swimming and did not reapply sunscreen afterward," (우리 연구에서 자외선 차단제를 바른 사람의 73%가 화상을 입었고 이들 대부분은 수영을 한 뒤 다시 바르지 않았다) — American Academy of Dermatology, "New research finds that consumers are getting burned: Using sunscreen correctly is the key to avoiding sunburn", Newswise, 2001-06-27, https://www.newswise.com/articles/using-sunscreen-correctly-is-the-key-to-avoiding-sunburn, 2026-10-20 접속

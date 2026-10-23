@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #행동 #관계
+#관계
 
 [^1]: [문학] "설혹 주는 감자를 안 받아먹는 것이 실례라 하면, 주면 그냥 주었지 '느 집엔 이거 없지.'는 다 뭐냐. 그렇잖아도 저희는 마름이고 우리는 그 손에서 배재를 얻어 땅을 부치므로 일상 굽실거린다." — 김유정, 「동백꽃」, 1936, https://ko.wikisource.org/wiki/동백꽃, 2026-10-17 접속
 [^2]: [학술] "subjects who received aid from a high resource donor perceived themselves less positively and tended to engage in more self-help behavior" (자원이 많은 기부자에게 도움을 받은 참가자는 자신을 덜 긍정적으로 지각했고 스스로 돕는 행동을 더 하는 경향을 보였다) — Jeffrey D. Fisher, Arie Nadler, "Effect of donor resources on recipient self-esteem and self-help", Journal of Experimental Social Psychology, 1976-03, https://cris.tau.ac.il/en/publications/effect-of-donor-resources-on-recipient-self-esteem-and-self-help-2/, 2026-10-17 접속

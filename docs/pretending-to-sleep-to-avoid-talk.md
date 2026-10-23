@@ -42,7 +42,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계 #공공
 
 [^1]: [문학] "The clerk, after answering several futile questions, edged away from him and pretended to be busy looking up nothing in the telephone directory." (점원은 쓸데없는 질문 몇 가지에 답한 뒤 그에게서 슬금슬금 물러나 전화번호부에서 아무것도 아닌 것을 찾느라 바쁜 척했다.) — Harvey J. O'Higgins, Don-A-Dreams, Part 4 Chapter 9, Duckworth & Co., 위키문헌, 1906, https://en.wikisource.org/wiki/Don-A-Dreams/Part_4/Chapter_9, 2026-10-19 접속
 [^2]: [문학] "초봉이는 아직도 그대로 지켜 섰는 윤희한테 또 시달림을 받기가 싫어서 분주한 체, 헤리오트로핀 한 병 있는 것을 진열장에서 꺼내다가, 싸개지로 싸고 다시 전표를 쓰고 막 그러고 나니까 또 전화가 온다." — 채만식, 「탁류」 제2장, 조선일보 연재, 위키문헌, 1937, https://ko.wikisource.org/wiki/%ED%83%81%EB%A5%98/%EC%A0%9C2%EC%9E%A5, 2026-10-19 접속

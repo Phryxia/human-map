@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #시간
+#시간 #공공
 
 [^1]: [매체] "Among the 41 percent who were asked to volunteer in the past year, 87 percent actually did. Among the 57 percent of those who were not asked, only 30 percent volunteered." (지난해 봉사를 부탁받은 41% 가운데 87%가 실제로 봉사했다. 부탁받지 않은 57% 가운데서는 30%만 봉사했다.) — "National Service: The Overview", Youth Policy 11권 8호, 1990-10, https://digitalcommons.unomaha.edu/slceslgen/161/, 2026-10-20 접속
 [^2]: [공공] "Both women and men cited a lack of time as the leading barrier to volunteering, with 66% giving this as a reason for not volunteering." (여성과 남성 모두 시간 부족을 자원봉사의 가장 큰 장벽으로 꼽았고 66%가 이를 봉사하지 않는 이유로 들었다.) — Statistics Canada, "Study: Volunteering in Canada, 2004 to 2013", The Daily, 2015-06-18, https://www150.statcan.gc.ca/n1/daily-quotidien/150618/dq150618b-eng.htm, 2026-10-20 접속

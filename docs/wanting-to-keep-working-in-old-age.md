@@ -40,7 +40,7 @@
 
 없음.
 
-#사고 #행동 #돈
+#돈 #일
 
 [^1]: [학술] "Between 1992 and 2004, the mean expected probability of working full-time past age 62 among workers ages 51 to 56 increased from 47 percent to 51 percent." (1992년에서 2004년 사이 51~56세 근로자가 62세 이후에도 전일제로 일할 것이라 예상한 평균 확률은 47% 에서 51% 로 올랐다.) — Gordon Mermin, Richard W. Johnson, Dan Murphy, "Why Do Boomers Plan to Work So Long?", Center for Retirement Research at Boston College Working Paper 2006-19, 2006-11-01, https://crr.bc.edu/why-do-boomers-plan-to-work-so-long/, 2026-10-18 접속
 [^2]: [공공] "Others do not retire and continue to work full-time, year-round due to a lack of desire to retire or inadequate retirement savings." (다른 이들은 은퇴할 마음이 없거나 은퇴 저축이 모자라서 은퇴하지 않고 일 년 내내 전일제로 계속 일한다.) — Braedyn K. Woodring, David J. Howard, U.S. Census Bureau, "Work Status of People 65 Years and Older: 2008 American Community Survey", 2009-09, https://www.census.gov/library/publications/2009/acs/acsbr08-10.html, 2026-10-18 접속

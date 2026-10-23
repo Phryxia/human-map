@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "I wasn’t sure, no one said anything, and I hoped I was mistaken. It would have been selfish to frighten you all when Marmee was so anxious about Meg, and Amy away, and you so happy with Laurie" (확실하지 않았고, 아무도 아무 말 안 했고, 내가 잘못 안 거길 바랐어. 엄마는 메그 일로 그렇게 걱정하시고, 에이미는 멀리 있고, 언니는 로리랑 그렇게 행복한데 다들 놀라게 하는 건 이기적인 일이었을 거야) — Louisa May Alcott, Little Women, Chapter Thirty-Six, Project Gutenberg, 1869, https://www.gutenberg.org/cache/epub/514/pg514-images.html, 2026-10-19 접속
 [^2]: [문학] "심지어 몸이 아플 때도 어디가 아프다는 말조차 하기가 미안하여진다." — 백신애, 「나의 어머니」, 조선일보, 위키문헌, 1928, https://ko.wikisource.org/wiki/%EB%82%98%EC%9D%98_%EC%96%B4%EB%A8%B8%EB%8B%88, 2026-10-19 접속

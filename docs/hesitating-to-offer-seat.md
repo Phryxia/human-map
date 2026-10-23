@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #사고 #집단
+#공공
 
 [^1]: [학술] "억제요인으로는 '양보에 수반되는 당사자의 신체·심리적 부담감' 요인, '양보거래 상황에서 발생하는 심리적 거부감' 요인, 주변에 양보할만한 다른 사람이 있는 경우와 같은 '책임분산' 요인 그리고 '양보상황해석의 애매성' 요인이 중요한 것으로 나타났다." — 최상진, 박가열, 손영미, 이장주, 「지하철에서 누가, 왜 자리를 양보하는가?: 양보유발요인과 억제요인을 중심으로」, 한국심리학회지: 문화 및 사회문제 9(1), 2003, https://koreascience.or.kr/article/JAKO200330758883987.page, 2026-10-20 접속
 [^2]: [매체] "39% of the public cite ‘fear of causing offence’ as a reason for not offering an older person their seat." (응답자의 39%가 노인에게 자리를 권하지 않는 이유로 ‘불쾌하게 할까 봐 두려움’을 꼽는다.) — Anchor, "Poor "public transport etiquette" cutting off a lifeline for older people", 보도자료, 2019-02-01, https://www.anchor.org.uk/media/poor-public-transport-etiquette-cutting-lifeline-older-people, 2026-10-20 접속

@@ -38,7 +38,7 @@ Kahneman, Knetsch, Thaler 는 1990년 논문 초록에서 이론의 예상과 �
 
 없음.
 
-#사고 #돈
+#돈 #마음
 
 [^1]: [학술] "Contrary to theoretical expectations, measures of willingness-to-accept greatly exceed measures of willingness-to-pay." (이론적 기대와 달리 수용 의사 금액의 측정값이 지불 의사 금액의 측정값을 크게 넘는다.) — Daniel Kahneman, Jack L. Knetsch, Richard H. Thaler, "Experimental Tests of the Endowment Effect and the Coase Theorem", Journal of Political Economy 98(6), 1990-12, https://ideas.repec.org/a/ucp/jpolec/v98y1990i6p1325-48.html, 2026-10-16 접속
 [^2]: [학술] "We found a significant effect of possession, but not of factual ownership, on monetary valuation of the object." (대상의 금전적 가치 평가에 유의한 효과를 낸 것은 사실상의 소유가 아니라 점유였다.) — Jochen Reb, Terry Connolly, "Possession, feelings of ownership and the endowment effect", Judgment and Decision Making 2(2), 2007-04, https://dlab.sauder.ubc.ca/sjdm/journal/06131/jdm06131.htm, 2026-10-16 접속

@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #돈
+#돈
 
 [^1]: [문학] "He was hopelessly in debt to his landlady, and was afraid of meeting her." (그는 하숙집 여주인에게 갚을 길 없이 빚을 지고 있었고 그와 마주치기를 두려워했다.) — Fyodor Dostoevsky, Crime and Punishment, Constance Garnett 옮김, 1866, https://gutenberg.org/cache/epub/2554/pg2554-images.html, 2026-10-18 접속
 [^2]: [매체] "옆에 있던 추심원은 “여기(채권팀) 전화번호가 ‘716’으로 시작하는데 연체자들이 발신자 번호 표시에 ‘716’이 뜨면 아예 안받는다”고 귀띔해줬다." — 정길근, "쫓고 쫓기는 '빚과의 전쟁'", 경향신문, 2003-11-19, https://www.khan.co.kr/article/200311191818391/amp, 2026-10-18 접속

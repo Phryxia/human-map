@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #행동
+#마음
 
 [^1]: [공공] "Being scared to visit the dentist can result in delaying or avoiding dental treatment." (치과에 가기를 무서워하면 치과 치료를 미루거나 피하게 될 수 있다.) — Victoria State Government, "Dental anxiety and phobia", Better Health Channel, 발행일 미상, https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/dental-anxiety-and-phobia, 2026-10-20 접속
 [^2]: [매체] "이들은 통증으로 잠을 못자고 얼굴이 퉁퉁 부어오를 때까지, 그야말로 '응급상황'까지 미루다가 치과에 온다." — "[헬스케어]치과를 무서워하지 마세요", 주간경향, 2005-02-01, https://weekly.khan.co.kr/article/9058, 2026-10-20 접속

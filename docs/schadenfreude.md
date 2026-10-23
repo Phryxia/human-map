@@ -39,7 +39,7 @@
 
 없음.
 
-#감정 #관계
+#관계
 
 [^1]: [문학] "The unbelievers rejoiced, and as for the believers some of them rejoiced even more than the unbelievers, for “men love the downfall and disgrace of the righteous,”" (믿지 않는 이들은 기뻐했고, 믿는 이들 가운데 일부는 믿지 않는 이들보다 더 기뻐했다. "사람은 의인의 몰락과 치욕을 좋아하기" 때문이다.) — Fyodor Dostoevsky, The Brothers Karamazov, Book VII, Chapter I, Constance Garnett 옮김, Project Gutenberg, 1880, https://www.gutenberg.org/cache/epub/28054/pg28054-images.html, 2026-10-19 접속
 [^2]: [문학] "때때로 공상을 바꾸어서, Y가 이제 시집을 갔다가 몇 달이 못 되어서 대단히 불행하게 되어 돌아오리란 생각을 여러 가지로 하여보았다. 이때는 참 통쾌하였다." — 김동인, 「마음이 옅은 자여」, 창조, 위키문헌, 1919, https://ko.wikisource.org/wiki/%EB%A7%88%EC%9D%8C%EC%9D%B4_%EC%98%85%EC%9D%80_%EC%9E%90%EC%97%AC, 2026-10-19 접속

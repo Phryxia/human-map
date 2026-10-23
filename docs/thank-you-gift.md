@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [매체] "큰 선물이나 도움을 받고도 경황이 없어 답례를 못했을 경우 예의를 차리지 못했다는 생각에 마음이 개운치 않을 수도 있다." — 김종표, 「답례품 고르기」, 전북일보, 2022-11-14, https://www.jjan.kr/article/20221114580006, 2026-10-18 접속
 [^2]: [학술] "A thank‐you gift seems to be best predicted by the emotion of indebtedness." (감사 선물은 부채감이라는 감정으로 가장 잘 예측되는 것으로 보인다.) — Shigehiro Oishi, Minha Lee, Minkyung Koo, Youngjae Cha, "The psychology of a thank‐you gift: Who gives it and why?", Applied Psychology: Health and Well-Being 17, 2025-05-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC12106001/, 2026-10-18 접속

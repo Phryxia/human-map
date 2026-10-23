@@ -42,7 +42,7 @@ NIAAA 의 대학 음주 안내 자료[^1]는 학생들이 대학에 오기 전�
 
 없음.
 
-#사고 #집단
+#공공
 
 [^1]: [공공] "It is common for students to bring risky drinking habits with them to college and to have expectations that excessive alcohol use is widespread and accepted on campus." (학생들이 위험한 음주 습관을 대학에 가지고 오고 캠퍼스에서 과도한 음주가 널리 퍼져 있고 받아들여진다고 기대하는 일은 흔하다.) — National Institute on Alcohol Abuse and Alcoholism, "CollegeAIM: Frequently Asked Questions", College Drinking: Changing the Culture, 발행일 미상, https://www.collegedrinkingprevention.gov/collegeaim/faqs, 2026-10-20 접속
 [^2]: [학술] "All studies found widespread evidence of pluralistic ignorance: Students believed that they were more uncomfortable with campus alcohol practices than was the average student." (모든 연구에서 다원적 무지의 증거가 널리 나타났다. 학생들은 자신이 평균적인 학생보다 캠퍼스 음주 관행을 더 불편하게 여긴다고 믿었다.) — Deborah A. Prentice, Dale T. Miller, "Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm", Journal of Personality and Social Psychology 64(2), 1993, https://www.gsb.stanford.edu/faculty-research/publications/pluralistic-ignorance-alcohol-use-campus-some-consequences, 2026-10-20 접속

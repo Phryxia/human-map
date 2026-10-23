@@ -46,7 +46,7 @@
 
 없음.
 
-#사고 #감정 #혼자
+#마음
 
 [^1]: [문학] "the evening, though as it passed it seemed long, was not long enough to determine her feelings towards one in that mansion; and she lay awake two whole hours, endeavouring to make them out." (저녁은 지나는 동안 길게 느껴졌지만 그 저택의 한 사람에 대한 자기 감정을 정하기에는 충분히 길지 않았다. 그녀는 그 감정을 알아내려 애쓰며 꼬박 두 시간을 깨어 누워 있었다.) — Jane Austen, Pride and Prejudice, T. Egerton, 1813, https://www.gutenberg.org/cache/epub/1342/pg1342-images.html, 2026-10-18 접속
 [^2]: [문학] "Though I had now extinguished my candle and was laid down in bed, I could not sleep for thinking of his look when he paused in the avenue, and told how his destiny had risen up before him" (이제 촛불을 끄고 침대에 누웠지만 그가 가로수 길에서 멈춰 서서 자기 운명이 눈앞에 솟아올랐다고 말하던 때의 표정을 생각하느라 잠들 수 없었다) — Charlotte Brontë, Jane Eyre, Smith, Elder & Co., 1847, https://www.gutenberg.org/cache/epub/1260/pg1260-images.html, 2026-10-18 접속

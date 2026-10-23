@@ -39,7 +39,7 @@
 
 없음.
 
-#사고 #집단
+#공공
 
 [^1]: [문학] "no one would allow that he could not see these much-admired clothes; because, in doing so, he would have declared himself either a simpleton or unfit for his office." (누구도 그 칭송받는 옷이 자기 눈에 보이지 않는다고 인정하려 하지 않았다. 그렇게 하면 자신이 바보이거나 직위에 맞지 않는 사람이라고 밝히는 셈이었기 때문이다.) — Hans Christian Andersen, "The Emperor's New Clothes", Andersen's Fairy Tales, Project Gutenberg, 1837, https://www.gutenberg.org/cache/epub/1597/pg1597-images.html, 2026-10-20 접속
 [^2]: [학술] "Hesitators, who observe others when in doubt, basing subsequent decision on social proof. It is shown how groups of the latter may end in a state of pluralistic ignorance leading to inaction." (주저하는 사람들은 확신이 없을 때 남을 관찰하고 사회적 증거에 따라 결정한다. 이런 사람들의 집단이 어떻게 행동하지 않음으로 이어지는 다원적 무지 상태에 이를 수 있는지 보인다.) — Rasmus K. Rendsvig, "Pluralistic ignorance in the bystander effect: informational dynamics of unresponsive witnesses in situations calling for intervention", Synthese 191(11), 2014, https://lup.lub.lu.se/search/publication/5154967, 2026-10-20 접속

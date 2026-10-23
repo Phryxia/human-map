@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고 #돈
+#돈 #공공
 
 [^1]: [문학] ""I wish to be left alone," said Scrooge. "Since you ask me what I wish, gentlemen, that is my answer. I don't make merry myself at Christmas and I can't afford to make idle people merry." ("혼자 내버려 두기를 바라오." 스크루지가 말했다. "내가 무얼 바라는지 물으시니, 신사분들, 그게 내 대답이오. 나는 크리스마스에 나 자신도 즐기지 않고 게으른 사람들을 즐겁게 해 줄 여유도 없소.) — Charles Dickens, A Christmas Carol, 1843, https://www.gutenberg.org/files/46/46-h/46-h.htm, 2026-10-19 접속
 [^2]: [공공] "significant numbers of donors also indicated that they did not like the ways in which requests for donations were made, they did not think that the money would be used efficiently" (상당수의 기부자는 기부 요청 방식이 마음에 들지 않았고 돈이 효율적으로 쓰일 것이라고 생각하지 않았다고도 답했다) — Statistics Canada, Caring Canadians, Involved Canadians: Highlights from the 2007 Canada Survey of Giving, Volunteering and Participating, Summary, 2009, https://www.statcan.gc.ca/pub/71-542-x/2009001/summary-sommaire-eng.htm, 2026-10-19 접속

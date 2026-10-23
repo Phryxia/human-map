@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #집단
+#관계
 
 [^1]: [학술] "People paid nearly three times as much for their drinks when eyes were displayed rather than a control image." (사람들은 대조 그림 대신 눈 그림이 붙어 있을 때 음료값을 거의 세 배 냈다.) — Melissa Bateson, Daniel Nettle, Gilbert Roberts, "Cues of being watched enhance cooperation in a real-world setting", Biology Letters 2(3), 2006-09, https://pmc.ncbi.nlm.nih.gov/articles/PMC1686213/, 2026-10-22 접속
 [^2]: [매체] "As we care what other people think about us, we behave better and more honestly when we feel we are being observed." (우리는 남이 우리를 어떻게 생각하는지 신경 쓰기 때문에 관찰당한다고 느낄 때 더 바르고 정직하게 행동한다.) — Newcastle University Press Office, "Watching eyes prevent littering", 2015-12-01, https://www.ncl.ac.uk/press/articles/archive/2015/12/eyeslittering/, 2026-10-22 접속

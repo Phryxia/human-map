@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #집단
+#건강
 
 [^1]: [학술] "Covering respiratory events with the hand (64·4%) was the most common behaviour observed. The use of a tissue or handkerchief (3·4%) and covering with elbow or arm (1·3%) were much less common." (호흡기 사건을 손으로 가리는 것(64.4%)이 가장 흔히 관찰된 행동이었다. 휴지나 손수건 사용(3.4%)과 팔꿈치나 팔로 가리기(1.3%)는 훨씬 드물었다.) — Tamsin Barry, Sarah Manning, Ming Sheng Lee, Robert Eggleton, Sam Hampton, Jasleen Kaur, Michael G. Baker, Nick Wilson, "Respiratory hygiene practices by the public during the 2009 influenza pandemic: an observational study", Influenza and Other Respiratory Viruses, 2011-09, https://pmc.ncbi.nlm.nih.gov/articles/PMC4942042/, 2026-10-20 접속
 [^2]: [공공] "However, only 57 per cent of the respondents always covered their mouth and nose when coughing or sneezing." (그러나 기침하거나 재채기할 때 늘 입과 코를 가린 응답자는 57%뿐이었다.) — Centre for Health Protection, Department of Health, "CHP survey shows personal hygiene not fully practised by public", 홍콩 정부 보도자료, 2014-07-10, https://www.info.gov.hk/gia/general/201407/10/P201407100694.htm, 2026-10-21 접속

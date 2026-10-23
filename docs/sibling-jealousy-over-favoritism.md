@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #관계
+#관계
 
 [^1]: [문학] "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him." (그의 형들은 아버지가 형제들 누구보다 그를 더 사랑하는 것을 보고 그를 미워하여 그에게 평안히 말할 수 없었다.) — The Holy Bible, King James Version, Genesis 37:4, 1611, https://www.gutenberg.org/cache/epub/10/pg10-images.html, 2026-10-21 접속
 [^2]: [문학] "Nay now I see She is your treasure, she must haue a husband, I must dance bare-foot on her wedding day, And for your loue to her, leade Apes in hell." (이제 알겠어요, 저 애가 아버지의 보물이죠. 저 애는 남편을 얻어야 하고 저는 저 애 결혼식 날 맨발로 춤을 춰야 하고, 아버지가 저 애를 아끼는 탓에 지옥에서 원숭이나 끌고 다녀야겠죠.) — William Shakespeare, The Taming of the Shrew, First Folio, 1623, https://www.gutenberg.org/cache/epub/1107/pg1107-images.html, 2026-10-21 접속

@@ -34,7 +34,7 @@
 
 없음.
 
-#사고 #감정
+#관계
 
 [^1]: [문학] "when we are sick in fortune, often the surfeits of our own behaviour, we make guilty of our disasters the sun, the moon, and the stars" (운이 기울면 대개는 우리 자신의 지나친 행실 탓인데도 우리는 우리의 재앙을 해와 달과 별의 죄로 돌린다) — William Shakespeare, King Lear, Project Gutenberg, 1606, https://www.gutenberg.org/cache/epub/1532/pg1532-images.html, 2026-10-22 접속
 [^2]: [매체] "And many get angry because they believe that God is responsible for the negative events in their lives." (그리고 많은 사람이 신이 자기 삶의 부정적인 일에 책임이 있다고 믿기 때문에 화를 낸다.) — Serena Gordon, "Anger at God common during times of crisis, study finds", HealthDay, 2011-01-03, https://www.healthday.com/health-news/general-health/anger-at-god-common-during-times-of-crisis-study-finds-647935.html, 2026-10-22 접속

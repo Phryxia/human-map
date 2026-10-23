@@ -46,7 +46,7 @@
 
 없음.
 
-#사고 #감정 #혼자
+#관계
 
 [^1]: [학술] "Individuals with social anxiety are prone to engage in post event processing (PEP), a post mortem review of a social interaction that focuses on negative elements." — Matthew Price, Page L. Anderson, "The Impact of Cognitive Behavioral Therapy on Post Event Processing Among Those with Social Anxiety Disorder", Behaviour Research and Therapy, 2010-11-25, https://pmc.ncbi.nlm.nih.gov/articles/PMC3057069/, 2026-10-16 접속
 [^2]: [학술] "셋째, 부정적 평가에 대한 두려움이 사후반추사고를 통해 발표불안에 영향을 미치는 경로에서 경험회피가 조절된 매개효과를 가지는 것으로 나타났다." — 박소원, 이아라, 「부정적 평가에 대한 두려움 및 사후반추사고가 대학생의 발표불안에 미치는 영향: 경험회피의 조절된 매개효과」, 상담학연구 20(2), 2019, https://scholarworks.gnu.ac.kr/handle/sw.gnu/10417, 2026-10-18 접속

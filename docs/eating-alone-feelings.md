@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #행동 #혼자
+#마음
 
 [^1]: [매체] "식사시간을 남의 눈치를 보지 않고 오롯이 자신을 위한 시간으로 쓰겠다는 인식이 퍼지면서 혼밥은 쓸쓸함의 동의어에서 자유의 동의어로 바뀌고 있다." — 전북일보 시민기자 기고, "[참여&소통 2018 시민기자가 뛴다] '혼밥', 외로움에서 자유로 의미를 바꿔가다", 2018-09-04, https://www.jjan.kr/article/20180904648824, 2026-10-15 접속
 [^2]: [학술] "Analyses demonstrated that mental distress was linked with living with others/eating alone and living/eating alone, of which relationships were mediated by loneliness only among women." — Nan Sook Park, Yuri Jang, Soondool Chung, David Chiriboga, William Haley, "Living/Eating Arrangement, Loneliness, and Mental Distress among Older Korean Immigrants: Gender Difference", Innovation in Aging 5(Suppl 1), 2021-12-17, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8682511/, 2026-10-16 접속

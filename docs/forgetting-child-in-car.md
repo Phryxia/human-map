@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#마음
 
 [^1]: [SNS] "Her day care at the time was on my way to work – well autopilot kicked in and I didn’t realize I had forgotten to take her to day care until I pulled into the parking lot at work." (그때 아이의 어린이집은 출근길에 있었는데 자동 운항 상태가 되어 회사 주차장에 들어설 때까지 아이를 어린이집에 데려다주는 것을 잊은 줄 몰랐다.) — Straight Dope, 댓글, 2008-08-25, https://boards.straightdope.com/t/have-you-ever-forgotten-your-kids/461187, 2026-10-22 접속
 [^2]: [매체] "Our conscious mind prioritizes things by importance, but on a cellular level, our memory does not." (우리의 의식은 일을 중요도에 따라 줄 세우지만 세포 수준에서 기억은 그러지 않는다.) — Kate Harding, "You are potentially capable of forgetting your child", Salon, 2009-03-09, https://www.salon.com/2009/03/09/fatal_distraction/, 2026-10-22 접속

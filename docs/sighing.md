@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정
+#마음
 
 [^1]: [문학] "“I have no more to say,” said I, with a sigh, after standing silent for a little while." ('더 할 말이 없어요.' 한동안 말없이 서 있다가 나는 한숨을 쉬며 말했다.) — Charles Dickens, "Great Expectations", Project Gutenberg, 1861, https://www.gutenberg.org/cache/epub/1400/pg1400-images.html, 2026-10-21 접속
 [^2]: [학술] "Results consistently showed that more sighing occurred during conditions of relief compared to conditions of stress." (결과는 일관되게 스트레스 조건보다 안도 조건에서 한숨이 더 많이 일어났음을 보여 주었다.) — Elke Vlemincx 외, "Why do you sigh? Sigh rate during induced stress and relief", Psychophysiology 46, 2009, https://research.vu.nl/en/publications/why-do-you-sigh-sigh-rate-during-induced-stress-and-relief/, 2026-10-21 접속

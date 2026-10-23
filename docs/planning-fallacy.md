@@ -34,7 +34,7 @@
 
 없음.
 
-#사고 #시간
+#시간 #마음
 
 [^1]: [학술] "People tend to underestimate the work involved in completing tasks and consequently finish tasks later than expected or do an inordinate amount of work right before projects are due." (사람들은 일을 끝내는 데 드는 작업을 적게 어림하는 경향이 있고 그 결과 예상보다 늦게 끝내거나 마감 직전에 지나치게 많은 일을 한다.) — Markus K. Brunnermeier, Filippos Papakonstantinou, Jonathan A. Parker, "An Economic Model of the Planning Fallacy", NBER Working Paper 14228, 2008-08, https://www.nber.org/papers/w14228, 2026-10-19 접속
 [^2]: [학술] "People are prone to underestimate how long tasks will take them." (사람들은 일에 걸릴 시간을 짧게 어림하기 쉽다.) — D. Morrissey, "The planning fallacy put into context: Investigating the role of control in human time perception", 옥스퍼드 대학교 박사학위논문, Oxford University Research Archive, 2019, https://ora.ox.ac.uk/objects/uuid:b88ad670-ba67-447f-914a-3b1ba787c490, 2026-10-19 접속

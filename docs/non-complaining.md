@@ -45,7 +45,7 @@
 
 없음.
 
-#행동 #돈
+#돈 #관계
 
 [^1]: [학술] "However, many dissatisfied individuals do not complain at all; rather, they remain silent, switch, or quit usage." (그러나 불만을 느낀 많은 사람이 아예 불평하지 않는다. 대신 침묵하거나 옮겨 가거나 사용을 그만둔다.) — Markus Salo, Markus Makkonen, "Why not complain? A paradoxical problem for mobile service and application providers", AIS Electronic Library, 2014, https://jyx.jyu.fi/jyx/Record/jyx_123456789_55942/Description, 2026-10-17 접속
 [^2]: [학술] "Customers do not necessarily express their dissatisfaction through complaints. Consequently, their grievances might never be heard." (고객은 불만을 반드시 불평으로 드러내지는 않는다. 그래서 그들의 불만은 끝내 전해지지 않을 수 있다.) — Shiling Kwok, "Can’t complain? Factors influencing dissatisfied customers’ non-complaining behaviour", New Vistas, 2019-10-15, https://repository.uwl.ac.uk/id/eprint/6500/, 2026-10-17 접속

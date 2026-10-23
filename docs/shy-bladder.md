@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #행동
+#관계
 
 [^1]: [SNS] "It is terrifying for me to use a public urinal when someone is using the urinal next to me. The problem is even worse when the person next to me is someone I know." (옆 소변기를 누가 쓰고 있을 때 공중 소변기를 쓰는 건 나에게 무서운 일이다. 옆 사람이 아는 사람이면 더 심하다.) — Straight Dope 게시글, 2004-10-13, https://boards.straightdope.com/t/im-pee-shy/268962, 2026-10-18 접속
 [^2]: [매체] "Dating is a nightmare. Jobs with shared bathrooms or close working quarters add to the pressure. Long trips by car or, particularly, plane are nearly impossible." (연애는 악몽이다. 화장실을 같이 쓰거나 가까이 붙어 일하는 직장은 압박을 더한다. 자동차나 특히 비행기로 하는 긴 여행은 거의 불가능하다.) — The Philadelphia Inquirer, 「Shy bladder sufferers work to overcome their anxiety」, 2010-05-04, https://inquirer.com/philly/health/Shy_bladder_sufferers_work_to_overcome_their_anxiety.html, 2026-10-18 접속

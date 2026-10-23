@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #돈 #집단
+#돈
 
 [^1]: [문학] "If we walked to or from a party, it was because the night was so fine, or the air so refreshing, not because sedan-chairs were expensive." (우리가 모임에 걸어서 가거나 돌아온다면 그것은 밤이 아주 좋거나 공기가 아주 상쾌해서였지 가마가 비싸서가 아니었다.) — Elizabeth Gaskell, Cranford, 1853, https://www.gutenberg.org/cache/epub/394/pg394-images.html, 2026-10-20 접속
 [^2]: [문학] "한번은 이틀이나 굶고 일자리를 찾다가 집으로 들어가니 부엌 앞에서 아내가(아내는 이때 아이를 배어서 배가 남산만하였다) 무엇을 먹다가 깜짝 놀란다. 그리고 손에 쥐었던 것을 얼른 아궁이에 집어넣는다." — 최서해, 「탈출기」, 조선문단 6, 1925-03, https://ko.wikisource.org/wiki/탈출기, 2026-10-17 접속

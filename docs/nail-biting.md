@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정
+#마음
 
 [^1]: [문학] "D’Artagnan, who for an hour past had been gnawing his nails with impatience, was beginning to attack the quick." (한 시간 전부터 초조해서 손톱을 물어뜯던 달타냥은 손톱 밑 살을 물어뜯기 시작하고 있었다.) — Alexandre Dumas, "The Three Musketeers", Project Gutenberg, 1844, https://www.gutenberg.org/cache/epub/1257/pg1257-images.html, 2026-10-21 접속
 [^2]: [매체] "어릴 때는 엄마에게 혼 난 뒤, 엄마가 옆에 없어서 불안할 때, 또 부모의 사랑이 부족하다고 느낄 때 등 심리상태가 불안하거나 심심할 때 가볍게 시작되지만 버릇이 되면 커서도 무의식적으로 계속된다." — 박양명, "손톱 물어뜯기, 턱관절 장애까지?", 코메디닷컴, 2010-02-01, https://kormedi.com/1192400/, 2026-10-21 접속

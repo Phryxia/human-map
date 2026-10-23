@@ -40,7 +40,7 @@ NHS Borders 의 안내문 자료[^1]는 불안할 때 술이 주는 이완감이
 
 없음.
 
-#감정 #행동
+#마음
 
 [^1]: [공공] "If you experience anxiety, alcohol can you give you a short lived feeling of relaxation, but this quickly disappears and may make things worse or create other problems." (불안을 겪으면 술이 짧은 이완감을 줄 수 있지만 그 느낌은 곧 사라지고 상황을 더 나쁘게 하거나 다른 문제를 만들 수 있다.) — NHS Borders, "Limit Alcohol", Creating Hope: Ways to be well, 발행일 미상, https://www.nhsborders.scot.nhs.uk/creating-hope/ways-to-be-well/limit-alcohol/, 2026-10-18 접속
 [^2]: [문학] "그렇지 않으면 술밖에 먹을 게 도무지 없지. 나도 전자에는 무엇을 좀 해보겠다고 애도 써보았어. 그것이 모다 수포야." — 현진건, 「술 권하는 사회」, 1921, https://ko.wikisource.org/wiki/술_권하는_사회, 2026-10-17 접속

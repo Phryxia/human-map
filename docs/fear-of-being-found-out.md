@@ -34,7 +34,7 @@
 
 없음.
 
-#감정 #사고
+#마음
 
 [^1]: [문학] "They heard!—they suspected!—they knew!—they were making a mockery of my horror!—this I thought, and this I think." (그들은 들었다! 의심했다! 알고 있었다! 그들은 내 공포를 조롱하고 있었다! 나는 그렇게 생각했고 지금도 그렇게 생각한다.) — Edgar Allan Poe, "The Tell-Tale Heart", Project Gutenberg, 1843, https://www.gutenberg.org/cache/epub/2148/pg2148-images.html, 2026-10-19 접속
 [^2]: [문학] "앞으로 들고 나갔으면 좋은 테지만 그러다 안해에게 들키면 아주 혼이 난다." — 김유정, 「솥」, 위키문헌, 1935, https://ko.wikisource.org/wiki/%EC%86%A5, 2026-10-19 접속

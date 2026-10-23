@@ -40,7 +40,7 @@ Tversky 와 Kahneman 은 1991년 논문에서 손실과 불리함이 이득과 �
 
 없음.
 
-#사고 #감정 #돈
+#돈 #마음
 
 [^1]: [학술] "The central assumption of the theory is that losses and disadvantages have greater impact on preferences than gains and advantages." (이론의 중심 가정은 손실과 불리함이 이득과 유리함보다 선호에 더 큰 영향을 준다는 것이다.) — Amos Tversky, Daniel Kahneman, "Loss Aversion in Riskless Choice: A Reference-Dependent Model", The Quarterly Journal of Economics 106(4), 1991, https://ideas.repec.org/a/oup/qjecon/v106y1991i4p1039-1061..html, 2026-10-15 접속
 [^2]: [학술] "Emotional attachment alters loss aversion by moderating the degree to which parting with an item involves a loss" (정서적 애착은 물건을 내놓는 일이 손실이 되는 정도를 조절해 손실 회피를 바꾼다) — Dan Ariely, Joel Huber, Klaus Wertenbroch, "When do losses loom larger than gains?", Journal of Marketing Research 42(2), 2005-01, https://scholars.duke.edu/publication/777634, 2026-10-15 접속

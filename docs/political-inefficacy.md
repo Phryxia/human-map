@@ -40,7 +40,7 @@
 
 없음.
 
-#사고 #집단
+#공공
 
 [^1]: [학술] "the weakening of party identification and declining beliefs about government responsiveness, that is, lowered feelings of “external” political efficacy." (정당 일체감의 약화와 정부가 응답한다는 믿음의 감소, 곧 낮아진 "외부" 정치 효능감) — Paul R. Abramson, John H. Aldrich, "The Decline of Electoral Participation in America", American Political Science Review 76(3), 1982, https://ideas.repec.org/a/cup/apsrev/v76y1982i03p502-521_18.html, 2026-10-18 접속
 [^2]: [공공] "반면 “투표하지 않겠다.”는 응답자들의 이유로는 “투표해도 바뀌는 것이 없어서”가 38.9%로 가장 많고, 다음이 “정치에 관심이 없어서”가 22.0%, “후보자를 잘 몰라서”가 18.2%로 조사되었다." — 중앙선거관리위원회, 보도자료 「5·31지방선거 제2차 유권자 의식조사」, 2006-05-28, https://www.nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1090&bcIdx=135117, 2026-10-19 접속

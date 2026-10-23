@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #행동 #돈
+#돈
 
 [^1]: [매체] "아직도 상당수 사람들은 이 같은 권력기관이라면 지레 겁을 먹는 현실이 너무나 아쉽다." — 오명균, 「보이스 피싱」, 경기일보, 2010-06-20, https://kyeonggi.com/article/201006200365641, 2026-10-21 접속
 [^2]: [공공] "The scam is severely underreported, as many victims are often embarrassed and do not want to tell anyone that they fell for the scam." (많은 피해자가 사기에 넘어갔다는 것을 창피해하고 누구에게도 말하고 싶어 하지 않아 이 사기는 신고가 크게 적다.) — New York State Office of the Attorney General, "Attorney General James Issues Warning About Scam Targeting Grandparents During Pandemic", 뉴욕주 검찰총장실 보도자료, 2021-01-06, https://ag.ny.gov/press-release/2021/attorney-general-james-issues-warning-about-scam-targeting-grandparents-during, 2026-10-21 접속

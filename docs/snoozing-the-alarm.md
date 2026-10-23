@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #혼자 #시간
+#시간
 
 [^1]: [SNS] "전 아침에 일어나는게 너무 힘들어요.. 10분만 10분만....근데 이상한건 휴대폰 알람 맞추는건 그상태에서 잘해요" — 클리앙 게시글, 2010-10-19, https://www.clien.net/service/board/park/1177183, 2026-10-18 접속
 [^2]: [매체] "He also noted that most people hit snooze during the week, when they're not getting enough sleep, and don't do it during the weekend when they are sleeping enough." (그는 대부분의 사람이 잠이 모자란 주중에 스누즈를 누르고 잠이 충분한 주말에는 누르지 않는다고도 말했다.) — CBS Minnesota, 「Good Question: Is Hitting Snooze Bad For Your Sleep?」, 2012-11-13, https://www.cbsnews.com/minnesota/news/good-question-is-hitting-snooze-bad-for-your-sleep/, 2026-10-19 접속

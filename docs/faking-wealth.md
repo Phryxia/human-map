@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #돈 #온라인
+#돈 #온라인
 
 [^1]: [문학] "there's nothing more humiliating than to look poor among other women who are rich." (부유한 다른 여자들 사이에서 가난해 보이는 것보다 더 굴욕적인 일은 없어.) — Guy de Maupassant, "The Necklace", Original Short Stories Volume 4, Project Gutenberg, 1884, https://www.gutenberg.org/cache/epub/3080/pg3080-images.html, 2026-10-22 접속
 [^2]: [매체] "일상 사진과 연출된 여행·비즈니스 사진을 조합해 고객을 부유하거나 성공한 인물처럼 보이도록 구성하는 방식이다." — 장윤우, 「200원에 요트·헬기 인증샷…SNS '가짜 부자' 만들어주는 中 신산업」, 헤럴드경제 미주판, 2026-04-16, https://www.heraldk.com/article/2026041603300049922, 2026-10-22 접속

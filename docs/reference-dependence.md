@@ -36,7 +36,7 @@
 
 없음.
 
-#사고 #감정 #돈
+#돈 #마음
 
 [^1]: [학술] "workers with salaries below the median for their pay unit and occupation report lower pay and job satisfaction, while those earning above the median report no higher satisfaction." (부서와 직종의 중위 연봉보다 적게 받는 노동자는 급여 만족과 직무 만족을 더 낮게 보고하고, 중위보다 많이 받는 노동자는 만족을 더 높게 보고하지 않는다.) — David Card, Alexandre Mas, Enrico Moretti, Emmanuel Saez, "Inequality at Work: The Effect of Peer Salaries on Job Satisfaction", NBER Working Paper 16396, 2010-09, https://www.nber.org/papers/w16396, 2026-10-18 접속
 [^2]: [매체] "그런데도 좀 유심히 보면 은메달 선수보다는 동메달 선수의 표정이 더 밝고 평온하다." — 박인기, 「4등을 위하여」, 한국교육신문, 2023-02-03, https://hangyo.com/mobile/article.html?no=98097, 2026-10-18 접속

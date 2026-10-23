@@ -36,7 +36,7 @@
 
 없음.
 
-#특성 #시간
+#시간
 
 [^1]: [매체] "저는 체질적으로 아침형이 안 맞아요. 아침에 일찍 일어나면 오히려 잠을 더 많이 자는 것 같아요. 9시만 되면 해롱대거든요." — 주간경향, 「[시사수다]"내 몸에 맞아야 '아침형'도 즐겁죠"」, 2004-02-19, https://weekly.khan.co.kr/article/6571, 2026-10-18 접속
 [^2]: [매체] "Each cycle runs at about 24 hours, but the exact timing varies from individual to individual." (각 주기는 약 24시간이지만 정확한 시점은 사람마다 다르다.) — Achim Schneider, 「Early sleep marks the end of adolescence」, Nature News, 2004-12-30, https://www.nature.com/news/2004/041229/full/news041229-5.html, 2026-10-18 접속

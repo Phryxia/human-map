@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고 #시간
+#시간 #건강
 
 [^1]: [학술] "Nearly half (45%) of the patients cited access barriers to primary care as their reason for using the emergency department." (환자의 거의 절반(45%)이 1차 진료 접근의 어려움을 응급실을 이용한 이유로 들었다.) — Kevin Grumbach, Dennis Keane, Andrew Bindman, "Primary care and public emergency department overcrowding", American Journal of Public Health 83(3), 1993-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC1694659, 2026-10-20 접속
 [^2]: [학술] "I do not know what I have, but it worried me, so I preferred to come immediately to the ED so at least I am reassured." (무엇인지 모르지만 걱정이 되어 적어도 안심이라도 하려고 바로 응급실에 오는 쪽을 택했다.) — Anne-Claire Durand 외, "Nonurgent patients in emergency departments: rational or irresponsible consumers? Perceptions of professionals and patients", BMC Research Notes 5, 2012-09-25, https://pmc.ncbi.nlm.nih.gov/articles/PMC3515357/, 2026-10-20 접속

@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #사고
+#관계
 
 [^1]: [문학] "blaming everybody but the person to whose ill-judging indulgence the errors of her daughter must be principally owing." (딸의 잘못이 주로 그 사람의 그릇된 응석받이 때문이었는데도 그 사람만 빼고 모두를 탓하며) — Jane Austen, Pride and Prejudice, 47장, 1813, https://www.gutenberg.org/files/1342/1342-h/1342-h.htm, 2026-10-18 접속
 [^2]: [문학] "내게 술을 권하는 것은 홧증도 아니고 '하이칼라'도 아니요, 이 사회란 것이 내게 술을 권한다오. 이 조선 사회란 것이 내게 술을 권한다오." — 현진건, 「술 권하는 사회」, 1921, https://ko.wikisource.org/wiki/%EC%88%A0_%EA%B6%8C%ED%95%98%EB%8A%94_%EC%82%AC%ED%9A%8C, 2026-10-18 접속

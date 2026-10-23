@@ -36,7 +36,7 @@
 
 없음.
 
-#사고 #행동
+#마음
 
 [^1]: [학술] "it shows that choice overload varies substantially as a function of the six dependent measures and four moderators examined in the domain" (선택 과부하가 이 분야에서 살핀 여섯 가지 종속 측정치와 네 가지 조절 변수에 따라 크게 달라진다는 것을 보여 준다) — B. B. McShane, U. Böckenholt, 「Multilevel Multivariate Meta-analysis with Application to Choice Overload」, Psychometrika 83(1), 2018-03, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=28527101&rettype=abstract&retmode=text, 2026-10-23 접속
 [^2]: [학술] "Evidence supports that being overwhelmed by many choice options predicts negative consequences." (많은 선택지에 압도되는 것이 부정적 결과를 예측한다는 근거가 있다.) — T. L. Saltsman 외, 「Too many fish in the sea: A motivational examination of the choice overload experience」, Biological Psychology 145, 2019-07, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30951804&rettype=abstract&retmode=text, 2026-10-23 접속

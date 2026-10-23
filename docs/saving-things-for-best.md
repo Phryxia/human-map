@@ -34,7 +34,7 @@
 
 없음.
 
-#행동 #사고 #돈
+#돈
 
 [^1]: [문학] "But I’ve plenty of grand gowns,—a week ago, I should have said they were far too grand for anything I should ever want here." (하지만 화려한 드레스는 얼마든지 있어요. 일주일 전이었다면 이곳에서 제가 입을 어떤 자리에도 너무 화려하다고 말했을 거예요.) — Elizabeth Gaskell, "North and South", Project Gutenberg, 1855, https://www.gutenberg.org/cache/epub/4276/pg4276-images.html, 2026-10-22 접속
 [^2]: [문학] "“Ah,” she said at last, “I may never wear it twice, sister; who knows?”" ("아," 마침내 그녀가 말했다. "이걸 두 번도 못 써 볼지 몰라, 언니. 누가 알겠어?") — George Eliot, "The Mill on the Floss", Project Gutenberg, 1860, https://www.gutenberg.org/cache/epub/6688/pg6688-images.html, 2026-10-22 접속

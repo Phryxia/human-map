@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #혼자
+#건강
 
 [^1]: [학술] "Of respondents with leftover drugs, 44% kept them in case of future need, and 18% had taken these drugs without medical advice." (남은 약이 있는 응답자 가운데 44% 는 나중에 필요할 때를 대비해 보관했고 18% 는 의료 조언 없이 그 약을 먹었다.) — C.A.M. McNulty, P. Boyle, T. Nichols, D.P. Clappison 외, "Antimicrobial Drugs in the Home, United Kingdom", Emerging Infectious Diseases 12(10), 2006-10, https://wwwnc.cdc.gov/eid/article/12/10/05-1471_article, 2026-10-20 접속
 [^2]: [공공] "1 in 3 either used leftover antibiotics from a previous prescription or obtained them without a prescription over the counter from a pharmacy or elsewhere." (3명 가운데 1명은 이전 처방에서 남은 항생제를 쓰거나 처방 없이 약국이나 다른 곳에서 항생제를 구했다.) — WHO Regional Office for Europe, "1 in 3 use antibiotics without prescription, WHO/Europe's study shows", 2022-11-21, https://www.who.int/europe/news/item/21-11-2022-1-in-3-use-antibiotics-without-prescription--who-europe-s-study-shows, 2026-10-20 접속

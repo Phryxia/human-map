@@ -46,7 +46,7 @@
 
 없음.
 
-#행동 #감정 #시간
+#시간 #마음
 
 [^1]: [매체] "yet I could not forbear to reproach myself for having so long neglected what was unavoidably to be done, and of which every moment's idleness increased the difficulty." (그래도 나는 피할 수 없이 해야 할 일을 그토록 오래 내버려 둔 나 자신을 꾸짖지 않을 수 없었다. 빈둥거린 순간마다 그 일은 더 어려워졌다.) — Samuel Johnson, The Rambler No. 134, 1751-06-29, https://www.gutenberg.org/cache/epub/11397/pg11397-images.html, 2026-10-17 접속
 [^2]: [학술] "In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation." (이 논문에서 우리는 자기조절 실패의 한 형태로서 미루기가 단기적 기분 회복과 감정 조절에 깊이 관련되어 있다고 주장한다.) — Fuschia Sirois, Timothy Pychyl, "Procrastination and the Priority of Short-Term Mood Regulation: Consequences for Future Self", Social and Personality Psychology Compass 7(2), 2013-02-01, https://eprints.whiterose.ac.uk/id/eprint/91793/, 2026-10-17 접속

@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #관계
+#관계
 
 [^1]: [문학] "She was ashamed, and she would have been yet more ashamed of her father than of all the rest." (그녀는 부끄러웠고 다른 무엇보다 아버지가 더 부끄러웠을 것이다.) — Jane Austen, Mansfield Park, Project Gutenberg, 1814, https://www.gutenberg.org/cache/epub/141/pg141-images.html, 2026-10-23 접속
 [^2]: [매체] "88% of the 1,500 UK teenagers who took part admitted to being regularly embarrassed by their parents." (참여한 영국 10대 1,500명의 88%가 부모 때문에 자주 창피하다고 인정했다.) — DJS Research, 「Poll finds 88% of UK teenagers embarrassed by their parents」, 2011-09, https://djsresearch.co.uk/insights/poll-finds-88percent-of-uk-teenagers-embarrassed-by-their-parents-00170, 2026-10-23 접속

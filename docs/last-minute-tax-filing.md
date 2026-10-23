@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #시간 #돈
+#돈 #시간 #마음
 
 [^1]: [매체] "About a quarter of returns are usually filed in the last three weeks before Tax Day." (신고서의 약 4분의 1은 대개 신고 마감일 전 마지막 3주에 제출된다.) — Stephen Ohlemacher (Associated Press), "Psst. Tax deadline not much of a deadline for most", MPR News, 2013-04-15, https://www.mprnews.org/story/2013/04/15/news/tax-deadline, 2026-10-17 접속
 [^2]: [매체] "On average, about 29 percent of individual tax returns are received in the three weeks leading up to Tax Day, or about 43 million returns, according to an NBC News analysis of data from the IRS" (NBC News 의 IRS 자료 분석에 따르면 개인 소득세 신고서의 평균 약 29%, 약 4,300만 건이 마감일 전 3주 동안 접수된다) — Elliott Ramos, "How many taxpayers are procrastinators? Nearly 1 in 3, IRS data shows", NBC News, 2022-04-14, https://www.nbcnews.com/data-graphics/data-point-almost-one-third-taxpayers-file-last-minute-rcna24093, 2026-10-17 접속

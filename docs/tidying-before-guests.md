@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #관계
+#관계
 
 [^1]: [문학] "Mary Higgins, the slatternly younger sister, had endeavoured as well as she could to tidy up the house for the expected visit." (단정하지 못한 여동생 메리 히긴스는 예정된 방문에 맞춰 할 수 있는 만큼 집을 정돈하려 애썼다.) — Elizabeth Gaskell, North and South, 1855, https://www.gutenberg.org/cache/epub/4276/pg4276-images.html, 2026-10-19 접속
 [^2]: [매체] "When having guests over, people will spend an hour, on average, straightening up just before they arrive." (사람들은 손님을 맞을 때 손님이 도착하기 직전에 평균 한 시간을 정리하는 데 쓴다.) — Talker Research, "Is keeping your home tidy harder than your 9-to-5?", 2024-12-20, https://talkerresearch.com/is-keeping-your-home-tidy-harder-than-your-9-to-5/, 2026-10-19 접속

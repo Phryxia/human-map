@@ -34,7 +34,7 @@
 
 없음.
 
-#감정 #행동 #관계
+#관계
 
 [^1]: [학술] "usually do not invite people home, perhaps because they are embarrassed about the clutter or anxious that someone might try to clean the house." (대개 사람을 집에 초대하지 않는데, 아마 어지러움이 부끄럽거나 누군가 집을 치우려 할까 봐 불안하기 때문일 것이다.) — Ayesha Silman, "Help your patient with hoarding disorder move the clutter to the curb", Current Psychiatry 13(9), 발행일 미상, https://blogs.the-hospitalist.org/content/help-your-patient-hoarding-disorder-move-clutter-curb, 2026-10-19 접속
 [^2]: [문학] "Now it was all coarse and common, and I would not have had Miss Havisham and Estella see it on any account." (이제 그것은 모두 거칠고 천했고, 나는 어떤 일이 있어도 해비셤 양과 에스텔라에게 그것을 보이고 싶지 않았다.) — Charles Dickens, Great Expectations, Chapter XIV, 1861, https://www.gutenberg.org/cache/epub/1400/pg1400-images.html, 2026-10-19 접속

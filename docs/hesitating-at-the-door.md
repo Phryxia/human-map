@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계 #공공
 
 [^1]: [문학] "In the afternoon he turned his steps towards his nephew’s house. He passed the door a dozen times, before he had the courage to go up and knock." (오후에 그는 조카의 집 쪽으로 발걸음을 돌렸다. 그는 올라가서 문을 두드릴 용기를 내기 전까지 그 문 앞을 열두 번이나 지나쳤다.) — Charles Dickens, "A Christmas Carol", Project Gutenberg, 1843, https://www.gutenberg.org/cache/epub/46/pg46-images.html, 2026-10-22 접속
 [^2]: [문학] "I had not, at first, the courage to ring at the gate; and when I did ring, my errand seemed to me to be expressed in the very sound of the bell." (처음에 나는 대문 종을 울릴 용기가 없었다. 그리고 막상 울렸을 때는 내 용건이 바로 그 종소리에 드러나는 것 같았다.) — Charles Dickens, "David Copperfield", Project Gutenberg, 1850, https://www.gutenberg.org/cache/epub/766/pg766-images.html, 2026-10-22 접속

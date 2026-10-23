@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#건강
 
 [^1]: [학술] "the Optimists are more likely to say that they would evacuate if necessary, but that it won’t be necessary because a hurricane isn’t going to happen." (낙관 집단은 필요하면 대피하겠지만 허리케인이 오지 않을 것이므로 그럴 필요가 없다고 말하는 경향이 더 크다.) — Yale Program on Climate Change Communication, "Hurricane Attitudes of Coastal Connecticut Residents: A Segmentation Analysis to Support Communication", Yale Program on Climate Change Communication, 2015-06-29, https://climatecommunication.yale.edu/publications/coastal-ct-hurricane-segments/toc/3/, 2026-10-21 접속
 [^2]: [학술] "when presented with situational cues that a hazard may be present, humans can fail to act on this information in a timely manner." (위험이 있을 수 있다는 상황 단서가 주어져도 사람은 그 정보에 따라 제때 행동하지 못할 수 있다.) — Isaac T. Leventon, Justin W. Bonny, "Influence of Dispositional and Situational Factors on Human Perceptions of Fire Risk", NIST, 2020-06-25, https://www.nist.gov/publications/influence-dispositional-and-situational-factors-human-perceptions-fire-risk, 2026-10-17 접속

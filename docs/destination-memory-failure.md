@@ -36,7 +36,7 @@
 
 없음.
 
-#사고 #관계
+#관계 #마음
 
 [^1]: [학술] "Being highly confident about their destination misses presumably causes older adults to repeat information more often to the same person." (목적지 기억의 놓침을 강하게 확신하는 것 때문에 노인이 같은 사람에게 정보를 더 자주 되풀이하는 것으로 추정된다.) — Nigel Gopie, Fergus I. M. Craik, Lynn Hasher, "Destination Memory Impairment in Older People", Psychology and Aging 25(4), 2010-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC3404123/, 2026-10-19 접속
 [^2]: [매체] "Have you ever realized or been informed that the person you are talking to has already heard the joke or story you are telling?" (지금 말하고 있는 상대가 당신이 하는 농담이나 이야기를 이미 들었다는 것을 깨닫거나 들은 적이 있는가?) — Suzanne Phillips, "How to Deal with Destination Memory Issues – Did I Already Tell You?", BrainBlogger, 2016-09-16, https://brainblogger.com/2016/09/16/how-to-deal-with-destination-memory-issues-did-i-already-tell-you, 2026-10-19 접속

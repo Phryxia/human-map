@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #사고 #온라인 #시간
+#시간 #온라인 #마음
 
 [^1]: [문학] "She could scarcely eat any dinner, and when they afterwards returned to the drawing room, seemed anxiously listening to the sound of every carriage." (그녀는 저녁을 거의 먹지 못했고 나중에 응접실로 돌아와서는 마차 소리 하나하나에 초조하게 귀를 기울이는 듯했다.) — Jane Austen, Sense and Sensibility, 1811, https://www.gutenberg.org/cache/epub/161/pg161-images.html, 2026-10-18 접속
 [^2]: [문학] "집에서 도무지 답전이 없길래 나도 대개는 짐작하였소. 내 아내가 화를 내어서 일부러 회답을 아니 하는 것이 분명하였소." — 이광수, 「유정」, 1933, https://ko.wikisource.org/wiki/유정, 2026-10-18 접속

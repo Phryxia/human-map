@@ -47,7 +47,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "예술가의 처 노릇을 하려는 독특(獨特)한 결심이 있는 그는 좀처럼 이런 소리를 입 밖에 내지 아니하였다. 그러나 무엇에 상당한 자극만 받으면 참고 참았던 이런 소리를 하게 되는 것이다." — 현진건, 「빈처」, 1921, https://ko.wikisource.org/wiki/빈처, 2026-10-17 접속
 [^2]: [학술] "Self-silencing is defined as the tendency to limit self-expression or speaking, often to avoid conflict, preserve harmony, or maintain relationships" (자기 침묵은 흔히 갈등을 피하거나 조화를 지키거나 관계를 유지하려고 자기 표현이나 말을 제한하는 경향으로 정의된다) — Jewel Scott, Kortney Floyd James, Dara D Méndez, Ragan Johnson, Esa M Davis, "The wear and tear of racism: Self-silencing from the perspective of young Black women", SSM Qualitative Research in Health, 2023-04-10, https://pmc.ncbi.nlm.nih.gov/articles/PMC10421612/, 2026-10-17 접속

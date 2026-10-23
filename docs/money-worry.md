@@ -35,7 +35,7 @@
 
 없음.
 
-#감정 #사고 #돈
+#돈
 
 [^1]: [학술] "participants who endorsed ongoing financial strain took longer to fall asleep (35.44 versus 23.53 minutes) and spent more time awake after sleep onset (87.93 versus 68.94 minutes)" (오래 이어지는 재정 압박을 겪는다고 답한 참가자는 잠드는 데 더 오래 걸렸고(35.44분 대 23.53분) 잠든 뒤 깨어 있는 시간이 더 길었다(87.93분 대 68.94분).) — Martica Hall 외, "Financial Strain is a Significant Correlate of Sleep Continuity Disturbances in Late-Life", Biological Psychology, 2007-11-04, https://pmc.ncbi.nlm.nih.gov/articles/PMC2267650/, 2026-10-21 접속
 [^2]: [매체] "Being employed and having a higher income are both associated with lower levels of worry." (일자리가 있는 것과 소득이 높은 것은 모두 걱정이 낮은 것과 관련이 있다.) — Frank Newport, "Worry About Money Peaks With Forty-Somethings", Gallup, 2009-02-27, https://news.gallup.com/poll/116131/Worry-Money-Peaks-Forty-Somethings.aspx, 2026-10-21 접속

@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#건강
 
 [^1]: [공공] "Approximately 40% of beneficiaries who reported not receiving recent influenza vaccination cited concerns about the vaccine, including thinking it could cause influenza, could have side effects" (최근 독감 예방접종을 받지 않았다고 답한 수급자의 약 40%가 백신이 독감을 일으키거나 부작용이 있을 수 있다는 생각을 비롯한 백신에 대한 걱정을 이유로 들었다.) — Centers for Disease Control and Prevention, "Reasons Reported by Medicare Beneficiaries for Not Receiving Influenza and Pneumococcal Vaccinations — United States, 1996", MMWR 48(39), 1999-10-08, https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4839a4.htm, 2026-10-19 접속
 [^2]: [학술] "The most common reasons listed by those who had not been vaccinated were good health (27.6%), lack of trust in vaccination effectiveness (16.8%), and the cost of vaccination (9.7%)." (접종하지 않은 사람들이 가장 흔히 든 이유는 건강이 좋다는 것(27.6%), 백신 효과에 대한 불신(16.8%), 접종 비용(9.7%)이었다.) — P. Kardas, A. Zasowska, J. Dec, M. Stachurska, "Reasons for low influenza vaccination coverage – a cross-sectional survey in Poland", Croatian Medical Journal 52(2), 2011-04, https://pmc.ncbi.nlm.nih.gov/articles/PMC3081210/, 2026-10-19 접속

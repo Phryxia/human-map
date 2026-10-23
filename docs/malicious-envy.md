@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #행동 #관계
+#관계
 
 [^1]: [문학] "Lisbeth was possessed by the wish to crush the haughty attitude assumed by all the Hulots." (리스베트는 윌로 집안 사람들 모두가 보이는 오만한 태도를 짓밟고 싶은 마음에 사로잡혔다.) — Honoré de Balzac, Cousin Betty, Project Gutenberg, 1846, https://www.gutenberg.org/cache/epub/1749/pg1749-images.html, 2026-10-19 접속
 [^2]: [학술] "Two studies investigated the appraisals that distinguish benign envy (aimed at improving one’s own situation) from malicious envy (aimed at pulling down the superior other)." (두 연구는 양성 시기(자기 처지를 높이려는 것)와 악의적 시기(앞선 사람을 끌어내리려는 것)를 가르는 평가를 조사했다.) — Niels van de Ven, Marcel Zeelenberg, Rik Pieters, "Appraisal patterns of envy and related emotions", Motivation and Emotion, 2011-07-10, https://link.springer.com/article/10.1007/s11031-011-9235-8, 2026-10-19 접속

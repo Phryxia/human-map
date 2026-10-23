@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #시간
+#일 #시간
 
 [^1]: [학술] "reported that they had gone to work two or more times during the preceding year despite the feeling that, in the light of their perceived state of health, they should have taken sick leave" (건강 상태로 보아 병가를 냈어야 했다는 느낌이 있는데도 지난 1년 동안 두 번 이상 출근했다고 보고했다) — G Aronsson, K Gustafsson, M Dallner, "Sick but yet at work. An empirical study of sickness presenteeism", Journal of Epidemiology and Community Health, 2000-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC1731716/, 2026-10-17 접속
 [^2]: [매체] "‘귀하는 아파고 참고 출근한 적이 있는가?’에 대한 질문에 96.8%(729명)가 '그렇다‘라고 답했다. 이들은 출근한 이유 1순위로 ‘성실과 책임을 다하는 조직문화를 조성하기 위해’(46.9%)를 꼽았다." — 잡코리아, 「직장인 96.8%, 아파도 참고 출근하는 프레전티이즘」, 뉴스와이어, 2007-03-06, https://www.newswire.co.kr/newsRead.php?no=231335, 2026-10-17 접속

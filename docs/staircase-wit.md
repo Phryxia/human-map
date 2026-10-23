@@ -38,7 +38,7 @@
 
 없음.
 
-#사고 #감정 #관계
+#관계 #마음
 
 [^1]: [매체] "Cette apostrophe me déconcerte et me réduit au silence, parce que l’homme sensible, comme moi, tout entier à ce qu’on lui objecte, perd la tête et ne se retrouve qu’au bas de l’escalier." (이 반박은 나를 당황하게 하고 말문을 막는다. 나 같은 예민한 사람은 상대가 내놓은 반박에 온통 매달려 정신을 잃고 계단 아래에 가서야 제정신을 찾기 때문이다.) — Denis Diderot, Paradoxe sur le comédien, Wikisource, 1830, https://fr.wikisource.org/wiki/Paradoxe_sur_le_com%C3%A9dien, 2026-10-21 접속
 [^2]: [문학] "When he had gone, I thought of a splendid answer I ought to have given him. However, I will keep it for another occasion." (그가 간 뒤에 나는 그에게 했어야 할 멋진 대답이 생각났다. 하지만 그 대답은 다른 기회를 위해 남겨 두겠다.) — George Grossmith, Weedon Grossmith, The Diary of a Nobody, 1장, Project Gutenberg, 1892, https://www.gutenberg.org/cache/epub/1026/pg1026.txt, 2026-10-21 접속

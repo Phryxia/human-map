@@ -37,7 +37,7 @@
 
 없음.
 
-#감정 #시간
+#시간
 
 [^1]: [SNS] "I always feel rushed when I do chores because it all feels like a massive waste of my limited free time." (나는 집안일을 할 때 늘 쫓기는 기분이 든다. 그게 다 얼마 안 되는 자유 시간을 크게 낭비하는 것처럼 느껴지기 때문이다.) — Hacker News, 댓글, 2017-03-07, https://news.ycombinator.com/item?id=13811411, 2026-10-20 접속
 [^2]: [매체] "with most indicating they speed either because they are late, they are “in an emergency”, or they are “in a hurry”." (대부분은 늦었거나 '응급 상황'이거나 '서두르고 있어서' 과속한다고 답했다.) — "Do Aggressive Drivers Speed or Does Speed Make Us Aggressive?", FAAC Realtime Technologies, 2022-01-14, https://www.faac.com/blog/2022/01/14/do-aggressive-drivers-speed-or-does-speed-make-us-aggressive/, 2026-10-20 접속

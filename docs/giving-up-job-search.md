@@ -40,7 +40,7 @@
 
 없음.
 
-#사고 #행동 #돈
+#돈 #일
 
 [^1]: [학술] "Unsuccessful search induces individuals to revise their beliefs downwards. Once self-confidence is sufficiently low, workers become discouraged and give up on search." (구직에 실패하면 사람들은 자기에 대한 믿음을 낮춰 고친다. 자신감이 충분히 낮아지면 노동자는 낙담해 구직을 그만둔다.) — Armin Falk, David B. Huffman, Uwe Sunde, "Do I Have What It Takes? Equilibrium Search with Type Uncertainty and Non-Participation", IZA Discussion Paper No. 2531, 2006-12, https://www.iza.org/publications/dp/2531, 2026-10-17 접속
 [^2]: [공공] "The number of discouraged job seekers generally increases during economic downturns and decreases in times of expansion." (구직 단념자의 수는 대체로 경기 하강기에 늘고 확장기에 줄어든다.) — Statistics Canada, "Quick fact: Discouraged job seekers, Canada and the United States", Perspectives on Labour and Income 75-001-X, 2008-11, https://www150.statcan.gc.ca/pub/75-001-x/2008111/quickfact-enbref-eng.htm, 2026-10-18 접속

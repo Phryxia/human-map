@@ -38,7 +38,7 @@
 
 없음.
 
-#사고 #감정 #돈
+#돈
 
 [^1]: [문학] "At last, having all the wealth that heart can desire, I will buy a beautiful country house, with horses and slaves, and then I will lead a merry life and entertain my friends." (마침내 마음이 바라는 부를 모두 가지면 말과 노예가 딸린 아름다운 시골집을 사고 즐겁게 살며 친구들을 대접하겠다.) — Andrew Lang 엮음, The Arabian Nights Entertainments, "The Story of the Barber's Fifth Brother", Project Gutenberg, 1898, https://www.gutenberg.org/cache/epub/128/pg128.txt, 2026-10-22 접속
 [^2]: [문학] "Out of the first thousand we'll have a horse and a buggy for summer, and a cutter and a skin lap-robe for winter." (첫 1천 달러로 여름에는 말과 마차를, 겨울에는 썰매와 가죽 무릎 덮개를 사자.) — Mark Twain, The $30,000 Bequest, and Other Stories, "The $30,000 Bequest", Chapter 2, Project Gutenberg, 1906, https://www.gutenberg.org/cache/epub/142/pg142.txt, 2026-10-22 접속

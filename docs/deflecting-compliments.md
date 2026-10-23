@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "“Not quite,” replied Jo modestly." (“그렇진 않아.” 조가 겸손하게 대답했다.) — Louisa May Alcott, "Little Women", Chapter One, 1868, https://www.gutenberg.org/ebooks/514.html.images, 2026-10-18 접속
 [^2]: [문학] "“칭찬 많이 받았으니 떡이나 한 스무 냥어치 살까!” “아이구 어멈을 저렇게 아시네. 떡 팔아먹으려고 그런 것은 아니에요.”" — 나혜석, "경희", 여자계, 1918-03, https://ko.wikisource.org/wiki/%EA%B2%BD%ED%9D%AC, 2026-10-18 접속

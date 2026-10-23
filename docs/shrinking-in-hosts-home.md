@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "whatever she touched she expected to injure, and she crept about in constant terror of something or other; often retreating towards her own chamber to cry;" (무엇을 만지든 망가뜨릴 것만 같아 늘 무언가를 두려워하며 살금살금 돌아다녔고 자주 제 방으로 물러나 울었다) — Jane Austen, Mansfield Park, 2장, Project Gutenberg, 1814, https://www.gutenberg.org/cache/epub/141/pg141-images.html, 2026-10-18 접속
 [^2]: [문학] "They will have a great deal of money, and you will have none: it is your place to be humble, and to try to make yourself agreeable to them." (그 애들은 돈이 아주 많을 것이고 너는 한 푼도 없을 거야. 겸손하게 굴고 그 애들 마음에 들도록 애쓰는 게 네 분수야.) — Charlotte Brontë, Jane Eyre, 2장, Project Gutenberg, 1847, https://www.gutenberg.org/files/1260/1260-h/1260-h.htm, 2026-10-18 접속

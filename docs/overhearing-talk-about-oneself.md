@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [문학] "He had listened till he heard Catherine say it would degrade her to marry him, and then he stayed to hear no further." (그는 캐서린이 그와 결혼하면 자기 격이 떨어진다고 말하는 것을 들을 때까지 듣고 있었고 그 뒤로는 더 듣지 않았다.) — Emily Brontë, Wuthering Heights, 1847, https://www.gutenberg.org/cache/epub/768/pg768-images.html, 2026-10-18 접속
 [^2]: [문학] "for as Abbot said, in discussing the subject with Bessie when both sat sewing in the nursery one night, after I was in bed, and, as they thought, asleep," (어느 밤 내가 잠자리에 든 뒤 그들이 내가 잠들었다고 여겼을 때 애벗이 아이 방에 앉아 베시와 함께 바느질하며 그 일을 두고 이야기하면서 말했듯이) — Charlotte Brontë, Jane Eyre, Smith, Elder & Co., 1847, https://www.gutenberg.org/cache/epub/1260/pg1260-images.html, 2026-10-18 접속

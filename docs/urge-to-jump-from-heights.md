@@ -36,7 +36,7 @@
 
 없음.
 
-#사고 #감정 #혼자
+#마음
 
 [^1]: [문학] "There is no passion in nature so demoniacally impatient, as that of him who, shuddering upon the edge of a precipice, thus meditates a plunge." (벼랑 끝에서 몸을 떨며 그렇게 뛰어내리기를 생각하는 사람의 열정만큼 악마처럼 조급한 열정은 자연에 없다.) — Edgar Allan Poe, "The Imp of the Perverse", Project Gutenberg, 1845, https://www.gutenberg.org/cache/epub/2148/pg2148-images.html, 2026-10-23 접속
 [^2]: [학술] "The HPP was commonly reported in the general population, even among participants with no history of suicidal ideation." (높은 곳 현상은 자살 사고 이력이 없는 참가자를 포함해 일반 인구에서 흔히 보고되었다.) — J. L. Hames, J. D. Ribeiro, A. R. Smith, T. E. Joiner Jr., 「An urge to jump affirms the urge to live: an empirical examination of the high place phenomenon」, Journal of Affective Disorders 136(3), 2012-02, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22119089&rettype=abstract&retmode=text, 2026-10-23 접속

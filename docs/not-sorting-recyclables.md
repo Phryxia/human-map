@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #시간
+#시간 #공공
 
 [^1]: [매체] "이 때문에 일부지역에서는 아예 쓰레기를 분리하지 않고 한꺼번에 버리는 경향까지 보이고 있다." — 서울신문, 「「쓰레기 분리수거」 겉돈다」, 1991-01-06, https://m.seoul.co.kr/news/1991/01/06/19910106015001, 2026-10-18 접속
 [^2]: [SNS] "Most people only do it when it’s easy. It’s not that you can’t do it, but it’s a hassle. And everyone agrees that if it is a hassle, it’s okay not to do it." (대부분의 사람은 쉬울 때만 한다. 할 수 없어서가 아니라 번거로워서다. 번거로우면 안 해도 괜찮다는 데 다들 동의한다.) — Straight Dope 댓글, 2010-01-06, https://boards.straightdope.com/t/recycling/523766, 2026-10-18 접속

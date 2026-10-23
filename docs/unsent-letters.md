@@ -39,7 +39,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계 #온라인
 
 [^1]: [문학] "I wrote to these letters two answers—one for my own relief, the other for Graham’s perusal." (나는 이 편지들에 답장을 두 통씩 썼다. 하나는 내 마음을 달래려고, 다른 하나는 그레이엄이 읽으라고.) — Charlotte Brontë, Villette, Chapter XXIII, Project Gutenberg, 1853, https://www.gutenberg.org/cache/epub/9182/pg9182-images.html, 2026-10-18 접속
 [^2]: [문학] "He wrote ten notes, and tore them all up, and sent the saddle without any reply." (그는 쪽지를 열 장 썼다가 모두 찢어 버리고 답장 없이 안장만 보냈다.) — Leo Tolstoy, Anna Karenina, Part Three, Chapter 24, Constance Garnett 옮김, Project Gutenberg, 1878, https://www.gutenberg.org/cache/epub/1399/pg1399-images.html, 2026-10-18 접속

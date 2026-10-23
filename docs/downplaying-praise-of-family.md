@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #관계
+#관계
 
 [^1]: [문학] "김 부인은 딸의 칭찬 같으나 묻는 말에 마지 못하여 대답한다. “어디 바느질이나 제법 앉아서 배울 새나 있나요." — 나혜석, "경희", 여자계, 1918-03, https://ko.wikisource.org/wiki/%EA%B2%BD%ED%9D%AC, 2026-10-19 접속
 [^2]: [학술] "parents would respond to other peoples’ compliments to their children’s achievement mainly in 3 ways: 1.Modesty: deny directly, saying that their child is not that good;" (부모는 자녀의 성취에 대한 다른 사람의 칭찬에 주로 세 가지 방식으로 응답한다. 1. 겸손: 자기 아이가 그렇게 잘하지 않는다고 말하며 바로 부정한다.) — Kuei-Hsiang Han, "A Study of Parents' Responding Patterns to Other's Compliments for Their Children's Achievement", Tamkang University 연구보고서 NSC100-2410-H032-029-MY2, 2011-08-01, https://teacher.tku.edu.tw/StfFdDtl.aspx?tid=342641, 2026-10-19 접속

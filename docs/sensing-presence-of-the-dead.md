@@ -36,7 +36,7 @@
 
 없음.
 
-#감정 #사고 #혼자
+#마음
 
 [^1]: [문학] "Can it be you that I hear? Let me view you, then, Standing as when I drew near to the town Where you would wait for me" (내가 듣는 것이 당신인가? 그렇다면 당신을 보게 해 다오, 내가 마을로 다가갈 때 당신이 나를 기다리던 그 모습으로) — Thomas Hardy, "The Voice", Satires of Circumstance, Lyrics and Reveries, Project Gutenberg, 1914, https://www.gutenberg.org/cache/epub/2863/pg2863-images.html, 2026-10-23 접속
 [^2]: [학술] "This included an initial period of numbness, soon followed by restless pining with preoccupation with thoughts of the loss, a clear visual memory of the lost object and a sense of its presence." (여기에는 처음의 멍한 시기와 곧 이어지는 잃은 것에 대한 생각에 사로잡힌 안절부절못하는 그리움, 잃은 대상의 뚜렷한 시각 기억, 그것이 곁에 있다는 느낌이 들어 있었다.) — C. M. Parkes, 「Psycho-social transitions: comparison between reactions to loss of a limb and loss of a spouse」, British Journal of Psychiatry 127, 1975-09, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=1182377&rettype=abstract&retmode=text, 2026-10-23 접속

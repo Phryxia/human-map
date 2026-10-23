@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정
+#관계
 
 [^1]: [학술] "For example, stigma affected the initial acceptance of hearing loss, whether to be tested or seek treatment, the type of hearing aid selected, and when and where hearing aids were worn." (예컨대 낙인은 청력 손실을 처음 받아들이는 일, 검사나 치료를 받을지 여부, 고르는 보청기의 종류, 보청기를 언제 어디서 끼는지에 영향을 주었다.) — M. I. Wallhagen, 「The Stigma of Hearing Loss」, The Gerontologist, 2009-07-10, https://pmc.ncbi.nlm.nih.gov/articles/PMC2904535/, 2026-10-22 접속
 [^2]: [매체] "I’ve spent 20 years crafting this reaction, perfecting the ability to masterfully hide a disability from anyone who doesn’t know me." (나는 20년 동안 이 반응을 다듬으며 나를 모르는 누구에게서든 장애를 능숙하게 숨기는 능력을 완성해 왔다.) — Jordi Roth, 「Why I want to talk about what it's like working with a hidden disability」, Women's Agenda, 2012-11-28, https://womensagenda.com.au/leadership/advice/why-i-want-to-talk-about-what-it-s-like-working-with-a-hidden-disability/, 2026-10-22 접속

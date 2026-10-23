@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계
 
 [^1]: [공공] "Didn't want to fall out with neighbours/Would rather keep the peace 15" (이웃과 사이가 틀어지고 싶지 않았다/차라리 평화를 지키겠다 15) — MORI, 「Neighbourhood Noise」, Department for Environment, Food and Rural Affairs 의뢰 조사, 2003-10-31, https://www.ipsos.com/en-uk/node/161636, 2026-10-22 접속
 [^2]: [SNS] "I'm never going to do this because #1. We all remember the artists who were killed this summer for asking a lunatic to turn down the radio." (나는 절대 이렇게 하지 않을 것이다. 첫째, 이번 여름 미치광이에게 라디오 소리를 줄여 달라고 했다가 살해된 예술가들을 우리 모두 기억하기 때문이다.) — UrbanOhio 포럼, 게시글, 2006-10-21, https://urbanohio.com/topic/2964-heres-an-urban-topic-noisy-neighbors/, 2026-10-22 접속

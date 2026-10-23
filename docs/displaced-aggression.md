@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #행동 #관계
+#관계
 [^1]: [문학] "but when anything in the least soured him, as a bad scenting day, or a distemper among his hounds, or any other such misfortune, he constantly vented his spleen by invectives against the deceased" (그러나 냄새가 잘 잡히지 않는 날이나 사냥개들 사이에 도는 병이나 그 밖의 불운처럼 무엇이든 조금이라도 그의 기분을 상하게 하면 그는 늘 죽은 아내를 욕하며 울화를 풀었다) — Henry Fielding, The History of Tom Jones, a Foundling, Project Gutenberg, 1749, https://www.gutenberg.org/cache/epub/6593/pg6593.txt, 2026-10-22 접속
 [^2]: [문학] "그는 시방, 자식의 버릇을 가르치자고 나무라는 것이 아니라, 남편한테 할 화풀이야 낮잠 못 잔 화풀이야를, 애먼 어린 아이한테 하느니라고는 생각도 않는다." — 채만식, 「탁류」 제15장, 위키문헌, 1937, https://ko.wikisource.org/wiki/%ED%83%81%EB%A5%98/%EC%A0%9C15%EC%9E%A5, 2026-10-22 접속
 [^3]: [학술] "This leads to occasional anger outbursts and displacement and eventually to increased vulnerability for depression as the relationship further deteriorates." (이것은 이따금의 분노 폭발과 전위로 이어지고 관계가 더 나빠지면서 결국 우울에 더 취약해지게 한다.) — J. Brooke Carfagnini, 「Self-silencing, depressed mood, and anger expression and the meanings behind self-silencing within intimate relationships」, Lakehead University 석사학위논문, 2005, https://knowledgecommons.lakeheadu.ca/handle/2453/2830, 2026-10-22 접속

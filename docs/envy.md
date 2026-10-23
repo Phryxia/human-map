@@ -40,7 +40,7 @@
 
 없음.
 
-#감정 #사고 #관계
+#관계
 
 [^1]: [문학] "Adeline and I are the same flesh and blood, our fathers were brothers—and she is in a mansion, while I am in a garret." (아델린과 나는 한 핏줄이고 우리 아버지들은 형제였다. 그런데 그 애는 저택에 살고 나는 다락방에 산다.) — Honoré de Balzac, Cousin Betty, James Waring 옮김, 1846, https://www.gutenberg.org/cache/epub/1749/pg1749-images.html, 2026-10-17 접속
 [^2]: [매체] "SNS에서는 현실의 저를 모르니까, 비싼 옷을 찍어 SNS에 올리면 사람들이 부러워하고 동경을 하고. 그런 점에서 활력을 느끼고 현실에서는 얻을 수 없는 자존감도 생기죠." — 윤신원, 「"나는 부자다, SNS 안에서만"..온라인에선 금수저, 현실은 알바생」, 아시아경제, 다음 뉴스, 2018-04-17, https://v.daum.net/v/20180417142727710, 2026-10-18 접속

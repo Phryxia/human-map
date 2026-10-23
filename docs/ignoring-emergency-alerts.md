@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #감정 #온라인
+#건강 #온라인
 
 [^1]: [공공] "When the public regularly receives alerts that do not apply to them, it creates alert fatigue, a driving factor behind consumers' decisions to opt out of receiving WEA Alert Messages." (대중이 자기에게 해당하지 않는 경보를 자주 받으면 경보 피로가 생기고 이것이 소비자가 무선 긴급 경보 수신을 거부하기로 하는 주된 요인이다.) — Federal Communications Commission, "Wireless Emergency Alerts; Amendments to Rules Regarding the Emergency Alert System", Federal Register, 2016-11-01, https://www.govinfo.gov/content/pkg/FR-2016-11-01/html/2016-26120.htm, 2026-10-18 접속
 [^2]: [학술] "Contrary to prior research, findings indicate that concerns about false alarm ratios generating a complacent public may be overblown." (앞선 연구와 달리 오경보 비율이 안일한 대중을 만든다는 우려는 과장되었을 수 있다는 결과가 나왔다.) — JungKyu Rhys Lim, Brooke Fisher Liu, Michael Egnoto, "Cry Wolf Effect? Evaluating the Impact of False Alarms on Public Responses to Tornado Alerts in the Southeastern United States", Weather, Climate, and Society, 2019-04, https://start.umd.edu/publication/cry-wolf-effect-evaluating-impact-false-alarms-public-responses-tornado-alerts, 2026-10-18 접속 (소멸, 2026-10-18 까지 확인)

@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #집단
+#공공
 
 [^1]: [매체] "한 손에 쓰레기를 들고 버스를 타는 일은 여간 불편한 일이 아니기 때문에 그냥 주변에 놓고 간 적이 있다" — 프레시안, 「"종로에는 없다. 쓰레기통이"」, 2007-03-30, https://pressian.com/pages/articles/83664, 2026-10-23 접속
 [^2]: [학술] "Cigarette littering was negatively perceived by 98% of the participants, yet 45% of all cigarettes smoked were thrown on the ground." (참가자의 98%가 담배꽁초 버리기를 부정적으로 인식했지만 피운 담배 전체의 45%는 바닥에 버려졌다.) — A. C. Basto-Abreu 외, 「Behaviours and opinions towards outdoor smoking bans and cigarette littering in Baja California, Mexico」, Health Policy and Planning 31(3), 2016-04, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26135362&rettype=abstract&retmode=text, 2026-10-23 접속

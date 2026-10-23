@@ -34,7 +34,7 @@
 
 없음.
 
-#감정 #사고 #집단
+#관계
 
 [^1]: [학술] "The increase in safety behaviours led to an increase of post-event processing which resulted in greater anticipatory anxiety for a future speech task." (안전 행동이 늘자 사건 후 처리가 늘었고 그 결과 다음 발표 과제에 대한 예기불안이 커졌다.) — Nicolette D. Carnahan, Michele M. Carter, Nathaniel R. Herr, "Perpetuating factors of social anxiety: a serial mediation model", Behavioural and Cognitive Psychotherapy 48(3), 2019-11-13, https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/perpetuating-factors-of-social-anxiety-a-serial-mediation-model/7E671CEC6A84F385DAFC74B210BA2173, 2026-10-19 접속
 [^2]: [학술] "All participants reported recurring FF images, which were experienced as vivid, distressing, field perspective images with accompanying negative feelings." (모든 참가자가 되풀이되는 앞당긴 이미지를 보고했고 그 이미지는 생생하고 괴로우며 자기 시점에서 보이고 부정적인 감정을 동반했다.) — M. R. Thunnissen, M. H. Nauta, P. J. de Jong, M. M. Rijkeboer, M. J. Voncken, "Flashforward imagery in speech anxiety: Characteristics and associations with anxiety and avoidance", Frontiers in Psychology 13, 2022-10-04, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.975374/full, 2026-10-19 접속

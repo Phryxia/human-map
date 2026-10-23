@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #사고 #돈
+#돈 #관계
 
 [^1]: [매체] "But, 41% say they have wanted to return a product purchased from an e-tailer, but decided it was just too much trouble." (그러나 41%는 인터넷 판매자에게서 산 물건을 반품하고 싶었지만 너무 번거롭다고 보고 그만둔 적이 있다고 답했다.) — Chief Marketer Staff, "Few Online Shoppers Return Items, But More Would Like to, Says Study", Chief Marketer, 2000-08-03, https://chiefmarketer.com/few-online-shoppers-return-items-but-more-would-like-to-says-study, 2026-10-21 접속
 [^2]: [SNS] "I was basically forced to keep them and fix them myself as wasn't worth paying to return them." (돈을 내고 반품할 가치가 없어서 사실상 그것들을 그냥 갖고 직접 고칠 수밖에 없었다.) — MoneySavingExpert 포럼, 댓글, 2005-09-30, https://forums.moneysavingexpert.com/discussion/96671/bargain-crazy-returns-cost, 2026-10-22 접속

@@ -38,7 +38,7 @@
 
 없음.
 
-#행동 #사고
+#공공
 
 [^1]: [학술] "Major factors leading to teenagers not wanting to wear a helmet were appearance and comfort." (십대가 헬멧을 쓰고 싶어 하지 않게 만든 주된 요인은 외모와 편안함이었다.) — C F Finch, "Teenagers' attitudes towards bicycle helmets three years after the introduction of mandatory wearing", Injury Prevention 2(2), 1996-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC1067676/, 2026-10-20 접속
 [^2]: [공공] "Bikers reported several reasons for not wearing a helmet, including riding only a short distance, forgetting to wear a helmet, feeling the helmet was uncomfortable" (자전거 이용자들은 헬멧을 쓰지 않는 여러 이유를 말했는데 짧은 거리만 탄다는 것, 헬멧 쓰기를 잊는다는 것, 헬멧이 불편하게 느껴진다는 것이 들어 있었다) — U.S. Consumer Product Safety Commission, "CPSC, McDonald's Release National Survey on Bike Helmet Usage; Helmet Use on the Rise But Half of All Riders Still Not Wearing Helmets", 보도자료, 1999-04-21, https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-McDonalds-Release-National-Survey-on-Bike-Helmet-Usage-Helmet-Use-on-the-Rise-But-Half-of-All-Riders-Still-Not-Wearing-Helmets, 2026-10-20 접속

@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #감정 #관계
+#관계 #마음
 
 [^1]: [문학] "Laurie told me how fond Mr. Laurence used to be of the child who died, and how he kept all her little things carefully." (로리가 그러는데 로런스 씨가 죽은 아이를 무척 아꼈고 그 아이의 작은 물건을 모두 조심스럽게 간직했대.) — Louisa May Alcott, Little Women, Project Gutenberg, 1868, https://www.gutenberg.org/cache/epub/514/pg514-images.html, 2026-10-20 접속
 [^2]: [SNS] "저는 돌아가신지 10년이 지났어도 힘들고 그리울때는 지니고 있던 유품을 꺼내서 만져도 보고 기운을 얻습니다" — 다음 카페, 댓글, 2011-02-10, https://m.cafe.daum.net/amtb/6Zfw/14950/comments, 2026-10-20 접속

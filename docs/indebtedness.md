@@ -46,7 +46,7 @@
 
 없음.
 
-#감정 #관계
+#관계
 
 [^1]: [문학] "평생 신세를 지은 주 인이 신신부탁을 하고 이기회에 만분의 일이라도 그신세를 갚어보려고 복순은 제성미를 죽이고 가르처 보려했으나 당 자가 뜻밖에 저를 깔보고 책을 떠드러보기도 싫여하는데야 제 재주로는 어떡할수가 없었든것이다." — 심훈, 「직녀성」 제6장, 조선중앙일보 연재, 1934, https://ko.wikisource.org/wiki/직녀성/제6장, 2026-10-17 접속
 [^2]: [매체] "Others were poor and couldn't afford professional movers, so resorted to the black market rather than soliciting help from close friends and family." (다른 이들은 가난해 전문 이삿짐 업체를 쓸 수 없었고, 가까운 친구와 가족에게 도움을 청하기보다 암시장에 기댔다.) — Jennifer Yang, "Without a little help from my friends", The Globe and Mail, 2009-06-19, https://www.theglobeandmail.com/life/without-a-little-help-from-my-friends/article4212606/, 2026-10-18 접속

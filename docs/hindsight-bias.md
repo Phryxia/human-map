@@ -34,7 +34,7 @@
 
 없음.
 
-#사고
+#마음
 
 [^1]: [학술] "In two experiments involving 144 preschoolers, 3-, 4-, and 5-year olds exhibited strong hindsight bias." (미취학 아동 144명이 참여한 두 실험에서 3세, 4세, 5세 아이들이 강한 사후 확신 편향을 보였다.) — D. M. Bernstein, C. Atance, A. N. Meltzoff, G. R. Loftus, 「Hindsight bias and developing theories of mind」, Child Development 78(4), 2007-07, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17650144&rettype=abstract&retmode=text, 2026-10-23 접속
 [^2]: [학술] "when they believe that an event is more predictable after it becomes known than it was before it became known" (어떤 일이 알려진 뒤에 그 일이 알려지기 전보다 더 예측 가능했다고 믿을 때) — N. J. Roese, K. D. Vohs, 「Hindsight Bias」, Perspectives on Psychological Science 7(5), 2012-09, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26168501&rettype=abstract&retmode=text, 2026-10-23 접속

@@ -38,7 +38,7 @@
 
 없음.
 
-#감정 #행동 #집단
+#관계
 
 [^1]: [SNS] "친구 아버지 장례식장 갔는데, 같이 간 친구가 절할 때 이상 행동해서 1차 웃음 터지려는 거 간신히 참았고 밥 먹을 때 또 생각나서 못 참고 웃다가 걔네 큰 아버지랑 눈 마주쳤는데 눈빛으로 욕먹고 옴 ㅠ" — Threads, 게시글, 발행일 미상, https://www.threads.com/@someoneslog/post/DS-_oJFk5Ak, 2026-10-22 접속
 [^2]: [문학] "Any thing awful makes me laugh. I misbehaved once at a funeral. Yet I can read about these ceremonies with pious and proper feelings." (엄숙한 일은 무엇이든 나를 웃게 한다. 나는 장례식에서 한 번 실례를 했다. 그런데도 이런 의식에 관해서는 경건하고 알맞은 마음으로 읽을 수 있다.) — Charles Lamb, 로버트 사우디에게 보낸 편지, The Works of Charles and Mary Lamb, Vol. 5, ed. E. V. Lucas, Project Gutenberg, 1815-08-09, https://www.gutenberg.org/cache/epub/9365/pg9365.txt, 2026-10-22 접속

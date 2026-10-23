@@ -36,7 +36,7 @@
 
 없음.
 
-#행동 #관계
+#관계 #공공
 
 [^1]: [문학] "As he pretended not to see me, I pretended not to see him." (그가 나를 못 본 척했으므로 나도 그를 못 본 척했다.) — Charles Dickens, Great Expectations, Chapter XLIII, 1861, https://www.gutenberg.org/cache/epub/1400/pg1400-images.html, 2026-10-19 접속
 [^2]: [매체] "When we drilled down into one particular awkward situation – namely seeing someone that you want to avoid – two thirds (66%) said they prevented meeting someone by pretending not to notice them." (어색한 상황 가운데 하나, 곧 피하고 싶은 사람을 보는 상황을 따로 물었을 때 3분의 2(66%)가 그 사람을 못 알아챈 척해서 마주치지 않았다고 답했다.) — Opinium Research, "Avoiding awkward situations", 2014-08-06, https://www.opinium.com/avoiding-awkward-situations/, 2026-10-19 접속

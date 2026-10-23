@@ -40,7 +40,7 @@
 
 없음.
 
-#행동 #돈
+#돈 #관계
 
 [^1]: [매체] "우리홈쇼핑은 불만 고객의 재구매율이 오히려 불만을 제기하지 않은 고객의 재구매율보다 높다는 자체 분석 결과에 따라 이번 서비스를 실시하게 됐다." — 성시종, 「우리홈쇼핑 ‘불만 고객 엽서 서비스’ 실시」, 이투데이, 2006-06-07, https://www.etoday.co.kr/news/view/90993, 2026-10-18 접속
 [^2]: [매체] "If your process is too passive, customers will silently defect to your competitors." (절차가 너무 수동적이면 고객은 말없이 경쟁사로 넘어간다.) — W. P. Carey School of Business, 「A penny for your thoughts: When customers don't complain」, Arizona State University, 2006-09-27, https://news.wpcarey.asu.edu/20060927-penny-your-thoughts-when-customers-dont-complain, 2026-10-18 접속
