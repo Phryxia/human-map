@@ -2434,8 +2434,8 @@
   },
   "https://wrap.warwick.ac.uk/65972": {
     "first": "2026-10-18",
-    "last": "2026-10-22",
-    "result": "VERIFIED",
+    "last": "2026-10-23",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-22"
   },
   "https://researchportalplus.anu.edu.au/en/publications/general-and-sleep-specific-worry-in-insomnia/": {
@@ -6968,39 +6968,39 @@
   },
   "https://www.gutenberg.org/cache/epub/7178/pg7178.txt": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://forum.mssociety.org.uk/t/don-t-look-at-the-clock/36819": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://bravo.etoday.co.kr/view/atc_view/5582": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/sleep-hygiene": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.psychiatrist.com/pcc/use-of-sleep-aids-in-insomnia-the-role-of-time-monitoring-behavior/": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.gqkorea.co.kr/?p=342475": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-23"
   },
   "https://www.sciencedaily.com/releases/2012/09/120913173324.htm": {
     "first": "2026-10-22",
@@ -8251,6 +8251,18 @@
     "lastVerified": "2026-10-23"
   },
   "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156621223": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://www.khan.co.kr/article/200705311013241": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://gall.dcinside.com/mgallery/board/view/?id=oticket&no=2817407": {
     "first": "2026-10-23",
     "last": "2026-10-23",
     "result": "VERIFIED",
