@@ -8357,5 +8357,23 @@
     "last": "2026-10-23",
     "result": "VERIFIED",
     "lastVerified": "2026-10-23"
+  },
+  "https://www.gutenberg.org/cache/epub/145/pg145-images.html": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=28898164&rettype=abstract&retmode=text": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34601907&rettype=abstract&retmode=text": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
   }
 }
