@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 272개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 273개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -192,6 +192,7 @@
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
 - [유언장 작성 미루기](docs/delaying-will-writing.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [육아휴직 망설이기](docs/hesitating-to-take-parental-leave.md) ([일터와 일자리](groups/work.md))
 - [은둔형 외톨이](docs/social-withdrawal-at-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [음주 후 운전](docs/drink-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [의례적 사양](docs/ritual-refusal.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
