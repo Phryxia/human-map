@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 286개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 287개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -76,6 +76,7 @@
 - [도움받을 때의 자존감 위협](docs/threat-in-receiving-help.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [독감 예방접종 거르기](docs/skipping-flu-vaccine.md) ([건강과 위험](groups/health-and-safety.md))
 - [돈 걱정](docs/money-worry.md) ([돈과 소비](groups/money.md))
+- [돈 쓰기 아까워하기](docs/tightwad-spending.md) ([돈과 소비](groups/money.md))
 - [돌아온 고향의 낯섦](docs/returning-home-feels-strange.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [되풀이 사과](docs/over-apologizing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [뒤늦게 떠오른 대답](docs/staircase-wit.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
