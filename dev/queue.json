@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T06:26:14.758Z",
-  "nextSeq": 1253,
+  "savedAt": "2026-10-23T06:30:21.633Z",
+  "nextSeq": 1255,
   "stops": 86,
   "items": [
     {
@@ -371,6 +371,14 @@
       "note": "2026-10-23 학술, 공공, SNS, 매체 로 만듦. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의(당파 보도자료), news.ycombinator.com/item?id=9489263 2015-05-04 같은 이유로 못 그만둠. gao.gov, bls.gov 403, cbo.gov JS, reddit 403",
       "createdAt": "2026-10-23T06:26:14.599Z",
       "seq": 1252
+    },
+    {
+      "id": "56181eeb",
+      "title": "calling-in-sick-when-not-sick 보강: 공공 파편, 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-23 매체 2, SNS, 학술 로 만듦. 후보: Hansard 2024-01-10 Westminster Hall 'Back pain was seen as an easy excuse to pull a sickie'(HTML 은 Cloudflare 403, API 로만 읽힘), news.ycombinator.com/item?id=49208807 2026-08-07 꽃을 받은 뒤 거짓이 드러남, item?id=8630586 2014-11-19 개인 프로젝트로 하루 쉼. Carlsen·Nyborg 2020 Health Economics 게재본 403. sickness-presenteeism 과의 대립 근거 파편 찾기",
+      "createdAt": "2026-10-23T06:30:21.506Z",
+      "seq": 1254
     },
     {
       "id": "e8ba47a7",

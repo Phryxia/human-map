@@ -2,10 +2,11 @@
 
 일하는 사람이 직장과 일자리를 두고 느끼고 하는 일이다.
 
-문서 16개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 17개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [건강보험 때문에 직장에 남기](../docs/staying-in-job-for-health-insurance.md) 그만두거나 옮기고 싶은 직장인이 지금 직장을 통해 받는 건강보험을 잃을까 봐 그 직장에 남는다.
 - [구직 단념](../docs/giving-up-job-search.md) 일할 뜻과 능력이 있는 사람이 일자리를 찾다가 원하는 일자리가 없거나 될 것 같지 않다고 여겨 구직을 그만둔다.
+- [꾀병 결근](../docs/calling-in-sick-when-not-sick.md) 아프지 않은 직장인이 쉬고 싶거나 일을 피하고 싶어 아프다고 하고 병가를 내거나 결근한다.
 - [노년의 계속 일하기 희망](../docs/wanting-to-keep-working-in-old-age.md) 나이가 든 사람이 은퇴하지 않고 앞으로도 일하기를 바란다.
 - [산재 신고 꺼리기](../docs/not-reporting-workplace-injury.md) 일하다 다친 노동자가 불이익이나 동료에게 돌아갈 피해를 걱정해 부상을 회사나 기관에 알리지 않거나 산재 신청을 하지 않는다.
 - [실직 뒤 사람 만남 피하기](../docs/withdrawing-after-job-loss.md) 일자리를 잃은 사람이 친구나 지인과의 만남과 모임을 피하고 관계망에서 물러난다.
