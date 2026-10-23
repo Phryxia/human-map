@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 256개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 257개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -112,6 +112,7 @@
 - [빌려준 돈 돌려 달라고 못 하기](docs/not-asking-for-loan-back.md) ([돈과 소비](groups/money.md))
 - [빚 독촉 피하기](docs/avoiding-creditors.md) ([돈과 소비](groups/money.md))
 - [빨리 답해야 한다는 압박](docs/pressure-to-reply-quickly.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [삐짐](docs/sulking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사과하지 못하기](docs/apology-reluctance.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사별 뒤 후회](docs/bereavement-regret.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [사칭 전화에 겁먹고 따르기](docs/complying-with-impersonation-calls.md) ([돈과 소비](groups/money.md))
