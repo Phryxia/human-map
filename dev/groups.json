@@ -42,7 +42,8 @@
       "reference-dependence",
       "regret-aversion",
       "unrealistic-optimism",
-      "gamblers-fallacy"
+      "gamblers-fallacy",
+      "better-than-average-effect"
     ]
   },
   {
@@ -91,7 +92,6 @@
       "bicycle-helmet-nonuse",
       "drink-driving",
       "delaying-driving-cessation",
-      "driving-overconfidence",
       "driving-while-drowsy",
       "jaywalking",
       "phone-use-while-driving",

@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 267개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 268개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -182,7 +182,7 @@
 - [우편물 뜯지 않기](docs/leaving-mail-unopened.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [운명이나 신을 탓하기](docs/blaming-fate-or-god.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [운전 그만두기 미루기](docs/delaying-driving-cessation.md) ([길과 운전](groups/roads-and-driving.md))
-- [운전 실력 과신](docs/driving-overconfidence.md) ([길과 운전](groups/roads-and-driving.md))
+- [운전 실력 과신](docs/driving-overconfidence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [운전 중 휴대전화 사용](docs/phone-use-while-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [울리지 않은 휴대전화 진동 느끼기](docs/phantom-phone-vibration.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
@@ -253,6 +253,7 @@
 - [투표 불참](docs/not-voting.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [투표했다고 거짓으로 답하기](docs/claiming-to-have-voted.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [편애받는 형제에 대한 질투](docs/sibling-jealousy-over-favoritism.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [평균 이상 효과](docs/better-than-average-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
 - [하차 표시 망설이기](docs/hesitating-to-signal-bus-stop.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [학습된 무력감](docs/learned-helplessness.md) ([판단과 어림의 치우침](groups/judgment-biases.md))

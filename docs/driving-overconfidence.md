@@ -26,7 +26,7 @@
 
 ## 상위
 
-없음.
+- [평균 이상 효과](better-than-average-effect.md)
 
 ## 하위
 
