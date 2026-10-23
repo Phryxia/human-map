@@ -2,7 +2,7 @@
 
 사람이 돈을 쓰고 아끼고 빌리고 숨기는 자리에서 느끼고 하는 일이다.
 
-문서 24개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 25개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [가난 감추기](../docs/concealing-poverty.md) 가난한 사람이 자신의 가난이나 굶주림, 도움이 필요한 형편을 남이나 식구에게 숨긴다.
   - [가난을 숨기려는 또래 관계 회피](../docs/poverty-peer-withdrawal.md)
@@ -16,6 +16,7 @@
 - [돈 걱정](../docs/money-worry.md) 돈 사정을 생각하는 사람이 돈이 모자랄까 봐 걱정하고 불안해한다.
   - [소득 상실 우려](../docs/income-loss-worry.md)
 - [배우자에게 재정 정보 숨기기](../docs/spouse-financial-concealment.md) 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨기는 행동이다.
+- [복권 구매](../docs/buying-lottery-tickets.md) 사람이 당첨을 바라며 복권을 산다.
 - [부유한 척하기](../docs/faking-wealth.md) 남에게 가난해 보이기 싫은 사람이 빌린 물건이나 연출한 사진으로 실제보다 부유해 보이게 꾸민다.
 - [뷔페 접시 넘치게 담기](../docs/overfilling-buffet-plates.md) 뷔페에서 손님이 먹을 수 있는 양보다 많이 접시에 담고 남긴다.
 - [빌려준 돈 돌려 달라고 못 하기](../docs/not-asking-for-loan-back.md) 친구나 가족에게 돈을 빌려준 사람이 관계가 상하거나 어색해질까 봐 돌려 달라는 말을 꺼내지 못한다.
