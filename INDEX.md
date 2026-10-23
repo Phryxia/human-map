@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 268개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 269개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -130,6 +130,7 @@
 - [생일을 잊혀 서운해도 내색하지 않기](docs/hiding-hurt-over-forgotten-birthday.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [서비스 받는 동안 잡담 피하기](docs/avoiding-small-talk-during-service.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [선물 고르기 고민](docs/gift-choosing-anxiety.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [선택 과부하](docs/choice-overload.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [설단 현상](docs/tip-of-the-tongue.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [소득 상실 우려](docs/income-loss-worry.md) ([돈과 소비](groups/money.md))
