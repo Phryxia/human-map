@@ -8687,5 +8687,23 @@
     "last": "2026-10-23",
     "result": "VERIFIED",
     "lastVerified": "2026-10-23"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9831881&rettype=abstract&retmode=text": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://kyeonggi.com/article/201201120436653": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://weekly.khan.co.kr/article/201812101539181": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
   }
 }
