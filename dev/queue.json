@@ -1,97 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T12:31:39.285Z",
-  "nextSeq": 1316,
-  "stops": 89,
+  "savedAt": "2026-10-23T15:45:41.722Z",
+  "nextSeq": 1338,
+  "stops": 90,
   "items": [
-    {
-      "id": "6ee8faaa",
-      "title": "hearing-protection-nonuse 보강: 한국어 SNS 파편, 결과 간선(이명)",
-      "priority": 50,
-      "note": "2026-10-22 HN 2023-10-12 댓글(멋없어 보여 공연장 귀마개 안 함, 이명) 더함. 이명 문서가 생기면 결과 간선 후보(같은 댓글 'chalk it up to'). 한국 안전보건공단 자료 미탐색",
-      "createdAt": "2026-10-22T23:06:17.990Z",
-      "seq": 1124
-    },
-    {
-      "id": "02e5f924",
-      "title": "lingering-in-bed-on-cold-mornings 보강: 학술·SNS·한국어 파편, snoozing-the-alarm 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Long 1862, 매체 GIGAZINE 2010, 매체 County Press 2019). County Press 같은 글 'a third think they are more likely to hit the snooze button when the mornings are dark and cold'(같은 URL), 'One in five have been so cosy they have pulled a sickie to have a duvet day'. 명상록 8권 12절 'When thou risest from sleep with reluctance' 같은 URL. 이불 속에 머물려고 스누즈를 누른다는 인과 문장이 있으면 snoozing-the-alarm 결과 간선. 한국어 게시판·학술 미탐색",
-      "createdAt": "2026-10-23T00:34:27.707Z",
-      "seq": 1146
-    },
-    {
-      "id": "c3beefc4",
-      "title": "urge-to-jump-from-heights 보강: SNS·한국어 파편, 불안 민감성 조건",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Poe 1845, 학술 Hames 2012 eutils, 매체 NBC 2012-03-13). Hames 초록 'There was a significant correlation between anxiety sensitivity and the HPP' 는 같은 URL. NBC 같은 글 'driving across a bridge ... urge to drive off it'(같은 URL). pubmed.ncbi.nlm.nih.gov 는 쿠키 벽이라 eutils 를 씀. bigthink, trailsmag.net 'The Call of the Void' 후보. 한국어 게시판 미탐색",
-      "createdAt": "2026-10-23T00:36:18.576Z",
-      "seq": 1147
-    },
-    {
-      "id": "9df58150",
-      "title": "fear-of-the-dark 보강: 학술·SNS·한국어 파편, 성인 조건, lying-awake-thinking 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Lucretius Leonard 1916, 매체 Live Science 2012-06-11). 원 연구는 Carney 등 SLEEP 2012 초록(Ryerson), aasm.org 보도자료 2012-06-11 은 이 환경에서 본문 없음. 같은 기사 '불 끄면 잠을 못 자는 사람이 소리에 더 놀람' 같은 URL. nbcnews body-odd flna822689, tomsguide 2024 47% 성인, fox13now 3 in 10, journolink 'one in four adults sleep with the light on'(본문 JS). doctornow 한국어 Q&A. 어둠 공포 때문에 잠들지 못한다는 인과 문장이면 불면 관련 결과 간선",
-      "createdAt": "2026-10-23T00:38:18.036Z",
-      "seq": 1148
-    },
-    {
-      "id": "ab7400c8",
-      "title": "sulking 보강: 학술·SNS·한국어 파편, self-silencing·hiding-hurt-over-forgotten-birthday 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Tom Sawyer 1876, 매체 Psych Central 2015-01-09). 원 연구 Sanford 외 Psychological Assessment(2015) 'passive immobility' 초록 미확인. 같은 기사 'Withdrawal is the most problematic' 는 철회(withdrawal) 별개 현상 후보(같은 URL). 문학 후보: Les Misérables pg135 'he sulked for three days', Wuthering Heights pg768 'What are you sulky for?'. 한국어 게시판 '삐졌을 때' 미탐색",
-      "createdAt": "2026-10-23T00:40:36.221Z",
-      "seq": 1149
-    },
-    {
-      "id": "77c6f2c7",
-      "title": "embarrassed-by-parents 보강: 학술·SNS·한국어 파편, avoiding-inviting-people-home 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Mansfield Park 1814, 매체 DJS 2011-09, 매체 YouGov 2017-09-04). DJS 같은 글 'Nearly three-quarters of the teenagers polled said they would not introduce a boyfriend or girlfriend to their parents in case they embarrassed them'(결과 행동, 같은 URL). Mansfield Park 같은 대목 'shame for the home in which he found her' 는 avoiding-inviting-people-home 와 관련(같은 URL). Pride and Prejudice pg1342 'ashamed of her mother’s ungracious and reluctant good wishes' 문학 후보. sundaypost 부모의 온라인 행동 78%. 학술(청소년기 부모 당혹) 미탐색",
-      "createdAt": "2026-10-23T00:42:23.729Z",
-      "seq": 1150
-    },
-    {
-      "id": "932c2a79",
-      "title": "cringing-at-past-embarrassment 보강: 학술·SNS·한국어 파편, replaying-conversations-afterward·blushing 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 War and Peace 4권 6장 1869, 매체 The Conversation 2022-11-09 Hallford). 같은 글 'involuntary memories tend to be more negative than voluntary memories'(같은 URL), 'suddenly you’re thinking about that time in high school' 갑자기 떠오름 조건(같은 URL). David Copperfield pg766 'a certainty I blush to think of' 문학 후보. gigazine 2022-11-21 같은 주제. Mansfield Park 'which she blushed at the recollection of' 은 pg141 이 2개 문서. 한국어 '이불킥' 게시글·학술(Berntsen 비자발적 기억) 미탐색",
-      "createdAt": "2026-10-23T00:43:59.860Z",
-      "seq": 1151
-    },
-    {
-      "id": "ba3e017e",
-      "title": "littering 보강: 학술·SNS·문학 파편, behaving-better-when-watched 관계, 다른 시기",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(매체 프레시안 2007-03-30, 공공 내 손안에 서울 2020-06-19·2023-09-20). 프레시안 같은 글 '담배꽁초의 경우 길에 휙휙 던져지지만 다른 쓰레기는 조심스레 올려두고 가는 경우가 많다'(같은 URL). news.seoul.go.kr/env/archives/558831 (2024-08-01) 하루 1200만 개 공공 후보. 영국: local.gov.uk Social Engine 보고서 PDF(보이는 쓰레기가 많을수록 더 버림), letsrecycle 'Brits admit to littering', resourcemedia 'people litter more than they admit', edie.net Scots litterbugs. behaving-better-when-watched 의 Newcastle 연구가 쓰레기 버리기를 다룸(관계 근거 필요)",
-      "createdAt": "2026-10-23T00:46:37.488Z",
-      "seq": 1152
-    },
-    {
-      "id": "98a5d2c7",
-      "title": "reservation-no-show 보강: SNS·공공 파편, prospective-memory-failure 원인 간선",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(매체 Restaurant Online 2021-05-04, 학술 임다솔 2024). 같은 기사 'More than a quarter (27%) claimed they had tried to cancel bookings but weren’t able to reach the venue', 'over-booking ... reserving places at multiple venues' 조건(같은 URL). 'forgot to cancel' 은 prospective-memory-failure 원인 간선 후보(인과 문장 필요). 공공 후보: 중소벤처기업부·소진공 2026 외식업 노쇼 실태조사(점포 65% 피해), 공정위 위약금 기준 개정. tossplace.com/story/noshow_policy, zonal.co.uk 기록적 노쇼, cgastrategy 'Safety concerns fuel no-shows'",
-      "createdAt": "2026-10-23T00:48:08.593Z",
-      "seq": 1153
-    },
-    {
-      "id": "96070534",
-      "title": "buying-lottery-tickets 보강: 학술·SNS·문학 파편, daydreaming-about-windfall 결과 간선, 불황 조건",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(공공 정책브리핑 2014-02-10, 매체 노컷뉴스 2021-11-29, 매체 파이낸셜뉴스 2023-01-12). 노컷 같은 글 '인생 역전의 희망을 가질 수 있어서(85.5%)', '1분위 가구 복권 소비 46.7% 증가'(같은 URL). 파이낸셜 같은 글 '기대/희망을 가질 수 있어서 40.5%'(같은 URL). korea.kr pressReleaseView 156547321 (2023-01-11) 본문은 첨부 hwpx. imaeil 2009-03-19 불황일수록 로또(daydreaming 문서 [^5]). Chekhov The Lottery Ticket(1887) 문학 후보",
-      "createdAt": "2026-10-23T00:49:58.338Z",
-      "seq": 1154
-    },
-    {
-      "id": "442c050c",
-      "title": "deja-vu 보강: 문학·SNS·한국어 파편, 스트레스·피로 조건",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(학술 Brown 2003 eutils, 매체 The Conversation Cleary 2022-10-03). Brown 초록 'Déjà vu appears to be associated with stress and fatigue, and it shows a positive relationship with socioeconomic level and education'(같은 URL). 문학 후보: David Copperfield pg766 'what we are saying and doing having been said and done before'(pg766 이미 4개 문서라 못 씀), War and Peace pg2600 Natasha 'it all having happened before'(pg2600 이미 4개 문서), Peter Pan pg16 'I think I have been here before'(다른 뜻), Rossetti 'Sudden Light'(1863) 'I have been here before'. theconversation explainer-what-is-deja-vu 11355 (2013) 매체 후보. jamais-vu 213596 은 반대 현상",
-      "createdAt": "2026-10-23T00:53:51.758Z",
-      "seq": 1156
-    },
     {
       "id": "2fa93147",
       "title": "avoiding-being-alone-with-thoughts 보강: 문학·SNS·한국어 파편, 남녀 조건, sensation-seeking 관계",
@@ -411,6 +323,94 @@
       "note": "2026-10-23 문서 만듦(매체 매일신문 2007-03-15, 학술 Best 외 Innovation in Aging 2021-12-17 PMC8682595). 학술 후보: 'What Is the Purpose in Retiring?' PMC7741742 (Psychological Science 2021, 저소득·불만족 직장 은퇴자의 목적의식 증가, 조건). khan 2012-11-25 50대 퇴직자 구직 어려움 57.7%. reportera '방향 상실감'. 한국어 공공(50플러스재단) 미탐색",
       "createdAt": "2026-10-23T12:30:19.527Z",
       "seq": 1314
+    },
+    {
+      "id": "023d38ea",
+      "title": "hearing-protection-nonuse 보강: 사격장 맥락, 이명 결과 간선",
+      "priority": 50,
+      "note": "2026-10-23 클리앙 게시글 kin/18918634 (2025) 더함. 클리앙 park/3072617 (2012-07-30) 사격 귀마개 댓글: '저 귀마개 안하고 해서 이명생겼습니다..ㅠ'(인과, 이명 문서가 생기면 결과 간선), '애초에 끼어야한다는 생각도 없었구요', '상병때부터 귀차나서'. 클리앙 use/17530981 (2022-09-02) 가공 소리를 들어야 해서 이어머프 망설임",
+      "createdAt": "2026-10-23T15:11:28.024Z",
+      "seq": 1327
+    },
+    {
+      "id": "e6ed0ece",
+      "title": "lingering-in-bed-on-cold-mornings 보강: 학술·공공 파편",
+      "priority": 50,
+      "note": "2026-10-23 디시 2020·클리앙 2023 SNS 더함, snoozing-the-alarm 결과 간선. 학술 후보: Li 외 Front Digit Health 2021 PMID 34713148 기상 시각 계절성(일출 상관, 기온 아님). 기온·침실 온도와 기상 지연을 잇는 학술·공공 자료 미발견. County Press 같은 글 'We need an extra 16 minutes in bed each morning during winter'(같은 URL). RAND 2014 'A Warm Bed on a Cold Morning' 403",
+      "createdAt": "2026-10-23T15:17:57.961Z",
+      "seq": 1328
+    },
+    {
+      "id": "228dc054",
+      "title": "urge-to-jump-from-heights 보강: 한국어 매체, 불안 민감성 조건",
+      "priority": 50,
+      "note": "2026-10-23 클리앙 2014·2024 댓글 더함. 매체 후보: 코리아헬스로그 2022-12-08 articleView idxno=40013 서평 '높은 곳 증후군' 정의. Hames 초록 anxiety sensitivity 상관(같은 URL) 미반영. 지하철 승강장 장면 게시글 미발견",
+      "createdAt": "2026-10-23T15:23:39.548Z",
+      "seq": 1329
+    },
+    {
+      "id": "c822c233",
+      "title": "fear-of-the-dark 보강: 불면 관련 결과 간선, 혼자 사는 성인 조건",
+      "priority": 50,
+      "note": "2026-10-23 클리앙 2012 게시글·FOX10 2025 더함. FOX10 같은 기사 '10% leave the lights on all night — with men twice as likely'(같은 URL, Talker Research·매트리스 업체 의뢰). 클리앙 park/8306237 (2015-10-23) 혼자 살며 무서워 불 켜고 잠. NBC body-odd flna822689 는 Carney 연구 보도로 Live Science 와 겹침. 불면 문서가 생기면 클리앙 2012 '무서워서 불 켜고 잘때가 많고... 잠도 잘 못자요' 로 결과 간선",
+      "createdAt": "2026-10-23T15:26:41.776Z",
+      "seq": 1330
+    },
+    {
+      "id": "ae991963",
+      "title": "sulking 보강: 학술 파편, self-silencing·hiding-hurt-over-forgotten-birthday 관계",
+      "priority": 50,
+      "note": "2026-10-23 네이트 판 2011 게시글·2016 댓글 더함. 같은 2016 글 본문 '그냥 아무런 말없이 카톡할때 단답을'(같은 URL). 네이트 판 talk/370375060 (2023-06-23) 상대 관점, talk/333299250 (2016-08-18) 남편. 데일리안 2022-08-11 news/view/1141681 아동 삐짐 '주의를 끌고 싶어 삐지는 행동을 전략적으로'. Sanford 2015 원 연구 초록 미확인",
+      "createdAt": "2026-10-23T15:31:35.310Z",
+      "seq": 1331
+    },
+    {
+      "id": "bce70802",
+      "title": "embarrassed-by-parents 보강: avoiding-inviting-people-home 관계, 집안 차 장면",
+      "priority": 50,
+      "note": "2026-10-23 Choi·Kim 2010 PMC3148822, 클리앙 2023 댓글 더함. 클리앙 park/18752297 (2024-06-25) 낡은 집 차에서 친구가 보이면 몸을 낮춰 숨음. PMC6286232 (2018) 'culturally inept behaviors or poor English'. PMC7369039 (2020) 헌팅턴병 가족 자녀 'embarrassed by their parent’s behaviour outside the home'(사회 활동 철회, 결과 간선 후보)",
+      "createdAt": "2026-10-23T15:35:53.631Z",
+      "seq": 1332
+    },
+    {
+      "id": "469b288a",
+      "title": "cringing-at-past-embarrassment 보강: replaying-conversations-afterward·blushing 관계, 다른 시기 SNS",
+      "priority": 50,
+      "note": "2026-10-23 클리앙 2019 게시글·Del Palacio-Gonzalez·Berntsen 2020 eutils 더함. 같은 초록 'memories were associated with more embarrassment than imagined future events.'(같은 URL). 클리앙 park/3087715 (2012-08-02) 떠오르면 혼자 소리 지름, park/9289386 (2016-06-20) 당일 말실수가 떠올라 잠 못 잠(lying-awake-thinking 결과 간선 후보)",
+      "createdAt": "2026-10-23T15:38:44.857Z",
+      "seq": 1333
+    },
+    {
+      "id": "d6cad3c4",
+      "title": "littering 보강: 문학 파편, behaving-better-when-watched 관계, 다른 시기",
+      "priority": 50,
+      "note": "2026-10-23 클리앙 2021·2025 댓글 더함. 2025 댓글 앞 대목 '구석 구석이 다 쓰레기 천지'(이미 버려진 곳에 버림, 같은 URL). 영국 local.gov.uk Social Engine 보고서 PDF, letsrecycle 'Brits admit to littering' 후보. Newcastle 눈 사진 연구 인과 문장 필요",
+      "createdAt": "2026-10-23T15:40:25.936Z",
+      "seq": 1334
+    },
+    {
+      "id": "8aa8514a",
+      "title": "reservation-no-show 보강: 공공 파편, 예약자 1인칭 SNS, prospective-memory-failure 원인 간선",
+      "priority": 50,
+      "note": "2026-10-23 클리앙 2026 숙박 게시글 더함. 클리앙 park/18029107 (2023-04-17) 재방문 고객도 연락 없이 안 옴. 공공 후보: 중기부·소진공 2026 외식업 노쇼 실태조사, 공정위 위약금 기준. Restaurant Online 같은 기사 'forgot to cancel' 인과 문장 필요",
+      "createdAt": "2026-10-23T15:41:56.319Z",
+      "seq": 1335
+    },
+    {
+      "id": "3314e5d6",
+      "title": "buying-lottery-tickets 보강: 학술·문학 파편, daydreaming-about-windfall 결과 간선, 불황 조건",
+      "priority": 50,
+      "note": "2026-10-23 클리앙 2020 댓글 더함. 클리앙 park/16857769 (2022-01-09) '1주간의 행복한 상상 희망을 산다'. 경기일보 2011 kyeonggi.com/article/201101310393559 당첨자 43% '일주일간 즐거운 상상과 재미'(미확인, fetch 필요). Chekhov The Lottery Ticket(1887) 문학 후보",
+      "createdAt": "2026-10-23T15:43:34.112Z",
+      "seq": 1336
+    },
+    {
+      "id": "86299b51",
+      "title": "deja-vu 보강: 문학 파편, 스트레스·피로 조건",
+      "priority": 50,
+      "note": "2026-10-23 아하 2025 게시글 더함. 같은 페이지 답변 '피곤하거나, 잠을 잘 못자거나 스트레스를 많이 받는 경우 자주 발생'(같은 URL, 일반론). 닥터나우 qna bdf850dd... (2025-04-07) 기시감이 모든 행동으로 번짐, 하이닥 C0000957516 같은 사연(둘 중 하나만). Brown 초록 stress and fatigue(같은 URL). Rossetti 'Sudden Light'(1863) 문학 후보",
+      "createdAt": "2026-10-23T15:45:32.790Z",
+      "seq": 1337
     },
     {
       "id": "e8ba47a7",
