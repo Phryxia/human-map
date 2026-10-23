@@ -1,225 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:09:10.759Z",
-  "nextSeq": 1223,
+  "savedAt": "2026-10-23T03:11:21.076Z",
+  "nextSeq": 1225,
   "stops": 85,
   "items": [
-    {
-      "id": "6bfb6b01",
-      "title": "awaiting-uncertain-news: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:54.932Z",
-      "seq": 1195
-    },
-    {
-      "id": "1635ed0f",
-      "title": "bicycle-helmet-nonuse: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.046Z",
-      "seq": 1196
-    },
-    {
-      "id": "b1a17a3e",
-      "title": "bystander-effect: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.162Z",
-      "seq": 1197
-    },
-    {
-      "id": "d546ceea",
-      "title": "deflecting-compliments: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.267Z",
-      "seq": 1198
-    },
-    {
-      "id": "e25eeb68",
-      "title": "delaying-driving-cessation: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.381Z",
-      "seq": 1199
-    },
-    {
-      "id": "0f1679ad",
-      "title": "dental-anxiety: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.492Z",
-      "seq": 1200
-    },
-    {
-      "id": "7d1bda3d",
-      "title": "difficulty-saying-no: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.606Z",
-      "seq": 1201
-    },
-    {
-      "id": "83daf5b8",
-      "title": "dodging-the-bill: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.723Z",
-      "seq": 1202
-    },
-    {
-      "id": "3eddad59",
-      "title": "evening-chronotype: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.841Z",
-      "seq": 1203
-    },
-    {
-      "id": "4a626e1e",
-      "title": "fear-of-walking-alone-at-night: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:55.965Z",
-      "seq": 1204
-    },
-    {
-      "id": "50c844b3",
-      "title": "giving-up-job-search: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.083Z",
-      "seq": 1205
-    },
-    {
-      "id": "2d4c263d",
-      "title": "help-seeking-avoidance: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.199Z",
-      "seq": 1206
-    },
-    {
-      "id": "95eaf7e2",
-      "title": "hesitating-to-contact-old-friends: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.327Z",
-      "seq": 1207
-    },
-    {
-      "id": "e9a252be",
-      "title": "hesitating-to-signal-bus-stop: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.438Z",
-      "seq": 1208
-    },
-    {
-      "id": "ac665814",
-      "title": "hiding-illness-from-family: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.553Z",
-      "seq": 1209
-    },
-    {
-      "id": "9fcb7fac",
-      "title": "hosting-beyond-means: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.668Z",
-      "seq": 1210
-    },
-    {
-      "id": "a2354b45",
-      "title": "irish-goodbye: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.779Z",
-      "seq": 1211
-    },
-    {
-      "id": "d74bc8dc",
-      "title": "lingering-goodbye: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:56.897Z",
-      "seq": 1212
-    },
-    {
-      "id": "49bbc6b2",
-      "title": "malicious-envy: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.021Z",
-      "seq": 1213
-    },
-    {
-      "id": "4c0875dc",
-      "title": "meerkat-effect: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.142Z",
-      "seq": 1214
-    },
-    {
-      "id": "a93398c7",
-      "title": "not-claiming-benefits: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.265Z",
-      "seq": 1215
-    },
-    {
-      "id": "280ee465",
-      "title": "schadenfreude: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.386Z",
-      "seq": 1216
-    },
-    {
-      "id": "9913383b",
-      "title": "showing-off-possessions: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.500Z",
-      "seq": 1217
-    },
-    {
-      "id": "b66fe9df",
-      "title": "shy-bladder: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.614Z",
-      "seq": 1218
-    },
-    {
-      "id": "9e0a15db",
-      "title": "suppressed-anger-outburst: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.739Z",
-      "seq": 1219
-    },
-    {
-      "id": "5bcdb2cd",
-      "title": "walking-dog-off-leash: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.851Z",
-      "seq": 1220
-    },
-    {
-      "id": "2c0b4491",
-      "title": "wishing-guests-would-leave: 출처가 다른 문장을 각주 묶음 하나로 받침",
-      "priority": 100,
-      "note": "이슈 #7. validate WARN '출처가 다른 문장을 각주 묶음 하나로 받친다'. 문장마다 자기 각주를 단다. 문장 수와 각주 수가 다르거나 연도가 각주 발행일과 맞지 않아 자동으로 못 나눴다",
-      "createdAt": "2026-10-23T03:08:57.960Z",
-      "seq": 1221
-    },
     {
       "id": "c589ac2a",
       "title": "dev: validate 의 각주 묶음 WARN 을 ERROR 로 올린다",
@@ -227,6 +11,14 @@
       "note": "이슈 #7. '<id>: 출처가 다른 문장을 각주 묶음 하나로 받침' 항목 27개가 모두 처리되고 validate 의 그 WARN 이 0 이 되면 올린다. 사례: overestimating-peer-drinking 4문단(고침), apology-reluctance 9줄(고침)",
       "createdAt": "2026-10-23T03:08:58.071Z",
       "seq": 1222
+    },
+    {
+      "id": "804d1f50",
+      "title": "dev: source-check 호스트 예외에 TLS 실패, 5xx, 점검 페이지 포함",
+      "priority": 60,
+      "note": "이슈 #6. 오탐: 호스트 / 도 같은 이유로 실패하는데 소멸 지시. 사례: ignoring-emergency-alerts [^2] start.umd.edu TLS, ritual-refusal [^1] archive.carla.umn.edu TLS, no-time-to-exercise [^2] abs.gov.au 503, spouse-financial-concealment [^2] scholarworks.iu.edu TLS, feeling-rushed [^5] statcan 점검 페이지. 5.5절상 이 세션이 고친다",
+      "createdAt": "2026-10-23T03:09:30.923Z",
+      "seq": 1224
     },
     {
       "id": "7500e13b",
