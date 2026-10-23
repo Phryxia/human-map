@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-10-23T21:05Z | 2026-10-23T21:34Z | zeigarnik-effect 보강 | zeigarnik-effect dev/sources.json
+없음.
