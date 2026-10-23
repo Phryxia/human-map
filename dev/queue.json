@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-22T23:06:30.909Z",
-  "nextSeq": 1125,
-  "stops": 84,
+  "savedAt": "2026-10-23T01:10:28.296Z",
+  "nextSeq": 1167,
+  "stops": 85,
   "items": [
     {
       "id": "7500e13b",
@@ -187,6 +187,150 @@
       "note": "2026-10-22 HN 2023-10-12 댓글(멋없어 보여 공연장 귀마개 안 함, 이명) 더함. 이명 문서가 생기면 결과 간선 후보(같은 댓글 'chalk it up to'). 한국 안전보건공단 자료 미탐색",
       "createdAt": "2026-10-22T23:06:17.990Z",
       "seq": 1124
+    },
+    {
+      "id": "02e5f924",
+      "title": "lingering-in-bed-on-cold-mornings 보강: 학술·SNS·한국어 파편, snoozing-the-alarm 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Long 1862, 매체 GIGAZINE 2010, 매체 County Press 2019). County Press 같은 글 'a third think they are more likely to hit the snooze button when the mornings are dark and cold'(같은 URL), 'One in five have been so cosy they have pulled a sickie to have a duvet day'. 명상록 8권 12절 'When thou risest from sleep with reluctance' 같은 URL. 이불 속에 머물려고 스누즈를 누른다는 인과 문장이 있으면 snoozing-the-alarm 결과 간선. 한국어 게시판·학술 미탐색",
+      "createdAt": "2026-10-23T00:34:27.707Z",
+      "seq": 1146
+    },
+    {
+      "id": "c3beefc4",
+      "title": "urge-to-jump-from-heights 보강: SNS·한국어 파편, 불안 민감성 조건",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Poe 1845, 학술 Hames 2012 eutils, 매체 NBC 2012-03-13). Hames 초록 'There was a significant correlation between anxiety sensitivity and the HPP' 는 같은 URL. NBC 같은 글 'driving across a bridge ... urge to drive off it'(같은 URL). pubmed.ncbi.nlm.nih.gov 는 쿠키 벽이라 eutils 를 씀. bigthink, trailsmag.net 'The Call of the Void' 후보. 한국어 게시판 미탐색",
+      "createdAt": "2026-10-23T00:36:18.576Z",
+      "seq": 1147
+    },
+    {
+      "id": "9df58150",
+      "title": "fear-of-the-dark 보강: 학술·SNS·한국어 파편, 성인 조건, lying-awake-thinking 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Lucretius Leonard 1916, 매체 Live Science 2012-06-11). 원 연구는 Carney 등 SLEEP 2012 초록(Ryerson), aasm.org 보도자료 2012-06-11 은 이 환경에서 본문 없음. 같은 기사 '불 끄면 잠을 못 자는 사람이 소리에 더 놀람' 같은 URL. nbcnews body-odd flna822689, tomsguide 2024 47% 성인, fox13now 3 in 10, journolink 'one in four adults sleep with the light on'(본문 JS). doctornow 한국어 Q&A. 어둠 공포 때문에 잠들지 못한다는 인과 문장이면 불면 관련 결과 간선",
+      "createdAt": "2026-10-23T00:38:18.036Z",
+      "seq": 1148
+    },
+    {
+      "id": "ab7400c8",
+      "title": "sulking 보강: 학술·SNS·한국어 파편, self-silencing·hiding-hurt-over-forgotten-birthday 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Tom Sawyer 1876, 매체 Psych Central 2015-01-09). 원 연구 Sanford 외 Psychological Assessment(2015) 'passive immobility' 초록 미확인. 같은 기사 'Withdrawal is the most problematic' 는 철회(withdrawal) 별개 현상 후보(같은 URL). 문학 후보: Les Misérables pg135 'he sulked for three days', Wuthering Heights pg768 'What are you sulky for?'. 한국어 게시판 '삐졌을 때' 미탐색",
+      "createdAt": "2026-10-23T00:40:36.221Z",
+      "seq": 1149
+    },
+    {
+      "id": "77c6f2c7",
+      "title": "embarrassed-by-parents 보강: 학술·SNS·한국어 파편, avoiding-inviting-people-home 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Mansfield Park 1814, 매체 DJS 2011-09, 매체 YouGov 2017-09-04). DJS 같은 글 'Nearly three-quarters of the teenagers polled said they would not introduce a boyfriend or girlfriend to their parents in case they embarrassed them'(결과 행동, 같은 URL). Mansfield Park 같은 대목 'shame for the home in which he found her' 는 avoiding-inviting-people-home 와 관련(같은 URL). Pride and Prejudice pg1342 'ashamed of her mother’s ungracious and reluctant good wishes' 문학 후보. sundaypost 부모의 온라인 행동 78%. 학술(청소년기 부모 당혹) 미탐색",
+      "createdAt": "2026-10-23T00:42:23.729Z",
+      "seq": 1150
+    },
+    {
+      "id": "932c2a79",
+      "title": "cringing-at-past-embarrassment 보강: 학술·SNS·한국어 파편, replaying-conversations-afterward·blushing 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 War and Peace 4권 6장 1869, 매체 The Conversation 2022-11-09 Hallford). 같은 글 'involuntary memories tend to be more negative than voluntary memories'(같은 URL), 'suddenly you’re thinking about that time in high school' 갑자기 떠오름 조건(같은 URL). David Copperfield pg766 'a certainty I blush to think of' 문학 후보. gigazine 2022-11-21 같은 주제. Mansfield Park 'which she blushed at the recollection of' 은 pg141 이 2개 문서. 한국어 '이불킥' 게시글·학술(Berntsen 비자발적 기억) 미탐색",
+      "createdAt": "2026-10-23T00:43:59.860Z",
+      "seq": 1151
+    },
+    {
+      "id": "ba3e017e",
+      "title": "littering 보강: 학술·SNS·문학 파편, behaving-better-when-watched 관계, 다른 시기",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(매체 프레시안 2007-03-30, 공공 내 손안에 서울 2020-06-19·2023-09-20). 프레시안 같은 글 '담배꽁초의 경우 길에 휙휙 던져지지만 다른 쓰레기는 조심스레 올려두고 가는 경우가 많다'(같은 URL). news.seoul.go.kr/env/archives/558831 (2024-08-01) 하루 1200만 개 공공 후보. 영국: local.gov.uk Social Engine 보고서 PDF(보이는 쓰레기가 많을수록 더 버림), letsrecycle 'Brits admit to littering', resourcemedia 'people litter more than they admit', edie.net Scots litterbugs. behaving-better-when-watched 의 Newcastle 연구가 쓰레기 버리기를 다룸(관계 근거 필요)",
+      "createdAt": "2026-10-23T00:46:37.488Z",
+      "seq": 1152
+    },
+    {
+      "id": "98a5d2c7",
+      "title": "reservation-no-show 보강: SNS·공공 파편, prospective-memory-failure 원인 간선",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(매체 Restaurant Online 2021-05-04, 학술 임다솔 2024). 같은 기사 'More than a quarter (27%) claimed they had tried to cancel bookings but weren’t able to reach the venue', 'over-booking ... reserving places at multiple venues' 조건(같은 URL). 'forgot to cancel' 은 prospective-memory-failure 원인 간선 후보(인과 문장 필요). 공공 후보: 중소벤처기업부·소진공 2026 외식업 노쇼 실태조사(점포 65% 피해), 공정위 위약금 기준 개정. tossplace.com/story/noshow_policy, zonal.co.uk 기록적 노쇼, cgastrategy 'Safety concerns fuel no-shows'",
+      "createdAt": "2026-10-23T00:48:08.593Z",
+      "seq": 1153
+    },
+    {
+      "id": "96070534",
+      "title": "buying-lottery-tickets 보강: 학술·SNS·문학 파편, daydreaming-about-windfall 결과 간선, 불황 조건",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(공공 정책브리핑 2014-02-10, 매체 노컷뉴스 2021-11-29, 매체 파이낸셜뉴스 2023-01-12). 노컷 같은 글 '인생 역전의 희망을 가질 수 있어서(85.5%)', '1분위 가구 복권 소비 46.7% 증가'(같은 URL). 파이낸셜 같은 글 '기대/희망을 가질 수 있어서 40.5%'(같은 URL). korea.kr pressReleaseView 156547321 (2023-01-11) 본문은 첨부 hwpx. imaeil 2009-03-19 불황일수록 로또(daydreaming 문서 [^5]). Chekhov The Lottery Ticket(1887) 문학 후보",
+      "createdAt": "2026-10-23T00:49:58.338Z",
+      "seq": 1154
+    },
+    {
+      "id": "442c050c",
+      "title": "deja-vu 보강: 문학·SNS·한국어 파편, 스트레스·피로 조건",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(학술 Brown 2003 eutils, 매체 The Conversation Cleary 2022-10-03). Brown 초록 'Déjà vu appears to be associated with stress and fatigue, and it shows a positive relationship with socioeconomic level and education'(같은 URL). 문학 후보: David Copperfield pg766 'what we are saying and doing having been said and done before'(pg766 이미 4개 문서라 못 씀), War and Peace pg2600 Natasha 'it all having happened before'(pg2600 이미 4개 문서), Peter Pan pg16 'I think I have been here before'(다른 뜻), Rossetti 'Sudden Light'(1863) 'I have been here before'. theconversation explainer-what-is-deja-vu 11355 (2013) 매체 후보. jamais-vu 213596 은 반대 현상",
+      "createdAt": "2026-10-23T00:53:51.758Z",
+      "seq": 1156
+    },
+    {
+      "id": "2fa93147",
+      "title": "avoiding-being-alone-with-thoughts 보강: 문학·SNS·한국어 파편, 남녀 조건, sensation-seeking 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(학술 Wilson 외 Science 2014 eutils, 매체 Scripps News 2014-12-27). Wilson 초록 'many preferred to administer electric shocks to themselves instead of being left alone with their thoughts'(같은 URL). 보도: 남성 18명 중 12명, 여성 24명 중 6명이 충격(fox59·psypost 403). 연구진은 남성의 sensation-seeking 을 이유로 추측(sensation-seeking 관계 후보, 인과 문장 필요). 2022 Scientific Reports 반론(호기심). Pascal Pensées 'cannot stay quietly in their own chamber' 문학·학술 후보(pg18269 확인 필요)",
+      "createdAt": "2026-10-23T00:55:55.514Z",
+      "seq": 1158
+    },
+    {
+      "id": "ea2efc8d",
+      "title": "sensing-presence-of-the-dead 보강: SNS·매체·한국어 파편, bereavement-regret·keeping-belongings-of-the-dead 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Hardy 'The Voice' 1914 시집 pg2863, 학술 Parkes 1975 eutils). 학술 후보: Wittkowski·Scheuchenpflug 2021 Omega PMID 34866489 'A moderate positive association between sensing the deceased husband´s presence and cognitive and emotional impairments emerged.'(조건). 같은 시집 'His Visitor' 도 같은 URL. 한국어 게시판·매체(꿈에 나온 고인 등) 미탐색",
+      "createdAt": "2026-10-23T00:57:29.985Z",
+      "seq": 1159
+    },
+    {
+      "id": "2cb8f16b",
+      "title": "gamblers-fallacy 보강: 매체·SNS·한국어 파편, buying-lottery-tickets 관계, hot hand 대립 후보",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 The Gambler 1866 pg2197, 학술 Marmurek 2015 eutils, 학술 Studer 2015 eutils). Studer 같은 초록 'Betting behavior, on the other hand, increased as a function of losing streaks' 는 손실 추격(loss chasing) 별개 현상 후보(같은 URL). PNAS 2014 PMID 24711387, Mem Cognit 2004 PMID 15900930 후보. 로또 번호 고르기에서 최근 안 나온 번호를 고르는 한국어 게시글 미탐색",
+      "createdAt": "2026-10-23T00:59:49.386Z",
+      "seq": 1160
+    },
+    {
+      "id": "d90e2767",
+      "title": "loss-chasing 보강: 매체·SNS·공공 파편(주식·코인 본전 생각), disposition-effect·loss-aversion 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 The Gambler 1866, 학술 Studer 2015 eutils). The Gambler 같은 책 'I am determined to retrieve my losses', 'I cannot rest until I have retrieved my losses'(같은 URL). 한국어 주식·코인 게시판 '본전 찾으려고 물타기' 글, 한국도박문제예방치유원 공공 자료 미탐색",
+      "createdAt": "2026-10-23T01:00:33.188Z",
+      "seq": 1161
+    },
+    {
+      "id": "515e505d",
+      "title": "better-than-average-effect 보강: 문학·SNS·한국어·공공 파편, 동아시아 조건",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(매체 80000 Hours 2012-11-27, 학술 Zell 외 2020 eutils), driving-overconfidence 를 하위로 옮김. 80000hours 같은 글 'ninety percent of drivers think they are better than the average driver'(같은 URL). Zell 초록 '(c) sample European Americans rather than East-Asians'(같은 URL, 다른 출처 필요). frontiersin fpsyg.2017.00898 연세대 연구(쉬운 능력의 평균을 40백분위로 해석) 학술 후보",
+      "createdAt": "2026-10-23T01:02:02.081Z",
+      "seq": 1163
+    },
+    {
+      "id": "df309cd3",
+      "title": "choice-overload 보강: SNS·한국어·문학 파편, gift-choosing-anxiety·kiosk-order-abandonment 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(학술 Saltsman 외 2019 eutils, 매체 CBS LA 2023-08-31). CBS 같은 기사 'the average viewer spends 10 ½ minutes searching for something to watch'(같은 URL). informitv 2025-11-05 Gracenote 12분, 18-34세 16분(나이 조건 후보). McShane·Böckenholt 2018 Psychometrika PMID 28527101 '선택 과부하는 측정과 조절변수에 따라 크게 달라진다'(조건 후보). Simonsohn 2014 p-curve 재분석. 한국어 '넷플릭스 고르다 끝남' 게시글 미탐색",
+      "createdAt": "2026-10-23T01:03:08.076Z",
+      "seq": 1164
+    },
+    {
+      "id": "6af38809",
+      "title": "zeigarnik-effect 보강: 발행일 있는 매체·SNS·문학 파편, work-rumination-after-hours·prospective-memory-failure 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(매체 Coglode 발행일 미상, 학술 Masicampo·Baumeister 2011 eutils). Masicampo 초록 'Unfinished goals caused intrusive thoughts during an unrelated reading task'(같은 URL, 서술 근거로 다른 출처 필요). Zeigarnik 1927 원 연구(아이 138명 중 110명) 2차 출처만 봄. goodtherapy psychpedia 403. work-rumination-after-hours [^2] 의 '해결되지 않은 문제 63.1%' 는 원인 간선 후보",
+      "createdAt": "2026-10-23T01:04:38.379Z",
+      "seq": 1165
+    },
+    {
+      "id": "7da84524",
+      "title": "hindsight-bias 보강: 조건 파편(분야·나이), 문학·SNS·한국어 파편, regret-aversion·bereavement-regret 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(학술 Roese·Vohs 2012 eutils, 매체 APS 보도자료 2012-09-06). 조건 절이 정의를 되풀이하는 수준이라 조건을 말하는 다른 출처 필요. APS 같은 글 'documented in various domains, including medical diagnoses, accounting and auditing decisions, athletic competition, and political strategy'(같은 URL). Bernstein 외 Child Dev 2007 PMID 17650144 아이의 발달(나이 조건), Mem Cognit 2002 PMID 12661859, sciencedaily 120906123324",
+      "createdAt": "2026-10-23T01:05:48.843Z",
+      "seq": 1166
     },
     {
       "id": "e8ba47a7",
@@ -1395,6 +1539,30 @@
       "note": "2026-10-22 snooping-on-partners-phone 결과 간선 상대 후보. psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate (2025-09-02, Cortney S. Warren) 'Violating their boundaries through snooping is very likely to cause conflict with your partner, no matter what you find.' marieclaire.co.uk/life/snooping-670110 (2019-11-02) 'In cases where the relationship ended, it was either because the phone owner felt their trust was betrayed, or the relationship was also experiencing difficulties' 이별 인과",
       "createdAt": "2026-10-22T22:56:23.218Z",
       "seq": 1117
+    },
+    {
+      "id": "81783713",
+      "title": "일하다 화장실에 숨어 쉬기",
+      "priority": 10,
+      "note": "2026-10-23 탐색. 매체만 찾음: cleanlink.com/news/article/Survey-Compares-Worker-Productivity-With-Restroom-Use--16544 (2014-01-08) 'Do you ever hide in the restroom during the working day?', 27 percent ... did', 71% time wasting, 14% avoid colleagues. initial.co.uk 2018 1/3 'break zone'(403), europeancleaningjournal SCA Hygiene Matters 2014 take time out 15%, jobplanet news-4537 월루 설문. 학술·SNS·공공 출처 필요",
+      "createdAt": "2026-10-23T00:50:58.166Z",
+      "seq": 1155
+    },
+    {
+      "id": "e50f903b",
+      "title": "춘곤증",
+      "priority": 10,
+      "note": "2026-10-23 탐색. korea.kr/news/healthView.do?newsId=148811089 (하이닥 제공 기사) '춘곤증은 주의집중 방해와 졸음운전으로 사고를 일으키기 쉬우므로' 는 driving-while-drowsy 원인 간선 후보, '운동이 부족하거나 과로가 쌓였거나 나이가 많은 경우에 춘곤증이 더욱 심하게' 조건. 하이닥 제공이라 종류(공공/매체) 판단 필요. 학술 후보 없음(pubmed 'spring fatigue' 는 Aten Primaria 2013 의료화 비판뿐). 생리 현상이라 범위 판단 필요",
+      "createdAt": "2026-10-23T00:54:39.782Z",
+      "seq": 1157
+    },
+    {
+      "id": "2b1791bc",
+      "title": "평균 이상 효과",
+      "priority": 10,
+      "note": "2026-10-23 탐색. 학술: Zell 외 2020 Psychol Bull PMID 31789535 eutils 초록 'The better-than-average-effect (BTAE) is the tendency for people to perceive their abilities, attributes, and personality traits as superior compared with their average peer', 조건 '(c) sample European Americans rather than East-Asians'. 매체 후보 valueresearchonline stories/32471 (403), Cross 1977 교수 94% 는 원출처 미확인. driving-overconfidence 의 상위 후보",
+      "createdAt": "2026-10-23T01:01:09.702Z",
+      "seq": 1162
     },
     {
       "id": "02b2f242",
