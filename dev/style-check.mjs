@@ -1,26 +1,31 @@
 #!/usr/bin/env node
-// 서술 절의 문체 규칙 검사(제목·별칭·요약 줄은 이모지와 한자만). 사용법: node dev/style-check.mjs [<id>]
+// 서술 절과 요약 줄의 문체 규칙 검사(제목·별칭 줄은 이모지와 한자만). 사용법: node dev/style-check.mjs [<id>]
 import {loadAll, listDocIds, paragraphs} from './lib/doc.mjs'
 import {GROUPS, countRules} from './lib/style-rules.mjs'
 
+// 한 줄에 금지 묶음을 적용한다. level 을 주면 그 단계로 낮춘다.
+function lineIssues(doc, ln, text, groups, level) {
+  const out = []
+  const bare = text.replace(/"[^"]*"|“[^”]*”|'[^']*'|‘[^’]*’/g, '')
+  for (const g of groups) for (const re of g.patterns) {
+    const m = re.exec(g.unquoted ? bare : text)
+    if (m) out.push({id: doc.id, ln, group: g.name, msg: `'${m[0]}'`, level: level ?? g.level ?? 'ERROR'})
+  }
+  return out
+}
+
+// 요약 줄 검사는 기존 문서가 모두 고쳐질 때까지 WARN 이다.
+export const SUMMARY_LEVEL = 'WARN'
+
 export function styleIssues(doc) {
   const out = []
-  for (const sec of ['서술']) {
-    for (const {ln, text} of doc.sections[sec]?.lines ?? []) {
-      const bare = text.replace(/"[^"]*"|“[^”]*”|'[^']*'|‘[^’]*’/g, '')
-      for (const g of GROUPS) for (const re of g.patterns) {
-        const m = re.exec(g.unquoted ? bare : text)
-        if (m) out.push({id: doc.id, ln, group: g.name, msg: `'${m[0]}'`, level: g.level ?? 'ERROR'})
-      }
-    }
-  }
-  // 제목·별칭·요약 줄(첫 절 앞)은 이모지와 한자만 본다.
+  for (const {ln, text} of doc.sections['서술']?.lines ?? []) out.push(...lineIssues(doc, ln, text, GROUPS))
+  // 제목·별칭 줄은 이모지와 한자만, 요약 줄은 모든 묶음을 본다.
+  const emoji = GROUPS.filter(g => g.name === '이모지와 한자')
   const headEnd = doc.headings.find(h => h.level === 1)?.ln ?? doc.lines.length + 1
   doc.lines.slice(0, headEnd - 1).forEach((text, i) => {
-    for (const g of GROUPS.filter(g => g.name === '이모지와 한자')) for (const re of g.patterns) {
-      const m = re.exec(text)
-      if (m) out.push({id: doc.id, ln: i + 1, group: g.name, msg: `'${m[0]}'`, level: g.level ?? 'ERROR'})
-    }
+    const isSummary = doc.summary !== null && text.trim() === doc.summary
+    out.push(...lineIssues(doc, i + 1, text, isSummary ? GROUPS : emoji, isSummary ? SUMMARY_LEVEL : undefined))
   })
   const all = paragraphs(doc, '서술')
   for (const p of all) {
