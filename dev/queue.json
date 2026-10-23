@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T09:40:21.294Z",
-  "nextSeq": 1288,
-  "stops": 88,
+  "savedAt": "2026-10-23T12:31:39.285Z",
+  "nextSeq": 1316,
+  "stops": 89,
   "items": [
     {
       "id": "6ee8faaa",
@@ -315,6 +315,102 @@
       "note": "2026-10-23 PMC3218801 요구-철수 더함. 남은 후보: pann.nate.com/talk/359133930 (2021-04-17) 병원 가 보자는 말로 싸움. marieclaire.co.uk/life/snooping-670110 (2019-11-02) 엿보기 뒤 이별. 큐의 '연인과의 다툼(관계 갈등)' 항목은 이 문서로 처리됨",
       "createdAt": "2026-10-23T09:40:10.821Z",
       "seq": 1287
+    },
+    {
+      "id": "ed18246a",
+      "title": "emotional-labor 보강: SNS·문학 파편, heavy-drinking 결과 간선 근거",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(학술 Grandey 2000, 공공 서울톡톡 2012-12-05, 학술 Grandey 2019). Grandey 2019 초록은 surface acting 과 heavy drinking 의 관련만 말해 원인 간선 근거가 아님. 인과 문장 찾으면 heavy-drinking 결과 간선. 같은 기사 165771 '스튜디어스, 콜센터 안내직원, 백화점 및 마트 판매원' 직종 목록. krivet 감정노동의 직업별 실태(2013, 항공기 객실 승무원 4.70)는 이 환경에서 403. Wang·Groth 2014 PMID 24079672 고객 만족 조건. 한국어 상담원 게시글 미탐색",
+      "createdAt": "2026-10-23T12:09:34.203Z",
+      "seq": 1302
+    },
+    {
+      "id": "1ae789f9",
+      "title": "keeping-a-diary 보강: 학술·SNS 파편, 연령 조건",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Diary of a Nobody 1892, 매체 노컷 2014-01-14, 매체 Stiftung für Zukunftsfragen 2023-04-13). Stiftung 같은 글 'Diary writing is particularly popular among the under-30s and is therefore practised twice as often'(같은 URL). 노컷 같은 기사 일기 쓰는 대학생 64%, 여학생 67.8%(같은 URL). literacytrust Diary_writing_in_2022.pdf 아동 29.7%, YouGov 2016 미국. 학술(표현적 글쓰기·일기 쓰기 동기) 미탐색. unsent-letters 와 관계 후보",
+      "createdAt": "2026-10-23T12:11:45.449Z",
+      "seq": 1304
+    },
+    {
+      "id": "56374538",
+      "title": "enduring-workplace-harassment 보강: 학술·SNS 파편, 다른 시기, 퇴사 결과",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(공공 EEOC 2016-06, 매체 에너지경제 2018-02-12). EEOC 같은 글 'fail to report ... because they fear disbelief of their claim, inaction on their claim, blame, or social or professional retaliation'(같은 URL), 'avoid the harasser, deny or downplay the gravity of the situation, or attempt to ignore, forget, or endure the behavior'(같은 URL). 경향 2025-12-14 khan 202512142058015 직장갑질119 '참거나 모르는 척했다' 56.4%, '회사를 그만뒀다' 26.4%(제목에 실명). 서울신문 2017-11-02 대기업보다 중소기업 소극적(조건). not-reporting-for-fear-of-reprisal 와 관계 후보",
+      "createdAt": "2026-10-23T12:13:25.556Z",
+      "seq": 1305
+    },
+    {
+      "id": "5e1a0f1e",
+      "title": "gossip 보강: 매체·SNS·한국어 파편, overhearing-talk-about-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Middlemarch 1871, 학술 Peters 2017 eutils, 학술 Dores Cruz 2021 eutils). Dores Cruz 같은 초록 'Receivers overwhelmingly believed gossip to be true and updated their evaluation of targets based on gossip'(같은 URL). Emma pg158 'Highbury gossips!—Tiresome wretches!' 문학 후보. Pride and Prejudice 'make sport for our neighbours' 는 pg1342 가 이미 4개 문서. PMID 42792356(2026) 다크 테트라드와 험담 빈도. Robbins·Karan 2019 하루 52분 매체 보도 미탐색",
+      "createdAt": "2026-10-23T12:14:57.865Z",
+      "seq": 1306
+    },
+    {
+      "id": "5d14f4d3",
+      "title": "not-reading-books 보강: 학술·SNS·문학 파편, 다른 시기(2000년대 이전)",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(매체 Pew 2021-09-21, 공공 정책브리핑 2024-04-18). Pew 같은 글 'Roughly a quarter of American adults (23%) say they haven’t read a book'(같은 URL). 정책브리핑 같은 글 학생 '공부 때문에 시간이 없어서(31.2%)'(같은 URL). 2025년 조사 newdaily 2026-03-06 성인 독서율 38.5%. NEA Reading at Risk(2004) 공공 후보. smartphone-checking-habit 과 관계 후보(인과 문장 필요)",
+      "createdAt": "2026-10-23T12:17:08.499Z",
+      "seq": 1307
+    },
+    {
+      "id": "78558ae9",
+      "title": "pet-loss-grief 보강: SNS·공공 파편, bereavement-regret 관계(자책)",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Byron Epitaph to a Dog 1808 wikisource, 학술 Cleary 2022 eutils, 매체 데일리벳 2025-07-23). Wikipedia 는 비문 산문을 Hobhouse 가 썼다고 적음(시 본문 'I never knew but one' 은 Inscription on the Monument of a Newfoundland Dog). 데일리벳 같은 기사 '더 잘해줄 걸' 자책감, '유난 떠는 것처럼 보이고' 공감 받지 못한 슬픔(같은 URL). Lavorgna 2019 PMID 30216137 사람 사별과 슬픔 정도 차이 없음, PMID 41533687 지속성 애도. disenfranchised grief 별개 현상 후보",
+      "createdAt": "2026-10-23T12:18:48.776Z",
+      "seq": 1308
+    },
+    {
+      "id": "9fb28d10",
+      "title": "solo-leisure 보강: 학술·SNS·문학 파편, 연령 조건",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(공공 문체부 2017-01-12, 매체 이코노미스트 2024-12-27). 문체부 같은 글 '20대 이하 국민들의 70% 이상은 혼자서 여가활동을 하는 것으로 나타나 타 연령대(50%~60%초반)와 구분'(같은 URL), '휴식(56.7%)' 소극적 여가. sidae 2014-12-17 2014년 조사. 한국어 '혼놀' 게시글, 학술(solitude 선호) 미탐색. eating-alone-feelings, loneliness 와 관계 후보(인과 문장 필요)",
+      "createdAt": "2026-10-23T12:20:41.781Z",
+      "seq": 1309
+    },
+    {
+      "id": "f182c797",
+      "title": "tightwad-spending 보강: SNS·공공·한국어 파편, retail-therapy 대립 후보",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Silas Marner 1861, 매체 Knowledge at Wharton 2007-09-19, 학술 Rick 외 2008 russellsage). russellsage 같은 초록 'Spending differences between tightwads and spendthrifts are greatest in situations that amplify the pain of paying'(조건, 같은 URL). Silas Marner 같은 책 'it was pleasant to him to feel them in his palm'. cmu.edu TightwadSpendThrift.pdf 전문, theglobeandmail what-makes-a-tightwad. 한국어 '돈 쓰는 게 아까워' 게시글 미탐색. 헤프게 쓰기(spendthrift) 별개 현상 후보",
+      "createdAt": "2026-10-23T12:21:51.219Z",
+      "seq": 1310
+    },
+    {
+      "id": "31748ece",
+      "title": "vegetable-gardening 보강: 문학·SNS·매체 파편, 다른 시기",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(공공 강동구 2016-03-10, 학술 Soga 2016 eutils, 공공 내 손안에 서울 2022-05-25). mediahub 2011412(2024-06-11) 매력텃밭정원 체험기 '주말마다 소풍 오는 기분으로 텃밭 활동'. 서울신문 2013-06-01 '아스팔트 옆 텃밭… 흙은 힐링', 2017-04-03 '3평의 행복'. 한경에세이 2026-05-11 한 평에서 싹트는 것들. Candide 'il faut cultiver notre jardin' 문학 후보(비유라 서술 주의). 한국어 주말농장 게시글 미탐색",
+      "createdAt": "2026-10-23T12:25:28.630Z",
+      "seq": 1311
+    },
+    {
+      "id": "5f1b5172",
+      "title": "boredom 보강: 학술·SNS·한국어 파편, loneliness·avoiding-being-alone-with-thoughts 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Madame Bovary 영역 1886, 매체 Psychology Today 2017-03-03). 같은 글 'Men were far more likely to report feeling bored than women, and single participants were far more prone to boredom'(같은 URL), 'far more likely to be reported in conjunction with negative emotions ... loneliness, anger, sadness, and worry'(같은 URL). 원 논문 Chin 외 2017 Emotion 17(2) PDF(cmu.edu BoredUSA.pdf). PMID 42546294(2026) 재택근무에서 지루함 더 큼. Bovary 같은 책 'ennui, the silent spider'",
+      "createdAt": "2026-10-23T12:27:03.332Z",
+      "seq": 1312
+    },
+    {
+      "id": "0689e30f",
+      "title": "forbidden-curiosity 보강: 매체·SNS·한국어 파편, 다른 시기",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Blue Beard, Blue Fairy Book 1889, 학술 Hsee·Ruan 2016 eutils). Hsee 같은 초록 'when facing something uncertain and feeling curious, they will act to resolve the uncertainty even if they expect negative consequences'(같은 URL). 같은 동화 'She was so much pressed by her curiosity'(같은 URL). 연인 휴대폰 몰래 보기(snooping-on-partners-phone) 와 관계 후보(인과 문장 필요). 한국어 '보지 말라면 더 보고 싶다' 게시글 미탐색",
+      "createdAt": "2026-10-23T12:28:12.530Z",
+      "seq": 1313
+    },
+    {
+      "id": "1549576d",
+      "title": "retirement-emptiness 보강: 공공·SNS·문학 파편, wanting-to-keep-working-in-old-age 관계",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(매체 매일신문 2007-03-15, 학술 Best 외 Innovation in Aging 2021-12-17 PMC8682595). 학술 후보: 'What Is the Purpose in Retiring?' PMC7741742 (Psychological Science 2021, 저소득·불만족 직장 은퇴자의 목적의식 증가, 조건). khan 2012-11-25 50대 퇴직자 구직 어려움 57.7%. reportera '방향 상실감'. 한국어 공공(50플러스재단) 미탐색",
+      "createdAt": "2026-10-23T12:30:19.527Z",
+      "seq": 1314
     },
     {
       "id": "e8ba47a7",
@@ -1611,6 +1707,22 @@
       "note": "low-battery-anxiety 의 원인 후보. insider.co.uk/news/nearly-two-thirds-people-suffer-10877982 (2017-07-27) 'Many of us fear being uncontactable' 뒤 'It's this that can lead to us feeling anxious'(업체 측 발언). bps.org.uk research-digest nomophobia 2015-05-07 배터리 늘 채워 두는 경계. 노모포비아 별칭",
       "createdAt": "2026-10-23T09:20:01.775Z",
       "seq": 1276
+    },
+    {
+      "id": "abc5ca45",
+      "title": "감정 부조화로 인한 탈진",
+      "priority": 10,
+      "note": "2026-10-23 emotional-labor 작업 중. Headrick·Park 2022 PMID 34968117 표면 행위와 귀가 뒤 건강하지 않은 식사. 감정노동의 결과 후보(인과 문장 필요)",
+      "createdAt": "2026-10-23T12:09:34.325Z",
+      "seq": 1303
+    },
+    {
+      "id": "93a6ba9d",
+      "title": "임산부 배려석 앉기 눈치",
+      "priority": 10,
+      "note": "2026-10-23 파편 우선 탐색 중. 매체 아주경제 2017-06-04 ajunews 20170604213320445 '정작 임산부 배려석을 마음 편히 이용하지 못하는 임산부들이 늘고 있다'(본문 사례에 실명 꼴 김모씨 있음, 그 대목은 쓰지 않음). 인구보건복지협회 2018 임산부 10명 중 9명 배려석 이용 불편. news.seoul.go.kr/traffic/archives/13937 은 제도 안내뿐. hesitating-to-offer-seat 와 관계 후보",
+      "createdAt": "2026-10-23T12:31:17.634Z",
+      "seq": 1315
     },
     {
       "id": "02b2f242",
