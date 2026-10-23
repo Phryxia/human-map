@@ -2,7 +2,7 @@
 
 사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.
 
-문서 37개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 38개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [같은 이야기 되풀이](../docs/retelling-same-story.md) 자기 지난 일을 이야기하는 사람이 이미 그 이야기를 들은 상대에게 같은 이야기를 다시 들려준다.
 - [결혼 전 불안](../docs/pre-wedding-doubts.md) 결혼을 앞둔 사람이 이 결혼을 해도 될지 의심하거나 두려워한다.
@@ -23,6 +23,7 @@
   - [좋아하는 상대 괴롭히기](../docs/teasing-someone-liked.md)
 - [엉뚱한 대상에게 화풀이하기](../docs/displaced-aggression.md) 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
 - [연애 질투](../docs/romantic-jealousy.md) 연인을 둔 사람이 연인 곁의 경쟁자나 사소한 단서를 보고 연인을 의심하며 괴로워한다.
+- [연인과의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 - [연인의 휴대폰 몰래 보기](../docs/snooping-on-partners-phone.md) 배우자나 연인의 휴대전화를 그 사람 몰래 열어 본다.
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.
 - [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md) 연인과 헤어지는 사람이 슬픔을 드러내지 않으려고 눈물을 참고 아무렇지 않은 척한다.

@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [연인과의 다툼](partner-conflict.md)[^7]
 
 ## 대립
 
@@ -44,3 +44,4 @@
 [^4]: [매체] "Still, 34% of partnered adults say they have looked through their partner’s cellphone without that person’s knowledge, with women being more likely than men to say they have done this (42% vs. 25%)." (그래도 파트너가 있는 성인의 34%는 상대 몰래 휴대전화를 들여다본 적이 있다고 말하며, 여성이 남성보다 그렇다고 답할 가능성이 높다(42% 대 25%).) — Emily A. Vogels, Monica Anderson, "Dating and Relationships in the Digital Age", Pew Research Center, 2020-05-08, https://www.pewresearch.org/internet/2020/05/08/dating-and-relationships-in-the-digital-age/, 2026-10-20 접속
 [^5]: [SNS] "근데 얘가 만취 상태로 집에 들어와서 살짝 언짢은 것도 있고 지금 밖에 기회가 없을 것 같아서 열어봤어요." — 네이트판 게시글, 2024-05-20, https://pann.nate.com/talk/372578594, 2026-10-21 접속
 [^6]: [매체] "오히려 휴대전화를 몰래 본 것에 대해 화를 내며 앞으로 따로 연락하지 않겠다고 다짐을 받은 상태지만, 같은 팀에 있는 사람이라 또 만나는 것은 아닐지 회식이나 야근이 있다고만 해도 걱정됩니다." — 하주원, 「남편의 외도 의심되는 상황… 잊고 살 수 있을까요?[마음상담소]」, 문화일보, 2024-08-21, https://www.munhwa.com/article/11448631, 2026-10-22 접속
+[^7]: [매체] "Violating their boundaries through snooping is very likely to cause conflict with your partner, no matter what you find." (엿보기로 상대의 경계를 침범하는 일은 무엇을 찾든 상대와의 다툼을 일으킬 가능성이 매우 크다.) — Cortney S. Warren, "Snooping to Catch a Cheating Mate", Psychology Today, 2025-09-02, https://www.psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate, 2026-10-23 접속
