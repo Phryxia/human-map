@@ -2,11 +2,12 @@
 
 사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.
 
-문서 20개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 21개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [녹음된 자기 목소리 싫어하기](../docs/disliking-recorded-own-voice.md) 녹음된 자기 목소리를 듣는 사람이 그 소리를 낯설고 불편하게 느끼거나 싫어한다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
 - [보는 눈이 있을 때 행동 바꾸기](../docs/behaving-better-when-watched.md) 누군가 지켜본다고 느끼는 사람이 혼자일 때와 달리 남이 좋게 볼 만한 쪽으로 행동한다.
+- [부모가 창피함](../docs/embarrassed-by-parents.md) 자녀가 남이 보는 자리에서 부모의 말이나 행동이나 집안 모습을 창피하게 여긴다.
 - [부정적 평가에 대한 두려움](../docs/fear-of-negative-evaluation.md) 사람이 다른 사람에게 부정적으로 평가받을 수 있는 상황에서 불안과 긴장을 느낀다.
 - [사회불안의 안전 행동](../docs/social-anxiety-safety-behaviors.md) 사회적 상황에서 불안한 사람이 남의 눈에 띄거나 부정적으로 보이지 않으려고 눈 맞춤을 피하거나 말수를 줄인다.
   - [되풀이 사과](../docs/over-apologizing.md)
