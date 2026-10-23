@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:18:25.145Z",
-  "nextSeq": 1231,
+  "savedAt": "2026-10-23T03:23:37.908Z",
+  "nextSeq": 1233,
   "stops": 85,
   "items": [
     {
@@ -27,14 +27,6 @@
       "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글. 2026-10-22 16:40Z 시도: archive.org 수면 안내서 djvu(Bruce 1915, Granville 1879, Powell 1908, b28718045 1892 등)에 잠 못 들며 시계 보는 대목 없음. kyeonggi 2003-06-23 무관. 한국어 게시판 검색 결과 없음",
       "createdAt": "2026-10-22T16:49:19.701Z",
       "seq": 1068
-    },
-    {
-      "id": "4cbe7d89",
-      "title": "blaming-fate-or-god 보강: 학술·한국어 파편",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦(문학 King Lear 1606, 매체 HealthDay 2011-01-03). 학술 후보: Exline 외 2011 JPSP PMID 21219078 초록 'Anger toward God was frequently reported in response to negative events, although positive feelings predominated.'(pubmed 429, europepmc 403). 같은 HealthDay 글 '나이 어린 사람과 백인이 더 화를 냄' 조건은 같은 URL. Odyssey 1권 Zeus 대목 문학 후보. 한국어 '팔자 탓' 파편 미탐색",
-      "createdAt": "2026-10-22T16:57:55.924Z",
-      "seq": 1075
     },
     {
       "id": "ddee87d2",
@@ -347,6 +339,14 @@
       "note": "2026-10-23 PeerJ 2015(PMC4671191) 근처에 사람이 있을 때 덜 버림 더함. 같은 초록 'in one experiment but not the other, that eye leaflets only reduced littering when there no other people in the immediate vicinity' 는 같은 URL. peerj.com 은 Just a moment 봇 확인. 원인 간선은 '때문에' 문장 필요([^2] Nettle 'As we care what other people think about us' 가 후보). 한국 사례: segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
       "createdAt": "2026-10-23T03:18:25.032Z",
       "seq": 1230
+    },
+    {
+      "id": "aabe4350",
+      "title": "blaming-fate-or-god 보강: 결과 간선(신을 피하기), 한국어 비문학 파편",
+      "priority": 50,
+      "note": "2026-10-23 문학 벙어리 삼룡이 1925, 학술 PMC4312360 2015 더함. 후보: PMC7201637 (2020-05-06) 'Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices.'(결과 간선 근거, 종교 행위 끊기 문서 필요), earticle.net/Article/A275113 (2016-05) 하나님께 분노, sports.khan.co.kr/article/200804022103006 (2008-04-02) 팔자 찾기, ko.wikisource 배따라기 1921 '운명이 데일 힘셉디다'. jjan.kr 2020 수해 기사는 실명 대목",
+      "createdAt": "2026-10-23T03:23:37.785Z",
+      "seq": 1232
     },
     {
       "id": "e8ba47a7",
