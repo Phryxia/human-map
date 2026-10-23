@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T18:30:53.873Z",
-  "nextSeq": 1353,
-  "stops": 90,
+  "savedAt": "2026-10-23T18:33:33.948Z",
+  "nextSeq": 1355,
+  "stops": 91,
   "items": [
+    {
+      "id": "d9463775",
+      "title": "dev: style-check 가 요약 줄의 금지 표현(막연한 시간 등)을 잡지 않는다",
+      "priority": 80,
+      "note": "2026-10-23 counting-on-inheritance 5줄 요약 '물려받을 재산을 앞으로의 살림 계산에 넣고 기대한다' 가 통과했다. 5절 명세는 첫 절 앞 줄을 이모지·한자로만 검사. 요약에도 4절 문체 규칙 전체(따옴표 밖)를 적용할지 결정 필요",
+      "createdAt": "2026-10-23T18:32:55.014Z",
+      "seq": 1354
+    },
     {
       "id": "2fa93147",
       "title": "avoiding-being-alone-with-thoughts 보강: 문학·SNS·한국어 파편, 남녀 조건, sensation-seeking 관계",
