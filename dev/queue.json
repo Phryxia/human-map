@@ -1,105 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T18:33:33.948Z",
-  "nextSeq": 1355,
-  "stops": 91,
+  "savedAt": "2026-10-23T21:38:03.687Z",
+  "nextSeq": 1382,
+  "stops": 92,
   "items": [
-    {
-      "id": "d9463775",
-      "title": "dev: style-check 가 요약 줄의 금지 표현(막연한 시간 등)을 잡지 않는다",
-      "priority": 80,
-      "note": "2026-10-23 counting-on-inheritance 5줄 요약 '물려받을 재산을 앞으로의 살림 계산에 넣고 기대한다' 가 통과했다. 5절 명세는 첫 절 앞 줄을 이모지·한자로만 검사. 요약에도 4절 문체 규칙 전체(따옴표 밖)를 적용할지 결정 필요",
-      "createdAt": "2026-10-23T18:32:55.014Z",
-      "seq": 1354
-    },
-    {
-      "id": "2fa93147",
-      "title": "avoiding-being-alone-with-thoughts 보강: 문학·SNS·한국어 파편, 남녀 조건, sensation-seeking 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(학술 Wilson 외 Science 2014 eutils, 매체 Scripps News 2014-12-27). Wilson 초록 'many preferred to administer electric shocks to themselves instead of being left alone with their thoughts'(같은 URL). 보도: 남성 18명 중 12명, 여성 24명 중 6명이 충격(fox59·psypost 403). 연구진은 남성의 sensation-seeking 을 이유로 추측(sensation-seeking 관계 후보, 인과 문장 필요). 2022 Scientific Reports 반론(호기심). Pascal Pensées 'cannot stay quietly in their own chamber' 문학·학술 후보(pg18269 확인 필요)",
-      "createdAt": "2026-10-23T00:55:55.514Z",
-      "seq": 1158
-    },
-    {
-      "id": "ea2efc8d",
-      "title": "sensing-presence-of-the-dead 보강: SNS·매체·한국어 파편, bereavement-regret·keeping-belongings-of-the-dead 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Hardy 'The Voice' 1914 시집 pg2863, 학술 Parkes 1975 eutils). 학술 후보: Wittkowski·Scheuchenpflug 2021 Omega PMID 34866489 'A moderate positive association between sensing the deceased husband´s presence and cognitive and emotional impairments emerged.'(조건). 같은 시집 'His Visitor' 도 같은 URL. 한국어 게시판·매체(꿈에 나온 고인 등) 미탐색",
-      "createdAt": "2026-10-23T00:57:29.985Z",
-      "seq": 1159
-    },
-    {
-      "id": "2cb8f16b",
-      "title": "gamblers-fallacy 보강: 매체·SNS·한국어 파편, buying-lottery-tickets 관계, hot hand 대립 후보",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 The Gambler 1866 pg2197, 학술 Marmurek 2015 eutils, 학술 Studer 2015 eutils). Studer 같은 초록 'Betting behavior, on the other hand, increased as a function of losing streaks' 는 손실 추격(loss chasing) 별개 현상 후보(같은 URL). PNAS 2014 PMID 24711387, Mem Cognit 2004 PMID 15900930 후보. 로또 번호 고르기에서 최근 안 나온 번호를 고르는 한국어 게시글 미탐색",
-      "createdAt": "2026-10-23T00:59:49.386Z",
-      "seq": 1160
-    },
-    {
-      "id": "d90e2767",
-      "title": "loss-chasing 보강: 매체·SNS·공공 파편(주식·코인 본전 생각), disposition-effect·loss-aversion 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 The Gambler 1866, 학술 Studer 2015 eutils). The Gambler 같은 책 'I am determined to retrieve my losses', 'I cannot rest until I have retrieved my losses'(같은 URL). 한국어 주식·코인 게시판 '본전 찾으려고 물타기' 글, 한국도박문제예방치유원 공공 자료 미탐색",
-      "createdAt": "2026-10-23T01:00:33.188Z",
-      "seq": 1161
-    },
-    {
-      "id": "515e505d",
-      "title": "better-than-average-effect 보강: 문학·SNS·한국어·공공 파편, 동아시아 조건",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(매체 80000 Hours 2012-11-27, 학술 Zell 외 2020 eutils), driving-overconfidence 를 하위로 옮김. 80000hours 같은 글 'ninety percent of drivers think they are better than the average driver'(같은 URL). Zell 초록 '(c) sample European Americans rather than East-Asians'(같은 URL, 다른 출처 필요). frontiersin fpsyg.2017.00898 연세대 연구(쉬운 능력의 평균을 40백분위로 해석) 학술 후보",
-      "createdAt": "2026-10-23T01:02:02.081Z",
-      "seq": 1163
-    },
-    {
-      "id": "df309cd3",
-      "title": "choice-overload 보강: SNS·한국어·문학 파편, gift-choosing-anxiety·kiosk-order-abandonment 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(학술 Saltsman 외 2019 eutils, 매체 CBS LA 2023-08-31). CBS 같은 기사 'the average viewer spends 10 ½ minutes searching for something to watch'(같은 URL). informitv 2025-11-05 Gracenote 12분, 18-34세 16분(나이 조건 후보). McShane·Böckenholt 2018 Psychometrika PMID 28527101 '선택 과부하는 측정과 조절변수에 따라 크게 달라진다'(조건 후보). Simonsohn 2014 p-curve 재분석. 한국어 '넷플릭스 고르다 끝남' 게시글 미탐색",
-      "createdAt": "2026-10-23T01:03:08.076Z",
-      "seq": 1164
-    },
-    {
-      "id": "6af38809",
-      "title": "zeigarnik-effect 보강: 발행일 있는 매체·SNS·문학 파편, work-rumination-after-hours·prospective-memory-failure 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(매체 Coglode 발행일 미상, 학술 Masicampo·Baumeister 2011 eutils). Masicampo 초록 'Unfinished goals caused intrusive thoughts during an unrelated reading task'(같은 URL, 서술 근거로 다른 출처 필요). Zeigarnik 1927 원 연구(아이 138명 중 110명) 2차 출처만 봄. goodtherapy psychpedia 403. work-rumination-after-hours [^2] 의 '해결되지 않은 문제 63.1%' 는 원인 간선 후보",
-      "createdAt": "2026-10-23T01:04:38.379Z",
-      "seq": 1165
-    },
-    {
-      "id": "7da84524",
-      "title": "hindsight-bias 보강: 조건 파편(분야·나이), 문학·SNS·한국어 파편, regret-aversion·bereavement-regret 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(학술 Roese·Vohs 2012 eutils, 매체 APS 보도자료 2012-09-06). 조건 절이 정의를 되풀이하는 수준이라 조건을 말하는 다른 출처 필요. APS 같은 글 'documented in various domains, including medical diagnoses, accounting and auditing decisions, athletic competition, and political strategy'(같은 URL). Bernstein 외 Child Dev 2007 PMID 17650144 아이의 발달(나이 조건), Mem Cognit 2002 PMID 12661859, sciencedaily 120906123324",
-      "createdAt": "2026-10-23T01:05:48.843Z",
-      "seq": 1166
-    },
-    {
-      "id": "d2befc58",
-      "title": "faking-wealth 보강: 짝퉁 과시의 시기 변화, poverty-shame 원인 간선",
-      "priority": 50,
-      "note": "2026-10-23 SNS 네이트 판 2022, 학술 NBER w32491 2024 더함. 후보: seoul.co.kr/news/2023/11/24/20231124500091 '이들은 모조품 구매를 부끄러워하기보다 일종의 문화처럼 받아들이고 있다'(2023 짝퉁을 숨기지 않음, 시기 비교). NBER 같은 초록 '(1) people perceived to be of very low rank are considered more likely to be sidelined' 는 같은 URL. 같은 판 글 '옷도 비싼 브랜드 여러개 입고 다니고 과시했음' 은 showing-off-possessions 쪽(같은 URL). poverty-shame 원인 간선은 '때문에' 문장 필요",
-      "createdAt": "2026-10-23T03:16:24.021Z",
-      "seq": 1226
-    },
-    {
-      "id": "44783cdb",
-      "title": "believing-reporting-is-futile 보강: 한국어 SNS 파편, 경찰 경험 조건",
-      "priority": 50,
-      "note": "2026-10-23 camdennewjournal 2021-10-18 더함. 같은 기사 'There needs to be a revamp of the way the police handle bike theft' 는 같은 URL. 지식iN·클리앙·뽐뿌·82cook·보배드림 '신고해봤자' 검색 결과 없음(2026-10-22). bjs 1985 Reporting Crimes to the Police 문장 247자",
-      "createdAt": "2026-10-23T03:17:15.875Z",
-      "seq": 1228
-    },
-    {
-      "id": "8d654ad1",
-      "title": "behaving-better-when-watched 보강: SNS·한국어 파편, skipping-handwashing·fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-10-23 PeerJ 2015(PMC4671191) 근처에 사람이 있을 때 덜 버림 더함. 같은 초록 'in one experiment but not the other, that eye leaflets only reduced littering when there no other people in the immediate vicinity' 는 같은 URL. peerj.com 은 Just a moment 봇 확인. 원인 간선은 '때문에' 문장 필요([^2] Nettle 'As we care what other people think about us' 가 후보). 한국 사례: segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
-      "createdAt": "2026-10-23T03:18:25.032Z",
-      "seq": 1230
-    },
     {
       "id": "aabe4350",
       "title": "blaming-fate-or-god 보강: 결과 간선(신을 피하기), 한국어 비문학 파편",
@@ -475,6 +379,86 @@
       "note": "2026-10-23 문학 Middlemarch 1871, 매체 Global News 2016-02-29 로 만듦. 같은 기사 'over 60 per cent of parents' 생전 증여(같은 URL). kiplinger 상속 조사 42% 의미 있는 상속 기대 안 함. fa-mag 31814 Ameriprise 조사. Middlemarch 같은 책 'having Mr. Featherstone’s land in the background' 프레드가 낙담하지 않음(같은 URL)",
       "createdAt": "2026-10-23T18:29:25.759Z",
       "seq": 1352
+    },
+    {
+      "id": "f5f70121",
+      "title": "avoiding-being-alone-with-thoughts 와 sensation-seeking 관계",
+      "priority": 50,
+      "note": "2026-10-23 psmag.com/social-justice/really-dont-like-alone-thoughts-84969/ 연구진 인용 'The gender difference is probably due to the tendency of men to be higher in sensation-seeking' 은 성차의 원인이지 현상의 원인이 아님. 같은 URL. 인과 문장 다른 출처 필요",
+      "createdAt": "2026-10-23T21:09:57.172Z",
+      "seq": 1370
+    },
+    {
+      "id": "76ee65cc",
+      "title": "sensing-presence-of-the-dead 와 keeping-belongings-of-the-dead 관계",
+      "priority": 50,
+      "note": "2026-10-23 calgaryjournal.ca/2018/12/05/how-two-people-manage-their-deceased-loved-one-s-possessions-without-losing-themselves/ 'Being in his bed and smelling his scent made her feel close to him again.'(물건 때문에 가깝게 느낌, 앞뒤 문장 실명). 위안 조건: PMC8388006 'ADCs were typically regarded by the participant as deeply meaningful and comforting.', tcd.ie 같은 글 'only 6% of people found bereavement hallucinations unpleasant'(같은 URL)",
+      "createdAt": "2026-10-23T21:13:39.953Z",
+      "seq": 1372
+    },
+    {
+      "id": "96f29961",
+      "title": "loss-chasing 과 disposition-effect 관계, 결과 간선(위험 감수 증가)",
+      "priority": 50,
+      "note": "2026-10-23 openjournals.ljmu.ac.uk/PJMR/article/view/3448 (2026-01-06) 'losses are experienced as highly emotional events, frequently leading to loss-chasing behaviour that intensifies subsequent risk-taking.' wikitree 1148428 (2026-07-25) 주식 물타기로 손실 200만 원. disposition-effect 와의 인과 문장 미탐색",
+      "createdAt": "2026-10-23T21:20:53.814Z",
+      "seq": 1375
+    },
+    {
+      "id": "aac50ede",
+      "title": "choice-overload 와 kiosk-order-abandonment·gift-choosing-anxiety 관계",
+      "priority": 50,
+      "note": "2026-10-23 선택지가 많아서 키오스크 주문을 포기하거나 선물 고르기가 괴롭다는 인과 문장 못 찾음. toss.im/tossfeed/article/everyday-economics-16-too-many-options (2024-06-25) '너무 많은 콘텐츠는 무엇을 볼지 결정하는 데 어려움을 겪게 합니다.' 후보",
+      "createdAt": "2026-10-23T21:32:23.677Z",
+      "seq": 1376
+    },
+    {
+      "id": "1cf97914",
+      "title": "zeigarnik-effect 보강: SNS·문학 파편, work-rumination-after-hours·prospective-memory-failure 관계",
+      "priority": 50,
+      "note": "2026-10-23 매체 PsyBlog 2021-06, 테크42 2024-04-30 더함. 한국어 SNS·Gutenberg 문학 장면 못 찾음. gqkorea.co.kr/?p=387467 (2026-07-09) '불 끄고 눕는 순간 외부 자극이 사라지면서 뇌가 밀린 업무를 처리하기 시작한다.'(이름은 안 씀, 불면 쪽). work-rumination-after-hours [^2] '해결되지 않은 문제 63.1%' 원인 간선 후보",
+      "createdAt": "2026-10-23T21:34:24.231Z",
+      "seq": 1377
+    },
+    {
+      "id": "4879682c",
+      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
+      "priority": 50,
+      "note": "2026-10-23 문학 Austen 1813, 매체 스포츠경향 2015·법률신문 2025 더함. 공개 게시판 '내 그럴 줄 알았다' 글 못 찾음. hankyung.com/article/202504278937i (2025-04-28) 주식·부동산·경영 판단에서 과거 결정을 탓할 때 인용(조건 후보, 원문 '…' 포함)",
+      "createdAt": "2026-10-23T21:36:49.263Z",
+      "seq": 1378
+    },
+    {
+      "id": "71201559",
+      "title": "faking-wealth 와 poverty-shame 원인 간선",
+      "priority": 50,
+      "note": "2026-10-23 서울신문 2023-11-24 짝퉁 플렉스 더함. poverty-shame 원인 간선은 '때문에' 문장 필요. 같은 기사 EU 특허청 15~24세 37% 최근 1년 모조품 구매(같은 URL)",
+      "createdAt": "2026-10-23T21:37:36.608Z",
+      "seq": 1379
+    },
+    {
+      "id": "9d8a0835",
+      "title": "believing-reporting-is-futile 보강: 한국어 SNS 파편, 경찰 경험 조건",
+      "priority": 50,
+      "note": "2026-10-23 camdennewjournal 2021-10-18 더함. 같은 기사 'There needs to be a revamp of the way the police handle bike theft' 는 같은 URL. 지식iN·클리앙·뽐뿌·82cook·보배드림 '신고해봤자' 검색 결과 없음(2026-10-22). bjs 1985 Reporting Crimes to the Police 문장 247자",
+      "createdAt": "2026-10-23T21:37:54.855Z",
+      "seq": 1380
+    },
+    {
+      "id": "54c81f17",
+      "title": "behaving-better-when-watched 보강: SNS·한국어 파편, skipping-handwashing·fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-23 PeerJ 2015(PMC4671191) 근처에 사람이 있을 때 덜 버림 더함. 같은 초록 'in one experiment but not the other, that eye leaflets only reduced littering when there no other people in the immediate vicinity' 는 같은 URL. peerj.com 은 Just a moment 봇 확인. 원인 간선은 '때문에' 문장 필요([^2] Nettle 'As we care what other people think about us' 가 후보). 한국 사례: segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
+      "createdAt": "2026-10-23T21:37:54.979Z",
+      "seq": 1381
+    },
+    {
+      "id": "8bdc7384",
+      "title": "dev: style-check 요약 줄 검사를 WARN 에서 ERROR 로 올린다",
+      "priority": 40,
+      "note": "2026-10-23 SUMMARY_LEVEL='WARN'. wanting-to-keep-working-in-old-age 요약을 고친 뒤 올린다",
+      "createdAt": "2026-10-23T21:06:32.523Z",
+      "seq": 1369
     },
     {
       "id": "e8ba47a7",
@@ -1787,6 +1771,30 @@
       "note": "2026-10-23 파편 우선 탐색 중. 매체 아주경제 2017-06-04 ajunews 20170604213320445 '정작 임산부 배려석을 마음 편히 이용하지 못하는 임산부들이 늘고 있다'(본문 사례에 실명 꼴 김모씨 있음, 그 대목은 쓰지 않음). 인구보건복지협회 2018 임산부 10명 중 9명 배려석 이용 불편. news.seoul.go.kr/traffic/archives/13937 은 제도 안내뿐. hesitating-to-offer-seat 와 관계 후보",
       "createdAt": "2026-10-23T12:31:17.634Z",
       "seq": 1315
+    },
+    {
+      "id": "c5f3602e",
+      "title": "틈날 때마다 휴대폰 집기",
+      "priority": 10,
+      "note": "2026-10-23 brunch.co.kr/@nodin/65 (2026-06-04) '횡단보도를 건너기 전에 잠깐 기다릴 때도 스마트폰을 봅니다.', kbmaeil.com/article/20260416500024 (2026-04-16) '조금만 틈이 난다 싶으면 자동으로 휴대폰에 손이 간다.' avoiding-being-alone-with-thoughts·boredom 관계 후보",
+      "createdAt": "2026-10-23T21:09:57.286Z",
+      "seq": 1371
+    },
+    {
+      "id": "4901a774",
+      "title": "핫핸드 믿음",
+      "priority": 10,
+      "note": "2026-10-23 dlab.sauder.ubc.ca/sjdm/journal/06001/jdm06001.htm 'In the gambler's fallacy, the coin is due; in the hot hand the person is hot.'(같은 URL은 gamblers-fallacy [^2]), tinbergen.nl/publication/166476 Kong 외 2019 'both the gambler's fallacy and the hot-hand fallacy can exist in different types of lottery games.' kbmaeil 201704270191001 같은 칼럼에 인형뽑기 반대 오류. gamblers-fallacy 와 대립 후보",
+      "createdAt": "2026-10-23T21:17:58.499Z",
+      "seq": 1373
+    },
+    {
+      "id": "4f181236",
+      "title": "밀린 번호 믿음(로또 미출현 번호 고르기)",
+      "priority": 10,
+      "note": "2026-10-23 gedlingeye.co.uk/are-these-national-lottery-numbers-cursed-one-digit-hasnt-been-seen-for-five-months-and-is-overdue/ (2025-04-28) 'Topping the list of the most overdue numbers is ball 21, last appearing 145 days ago on 30th November 2024.' gamblers-fallacy 하위 후보",
+      "createdAt": "2026-10-23T21:17:58.618Z",
+      "seq": 1374
     },
     {
       "id": "02b2f242",
