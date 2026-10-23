@@ -8435,5 +8435,23 @@
     "last": "2026-10-23",
     "result": "VERIFIED",
     "lastVerified": "2026-10-23"
+  },
+  "https://gangdong.go.kr/web/newportal/press/6190": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27981022&rettype=abstract&retmode=text": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
+  },
+  "https://mediahub.seoul.go.kr/archives/2004640": {
+    "first": "2026-10-23",
+    "last": "2026-10-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-23"
   }
 }
