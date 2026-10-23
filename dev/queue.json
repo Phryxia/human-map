@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:11:21.076Z",
-  "nextSeq": 1225,
+  "savedAt": "2026-10-23T03:16:24.138Z",
+  "nextSeq": 1227,
   "stops": 85,
   "items": [
     {
@@ -27,14 +27,6 @@
       "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글. 2026-10-22 16:40Z 시도: archive.org 수면 안내서 djvu(Bruce 1915, Granville 1879, Powell 1908, b28718045 1892 등)에 잠 못 들며 시계 보는 대목 없음. kyeonggi 2003-06-23 무관. 한국어 게시판 검색 결과 없음",
       "createdAt": "2026-10-22T16:49:19.701Z",
       "seq": 1068
-    },
-    {
-      "id": "2b4e343b",
-      "title": "faking-wealth 보강: 학술·SNS 파편, poverty-shame·showing-off-possessions 관계",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦(문학 Necklace 1884, 매체 헤럴드경제 미주판 2026-04-16). 같은 기사 판매자 '대부분은 여성에게 좋은 인상을 주거나 사업 목적으로 사진을 활용한다' 는 같은 URL. Necklace 같은 대목 'I shall look poverty-stricken. I would almost rather not go at all.' 도 같은 URL. poverty-shame 원인 간선은 'A 때문에 B' 문장 필요. seoul.co.kr 2023-11-24 짝퉁 플렉스 후보",
-      "createdAt": "2026-10-22T16:54:46.386Z",
-      "seq": 1073
     },
     {
       "id": "72f12d7f",
@@ -347,6 +339,14 @@
       "note": "2026-10-23 문서 만듦(학술 Roese·Vohs 2012 eutils, 매체 APS 보도자료 2012-09-06). 조건 절이 정의를 되풀이하는 수준이라 조건을 말하는 다른 출처 필요. APS 같은 글 'documented in various domains, including medical diagnoses, accounting and auditing decisions, athletic competition, and political strategy'(같은 URL). Bernstein 외 Child Dev 2007 PMID 17650144 아이의 발달(나이 조건), Mem Cognit 2002 PMID 12661859, sciencedaily 120906123324",
       "createdAt": "2026-10-23T01:05:48.843Z",
       "seq": 1166
+    },
+    {
+      "id": "d2befc58",
+      "title": "faking-wealth 보강: 짝퉁 과시의 시기 변화, poverty-shame 원인 간선",
+      "priority": 50,
+      "note": "2026-10-23 SNS 네이트 판 2022, 학술 NBER w32491 2024 더함. 후보: seoul.co.kr/news/2023/11/24/20231124500091 '이들은 모조품 구매를 부끄러워하기보다 일종의 문화처럼 받아들이고 있다'(2023 짝퉁을 숨기지 않음, 시기 비교). NBER 같은 초록 '(1) people perceived to be of very low rank are considered more likely to be sidelined' 는 같은 URL. 같은 판 글 '옷도 비싼 브랜드 여러개 입고 다니고 과시했음' 은 showing-off-possessions 쪽(같은 URL). poverty-shame 원인 간선은 '때문에' 문장 필요",
+      "createdAt": "2026-10-23T03:16:24.021Z",
+      "seq": 1226
     },
     {
       "id": "e8ba47a7",
