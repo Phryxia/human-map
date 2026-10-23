@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 270개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 271개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -125,6 +125,7 @@
 - [사칭 전화에 겁먹고 따르기](docs/complying-with-impersonation-calls.md) ([돈과 소비](groups/money.md))
 - [사회불안의 안전 행동](docs/social-anxiety-safety-behaviors.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [사회적 상황 앞의 예기불안](docs/anticipatory-social-anxiety.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [사후 확신 편향](docs/hindsight-bias.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [상습 지각](docs/chronic-lateness.md) ([시간과 하루 습관](groups/daily-time.md))
 - [새치기를 보고도 말하지 않기](docs/staying-silent-at-line-cutting.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [생각 때문에 잠 못 이루기](docs/lying-awake-thinking.md) ([걱정과 기분](groups/worry-and-mood.md))
