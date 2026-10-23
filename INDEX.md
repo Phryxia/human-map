@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 269개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 270개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -37,6 +37,7 @@
 - [기준점 의존](docs/reference-dependence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [기침할 때 가리지 않기](docs/not-covering-coughs.md) ([건강과 위험](groups/health-and-safety.md))
 - [길에 쓰레기 버리기](docs/littering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [끝내지 못한 일 계속 떠올리기](docs/zeigarnik-effect.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [나쁜 소식 확인 미루기](docs/delaying-bad-news.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [나아지면 약 끊기](docs/stopping-medication-when-feeling-better.md) ([건강과 위험](groups/health-and-safety.md))
 - [낙관 편향](docs/unrealistic-optimism.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
