@@ -27,7 +27,7 @@
 - [길과 운전](groups/roads-and-driving.md) (10) 운전자, 보행자, 자전거를 타는 사람이 길에서 하는 일과 그 판단이다.
 - [건강과 위험](groups/health-and-safety.md) (21) 사람이 병, 감염, 사고, 재난의 위험 앞에서 몸을 돌보거나 돌보지 않는 일이다.
 - [메시지와 휴대전화](groups/messages-and-phones.md) (19) 사람이 휴대전화, 메신저, 온라인 서비스를 쓰며 느끼고 하는 일이다.
-- [남의 시선과 창피함](groups/others-gaze.md) (21) 사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.
+- [남의 시선과 창피함](groups/others-gaze.md) (22) 사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.
 - [낯선 사람과 공공장소](groups/strangers-and-public-places.md) (13) 사람이 이웃, 낯선 사람, 서비스 직원과 같은 공간에 있을 때 하는 일이다.
 - [선물, 대접과 예의](groups/gifts-and-hospitality.md) (17) 사람이 칭찬, 선물, 초대, 손님맞이, 작별을 주고받으며 하는 일이다.
 - [가까운 사이의 감정과 말](groups/close-relationships.md) (40) 사람이 가족, 친구, 연인 사이에서 감정을 드러내거나 누르는 일이다.
