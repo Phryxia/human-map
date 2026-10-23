@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:37:13.372Z",
-  "nextSeq": 1243,
+  "savedAt": "2026-10-23T03:39:11.604Z",
+  "nextSeq": 1245,
   "stops": 85,
   "items": [
     {
@@ -35,14 +35,6 @@
       "note": "2026-10-22 매체 4, SNS 2, 학술 1 로 만듦. 남은 후보: hurroz.com/anonimo/the-panic-of-seeing-20-battery-5k3cf (2026-07-18) 'seeing the battery percentage drop makes me nervous'(인과), meeco.kr/anonymous/36461549 (2022-12-02) 100% 안 되면 불안해서 꽂아놓고, nocutnews.co.kr/news/5018966 (2018-08-22) 보조배터리 들고 다녀야 해방, openaccess.city.ac.uk/id/eprint/22401 Robinson·Arnould 2020 'hysteresis of the battery'. channelnews 같은 글 연인과 다툼 23%(같은 URL). thenextweb 2016-05-20 Uber 배터리 낮을 때 할증 수용(2차 보도). 2003 khan 컬러폰 충전 불편은 불안 아님. 휴대전화 없을 때 불안(노모포비아) 상위 후보",
       "createdAt": "2026-10-22T18:49:19.606Z",
       "seq": 1088
-    },
-    {
-      "id": "cb43e9fd",
-      "title": "saving-things-for-best 보강: SNS 파편, 한국어 다른 시기",
-      "priority": 50,
-      "note": "2026-10-22 문학 2(1855·1860), 학술 1, 매체 3 으로 만듦. 남은 후보: youlookfab.com/welookfab/topic/the-perils-of-not-saving-your-best (발행일 '10 years ago' 뿐) 옷이 입기도 전에 유행이 지남, knowledge.wharton.upenn.edu curbing-clutter (2021-11-16) 한 번 안 쓰면 다음에도 안 씀(같은 연구), talbotspy.org Using the Good China, Anne of Green Gables pg45 손님 왔을 때만 꺼내는 좋은 그릇(손님 쪽 시점), Cranford pg394 새 카펫에 신문지 깔기, Middlemarch pg145 보석 잠가 둠. 한국어 게시판 글 미발견. 물건 쌓아 두기(clutter) 결과 간선 후보",
-      "createdAt": "2026-10-22T18:53:12.690Z",
-      "seq": 1089
     },
     {
       "id": "586dedbe",
@@ -355,6 +347,14 @@
       "note": "2026-10-23 HN 댓글 2026-08-31 배달원 목격담 더함. 글쓴이 자신의 망설임 SNS 는 HN·지식iN 에서 못 찾음. yahoo 2026-04-17 같은 글 'Social anxiety. Simple as that.' 은 anticipatory-social-anxiety 원인 간선 후보. 학술 후보: Davies 2011 IJSRM 'Negotiating doorstep access'(eprints.ncrm 본문 없음), Chatzifotiou 2000 Sociological Research Online(미열람). pg1400 은 이미 4개 문서",
       "createdAt": "2026-10-23T03:37:13.247Z",
       "seq": 1242
+    },
+    {
+      "id": "b5de46a0",
+      "title": "saving-things-for-best 보강: SNS 파편, 한국어 다른 시기",
+      "priority": 50,
+      "note": "2026-10-23 Anne of Green Gables pg45 1908 장미꽃 찻잔 더함. 같은 책 'Nobody ever used their very best china on my account before.' 는 같은 URL. 남은 후보: youlookfab.com/welookfab/topic/the-perils-of-not-saving-your-best (발행일 '10 years ago' 뿐), knowledge.wharton.upenn.edu curbing-clutter (2021-11-16, 같은 연구), talbotspy.org Using the Good China, Cranford pg394 새 카펫에 신문지, Middlemarch pg145 보석 잠가 둠. 한국어 게시판 글 미발견. 물건 쌓아 두기 결과 간선 후보",
+      "createdAt": "2026-10-23T03:39:11.498Z",
+      "seq": 1244
     },
     {
       "id": "e8ba47a7",
