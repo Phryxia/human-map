@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 292개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 293개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -222,6 +222,7 @@
 - [자기에 대한 말 엿듣기](docs/overhearing-talk-about-oneself.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자리 양보 망설임](docs/hesitating-to-offer-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자살 유족의 자책](docs/suicide-bereavement-self-blame.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [자식 자랑](docs/bragging-about-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자외선 차단제 안 바르기](docs/sunscreen-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [자원봉사 하지 않기](docs/not-volunteering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [자전거 헬멧 미착용](docs/bicycle-helmet-nonuse.md) ([길과 운전](groups/roads-and-driving.md))
