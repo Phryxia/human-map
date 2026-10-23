@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 289개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 290개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -32,6 +32,7 @@
 - [구직 단념](docs/giving-up-job-search.md) ([일터와 일자리](groups/work.md))
 - [귀벌레](docs/earworm.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [금연 뒤 다시 피우기](docs/smoking-relapse.md) ([건강과 위험](groups/health-and-safety.md))
+- [금지된 것에 대한 호기심](docs/forbidden-curiosity.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [기부하지 않기](docs/not-donating.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [기분 회복 행동](docs/mood-repair.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [기분을 달래려는 소비](docs/retail-therapy.md) ([걱정과 기분](groups/worry-and-mood.md))
