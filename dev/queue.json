@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:28:39.000Z",
-  "nextSeq": 1237,
+  "savedAt": "2026-10-23T03:31:56.284Z",
+  "nextSeq": 1239,
   "stops": 85,
   "items": [
     {
@@ -659,14 +659,6 @@
       "note": "2026-10-21 후보: taiwannews.com.tw/news/6246839 (2025-11-18) 대만 뷔페 손님 1인당 평균 115g, 무제한 방식이 먹을 수 있는 것보다 많이 담게 한다(원인 '욕심' 간선 후보). cbsm.com/articles/32656 (Sarjahani 2009) 쟁반 사용 시 낭비가 유의하게 많음(초록 재수록 사이트). dcinside slife 624099 (2025-04-10) 욕심부려 담았다가 버림(욕설 포함)",
       "createdAt": "2026-10-21T18:55:01.956Z",
       "seq": 861
-    },
-    {
-      "id": "11c5a3ae",
-      "title": "받을 돈 포기하기",
-      "priority": 10,
-      "note": "Starling Bank 2023: 어려운 대화를 피하려고 받을 돈을 포기. not-asking-for-loan-back 의 결과 후보",
-      "createdAt": "2026-10-18T04:53:16.973Z",
-      "seq": 206
     },
     {
       "id": "284365c8",
@@ -1579,6 +1571,14 @@
       "note": "2026-10-23 탐색. 학술: Zell 외 2020 Psychol Bull PMID 31789535 eutils 초록 'The better-than-average-effect (BTAE) is the tendency for people to perceive their abilities, attributes, and personality traits as superior compared with their average peer', 조건 '(c) sample European Americans rather than East-Asians'. 매체 후보 valueresearchonline stories/32471 (403), Cross 1977 교수 94% 는 원출처 미확인. driving-overconfidence 의 상위 후보",
       "createdAt": "2026-10-23T01:01:09.702Z",
       "seq": 1162
+    },
+    {
+      "id": "2683a33c",
+      "title": "받을 돈 포기하기",
+      "priority": 10,
+      "note": "not-asking-for-loan-back 의 결과 후보. 2026-10-23 탐색: 확인된 후보가 매체뿐. starlingbank 2023-07-07 'This is leading to many people writing off debts to avoid difficult conversations.' 은 not-asking-for-loan-back [^5] 와 같은 URL. PayPal 2015-09-01 'Small, unpaid debts between friends may seem easy to forgive when hoping to avoid awkward conversations' 는 not-asking-for-loan-back [^2] 와 같은 URL. 미열람: newsroom.paypal-corp.com 2024-07-24, cfotech.com.au awkward tax. Gazette Live BACS 기사 402. 학술·SNS·문학 출처 필요",
+      "createdAt": "2026-10-23T03:31:56.178Z",
+      "seq": 1238
     },
     {
       "id": "02b2f242",
