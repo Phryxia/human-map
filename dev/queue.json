@@ -1,129 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T06:39:59.095Z",
-  "nextSeq": 1261,
-  "stops": 87,
+  "savedAt": "2026-10-23T09:40:21.294Z",
+  "nextSeq": 1288,
+  "stops": 88,
   "items": [
-    {
-      "id": "c589ac2a",
-      "title": "dev: validate 의 각주 묶음 WARN 을 ERROR 로 올린다",
-      "priority": 80,
-      "note": "이슈 #7. '<id>: 출처가 다른 문장을 각주 묶음 하나로 받침' 항목 27개가 모두 처리되고 validate 의 그 WARN 이 0 이 되면 올린다. 사례: overestimating-peer-drinking 4문단(고침), apology-reluctance 9줄(고침)",
-      "createdAt": "2026-10-23T03:08:58.071Z",
-      "seq": 1222
-    },
-    {
-      "id": "7500e13b",
-      "title": "clock-watching-in-bed 보강: 2000년대 이전 비문학 파편, 한국어 SNS",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글. 2026-10-22 16:40Z 시도: archive.org 수면 안내서 djvu(Bruce 1915, Granville 1879, Powell 1908, b28718045 1892 등)에 잠 못 들며 시계 보는 대목 없음. kyeonggi 2003-06-23 무관. 한국어 게시판 검색 결과 없음",
-      "createdAt": "2026-10-22T16:49:19.701Z",
-      "seq": 1068
-    },
-    {
-      "id": "d3d0e037",
-      "title": "low-battery-anxiety 보강: 2000년대 파편, 원인·결과 간선",
-      "priority": 50,
-      "note": "2026-10-22 매체 4, SNS 2, 학술 1 로 만듦. 남은 후보: hurroz.com/anonimo/the-panic-of-seeing-20-battery-5k3cf (2026-07-18) 'seeing the battery percentage drop makes me nervous'(인과), meeco.kr/anonymous/36461549 (2022-12-02) 100% 안 되면 불안해서 꽂아놓고, nocutnews.co.kr/news/5018966 (2018-08-22) 보조배터리 들고 다녀야 해방, openaccess.city.ac.uk/id/eprint/22401 Robinson·Arnould 2020 'hysteresis of the battery'. channelnews 같은 글 연인과 다툼 23%(같은 URL). thenextweb 2016-05-20 Uber 배터리 낮을 때 할증 수용(2차 보도). 2003 khan 컬러폰 충전 불편은 불안 아님. 휴대전화 없을 때 불안(노모포비아) 상위 후보",
-      "createdAt": "2026-10-22T18:49:19.606Z",
-      "seq": 1088
-    },
-    {
-      "id": "586dedbe",
-      "title": "pre-wedding-doubts 보강: 결과 간선, 공공 파편",
-      "priority": 50,
-      "note": "2026-10-22 sciencedaily 2012-09-13 이혼율 19% 대 8% 조건 더함. 이혼이나 결혼 만족 문서가 생기면 결과 간선 후보. 매몰비용 문서가 생기면 원인 후보(위키트리 [^9]). 2026-10-22 16:40Z '메리지 블루 go.kr' 검색에 공공 출처 없음",
-      "createdAt": "2026-10-22T22:33:08.364Z",
-      "seq": 1108
-    },
-    {
-      "id": "7283efe2",
-      "title": "prospective-memory-failure 보강: procrastination 원인 간선, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. unige:195353 (2026) 제목 'how boredom and procrastination disrupt prospective memory', 초록 'intentions perceived as boring were more likely to be postponed, which in turn was associated with more frequent PM failures'(같은 URL 이라 [^6] 과 함께 못 씀, 다른 출처 필요). unige:195352 (2026) 'Reminder use was selectively associated with external causes rather than forgetting.' 반대 조건 후보. 결과 간선 후보: 미래 기억 실패 뒤 기분 저하(ideas.repec Mogle 2019 [^4]). 한국어 게시판 글 미발견",
-      "createdAt": "2026-10-22T22:39:51.177Z",
-      "seq": 1109
-    },
-    {
-      "id": "8c6b39b6",
-      "title": "not-reporting-for-fear-of-reprisal 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-22 매체 3, 학술, 공공, SNS 2 더함. 남은 후보: kicj 2025 9.8%(곧은 따옴표 없는 문장 필요). 2026-10-22 16:44Z Gutenberg 19권(Oliver Twist, Bleak House, Our Mutual Friend, Crime and Punishment, Holmes 4권, Moonstone, Woman in White, The Jungle, Maggie 등)에서 police·inform 과 afraid·revenge 가 한 문장에 있는 대목 검색, 맞는 것 없음. 한국 문학(위키문헌) 미탐색",
-      "createdAt": "2026-10-22T22:54:32.271Z",
-      "seq": 1113
-    },
-    {
-      "id": "5c3cda92",
-      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z 도 / 가 TLS 실패(curl 60). 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음. 2026-10-22 22:56Z 도 / 가 TLS 실패(curl 60)",
-      "createdAt": "2026-10-22T22:54:39.795Z",
-      "seq": 1114
-    },
-    {
-      "id": "4ca9711a",
-      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례. 2026-10-22 22:56Z 도 / 가 TLS 실패(curl 60)",
-      "createdAt": "2026-10-22T22:54:40.065Z",
-      "seq": 1115
-    },
-    {
-      "id": "fc14bf12",
-      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z 호스트 / 도 TLS 실패(curl 60). 이슈 #6 사례. 2026-10-22 22:56Z 도 / 가 TLS 실패(curl 60)",
-      "createdAt": "2026-10-22T22:54:40.343Z",
-      "seq": 1116
-    },
-    {
-      "id": "778c50d3",
-      "title": "snooping-on-partners-phone 보강: 결과 간선(다툼·이별, 의심 증폭)",
-      "priority": 50,
-      "note": "2026-10-22 문화일보 2024-08-21 사연을 [^6] 으로 사용. 2026-10-22 22:58Z 인과 후보: psychologytoday 2025-09-02 'very likely to cause conflict with your partner, no matter what you find', marieclaire.co.uk 2019-11-02 'relationship ended ... because the phone owner felt their trust was betrayed'(큐 '연인과의 다툼' note 에 원문). 엿보기가 질투를 키운다는 인과 문장은 못 찾음(psychologytoday 2019 'How Your Partner's Phone Causes Jealousy' 에 없음). 상대 문서 '연인과의 다툼' 없음",
-      "createdAt": "2026-10-22T22:56:23.335Z",
-      "seq": 1118
-    },
-    {
-      "id": "9fd79fa5",
-      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안)",
-      "priority": 50,
-      "note": "2026-10-22 Threads 게시글(발행일 미상) 한국어 파편 더함. 남은 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'(원인, 불안 문서 필요), threads.com/@park.real76/post/DMac8dzyiPD 조문 자리 어정쩡해서 웃음(같은 계정 규칙 주의), PubMed 9325589 Keltner·Bonanno 1997",
-      "createdAt": "2026-10-22T22:59:10.515Z",
-      "seq": 1119
-    },
-    {
-      "id": "8feab92d",
-      "title": "summit-fever 보강: 매몰비용·목표 고착 관계, 한국어 매체·공공 파편",
-      "priority": 50,
-      "note": "2026-10-22 브런치 2026-08-28 산행기 더함(같은 글 '이렇게 멀리까지 와서 정상도 못 보고 돌아서자니 속이 쓰렸다' 는 같은 URL). 한국 뉴스 '정상 욕심' 검색 결과는 실명 등반가 인용뿐. 다음 검색어: '산림청 보도자료 정상 욕심', '국립공원공단 무리한 산행 정상 하산'. 매몰비용 문서가 생기면 원인 간선 후보",
-      "createdAt": "2026-10-22T23:01:42.092Z",
-      "seq": 1120
-    },
-    {
-      "id": "d2570103",
-      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 관계, 결과 간선",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦. 남은 후보: teamblind.com/kr 2021-11-21 댓글 오작동 무시하려다 남들 대피 보고 나감(남 따라 대피하기 현상 후보), research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자). newsseoul 2023-02-14 와 thestar 2026-08-02 는 이미 [^7] [^10]. 공통 상위(경보 둔감화) 후보는 ignoring-emergency-alerts 가 별칭 '경보 피로' 를 이미 써서 이름과 범위를 먼저 정해야 함(병원 alarm fatigue 포함 여부)",
-      "createdAt": "2026-10-22T23:01:53.268Z",
-      "seq": 1121
-    },
-    {
-      "id": "13e5cf1f",
-      "title": "not-calling-for-help-at-overdose 보강: 한국어 파편, 신고 꺼리기 상위",
-      "priority": 50,
-      "note": "2026-10-22 HN 2014-08-27 댓글(경찰이 구급차를 따라오는 곳 조건) 더함. 남은 후보: news.ycombinator.com/item?id=9923457 (2015-07-21) 'Lots of users don't seek medical treatment because they're afraid they'll be arrested.' 인과. 같은 '신고 꺼리기' 상위(경찰 개입이 두려워 신고하지 않기) 후보. not-reporting-for-fear-of-reprisal 은 가해자 보복이라 상위로 맞지 않음",
-      "createdAt": "2026-10-22T23:03:04.667Z",
-      "seq": 1122
-    },
-    {
-      "id": "50036fd5",
-      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
-      "priority": 50,
-      "note": "2026-10-22 문학 Anna Karenina 1878 풀베기 대목 더함(같은 장 'He would clearly have died sooner than own it was hard work for him.' 은 같은 URL 이라 못 씀). 남은 후보: PMC4199019 Bethel 2014 성과급이면 쉬기 불편(219자, 다른 문장 필요), nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망. 한국어 게시판 검색('폭염 엄마 말려도 밭일') 결과 없음. 한국 공공(kdca, rda) 은 이 환경에서 연결 리셋. 2026-10-22 23:05Z HN Algolia 10개 검색어(heat warehouse, piece rate heat 등)와 클리앙·뽐뿌·보배드림 검색에 1인칭 글 없음. 택배 기사 폭염 물량 때문에 못 쉰다는 뉴스 인용(byline.network, newstapa)은 매체로 미확인",
-      "createdAt": "2026-10-22T23:04:26.684Z",
-      "seq": 1123
-    },
     {
       "id": "6ee8faaa",
       "title": "hearing-protection-nonuse 보강: 한국어 SNS 파편, 결과 간선(이명)",
@@ -397,6 +277,46 @@
       "seq": 1260
     },
     {
+      "id": "329b5e37",
+      "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
+      "priority": 50,
+      "note": "2026-10-23 경향 2007, 디시 2026 더함. 남은 후보: brunch.co.kr/@bidancheon/166 (2026-05-15) 휴대폰 시간 확인 뒤 계산, 그럴수록 잠은 더 멀리(저자명 미확인). washingtonpost 1990 'The Modern Curse of Insomnia', 1998 'The Snooze Report' 403. Time 1990-12-17 칼럼에 시계 대목 없음",
+      "createdAt": "2026-10-23T09:16:12.086Z",
+      "seq": 1275
+    },
+    {
+      "id": "934b170d",
+      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:31Z 모두 / 가 TLS 실패(curl 60). 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
+      "createdAt": "2026-10-23T09:30:31.253Z",
+      "seq": 1279
+    },
+    {
+      "id": "ef27ce3b",
+      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:32Z 호스트 / 도 TLS 실패(프록시 CA 를 줘도 실패). 이슈 #6 사례",
+      "createdAt": "2026-10-23T09:30:39.523Z",
+      "seq": 1280
+    },
+    {
+      "id": "0714fd3e",
+      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:33Z 호스트 / 도 TLS 실패(curl 60, 프록시 CA 를 줘도 실패). 이슈 #6 사례",
+      "createdAt": "2026-10-23T09:30:45.167Z",
+      "seq": 1281
+    },
+    {
+      "id": "bdc922dc",
+      "title": "partner-conflict 보강: 이별 결과 간선, 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-23 PMC3218801 요구-철수 더함. 남은 후보: pann.nate.com/talk/359133930 (2021-04-17) 병원 가 보자는 말로 싸움. marieclaire.co.uk/life/snooping-670110 (2019-11-02) 엿보기 뒤 이별. 큐의 '연인과의 다툼(관계 갈등)' 항목은 이 문서로 처리됨",
+      "createdAt": "2026-10-23T09:40:10.821Z",
+      "seq": 1287
+    },
+    {
       "id": "e8ba47a7",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
       "priority": 30,
@@ -659,6 +579,62 @@
       "note": "2026-10-20 m.cafe.daum.net/amtb/6Zfw/14950/comments (2011-02-10 댓글) F2 로 사용. 같은 스레드에 유품을 남에게 주거나 태우라는 댓글들(긴장 후보, 같은 URL 은 한 문서에 한 파편). m.cafe.daum.net/subdued20club/ReHf/113723 (2011-12-20 스크랩) '집안 곳곳이 엄마 손길이 있어서 청소도 못 하겠고' 후보. gutenberg 1511 King John 3막 4장 'Stuffs out his vacant garments with his form' 후보. 공공 파편 미발견 / 2026-10-22 nhs.uk·gov.uk·gov.au 검색에 공공 출처 없음. 비공공 후보: community.sueryder.org/t/personal-belongingsl/32724 (SNS), bkbooks.com 'wait even months if necessary', legalandgeneral 'this is a personal decision'",
       "createdAt": "2026-10-22T17:02:23.162Z",
       "seq": 1080
+    },
+    {
+      "id": "8179fbe9",
+      "title": "pre-wedding-doubts 보강: 결과 간선(이혼 문서가 생기면)",
+      "priority": 30,
+      "note": "2026-10-23 공공 파편 재탐색 실패: news.seoul.go.kr/welfare/archives/572998 (2025-09-01) 예비부부 막막함·부담감만, 의심 아님. aifs.gov.au Family Matters 54 봇 확인, ag.gov.au/node/3092 연결 끊김, msstate 1997 404. 공공 종류는 이 현상을 직접 받치는 글이 드묾. 이혼이나 결혼 만족 문서가 생기면 [^5] 로 결과 간선",
+      "createdAt": "2026-10-23T09:23:58.184Z",
+      "seq": 1277
+    },
+    {
+      "id": "b7cc0726",
+      "title": "prospective-memory-failure 보강: 결과 간선(기분 저하)",
+      "priority": 30,
+      "note": "2026-10-23 procrastination 원인 간선과 클리앙 SNS 더함. Mogle 2019 [^4] 실패한 날 부정 정서 높음, 기분 저하 문서가 생기면 결과 간선. solvingprocrastination.com Zuber 소개 글 발행일 미상. clien park/2822600 (2012-05-18) 약 깜빡 제목만",
+      "createdAt": "2026-10-23T09:27:37.936Z",
+      "seq": 1278
+    },
+    {
+      "id": "deadd901",
+      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안)",
+      "priority": 30,
+      "note": "2026-10-23 확인: 일반 불안·긴장 문서 없음(find 불안, 긴장). 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'. 일반 불안 문서가 생기면 원인 간선. PubMed 9325589 Keltner·Bonanno 1997",
+      "createdAt": "2026-10-23T09:33:36.957Z",
+      "seq": 1282
+    },
+    {
+      "id": "9b3b413f",
+      "title": "summit-fever 보강: 매몰비용·목표 고착 관계, 한국어 공공 파편",
+      "priority": 30,
+      "note": "2026-10-23 korea.kr, 인천소방, 강원소방 보도에는 일반 수칙(무리한 산행 자제, 즉시 하산)뿐 정상 욕심 대목 없음. imaeil.com/page/view/2007052107112609076 (2007-05-21) 정상 앞에서 돌아서는 용기, 실존 원정대원 발언이라 쓰지 않음. brunch.co.kr/@killm3/221 (2026-05-29) 영화 감상글 '돌아서야 할 순간에도 한 걸음 더'. 매몰비용 문서가 생기면 원인 간선",
+      "createdAt": "2026-10-23T09:36:24.349Z",
+      "seq": 1283
+    },
+    {
+      "id": "585dcf8a",
+      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 공통 상위(경보 둔감화)",
+      "priority": 30,
+      "note": "2026-10-23 확인: 두 문서는 상위 관계가 아니라 형제. 공통 상위 '경보 둔감화' 새 문서가 필요하고 ignoring-emergency-alerts 별칭 '경보 피로' 를 그쪽으로 옮길지 정해야 함. 후보: research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자, 줄여야 함), teamblind.com/kr 2021-11-21 댓글 남 따라 대피",
+      "createdAt": "2026-10-23T09:36:37.261Z",
+      "seq": 1284
+    },
+    {
+      "id": "253176fb",
+      "title": "not-calling-for-help-at-overdose 보강: 한국어 파편, 신고 꺼리기 상위",
+      "priority": 30,
+      "note": "2026-10-23 한국어 탐색 실패: kormedi 1310269, radiokorea 398825, ncapda.org 한국어 번역 모두 대목 없음. 한국어 공공 자료는 PDF 뿐(LA 카운티 Good-Samaritan-card-KOREAN, health.ny.gov 19818). 영어 후보(미확인): jurist.org 2007-04 뉴멕시코 면책법, universe.byu.edu 2006-08-09, cpr.org 2016-05. 남은 후보: news.ycombinator.com/item?id=9923457 은 이미 [^4]. 상위 '경찰 개입이 두려워 신고하지 않기' 후보",
+      "createdAt": "2026-10-23T09:39:13.394Z",
+      "seq": 1285
+    },
+    {
+      "id": "c712f5f7",
+      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
+      "priority": 30,
+      "note": "2026-10-23 PMC4199019 Bethel 2014 를 다시 받아 봄: 200자 이하로 성과급과 쉬기 불편을 잇는 문장 없음(성과급 노동자의 열 지식 점수만). 2026-10-22: nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망. 한국어 게시판·HN 1인칭 글 없음. kdca, rda 연결 리셋. 택배 기사 폭염 물량 뉴스(byline.network, newstapa) 미확인",
+      "createdAt": "2026-10-23T09:39:32.272Z",
+      "seq": 1286
     },
     {
       "id": "75b0ae75",
@@ -1627,6 +1603,14 @@
       "note": "2026-10-23 guilt-about-resigning 탐색 중. 그만두기로 정한 사람이 상사에게 말하기 두려워 통보를 미룬다. guilt-about-resigning 이 원인 후보. 당사자 SNS 글 미발견(82cook 연결 끊김, askamanager Cloudflare)",
       "createdAt": "2026-10-23T06:37:59.621Z",
       "seq": 1259
+    },
+    {
+      "id": "deddd02e",
+      "title": "연락 두절 두려움",
+      "priority": 10,
+      "note": "low-battery-anxiety 의 원인 후보. insider.co.uk/news/nearly-two-thirds-people-suffer-10877982 (2017-07-27) 'Many of us fear being uncontactable' 뒤 'It's this that can lead to us feeling anxious'(업체 측 발언). bps.org.uk research-digest nomophobia 2015-05-07 배터리 늘 채워 두는 경계. 노모포비아 별칭",
+      "createdAt": "2026-10-23T09:20:01.775Z",
+      "seq": 1276
     },
     {
       "id": "02b2f242",
