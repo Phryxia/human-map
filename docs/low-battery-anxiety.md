@@ -10,11 +10,13 @@
 
 2016년 LG전자의 미국 조사를 전한 기사[^3]에서 2,000명 가운데 90%가 배터리가 20% 밑으로 떨어지면 공황을 느낀다고 답했다. 같은 조사를 전한 다른 기사[^4]에서 응답자의 32%는 하던 일을 모두 그만두고 집으로 돌아가 휴대전화를 충전한다고 답했다.
 
-2018년 기사[^5]의 기자는 보조배터리 하나쯤은 들고 다녀야 방전 불안감에서 벗어난다고 썼다. 2020년 댓글[^6]의 글쓴이는 그것이 비합리적이라고 하면서도 집에 있을 때조차 휴대전화가 꺼져 가면 속상해진다고 썼다. 2026년 익명 게시글[^9]의 글쓴이는 배터리 퍼센트가 떨어지는 것을 보면 초조해져서 각별히 조심하게 된다고 썼다.
+2018년 기사[^5]의 기자는 보조배터리 하나쯤은 들고 다녀야 방전 불안감에서 벗어난다고 썼다. 2020년 댓글[^6]의 글쓴이는 그것이 비합리적이라고 하면서도 집에 있을 때조차 휴대전화가 꺼져 가면 속상해진다고 썼다. 2026년 익명 게시글[^10]의 글쓴이는 배터리 퍼센트가 떨어지는 것을 보면 초조해져서 각별히 조심하게 된다고 썼다.
 
 2020년 프리프린트[^7]는 여성이 남성보다 휴대전화를 유의하게 더 일찍 충전한다고 보고한다.
 
-2026년 보도자료[^8]에서 영국 응답자들은 외출 전에 배터리가 최소 61%는 있어야 한다고 답했고 74%는 배터리 걱정 때문에 콘센트에서 너무 멀리 가기를 꺼린다고 답했다.
+2022년 미코 댓글[^8]의 글쓴이는 어디 출발할 때 배터리가 100%가 안 되면 불안해서 충전기에 꽂아 놓고 다닌다고 썼다.
+
+2026년 보도자료[^9]에서 영국 응답자들은 외출 전에 배터리가 최소 61%는 있어야 한다고 답했고 74%는 배터리 걱정 때문에 콘센트에서 너무 멀리 가기를 꺼린다고 답했다.
 
 # 관계
 
@@ -47,5 +49,6 @@
 [^5]: [매체] "배터리 용량이 늘어나면서 사용 중간에 충전하는 경우는 줄었지만 보조배터리 하나쯤은 들고다녀야 방전 불안감에서 해방된다." — 김민수, 「스마트폰 배터리에 관한 '진실 혹은 거짓'」, CBS노컷뉴스, 2018-08-22, https://nocutnews.co.kr/news/5018966, 2026-10-22 접속
 [^6]: [SNS] "It IS irrational! But I still get upset when my phone is dying even if I’m home." (그건 비합리적이에요! 그래도 저는 집에 있을 때조차 휴대전화가 꺼져 가면 속상해져요.) — Meh, 댓글, 2020-02-27, https://meh.com/forum/topics/youre-out-and-your-phones-dying, 2026-10-22 접속
 [^7]: [학술] "we find that females charge their mobile phones (i.e., get anxious about the battery level) significantly earlier than males" (우리는 여성이 남성보다 휴대전화를 유의하게 더 일찍 충전한다는 것, 곧 배터리 잔량에 더 일찍 불안해한다는 것을 발견했다.) — Guoming Tang, Kui Wu, Yi Wang, "Quantifying Low-Battery Anxiety of Mobile Users and Its Impacts on Video Watching Behavior", arXiv, 2020-04-16, https://ar5iv.labs.arxiv.org/html/2004.07662, 2026-10-22 접속
-[^8]: [매체] "Brits say they need at least 61% battery before heading out, while nearly three-quarters (74%) admit that concerns about battery life make them wary of venturing too far from a plug socket." (영국인들은 외출 전에 배터리가 최소 61%는 있어야 한다고 말하고 거의 4분의 3(74%)은 배터리 걱정 때문에 콘센트에서 너무 멀리 가기를 꺼린다고 인정한다.) — Vodafone UK, "Brits start worrying about their phone battery at 28%, new Vodafone research reveals", 2026-06-16, https://www.vodafone.co.uk/newscentre/?p=50482, 2026-10-22 접속
-[^9]: [SNS] "I simply become extra careful because seeing the battery percentage drop makes me nervous." (배터리 퍼센트가 떨어지는 것을 보면 초조해져서 나는 그냥 각별히 조심하게 된다.) — Hurroz, 익명 게시글, 2026-07-18, https://hurroz.com/anonimo/the-panic-of-seeing-20-battery-5k3cf, 2026-10-22 접속
+[^8]: [SNS] "저는 어디 출발할때 배터리가 100프로 안되면 불안해서 꽂아놓고 다녀요..." — 미코 댓글, 2022-12-02, https://meeco.kr/anonymous/36461549, 2026-10-23 접속
+[^9]: [매체] "Brits say they need at least 61% battery before heading out, while nearly three-quarters (74%) admit that concerns about battery life make them wary of venturing too far from a plug socket." (영국인들은 외출 전에 배터리가 최소 61%는 있어야 한다고 말하고 거의 4분의 3(74%)은 배터리 걱정 때문에 콘센트에서 너무 멀리 가기를 꺼린다고 인정한다.) — Vodafone UK, "Brits start worrying about their phone battery at 28%, new Vodafone research reveals", 2026-06-16, https://www.vodafone.co.uk/newscentre/?p=50482, 2026-10-22 접속
+[^10]: [SNS] "I simply become extra careful because seeing the battery percentage drop makes me nervous." (배터리 퍼센트가 떨어지는 것을 보면 초조해져서 나는 그냥 각별히 조심하게 된다.) — Hurroz, 익명 게시글, 2026-07-18, https://hurroz.com/anonimo/the-panic-of-seeing-20-battery-5k3cf, 2026-10-22 접속
