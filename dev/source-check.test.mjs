@@ -235,3 +235,20 @@ test('fetchText 는 fetch failed 의 원인 코드를 reason 에 붙인다', asy
   const page = await fetchText('https://example.org/a', {fetchImpl, fallbackImpl: fetchImpl})
   assert.equal(page.reason, 'fetch failed (UND_ERR_SOCKET)')
 })
+
+// 이슈 #6: start.umd.edu, scholarworks.iu.edu 는 글과 / 모두 SELF_SIGNED_CERT_IN_CHAIN, archive.carla.umn.edu 는 UNABLE_TO_GET_ISSUER_CERT_LOCALLY,
+// abs.gov.au 는 글과 / 모두 503, www150.statcan.gc.ca 는 글과 / 모두 점검 페이지였다(2026-10-21).
+test('hostBlocked: TLS 실패, 5xx, 점검 페이지도 / 가 같은 종류로 실패하면 true', async () => {
+  const tls = code => async () => { throw Object.assign(new TypeError('fetch failed'), {cause: {code}}) }
+  const status = s => async () => ({ok: s < 300, status: s, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>x</html>'})
+  const page = body => async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body})
+  const maint = page('<html><title>Statistics Canada - website is currently unavailable</title></html>')
+  assert.equal(await hostBlocked('https://start.umd.edu/publication/x', 'fetch failed (SELF_SIGNED_CERT_IN_CHAIN)', {fetchImpl: tls('SELF_SIGNED_CERT_IN_CHAIN')}), true)
+  assert.equal(await hostBlocked('https://archive.carla.umn.edu/speechacts/refusals/tt.html', 'fetch failed (UNABLE_TO_GET_ISSUER_CERT_LOCALLY)', {fetchImpl: tls('UNABLE_TO_GET_ISSUER_CERT_LOCALLY')}), true)
+  assert.equal(await hostBlocked('https://www.abs.gov.au/articles/x', 'HTTP 503', {fetchImpl: status(503)}), true)
+  assert.equal(await hostBlocked('https://www150.statcan.gc.ca/n1/x', '점검 페이지', {fetchImpl: maint}), true)
+  assert.equal(await hostBlocked('https://www.abs.gov.au/articles/x', 'HTTP 503', {fetchImpl: status(200)}), false)
+  assert.equal(await hostBlocked('https://start.umd.edu/publication/x', 'fetch failed (SELF_SIGNED_CERT_IN_CHAIN)', {fetchImpl: status(503)}), false)
+  assert.equal(await hostBlocked('https://www150.statcan.gc.ca/n1/x', '점검 페이지', {fetchImpl: page('<html>ok</html>')}), false)
+  assert.equal(await hostBlocked('https://example.com/x', 'fetch failed (ECONNRESET)', {fetchImpl: tls('ECONNRESET')}), false)
+})

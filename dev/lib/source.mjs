@@ -109,11 +109,23 @@ export async function recheckText(url, {quote, wasVerified, fetchText: get = fet
 
 // 원글이 4xx 일 때 같은 호스트의 / 도 열리지 않으면 글이 아니라 호스트가 이 환경을 막은 것이다(instiz.net, 2026-10-19).
 // 원글이 타임아웃일 때 / 도 타임아웃이면 마찬가지다(strathprints.strath.ac.uk, 2026-10-20). / 가 다른 이유(도메인 소멸 등)로 실패하면 막힌 것으로 보지 않는다.
+// TLS 인증서 실패(start.umd.edu, scholarworks.iu.edu, archive.carla.umn.edu, 2026-10-21), 5xx(abs.gov.au 503, 2026-10-21),
+// 점검 페이지(www150.statcan.gc.ca, 2026-10-21)도 / 가 같은 종류로 실패하면 호스트 장애다(이슈 #6).
+const TLS_CODE_RE = /\((?:[A-Z_]*CERT[A-Z_]*|ERR_TLS_[A-Z_]+|ERR_SSL_[A-Z_]+|UNABLE_TO_VERIFY_LEAF_SIGNATURE)\)$/
+export function failureKind(reason = '') {
+  if (/^HTTP 4\d\d$/.test(reason)) return '4xx'
+  if (/^HTTP 5\d\d$/.test(reason)) return '5xx'
+  if (reason === '타임아웃') return 'timeout'
+  if (reason === '점검 페이지') return 'maintenance'
+  if (TLS_CODE_RE.test(reason)) return 'tls'
+  return null
+}
+
 export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 20000} = {}) {
-  const http4xx = /^HTTP 4\d\d$/.test(reason ?? '')
-  if (!http4xx && reason !== '타임아웃') return false
+  const kind = failureKind(reason ?? '')
+  if (!kind) return false
   const home = await fetchOnce(new URL('/', url).href, USER_AGENTS.at(-1), {timeout, fetchImpl})
-  return http4xx ? !home.ok : home.reason === '타임아웃'
+  return kind === '4xx' ? !home.ok : !home.ok && failureKind(home.reason) === kind
 }
 
 // 결과를 기록과 줄 표시에 맞춰 판정한다. 돌려주는 값: {exit: 0|1, note}
