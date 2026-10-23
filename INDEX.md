@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 276개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 277개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -179,6 +179,7 @@
 - [엉뚱한 대상에게 화풀이하기](docs/displaced-aggression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [에너지 요금 때문에 식비 줄이기](docs/heat-or-eat.md) ([돈과 소비](groups/money.md))
 - [엘리베이터 안의 침묵](docs/elevator-silence.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [연봉 협상하지 않기](docs/not-negotiating-salary.md) ([일터와 일자리](groups/work.md))
 - [연애 질투](docs/romantic-jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 휴대폰 몰래 보기](docs/snooping-on-partners-phone.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연차휴가 남기기](docs/unused-annual-leave.md) ([일터와 일자리](groups/work.md))

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T06:30:21.633Z",
-  "nextSeq": 1255,
+  "savedAt": "2026-10-23T06:33:33.636Z",
+  "nextSeq": 1257,
   "stops": 86,
   "items": [
     {
@@ -379,6 +379,14 @@
       "note": "2026-10-23 매체 2, SNS, 학술 로 만듦. 후보: Hansard 2024-01-10 Westminster Hall 'Back pain was seen as an easy excuse to pull a sickie'(HTML 은 Cloudflare 403, API 로만 읽힘), news.ycombinator.com/item?id=49208807 2026-08-07 꽃을 받은 뒤 거짓이 드러남, item?id=8630586 2014-11-19 개인 프로젝트로 하루 쉼. Carlsen·Nyborg 2020 Health Economics 게재본 403. sickness-presenteeism 과의 대립 근거 파편 찾기",
       "createdAt": "2026-10-23T06:30:21.506Z",
       "seq": 1254
+    },
+    {
+      "id": "9772526c",
+      "title": "not-negotiating-salary 보강: 한국어 파편, 2005년 이전 파편, 공공 파편",
+      "priority": 50,
+      "note": "2026-10-23 SNS, 매체, 학술 로 만듦. 후보: pewresearch.org short-reads 2023-04-05 38% 불편(민간 조사기관), anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, news.ycombinator.com/item?id=44735331 2025-07-30 성사를 그르칠까 협상 안 함. 코멘토에 맞는 대목 없음",
+      "createdAt": "2026-10-23T06:33:33.487Z",
+      "seq": 1256
     },
     {
       "id": "e8ba47a7",
