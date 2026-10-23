@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 279개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 280개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -9,6 +9,7 @@
 - [가진 것 과시하기](docs/showing-off-possessions.md) ([돈과 소비](groups/money.md))
 - [감각 추구](docs/sensation-seeking.md) ([성향과 기질](groups/traits.md))
 - [감사 선물](docs/thank-you-gift.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [감정노동](docs/emotional-labor.md) ([일터와 일자리](groups/work.md))
 - [값 흥정](docs/haggling.md) ([돈과 소비](groups/money.md))
 - [같은 이야기 되풀이](docs/retelling-same-story.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [거울 속 늙은 얼굴의 낯섦](docs/aged-face-in-mirror.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
