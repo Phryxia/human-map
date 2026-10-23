@@ -96,7 +96,7 @@ test('문단 수 제한은 없고, 문단당 4문장을 넘으면 ERROR', () => 
   assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({body: nine})}))), [])
   const long = '하나다. 둘이다. 15.6%였다. 넷이다. 다섯이다.[^1][^2]'
   assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: long})}))).some(x => x.includes('문단이 4문장을 넘는다 (5)')))
-  const ok = '하나다. 둘은 15.6%였다. 셋이다. 넷이다.[^1][^2]\n\n문단.[^1]\n\n문단.[^2]\n\n문단.[^1]'
+  const ok = '하나다. 둘은 15.6%였다. 셋이다. 넷이다.[^1]\n\n문단.[^1]\n\n문단.[^2]\n\n문단.[^1]'
   assert.deepEqual(validateAll(loadAll(makeRepo({a: makeDoc({body: ok})}))).map(r => r.msg), [])
 })
 
@@ -124,4 +124,12 @@ test('각주 정의는 태그 줄 뒤에만 있고, 태그 줄 뒤에는 각주 
   const moved = ok.replace(/\n(\[\^2\]: [^\n]*)\n$/, '\n').replace('# 관계', '$1\n\n# 관계'.replace('$1', ok.match(/\[\^2\]: [^\n]*/)[0]))
   assert.ok(errs(loadAll(makeRepo({a: moved}))).some(x => x.includes('태그 줄 뒤에만')))
   assert.ok(errs(loadAll(makeRepo({a: ok + '덧붙인 말\n'}))).some(x => x.includes('각주 정의만')))
+})
+
+test('각주 없는 문장 뒤 문장 끝에 출처 둘 이상을 묶으면 WARN', () => {
+  // 이슈 #7: overestimating-peer-drinking 의 두 문장이 [^4][^5] 하나로 묶였다
+  const bad = '2009년 조사에서 응답자 다수는 친구가 더 마신다고 했다. 2010년 조사에서 폭음집단은 과대추정했다.[^1][^2]'
+  assert.ok(warns(loadAll(makeRepo({a: makeDoc({body: bad})}))).some(x => x.includes('출처가 다른 문장')))
+  const ok = ['2009년 조사[^1]에서 다수는 그렇게 했다. 2010년 조사에서는 달랐다.[^2]', '한 출처의 첫 문장이다. 같은 출처의 둘째 문장이다.[^1]\n\n두 출처가 같은 말을 한다.[^1][^2]']
+  for (const body of ok) assert.ok(!warns(loadAll(makeRepo({a: makeDoc({body})}))).some(x => x.includes('출처가 다른 문장')), body)
 })

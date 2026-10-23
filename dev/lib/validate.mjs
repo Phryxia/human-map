@@ -24,6 +24,20 @@ const sortKey = d => d === '발행일 미상' ? '' : d
 // 본문이 파편을 번호로 부르는 F<n>(옛 형식). 파편은 각주 [^n] 로만 가리킨다.
 const MENTION_RE = /(?<![A-Za-z0-9^])F\d+\b/g
 const sentenceCount = text => text.replace(/\[\^\d+\]/g, '').match(/[.?!](?=\s|$)/g)?.length ?? 0
+// 문단을 문장으로 나눈다. 문장 끝 뒤에 붙은 각주는 그 문장에 든다.
+export const splitSentences = text => text.match(/[^]*?[.?!](?:\[\^\d+\])*(?=\s|$)|[^]+$/g)?.map(s => s.trim()).filter(Boolean) ?? []
+// 각주 없는 문장이 앞에 있는데 뒤 문장이 출처 둘 이상을 단 경우. 어느 문장이 어느 출처인지 알 수 없다(이슈 #7).
+export function mergedAttributions(text) {
+  const out = []
+  let pending = 0
+  for (const s of splitSentences(text)) {
+    const refs = new Set(refsIn(s))
+    if (!refs.size) { pending++; continue }
+    if (pending && refs.size > 1) out.push(s)
+    pending = 0
+  }
+  return out
+}
 
 // sources 는 dev/sources.json 의 URL 별 기록. VERIFIED 인 출처의 원문은 출처에 글자 그대로 있으므로 줄임표도 원글의 것이다.
 export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
@@ -64,6 +78,7 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
     for (const p of ps) {
       const sentences = sentenceCount(p.text)
       if (sentences > 4) err(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
+      for (const s of mergedAttributions(p.text)) warn(p.ln, `출처가 다른 문장을 각주 묶음 하나로 받친다. 문장마다 자기 각주를 단다: ${s.slice(0, 40)}`)
       const refs = refsIn(p.text)
       for (const r of refs) { used.add(r); if (!nums.has(r)) err(p.ln, `없는 파편 [^${r}] 를 가리킨다`) }
       // 따옴표 안(인용한 말)은 빼고 본다
