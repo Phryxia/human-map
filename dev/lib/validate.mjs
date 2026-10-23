@@ -78,7 +78,7 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
     for (const p of ps) {
       const sentences = sentenceCount(p.text)
       if (sentences > 4) err(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
-      for (const s of mergedAttributions(p.text)) warn(p.ln, `출처가 다른 문장을 각주 묶음 하나로 받친다. 문장마다 자기 각주를 단다: ${s.slice(0, 40)}`)
+      for (const s of mergedAttributions(p.text)) err(p.ln, `출처가 다른 문장을 각주 묶음 하나로 받친다. 문장마다 자기 각주를 단다: ${s.slice(0, 40)}`)
       const refs = refsIn(p.text)
       for (const r of refs) { used.add(r); if (!nums.has(r)) err(p.ln, `없는 파편 [^${r}] 를 가리킨다`) }
       // 따옴표 안(인용한 말)은 빼고 본다

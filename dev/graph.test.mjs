@@ -126,10 +126,10 @@ test('각주 정의는 태그 줄 뒤에만 있고, 태그 줄 뒤에는 각주 
   assert.ok(errs(loadAll(makeRepo({a: ok + '덧붙인 말\n'}))).some(x => x.includes('각주 정의만')))
 })
 
-test('각주 없는 문장 뒤 문장 끝에 출처 둘 이상을 묶으면 WARN', () => {
+test('각주 없는 문장 뒤 문장 끝에 출처 둘 이상을 묶으면 ERROR', () => {
   // 이슈 #7: overestimating-peer-drinking 의 두 문장이 [^4][^5] 하나로 묶였다
   const bad = '2009년 조사에서 응답자 다수는 친구가 더 마신다고 했다. 2010년 조사에서 폭음집단은 과대추정했다.[^1][^2]'
-  assert.ok(warns(loadAll(makeRepo({a: makeDoc({body: bad})}))).some(x => x.includes('출처가 다른 문장')))
+  assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: bad})}))).some(x => x.includes('출처가 다른 문장')))
   const ok = ['2009년 조사[^1]에서 다수는 그렇게 했다. 2010년 조사에서는 달랐다.[^2]', '한 출처의 첫 문장이다. 같은 출처의 둘째 문장이다.[^1]\n\n두 출처가 같은 말을 한다.[^1][^2]']
-  for (const body of ok) assert.ok(!warns(loadAll(makeRepo({a: makeDoc({body})}))).some(x => x.includes('출처가 다른 문장')), body)
+  for (const body of ok) assert.ok(![...errs(loadAll(makeRepo({a: makeDoc({body})}))), ...warns(loadAll(makeRepo({a: makeDoc({body})})))].some(x => x.includes('출처가 다른 문장')), body)
 })
