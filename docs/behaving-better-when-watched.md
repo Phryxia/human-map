@@ -10,7 +10,9 @@
 
 2015년 대학 보도자료[^2]에서 연구자 Nettle 은 사람들이 남이 자기를 어떻게 생각하는지 신경 쓰기 때문에 관찰당한다고 느낄 때 더 바르고 정직하게 행동한다고 말했다.
 
-2019년 학위논문[^3]에서 공중화장실 이용자의 손 위생 준수율은 혼자 있을 때가 다른 사람이 있을 때보다 낮았다.
+2015년 Bateson 외의 현장 실험[^3]에서 사람들은 바로 근처에 다른 사람이 있을 때 없을 때보다 쓰레기를 덜 버렸다.
+
+2019년 학위논문[^4]에서 공중화장실 이용자의 손 위생 준수율은 혼자 있을 때가 다른 사람이 있을 때보다 낮았다.
 
 # 관계
 
@@ -38,4 +40,5 @@
 
 [^1]: [학술] "People paid nearly three times as much for their drinks when eyes were displayed rather than a control image." (사람들은 대조 그림 대신 눈 그림이 붙어 있을 때 음료값을 거의 세 배 냈다.) — Melissa Bateson, Daniel Nettle, Gilbert Roberts, "Cues of being watched enhance cooperation in a real-world setting", Biology Letters 2(3), 2006-09, https://pmc.ncbi.nlm.nih.gov/articles/PMC1686213/, 2026-10-22 접속
 [^2]: [매체] "As we care what other people think about us, we behave better and more honestly when we feel we are being observed." (우리는 남이 우리를 어떻게 생각하는지 신경 쓰기 때문에 관찰당한다고 느낄 때 더 바르고 정직하게 행동한다.) — Newcastle University Press Office, "Watching eyes prevent littering", 2015-12-01, https://www.ncl.ac.uk/press/articles/archive/2015/12/eyeslittering/, 2026-10-22 접속
-[^3]: [학술] "the hand hygiene compliance rate was lower when individuals were alone than when another person was present" (손 위생 준수율은 혼자 있을 때가 다른 사람이 있을 때보다 낮았다) — A. Lawson, "An investigation of the hand hygiene behaviours of the general population when using public restrooms", Ulster University 박사학위논문, 2019-10, https://pure.ulster.ac.uk/en/studentTheses/an-investigation-of-the-hand-hygiene-behaviours-of-the-general-po/, 2026-10-22 접속
+[^3]: [학술] "We also found that people were less likely to litter when there other people in the immediate vicinity than when there were not (odds ratios 0.04-0.25)" (또 바로 근처에 다른 사람이 있을 때 없을 때보다 사람들이 쓰레기를 덜 버린다는 것을 발견했다(오즈비 0.04-0.25).) — Bateson M, Robinson R, Abayomi-Cole T, Greenlees J, O'Connor A, Nettle D, "Watching eyes on potential litter can reduce littering: evidence from two field experiments", PeerJ 3:e1443, 2015-12-01, https://pmc.ncbi.nlm.nih.gov/articles/PMC4671191/, 2026-10-23 접속
+[^4]: [학술] "the hand hygiene compliance rate was lower when individuals were alone than when another person was present" (손 위생 준수율은 혼자 있을 때가 다른 사람이 있을 때보다 낮았다) — A. Lawson, "An investigation of the hand hygiene behaviours of the general population when using public restrooms", Ulster University 박사학위논문, 2019-10, https://pure.ulster.ac.uk/en/studentTheses/an-investigation-of-the-hand-hygiene-behaviours-of-the-general-po/, 2026-10-22 접속

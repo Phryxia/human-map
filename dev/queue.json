@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:17:15.968Z",
-  "nextSeq": 1229,
+  "savedAt": "2026-10-23T03:18:25.145Z",
+  "nextSeq": 1231,
   "stops": 85,
   "items": [
     {
@@ -27,14 +27,6 @@
       "note": "2026-10-22 문서 만듦. 남은 후보: medigatenews.com/news/489586203 (2020-11-14) '시계를 보며 잠을 자는 것' 이 불면증을 만성화(불면 문서가 생기면 결과 간선), southtees.nhs.uk/?p=77956 조언만, mssociety 같은 글 2012-04-21 댓글. 2026-10-22 16:40Z 시도: archive.org 수면 안내서 djvu(Bruce 1915, Granville 1879, Powell 1908, b28718045 1892 등)에 잠 못 들며 시계 보는 대목 없음. kyeonggi 2003-06-23 무관. 한국어 게시판 검색 결과 없음",
       "createdAt": "2026-10-22T16:49:19.701Z",
       "seq": 1068
-    },
-    {
-      "id": "72f12d7f",
-      "title": "behaving-better-when-watched 보강: SNS·한국어 파편, skipping-handwashing·fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-10-22 문서 만듦(학술 Bateson 2006, 매체 Newcastle 2015, 학술 Lawson 2019). 같은 보도자료 '4.7% of people dropped the leaflet with eyes compared to 15.6%' 는 같은 URL. boingboing 2015-12-02 다른 사람이 근처에 있으면 효과 없음(조건 후보). danielnettle.org.uk litter PeerJ 논문. 원인 간선은 '때문에' 문장 필요. 한국 사례: segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
-      "createdAt": "2026-10-22T16:56:38.493Z",
-      "seq": 1074
     },
     {
       "id": "4cbe7d89",
@@ -347,6 +339,14 @@
       "note": "2026-10-23 camdennewjournal 2021-10-18 더함. 같은 기사 'There needs to be a revamp of the way the police handle bike theft' 는 같은 URL. 지식iN·클리앙·뽐뿌·82cook·보배드림 '신고해봤자' 검색 결과 없음(2026-10-22). bjs 1985 Reporting Crimes to the Police 문장 247자",
       "createdAt": "2026-10-23T03:17:15.875Z",
       "seq": 1228
+    },
+    {
+      "id": "8d654ad1",
+      "title": "behaving-better-when-watched 보강: SNS·한국어 파편, skipping-handwashing·fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-23 PeerJ 2015(PMC4671191) 근처에 사람이 있을 때 덜 버림 더함. 같은 초록 'in one experiment but not the other, that eye leaflets only reduced littering when there no other people in the immediate vicinity' 는 같은 URL. peerj.com 은 Just a moment 봇 확인. 원인 간선은 '때문에' 문장 필요([^2] Nettle 'As we care what other people think about us' 가 후보). 한국 사례: segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
+      "createdAt": "2026-10-23T03:18:25.032Z",
+      "seq": 1230
     },
     {
       "id": "e8ba47a7",
