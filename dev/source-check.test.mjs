@@ -252,3 +252,12 @@ test('hostBlocked: TLS 실패, 5xx, 점검 페이지도 / 가 같은 종류로 �
   assert.equal(await hostBlocked('https://www150.statcan.gc.ca/n1/x', '점검 페이지', {fetchImpl: page('<html>ok</html>')}), false)
   assert.equal(await hostBlocked('https://example.com/x', 'fetch failed (ECONNRESET)', {fetchImpl: tls('ECONNRESET')}), false)
 })
+test('extractText: JSON-LD 의 articleBody 를 본문으로 넣는다', () => {
+  // ctvnews.ca(Arc): 본문이 HTML 에 없고 ld+json 의 articleBody 에만 있다(2026-10-23)
+  const ld = JSON.stringify({'@type': 'NewsArticle', articleBody: 'While 40 per cent of children think they’re getting more'})
+  const t = extractText(`<html><head><script type="application/ld+json">${ld}</script><script>var x="가짜"</script></head><body><p>메뉴</p></body></html>`, 'text/html')
+  assert.ok(quoteIn(t, 'While 40 per cent of children think they’re getting more'))
+  assert.ok(!t.includes('가짜'))
+  const graph = JSON.stringify({'@graph': [{'@type': 'WebPage'}, {'@type': 'Article', articleBody: '그래프 안 본문'}]})
+  assert.ok(quoteIn(extractText(`<html><script type="application/ld+json">${graph}</script><script type="application/ld+json">{깨진</script></html>`, 'text/html'), '그래프 안 본문'))
+})

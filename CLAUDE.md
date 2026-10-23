@@ -249,7 +249,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 
 ### source-check.mjs
 
-- 인자는 `<id>`, `--all`, `--changed`(마지막 커밋 이후 바뀐 문서), `--stale <일수>`(마지막 확인이 그 일수보다 오래된 파편). 각 파편의 URL 을 fetch 하고 HTML 이면 텍스트를 추출한 뒤(블록 태그 P, BR, DIV, LI 등의 경계에는 공백을 넣는다. 목록은 `dev/lib/source.mjs` 상단 배열) 공백·따옴표·대시 종류를 정규화해 원문이 그 안에 부분 문자열로 있는지 본다.
+- 인자는 `<id>`, `--all`, `--changed`(마지막 커밋 이후 바뀐 문서), `--stale <일수>`(마지막 확인이 그 일수보다 오래된 파편). 각 파편의 URL 을 fetch 하고 HTML 이면 텍스트를 추출한 뒤(블록 태그 P, BR, DIV, LI 등의 경계에는 공백을 넣는다. 목록은 `dev/lib/source.mjs` 상단 배열. `<script type="application/ld+json">` 의 `articleBody` 문자열은 본문으로 덧붙인다. ctvnews.ca 처럼 본문을 HTML 에 두지 않는 페이지가 있기 때문이다) 공백·따옴표·대시 종류를 정규화해 원문이 그 안에 부분 문자열로 있는지 본다.
 - 응답 본문은 바이트로 받아 Content-Type 의 charset, 없으면 본문 앞부분의 `<meta charset>` 으로 디코딩한다(둘 다 없으면 UTF-8). 네이트 뉴스처럼 EUC-KR 로 오는 페이지가 있기 때문이다.
 - 결과는 파편마다 VERIFIED, NOT_FOUND(200 이지만 원문이 없음), UNREACHABLE(4xx, 5xx, 타임아웃, 로그인 벽, PDF 처럼 텍스트를 못 뽑음) 셋 중 하나다. fetch 가 원인 코드(`cause.code`)를 붙인 오류로 실패하면 사유 뒤에 그 코드를 괄호로 붙여 출력한다(예: `fetch failed (UND_ERR_SOCKET)`).
 - `dev/sources.json` 에 URL 별로 첫 확인일, 마지막 확인일, 마지막 결과를 기록한다. `--changed` 와 `--stale` 은 이 기록으로 재확인 범위를 정한다.

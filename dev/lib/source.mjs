@@ -15,11 +15,17 @@ export function normalize(s) {
 const BLOCK_TAGS = ['p', 'br', 'div', 'li', 'ul', 'ol', 'dd', 'dt', 'tr', 'td', 'th', 'table', 'h[1-6]', 'blockquote', 'section', 'article', 'header', 'footer', 'pre', 'hr']
 const BLOCK_TAG_RE = new RegExp(`<(/?(?:${BLOCK_TAGS.join('|')}))(?=[\\s/>])`, 'gi')
 
+const LD_JSON_RE = /<script[^>]*type=["']?application\/ld\+json["']?[^>]*>([\s\S]*?)<\/script>/gi
+const articleBodies = v => !v || typeof v !== 'object' ? [] : Array.isArray(v) ? v.flatMap(articleBodies)
+  : [...(typeof v.articleBody === 'string' ? [v.articleBody] : []), ...Object.entries(v).filter(([k]) => k !== 'articleBody').flatMap(([, x]) => articleBodies(x))]
+
 export function extractText(body, contentType = '') {
   if (/html|xml/i.test(contentType) || /^\s*<(!doctype|html)/i.test(body)) {
     const root = parse(body.replace(BLOCK_TAG_RE, ' <$1'), {blockTextElements: {script: false, style: false, noscript: false}})
+    // ctvnews.ca(Arc) 처럼 본문을 HTML 에 두지 않고 ld+json 의 articleBody 에만 두는 페이지가 있다.
+    const bodies = [...body.matchAll(LD_JSON_RE)].flatMap(m => { try { return articleBodies(JSON.parse(m[1])) } catch { return [] } })
     root.querySelectorAll('script,style,noscript,template').forEach(n => n.remove())
-    return root.textContent
+    return [root.textContent, ...bodies].join(' ')
   }
   if (/^text\/|json/i.test(contentType) || contentType === '') return body
   return null

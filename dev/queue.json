@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T15:45:41.722Z",
-  "nextSeq": 1338,
+  "savedAt": "2026-10-23T18:30:53.873Z",
+  "nextSeq": 1353,
   "stops": 90,
   "items": [
     {
@@ -411,6 +411,62 @@
       "note": "2026-10-23 아하 2025 게시글 더함. 같은 페이지 답변 '피곤하거나, 잠을 잘 못자거나 스트레스를 많이 받는 경우 자주 발생'(같은 URL, 일반론). 닥터나우 qna bdf850dd... (2025-04-07) 기시감이 모든 행동으로 번짐, 하이닥 C0000957516 같은 사연(둘 중 하나만). Brown 초록 stress and fatigue(같은 URL). Rossetti 'Sudden Light'(1863) 문학 후보",
       "createdAt": "2026-10-23T15:45:32.790Z",
       "seq": 1337
+    },
+    {
+      "id": "f25d7645",
+      "title": "difficulty-discarding 보강: SNS 파편, 세대 조건, keeping-belongings-of-the-dead·saving-things-for-best 관계",
+      "priority": 50,
+      "note": "2026-10-23 문학 Bleak House 1853, 학술 Frost 2018 eutils 30041077, 매체 브런치 2026-06-14 로 만듦. 같은 브런치 글 '언젠가 쓸모가 있겠지는 말이 뼈에 각인된 세대' 는 가난했던 세대 조건 후보(같은 URL, 원문 안 따옴표). Wheaton 2020 PMID 32504873 maximizing 과 difficulty discarding 상관. Nordsletten 2013 PMID 23533058 여성 쌍둥이 5022명 유전 요인. keeping-belongings-of-the-dead 를 하위로 둘지 검토. Dead Souls Hogarth 판(pg1081)에 Plushkin 줍기 대목 없음",
+      "createdAt": "2026-10-23T18:08:32.504Z",
+      "seq": 1346
+    },
+    {
+      "id": "25174fb6",
+      "title": "bragging-about-children 보강: 동기·조건 파편, downplaying-praise-of-family 대립 후보, 카톡 프로필 시기",
+      "priority": 50,
+      "note": "2026-10-23 문학 Pride and Prejudice 1813, 매체 이투데이 2007-09-19, 학술 Linney 2017 eutils 27796827, SNS 클리앙 2026-02-18 로 만듦. Linney 같은 초록 '40% of women were angered or annoyed by such comments, less than 5% endorsed a direct hostile response'(같은 URL). Kim 2017 Discourse Studies 한국 부모 대화의 자녀 칭찬은 상대가 먼저 꺼낸다(api.crossref.org/works/10.1177/1461445617715178). 머니투데이 2025-12-06 mt.co.kr/society/2025/12/06/2025120516333894321 카톡 프로필 아이 사진. 레이디경향 2015 단톡방 자랑 lady.khan.co.kr/education/article/201506051025021",
+      "createdAt": "2026-10-23T18:12:06.091Z",
+      "seq": 1347
+    },
+    {
+      "id": "18d9dc98",
+      "title": "understating-age 보강: 학술 파편, 구직 조건(고령 구직자 나이 숨기기), 동기 파편",
+      "priority": 50,
+      "note": "2026-10-23 문학 Earnest 1895, SNS WorkingUS 2011, 매체 GDI 2021·Staffordshire Live 2025 로 만듦. 후보: Berger 2009 Gerontologist PMID 19377045 'conceal age by altering their résumés, physical appearance, and language used'(문장 208자, 다른 대목 필요). cpapracticeadvisor 2026-06-17 50세 이상 구직자 35.3% 나이 언급 피함. GDI 같은 기사 'a third said they tell the lie out of the fear of being judged on their actual truth'(같은 URL, 동기). Staffordshire 같은 문단에 나이를 늘린 응답도 있음(방향 조건). Earnest 같은 장면 'no woman should ever be quite accurate about her age'(같은 URL)",
+      "createdAt": "2026-10-23T18:20:10.395Z",
+      "seq": 1348
+    },
+    {
+      "id": "c1551244",
+      "title": "false-consensus-effect 보강: 매체·SNS·한국어 파편, pluralistic-ignorance 관계",
+      "priority": 50,
+      "note": "2026-10-23 문학 Emma 1815, 학술 Luzsa·Mayr 2019 eutils 31100022, 학술 Long 외 2022 eutils 34505293 로 만듦. Orrù 2023 PMID 37397336 'The false consensus effect consists of an overestimation of how common a subject opinion is among other people'(정의). Duong 2022 PMID 33685307 체벌 부모의 규범 인식. Sparkman 2022 PMID 35999211 기후 정책 지지 과소 추정은 pluralistic-ignorance 쪽. Emma 같은 대목 결혼 케이크 말리기(같은 URL)",
+      "createdAt": "2026-10-23T18:21:47.062Z",
+      "seq": 1349
+    },
+    {
+      "id": "175b86a1",
+      "title": "matchmaking 보강: 학술·SNS 파편, 주선 동기, 다른 시기 파편",
+      "priority": 50,
+      "note": "2026-10-23 문학 Emma 1815, 매체 동행미디어 시대 2016-06-01·2017-03-09 로 만듦. 2017 같은 기사 주선 거절 단골 멘트 '네가 아까워서 소개를 못해주겠어(42%)', 피로한 상황 '두 사람 중 한 사람만 상대를 마음에 들어 할 때(51%)'(같은 URL). 2016 같은 기사 여성 91.3% 주선자 보고 참여 결정(같은 URL). fnnews 2023-07-11 성남시 단체 미팅 행사는 공공 주선 후보. Emma 같은 책 'I have done with match-making indeed'(같은 URL)",
+      "createdAt": "2026-10-23T18:23:35.108Z",
+      "seq": 1350
+    },
+    {
+      "id": "e8abb7a1",
+      "title": "following-peer-fashion 보강: SNS 파편, 못 가진 아이의 소외감, poverty-peer-withdrawal 관계",
+      "priority": 50,
+      "note": "2026-10-23 문학 Anne of Green Gables 1908, 학술 Simpson 1998 eutils 9831881, 매체 경기일보 2012-01-12, 주간경향 2018-12-10 로 만듦. Anne 같은 장면 'They all had puffed sleeves. I tried to imagine mine were puffed, too, but I couldn’t.'(같은 URL). 경기일보 같은 글 노스페이스가 청소년 사이 '계급'(같은 URL). 주간경향 2017-11-28 weekly.khan.co.kr/article/201711281004271 가진 학생과 못 가진 학생의 위화감. Simpson 같은 초록 'tweens were more concerned with style, brand names, and the latest fashion than were older students'(같은 URL)",
+      "createdAt": "2026-10-23T18:27:10.867Z",
+      "seq": 1351
+    },
+    {
+      "id": "181a6d42",
+      "title": "counting-on-inheritance 보강: 학술·한국어 파편, 기대가 행동(저축, 일)에 주는 영향",
+      "priority": 50,
+      "note": "2026-10-23 문학 Middlemarch 1871, 매체 Global News 2016-02-29 로 만듦. 같은 기사 'over 60 per cent of parents' 생전 증여(같은 URL). kiplinger 상속 조사 42% 의미 있는 상속 기대 안 함. fa-mag 31814 Ameriprise 조사. Middlemarch 같은 책 'having Mr. Featherstone’s land in the background' 프레드가 낙담하지 않음(같은 URL)",
+      "createdAt": "2026-10-23T18:29:25.759Z",
+      "seq": 1352
     },
     {
       "id": "e8ba47a7",
