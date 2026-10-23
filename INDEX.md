@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 284개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 285개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -96,6 +96,7 @@
 - [미루기](docs/procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [미어캣 효과](docs/meerkat-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [반려견 목줄 풀어 두기](docs/walking-dog-off-leash.md) ([건강과 위험](groups/health-and-safety.md))
+- [반려동물을 잃은 슬픔](docs/pet-loss-grief.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [반응 없는 게시물 지우기](docs/deleting-posts-with-few-reactions.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [반품 포기](docs/abandoning-returns.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [받은 편지와 메시지 되풀이해 읽기](docs/rereading-received-messages.md) ([메시지와 휴대전화](groups/messages-and-phones.md))

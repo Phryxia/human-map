@@ -2,13 +2,14 @@
 
 사람이 혼자 지내거나 사람과 장소를 잃고 떠난 뒤 느끼고 하는 일이다.
 
-문서 14개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 15개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [거울 속 늙은 얼굴의 낯섦](../docs/aged-face-in-mirror.md) 사람이 거울에 비친 자기 얼굴을 보고 스스로 느끼는 나이보다 늙었다고 여기며 낯설어한다.
 - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md) 가까운 사람을 잃은 사람이 고인이 쓰던 물건과 방을 버리거나 정리하지 않고 그대로 둔다.
 - [고인의 존재를 느끼기](../docs/sensing-presence-of-the-dead.md) 가까운 사람을 잃은 사람이 세상을 떠난 그가 곁에 있다고 느끼거나 그 목소리를 듣는다.
 - [돌아온 고향의 낯섦](../docs/returning-home-feels-strange.md) 오래 떠나 있다가 고향이나 모국으로 돌아온 사람이 그곳이 기억이나 기대와 달라 낯설고 쓸쓸하다고 느낀다.
 - [등교 거부](../docs/school-refusal.md) 학생이 친구 관계나 괴롭힘 같은 학교 안의 어려움으로 학교에 가기를 꺼리고 집에 머문다.
+- [반려동물을 잃은 슬픔](../docs/pet-loss-grief.md) 반려동물이 죽거나 사라진 뒤 그 동물과 함께 살던 사람이 상실감과 슬픔을 겪는다.
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
