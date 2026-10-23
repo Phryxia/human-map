@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T06:33:33.636Z",
-  "nextSeq": 1257,
+  "savedAt": "2026-10-23T06:37:59.883Z",
+  "nextSeq": 1261,
   "stops": 86,
   "items": [
     {
@@ -387,6 +387,14 @@
       "note": "2026-10-23 SNS, 매체, 학술 로 만듦. 후보: pewresearch.org short-reads 2023-04-05 38% 불편(민간 조사기관), anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, news.ycombinator.com/item?id=44735331 2025-07-30 성사를 그르칠까 협상 안 함. 코멘토에 맞는 대목 없음",
       "createdAt": "2026-10-23T06:33:33.487Z",
       "seq": 1256
+    },
+    {
+      "id": "b1d3b96b",
+      "title": "guilt-about-resigning 보강: SNS 파편, 공공 파편, 2000년대 이전 파편",
+      "priority": 50,
+      "note": "2026-10-23 학술, 매체 3 으로 만듦. NBC 2018 글의 다른 대목 'given its finality, taking that final step is nerve-wracking'. GQ 같은 글 '사람들은 결단보다 유예를 택한다'",
+      "createdAt": "2026-10-23T06:37:59.751Z",
+      "seq": 1260
     },
     {
       "id": "e8ba47a7",
@@ -1611,6 +1619,14 @@
       "note": "not-asking-for-loan-back 의 결과 후보. 2026-10-23 탐색: 확인된 후보가 매체뿐. starlingbank 2023-07-07 'This is leading to many people writing off debts to avoid difficult conversations.' 은 not-asking-for-loan-back [^5] 와 같은 URL. PayPal 2015-09-01 'Small, unpaid debts between friends may seem easy to forgive when hoping to avoid awkward conversations' 는 not-asking-for-loan-back [^2] 와 같은 URL. 미열람: newsroom.paypal-corp.com 2024-07-24, cfotech.com.au awkward tax. Gazette Live BACS 기사 402. 학술·SNS·문학 출처 필요",
       "createdAt": "2026-10-23T03:31:56.178Z",
       "seq": 1238
+    },
+    {
+      "id": "0020dbc7",
+      "title": "사직 의사 전하기 미루기",
+      "priority": 10,
+      "note": "2026-10-23 guilt-about-resigning 탐색 중. 그만두기로 정한 사람이 상사에게 말하기 두려워 통보를 미룬다. guilt-about-resigning 이 원인 후보. 당사자 SNS 글 미발견(82cook 연결 끊김, askamanager Cloudflare)",
+      "createdAt": "2026-10-23T06:37:59.621Z",
+      "seq": 1259
     },
     {
       "id": "02b2f242",

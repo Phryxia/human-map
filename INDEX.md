@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 277개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 278개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -124,6 +124,7 @@
 - [삐짐](docs/sulking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사과하지 못하기](docs/apology-reluctance.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사별 뒤 후회](docs/bereavement-regret.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [사직 앞의 죄책감](docs/guilt-about-resigning.md) ([일터와 일자리](groups/work.md))
 - [사칭 전화에 겁먹고 따르기](docs/complying-with-impersonation-calls.md) ([돈과 소비](groups/money.md))
 - [사회불안의 안전 행동](docs/social-anxiety-safety-behaviors.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [사회적 상황 앞의 예기불안](docs/anticipatory-social-anxiety.md) ([남의 시선과 창피함](groups/others-gaze.md))
