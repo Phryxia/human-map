@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T03:16:24.138Z",
-  "nextSeq": 1227,
+  "savedAt": "2026-10-23T03:17:15.968Z",
+  "nextSeq": 1229,
   "stops": 85,
   "items": [
     {
@@ -91,14 +91,6 @@
       "note": "2026-10-22 문서 만듦. unige:195353 (2026) 제목 'how boredom and procrastination disrupt prospective memory', 초록 'intentions perceived as boring were more likely to be postponed, which in turn was associated with more frequent PM failures'(같은 URL 이라 [^6] 과 함께 못 씀, 다른 출처 필요). unige:195352 (2026) 'Reminder use was selectively associated with external causes rather than forgetting.' 반대 조건 후보. 결과 간선 후보: 미래 기억 실패 뒤 기분 저하(ideas.repec Mogle 2019 [^4]). 한국어 게시판 글 미발견",
       "createdAt": "2026-10-22T22:39:51.177Z",
       "seq": 1109
-    },
-    {
-      "id": "89e76376",
-      "title": "believing-reporting-is-futile 보강: 한국어 SNS 파편, 경찰 경험 조건",
-      "priority": 50,
-      "note": "2026-10-22 매일신문 1999, Straight Dope 2006 게시글 더함. 남은 후보: camdennewjournal.co.uk/article/your-bike-has-been-stolen-but-is-it-worth-calling-police (2021-10-18) 'At the minute I don’t know why anyone would bother reporting to them because it seems so hopeless.' 신고 뒤 접수번호만 받은 경험(조건). 지식iN·클리앙·뽐뿌·82cook·보배드림 '신고해봤자' 검색 결과 없음. bjs 1985 Reporting Crimes to the Police 문장 247자",
-      "createdAt": "2026-10-22T22:50:03.270Z",
-      "seq": 1111
     },
     {
       "id": "d1ffeddd",
@@ -347,6 +339,14 @@
       "note": "2026-10-23 SNS 네이트 판 2022, 학술 NBER w32491 2024 더함. 후보: seoul.co.kr/news/2023/11/24/20231124500091 '이들은 모조품 구매를 부끄러워하기보다 일종의 문화처럼 받아들이고 있다'(2023 짝퉁을 숨기지 않음, 시기 비교). NBER 같은 초록 '(1) people perceived to be of very low rank are considered more likely to be sidelined' 는 같은 URL. 같은 판 글 '옷도 비싼 브랜드 여러개 입고 다니고 과시했음' 은 showing-off-possessions 쪽(같은 URL). poverty-shame 원인 간선은 '때문에' 문장 필요",
       "createdAt": "2026-10-23T03:16:24.021Z",
       "seq": 1226
+    },
+    {
+      "id": "44783cdb",
+      "title": "believing-reporting-is-futile 보강: 한국어 SNS 파편, 경찰 경험 조건",
+      "priority": 50,
+      "note": "2026-10-23 camdennewjournal 2021-10-18 더함. 같은 기사 'There needs to be a revamp of the way the police handle bike theft' 는 같은 URL. 지식iN·클리앙·뽐뿌·82cook·보배드림 '신고해봤자' 검색 결과 없음(2026-10-22). bjs 1985 Reporting Crimes to the Police 문장 247자",
+      "createdAt": "2026-10-23T03:17:15.875Z",
+      "seq": 1228
     },
     {
       "id": "e8ba47a7",
