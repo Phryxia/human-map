@@ -2,7 +2,7 @@
 
 사람이 가치, 확률, 시간을 어림할 때 한쪽으로 기우는 판단이다.
 
-문서 14개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 15개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [계획 오류](../docs/planning-fallacy.md) 일을 계획하는 사람이 그 일에 들 시간과 품을 실제보다 적게 어림한다.
 - [기준점 의존](../docs/reference-dependence.md) 결과를 받은 사람이 그 결과의 절대 크기보다 동료의 몫이나 자기 기대 같은 기준과 비교해 만족하거나 불만을 느낀다.
@@ -17,4 +17,5 @@
 - [평균 이상 효과](../docs/better-than-average-effect.md) 사람이 자기 능력과 성격을 같은 처지의 평균적인 사람보다 낫다고 평가한다.
   - [운전 실력 과신](../docs/driving-overconfidence.md)
 - [학습된 무력감](../docs/learned-helplessness.md) 피할 수 없는 나쁜 일을 겪은 사람이 나중에 그 일을 피하거나 바꿀 수 있을 때에도 시도하지 않는다.
+- [허위 합의 효과](../docs/false-consensus-effect.md) 사람이 자기와 같은 생각이나 취향인 사람이 실제보다 많다고 여긴다.
 - [후회 회피](../docs/regret-aversion.md) 사람이 결정 뒤에 느낄 후회를 미리 떠올리고 그 후회를 피하는 쪽으로 고르거나 결정을 미룬다.
