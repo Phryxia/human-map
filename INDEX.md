@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 288개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 289개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -243,6 +243,7 @@
 - [증상을 읽고 병을 의심하기](docs/reading-symptoms-and-suspecting-illness.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [지나치게 일찍 도착하기](docs/arriving-too-early.md) ([시간과 하루 습관](groups/daily-time.md))
 - [지난 창피한 일 떠올리며 몸서리치기](docs/cringing-at-past-embarrassment.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [지루함](docs/boredom.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [직장 내 괴롭힘 참고 넘기기](docs/enduring-workplace-harassment.md) ([일터와 일자리](groups/work.md))
 - [진료 회피](docs/medical-care-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))
