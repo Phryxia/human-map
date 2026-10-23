@@ -10,6 +10,8 @@
 
 2015년 댓글[^3]의 글쓴이는 일을 그만둘 결정을 내리지 못해 하루 아프다고 하고 결근한 뒤 2주 동안 집에 있었고 속으로는 해고되기를 바랐다고 썼다. 2017년 연구[^4]는 환자가 병가가 필요하다는 주관적 증상을 말하면 의사는 그 환자가 정말 아픈지 일을 피하려는 사람인지 가려낼 수 없다고 적는다.
 
+2026년 댓글[^5]의 글쓴이는 아프다고 하고 결근하자 회사가 꽃을 보냈고 나중에 거짓말이 드러나자 회사가 화를 냈다고 썼다.
+
 # 관계
 
 ## 상위
@@ -38,3 +40,4 @@
 [^2]: [매체] "A new survey reveals that many Canadian employees have used sick leave for days when they were healthy." (새 조사에 따르면 캐나다 직장인 다수가 건강한 날에 병가를 썼다.) — Caitlin Nobes, "Half of Canadian employees have “pulled a sickie”", Human Resources Director, 2013-05-24, https://www.hcamag.com/nz/archived/half-of-canadian-employees-have-pulled-a-sickie/138637, 2026-10-23 접속
 [^3]: [SNS] "Unable to make the decision to quit, I called in sick one day, and then stayed home for 2 weeks, I was secretly hoping to be fired." (그만둘 결정을 내리지 못해 하루 아프다고 결근했고 그 뒤 2주 동안 집에 있었다. 속으로는 해고되기를 바랐다.) — Hacker News, 댓글, 2015-04-11, https://news.ycombinator.com/item?id=9359606, 2026-10-23 접속
 [^4]: [학술] "if a patient reports subjective symptoms indicating a need for sick leave, the physician is unable to tell if the patient is truly sick or a shirker." (환자가 병가가 필요하다는 주관적 증상을 말하면 의사는 그 환자가 정말 아픈지 일을 피하는 사람인지 가려낼 수 없다.) — Benedicte Carlsen, Karine Nyborg, "Healer or Gatekeeper? Physicians' Role Conflict When Symptoms Are Non-Verifiable", IZA Discussion Paper 10735, 2017-04, https://www.iza.org/publications/dp/10735, 2026-10-23 접속
+[^5]: [SNS] "One time I called in sick to work, they even sent me flowers. Later they found out I was lying and wasn't really sick and they got angry about it." (한번은 아프다고 결근했더니 회사가 꽃까지 보냈다. 나중에 내가 거짓말을 했고 정말 아프지 않았다는 것을 알고 화를 냈다.) — Hacker News, 댓글, 2026-08-07, https://news.ycombinator.com/item?id=49208807, 2026-10-23 접속
