@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T06:21:35.207Z",
-  "nextSeq": 1251,
+  "savedAt": "2026-10-23T06:26:14.758Z",
+  "nextSeq": 1253,
   "stops": 86,
   "items": [
     {
@@ -363,6 +363,14 @@
       "note": "2026-10-23 학술 2, 공공, 매체 로 만듦. 후보: Pransky 1999 Ergonomics PMID 9973879 'fear of reprisal'(HTML 미열람), govinfo FR-2016-05-12 2016-10443 동료 실망 두려움, cdc.gov/niosh/bulletin/2021/neiss-work.html 낙인·징계 두려움, newsis NISX20210305_0001360742 38.7% 공상(제목에 회사명). 한국어 게시판 글 미발견",
       "createdAt": "2026-10-23T06:21:35.025Z",
       "seq": 1250
+    },
+    {
+      "id": "57951592",
+      "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-10-23 학술, 공공, SNS, 매체 로 만듦. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의(당파 보도자료), news.ycombinator.com/item?id=9489263 2015-05-04 같은 이유로 못 그만둠. gao.gov, bls.gov 403, cbo.gov JS, reddit 403",
+      "createdAt": "2026-10-23T06:26:14.599Z",
+      "seq": 1252
     },
     {
       "id": "e8ba47a7",
