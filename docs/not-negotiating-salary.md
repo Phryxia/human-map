@@ -12,6 +12,8 @@
 
 2023년 미국 조사 보고[^4]에서 첫 연봉을 협상하지 않은 사람의 38%는 더 많은 급여를 요구하기가 편하지 않았다고 답했다. 2023년 학회 초록[^5]에서 전공의 과정을 마친 여성 의사들이 첫 직장 협상을 하지 않은 이유로 든 것은 제안이 철회될까 하는 두려움, 무엇을 협상할 수 있는지 모른다는 것, 제시된 연봉을 전공의 시절 소득과 견준 것이었다. 2025년 Hacker News 댓글[^6]의 글쓴이는 정말 일하고 싶던 회사에서 계약을 매듭짓고 싶어 연봉 협상으로 일을 그르치지 않으려고 협상하지 않았다고 썼다.
 
+2025년 뉴스레터 에세이[^7]의 필자는 회사도 좋고 입사할 마음도 있는 사람이 제안받은 연봉이 아쉬워도 한마디 더 했다가 모든 게 무너질까 봐 입을 다문다고 적었다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^4]: [매체] "A similar share (38%) say they didn’t feel comfortable asking for higher pay, and 23% say there was some other reason." (비슷한 비율(38%)은 더 높은 급여를 요구하기가 편하지 않았다고 답했고 23%는 다른 이유가 있었다고 답했다.) — Pew Research Center, "When negotiating starting salaries, most U.S. women and men don’t ask for higher pay", 2023-04-05, https://www.pewresearch.org/short-reads/2023/04/05/when-negotiating-starting-salaries-most-us-women-and-men-dont-ask-for-higher-pay/, 2026-10-23 접속
 [^5]: [학술] "Reasons for not negotiating included fearing the job offer would be revoked, not knowing what was negotiable, and comparing the salary they were offered to what was earned during residency." (협상하지 않은 이유로는 제안이 철회될까 하는 두려움, 무엇을 협상할 수 있는지 모름, 제시된 연봉을 전공의 시절 소득과 비교한 것이 있었다.) — A. Koempel, Z. Morgan, A. Bazemore, Y. Jabbarpour 외, "“This Seemed More Negotiable:” How Early Career Women Physicians Negotiate Their First Job After Residency", Annals of Family Medicine 21(Supplement 3), 2023-11-01, https://www.annfammed.org/content/21/Supplement_3/4776, 2026-10-23 접속
 [^6]: [SNS] "Company I really wanted to work for. Wanted to close the deal. So I didn't gum up the works with salary negotiation" (정말 일하고 싶던 회사였다. 계약을 매듭짓고 싶었다. 그래서 연봉 협상으로 일을 그르치지 않았다) — Hacker News, 댓글, 2025-07-30, https://news.ycombinator.com/item?id=44735331, 2026-10-24 접속
+[^7]: [매체] "회사도 좋고, 입사할 마음도 있는데 제안받은 연봉이 조금 아쉬운 상황. 하지만 한마디 더 했다가 모든 게 무너질까 봐 입을 다물게 되죠." — 정구철, 「연봉협상. 여기서 멈추지 마세요.」, 이직의 정석, 메일리, 2025-11-27, https://maily.so/mseed/posts/8mo54genz9p, 2026-10-24 접속
