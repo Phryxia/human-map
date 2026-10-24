@@ -194,6 +194,7 @@
 - [에너지 요금 때문에 식비 줄이기](docs/heat-or-eat.md) ([돈과 소비](groups/money.md))
 - [엘리베이터 안의 침묵](docs/elevator-silence.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [연봉 협상하지 않기](docs/not-negotiating-salary.md) ([일터와 일자리](groups/work.md))
+- [연애 기피](docs/avoiding-dating.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연애 질투](docs/romantic-jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인과의 다툼](docs/partner-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 휴대폰 몰래 보기](docs/snooping-on-partners-phone.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -24,6 +24,7 @@
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)
   - [좋아하는 상대 괴롭히기](../docs/teasing-someone-liked.md)
 - [엉뚱한 대상에게 화풀이하기](../docs/displaced-aggression.md) 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
+- [연애 기피](../docs/avoiding-dating.md) 교제 상대가 없는 미혼자가 연애나 교제를 바라지 않거나 혼자가 편하다며 이성을 만나지 않는다.
 - [연애 질투](../docs/romantic-jealousy.md) 연인을 둔 사람이 연인 곁의 경쟁자나 사소한 단서를 보고 연인을 의심하며 괴로워한다.
 - [연인과의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 - [연인의 휴대폰 몰래 보기](../docs/snooping-on-partners-phone.md) 배우자나 연인의 휴대전화를 그 사람 몰래 열어 본다.

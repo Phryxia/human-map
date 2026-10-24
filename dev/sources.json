@@ -9161,5 +9161,17 @@
     "last": "2026-10-24",
     "result": "VERIFIED",
     "lastVerified": "2026-10-24"
+  },
+  "https://www.ipss.go.jp/ps-doukou/j/doukou15/report15html/NFS15R_html03.html": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.segye.com/view/20231116516323": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
   }
 }
