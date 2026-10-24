@@ -8420,21 +8420,21 @@
   },
   "https://www.gutenberg.org/cache/epub/550/pg550-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://knowledge.wharton.upenn.edu/?p=6610": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.russellsage.org/node/4432": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://gangdong.go.kr/web/newportal/press/6190": {
     "first": "2026-10-23",
@@ -9199,6 +9199,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.hankyung.com/article/202609081264H": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.clien.net/service/board/park/19148358": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
