@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:08:53.041Z",
-  "nextSeq": 1396,
+  "savedAt": "2026-10-24T03:18:19.812Z",
+  "nextSeq": 1398,
   "stops": 93,
   "items": [
-    {
-      "id": "ee79f695",
-      "title": "fighting-over-the-bill 보강: 문학 파편, dodging-the-bill 과 대립, 호혜·체면 원인",
-      "priority": 50,
-      "note": "2026-10-23 SNS 클리앙 2007, 매체 매일신문 2009·Takeout 2018·위키트리 2026, 학술 arXiv 2509.01035 로 만듦. 후보: imaeil 같은 글 '부득부득 자신이 계산하겠다는 한국인에게 몇 번 얻어먹게 되지만'(같은 URL, 호혜), 위키트리 같은 글 '밥값을 내겠다는 행동에는 경제적 능력뿐 아니라 체면과 자존심도 포함돼 있다'(같은 URL, 원인 간선 후보), Takeout 같은 글 가족 계산서 낚아채기(201자). 미확인 블로그: chinastory.cn, marcopolomandarin.com, mabelkwong.com",
-      "createdAt": "2026-10-23T03:28:38.884Z",
-      "seq": 1236
-    },
     {
       "id": "d53dad84",
       "title": "walking-while-using-phone 보강: 2012 이전 파편, phone-use-while-driving 과 관계",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 Tolstoy 1886 Wikisource VI장, HN 9547178 2015 더함. 후보: christiantoday.com/news/why-dont-we-talk-about-death (2014-05-13) Dying Matters 조사 'approximately 80 per cent of people do not discuss death because they believe that it makes others uncomfortable'. nbcnews.com/news/amp/wbna6011726 (2004) 부모 3분의 2가 죽어 가는 아이와 죽음 이야기를 안 함. thegazette.co.uk/all-notices/content/100090 72% 불편",
       "createdAt": "2026-10-24T03:08:52.929Z",
       "seq": 1395
+    },
+    {
+      "id": "58956e2b",
+      "title": "fighting-over-the-bill 보강: dodging-the-bill 과 대립, 호혜·체면 원인",
+      "priority": 50,
+      "note": "2026-10-24 Williams 1918 Wikisource 9장 더함. 후보: en.wikisource.org/wiki/The_Diary_of_a_Nobody/Chapter_3 (1892) 'Mr. James each time insisted on paying for all'(되갚기, 실명 꼴 이름 있음), gutenberg pg8868 Botchan 6장 1906 얼음물값 동전 밀어내기(대접 거절, 부채감 후보). 위키트리 '체면과 자존심' 은 같은 URL",
+      "createdAt": "2026-10-24T03:18:19.678Z",
+      "seq": 1397
     },
     {
       "id": "e8ba47a7",
