@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 300개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 301개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -72,6 +72,7 @@
 - [답장 기다리며 초조해하기](docs/waiting-for-a-reply.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [답장 미루기](docs/delaying-message-replies.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [답하지 않은 뒤의 수치감](docs/shame-after-unanswered-message.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [대중교통 무임승차](docs/fare-evasion.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [대피 미루기](docs/delayed-evacuation.md) ([건강과 위험](groups/health-and-safety.md))
 - [대화 뒤 되짚기](docs/replaying-conversations-afterward.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [도박사의 오류](docs/gamblers-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))

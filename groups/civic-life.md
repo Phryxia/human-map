@@ -2,7 +2,7 @@
 
 사람이 투표, 기부, 신고, 봉사 같은 공공의 일에 참여하거나 참여하지 않는 일이다.
 
-문서 14개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 15개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [과다복용 현장에서 신고 꺼리기](../docs/not-calling-for-help-at-overdose.md) 약물 과다복용을 목격한 사람이 경찰이 오거나 체포될까 두려워 구급 신고를 하지 않거나 미룬다.
 - [기부하지 않기](../docs/not-donating.md) 기부를 요청받거나 기부를 떠올린 사람이 형편이 안 된다거나 단체를 믿을 수 없다는 이유로 돈을 내지 않거나 더 내지 않는다.
@@ -11,6 +11,7 @@
   - [신고해도 소용없다는 믿음](../docs/believing-reporting-is-futile.md)
 - [다원적 무지](../docs/pluralistic-ignorance.md) 집단 안의 사람이 속으로는 이해하지 못하거나 동의하지 않으면서 다른 사람들은 이해하거나 동의한다고 믿고 겉으로 따른다.
   - [또래 음주량 과대 추정](../docs/overestimating-peer-drinking.md)
+- [대중교통 무임승차](../docs/fare-evasion.md) 대중교통 승객이 단속에 걸리지 않으리라 여기거나 돈을 아끼려고 요금을 내지 않거나 덜 내고 탄다.
 - [범죄 피해 신고하지 않기](../docs/not-reporting-crime.md) 범죄 피해를 당한 사람이 경찰에 알리지 않고 넘어간다.
   - [보복이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-reprisal.md)
 - [분리배출 하지 않기](../docs/not-sorting-recyclables.md) 가정에서 재활용할 수 있는 쓰레기를 사람이 분리하지 않고 일반 쓰레기와 함께 버린다.
