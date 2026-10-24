@@ -9695,5 +9695,11 @@
     "last": "2026-10-24",
     "result": "VERIFIED",
     "lastVerified": "2026-10-24"
+  },
+  "https://news.seoul.go.kr/traffic/archives/3117": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
   }
 }
