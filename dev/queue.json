@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T12:30:57.852Z",
+  "savedAt": "2026-10-24T12:37:02.844Z",
   "nextSeq": 1531,
   "stops": 96,
   "items": [
@@ -1899,14 +1899,6 @@
       "note": "loss-chasing 결과 간선 후보. openjournals.ljmu.ac.uk/PJMR/article/view/3448 (2026-01-06) 'losses are experienced as highly emotional events, frequently leading to loss-chasing behaviour that intensifies subsequent risk-taking.' wikitree 1148428 (2026-07-25) 주식 물타기. disposition-effect 와 loss-chasing 인과 문장은 2026-10-24 탐색에서 미발견(evidenceinvestor 등은 출처 없는 주장)",
       "createdAt": "2026-10-24T09:28:45.825Z",
       "seq": 1515
-    },
-    {
-      "id": "3f5f3744",
-      "title": "쉬는 데 죄책감 느끼기",
-      "priority": 10,
-      "note": "2026-10-24 skipping-lunch-break 작업 중. safetyandhealthmagazine.com/20259 (2020-09-01) 'Some employees feel anxious and guilty about taking breaks', eprints.staffs.ac.uk/6315 Results 'contradictory feelings of guilt and anxiety'. skipping-lunch-break, unused-annual-leave 와 원인 간선 후보",
-      "createdAt": "2026-10-24T12:16:43.695Z",
-      "seq": 1524
     },
     {
       "id": "1e775077",

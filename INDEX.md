@@ -164,6 +164,7 @@
 - [손실 회피](docs/loss-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [손톱 물어뜯기](docs/nail-biting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [수줍은 방광](docs/shy-bladder.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [쉬는 데 죄책감 느끼기](docs/guilt-about-resting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [스마트폰 확인 습관](docs/smartphone-checking-habit.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [시간 부족으로 운동하지 않기](docs/no-time-to-exercise.md) ([시간과 하루 습관](groups/daily-time.md))
 - [시간에 쫓기는 느낌](docs/feeling-rushed.md) ([시간과 하루 습관](groups/daily-time.md))
