@@ -48,7 +48,7 @@ export function members(group, docs) {
 
 export function groupPage(group, docs) {
   const roots = group.roots.map(id => docs.get(id)).filter(Boolean).sort(byTitle)
-  const L = [`# ${group.title}`, '', group.summary, '', `문서 ${members(group, docs).size}개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)`, '']
+  const L = [`# ${group.title}`, '', group.summary, '', '[문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)', '']
   for (const d of roots) L.push(...tree(d, docs, 0, new Set([d.id]), '../docs/', true))
   return L.join('\n') + '\n'
 }
@@ -56,10 +56,10 @@ export function groupPage(group, docs) {
 export function indexPage(docs, groups) {
   const of = new Map()
   for (const g of groups) for (const id of members(g, docs)) of.set(id, [...(of.get(id) ?? []), g])
-  const L = ['# 전체 문서 목록', '', `문서 ${docs.size}개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.`, '']
+  const L = ['# 전체 문서 목록', '', '전체 문서를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.', '']
   for (const d of [...docs.values()].sort(byTitle)) L.push(`- [${d.title}](docs/${d.id}.md) (${(of.get(d.id) ?? []).map(g => `[${g.title}](groups/${g.id}.md)`).join(', ') || '묶음 없음'})`)
   return L.join('\n') + '\n'
 }
 
 // README 의 묶음 목록 줄
-export const groupLines = (docs, groups) => groups.map(g => `- [${g.title}](groups/${g.id}.md) (${members(g, docs).size}) ${g.summary}`)
+export const groupLines = (docs, groups) => groups.map(g => `- [${g.title}](groups/${g.id}.md) ${g.summary}`)

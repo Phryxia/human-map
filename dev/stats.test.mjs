@@ -25,9 +25,10 @@ test('문서 묶음: README 는 묶음 링크만, 묶음 문서는 상위 아래
   const groups = [{id: 'money', title: '돈', summary: '돈 이야기다.', roots: ['b']}, {id: 'rel', title: '관계', summary: '관계 이야기다.', roots: ['c']}]
   const out = buildOutputs(docs, '', groups)
   const r = out.get('README.md')
-  assert.match(r, /# 문서 묶음\n\n.*\n\n- \[돈\]\(groups\/money\.md\) \(2\) 돈 이야기다\.\n- \[관계\]\(groups\/rel\.md\) \(1\) 관계 이야기다\.\n/)
+  assert.match(r, /# 문서 묶음\n\n.*\n\n- \[돈\]\(groups\/money\.md\) 돈 이야기다\.\n- \[관계\]\(groups\/rel\.md\) 관계 이야기다\.\n/)
   assert.doesNotMatch(r, /docs\/a\.md/)
-  assert.match(out.get('groups/money.md'), /^# 돈\n\n돈 이야기다\.\n\n문서 2개\..*\n\n- \[나\]\(\.\.\/docs\/b\.md\) 사람이 어떤 상황에서 무언가를 한다\.\n  - \[가\]\(\.\.\/docs\/a\.md\)\n$/)
+  for (const t of out.values()) assert.doesNotMatch(t, /문서 \d+개|\(\d+\)/)
+  assert.match(out.get('groups/money.md'), /^# 돈\n\n돈 이야기다\.\n\n\[문서 묶음\].*\n\n- \[나\]\(\.\.\/docs\/b\.md\) 사람이 어떤 상황에서 무언가를 한다\.\n  - \[가\]\(\.\.\/docs\/a\.md\)\n$/)
   assert.match(out.get('INDEX.md'), /- \[가\]\(docs\/a\.md\) \(\[돈\]\(groups\/money\.md\)\)\n- \[나\]\(docs\/b\.md\) .*\n- \[다\]\(docs\/c\.md\) \(\[관계\]\(groups\/rel\.md\)\)\n$/)
 })
 
