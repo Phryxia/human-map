@@ -10,7 +10,7 @@
 
 2012년 빅토리아주 감사원은 승객이 발권 체계를 이해하지 못하거나 기계가 고장 나 표를 사거나 찍지 못한 경우를 비의도적 무임승차로 나눴다.[^3] 2016년 Delbosc 와 Currie 의 연구는 이득이 위험보다 크다고 여길 때 일부러 무임승차하는 유형과 늘 무임승차하는 유형을 구분했다.[^4] 2017년 Currie 와 Delbosc 의 모형에서 의도적 무임승차를 설명한 주된 요인은 정직성, 무임승차가 쉽다는 인식, 무임승차에 관대한 태도였다.[^6]
 
-2016년 서울시 기사는 부정승차자의 핑계와 수법이 다양해지고 직원 몰래 게이트를 넘거나 비상 게이트로 빠져나가는 사람이 있다고 적었다.[^5] 2023년 amNewYork 기사에서 개찰구를 뛰어넘는 승객 일부는 늦었거나 지갑을 두고 온 상황에서 충동적으로 그렇게 했다.[^7] 2025년 경향신문 기사에서 적발된 한 승객은 생활비 몇 푼을 아끼려 했고 벌금 낼 돈이 없다고 말했다.[^8]
+2016년 서울시 기사는 부정승차자의 핑계와 수법이 다양해지고 직원 몰래 게이트를 넘거나 비상 게이트로 빠져나가는 사람이 있다고 적었다.[^5] 2023년 amNewYork 기사에서 개찰구를 뛰어넘는 승객 일부는 늦었거나 지갑을 두고 온 상황에서 충동적으로 그렇게 했다.[^7] 2025년 경향신문 기사에서 적발된 한 승객은 생활비 몇 푼을 아끼려 했고 벌금 낼 돈이 없다고 말했다.[^8] 2026년 클리앙 게시글[^9]의 글쓴이는 출근길 개찰구에서 나이 든 사람이 자기 뒤에 바짝 붙어 요금을 내지 않고 따라 들어왔다고 적었다.
 
 # 관계
 
@@ -44,3 +44,4 @@
 [^6]: [학술] "The ‘deliberate’ evasion model showed that honesty attributes, perceived ease of evasion and permissive attitudes to evasion were the key explanatory factors." (의도적 무임승차 모형에서는 정직성 특성, 무임승차가 쉽다는 인식, 무임승차에 관대한 태도가 주된 설명 요인이었다.) — Graham Currie, Alexa Delbosc, "An empirical model for the psychology of deliberate and unintentional fare evasion", Transport Policy, 2017, https://www.worldtransitresearch.info/research/6322, 2026-10-24 접속
 [^7]: [매체] "Some riders who choose to leap instead of swipe are acting out of impulse. Maybe they’re running late or left their wallet at home." (카드를 찍는 대신 뛰어넘기를 택하는 승객 일부는 충동으로 그렇게 한다. 늦었거나 지갑을 집에 두고 왔을 수 있다.) — amNewYork, "SPECIAL REPORT | The NYPD is on a mission to stop fare evasion. Here’s why it matters.", 2023-11-14, https://www.amny.com/new-york/manhattan/the-villager/fare-evasion-nypd-how-and-why, 2026-10-24 접속
 [^8]: [매체] "“생활비 몇푼 아끼려고 그랬어요. 이번이 처음입니다. 죄송하지만 벌금 낼 돈이 없어요.”" — 경향신문, "'청년카드' 쓰는 부모, '경로카드' 쓰는 자녀···지하철 부정승차 단속해보니", 2025-07-09, https://www.khan.co.kr/article/202507090600101, 2026-10-24 접속
+[^9]: [SNS] "뒤로 바짝 붙어서 들어오던 분이 절 발판삼아 무임승차하셨던 거네요;;;" — 클리앙, 게시글, 2026-09-18, https://www.clien.net/service/board/park/19265313, 2026-10-24 접속
