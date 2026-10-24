@@ -3765,9 +3765,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2148/pg2148-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://ko.wikisource.org/wiki/%EC%86%A5": {
     "first": "2026-10-19",
@@ -7730,15 +7730,15 @@
   },
   "https://www.nbcnews.com/healthmain/weird-urge-jump-bridge-explained-424037": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22119089&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/785/pg785-images.html": {
     "first": "2026-10-23",
@@ -8510,15 +8510,15 @@
   },
   "https://www.clien.net/service/board/park/6275332": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/park/18793236": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/park/2416308": {
     "first": "2026-10-23",
@@ -9247,6 +9247,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/park/3072617": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.koreahealthlog.com/news/articleView.html?idxno=40013": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
