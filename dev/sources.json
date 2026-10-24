@@ -8618,21 +8618,21 @@
   },
   "https://www.etoday.co.kr/news/view/140572": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27796827&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/park/19145981": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/844/pg844-images.html": {
     "first": "2026-10-23",
@@ -9295,6 +9295,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://rossettiarchive.iath.virginia.edu/docs/1-1881.sigr3.del.rad.html": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.mt.co.kr/society/2025/12/06/2025120516333894321": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
