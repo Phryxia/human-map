@@ -47,6 +47,8 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
   if (!FILE_RE.test(doc.id + '.md')) err(1, '파일명이 규격이 아니다')
   if (!doc.title) err(1, '제목이 없다')
   if (doc.aliases === null || doc.aliases === '') err(3, '별칭 줄이 없다')
+  // GitHub 은 ~ 두 개 사이를 취소선으로 그린다(이슈 #13). URL 안의 ~ 는 링크다.
+  doc.lines.forEach((l, i) => { if (/(?<!\\)~/.test(l.replace(/https?:\/\/\S+/g, ''))) err(i + 1, '물결은 \\~ 로 쓴다') })
   if (!doc.summary || !/^[^.]+\.$/.test(doc.summary)) err(5, '요약은 마침표 하나로 끝나는 한 문장이어야 한다')
   const h1 = doc.headings.filter(h => h.level === 1).map(h => h.text)
   if (h1.join('|') !== SECTIONS.join('|')) err(1, `헤딩이 ${SECTIONS.join(', ')} 순서와 다르다 (${h1.join(', ')})`)
@@ -84,6 +86,14 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
       // 따옴표 안(인용한 말)은 빼고 본다
       for (const m of p.text.replace(/"[^"]*"|“[^”]*”/g, '').matchAll(MENTION_RE)) err(p.ln, `본문이 파편을 번호(${m[0]})로 부른다. 각주 [^n] 로 가리킨다`)
     }
+  }
+  // 별칭마다 그 이름이 원문이나 서지에 든 파편을 각주로 단다(이슈 #9)
+  const anorm = s => s.toLowerCase().replace(/[\s\-‐–—_'’"“”·・.,()]/g, '')
+  for (const a of doc.aliasList) {
+    if (!a.refs.length) { err(doc.aliasLn, `별칭에 사용례 각주가 없다: ${a.name}`); continue }
+    for (const r of a.refs) { used.add(r); if (!nums.has(r)) err(doc.aliasLn, `없는 파편 [^${r}] 를 가리킨다`) }
+    const fs = doc.fragments.filter(f => a.refs.includes(f.n))
+    if (fs.length && !fs.some(f => anorm(f.quote + ' ' + f.biblio).includes(anorm(a.name)))) err(doc.aliasLn, `각주의 원문과 서지에 별칭이 없다: ${a.name}`)
   }
   for (const [rel, edges] of Object.entries(doc.rel)) for (const e of edges ?? []) for (const r of e.frags) { used.add(r); if (!nums.has(r)) err(e.ln, `없는 파편 [^${r}] 를 가리킨다`) }
   for (const f of doc.fragments) if (!used.has(f.n)) err(f.ln, `참조되지 않은 파편 [^${f.n}]`)

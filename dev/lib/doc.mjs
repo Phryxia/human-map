@@ -27,14 +27,14 @@ export function listDocIds(dir = DOCS) {
 export function parseFragment(line) {
   const m = FRAG_RE.exec(line)
   if (!m) return null
-  const [, n, kind, quote, translation, biblio, date, url, accessed, unverified, vanished] = m
+  const [, n, kind, quote, translation, biblio, date, url, accessed, unverified, vanished] = m.map(x => x?.replace(/\\~/g, '~'))
   return {n: Number(n), kind, quote, translation, biblio, date, url, accessed, unverified: !!unverified, vanished: vanished ?? null, line}
 }
 
 export function parseDoc(id, dir = DOCS) {
   const file = path.join(dir, id + '.md')
   const lines = fs.readFileSync(file, 'utf8').replace(/\n+$/, '').split('\n')
-  const doc = {id, file, lines, title: null, aliases: null, summary: null, sections: {}, headings: [], fragments: [], badFragLines: [], badRelLines: [], strayLines: [], rel: {}, tags: [], tagLine: null, tagLn: null}
+  const doc = {id, file, lines, title: null, aliases: null, aliasList: [], aliasLn: 3, summary: null, sections: {}, headings: [], fragments: [], badFragLines: [], badRelLines: [], strayLines: [], rel: {}, tags: [], tagLine: null, tagLn: null}
   for (const r of REL_SECTIONS) doc.rel[r] = null
   // 태그 줄은 태그 꼴인 마지막 줄이고, 없으면 각주 정의와 빈 줄을 뺀 마지막 줄 자리다
   const TAG_RE = /^(#[가-힣a-z0-9_]+)( #[가-힣a-z0-9_]+)*$/
@@ -62,7 +62,11 @@ export function parseDoc(id, dir = DOCS) {
     }
     if ((m = /^## (.*)$/.exec(text))) { h2 = m[1]; doc.headings.push({level: 2, text: h2, ln, parent: h1}); if (h1 === '관계') doc.rel[h2] ??= []; return }
     if (h1 === null) {
-      if (text.startsWith('별칭:')) doc.aliases = text.slice(3).trim()
+      if (text.startsWith('별칭:')) {
+        doc.aliases = text.slice(3).trim(); doc.aliasLn = ln
+        // 별칭마다 사용례 각주가 붙는다: 우월 착각[^2], Better-than-average effect[^3]
+        doc.aliasList = doc.aliases === '없음' ? [] : doc.aliases.split(/,\s*(?![^\[]*\])/).map(a => ({name: a.replace(/(?:\[\^\d+\])+$/, '').trim(), refs: refsIn(a.match(/(?:\[\^\d+\])+$/)?.[0] ?? '')}))
+      }
       else if (text.trim() && doc.summary === null) doc.summary = text.trim()
       return
     }

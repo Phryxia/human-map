@@ -133,3 +133,24 @@ test('각주 없는 문장 뒤 문장 끝에 출처 둘 이상을 묶으면 ERRO
   const ok = ['2009년 조사[^1]에서 다수는 그렇게 했다. 2010년 조사에서는 달랐다.[^2]', '한 출처의 첫 문장이다. 같은 출처의 둘째 문장이다.[^1]\n\n두 출처가 같은 말을 한다.[^1][^2]']
   for (const body of ok) assert.ok(![...errs(loadAll(makeRepo({a: makeDoc({body})}))), ...warns(loadAll(makeRepo({a: makeDoc({body})})))].some(x => x.includes('출처가 다른 문장')), body)
 })
+
+test('물결은 \\~ 로 쓴다. 파편 원문의 \\~ 는 ~ 로 읽고 URL 안의 ~ 는 통과', () => {
+  const ok = makeDoc({body: '16\\~24세가 그랬다.[^1][^2]', frags: [frag(1, '학술', '2001', 'https://a.example/~x/1').replace('인용 1', '16\\~24세'), frag(2, '매체', '2011', 'https://b.example/2')]})
+  const docs = loadAll(makeRepo({a: ok}))
+  assert.deepEqual(errs(docs), [])
+  assert.equal(docs.get('a').fragments[0].quote, '16~24세')
+  const bad = errs(loadAll(makeRepo({a: makeDoc({body: '16~24세가 그랬다.[^1][^2]', frags: [frag(1, '학술', '2001', 'https://a.example/1').replace('인용 1', '1~2'), frag(2, '매체', '2011', 'https://b.example/2')]})})))
+  assert.equal(bad.filter(m => m.includes('물결')).length, 2)
+})
+
+test('별칭마다 원문이나 서지에 그 이름이 든 파편을 각주로 단다', () => {
+  const fr = [frag(1, '학술', '2001', 'https://a.example/1').replace('인용 1', 'the Better-than-average effect'), frag(2, '매체', '2011', 'https://b.example/2').replace('서지 2', '우월 착각에 관한 기사')]
+  const mk = aliases => makeDoc({frags: fr}).replace('별칭: 없음', `별칭: ${aliases}`)
+  assert.deepEqual(errs(loadAll(makeRepo({a: mk('better than average effect[^1], 우월 착각[^2]')}))), [])
+  const m = errs(loadAll(makeRepo({a: mk('워비곤 호수 효과, 우월 착각[^1], 엉뚱[^7]')})))
+  assert.ok(m.some(x => x.includes('사용례 각주가 없다: 워비곤 호수 효과')))
+  assert.ok(m.some(x => x.includes('원문과 서지에 별칭이 없다: 우월 착각')))
+  assert.ok(m.some(x => x.includes('[^7]')))
+  const only = makeDoc({body: '문단.[^1]', frags: fr}).replace('별칭: 없음', '별칭: 우월 착각[^2]')
+  assert.ok(!errs(loadAll(makeRepo({a: only}))).some(x => x.includes('참조되지 않은')))
+})
