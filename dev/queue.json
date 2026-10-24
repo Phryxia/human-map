@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:19:47.071Z",
-  "nextSeq": 1400,
+  "savedAt": "2026-10-24T03:21:41.411Z",
+  "nextSeq": 1402,
   "stops": 93,
   "items": [
-    {
-      "id": "4ead50b2",
-      "title": "hesitating-at-the-door 보강: 1인칭 SNS·학술 파편, 사회불안 원인 간선",
-      "priority": 50,
-      "note": "2026-10-23 HN 댓글 2026-08-31 배달원 목격담 더함. 글쓴이 자신의 망설임 SNS 는 HN·지식iN 에서 못 찾음. yahoo 2026-04-17 같은 글 'Social anxiety. Simple as that.' 은 anticipatory-social-anxiety 원인 간선 후보. 학술 후보: Davies 2011 IJSRM 'Negotiating doorstep access'(eprints.ncrm 본문 없음), Chatzifotiou 2000 Sociological Research Online(미열람). pg1400 은 이미 4개 문서",
-      "createdAt": "2026-10-23T03:37:13.247Z",
-      "seq": 1242
-    },
     {
       "id": "b5de46a0",
       "title": "saving-things-for-best 보강: SNS 파편, 한국어 다른 시기",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 BPS Research Digest 2010-07-16 Hyman 연구 소개 더함. 같은 글은 운전 중 통화와 견주지만 인과를 말하지 않음. 후보: content.time.com/time/quotes/0,26174,1724522,00.html (2008-03-21, 257자), theknightshift.com/2010/01/would-you-notice-clown-on-unicycle.html (2010-01), consumerreports.org 2012-08 phones-put-pedestrians-in-a-fog(멤버십 벽)",
       "createdAt": "2026-10-24T03:19:46.967Z",
       "seq": 1399
+    },
+    {
+      "id": "fd319f19",
+      "title": "hesitating-at-the-door 보강: 학술 파편, 사회불안 원인 간선",
+      "priority": 50,
+      "note": "2026-10-24 Refinery29 2019-12-09 1인칭 매체 더함. 후보: news.ycombinator.com/item?id=19873409 (2019-05-09) 'people are scared to knock on their neighbor’s door' 관찰, item?id=19872750 (2019) 소음 항의하러 문 두드리기의 위험. newstatesman 2019/12 canvassing 글은 본문 페이월. 학술: Davies 2011 IJSRM, Chatzifotiou 2000 미열람",
+      "createdAt": "2026-10-24T03:21:41.310Z",
+      "seq": 1401
     },
     {
       "id": "e8ba47a7",
