@@ -10,6 +10,8 @@
 - [남 탓하기](../docs/blaming-others.md) 잘못이나 실패를 겪은 사람이 그 원인을 자기가 아닌 다른 사람이나 주위 환경에 돌린다.
   - [운명이나 신을 탓하기](../docs/blaming-fate-or-god.md)
 - [남의 불행에 대한 기쁨](../docs/schadenfreude.md) 남의 불행이나 실패를 보거나 떠올린 사람이 기쁨을 느낀다.
+- [남의 사적인 기록 몰래 보기](../docs/reading-others-private-writing.md) 가족이나 연인처럼 가까이 지내는 사람의 일기, 편지, 메시지 같은 사적인 기록을 그 사람 몰래 읽는다.
+  - [연인의 휴대폰 몰래 보기](../docs/snooping-on-partners-phone.md)
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
 - [명절 귀성 포기](../docs/skipping-holiday-homecoming.md) 명절에 고향이나 부모 집에 갈 수 있는 사람이 가지 않고 지내던 곳에 남기로 한다.
@@ -28,7 +30,6 @@
 - [연애 기피](../docs/avoiding-dating.md) 교제 상대가 없는 미혼자가 연애나 교제를 바라지 않거나 혼자가 편하다며 이성을 만나지 않는다.
 - [연애 질투](../docs/romantic-jealousy.md) 연인을 둔 사람이 연인 곁의 경쟁자나 사소한 단서를 보고 연인을 의심하며 괴로워한다.
 - [연인과의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
-- [연인의 휴대폰 몰래 보기](../docs/snooping-on-partners-phone.md) 배우자나 연인의 휴대전화를 그 사람 몰래 열어 본다.
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.
 - [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md) 연인과 헤어지는 사람이 슬픔을 드러내지 않으려고 눈물을 참고 아무렇지 않은 척한다.
 - [자기 침묵](../docs/self-silencing.md) 관계를 지키거나 갈등을 피하려는 사람이 자기 생각과 불만을 말하지 않고 누른다.
