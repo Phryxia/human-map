@@ -8438,21 +8438,21 @@
   },
   "https://gangdong.go.kr/web/newportal/press/6190": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27981022&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://mediahub.seoul.go.kr/archives/2004640": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/2413/pg2413-images.html": {
     "first": "2026-10-23",
@@ -9205,6 +9205,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/park/19148358": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://m.seoul.co.kr/news/2003/04/25/20030425024002": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
