@@ -30,6 +30,7 @@
 
 ## 원인
 
+- [끝내지 못한 일 계속 떠올리기](zeigarnik-effect.md)[^2]
 - [퇴근 뒤 업무 연락에 답하기](after-hours-work-replies.md)[^3]
 
 ## 결과
