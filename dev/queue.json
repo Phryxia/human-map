@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:34:44.820Z",
-  "nextSeq": 1432,
+  "savedAt": "2026-10-24T03:36:18.094Z",
+  "nextSeq": 1436,
   "stops": 93,
   "items": [
-    {
-      "id": "56374538",
-      "title": "enduring-workplace-harassment 보강: 학술·SNS 파편, 다른 시기, 퇴사 결과",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(공공 EEOC 2016-06, 매체 에너지경제 2018-02-12). EEOC 같은 글 'fail to report ... because they fear disbelief of their claim, inaction on their claim, blame, or social or professional retaliation'(같은 URL), 'avoid the harasser, deny or downplay the gravity of the situation, or attempt to ignore, forget, or endure the behavior'(같은 URL). 경향 2025-12-14 khan 202512142058015 직장갑질119 '참거나 모르는 척했다' 56.4%, '회사를 그만뒀다' 26.4%(제목에 실명). 서울신문 2017-11-02 대기업보다 중소기업 소극적(조건). not-reporting-for-fear-of-reprisal 와 관계 후보",
-      "createdAt": "2026-10-23T12:13:25.556Z",
-      "seq": 1305
-    },
-    {
-      "id": "5e1a0f1e",
-      "title": "gossip 보강: 매체·SNS·한국어 파편, overhearing-talk-about-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Middlemarch 1871, 학술 Peters 2017 eutils, 학술 Dores Cruz 2021 eutils). Dores Cruz 같은 초록 'Receivers overwhelmingly believed gossip to be true and updated their evaluation of targets based on gossip'(같은 URL). Emma pg158 'Highbury gossips!—Tiresome wretches!' 문학 후보. Pride and Prejudice 'make sport for our neighbours' 는 pg1342 가 이미 4개 문서. PMID 42792356(2026) 다크 테트라드와 험담 빈도. Robbins·Karan 2019 하루 52분 매체 보도 미탐색",
-      "createdAt": "2026-10-23T12:14:57.865Z",
-      "seq": 1306
-    },
     {
       "id": "5d14f4d3",
       "title": "not-reading-books 보강: 학술·SNS·문학 파편, 다른 시기(2000년대 이전)",
@@ -491,6 +475,22 @@
       "note": "2026-10-24 HN 2094320 (2011-01-12) 더함. 후보: news.ycombinator.com/item?id=25251560 (2020-11-30) 10대부터 40년 일기, 행동을 바꾸려 할 때 씀. Stiftung 같은 글 30세 미만 두 배(같은 URL). literacytrust Diary_writing_in_2022.pdf 아동 29.7%, YouGov 2016 미국. 학술(표현적 글쓰기·일기 동기) 미탐색. unsent-letters 와 관계 후보",
       "createdAt": "2026-10-24T03:34:44.715Z",
       "seq": 1431
+    },
+    {
+      "id": "1c4c0ff6",
+      "title": "enduring-workplace-harassment 보강: 학술·SNS 파편, 다른 시기, 퇴사 결과",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(공공 EEOC 2016-06, 매체 에너지경제 2018-02-12). EEOC 같은 글 'fail to report ... because they fear disbelief of their claim, inaction on their claim, blame, or social or professional retaliation'(같은 URL), 'avoid the harasser, deny or downplay the gravity of the situation, or attempt to ignore, forget, or endure the behavior'(같은 URL). 경향 2025-12-14 khan 202512142058015 직장갑질119 '참거나 모르는 척했다' 56.4%, '회사를 그만뒀다' 26.4%(제목에 실명). 서울신문 2017-11-02 중소기업 소극적(조건). not-reporting-for-fear-of-reprisal 와 관계 후보. 2026-10-24 HN 검색은 1인칭 없음, 코멘토 job-questions 직장내_괴롭힘-500563 상담 답변(노무사가 증거 모으라 함)",
+      "createdAt": "2026-10-24T03:35:22.821Z",
+      "seq": 1433
+    },
+    {
+      "id": "fdeec346",
+      "title": "gossip 보강: SNS·한국어 파편, overhearing-talk-about-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-24 NPR 2019-05-13 52분 더함. 같은 방송 '세 사분의 일은 중립', 외향인이 더 많이 함(조건, 같은 URL). 후보: webarchive.ucr.edu/news.ucr.edu/articles/2019/05/03/uc-riverside-study-busts-myths-about-gossip.html (젊은 층이 부정적 험담 더 많음, 조건), Dores Cruz 같은 초록 믿음(같은 URL), Emma pg158 문학, PMID 42792356(2026) 다크 테트라드",
+      "createdAt": "2026-10-24T03:36:17.967Z",
+      "seq": 1435
     },
     {
       "id": "e8ba47a7",
