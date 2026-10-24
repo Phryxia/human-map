@@ -174,6 +174,7 @@
 - [실직 뒤 사람 만남 피하기](docs/withdrawing-after-job-loss.md) ([일터와 일자리](groups/work.md))
 - [실직 사실 숨기기](docs/concealing-job-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [실패 사실 숨기기](docs/concealing-failure.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [실패에 대한 두려움](docs/fear-of-failure.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [심리적 계약 위반 지각](docs/psychological-contract-breach.md) ([일터와 일자리](groups/work.md))
 - [써 놓고 내보내지 않기](docs/writing-without-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [쓰지 않는 구독 유지](docs/unused-subscription.md) ([돈과 소비](groups/money.md))
