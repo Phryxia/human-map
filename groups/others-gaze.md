@@ -2,7 +2,7 @@
 
 사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.
 
-문서 23개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 24개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [나이 줄여 말하기](../docs/understating-age.md) 사람이 남에게 자기 나이를 실제보다 적게 말한다.
 - [녹음된 자기 목소리 싫어하기](../docs/disliking-recorded-own-voice.md) 녹음된 자기 목소리를 듣는 사람이 그 소리를 낯설고 불편하게 느끼거나 싫어한다.
@@ -10,6 +10,7 @@
 - [보는 눈이 있을 때 행동 바꾸기](../docs/behaving-better-when-watched.md) 누군가 지켜본다고 느끼는 사람이 혼자일 때와 달리 남이 좋게 볼 만한 쪽으로 행동한다.
 - [부모가 창피함](../docs/embarrassed-by-parents.md) 자녀가 남이 보는 자리에서 부모의 말이나 행동이나 집안 모습을 창피하게 여긴다.
 - [부정적 평가에 대한 두려움](../docs/fear-of-negative-evaluation.md) 사람이 다른 사람에게 부정적으로 평가받을 수 있는 상황에서 불안과 긴장을 느낀다.
+- [빈대 생긴 일 숨기기](../docs/hiding-bedbug-infestation.md) 집에 빈대가 생긴 사람이 창피하거나 불이익이 두려워 주변과 집주인에게 알리지 않고 숨긴다.
 - [사회불안의 안전 행동](../docs/social-anxiety-safety-behaviors.md) 사회적 상황에서 불안한 사람이 남의 눈에 띄거나 부정적으로 보이지 않으려고 눈 맞춤을 피하거나 말수를 줄인다.
   - [되풀이 사과](../docs/over-apologizing.md)
 - [사회적 상황 앞의 예기불안](../docs/anticipatory-social-anxiety.md) 다가올 발표나 회의 같은 사회적 상황을 앞둔 사람이 그 장면을 미리 떠올리며 불안해한다.
