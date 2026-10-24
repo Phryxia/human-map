@@ -259,7 +259,19 @@ test('hostBlocked: TLS 실패, 5xx, 점검 페이지도 / 가 같은 종류로 �
   assert.equal(await hostBlocked('https://www.abs.gov.au/articles/x', 'HTTP 503', {fetchImpl: status(200)}), false)
   assert.equal(await hostBlocked('https://start.umd.edu/publication/x', 'fetch failed (SELF_SIGNED_CERT_IN_CHAIN)', {fetchImpl: status(503)}), false)
   assert.equal(await hostBlocked('https://www150.statcan.gc.ca/n1/x', '점검 페이지', {fetchImpl: page('<html>ok</html>')}), false)
-  assert.equal(await hostBlocked('https://example.com/x', 'fetch failed (ECONNRESET)', {fetchImpl: tls('ECONNRESET')}), false)
+  assert.equal(await hostBlocked('https://example.com/x', 'fetch failed (ECONNRESET)', {fetchImpl: status(200)}), false)
+})
+
+// futurechosun.com 은 2026-10-21 VERIFIED 였던 archives/119175 와 / 를 2026-10-24 에 모두 UND_ERR_SOCKET 으로 줬고,
+// www.82cook.com 은 글과 / 모두 ECONNRESET 이었다(2026-10-24). 프록시가 호스트로 가는 연결을 끊은 것이다.
+test('hostBlocked: 소켓 오류(UND_ERR_SOCKET, ECONNRESET)도 / 가 소켓 오류면 true', async () => {
+  const sock = code => async () => { throw Object.assign(new TypeError('fetch failed'), {cause: {code}}) }
+  const ok = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>x</html>'})
+  assert.equal(await hostBlocked('https://futurechosun.com/archives/119175', 'fetch failed (UND_ERR_SOCKET)', {fetchImpl: sock('UND_ERR_SOCKET')}), true)
+  assert.equal(await hostBlocked('https://www.82cook.com/entiz/read.php?bn=15&num=1572696', 'fetch failed (ECONNRESET)', {fetchImpl: sock('ECONNRESET')}), true)
+  assert.equal(await hostBlocked('https://futurechosun.com/archives/119175', 'fetch failed (UND_ERR_SOCKET)', {fetchImpl: sock('ECONNRESET')}), true)
+  assert.equal(await hostBlocked('https://futurechosun.com/archives/119175', 'fetch failed (UND_ERR_SOCKET)', {fetchImpl: ok}), false)
+  assert.equal(await hostBlocked('https://futurechosun.com/archives/119175', 'fetch failed (UND_ERR_SOCKET)', {fetchImpl: sock('ENOTFOUND')}), false)
 })
 test('extractText: JSON-LD 의 articleBody 를 본문으로 넣는다', () => {
   // ctvnews.ca(Arc): 본문이 HTML 에 없고 ld+json 의 articleBody 에만 있다(2026-10-23)
