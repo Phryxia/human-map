@@ -4059,9 +4059,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1026/pg1026-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/57333/pg57333-images.html": {
     "first": "2026-10-19",
@@ -8336,15 +8336,15 @@
   },
   "https://nocutnews.co.kr/news/1166798": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.stiftungfuerzukunftsfragen.de/en/the-appeal-of-writing-why-keeping-a-diary-increases-our-well-being/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.eeoc.gov/select-task-force-study-harassment-workplace": {
     "first": "2026-10-23",
@@ -9133,6 +9133,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.mt.co.kr/society/2018/11/10/2018110813513182333": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://news.ycombinator.com/item?id=2094320": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
