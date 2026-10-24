@@ -1,424 +1,408 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T12:37:20.743Z",
-  "nextSeq": 1531,
-  "stops": 97,
+  "savedAt": "2026-10-24T15:45:19.498Z",
+  "nextSeq": 1644,
+  "stops": 98,
   "items": [
     {
-      "id": "81327e42",
-      "title": "blaming-fate-or-god 보강: 결과 간선(신을 피하기), 한국어 비문학 파편",
+      "id": "64a6721f",
+      "title": "walking-while-using-phone 보강: phone-use-while-driving 과 관계",
       "priority": 50,
-      "note": "2026-10-23 문학 벙어리 삼룡이 1925, 학술 PMC4312360 2015 더함. 후보: PMC7201637 (2020-05-06) 'Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices.'(결과 간선 근거, 종교 행위 끊기 문서 필요), earticle.net/Article/A275113 (2016-05) 하나님께 분노, sports.khan.co.kr/article/200804022103006 (2008-04-02) 팔자 찾기, ko.wikisource 배따라기 1921 '운명이 데일 힘셉디다'. jjan.kr 2020 수해 기사는 실명 대목",
-      "createdAt": "2026-10-24T00:11:43.637Z",
-      "seq": 1388
+      "note": "2026-10-24 Planetizen 2008-03-14 더함. 후보: nbcnews.com/id/wbna34903338 (2010-01-17) Nasar ER 방문 연구, smithsonianmag 2004-2010 전봇대 부상 세 배",
+      "createdAt": "2026-10-24T15:16:30.362Z",
+      "seq": 1594
     },
     {
-      "id": "5d1bc1d5",
-      "title": "nonurgent-ambulance-calls 보강: 한국 공공 파편, SNS 파편, 상위 간선",
-      "priority": 50,
-      "note": "2026-10-24 학술 3, 매체 2, 공공 2(총무성 2007, 사이타마 2026)로 만듦. 후보: premier.vic.gov.au/save-lives-saving-000-emergencies (2021-10-21) 000 호출 5분의 1 이상 비응급, medigatenews.com/news/1297225561 (2019-10-07) 소방청 자료 15만1318명, weekly.khan.co.kr/article/9297 같은 글 '구급차를 택시로 여기는 것이다'. nfa.go.kr 보도자료 미발견. nonurgent-emergency-room-visits 와 공통 상위(경증에 응급 의료 쓰기) 후보",
-      "createdAt": "2026-10-24T00:12:28.106Z",
-      "seq": 1389
-    },
-    {
-      "id": "bc9e02c4",
-      "title": "avoiding-library-over-overdue-books 보강: SNS 파편, shame-after-unanswered-message 와 관계",
-      "priority": 50,
-      "note": "2026-10-24 공공 2, 매체 3, 학술 1 로 만듦. 후보: haveyoursay.cbcity.nsw.gov.au/abolishment-library-overdue-fees (발행일 미상, 2019 공람) 'Parents often feel they can’t come into a library while fees remain unpaid', mediahub.seoul.go.kr/archives/2016875 (2026-01-23) 시민기자 1인칭, odt.co.nz fines-discontinued-district-libraries (2022-07-25), dailyhive.com/edmonton/library-books-return (2023-11-29, 글쓴이 불명). 게시판은 봇 확인 페이지",
-      "createdAt": "2026-10-24T00:19:41.601Z",
-      "seq": 1390
-    },
-    {
-      "id": "d0e9628f",
-      "title": "fare-evasion 보강: SNS 파편, 2000년 이전 공공 파편, 동기를 말하는 공공 파편",
-      "priority": 50,
-      "note": "2026-10-24 매체 4, 공공 2, 학술 2 로 만듦. 후보: news.seoul.go.kr/traffic/archives/3117 (발행일 없음, 수정 2012-10-17) 하차 태그 미루기, clien.net/service/board/park/19265313 (2026-09-18) 꼬리 물기 목격, audit.vic.gov.au/node/30644 같은 글 deliberate 정의. TfL·MTA 동기 분류는 PDF. Gothamist 2022-05-24 는 실명 인터뷰",
-      "createdAt": "2026-10-24T00:25:21.145Z",
-      "seq": 1391
-    },
-    {
-      "id": "80b186f2",
-      "title": "hiding-bedbug-infestation 보강: 한국어 파편, poverty-shame·avoiding-inviting-people-home 과 관계",
-      "priority": 50,
-      "note": "2026-10-24 학술 2, 매체, SNS, 공공 으로 만듦. 후보: PMC9727609 (2022-12) 'Even today, people are known to self-isolate and avoid family and friends out of concern for spreading the infestation'(자기 격리, 결과 간선 후보, 미검증), vice 같은 글 'People who have bed bugs tend to socially isolate themselves', PMC10374038 같은 글 '신고 피하고 전문가 도움 거부'. 한국어 빈대 수치심 자료는 미발견(2023 국내 보도는 건수·방제 안내뿐). rocklandcountyny.gov 는 JS 렌더",
-      "createdAt": "2026-10-24T00:32:25.212Z",
-      "seq": 1392
-    },
-    {
-      "id": "8d3c4bb5",
-      "title": "avoiding-checking-balance 보강: 한국어 파편, money-worry 원인 간선, leaving-mail-unopened 와 관계",
-      "priority": 50,
-      "note": "2026-10-24 학술 2, 매체 2, 공공, SNS 로 만듦. 상위 delaying-bad-news. 후보: PMC11522046 같은 글 'In general, negative financial information is more likely to be avoided', moneysavingexpert 같은 스레드 댓글 'No, I don't avoid checking. As if I do it gives me a false sense of hope.'(대립 후보), onefamily 같은 글 36% 불안. 한국어 자료 미발견, maps.org.uk·moneyhelper 403, Karlsson 2009 는 PDF",
-      "createdAt": "2026-10-24T00:39:36.076Z",
-      "seq": 1393
-    },
-    {
-      "id": "8b1555e9",
-      "title": "avoiding-death-talk 보강: 원인 간선(남을 불편하게 할까 봐), 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-24 Tolstoy 1886 Wikisource VI장, HN 9547178 2015 더함. 후보: christiantoday.com/news/why-dont-we-talk-about-death (2014-05-13) Dying Matters 조사 'approximately 80 per cent of people do not discuss death because they believe that it makes others uncomfortable'. nbcnews.com/news/amp/wbna6011726 (2004) 부모 3분의 2가 죽어 가는 아이와 죽음 이야기를 안 함. thegazette.co.uk/all-notices/content/100090 72% 불편",
-      "createdAt": "2026-10-24T03:08:52.929Z",
-      "seq": 1395
-    },
-    {
-      "id": "58956e2b",
-      "title": "fighting-over-the-bill 보강: dodging-the-bill 과 대립, 호혜·체면 원인",
-      "priority": 50,
-      "note": "2026-10-24 Williams 1918 Wikisource 9장 더함. 후보: en.wikisource.org/wiki/The_Diary_of_a_Nobody/Chapter_3 (1892) 'Mr. James each time insisted on paying for all'(되갚기, 실명 꼴 이름 있음), gutenberg pg8868 Botchan 6장 1906 얼음물값 동전 밀어내기(대접 거절, 부채감 후보). 위키트리 '체면과 자존심' 은 같은 URL",
-      "createdAt": "2026-10-24T03:18:19.678Z",
-      "seq": 1397
-    },
-    {
-      "id": "29b1d490",
-      "title": "walking-while-using-phone 보강: phone-use-while-driving 과 관계, 2010 이전 파편",
-      "priority": 50,
-      "note": "2026-10-24 BPS Research Digest 2010-07-16 Hyman 연구 소개 더함. 같은 글은 운전 중 통화와 견주지만 인과를 말하지 않음. 후보: content.time.com/time/quotes/0,26174,1724522,00.html (2008-03-21, 257자), theknightshift.com/2010/01/would-you-notice-clown-on-unicycle.html (2010-01), consumerreports.org 2012-08 phones-put-pedestrians-in-a-fog(멤버십 벽)",
-      "createdAt": "2026-10-24T03:19:46.967Z",
-      "seq": 1399
-    },
-    {
-      "id": "fd319f19",
+      "id": "5bb18acb",
       "title": "hesitating-at-the-door 보강: 학술 파편, 사회불안 원인 간선",
       "priority": 50,
-      "note": "2026-10-24 Refinery29 2019-12-09 1인칭 매체 더함. 후보: news.ycombinator.com/item?id=19873409 (2019-05-09) 'people are scared to knock on their neighbor’s door' 관찰, item?id=19872750 (2019) 소음 항의하러 문 두드리기의 위험. newstatesman 2019/12 canvassing 글은 본문 페이월. 학술: Davies 2011 IJSRM, Chatzifotiou 2000 미열람",
-      "createdAt": "2026-10-24T03:21:41.310Z",
-      "seq": 1401
+      "note": "2026-10-24 Refinery29 2019-12-09 1인칭 매체 더함. 후보: news.ycombinator.com/item?id=19873409 (2019-05-09) 'people are scared to knock on their neighbor’s door'. 2026-10-24 학술 검색: 호별 방문자 불안을 다룬 질적 연구 미발견. PMC8863159 (코로나 시기 호별 모집) 본문에 해당 대목 없음, eprints.ncrm.ac.uk 3722 는 봇 확인 페이지",
+      "createdAt": "2026-10-24T15:17:37.705Z",
+      "seq": 1595
     },
     {
-      "id": "8ad8318a",
-      "title": "saving-things-for-best 보강: 한국어 SNS 파편, 물건 쌓아 두기 결과 간선",
+      "id": "a6d6b612",
+      "title": "saving-things-for-best 보강: 한국어 SNS 파편",
       "priority": 50,
-      "note": "2026-10-24 HN 47971418 (2026-05-01) 프로슈토 더함. 후보: news.ycombinator.com/item?id=24274541 (2020-08-25) 'Being so guarded they were never used and took up space' 좋은 그릇이 쓰이지 않아 자리만 차지, item?id=49751185 (2026-09-18) 부모 집 3대의 그릇장. 한국어 게시판 글 미발견",
-      "createdAt": "2026-10-24T03:22:36.087Z",
-      "seq": 1403
+      "note": "2026-10-24 HN 24274541 (2020-08-25) 더함. difficulty-discarding 과의 결과 간선은 근거 파편 없음. 한국어 '아끼다 똥' 검색: brunch 블로그 글뿐(매체), 연예인 기사는 실존 개인",
+      "createdAt": "2026-10-24T15:18:22.797Z",
+      "seq": 1596
     },
     {
-      "id": "d132e825",
+      "id": "e5d28ea6",
       "title": "hesitating-to-take-parental-leave 보강: 2000년 이전 파편, SNS 파편, 상위 간선",
       "priority": 50,
-      "note": "2026-10-24 Management-Issues 2006-08-01 ING Direct 조사 더함. 같은 글 첫 문장은 상사의 조롱, 거절, 경력 지체 두려움(200자 초과). 후보: fatherly.com survey-dads-fear-being-mommy-tracked, equimundo.org groundbreaking-study 1/5 실직 두려움, um.edu.mt/library/oar/handle/123456789/51353 몰타 연구. unused-annual-leave 와 같은 상위 후보",
-      "createdAt": "2026-10-24T03:24:00.939Z",
-      "seq": 1405
+      "note": "2026-10-24 HN 검색: 'paternity leave afraid career' 결과는 기사 인용(27819766, 2021-07-13 58% 경력 걱정)뿐이고 1인칭 망설임 댓글 미발견. 후보: fatherly.com survey-dads-fear-being-mommy-tracked, equimundo.org groundbreaking-study, um.edu.mt/library/oar/handle/123456789/51353. unused-annual-leave 와 공통 상위(눈치 때문에 쓸 수 있는 휴가 안 쓰기) 후보, 아직 문서 없음",
+      "createdAt": "2026-10-24T15:18:48.625Z",
+      "seq": 1597
     },
     {
-      "id": "e2e99b30",
+      "id": "6c1cd8d2",
       "title": "not-reporting-workplace-injury 보강: SNS 파편, 한국 공공 파편, 1990년대 학술",
       "priority": 50,
-      "note": "2026-10-23 학술 2, 공공, 매체 로 만듦. 후보: Pransky 1999 Ergonomics PMID 9973879 'fear of reprisal'(HTML 미열람), govinfo FR-2016-05-12 2016-10443 동료 실망 두려움, cdc.gov/niosh/bulletin/2021/neiss-work.html 낙인·징계 두려움, newsis NISX20210305_0001360742 38.7% 공상(제목에 회사명). 2026-10-24 weekly.khan.co.kr/article/202002281406461 (2020-02-28) 비제조업 산재 처리 12.1% 기사는 본문이 HTML 에 없음, kukinews kuk201810240324 본문 없음, HN 검색 무소득",
-      "createdAt": "2026-10-24T03:25:04.184Z",
-      "seq": 1409
+      "note": "2026-10-24 NIOSH 2021-04-13 공공 더함. pubmed.ncbi.nlm.nih.gov/9973879 (Pransky 1999) 는 curl·브라우저 UA 모두 본문 없음. 후보: govinfo FR-2016-05-12 2016-10443 동료 실망 두려움, newsis NISX20210305_0001360742 38.7% 공상(제목에 회사명)",
+      "createdAt": "2026-10-24T15:19:22.309Z",
+      "seq": 1598
     },
     {
-      "id": "ddf26af7",
+      "id": "9776c3c6",
       "title": "guilt-about-resigning 보강: 공공 파편, 2000년대 이전 파편",
       "priority": 50,
-      "note": "2026-10-24 HN 26525398 (2021-03-20) 블랙 기업이 죄책감을 지움 더함. 같은 댓글 끝: 퇴직 대행에 맡겨 마음을 돌리지 못하게 함(퇴직 대행 현상 후보). 후보: news.ycombinator.com/item?id=9611590 (2015-05-27) 입사 제안 번복 죄책감. NBC 2018 'nerve-wracking', GQ '유예' 는 같은 URL",
-      "createdAt": "2026-10-24T03:26:04.131Z",
-      "seq": 1410
+      "note": "2026-10-24 webtan.impress.co.jp 2025-09-02 mamori 조사 더함. 후보: news.ycombinator.com/item?id=9611590 (2015-05-27) 입사 제안 번복 죄책감. 후생노동성 자료에서 퇴직 시 심리 조사는 미발견",
+      "createdAt": "2026-10-24T15:21:12.227Z",
+      "seq": 1599
     },
     {
-      "id": "2c2a9f5f",
+      "id": "d9e69c25",
       "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
       "priority": 50,
-      "note": "2026-10-23 학술, 공공, SNS, 매체 로 만듦. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의(당파 보도자료), news.ycombinator.com/item?id=9489263 2015-05-04 같은 이유로 못 그만둠. gao.gov, bls.gov 403, cbo.gov JS, reddit 403. 2026-10-24 한국어 검색은 퇴직 후 지역가입자 보험료 안내 글뿐, 보험 때문에 남는 글 미발견",
-      "createdAt": "2026-10-24T03:26:38.667Z",
-      "seq": 1413
+      "note": "2026-10-24 HN 9489263 (2015-05-04) 더함. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의. 한국어 자료 미발견(지역가입자 보험료 안내뿐)",
+      "createdAt": "2026-10-24T15:21:55.540Z",
+      "seq": 1600
     },
     {
-      "id": "212e4940",
+      "id": "9a4c5f99",
       "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
       "priority": 50,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:31Z, 2026-10-24 03:30Z 모두 / 가 TLS 실패(curl 60, SELF_SIGNED_CERT_IN_CHAIN). WebFetch 는 503. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
-      "createdAt": "2026-10-24T03:27:28.705Z",
-      "seq": 1415
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22~2026-10-24 여러 차례 / 가 TLS 실패(curl 60, SELF_SIGNED_CERT_IN_CHAIN), 2026-10-24 15시대 재확인도 같음. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
+      "createdAt": "2026-10-24T15:22:06.430Z",
+      "seq": 1601
     },
     {
-      "id": "0f16d40e",
+      "id": "692f62ad",
       "title": "calling-in-sick-when-not-sick 보강: 공공 파편, 한국어 파편",
       "priority": 50,
-      "note": "2026-10-23 매체 2, SNS, 학술 로 만듦. 후보: Hansard 2024-01-10 Westminster Hall 'Back pain was seen as an easy excuse to pull a sickie'(HTML 은 Cloudflare 403, API 로만 읽힘), news.ycombinator.com/item?id=49208807 2026-08-07 꽃을 받은 뒤 거짓이 드러남, item?id=8630586 2014-11-19 개인 프로젝트로 하루 쉼. Carlsen·Nyborg 2020 Health Economics 게재본 403. sickness-presenteeism 과의 대립 근거 파편 찾기. 2026-10-24 heraldk.com/en/?p=67146 커리어 조사 '몸이 안 좋다' 22.6% 는 홈으로 리디렉트(사라짐). 한국 설문은 아파도 출근 쪽만 나옴(sports.khan 200703062045423)",
-      "createdAt": "2026-10-24T03:28:16.824Z",
-      "seq": 1417
+      "note": "2026-10-24 한국어 검색: sateconomy.co.kr/news/view/179589525286532 (사람인 2016) 은 아파도 출근 87.1%, '꾀병이라고 오해 받는 것이 싫어서' 22%(sickness-presenteeism 의 원인 후보), koreaherald.com/article/10512 (2013-05-06) 은 영국 병가 회피. creativepro.com CareerBuilder 2005·2006 꾀병 조사는 403. 후보: Hansard 2024-01-10 'pull a sickie'(API 로만 읽힘)",
+      "createdAt": "2026-10-24T15:22:32.006Z",
+      "seq": 1602
     },
     {
-      "id": "a8241d03",
+      "id": "b02d2faf",
       "title": "not-negotiating-salary 보강: 한국어 파편, 공공 파편",
       "priority": 50,
-      "note": "2026-10-24 CNN 2003-08-21 방송 기록 더함. 같은 기록에 여성은 협상을 치과 가는 일에 견준다는 진행자 말. 후보: pewresearch.org short-reads 2023-04-05 은 이미 씀, anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, news.ycombinator.com/item?id=44735331 2025-07-30 성사를 그르칠까 협상 안 함, americanbar.org young_lawyers attorney-salary-negotiations. 코멘토에 맞는 대목 없음",
-      "createdAt": "2026-10-24T03:29:25.425Z",
-      "seq": 1419
+      "note": "2026-10-24 HN 44735331 (2025-07-30) 더함. 후보: anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, americanbar.org young_lawyers attorney-salary-negotiations. 코멘토에 맞는 대목 없음",
+      "createdAt": "2026-10-24T15:23:04.653Z",
+      "seq": 1603
     },
     {
-      "id": "de8d5a71",
+      "id": "51336b9d",
       "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
       "priority": 50,
-      "note": "2026-10-23 경향 2007, 디시 2026 더함. 남은 후보: brunch.co.kr/@bidancheon/166 (2026-05-15) 휴대폰 시간 확인 뒤 계산(저자명 미확인). washingtonpost 1990, 1998 403. Time 1990-12-17 시계 대목 없음. 2026-10-24 Virginian-Pilot 1996-07-26 scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960726/07260439.htm 는 410, web.archive.org 20191116151107 보관본은 이 환경에서 연결 끊김. 수면 전문가가 밤중에 시계를 보지 말라고 한 칼럼",
-      "createdAt": "2026-10-24T03:31:01.302Z",
-      "seq": 1421
+      "note": "2026-10-23 경향 2007, 디시 2026 더함. 남은 후보: brunch.co.kr/@bidancheon/166 (2026-05-15) 휴대폰 시간 확인 뒤 계산(저자명 미확인). washingtonpost 1990, 1998 403. Time 1990-12-17 시계 대목 없음. Virginian-Pilot 1996-07-26 scholar.lib.vt.edu 는 410, web.archive.org 보관본은 연결 끊김",
+      "createdAt": "2026-10-24T15:23:18.537Z",
+      "seq": 1604
     },
     {
-      "id": "fde133ff",
+      "id": "6a4fb1cd",
       "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
       "priority": 50,
       "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:32Z, 2026-10-24 03:38Z 호스트 / 도 TLS 실패(UNABLE_TO_GET_ISSUER_CERT_LOCALLY, 프록시 CA 를 줘도 실패). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
-      "createdAt": "2026-10-24T03:31:17.639Z",
-      "seq": 1423
+      "createdAt": "2026-10-24T15:23:37.129Z",
+      "seq": 1605
     },
     {
-      "id": "0024df08",
+      "id": "ebe08ce8",
       "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
       "priority": 50,
       "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:33Z, 2026-10-24 03:39Z 호스트 / 도 TLS 실패(SELF_SIGNED_CERT_IN_CHAIN, 프록시 CA 를 줘도 실패). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
-      "createdAt": "2026-10-24T03:31:46.634Z",
-      "seq": 1425
+      "createdAt": "2026-10-24T15:23:37.269Z",
+      "seq": 1606
     },
     {
-      "id": "66721bfc",
+      "id": "d63b7528",
       "title": "partner-conflict 보강: 이별 결과 간선",
       "priority": 50,
       "note": "2026-10-24 네이트판 359133930 (2021-04-17) 병원 가 보자는 말로 싸움 더함. 남은 후보: marieclaire.co.uk/life/snooping-670110 (2019-11-02) 엿보기 뒤 이별",
-      "createdAt": "2026-10-24T03:32:48.080Z",
-      "seq": 1427
+      "createdAt": "2026-10-24T15:23:37.413Z",
+      "seq": 1607
     },
     {
-      "id": "3289869d",
+      "id": "6d748af9",
       "title": "emotional-labor 보강: SNS·문학 파편, heavy-drinking 결과 간선 근거",
       "priority": 50,
       "note": "2026-10-23 학술 Grandey 2000, 공공 서울톡톡 2012-12-05, 학술 Grandey 2019 로 만듦. 2026-10-24 머니투데이 2018-11-10 체헐리즘 더함. 같은 기사 '그럼에도 화를 냈고, 그럼에도 친절히 웃어 보였다'. 후보: mt.co.kr/society/2013/11/12/2013110717212799641 (2013) 상담사도 누군가의 가족, segye.com/newsView/20190429512155 (2019) 감정노동자 보호법 실효성. Grandey 2019 는 관련만 말함. krivet 2013 403. 한국어 상담원 게시글 미발견",
-      "createdAt": "2026-10-24T03:33:55.864Z",
-      "seq": 1429
+      "createdAt": "2026-10-24T15:23:37.553Z",
+      "seq": 1608
     },
     {
-      "id": "4335b655",
+      "id": "c9649dee",
       "title": "keeping-a-diary 보강: 학술 파편, 연령 조건",
       "priority": 50,
       "note": "2026-10-24 HN 2094320 (2011-01-12) 더함. 후보: news.ycombinator.com/item?id=25251560 (2020-11-30) 10대부터 40년 일기, 행동을 바꾸려 할 때 씀. Stiftung 같은 글 30세 미만 두 배(같은 URL). literacytrust Diary_writing_in_2022.pdf 아동 29.7%, YouGov 2016 미국. 학술(표현적 글쓰기·일기 동기) 미탐색. unsent-letters 와 관계 후보",
-      "createdAt": "2026-10-24T03:34:44.715Z",
-      "seq": 1431
+      "createdAt": "2026-10-24T15:23:37.690Z",
+      "seq": 1609
     },
     {
-      "id": "1c4c0ff6",
+      "id": "6aad36fe",
       "title": "enduring-workplace-harassment 보강: 학술·SNS 파편, 다른 시기, 퇴사 결과",
       "priority": 50,
       "note": "2026-10-23 문서 만듦(공공 EEOC 2016-06, 매체 에너지경제 2018-02-12). EEOC 같은 글 'fail to report ... because they fear disbelief of their claim, inaction on their claim, blame, or social or professional retaliation'(같은 URL), 'avoid the harasser, deny or downplay the gravity of the situation, or attempt to ignore, forget, or endure the behavior'(같은 URL). 경향 2025-12-14 khan 202512142058015 직장갑질119 '참거나 모르는 척했다' 56.4%, '회사를 그만뒀다' 26.4%(제목에 실명). 서울신문 2017-11-02 중소기업 소극적(조건). not-reporting-for-fear-of-reprisal 와 관계 후보. 2026-10-24 HN 검색은 1인칭 없음, 코멘토 job-questions 직장내_괴롭힘-500563 상담 답변(노무사가 증거 모으라 함)",
-      "createdAt": "2026-10-24T03:35:22.821Z",
-      "seq": 1433
+      "createdAt": "2026-10-24T15:23:37.845Z",
+      "seq": 1610
     },
     {
-      "id": "fdeec346",
+      "id": "97ff7aa8",
       "title": "gossip 보강: SNS·한국어 파편, overhearing-talk-about-oneself 관계",
       "priority": 50,
       "note": "2026-10-24 NPR 2019-05-13 52분 더함. 같은 방송 '세 사분의 일은 중립', 외향인이 더 많이 함(조건, 같은 URL). 후보: webarchive.ucr.edu/news.ucr.edu/articles/2019/05/03/uc-riverside-study-busts-myths-about-gossip.html (젊은 층이 부정적 험담 더 많음, 조건), Dores Cruz 같은 초록 믿음(같은 URL), Emma pg158 문학, PMID 42792356(2026) 다크 테트라드",
-      "createdAt": "2026-10-24T03:36:17.967Z",
-      "seq": 1435
+      "createdAt": "2026-10-24T15:23:37.984Z",
+      "seq": 1611
     },
     {
-      "id": "afa0a7b7",
+      "id": "06b0c37f",
       "title": "not-reading-books 보강: 학술·문학 파편, 다른 시기(2000년대 이전)",
       "priority": 50,
       "note": "2026-10-24 HN 43288299 (2025-03-07) 더함. 같은 댓글 '여가로 읽을 시간이 거의 없다'(같은 URL, 시간 이유). 후보: news.ycombinator.com/item?id=9349113 (2015) 10년 동안 책을 거의 안 읽음. Pew 같은 글 23%(같은 URL). newdaily 2026-03-06 성인 독서율 38.5%. NEA Reading at Risk(2004) 공공 후보. smartphone-checking-habit 과 관계 후보(인과 문장 필요)",
-      "createdAt": "2026-10-24T03:37:10.979Z",
-      "seq": 1437
+      "createdAt": "2026-10-24T15:23:38.115Z",
+      "seq": 1612
     },
     {
-      "id": "69f51c4d",
-      "title": "pet-loss-grief 보강: SNS·공공 파편, bereavement-regret 관계(자책)",
+      "id": "ada9add5",
+      "title": "pet-loss-grief 보강: 공공 파편, bereavement-regret 관계(자책)",
       "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Byron Epitaph to a Dog 1808 wikisource, 학술 Cleary 2022 eutils, 매체 데일리벳 2025-07-23). Wikipedia 는 비문 산문을 Hobhouse 가 썼다고 적음(시 본문 'I never knew but one' 은 Inscription on the Monument of a Newfoundland Dog). 데일리벳 같은 기사 '더 잘해줄 걸' 자책감, '유난 떠는 것처럼 보이고' 공감 받지 못한 슬픔(같은 URL). Lavorgna 2019 PMID 30216137 사람 사별과 슬픔 정도 차이 없음, PMID 41533687 지속성 애도. disenfranchised grief 별개 현상 후보",
-      "createdAt": "2026-10-24T03:37:31.886Z",
-      "seq": 1439
+      "note": "2026-10-24 HN 11515624 (2016-04-17) 더함. 후보: news.ycombinator.com/item?id=5699451 (2013-05-13) 개를 보낸 뒤 유골과 털을 간직(keeping-belongings-of-the-dead 관계 후보)",
+      "createdAt": "2026-10-24T15:24:26.672Z",
+      "seq": 1613
     },
     {
-      "id": "333b9d2c",
-      "title": "연애 기피와 혼자 있기 선호 관계",
+      "id": "88ab1377",
+      "title": "preference-for-solitude 보강: SNS·문학 파편, solo-leisure 관계",
       "priority": 50,
-      "note": "avoiding-dating: 세계일보 2023-11-16 피앰아이 조사 '혼자가 편하다' 33.6%, 경제적 여유 없음 11.2%(같은 URL). solo-leisure 와 원인 간선 후보(인과 문장 필요). 일본 내각부 남녀공동참획백서 r04 b1_s00_02.html 20대 남성 교제 경험 없음 4할(공공, 2022)",
-      "createdAt": "2026-10-24T06:15:39.983Z",
-      "seq": 1468
+      "note": "2026-10-24 학술 Zhou 2023, 매체 세계일보 2023 로 만듦. 후보: PMC11311947 (Burger 척도 12문항), 같은 PMC10358355 '혼자 있기 선호가 중국 대학생의 우울 증상과 함께 나타남'. 일본 내각부 남녀공동참획백서 r04 b1_s00_02.html 20대 남성 교제 경험 없음 4할",
+      "createdAt": "2026-10-24T15:25:36.384Z",
+      "seq": 1614
     },
     {
-      "id": "c7538173",
+      "id": "29ea6572",
       "title": "skipping-holiday-homecoming 과 laughing-off-holiday-nagging 관계",
       "priority": 50,
-      "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함(같은 URL, '이골이 났기 때문이다' 인과). 결과/원인 간선 후보는 명절 잔소리 문서가 생기면. 아시아경제 2018092500170503009 알바몬 조사 46.7% 친지 모임 불참(미확인)",
-      "createdAt": "2026-10-24T06:24:24.147Z",
-      "seq": 1469
+      "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함(같은 URL, '이골이 났기 때문이다' 인과). 결과/원인 간선 후보는 명절 잔소리 듣기(잔소리 자체) 문서가 생기면. laughing-off 와 직접 간선은 근거 없음(2026-10-24 확인). 아시아경제 2018092500170503009 알바몬 조사 46.7% 친지 모임 불참(미확인)",
+      "createdAt": "2026-10-24T15:25:56.037Z",
+      "seq": 1615
     },
     {
-      "id": "77b272ca",
-      "title": "solo-leisure 보강: 학술·SNS·문학 파편, 연령 조건",
+      "id": "62ca156f",
+      "title": "solo-leisure 보강: 학술·문학 파편, 연령 조건, preference-for-solitude 관계",
       "priority": 50,
-      "note": "2026-10-24 한국경제 2026-09-08 혼놀 파편 더함(같은 URL: 알바천국 MZ 83.9% 모임 횟수 줄임, 트렌드모니터 '친구 없어도 불편 없다' 2023 42.2%→2026 46.9%). 문체부 2017-01-12 같은 글 20대 이하 70% 이상 혼자 여가(연령 조건, 서술 미반영). 학술(solitude 선호), 한국어 게시글 미탐색. avoiding-dating 과 관계 후보",
-      "createdAt": "2026-10-24T06:25:28.530Z",
-      "seq": 1470
+      "note": "2026-10-24 HN 7648856 (2014-04-25) 더함. 문체부 2017-01-12 같은 글 20대 이하 70% 이상 혼자 여가(연령 조건, 서술 미반영). 후보: news.ycombinator.com/item?id=36404085 (2023-06-20) 혼자 영화관·식당",
+      "createdAt": "2026-10-24T15:26:50.567Z",
+      "seq": 1616
     },
     {
-      "id": "d336ade6",
+      "id": "37f78ae8",
       "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
       "priority": 50,
-      "note": "2026-10-24 클리앙 park/19148358 (2026-02-22) 더함. 같은 글 '아버지의 보증으로 집안의 경제가 무너지면서 겪었던 가난은 제게 돈을 쓰는 것은 피해야 할 일이라는 인식을 남겼습니다'(인과, 어린 시절 가난이 원인 문서가 생기면 간선). 클리앙 park/11336862 대출 이자로 못 삼(미확인)",
-      "createdAt": "2026-10-24T06:26:30.186Z",
-      "seq": 1471
+      "note": "2026-10-24 재확인: 대립 근거 파편 없음. 클리앙 park/19148358 (2026-02-22) 같은 글 '아버지의 보증으로 집안의 경제가 무너지면서 겪었던 가난은 제게 돈을 쓰는 것은 피해야 할 일이라는 인식을 남겼습니다'(인과, 어린 시절 가난 문서가 생기면 간선). 클리앙 park/11336862 대출 이자로 못 삼(미확인)",
+      "createdAt": "2026-10-24T15:27:08.776Z",
+      "seq": 1617
     },
     {
-      "id": "68c945d1",
-      "title": "vegetable-gardening 보강: 문학·SNS 파편",
+      "id": "0d409b33",
+      "title": "vegetable-gardening 보강: 문학 파편, 한국어 게시글",
       "priority": 50,
-      "note": "2026-10-24 서울신문 2003-04-25 주말농장 기사 더함. mediahub 150935(2006-03-02 서울시 주말농장 모집), 168354(2007-08-31 시민기자 '가을의 수확, 주말농장') 미확인 후보. 한국어 주말농장 게시글 미탐색",
-      "createdAt": "2026-10-24T06:27:48.672Z",
-      "seq": 1472
+      "note": "2026-10-24 HN 1650041 (2010-08-31) 더함. mediahub 150935(2006-03-02 서울시 주말농장 모집), 168354(2007-08-31 시민기자 '가을의 수확, 주말농장') 미확인 후보",
+      "createdAt": "2026-10-24T15:27:45.116Z",
+      "seq": 1618
     },
     {
-      "id": "2a1ebcc7",
-      "title": "boredom 보강: SNS·한국어 파편, loneliness·avoiding-being-alone-with-thoughts 관계",
+      "id": "5137644a",
+      "title": "boredom 보강: 한국어 파편, loneliness·avoiding-being-alone-with-thoughts 관계",
       "priority": 50,
-      "note": "2026-10-24 Chin 외 2017 eutils 27775405 더함. 같은 초록 'particularly predictive of loneliness, anger, sadness, and worry'(상관, 인과 아님). PMID 42546294(2026) 재택근무 지루함. 한국어 '심심해 죽겠다' 게시글 미탐색",
-      "createdAt": "2026-10-24T06:28:32.326Z",
-      "seq": 1473
+      "note": "2026-10-24 HN 5091017 (2013-01-21) 은퇴 뒤 지루함 더함. 같은 초록 27775405 'particularly predictive of loneliness, anger, sadness, and worry'(상관, 인과 아님). 클리앙 '심심해' 검색은 맞는 글 없음",
+      "createdAt": "2026-10-24T15:28:30.491Z",
+      "seq": 1619
     },
     {
-      "id": "f8f371d9",
-      "title": "forbidden-curiosity 보강: 영화 상영 금지 사례, snooping-on-partners-phone 관계",
+      "id": "32578e50",
+      "title": "forbidden-curiosity 보강: snooping-on-partners-phone 관계",
       "priority": 50,
-      "note": "2026-10-24 사례뉴스 2020-11-05, 루리웹 2026-09-22 더함. 같은 사례뉴스 '상영 금지 소식이 전해지자 오히려 사람들의 호기심이 발동하여 일부러 다른 도시까지 가서 영화를 보기도'. 충청타임즈 cctimes 539611(2018-08-01 칼리귤라 효과), 시선뉴스 sisunnews 22472(2015-06-15) 후보. 보스턴 금지 연도가 출처마다 다름(1979/1980년대)",
-      "createdAt": "2026-10-24T06:36:33.723Z",
-      "seq": 1474
+      "note": "2026-10-24 충청타임즈 2018-08-01 칼리귤라 상영 금지 더함. 같은 칼럼 '하지 말라고 하면 더 하고 싶은 욕구'(정의, 원문 따옴표가 이중 인코딩). 시선뉴스 sisunnews 22472(2015-06-15) 는 열리지 않음",
+      "createdAt": "2026-10-24T15:29:33.968Z",
+      "seq": 1620
     },
     {
-      "id": "0bbe6cff",
-      "title": "retirement-emptiness 보강: SNS·문학 파편, wanting-to-keep-working-in-old-age 원인 간선",
+      "id": "9f2b49e1",
+      "title": "retirement-emptiness 보강: 문학 파편, wanting-to-keep-working-in-old-age 원인 간선",
       "priority": 50,
-      "note": "2026-10-24 브라보마이라이프 2016·서울시 미디어허브 2019 더함. 원인 간선 후보 시대 sidae.com 2025-09-10 기사는 실명 인물 중심이라 쓰지 않음. Savant Wealth 조사(재취업 은퇴자 26% 목적의식 없음) Cloudflare 403. 같은 브라보 칼럼 '다시 들어가 ... 허전함이 조금씩 채워져'(같은 URL)",
-      "createdAt": "2026-10-24T09:07:35.385Z",
-      "seq": 1500
+      "note": "2026-10-24 HN 34056049 (2022-12-19) 더함. 원인 간선 후보: news.ycombinator.com/item?id=5091017 (2013-01-21) 은퇴 뒤 지루해져 다시 일함(boredom 에 이미 씀, 허전함이 아니라 지루함). 시대 sidae.com 2025-09-10 은 실명 인물 중심. Savant Wealth 조사 Cloudflare 403",
+      "createdAt": "2026-10-24T15:30:20.705Z",
+      "seq": 1621
     },
     {
-      "id": "28aa1ea9",
+      "id": "30d61bfd",
       "title": "embarrassed-by-parents 보강: avoiding-inviting-people-home 관계",
       "priority": 50,
-      "note": "2026-10-24 클리앙 2024 낡은 차 댓글 더함. 관계 근거 파편 미탐색. PMC7369039 (2020) 헌팅턴병 가족 자녀 'embarrassed by their parent’s behaviour outside the home'(사회 활동 철회 결과 간선 후보). PMC6286232 (2018) 'culturally inept behaviors or poor English'",
-      "createdAt": "2026-10-24T09:12:16.421Z",
-      "seq": 1503
+      "note": "2026-10-24 HN 검색('embarrassed to bring friends home') 무소득. PMC7369039 (2020) 헌팅턴병 가족 연구 본문에 친구를 집에 데려오는 대목 없음, PMC6286232 (2018) 도 없음",
+      "createdAt": "2026-10-24T15:30:49.297Z",
+      "seq": 1622
     },
     {
-      "id": "f5e98a31",
+      "id": "a37d9116",
       "title": "littering 보강: 문학 파편, 다른 시기",
       "priority": 50,
-      "note": "2026-10-24 Bateson 외 2015 PMC4671191 로 behaving-better-when-watched 대립 간선. 영국 local.gov.uk Social Engine 보고서 PDF, letsrecycle 'Brits admit to littering' 후보. 문학 파편 미탐색",
-      "createdAt": "2026-10-24T09:15:20.995Z",
-      "seq": 1504
+      "note": "2026-10-24 Bateson 외 2015 PMC4671191 로 behaving-better-when-watched 대립 간선. 영국 local.gov.uk Social Engine 보고서 PDF, letsrecycle 'Brits admit to littering' 후보. 문학 파편 미탐색, 2000년 이전 파편 없음",
+      "createdAt": "2026-10-24T15:30:58.876Z",
+      "seq": 1623
     },
     {
-      "id": "5c2222e8",
+      "id": "9785fa65",
       "title": "reservation-no-show 보강: 공공 파편, 예약자 1인칭 SNS",
       "priority": 50,
-      "note": "2026-10-24 원인 prospective-memory-failure 간선(Restaurant Online 2021 'forgot to cancel'). 공공 후보: 중기부·소진공·외식업중앙회 2025 말 214개사 노쇼 실태조사(뉴스1 sb-founded/6025815 가 보도), korea.kr 원문 미발견. 클리앙 park/18029107 (2023-04-17)",
-      "createdAt": "2026-10-24T09:17:11.832Z",
-      "seq": 1505
+      "note": "2026-10-24 HN 41617595 (2024-09-22) 겹치기 예약 더함. 후보: news.ycombinator.com/item?id=46035335 (2025-11-24) 'book at multiple restaurants, then cancel all but one'. 공공: 중기부·소진공 2025 노쇼 실태조사 원문 미발견. 클리앙 park/18029107 (2023-04-17)",
+      "createdAt": "2026-10-24T15:31:38.582Z",
+      "seq": 1624
     },
     {
-      "id": "8a1c2f82",
-      "title": "buying-lottery-tickets 보강: 학술·문학 파편, 불황 조건",
+      "id": "c9c1c9bf",
+      "title": "buying-lottery-tickets 보강: 학술 파편, 불황 조건",
       "priority": 50,
-      "note": "2026-10-24 경기일보 2011 지지대 칼럼 더함, 결과 daydreaming-about-windfall. 클리앙 park/16857769 (2022-01-09) '1주간의 행복한 상상 희망을 산다 생각했는데 5등도 잘 안되니 지치네요'. Chekhov The Lottery Ticket(1887) 문학 후보",
-      "createdAt": "2026-10-24T09:18:20.799Z",
-      "seq": 1506
+      "note": "2026-10-24 Chekhov The Lottery Ticket 1887 (ibiblio Garnett 번역) 더함. 클리앙 park/16857769 (2022-01-09) '1주간의 행복한 상상 희망을 산다 생각했는데 5등도 잘 안되니 지치네요'",
+      "createdAt": "2026-10-24T15:32:32.406Z",
+      "seq": 1625
     },
     {
-      "id": "bb26adae",
-      "title": "deja-vu 보강: 스트레스·피로 조건",
+      "id": "f0f32ffb",
+      "title": "deja-vu 보강: 스트레스 조건",
       "priority": 50,
-      "note": "2026-10-24 Rossetti Sudden Light 1881 더함. 닥터나우 qna bdf850dd (2025-04-07) 기시감이 모든 행동으로 번짐, 하이닥 C0000957516 같은 사연(둘 중 하나만). Brown 2003 초록 stress and fatigue(같은 URL)",
-      "createdAt": "2026-10-24T09:19:07.909Z",
-      "seq": 1507
+      "note": "2026-10-24 HN 14478517 (2017-06-03) 피곤할 때 더함. 닥터나우 qna bdf850dd (2025-04-07) 기시감이 모든 행동으로 번짐, 하이닥 C0000957516 같은 사연(둘 중 하나만). Brown 2003 초록 stress and fatigue(같은 URL)",
+      "createdAt": "2026-10-24T15:33:06.082Z",
+      "seq": 1626
     },
     {
-      "id": "0178a761",
-      "title": "difficulty-discarding 보강: SNS 파편, 세대 조건, keeping-belongings-of-the-dead·saving-things-for-best 관계",
+      "id": "48bde5d5",
+      "title": "difficulty-discarding 보강: 세대 조건, keeping-belongings-of-the-dead·saving-things-for-best 관계",
       "priority": 50,
-      "note": "2026-10-24 클리앙·블라인드 검색에서 1인칭 SNS 미발견(블라인드 글은 본문이 JS 로만 옴). 매체 후보 경향 스포츠 2019-11-06 sports.khan.co.kr/article/201911060700013 '못 버리는 나, 저장강박증 아닌가요?', 미래에셋 투자와연금 idx=12922 중년. Wheaton 2020 PMID 32504873, Nordsletten 2013 PMID 23533058",
-      "createdAt": "2026-10-24T09:19:46.950Z",
-      "seq": 1508
+      "note": "2026-10-24 HN 6230915 (2013-08-18) 더함. 매체 후보 sports.khan.co.kr/article/201911060700013 (2019-11-06) '못 버리는 나, 저장강박증 아닌가요?', 미래에셋 투자와연금 idx=12922 중년. Nordsletten 2013 PMID 23533058",
+      "createdAt": "2026-10-24T15:33:45.510Z",
+      "seq": 1627
     },
     {
-      "id": "530c8a03",
-      "title": "bragging-about-children 보강: downplaying-praise-of-family 대립, 다른 시기 SNS",
+      "id": "47bbed1f",
+      "title": "bragging-about-children 보강: downplaying-praise-of-family 대립",
       "priority": 50,
-      "note": "2026-10-24 머니투데이 2025-12-06 카톡 프로필 칼럼 더함. Kim 2017 Discourse Studies 10.1177/1461445617715178 한국 부모 대화의 자녀 칭찬. 레이디경향 2015 단톡방 자랑 lady.khan.co.kr/education/article/201506051025021",
-      "createdAt": "2026-10-24T09:20:20.856Z",
-      "seq": 1509
+      "note": "2026-10-24 레이디경향 2015-06-01 단톡방 매너 더함. Kim 2017 Discourse Studies 10.1177/1461445617715178 한국 부모 대화의 자녀 칭찬(대립 근거 후보)",
+      "createdAt": "2026-10-24T15:34:24.171Z",
+      "seq": 1628
     },
     {
-      "id": "595c3d81",
-      "title": "understating-age 보강: 동기 파편, 나이를 늘리는 방향 조건",
+      "id": "d9ca6ced",
+      "title": "understating-age 보강: 나이를 늘리는 방향 조건",
       "priority": 50,
-      "note": "2026-10-24 Berger 2009 PMID 19377045 더함. cpapracticeadvisor 2026-06-17 50세 이상 구직자 35.3% 나이 언급 피함. GDI 같은 기사 'a third said they tell the lie out of the fear of being judged on their actual truth'(같은 URL). Staffordshire 같은 문단에 나이를 늘린 응답",
-      "createdAt": "2026-10-24T09:21:34.357Z",
-      "seq": 1510
+      "note": "2026-10-24 Fortune 2026-05-24 이력서 줄이기 더함. GDI 같은 기사 'a third said they tell the lie out of the fear of being judged on their actual truth'(같은 URL). Staffordshire 같은 문단에 나이를 늘린 응답. cpapracticeadvisor 2026-06-17 50세 이상 35.3% 는 검색으로 못 찾음",
+      "createdAt": "2026-10-24T15:35:15.649Z",
+      "seq": 1629
     },
     {
-      "id": "a079df48",
-      "title": "false-consensus-effect 보강: SNS 파편, pluralistic-ignorance 관계",
+      "id": "775c430d",
+      "title": "false-consensus-effect 보강: pluralistic-ignorance 관계",
       "priority": 50,
-      "note": "2026-10-24 브런치 2026-06-08 기획자 글 더함, 별칭 False Consensus Effect. Orrù 2023 PMID 37397336 정의. Duong 2022 PMID 33685307 체벌 부모의 규범 인식. Sparkman 2022 PMID 35999211 은 pluralistic-ignorance 쪽",
-      "createdAt": "2026-10-24T09:23:12.806Z",
-      "seq": 1511
+      "note": "2026-10-24 HN 9625221 (2015-05-29) 더함. Duong 2022 PMID 33685307 체벌 부모의 규범 인식. Sparkman 2022 PMID 35999211 은 pluralistic-ignorance 쪽",
+      "createdAt": "2026-10-24T15:35:55.784Z",
+      "seq": 1630
     },
     {
-      "id": "ffbcb1d0",
+      "id": "73aaa7f2",
       "title": "matchmaking 보강: 학술 파편, 공공 주선 행사",
       "priority": 50,
-      "note": "2026-10-24 WorkingUS 2009-01-31 게시글 더함. fnnews 2023-07-11 성남시 단체 미팅 행사는 공공 주선 후보. 2017 동행미디어 시대 같은 기사 '네가 아까워서 소개를 못해주겠어(42%)'(같은 URL)",
-      "createdAt": "2026-10-24T09:24:40.259Z",
-      "seq": 1512
+      "note": "2026-10-24 Duke Today 2014-02-10 Anik·Norton 소개 더함. 학술 원문 Anik, Norton 2014 Social Psychological and Personality Science 'Matchmaking Promotes Happiness' 는 dash.harvard.edu 본문 비어 있음(JS). fnnews 202307111027040453 은 404",
+      "createdAt": "2026-10-24T15:37:00.562Z",
+      "seq": 1631
     },
     {
-      "id": "3037eee5",
+      "id": "ec8f8bde",
       "title": "following-peer-fashion 보강: SNS 파편, 못 가진 아이의 소외감, poverty-peer-withdrawal 관계",
       "priority": 50,
-      "note": "2026-10-24 클리앙 노스페이스 패딩 검색에서 학창 시절 1인칭 댓글 미발견. 주간경향 2017-11-28 weekly.khan.co.kr/article/201711281004271 가진 학생과 못 가진 학생의 위화감. Anne 같은 장면 'They all had puffed sleeves'(같은 URL)",
-      "createdAt": "2026-10-24T09:25:23.946Z",
-      "seq": 1513
+      "note": "2026-10-24 클리앙 노스페이스 패딩 검색에서 학창 시절 1인칭 댓글 미발견, HN 'kids at school brand clothes fit in' 검색 무소득. 주간경향 2017-11-28 weekly.khan.co.kr/article/201711281004271 가진 학생과 못 가진 학생의 위화감. Anne 같은 장면 'They all had puffed sleeves'(같은 URL)",
+      "createdAt": "2026-10-24T15:37:21.879Z",
+      "seq": 1632
     },
     {
-      "id": "1874b324",
-      "title": "counting-on-inheritance 보강: 한국어 파편, 일 선택 조건",
+      "id": "7fd107d0",
+      "title": "counting-on-inheritance 보강: 일 선택 조건, SNS 파편",
       "priority": 50,
-      "note": "2026-10-24 Basiglio 외 2022 crossref 10.1111/roiw.12621 더함. 같은 초록 'Expectations also appear to matter for ... intended choices on work versus leisure'(같은 URL). 뉴스토마토 2015 no=558094 NH투자증권 100세연구소 조사, 나이 어릴수록 부모 사후 상속 원함. 보사연 2013 koreascience CFKO201311536428623(PDF)",
-      "createdAt": "2026-10-24T09:27:06.744Z",
-      "seq": 1514
+      "note": "2026-10-24 뉴스토마토 2015-05-28 한국 10~20대 더함. Basiglio 2022 같은 초록 'Expectations also appear to matter for ... intended choices on work versus leisure'(같은 URL). 보사연 2013 koreascience CFKO201311536428623(PDF)",
+      "createdAt": "2026-10-24T15:38:01.916Z",
+      "seq": 1633
     },
     {
-      "id": "bc6fe232",
-      "title": "zeigarnik-effect 보강: SNS·문학 파편, prospective-memory-failure 관계",
+      "id": "73367795",
+      "title": "zeigarnik-effect 보강: 문학 파편, prospective-memory-failure 관계",
       "priority": 50,
-      "note": "2026-10-24 결과 work-rumination-after-hours(데일리안 2014 '해결되지 않은 문제 63.1%'). gqkorea.co.kr/?p=387467 (2026-07-09) 밀린 업무가 잠자리에서 떠오름",
-      "createdAt": "2026-10-24T09:31:53.678Z",
-      "seq": 1517
+      "note": "2026-10-24 HN 6691294 (2013-11-07) 더함. gqkorea.co.kr/?p=387467 (2026-07-09) 밀린 업무가 잠자리에서 떠오름. HN 47356574 (2026-03-12) 끝난 지점을 적어 두면 마음이 멈춤",
+      "createdAt": "2026-10-24T15:39:00.795Z",
+      "seq": 1634
     },
     {
-      "id": "ae153bbe",
+      "id": "cd87380d",
       "title": "behaving-better-when-watched 보강: SNS·한국어 파편, fear-of-negative-evaluation 관계",
       "priority": 50,
-      "note": "2026-10-24 skipping-handwashing 대립(Lawson 2019 Ulster). 원인 간선은 '때문에' 문장 필요([^2] Nettle 'As we care what other people think about us' 후보). segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
-      "createdAt": "2026-10-24T09:36:03.112Z",
-      "seq": 1521
+      "note": "2026-10-24 재확인: [^2] Nettle 'As we care what other people think about us' 는 평판 신경 쓰기이지 부정적 평가에 대한 불안이 아니어서 fear-of-negative-evaluation 원인 간선 근거로 약함. 평판 신경 쓰기 문서 후보. segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
+      "createdAt": "2026-10-24T15:39:15.988Z",
+      "seq": 1635
     },
     {
-      "id": "cb7ad31f",
-      "title": "counting-sheep 보강: 2002 옥스퍼드 연구를 직접 시험하지 않았다는 정정, 중세 유래",
+      "id": "7c75a02e",
+      "title": "counting-sheep 보강: 2002 옥스퍼드 연구 정정, lying-awake-thinking 관계",
       "priority": 50,
-      "note": "2026-10-24 CNN 2024-03-24 기사는 Harvey&Payne 2002 가 양 세기를 직접 시험하지 않았다고 정정한다(일반 주의 돌리기 집단 14명 중 2명만 셈). 후보 대목 미추출. purplemotes.net/2013/09/01/origin-counting-sheep-fall-asleep (2013-09-01) 12세기 Disciplina Clericalis, mentalfloss.com 2010-04-21 양치기 유래. lying-awake-thinking 과 관계 후보",
-      "createdAt": "2026-10-24T12:23:47.224Z",
-      "seq": 1526
+      "note": "2026-10-24 purple motes 2013-09-01 Disciplina Clericalis 더함. CNN 2024-03-24 기사(이미 [^7])는 Harvey&Payne 2002 가 양 세기를 직접 시험하지 않았다고 정정(같은 URL 이라 대목 교체 필요할 때만). mentalfloss.com 2010-04-21 양치기 유래",
+      "createdAt": "2026-10-24T15:39:53.528Z",
+      "seq": 1636
     },
     {
-      "id": "1e473d26",
-      "title": "burning-farm-waste 보강: 해충 방제 믿음 파편, 2000년대 파편",
+      "id": "30884ff1",
+      "title": "burning-farm-waste 보강: 2000년대 파편, working-through-heat 관계",
       "priority": 50,
-      "note": "2026-10-24 news.seoul.go.kr/safe/?p=11963 같은 페이지 '논·밭두렁 태우기는 병해충 방제에 큰 효과가 없음'(이미 [^1] 출처라 다른 출처 필요). 농촌진흥청 2020~2021 익충 80~97% 조사 원문 미확인. working-through-heat 과 같은 고령 농민 장면",
-      "createdAt": "2026-10-24T12:30:57.728Z",
-      "seq": 1530
+      "note": "2026-10-24 경기일보 2010-04-18 기고 '병해충이 방제된다는 고정 관념' 더함. 후보: newsseoul.co.kr/news/view/1065610818350753 (2024-02-28) 농촌진흥청 2020~2021 익충 80~97%, 소각 해충방제 효과 미비",
+      "createdAt": "2026-10-24T15:41:01.612Z",
+      "seq": 1637
+    },
+    {
+      "id": "5b54d986",
+      "title": "nonurgent-ambulance-calls 보강: 한국 공공 파편, 상위 간선",
+      "priority": 50,
+      "note": "2026-10-24 블라인드 2026-07-28 SNS 더함. korea.kr 소방청 보도자료 검색 무소득. 매체 후보: newsis NISX20260313_0003547784 (2026-03-13) '감기인데 병원 좀' 미이송 38.8%, medigatenews 1297225561 (2019-10-07), premier.vic.gov.au/save-lives-saving-000-emergencies (2021-10-21). nonurgent-emergency-room-visits 와 공통 상위 후보",
+      "createdAt": "2026-10-24T15:41:29.548Z",
+      "seq": 1638
+    },
+    {
+      "id": "72d15a03",
+      "title": "avoiding-library-over-overdue-books 보강: shame-after-unanswered-message 와 관계",
+      "priority": 50,
+      "note": "2026-10-24 HN 28767644 (2021-10-06) SNS 더함. 관계 근거 파편 없음. 후보: haveyoursay.cbcity.nsw.gov.au/abolishment-library-overdue-fees 'Parents often feel they can’t come into a library while fees remain unpaid', odt.co.nz fines-discontinued-district-libraries (2022-07-25)",
+      "createdAt": "2026-10-24T15:41:43.893Z",
+      "seq": 1639
+    },
+    {
+      "id": "26079382",
+      "title": "fare-evasion 보강: 2000년 이전 공공 파편",
+      "priority": 50,
+      "note": "2026-10-24 news.seoul.go.kr/traffic/archives/3117 (발행일 미상, 수정 2012-10-17) 버스 도중 태그 더함. TfL·MTA 동기 분류는 PDF",
+      "createdAt": "2026-10-24T15:43:17.965Z",
+      "seq": 1640
+    },
+    {
+      "id": "0c2a1114",
+      "title": "hiding-bedbug-infestation 보강: 한국어 파편, avoiding-inviting-people-home 과 관계",
+      "priority": 50,
+      "note": "2026-10-24 Asshoff 2022 PMC9727609 낙인 때문에 퇴치 수단 구하기를 두려워함 더함. 같은 글 'people are known to self-isolate and avoid family and friends out of concern for spreading the infestation'(같은 URL). 한국어 검색: 2023-11 국내 보도는 방제·신고센터 안내뿐",
+      "createdAt": "2026-10-24T15:43:53.523Z",
+      "seq": 1641
+    },
+    {
+      "id": "7d19c189",
+      "title": "avoiding-death-talk 보강: 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-24 NBC 2004-09-15 스웨덴 부모 연구 더함. 후보: thegazette.co.uk/all-notices/content/100090 72% 불편",
+      "createdAt": "2026-10-24T15:44:43.504Z",
+      "seq": 1642
+    },
+    {
+      "id": "ccb8961a",
+      "title": "fighting-over-the-bill 보강: dodging-the-bill 과 대립, 체면 원인",
+      "priority": 50,
+      "note": "2026-10-24 HN 8797505 (2014-12-25) 나폴리 커피값 더함. 후보: news.ycombinator.com/item?id=7223604 (2014-02-12) 'because it is honorable' 다만 남의 글을 옮긴 인용 안의 대목. 체면 문서 없음",
+      "createdAt": "2026-10-24T15:45:12.111Z",
+      "seq": 1643
     },
     {
       "id": "d16898d2",
@@ -771,6 +755,14 @@
       "note": "2026-10-24 재탐색. Accenture 홀리데이 조사(mexc.com/it-IT/news/110779 재게시) 77% 'struggle with too many options', 80% 넘게 선물 구매 포기, 원 보도자료 미확인. 키오스크 쪽 i-boss ab-6141-71733 업계 조언 '한 화면에 너무 많은 메뉴가 나오면 ... 결정하는 데 더 많은 시간' 은 포기 인과 아님",
       "createdAt": "2026-10-24T09:29:23.697Z",
       "seq": 1516
+    },
+    {
+      "id": "cc0b7194",
+      "title": "dev: source-check 가 호스트 홈도 같은 소켓 오류로 실패하면 소멸로 보지 않는다",
+      "priority": 30,
+      "note": "2026-10-24 poverty-shame [^5] futurechosun.com/archives/119175 와 같은 호스트 / 가 모두 fetch failed (UND_ERR_SOCKET), 2026-10-21 까지 VERIFIED. 오탐 사례가 하나뿐이라 두 번째 사례를 기다린다. 2026-10-24 다른 UNREACHABLE 기록 호스트(minnesotamonthly 403, oslomet, umass 열림)는 해당 없음",
+      "createdAt": "2026-10-24T15:12:26.227Z",
+      "seq": 1592
     },
     {
       "id": "75b0ae75",
@@ -1907,6 +1899,22 @@
       "note": "2026-10-24 pressing-placebo-buttons 작업 중. PMC9292938 (2021-09-08) Langer 1975 정의. pressing-placebo-buttons, buying-lottery-tickets, gamblers-fallacy 의 상위 후보. BBC 2013 magazine-23869955 'illusion of control' 대목은 이미 다른 대목을 썼으므로 다른 출처 필요",
       "createdAt": "2026-10-24T12:27:58.973Z",
       "seq": 1528
+    },
+    {
+      "id": "8b57bcb0",
+      "title": "신을 탓한 뒤 종교 행위 끊기",
+      "priority": 10,
+      "note": "2026-10-24 blaming-fate-or-god 의 결과 간선 후보. PMC7201637 (2020-05-06) 'Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices.' earticle.net/Article/A275113 (2016-05) 하나님께 분노",
+      "createdAt": "2026-10-24T15:06:00.128Z",
+      "seq": 1591
+    },
+    {
+      "id": "bd50d1b5",
+      "title": "남을 불편하게 할까 봐 말 꺼내지 않기",
+      "priority": 10,
+      "note": "2026-10-24 avoiding-death-talk [^3] christiantoday 2014-05-13 Dying Matters 조사 80% 가 죽음이 남을 불편하게 한다고 여겨 이야기하지 않음. avoiding-death-talk 의 원인 간선 후보",
+      "createdAt": "2026-10-24T15:14:27.088Z",
+      "seq": 1593
     },
     {
       "id": "02b2f242",
