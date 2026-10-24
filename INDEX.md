@@ -310,6 +310,7 @@
 - [혼잣말](docs/talking-to-oneself.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [화장실 뒤 손 안 씻기](docs/skipping-handwashing.md) ([건강과 위험](groups/health-and-safety.md))
 - [화재경보를 오작동으로 여기기](docs/dismissing-fire-alarms.md) ([건강과 위험](groups/health-and-safety.md))
+- [회복기에 일상을 새롭게 느끼기](docs/savoring-ordinary-life-in-convalescence.md) ([건강과 위험](groups/health-and-safety.md))
 - [회식 참석 부담](docs/company-dinner-pressure.md) ([일터와 일자리](groups/work.md))
 - [효과 없는 버튼 누르기](docs/pressing-placebo-buttons.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [후회 회피](docs/regret-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
