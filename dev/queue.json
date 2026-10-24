@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-23T21:38:03.687Z",
-  "nextSeq": 1382,
-  "stops": 92,
+  "savedAt": "2026-10-24T00:39:48.171Z",
+  "nextSeq": 1394,
+  "stops": 93,
   "items": [
-    {
-      "id": "aabe4350",
-      "title": "blaming-fate-or-god 보강: 결과 간선(신을 피하기), 한국어 비문학 파편",
-      "priority": 50,
-      "note": "2026-10-23 문학 벙어리 삼룡이 1925, 학술 PMC4312360 2015 더함. 후보: PMC7201637 (2020-05-06) 'Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices.'(결과 간선 근거, 종교 행위 끊기 문서 필요), earticle.net/Article/A275113 (2016-05) 하나님께 분노, sports.khan.co.kr/article/200804022103006 (2008-04-02) 팔자 찾기, ko.wikisource 배따라기 1921 '운명이 데일 힘셉디다'. jjan.kr 2020 수해 기사는 실명 대목",
-      "createdAt": "2026-10-23T03:23:37.785Z",
-      "seq": 1232
-    },
     {
       "id": "ef643978",
       "title": "avoiding-death-talk 보강: 2010년 이전 파편, SNS 파편",
@@ -453,12 +445,52 @@
       "seq": 1381
     },
     {
-      "id": "8bdc7384",
-      "title": "dev: style-check 요약 줄 검사를 WARN 에서 ERROR 로 올린다",
-      "priority": 40,
-      "note": "2026-10-23 SUMMARY_LEVEL='WARN'. wanting-to-keep-working-in-old-age 요약을 고친 뒤 올린다",
-      "createdAt": "2026-10-23T21:06:32.523Z",
-      "seq": 1369
+      "id": "81327e42",
+      "title": "blaming-fate-or-god 보강: 결과 간선(신을 피하기), 한국어 비문학 파편",
+      "priority": 50,
+      "note": "2026-10-23 문학 벙어리 삼룡이 1925, 학술 PMC4312360 2015 더함. 후보: PMC7201637 (2020-05-06) 'Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices.'(결과 간선 근거, 종교 행위 끊기 문서 필요), earticle.net/Article/A275113 (2016-05) 하나님께 분노, sports.khan.co.kr/article/200804022103006 (2008-04-02) 팔자 찾기, ko.wikisource 배따라기 1921 '운명이 데일 힘셉디다'. jjan.kr 2020 수해 기사는 실명 대목",
+      "createdAt": "2026-10-24T00:11:43.637Z",
+      "seq": 1388
+    },
+    {
+      "id": "5d1bc1d5",
+      "title": "nonurgent-ambulance-calls 보강: 한국 공공 파편, SNS 파편, 상위 간선",
+      "priority": 50,
+      "note": "2026-10-24 학술 3, 매체 2, 공공 2(총무성 2007, 사이타마 2026)로 만듦. 후보: premier.vic.gov.au/save-lives-saving-000-emergencies (2021-10-21) 000 호출 5분의 1 이상 비응급, medigatenews.com/news/1297225561 (2019-10-07) 소방청 자료 15만1318명, weekly.khan.co.kr/article/9297 같은 글 '구급차를 택시로 여기는 것이다'. nfa.go.kr 보도자료 미발견. nonurgent-emergency-room-visits 와 공통 상위(경증에 응급 의료 쓰기) 후보",
+      "createdAt": "2026-10-24T00:12:28.106Z",
+      "seq": 1389
+    },
+    {
+      "id": "bc9e02c4",
+      "title": "avoiding-library-over-overdue-books 보강: SNS 파편, shame-after-unanswered-message 와 관계",
+      "priority": 50,
+      "note": "2026-10-24 공공 2, 매체 3, 학술 1 로 만듦. 후보: haveyoursay.cbcity.nsw.gov.au/abolishment-library-overdue-fees (발행일 미상, 2019 공람) 'Parents often feel they can’t come into a library while fees remain unpaid', mediahub.seoul.go.kr/archives/2016875 (2026-01-23) 시민기자 1인칭, odt.co.nz fines-discontinued-district-libraries (2022-07-25), dailyhive.com/edmonton/library-books-return (2023-11-29, 글쓴이 불명). 게시판은 봇 확인 페이지",
+      "createdAt": "2026-10-24T00:19:41.601Z",
+      "seq": 1390
+    },
+    {
+      "id": "d0e9628f",
+      "title": "fare-evasion 보강: SNS 파편, 2000년 이전 공공 파편, 동기를 말하는 공공 파편",
+      "priority": 50,
+      "note": "2026-10-24 매체 4, 공공 2, 학술 2 로 만듦. 후보: news.seoul.go.kr/traffic/archives/3117 (발행일 없음, 수정 2012-10-17) 하차 태그 미루기, clien.net/service/board/park/19265313 (2026-09-18) 꼬리 물기 목격, audit.vic.gov.au/node/30644 같은 글 deliberate 정의. TfL·MTA 동기 분류는 PDF. Gothamist 2022-05-24 는 실명 인터뷰",
+      "createdAt": "2026-10-24T00:25:21.145Z",
+      "seq": 1391
+    },
+    {
+      "id": "80b186f2",
+      "title": "hiding-bedbug-infestation 보강: 한국어 파편, poverty-shame·avoiding-inviting-people-home 과 관계",
+      "priority": 50,
+      "note": "2026-10-24 학술 2, 매체, SNS, 공공 으로 만듦. 후보: PMC9727609 (2022-12) 'Even today, people are known to self-isolate and avoid family and friends out of concern for spreading the infestation'(자기 격리, 결과 간선 후보, 미검증), vice 같은 글 'People who have bed bugs tend to socially isolate themselves', PMC10374038 같은 글 '신고 피하고 전문가 도움 거부'. 한국어 빈대 수치심 자료는 미발견(2023 국내 보도는 건수·방제 안내뿐). rocklandcountyny.gov 는 JS 렌더",
+      "createdAt": "2026-10-24T00:32:25.212Z",
+      "seq": 1392
+    },
+    {
+      "id": "8d3c4bb5",
+      "title": "avoiding-checking-balance 보강: 한국어 파편, money-worry 원인 간선, leaving-mail-unopened 와 관계",
+      "priority": 50,
+      "note": "2026-10-24 학술 2, 매체 2, 공공, SNS 로 만듦. 상위 delaying-bad-news. 후보: PMC11522046 같은 글 'In general, negative financial information is more likely to be avoided', moneysavingexpert 같은 스레드 댓글 'No, I don't avoid checking. As if I do it gives me a false sense of hope.'(대립 후보), onefamily 같은 글 36% 불안. 한국어 자료 미발견, maps.org.uk·moneyhelper 403, Karlsson 2009 는 PDF",
+      "createdAt": "2026-10-24T00:39:36.076Z",
+      "seq": 1393
     },
     {
       "id": "e8ba47a7",
