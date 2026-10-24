@@ -154,3 +154,10 @@ test('별칭마다 원문이나 서지에 그 이름이 든 파편을 각주로 
   const only = makeDoc({body: '문단.[^1]', frags: fr}).replace('별칭: 없음', '별칭: 우월 착각[^2]')
   assert.ok(!errs(loadAll(makeRepo({a: only}))).some(x => x.includes('참조되지 않은')))
 })
+
+test('한 문서 안의 같은 URL 파편 둘은 오류다', () => {
+  const frags = [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2011', 'https://b.example/2'), frag(3, '매체', '2012', 'https://b.example/2')]
+  const m = errs(loadAll(makeRepo({a: makeDoc({body: '문단.[^1][^2][^3]', frags})})))
+  assert.ok(m.some(x => x.includes('한 출처에서 한 파편만') && x.includes('[^2]')))
+  assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc()}))), [])
+})

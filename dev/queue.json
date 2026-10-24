@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T09:36:30.992Z",
+  "savedAt": "2026-10-24T12:06:34.710Z",
   "nextSeq": 1523,
   "stops": 96,
   "items": [
-    {
-      "id": "23ce8d51",
-      "title": "dev: validate 가 한 문서 안의 같은 URL 파편 둘을 잡는다",
-      "priority": 80,
-      "note": "2026-10-24 skipping-handwashing 에 이미 [^2] 인 https://pure.ulster.ac.uk/en/studentTheses/an-investigation-of-the-hand-hygiene-behaviours-of-the-general-po/ 를 [^3] 으로 한 번 더 넣었는데 validate 가 0 errors 였다(커밋 전 되돌림). 4절 '한 출처에서 한 파편만 쓴다'",
-      "createdAt": "2026-10-24T09:36:23.367Z",
-      "seq": 1522
-    },
     {
       "id": "81327e42",
       "title": "blaming-fate-or-god 보강: 결과 간선(신을 피하기), 한국어 비문학 파편",

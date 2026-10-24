@@ -58,8 +58,10 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
   for (const b of doc.badFragLines) err(b.ln, '파편 줄이 형식에 맞지 않는다')
   for (const b of doc.badRelLines) err(b.ln, '관계 줄 형식이 맞지 않는다: - [제목](id.md)[^n]')
   for (const b of doc.strayLines) err(b.ln, b.text.startsWith('[^') ? '각주 정의는 태그 줄 뒤에만 둔다' : '태그 줄 뒤에는 각주 정의만 둔다')
-  const nums = new Set()
+  const nums = new Set(), firstByUrl = new Map()
   doc.fragments.forEach((f, i) => {
+    if (firstByUrl.has(f.url)) err(f.ln, `한 출처에서 한 파편만 쓴다: [^${firstByUrl.get(f.url)}] 와 [^${f.n}] 이 같은 URL ${f.url}`)
+    else firstByUrl.set(f.url, f.n)
     if (f.n !== i + 1) err(f.ln, `파편 번호가 순서와 다르다 ([^${f.n}], 기대 [^${i + 1}])`)
     nums.add(f.n)
     if (!KINDS.includes(f.kind)) err(f.ln, `종류가 다섯 중 하나가 아니다: ${f.kind}`)
