@@ -8468,15 +8468,15 @@
   },
   "https://www.gutenberg.org/cache/epub/503/pg503-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27000178&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.imaeil.com/page/view/2007031516173977915": {
     "first": "2026-10-23",
@@ -9217,6 +9217,18 @@
     "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27775405&rettype=abstract&retmode=text": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.casenews.co.kr/news/articleView.html?idxno=3971": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://bbs.ruliweb.com/community/board/300143/read/76765240": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
