@@ -1,7 +1,7 @@
 import {test} from 'node:test'
 import assert from 'node:assert/strict'
 import {loadAll} from './lib/doc.mjs'
-import {styleIssues, SUMMARY_LEVEL} from './style-check.mjs'
+import {styleIssues} from './style-check.mjs'
 import {makeDoc, makeRepo} from './lib/fixture.mjs'
 
 const issues = body => styleIssues(loadAll(makeRepo({a: makeDoc({body})})).get('a'))
@@ -75,7 +75,7 @@ test('되묻기의 다시 말해 달라·주는 번역체로 잡지 않는다', 
 test('요약 줄에도 서술과 같은 금지 묶음을 적용한다', () => {
   const sum = summary => styleIssues(loadAll(makeRepo({a: makeDoc({summary})})).get('a'))
   const w = sum('상속을 기대하는 사람이 물려받을 재산을 앞으로의 살림 계산에 넣는다.')
-  assert.ok(w.some(i => i.group === '막연한 시간' && i.ln === 5 && i.level === SUMMARY_LEVEL))
+  assert.ok(w.some(i => i.group === '막연한 시간' && i.ln === 5 && i.level === 'ERROR'))
   assert.ok(sum('누구나 실수를 숨긴다.').some(i => i.group === '범위 뭉뚱그림'))
   assert.deepEqual(sum('사람이 어떤 상황에서 무언가를 한다.'), [])
 })

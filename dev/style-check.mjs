@@ -14,9 +14,6 @@ function lineIssues(doc, ln, text, groups, level) {
   return out
 }
 
-// 요약 줄 검사는 기존 문서가 모두 고쳐질 때까지 WARN 이다.
-export const SUMMARY_LEVEL = 'WARN'
-
 export function styleIssues(doc) {
   const out = []
   for (const {ln, text} of doc.sections['서술']?.lines ?? []) out.push(...lineIssues(doc, ln, text, GROUPS))
@@ -25,7 +22,7 @@ export function styleIssues(doc) {
   const headEnd = doc.headings.find(h => h.level === 1)?.ln ?? doc.lines.length + 1
   doc.lines.slice(0, headEnd - 1).forEach((text, i) => {
     const isSummary = doc.summary !== null && text.trim() === doc.summary
-    out.push(...lineIssues(doc, i + 1, text, isSummary ? GROUPS : emoji, isSummary ? SUMMARY_LEVEL : undefined))
+    out.push(...lineIssues(doc, i + 1, text, isSummary ? GROUPS : emoji))
   })
   const all = paragraphs(doc, '서술')
   for (const p of all) {
