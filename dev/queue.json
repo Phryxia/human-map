@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:36:18.094Z",
-  "nextSeq": 1436,
+  "savedAt": "2026-10-24T03:37:11.090Z",
+  "nextSeq": 1438,
   "stops": 93,
   "items": [
-    {
-      "id": "5d14f4d3",
-      "title": "not-reading-books 보강: 학술·SNS·문학 파편, 다른 시기(2000년대 이전)",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(매체 Pew 2021-09-21, 공공 정책브리핑 2024-04-18). Pew 같은 글 'Roughly a quarter of American adults (23%) say they haven’t read a book'(같은 URL). 정책브리핑 같은 글 학생 '공부 때문에 시간이 없어서(31.2%)'(같은 URL). 2025년 조사 newdaily 2026-03-06 성인 독서율 38.5%. NEA Reading at Risk(2004) 공공 후보. smartphone-checking-habit 과 관계 후보(인과 문장 필요)",
-      "createdAt": "2026-10-23T12:17:08.499Z",
-      "seq": 1307
-    },
     {
       "id": "78558ae9",
       "title": "pet-loss-grief 보강: SNS·공공 파편, bereavement-regret 관계(자책)",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 NPR 2019-05-13 52분 더함. 같은 방송 '세 사분의 일은 중립', 외향인이 더 많이 함(조건, 같은 URL). 후보: webarchive.ucr.edu/news.ucr.edu/articles/2019/05/03/uc-riverside-study-busts-myths-about-gossip.html (젊은 층이 부정적 험담 더 많음, 조건), Dores Cruz 같은 초록 믿음(같은 URL), Emma pg158 문학, PMID 42792356(2026) 다크 테트라드",
       "createdAt": "2026-10-24T03:36:17.967Z",
       "seq": 1435
+    },
+    {
+      "id": "afa0a7b7",
+      "title": "not-reading-books 보강: 학술·문학 파편, 다른 시기(2000년대 이전)",
+      "priority": 50,
+      "note": "2026-10-24 HN 43288299 (2025-03-07) 더함. 같은 댓글 '여가로 읽을 시간이 거의 없다'(같은 URL, 시간 이유). 후보: news.ycombinator.com/item?id=9349113 (2015) 10년 동안 책을 거의 안 읽음. Pew 같은 글 23%(같은 URL). newdaily 2026-03-06 성인 독서율 38.5%. NEA Reading at Risk(2004) 공공 후보. smartphone-checking-habit 과 관계 후보(인과 문장 필요)",
+      "createdAt": "2026-10-24T03:37:10.979Z",
+      "seq": 1437
     },
     {
       "id": "e8ba47a7",
