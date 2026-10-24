@@ -30,6 +30,7 @@
 
 - [진료 회피](medical-care-avoidance.md)
 - [우편물 뜯지 않기](leaving-mail-unopened.md)
+- [잔액 확인 피하기](avoiding-checking-balance.md)
 
 ## 원인
 

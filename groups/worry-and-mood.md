@@ -2,7 +2,7 @@
 
 사람이 결과를 모르는 일을 걱정하거나 확인하고 기분을 바꾸려고 하는 일이다.
 
-문서 29개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
+문서 30개. [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [기분 회복 행동](../docs/mood-repair.md) 기분이 나쁜 사람이 그 기분을 낫게 하려고 먹기, 마시기, 사기, 자기 같은 행동을 한다.
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
@@ -17,6 +17,7 @@
   - [시름을 술로 달래기](../docs/drinking-to-cope.md)
 - [나쁜 소식 확인 미루기](../docs/delaying-bad-news.md) 나쁜 소식일 수 있는 정보를 확인할 시점이 다가오면 그 확인을 늦추거나 피하는 행동이다.
   - [우편물 뜯지 않기](../docs/leaving-mail-unopened.md)
+  - [잔액 확인 피하기](../docs/avoiding-checking-balance.md)
   - [진료 회피](../docs/medical-care-avoidance.md)
     - [치과 공포](../docs/dental-anxiety.md)
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.

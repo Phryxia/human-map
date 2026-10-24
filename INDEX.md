@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 302개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 303개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -236,6 +236,7 @@
 - [자전거 헬멧 미착용](docs/bicycle-helmet-nonuse.md) ([길과 운전](groups/roads-and-driving.md))
 - [작별 인사 길게 끌기](docs/lingering-goodbye.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [작심삼일](docs/abandoning-resolutions.md) ([시간과 하루 습관](groups/daily-time.md))
+- [잔액 확인 피하기](docs/avoiding-checking-balance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠자리 미루기](docs/bedtime-procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠자리에서 시계 보기](docs/clock-watching-in-bed.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [장기기증 등록 미루기](docs/delaying-organ-donor-registration.md) ([걱정과 기분](groups/worry-and-mood.md))
