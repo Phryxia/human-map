@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-10-24T15:04Z | 2026-10-24T15:58Z | avoiding-checking-balance 원인 간선 | avoiding-checking-balance money-worry
+없음.
