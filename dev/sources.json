@@ -7892,15 +7892,15 @@
   },
   "https://80000hours.org/2012/11/do-you-think-you-re-better-than-average/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31789535&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30951804&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8804,27 +8804,27 @@
   },
   "https://link.springer.com/article/10.1007/s11031-007-9072-y": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/park/6083976": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00898/full": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.insight.co.kr/news/364212": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/1661/pg1661.txt": {
     "first": "2026-10-23",
@@ -9169,6 +9169,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.segye.com/view/20231116516323": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://hrcopinion.co.kr/archives/11764": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
