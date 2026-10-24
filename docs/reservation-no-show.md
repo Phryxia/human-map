@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [미래 기억 실패](prospective-memory-failure.md)[^1]
 
 ## 결과
 
