@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:24:01.061Z",
-  "nextSeq": 1406,
+  "savedAt": "2026-10-24T03:26:04.349Z",
+  "nextSeq": 1412,
   "stops": 93,
   "items": [
-    {
-      "id": "2a231691",
-      "title": "not-reporting-workplace-injury 보강: SNS 파편, 한국 공공 파편, 1990년대 학술",
-      "priority": 50,
-      "note": "2026-10-23 학술 2, 공공, 매체 로 만듦. 후보: Pransky 1999 Ergonomics PMID 9973879 'fear of reprisal'(HTML 미열람), govinfo FR-2016-05-12 2016-10443 동료 실망 두려움, cdc.gov/niosh/bulletin/2021/neiss-work.html 낙인·징계 두려움, newsis NISX20210305_0001360742 38.7% 공상(제목에 회사명). 한국어 게시판 글 미발견",
-      "createdAt": "2026-10-23T06:21:35.025Z",
-      "seq": 1250
-    },
     {
       "id": "57951592",
       "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
@@ -491,6 +483,22 @@
       "note": "2026-10-24 Management-Issues 2006-08-01 ING Direct 조사 더함. 같은 글 첫 문장은 상사의 조롱, 거절, 경력 지체 두려움(200자 초과). 후보: fatherly.com survey-dads-fear-being-mommy-tracked, equimundo.org groundbreaking-study 1/5 실직 두려움, um.edu.mt/library/oar/handle/123456789/51353 몰타 연구. unused-annual-leave 와 같은 상위 후보",
       "createdAt": "2026-10-24T03:24:00.939Z",
       "seq": 1405
+    },
+    {
+      "id": "e2e99b30",
+      "title": "not-reporting-workplace-injury 보강: SNS 파편, 한국 공공 파편, 1990년대 학술",
+      "priority": 50,
+      "note": "2026-10-23 학술 2, 공공, 매체 로 만듦. 후보: Pransky 1999 Ergonomics PMID 9973879 'fear of reprisal'(HTML 미열람), govinfo FR-2016-05-12 2016-10443 동료 실망 두려움, cdc.gov/niosh/bulletin/2021/neiss-work.html 낙인·징계 두려움, newsis NISX20210305_0001360742 38.7% 공상(제목에 회사명). 2026-10-24 weekly.khan.co.kr/article/202002281406461 (2020-02-28) 비제조업 산재 처리 12.1% 기사는 본문이 HTML 에 없음, kukinews kuk201810240324 본문 없음, HN 검색 무소득",
+      "createdAt": "2026-10-24T03:25:04.184Z",
+      "seq": 1409
+    },
+    {
+      "id": "ddf26af7",
+      "title": "guilt-about-resigning 보강: 공공 파편, 2000년대 이전 파편",
+      "priority": 50,
+      "note": "2026-10-24 HN 26525398 (2021-03-20) 블랙 기업이 죄책감을 지움 더함. 같은 댓글 끝: 퇴직 대행에 맡겨 마음을 돌리지 못하게 함(퇴직 대행 현상 후보). 후보: news.ycombinator.com/item?id=9611590 (2015-05-27) 입사 제안 번복 죄책감. NBC 2018 'nerve-wracking', GQ '유예' 는 같은 URL",
+      "createdAt": "2026-10-24T03:26:04.131Z",
+      "seq": 1410
     },
     {
       "id": "e8ba47a7",
@@ -1827,6 +1835,14 @@
       "note": "2026-10-23 gedlingeye.co.uk/are-these-national-lottery-numbers-cursed-one-digit-hasnt-been-seen-for-five-months-and-is-overdue/ (2025-04-28) 'Topping the list of the most overdue numbers is ball 21, last appearing 145 days ago on 30th November 2024.' gamblers-fallacy 하위 후보",
       "createdAt": "2026-10-23T21:17:58.618Z",
       "seq": 1374
+    },
+    {
+      "id": "fd9c1f5a",
+      "title": "퇴직 대행 맡기기",
+      "priority": 10,
+      "note": "2026-10-24 HN 26525398 (2021-03-20) 'it's preferable to pay someone to resign for you so that they can't bully you into staying'. guilt-about-resigning 과 원인 관계 후보",
+      "createdAt": "2026-10-24T03:26:04.237Z",
+      "seq": 1411
     },
     {
       "id": "02b2f242",
