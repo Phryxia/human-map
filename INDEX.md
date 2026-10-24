@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 298개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 299개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -19,6 +19,7 @@
 - [걸으며 휴대전화 보기](docs/walking-while-using-phone.md) ([길과 운전](groups/roads-and-driving.md))
 - [게시 직전 자기검열](docs/last-minute-self-censorship.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [결혼 전 불안](docs/pre-wedding-doubts.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [경증 구급차 호출](docs/nonurgent-ambulance-calls.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 응급실 이용](docs/nonurgent-emergency-room-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
