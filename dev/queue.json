@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T15:45:19.498Z",
-  "nextSeq": 1644,
-  "stops": 98,
+  "savedAt": "2026-10-24T18:36:31.567Z",
+  "nextSeq": 1651,
+  "stops": 99,
   "items": [
     {
       "id": "64a6721f",
@@ -403,6 +403,14 @@
       "note": "2026-10-24 HN 8797505 (2014-12-25) 나폴리 커피값 더함. 후보: news.ycombinator.com/item?id=7223604 (2014-02-12) 'because it is honorable' 다만 남의 글을 옮긴 인용 안의 대목. 체면 문서 없음",
       "createdAt": "2026-10-24T15:45:12.111Z",
       "seq": 1643
+    },
+    {
+      "id": "97036f20",
+      "title": "reading-others-private-writing 보강: 학술 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-24 후보: pubmed 26912297 (Reed 외 2016-11) 'A survey of 365 college students was conducted, finding that digital monitoring behaviors were especially common.' 이 환경에서 PubMed 가 203/429 를 줘 source-check NOT_FOUND. 다른 판(저자 원고, ResearchGate 아님)을 찾을 것",
+      "createdAt": "2026-10-24T18:29:25.736Z",
+      "seq": 1650
     },
     {
       "id": "d16898d2",
@@ -1915,6 +1923,22 @@
       "note": "2026-10-24 avoiding-death-talk [^3] christiantoday 2014-05-13 Dying Matters 조사 80% 가 죽음이 남을 불편하게 한다고 여겨 이야기하지 않음. avoiding-death-talk 의 원인 간선 후보",
       "createdAt": "2026-10-24T15:14:27.088Z",
       "seq": 1593
+    },
+    {
+      "id": "fe52f73f",
+      "title": "할 줄 모른다며 맡기는 일 피하기",
+      "priority": 10,
+      "note": "2026-10-24 Villette 8장(gutenberg 9182): 'alleged incapacity and impracticability as a pretext to escape action'. fear-of-failure 와 원인 관계 후보",
+      "createdAt": "2026-10-24T18:11:16.068Z",
+      "seq": 1648
+    },
+    {
+      "id": "a868eb11",
+      "title": "어른이 되어 외국어 말하기 꺼리기",
+      "priority": 10,
+      "note": "2026-10-24 news.ycombinator.com/item?id=7491745 (2014-03-29) 성인이 실패 공포와 사회적 창피 때문에 외국어를 어려워한다는 댓글. fear-of-failure 결과 후보",
+      "createdAt": "2026-10-24T18:11:16.203Z",
+      "seq": 1649
     },
     {
       "id": "02b2f242",
