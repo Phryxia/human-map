@@ -6,7 +6,7 @@
 
 # 서술
 
-2006년 11월 연구[^1]의 저자들은 1992년에서 2004년 사이 51~56세 근로자가 62세 이후에도 전일제로 일할 것이라 예상한 평균 확률이 47% 에서 51% 로 올랐다고 보고했다. 2009년 9월 미국 인구조사국 보고서는 65세 이상의 일부가 은퇴할 마음이 없거나 은퇴 저축이 모자라서 은퇴하지 않고 전일제로 일을 이어 간다고 적었다.[^2]
+2006년 11월 연구[^1]의 저자들은 1992년에서 2004년 사이 51\~56세 근로자가 62세 이후에도 전일제로 일할 것이라 예상한 평균 확률이 47% 에서 51% 로 올랐다고 보고했다. 2009년 9월 미국 인구조사국 보고서는 65세 이상의 일부가 은퇴할 마음이 없거나 은퇴 저축이 모자라서 은퇴하지 않고 전일제로 일을 이어 간다고 적었다.[^2]
 
 2017년 연구[^3]의 저자들은 은퇴 연령을 넘겨 일하는 가장 중요한 동기로 일상의 틀 유지와 금전적 이득을 꼽았다. 2018년 5월 한 업계 매체 블로그의 댓글에서 66세가 된다는 글쓴이는 하는 일과 일의 도전이 좋아 건강이 좋은 한 완전히 은퇴할 생각이 없다고 적었다.[^4]
 
@@ -42,7 +42,7 @@
 
 #돈 #일
 
-[^1]: [학술] "Between 1992 and 2004, the mean expected probability of working full-time past age 62 among workers ages 51 to 56 increased from 47 percent to 51 percent." (1992년에서 2004년 사이 51~56세 근로자가 62세 이후에도 전일제로 일할 것이라 예상한 평균 확률은 47% 에서 51% 로 올랐다.) — Gordon Mermin, Richard W. Johnson, Dan Murphy, "Why Do Boomers Plan to Work So Long?", Center for Retirement Research at Boston College Working Paper 2006-19, 2006-11-01, https://crr.bc.edu/why-do-boomers-plan-to-work-so-long/, 2026-10-18 접속
+[^1]: [학술] "Between 1992 and 2004, the mean expected probability of working full-time past age 62 among workers ages 51 to 56 increased from 47 percent to 51 percent." (1992년에서 2004년 사이 51\~56세 근로자가 62세 이후에도 전일제로 일할 것이라 예상한 평균 확률은 47% 에서 51% 로 올랐다.) — Gordon Mermin, Richard W. Johnson, Dan Murphy, "Why Do Boomers Plan to Work So Long?", Center for Retirement Research at Boston College Working Paper 2006-19, 2006-11-01, https://crr.bc.edu/why-do-boomers-plan-to-work-so-long/, 2026-10-18 접속
 [^2]: [공공] "Others do not retire and continue to work full-time, year-round due to a lack of desire to retire or inadequate retirement savings." (다른 이들은 은퇴할 마음이 없거나 은퇴 저축이 모자라서 은퇴하지 않고 일 년 내내 전일제로 계속 일한다.) — Braedyn K. Woodring, David J. Howard, U.S. Census Bureau, "Work Status of People 65 Years and Older: 2008 American Community Survey", 2009-09, https://www.census.gov/library/publications/2009/acs/acsbr08-10.html, 2026-10-18 접속
 [^3]: [학술] "The most important motives for working beyond retirement age were maintaining daily routines and financial benefit." (은퇴 연령을 넘겨 일하는 가장 중요한 동기는 일상의 틀을 유지하는 것과 금전적 이득이었다.) — Rosanne Sewdas, Astrid de Wind, Lennart G. L. van der Zwaan, Wendy E. van der Borg, Romy Steenbeek, Allard J. van der Beek, Cécile R. L. Boot, "Why older workers work beyond the retirement age: a qualitative study", BMC Public Health 17, 2017-08-22, https://link.springer.com/article/10.1186/s12889-017-4675-z, 2026-10-18 접속
 [^4]: [SNS] "I don’t intend to fully retire as long as my health is good, as I like what I do and the challenges I find at work." (건강이 좋은 한 완전히 은퇴할 생각은 없다. 내가 하는 일과 일에서 만나는 도전이 좋기 때문이다.) — todaysmachiningworld.com 댓글, 2018-05-03, https://todaysmachiningworld.com/the-retirement-question/, 2026-10-18 접속

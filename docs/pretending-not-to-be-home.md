@@ -14,7 +14,7 @@
 
 2016년 기사[^4]는 찾아온 사람이 NHK 수신료 방문원이거나 신문, 종교 권유일 수 있어 귀찮거나 말썽을 피하고 싶다는 것을 집에 없는 척하는 이유로 전한다. 2025년 에세이[^8]의 글쓴이는 종교 권유가 하도 많이 와서 초인종이 울리면 대답하기 싫다고 썼다.
 
-2024년 YouGov 기사[^7]는 나이가 어린 성인일수록 문을 덜 연다고 적는다. 2026년 캐나다 조사 보도[^9]에서는 기다리는 사람이 없으면 아예 문을 열지 않는다는 응답이 55세 이상에서 34%, 18~34세에서 20%였다.
+2024년 YouGov 기사[^7]는 나이가 어린 성인일수록 문을 덜 연다고 적는다. 2026년 캐나다 조사 보도[^9]에서는 기다리는 사람이 없으면 아예 문을 열지 않는다는 응답이 55세 이상에서 34%, 18\~34세에서 20%였다.
 
 # 관계
 
@@ -48,4 +48,4 @@
 [^6]: [매체] "Nowadays, when the doorbell rings, everybody freezes. Then we all get down and pretend we’re not home until we know for sure who it is." (요즘은 초인종이 울리면 모두 얼어붙는다. 그러고는 다 같이 몸을 낮추고 누구인지 확실히 알 때까지 집에 없는 척한다.) — Mordechai Schmutter, "Who's at the door?", The Jewish Link, 2022-12-29, https://jewishlink.news/who-s-at-the-door/, 2026-10-21 접속
 [^7]: [매체] "The younger the adult, the less likely they are to answer the door." (성인은 나이가 어릴수록 문을 열 가능성이 낮다.) — "Who answers the door anymore?", YouGov, 2024-07-17, https://yougov.com/en-us/articles/50105-who-answers-the-door-anymore-knocking-and-neighbors-ding-dong-ditch-poll, 2026-10-21 접속
 [^8]: [매체] "하도 종교에서 많이 와서 벨 누르면 대답하기 싫은데요." — 이음, 「벨 누르면 조심하세요」, 브런치, 2025-04-23, https://brunch.co.kr/@efseo2/1675, 2026-10-22 접속
-[^9]: [매체] "34% of those aged 55+ say they won’t answer at all if they aren’t expecting anyone compared to only 20% young adults aged 18-34." (55세 이상의 34%는 기다리는 사람이 없으면 아예 응답하지 않는다고 답했고 18~34세 젊은 성인은 20%에 그쳤다.) — Ipsos, 「Knock, Knock… Who’s There? Most Older Canadians Aren’t Taking Chances」, Ipsos, 2026-03-02, https://www.ipsos.com/en-ca/knock-knock-whos-there-most-older-canadians-arent-taking-chances, 2026-10-22 접속
+[^9]: [매체] "34% of those aged 55+ say they won’t answer at all if they aren’t expecting anyone compared to only 20% young adults aged 18-34." (55세 이상의 34%는 기다리는 사람이 없으면 아예 응답하지 않는다고 답했고 18\~34세 젊은 성인은 20%에 그쳤다.) — Ipsos, 「Knock, Knock… Who’s There? Most Older Canadians Aren’t Taking Chances」, Ipsos, 2026-03-02, https://www.ipsos.com/en-ca/knock-knock-whos-there-most-older-canadians-arent-taking-chances, 2026-10-22 접속

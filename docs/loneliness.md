@@ -10,13 +10,13 @@
 
 2010년 Hawkley 와 Cacioppo 는 사회적 고립의 지각, 곧 외로움이 위협에 대한 경계와 취약하다는 느낌을 키우고 다시 관계를 맺고 싶은 마음도 키운다고 적었다.[^2] 2025년 안선경 등은 선행 연구가 외로움 같은 정신건강 문제를 청년기 고립은둔으로 옮겨 가는 과정을 앞당기는 요인으로 보고해 왔다고 적었다.[^9]
 
-2018년 영국 통계청 ONS 는 16~24세 성인이 더 나이 든 연령대보다 외로움을 더 자주 느낀다고 답했다고 발표했다.[^3] 2019년 아시아경제 기사는 대인관계에 문제가 없어도 일상생활에서 외로움을 느끼는 20~30대가 늘고 있다고 전한다.[^4]
+2018년 영국 통계청 ONS 는 16\~24세 성인이 더 나이 든 연령대보다 외로움을 더 자주 느낀다고 답했다고 발표했다.[^3] 2019년 아시아경제 기사는 대인관계에 문제가 없어도 일상생활에서 외로움을 느끼는 20\~30대가 늘고 있다고 전한다.[^4]
 
 2025년 3월 코메디닷컴 기사는 혼밥이 잦으면 사회적 고립감이 커질 수 있다는 보고서 내용을 전하고 일주일 내내 혼밥을 한 사람의 38%가 외로움을 느꼈다고 적었다.[^8] 2025년 논문[^7]의 저자들은 외로움을 많이 느낄수록 FoMO 가 높아지고 이것이 SNS 과다 사용으로 이어진다고 적는다.
 
 1936년 작품[^1]의 허 생원은 여자 편에서 정을 보낸 적이 없는 처지로 그려진다.
 
-2018년 자료[^3]는 나이를 조건으로 들고 16~24세에서 외로움을 더 자주 느낀다고 적는다. 2019년 글[^4]은 대인관계에 문제가 없는 경우에도 외로움이 나타난다고 적는다.
+2018년 자료[^3]는 나이를 조건으로 들고 16\~24세에서 외로움을 더 자주 느낀다고 적는다. 2019년 글[^4]은 대인관계에 문제가 없는 경우에도 외로움이 나타난다고 적는다.
 
 2020-04 글[^5]의 기사는 유학 초기 언어 소통의 어려움과 학습 부담 때문에 자존감이 떨어진 유학생이 외로움을 호소하는 경우가 많다고 쓴다.
 
@@ -49,8 +49,8 @@
 
 [^1]: [문학] "허 생원은 계집과는 연분이 멀었다. 얽둑배기 상판을 대어설 숫기도 없었으나 계집 편에서 정을 보낸 적도 없었고, 쓸쓸하고 뒤틀린 반생이었다." — 이효석, 「메밀꽃 필 무렵」, 1936, https://ko.wikisource.org/wiki/메밀꽃_필_무렵, 2026-10-17 접속
 [^2]: [학술] "Perceptions of social isolation, or loneliness, increase vigilance for threat and heighten feelings of vulnerability while also raising the desire to reconnect." (사회적 고립의 지각, 곧 외로움은 위협에 대한 경계를 늘리고 취약하다는 느낌을 키우는 한편 다시 관계를 맺고 싶은 욕구도 높인다.) — Louise C. Hawkley, John T. Cacioppo, "Loneliness Matters: A Theoretical and Empirical Review of Consequences and Mechanisms", Annals of Behavioral Medicine, 2010-10, https://link.springer.com/article/10.1007/s12160-010-9210-8, 2026-10-17 접속
-[^3]: [공공] "Younger adults aged 16 to 24 years reported feeling lonely more often than those in older age groups." (16~24세의 젊은 성인은 더 나이 든 연령대보다 외로움을 더 자주 느낀다고 보고했다.) — Office for National Statistics, "Loneliness - What characteristics and circumstances are associated with feeling lonely?", 2018-04-10, https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/lonelinesswhatcharacteristicsandcircumstancesareassociatedwithfeelinglonely/2018-04-10, 2026-10-17 접속
-[^4]: [매체] "최근 대인관계에 문제가 없어도 일상생활에서 외로움을 느끼는 20~30대가 늘고 있는 것으로 나타났다." — 김수완, 「“같이 있어도 외로워요” 일상생활서 외로움 느끼는 2030」, 아시아경제, 2019-12-07, https://view.asiae.co.kr/article/2019120613064829122, 2026-10-17 접속
+[^3]: [공공] "Younger adults aged 16 to 24 years reported feeling lonely more often than those in older age groups." (16\~24세의 젊은 성인은 더 나이 든 연령대보다 외로움을 더 자주 느낀다고 보고했다.) — Office for National Statistics, "Loneliness - What characteristics and circumstances are associated with feeling lonely?", 2018-04-10, https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/lonelinesswhatcharacteristicsandcircumstancesareassociatedwithfeelinglonely/2018-04-10, 2026-10-17 접속
+[^4]: [매체] "최근 대인관계에 문제가 없어도 일상생활에서 외로움을 느끼는 20\~30대가 늘고 있는 것으로 나타났다." — 김수완, 「“같이 있어도 외로워요” 일상생활서 외로움 느끼는 2030」, 아시아경제, 2019-12-07, https://view.asiae.co.kr/article/2019120613064829122, 2026-10-17 접속
 [^5]: [매체] "특히 유학초기에는언어소통에 대한 어려움과 학습에 대한 부담감 때문에 자존감이 떨어져 심리적으로 불안하고 외로움을 호소하는 경우가 많다. 이러한 외로움은 향수병으로 이어지는 경우가 흔하다." — 미주중앙일보, 「해외 유학생, 향수병과 우울증, 불안으로 정신과 진료 문의 급증」, 미주중앙일보, 2020-04-27, https://www.koreadaily.com/article/8251080, 2026-10-18 접속
 [^6]: [학술] "That is, the lack of social contact made people more likely to experience loneliness, and those who experienced higher levels of loneliness were more likely to listen to nostalgic songs." (즉 사회적 접촉의 부족은 사람들이 외로움을 겪을 가능성을 높였고, 외로움을 더 크게 겪은 사람일수록 옛 노래를 들을 가능성이 컸다.) — Kuan-Ju Huang, Ya-Hui Chang, Mark J. Landau, "Pandemic Nostalgia: Reduced Social Contact Predicts Consumption of Nostalgic Music During the COVID-19 Pandemic", Social Psychological and Personality Science, 2023-01-18, https://pmc.ncbi.nlm.nih.gov/articles/PMC9892812/, 2026-10-21 접속
 [^7]: [학술] "Therefore, the more the individual experiences feelings of loneliness, the higher the levels of FoMO, which ultimately leads to the overuse of social networking sites." (그러므로 개인이 외로움을 많이 느낄수록 FoMO 수준이 높아지고 이것이 결국 소셜 네트워킹 사이트의 과다 사용으로 이어진다.) — Yuhua Wang, Yufei Sun, Taiping Li 외, "The longitudinal relationship between loneliness and problematic social networking site use in college students: the mediating role of trait- and state-fear of missing out", Frontiers in Psychology 16, 2025-03-19, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1477239/full, 2026-10-22 접속
