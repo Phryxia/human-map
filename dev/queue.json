@@ -1,16 +1,24 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T18:36:31.567Z",
-  "nextSeq": 1651,
-  "stops": 99,
+  "savedAt": "2026-10-24T21:42:08.931Z",
+  "nextSeq": 1665,
+  "stops": 100,
   "items": [
     {
-      "id": "64a6721f",
-      "title": "walking-while-using-phone 보강: phone-use-while-driving 과 관계",
-      "priority": 50,
-      "note": "2026-10-24 Planetizen 2008-03-14 더함. 후보: nbcnews.com/id/wbna34903338 (2010-01-17) Nasar ER 방문 연구, smithsonianmag 2004-2010 전봇대 부상 세 배",
-      "createdAt": "2026-10-24T15:16:30.362Z",
-      "seq": 1594
+      "id": "571a816d",
+      "title": "dev: source-check 가 글은 타임아웃, 호스트 / 는 소켓 오류인 경우를 호스트 장애로 본다",
+      "priority": 60,
+      "note": "2026-10-24 driving-overconfidence [^4] web.archive.org/web/20160214202833 글은 source-check 에서 타임아웃, fetch 단독으로는 글과 / 모두 ECONNRESET. 프록시 recentRelayFailures 에 tunnel closed. 2026-10-20 까지 VERIFIED, 소멸 표시는 보류",
+      "createdAt": "2026-10-24T21:11:35.704Z",
+      "seq": 1659
+    },
+    {
+      "id": "266dddf8",
+      "title": "dev: source-check 가 403 으로 온 봇 확인 페이지(Checking your browser...)를 봇 확인으로 본다",
+      "priority": 60,
+      "note": "2026-10-24 not-negotiating-salary [^4] pewresearch.org short-reads/2023/04/05 가 같은 날 VERIFIED 뒤 403 + <title>Checking your browser...</title>, 다른 글도 403, / 는 200. 소멸 표시 보류",
+      "createdAt": "2026-10-24T21:15:27.146Z",
+      "seq": 1661
     },
     {
       "id": "5bb18acb",
@@ -19,14 +27,6 @@
       "note": "2026-10-24 Refinery29 2019-12-09 1인칭 매체 더함. 후보: news.ycombinator.com/item?id=19873409 (2019-05-09) 'people are scared to knock on their neighbor’s door'. 2026-10-24 학술 검색: 호별 방문자 불안을 다룬 질적 연구 미발견. PMC8863159 (코로나 시기 호별 모집) 본문에 해당 대목 없음, eprints.ncrm.ac.uk 3722 는 봇 확인 페이지",
       "createdAt": "2026-10-24T15:17:37.705Z",
       "seq": 1595
-    },
-    {
-      "id": "a6d6b612",
-      "title": "saving-things-for-best 보강: 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-24 HN 24274541 (2020-08-25) 더함. difficulty-discarding 과의 결과 간선은 근거 파편 없음. 한국어 '아끼다 똥' 검색: brunch 블로그 글뿐(매체), 연예인 기사는 실존 개인",
-      "createdAt": "2026-10-24T15:18:22.797Z",
-      "seq": 1596
     },
     {
       "id": "e5d28ea6",
@@ -45,14 +45,6 @@
       "seq": 1598
     },
     {
-      "id": "9776c3c6",
-      "title": "guilt-about-resigning 보강: 공공 파편, 2000년대 이전 파편",
-      "priority": 50,
-      "note": "2026-10-24 webtan.impress.co.jp 2025-09-02 mamori 조사 더함. 후보: news.ycombinator.com/item?id=9611590 (2015-05-27) 입사 제안 번복 죄책감. 후생노동성 자료에서 퇴직 시 심리 조사는 미발견",
-      "createdAt": "2026-10-24T15:21:12.227Z",
-      "seq": 1599
-    },
-    {
       "id": "d9e69c25",
       "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
       "priority": 50,
@@ -67,22 +59,6 @@
       "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22~2026-10-24 여러 차례 / 가 TLS 실패(curl 60, SELF_SIGNED_CERT_IN_CHAIN), 2026-10-24 15시대 재확인도 같음. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
       "createdAt": "2026-10-24T15:22:06.430Z",
       "seq": 1601
-    },
-    {
-      "id": "692f62ad",
-      "title": "calling-in-sick-when-not-sick 보강: 공공 파편, 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-24 한국어 검색: sateconomy.co.kr/news/view/179589525286532 (사람인 2016) 은 아파도 출근 87.1%, '꾀병이라고 오해 받는 것이 싫어서' 22%(sickness-presenteeism 의 원인 후보), koreaherald.com/article/10512 (2013-05-06) 은 영국 병가 회피. creativepro.com CareerBuilder 2005·2006 꾀병 조사는 403. 후보: Hansard 2024-01-10 'pull a sickie'(API 로만 읽힘)",
-      "createdAt": "2026-10-24T15:22:32.006Z",
-      "seq": 1602
-    },
-    {
-      "id": "b02d2faf",
-      "title": "not-negotiating-salary 보강: 한국어 파편, 공공 파편",
-      "priority": 50,
-      "note": "2026-10-24 HN 44735331 (2025-07-30) 더함. 후보: anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, americanbar.org young_lawyers attorney-salary-negotiations. 코멘토에 맞는 대목 없음",
-      "createdAt": "2026-10-24T15:23:04.653Z",
-      "seq": 1603
     },
     {
       "id": "51336b9d",
@@ -411,6 +387,38 @@
       "note": "2026-10-24 후보: pubmed 26912297 (Reed 외 2016-11) 'A survey of 365 college students was conducted, finding that digital monitoring behaviors were especially common.' 이 환경에서 PubMed 가 203/429 를 줘 source-check NOT_FOUND. 다른 판(저자 원고, ResearchGate 아님)을 찾을 것",
       "createdAt": "2026-10-24T18:29:25.736Z",
       "seq": 1650
+    },
+    {
+      "id": "bdbbe8f7",
+      "title": "walking-while-using-phone 와 phone-use-while-driving 의 공통 상위",
+      "priority": 50,
+      "note": "2026-10-24 nbcnews wbna34903338 (2010-01-17) 더함. 이 기사는 distracted driving 과 distracted walking 을 나란히 부른다. 공통 상위(다른 일을 하며 휴대전화 보기) 문서 없음",
+      "createdAt": "2026-10-24T21:12:57.259Z",
+      "seq": 1660
+    },
+    {
+      "id": "f6f2cac4",
+      "title": "not-negotiating-salary 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-10-24 maily.so 2025-11-27 한국어 매체 더함. 한국 공공 출처(고용정보원, 통계청)에서 협상하지 않은 비율 미발견. 후보: ppss.kr/archives/241446 (2021-05-24) 그대로 받아들인다",
+      "createdAt": "2026-10-24T21:15:35.779Z",
+      "seq": 1662
+    },
+    {
+      "id": "57d78f55",
+      "title": "calling-in-sick-when-not-sick 보강: 한국어 1인칭 파편",
+      "priority": 50,
+      "note": "2026-10-24 NI Assembly 2008-06-26 공공, kormedi 2009-07-08 더함. 후보: brunch.co.kr/@noey/418 (2026-05-10) 연휴 앞뒤 병가를 꾀병으로 보는 동료. 별칭 swinging the lead 는 같은 NI 보고서의 앞 문장",
+      "createdAt": "2026-10-24T21:24:01.743Z",
+      "seq": 1663
+    },
+    {
+      "id": "a5e52310",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-10-24 Middlemarch 51장 (1872) 더함. 공공 후보: kokkai.ndl.go.jp/txt/119715206X00620181204/419 (2018-12-04) 퇴직을 꺼내기 어렵다는 발언(죄책감 낱말 없음). 오리건 의회 증언은 PDF·실명",
+      "createdAt": "2026-10-24T21:42:00.613Z",
+      "seq": 1664
     },
     {
       "id": "d16898d2",
@@ -763,14 +771,6 @@
       "note": "2026-10-24 재탐색. Accenture 홀리데이 조사(mexc.com/it-IT/news/110779 재게시) 77% 'struggle with too many options', 80% 넘게 선물 구매 포기, 원 보도자료 미확인. 키오스크 쪽 i-boss ab-6141-71733 업계 조언 '한 화면에 너무 많은 메뉴가 나오면 ... 결정하는 데 더 많은 시간' 은 포기 인과 아님",
       "createdAt": "2026-10-24T09:29:23.697Z",
       "seq": 1516
-    },
-    {
-      "id": "cc0b7194",
-      "title": "dev: source-check 가 호스트 홈도 같은 소켓 오류로 실패하면 소멸로 보지 않는다",
-      "priority": 30,
-      "note": "2026-10-24 poverty-shame [^5] futurechosun.com/archives/119175 와 같은 호스트 / 가 모두 fetch failed (UND_ERR_SOCKET), 2026-10-21 까지 VERIFIED. 오탐 사례가 하나뿐이라 두 번째 사례를 기다린다. 2026-10-24 다른 UNREACHABLE 기록 호스트(minnesotamonthly 403, oslomet, umass 열림)는 해당 없음",
-      "createdAt": "2026-10-24T15:12:26.227Z",
-      "seq": 1592
     },
     {
       "id": "75b0ae75",
