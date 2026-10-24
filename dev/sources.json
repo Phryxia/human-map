@@ -6788,33 +6788,33 @@
   },
   "https://www.gutenberg.org/cache/epub/128/pg128.txt": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/142/pg142.txt": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://dare.uva.nl/id/56de6301-b4c4-470f-8f1e-c52cb8eb9dbc": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://www.segye.com/view/20240103515727": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://brunch.co.kr/@frme/7": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/967/pg967.txt": {
     "first": "2026-10-22",
@@ -6824,9 +6824,9 @@
   },
   "https://www.gutenberg.org/cache/epub/11339/pg11339.txt": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/102/pg102.txt": {
     "first": "2026-10-22",
@@ -6854,15 +6854,15 @@
   },
   "https://boards.straightdope.com/t/do-you-fantasize-about-winning-the-lottery-or-other-windfall/451106": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://www.imaeil.com/page/view/2009031906215952205": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-24"
   },
   "https://newsarchive.berkeley.edu/news/berkeleyan/1997/0827/keltner.html": {
     "first": "2026-10-22",
@@ -7814,21 +7814,21 @@
   },
   "https://www.korea.kr/news/issueQAView.do?newsId=148773728": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://nocutnews.co.kr/news/5663854": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://v.daum.net/v/KoEXbpo5ZM": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12784936&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8588,9 +8588,9 @@
   },
   "https://www.clien.net/service/board/park/15593116": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.a-ha.io/questions/4f61aaafdb476e6a812243e20f0c5fad": {
     "first": "2026-10-23",
@@ -9283,6 +9283,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/park/9289386": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.kyeonggi.com/article/201101310393559": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
