@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:18:19.812Z",
-  "nextSeq": 1398,
+  "savedAt": "2026-10-24T03:19:47.071Z",
+  "nextSeq": 1400,
   "stops": 93,
   "items": [
-    {
-      "id": "d53dad84",
-      "title": "walking-while-using-phone 보강: 2012 이전 파편, phone-use-while-driving 과 관계",
-      "priority": 50,
-      "note": "2026-10-23 CBS Miami 2017, HN 댓글 2023 더함. 후보: content.time.com/time/quotes/0,26174,1724522,00.html (2008-03-21) 런던 행인 가로등 부딪힘(문장 257자), techcrunch 2008-03-05 같은 내용 248자, news.ycombinator.com/item?id=38603367 (2023-12-11) 목격담. mediahub.seoul.go.kr/archives/998259 (2016-06-16) 10~30대 보행자 조건. austroads 봇 확인, tfd.metro.tokyo 점검, seoulsolution SSL 만료",
-      "createdAt": "2026-10-23T03:35:03.883Z",
-      "seq": 1240
-    },
     {
       "id": "4ead50b2",
       "title": "hesitating-at-the-door 보강: 1인칭 SNS·학술 파편, 사회불안 원인 간선",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 Williams 1918 Wikisource 9장 더함. 후보: en.wikisource.org/wiki/The_Diary_of_a_Nobody/Chapter_3 (1892) 'Mr. James each time insisted on paying for all'(되갚기, 실명 꼴 이름 있음), gutenberg pg8868 Botchan 6장 1906 얼음물값 동전 밀어내기(대접 거절, 부채감 후보). 위키트리 '체면과 자존심' 은 같은 URL",
       "createdAt": "2026-10-24T03:18:19.678Z",
       "seq": 1397
+    },
+    {
+      "id": "29b1d490",
+      "title": "walking-while-using-phone 보강: phone-use-while-driving 과 관계, 2010 이전 파편",
+      "priority": 50,
+      "note": "2026-10-24 BPS Research Digest 2010-07-16 Hyman 연구 소개 더함. 같은 글은 운전 중 통화와 견주지만 인과를 말하지 않음. 후보: content.time.com/time/quotes/0,26174,1724522,00.html (2008-03-21, 257자), theknightshift.com/2010/01/would-you-notice-clown-on-unicycle.html (2010-01), consumerreports.org 2012-08 phones-put-pedestrians-in-a-fog(멤버십 벽)",
+      "createdAt": "2026-10-24T03:19:46.967Z",
+      "seq": 1399
     },
     {
       "id": "e8ba47a7",
