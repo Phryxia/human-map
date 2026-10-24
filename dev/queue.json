@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T12:16:43.827Z",
-  "nextSeq": 1525,
+  "savedAt": "2026-10-24T12:23:47.395Z",
+  "nextSeq": 1527,
   "stops": 96,
   "items": [
     {
@@ -403,6 +403,14 @@
       "note": "2026-10-24 skipping-handwashing 대립(Lawson 2019 Ulster). 원인 간선은 '때문에' 문장 필요([^2] Nettle 'As we care what other people think about us' 후보). segye 2017-04-30 미니 환경미화원 스티커, go.seoul.co.kr 2016-06-09 전신주 동물벽화",
       "createdAt": "2026-10-24T09:36:03.112Z",
       "seq": 1521
+    },
+    {
+      "id": "cb7ad31f",
+      "title": "counting-sheep 보강: 2002 옥스퍼드 연구를 직접 시험하지 않았다는 정정, 중세 유래",
+      "priority": 50,
+      "note": "2026-10-24 CNN 2024-03-24 기사는 Harvey&Payne 2002 가 양 세기를 직접 시험하지 않았다고 정정한다(일반 주의 돌리기 집단 14명 중 2명만 셈). 후보 대목 미추출. purplemotes.net/2013/09/01/origin-counting-sheep-fall-asleep (2013-09-01) 12세기 Disciplina Clericalis, mentalfloss.com 2010-04-21 양치기 유래. lying-awake-thinking 과 관계 후보",
+      "createdAt": "2026-10-24T12:23:47.224Z",
+      "seq": 1526
     },
     {
       "id": "d16898d2",
