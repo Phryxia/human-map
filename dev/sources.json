@@ -8480,15 +8480,15 @@
   },
   "https://www.imaeil.com/page/view/2007031516173977915": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8682595/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.clien.net/service/board/kin/18918634": {
     "first": "2026-10-23",
@@ -9229,6 +9229,18 @@
     "lastVerified": "2026-10-24"
   },
   "https://bbs.ruliweb.com/community/board/300143/read/76765240": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://bravo.etoday.co.kr/view/atc_view/4989": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://mediahub.seoul.go.kr/archives/1204806": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
