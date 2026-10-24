@@ -117,8 +117,10 @@ export async function recheckText(url, {quote, wasVerified, fetchText: get = fet
 // 원글이 타임아웃일 때 / 도 타임아웃이면 마찬가지다(strathprints.strath.ac.uk, 2026-10-20). / 가 다른 이유(도메인 소멸 등)로 실패하면 막힌 것으로 보지 않는다.
 // TLS 인증서 실패(start.umd.edu, scholarworks.iu.edu, archive.carla.umn.edu, 2026-10-21), 5xx(abs.gov.au 503, 2026-10-21),
 // 점검 페이지(www150.statcan.gc.ca, 2026-10-21)도 / 가 같은 종류로 실패하면 호스트 장애다(이슈 #6).
+// Location 없는 3xx 로 막는 봇 프록시(www.plansponsor.com 의 Sucuri, 2026-10-24)도 / 가 3xx 면 같다.
 const TLS_CODE_RE = /\((?:[A-Z_]*CERT[A-Z_]*|ERR_TLS_[A-Z_]+|ERR_SSL_[A-Z_]+|UNABLE_TO_VERIFY_LEAF_SIGNATURE)\)$/
 export function failureKind(reason = '') {
+  if (/^HTTP 3\d\d$/.test(reason)) return '3xx'
   if (/^HTTP 4\d\d$/.test(reason)) return '4xx'
   if (/^HTTP 5\d\d$/.test(reason)) return '5xx'
   if (reason === '타임아웃') return 'timeout'

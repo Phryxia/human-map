@@ -187,6 +187,15 @@ test('hostBlocked: 원글이 4xx 이고 호스트의 / 도 열리지 않으면 t
   assert.equal(await hostBlocked('https://example.com/slow', '타임아웃', {fetchImpl: mk({'/': 403})}), false)
 })
 
+// www.plansponsor.com 은 2026-10-21 VERIFIED 였던 글과 홈(/)을 2026-10-24 에 모두 Location 없는 307(server: Sucuri/Cloudproxy)로 줬다.
+test('hostBlocked: 원글이 3xx 이고 호스트의 / 도 3xx 면 true, / 가 열리거나 다른 이유로 실패하면 false', async () => {
+  const mk = map => async url => { const s = map[new URL(url).pathname] ?? 200; return {ok: s < 300, status: s, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>x</html>'} }
+  const url = 'https://www.plansponsor.com/workers-need-an-intervention/'
+  assert.equal(await hostBlocked(url, 'HTTP 307', {fetchImpl: mk({'/': 307})}), true)
+  assert.equal(await hostBlocked(url, 'HTTP 307', {fetchImpl: mk({'/': 200})}), false)
+  assert.equal(await hostBlocked(url, 'HTTP 307', {fetchImpl: mk({'/': 404})}), false)
+})
+
 // strathprints.strath.ac.uk 는 2026-10-18 VERIFIED 였던 id/eprint/36504 를 2026-10-20 에 타임아웃으로 줬고(fetch 의 TimeoutError, 연결 단계의 UND_ERR_CONNECT_TIMEOUT 두 꼴), 홈(/)도 연결 타임아웃이었다.
 test('hostBlocked: 원글이 타임아웃이고 호스트의 / 도 타임아웃이면 true, / 가 다른 이유로 실패하면 false', async () => {
   const timeout = () => Object.assign(new Error('The operation was aborted due to timeout'), {name: 'TimeoutError'})
