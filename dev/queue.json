@@ -1,33 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:26:04.349Z",
-  "nextSeq": 1412,
+  "savedAt": "2026-10-24T03:29:25.528Z",
+  "nextSeq": 1420,
   "stops": 93,
   "items": [
-    {
-      "id": "57951592",
-      "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-10-23 학술, 공공, SNS, 매체 로 만듦. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의(당파 보도자료), news.ycombinator.com/item?id=9489263 2015-05-04 같은 이유로 못 그만둠. gao.gov, bls.gov 403, cbo.gov JS, reddit 403",
-      "createdAt": "2026-10-23T06:26:14.599Z",
-      "seq": 1252
-    },
-    {
-      "id": "56181eeb",
-      "title": "calling-in-sick-when-not-sick 보강: 공공 파편, 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-23 매체 2, SNS, 학술 로 만듦. 후보: Hansard 2024-01-10 Westminster Hall 'Back pain was seen as an easy excuse to pull a sickie'(HTML 은 Cloudflare 403, API 로만 읽힘), news.ycombinator.com/item?id=49208807 2026-08-07 꽃을 받은 뒤 거짓이 드러남, item?id=8630586 2014-11-19 개인 프로젝트로 하루 쉼. Carlsen·Nyborg 2020 Health Economics 게재본 403. sickness-presenteeism 과의 대립 근거 파편 찾기",
-      "createdAt": "2026-10-23T06:30:21.506Z",
-      "seq": 1254
-    },
-    {
-      "id": "9772526c",
-      "title": "not-negotiating-salary 보강: 한국어 파편, 2005년 이전 파편, 공공 파편",
-      "priority": 50,
-      "note": "2026-10-23 SNS, 매체, 학술 로 만듦. 후보: pewresearch.org short-reads 2023-04-05 38% 불편(민간 조사기관), anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, news.ycombinator.com/item?id=44735331 2025-07-30 성사를 그르칠까 협상 안 함. 코멘토에 맞는 대목 없음",
-      "createdAt": "2026-10-23T06:33:33.487Z",
-      "seq": 1256
-    },
     {
       "id": "b1d3b96b",
       "title": "guilt-about-resigning 보강: SNS 파편, 공공 파편, 2000년대 이전 파편",
@@ -43,14 +19,6 @@
       "note": "2026-10-23 경향 2007, 디시 2026 더함. 남은 후보: brunch.co.kr/@bidancheon/166 (2026-05-15) 휴대폰 시간 확인 뒤 계산, 그럴수록 잠은 더 멀리(저자명 미확인). washingtonpost 1990 'The Modern Curse of Insomnia', 1998 'The Snooze Report' 403. Time 1990-12-17 칼럼에 시계 대목 없음",
       "createdAt": "2026-10-23T09:16:12.086Z",
       "seq": 1275
-    },
-    {
-      "id": "934b170d",
-      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:31Z 모두 / 가 TLS 실패(curl 60). 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
-      "createdAt": "2026-10-23T09:30:31.253Z",
-      "seq": 1279
     },
     {
       "id": "ef27ce3b",
@@ -499,6 +467,38 @@
       "note": "2026-10-24 HN 26525398 (2021-03-20) 블랙 기업이 죄책감을 지움 더함. 같은 댓글 끝: 퇴직 대행에 맡겨 마음을 돌리지 못하게 함(퇴직 대행 현상 후보). 후보: news.ycombinator.com/item?id=9611590 (2015-05-27) 입사 제안 번복 죄책감. NBC 2018 'nerve-wracking', GQ '유예' 는 같은 URL",
       "createdAt": "2026-10-24T03:26:04.131Z",
       "seq": 1410
+    },
+    {
+      "id": "2c2a9f5f",
+      "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-10-23 학술, 공공, SNS, 매체 로 만듦. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의(당파 보도자료), news.ycombinator.com/item?id=9489263 2015-05-04 같은 이유로 못 그만둠. gao.gov, bls.gov 403, cbo.gov JS, reddit 403. 2026-10-24 한국어 검색은 퇴직 후 지역가입자 보험료 안내 글뿐, 보험 때문에 남는 글 미발견",
+      "createdAt": "2026-10-24T03:26:38.667Z",
+      "seq": 1413
+    },
+    {
+      "id": "212e4940",
+      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:31Z, 2026-10-24 03:30Z 모두 / 가 TLS 실패(curl 60, SELF_SIGNED_CERT_IN_CHAIN). WebFetch 는 503. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
+      "createdAt": "2026-10-24T03:27:28.705Z",
+      "seq": 1415
+    },
+    {
+      "id": "0f16d40e",
+      "title": "calling-in-sick-when-not-sick 보강: 공공 파편, 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-23 매체 2, SNS, 학술 로 만듦. 후보: Hansard 2024-01-10 Westminster Hall 'Back pain was seen as an easy excuse to pull a sickie'(HTML 은 Cloudflare 403, API 로만 읽힘), news.ycombinator.com/item?id=49208807 2026-08-07 꽃을 받은 뒤 거짓이 드러남, item?id=8630586 2014-11-19 개인 프로젝트로 하루 쉼. Carlsen·Nyborg 2020 Health Economics 게재본 403. sickness-presenteeism 과의 대립 근거 파편 찾기. 2026-10-24 heraldk.com/en/?p=67146 커리어 조사 '몸이 안 좋다' 22.6% 는 홈으로 리디렉트(사라짐). 한국 설문은 아파도 출근 쪽만 나옴(sports.khan 200703062045423)",
+      "createdAt": "2026-10-24T03:28:16.824Z",
+      "seq": 1417
+    },
+    {
+      "id": "a8241d03",
+      "title": "not-negotiating-salary 보강: 한국어 파편, 공공 파편",
+      "priority": 50,
+      "note": "2026-10-24 CNN 2003-08-21 방송 기록 더함. 같은 기록에 여성은 협상을 치과 가는 일에 견준다는 진행자 말. 후보: pewresearch.org short-reads 2023-04-05 은 이미 씀, anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, news.ycombinator.com/item?id=44735331 2025-07-30 성사를 그르칠까 협상 안 함, americanbar.org young_lawyers attorney-salary-negotiations. 코멘토에 맞는 대목 없음",
+      "createdAt": "2026-10-24T03:29:25.425Z",
+      "seq": 1419
     },
     {
       "id": "e8ba47a7",
