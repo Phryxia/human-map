@@ -35,5 +35,6 @@
 - [죽음 이야기 피하기](../docs/avoiding-death-talk.md) 사람이 자기 죽음이나 생애 말기에 관해 생각하거나 가족과 이야기하기를 피한다.
 - [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md) 질병 정보를 읽는 사람이 거기 적힌 증상이 자기에게 있다고 여겨 그 병에 걸렸다고 믿거나 걱정한다.
 - [지루함](../docs/boredom.md) 사람이 하는 일이나 지내는 날에 흥미를 느끼지 못하고 따분해한다.
+  - [퇴근 시간 기다리며 시계 보기](../docs/clock-watching-at-work.md)
 - [징크스 지키기](../docs/superstitious-rituals.md) 결과를 알 수 없는 일을 앞둔 사람이 불운을 막거나 일이 잘되도록 정해 둔 작은 의례를 하거나 어떤 행동을 피한다.
 - [한숨 쉬기](../docs/sighing.md) 사람이 답답하거나 안도할 때 숨을 길게 내쉰다.
