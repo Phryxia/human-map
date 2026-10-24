@@ -14,7 +14,7 @@
 
 2017년 영국 설문[^4]에서 어린이 8명 가운데 1명(12%)은 부모가 전혀 창피하지 않다고 답했다.
 
-2023년 댓글[^5]의 글쓴이는 중학생 아들을 가끔 학교에 데려다주면 아들이 창피하다며 멀리서 내려 달라고 말한다고 적었다.
+2023년 댓글[^5]의 글쓴이는 중학생 아들을 가끔 학교에 데려다주면 아들이 창피하다며 멀리서 내려 달라고 말한다고 적었다. 2024년 댓글[^6]의 글쓴이는 낡은 첫 차를 20년 동안 탔고 초등학생이던 둘째가 차 밖에 친구들이 보이면 몸을 낮춰 숨었다고 적었다.
 
 # 관계
 
@@ -45,3 +45,4 @@
 [^3]: [매체] "88% of the 1,500 UK teenagers who took part admitted to being regularly embarrassed by their parents." (참여한 영국 10대 1,500명의 88%가 부모 때문에 자주 창피하다고 인정했다.) — DJS Research, 「Poll finds 88% of UK teenagers embarrassed by their parents」, 2011-09, https://djsresearch.co.uk/insights/poll-finds-88percent-of-uk-teenagers-embarrassed-by-their-parents-00170, 2026-10-23 접속
 [^4]: [매체] "One in eight (12%) children say they don’t find their parents embarrassing at all." (어린이 8명 가운데 1명(12%)은 부모가 전혀 창피하지 않다고 말한다.) — Matthew Smith, 「YouGov reveals what kids find most embarrassing about their parents」, YouGov, 2017-09-04, https://yougov.com/en-gb/articles/19024-yougov-reveals-what-kids-find-most-embarrassing-ab, 2026-10-23 접속
 [^5]: [SNS] "근데 중딩 아들내미 학교 가끔 데려다주면 비슷하게 반응한다네요...저기 멀리서 내려달라고...쪽팔린다고" — 클리앙, 댓글, 2023-04-18, https://www.clien.net/service/board/park/18032403, 2026-10-23 접속
+[^6]: [SNS] "딴 얘기지만 첫차를 사서 아무 생각없이 20년을 탔는데 초등학생이던 둘째가 차밖에 친구들이 보이면 몸을 낮춰 숨던 기억이 납니다. ㅎㅎ 차가 좀 덜덜거리고 낡긴 했었어요." — 클리앙, 댓글, 2024-06-25, https://www.clien.net/service/board/park/18752297, 2026-10-24 접속
