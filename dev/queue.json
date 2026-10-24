@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:37:43.203Z",
-  "nextSeq": 1440,
-  "stops": 94,
+  "savedAt": "2026-10-24T06:37:03.201Z",
+  "nextSeq": 1475,
+  "stops": 95,
   "items": [
-    {
-      "id": "9fb28d10",
-      "title": "solo-leisure 보강: 학술·SNS·문학 파편, 연령 조건",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(공공 문체부 2017-01-12, 매체 이코노미스트 2024-12-27). 문체부 같은 글 '20대 이하 국민들의 70% 이상은 혼자서 여가활동을 하는 것으로 나타나 타 연령대(50%~60%초반)와 구분'(같은 URL), '휴식(56.7%)' 소극적 여가. sidae 2014-12-17 2014년 조사. 한국어 '혼놀' 게시글, 학술(solitude 선호) 미탐색. eating-alone-feelings, loneliness 와 관계 후보(인과 문장 필요)",
-      "createdAt": "2026-10-23T12:20:41.781Z",
-      "seq": 1309
-    },
-    {
-      "id": "f182c797",
-      "title": "tightwad-spending 보강: SNS·공공·한국어 파편, retail-therapy 대립 후보",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Silas Marner 1861, 매체 Knowledge at Wharton 2007-09-19, 학술 Rick 외 2008 russellsage). russellsage 같은 초록 'Spending differences between tightwads and spendthrifts are greatest in situations that amplify the pain of paying'(조건, 같은 URL). Silas Marner 같은 책 'it was pleasant to him to feel them in his palm'. cmu.edu TightwadSpendThrift.pdf 전문, theglobeandmail what-makes-a-tightwad. 한국어 '돈 쓰는 게 아까워' 게시글 미탐색. 헤프게 쓰기(spendthrift) 별개 현상 후보",
-      "createdAt": "2026-10-23T12:21:51.219Z",
-      "seq": 1310
-    },
-    {
-      "id": "31748ece",
-      "title": "vegetable-gardening 보강: 문학·SNS·매체 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(공공 강동구 2016-03-10, 학술 Soga 2016 eutils, 공공 내 손안에 서울 2022-05-25). mediahub 2011412(2024-06-11) 매력텃밭정원 체험기 '주말마다 소풍 오는 기분으로 텃밭 활동'. 서울신문 2013-06-01 '아스팔트 옆 텃밭… 흙은 힐링', 2017-04-03 '3평의 행복'. 한경에세이 2026-05-11 한 평에서 싹트는 것들. Candide 'il faut cultiver notre jardin' 문학 후보(비유라 서술 주의). 한국어 주말농장 게시글 미탐색",
-      "createdAt": "2026-10-23T12:25:28.630Z",
-      "seq": 1311
-    },
-    {
-      "id": "5f1b5172",
-      "title": "boredom 보강: 학술·SNS·한국어 파편, loneliness·avoiding-being-alone-with-thoughts 관계",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Madame Bovary 영역 1886, 매체 Psychology Today 2017-03-03). 같은 글 'Men were far more likely to report feeling bored than women, and single participants were far more prone to boredom'(같은 URL), 'far more likely to be reported in conjunction with negative emotions ... loneliness, anger, sadness, and worry'(같은 URL). 원 논문 Chin 외 2017 Emotion 17(2) PDF(cmu.edu BoredUSA.pdf). PMID 42546294(2026) 재택근무에서 지루함 더 큼. Bovary 같은 책 'ennui, the silent spider'",
-      "createdAt": "2026-10-23T12:27:03.332Z",
-      "seq": 1312
-    },
-    {
-      "id": "0689e30f",
-      "title": "forbidden-curiosity 보강: 매체·SNS·한국어 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Blue Beard, Blue Fairy Book 1889, 학술 Hsee·Ruan 2016 eutils). Hsee 같은 초록 'when facing something uncertain and feeling curious, they will act to resolve the uncertainty even if they expect negative consequences'(같은 URL). 같은 동화 'She was so much pressed by her curiosity'(같은 URL). 연인 휴대폰 몰래 보기(snooping-on-partners-phone) 와 관계 후보(인과 문장 필요). 한국어 '보지 말라면 더 보고 싶다' 게시글 미탐색",
-      "createdAt": "2026-10-23T12:28:12.530Z",
-      "seq": 1313
-    },
     {
       "id": "1549576d",
       "title": "retirement-emptiness 보강: 공공·SNS·문학 파편, wanting-to-keep-working-in-old-age 관계",
@@ -491,6 +451,62 @@
       "note": "2026-10-23 문서 만듦(문학 Byron Epitaph to a Dog 1808 wikisource, 학술 Cleary 2022 eutils, 매체 데일리벳 2025-07-23). Wikipedia 는 비문 산문을 Hobhouse 가 썼다고 적음(시 본문 'I never knew but one' 은 Inscription on the Monument of a Newfoundland Dog). 데일리벳 같은 기사 '더 잘해줄 걸' 자책감, '유난 떠는 것처럼 보이고' 공감 받지 못한 슬픔(같은 URL). Lavorgna 2019 PMID 30216137 사람 사별과 슬픔 정도 차이 없음, PMID 41533687 지속성 애도. disenfranchised grief 별개 현상 후보",
       "createdAt": "2026-10-24T03:37:31.886Z",
       "seq": 1439
+    },
+    {
+      "id": "333b9d2c",
+      "title": "연애 기피와 혼자 있기 선호 관계",
+      "priority": 50,
+      "note": "avoiding-dating: 세계일보 2023-11-16 피앰아이 조사 '혼자가 편하다' 33.6%, 경제적 여유 없음 11.2%(같은 URL). solo-leisure 와 원인 간선 후보(인과 문장 필요). 일본 내각부 남녀공동참획백서 r04 b1_s00_02.html 20대 남성 교제 경험 없음 4할(공공, 2022)",
+      "createdAt": "2026-10-24T06:15:39.983Z",
+      "seq": 1468
+    },
+    {
+      "id": "c7538173",
+      "title": "skipping-holiday-homecoming 과 laughing-off-holiday-nagging 관계",
+      "priority": 50,
+      "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함(같은 URL, '이골이 났기 때문이다' 인과). 결과/원인 간선 후보는 명절 잔소리 문서가 생기면. 아시아경제 2018092500170503009 알바몬 조사 46.7% 친지 모임 불참(미확인)",
+      "createdAt": "2026-10-24T06:24:24.147Z",
+      "seq": 1469
+    },
+    {
+      "id": "77b272ca",
+      "title": "solo-leisure 보강: 학술·SNS·문학 파편, 연령 조건",
+      "priority": 50,
+      "note": "2026-10-24 한국경제 2026-09-08 혼놀 파편 더함(같은 URL: 알바천국 MZ 83.9% 모임 횟수 줄임, 트렌드모니터 '친구 없어도 불편 없다' 2023 42.2%→2026 46.9%). 문체부 2017-01-12 같은 글 20대 이하 70% 이상 혼자 여가(연령 조건, 서술 미반영). 학술(solitude 선호), 한국어 게시글 미탐색. avoiding-dating 과 관계 후보",
+      "createdAt": "2026-10-24T06:25:28.530Z",
+      "seq": 1470
+    },
+    {
+      "id": "d336ade6",
+      "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
+      "priority": 50,
+      "note": "2026-10-24 클리앙 park/19148358 (2026-02-22) 더함. 같은 글 '아버지의 보증으로 집안의 경제가 무너지면서 겪었던 가난은 제게 돈을 쓰는 것은 피해야 할 일이라는 인식을 남겼습니다'(인과, 어린 시절 가난이 원인 문서가 생기면 간선). 클리앙 park/11336862 대출 이자로 못 삼(미확인)",
+      "createdAt": "2026-10-24T06:26:30.186Z",
+      "seq": 1471
+    },
+    {
+      "id": "68c945d1",
+      "title": "vegetable-gardening 보강: 문학·SNS 파편",
+      "priority": 50,
+      "note": "2026-10-24 서울신문 2003-04-25 주말농장 기사 더함. mediahub 150935(2006-03-02 서울시 주말농장 모집), 168354(2007-08-31 시민기자 '가을의 수확, 주말농장') 미확인 후보. 한국어 주말농장 게시글 미탐색",
+      "createdAt": "2026-10-24T06:27:48.672Z",
+      "seq": 1472
+    },
+    {
+      "id": "2a1ebcc7",
+      "title": "boredom 보강: SNS·한국어 파편, loneliness·avoiding-being-alone-with-thoughts 관계",
+      "priority": 50,
+      "note": "2026-10-24 Chin 외 2017 eutils 27775405 더함. 같은 초록 'particularly predictive of loneliness, anger, sadness, and worry'(상관, 인과 아님). PMID 42546294(2026) 재택근무 지루함. 한국어 '심심해 죽겠다' 게시글 미탐색",
+      "createdAt": "2026-10-24T06:28:32.326Z",
+      "seq": 1473
+    },
+    {
+      "id": "f8f371d9",
+      "title": "forbidden-curiosity 보강: 영화 상영 금지 사례, snooping-on-partners-phone 관계",
+      "priority": 50,
+      "note": "2026-10-24 사례뉴스 2020-11-05, 루리웹 2026-09-22 더함. 같은 사례뉴스 '상영 금지 소식이 전해지자 오히려 사람들의 호기심이 발동하여 일부러 다른 도시까지 가서 영화를 보기도'. 충청타임즈 cctimes 539611(2018-08-01 칼리귤라 효과), 시선뉴스 sisunnews 22472(2015-06-15) 후보. 보스턴 금지 연도가 출처마다 다름(1979/1980년대)",
+      "createdAt": "2026-10-24T06:36:33.723Z",
+      "seq": 1474
     },
     {
       "id": "e8ba47a7",
@@ -1835,6 +1851,86 @@
       "note": "2026-10-24 HN 26525398 (2021-03-20) 'it's preferable to pay someone to resign for you so that they can't bully you into staying'. guilt-about-resigning 과 원인 관계 후보",
       "createdAt": "2026-10-24T03:26:04.237Z",
       "seq": 1411
+    },
+    {
+      "id": "f733c9e9",
+      "title": "불안 애착",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:52.926Z",
+      "seq": 1458
+    },
+    {
+      "id": "85e69d31",
+      "title": "회피 애착",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.055Z",
+      "seq": 1459
+    },
+    {
+      "id": "3930dd54",
+      "title": "짝사랑",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.205Z",
+      "seq": 1460
+    },
+    {
+      "id": "645c7c36",
+      "title": "첫눈에 반함",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.328Z",
+      "seq": 1461
+    },
+    {
+      "id": "703ccf2c",
+      "title": "리머런스(사랑에 빠진 상태의 집착)",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.463Z",
+      "seq": 1462
+    },
+    {
+      "id": "a4fdf364",
+      "title": "연인 이상화",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.576Z",
+      "seq": 1463
+    },
+    {
+      "id": "82c95cfe",
+      "title": "헤어진 연인에게 연락하기",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.691Z",
+      "seq": 1464
+    },
+    {
+      "id": "3cdc66a2",
+      "title": "커플 사이의 성욕 차이",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.804Z",
+      "seq": 1465
+    },
+    {
+      "id": "4f2a9a50",
+      "title": "성적 요구를 거절당할 두려움",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:53.925Z",
+      "seq": 1466
+    },
+    {
+      "id": "f44cc725",
+      "title": "다른 사람에게 끌리는 마음(기혼·연애 중)",
+      "priority": 10,
+      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
+      "createdAt": "2026-10-24T06:06:54.074Z",
+      "seq": 1467
     },
     {
       "id": "02b2f242",
