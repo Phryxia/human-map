@@ -1,6 +1,6 @@
 # 전체 문서 목록
 
-문서 299개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
+문서 300개를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
@@ -196,6 +196,7 @@
 - [연인과의 다툼](docs/partner-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 휴대폰 몰래 보기](docs/snooping-on-partners-phone.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연차휴가 남기기](docs/unused-annual-leave.md) ([일터와 일자리](groups/work.md))
+- [연체 뒤 도서관 피하기](docs/avoiding-library-over-overdue-books.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [예약 부도](docs/reservation-no-show.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [옛 친구에게 연락하기 망설이기](docs/hesitating-to-contact-old-friends.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
