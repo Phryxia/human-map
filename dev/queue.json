@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:22:36.212Z",
-  "nextSeq": 1404,
+  "savedAt": "2026-10-24T03:24:01.061Z",
+  "nextSeq": 1406,
   "stops": 93,
   "items": [
-    {
-      "id": "d4ae5291",
-      "title": "hesitating-to-take-parental-leave 보강: 2000년대 이전 파편, SNS 파편, 상위 간선",
-      "priority": 50,
-      "note": "2026-10-23 공공 3, 매체, 학술 2 로 만듦. 후보: Petts 2020 PMC7030163 휴직 신청 남성이 낮은 평가를 받음(결과 쪽), Bygren·Duvander 2006 JMF 동료 휴직이 사용을 늘림(Wiley 403), korea.kr briefing 156621223 인사혁신처 2024 눈치 대목. 블라인드 글은 회사명 표시라 뺌. unused-annual-leave 와 같은 상위 후보(직장 눈치로 권리 안 쓰기)",
-      "createdAt": "2026-10-23T06:16:03.757Z",
-      "seq": 1248
-    },
     {
       "id": "2a231691",
       "title": "not-reporting-workplace-injury 보강: SNS 파편, 한국 공공 파편, 1990년대 학술",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 HN 47971418 (2026-05-01) 프로슈토 더함. 후보: news.ycombinator.com/item?id=24274541 (2020-08-25) 'Being so guarded they were never used and took up space' 좋은 그릇이 쓰이지 않아 자리만 차지, item?id=49751185 (2026-09-18) 부모 집 3대의 그릇장. 한국어 게시판 글 미발견",
       "createdAt": "2026-10-24T03:22:36.087Z",
       "seq": 1403
+    },
+    {
+      "id": "d132e825",
+      "title": "hesitating-to-take-parental-leave 보강: 2000년 이전 파편, SNS 파편, 상위 간선",
+      "priority": 50,
+      "note": "2026-10-24 Management-Issues 2006-08-01 ING Direct 조사 더함. 같은 글 첫 문장은 상사의 조롱, 거절, 경력 지체 두려움(200자 초과). 후보: fatherly.com survey-dads-fear-being-mommy-tracked, equimundo.org groundbreaking-study 1/5 실직 두려움, um.edu.mt/library/oar/handle/123456789/51353 몰타 연구. unused-annual-leave 와 같은 상위 후보",
+      "createdAt": "2026-10-24T03:24:00.939Z",
+      "seq": 1405
     },
     {
       "id": "e8ba47a7",
