@@ -32,7 +32,7 @@
 
 ## 대립
 
-없음.
+- [보는 눈이 있을 때 행동 바꾸기](behaving-better-when-watched.md)[^2]
 
 #건강
 

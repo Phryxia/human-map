@@ -34,6 +34,7 @@
 
 ## 대립
 
+- [화장실 뒤 손 안 씻기](skipping-handwashing.md)[^4]
 - [길에 쓰레기 버리기](littering.md)[^3]
 
 #관계
