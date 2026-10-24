@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:29:25.528Z",
-  "nextSeq": 1420,
+  "savedAt": "2026-10-24T03:32:48.188Z",
+  "nextSeq": 1428,
   "stops": 93,
   "items": [
-    {
-      "id": "b1d3b96b",
-      "title": "guilt-about-resigning 보강: SNS 파편, 공공 파편, 2000년대 이전 파편",
-      "priority": 50,
-      "note": "2026-10-23 학술, 매체 3 으로 만듦. NBC 2018 글의 다른 대목 'given its finality, taking that final step is nerve-wracking'. GQ 같은 글 '사람들은 결단보다 유예를 택한다'",
-      "createdAt": "2026-10-23T06:37:59.751Z",
-      "seq": 1260
-    },
-    {
-      "id": "329b5e37",
-      "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
-      "priority": 50,
-      "note": "2026-10-23 경향 2007, 디시 2026 더함. 남은 후보: brunch.co.kr/@bidancheon/166 (2026-05-15) 휴대폰 시간 확인 뒤 계산, 그럴수록 잠은 더 멀리(저자명 미확인). washingtonpost 1990 'The Modern Curse of Insomnia', 1998 'The Snooze Report' 403. Time 1990-12-17 칼럼에 시계 대목 없음",
-      "createdAt": "2026-10-23T09:16:12.086Z",
-      "seq": 1275
-    },
-    {
-      "id": "ef27ce3b",
-      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:32Z 호스트 / 도 TLS 실패(프록시 CA 를 줘도 실패). 이슈 #6 사례",
-      "createdAt": "2026-10-23T09:30:39.523Z",
-      "seq": 1280
-    },
-    {
-      "id": "0714fd3e",
-      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:33Z 호스트 / 도 TLS 실패(curl 60, 프록시 CA 를 줘도 실패). 이슈 #6 사례",
-      "createdAt": "2026-10-23T09:30:45.167Z",
-      "seq": 1281
-    },
-    {
-      "id": "bdc922dc",
-      "title": "partner-conflict 보강: 이별 결과 간선, 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-23 PMC3218801 요구-철수 더함. 남은 후보: pann.nate.com/talk/359133930 (2021-04-17) 병원 가 보자는 말로 싸움. marieclaire.co.uk/life/snooping-670110 (2019-11-02) 엿보기 뒤 이별. 큐의 '연인과의 다툼(관계 갈등)' 항목은 이 문서로 처리됨",
-      "createdAt": "2026-10-23T09:40:10.821Z",
-      "seq": 1287
-    },
     {
       "id": "ed18246a",
       "title": "emotional-labor 보강: SNS·문학 파편, heavy-drinking 결과 간선 근거",
@@ -499,6 +459,38 @@
       "note": "2026-10-24 CNN 2003-08-21 방송 기록 더함. 같은 기록에 여성은 협상을 치과 가는 일에 견준다는 진행자 말. 후보: pewresearch.org short-reads 2023-04-05 은 이미 씀, anderson-review.ucla.edu 2025-10-15 NBER w33903 위험을 실제보다 크게 봄, news.ycombinator.com/item?id=44735331 2025-07-30 성사를 그르칠까 협상 안 함, americanbar.org young_lawyers attorney-salary-negotiations. 코멘토에 맞는 대목 없음",
       "createdAt": "2026-10-24T03:29:25.425Z",
       "seq": 1419
+    },
+    {
+      "id": "de8d5a71",
+      "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
+      "priority": 50,
+      "note": "2026-10-23 경향 2007, 디시 2026 더함. 남은 후보: brunch.co.kr/@bidancheon/166 (2026-05-15) 휴대폰 시간 확인 뒤 계산(저자명 미확인). washingtonpost 1990, 1998 403. Time 1990-12-17 시계 대목 없음. 2026-10-24 Virginian-Pilot 1996-07-26 scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960726/07260439.htm 는 410, web.archive.org 20191116151107 보관본은 이 환경에서 연결 끊김. 수면 전문가가 밤중에 시계를 보지 말라고 한 칼럼",
+      "createdAt": "2026-10-24T03:31:01.302Z",
+      "seq": 1421
+    },
+    {
+      "id": "fde133ff",
+      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:32Z, 2026-10-24 03:38Z 호스트 / 도 TLS 실패(UNABLE_TO_GET_ISSUER_CERT_LOCALLY, 프록시 CA 를 줘도 실패). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
+      "createdAt": "2026-10-24T03:31:17.639Z",
+      "seq": 1423
+    },
+    {
+      "id": "0024df08",
+      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
+      "priority": 50,
+      "note": "2026-10-21, 2026-10-22 12:45Z, 16:45Z, 22:56Z, 2026-10-23 09:33Z, 2026-10-24 03:39Z 호스트 / 도 TLS 실패(SELF_SIGNED_CERT_IN_CHAIN, 프록시 CA 를 줘도 실패). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
+      "createdAt": "2026-10-24T03:31:46.634Z",
+      "seq": 1425
+    },
+    {
+      "id": "66721bfc",
+      "title": "partner-conflict 보강: 이별 결과 간선",
+      "priority": 50,
+      "note": "2026-10-24 네이트판 359133930 (2021-04-17) 병원 가 보자는 말로 싸움 더함. 남은 후보: marieclaire.co.uk/life/snooping-670110 (2019-11-02) 엿보기 뒤 이별",
+      "createdAt": "2026-10-24T03:32:48.080Z",
+      "seq": 1427
     },
     {
       "id": "e8ba47a7",

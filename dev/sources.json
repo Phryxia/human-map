@@ -89,21 +89,21 @@
   },
   "https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84": {
     "first": "2026-10-16",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-18"
   },
   "https://www.nfcc.org/press_release/financial-infidelity-growing-concern/": {
     "first": "2026-10-16",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-24"
   },
   "https://link.springer.com/article/10.1007/s10834-024-09988-2": {
     "first": "2026-10-16",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-24"
   },
   "https://ko.wikisource.org/wiki/봄봄": {
     "first": "2026-10-16",
@@ -1312,27 +1312,27 @@
   },
   "https://archive.carla.umn.edu/speechacts/refusals/tt.html": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-18"
   },
   "https://www.gutenberg.org/cache/epub/9603/pg9603-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-24"
   },
   "https://engagedscholarship.csuohio.edu/cltmt/vol3/iss2/3": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-24"
   },
   "https://v.daum.net/v/Fa0lMeDxRv": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-24"
   },
   "https://www.ischool.berkeley.edu/news/2013/online-community-members-resist-being-freeloaders-researchers-find": {
     "first": "2026-10-18",
@@ -1396,9 +1396,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%A7%9D%EB%B6%80%EC%84%9D": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-24"
   },
   "https://www.nbcnews.com/technolog/think-you-post-5-reasons-people-self-censor-facebook-2D11759816": {
     "first": "2026-10-18",
@@ -1672,9 +1672,9 @@
   },
   "https://www.imaeil.com/page/view/2007111517391962006": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-24"
   },
   "https://api.crossref.org/works/10.1002/job.4030150306": {
     "first": "2026-10-18",
@@ -8294,27 +8294,27 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3230928/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://pann.nate.com/talk/372878304": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3218801/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10658889&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -9121,6 +9121,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://prod.transcripts.cnn.com/show/se/date/2003-08-21/segment/04": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://pann.nate.com/talk/359133930": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
