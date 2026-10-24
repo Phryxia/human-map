@@ -12,6 +12,7 @@
 - [남의 불행에 대한 기쁨](../docs/schadenfreude.md) 남의 불행이나 실패를 보거나 떠올린 사람이 기쁨을 느낀다.
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
+- [명절 귀성 포기](../docs/skipping-holiday-homecoming.md) 명절에 고향이나 부모 집에 갈 수 있는 사람이 가지 않고 지내던 곳에 남기로 한다.
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
 - [삐짐](../docs/sulking.md) 서운함을 느낀 사람이 말없이 토라져 상대가 먼저 알아차리고 마음을 풀어 주기를 기다린다.

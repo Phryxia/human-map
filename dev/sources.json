@@ -9185,5 +9185,17 @@
     "last": "2026-10-24",
     "result": "VERIFIED",
     "lastVerified": "2026-10-24"
+  },
+  "https://m.seoul.co.kr/news/2009/09/30/20090930010002": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148878366": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
   }
 }
