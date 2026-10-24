@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:37:11.090Z",
-  "nextSeq": 1438,
-  "stops": 93,
+  "savedAt": "2026-10-24T03:37:43.203Z",
+  "nextSeq": 1440,
+  "stops": 94,
   "items": [
-    {
-      "id": "78558ae9",
-      "title": "pet-loss-grief 보강: SNS·공공 파편, bereavement-regret 관계(자책)",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(문학 Byron Epitaph to a Dog 1808 wikisource, 학술 Cleary 2022 eutils, 매체 데일리벳 2025-07-23). Wikipedia 는 비문 산문을 Hobhouse 가 썼다고 적음(시 본문 'I never knew but one' 은 Inscription on the Monument of a Newfoundland Dog). 데일리벳 같은 기사 '더 잘해줄 걸' 자책감, '유난 떠는 것처럼 보이고' 공감 받지 못한 슬픔(같은 URL). Lavorgna 2019 PMID 30216137 사람 사별과 슬픔 정도 차이 없음, PMID 41533687 지속성 애도. disenfranchised grief 별개 현상 후보",
-      "createdAt": "2026-10-23T12:18:48.776Z",
-      "seq": 1308
-    },
     {
       "id": "9fb28d10",
       "title": "solo-leisure 보강: 학술·SNS·문학 파편, 연령 조건",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 HN 43288299 (2025-03-07) 더함. 같은 댓글 '여가로 읽을 시간이 거의 없다'(같은 URL, 시간 이유). 후보: news.ycombinator.com/item?id=9349113 (2015) 10년 동안 책을 거의 안 읽음. Pew 같은 글 23%(같은 URL). newdaily 2026-03-06 성인 독서율 38.5%. NEA Reading at Risk(2004) 공공 후보. smartphone-checking-habit 과 관계 후보(인과 문장 필요)",
       "createdAt": "2026-10-24T03:37:10.979Z",
       "seq": 1437
+    },
+    {
+      "id": "69f51c4d",
+      "title": "pet-loss-grief 보강: SNS·공공 파편, bereavement-regret 관계(자책)",
+      "priority": 50,
+      "note": "2026-10-23 문서 만듦(문학 Byron Epitaph to a Dog 1808 wikisource, 학술 Cleary 2022 eutils, 매체 데일리벳 2025-07-23). Wikipedia 는 비문 산문을 Hobhouse 가 썼다고 적음(시 본문 'I never knew but one' 은 Inscription on the Monument of a Newfoundland Dog). 데일리벳 같은 기사 '더 잘해줄 걸' 자책감, '유난 떠는 것처럼 보이고' 공감 받지 못한 슬픔(같은 URL). Lavorgna 2019 PMID 30216137 사람 사별과 슬픔 정도 차이 없음, PMID 41533687 지속성 애도. disenfranchised grief 별개 현상 후보",
+      "createdAt": "2026-10-24T03:37:31.886Z",
+      "seq": 1439
     },
     {
       "id": "e8ba47a7",
