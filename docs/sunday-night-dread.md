@@ -1,6 +1,6 @@
 # 일요일 밤의 출근 걱정
 
-별칭: 월요병, 일요병, Sunday scaries, Sunday night blues
+별칭: 월요병[^4], Sunday scaries[^2]
 
 주중에 일하는 사람이 일요일 저녁이나 밤에 다음 날 출근을 떠올리며 긴장하거나 우울해진다.
 

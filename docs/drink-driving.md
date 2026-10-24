@@ -1,6 +1,6 @@
 # 음주 후 운전
 
-별칭: 음주운전, 숙취 운전, Drink driving, Alcohol-impaired driving
+별칭: 음주운전[^6], 숙취 운전[^6], Alcohol-impaired driving[^2]
 
 술을 마신 사람이 이 정도는 괜찮다고 여겨 운전대를 잡는다.
 

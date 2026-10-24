@@ -1,6 +1,6 @@
 # 사과하지 못하기
 
-별칭: 사과 꺼림, 사과 회피, apology reluctance
+별칭: apology reluctance[^6]
 
 자기 잘못을 아는 사람이 상대에게 사과의 말을 하지 않거나 늦게 한다.
 

@@ -1,6 +1,6 @@
 # 운전 중 휴대전화 사용
 
-별칭: 운전 중 문자, 주의 분산 운전, Texting while driving, Distracted driving
+별칭: Texting while driving[^2]
 
 운전자가 차를 모는 동안 휴대전화로 메시지를 읽거나 보내고 화면을 들여다본다.
 

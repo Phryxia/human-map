@@ -1,6 +1,6 @@
 # 처분 효과
 
-별칭: Disposition effect
+별칭: Disposition effect[^2]
 
 이익이 난 투자 자산은 일찍 팔고 손실이 난 투자 자산은 오래 쥐고 있는 투자자의 행동이다.
 

@@ -1,6 +1,6 @@
 # 돈 걱정
 
-별칭: 재정 불안, 금전 걱정, financial anxiety, money worries
+별칭: money worries[^3]
 
 돈 사정을 생각하는 사람이 돈이 모자랄까 봐 걱정하고 불안해한다.
 

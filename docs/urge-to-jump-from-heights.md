@@ -1,6 +1,6 @@
 # 높은 곳에서 뛰어내리고 싶은 충동
 
-별칭: 높은 곳 현상, 허공의 부름, High place phenomenon, Call of the void, L'appel du vide
+별칭: High place phenomenon[^2]
 
 높은 곳의 가장자리에 선 사람이 뛰어내리고 싶은 충동을 순간 느낀다.
 

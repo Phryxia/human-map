@@ -1,6 +1,6 @@
 # 금연 뒤 다시 피우기
 
-별칭: 재흡연, Smoking relapse
+별칭: Smoking relapse[^2]
 
 담배를 끊으려던 사람이 다시 담배를 피운다.
 

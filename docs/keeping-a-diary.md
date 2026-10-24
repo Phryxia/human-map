@@ -1,6 +1,6 @@
 # 일기 쓰기
 
-별칭: 일기, 저널링, keeping a diary, journaling
+별칭: 일기[^3], keeping a diary[^4]
 
 사람이 겪은 일과 생각을 날마다 또는 일이 있을 때 일기로 적어 둔다.
 

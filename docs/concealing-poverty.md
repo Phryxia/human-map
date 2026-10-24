@@ -1,6 +1,6 @@
 # 가난 감추기
 
-별칭: 가난 가리기, Keeping up appearances, Concealing poverty
+별칭: Keeping up appearances[^3]
 
 가난한 사람이 자신의 가난이나 굶주림, 도움이 필요한 형편을 남이나 식구에게 숨긴다.
 

@@ -1,6 +1,6 @@
 # 뒤늦게 떠오른 대답
 
-별칭: 계단의 재치, l'esprit de l'escalier, staircase wit, Treppenwitz
+별칭: 없음
 
 대화나 말다툼이 끝난 뒤에야 사람이 그 자리에서 했어야 할 대답을 떠올린다.
 

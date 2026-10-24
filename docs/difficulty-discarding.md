@@ -1,6 +1,6 @@
 # 물건 못 버리기
 
-별칭: 버리지 못하는 습관, 쓸모 있을까 봐 쌓아 두기, Difficulty discarding
+별칭: Difficulty discarding[^3]
 
 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
 

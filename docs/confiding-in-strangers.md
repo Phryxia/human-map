@@ -1,6 +1,6 @@
 # 낯선 사람에게 속내 털어놓기
 
-별칭: 기차 안의 낯선 사람 현상, stranger on a train phenomenon
+별칭: stranger on a train phenomenon[^4]
 
 다시 만나지 않을 낯선 사람과 함께 있게 된 사람이 가까운 사람에게도 하지 않던 속내를 그 사람에게 털어놓는다.
 

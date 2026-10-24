@@ -1,6 +1,6 @@
 # 고인의 물건 간직하기
 
-별칭: 유품 간직, 유품 정리 미루기, Transitional objects of grief
+별칭: Transitional objects of grief[^4]
 
 가까운 사람을 잃은 사람이 고인이 쓰던 물건과 방을 버리거나 정리하지 않고 그대로 둔다.
 

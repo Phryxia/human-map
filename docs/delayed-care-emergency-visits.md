@@ -1,6 +1,6 @@
 # 진료를 미루다 응급실 가기
 
-별칭: 미룬 진료 끝의 응급실 방문, Delayed care leading to emergency department visits
+별칭: 없음
 
 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
 

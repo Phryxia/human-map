@@ -1,6 +1,6 @@
 # 가진 것 과시하기
 
-별칭: 과시, 과시적 소비, 자랑, 플렉스, Conspicuous consumption
+별칭: Conspicuous consumption[^4]
 
 남의 눈을 의식하는 사람이 자기가 가진 물건, 돈, 지위를 다른 사람이 보도록 일부러 드러낸다.
 

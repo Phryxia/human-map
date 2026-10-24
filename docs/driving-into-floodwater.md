@@ -1,6 +1,6 @@
 # 침수 도로 진입
 
-별칭: 침수 도로 운전, Driving into floodwater
+별칭: Driving into floodwater[^7]
 
 운전자가 물에 잠긴 도로를 만나 돌아가지 않고 차를 몰아 그대로 건넌다.
 

@@ -1,6 +1,6 @@
 # 게시 직전 자기검열
 
-별칭: 막판 자기검열, last-minute self-censorship, 쓰던 댓글 지우기
+별칭: last-minute self-censorship[^2]
 
 온라인 게시물이나 댓글을 써 놓은 사람이 올리기 직전에 올리지 않기로 하고 지운다.
 

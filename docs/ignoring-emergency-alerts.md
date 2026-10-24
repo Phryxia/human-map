@@ -1,6 +1,6 @@
 # 재난 문자 무시하기
 
-별칭: 경보 피로, 재난문자 피로감, Alert fatigue, Warning fatigue
+별칭: Alert fatigue[^1], Warning fatigue[^5]
 
 재난이나 안전 경보 문자를 자주 받는 사람이 문자에 짜증을 내거나 무시하고 수신 기능을 끈다.
 

@@ -1,6 +1,6 @@
 # 시간에 쫓기는 느낌
 
-별칭: 시간 압박감, 시간 기근, time pressure, time famine
+별칭: time pressure[^5]
 
 일과 집안일을 하는 사람이 할 일에 비해 시간이 모자란다고 느끼며 늘 쫓긴다.
 

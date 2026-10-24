@@ -1,6 +1,6 @@
 # 손톱 물어뜯기
 
-별칭: Nail biting, Onychophagia
+별칭: Nail biting[^3], Onychophagia[^5]
 
 사람이 초조하거나 지루하거나 어려운 일을 붙잡고 있을 때 손톱을 물어뜯는다.
 

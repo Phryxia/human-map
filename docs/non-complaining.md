@@ -1,6 +1,6 @@
 # 불만 제기 회피
 
-별칭: 비불평 행동, Non-complaining behaviour, 컴플레인 안 하기
+별칭: Non-complaining behaviour[^2]
 
 상품이나 서비스에 불만을 느낀 소비자가 판매자에게 불만을 말하지 않고 넘어간다.
 

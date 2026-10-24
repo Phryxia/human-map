@@ -1,6 +1,6 @@
 # 다원적 무지
 
-별칭: Pluralistic ignorance
+별칭: Pluralistic ignorance[^2]
 
 집단 안의 사람이 속으로는 이해하지 못하거나 동의하지 않으면서 다른 사람들은 이해하거나 동의한다고 믿고 겉으로 따른다.
 

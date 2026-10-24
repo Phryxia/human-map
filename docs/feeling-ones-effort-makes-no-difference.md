@@ -1,6 +1,6 @@
 # 노력이 소용없다는 생각
 
-별칭: 나 하나쯤, 무용감, 낮은 지각된 소비자 효과성, perceived consumer effectiveness
+별칭: perceived consumer effectiveness[^1]
 
 사람이 자기 한 사람의 행동이 결과에 차이를 만들지 못한다고 생각한다.
 

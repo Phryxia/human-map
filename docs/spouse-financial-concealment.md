@@ -1,6 +1,6 @@
 # 배우자에게 재정 정보 숨기기
 
-별칭: 재정적 외도, Financial infidelity
+별칭: Financial infidelity[^2]
 
 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨기는 행동이다.
 

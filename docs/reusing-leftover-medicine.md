@@ -1,6 +1,6 @@
 # 남은 약 다시 먹기
 
-별칭: 남은 항생제 자가 복용, Self-medication with leftover antibiotics
+별칭: 없음
 
 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.
 

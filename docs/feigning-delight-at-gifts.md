@@ -1,6 +1,6 @@
 # 마음에 들지 않는 선물에 기뻐하는 척하기
 
-별칭: 실망스러운 선물 앞의 표정 관리, resting gift face, disappointing gift
+별칭: resting gift face[^6], disappointing gift[^4]
 
 마음에 들지 않는 선물을 받은 사람이 준 사람 앞에서 실망을 감추고 기뻐하는 척한다.
 

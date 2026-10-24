@@ -1,6 +1,6 @@
 # 사후 확신 편향
 
-별칭: 그럴 줄 알았다는 착각, Hindsight bias, Knew-it-all-along effect
+별칭: Hindsight bias[^2]
 
 일의 결과를 알게 된 사람이 그 결과를 처음부터 예측할 수 있었다고 느낀다.
 

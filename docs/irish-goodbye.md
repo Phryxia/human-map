@@ -1,6 +1,6 @@
 # 인사 없이 모임 자리 뜨기
 
-별칭: 아이리시 굿바이, Irish goodbye, Irish exit, French leave, 프렌치 리브, filer à l'anglaise
+별칭: Irish goodbye[^6], French leave[^1], filer à l'anglaise[^5]
 
 모임에 있던 사람이 아무에게도 작별 인사를 하지 않고 조용히 자리를 떠난다.
 

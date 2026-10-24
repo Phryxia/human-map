@@ -1,6 +1,6 @@
 # 대화 뒤 되짚기
 
-별칭: 사건 후 처리, post-event processing
+별칭: post-event processing[^1]
 
 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
 

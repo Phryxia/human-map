@@ -1,6 +1,6 @@
 # 퇴근 뒤 일 생각 곱씹기
 
-별칭: 업무 반추, work-related rumination
+별칭: work-related rumination[^3]
 
 일하는 사람이 퇴근한 뒤에도 낮의 업무 장면과 일에 관한 생각을 되풀이한다.
 

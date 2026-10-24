@@ -1,6 +1,6 @@
 # 운전 실력 과신
 
-별칭: 운전자의 평균 이상 효과, Better-than-average effect in driving
+별칭: 없음
 
 운전자가 자기 운전 실력과 안전성을 다른 운전자들보다 높게 평가한다.
 

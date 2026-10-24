@@ -1,6 +1,6 @@
 # 감정노동
 
-별칭: 표면 행위, 스마일 마스크, emotional labor, surface acting
+별칭: emotional labor[^1], surface acting[^4]
 
 고객을 응대하는 노동자가 일이 요구하는 표정과 말투를 지으려고 실제로 느끼는 감정을 누르거나 꾸민다.
 

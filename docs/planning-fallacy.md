@@ -1,6 +1,6 @@
 # 계획 오류
 
-별칭: planning fallacy, 계획 착오
+별칭: planning fallacy[^1]
 
 일을 계획하는 사람이 그 일에 들 시간과 품을 실제보다 적게 어림한다.
 

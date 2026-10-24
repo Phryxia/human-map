@@ -1,6 +1,6 @@
 # 미래 기억 실패
 
-별칭: 할 일 깜빡하기, 미래 계획 기억 실패, prospective memory failure
+별칭: prospective memory failure[^6]
 
 나중에 할 일을 정해 둔 사람이 그때가 와도 그 일을 떠올리지 못하고 지나친다.
 

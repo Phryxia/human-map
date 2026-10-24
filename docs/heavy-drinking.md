@@ -1,6 +1,6 @@
 # 과음
 
-별칭: 폭음, 술자리 폭음, binge drinking, heavy drinking
+별칭: 폭음[^3], heavy drinking[^2]
 
 술을 마시는 사람이 한 번의 술자리에서 많은 양을 마신다.
 

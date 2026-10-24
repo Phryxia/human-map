@@ -1,6 +1,6 @@
 # 결혼 전 불안
 
-별칭: 메리지 블루, 결혼 전 의심, Cold feet, Premarital uncertainty
+별칭: 메리지 블루[^6], Cold feet[^4], Premarital uncertainty[^4]
 
 결혼을 앞둔 사람이 이 결혼을 해도 될지 의심하거나 두려워한다.
 

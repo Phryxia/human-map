@@ -1,6 +1,6 @@
 # 심리적 계약 위반 지각
 
-별칭: Psychological contract breach, 입사 전 약속과 다른 조건
+별칭: Psychological contract breach[^2]
 
 직원이 회사가 고용 때 약속한 의무를 지키지 않았다고 느끼고 회사를 덜 믿게 된다.
 

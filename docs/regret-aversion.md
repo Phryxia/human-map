@@ -1,6 +1,6 @@
 # 후회 회피
 
-별칭: 예상 후회, Regret aversion, Anticipated regret
+별칭: Anticipated regret[^1]
 
 사람이 결정 뒤에 느낄 후회를 미리 떠올리고 그 후회를 피하는 쪽으로 고르거나 결정을 미룬다.
 

@@ -1,6 +1,6 @@
 # 전화 통화 두려움
 
-별칭: 콜 포비아, 콜포비아, 전화 공포증, Telephone apprehension, Telephobia
+별칭: 콜 포비아[^4], 콜포비아[^4], Telephone apprehension[^1]
 
 전화를 걸거나 받아야 하는 사람이 통화를 두려워해 미리 할 말을 적어 두거나 통화를 피하고 문자나 앱으로 대신한다.
 

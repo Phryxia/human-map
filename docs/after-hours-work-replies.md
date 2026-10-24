@@ -1,6 +1,6 @@
 # 퇴근 뒤 업무 연락에 답하기
 
-별칭: 근무시간 외 업무 연락 응답, 텔레프레셔, workplace telepressure
+별칭: workplace telepressure[^4]
 
 일하는 사람이 퇴근 뒤나 휴일에도 업무 메시지와 이메일을 확인하고 답한다.
 

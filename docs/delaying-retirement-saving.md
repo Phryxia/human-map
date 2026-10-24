@@ -1,6 +1,6 @@
 # 노후 준비 미루기
 
-별칭: 은퇴 저축 미루기, Retirement saving procrastination
+별칭: 없음
 
 일하는 나이의 사람이 노후 준비를 아직 하지 않고 나중에 하겠다고 미룬다.
 

@@ -1,6 +1,6 @@
 # 감각 추구
 
-별칭: 자극 추구, 스릴 추구, sensation seeking, thrill seeking
+별칭: sensation seeking[^1]
 
 어떤 사람은 새롭고 강한 감각과 경험을 찾고 그 경험을 위해 위험을 무릅쓴다.
 

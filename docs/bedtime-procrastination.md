@@ -1,6 +1,6 @@
 # 잠자리 미루기
 
-별칭: 취침 미루기, 보복성 수면 미루기, bedtime procrastination, revenge bedtime procrastination
+별칭: bedtime procrastination[^1]
 
 졸리거나 피곤한 사람이 휴대폰이나 다른 활동을 놓지 않고 정해 둔 시각보다 늦게 잠자리에 든다.
 

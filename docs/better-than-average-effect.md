@@ -1,6 +1,6 @@
 # 평균 이상 효과
 
-별칭: 우월 착각, 워비곤 호수 효과, Better-than-average effect, Illusory superiority
+별칭: Better-than-average effect[^1]
 
 사람이 자기 능력과 성격을 같은 처지의 평균적인 사람보다 낫다고 평가한다.
 

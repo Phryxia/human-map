@@ -1,6 +1,6 @@
 # 엉뚱한 대상에게 화풀이하기
 
-별칭: 화풀이, 전위된 공격성, Displaced aggression, Kicking the dog
+별칭: 화풀이[^2], Displaced aggression[^4]
 
 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
 

@@ -1,6 +1,6 @@
 # 아침 식사 거르기
 
-별칭: 아침 결식, 아침밥 굶기, breakfast skipping
+별칭: breakfast skipping[^3]
 
 시간이 없거나 입맛이 없는 사람이 아침을 먹지 않고 하루를 시작한다.
 

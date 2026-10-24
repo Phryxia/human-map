@@ -1,6 +1,6 @@
 # 잠자리에서 시계 보기
 
-별칭: 시계 지켜보기, 시간 확인 행동, Clock-watching, Time monitoring behavior
+별칭: Clock-watching[^7], Time monitoring behavior[^7]
 
 잠들지 못하고 누워 있는 사람이 시계를 자꾸 보며 몇 시인지와 남은 잠 시간을 확인한다.
 

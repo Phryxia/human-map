@@ -1,6 +1,6 @@
 # 아파도 출근하기
 
-별칭: 프리젠티즘, 프레전티이즘, Sickness presenteeism
+별칭: 프레전티이즘[^2], Sickness presenteeism[^1]
 
 몸이 아픈 근로자가 쉬지 않고 출근해 일한다.
 

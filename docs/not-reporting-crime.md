@@ -1,6 +1,6 @@
 # 범죄 피해 신고하지 않기
 
-별칭: 범죄 미신고, 암수 범죄 피해, Non-reporting of crime victimization
+별칭: 없음
 
 범죄 피해를 당한 사람이 경찰에 알리지 않고 넘어간다.
 

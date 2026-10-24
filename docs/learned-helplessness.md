@@ -1,6 +1,6 @@
 # 학습된 무력감
 
-별칭: 학습된 무기력, learned helplessness
+별칭: learned helplessness[^1]
 
 피할 수 없는 나쁜 일을 겪은 사람이 나중에 그 일을 피하거나 바꿀 수 있을 때에도 시도하지 않는다.
 

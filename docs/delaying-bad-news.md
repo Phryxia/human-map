@@ -1,6 +1,6 @@
 # 나쁜 소식 확인 미루기
 
-별칭: 정보 회피, Information avoidance, 타조 효과
+별칭: Information avoidance[^4]
 
 나쁜 소식일 수 있는 정보를 확인할 시점이 다가오면 그 확인을 늦추거나 피하는 행동이다.
 

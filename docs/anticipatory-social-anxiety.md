@@ -1,6 +1,6 @@
 # 사회적 상황 앞의 예기불안
 
-별칭: 예기불안, anticipatory anxiety
+별칭: anticipatory anxiety[^1]
 
 다가올 발표나 회의 같은 사회적 상황을 앞둔 사람이 그 장면을 미리 떠올리며 불안해한다.
 

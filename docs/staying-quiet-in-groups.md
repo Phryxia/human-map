@@ -1,6 +1,6 @@
 # 모인 자리에서 말하지 않기
 
-별칭: 조직 침묵, 직원 침묵, Organizational silence, 질문 안 하기
+별칭: Organizational silence[^1]
 
 수업이나 직장처럼 여럿이 모인 자리에서 할 말이나 물을 것이 있는 사람이 그것을 말하지 않고 입을 다문다.
 

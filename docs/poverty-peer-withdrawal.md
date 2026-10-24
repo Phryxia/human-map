@@ -1,6 +1,6 @@
 # 가난을 숨기려는 또래 관계 회피
 
-별칭: 빈곤 관련 물러남, Poverty-related withdrawal
+별칭: Poverty-related withdrawal[^1]
 
 가난한 집의 아이나 젊은 사람이 자기 처지를 숨기려고 스스로 또래 관계에서 빠진다.
 

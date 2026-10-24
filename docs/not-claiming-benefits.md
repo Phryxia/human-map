@@ -1,6 +1,6 @@
 # 복지 급여 미신청
 
-별칭: 급여 미신청, Benefit non-take-up, Non-take-up of benefits
+별칭: 없음
 
 받을 자격이 있는 사람이 복지 급여를 신청하지 않거나 신청을 미룬다.
 

@@ -1,6 +1,6 @@
 # 낙관 편향
 
-별칭: 비현실적 낙관주의, Unrealistic optimism, Optimism bias, 나는 괜찮을 거라는 생각
+별칭: Unrealistic optimism[^1]
 
 사람이 사고나 병 같은 나쁜 일이 남보다 자신에게 덜 일어난다고 믿는다.
 

@@ -1,6 +1,6 @@
 # 치과 공포
 
-별칭: 치과 불안, 치과 공포증, Dental anxiety, Dental fear
+별칭: Dental anxiety[^1], Dental fear[^3]
 
 치과 치료를 앞둔 사람이 불안과 두려움을 느끼고 치과 방문을 미루거나 피한다.
 

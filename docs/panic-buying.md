@@ -1,6 +1,6 @@
 # 위기 때 생필품 사재기
 
-별칭: 패닉 바잉, 비축 구매, panic buying, stockpiling
+별칭: panic buying[^1], stockpiling[^3]
 
 재난이나 감염병 소식을 들은 사람이 평소보다 많은 생필품을 한꺼번에 사 둔다.
 

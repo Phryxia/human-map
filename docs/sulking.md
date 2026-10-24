@@ -1,6 +1,6 @@
 # 삐짐
 
-별칭: 토라짐, Sulking, Passive immobility
+별칭: Sulking[^5], Passive immobility[^3]
 
 서운함을 느낀 사람이 말없이 토라져 상대가 먼저 알아차리고 마음을 풀어 주기를 기다린다.
 

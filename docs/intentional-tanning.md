@@ -1,6 +1,6 @@
 # 일부러 피부 태우기
 
-별칭: 의도적 태닝, 선탠, intentional tanning
+별칭: intentional tanning[^2]
 
 피부를 그을린 모습으로 만들고 싶은 사람이 햇볕이나 태닝 기계 아래에서 일부러 피부를 태운다.
 

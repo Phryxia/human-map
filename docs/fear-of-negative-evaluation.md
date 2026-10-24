@@ -1,6 +1,6 @@
 # 부정적 평가에 대한 두려움
 
-별칭: Fear of negative evaluation, 남의 시선 의식
+별칭: Fear of negative evaluation[^1]
 
 사람이 다른 사람에게 부정적으로 평가받을 수 있는 상황에서 불안과 긴장을 느낀다.
 

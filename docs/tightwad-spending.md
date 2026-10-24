@@ -1,6 +1,6 @@
 # 돈 쓰기 아까워하기
 
-별칭: 인색함, 구두쇠 기질, 지불의 고통, tightwad, pain of paying
+별칭: tightwad[^2], pain of paying[^3]
 
 돈을 낼 때의 괴로움을 미리 느끼는 사람이 스스로 바라는 것보다 적게 쓴다.
 

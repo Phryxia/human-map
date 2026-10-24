@@ -1,6 +1,6 @@
 # 물려받을 재산 기대하기
 
-별칭: 유산 기대, 상속 기대, Inheritance expectations
+별칭: Inheritance expectations[^2]
 
 사람이 부모나 친척에게서 물려받을 재산을 자기 살림 계산에 넣고 기대한다.
 
