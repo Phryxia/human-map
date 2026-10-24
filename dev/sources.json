@@ -7742,15 +7742,15 @@
   },
   "https://www.gutenberg.org/cache/epub/785/pg785-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.livescience.com/20869-sleep-fear-dark-insomnia.html": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/74/pg74-images.html": {
     "first": "2026-10-23",
@@ -7964,9 +7964,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42008152&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39964532&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8522,15 +8522,15 @@
   },
   "https://www.clien.net/service/board/park/2416308": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.fox10phoenix.com/news/americans-fear-of-the-dark-halloween": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://pann.nate.com/talk/313410429": {
     "first": "2026-10-23",
@@ -9253,6 +9253,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.koreahealthlog.com/news/articleView.html?idxno=40013": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.clien.net/service/board/park/8306237": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
