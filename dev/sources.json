@@ -8678,15 +8678,15 @@
   },
   "https://www.sidae.com/article/2016060117228075497": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.sidae.com/article/2017030908538038712": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9831881&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -9313,6 +9313,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://brunch.co.kr/@kiumvalue/95": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.workingus.com/?p=409365": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
