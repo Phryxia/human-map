@@ -7832,15 +7832,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12784936&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://theconversation.com/what-is-deja-vu-psychologists-are-exploring-this-creepy-feeling-of-having-already-lived-through-an-experience-before-187746": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24994650&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -7952,9 +7952,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27441459&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=28527101&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8594,9 +8594,9 @@
   },
   "https://www.a-ha.io/questions/4f61aaafdb476e6a812243e20f0c5fad": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-24"
   },
   "https://www.gutenberg.org/cache/epub/1023/pg1023-images.html": {
     "first": "2026-10-23",
@@ -9289,6 +9289,12 @@
     "lastVerified": "2026-10-24"
   },
   "https://www.kyeonggi.com/article/201101310393559": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://rossettiarchive.iath.virginia.edu/docs/1-1881.sigr3.del.rad.html": {
     "first": "2026-10-24",
     "last": "2026-10-24",
     "result": "VERIFIED",
