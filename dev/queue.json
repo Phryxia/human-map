@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T00:39:48.171Z",
-  "nextSeq": 1394,
+  "savedAt": "2026-10-24T03:08:53.041Z",
+  "nextSeq": 1396,
   "stops": 93,
   "items": [
-    {
-      "id": "ef643978",
-      "title": "avoiding-death-talk 보강: 2010년 이전 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-23 todayswillsandprobate 2018-08-21 Co-op 조사 더함. 같은 글 '16% do not share the loss with others to avoid talking about the' 사별 뒤 말 피하기(같은 URL). 후보: Pyszczynski 1999 Psychol Rev 106(4) 'Proximal defenses' (pubmed 쿠키 벽, 200자 초과). reliasmedia.com/articles/51589 (1997) Access Denied. 클리앙·82cook 게시글 미발견. PMID 32780652 (2022) 티베트인 대 한족 문화 조건",
-      "createdAt": "2026-10-23T03:24:34.559Z",
-      "seq": 1234
-    },
     {
       "id": "ee79f695",
       "title": "fighting-over-the-bill 보강: 문학 파편, dodging-the-bill 과 대립, 호혜·체면 원인",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 학술 2, 매체 2, 공공, SNS 로 만듦. 상위 delaying-bad-news. 후보: PMC11522046 같은 글 'In general, negative financial information is more likely to be avoided', moneysavingexpert 같은 스레드 댓글 'No, I don't avoid checking. As if I do it gives me a false sense of hope.'(대립 후보), onefamily 같은 글 36% 불안. 한국어 자료 미발견, maps.org.uk·moneyhelper 403, Karlsson 2009 는 PDF",
       "createdAt": "2026-10-24T00:39:36.076Z",
       "seq": 1393
+    },
+    {
+      "id": "8b1555e9",
+      "title": "avoiding-death-talk 보강: 원인 간선(남을 불편하게 할까 봐), 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-24 Tolstoy 1886 Wikisource VI장, HN 9547178 2015 더함. 후보: christiantoday.com/news/why-dont-we-talk-about-death (2014-05-13) Dying Matters 조사 'approximately 80 per cent of people do not discuss death because they believe that it makes others uncomfortable'. nbcnews.com/news/amp/wbna6011726 (2004) 부모 3분의 2가 죽어 가는 아이와 죽음 이야기를 안 함. thegazette.co.uk/all-notices/content/100090 72% 불편",
+      "createdAt": "2026-10-24T03:08:52.929Z",
+      "seq": 1395
     },
     {
       "id": "e8ba47a7",
