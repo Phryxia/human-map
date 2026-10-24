@@ -9449,5 +9449,29 @@
     "last": "2026-10-24",
     "result": "VERIFIED",
     "lastVerified": "2026-10-24"
+  },
+  "https://news.seoul.go.kr/safe/?p=11963": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://udspace.udel.edu/items/0c6754be-4ec1-4939-bce3-a2d4acbec2ca/full": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156616783": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
+  },
+  "https://www.khan.co.kr/article/202504110600001": {
+    "first": "2026-10-24",
+    "last": "2026-10-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-24"
   }
 }

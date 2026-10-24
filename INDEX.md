@@ -61,6 +61,7 @@
 - [노스탤지어](docs/nostalgia.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [노후 준비 미루기](docs/delaying-retirement-saving.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [녹음된 자기 목소리 싫어하기](docs/disliking-recorded-own-voice.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [논밭두렁과 영농부산물 태우기](docs/burning-farm-waste.md) ([건강과 위험](groups/health-and-safety.md))
 - [높은 곳에서 뛰어내리고 싶은 충동](docs/urge-to-jump-from-heights.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [놓칠까 두려운 마음](docs/fear-of-missing-out.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [누구에게 말했는지 잊기](docs/destination-memory-failure.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))

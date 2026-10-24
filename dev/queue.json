@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T12:27:59.105Z",
-  "nextSeq": 1529,
+  "savedAt": "2026-10-24T12:30:57.852Z",
+  "nextSeq": 1531,
   "stops": 96,
   "items": [
     {
@@ -411,6 +411,14 @@
       "note": "2026-10-24 CNN 2024-03-24 기사는 Harvey&Payne 2002 가 양 세기를 직접 시험하지 않았다고 정정한다(일반 주의 돌리기 집단 14명 중 2명만 셈). 후보 대목 미추출. purplemotes.net/2013/09/01/origin-counting-sheep-fall-asleep (2013-09-01) 12세기 Disciplina Clericalis, mentalfloss.com 2010-04-21 양치기 유래. lying-awake-thinking 과 관계 후보",
       "createdAt": "2026-10-24T12:23:47.224Z",
       "seq": 1526
+    },
+    {
+      "id": "1e473d26",
+      "title": "burning-farm-waste 보강: 해충 방제 믿음 파편, 2000년대 파편",
+      "priority": 50,
+      "note": "2026-10-24 news.seoul.go.kr/safe/?p=11963 같은 페이지 '논·밭두렁 태우기는 병해충 방제에 큰 효과가 없음'(이미 [^1] 출처라 다른 출처 필요). 농촌진흥청 2020~2021 익충 80~97% 조사 원문 미확인. working-through-heat 과 같은 고령 농민 장면",
+      "createdAt": "2026-10-24T12:30:57.728Z",
+      "seq": 1530
     },
     {
       "id": "d16898d2",
