@@ -207,6 +207,7 @@
 - [연인의 휴대폰 몰래 보기](docs/snooping-on-partners-phone.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연차휴가 남기기](docs/unused-annual-leave.md) ([일터와 일자리](groups/work.md))
 - [연체 뒤 도서관 피하기](docs/avoiding-library-over-overdue-books.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [옆 사람 통화에 신경 쓰이기](docs/overheard-phone-calls.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [예약 부도](docs/reservation-no-show.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [옛 친구에게 연락하기 망설이기](docs/hesitating-to-contact-old-friends.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))

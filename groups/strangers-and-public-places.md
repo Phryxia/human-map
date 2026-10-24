@@ -13,6 +13,7 @@
 - [서비스 받는 동안 잡담 피하기](../docs/avoiding-small-talk-during-service.md) 미용실이나 택시에서 서비스를 받는 손님이 직원이나 기사와 잡담하지 않으려고 대화 없는 서비스를 고르거나 미리 요청한다.
 - [아는 사람을 마주치고 못 본 척하기](../docs/pretending-not-to-see-acquaintance.md) 밖에서 아는 사람을 발견한 사람이 인사를 나누지 않으려고 못 본 척하거나 고개를 숙인다.
 - [엘리베이터 안의 침묵](../docs/elevator-silence.md) 엘리베이터에 낯선 사람과 함께 탄 사람이 말을 멈추고 신발, 문, 층수 표시기를 바라본다.
+- [옆 사람 통화에 신경 쓰이기](../docs/overheard-phone-calls.md) 공공장소에 있는 사람이 옆 사람의 휴대전화 통화를 듣게 되면 그 소리에 주의가 쏠려 거슬려한다.
 - [예약 부도](../docs/reservation-no-show.md) 가게에 예약한 손님이 취소 연락 없이 예약한 때에 나타나지 않는다.
 - [이웃과 엘리베이터 같이 타지 않기](../docs/avoiding-shared-elevator.md) 엘리베이터에 이웃이나 꺼리는 사람이 타 있거나 같이 탈 것 같으면 함께 타지 않으려고 기다리거나 늦게 나간다.
 - [인사 안 받는 이웃에게 아는 체 그만두기](../docs/stopping-greeting-unresponsive-neighbor.md) 이웃에게 건넨 인사에 반응이 없었던 사람이 그 뒤로 그 이웃에게 인사하지 않는다.
