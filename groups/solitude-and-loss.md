@@ -19,4 +19,5 @@
 - [혼자 먹는 식사의 감정](../docs/eating-alone-feelings.md) 혼자 식사하는 사람은 쓸쓸함이나 함께 먹는 자리에 대한 그리움을 느끼기도 하고 여유나 자유를 느끼기도 한다.
 - [혼자 생각만 하는 시간 꺼리기](../docs/avoiding-being-alone-with-thoughts.md) 할 일 없이 혼자 생각만 하며 있어야 하는 사람이 그 시간을 즐기지 않고 무엇이든 하려 한다.
 - [혼자 여가 보내기](../docs/solo-leisure.md) 여가 시간이 생긴 사람이 가족이나 친구와 함께하지 않고 혼자서 여가활동을 한다.
+- [혼자 있기 선호](../docs/preference-for-solitude.md) 사람이 다른 사람과 함께 있기보다 혼자 시간을 보내거나 혼자 활동하기를 더 좋아한다.
 - [혼잣말](../docs/talking-to-oneself.md) 혼자 있거나 생각에 잠긴 사람이 자기 자신에게 소리 내어 말한다.

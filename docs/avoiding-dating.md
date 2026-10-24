@@ -22,7 +22,7 @@
 
 ## 원인
 
-없음.
+- [혼자 있기 선호](preference-for-solitude.md)[^2]
 
 ## 결과
 
