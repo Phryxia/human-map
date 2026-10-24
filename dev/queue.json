@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T12:23:47.395Z",
-  "nextSeq": 1527,
+  "savedAt": "2026-10-24T12:27:59.105Z",
+  "nextSeq": 1529,
   "stops": 96,
   "items": [
     {
@@ -1899,6 +1899,14 @@
       "note": "2026-10-24 skipping-lunch-break 작업 중. safetyandhealthmagazine.com/20259 (2020-09-01) 'Some employees feel anxious and guilty about taking breaks', eprints.staffs.ac.uk/6315 Results 'contradictory feelings of guilt and anxiety'. skipping-lunch-break, unused-annual-leave 와 원인 간선 후보",
       "createdAt": "2026-10-24T12:16:43.695Z",
       "seq": 1524
+    },
+    {
+      "id": "1e775077",
+      "title": "통제 착각",
+      "priority": 10,
+      "note": "2026-10-24 pressing-placebo-buttons 작업 중. PMC9292938 (2021-09-08) Langer 1975 정의. pressing-placebo-buttons, buying-lottery-tickets, gamblers-fallacy 의 상위 후보. BBC 2013 magazine-23869955 'illusion of control' 대목은 이미 다른 대목을 썼으므로 다른 출처 필요",
+      "createdAt": "2026-10-24T12:27:58.973Z",
+      "seq": 1528
     },
     {
       "id": "02b2f242",

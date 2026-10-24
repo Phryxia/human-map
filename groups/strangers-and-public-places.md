@@ -17,3 +17,4 @@
 - [이웃과 엘리베이터 같이 타지 않기](../docs/avoiding-shared-elevator.md) 엘리베이터에 이웃이나 꺼리는 사람이 타 있거나 같이 탈 것 같으면 함께 타지 않으려고 기다리거나 늦게 나간다.
 - [인사 안 받는 이웃에게 아는 체 그만두기](../docs/stopping-greeting-unresponsive-neighbor.md) 이웃에게 건넨 인사에 반응이 없었던 사람이 그 뒤로 그 이웃에게 인사하지 않는다.
 - [자리 양보 망설임](../docs/hesitating-to-offer-seat.md) 대중교통에 앉은 사람이 노인이나 임산부에게 자리를 내줄지 망설이다 내주지 않거나 말없이 일어난다.
+- [효과 없는 버튼 누르기](../docs/pressing-placebo-buttons.md) 신호나 문이 바뀌기를 기다리는 사람이 누른 효과가 거의 없는 횡단보도 버튼이나 엘리베이터 닫힘 버튼을 누른다.
