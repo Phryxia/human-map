@@ -10,7 +10,7 @@
 
 1908년 몽고메리의 소설[^3]에서 마릴라는 장미꽃 무늬 찻잔 세트를 목사나 부인회가 올 때 말고는 쓰지 않는다며 앤에게 낡은 갈색 찻잔을 내놓으라고 했다.
 
-2026년 4월 에세이[^6]의 글쓴이는 결혼 준비 때 비싸게 산 명품 가방을 몇 번 들지 못하고 늘 안쪽에 모셔 두었다고 썼다. 2026년 8월 칼럼[^7]의 글쓴이는 좋은 날 입으려 둔 캐시미어 옷에 그 좋은 날이 오지 않았고 좀벌레가 먼저 들었다고 썼다.
+2026년 4월 에세이[^6]의 글쓴이는 결혼 준비 때 비싸게 산 명품 가방을 몇 번 들지 못하고 늘 안쪽에 모셔 두었다고 썼다. 2026년 5월 Hacker News 댓글[^7]의 글쓴이는 좋아하는 프로슈토를 특별한 때를 위해 먹지 않고 두다가 곰팡이가 피어 버리곤 한다고 썼다. 2026년 8월 칼럼[^8]의 글쓴이는 좋은 날 입으려 둔 캐시미어 옷에 그 좋은 날이 오지 않았고 좀벌레가 먼저 들었다고 썼다.
 
 2021년 논문[^4]의 여섯 연구에서 물건을 쓰지 않고 넘기면 그 물건이 더 특별해 보였고 쓰지 않은 이유를 나중의 기회를 기다린 것으로 돌릴 때 특히 그랬다. 같은 해 연구자의 글[^5]은 그렇게 특별해진 물건을 사람들이 다시 나중을 위해 아껴 두고 싶어 한다고 적는다.
 
@@ -44,4 +44,5 @@
 [^4]: [학술] "Six studies demonstrate that forgoing using an item can make it seem more special, particularly when forgoing is attributed to waiting for a later occasion." (여섯 연구는 물건을 쓰지 않고 넘기면 그 물건이 더 특별해 보일 수 있고 특히 쓰지 않은 것을 나중의 기회를 기다린 탓으로 돌릴 때 그렇다는 것을 보여 준다.) — Jacqueline R. Rifkin, Jonah Berger, "How Nonconsumption Can Turn Ordinary Items into Perceived Treasures", Journal of the Association for Consumer Research 6(3), 2021, https://ideas.repec.org/a/ucp/jacres/doi10.1086-714363.html, 2026-10-22 접속
 [^5]: [매체] "When you forgo using something – for whatever reason – if you believe that you were waiting to use it, the possession will start to feel more special. You’ll want to save it for a later occasion." (어떤 이유로든 무언가를 쓰지 않고 넘겼을 때 쓸 때를 기다리고 있었다고 믿으면 그 물건은 더 특별하게 느껴지기 시작한다. 그러면 나중의 기회를 위해 아껴 두고 싶어진다.) — Jacqueline Rifkin, "Psychological 'specialness spirals' can make ordinary items feel like treasures – and may explain how clutter accumulates", The Conversation, 2021-09-22, https://theconversation.edu.au/psychological-specialness-spirals-can-make-ordinary-items-feel-like-treasures-and-may-explain-how-clutter-accumulates-165863, 2026-10-22 접속
 [^6]: [매체] "결혼 준비할 때 비싸게 주고 산 명품 가방, 몇 번 들지도 못하고 늘 안쪽에 모셔두던 그 가방." — 여운, 「아끼다 똥 된다」, 브런치, 2026-04-18, https://brunch.co.kr/@adb3b4fdfdfd418/128, 2026-10-22 접속
-[^7]: [매체] "I also seem to have ghosted a teal cashmere twinset I was keeping for ‘best’. Well, the ‘best’ moment never came but the moths have RSVP’d, big time." (나는 '좋은 날' 입으려 아껴 둔 청록색 캐시미어 트윈세트도 외면해 온 모양이다. 그 '좋은 날'은 오지 않았고 좀벌레만 잔뜩 찾아왔다.) — Kathy Lette, "'From now on I'm treating every day as best'", Woman & Home, 2026-08-30, https://www.womanandhome.com/life/kathy-lette-stop-saving-clothes-for-best/, 2026-10-22 접속
+[^7]: [SNS] "Eventually I have to throw the mouldy prosciutto away because I was too frugal to eat it." (결국 너무 아끼느라 먹지 못한 곰팡이 핀 프로슈토를 버려야 한다.) — Hacker News 댓글, 2026-05-01, https://news.ycombinator.com/item?id=47971418, 2026-10-24 접속
+[^8]: [매체] "I also seem to have ghosted a teal cashmere twinset I was keeping for ‘best’. Well, the ‘best’ moment never came but the moths have RSVP’d, big time." (나는 '좋은 날' 입으려 아껴 둔 청록색 캐시미어 트윈세트도 외면해 온 모양이다. 그 '좋은 날'은 오지 않았고 좀벌레만 잔뜩 찾아왔다.) — Kathy Lette, "'From now on I'm treating every day as best'", Woman & Home, 2026-08-30, https://www.womanandhome.com/life/kathy-lette-stop-saving-clothes-for-best/, 2026-10-22 접속

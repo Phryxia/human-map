@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:21:41.411Z",
-  "nextSeq": 1402,
+  "savedAt": "2026-10-24T03:22:36.212Z",
+  "nextSeq": 1404,
   "stops": 93,
   "items": [
-    {
-      "id": "b5de46a0",
-      "title": "saving-things-for-best 보강: SNS 파편, 한국어 다른 시기",
-      "priority": 50,
-      "note": "2026-10-23 Anne of Green Gables pg45 1908 장미꽃 찻잔 더함. 같은 책 'Nobody ever used their very best china on my account before.' 는 같은 URL. 남은 후보: youlookfab.com/welookfab/topic/the-perils-of-not-saving-your-best (발행일 '10 years ago' 뿐), knowledge.wharton.upenn.edu curbing-clutter (2021-11-16, 같은 연구), talbotspy.org Using the Good China, Cranford pg394 새 카펫에 신문지, Middlemarch pg145 보석 잠가 둠. 한국어 게시판 글 미발견. 물건 쌓아 두기 결과 간선 후보",
-      "createdAt": "2026-10-23T03:39:11.498Z",
-      "seq": 1244
-    },
     {
       "id": "d4ae5291",
       "title": "hesitating-to-take-parental-leave 보강: 2000년대 이전 파편, SNS 파편, 상위 간선",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 Refinery29 2019-12-09 1인칭 매체 더함. 후보: news.ycombinator.com/item?id=19873409 (2019-05-09) 'people are scared to knock on their neighbor’s door' 관찰, item?id=19872750 (2019) 소음 항의하러 문 두드리기의 위험. newstatesman 2019/12 canvassing 글은 본문 페이월. 학술: Davies 2011 IJSRM, Chatzifotiou 2000 미열람",
       "createdAt": "2026-10-24T03:21:41.310Z",
       "seq": 1401
+    },
+    {
+      "id": "8ad8318a",
+      "title": "saving-things-for-best 보강: 한국어 SNS 파편, 물건 쌓아 두기 결과 간선",
+      "priority": 50,
+      "note": "2026-10-24 HN 47971418 (2026-05-01) 프로슈토 더함. 후보: news.ycombinator.com/item?id=24274541 (2020-08-25) 'Being so guarded they were never used and took up space' 좋은 그릇이 쓰이지 않아 자리만 차지, item?id=49751185 (2026-09-18) 부모 집 3대의 그릇장. 한국어 게시판 글 미발견",
+      "createdAt": "2026-10-24T03:22:36.087Z",
+      "seq": 1403
     },
     {
       "id": "e8ba47a7",
