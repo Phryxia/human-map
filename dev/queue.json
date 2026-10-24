@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T03:32:48.188Z",
-  "nextSeq": 1428,
+  "savedAt": "2026-10-24T03:33:55.983Z",
+  "nextSeq": 1430,
   "stops": 93,
   "items": [
-    {
-      "id": "ed18246a",
-      "title": "emotional-labor 보강: SNS·문학 파편, heavy-drinking 결과 간선 근거",
-      "priority": 50,
-      "note": "2026-10-23 문서 만듦(학술 Grandey 2000, 공공 서울톡톡 2012-12-05, 학술 Grandey 2019). Grandey 2019 초록은 surface acting 과 heavy drinking 의 관련만 말해 원인 간선 근거가 아님. 인과 문장 찾으면 heavy-drinking 결과 간선. 같은 기사 165771 '스튜디어스, 콜센터 안내직원, 백화점 및 마트 판매원' 직종 목록. krivet 감정노동의 직업별 실태(2013, 항공기 객실 승무원 4.70)는 이 환경에서 403. Wang·Groth 2014 PMID 24079672 고객 만족 조건. 한국어 상담원 게시글 미탐색",
-      "createdAt": "2026-10-23T12:09:34.203Z",
-      "seq": 1302
-    },
     {
       "id": "1ae789f9",
       "title": "keeping-a-diary 보강: 학술·SNS 파편, 연령 조건",
@@ -491,6 +483,14 @@
       "note": "2026-10-24 네이트판 359133930 (2021-04-17) 병원 가 보자는 말로 싸움 더함. 남은 후보: marieclaire.co.uk/life/snooping-670110 (2019-11-02) 엿보기 뒤 이별",
       "createdAt": "2026-10-24T03:32:48.080Z",
       "seq": 1427
+    },
+    {
+      "id": "3289869d",
+      "title": "emotional-labor 보강: SNS·문학 파편, heavy-drinking 결과 간선 근거",
+      "priority": 50,
+      "note": "2026-10-23 학술 Grandey 2000, 공공 서울톡톡 2012-12-05, 학술 Grandey 2019 로 만듦. 2026-10-24 머니투데이 2018-11-10 체헐리즘 더함. 같은 기사 '그럼에도 화를 냈고, 그럼에도 친절히 웃어 보였다'. 후보: mt.co.kr/society/2013/11/12/2013110717212799641 (2013) 상담사도 누군가의 가족, segye.com/newsView/20190429512155 (2019) 감정노동자 보호법 실효성. Grandey 2019 는 관련만 말함. krivet 2013 403. 한국어 상담원 게시글 미발견",
+      "createdAt": "2026-10-24T03:33:55.864Z",
+      "seq": 1429
     },
     {
       "id": "e8ba47a7",
