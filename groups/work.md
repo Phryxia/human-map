@@ -21,6 +21,7 @@
 - [일요일 밤의 출근 걱정](../docs/sunday-night-dread.md) 주중에 일하는 사람이 일요일 저녁이나 밤에 다음 날 출근을 떠올리며 긴장하거나 우울해진다.
 - [일터에서 바쁜 척하기](../docs/pretending-to-be-busy.md) 직장인이 실제로 하는 일과 관계없이 일터에서 바빠 보이도록 행동한다.
   - [눈치 야근](../docs/staying-late-for-boss.md)
+- [점심 휴식 거르고 일하기](../docs/skipping-lunch-break.md) 일하는 사람이 점심시간이나 휴게시간을 다 쓰지 않고 책상에서 먹거나 곧바로 일로 돌아간다.
 - [직장 내 괴롭힘 참고 넘기기](../docs/enduring-workplace-harassment.md) 직장에서 괴롭힘을 당한 사람이 회사나 기관에 알리지 않고 참거나 모르는 척한다.
 - [퇴근 뒤 업무 연락에 답하기](../docs/after-hours-work-replies.md) 일하는 사람이 퇴근 뒤나 휴일에도 업무 메시지와 이메일을 확인하고 답한다.
 - [퇴근 뒤 일 생각 곱씹기](../docs/work-rumination-after-hours.md) 일하는 사람이 퇴근한 뒤에도 낮의 업무 장면과 일에 관한 생각을 되풀이한다.
