@@ -1,41 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-25T00:34:01.081Z",
-  "nextSeq": 1678,
-  "stops": 101,
+  "savedAt": "2026-10-25T03:36:36.785Z",
+  "nextSeq": 1686,
+  "stops": 102,
   "items": [
-    {
-      "id": "5bb18acb",
-      "title": "hesitating-at-the-door 보강: 학술 파편, 사회불안 원인 간선",
-      "priority": 50,
-      "note": "2026-10-24 Refinery29 2019-12-09 1인칭 매체 더함. 후보: news.ycombinator.com/item?id=19873409 (2019-05-09) 'people are scared to knock on their neighbor’s door'. 2026-10-24 학술 검색: 호별 방문자 불안을 다룬 질적 연구 미발견. PMC8863159 (코로나 시기 호별 모집) 본문에 해당 대목 없음, eprints.ncrm.ac.uk 3722 는 봇 확인 페이지",
-      "createdAt": "2026-10-24T15:17:37.705Z",
-      "seq": 1595
-    },
-    {
-      "id": "e5d28ea6",
-      "title": "hesitating-to-take-parental-leave 보강: 2000년 이전 파편, SNS 파편, 상위 간선",
-      "priority": 50,
-      "note": "2026-10-24 HN 검색: 'paternity leave afraid career' 결과는 기사 인용(27819766, 2021-07-13 58% 경력 걱정)뿐이고 1인칭 망설임 댓글 미발견. 후보: fatherly.com survey-dads-fear-being-mommy-tracked, equimundo.org groundbreaking-study, um.edu.mt/library/oar/handle/123456789/51353. unused-annual-leave 와 공통 상위(눈치 때문에 쓸 수 있는 휴가 안 쓰기) 후보, 아직 문서 없음",
-      "createdAt": "2026-10-24T15:18:48.625Z",
-      "seq": 1597
-    },
-    {
-      "id": "6c1cd8d2",
-      "title": "not-reporting-workplace-injury 보강: SNS 파편, 한국 공공 파편, 1990년대 학술",
-      "priority": 50,
-      "note": "2026-10-24 NIOSH 2021-04-13 공공 더함. pubmed.ncbi.nlm.nih.gov/9973879 (Pransky 1999) 는 curl·브라우저 UA 모두 본문 없음. 후보: govinfo FR-2016-05-12 2016-10443 동료 실망 두려움, newsis NISX20210305_0001360742 38.7% 공상(제목에 회사명)",
-      "createdAt": "2026-10-24T15:19:22.309Z",
-      "seq": 1598
-    },
-    {
-      "id": "d9e69c25",
-      "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-10-24 HN 9489263 (2015-05-04) 더함. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의. 한국어 자료 미발견(지역가입자 보험료 안내뿐)",
-      "createdAt": "2026-10-24T15:21:55.540Z",
-      "seq": 1600
-    },
     {
       "id": "9a4c5f99",
       "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
@@ -435,6 +403,38 @@
       "note": "2026-10-25 UNITAR 2022 페이지 'I might use it again in the future (46%)', 'It has sentimental value (13%)' (전자제품 전체). 상위 후보 difficulty-discarding",
       "createdAt": "2026-10-25T00:30:14.379Z",
       "seq": 1676
+    },
+    {
+      "id": "a6d608b3",
+      "title": "hesitating-at-the-door 보강: 사회불안 원인 간선, 1980년대 파편",
+      "priority": 50,
+      "note": "2026-10-25 PLOS ONE 2024-12-31 메타합성 학술 더함. 후보: pmc.ncbi.nlm.nih.gov/articles/PMC12511522 (2025, 1980년대 회고) 'It was always a delicate business going knocking on doors', PMC7986561 (2021) 기숙사 'I’d feel really awkward just knocking on people’s doors'. 같은 메타합성 'I changed my mind when I got there' 는 원문에서 […] 로 끊김. 사회불안 인과 문장 미발견",
+      "createdAt": "2026-10-25T03:12:39.306Z",
+      "seq": 1682
+    },
+    {
+      "id": "4554eb59",
+      "title": "hesitating-to-take-parental-leave 보강: 상위 간선, 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-25 CSM 1984-12-31 63%, HN 27607652 (2021-06-23) 평판 더함. 후보: clien.net/service/board/cm_baby/18928776 댓글 2025-03-10 '승진 이후 바로 썼구요'(평가 불이익 의식), csmonitor.com/1981/0727/072712.html 상사가 재고를 요구, csmonitor.com/1994/0802/02182.html 사설 아버지가 한두 주로 줄여 씀. unused-annual-leave 와 공통 상위 후보, 아직 문서 없음",
+      "createdAt": "2026-10-25T03:19:41.838Z",
+      "seq": 1683
+    },
+    {
+      "id": "13ebf324",
+      "title": "not-reporting-workplace-injury 보강: 한국 공공 파편, 상위 간선",
+      "priority": 50,
+      "note": "2026-10-25 Br J Ind Med 1969-01 어선원, 디시 2026-08-13 퇴근길 사고 무급 더함. 후보: korea.kr pressReleaseView newsId=155350181 (2009-05-20 권익위) 근로자 이유 팀반장과 사업주의 거부 35.7%(노동자 본인의 꺼림이 아니라 거부), moel.go.kr enewsView news_seq=10569 (2019-12-10) 24.5% 산재 신청 방해·복귀 불이익(기사 문장 전재). 디시 callcenter 131561 '산재처리?(회사 눈치보임)'. not-reporting-for-fear-of-reprisal 와 관계 후보",
+      "createdAt": "2026-10-25T03:36:08.789Z",
+      "seq": 1684
+    },
+    {
+      "id": "1ff01037",
+      "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-10-24 HN 9489263 (2015-05-04) 더함. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의. 한국어 자료 미발견(지역가입자 보험료 안내뿐)",
+      "createdAt": "2026-10-25T03:36:34.463Z",
+      "seq": 1685
     },
     {
       "id": "d16898d2",
