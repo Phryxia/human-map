@@ -8438,21 +8438,21 @@
   },
   "https://gangdong.go.kr/web/newportal/press/6190": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27981022&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://mediahub.seoul.go.kr/archives/2004640": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.gutenberg.org/cache/epub/2413/pg2413-images.html": {
     "first": "2026-10-23",
@@ -9212,9 +9212,9 @@
   },
   "https://m.seoul.co.kr/news/2003/04/25/20030425024002": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27775405&rettype=abstract&retmode=text": {
     "first": "2026-10-24",
@@ -9602,9 +9602,9 @@
   },
   "https://news.ycombinator.com/item?id=1650041": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://news.ycombinator.com/item?id=5091017": {
     "first": "2026-10-24",
@@ -10495,6 +10495,12 @@
     "lastVerified": "2026-10-25"
   },
   "https://www.wkorea.com/?p=411330": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.gutenberg.org/cache/epub/3135/pg3135-images.html": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
