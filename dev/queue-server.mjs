@@ -117,9 +117,10 @@ export function startServer({
   const startedAt = new Date().toISOString()
   let stopping = false
 
-  const finish = (commit) => {
+  // 회차는 stop 요청만 센다. 신호(SIGTERM, SIGINT) 종료는 저장만 한다.
+  const finish = (commit, count) => {
     const saved = true
-    queue.countStop()
+    if (count) queue.countStop()
     persist(queue, queueFile)
     const c = commit && commitOnStop ? gitCommitQueue(repoRoot, queueFile) : {committed: false, reason: 'commit 생략'}
     try { fs.rmSync(portFile, {force: true}) } catch {}
@@ -128,7 +129,7 @@ export function startServer({
   const stop = (reason, commit = true) => {
     if (stopping) return null
     stopping = true
-    const r = finish(commit)
+    const r = finish(commit, false)
     log(`stop (${reason}): saved=${r.saved} committed=${r.committed}${r.hash ? ' ' + r.hash : ''}${r.reason ? ' ' + r.reason : ''}`)
     server.close(() => exit(0))
     setTimeout(() => exit(0), 500).unref()
@@ -152,7 +153,7 @@ export function startServer({
         const body = await readBody(req)
         if (stopping) return send(res, 409, {error: '이미 종료 중', code: 'STOPPING'})
         stopping = true
-        const r = finish(body.commit !== false)
+        const r = finish(body.commit !== false, true)
         res.writeHead(200, {'content-type': 'application/json; charset=utf-8'})
         res.end(JSON.stringify({stopped: true, ...r}), () => { log(`stop (http): committed=${r.committed}`); server.close(() => exit(0)); setTimeout(() => exit(0), 500).unref() })
         return

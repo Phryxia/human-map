@@ -119,3 +119,17 @@ test('persist: 그사이 디스크에 들어온 다른 세션의 변경을 id �
   mine.countStop(); persist(mine, file)
   assert.equal(loadQueueFile(file).stops, 19)
 })
+
+test('신호 종료는 저장만 하고 회차를 세지 않는다', async () => {
+  // 2026-10-25 09:05: kill 로 서버를 끄자 stops 103→104 로 커밋됐다
+  const dir = tmp(), queueFile = path.join(dir, 'queue.json'), portFile = path.join(dir, 'queue.port')
+  fs.writeFileSync(queueFile, JSON.stringify({version: QUEUE_VERSION, nextSeq: 1, stops: 103, items: []}))
+  const s = await startServer({port: 0, queueFile, portFile, repoRoot: dir, commitOnStop: false, exit: () => {}, log: () => {}})
+  try {
+    await fetch(s.url + '/items', {method: 'POST', headers: {'content-type': 'application/json'}, body: JSON.stringify({title: 'k'})})
+    s.stop('SIGTERM')
+    const saved = loadQueueFile(queueFile)
+    assert.equal(saved.stops, 103)
+    assert.equal(saved.items.length, 1)
+  } finally { s.server.close() }
+})
