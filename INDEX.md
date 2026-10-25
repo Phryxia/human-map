@@ -261,6 +261,7 @@
 - [장기기증 등록 미루기](docs/delaying-organ-donor-registration.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [재난 문자 무시하기](docs/ignoring-emergency-alerts.md) ([건강과 위험](groups/health-and-safety.md))
 - [저녁형 성향](docs/evening-chronotype.md) ([시간과 하루 습관](groups/daily-time.md))
+- [적막해서 TV 켜 두기](docs/leaving-tv-on-for-company.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [점심 휴식 거르고 일하기](docs/skipping-lunch-break.md) ([일터와 일자리](groups/work.md))
 - [정상 집착](docs/summit-fever.md) ([건강과 위험](groups/health-and-safety.md))
