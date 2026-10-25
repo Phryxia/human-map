@@ -96,7 +96,7 @@ test('문단 수 제한은 없고, 문단당 4문장을 넘으면 ERROR', () => 
   assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({body: nine})}))), [])
   const long = '하나다. 둘이다. 15.6%였다. 넷이다. 다섯이다.[^1][^2]'
   assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: long})}))).some(x => x.includes('문단이 4문장을 넘는다 (5)')))
-  const ok = '하나다. 둘은 15.6%였다. 셋이다. 넷이다.[^1]\n\n문단.[^1]\n\n문단.[^2]\n\n문단.[^1]'
+  const ok = '하나다. 둘은 15.6%였다. 셋이다. 넷이다.[^1]\n\n문단.[^1]\n\n문단.[^2]\n\n문단.[^2]'
   assert.deepEqual(validateAll(loadAll(makeRepo({a: makeDoc({body: ok})}))).map(r => r.msg), [])
 })
 
@@ -160,4 +160,12 @@ test('한 문서 안의 같은 URL 파편 둘은 오류다', () => {
   const m = errs(loadAll(makeRepo({a: makeDoc({body: '문단.[^1][^2][^3]', frags})})))
   assert.ok(m.some(x => x.includes('한 출처에서 한 파편만') && x.includes('[^2]')))
   assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc()}))), [])
+})
+
+test('서술 문단이 첫 파편의 발행일 순이 아니면 WARN (이슈 #14)', () => {
+  const fr = [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2010', 'https://b.example/2'), frag(3, 'SNS', '2020', 'https://c.example/3')]
+  const back = makeDoc({body: '앞.[^1]\n\n뒤.[^2] 더 뒤.[^3]\n\n되짚음.[^1]', frags: fr})
+  assert.ok(warns(loadAll(makeRepo({a: back}))).some(x => x.includes('서술 문단이 발행일 순이 아니다')))
+  const ok = makeDoc({body: '근거 없는 앞 문장. 앞.[^1]\n\n뒤.[^2] 앞 시기와 견줌.[^1]\n\n더 뒤.[^3]', frags: fr})
+  assert.deepEqual(warns(loadAll(makeRepo({a: ok}))), [])
 })

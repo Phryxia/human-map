@@ -79,6 +79,15 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
   for (const sec of ['서술']) {
     const ps = paragraphs(doc, sec)
     if (!ps.length) err(doc.sections[sec]?.ln ?? 1, `${sec} 절이 비어 있다`)
+    // 문단은 그 문단이 가리키는 가장 이른 파편의 발행일 순이다(이슈 #14). 파편 번호가 발행일 순이므로 번호로 견준다.
+    let prevMin = 0
+    for (const p of ps) {
+      const r = refsIn(p.text)
+      if (!r.length) continue
+      const m = Math.min(...r)
+      if (m < prevMin) warn(p.ln, `서술 문단이 발행일 순이 아니다: 이 문단의 첫 파편 [^${m}] 이 앞 문단의 [^${prevMin}] 보다 이르다`)
+      prevMin = Math.max(prevMin, m)
+    }
     for (const p of ps) {
       const sentences = sentenceCount(p.text)
       if (sentences > 4) err(p.ln, `문단이 4문장을 넘는다 (${sentences})`)
