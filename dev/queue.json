@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-25T03:36:36.785Z",
-  "nextSeq": 1686,
-  "stops": 102,
+  "savedAt": "2026-10-25T06:23:26.176Z",
+  "nextSeq": 1690,
+  "stops": 103,
   "items": [
     {
       "id": "9a4c5f99",
@@ -435,6 +435,14 @@
       "note": "2026-10-24 HN 9489263 (2015-05-04) 더함. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의. 한국어 자료 미발견(지역가입자 보험료 안내뿐)",
       "createdAt": "2026-10-25T03:36:34.463Z",
       "seq": 1685
+    },
+    {
+      "id": "428682da",
+      "title": "desire-for-revenge 보강: 한국어 파편, 학술 인과 간선",
+      "priority": 50,
+      "note": "2026-10-25 문학 1600·1846, 매체 APS 2011·VCU 2021, SNS Straight Dope 2012·mindline 2024, 학술 Goldner 2019 로 만듦. 후보: Zhao·Zheng 2024 frontiersin 10.3389/fpsyg.2023.1255880 또래 피해와 복수, kormedi.com/1188411 (2009) 복수심 강한 사람 실직, kormedi.com/1221497 (2017) 복수심이 정의감으로 합리화, psmag.com/?p=44553 (2009) Carlsmith 소개. Wuthering Heights 7장, Monte Cristo 15장 문학 후보. 관계 절이 모두 비어 있음",
+      "createdAt": "2026-10-25T06:12:07.200Z",
+      "seq": 1689
     },
     {
       "id": "d16898d2",
@@ -1971,6 +1979,14 @@
       "note": "2026-10-25 매체 후보만 확보: vice.com/en/article/3knaek (2017-07-11 BVG 싼 우산, 새로 사는 편이 싸고 쉬워서), tokyofox.net/2006/07/23/too-honest-for-their-own-good (1% 만 찾아감, 출처 없음), kbmaeil.com/article/202403040386500. 공공 통계(경시청 遺失物 傘, TfL lost property) 필요",
       "createdAt": "2026-10-25T00:33:32.145Z",
       "seq": 1677
+    },
+    {
+      "id": "60d8da6b",
+      "title": "분노 곱씹기",
+      "priority": 10,
+      "note": "desire-for-revenge 작업 중 봄. 코메디닷컴 2023-10-11 kormedi.com/1627194 부제 '남을 용서하지 못하고 복수 원한을 품는 것은 분노반추 때문'. VCU 2021-08 곱씹으면 큰 복수 선호, APS 2011 복수한 사람이 더 곱씹음. desire-for-revenge 와 원인·결과 간선 후보, displaced-aggression 원인 후보(Bushman 2005 kar.kent.ac.uk/34963)",
+      "createdAt": "2026-10-25T06:12:07.018Z",
+      "seq": 1688
     },
     {
       "id": "02b2f242",
