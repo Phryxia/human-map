@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-25T15:39:48.347Z",
-  "nextSeq": 2084,
-  "stops": 106,
+  "savedAt": "2026-10-25T18:37:20.387Z",
+  "nextSeq": 2098,
+  "stops": 107,
   "items": [
     {
       "id": "0d409b33",
@@ -451,6 +451,62 @@
       "note": "2026-10-24 재확인: 대립 근거 파편 없음. 클리앙 park/19148358 (2026-02-22) 같은 글 '아버지의 보증으로 집안의 경제가 무너지면서 겪었던 가난은 제게 돈을 쓰는 것은 피해야 할 일이라는 인식을 남겼습니다'(인과, 어린 시절 가난 문서가 생기면 간선). 2026-10-25 공공 후보 Fed SHED 2024 물가 대응 지출 축소, ECB 2026-02-19 불확실 가계 예비적 저축은 바라는 것보다 덜 쓰는 성향이 아니라 상황 대응이라 뺌. 예비적 저축은 별도 현상 후보",
       "createdAt": "2026-10-25T15:39:39.244Z",
       "seq": 2082
+    },
+    {
+      "id": "6cf79049",
+      "title": "keeping-cash-at-home 보강: 한국 공공 파편, 위기 조건",
+      "priority": 50,
+      "note": "2026-10-25 신규. 한국은행 경제주체별 현금사용행태 조사 HTML 원문 미발견(2018 가구 23.3% 예비용 현금, 2025 1인당 54만1000원은 언론 보도로만). Bundesbank 2024-03 publikationen.bundesbank.de/content/928358 위기 때 지폐 수요(probably, 추측), RBA 2000-01 Y2K bulletin/2000/jan/1.html, 1819news 2022-05-07 대공황 세대 은행 불신. panic-buying 과 관계 근거 파편 없음",
+      "createdAt": "2026-10-25T18:11:31.451Z",
+      "seq": 2091
+    },
+    {
+      "id": "df15f6ac",
+      "title": "singing-to-keep-up-courage 보강: 학술·SNS 파편, fear-of-the-dark 관계",
+      "priority": 50,
+      "note": "2026-10-25 신규, 문학 4·매체 1. 다른 문학 후보: poets.org/poem/halloween Burns 1786 'whistled up Lord Lennox march To keep his courage cheery', gutenberg 1661 Doyle 1892 'humming a tune under my breath to keep up my spirits'. HN 1인칭 댓글, HTML 학술 연구는 못 찾음",
+      "createdAt": "2026-10-25T18:17:44.566Z",
+      "seq": 2092
+    },
+    {
+      "id": "4bb314a1",
+      "title": "putting-off-backups 보강: 학술 파편, 이유",
+      "priority": 50,
+      "note": "2026-10-25 신규. 후보: itweb.africa 2014-01-31 'South Africans too lazy to back up data' 바쁨 40% 귀찮음 15%. Deccan Herald 2023 Western Digital 인도 조사는 본문이 JSON 에만 있음. 학술 HTML 미탐색",
+      "createdAt": "2026-10-25T18:22:41.187Z",
+      "seq": 2093
+    },
+    {
+      "id": "24fe8ab8",
+      "title": "overbuying-groceries 보강: 미확인 학술 파편 재확인, discarding-food-by-date-label 원인 간선",
+      "priority": 50,
+      "note": "2026-10-25 신규. PMC6836184 (2019-09-20) 이 이 환경에서 403 이라 미확인. 대안 학술 PMC9657712 (2022-10-31) 'Due to specials, promotions and bigger pack sizes consumers feel forced to buy beyond actual demand'. 매일신문 2011 과 서울시 2012 파편이 많이 사서 유통기한을 넘겨 버린다고 말하므로 discarding-food-by-date-label 과 원인 간선 후보",
+      "createdAt": "2026-10-25T18:28:52.290Z",
+      "seq": 2094
+    },
+    {
+      "id": "fd59320b",
+      "title": "talking-to-animals 보강: 학술·공공 파편, talking-to-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-25 신규, 문학 4·매체 1·SNS 1. caymancompass.com 2013 Churchill 조사 기사는 403, busrep.co.za 는 525",
+      "createdAt": "2026-10-25T18:32:08.765Z",
+      "seq": 2095
+    },
+    {
+      "id": "aeb6747e",
+      "title": "leaving-lights-on 보강: 2008년 이전 파편, 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-10-25 신규. 파편 시기 2014~2019 뿐. Energy Saving Trust 2006 'The Rise of the Machines' 미확인. HN 30646492 (2022-03-11) 어른도 하루 몇 번 불 끄기를 잊음(같은 계정인지 미확인). Smart Energy GB 같은 페이지 'Scots ... 32 per cent blaming their bad memories'",
+      "createdAt": "2026-10-25T18:34:46.436Z",
+      "seq": 2096
+    },
+    {
+      "id": "7c76e80e",
+      "title": "leaving-tv-on-for-company 보강: 공공·학술 파편, loneliness 관계",
+      "priority": 50,
+      "note": "2026-10-25 신규, SNS 1·매체 2. mentalhealth.org.uk tv-and-later-life 같은 글 'Watching television is seen as a way to feel less alone' (loneliness 원인 간선 후보, 2차 인용). brunch.co.kr/@orangesunset/23 (2026-06-22) 1인 가구가 적막을 깨려 음악을 튼다",
+      "createdAt": "2026-10-25T18:37:04.699Z",
+      "seq": 2097
     },
     {
       "id": "d16898d2",
