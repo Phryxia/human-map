@@ -839,15 +839,15 @@
   },
   "https://news.seoul.go.kr/gov/archives/540969": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-25"
   },
   "https://www.smarttoday.co.kr/ko-kr/articles/28343": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-25"
   },
   "https://ko.wikisource.org/wiki/%EB%8F%99%EB%B0%B1%EA%BD%83": {
     "first": "2026-10-17",
@@ -10189,6 +10189,12 @@
     "lastVerified": "2026-10-25"
   },
   "https://kormedi.com/1339875/": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://pure.seoultech.ac.kr/en/publications/improving-the-kiosk-user-experience-the-psychological-factors-of-/": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
