@@ -4329,9 +4329,9 @@
   },
   "https://m.dailian.co.kr/news/view/437070": {
     "first": "2026-10-19",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.segye.com/newsView/20260824515111": {
     "first": "2026-10-19",
@@ -7916,15 +7916,15 @@
   },
   "https://www.coglode.com/research/zeigarnik-effect": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21688924&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26168501&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -7946,9 +7946,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39075804&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27441459&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8852,15 +8852,15 @@
   },
   "https://www.spring.org.uk/2021/06/zeigarnik-effect.php": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.tech42.co.kr/?p=84089": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.gutenberg.org/cache/epub/1342/pg1342.txt": {
     "first": "2026-10-23",
@@ -9680,9 +9680,9 @@
   },
   "https://news.ycombinator.com/item?id=6691294": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://purplemotes.net/2013/09/01/origin-counting-sheep-fall-asleep/": {
     "first": "2026-10-24",
@@ -10567,6 +10567,12 @@
     "lastVerified": "2026-10-25"
   },
   "https://weekly.khan.co.kr/article/201711281004271": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://news.ycombinator.com/item?id=47356574": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
