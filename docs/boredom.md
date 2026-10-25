@@ -14,6 +14,8 @@
 
 2017년 블로그 글[^4]이 전한 연구에서 참가자는 낯선 사람이나 직장 동료와 있을 때, 혼자 있을 때 지루하다고 더 자주 답했고 아이, 연인이나 배우자, 친구와 있을 때 가장 드물게 답했다.
 
+2025년 3월 기사[^5]는 아이들이 자극을 충분히 받지 못하거나 무엇을 해야 할지 모를 때 지루함을 호소한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [SNS] "I first retired at age 59 from a tech job with great benefits and healthcare for life. Got bored out of my mind, and went back to work at another tech company." (나는 59세에 복지가 좋고 평생 의료 혜택이 있는 기술직에서 처음 은퇴했다. 미칠 듯이 지루해져서 다른 기술 회사로 돌아가 일했다.) — Hacker News, 댓글, 2013-01-21, https://news.ycombinator.com/item?id=5091017, 2026-10-24 접속
 [^3]: [학술] "Boredom is more prevalent among men, youths, the unmarried, and those of lower income." (지루함은 남성, 젊은 사람, 미혼자, 소득이 낮은 사람에게서 더 흔하다.) — A. Chin, A. Markey, S. Bhargava, K. S. Kassam, G. Loewenstein, 「Bored in the USA: Experience sampling and boredom in everyday life」, Emotion 17(2), 2017-03, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27775405&rettype=abstract&retmode=text, 2026-10-24 접속
 [^4]: [매체] "Participants were more likely to report feeling bored in the presence of strangers, coworkers, or when they were alone, and least likely to report boredom when with children, partners, or friends." (참가자들은 낯선 사람이나 직장 동료와 함께 있거나 혼자 있을 때 지루함을 보고할 가능성이 더 컸고, 아이, 연인이나 배우자, 친구와 함께 있을 때 가장 낮았다.) — Romeo Vitelli, 「Bored in the U.S.A.」, Psychology Today, 2017-03-03, https://www.psychologytoday.com/us/blog/media-spotlight/201703/bored-in-the-usa/amp, 2026-10-23 접속
+[^5]: [매체] "아이들은 충분한 자극을 받지 못하거나, 무엇을 해야 할지 모를 때 지루함을 호소한다." — 이유진, 「“심심해…” 아이들 지루해야 창의력 커진다」, 레이디경향, 2025-03-19, https://lady.khan.co.kr/education/article/202503190920001, 2026-10-25 접속
