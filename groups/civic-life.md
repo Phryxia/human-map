@@ -15,7 +15,6 @@
 - [범죄 피해 신고하지 않기](../docs/not-reporting-crime.md) 범죄 피해를 당한 사람이 경찰에 알리지 않고 넘어간다.
   - [보복이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-reprisal.md)
 - [분리배출 하지 않기](../docs/not-sorting-recyclables.md) 가정에서 재활용할 수 있는 쓰레기를 사람이 분리하지 않고 일반 쓰레기와 함께 버린다.
-- [안 쓰는 휴대폰 집에 두기](../docs/keeping-old-phones.md) 새 휴대전화로 바꾼 사람이 더는 쓰지 않는 옛 휴대전화를 팔거나 내놓지 않고 서랍 같은 집 안의 자리에 넣어 둔다.
 - [자원봉사 하지 않기](../docs/not-volunteering.md) 자원봉사를 떠올린 사람이 시간이 없다는 이유로 봉사하지 않는다.
 - [정치 무력감](../docs/political-inefficacy.md) 유권자가 정부와 정치인이 자기 같은 사람의 생각에 관심이 없고 자기 표가 결정을 바꾸지 못한다고 믿는다.
 - [투표 불참](../docs/not-voting.md) 투표권이 있는 사람이 선거일에 투표하지 않는다.
