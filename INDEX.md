@@ -276,6 +276,7 @@
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [짐이 되기 싫은 마음](docs/self-perceived-burden.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [집에 없는 척하기](docs/pretending-not-to-be-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [집에 현금 쌓아 두기](docs/keeping-cash-at-home.md) ([돈과 소비](groups/money.md))
 - [집이 부끄러워 손님 들이지 않기](docs/avoiding-inviting-people-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [징크스 지키기](docs/superstitious-rituals.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [짝사랑](docs/unrequited-love.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

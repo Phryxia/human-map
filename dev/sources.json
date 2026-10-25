@@ -10283,5 +10283,47 @@
     "last": "2026-10-25",
     "result": "VERIFIED",
     "lastVerified": "2026-10-25"
+  },
+  "https://www.gutenberg.org/cache/epub/550/pg550.txt": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.nbcnews.com/id/wbna27119294": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.seoul.co.kr/news/editOpinion/weft-column/2015/10/05/20151005031008": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://ideas.repec.org/a/aza/jpss00/y2021v15i2p188-196.html": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.rba.gov.au/publications/bulletin/2021/mar/cash-demand-during-covid-19.html": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://news.ycombinator.com/item?id=29709550": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.ecb.europa.eu/stats/ecb_surveys/space/html/ecb.space2024~19d46f0f17.en.html": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
   }
 }
