@@ -162,10 +162,11 @@ test('한 문서 안의 같은 URL 파편 둘은 오류다', () => {
   assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc()}))), [])
 })
 
-test('서술 문단이 첫 파편의 발행일 순이 아니면 WARN (이슈 #14)', () => {
-  const fr = [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2010', 'https://b.example/2'), frag(3, 'SNS', '2020', 'https://c.example/3')]
+test('서술 문단이 첫 파편의 발행일 순이 아니면 ERROR (이슈 #14)', () => {
+  const fr = [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2010', 'https://b.example/2'), frag(3, '공공', '2020', 'https://c.example/3')]
   const back = makeDoc({body: '앞.[^1]\n\n뒤.[^2] 더 뒤.[^3]\n\n되짚음.[^1]', frags: fr})
-  assert.ok(warns(loadAll(makeRepo({a: back}))).some(x => x.includes('서술 문단이 발행일 순이 아니다')))
+  assert.ok(errs(loadAll(makeRepo({a: back}))).some(x => x.includes('서술 문단이 발행일 순이 아니다')))
   const ok = makeDoc({body: '근거 없는 앞 문장. 앞.[^1]\n\n뒤.[^2] 앞 시기와 견줌.[^1]\n\n더 뒤.[^3]', frags: fr})
+  assert.deepEqual(errs(loadAll(makeRepo({a: ok}))), [])
   assert.deepEqual(warns(loadAll(makeRepo({a: ok}))), [])
 })

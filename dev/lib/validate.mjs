@@ -85,7 +85,7 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
       const r = refsIn(p.text)
       if (!r.length) continue
       const m = Math.min(...r)
-      if (m < prevMin) warn(p.ln, `서술 문단이 발행일 순이 아니다: 이 문단의 첫 파편 [^${m}] 이 앞 문단의 [^${prevMin}] 보다 이르다`)
+      if (m < prevMin) err(p.ln, `서술 문단이 발행일 순이 아니다: 이 문단의 첫 파편 [^${m}] 이 앞 문단의 [^${prevMin}] 보다 이르다`)
       prevMin = Math.max(prevMin, m)
     }
     for (const p of ps) {
