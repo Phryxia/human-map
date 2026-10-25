@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-24T21:42:08.931Z",
-  "nextSeq": 1665,
-  "stops": 100,
+  "savedAt": "2026-10-25T00:34:01.081Z",
+  "nextSeq": 1678,
+  "stops": 101,
   "items": [
-    {
-      "id": "571a816d",
-      "title": "dev: source-check 가 글은 타임아웃, 호스트 / 는 소켓 오류인 경우를 호스트 장애로 본다",
-      "priority": 60,
-      "note": "2026-10-24 driving-overconfidence [^4] web.archive.org/web/20160214202833 글은 source-check 에서 타임아웃, fetch 단독으로는 글과 / 모두 ECONNRESET. 프록시 recentRelayFailures 에 tunnel closed. 2026-10-20 까지 VERIFIED, 소멸 표시는 보류",
-      "createdAt": "2026-10-24T21:11:35.704Z",
-      "seq": 1659
-    },
-    {
-      "id": "266dddf8",
-      "title": "dev: source-check 가 403 으로 온 봇 확인 페이지(Checking your browser...)를 봇 확인으로 본다",
-      "priority": 60,
-      "note": "2026-10-24 not-negotiating-salary [^4] pewresearch.org short-reads/2023/04/05 가 같은 날 VERIFIED 뒤 403 + <title>Checking your browser...</title>, 다른 글도 403, / 는 200. 소멸 표시 보류",
-      "createdAt": "2026-10-24T21:15:27.146Z",
-      "seq": 1661
-    },
     {
       "id": "5bb18acb",
       "title": "hesitating-at-the-door 보강: 학술 파편, 사회불안 원인 간선",
@@ -419,6 +403,38 @@
       "note": "2026-10-24 Middlemarch 51장 (1872) 더함. 공공 후보: kokkai.ndl.go.jp/txt/119715206X00620181204/419 (2018-12-04) 퇴직을 꺼내기 어렵다는 발언(죄책감 낱말 없음). 오리건 의회 증언은 PDF·실명",
       "createdAt": "2026-10-24T21:42:00.613Z",
       "seq": 1664
+    },
+    {
+      "id": "1fe589fd",
+      "title": "password-reuse 보강: 2021년 이후 파편, 공공 원자료",
+      "priority": 50,
+      "note": "2026-10-25 후보: ncsc.gov.uk most-hacked-passwords 2019-04-21, arxiv.org/abs/1706.01939 38% 재사용. KISA 원자료 HTML 미발견",
+      "createdAt": "2026-10-25T00:11:54.106Z",
+      "seq": 1673
+    },
+    {
+      "id": "be09588d",
+      "title": "dismissing-fire-alarms 와 disabling-smoke-alarms 관계 근거 찾기",
+      "priority": 50,
+      "note": "2026-10-25 오경보 경험이 경보를 무시하는 것과 감지기를 끄는 것 둘에 이어지는지 원인 파편 후보 탐색",
+      "createdAt": "2026-10-25T00:18:36.154Z",
+      "seq": 1674
+    },
+    {
+      "id": "0ac21ab2",
+      "title": "watching-until-out-of-sight 보강: 학술, SNS 파편, lingering-goodbye 와 관계",
+      "priority": 50,
+      "note": "2026-10-25 후보: Dickens David Copperfield 57장 gutenberg 766 이민선 배웅, 김유정 「산골」 위키문헌 '아주 보이지 않을 때까지'. omiokuri 이름을 쓴 출처 찾으면 별칭",
+      "createdAt": "2026-10-25T00:26:07.934Z",
+      "seq": 1675
+    },
+    {
+      "id": "b4cb8e54",
+      "title": "keeping-old-phones 와 difficulty-discarding 관계 근거",
+      "priority": 50,
+      "note": "2026-10-25 UNITAR 2022 페이지 'I might use it again in the future (46%)', 'It has sentimental value (13%)' (전자제품 전체). 상위 후보 difficulty-discarding",
+      "createdAt": "2026-10-25T00:30:14.379Z",
+      "seq": 1676
     },
     {
       "id": "d16898d2",
@@ -1939,6 +1955,22 @@
       "note": "2026-10-24 news.ycombinator.com/item?id=7491745 (2014-03-29) 성인이 실패 공포와 사회적 창피 때문에 외국어를 어려워한다는 댓글. fear-of-failure 결과 후보",
       "createdAt": "2026-10-24T18:11:16.203Z",
       "seq": 1649
+    },
+    {
+      "id": "af7b934f",
+      "title": "보안 피로",
+      "priority": 10,
+      "note": "2026-10-25 password-reuse [^5] NIST 2016-10-04 security fatigue 글. 지쳐서 보안 결정을 포기하는 현상, password-reuse 의 원인 후보",
+      "createdAt": "2026-10-25T00:11:53.966Z",
+      "seq": 1672
+    },
+    {
+      "id": "3abe2aeb",
+      "title": "분실한 우산 찾아가지 않기",
+      "priority": 10,
+      "note": "2026-10-25 매체 후보만 확보: vice.com/en/article/3knaek (2017-07-11 BVG 싼 우산, 새로 사는 편이 싸고 쉬워서), tokyofox.net/2006/07/23/too-honest-for-their-own-good (1% 만 찾아감, 출처 없음), kbmaeil.com/article/202403040386500. 공공 통계(경시청 遺失物 傘, TfL lost property) 필요",
+      "createdAt": "2026-10-25T00:33:32.145Z",
+      "seq": 1677
     },
     {
       "id": "02b2f242",
