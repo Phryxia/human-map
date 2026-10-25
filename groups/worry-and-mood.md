@@ -10,6 +10,7 @@
   - [미루기](../docs/procrastination.md)
     - [노후 준비 미루기](../docs/delaying-retirement-saving.md)
     - [답장 미루기](../docs/delaying-message-replies.md)
+    - [백업 미루기](../docs/putting-off-backups.md)
     - [세금 신고 마감 직전까지 미루기](../docs/last-minute-tax-filing.md)
     - [소프트웨어 업데이트 미루기](../docs/delaying-software-updates.md)
     - [유언장 작성 미루기](../docs/delaying-will-writing.md)

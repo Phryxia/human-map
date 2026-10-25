@@ -117,6 +117,7 @@
 - [배송 조회 되풀이하기](docs/checking-parcel-tracking.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [배우자에게 재정 정보 숨기기](docs/spouse-financial-concealment.md) ([돈과 소비](groups/money.md))
 - [배터리 부족 불안](docs/low-battery-anxiety.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [백업 미루기](docs/putting-off-backups.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [범죄 피해 신고하지 않기](docs/not-reporting-crime.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [보내기 전 메시지 다시 읽기](docs/rereading-messages-before-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보내지 않는 편지 쓰기](docs/unsent-letters.md) ([메시지와 휴대전화](groups/messages-and-phones.md), [가까운 사이의 감정과 말](groups/close-relationships.md))

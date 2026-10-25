@@ -29,6 +29,7 @@
 - [유언장 작성 미루기](delaying-will-writing.md)
 - [장기기증 등록 미루기](delaying-organ-donor-registration.md)
 - [소프트웨어 업데이트 미루기](delaying-software-updates.md)
+- [백업 미루기](putting-off-backups.md)
 
 ## 원인
 
