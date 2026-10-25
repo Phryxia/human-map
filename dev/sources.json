@@ -10049,5 +10049,11 @@
     "last": "2026-10-25",
     "result": "VERIFIED",
     "lastVerified": "2026-10-25"
+  },
+  "https://arxiv.org/abs/1706.01939": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
   }
 }
