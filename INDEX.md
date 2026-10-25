@@ -132,6 +132,7 @@
 - [불만 제기 회피](docs/non-complaining.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [불확실한 소식을 기다리는 불안](docs/awaiting-uncertain-news.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [뷔페 접시 넘치게 담기](docs/overfilling-buffet-plates.md) ([돈과 소비](groups/money.md))
+- [비밀번호 재사용](docs/password-reuse.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [빈대 생긴 일 숨기기](docs/hiding-bedbug-infestation.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [빌려준 돈 돌려 달라고 못 하기](docs/not-asking-for-loan-back.md) ([돈과 소비](groups/money.md))
 - [빚 독촉 피하기](docs/avoiding-creditors.md) ([돈과 소비](groups/money.md))
