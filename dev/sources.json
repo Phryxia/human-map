@@ -7814,21 +7814,21 @@
   },
   "https://www.korea.kr/news/issueQAView.do?newsId=148773728": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://nocutnews.co.kr/news/5663854": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://v.daum.net/v/KoEXbpo5ZM": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12784936&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8588,9 +8588,9 @@
   },
   "https://www.clien.net/service/board/park/15593116": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.a-ha.io/questions/4f61aaafdb476e6a812243e20f0c5fad": {
     "first": "2026-10-23",
@@ -9290,9 +9290,9 @@
   },
   "https://www.kyeonggi.com/article/201101310393559": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://rossettiarchive.iath.virginia.edu/docs/1-1881.sigr3.del.rad.html": {
     "first": "2026-10-24",
@@ -9632,9 +9632,9 @@
   },
   "https://ibiblio.org/eldritch/ac/jr/110.htm": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://news.ycombinator.com/item?id=14478517": {
     "first": "2026-10-24",
@@ -10531,6 +10531,12 @@
     "lastVerified": "2026-10-25"
   },
   "https://www.clien.net/service/board/park/18029107": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29468345&rettype=abstract&retmode=text": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
