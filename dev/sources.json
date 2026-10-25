@@ -8126,27 +8126,27 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5929155/": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.osha.gov/laws-regs/standardinterpretations/2012-03-12-0": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://scholars.duke.edu/publication/747852": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.ytn.co.kr/_ln/0115_202208030708517537": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.nber.org/papers/w4476": {
     "first": "2026-10-23",
@@ -9554,9 +9554,9 @@
   },
   "https://www.cdc.gov/niosh/bulletin/2021/neiss-work.html": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://m.dcinside.com/board/arbeit/3734305": {
     "first": "2026-10-24",
@@ -10069,6 +10069,18 @@
     "lastVerified": "2026-10-25"
   },
   "https://news.ycombinator.com/item?id=27607652": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC1008857/": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://gall.dcinside.com/mgallery/board/view/?id=rhdrldjq&no=1373885": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
