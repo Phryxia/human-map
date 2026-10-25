@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [겁날 때 노래하거나 휘파람 불기](../docs/singing-to-keep-up-courage.md) 어둡거나 무서운 곳을 지나는 사람이 겁을 누르려고 소리 내어 노래하거나 휘파람을 분다.
 - [기분 회복 행동](../docs/mood-repair.md) 기분이 나쁜 사람이 그 기분을 낫게 하려고 먹기, 마시기, 사기, 자기 같은 행동을 한다.
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
   - [미루기](../docs/procrastination.md)

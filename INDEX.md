@@ -17,6 +17,7 @@
 - [거친 말로 드러내는 걱정](docs/harsh-words-for-worry.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [건강보험 때문에 직장에 남기](docs/staying-in-job-for-health-insurance.md) ([일터와 일자리](groups/work.md))
 - [걸으며 휴대전화 보기](docs/walking-while-using-phone.md) ([길과 운전](groups/roads-and-driving.md))
+- [겁날 때 노래하거나 휘파람 불기](docs/singing-to-keep-up-courage.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [게시 직전 자기검열](docs/last-minute-self-censorship.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [결혼 전 불안](docs/pre-wedding-doubts.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [경증 구급차 호출](docs/nonurgent-ambulance-calls.md) ([건강과 위험](groups/health-and-safety.md))
