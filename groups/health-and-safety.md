@@ -27,4 +27,5 @@
 - [폭염 속 바깥일 계속하기](../docs/working-through-heat.md) 폭염 속에서 밭일이나 바깥일을 하는 사람이 더위로 몸이 처지거나 쉬라는 말을 들어도 일을 멈추지 않는다.
 - [헌혈 꺼림](../docs/avoiding-blood-donation.md) 헌혈할 수 있는 나이의 사람이 헌혈을 무서워하거나 꺼려 헌혈하지 않는다.
 - [화장실 뒤 손 안 씻기](../docs/skipping-handwashing.md) 공중화장실을 쓴 사람이 손을 씻지 않거나 비누 없이 물만 묻히고 나간다.
+- [화재감지기 꺼 두기](../docs/disabling-smoke-alarms.md) 요리 연기 따위로 화재감지기가 자주 울리는 집의 사람이 배터리를 빼거나 감지기를 떼어 감지기를 꺼 둔다.
 - [회복기에 일상을 새롭게 느끼기](../docs/savoring-ordinary-life-in-convalescence.md) 병에서 회복하는 사람이 숨쉬기, 바깥 풍경, 살아 있음 같은 평범한 것에서 즐거움과 고마움을 크게 느낀다.
