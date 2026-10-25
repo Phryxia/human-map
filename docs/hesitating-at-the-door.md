@@ -10,11 +10,11 @@
 
 1914년 조이스의 단편[^3]에서 소년은 들어가 보고 싶었으나 문을 두드릴 용기가 없어 천천히 걸어가며 가게 창의 광고를 읽었다.
 
-2019년 Refinery29 글[^4]의 필자는 처음 선거운동 호별 방문을 앞두고 문을 두드릴 생각을 하면 콜드콜 전화를 걸 때와 비슷한 두려움이 든다고 썼다. 2024년 인터뷰 글[^5]에서 호별 방문을 처음 앞둔 사람은 남의 영역에 끼어드는 느낌이 들 것이라 예상했고 그 이유로 자기가 집에서 쉴 때 누가 문을 두드리면 그렇게 느낀다는 것을 들었다.
+2019년 Refinery29 글[^4]의 필자는 처음 선거운동 호별 방문을 앞두고 문을 두드릴 생각을 하면 콜드콜 전화를 걸 때와 비슷한 두려움이 든다고 썼다. 2024년 인터뷰 글[^5]에서 호별 방문을 처음 앞둔 사람은 남의 영역에 끼어드는 느낌이 들 것이라 예상했고 그 이유로 자기가 집에서 쉴 때 누가 문을 두드리면 그렇게 느낀다는 것을 들었다. 2024년 질적 메타합성[^6]이 옮긴 참여자의 말에서 그는 그냥 찾아가 초인종을 눌러 사람을 만나는 것은 틀린 일 같았고 실수할까 봐 감히 그러지 못했다.
 
-2026년 4월 기사[^6]의 글쓴이는 이웃을 만나려면 직접 가서 문을 두드려야 했는데 가족 누구도 그 일이 편하지 않았다고 썼다. 2026년 6월 기사[^7]에서 초인종을 쓰지 않는 Z세대의 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했고 기사는 그 이유를 어색함 피하기로 적었다.
+2026년 4월 기사[^7]의 글쓴이는 이웃을 만나려면 직접 가서 문을 두드려야 했는데 가족 누구도 그 일이 편하지 않았다고 썼다. 2026년 6월 기사[^8]에서 초인종을 쓰지 않는 Z세대의 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했고 기사는 그 이유를 어색함 피하기로 적었다.
 
-2026년 8월 Hacker News 댓글[^8]의 글쓴이는 음식 배달원이 길 한가운데 선 채 전화를 걸었다고 쓰고 그가 다가가 문을 두드리거나 초인종을 누르기를 두려워하는 것처럼 보였다고 적었다.
+2026년 8월 Hacker News 댓글[^9]의 글쓴이는 음식 배달원이 길 한가운데 선 채 전화를 걸었다고 쓰고 그가 다가가 문을 두드리거나 초인종을 누르기를 두려워하는 것처럼 보였다고 적었다.
 
 # 관계
 
@@ -45,6 +45,7 @@
 [^3]: [문학] "I wished to go in and look at him but I had not the courage to knock. I walked away slowly along the sunny side of the street, reading all the theatrical advertisements in the shop-windows as I went." (나는 들어가서 그를 보고 싶었지만 문을 두드릴 용기가 없었다. 나는 거리의 햇볕 드는 쪽을 따라 천천히 걸어가며 가게 창에 붙은 연극 광고를 하나하나 읽었다.) — James Joyce, "The Sisters", Dubliners, Project Gutenberg, 1914, https://www.gutenberg.org/cache/epub/2814/pg2814-images.html, 2026-10-22 접속
 [^4]: [매체] "I've had my fair share of miserable telesales jobs over the years, and the idea of door-knocking fills me with a similar dread to picking up the phone to make a cold call." (나는 몇 해 동안 비참한 텔레마케팅 일을 꽤 해 봤고 문을 두드린다는 생각은 콜드콜 전화를 걸려고 수화기를 들 때와 비슷한 두려움으로 나를 채운다.) — Emily Morris, "Slammed Doors & Heavy Conversations: What Happened When I Went Door-To-Door Canvassing", Refinery29, 2019-12-09, https://www.refinery29.com/en-gb/canvassing-for-the-general-election, 2026-10-24 접속
 [^5]: [매체] "I also anticipated it would feel like I was intruding. Because this is how I feel when somebody comes knocking when I'm at home, relaxing." (나는 또 그것이 남에게 끼어드는 느낌일 거라고 예상했다. 내가 집에서 쉬고 있을 때 누가 문을 두드리면 그렇게 느끼기 때문이다.) — Dave Fleischer, "The fear you feel before you knock on a door", Dave's Substack, 2024-09-08, https://davefleischer.substack.com/p/the-fear-you-feel-before-you-knock, 2026-10-22 접속
-[^6]: [매체] "We'd have to physically go up and knock on our neighbors' doors to meet them, and no one in my family felt comfortable doing that." (이웃을 만나려면 직접 걸어가 이웃집 문을 두드려야 했는데 우리 가족 누구도 그 일이 편하지 않았다.) — Annie Reneau, Upworthy, Yahoo Life, 2026-04-17, https://www.yahoo.com/lifestyle/articles/10-years-social-anxiety-kept-014807941.html, 2026-10-22 접속
-[^7]: [매체] "이 같은 변화의 가장 큰 이유는 '어색함'을 피하기 위해서다. 초인종을 사용하지 않는 Z세대 가운데 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했다." — 장지민, 한국경제, 2026-06-19, https://www.hankyung.com/article/2026061970727, 2026-10-22 접속
-[^8]: [SNS] "I had one food delivery driver call me while standing in the middle of the street. Seemed like he was afraid to approach and knock or ring." (음식 배달원 한 명은 길 한가운데 선 채 내게 전화를 걸었다. 다가가서 문을 두드리거나 초인종을 누르기를 두려워하는 것 같았다.) — Hacker News 댓글, 2026-08-31, https://news.ycombinator.com/item?id=49510448, 2026-10-23 접속
+[^6]: [학술] "I didn’t dare make a mistake, because it would be, like, wrong to meet someone by just going up and ringing the doorbell." (나는 감히 실수를 할 수 없었다. 그냥 다가가서 초인종을 눌러 누군가를 만나는 것은, 말하자면, 틀린 일일 것이기 때문이다.) — Chi Yi Lee 외, "The experience of loneliness among people with psychosis: Qualitative meta-synthesis", PLOS ONE, 2024-12-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC11687762/, 2026-10-25 접속
+[^7]: [매체] "We'd have to physically go up and knock on our neighbors' doors to meet them, and no one in my family felt comfortable doing that." (이웃을 만나려면 직접 걸어가 이웃집 문을 두드려야 했는데 우리 가족 누구도 그 일이 편하지 않았다.) — Annie Reneau, Upworthy, Yahoo Life, 2026-04-17, https://www.yahoo.com/lifestyle/articles/10-years-social-anxiety-kept-014807941.html, 2026-10-22 접속
+[^8]: [매체] "이 같은 변화의 가장 큰 이유는 '어색함'을 피하기 위해서다. 초인종을 사용하지 않는 Z세대 가운데 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했다." — 장지민, 한국경제, 2026-06-19, https://www.hankyung.com/article/2026061970727, 2026-10-22 접속
+[^9]: [SNS] "I had one food delivery driver call me while standing in the middle of the street. Seemed like he was afraid to approach and knock or ring." (음식 배달원 한 명은 길 한가운데 선 채 내게 전화를 걸었다. 다가가서 문을 두드리거나 초인종을 누르기를 두려워하는 것 같았다.) — Hacker News 댓글, 2026-08-31, https://news.ycombinator.com/item?id=49510448, 2026-10-23 접속
