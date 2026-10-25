@@ -8,9 +8,9 @@
 
 1881년 판 시[^1]의 화자는 언제 어떻게인지는 말할 수 없지만 여기 와 본 적이 있다며 문 너머의 풀과 냄새와 소리를 안다고 말한다.
 
-2003년 연구[^2]의 문헌 검토에 따르면 인구의 약 60%가 기시감을 겪은 적이 있었고 겪는 빈도는 나이가 들수록 줄었다. 2016년 연구[^3]에서는 응답자 324명(88.8%)이 기시감을 겪었다고 답했고 겪은 사람은 겪지 않은 사람보다 나이가 적었다. 2017년 Hacker News 댓글[^4]의 글쓴이는 지난 10년 동안 특히 피곤할 때 기시감을 이따금 느꼈다고 썼다.
+2003년 연구[^2]의 문헌 검토에 따르면 인구의 약 60%가 기시감을 겪은 적이 있었고 겪는 빈도는 나이가 들수록 줄었다. 2016년 연구[^3]에서는 응답자 324명(88.8%)이 기시감을 겪었다고 답했고 겪은 사람은 겪지 않은 사람보다 나이가 적었다. 2017년 Hacker News 댓글[^4]의 글쓴이는 지난 10년 동안 특히 피곤할 때 기시감을 이따금 느꼈다고 썼다. 2018년 연구[^5]에서 불안 집단으로 묶인 참가자들은 불안이 높은 시기에 기시감을 더 자주, 더 세게 겪는다고 보고했다.
 
-2022년 The Conversation 글[^5]의 필자는 이미 일어난 일을 다시 겪는 것처럼 느껴지기도 한다고 적었다. 2025년 게시글[^6]의 글쓴이는 기시감을 평소에는 그러려니 넘겼는데 요즘 자주 겪어 조금 걱정된다고 적었다.
+2022년 The Conversation 글[^6]의 필자는 이미 일어난 일을 다시 겪는 것처럼 느껴지기도 한다고 적었다. 2025년 게시글[^7]의 글쓴이는 기시감을 평소에는 그러려니 넘겼는데 요즘 자주 겪어 조금 걱정된다고 적었다.
 
 # 관계
 
@@ -40,5 +40,6 @@
 [^2]: [학술] "About 60% of the population has experienced déjà vu, and its frequency decreases with age." (인구의 약 60%가 기시감을 겪은 적이 있고 그 빈도는 나이가 들수록 줄어든다.) — A. S. Brown, 「A review of the déjà vu experience」, Psychological Bulletin 129(3), 2003-05, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12784936&rettype=abstract&retmode=text, 2026-10-23 접속
 [^3]: [학술] "Déjà vu experiences were reported by 324 (88.8%) of them. Persons who experienced déjà vu were younger than the persons who had not experienced it." (그 가운데 324명(88.8%)이 기시감 경험을 보고했다. 기시감을 겪은 사람은 겪지 않은 사람보다 나이가 적었다.) — L. Lacinová 외, 「Déjà Vu Experiences in Healthy Czech Adults」, Journal of Nervous and Mental Disease 204(12), 2016-12, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27441459&rettype=abstract&retmode=text, 2026-10-23 접속
 [^4]: [SNS] "I've had the sensation of deja vu on and off (particularly when tired) over the past 10 years." (지난 10년 동안 나는 (특히 피곤할 때) 기시감을 이따금 느꼈다.) — Hacker News, 댓글, 2017-06-03, https://news.ycombinator.com/item?id=14478517, 2026-10-24 접속
-[^5]: [매체] "Sometimes it can even seem like you’re reliving something that already happened." (때로는 이미 일어난 일을 다시 겪는 것처럼 느껴지기도 한다.) — Anne Cleary, 「What is déjà vu? Psychologists are exploring this creepy feeling of having already lived through an experience before」, The Conversation, 2022-10-03, https://theconversation.com/what-is-deja-vu-psychologists-are-exploring-this-creepy-feeling-of-having-already-lived-through-an-experience-before-187746, 2026-10-23 접속
-[^6]: [SNS] "사실 지장이 있을 정도로 깊게 생각은 안해서 그러려니 하고 넘기는 편인데 지금은 살짝 걱정? 되기도 하고 왜 이렇게 데자뷰를 자주 겪는 지도 궁금합니다" — 아하, 게시글, 2025-11-13, https://www.a-ha.io/questions/4f61aaafdb476e6a812243e20f0c5fad, 2026-10-23 접속
+[^5]: [학술] "They also reported experiencing déjà vu more frequently and with higher intensity during periods of high anxiety." (그들은 또한 불안이 높은 시기에 기시감을 더 자주, 더 강하게 겪는다고 보고했다.) — C. E. Wells, A. R. O'Connor, C. J. A. Moulin, 「Déjà vu experiences in anxiety」, Memory 29(7), 2018-11-01, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30384798&rettype=abstract&retmode=text, 2026-10-25 접속
+[^6]: [매체] "Sometimes it can even seem like you’re reliving something that already happened." (때로는 이미 일어난 일을 다시 겪는 것처럼 느껴지기도 한다.) — Anne Cleary, 「What is déjà vu? Psychologists are exploring this creepy feeling of having already lived through an experience before」, The Conversation, 2022-10-03, https://theconversation.com/what-is-deja-vu-psychologists-are-exploring-this-creepy-feeling-of-having-already-lived-through-an-experience-before-187746, 2026-10-23 접속
+[^7]: [SNS] "사실 지장이 있을 정도로 깊게 생각은 안해서 그러려니 하고 넘기는 편인데 지금은 살짝 걱정? 되기도 하고 왜 이렇게 데자뷰를 자주 겪는 지도 궁금합니다" — 아하, 게시글, 2025-11-13, https://www.a-ha.io/questions/4f61aaafdb476e6a812243e20f0c5fad, 2026-10-23 접속
