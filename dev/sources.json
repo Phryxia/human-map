@@ -3765,9 +3765,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2148/pg2148-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://ko.wikisource.org/wiki/%EC%86%A5": {
     "first": "2026-10-19",
@@ -10081,6 +10081,42 @@
     "lastVerified": "2026-10-25"
   },
   "https://gall.dcinside.com/mgallery/board/view/?id=rhdrldjq&no=1373885": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.gutenberg.org/cache/epub/1515/pg1515-images.html": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.psychologicalscience.org/observer/the-complicated-psychology-of-revenge": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://boards.straightdope.com/t/holding-grudges/634263": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6520653/": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://news.vcu.edu/article/2021/08/is-revenge-a-dish-best-served-cold-for-most-hot-and-ready-is-preferable-vcu-study-finds": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://letstalk.mindline.sg/t/triggered-by-past-experience-resentment-and-grudges/15850": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
