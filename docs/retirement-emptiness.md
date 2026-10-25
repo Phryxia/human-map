@@ -6,9 +6,11 @@
 
 # 서술
 
-2007년 신문 고민 상담[^1]에서 산업현장에서 퇴직한 50대 후반 남성은 경제적으로는 어렵지 않지만 새로 무언가를 시작하기에는 나이 때문에 망설여지고 무력감이 들어 힘든 날들을 보낸다고 썼다. 2016년 시니어 매체 칼럼[^2]의 필자는 정년퇴직 뒤 1년쯤 쉬는 동안 시간이 갈수록 공허함이 커졌고 삶의 현장에서 비켜 앉았다는 느낌이 소외감과 허전함으로 다가왔다고 적었다.
+1910년 작품집[^1]에 실린 이야기의 화자는 일하던 사무실을 떠난 뒤 처음 두세 주는 자유를 즐겼으나 그 뒤로는 질렸고 할 일이 없었다고 말한다.
 
-2019년 서울시 소식 기사[^3]는 예상보다 일찍 퇴직해 인생 후반을 계획하지 못한 50+세대가 불안하고 갈 곳이 없고 일하고 싶다고 호소한다고 전했다. 2021년 학술대회 초록[^4]은 퇴직 뒤 삶의 목적의식이 줄어드는 사람이 있지만 모두 그렇지는 않고 은퇴 기간에 목적을 지니는 일을 꼭 필요하다고 보지 않는 사람도 있다고 정리했다. 2022년 Hacker News 댓글[^5]의 글쓴이는 68세에 은퇴한 뒤 삶의 목적 없이 길을 잃은 느낌이었다고 썼다.
+2007년 신문 고민 상담[^2]에서 산업현장에서 퇴직한 50대 후반 남성은 경제적으로는 어렵지 않지만 새로 무언가를 시작하기에는 나이 때문에 망설여지고 무력감이 들어 힘든 날들을 보낸다고 썼다. 2016년 시니어 매체 칼럼[^3]의 필자는 정년퇴직 뒤 1년쯤 쉬는 동안 시간이 갈수록 공허함이 커졌고 삶의 현장에서 비켜 앉았다는 느낌이 소외감과 허전함으로 다가왔다고 적었다.
+
+2019년 서울시 소식 기사[^4]는 예상보다 일찍 퇴직해 인생 후반을 계획하지 못한 50+세대가 불안하고 갈 곳이 없고 일하고 싶다고 호소한다고 전했다. 2021년 학술대회 초록[^5]은 퇴직 뒤 삶의 목적의식이 줄어드는 사람이 있지만 모두 그렇지는 않고 은퇴 기간에 목적을 지니는 일을 꼭 필요하다고 보지 않는 사람도 있다고 정리했다. 2022년 Hacker News 댓글[^6]의 글쓴이는 68세에 은퇴한 뒤 삶의 목적 없이 길을 잃은 느낌이었다고 썼다.
 
 # 관계
 
@@ -34,8 +36,9 @@
 
 #일 #마음
 
-[^1]: [매체] "산업현장에서 퇴직한 50대 후반 남성입니다. 젊은 시절부터 식구들 부양하는 책임감에 쉼없이 앞만 보고 달려왔습니다. 덕분에 퇴직 후에도 경제적으로는 그다지 어려움이 없지만, 무언가를 새로 시작하기엔 적잖은 나이 때문에 망설여 지기도 하고, 무력감이 들기도 하여 힘든 날들을 보내고 있습니다." — 김향숙, 「[김향숙의 고민 지우개] 50대 퇴직 남성...뭘 시작하려니 두려워」, 매일신문, 2007-03-15, https://www.imaeil.com/page/view/2007031516173977915, 2026-10-23 접속
-[^2]: [매체] "그런데, 시간이 갈수록 알수 없는 공허함이 점차 마음속에서 자리를 넓혀갔고 삶의 현장에서 살짝 비켜 앉았다는 느낌은 마음 한구석이 뻥 뚫린 듯 한 소외감과 허전함으로 다가왔다." — 김종억, 「[동년기자 칼럼] 내친김에 1년은 잘 견디어 봐야지」, 브라보마이라이프, 2016-05-23, https://bravo.etoday.co.kr/view/atc_view/4989, 2026-10-24 접속
-[^3]: [공공] "하지만 생각보다 빨라진 퇴직을 경험하며 충분히 인생의 후반을 계획하지 못한 채 전환기를 맞이한 50+세대는 “불안하다” “갈 곳이 없다” “일하고 싶다”는 갈증을 호소하고 있습니다." — 서울시 직원기자단 김가현, 「동년배 전문가가 상담해주니 더 공감 ‘50+상담센터’」, 내 손안에 서울, 2019-01-10, https://mediahub.seoul.go.kr/archives/1204806, 2026-10-24 접속
-[^4]: [학술] "some but not all people decline in sense of purpose following retirement, and some view it as nonessential to maintain a purpose specifically during retirement." (어떤 사람은 퇴직 뒤 목적의식이 줄지만 모두 그런 것은 아니며, 어떤 사람은 특히 은퇴 기간에 목적을 유지하는 것을 필수적이지 않다고 본다.) — R. Best, G. Pfund, M. T. Cardador 외, 「Older Adults Place Greater Importance on a Purposeful Retirement」, Innovation in Aging 5(Suppl 1), 2021-12-17, https://pmc.ncbi.nlm.nih.gov/articles/PMC8682595/, 2026-10-23 접속
-[^5]: [SNS] "Now that I am retired at 68, I was lost without a life purpose." (68세에 은퇴한 지금 나는 삶의 목적 없이 길을 잃었다.) — Hacker News, 댓글, 2022-12-19, https://news.ycombinator.com/item?id=34056049, 2026-10-24 접속
+[^1]: [문학] "For the first two or three weeks I enjoyed my freedom, but when they had passed I had had enough of it. I had nothing to do!" (처음 두세 주 동안은 자유를 즐겼지만 그 시간이 지나자 그것에 질렸다. 나는 할 일이 없었다!) — William Hale White, 「Mr. Whittaker's Retirement」, More Pages from a Journal, Project Gutenberg, 1910, https://www.gutenberg.org/cache/epub/6404/pg6404-images.html, 2026-10-25 접속
+[^2]: [매체] "산업현장에서 퇴직한 50대 후반 남성입니다. 젊은 시절부터 식구들 부양하는 책임감에 쉼없이 앞만 보고 달려왔습니다. 덕분에 퇴직 후에도 경제적으로는 그다지 어려움이 없지만, 무언가를 새로 시작하기엔 적잖은 나이 때문에 망설여 지기도 하고, 무력감이 들기도 하여 힘든 날들을 보내고 있습니다." — 김향숙, 「[김향숙의 고민 지우개] 50대 퇴직 남성...뭘 시작하려니 두려워」, 매일신문, 2007-03-15, https://www.imaeil.com/page/view/2007031516173977915, 2026-10-23 접속
+[^3]: [매체] "그런데, 시간이 갈수록 알수 없는 공허함이 점차 마음속에서 자리를 넓혀갔고 삶의 현장에서 살짝 비켜 앉았다는 느낌은 마음 한구석이 뻥 뚫린 듯 한 소외감과 허전함으로 다가왔다." — 김종억, 「[동년기자 칼럼] 내친김에 1년은 잘 견디어 봐야지」, 브라보마이라이프, 2016-05-23, https://bravo.etoday.co.kr/view/atc_view/4989, 2026-10-24 접속
+[^4]: [공공] "하지만 생각보다 빨라진 퇴직을 경험하며 충분히 인생의 후반을 계획하지 못한 채 전환기를 맞이한 50+세대는 “불안하다” “갈 곳이 없다” “일하고 싶다”는 갈증을 호소하고 있습니다." — 서울시 직원기자단 김가현, 「동년배 전문가가 상담해주니 더 공감 ‘50+상담센터’」, 내 손안에 서울, 2019-01-10, https://mediahub.seoul.go.kr/archives/1204806, 2026-10-24 접속
+[^5]: [학술] "some but not all people decline in sense of purpose following retirement, and some view it as nonessential to maintain a purpose specifically during retirement." (어떤 사람은 퇴직 뒤 목적의식이 줄지만 모두 그런 것은 아니며, 어떤 사람은 특히 은퇴 기간에 목적을 유지하는 것을 필수적이지 않다고 본다.) — R. Best, G. Pfund, M. T. Cardador 외, 「Older Adults Place Greater Importance on a Purposeful Retirement」, Innovation in Aging 5(Suppl 1), 2021-12-17, https://pmc.ncbi.nlm.nih.gov/articles/PMC8682595/, 2026-10-23 접속
+[^6]: [SNS] "Now that I am retired at 68, I was lost without a life purpose." (68세에 은퇴한 지금 나는 삶의 목적 없이 길을 잃었다.) — Hacker News, 댓글, 2022-12-19, https://news.ycombinator.com/item?id=34056049, 2026-10-24 접속
