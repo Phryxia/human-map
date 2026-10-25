@@ -10601,5 +10601,11 @@
     "last": "2026-10-25",
     "result": "VERIFIED",
     "lastVerified": "2026-10-25"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7986561/fullTextXML": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
   }
 }
