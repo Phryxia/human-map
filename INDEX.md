@@ -207,6 +207,7 @@
 - [연봉 협상하지 않기](docs/not-negotiating-salary.md) ([일터와 일자리](groups/work.md))
 - [연애 기피](docs/avoiding-dating.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연애 질투](docs/romantic-jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [연인과 헤어지기](docs/breaking-up.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인과의 다툼](docs/partner-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 휴대폰 몰래 보기](docs/snooping-on-partners-phone.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연차휴가 남기기](docs/unused-annual-leave.md) ([일터와 일자리](groups/work.md))
