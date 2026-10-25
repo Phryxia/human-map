@@ -10043,5 +10043,11 @@
     "last": "2026-10-25",
     "result": "VERIFIED",
     "lastVerified": "2026-10-25"
+  },
+  "https://news.seoul.go.kr/env/archives/1709": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
   }
 }
