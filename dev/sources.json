@@ -5720,27 +5720,27 @@
   },
   "https://www.khan.co.kr/article/200804261158512": {
     "first": "2026-10-20",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://www.usenix.org/conference/soups2016/technical-sessions/presentation/marques": {
     "first": "2026-10-20",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://news.ubc.ca/2019/05/combing-through-someones-phone-could-lead-to-end-of-relationship-or-not/": {
     "first": "2026-10-20",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://www.pewresearch.org/internet/2020/05/08/dating-and-relationships-in-the-digital-age/": {
     "first": "2026-10-20",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://www.merriam-webster.com/dictionary/French%20leave": {
     "first": "2026-10-20",
@@ -5882,9 +5882,9 @@
   },
   "https://pann.nate.com/talk/372578594": {
     "first": "2026-10-21",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://www.unsw.edu.au/newsroom/news/2022/05/when-roads-become-rivers--forming-a-plan-b-can-stop-people-drivi": {
     "first": "2026-10-21",
@@ -7046,9 +7046,9 @@
   },
   "https://www.munhwa.com/article/11448631": {
     "first": "2026-10-22",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://ams.confex.com/ams/87ANNUAL/webprogram/Paper117760.html": {
     "first": "2026-10-22",
@@ -8468,15 +8468,15 @@
   },
   "https://www.gutenberg.org/cache/epub/503/pg503-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27000178&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.imaeil.com/page/view/2007031516173977915": {
     "first": "2026-10-23",
@@ -9224,15 +9224,15 @@
   },
   "https://www.casenews.co.kr/news/articleView.html?idxno=3971": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://bbs.ruliweb.com/community/board/300143/read/76765240": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://bravo.etoday.co.kr/view/atc_view/4989": {
     "first": "2026-10-24",
@@ -9614,9 +9614,9 @@
   },
   "https://www.cctimes.kr/news/articleView.html?idxno=539611": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://news.ycombinator.com/item?id=34056049": {
     "first": "2026-10-24",
@@ -10507,6 +10507,12 @@
     "lastVerified": "2026-10-25"
   },
   "https://lady.khan.co.kr/education/article/202503190920001": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://www.bravotv.com/kandi-koated-nights/personal-space/people-invade-their-partners-privacy": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
