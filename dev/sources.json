@@ -9452,27 +9452,27 @@
   },
   "https://news.seoul.go.kr/safe/?p=11963": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://udspace.udel.edu/items/0c6754be-4ec1-4939-bce3-a2d4acbec2ca/full": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156616783": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.khan.co.kr/article/202504110600001": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www.goodreads.com/author_blog_posts/806839-loafing": {
     "first": "2026-10-24",
@@ -9692,9 +9692,9 @@
   },
   "https://www.kyeonggi.com/article/201004180357416": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://news.seoul.go.kr/traffic/archives/3117": {
     "first": "2026-10-24",
@@ -10579,6 +10579,12 @@
     "lastVerified": "2026-10-25"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11863237&rettype=abstract&retmode=text": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://m.go.seoul.co.kr/news/2016/04/05/20160405500213": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
