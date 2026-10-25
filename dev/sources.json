@@ -8084,9 +8084,9 @@
   },
   "https://www.gutenberg.org/cache/epub/45/pg45-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-25"
   },
   "https://www150.statcan.gc.ca/n1/pub/75-001-x/2008106/article/10639-eng.htm": {
     "first": "2026-10-23",
@@ -8690,21 +8690,21 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9831881&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://kyeonggi.com/article/201201120436653": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://weekly.khan.co.kr/article/201812101539181": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-25"
   },
   "https://globalnews.ca/news/2547915/serious-disconnect-with-millennials-and-inheritance-expectations-vancity-report/amp/": {
     "first": "2026-10-23",
@@ -10561,6 +10561,12 @@
     "lastVerified": "2026-10-25"
   },
   "https://api.crossref.org/works/10.1177/1948550614522303": {
+    "first": "2026-10-25",
+    "last": "2026-10-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-25"
+  },
+  "https://weekly.khan.co.kr/article/201711281004271": {
     "first": "2026-10-25",
     "last": "2026-10-25",
     "result": "VERIFIED",
