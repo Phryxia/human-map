@@ -8,7 +8,7 @@
 
 1918년 소설[^1]의 화자는 함께 술을 마신 상대와 누가 낼지 다정하게 실랑이한 끝에 자기가 냈다. 2007년 클리앙 게시글[^2]의 글쓴이는 식사를 대접하려다 상대와 서로 계산하겠다며 옥신각신했다. 2009년 매일신문 칼럼[^3]은 식당 계산대 앞에서 서로 내겠다고 밀치는 모습이 흔한 광경이었고 지금은 덜하다고 적었다. 2014년 Hacker News 댓글[^4]의 글쓴이는 나폴리에서 친구들이 저녁 모임을 커피로 시작하며 보통 누가 모두의 값을 내는 영예를 가질지 다툰다고 썼다.
 
-2018년 The Takeout 칼럼[^5]에 실린 글의 글쓴이는 테이블마다 계산서를 하나만 주는 식당에서 사람들이 테이블 전체 값을 내는 도덕적 우위를 두고 겨룬다고 썼다. 2026년 위키트리 기사[^8]의 필자는 한국인과 루마니아인이 서로 상대의 카드를 막고 먼저 결제하려 한다고 쓰고 나중에는 왜 혼자 계산했느냐고 타박한다고 덧붙였다.
+2018년 The Takeout 칼럼[^5]에 실린 글의 글쓴이는 테이블마다 계산서를 하나만 주는 식당에서 사람들이 테이블 전체 값을 내는 도덕적 우위를 두고 겨룬다고 썼다. 2026년 위키트리 기사[^9]의 필자는 한국인과 루마니아인이 서로 상대의 카드를 막고 먼저 결제하려 한다고 쓰고 나중에는 왜 혼자 계산했느냐고 타박한다고 덧붙였다.
 
 2025년 Gohari Sadr 외의 논문[^6]이 정리한 이란의 타아로프 규범에서 사람은 상대가 거절한 뒤에도 계산하겠다고 고집하도록 기대받는다. 2025년 Hacker News 댓글[^7]의 글쓴이는 가까이 지낸 대만 가족이 함께 먹은 뒤 계산을 두고 다투는 것이 관례였고 상대가 몇 번 내겠다고 버티지 않고 그 제안을 받아들이면 속으로 언짢아했다고 적었다.
 
@@ -32,7 +32,7 @@
 
 ## 대립
 
-없음.
+- [계산 피하기](dodging-the-bill.md)[^8]
 
 #돈 #관계
 
@@ -43,4 +43,5 @@
 [^5]: [매체] "We have a one-bill-per-table policy so people will try and compete for the moral high ground of covering the whole bill for the table." (우리는 테이블당 계산서 하나 방침이라 사람들은 테이블 전체 값을 내는 도덕적 우위를 두고 겨루려 한다.) — The Salty Waitress, "Ask The Salty Waitress: How To Handle It When Diners Fight Over The Bill", The Takeout, 2018-05-17, https://www.thetakeout.com/ask-the-salty-waitress-how-to-handle-it-when-diners-fi-1826119142/, 2026-10-23 접속
 [^6]: [학술] "One is expected to insist on paying the bill even after a refusal." (상대가 거절한 뒤에도 계산하겠다고 고집하기를 기대받는다.) — Nikta Gohari Sadr, Sahar Heidariasl, Karine Megerdoomian, Laleh Seyyed-Kalantari, Ali Emami, "We Politely Insist: Your LLM Must Learn the Persian Art of Taarof", arXiv:2509.01035, 2025-09-01, https://arxiv.org/html/2509.01035, 2026-10-23 접속
 [^7]: [SNS] "They would be quietly upset if someone actually took them up on their offer to pay without attempting to try to pay for the whole bill themselves a few times." (누군가 전체 값을 자기가 내려고 몇 번 애써 보지도 않고 그들이 내겠다는 제안을 그냥 받아들이면 그들은 속으로 언짢아했다.) — Hacker News, 댓글, 2025-09-22, https://news.ycombinator.com/item?id=45336562, 2026-10-24 접속
-[^8]: [매체] "둘 다 상대의 카드를 막고, 먼저 결제하려 하며, 나중에는 왜 혼자 계산했느냐고 타박한다." — 오아나, 「[대한루마니아인 한국생활] "내가 낼게"로 시작되는 계산대 전쟁…한국인과 루마니아인이 밥값을 두고 싸우는 이유」, 위키트리, 2026-07-15, https://www.wikitree.co.kr/articles/1146679, 2026-10-23 접속
+[^8]: [매체] "내가 전부 부담해 호기를 부리든가, 아니면 차라리 누군가 시원하게 다 내주기를 바라는 마음이 보편적이다. 지갑은 얇아졌는데 체면은 살리고 싶은 욕심, 그 괴리 속에서 계산대 앞의 묘한 눈치싸움과 화장실 도피 행각이 벌어지는 것이다." — 왕눈이소장, 「계산할 때 화장실 가는 사람」, 브런치, 2026-05-28, https://brunch.co.kr/@hongkim1013/15, 2026-10-26 접속
+[^9]: [매체] "둘 다 상대의 카드를 막고, 먼저 결제하려 하며, 나중에는 왜 혼자 계산했느냐고 타박한다." — 오아나, 「[대한루마니아인 한국생활] "내가 낼게"로 시작되는 계산대 전쟁…한국인과 루마니아인이 밥값을 두고 싸우는 이유」, 위키트리, 2026-07-15, https://www.wikitree.co.kr/articles/1146679, 2026-10-23 접속
