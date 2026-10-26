@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T03:35:52.422Z",
-  "nextSeq": 2155,
-  "stops": 110,
+  "savedAt": "2026-10-26T06:37:24.481Z",
+  "nextSeq": 2161,
+  "stops": 111,
   "items": [
     {
       "id": "1fe589fd",
@@ -451,6 +451,30 @@
       "note": "2026-10-26 공공 HTML 미발견(committees.parliament.uk oralevidence 7186, eastamb NHS 에 guilt 없음, DfE working lives wave 4 는 PDF). 남은 방법: hansard.parliament.uk 사이트 내 guilty leaving 검색, 스코틀랜드 의회 서면 증거. 매체 후보 ktvz.com/news/national-world/2021/02/25/traumatized-and-tired-nurses-are-quitting-due-to-the-pandemic/",
       "createdAt": "2026-10-26T03:35:26.096Z",
       "seq": 2154
+    },
+    {
+      "id": "0b261968",
+      "title": "job-insecurity 보강: 한국어 파편, 건강 결과 간선",
+      "priority": 50,
+      "note": "2026-10-26 Sinclair 1906, Ferrie 1995 BMJ, HN 22921685 2020, Bacci 2024 로 만듦. 후보: PMC1732160 Ferrie 2002 'Self reported morbidity was higher among participants who lost job security.', frontiersin 10.3389/fpsyg.2017.02084 두려움의 두 면, HN 46773296 (2026-01-26) 잘릴까 반대 의견을 말하지 못함, Metamorphosis gutenberg 5200 지각 뒤 자리 걱정. money-worry, guilt-about-resigning 과 관계 후보",
+      "createdAt": "2026-10-26T06:10:52.168Z",
+      "seq": 2158
+    },
+    {
+      "id": "eb7d8d35",
+      "title": "withholding-information-from-doctors 보강: SNS 파편, 이유와 원인 간선",
+      "priority": 50,
+      "note": "2026-10-26 Trollope 1858, Palmieri 2009, Levy 2018, 코메디닷컴 2022 로 만듦. 후보: 같은 Levy PMC6324389 'not wanting to be judged or hear how harmful their behavior is'(이유, 같은 URL), kormedi.com/1383445 (2022-02-26) 폭음 습관을 죄책감·부끄러움으로 숨김, PMC2709648 Chao 2008 대체요법 사용 절반 넘게 말하지 않음, Tolstoy Ivan Ilych IV en.wikisource 처방을 몰래 먹음. fear-of-negative-evaluation, hiding-illness-from-family 과 관계 후보",
+      "createdAt": "2026-10-26T06:24:14.757Z",
+      "seq": 2159
+    },
+    {
+      "id": "59658d7f",
+      "title": "watching-until-out-of-sight 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-10-26 Substack 댓글 2023-12-24 더함. 후보: karapaia.com/archives/52248367.html 댓글 '本当に見えなくなるまでずーーーっと見送ってくれてた'(댓글 날짜 미확인), Masaki·Asai 2013 Med Humanit omiokuri 는 사망 퇴원 배웅(mh.bmj.com Cloudflare, eutils 만 열림), ryokan.or.jp checking_out 미검증",
+      "createdAt": "2026-10-26T06:36:46.852Z",
+      "seq": 2160
     },
     {
       "id": "d16898d2",
