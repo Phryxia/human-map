@@ -60,6 +60,7 @@
 - [남의 사적인 기록 몰래 보기](docs/reading-others-private-writing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [낯선 사람에게 속내 털어놓기](docs/confiding-in-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [냄새가 불러낸 옛 기억](docs/smell-evoked-memory.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [냉난방 참기](docs/energy-limiting-behavior.md) ([돈과 소비](groups/money.md))
 - [노년의 계속 일하기 희망](docs/wanting-to-keep-working-in-old-age.md) ([일터와 일자리](groups/work.md))
 - [노력이 소용없다는 생각](docs/feeling-ones-effort-makes-no-difference.md) ([시민 참여와 공공의 일](groups/civic-life.md))
