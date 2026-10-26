@@ -10,6 +10,8 @@
 
 2014년 연구[^2]의 면접에서 사용자 대부분은 비밀번호를 재사용하거나 적어 두는 방식으로 버텼다. 2015년 댓글[^3]의 글쓴이는 모든 곳에 같은 비밀번호를 쓰다가 비밀번호 관리자를 들인 뒤로 비밀번호를 생성해 쓴다. 보안 피로를 다룬 2016년 기관 글[^5]은 비밀번호를 여러 번 바꾼 사람이 예전에 써서 기억나는 비밀번호로 돌아가는 장면을 든다.
 
+2024년 기사[^8]가 전하는 조사에서 응답자의 78%는 같은 비밀번호를 둘 이상의 계정에 썼고 52%는 세 계정 이상, 4%는 11개 이상의 계정에 썼다. 2026년 댓글[^9]의 글쓴이가 전하는 사람들은 모든 곳에 같은 비밀번호를 쓰려 하지만 비밀번호 복잡도 규칙 때문에 똑같은 비밀번호를 쓰지 못한다. 2026년 기사[^10]가 전하는 일본 조사에서 응답자의 74.3%는 서로 다른 비밀번호를 정하면 기억하기 어렵다고 답했다.
+
 # 관계
 
 ## 상위
@@ -41,3 +43,6 @@
 [^5]: [공공] "After updating your password for the umpteenth time, have you resorted to using one you know you’ll remember because you’ve used it before?" (비밀번호를 수없이 바꾼 끝에 전에 써 봐서 기억할 수 있는 비밀번호를 쓰는 데 기댄 적이 있는가?) — National Institute of Standards and Technology, "'Security Fatigue' Can Cause Computer Users to Feel Hopeless and Act Recklessly, New Study Suggests", 2016-10-04, https://www.nist.gov/news-events/news/2016/10/security-fatigue-can-cause-computer-users-feel-hopeless-and-act-recklessly, 2026-10-25 접속
 [^6]: [학술] "We find that 38% of the users have reused exactly the same password across different sites, while 20% have modified an existing password to create new ones." (사용자의 38%는 서로 다른 사이트에 똑같은 비밀번호를 재사용했고, 20%는 기존 비밀번호를 고쳐 새 비밀번호를 만들었다.) — Chun Wang, Steve T. K. Jan, Hang Hu, Gang Wang, "Empirical Analysis of Password Reuse and Modification across Online Service", arXiv, 2017-06-06, https://arxiv.org/abs/1706.01939, 2026-10-25 접속
 [^7]: [매체] "한국인터넷진흥원(KISA)이 실시한 설문조사에 따르면 개인/업무 계정에 동일한 ID를 사용하는 사람이 557명(전체 응답자의 26.46%)며, 이 중 170명은 비밀번호까지 완전히 동일한 것으로 나타났다." — 이상우, 「개인용 ID와 비밀번호, 혹시 회사 계정에도 쓰시나요?」, 보안뉴스, 2020-10-20, https://m.boannews.com/html/detail.html?idx=91904, 2026-10-25 접속
+[^8]: [매체] "78% of individuals use the same password for more than one account. 52% use it for at least three accounts, and 4% use it on at least 11." (응답자의 78%는 같은 비밀번호를 둘 이상의 계정에 쓴다. 52%는 적어도 세 계정에, 4%는 적어도 11개 계정에 쓴다.) — Security Staff, "78% of people use the same password across multiple accounts", Security Magazine, 2024-06-10, https://www.securitymagazine.com/articles/100765-78-of-people-use-the-same-password-across-multiple-accounts, 2026-10-26 접속
+[^9]: [SNS] "They try use the same password everywhere, but then password complexity requirements mean they can't use the exact same password everywhere" (그들은 모든 곳에 같은 비밀번호를 쓰려 하지만 비밀번호 복잡도 요건 때문에 모든 곳에 똑같은 비밀번호를 쓸 수 없다) — Hacker News 댓글, 2026-02-28, https://news.ycombinator.com/item?id=47191595, 2026-10-26 접속
+[^10]: [매체] "응답자의 74.3%는 "서로 다른 비밀번호를 설정하면 기억하기 어렵다"고 답했다." — 「비밀번호 하나로 버티다간 '탈탈' 털린다」, 인사이트, 2026-05-08, https://www.insight.co.kr/news/553247, 2026-10-26 접속
