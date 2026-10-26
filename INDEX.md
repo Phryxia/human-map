@@ -19,6 +19,7 @@
 - [걸으며 휴대전화 보기](docs/walking-while-using-phone.md) ([길과 운전](groups/roads-and-driving.md))
 - [겁날 때 노래하거나 휘파람 불기](docs/singing-to-keep-up-courage.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [게시 직전 자기검열](docs/last-minute-self-censorship.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [결말 먼저 읽기](docs/reading-the-ending-first.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [결혼 전 불안](docs/pre-wedding-doubts.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [경보 피로](docs/alarm-fatigue.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 구급차 호출](docs/nonurgent-ambulance-calls.md) ([건강과 위험](groups/health-and-safety.md))
