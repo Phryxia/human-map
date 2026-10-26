@@ -8408,15 +8408,15 @@
   },
   "https://www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=15834": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://economist.co.kr/article/view/ecn202412270078": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://www.gutenberg.org/cache/epub/550/pg550-images.html": {
     "first": "2026-10-23",
@@ -9200,9 +9200,9 @@
   },
   "https://www.hankyung.com/article/202609081264H": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://www.clien.net/service/board/park/19148358": {
     "first": "2026-10-24",
@@ -9596,9 +9596,9 @@
   },
   "https://news.ycombinator.com/item?id=7648856": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://news.ycombinator.com/item?id=1650041": {
     "first": "2026-10-24",
@@ -10999,6 +10999,12 @@
     "lastVerified": "2026-10-26"
   },
   "https://news.ycombinator.com/item?id=48429608": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://news.ycombinator.com/item?id=36404085": {
     "first": "2026-10-26",
     "last": "2026-10-26",
     "result": "VERIFIED",
