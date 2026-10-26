@@ -16,6 +16,7 @@
   - [보복이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-reprisal.md)
 - [분리배출 하지 않기](../docs/not-sorting-recyclables.md) 가정에서 재활용할 수 있는 쓰레기를 사람이 분리하지 않고 일반 쓰레기와 함께 버린다.
 - [자원봉사 하지 않기](../docs/not-volunteering.md) 자원봉사를 떠올린 사람이 시간이 없다는 이유로 봉사하지 않는다.
+- [재활용되기를 바라며 재활용함에 넣기](../docs/wishcycling.md) 재활용될지 확실하지 않은 물건을 사람이 재활용되기를 바라며 재활용함에 넣는다.
 - [정치 무력감](../docs/political-inefficacy.md) 유권자가 정부와 정치인이 자기 같은 사람의 생각에 관심이 없고 자기 표가 결정을 바꾸지 못한다고 믿는다.
 - [투표 불참](../docs/not-voting.md) 투표권이 있는 사람이 선거일에 투표하지 않는다.
 - [투표했다고 거짓으로 답하기](../docs/claiming-to-have-voted.md) 투표하지 않은 사람이 설문이나 면접에서 투표했다고 답한다.

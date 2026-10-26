@@ -270,6 +270,7 @@
 - [장 볼 때 필요보다 많이 사기](docs/overbuying-groceries.md) ([돈과 소비](groups/money.md))
 - [장기기증 등록 미루기](docs/delaying-organ-donor-registration.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [재난 문자 무시하기](docs/ignoring-emergency-alerts.md) ([건강과 위험](groups/health-and-safety.md))
+- [재활용되기를 바라며 재활용함에 넣기](docs/wishcycling.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [저녁형 성향](docs/evening-chronotype.md) ([시간과 하루 습관](groups/daily-time.md))
 - [적막해서 TV 켜 두기](docs/leaving-tv-on-for-company.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
