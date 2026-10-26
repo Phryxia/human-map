@@ -5,7 +5,6 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [거울 속 늙은 얼굴의 낯섦](../docs/aged-face-in-mirror.md) 사람이 거울에 비친 자기 얼굴을 보고 스스로 느끼는 나이보다 늙었다고 여기며 낯설어한다.
-- [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md) 가까운 사람을 잃은 사람이 고인이 쓰던 물건과 방을 버리거나 정리하지 않고 그대로 둔다.
 - [고인의 존재를 느끼기](../docs/sensing-presence-of-the-dead.md) 가까운 사람을 잃은 사람이 세상을 떠난 그가 곁에 있다고 느끼거나 그 목소리를 듣는다.
 - [돌아온 고향의 낯섦](../docs/returning-home-feels-strange.md) 오래 떠나 있다가 고향이나 모국으로 돌아온 사람이 그곳이 기억이나 기대와 달라 낯설고 쓸쓸하다고 느낀다.
 - [동물에게 말 걸기](../docs/talking-to-animals.md) 개나 새 같은 동물 곁에 있는 사람이 사람에게 하듯 동물에게 말을 걸고 속마음을 털어놓는다.

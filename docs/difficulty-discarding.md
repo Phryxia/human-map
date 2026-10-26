@@ -1,6 +1,6 @@
 # 물건 못 버리기
 
-별칭: Difficulty discarding[^5]
+별칭: Difficulty discarding[^6]
 
 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
 
@@ -8,9 +8,11 @@
 
 1853년 디킨스의 소설[^1]에서 고물상 크룩은 한번 손에 넣은 것은 무엇이든 내놓지 못한다고 말했다. 2013년 Hacker News 댓글[^2]의 글쓴이는 누군가 쓸 것을 아는 물건은 버리기가 어렵다고 썼다.
 
-2018년 논문[^3]의 저자들은 그들이 저장장애라 부르는 상태에서 낭비를 피하려는 마음이 물건을 모아 두는 두드러진 동기일 수 있다고 썼다. 2019년 칼럼[^4]의 필자는 추억이 있어 못 버리는 옷과 살이 빠지면 입으려고 10년째 못 버린 작은 옷이 장롱에 가득했다고 적었다. 2020년 논문[^5]의 성인 1113명 온라인 표본에서 가장 좋은 선택지를 찾을 때까지 모든 대안을 따지는 결정 성향이 강할수록 물건을 버리기 어려워하는 정도를 포함한 저장 증상이 컸다.
+2017년 연구[^3]의 저자들은 나이가 들수록 그들이 저장장애라 부르는 상태가 흔해지고 심해지는 것이 주로 물건을 버리기 어려워하는 데서 온다고 썼다. 2018년 논문[^4]의 저자들은 그들이 저장장애라 부르는 상태에서 낭비를 피하려는 마음이 물건을 모아 두는 두드러진 동기일 수 있다고 썼다. 2019년 칼럼[^5]의 필자는 추억이 있어 못 버리는 옷과 살이 빠지면 입으려고 10년째 못 버린 작은 옷이 장롱에 가득했다고 적었다. 2020년 논문[^6]의 성인 1113명 온라인 표본에서 가장 좋은 선택지를 찾을 때까지 모든 대안을 따지는 결정 성향이 강할수록 물건을 버리기 어려워하는 정도를 포함한 저장 증상이 컸다.
 
-2026년 에세이[^6]의 글쓴이는 부모님 집을 정리하며 한 번도 쓰지 않은 공구와 휴대용 버너를 버리자고 아버지를 설득하기가 특히 어렵다고 적었다. 같은 글에서 어머니는 몇 달 동안 실랑이한 끝에 웬만하면 버리는 데 동의했다.
+2022년 기사[^7]는 나이 든 부모가 피땀 흘려 번 돈으로 사고 자녀의 추억이 밴 물건을 차마 버리지 못한다고 전했다. 기사 속 인터뷰이는 그 세대가 전쟁을 겪었고 근검절약하며 살았다고 말했다.[^7]
+
+2026년 에세이[^8]의 글쓴이는 부모님 집을 정리하며 한 번도 쓰지 않은 공구와 휴대용 버너를 버리자고 아버지를 설득하기가 특히 어렵다고 적었다. 같은 글에서 어머니는 몇 달 동안 실랑이한 끝에 웬만하면 버리는 데 동의했다.
 
 # 관계
 
@@ -20,6 +22,7 @@
 
 ## 하위
 
+- [고인의 물건 간직하기](keeping-belongings-of-the-dead.md)
 - [안 쓰는 휴대폰 집에 두기](keeping-old-phones.md)
 
 ## 원인
@@ -38,7 +41,9 @@
 
 [^1]: [문학] "And all’s fish that comes to my net. And I can’t abear to part with anything I once lay hold of" (내 그물에 걸리는 건 다 고기지. 그리고 난 한번 손에 쥔 건 뭐든 내놓질 못해) — Charles Dickens, "Bleak House", Project Gutenberg, 1853, https://www.gutenberg.org/cache/epub/1023/pg1023-images.html, 2026-10-23 접속
 [^2]: [SNS] "I find I have a hard time throwing stuff away that I know somebody would use." (누군가 쓸 거라는 걸 아는 물건은 버리기가 어렵다.) — Hacker News, 댓글, 2013-08-18, https://news.ycombinator.com/item?id=6230915, 2026-10-24 접속
-[^3]: [학술] "Recent evidence suggests that avoiding waste may be a prominent motive to save in hoarding disorder." (최근 증거는 낭비를 피하려는 것이 저장장애에서 물건을 모아 두는 두드러진 동기일 수 있음을 시사한다.) — R. O. Frost 외, 「Scrupulosity and hoarding」, Comprehensive Psychiatry 86, 2018-10, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30041077&rettype=abstract&retmode=text, 2026-10-23 접속
-[^4]: [매체] "입지 않지만 추억이 있어서 못 버리는 옷들, 작지만 ‘다음에’ 살 빠지면 입으려고 10년째 못 버리는 옷들이 장롱 가득" — 박상미, 「[박상미의 고민사전] 못 버리는 나, 저장강박증 아닌가요?」, 스포츠경향, 2019-11-06, https://sports.khan.co.kr/article/201911060700013, 2026-10-25 접속
-[^5]: [학술] "The tendency to maximize in decision-making was significantly correlated with hoarding symptoms (including difficulty discarding possessions, excessive acquisition, and clutter)." (결정에서 최대화하려는 성향은 저장 증상, 곧 소유물을 버리기 어려움, 지나친 획득, 어수선함과 유의하게 상관했다.) — M. G. Wheaton, K. Topilow, 「Maximizing decision-making style and hoarding disorder symptoms」, Comprehensive Psychiatry 101, 2020-08, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32504873&rettype=abstract&retmode=text, 2026-10-23 접속
-[^6]: [매체] "생전 쓰지도 않는 갖가지 공구들과 휴대용 버너 등 특히 아버지를 설득하기가 어렵습니다. 엄마는 지난 몇 달동안 전투로 어지간하면 버리는데 동의를 합니다." — 김지안, 「버리려는 자식과 지키려는 부모」, 브런치, 2026-06-14, https://brunch.co.kr/@augustan74/183, 2026-10-23 접속
+[^3]: [학술] "Increased prevalence and severity of HD with age appears to be primarily driven by difficulties with discarding." (나이에 따라 저장장애의 유병률과 심각도가 늘어나는 것은 주로 버리기의 어려움이 이끄는 것으로 보인다.) — D. C. Cath, K. Nizar, D. Boomsma, C. A. Mathews, 「Age-Specific Prevalence of Hoarding and Obsessive Compulsive Disorder: A Population-Based Study」, American Journal of Geriatric Psychiatry 25(3), 2017-03, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27939851&rettype=abstract&retmode=text, 2026-10-26 접속
+[^4]: [학술] "Recent evidence suggests that avoiding waste may be a prominent motive to save in hoarding disorder." (최근 증거는 낭비를 피하려는 것이 저장장애에서 물건을 모아 두는 두드러진 동기일 수 있음을 시사한다.) — R. O. Frost 외, 「Scrupulosity and hoarding」, Comprehensive Psychiatry 86, 2018-10, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30041077&rettype=abstract&retmode=text, 2026-10-23 접속
+[^5]: [매체] "입지 않지만 추억이 있어서 못 버리는 옷들, 작지만 ‘다음에’ 살 빠지면 입으려고 10년째 못 버리는 옷들이 장롱 가득" — 박상미, 「[박상미의 고민사전] 못 버리는 나, 저장강박증 아닌가요?」, 스포츠경향, 2019-11-06, https://sports.khan.co.kr/article/201911060700013, 2026-10-25 접속
+[^6]: [학술] "The tendency to maximize in decision-making was significantly correlated with hoarding symptoms (including difficulty discarding possessions, excessive acquisition, and clutter)." (결정에서 최대화하려는 성향은 저장 증상, 곧 소유물을 버리기 어려움, 지나친 획득, 어수선함과 유의하게 상관했다.) — M. G. Wheaton, K. Topilow, 「Maximizing decision-making style and hoarding disorder symptoms」, Comprehensive Psychiatry 101, 2020-08, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32504873&rettype=abstract&retmode=text, 2026-10-23 접속
+[^7]: [매체] "그 물건들은 자신들이 피땀 흘린 돈으로 산 것이기도 하고, 자녀들의 추억도 배어 있기 때문에 차마 버리지 못하는 것." — 오병돈, 「정리정돈 잘 하려면… “40세 넘으면 하루에 하나씩 버려야”」, 브라보마이라이프, 2022-01-03, https://bravo.etoday.co.kr/view/atc_view/13057, 2026-10-26 접속
+[^8]: [매체] "생전 쓰지도 않는 갖가지 공구들과 휴대용 버너 등 특히 아버지를 설득하기가 어렵습니다. 엄마는 지난 몇 달동안 전투로 어지간하면 버리는데 동의를 합니다." — 김지안, 「버리려는 자식과 지키려는 부모」, 브런치, 2026-06-14, https://brunch.co.kr/@augustan74/183, 2026-10-23 접속

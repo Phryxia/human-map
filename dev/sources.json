@@ -8600,21 +8600,21 @@
   },
   "https://www.gutenberg.org/cache/epub/1023/pg1023-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30041077&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://brunch.co.kr/@augustan74/183": {
     "first": "2026-10-23",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://www.etoday.co.kr/news/view/140572": {
     "first": "2026-10-23",
@@ -8714,9 +8714,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32504873&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://www.newsweek.com/americans-are-counting-on-their-parents-death-to-fund-retirement-12405283": {
     "first": "2026-10-23",
@@ -9644,9 +9644,9 @@
   },
   "https://news.ycombinator.com/item?id=6230915": {
     "first": "2026-10-24",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://lady.khan.co.kr/education/article/201506051025021": {
     "first": "2026-10-24",
@@ -10550,9 +10550,9 @@
   },
   "https://sports.khan.co.kr/article/201911060700013": {
     "first": "2026-10-25",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35999211&rettype=abstract&retmode=text": {
     "first": "2026-10-25",
@@ -11347,6 +11347,18 @@
     "lastVerified": "2026-10-26"
   },
   "https://www.kca.go.kr/webzine/board/view?menuId=MENU00306&linkId=104&div=kca_1911": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27939851&rettype=abstract&retmode=text": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://bravo.etoday.co.kr/view/atc_view/13057": {
     "first": "2026-10-26",
     "last": "2026-10-26",
     "result": "VERIFIED",

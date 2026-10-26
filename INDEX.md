@@ -28,7 +28,7 @@
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [고용 불안](docs/job-insecurity.md) ([일터와 일자리](groups/work.md))
-- [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([돈과 소비](groups/money.md))
 - [고인의 존재를 느끼기](docs/sensing-presence-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [과다복용 현장에서 신고 꺼리기](docs/not-calling-for-help-at-overdose.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [과속 운전](docs/speeding.md) ([길과 운전](groups/roads-and-driving.md))

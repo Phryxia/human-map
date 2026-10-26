@@ -18,6 +18,7 @@
 - [돈 쓰기 아까워하기](../docs/tightwad-spending.md) 돈을 낼 때의 괴로움을 미리 느끼는 사람이 스스로 바라는 것보다 적게 쓴다.
 - [또래 유행 따라 사기](../docs/following-peer-fashion.md) 아이나 청소년이 또래가 모두 가진 옷이나 물건을 자기도 가지려고 사거나 사 달라고 조른다.
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
+  - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
   - [안 쓰는 휴대폰 집에 두기](../docs/keeping-old-phones.md)
 - [물려받을 재산 기대하기](../docs/counting-on-inheritance.md) 사람이 부모나 친척에게서 물려받을 재산을 자기 살림 계산에 넣고 기대한다.
 - [배우자에게 재정 정보 숨기기](../docs/spouse-financial-concealment.md) 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨기는 행동이다.
