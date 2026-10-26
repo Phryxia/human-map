@@ -315,6 +315,7 @@
 - [평균 이상 효과](docs/better-than-average-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
 - [하차 표시 망설이기](docs/hesitating-to-signal-bus-stop.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [하품 전염](docs/contagious-yawning.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [학습된 무력감](docs/learned-helplessness.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [한숨 쉬기](docs/sighing.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [할 말 미리 연습하기](docs/rehearsing-what-to-say.md) ([남의 시선과 창피함](groups/others-gaze.md))
