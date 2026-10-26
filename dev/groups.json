@@ -329,6 +329,7 @@
     "title": "걱정과 기분",
     "summary": "사람이 결과를 모르는 일을 걱정하거나 확인하고 기분을 바꾸려고 하는 일이다.",
     "roots": [
+      "spring-fever",
       "awaiting-uncertain-news",
       "delaying-bad-news",
       "fear-of-being-found-out",
