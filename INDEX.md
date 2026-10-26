@@ -120,6 +120,7 @@
 - [반려동물을 잃은 슬픔](docs/pet-loss-grief.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [반응 없는 게시물 지우기](docs/deleting-posts-with-few-reactions.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [반품 포기](docs/abandoning-returns.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [받은 음식 남기기](docs/leaving-food-on-the-plate.md) ([시간과 하루 습관](groups/daily-time.md))
 - [받은 편지와 메시지 되풀이해 읽기](docs/rereading-received-messages.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [밤길 혼자 걷기 두려움](docs/fear-of-walking-alone-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [방관자 효과](docs/bystander-effect.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

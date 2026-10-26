@@ -11309,5 +11309,23 @@
     "last": "2026-10-26",
     "result": "VERIFIED",
     "lastVerified": "2026-10-26"
+  },
+  "https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-96-191/html/GAOREPORTS-RCED-96-191.htm": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35764451&rettype=abstract&retmode=text": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39578606&rettype=abstract&retmode=text": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
   }
 }
