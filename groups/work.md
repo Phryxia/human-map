@@ -6,6 +6,7 @@
 
 - [감정노동](../docs/emotional-labor.md) 고객을 응대하는 노동자가 일이 요구하는 표정과 말투를 지으려고 실제로 느끼는 감정을 누르거나 꾸민다.
 - [건강보험 때문에 직장에 남기](../docs/staying-in-job-for-health-insurance.md) 그만두거나 옮기고 싶은 직장인이 지금 직장을 통해 받는 건강보험을 잃을까 봐 그 직장에 남는다.
+- [고용 불안](../docs/job-insecurity.md) 일하는 사람이 지금의 일자리를 잃을지 모른다고 걱정한다.
 - [구직 단념](../docs/giving-up-job-search.md) 일할 뜻과 능력이 있는 사람이 일자리를 찾다가 원하는 일자리가 없거나 될 것 같지 않다고 여겨 구직을 그만둔다.
 - [꾀병 결근](../docs/calling-in-sick-when-not-sick.md) 아프지 않은 직장인이 쉬고 싶거나 일을 피하고 싶어 아프다고 하고 병가를 내거나 결근한다.
 - [노년의 계속 일하기 희망](../docs/wanting-to-keep-working-in-old-age.md) 나이가 든 사람이 은퇴할 나이가 지나도 일을 이어 가기를 바란다.
