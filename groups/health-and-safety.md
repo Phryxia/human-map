@@ -6,6 +6,7 @@
 
 - [경증 구급차 호출](../docs/nonurgent-ambulance-calls.md) 급하지 않은 증상을 가진 사람이 병원까지 갈 탈 것이 없거나 더 쉽게 병원에 가려고 구급차를 부른다.
 - [경증 응급실 이용](../docs/nonurgent-emergency-room-visits.md) 급하지 않은 증상을 가진 사람이 동네 의원에 갈 수 없거나 자기 상태가 급하다고 느껴서 응급실을 찾는다.
+- [계단 대신 에스컬레이터와 엘리베이터 타기](../docs/taking-escalator-over-stairs.md) 계단과 에스컬레이터나 엘리베이터가 함께 있는 곳에서 사람이 계단을 두고 에스컬레이터나 엘리베이터를 탄다.
 - [과음](../docs/heavy-drinking.md) 술을 마시는 사람이 한 번의 술자리에서 많은 양을 마신다.
 - [구명조끼 미착용](../docs/life-jacket-nonuse.md) 배를 타거나 물놀이, 낚시를 하는 사람이 구명조끼를 입지 않는다.
 - [금연 뒤 다시 피우기](../docs/smoking-relapse.md) 담배를 끊으려던 사람이 다시 담배를 피운다.

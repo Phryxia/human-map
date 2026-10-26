@@ -22,6 +22,7 @@
 - [결혼 전 불안](docs/pre-wedding-doubts.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [경증 구급차 호출](docs/nonurgent-ambulance-calls.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 응급실 이용](docs/nonurgent-emergency-room-visits.md) ([건강과 위험](groups/health-and-safety.md))
+- [계단 대신 에스컬레이터와 엘리베이터 타기](docs/taking-escalator-over-stairs.md) ([건강과 위험](groups/health-and-safety.md))
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
