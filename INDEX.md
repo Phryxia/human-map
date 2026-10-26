@@ -239,6 +239,7 @@
 - [음주 후 운전](docs/drink-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [의례적 사양](docs/ritual-refusal.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [의무 해제 뒤에도 마스크 쓰기](docs/keeping-mask-after-mandate.md) ([건강과 위험](groups/health-and-safety.md))
+- [의사에게 증상과 습관 줄여 말하기](docs/withholding-information-from-doctors.md) ([건강과 위험](groups/health-and-safety.md))
 - [이별 앞에서 눈물 참기](docs/holding-back-tears-at-breakup.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [이웃과 엘리베이터 같이 타지 않기](docs/avoiding-shared-elevator.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [인사 안 받는 이웃에게 아는 체 그만두기](docs/stopping-greeting-unresponsive-neighbor.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
