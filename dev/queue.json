@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T18:39:25.863Z",
-  "nextSeq": 2246,
-  "stops": 115,
+  "savedAt": "2026-10-26T21:41:30.135Z",
+  "nextSeq": 2256,
+  "stops": 116,
   "items": [
-    {
-      "id": "a0d7bdda",
-      "title": "littering 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-25 Cialdini 외 1990 cbsm.com 초록 더함. JABA 1971~1980 반쓰레기 연구(PMC1310674, PMC1311871 등)는 줍기 유도라 맞지 않음. 영국 local.gov.uk Social Engine, letsrecycle 후보",
-      "createdAt": "2026-10-25T21:13:58.299Z",
-      "seq": 2125
-    },
-    {
-      "id": "432549b2",
-      "title": "reservation-no-show 보강: 공공 파편, 예약자 1인칭 SNS",
-      "priority": 50,
-      "note": "2026-10-25 클리앙 park/18029107 댓글(예약금 내면 노쇼율 낮음) 더함. 공공: 중기부·소진공 2025 노쇼 실태조사 원문 미발견. HN 46035335 (2025-11-24) 는 겹치기 예약 뒤 취소",
-      "createdAt": "2026-10-25T21:14:55.147Z",
-      "seq": 2126
-    },
-    {
-      "id": "a09ed802",
-      "title": "difficulty-discarding 보강: 세대 조건, keeping-belongings-of-the-dead·saving-things-for-best 관계",
-      "priority": 50,
-      "note": "2026-10-25 스포츠경향 2019-11-06 박상미 칼럼 더함. 미래에셋 투자와연금 idx=12922 중년 후보. Nordsletten 2013 PMID 23533058",
-      "createdAt": "2026-10-25T21:17:22.555Z",
-      "seq": 2127
-    },
-    {
-      "id": "b32f8e67",
-      "title": "bragging-about-children 보강: downplaying-praise-of-family 대립",
-      "priority": 50,
-      "note": "2026-10-25 Kim 2017 sagepub 은 Cloudflare, crossref 초록 'despite the social and interactional constraints on behavior that might be viewed as biased or bragging' 은 대립 근거로 약함(겸양 언급 없음)",
-      "createdAt": "2026-10-25T21:17:46.484Z",
-      "seq": 2128
-    },
-    {
-      "id": "ab772352",
-      "title": "understating-age 보강: 나이를 늘리는 방향 조건",
-      "priority": 50,
-      "note": "2026-10-25 Ofcom 2022-10-11 아동 SNS 가짜 생년월일(deeside.com 사본)은 연령 확인 우회라 범위 밖. Staffordshire 같은 문단의 나이를 늘린 응답 원문 다시 볼 것",
-      "createdAt": "2026-10-25T21:18:37.308Z",
-      "seq": 2129
-    },
-    {
-      "id": "78d6c36e",
-      "title": "following-peer-fashion 보강: SNS 파편, poverty-peer-withdrawal 관계",
-      "priority": 50,
-      "note": "2026-10-25 주간경향 2017-11-28 위화감 더함. 같은 기사 학부모 인용 '비싼 옷을 사입지 못해서 소외감 느끼는 학생들'(실명 포함이라 못 씀). 클리앙, HN 검색 무소득",
-      "createdAt": "2026-10-25T21:22:11.033Z",
-      "seq": 2130
-    },
-    {
-      "id": "0b3b19fa",
-      "title": "counting-on-inheritance 보강: 일 선택 조건, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-25 HN algolia 'counting on inheritance' 검색은 25634667 (2021-01-04) 'I hope you aren't counting on an inheritance' 정도로 1인칭 없음. 보사연 2013 koreascience CFKO201311536428623(PDF)",
-      "createdAt": "2026-10-25T21:22:34.963Z",
-      "seq": 2131
-    },
-    {
-      "id": "e383f12e",
-      "title": "zeigarnik-effect 보강: 문학 파편, prospective-memory-failure 관계",
-      "priority": 50,
-      "note": "2026-10-25 HN 47356574 (2026-03-12) 더함. gqkorea.co.kr/?p=387467 (2026-07-09) 밀린 업무가 잠자리에서 떠오름 후보",
-      "createdAt": "2026-10-25T21:23:39.877Z",
-      "seq": 2132
-    },
-    {
-      "id": "53386734",
-      "title": "behaving-better-when-watched 보강: SNS·한국어 파편, 평판 신경 쓰기 관계",
-      "priority": 50,
-      "note": "2026-10-25 segye 20170430001979 미니 환경미화원 스티커는 쓰레기통 안내라 지켜봄과 무관. 평판 신경 쓰기 문서 후보(Nettle 'As we care what other people think about us'). go.seoul.co.kr 2016-06-09 전신주 동물벽화 미확인",
-      "createdAt": "2026-10-25T21:24:11.777Z",
-      "seq": 2133
-    },
     {
       "id": "4c19cd85",
       "title": "counting-sheep 보강: lying-awake-thinking 관계",
@@ -491,6 +419,46 @@
       "note": "2026-10-26 연수구청 improve_habit.asp '음식점 고객의 32%만이 먹지 않는 음식을 반납'(발행일 미상). WRAP 2023 48% 양이 많아 남김(wrap.ngo 차단). Hoteit 2024 잔반 31.4%",
       "createdAt": "2026-10-26T18:37:45.170Z",
       "seq": 2245
+    },
+    {
+      "id": "dcc7f639",
+      "title": "reservation-no-show 보강: 예약자 1인칭 SNS",
+      "priority": 50,
+      "note": "2026-10-26 kca.go.kr 2019-11 웹진 공공 파편 더함. 공공 후보 korea.kr reporterView newsId=148815794 (2016-06-07, 정책기자 글) 노쇼 이유 '번거롭고 취소사유를 설명하기 귀찮아서'. NHS South Yorkshire ICB 2026-03-03 진료 예약 1 in 4 잊음",
+      "createdAt": "2026-10-26T21:13:17.420Z",
+      "seq": 2251
+    },
+    {
+      "id": "118776c9",
+      "title": "difficulty-discarding 보강: saving-things-for-best 관계",
+      "priority": 50,
+      "note": "2026-10-26 세대 조건(Cath 2017, 브라보마이라이프 2022-01-03)과 keeping-belongings-of-the-dead 하위 간선 더함. 아껴 두기와 못 버리기를 잇는 근거 파편 아직 없음. 후보 brunch augustan74/183 (2026-06-14) 가난한 시절 세대",
+      "createdAt": "2026-10-26T21:16:40.996Z",
+      "seq": 2252
+    },
+    {
+      "id": "7ae71710",
+      "title": "following-peer-fashion 보강: poverty-peer-withdrawal 관계",
+      "priority": 50,
+      "note": "2026-10-26 HN 9557380 (2015-05-16) 더함. 못 사서 물러났다는 인과 대목 미발견. 후보 HN 33183265 (2022-10-12) Starter 모자 없어 놀림, HN 40203256 (2024-04-29) 싼 옷 놀림, sneakerfiles discussion-whats-your-story 댓글(날짜 미상) 싼 상표 놀림",
+      "createdAt": "2026-10-26T21:29:32.442Z",
+      "seq": 2253
+    },
+    {
+      "id": "a6330c34",
+      "title": "zeigarnik-effect 보강: prospective-memory-failure 관계",
+      "priority": 50,
+      "note": "2026-10-26 도스토옙스키 A Faint Heart 1848 문학 파편 더함. War and Peace (gutenberg 2600) 피에르 셈 대목은 같은 URL 5개 문서 경고로 못 씀. 관계 근거 파편 미탐색",
+      "createdAt": "2026-10-26T21:39:11.697Z",
+      "seq": 2254
+    },
+    {
+      "id": "059afc2f",
+      "title": "behaving-better-when-watched 보강: SNS·한국어 파편, 평판 신경 쓰기 관계",
+      "priority": 50,
+      "note": "2026-10-26 클리앙 park/15090572 (2020-06-20) cctv 경고와 캡쳐 전송 뒤 입주자가 안 버림은 적발이 섞여 약함. 1인칭 '보는 사람 없으면' 글 미발견. 루리웹·더쿠 공개 글 후보. segye 20170430001979 무관",
+      "createdAt": "2026-10-26T21:41:20.412Z",
+      "seq": 2255
     },
     {
       "id": "d16898d2",
