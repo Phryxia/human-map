@@ -10745,5 +10745,29 @@
     "last": "2026-10-26",
     "result": "VERIFIED",
     "lastVerified": "2026-10-26"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4731912/": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://news.ycombinator.com/item?id=19620673": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://www.city.chiba.jp/shimin/shimin/chiikianzen/2019_nagarasumaho-chuikanki.html": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://news.ycombinator.com/item?id=44057108": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
   }
 }

@@ -22,7 +22,7 @@
 
 ## 상위
 
-없음.
+- [다른 일을 하며 휴대전화 보기](phone-use-while-doing-other-things.md)
 
 ## 하위
 

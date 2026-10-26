@@ -117,12 +117,11 @@
       "delaying-driving-cessation",
       "driving-while-drowsy",
       "jaywalking",
-      "phone-use-while-driving",
       "rear-seat-belt-nonuse",
       "speeding",
       "driving-into-floodwater",
-      "walking-while-using-phone",
-      "ignoring-vehicle-recalls"
+      "ignoring-vehicle-recalls",
+      "phone-use-while-doing-other-things"
     ]
   },
   {
