@@ -12,6 +12,8 @@
 
 2019년 서울시 소식 기사[^4]는 예상보다 일찍 퇴직해 인생 후반을 계획하지 못한 50+세대가 불안하고 갈 곳이 없고 일하고 싶다고 호소한다고 전했다. 2021년 학술대회 초록[^5]은 퇴직 뒤 삶의 목적의식이 줄어드는 사람이 있지만 모두 그렇지는 않고 은퇴 기간에 목적을 지니는 일을 꼭 필요하다고 보지 않는 사람도 있다고 정리했다. 2022년 Hacker News 댓글[^6]의 글쓴이는 68세에 은퇴한 뒤 삶의 목적 없이 길을 잃은 느낌이었다고 썼다.
 
+2023년 급여 대행사 글[^7]이 전한 조사에서 은퇴자의 52%는 지루해서 일터로 돌아갈 생각을 한다고 답했다.
+
 # 관계
 
 ## 상위
@@ -28,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [노년의 계속 일하기 희망](wanting-to-keep-working-in-old-age.md)[^7]
 
 ## 대립
 
@@ -42,3 +44,4 @@
 [^4]: [공공] "하지만 생각보다 빨라진 퇴직을 경험하며 충분히 인생의 후반을 계획하지 못한 채 전환기를 맞이한 50+세대는 “불안하다” “갈 곳이 없다” “일하고 싶다”는 갈증을 호소하고 있습니다." — 서울시 직원기자단 김가현, 「동년배 전문가가 상담해주니 더 공감 ‘50+상담센터’」, 내 손안에 서울, 2019-01-10, https://mediahub.seoul.go.kr/archives/1204806, 2026-10-24 접속
 [^5]: [학술] "some but not all people decline in sense of purpose following retirement, and some view it as nonessential to maintain a purpose specifically during retirement." (어떤 사람은 퇴직 뒤 목적의식이 줄지만 모두 그런 것은 아니며, 어떤 사람은 특히 은퇴 기간에 목적을 유지하는 것을 필수적이지 않다고 본다.) — R. Best, G. Pfund, M. T. Cardador 외, 「Older Adults Place Greater Importance on a Purposeful Retirement」, Innovation in Aging 5(Suppl 1), 2021-12-17, https://pmc.ncbi.nlm.nih.gov/articles/PMC8682595/, 2026-10-23 접속
 [^6]: [SNS] "Now that I am retired at 68, I was lost without a life purpose." (68세에 은퇴한 지금 나는 삶의 목적 없이 길을 잃었다.) — Hacker News, 댓글, 2022-12-19, https://news.ycombinator.com/item?id=34056049, 2026-10-24 접속
+[^7]: [매체] "But nearly as many are thinking of going back to work because they’re bored (52%)." (그러나 거의 같은 수가 지루해서 일터로 돌아갈 생각을 한다(52%).) — Paychex, 「Are Retirees Quietly Rejoining the Workforce?」, 2023-02-07, https://www.paychex.com/articles/human-resources/retirees-rejoining-the-workforce, 2026-10-26 접속
