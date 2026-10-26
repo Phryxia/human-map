@@ -10286,9 +10286,9 @@
   },
   "https://www.gutenberg.org/cache/epub/550/pg550.txt": {
     "first": "2026-10-25",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://www.nbcnews.com/id/wbna27119294": {
     "first": "2026-10-25",
@@ -11263,6 +11263,24 @@
     "lastVerified": "2026-10-26"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39881201&rettype=abstract&retmode=text": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://www.nbcnews.com/id/wbna21102202": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18271858&rettype=abstract&retmode=text": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://boards.straightdope.com/t/roomba-names/633066": {
     "first": "2026-10-26",
     "last": "2026-10-26",
     "result": "VERIFIED",
