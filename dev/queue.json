@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-25T21:34:22.383Z",
-  "nextSeq": 2144,
-  "stops": 108,
+  "savedAt": "2026-10-26T00:33:01.098Z",
+  "nextSeq": 2150,
+  "stops": 109,
   "items": [
     {
       "id": "ccb8961a",
@@ -467,6 +467,30 @@
       "note": "2026-10-25 아주경제 2019-09-30 별칭 키오스크 포비아 더함. 후보: wikitree 627568 어머니 20분 헤매다 귀가(자녀 글 옮김)",
       "createdAt": "2026-10-25T21:34:01.491Z",
       "seq": 2143
+    },
+    {
+      "id": "aaa93c86",
+      "title": "ignoring-vehicle-recalls 보강: 2016 공공 파편, rear-seat-belt-nonuse 와 관계 근거",
+      "priority": 50,
+      "note": "2026-10-26 후보: govinfo.gov FR-2016-01-25 2016-01291 'Is there data identifying why owners do not react to safety recall notices', HN 42247957 (2024-11-26) 안전벨트 미착용·경고등 가리기와 리콜 무시를 같은 사람으로 묶음(인과 아님), HN 38632724 (2023-12-13) 휴가와 이동 수단 부담",
+      "createdAt": "2026-10-26T00:13:20.807Z",
+      "seq": 2147
+    },
+    {
+      "id": "79bc5d94",
+      "title": "taking-escalator-over-stairs 보강: 1980년대 학술, 엘리베이터 쪽 파편",
+      "priority": 50,
+      "note": "2026-10-26 후보: PubMed 7435710 Brownell 1980-12 쇼핑몰·역 45,694건 관찰(기준 수치는 초록에 없음), PubMed 17189548 (2006-12) 엘리베이터가 바로 있으면 직장 계단 개입 효과 약함, boards.straightdope.com/t/oh-is-your-leg-broken-elevator-abuse-rant/293075 (2005-03-05) 2·3층에서 타는 사람, thecommunityguide.org stairs 2005-06 4.0~41.9%",
+      "createdAt": "2026-10-26T00:17:43.611Z",
+      "seq": 2148
+    },
+    {
+      "id": "712401a4",
+      "title": "contagious-yawning 보강: 비율 수치 파편, 문학 파편",
+      "priority": 50,
+      "note": "2026-10-26 후보: gutenberg 1399 Anna Karenina 4부 14장 'just as people catch yawning', gutenberg 16 Peter Pan 3장 등불 셋의 하품(의인화), Straight Dope catching-a-yawn/9319 같은 날 댓글 'I yawned just reading this'. 전염 비율 % 든 초록 미발견",
+      "createdAt": "2026-10-26T00:29:25.323Z",
+      "seq": 2149
     },
     {
       "id": "d16898d2",
