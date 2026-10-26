@@ -16,6 +16,7 @@
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
 - [은둔형 외톨이](../docs/social-withdrawal-at-home.md) 대인관계의 어려움을 포함한 여러 이유로 사람이 다른 사람과의 관계를 끊고 집에 머문다.
 - [적막해서 TV 켜 두기](../docs/leaving-tv-on-for-company.md) 집에 혼자 있는 사람이 보지 않으면서도 조용함을 피하려고 텔레비전을 켜 둔다.
+- [죽은 이에게 말 걸기](../docs/talking-to-the-dead.md) 가까운 사람을 잃은 사람이 무덤 앞이나 혼자 있는 자리, 메신저에서 세상을 떠난 그에게 말을 걸거나 메시지를 보낸다.
 - [집에 없는 척하기](../docs/pretending-not-to-be-home.md) 집에 있는 사람이 초인종이나 노크를 듣고도 문을 열지 않고 집에 없는 척한다.
 - [향수](../docs/homesickness.md) 고향을 떠난 사람이 두고 온 집과 풍경과 가족을 그리워한다.
 - [혼자 먹는 식사의 감정](../docs/eating-alone-feelings.md) 혼자 식사하는 사람은 쓸쓸함이나 함께 먹는 자리에 대한 그리움을 느끼기도 하고 여유나 자유를 느끼기도 한다.

@@ -279,6 +279,7 @@
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋은 물건 아껴 두기](docs/saving-things-for-best.md) ([돈과 소비](groups/money.md))
 - [주말 몰아 자기](docs/weekend-catch-up-sleep.md) ([시간과 하루 습관](groups/daily-time.md))
+- [죽은 이에게 말 걸기](docs/talking-to-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [증상을 읽고 병을 의심하기](docs/reading-symptoms-and-suspecting-illness.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [지나치게 일찍 도착하기](docs/arriving-too-early.md) ([시간과 하루 습관](groups/daily-time.md))
