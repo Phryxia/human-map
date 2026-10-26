@@ -4,6 +4,10 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [경보 피로](../docs/alarm-fatigue.md) 거짓 경보가 잦은 곳에서 일하거나 사는 사람이 경보에 무뎌져 경보를 무시하거나 소리를 끄거나 장치를 꺼 둔다.
+  - [재난 문자 무시하기](../docs/ignoring-emergency-alerts.md)
+  - [화재감지기 꺼 두기](../docs/disabling-smoke-alarms.md)
+  - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)
 - [경증 구급차 호출](../docs/nonurgent-ambulance-calls.md) 급하지 않은 증상을 가진 사람이 병원까지 갈 탈 것이 없거나 더 쉽게 병원에 가려고 구급차를 부른다.
 - [경증 응급실 이용](../docs/nonurgent-emergency-room-visits.md) 급하지 않은 증상을 가진 사람이 동네 의원에 갈 수 없거나 자기 상태가 급하다고 느껴서 응급실을 찾는다.
 - [계단 대신 에스컬레이터와 엘리베이터 타기](../docs/taking-escalator-over-stairs.md) 계단과 에스컬레이터나 엘리베이터가 함께 있는 곳에서 사람이 계단을 두고 에스컬레이터나 엘리베이터를 탄다.
@@ -22,12 +26,10 @@
 - [의사에게 증상과 습관 줄여 말하기](../docs/withholding-information-from-doctors.md) 진료받는 사람이 의사에게 증상이나 음주 같은 생활습관을 줄여 말하거나 숨긴다.
 - [일부러 피부 태우기](../docs/intentional-tanning.md) 피부를 그을린 모습으로 만들고 싶은 사람이 햇볕이나 태닝 기계 아래에서 일부러 피부를 태운다.
 - [자외선 차단제 안 바르기](../docs/sunscreen-nonuse.md) 햇볕에 나가는 사람이 번거롭거나 필요 없다고 여겨 자외선 차단제를 바르지 않는다.
-- [재난 문자 무시하기](../docs/ignoring-emergency-alerts.md) 재난이나 안전 경보 문자를 자주 받는 사람이 문자에 짜증을 내거나 무시하고 수신 기능을 끈다.
 - [정상 집착](../docs/summit-fever.md) 산을 오르는 사람이 날씨가 나빠지거나 시간이 늦어져도 정상에 가겠다는 마음에 돌아서지 않고 계속 오른다.
 - [진료를 미루다 응급실 가기](../docs/delayed-care-emergency-visits.md) 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
 - [청력 보호구 미착용](../docs/hearing-protection-nonuse.md) 시끄러운 작업장이나 공연장에 있는 사람이 귀마개나 귀덮개를 쓰지 않거나 꾸준히 쓰지 않는다.
 - [폭염 속 바깥일 계속하기](../docs/working-through-heat.md) 폭염 속에서 밭일이나 바깥일을 하는 사람이 더위로 몸이 처지거나 쉬라는 말을 들어도 일을 멈추지 않는다.
 - [헌혈 꺼림](../docs/avoiding-blood-donation.md) 헌혈할 수 있는 나이의 사람이 헌혈을 무서워하거나 꺼려 헌혈하지 않는다.
 - [화장실 뒤 손 안 씻기](../docs/skipping-handwashing.md) 공중화장실을 쓴 사람이 손을 씻지 않거나 비누 없이 물만 묻히고 나간다.
-- [화재감지기 꺼 두기](../docs/disabling-smoke-alarms.md) 요리 연기 따위로 화재감지기가 자주 울리는 집의 사람이 배터리를 빼거나 감지기를 떼어 감지기를 꺼 둔다.
 - [회복기에 일상을 새롭게 느끼기](../docs/savoring-ordinary-life-in-convalescence.md) 병에서 회복하는 사람이 숨쉬기, 바깥 풍경, 살아 있음 같은 평범한 것에서 즐거움과 고마움을 크게 느낀다.

@@ -20,6 +20,7 @@
 - [겁날 때 노래하거나 휘파람 불기](docs/singing-to-keep-up-courage.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [게시 직전 자기검열](docs/last-minute-self-censorship.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [결혼 전 불안](docs/pre-wedding-doubts.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [경보 피로](docs/alarm-fatigue.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 구급차 호출](docs/nonurgent-ambulance-calls.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 응급실 이용](docs/nonurgent-emergency-room-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [계단 대신 에스컬레이터와 엘리베이터 타기](docs/taking-escalator-over-stairs.md) ([건강과 위험](groups/health-and-safety.md))

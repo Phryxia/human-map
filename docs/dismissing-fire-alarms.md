@@ -20,6 +20,7 @@
 
 ## 상위
 
+- [경보 피로](alarm-fatigue.md)
 - [대피 미루기](delayed-evacuation.md)
 
 ## 하위
