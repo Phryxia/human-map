@@ -14,6 +14,8 @@
 
 2020년 게시글[^4]의 글쓴이는 먹고살려고 들은 말을 누르고 참아 오는 사이 자존감이 사라졌다고 썼다.
 
+2025년 기사[^5]가 전한 조사에서 직장 내 괴롭힘에 대처한 방법으로 동료와 상담했다는 응답이 45.5%로 가장 많았고 아무 대응도 하지 않았다는 응답이 31.3%였다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [공공] "Roughly three out of four individuals who experienced harassment never even talked to a supervisor, manager, or union representative about the harassing conduct." (괴롭힘을 겪은 사람의 대략 4분의 3은 그 괴롭힘 행위에 대해 상사, 관리자, 노조 대표와 이야기조차 한 적이 없다.) — U.S. Equal Employment Opportunity Commission, 「Select Task Force on the Study of Harassment in the Workplace」, 2016-06, https://www.eeoc.gov/select-task-force-study-harassment-workplace, 2026-10-23 접속
 [^3]: [매체] "직장 내 괴롭힘을 당한 적 있는 응답자의 약 60%는 ‘특별히 대처한 적 없다’면서 그 이유로 ‘대처해도 개선되지 않을 것 같아서’(43.8%), ‘대처했다가 직장 내 관계가 어려워질 것 같아서’(29.3%)를 꼽았다." — 이주협, 「인권위 “직장인 73% ‘직장내 괴롭힘’ 경험”」, 에너지경제신문, 2018-02-12, https://m.ekn.kr/view.php?key=343593, 2026-10-23 접속
 [^4]: [SNS] "먹고 살려고 저런 말들을 누르고 참아가면서 내 그림자도 자존감도 사라졌네요." — 클리앙 게시글, 2020-08-15, https://www.clien.net/service/board/park/15275324, 2026-10-25 접속
+[^5]: [매체] "대처 방법은 '동료와 상담'(131명·45.5%)이 가장 많았지만, '무대응'(90명·31.3%)도 상당 부분을 차지했습니다." — 김성훈, 「불이익 받을까봐…직장 내 괴롭힘에 무대응이나 퇴사」, SBS Biz, 2025-10-15, https://biz.sbs.co.kr/amp/article/20000265203, 2026-10-26 접속
