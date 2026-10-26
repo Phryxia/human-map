@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T09:40:51.414Z",
-  "nextSeq": 2210,
-  "stops": 112,
+  "savedAt": "2026-10-26T12:36:28.575Z",
+  "nextSeq": 2218,
+  "stops": 113,
   "items": [
     {
       "id": "24fe8ab8",
@@ -427,6 +427,30 @@
       "note": "2026-10-25 신규. 후보: itweb.africa 2014-01-31 'South Africans too lazy to back up data' 바쁨 40% 귀찮음 15%. Deccan Herald 2023 Western Digital 인도 조사는 본문이 JSON 에만 있음. 학술 HTML 미탐색",
       "createdAt": "2026-10-26T09:40:40.683Z",
       "seq": 2209
+    },
+    {
+      "id": "3861a1b3",
+      "title": "tempting-fate 보강: 한국어 SNS 1인칭 파편, 장담을 말리는 면",
+      "priority": 50,
+      "note": "2026-10-26 신규, 문학 2·학술 2·매체 2. 후보: Lawrence Lady Chatterley's Lover 1928 gutenberg 73144 'Don't boast, while the gods are listening'(인용부호가 섞여 미사용). Milne Happy Days 1915 gutenberg 26098 'Cross your fingers quickly, James, and touch wood.' 입방정·설레발·김칫국 검색 무소득",
+      "createdAt": "2026-10-26T12:16:35.997Z",
+      "seq": 2214
+    },
+    {
+      "id": "4ec630a2",
+      "title": "spring-cleaning 보강: 학술 파편, tidying-before-guests 관계",
+      "priority": 50,
+      "note": "2026-10-26 신규, 문학 1·매체 2·공공 1. 학술 출처 미발견. cmmonline.com 2020-03-09 ACI 조사 78%. brunch.co.kr/@bicycle/18 (2026-03-24) 겨울 뒤 창문 열고 쌓인 박스를 봄. localnaeil 649628 (2023-04-24) 대청소와 물건 처분",
+      "createdAt": "2026-10-26T12:30:40.219Z",
+      "seq": 2215
+    },
+    {
+      "id": "bff59454",
+      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계, 한국어 성묘 글",
+      "priority": 50,
+      "note": "2026-10-26 신규, 문학 1·학술 2·매체 1. 후보: Brontë Remembrance 1846 gutenberg 1019 'Cold in the earth'. 서울신문 2023-05-16 20230516009010 유가족이 영정 속 희생자에게 메시지(참사 기사, 실명 대목 주의)",
+      "createdAt": "2026-10-26T12:36:18.543Z",
+      "seq": 2217
     },
     {
       "id": "d16898d2",
@@ -2027,6 +2051,14 @@
       "note": "2026-10-26 emotional-labor [^5] 네이트판 346250344 (2019-04-25) 참다가 상담직을 떠남. emotional-labor 의 결과 후보, guilt-about-resigning 의 상위 후보",
       "createdAt": "2026-10-26T09:33:38.986Z",
       "seq": 2196
+    },
+    {
+      "id": "b585ef54",
+      "title": "결말 먼저 읽기 (reading the last page first)",
+      "priority": 10,
+      "note": "2026-10-26 매체 후보만 확보: bookriot.com/lets-start-back-reading-last-lines-first/ (2016-07-26), blog.sonlight.com/?p=8225 (2012-04-19), fromearthtothestars.com/2024/10/24/reading-the-last-page-first/ (2024-10-24). 학술 Leavitt & Christenfeld 2011 은 PubMed 203, sagepub 403. Gutenberg 소설 26편에서 장면 못 찾음. 한국어 1인칭 글 필요",
+      "createdAt": "2026-10-26T12:36:18.369Z",
+      "seq": 2216
     },
     {
       "id": "02b2f242",
