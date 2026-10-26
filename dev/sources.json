@@ -10841,5 +10841,17 @@
     "last": "2026-10-26",
     "result": "VERIFIED",
     "lastVerified": "2026-10-26"
+  },
+  "https://en.wikisource.org/wiki/The_Death_of_Ivan_Ilych/IV": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2709648/": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
   }
 }
