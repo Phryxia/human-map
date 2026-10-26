@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T00:33:01.098Z",
-  "nextSeq": 2150,
-  "stops": 109,
+  "savedAt": "2026-10-26T03:35:52.422Z",
+  "nextSeq": 2155,
+  "stops": 110,
   "items": [
-    {
-      "id": "ccb8961a",
-      "title": "fighting-over-the-bill 보강: dodging-the-bill 과 대립, 체면 원인",
-      "priority": 50,
-      "note": "2026-10-24 HN 8797505 (2014-12-25) 나폴리 커피값 더함. 후보: news.ycombinator.com/item?id=7223604 (2014-02-12) 'because it is honorable' 다만 남의 글을 옮긴 인용 안의 대목. 체면 문서 없음",
-      "createdAt": "2026-10-24T15:45:12.111Z",
-      "seq": 1643
-    },
-    {
-      "id": "97036f20",
-      "title": "reading-others-private-writing 보강: 학술 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-24 후보: pubmed 26912297 (Reed 외 2016-11) 'A survey of 365 college students was conducted, finding that digital monitoring behaviors were especially common.' 이 환경에서 PubMed 가 203/429 를 줘 source-check NOT_FOUND. 다른 판(저자 원고, ResearchGate 아님)을 찾을 것",
-      "createdAt": "2026-10-24T18:29:25.736Z",
-      "seq": 1650
-    },
-    {
-      "id": "bdbbe8f7",
-      "title": "walking-while-using-phone 와 phone-use-while-driving 의 공통 상위",
-      "priority": 50,
-      "note": "2026-10-24 nbcnews wbna34903338 (2010-01-17) 더함. 이 기사는 distracted driving 과 distracted walking 을 나란히 부른다. 공통 상위(다른 일을 하며 휴대전화 보기) 문서 없음",
-      "createdAt": "2026-10-24T21:12:57.259Z",
-      "seq": 1660
-    },
-    {
-      "id": "f6f2cac4",
-      "title": "not-negotiating-salary 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-10-24 maily.so 2025-11-27 한국어 매체 더함. 한국 공공 출처(고용정보원, 통계청)에서 협상하지 않은 비율 미발견. 후보: ppss.kr/archives/241446 (2021-05-24) 그대로 받아들인다",
-      "createdAt": "2026-10-24T21:15:35.779Z",
-      "seq": 1662
-    },
-    {
-      "id": "57d78f55",
-      "title": "calling-in-sick-when-not-sick 보강: 한국어 1인칭 파편",
-      "priority": 50,
-      "note": "2026-10-24 NI Assembly 2008-06-26 공공, kormedi 2009-07-08 더함. 후보: brunch.co.kr/@noey/418 (2026-05-10) 연휴 앞뒤 병가를 꾀병으로 보는 동료. 별칭 swinging the lead 는 같은 NI 보고서의 앞 문장",
-      "createdAt": "2026-10-24T21:24:01.743Z",
-      "seq": 1663
-    },
-    {
-      "id": "a5e52310",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-10-24 Middlemarch 51장 (1872) 더함. 공공 후보: kokkai.ndl.go.jp/txt/119715206X00620181204/419 (2018-12-04) 퇴직을 꺼내기 어렵다는 발언(죄책감 낱말 없음). 오리건 의회 증언은 PDF·실명",
-      "createdAt": "2026-10-24T21:42:00.613Z",
-      "seq": 1664
-    },
     {
       "id": "1fe589fd",
       "title": "password-reuse 보강: 2021년 이후 파편, 공공 원자료",
@@ -491,6 +443,14 @@
       "note": "2026-10-26 후보: gutenberg 1399 Anna Karenina 4부 14장 'just as people catch yawning', gutenberg 16 Peter Pan 3장 등불 셋의 하품(의인화), Straight Dope catching-a-yawn/9319 같은 날 댓글 'I yawned just reading this'. 전염 비율 % 든 초록 미발견",
       "createdAt": "2026-10-26T00:29:25.323Z",
       "seq": 2149
+    },
+    {
+      "id": "695216e7",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-10-26 공공 HTML 미발견(committees.parliament.uk oralevidence 7186, eastamb NHS 에 guilt 없음, DfE working lives wave 4 는 PDF). 남은 방법: hansard.parliament.uk 사이트 내 guilty leaving 검색, 스코틀랜드 의회 서면 증거. 매체 후보 ktvz.com/news/national-world/2021/02/25/traumatized-and-tired-nurses-are-quitting-due-to-the-pandemic/",
+      "createdAt": "2026-10-26T03:35:26.096Z",
+      "seq": 2154
     },
     {
       "id": "d16898d2",
@@ -2043,6 +2003,14 @@
       "note": "2026-10-25 tightwad-spending 공공 파편 찾다 봄. ECB Economic Bulletin 1/2026 (2026-02-19) ecb.ebbox202601_03 'Uncertain households report lower realised consumption and higher realised savings, in line with precautionary saving theory (Chart D).' Fed SHED 2024 income-and-expenses 물가 상승 뒤 63% 싼 물건으로 바꿈, 46% 큰 구매 미룸. tightwad-spending 과 관계 후보",
       "createdAt": "2026-10-25T15:39:39.364Z",
       "seq": 2083
+    },
+    {
+      "id": "462b8d9f",
+      "title": "체면 지키기",
+      "priority": 10,
+      "note": "2026-10-26 brunch.co.kr/@hongkim1013/15 (2026-05-28) '체면은 살리고 싶은 욕심'. 문서가 생기면 fighting-over-the-bill 의 원인 후보",
+      "createdAt": "2026-10-26T03:11:39.700Z",
+      "seq": 2153
     },
     {
       "id": "02b2f242",
