@@ -1,0 +1,42 @@
+# 봄맞이 대청소
+
+별칭: Spring cleaning[^1]
+
+겨울이 지나고 봄이 온 것을 느낀 사람이 집 안의 먼지와 묵은 때를 한꺼번에 치우는 대청소를 한다.
+
+# 서술
+
+1908년 Grahame 의 동화[^1]에서 두더지는 아침 내내 빗자루와 걸레, 사다리와 회반죽 통을 들고 작은 집을 봄맞이 청소했다.
+
+2000년 서울신문 기사[^2]는 창문을 활짝 열고 구석구석 먼지를 털고 정리하다 보면 기분이 상쾌해지고 봄이 다가온 느낌이 든다고 썼다. 2004년 서울시 소식지는 햇살이 따뜻해지고 봄기운이 완연해지면서 가정과 사무실에서 지난겨울의 묵은 때를 씻어 내는 대청소 계획이 많아진다고 전했다.[^3]
+
+2024년 미국청소협회(ACI) 조사에서 미국인 80%가 그해 봄 대청소를 할 계획이라고 답했다. 이 비율은 3년 전보다 10% 넘게 늘었다.[^4]
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 대립
+
+없음.
+
+#시간
+
+[^1]: [문학] "The Mole had been working very hard all the morning, spring-cleaning his little home. First with brooms, then with dusters; then on ladders and steps and chairs, with a brush and a pail of whitewash;" (두더지는 아침 내내 아주 열심히 일하며 자기의 작은 집을 봄맞이 청소하고 있었다. 처음에는 빗자루로, 다음에는 걸레로, 그다음에는 사다리와 계단과 의자 위에서 솔과 회반죽 한 통을 들고.) — Kenneth Grahame, The Wind in the Willows, 1908, https://www.gutenberg.org/cache/epub/289/pg289-images.html, 2026-10-26 접속
+[^2]: [매체] "창문을 활짝 열고 구석구석 먼지를 털어내고 정리하다보면 기분도 상쾌해지고 봄이 성큼 다가온 듯한 느낌이 들것이다." — 강선임, 「봄맞이 대청소 아이디어」, 서울신문, 2000-02-29, https://www.seoul.co.kr/news/2000/02/29/20000229018002, 2026-10-26 접속
+[^3]: [공공] "햇살이 조금씩 따뜻해지고 봄기운이 완연해지면서 각 가정이나 사무실에서는 지난 겨울의 묵은 때를 씻어내는 대청소 계획이 많아지고 있다." — 서울시 내 손안에 서울, 「새봄맞이 준비 됐나요?」, 2004-03-20, https://mediahub.seoul.go.kr/archives/141863, 2026-10-26 접속
+[^4]: [매체] "The survey found that 80% of Americans plan to spring clean this year, which is a more than a 10% increase from just 3 years ago." (조사 결과 미국인 80%가 올해 봄 대청소를 할 계획이며 이는 불과 3년 전보다 10% 넘게 늘어난 것이다.) — American Cleaning Institute, "ACI Survey: 80% of Americans Now Spring Clean Every Year", Newswise, 2024-03-06, https://www.newswise.com/articles/aci-survey-80-of-americans-now-spring-clean-every-year, 2026-10-26 접속

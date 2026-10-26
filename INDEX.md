@@ -134,6 +134,7 @@
 - [복권 구매](docs/buying-lottery-tickets.md) ([돈과 소비](groups/money.md))
 - [복수심](docs/desire-for-revenge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [복지 급여 미신청](docs/not-claiming-benefits.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [봄맞이 대청소](docs/spring-cleaning.md) ([시간과 하루 습관](groups/daily-time.md))
 - [부모가 창피함](docs/embarrassed-by-parents.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [부유한 척하기](docs/faking-wealth.md) ([돈과 소비](groups/money.md))
 - [부정 탈까 봐 말 아끼기](docs/tempting-fate.md) ([걱정과 기분](groups/worry-and-mood.md))
