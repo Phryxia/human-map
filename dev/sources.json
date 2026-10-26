@@ -10781,5 +10781,29 @@
     "last": "2026-10-26",
     "result": "VERIFIED",
     "lastVerified": "2026-10-26"
+  },
+  "https://www.gutenberg.org/cache/epub/140/pg140-images.html": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2551182/": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://news.ycombinator.com/item?id=22921685": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1347966/full": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
   }
 }
