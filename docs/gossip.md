@@ -10,7 +10,7 @@
 
 2017년 실험[^2]에서 참가자들은 기회가 주어지자 규범에서 벗어난 행동을 두고 남 이야기를 했고 이 대화는 규범을 더 분명히 아는 것, 간접적으로는 결속과 관련이 있었다. 2019년 NPR 방송[^3]이 전한 연구에서 사람들은 하루 평균 52분을 다른 사람에 관해 이야기하는 데 썼다. 같은 해 칼럼[^4]의 필자는 인류학자 로빈 던바의 연구를 들어 사람들이 나누는 이야기의 3분의 2가 다른 사람에 대한 가십이나 뒷담화라고 적는다. 2021년 일상 연구[^5]에서 남 이야기를 전하는 사람은 대상이 협조적인지를 자주 전했고 대상에게 보복당할 여지를 줄이는 방식으로 전했다.
 
-2026년 게시글[^6]의 글쓴이는 같이 일하는 동료와 새로 들어온 동료의 뒷담화를 하던 중에 그 동료가 문 뒤로 지나갔다고 썼다.
+2026년 7월 에세이[^6]에 실린 사연의 글쓴이는 친구를 뒤에서 흉본 뒤 죄책감에 그 친구에게 겉으로 잘해 주는 자신이 밉고 괴롭다고 썼다. 2026년 8월 게시글[^7]의 글쓴이는 같이 일하는 동료와 새로 들어온 동료의 뒷담화를 하던 중에 그 동료가 문 뒤로 지나갔다고 썼다.
 
 # 관계
 
@@ -41,4 +41,5 @@
 [^3]: [매체] "One study finds that people spend an average of 52 minutes per day talking about other people." (한 연구에 따르면 사람들은 하루 평균 52분을 다른 사람에 관해 이야기하는 데 쓴다.) — NPR, "The Hidden Upside To Gossip", Shots - Health News, 2019-05-13, https://www.npr.org/transcripts/722141820, 2026-10-24 접속
 [^4]: [매체] "인류학자인 로빈 던바의 연구에 의하면 사람들이 나누는 이야기의 3분의 2는 건설적이고 진지한 이야기가 아니라 다른 사람에 대한 가십거리나 뒷담화라고 하니 말이다." — 이동귀, 「[이동귀의상담카페] 뒷담화에 상처받는 영혼들」, 세계일보, 2019-11-21, https://www.segye.com/newsView/20191121513801, 2026-10-25 접속
 [^5]: [학술] "Gossip senders frequently shared information about targets' cooperativeness and did so in ways that minimize potential retaliation from targets." (험담을 전하는 사람은 대상의 협조성에 관한 정보를 자주 나누었고, 대상의 보복 가능성을 줄이는 방식으로 그렇게 했다.) — T. D. Dores Cruz 외, 「Gossip and reputation in everyday life」, Philosophical Transactions of the Royal Society B 376(1838), 2021-11-22, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34601907&rettype=abstract&retmode=text, 2026-10-23 접속
-[^6]: [SNS] "같이 일하는 동료랑 새로 들어온 동료의 뒷담화를 하고 있는데 문 뒤에서 지나 가는 거예요" — 당근 동네생활 게시글, 2026-08-11, https://www.daangn.com/kr/community/%EB%92%B7%EB%8B%B4%ED%99%94-wsqsijznu5nz/, 2026-10-25 접속
+[^6]: [매체] "뒤에서 친구를 흉보았으면서, 죄책감에 겉으로 잘해준 제 이중성이 너무 밉고 괴롭습니다." — 회복하는돌, 「제 안의 모순 때문에 너무 괴롭습니다」, 브런치 연재 05화, 2026-07-31, https://brunch.co.kr/@ohmichin/57, 2026-10-26 접속
+[^7]: [SNS] "같이 일하는 동료랑 새로 들어온 동료의 뒷담화를 하고 있는데 문 뒤에서 지나 가는 거예요" — 당근 동네생활 게시글, 2026-08-11, https://www.daangn.com/kr/community/%EB%92%B7%EB%8B%B4%ED%99%94-wsqsijznu5nz/, 2026-10-25 접속
