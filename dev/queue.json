@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T15:37:29.174Z",
-  "nextSeq": 2230,
-  "stops": 114,
+  "savedAt": "2026-10-26T18:39:25.863Z",
+  "nextSeq": 2246,
+  "stops": 115,
   "items": [
     {
       "id": "a0d7bdda",
@@ -435,6 +435,62 @@
       "note": "2026-10-26 후보 cs.observer-reporter.com/columns/2013/sep/04/fearful-of-father-when-hes-drinking/ 'Embarrassment: Young people who are worried about a parent’s drinking may not bring home friends' 는 부모 행동이 원인이라 집이 초라해서라는 avoiding-inviting-people-home 요약과 다름. Globe and Mail 2010 article4327858 'avoid introducing them for fear that my parents will humiliate me'(embarrassed-by-parents 파편 후보)",
       "createdAt": "2026-10-26T15:37:20.297Z",
       "seq": 2229
+    },
+    {
+      "id": "61a9de9c",
+      "title": "smell-evoked-memory 보강: nostalgia 관계, 불쾌한 냄새 조건",
+      "priority": 50,
+      "note": "2026-10-26 khan 202410022006015 은 냄새로 그리움이 따라옴. 클리앙 park/12464615 같은 글에 최루가스 냄새로 어린 시절이 떠오른 대목(병원 이름 포함이라 못 씀). Chu, Downes 2002 PMID 12184552 냄새 단서 기억이 더 자세함",
+      "createdAt": "2026-10-26T18:12:41.526Z",
+      "seq": 2238
+    },
+    {
+      "id": "7429a1c9",
+      "title": "wishcycling 보강: not-sorting-recyclables 관계, 사회적 관심 조건",
+      "priority": 50,
+      "note": "2026-10-26 PsyArXiv 9v7aq Kramer, Yoeli, Rand 2023 지속가능성 관심이 클수록 확실치 않을 때 재활용 쪽으로 넣음(초록은 api.osf.io/v2/preprints/9v7aq/ JSON 에만). 10년 이전 파편 없음",
+      "createdAt": "2026-10-26T18:18:41.046Z",
+      "seq": 2239
+    },
+    {
+      "id": "ccfec8d3",
+      "title": "reading-the-ending-first 보강: 학술 파편, 불안 조건",
+      "priority": 50,
+      "note": "2026-10-26 Leavitt, Christenfeld 2011 PMID 21841150 초록 없음. Goodreads 1583296 무서운 책에서 무사 확인. sonlight 2012-04-19 'It helps me enjoy the book more'",
+      "createdAt": "2026-10-26T18:25:04.142Z",
+      "seq": 2241
+    },
+    {
+      "id": "1dcbb14c",
+      "title": "returning-lost-wallets 보강: 2010년 이전 파편, 사례금 기대 조건",
+      "priority": 50,
+      "note": "2026-10-26 아시아경제 2023 사례금 질문 더함. 경시청 습득물 통계는 PDF 표. Cohn 2019 이타심과 도둑으로 보이기 싫음이 이유(같은 초록) — 자기상 관련 현상과 원인 간선 후보",
+      "createdAt": "2026-10-26T18:29:27.620Z",
+      "seq": 2242
+    },
+    {
+      "id": "2e60047f",
+      "title": "treating-objects-as-companions 보강: 한국어 파편, 외로움 원인 간선",
+      "priority": 50,
+      "note": "2026-10-26 Epley 2008 PMID 18271858 외로움이 의인화를 늘림(원인 간선 근거). NBC 2007 Sung, Grinter 연구 30명 중 21명이 이름 붙임(원 논문 미확인). Moby-Dick 118장 사분의에 말 걸기. substack asassylittle im-sorry 차에 사과 미열람",
+      "createdAt": "2026-10-26T18:31:34.082Z",
+      "seq": 2243
+    },
+    {
+      "id": "74b7eab8",
+      "title": "crying-at-sad-stories 보강: 문학, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-26 Little Women(pg514) 'crying over the Heir of Redclyffe' 는 같은 작품이 이미 5개 문서에 쓰여 뺌. Küster 2022 PMID 34918224 스스로 고른 슬픈 영화. 카타르시스 결과 간선 후보(매일신문 2007)",
+      "createdAt": "2026-10-26T18:34:07.412Z",
+      "seq": 2244
+    },
+    {
+      "id": "614976f7",
+      "title": "leaving-food-on-the-plate 보강: SNS·한국어 파편, 양이 많아 남김 조건",
+      "priority": 50,
+      "note": "2026-10-26 연수구청 improve_habit.asp '음식점 고객의 32%만이 먹지 않는 음식을 반납'(발행일 미상). WRAP 2023 48% 양이 많아 남김(wrap.ngo 차단). Hoteit 2024 잔반 31.4%",
+      "createdAt": "2026-10-26T18:37:45.170Z",
+      "seq": 2245
     },
     {
       "id": "d16898d2",
@@ -2043,6 +2099,14 @@
       "note": "2026-10-26 매체 후보만 확보: bookriot.com/lets-start-back-reading-last-lines-first/ (2016-07-26), blog.sonlight.com/?p=8225 (2012-04-19), fromearthtothestars.com/2024/10/24/reading-the-last-page-first/ (2024-10-24). 학술 Leavitt & Christenfeld 2011 은 PubMed 203, sagepub 403. Gutenberg 소설 26편에서 장면 못 찾음. 한국어 1인칭 글 필요",
       "createdAt": "2026-10-26T12:36:18.369Z",
       "seq": 2216
+    },
+    {
+      "id": "939c0c22",
+      "title": "스포일러 피하기",
+      "priority": 10,
+      "note": "2026-10-26 APS 2011-08-10 보도자료 'Many of us go to extraordinary lengths to avoid learning the endings' 귀 막기, 비평가에게 요구. reading-the-ending-first 와 대립 후보(같은 사람 안 근거 필요)",
+      "createdAt": "2026-10-26T18:25:04.016Z",
+      "seq": 2240
     },
     {
       "id": "02b2f242",
