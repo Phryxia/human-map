@@ -1,209 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T06:37:24.481Z",
-  "nextSeq": 2161,
-  "stops": 111,
+  "savedAt": "2026-10-26T09:40:51.414Z",
+  "nextSeq": 2210,
+  "stops": 112,
   "items": [
-    {
-      "id": "1fe589fd",
-      "title": "password-reuse 보강: 2021년 이후 파편, 공공 원자료",
-      "priority": 50,
-      "note": "2026-10-25 후보: ncsc.gov.uk most-hacked-passwords 2019-04-21, arxiv.org/abs/1706.01939 38% 재사용. KISA 원자료 HTML 미발견",
-      "createdAt": "2026-10-25T00:11:54.106Z",
-      "seq": 1673
-    },
-    {
-      "id": "be09588d",
-      "title": "dismissing-fire-alarms 와 disabling-smoke-alarms 관계 근거 찾기",
-      "priority": 50,
-      "note": "2026-10-25 오경보 경험이 경보를 무시하는 것과 감지기를 끄는 것 둘에 이어지는지 원인 파편 후보 탐색",
-      "createdAt": "2026-10-25T00:18:36.154Z",
-      "seq": 1674
-    },
-    {
-      "id": "0ac21ab2",
-      "title": "watching-until-out-of-sight 보강: 학술, SNS 파편, lingering-goodbye 와 관계",
-      "priority": 50,
-      "note": "2026-10-25 후보: Dickens David Copperfield 57장 gutenberg 766 이민선 배웅, 김유정 「산골」 위키문헌 '아주 보이지 않을 때까지'. omiokuri 이름을 쓴 출처 찾으면 별칭",
-      "createdAt": "2026-10-25T00:26:07.934Z",
-      "seq": 1675
-    },
-    {
-      "id": "4554eb59",
-      "title": "hesitating-to-take-parental-leave 보강: 상위 간선, 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-25 CSM 1984-12-31 63%, HN 27607652 (2021-06-23) 평판 더함. 후보: clien.net/service/board/cm_baby/18928776 댓글 2025-03-10 '승진 이후 바로 썼구요'(평가 불이익 의식), csmonitor.com/1981/0727/072712.html 상사가 재고를 요구, csmonitor.com/1994/0802/02182.html 사설 아버지가 한두 주로 줄여 씀. unused-annual-leave 와 공통 상위 후보, 아직 문서 없음",
-      "createdAt": "2026-10-25T03:19:41.838Z",
-      "seq": 1683
-    },
-    {
-      "id": "13ebf324",
-      "title": "not-reporting-workplace-injury 보강: 한국 공공 파편, 상위 간선",
-      "priority": 50,
-      "note": "2026-10-25 Br J Ind Med 1969-01 어선원, 디시 2026-08-13 퇴근길 사고 무급 더함. 후보: korea.kr pressReleaseView newsId=155350181 (2009-05-20 권익위) 근로자 이유 팀반장과 사업주의 거부 35.7%(노동자 본인의 꺼림이 아니라 거부), moel.go.kr enewsView news_seq=10569 (2019-12-10) 24.5% 산재 신청 방해·복귀 불이익(기사 문장 전재). 디시 callcenter 131561 '산재처리?(회사 눈치보임)'. not-reporting-for-fear-of-reprisal 와 관계 후보",
-      "createdAt": "2026-10-25T03:36:08.789Z",
-      "seq": 1684
-    },
-    {
-      "id": "1ff01037",
-      "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-10-24 HN 9489263 (2015-05-04) 더함. 후보: speakeremeritapelosi.house.gov/newsroom/gop-rails-against-gop-idea 2014-02-05 CBO job-lock 정의. 한국어 자료 미발견(지역가입자 보험료 안내뿐)",
-      "createdAt": "2026-10-25T03:36:34.463Z",
-      "seq": 1685
-    },
-    {
-      "id": "428682da",
-      "title": "desire-for-revenge 보강: 한국어 파편, 학술 인과 간선",
-      "priority": 50,
-      "note": "2026-10-25 문학 1600·1846, 매체 APS 2011·VCU 2021, SNS Straight Dope 2012·mindline 2024, 학술 Goldner 2019 로 만듦. 후보: Zhao·Zheng 2024 frontiersin 10.3389/fpsyg.2023.1255880 또래 피해와 복수, kormedi.com/1188411 (2009) 복수심 강한 사람 실직, kormedi.com/1221497 (2017) 복수심이 정의감으로 합리화, psmag.com/?p=44553 (2009) Carlsmith 소개. Wuthering Heights 7장, Monte Cristo 15장 문학 후보. 관계 절이 모두 비어 있음",
-      "createdAt": "2026-10-25T06:12:07.200Z",
-      "seq": 1689
-    },
-    {
-      "id": "789c5200",
-      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22~2026-10-25 여러 차례 / 가 TLS 실패(curl 60, SELF_SIGNED_CERT_IN_CHAIN), 2026-10-25 15시대 재확인도 같음. 호스트가 복구되면 글이 그대로 있는지 확인. 소멸 표시는 지침상 되돌리지 않음",
-      "createdAt": "2026-10-25T15:06:39.964Z",
-      "seq": 2068
-    },
-    {
-      "id": "5114a30d",
-      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 부터 2026-10-24 03:38Z 까지 여러 차례, 2026-10-25 15시대에도 호스트 / 가 TLS 실패(프록시 CA 를 줘도 실패). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
-      "createdAt": "2026-10-25T15:06:48.459Z",
-      "seq": 2069
-    },
-    {
-      "id": "15b2d3e8",
-      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
-      "priority": 50,
-      "note": "2026-10-21 부터 2026-10-24 03:39Z 까지 여러 차례, 2026-10-25 15시대에도 호스트 / 가 TLS 실패(SELF_SIGNED_CERT_IN_CHAIN, 프록시 CA 를 줘도 실패). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
-      "createdAt": "2026-10-25T15:06:48.709Z",
-      "seq": 2070
-    },
-    {
-      "id": "28f1408e",
-      "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
-      "priority": 50,
-      "note": "2026-10-23 경향 2007, 디시 2026 더함. 남은 후보: brunch.co.kr/@bidancheon/166 (2026-05-15) 휴대폰 시간 확인 뒤 계산(저자명 미확인). washingtonpost 1990, 1998 403. Time 1990-12-17 시계 대목 없음. Virginian-Pilot 1996-07-26 scholar.lib.vt.edu 는 410, web.archive.org 보관본은 연결 끊김",
-      "createdAt": "2026-10-25T15:06:55.794Z",
-      "seq": 2071
-    },
-    {
-      "id": "38c0805a",
-      "title": "breaking-up 보강: snooping-on-partners-phone 관계, 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-10-25 Hill 1976, Natsal-3 2017, 네이트판 340824530 2018 로 만듦. 후보: marieclaire.co.uk/life/snooping-670110 (2019-11-02) 'In cases where the relationship ended, it was either because the phone owner felt their trust was betrayed, or the relationship was also experiencing difficulties,'(엿보기 뒤 이별, 인과는 약함). livescience 28814 (2013-04-17) 고교 커플은 갈등 다루는 방식이 지속을 예측 못함(조건). 네이트판 202712787 (2010-09-22) 되풀이되는 싸움에 지쳐 헤어짐. holding-back-tears-at-breakup 과 관계 후보",
-      "createdAt": "2026-10-25T15:12:23.704Z",
-      "seq": 2072
-    },
-    {
-      "id": "d4354328",
-      "title": "emotional-labor 보강: 문학 파편, heavy-drinking 결과 간선 근거, 퇴사 결과",
-      "priority": 50,
-      "note": "2026-10-25 네이트판 353662108 (2020-08-22) 상담사 사과만 하는 역할 더함. 같은 글 '마음 속 응어리가 너무 커져 일상생활이 어렵고'(같은 URL). 후보: pann.nate.com/talk/346250344 (2019-04-25) '참고 참고 일하다가 ... 결국 곧 상담직을 떠납니다'(퇴사 결과), 같은 글 댓글 '울고 술한잔 털어놓으면'(인과 약함). pann 342131791 (2018-05-23) 욕설 고객에게 공감 표현이 안 나감. pann 323934909 (2014-08-19) 판매직 '그래도 직원은 웃어야해요'. 음주 원인 1인칭 글, 영어 SNS, 문학 본문 미발견",
-      "createdAt": "2026-10-25T15:17:14.805Z",
-      "seq": 2073
-    },
-    {
-      "id": "269053a6",
-      "title": "keeping-a-diary 보강: 연령·성별 조건, unsent-letters 관계",
-      "priority": 50,
-      "note": "2026-10-25 Zammuner 2001, Duncan 2008 더함. 같은 Zammuner 초록 'Sex, age, and school type induced several significant differences in Ss' answers.'(같은 URL). 후보: PMC8440253 (2021-09-07) 1차 대전 뒤 일기 형식 자전 문학이 퍼져 청소년이 일기에 끌림, 부모·교사의 압력으로 씀(인과). news.ycombinator.com/item?id=25251560 (2020-11-30). literacytrust 2022 PDF 여 41.5% 남 16.5%. PMID 19320211 Yukawa 2008 웹 일기와 반추",
-      "createdAt": "2026-10-25T15:21:51.551Z",
-      "seq": 2074
-    },
-    {
-      "id": "71ae3bd1",
-      "title": "enduring-workplace-harassment 보강: 2000년 이전 파편, 퇴사 결과",
-      "priority": 50,
-      "note": "2026-10-25 Gaffney 2012 PMC3337490, 클리앙 park/15275324 (2020-08-15) 더함. 후보: biz.sbs.co.kr/amp/article/20000265203 (2025-10-15) 무대응 31.3%, '사직을 통해 회사를 떠나는 피해자도 20% 가까이 됐습니다'. Pennington 2000 J Dent Hyg PMID 11314480 신고 효과 70% 실제 1% 미만(PubMed 페이지 쿠키 벽, eutils efetch 로 시도할 것). clien park/16818018 (2021-12-27) 지적 듣다 퇴사(자살 충동 언급). Fitzgerald 1995 Wiley 봇 확인",
-      "createdAt": "2026-10-25T15:27:00.870Z",
-      "seq": 2075
-    },
-    {
-      "id": "1a44c34e",
-      "title": "gossip 보강: overhearing-talk-about-oneself 관계, 뒤의 후회",
-      "priority": 50,
-      "note": "2026-10-25 세계일보 2019-11-21 던바 3분의 2, 당근 2026-08-11 동료 뒷담화 더함. 같은 당근 글 '별짓을 하다가.. 후회 스러운 일을 저질렀네요'(같은 URL). 후보: insight.co.kr/news/531540 (2025-12-01) 팀장 뒷담화를 칸막이 너머에서 들은 수습 직원(overhearing 관계 근거 후보). brunch.co.kr/@ohmichin/57 (2026-07-31) 친구 뒷담화 뒤 죄책감에 겉으로 잘해 줌. workingus.com 뒷담화하는 사람들 (2023-10-22) 친구가 자리를 뜨면 곧바로 흉봄. 세계일보 같은 글 직장인 890명 말실수 27.6% 뒷담화(같은 URL)",
-      "createdAt": "2026-10-25T15:30:22.077Z",
-      "seq": 2076
-    },
-    {
-      "id": "1e700f9a",
-      "title": "not-reading-books 보강: 학술·문학 파편, 2000년 이전, smartphone-checking-habit 관계",
-      "priority": 50,
-      "note": "2026-10-25 ljworld AP-Ipsos 2007-08-22, 문체부 2007년 독서실태조사 2008-02-22 더함. 같은 ljworld 기사 NEA Reading at Risk 2002년 57%(같은 URL). 후보: mcst pressView pSeq=10050 (2009-07-03) '1년에 1권의 책을 읽지 않은 사람은 계속 많아지고 있음', pSeq=10452 (2010-01-28) 10명중 3명. loc.gov/loc/lcib/0806/reading.html (2008-06) 18-24세 절반 즐거움으로 책 안 읽음(연령 조건). news.ycombinator.com/item?id=9349113 (2015). NEA 원보고서 HTML, 1990년대 갤럽 기사 미발견",
-      "createdAt": "2026-10-25T15:32:44.281Z",
-      "seq": 2077
-    },
-    {
-      "id": "2e895e2b",
-      "title": "pet-loss-grief 보강: bereavement-regret 관계(자책), keeping-belongings-of-the-dead 관계",
-      "priority": 50,
-      "note": "2026-10-25 농식품부 2026-10-08 펫로스 심리지원 프로그램(KDI eiec 287919) 더함. 후보: samhsa.gov/resource/dbhis/coping-losing-pet (Last Updated 2025-02-21) 연령대별 애도. news.ycombinator.com/item?id=5699451 (2013-05-13) 개를 보낸 뒤 유골과 털을 간직. dem.ri.gov 죄책감 서술은 PDF",
-      "createdAt": "2026-10-25T15:34:52.970Z",
-      "seq": 2078
-    },
-    {
-      "id": "8cd68f9a",
-      "title": "preference-for-solitude 보강: SNS·문학 파편, solo-leisure 관계",
-      "priority": 50,
-      "note": "2026-10-25 Walden 1854 (gutenberg 205) 더함. 같은 책 'I never found the companion that was so companionable as solitude.'(같은 URL). 남은 후보: PMC11311947 (Burger 척도 12문항), PMC10358355 우울 증상과 함께 나타남(같은 URL). 일본 내각부 남녀공동참획백서 r04 b1_s00_02.html 20대 남성 교제 경험 없음 4할",
-      "createdAt": "2026-10-25T15:35:40.610Z",
-      "seq": 2079
-    },
-    {
-      "id": "7b51731e",
-      "title": "skipping-holiday-homecoming 과 laughing-off-holiday-nagging 관계",
-      "priority": 50,
-      "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함(같은 URL, '이골이 났기 때문이다' 인과). 결과/원인 간선 후보는 명절 잔소리 듣기(잔소리 자체) 문서가 생기면. laughing-off 와 직접 간선은 근거 없음(2026-10-24 확인). 아시아경제 2018092500170503009 알바몬 조사 46.7% 친지 모임 불참(미확인). 2026-10-25 남은 시간 부족으로 되돌림",
-      "createdAt": "2026-10-25T15:35:55.196Z",
-      "seq": 2080
-    },
-    {
-      "id": "8078610e",
-      "title": "solo-leisure 보강: 학술·문학 파편, 연령 조건, preference-for-solitude 관계",
-      "priority": 50,
-      "note": "2026-10-24 HN 7648856 (2014-04-25) 더함. 문체부 2017-01-12 같은 글 20대 이하 70% 이상 혼자 여가(연령 조건, 서술 미반영). 2026-10-25 curl 기본 UA 로는 mcst pSeq=15834 가 빈 응답(source-check 는 통과하던 출처). 후보: news.ycombinator.com/item?id=36404085 (2023-06-20) 혼자 영화관·식당. preference-for-solitude 에 Walden 1854 있음",
-      "createdAt": "2026-10-25T15:36:15.449Z",
-      "seq": 2081
-    },
-    {
-      "id": "cbe41b1e",
-      "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
-      "priority": 50,
-      "note": "2026-10-24 재확인: 대립 근거 파편 없음. 클리앙 park/19148358 (2026-02-22) 같은 글 '아버지의 보증으로 집안의 경제가 무너지면서 겪었던 가난은 제게 돈을 쓰는 것은 피해야 할 일이라는 인식을 남겼습니다'(인과, 어린 시절 가난 문서가 생기면 간선). 2026-10-25 공공 후보 Fed SHED 2024 물가 대응 지출 축소, ECB 2026-02-19 불확실 가계 예비적 저축은 바라는 것보다 덜 쓰는 성향이 아니라 상황 대응이라 뺌. 예비적 저축은 별도 현상 후보",
-      "createdAt": "2026-10-25T15:39:39.244Z",
-      "seq": 2082
-    },
-    {
-      "id": "6cf79049",
-      "title": "keeping-cash-at-home 보강: 한국 공공 파편, 위기 조건",
-      "priority": 50,
-      "note": "2026-10-25 신규. 한국은행 경제주체별 현금사용행태 조사 HTML 원문 미발견(2018 가구 23.3% 예비용 현금, 2025 1인당 54만1000원은 언론 보도로만). Bundesbank 2024-03 publikationen.bundesbank.de/content/928358 위기 때 지폐 수요(probably, 추측), RBA 2000-01 Y2K bulletin/2000/jan/1.html, 1819news 2022-05-07 대공황 세대 은행 불신. panic-buying 과 관계 근거 파편 없음",
-      "createdAt": "2026-10-25T18:11:31.451Z",
-      "seq": 2091
-    },
-    {
-      "id": "df15f6ac",
-      "title": "singing-to-keep-up-courage 보강: 학술·SNS 파편, fear-of-the-dark 관계",
-      "priority": 50,
-      "note": "2026-10-25 신규, 문학 4·매체 1. 다른 문학 후보: poets.org/poem/halloween Burns 1786 'whistled up Lord Lennox march To keep his courage cheery', gutenberg 1661 Doyle 1892 'humming a tune under my breath to keep up my spirits'. HN 1인칭 댓글, HTML 학술 연구는 못 찾음",
-      "createdAt": "2026-10-25T18:17:44.566Z",
-      "seq": 2092
-    },
-    {
-      "id": "4bb314a1",
-      "title": "putting-off-backups 보강: 학술 파편, 이유",
-      "priority": 50,
-      "note": "2026-10-25 신규. 후보: itweb.africa 2014-01-31 'South Africans too lazy to back up data' 바쁨 40% 귀찮음 15%. Deccan Herald 2023 Western Digital 인도 조사는 본문이 JSON 에만 있음. 학술 HTML 미탐색",
-      "createdAt": "2026-10-25T18:22:41.187Z",
-      "seq": 2093
-    },
     {
       "id": "24fe8ab8",
       "title": "overbuying-groceries 보강: 미확인 학술 파편 재확인, discarding-food-by-date-label 원인 간선",
@@ -475,6 +275,158 @@
       "note": "2026-10-26 Substack 댓글 2023-12-24 더함. 후보: karapaia.com/archives/52248367.html 댓글 '本当に見えなくなるまでずーーーっと見送ってくれてた'(댓글 날짜 미확인), Masaki·Asai 2013 Med Humanit omiokuri 는 사망 퇴원 배웅(mh.bmj.com Cloudflare, eutils 만 열림), ryokan.or.jp checking_out 미검증",
       "createdAt": "2026-10-26T06:36:46.852Z",
       "seq": 2160
+    },
+    {
+      "id": "3f13e027",
+      "title": "alarm-fatigue 보강: 2010년 이전 파편, 의료 밖 사례",
+      "priority": 50,
+      "note": "2026-10-26 2013~2025 의료 출처로 만듦. Graham·Cvach 2010 aacnjournals 403, Joint Commission SEA 50 403, NBK555522 reCAPTCHA. 가정용 보안경보, 차량 경보 사례 후보",
+      "createdAt": "2026-10-26T09:18:36.365Z",
+      "seq": 2186
+    },
+    {
+      "id": "6b16a3f5",
+      "title": "not-reporting-workplace-injury 보강: 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-10-26 확인: korea.kr 155350181 근로자 응답은 팀반장·사업주 거부 35.7%, 보상금 적음 12.5% 로 노동자 본인의 걱정을 말하지 않음. moel news_seq=10569 도 방해·불이익 사례 수. not-reporting-for-fear-of-reprisal 는 범죄 피해자 한정이라 상위 아님. 산재 미신청 사유 '불이익 우려' 를 묻는 안전보건공단·노동연구원 조사 HTML 찾기",
+      "createdAt": "2026-10-26T09:26:54.064Z",
+      "seq": 2188
+    },
+    {
+      "id": "d5d3cfeb",
+      "title": "staying-in-job-for-health-insurance 보강: 한국 파편, 문학 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-10-26 Pelosi 2014-02-05 CBO job-lock 더함. 한국어 자료와 문학 파편 아직 없음",
+      "createdAt": "2026-10-26T09:27:43.015Z",
+      "seq": 2189
+    },
+    {
+      "id": "cd825f8b",
+      "title": "desire-for-revenge 보강: 학술 인과 간선",
+      "priority": 50,
+      "note": "2026-10-26 kormedi 1221497 (2017) 더함. 후보: Zhao·Zheng frontiersin 10.3389/fpsyg.2023.1255880 또래 피해와 복수, kormedi.com/1188411 (2009) 복수심 강한 사람 실직, psmag.com/?p=44553 (2009). 관계 절이 모두 비어 있음",
+      "createdAt": "2026-10-26T09:28:46.959Z",
+      "seq": 2190
+    },
+    {
+      "id": "a1c76a21",
+      "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
+      "priority": 50,
+      "note": "2026-10-26 nytimes·apnews·upi 아카이브 403, csmonitor 1985/1009/mrb518 와 1990/0611/mrc336 시계 대목 없음, PubMed 1970~1999 clock AND insomnia 는 생체시계뿐. latimes.com/archives la-xpm-199* insomnia 기사는 열림, URL 목록을 Wayback CDX 로 얻기. 그 밖 brunch.co.kr/@bidancheon/166 (2026-05-15)",
+      "createdAt": "2026-10-26T09:31:42.210Z",
+      "seq": 2194
+    },
+    {
+      "id": "df2b6a04",
+      "title": "breaking-up 보강: 다른 시기 파편, holding-back-tears-at-breakup 관계",
+      "priority": 50,
+      "note": "2026-10-26 marieclaire 2019 더하고 snooping-on-partners-phone 원인 간선. 후보: livescience 28814 (2013-04-17) 고교 커플, 네이트판 202712787 (2010-09-22) 되풀이되는 싸움에 지쳐 헤어짐",
+      "createdAt": "2026-10-26T09:32:52.232Z",
+      "seq": 2195
+    },
+    {
+      "id": "882064e2",
+      "title": "emotional-labor 보강: heavy-drinking 결과 간선 근거",
+      "priority": 50,
+      "note": "2026-10-26 퇴사 SNS 파편 더함. 후보: pann 342131791 (2018-05-23) 욕설 고객에게 공감 표현이 안 나감, pann 323934909 (2014-08-19) 판매직. 음주 원인 1인칭 글 미발견",
+      "createdAt": "2026-10-26T09:33:39.144Z",
+      "seq": 2197
+    },
+    {
+      "id": "b1072442",
+      "title": "keeping-a-diary 보강: 연령·성별 조건, unsent-letters 관계",
+      "priority": 50,
+      "note": "2026-10-26 Seemann 2021 PMC8440253 더함. 후보: news.ycombinator.com/item?id=25251560 (2020-11-30), PMID 19320211 Yukawa 2008 웹 일기와 반추, literacytrust 2022 는 PDF",
+      "createdAt": "2026-10-26T09:34:35.879Z",
+      "seq": 2198
+    },
+    {
+      "id": "67ae84ef",
+      "title": "enduring-workplace-harassment 보강: 2000년 이전 파편, 퇴사 결과",
+      "priority": 50,
+      "note": "2026-10-26 SBS Biz 2025-10-15 무대응 31.3% 더함. 같은 기사 '사직을 통해 회사를 떠나는 피해자도 20% 가까이' 는 직장 그만두기 문서가 생기면 결과 간선 근거(같은 URL). Pennington 2000 PMID 11314480 eutils efetch, Fitzgerald 1995 Wiley 봇 확인",
+      "createdAt": "2026-10-26T09:35:17.135Z",
+      "seq": 2199
+    },
+    {
+      "id": "8dec9a62",
+      "title": "gossip 보강: overhearing-talk-about-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-26 brunch @ohmichin/57 (2026-07-31) 죄책감 더함. 후보: insight.co.kr/news/531540 (2025-12-01) 팀장 뒷담화를 칸막이 너머에서 들은 수습 직원, workingus.com 뒷담화하는 사람들 (2023-10-22)",
+      "createdAt": "2026-10-26T09:36:03.890Z",
+      "seq": 2200
+    },
+    {
+      "id": "2b7867ca",
+      "title": "not-reading-books 보강: 학술·문학 파편, 2000년 이전, smartphone-checking-habit 관계",
+      "priority": 50,
+      "note": "2026-10-26 loc.gov lcib 0806 (2008-06) 18\\~24세 절반 더함. 후보: mcst pressView pSeq=10050 (2009-07-03), news.ycombinator.com/item?id=9349113 (2015). NEA 원보고서 HTML, 1990년대 갤럽 기사 미발견",
+      "createdAt": "2026-10-26T09:36:42.715Z",
+      "seq": 2201
+    },
+    {
+      "id": "f0f37ce1",
+      "title": "pet-loss-grief 보강: bereavement-regret 관계(자책)",
+      "priority": 50,
+      "note": "2026-10-26 HN 5699451 (2013-05-13) 유골과 털 간직 더함. keeping-belongings-of-the-dead 는 사람을 잃은 경우라 상위·관계 아님. 후보: samhsa.gov/resource/dbhis/coping-losing-pet (2025-02-21) 연령대별 애도",
+      "createdAt": "2026-10-26T09:37:24.011Z",
+      "seq": 2202
+    },
+    {
+      "id": "f6e7de03",
+      "title": "preference-for-solitude 보강: 문학 파편, solo-leisure 관계",
+      "priority": 50,
+      "note": "2026-10-26 HN 8952036 (2015-01-27) 더함. 후보: HN 48429608 (2026-06-06) 혼자 있기를 좋아하지만 오래 혼자면 기분이 나빠짐(조건), PMC11311947 Burger 척도",
+      "createdAt": "2026-10-26T09:38:04.492Z",
+      "seq": 2203
+    },
+    {
+      "id": "1a0663d4",
+      "title": "skipping-holiday-homecoming 과 laughing-off-holiday-nagging 관계",
+      "priority": 50,
+      "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함(같은 URL, '이골이 났기 때문이다' 인과). 결과/원인 간선 후보는 명절 잔소리 듣기 문서가 생기면. laughing-off 와 직접 간선은 근거 없음. 2026-10-26 HN 에서 명절 귀성 포기 1인칭 댓글 못 찾음, 한국어 SNS 파편 필요",
+      "createdAt": "2026-10-26T09:38:29.215Z",
+      "seq": 2204
+    },
+    {
+      "id": "80a77616",
+      "title": "solo-leisure 보강: 학술·문학 파편, 연령 조건, preference-for-solitude 관계",
+      "priority": 50,
+      "note": "2026-10-26 HN 36404085 (2023-06-20) 더함. 문체부 2017-01-12 같은 글 20대 이하 70% 이상 혼자 여가(연령 조건, 같은 URL). preference-for-solitude 와 원인 간선은 '혼자가 좋아서 혼자 논다' 인과 파편 필요. 한국경제 2026-09-08 '혼자 다니는 게 편하다' 가 후보",
+      "createdAt": "2026-10-26T09:39:32.102Z",
+      "seq": 2205
+    },
+    {
+      "id": "7850af57",
+      "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
+      "priority": 50,
+      "note": "2026-10-24 재확인: 대립 근거 파편 없음. 클리앙 park/19148358 (2026-02-22) 같은 글 '아버지의 보증으로 집안의 경제가 무너지면서 겪었던 가난은 제게 돈을 쓰는 것은 피해야 할 일이라는 인식을 남겼습니다'(인과, 어린 시절 가난 문서가 생기면 간선). 2026-10-25 공공 후보 Fed SHED 2024 물가 대응 지출 축소, ECB 2026-02-19 불확실 가계 예비적 저축은 바라는 것보다 덜 쓰는 성향이 아니라 상황 대응이라 뺌. 예비적 저축은 별도 현상 후보",
+      "createdAt": "2026-10-26T09:39:43.692Z",
+      "seq": 2206
+    },
+    {
+      "id": "63e1ff7d",
+      "title": "keeping-cash-at-home 보강: 한국 공공 파편, 위기 조건",
+      "priority": 50,
+      "note": "2026-10-26 RBA 2000-01 Y2K bulletin 확인: 은행의 Y2K 추가 지폐 수요 25억 달러는 고객 인출과 은행 금고 예비분을 함께 셈해 가계 보관 근거로 약함. 한국은행 현금사용행태 조사 HTML 원문 미발견. Bundesbank 2024-03 publikationen.bundesbank.de/content/928358, 1819news 2022-05-07 대공황 세대 은행 불신. panic-buying 관계 근거 파편 없음",
+      "createdAt": "2026-10-26T09:40:08.687Z",
+      "seq": 2207
+    },
+    {
+      "id": "b818b4db",
+      "title": "singing-to-keep-up-courage 보강: 학술·SNS 파편, fear-of-the-dark 관계",
+      "priority": 50,
+      "note": "2026-10-25 신규, 문학 4·매체 1. 다른 문학 후보: poets.org/poem/halloween Burns 1786 'whistled up Lord Lennox march To keep his courage cheery', gutenberg 1661 Doyle 1892 'humming a tune under my breath to keep up my spirits'. HN 1인칭 댓글, HTML 학술 연구는 못 찾음",
+      "createdAt": "2026-10-26T09:40:25.109Z",
+      "seq": 2208
+    },
+    {
+      "id": "b7bb1fe7",
+      "title": "putting-off-backups 보강: 학술 파편, 이유",
+      "priority": 50,
+      "note": "2026-10-25 신규. 후보: itweb.africa 2014-01-31 'South Africans too lazy to back up data' 바쁨 40% 귀찮음 15%. Deccan Herald 2023 Western Digital 인도 조사는 본문이 JSON 에만 있음. 학술 HTML 미탐색",
+      "createdAt": "2026-10-26T09:40:40.683Z",
+      "seq": 2209
     },
     {
       "id": "d16898d2",
@@ -875,6 +827,30 @@
       "note": "2026-10-23·10-24 두 회차 탐색에서 기온과 기상 지연을 잇는 학술·공공 자료 미발견. KAKEN 12680107 (2000-2001 일본 겨울 침실 온도 조사 600명) 초록만 확인, 기상 지연 언급 없음. RAND 2014 commentary 403",
       "createdAt": "2026-10-24T09:09:30.162Z",
       "seq": 1502
+    },
+    {
+      "id": "05bfbe1c",
+      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
+      "priority": 20,
+      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22~2026-10-26 09:30Z 까지 / 가 TLS 실패(SELF_SIGNED_CERT_IN_CHAIN). 호스트가 복구되면 글이 그대로 있는지 확인",
+      "createdAt": "2026-10-26T09:29:13.574Z",
+      "seq": 2191
+    },
+    {
+      "id": "bbba09d8",
+      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
+      "priority": 20,
+      "note": "2026-10-21 부터 2026-10-26 09:30Z 까지 호스트 / 가 TLS 실패. 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
+      "createdAt": "2026-10-26T09:29:21.160Z",
+      "seq": 2192
+    },
+    {
+      "id": "0bb0feb7",
+      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
+      "priority": 20,
+      "note": "2026-10-21 부터 2026-10-26 09:30Z 까지 호스트 / 가 TLS 실패(SELF_SIGNED_CERT_IN_CHAIN). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
+      "createdAt": "2026-10-26T09:29:21.590Z",
+      "seq": 2193
     },
     {
       "id": "284365c8",
@@ -2035,6 +2011,22 @@
       "note": "2026-10-26 brunch.co.kr/@hongkim1013/15 (2026-05-28) '체면은 살리고 싶은 욕심'. 문서가 생기면 fighting-over-the-bill 의 원인 후보",
       "createdAt": "2026-10-26T03:11:39.700Z",
       "seq": 2153
+    },
+    {
+      "id": "cf6e6e38",
+      "title": "hesitating-to-take-parental-leave 와 unused-annual-leave 의 공통 상위 현상",
+      "priority": 10,
+      "note": "2026-10-26 휴가·휴직 제도가 있어도 동료 부담과 평가를 의식해 쓰지 않는 현상. 후보: csmonitor 1981/0727/072712 상사가 재고 요구, csmonitor 1994/0802/02182 아버지가 한두 주로 줄여 씀",
+      "createdAt": "2026-10-26T09:26:19.178Z",
+      "seq": 2187
+    },
+    {
+      "id": "b64aabaf",
+      "title": "직장 그만두기",
+      "priority": 10,
+      "note": "2026-10-26 emotional-labor [^5] 네이트판 346250344 (2019-04-25) 참다가 상담직을 떠남. emotional-labor 의 결과 후보, guilt-about-resigning 의 상위 후보",
+      "createdAt": "2026-10-26T09:33:38.986Z",
+      "seq": 2196
     },
     {
       "id": "02b2f242",
