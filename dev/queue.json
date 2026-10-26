@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T12:36:28.575Z",
-  "nextSeq": 2218,
-  "stops": 113,
+  "savedAt": "2026-10-26T15:37:29.174Z",
+  "nextSeq": 2230,
+  "stops": 114,
   "items": [
-    {
-      "id": "24fe8ab8",
-      "title": "overbuying-groceries 보강: 미확인 학술 파편 재확인, discarding-food-by-date-label 원인 간선",
-      "priority": 50,
-      "note": "2026-10-25 신규. PMC6836184 (2019-09-20) 이 이 환경에서 403 이라 미확인. 대안 학술 PMC9657712 (2022-10-31) 'Due to specials, promotions and bigger pack sizes consumers feel forced to buy beyond actual demand'. 매일신문 2011 과 서울시 2012 파편이 많이 사서 유통기한을 넘겨 버린다고 말하므로 discarding-food-by-date-label 과 원인 간선 후보",
-      "createdAt": "2026-10-25T18:28:52.290Z",
-      "seq": 2094
-    },
-    {
-      "id": "fd59320b",
-      "title": "talking-to-animals 보강: 학술·공공 파편, talking-to-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-25 신규, 문학 4·매체 1·SNS 1. caymancompass.com 2013 Churchill 조사 기사는 403, busrep.co.za 는 525",
-      "createdAt": "2026-10-25T18:32:08.765Z",
-      "seq": 2095
-    },
-    {
-      "id": "aeb6747e",
-      "title": "leaving-lights-on 보강: 2008년 이전 파편, 한국 공공 파편",
-      "priority": 50,
-      "note": "2026-10-25 신규. 파편 시기 2014~2019 뿐. Energy Saving Trust 2006 'The Rise of the Machines' 미확인. HN 30646492 (2022-03-11) 어른도 하루 몇 번 불 끄기를 잊음(같은 계정인지 미확인). Smart Energy GB 같은 페이지 'Scots ... 32 per cent blaming their bad memories'",
-      "createdAt": "2026-10-25T18:34:46.436Z",
-      "seq": 2096
-    },
-    {
-      "id": "7c76e80e",
-      "title": "leaving-tv-on-for-company 보강: 공공·학술 파편, loneliness 관계",
-      "priority": 50,
-      "note": "2026-10-25 신규, SNS 1·매체 2. mentalhealth.org.uk tv-and-later-life 같은 글 'Watching television is seen as a way to feel less alone' (loneliness 원인 간선 후보, 2차 인용). brunch.co.kr/@orangesunset/23 (2026-06-22) 1인 가구가 적막을 깨려 음악을 튼다",
-      "createdAt": "2026-10-25T18:37:04.699Z",
-      "seq": 2097
-    },
-    {
-      "id": "25d20df4",
-      "title": "vegetable-gardening 보강: 문학 파편, 한국어 게시글",
-      "priority": 50,
-      "note": "2026-10-25 Warner 1870 에세이(매체) 더함. 문학 후보: Burnett The Secret Garden 1911 gutenberg 113, 2589행 'parsley an' radishes ... right down happy'(도시 아님). mediahub 150935, 168354 미확인",
-      "createdAt": "2026-10-25T21:06:47.686Z",
-      "seq": 2121
-    },
-    {
-      "id": "f7165fd7",
-      "title": "boredom 보강: 한국어 SNS 파편, loneliness·avoiding-being-alone-with-thoughts 관계",
-      "priority": 50,
-      "note": "2026-10-25 레이디경향 2025-03-19 아이들 지루함 더함. 같은 초록 27775405 'particularly predictive of loneliness, anger, sadness, and worry'(상관, 인과 아님)",
-      "createdAt": "2026-10-25T21:07:46.489Z",
-      "seq": 2122
-    },
-    {
-      "id": "c76e128c",
-      "title": "retirement-emptiness 보강: wanting-to-keep-working-in-old-age 원인 간선",
-      "priority": 50,
-      "note": "2026-10-25 White 1910 Mr. Whittaker's Retirement 더함(다시 일하는 이유는 손실, 허전함 아님). 시대 sidae.com 2025-09-10 실명 인물 중심. Savant Wealth 조사 Cloudflare 403",
-      "createdAt": "2026-10-25T21:10:32.543Z",
-      "seq": 2123
-    },
-    {
-      "id": "f6e6d895",
-      "title": "embarrassed-by-parents 보강: avoiding-inviting-people-home 관계",
-      "priority": 50,
-      "note": "2026-10-25 후보 nacoa.org.uk/experiences/i-just-read-the-letter-two-mothers-and-couldnt-believe-my-eyes/ (2020-11-25) 'As children we never invited anyone home, the embarrassment would have been too much to bear.' 앞 대목이 어머니 음주라 파편만으로는 부모가 안 보임. mumsnet 4008543 은 Cloudflare. 이전: HN, PMC7369039, PMC6286232 무소득",
-      "createdAt": "2026-10-25T21:11:40.940Z",
-      "seq": 2124
-    },
     {
       "id": "a0d7bdda",
       "title": "littering 보강: 문학 파편",
@@ -451,6 +387,54 @@
       "note": "2026-10-26 신규, 문학 1·학술 2·매체 1. 후보: Brontë Remembrance 1846 gutenberg 1019 'Cold in the earth'. 서울신문 2023-05-16 20230516009010 유가족이 영정 속 희생자에게 메시지(참사 기사, 실명 대목 주의)",
       "createdAt": "2026-10-26T12:36:18.543Z",
       "seq": 2217
+    },
+    {
+      "id": "b4ab6dcf",
+      "title": "talking-to-animals 보강: 공공 파편, talking-to-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-26 학술 Scheibeck 2011, Bowen 2021 더함. 공공 후보 news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 는 대화증가가 동물을 향한 말인지 불분명. ucdavis.edu/news/puppy-talk (1991-04-26) Hart 'having someone to talk to'. 혼잣말을 잇는 대목 못 찾음",
+      "createdAt": "2026-10-26T15:14:23.212Z",
+      "seq": 2224
+    },
+    {
+      "id": "8e8419af",
+      "title": "leaving-lights-on 보강: 2008년 이전 파편",
+      "priority": 50,
+      "note": "2026-10-26 정책브리핑 2012-08-09 더함. 2007-09-27 Energy Saving Trust 보도자료 사본 property4media.com 'Almost half (45%) of people say they now remember to do easy actions such as turning off lights' (간접). 경기일보 2000-12-09 어린이 생활문은 실명 아동 글이라 뺌. 구텐베르크 장면 못 찾음",
+      "createdAt": "2026-10-26T15:20:19.017Z",
+      "seq": 2225
+    },
+    {
+      "id": "adbeebe4",
+      "title": "leaving-tv-on-for-company 보강: loneliness 원인 간선",
+      "priority": 50,
+      "note": "2026-10-26 GOV.UK 2012, SciTePress 2025 더함. 원인 근거 후보 oar.baker.edu.au/1035ED (2025-06-19) 'higher levels of loneliness in women predicted longer TV viewing duration' (시청 시간, 켜 두기 아님). PMC9372884 Fingerman 'compensation for social isolation'",
+      "createdAt": "2026-10-26T15:29:05.541Z",
+      "seq": 2226
+    },
+    {
+      "id": "f5d97f3a",
+      "title": "vegetable-gardening 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-26 클리앙 2024-06-17 더함. Secret Garden 1911 'parsley an' radishes' 는 시골 저택이라 도시 텃밭 요약과 맞지 않음. 교외 원예 수필(Wright 1901 The Garden of a Commuter's Wife 등) 볼 것",
+      "createdAt": "2026-10-26T15:31:16.107Z",
+      "seq": 2227
+    },
+    {
+      "id": "d7e0e057",
+      "title": "boredom 보강: loneliness·avoiding-being-alone-with-thoughts 관계",
+      "priority": 50,
+      "note": "2026-10-26 클리앙 2023-12-04 더함. 관계 후보 clien park/18153933 댓글 (2023-06-26) '혼자여행도 3일쯤 넘어가기 시작하면 좀 외롭고 심심하더라고요' (인과 아님). Havermans 2015 Appetite 지루함과 스스로 주는 전기 충격",
+      "createdAt": "2026-10-26T15:33:37.282Z",
+      "seq": 2228
+    },
+    {
+      "id": "7cda31c1",
+      "title": "embarrassed-by-parents 보강: avoiding-inviting-people-home 관계",
+      "priority": 50,
+      "note": "2026-10-26 후보 cs.observer-reporter.com/columns/2013/sep/04/fearful-of-father-when-hes-drinking/ 'Embarrassment: Young people who are worried about a parent’s drinking may not bring home friends' 는 부모 행동이 원인이라 집이 초라해서라는 avoiding-inviting-people-home 요약과 다름. Globe and Mail 2010 article4327858 'avoid introducing them for fear that my parents will humiliate me'(embarrassed-by-parents 파편 후보)",
+      "createdAt": "2026-10-26T15:37:20.297Z",
+      "seq": 2229
     },
     {
       "id": "d16898d2",
