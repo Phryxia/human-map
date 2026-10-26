@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-없음.
+- 2026-10-26T03:05Z | 2026-10-26T03:28Z | phone-use-while-doing-other-things 추가 | phone-use-while-doing-other-things walking-while-using-phone phone-use-while-driving dev/groups.json
