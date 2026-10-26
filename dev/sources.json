@@ -1468,9 +1468,9 @@
   },
   "https://ko.wikisource.org/wiki/%EA%B2%BD%ED%9D%AC": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-26"
   },
   "https://ko.wikisource.org/wiki/%EC%8B%A4%EB%9D%BD%EC%9B%90%EC%9D%98_%EB%B3%84": {
     "first": "2026-10-18",
@@ -3603,9 +3603,9 @@
   },
   "https://brunch.co.kr/@l-p/379": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-26"
   },
   "https://www.newsis.com/view/NISX20260806_0003738299": {
     "first": "2026-10-19",
@@ -4263,9 +4263,9 @@
   },
   "https://teacher.tku.edu.tw/StfFdDtl.aspx?tid=342641": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-26"
   },
   "https://gonggam.korea.kr/newsContentView.es?mid=a10224000000&section_id=NCCD_SPECIAL&content=NC002&news_id=EBC6D40145A84203E0540021F662AC5F": {
     "first": "2026-10-19",
@@ -8618,21 +8618,21 @@
   },
   "https://www.etoday.co.kr/news/view/140572": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27796827&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://www.clien.net/service/board/park/19145981": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://www.gutenberg.org/cache/epub/844/pg844-images.html": {
     "first": "2026-10-23",
@@ -9302,9 +9302,9 @@
   },
   "https://www.mt.co.kr/society/2025/12/06/2025120516333894321": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19377045&rettype=abstract&retmode=text": {
     "first": "2026-10-24",
@@ -9650,9 +9650,9 @@
   },
   "https://lady.khan.co.kr/education/article/201506051025021": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://fortune.com/2026/02/07/millennial-jobseekers-hiring-younger-resumes-experience-age-discrimination/": {
     "first": "2026-10-24",
@@ -11359,6 +11359,12 @@
     "lastVerified": "2026-10-26"
   },
   "https://bravo.etoday.co.kr/view/atc_view/13057": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://www.khan.co.kr/article/202502232101015": {
     "first": "2026-10-26",
     "last": "2026-10-26",
     "result": "VERIFIED",
