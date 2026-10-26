@@ -1655,8 +1655,8 @@
   "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1177/2158244015613107?fields=title,abstract,year": {
     "first": "2026-10-18",
     "last": "2026-10-26",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-10-21"
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
   },
   "https://ideas.repec.org/a/oup/rfinst/v29y2016i4p863-897..html": {
     "first": "2026-10-18",
@@ -10729,6 +10729,12 @@
     "lastVerified": "2026-10-26"
   },
   "https://brunch.co.kr/@hongkim1013/15": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://www.elitedaily.com/dating/sex/men-think-fake-reach-date/1711072": {
     "first": "2026-10-26",
     "last": "2026-10-26",
     "result": "VERIFIED",
