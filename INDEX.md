@@ -136,6 +136,7 @@
 - [복지 급여 미신청](docs/not-claiming-benefits.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [부모가 창피함](docs/embarrassed-by-parents.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [부유한 척하기](docs/faking-wealth.md) ([돈과 소비](groups/money.md))
+- [부정 탈까 봐 말 아끼기](docs/tempting-fate.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [부정적 평가에 대한 두려움](docs/fear-of-negative-evaluation.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [부채감](docs/indebtedness.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [분리배출 하지 않기](docs/not-sorting-recyclables.md) ([시민 참여와 공공의 일](groups/civic-life.md))
