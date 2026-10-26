@@ -9170,9 +9170,9 @@
   },
   "https://www.segye.com/view/20231116516323": {
     "first": "2026-10-24",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://hrcopinion.co.kr/archives/11764": {
     "first": "2026-10-24",
@@ -9590,9 +9590,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10358355/": {
     "first": "2026-10-24",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://news.ycombinator.com/item?id=7648856": {
     "first": "2026-10-24",
@@ -10280,9 +10280,9 @@
   },
   "https://www.gutenberg.org/cache/epub/205/pg205-images.html": {
     "first": "2026-10-25",
-    "last": "2026-10-25",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-26"
   },
   "https://www.gutenberg.org/cache/epub/550/pg550.txt": {
     "first": "2026-10-25",
@@ -10987,6 +10987,12 @@
     "lastVerified": "2026-10-26"
   },
   "https://news.ycombinator.com/item?id=5699451": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://news.ycombinator.com/item?id=8952036": {
     "first": "2026-10-26",
     "last": "2026-10-26",
     "result": "VERIFIED",
