@@ -8708,9 +8708,9 @@
   },
   "https://globalnews.ca/news/2547915/serious-disconnect-with-millennials-and-inheritance-expectations-vancity-report/amp/": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32504873&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8720,9 +8720,9 @@
   },
   "https://www.newsweek.com/americans-are-counting-on-their-parents-death-to-fund-retirement-12405283": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://www.gutenberg.org/cache/epub/18269/pg18269.txt": {
     "first": "2026-10-23",
@@ -9326,9 +9326,9 @@
   },
   "https://api.crossref.org/works/10.1111/roiw.12621": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://www.csmonitor.com/2003/0702/p17s01-coop.html": {
     "first": "2026-10-24",
@@ -9674,9 +9674,9 @@
   },
   "https://www.newstomato.com/ReadNews.aspx?no=558094": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-26"
   },
   "https://news.ycombinator.com/item?id=6691294": {
     "first": "2026-10-24",
@@ -11383,6 +11383,18 @@
     "lastVerified": "2026-10-26"
   },
   "https://news.ycombinator.com/item?id=9557380": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://www.nber.org/papers/w12386": {
+    "first": "2026-10-26",
+    "last": "2026-10-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-26"
+  },
+  "https://news.ycombinator.com/item?id=11765457": {
     "first": "2026-10-26",
     "last": "2026-10-26",
     "result": "VERIFIED",
