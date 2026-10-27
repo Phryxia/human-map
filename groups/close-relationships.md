@@ -35,6 +35,7 @@
 - [연인과 헤어지기](../docs/breaking-up.md) 연애하거나 함께 사는 두 사람 가운데 한쪽 또는 양쪽이 관계를 끝내고 헤어진다.
 - [연인과의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.
+- [원한 품기](../docs/holding-a-grudge.md) 언짢은 일을 겪은 사람이 오랜 시간이 지나도 그 일과 상대에 대한 원망을 놓지 않고 품고 있다.
 - [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md) 연인과 헤어지는 사람이 슬픔을 드러내지 않으려고 눈물을 참고 아무렇지 않은 척한다.
 - [자기 침묵](../docs/self-silencing.md) 관계를 지키거나 갈등을 피하려는 사람이 자기 생각과 불만을 말하지 않고 누른다.
   - [거절하지 못하기](../docs/difficulty-saying-no.md)

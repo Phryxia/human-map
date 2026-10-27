@@ -254,6 +254,7 @@
 - [운전 실력 과신](docs/driving-overconfidence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [운전 중 휴대전화 사용](docs/phone-use-while-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [울리지 않은 휴대전화 진동 느끼기](docs/phantom-phone-vibration.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [원한 품기](docs/holding-a-grudge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
 - [유언장 작성 미루기](docs/delaying-will-writing.md) ([걱정과 기분](groups/worry-and-mood.md))
