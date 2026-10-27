@@ -38,6 +38,7 @@
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
 - [어둠 공포](../docs/fear-of-the-dark.md) 어두운 곳에 있는 사람이 보이지 않는 것을 무서워한다.
 - [잠자리에서 시계 보기](../docs/clock-watching-in-bed.md) 잠들지 못하고 누워 있는 사람이 시계를 자꾸 보며 몇 시인지와 남은 잠 시간을 확인한다.
+- [점과 운세 보기](../docs/consulting-fortune-tellers.md) 앞날을 알고 싶은 사람이 점쟁이를 찾아가거나 별자리 운세, 타로, 사주를 본다.
 - [죽음 이야기 피하기](../docs/avoiding-death-talk.md) 사람이 자기 죽음이나 생애 말기에 관해 생각하거나 가족과 이야기하기를 피한다.
 - [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md) 질병 정보를 읽는 사람이 거기 적힌 증상이 자기에게 있다고 여겨 그 병에 걸렸다고 믿거나 걱정한다.
 - [지루함](../docs/boredom.md) 사람이 하는 일이나 지내는 날에 흥미를 느끼지 못하고 따분해한다.
