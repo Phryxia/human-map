@@ -73,7 +73,6 @@
       "unused-annual-leave",
       "wanting-to-keep-working-in-old-age",
       "withdrawing-after-job-loss",
-      "work-rumination-after-hours",
       "hesitating-to-take-parental-leave",
       "not-reporting-workplace-injury",
       "staying-in-job-for-health-insurance",
@@ -389,7 +388,8 @@
       "keeping-a-diary",
       "forbidden-curiosity",
       "forgetting-acquaintances-names",
-      "smell-evoked-memory"
+      "smell-evoked-memory",
+      "rumination"
     ]
   },
   {

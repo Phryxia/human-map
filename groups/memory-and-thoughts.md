@@ -15,6 +15,8 @@
 - [뒤늦게 떠오른 대답](../docs/staircase-wit.md) 대화나 말다툼이 끝난 뒤에야 사람이 그 자리에서 했어야 할 대답을 떠올린다.
 - [미래 기억 실패](../docs/prospective-memory-failure.md) 나중에 할 일을 정해 둔 사람이 그때가 와도 그 일을 떠올리지 못하고 지나친다.
   - [차 안에 아이를 잊고 내리기](../docs/forgetting-child-in-car.md)
+- [반추](../docs/rumination.md) 사람이 지난 일이나 자기 문제와 실수를 결론 없이 되풀이해 곱씹는다.
+  - [퇴근 뒤 일 생각 곱씹기](../docs/work-rumination-after-hours.md)
 - [설단 현상](../docs/tip-of-the-tongue.md) 말하려는 사람이 떠올리려는 단어를 알고 있다고 느끼면서도 그 단어를 끝내 떠올리지 못한다.
 - [아는 사람 이름 잊기](../docs/forgetting-acquaintances-names.md) 아는 사람을 만난 사람이 얼굴은 알아보면서 그 사람의 이름이 떠오르지 않아 당혹스러워하거나 짜증스러워한다.
 - [일기 쓰기](../docs/keeping-a-diary.md) 사람이 겪은 일과 생각을 날마다 또는 일이 있을 때 일기로 적어 둔다.
