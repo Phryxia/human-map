@@ -89,21 +89,21 @@
   },
   "https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84": {
     "first": "2026-10-16",
-    "last": "2026-10-24",
+    "last": "2026-10-27",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-18"
   },
   "https://www.nfcc.org/press_release/financial-infidelity-growing-concern/": {
     "first": "2026-10-16",
-    "last": "2026-10-24",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-27"
   },
   "https://link.springer.com/article/10.1007/s10834-024-09988-2": {
     "first": "2026-10-16",
-    "last": "2026-10-24",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-27"
   },
   "https://ko.wikisource.org/wiki/봄봄": {
     "first": "2026-10-16",
@@ -1672,9 +1672,9 @@
   },
   "https://www.imaeil.com/page/view/2007111517391962006": {
     "first": "2026-10-18",
-    "last": "2026-10-24",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-27"
   },
   "https://api.crossref.org/works/10.1002/job.4030150306": {
     "first": "2026-10-18",
@@ -12013,6 +12013,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://unseen-japan.com/furarimen-japanese-men-not-returning-home/": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://journals.newprairiepress.org/jft/article/id/5558/": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
