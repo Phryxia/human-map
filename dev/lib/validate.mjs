@@ -9,13 +9,26 @@ export const ACCOUNT_PATTERNS = [
   /^https?:\/\/(?:www\.)?instagram\.com\/(?!p\/|reel\/)([^/?#]+)/i,
   /^https?:\/\/(?:www\.)?facebook\.com\/(?!groups\/|watch)([^/?#]+)/i,
   /^https?:\/\/(?:[a-z0-9-]+\.)?bsky\.app\/profile\/([^/?#]+)/i,
-  /^https?:\/\/(?:[a-z0-9-]+\.)?tistory\.com\/?$/i,
   /^https?:\/\/(?:www\.)?youtube\.com\/(?:@|channel\/|c\/)([^/?#]+)/i,
   /^https?:\/\/([a-z0-9-]+)\.mastodon\.[a-z]+\/@([^/?#]+)/i,
 ]
+// 블로그 플랫폼의 계정 경로. 종류(매체, SNS)와 상관없이 잰다. 이름이 계정 앞에 붙는다.
+export const BLOG_PATTERNS = [
+  ['brunch', /^https?:\/\/(?:www\.)?brunch\.co\.kr\/@(@?[^/?#]+)/i],
+  ['tistory', /^https?:\/\/(?!www\.)([a-z0-9-]+)\.tistory\.com(?:[/?#]|$)/i],
+  ['naver', /^https?:\/\/(?:m\.)?blog\.naver\.com\/(?!PostView)([^/?#]+)/i],
+  ['medium', /^https?:\/\/(?:www\.)?medium\.com\/@([^/?#]+)/i],
+  ['velog', /^https?:\/\/(?:www\.)?velog\.io\/@([^/?#]+)/i],
+  ['substack', /^https?:\/\/(?!www\.)([a-z0-9-]+)\.substack\.com(?:[/?#]|$)/i],
+  ['blogspot', /^https?:\/\/([a-z0-9-]+)\.blogspot\.[a-z.]+(?:[/?#]|$)/i],
+]
+export const blogAccountOf = url => {
+  for (const [name, re] of BLOG_PATTERNS) { const m = re.exec(url); if (m) return `${name}/${m[1].toLowerCase()}` }
+  return null
+}
 export const accountOf = url => {
   for (const re of ACCOUNT_PATTERNS) { const m = re.exec(url); if (m) return m.slice(1).join('/').toLowerCase() }
-  return null
+  return blogAccountOf(url)
 }
 
 const DATE_OK = d => d === '발행일 미상' || /^\d{4}(-\d{2}(-\d{2})?)?$/.test(d)
@@ -134,9 +147,12 @@ export function validateAll(docs, sources = {}, tags = loadTags()) {
   const byUrl = new Map(), byAcct = new Map()
   for (const d of docs.values()) for (const f of d.fragments) {
     byUrl.set(f.url, (byUrl.get(f.url) ?? new Set()).add(d.id))
-    if (f.kind === 'SNS') { const a = accountOf(f.url); if (a) byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
+    const a = f.kind === 'SNS' ? accountOf(f.url) : blogAccountOf(f.url)
+    if (a) { byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
   }
   for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 URL 을 ${ids.size}개 문서가 쓴다: ${url}`})
-  for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})
+  // 블로그 계정 검사는 기존 문서가 고쳐질 때까지 WARN 이다
+  const isBlog = a => BLOG_PATTERNS.some(([name]) => a.startsWith(name + '/'))
+  for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: isBlog(a) ? 'WARN' : 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})
   return out
 }

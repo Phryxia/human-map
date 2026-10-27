@@ -60,6 +60,17 @@ test('같은 SNS 계정 경로가 둘이면 오류', () => {
   assert.ok(m.some(x => x.includes('같은 계정 경로')))
 })
 
+test('블로그 플랫폼 계정은 종류와 상관없이 같은 계정 경로로 잰다', () => {
+  assert.equal(accountOf('https://brunch.co.kr/@@82Me/112'), 'brunch/@82me')
+  assert.equal(accountOf('https://brunch.co.kr/@bidancheon/166'), 'brunch/bidancheon')
+  assert.equal(accountOf('https://foo-bar.tistory.com/12'), 'tistory/foo-bar')
+  assert.equal(accountOf('https://m.blog.naver.com/someid/2233'), 'naver/someid')
+  assert.equal(accountOf('https://medium.com/@writer/post-1'), 'medium/writer')
+  const mk = n => [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2002', `https://brunch.co.kr/@@82Me/${n}`)]
+  const m = warns(loadAll(makeRepo({a: makeDoc({frags: mk(1)}), b: makeDoc({frags: mk(2)})})))
+  assert.ok(m.some(x => x.includes('같은 계정 경로(brunch/@82me)')))
+})
+
 test('관심사 태그 밖의 태그는 오류, 태그 목록은 서로 다른 8개, 줄 수 제한은 없다', () => {
   const T = ['돈', '일', '시간', '건강', '관계', '공공', '온라인', '마음']
   assert.ok(validateAll(loadAll(makeRepo({a: makeDoc({tags: '#돈'})})), {}, T.slice(0, 7)).some(r => r.msg.includes('8개여야 한다 (7개)')))
