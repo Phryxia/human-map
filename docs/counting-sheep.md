@@ -10,7 +10,7 @@
 
 2018년 1월 논문[^5]은 잠들기 위한 머릿속 과제로 양 세기보다 조금 더 복잡한 뺄셈이나 자세한 심상을 권한다. 2018년 6월 만성 불면 조사[^6]에서 양 세기를 쓴 사람은 남성 13.8%, 여성 18.2%였다. 2018년 7월 어원 글[^7]은 상상의 양이 장애물을 하나씩 뛰어넘는 것을 세어 스스로 잠드는 일을 양 세기로 풀이한다.
 
-2024년 기사[^8]는 울타리를 넘는 양을 하나씩 떠올리는 일을 잘 알려진 불면 대처법으로 소개한다. 2026년 연구[^9]의 저자들은 양 세기 같은 주의 돌리기가 흔히 권해지지만 효과 없는 전략이라는 연구가 여럿 나왔다고 쓴다.
+2024년 기사[^8]는 울타리를 넘는 양을 하나씩 떠올리는 일을 잘 알려진 불면 대처법으로 소개한다. 2025년 글[^9]은 양 세기가 걱정에서 주의를 떼어 내달리는 생각을 가라앉히는 데 도움이 될 수 있다고 쓴다. 2026년 연구[^10]의 저자들은 양 세기 같은 주의 돌리기가 흔히 권해지지만 효과 없는 전략이라는 연구가 여럿 나왔다고 쓴다.
 
 # 관계
 
@@ -32,7 +32,7 @@
 
 ## 대립
 
-없음.
+- [생각 때문에 잠 못 이루기](lying-awake-thinking.md)[^9]
 
 #건강 #마음
 
@@ -44,4 +44,5 @@
 [^6]: [학술] "Counting sheep 13.8 18.2 2.4" (양 세기 13.8 18.2 2.4) — Souraya Sidani 외, "Gender Differences in Perpetuating Factors, Experience and Management of Chronic Insomnia", Journal of Gender Studies 28(4), 2018-06-29, https://pmc.ncbi.nlm.nih.gov/articles/PMC6585992/, 2026-10-24 접속
 [^7]: [매체] "The phrase to count sheep means to count imaginary sheep jumping over an obstacle one by one, as a way of sending oneself to sleep." (양을 센다는 말은 스스로를 잠들게 하는 방법으로 장애물을 하나씩 뛰어넘는 상상의 양을 세는 것을 뜻한다.) — Pascal Tréguer, "'to count sheep' – French 'compter les moutons'", word histories, 2018-07-26, https://wordhistories.net/2018/07/26/count-sheep-compter-moutons/, 2026-10-24 접속
 [^8]: [매체] "Trying to imagine fat, fuzzy white lambs, jumping one by one over a fence, is a well-known remedy for sleeplessness." (포동포동하고 보송보송한 흰 어린 양들이 울타리를 하나씩 뛰어넘는 모습을 떠올리려 애쓰는 것은 잘 알려진 불면 대처법이다.) — Sandee LaMotte, "Counting sheep: Who came up with this old sleep tip, and does it work?", CNN, 2024-03-24, https://www.cnn.com/2024/03/24/health/counting-sheep-for-sleep-explained-wellness, 2026-10-24 접속
-[^9]: [학술] "Although distraction (e.g. counting sheep) is a frequently recommended pop technique for falling asleep, this is among several studies demonstrating that distraction is an ineffective strategy" (주의 돌리기(예: 양 세기)는 잠들기 위해 흔히 권해지는 대중적 기법이지만, 이 연구는 주의 돌리기가 효과 없는 전략임을 보여 주는 여러 연구 가운데 하나다) — Lara R. LoBrutto 외, "No more counting sheep? Interoceptive not-distracting as a novel predictor of insomnia symptom severity in college students", Sleep Advances 7(3), 2026-06-16, https://pmc.ncbi.nlm.nih.gov/articles/PMC13387498/, 2026-10-24 접속
+[^9]: [매체] "It steers the brain away from worries and toward a neutral, calming task, which can help quiet racing thoughts." (뇌를 걱정에서 떼어 중립적이고 차분한 과제로 이끌어 내달리는 생각을 가라앉히는 데 도움이 될 수 있다.) — Meredith Bethune, "Does Counting Sheep Actually Work? Here's What Science Says", Saatva, 2025-04-10, https://www.saatva.com/blog/does-counting-sheep-work/, 2026-10-27 접속
+[^10]: [학술] "Although distraction (e.g. counting sheep) is a frequently recommended pop technique for falling asleep, this is among several studies demonstrating that distraction is an ineffective strategy" (주의 돌리기(예: 양 세기)는 잠들기 위해 흔히 권해지는 대중적 기법이지만, 이 연구는 주의 돌리기가 효과 없는 전략임을 보여 주는 여러 연구 가운데 하나다) — Lara R. LoBrutto 외, "No more counting sheep? Interoceptive not-distracting as a novel predictor of insomnia symptom severity in college students", Sleep Advances 7(3), 2026-06-16, https://pmc.ncbi.nlm.nih.gov/articles/PMC13387498/, 2026-10-24 접속
