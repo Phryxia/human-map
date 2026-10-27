@@ -7,6 +7,7 @@
 - [나이 줄여 말하기](../docs/understating-age.md) 사람이 남에게 자기 나이를 실제보다 적게 말한다.
 - [녹음된 자기 목소리 싫어하기](../docs/disliking-recorded-own-voice.md) 녹음된 자기 목소리를 듣는 사람이 그 소리를 낯설고 불편하게 느끼거나 싫어한다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
+- [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
 - [보는 눈이 있을 때 행동 바꾸기](../docs/behaving-better-when-watched.md) 누군가 지켜본다고 느끼는 사람이 혼자일 때와 달리 남이 좋게 볼 만한 쪽으로 행동한다.
 - [부모가 창피함](../docs/embarrassed-by-parents.md) 자녀가 남이 보는 자리에서 부모의 말이나 행동이나 집안 모습을 창피하게 여긴다.
 - [부정적 평가에 대한 두려움](../docs/fear-of-negative-evaluation.md) 사람이 다른 사람에게 부정적으로 평가받을 수 있는 상황에서 불안과 긴장을 느낀다.

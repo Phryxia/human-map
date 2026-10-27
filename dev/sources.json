@@ -11609,5 +11609,17 @@
     "last": "2026-10-27",
     "result": "VERIFIED",
     "lastVerified": "2026-10-27"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=490308&rettype=abstract&retmode=text": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://brunch.co.kr/@loiskim01/422": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
   }
 }
