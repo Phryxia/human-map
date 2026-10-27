@@ -839,15 +839,15 @@
   },
   "https://news.seoul.go.kr/gov/archives/540969": {
     "first": "2026-10-17",
-    "last": "2026-10-25",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-27"
   },
   "https://www.smarttoday.co.kr/ko-kr/articles/28343": {
     "first": "2026-10-17",
-    "last": "2026-10-25",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-27"
   },
   "https://ko.wikisource.org/wiki/%EB%8F%99%EB%B0%B1%EA%BD%83": {
     "first": "2026-10-17",
@@ -10196,9 +10196,9 @@
   },
   "https://pure.seoultech.ac.kr/en/publications/improving-the-kiosk-user-experience-the-psychological-factors-of-/": {
     "first": "2026-10-25",
-    "last": "2026-10-25",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-27"
   },
   "https://synapsesocial.com/papers/6a109a7257bfcc72646008f3": {
     "first": "2026-10-25",
@@ -10610,9 +10610,9 @@
   },
   "https://www.ajunews.com/view/20190929131615222": {
     "first": "2026-10-25",
-    "last": "2026-10-25",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-10-27"
   },
   "https://trid.trb.org/View/162330": {
     "first": "2026-10-26",
@@ -11761,6 +11761,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://www.the-star.co.ke/news/2018-10-20-whatsapp-etiquettethe-dos-and-donts-of-messaging/": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.khan.co.kr/article/201908082043015": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
