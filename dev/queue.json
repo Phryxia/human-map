@@ -1,48 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T00:32:38.165Z",
-  "nextSeq": 2273,
-  "stops": 117,
+  "savedAt": "2026-10-27T03:38:47.665Z",
+  "nextSeq": 2309,
+  "stops": 118,
   "items": [
     {
-      "id": "4c19cd85",
-      "title": "counting-sheep 보강: lying-awake-thinking 관계",
-      "priority": 50,
-      "note": "2026-10-25 Harvey, Payne 2002 PMID 11863237 더함(양 세기 직접 시험 아님). 같은 초록 첫 문장 'unable to get to sleep at night due to unwanted thoughts, worries and concerns' 은 lying-awake-thinking 쪽 근거. mentalfloss.com 2010-04-21 양치기 유래",
-      "createdAt": "2026-10-25T21:25:24.611Z",
-      "seq": 2134
-    },
-    {
-      "id": "adf263e9",
-      "title": "burning-farm-waste 보강: 2000년대 파편, working-through-heat 관계",
-      "priority": 50,
-      "note": "2026-10-25 서울신문 2016-04-05 적발 노인 과태료 더함. 후보: newsseoul 1065610818350753 (2024-02-28) 농진청 익충 80~97%, 해충방제 효과 미비. kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
-      "createdAt": "2026-10-25T21:26:37.599Z",
-      "seq": 2135
-    },
-    {
-      "id": "34b5b24c",
-      "title": "nonurgent-ambulance-calls 보강: 한국 공공 파편, 상위 간선",
-      "priority": 50,
-      "note": "2026-10-25 빅토리아 주정부 2021-10-21 더함. korea.kr 소방청 보도자료 검색 무소득. 매체 후보 newsis NISX20260313_0003547784, medigatenews 1297225561. nonurgent-emergency-room-visits 와 공통 상위 후보",
-      "createdAt": "2026-10-25T21:27:31.308Z",
-      "seq": 2136
-    },
-    {
-      "id": "d96568cd",
-      "title": "avoiding-library-over-overdue-books 보강: shame-after-unanswered-message 와 관계",
-      "priority": 50,
-      "note": "2026-10-25 캔터베리뱅크스타운 2019-10-29 더함. 같은 페이지 'Members were no longer embarrassed or afraid to return items'. 관계 근거 파편 없음. odt.co.nz fines-discontinued-district-libraries (2022-07-25)",
-      "createdAt": "2026-10-25T21:28:39.015Z",
-      "seq": 2137
-    },
-    {
-      "id": "7358613c",
-      "title": "fare-evasion 보강: 2000년 이전 공공 파편",
-      "priority": 50,
-      "note": "2026-10-25 미탐색 재투입. TfL·MTA 동기 분류는 PDF",
-      "createdAt": "2026-10-25T21:28:51.191Z",
-      "seq": 2138
+      "id": "fa8bdcbe",
+      "title": "dev: source-check 가 글은 소켓 오류, 홈은 타임아웃인 호스트를 소멸로 판정",
+      "priority": 60,
+      "note": "2026-10-27 bystander-effect [^4] pred.uni-regensburg.de/id/eprint/20599/ 첫 실행 ECONNRESET, / 는 다른 종류 실패라 소멸 지시. 같은 날 재실행은 타임아웃, / 타임아웃으로 호스트 차단 판정. curl 로 / 도 Connection reset. 소켓 오류와 타임아웃을 같은 연결 실패로 묶어 볼 것",
+      "createdAt": "2026-10-27T03:28:17.979Z",
+      "seq": 2299
     },
     {
       "id": "454daacc",
@@ -83,30 +51,6 @@
       "note": "2026-10-25 아주경제 2019-09-30 별칭 키오스크 포비아 더함. 후보: wikitree 627568 어머니 20분 헤매다 귀가(자녀 글 옮김)",
       "createdAt": "2026-10-25T21:34:01.491Z",
       "seq": 2143
-    },
-    {
-      "id": "aaa93c86",
-      "title": "ignoring-vehicle-recalls 보강: 2016 공공 파편, rear-seat-belt-nonuse 와 관계 근거",
-      "priority": 50,
-      "note": "2026-10-26 후보: govinfo.gov FR-2016-01-25 2016-01291 'Is there data identifying why owners do not react to safety recall notices', HN 42247957 (2024-11-26) 안전벨트 미착용·경고등 가리기와 리콜 무시를 같은 사람으로 묶음(인과 아님), HN 38632724 (2023-12-13) 휴가와 이동 수단 부담",
-      "createdAt": "2026-10-26T00:13:20.807Z",
-      "seq": 2147
-    },
-    {
-      "id": "79bc5d94",
-      "title": "taking-escalator-over-stairs 보강: 1980년대 학술, 엘리베이터 쪽 파편",
-      "priority": 50,
-      "note": "2026-10-26 후보: PubMed 7435710 Brownell 1980-12 쇼핑몰·역 45,694건 관찰(기준 수치는 초록에 없음), PubMed 17189548 (2006-12) 엘리베이터가 바로 있으면 직장 계단 개입 효과 약함, boards.straightdope.com/t/oh-is-your-leg-broken-elevator-abuse-rant/293075 (2005-03-05) 2·3층에서 타는 사람, thecommunityguide.org stairs 2005-06 4.0~41.9%",
-      "createdAt": "2026-10-26T00:17:43.611Z",
-      "seq": 2148
-    },
-    {
-      "id": "712401a4",
-      "title": "contagious-yawning 보강: 비율 수치 파편, 문학 파편",
-      "priority": 50,
-      "note": "2026-10-26 후보: gutenberg 1399 Anna Karenina 4부 14장 'just as people catch yawning', gutenberg 16 Peter Pan 3장 등불 셋의 하품(의인화), Straight Dope catching-a-yawn/9319 같은 날 댓글 'I yawned just reading this'. 전염 비율 % 든 초록 미발견",
-      "createdAt": "2026-10-26T00:29:25.323Z",
-      "seq": 2149
     },
     {
       "id": "695216e7",
@@ -491,6 +435,110 @@
       "note": "2026-10-27 한국어 검색은 예열 권장 해설만 나옴(운전자 행동 서술 없음). 후보: psmag 기사가 인용한 Carrico 외 'Costly Myths' Energy Policy, NRCan 'Canadians also idle while waiting for passengers'(이미 쓴 URL)",
       "createdAt": "2026-10-27T00:32:37.057Z",
       "seq": 2272
+    },
+    {
+      "id": "0e03c3b9",
+      "title": "burning-farm-waste 보강: working-through-heat 관계",
+      "priority": 50,
+      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 후보: newsseoul 1065610818350753 (2024-02-28) 익충 80~97%, kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
+      "createdAt": "2026-10-27T03:09:51.877Z",
+      "seq": 2291
+    },
+    {
+      "id": "25aa9727",
+      "title": "nonurgent-ambulance-calls 보강: 한국 공공 파편, 상위 간선",
+      "priority": 50,
+      "note": "2026-10-27 korea.kr 소방청 보도자료 156782046(2026-09-17), 156654882(2024-10-15), 156671593 은 본문이 hwp 첨부에만 있어 HTML 에 없음. 남은 곳: 시도 소방본부 누리집, news.seoul.go.kr. 매체 후보 newsis NISX20260313_0003547784. nonurgent-emergency-room-visits 와 공통 상위 후보",
+      "createdAt": "2026-10-27T03:12:32.467Z",
+      "seq": 2292
+    },
+    {
+      "id": "1b91f22e",
+      "title": "avoiding-library-over-overdue-books 보강: shame-after-unanswered-message 와 관계",
+      "priority": 50,
+      "note": "2026-10-27 'overdue library book' 과 답장 지연 수치를 같이 다룬 글 검색 무소득. 후보: writerswrite.com new-york-public-library-receives-8042014177 사서가 54년 연체 반납을 두고 수치심 때문인지 묻는 대목, odt.co.nz fines-discontinued-district-libraries (2022-07-25)",
+      "createdAt": "2026-10-27T03:12:59.585Z",
+      "seq": 2293
+    },
+    {
+      "id": "dcafba49",
+      "title": "contagious-yawning 보강: 비율 수치 파편",
+      "priority": 50,
+      "note": "2026-10-27 Anna Karenina 4부 14장 wikisource 로 문학 파편 더함(gutenberg 1399 는 5개 문서가 써서 피함). 전염 비율 % 든 초록 미발견",
+      "createdAt": "2026-10-27T03:14:22.925Z",
+      "seq": 2294
+    },
+    {
+      "id": "af651bbc",
+      "title": "fare-evasion 보강: 2000년 이전 공공 파편",
+      "priority": 50,
+      "note": "2026-10-27 hansard.parliament.uk 검색 403. NYC 1990~92 공식 감사 HTML 미발견. TfL·MTA 동기 분류는 PDF. 남은 곳: api.parliament.uk/historic-hansard 날짜별 목록",
+      "createdAt": "2026-10-27T03:15:06.551Z",
+      "seq": 2295
+    },
+    {
+      "id": "47bb2a12",
+      "title": "taking-escalator-over-stairs 보강: 엘리베이터 쪽 파편",
+      "priority": 50,
+      "note": "2026-10-27 Brownell 1980 PubMed 7435710 더함. 후보: PubMed 17189548 (2006-12) 엘리베이터가 바로 있으면 직장 계단 개입 효과 약함, thecommunityguide.org stairs 2005-06 4.0~41.9%",
+      "createdAt": "2026-10-27T03:15:55.505Z",
+      "seq": 2296
+    },
+    {
+      "id": "8b3263bc",
+      "title": "ignoring-vehicle-recalls 보강: rear-seat-belt-nonuse 와 관계 근거",
+      "priority": 50,
+      "note": "2026-10-27 2016 FR 공고는 이미 [^3]. HN 42247957 (2024-11-26) 는 안전벨트 미착용과 리콜 무시를 같은 사람으로 묶을 뿐 인과 아님. 원인·대립 근거 파편 필요",
+      "createdAt": "2026-10-27T03:16:07.789Z",
+      "seq": 2297
+    },
+    {
+      "id": "d0c6f3ec",
+      "title": "helping-after-first-helper 보강: 1985년 이전 학술 파편",
+      "priority": 50,
+      "note": "2026-10-27 Bryan & Test 1967 (PMID 6082466) 초록 없음, PsycNET 403. 후보: ctvnews.ca/edmonton be-the-one-who-moves (2026-04-13) 'all it takes is for one person to start moving', Greitemeyer 2022 PMID 34628366, ERIC EJ333440 (1985, 아이 나눔)",
+      "createdAt": "2026-10-27T03:24:11.387Z",
+      "seq": 2298
+    },
+    {
+      "id": "d7b043a8",
+      "title": "reading-faces-as-negative 보강: SNS 파편, fear-of-negative-evaluation 원인 간선 근거",
+      "priority": 50,
+      "note": "2026-10-27 Winton 1995, W Korea 2026-10-05 로 만듦. Winton 초록은 상관이라 원인 간선 근거 아님. 표정을 보고 나한테 화났나 생각하는 게시글 필요",
+      "createdAt": "2026-10-27T03:29:49.183Z",
+      "seq": 2301
+    },
+    {
+      "id": "cb3f614a",
+      "title": "not-cutting-into-conversation 보강: SNS 파편, fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-27 Natale 1979 (가설 문장), Lois Kim 브런치 2026-07-30 으로 만듦. 초록의 확인 문장 'These hypotheses were confirmed' 는 무엇이 확인됐는지 안 담음. 후보: brunch.co.kr/@heydey/679 (2026-06-02) 말할 타이밍을 잡느라 상대 이야기에 집중 못함",
+      "createdAt": "2026-10-27T03:31:04.484Z",
+      "seq": 2302
+    },
+    {
+      "id": "ba512a82",
+      "title": "oversleeping-anxiety 보강: 매체 파편, 다른 시기 파편",
+      "priority": 50,
+      "note": "2026-10-27 snoozing-the-alarm 의 클리앙 2016, Ogawa 2022 로 만듦. 두 파편 모두 그 문서와 같은 출처. 알람 여러 개, 시험·비행기 전날 늦잠 걱정 대목 필요",
+      "createdAt": "2026-10-27T03:35:27.225Z",
+      "seq": 2305
+    },
+    {
+      "id": "a099cdae",
+      "title": "climate-inaction 보강: 2010년 이전 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-27 그린피스 2020-04-17, Hamann 2024 로 만듦. 두 파편이 10년 안. 같은 그린피스 글 '바쁜 일상을 보내다 보면 우리는 지구환경보다 편리함의 유혹에 이끌리게 됩니다'",
+      "createdAt": "2026-10-27T03:36:44.319Z",
+      "seq": 2306
+    },
+    {
+      "id": "cfabb14c",
+      "title": "muting-chat-notifications 보강: 학술 파편, staying-in-group-chats 관계",
+      "priority": 50,
+      "note": "2026-10-27 지식iN 2025-09-04, 브런치 longvacation/124 (2026-09-05) 로 만듦. 같은 브런치 글: 조용한 방일수록 나가면 이목이 집중될까 봐 못 나감 → staying-in-group-chats 근거 후보",
+      "createdAt": "2026-10-27T03:37:53.191Z",
+      "seq": 2307
     },
     {
       "id": "d16898d2",
@@ -933,28 +981,12 @@
       "seq": 215
     },
     {
-      "id": "a6c7ab57",
-      "title": "구경꾼 한 사람이 나서면 다른 사람들이 따라 돕기",
-      "priority": 10,
-      "note": "서울시 미디어허브 mediahub.seoul.go.kr/archives/1055052 (2017-01-06) 지하철 플랫폼 실험: 처음엔 지나치다 한 사람이 다가가자 모여들어 도움. bystander-effect 와 긴장 후보",
-      "createdAt": "2026-10-18T08:37:59.003Z",
-      "seq": 247
-    },
-    {
       "id": "870be3f4",
       "title": "식사비를 누가 낼지 상대와 상황으로 정하기",
       "priority": 10,
       "note": "학술: 김은영·김우식 2006 사회과학연구논총 16 RISS control_no=2533a994c22c6316e9810257f7042666 '상대의 성, 연령, 친한 정도...누가 식사비를 부담할 것인가를 구별', 박영재 외 2024 한국식생활문화학회지 39(4) RISS cb04d238819674f0e9810257f7042666 젊은 층 균등 분담 선호. dodging-the-bill 상위/관련 후보",
       "createdAt": "2026-10-18T08:50:11.092Z",
       "seq": 248
-    },
-    {
-      "id": "5195a69e",
-      "title": "평가 염려로 돕기가 늘어남",
-      "priority": 10,
-      "note": "Schwartz·Gottlieb 1976 JPSP 34(6) eutils PMID 1003323: 책임 분산은 도움을 줄이고 평가 염려는 늘림. bystander-effect 와 긴장 후보. Garcia 외 2002 JPSP 83(4) PMID 12374439 집단을 상상만 해도 도움 감소(암묵적 방관자 효과) — bystander-effect 하위 후보",
-      "createdAt": "2026-10-18T08:51:59.753Z",
-      "seq": 249
     },
     {
       "id": "a3f422fc",
@@ -997,44 +1029,12 @@
       "seq": 272
     },
     {
-      "id": "74db9293",
-      "title": "식대를 의식한 경조사 참석 조정",
-      "priority": 10,
-      "note": "클리앙 park/18914024 댓글(2025-02-10) '밥값은 따로 내준다 생각하고 축의 더 내야하나'. weighing-gift-money 하위 후보",
-      "createdAt": "2026-10-18T09:50:01.156Z",
-      "seq": 274
-    },
-    {
       "id": "0d826243",
       "title": "말과 다른 행동 (자기보고와 관찰의 차이)",
       "priority": 10,
       "note": "질병관리청 2026-10-15 보도자료: 올바른 손씻기 실천 응답 51.2%, 관찰 11.4%. Lawson 2019: 남이 있어도 같다고 답했으나 혼자일 때 덜 씻음. phone-use-while-driving F2(위험 인지 98%)와 관련",
       "createdAt": "2026-10-18T10:03:37.349Z",
       "seq": 279
-    },
-    {
-      "id": "b0a8c6a4",
-      "title": "타인의 표정을 부정적으로 읽기",
-      "priority": 10,
-      "note": "Winton·Clark·Edelmann 1995 BRT 33(2) Europe PMC EXT_ID:7887878: high social anxiety subjects have a bias towards identifying others' emotional expressions as negative. fear-of-negative-evaluation 결과 후보",
-      "createdAt": "2026-10-18T10:40:04.853Z",
-      "seq": 287
-    },
-    {
-      "id": "2bbe2799",
-      "title": "대화 중 끼어들지 않기",
-      "priority": 10,
-      "note": "Natale 외 1979 JPSP 37(6) Europe PMC EXT_ID:490308: interruptive behavior is inversely related to social anxiety (fear of negative evaluation). fear-of-negative-evaluation 결과 후보",
-      "createdAt": "2026-10-18T10:40:04.963Z",
-      "seq": 288
-    },
-    {
-      "id": "93649c9a",
-      "title": "상상된 대화 뒤 실제 대화가 어긋날 때의 당혹",
-      "priority": 10,
-      "note": "Dostoevsky Notes from the Underground(gutenberg 600) 전날부터 준비했으나 예상 밖 응대. rehearsing-what-to-say 관련",
-      "createdAt": "2026-10-18T11:55:49.740Z",
-      "seq": 300
     },
     {
       "id": "534bbeca",
@@ -1109,22 +1109,6 @@
       "seq": 358
     },
     {
-      "id": "019d3c9d",
-      "title": "회식을 업무의 연장으로 느끼기",
-      "priority": 10,
-      "note": "레이디경향 2021-09-30 lady.khan.co.kr/culture/article/202109301729001: 회식에 부정적인 이유 '업무의 연장 같다는 생각 때문(48.2%)'. company-dinner-pressure 원인 간선 후보(같은 URL)",
-      "createdAt": "2026-10-18T17:41:10.270Z",
-      "seq": 359
-    },
-    {
-      "id": "446e217e",
-      "title": "기후 행동 하지 않기",
-      "priority": 10,
-      "note": "feeling-ones-effort-makes-no-difference F4(Hamann 2024 PMC10851658): 차이를 만들 수 없다고 느껴 함께 행동하지 않는다. 결과 간선 후보. 그린피스 코리아 2020-04-17 '나 하나가 달라진다고 무슨 소용이 있겠어.' 후보",
-      "createdAt": "2026-10-18T18:40:08.765Z",
-      "seq": 378
-    },
-    {
       "id": "0597c551",
       "title": "뒷말에 대한 분노와 보복 의도",
       "priority": 10,
@@ -1157,14 +1141,6 @@
       "seq": 395
     },
     {
-      "id": "eac0f910",
-      "title": "메신저 알림 꺼 두기",
-      "priority": 10,
-      "note": "pressure-to-reply-quickly F5(지식iN 2025-09-04 docId=488565138): 바로 답해야 한다는 부담감 때문에 친한 친구 알림을 꺼 둔다. 결과 간선 후보",
-      "createdAt": "2026-10-18T21:38:53.727Z",
-      "seq": 405
-    },
-    {
       "id": "f74effe1",
       "title": "휴일에 나타나는 몸의 증상",
       "priority": 10,
@@ -1187,14 +1163,6 @@
       "note": "뉴스타파 2014-03-11 newstapa.org/article/pHRZU: 왕래 없는 자식의 가난까지 증명해야 해서 기초생활수급 신청 포기, 자존심. 특정 개인 서술이라 다른 출처 필요. not-claiming-benefits 원인 후보",
       "createdAt": "2026-10-18T22:37:29.656Z",
       "seq": 422
-    },
-    {
-      "id": "89920ab6",
-      "title": "늦잠에 대한 불안",
-      "priority": 10,
-      "note": "snoozing-the-alarm F2(클리앙 2016 park/9222948)·F3(Ogawa 2022): 늦잠 불안 때문에 알람을 여러 개 맞추거나 스누즈. snoozing-the-alarm 원인 후보",
-      "createdAt": "2026-10-18T22:41:02.612Z",
-      "seq": 423
     },
     {
       "id": "7711117c",
@@ -2131,6 +2099,38 @@
       "note": "2026-10-27 engine-idling 작업 중. highwaysmagazine nearly-quarter-drivers-admit-idling (2022-06-16) 5~10% 가 stop-start 를 끔, 배터리 마모 걱정과 짜증. engine-idling 과 관계 후보. 같은 URL 은 engine-idling 이 이미 씀",
       "createdAt": "2026-10-27T00:20:05.455Z",
       "seq": 2268
+    },
+    {
+      "id": "90f3fa4d",
+      "title": "평가 염려로 돕기가 늘어남: behaving-better-when-watched 하위 후보",
+      "priority": 10,
+      "note": "2026-10-27 Schwartz·Gottlieb 1976 은 behaving-better-when-watched [^1] 로 씀. 별도 문서로 나눌지 파편 더 필요. Garcia 외 2002 PMID 12374439 는 bystander-effect 하위 후보",
+      "createdAt": "2026-10-27T03:28:18.080Z",
+      "seq": 2300
+    },
+    {
+      "id": "e42795f1",
+      "title": "식대를 의식한 경조사 참석 조정",
+      "priority": 10,
+      "note": "2026-10-27 weighing-gift-money 에 서울신문 2026-06-11 식대 기준 축의금 더함. 참석 여부를 식대로 바꾸는 장면은 따로 필요: 클리앙 park/18914024 댓글(2025-02-10), sports.khan.co.kr 202603261408003 안가면 안낸다, 세계일보 20260829500854 평균 이체액",
+      "createdAt": "2026-10-27T03:32:54.698Z",
+      "seq": 2303
+    },
+    {
+      "id": "8f3c568a",
+      "title": "상상된 대화 뒤 실제 대화가 어긋날 때의 당혹",
+      "priority": 10,
+      "note": "2026-10-27 Notes from the Underground 'I had been preparing for them ever since the previous day' 는 rehearsing-what-to-say [^1] 로 씀. 별도 문서에는 다른 출처 필요. rehearsing-what-to-say 결과 후보",
+      "createdAt": "2026-10-27T03:34:16.290Z",
+      "seq": 2304
+    },
+    {
+      "id": "9bf88303",
+      "title": "회식을 업무의 연장으로 느끼기",
+      "priority": 10,
+      "note": "레이디경향 2021-09-30 lady.khan.co.kr/culture/article/202109301729001: 회식에 부정적인 이유 '업무의 연장 같다는 생각 때문(48.2%)'. company-dinner-pressure 원인 간선 후보(같은 URL). 2026-10-27 damoang free/5452436 봇 확인 403, insight.co.kr 468874 (2026-07) 상사 '회식도 업무의 연장이다' 사연, tsisalaw.com 30222 회식 근로시간 논쟁 후보",
+      "createdAt": "2026-10-27T03:38:24.229Z",
+      "seq": 2308
     },
     {
       "id": "02b2f242",
