@@ -6,11 +6,13 @@
 
 # 서술
 
-2000년 5월 Straight Dope 게시판 댓글[^1]의 글쓴이는 5층에서 엘리베이터에 탄 사람이 바로 6층에서 내리면 몹시 거슬린다고 썼다. 2005년 3월 Straight Dope 게시글[^3]의 글쓴이는 젊고 건강해 보이는 학생이 2층이나 3층에서 엘리베이터를 세우고 비좁은 칸에 끼어 탄다고 썼다.
+1980년 12월 연구[^1]에서 계단과 에스컬레이터가 갈리는 자리에 계단 이용을 권하는 표지판을 둔 2주 동안 계단 이용은 비만인 사람과 아닌 사람 모두에서 두 배 넘게 늘었다.
 
-2001년 연구[^2]에서 계단 이용은 기준선에서 8.1%였고 동기를 주는 문구를 붙인 뒤 18.3%로 늘었다. 영어를 쓰지 않는 인구를 대상으로 한 2006년 연구[^4]에서 기준 계단 이용률은 0.4%였고 서구 인구를 본 선행 연구에서는 5.4%였다. 이 연구에서 계단 이용을 권하는 개입은 효과가 없었다.[^4]
+2000년 5월 Straight Dope 게시판 댓글[^2]의 글쓴이는 5층에서 엘리베이터에 탄 사람이 바로 6층에서 내리면 몹시 거슬린다고 썼다. 2005년 3월 Straight Dope 게시글[^4]의 글쓴이는 젊고 건강해 보이는 학생이 2층이나 3층에서 엘리베이터를 세우고 비좁은 칸에 끼어 탄다고 썼다.
 
-2015년 7월 Mental Floss 기사[^5]는 사람들이 에스컬레이터까지 가려고 길을 한참 돌아 걷기도 한다고 적었다. 2015년 10월 서울시 내 손안에 서울 글[^6]에 따르면 신도림역 계단 이용률은 기부하는 건강계단을 설치하기 전 약 3%였다.
+2001년 연구[^3]에서 계단 이용은 기준선에서 8.1%였고 동기를 주는 문구를 붙인 뒤 18.3%로 늘었다. 영어를 쓰지 않는 인구를 대상으로 한 2006년 연구[^5]에서 기준 계단 이용률은 0.4%였고 서구 인구를 본 선행 연구에서는 5.4%였다. 이 연구에서 계단 이용을 권하는 개입은 효과가 없었다.[^5]
+
+2015년 7월 Mental Floss 기사[^6]는 사람들이 에스컬레이터까지 가려고 길을 한참 돌아 걷기도 한다고 적었다. 2015년 10월 서울시 내 손안에 서울 글[^7]에 따르면 신도림역 계단 이용률은 기부하는 건강계단을 설치하기 전 약 3%였다.
 
 # 관계
 
@@ -36,9 +38,10 @@
 
 #건강 #공공
 
-[^1]: [SNS] "It annoys the shit sticks out of me when the elevator stops on 5, someone gets on, and then promtply gets off on 6." (엘리베이터가 5층에 서고 누가 타더니 곧장 6층에서 내리면 정말 짜증 난다.) — Straight Dope 댓글, 2000-05-02, https://boards.straightdope.com/t/the-problems-of-gettting-from-floor-to-floor/18387, 2026-10-26 접속
-[^2]: [학술] "The prevalence of stair use increased from a baseline value of 8.1 percent to 18.3 percent when the motivating messages were in place." (동기를 주는 문구를 붙이자 계단 이용률이 기준선 8.1%에서 18.3%로 늘었다.) — J. Kerr, F. F. Eves, D. Carroll, 「Getting more people on the stairs: the impact of a new message format」, Journal of Health Psychology 6(5), 2001-09, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22049448&rettype=abstract&retmode=text, 2026-10-26 접속
-[^3]: [SNS] "the elevator stops on 2 or 3 (or often both) to admit someone (typically a young and healthy looking student) who needs to cram himself or herself into the car" (엘리베이터가 2층이나 3층에, 자주는 두 층 모두에 서서 누군가(대개 젊고 건강해 보이는 학생)를 태우는데 그 사람은 칸 안에 몸을 욱여넣어야 한다) — Straight Dope 게시글, 2005-03-05, https://boards.straightdope.com/t/oh-is-your-leg-broken-elevator-abuse-rant/293075, 2026-10-26 접속
-[^4]: [학술] "There was no effect of the intervention on stair climbing and baseline rates (0.4%) were much lower than previous studies in Western populations (5.4%)." (개입은 계단 오르기에 효과가 없었고 기준 이용률(0.4%)은 서구 인구를 본 선행 연구(5.4%)보다 훨씬 낮았다.) — F. F. Eves, R. S. Masters, 「An uphill struggle: effects of a point-of-choice stair climbing intervention in a non-English speaking population」, International Journal of Epidemiology 35(5), 2006-10, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16849368&rettype=abstract&retmode=text, 2026-10-26 접속
-[^5]: [매체] "Or they’ll walk far out of their way just to get to an escalator." (아니면 에스컬레이터까지 가려고 한참 돌아서 걷는다.) — Shaunacy Ferro, 「People Really, Really Don't Like Taking the Stairs」, Mental Floss, 2015-07-10, https://www.mentalfloss.com/article/66071/people-really-really-dont-taking-stairs, 2026-10-26 접속
-[^6]: [공공] "작년 9월 설치한 신도림역 기부하는 건강계단은 설치 전‧후 계단 이용률이 약 3%에서 29%로 9배 넘게 증가했으며, 15년 1월 설치한 왕십리역 계단은 18.8%에서 32%로 2배 가까이 늘었습니다." — 서울특별시, 「나도 모르게 기부되는 '열여섯 계단'의 비밀」, 내 손안에 서울, 2015-10-08, https://mediahub.seoul.go.kr/archives/916868, 2026-10-26 접속
+[^1]: [학술] "stair use more than doubled for both obese and nonobese persons during two-week periods when a colorful sign encouraging use of the stairs was positioned at the stairs/escalator choice point." (계단 이용을 권하는 색색의 표지판을 계단과 에스컬레이터 사이의 선택 지점에 둔 2주 동안 계단 이용은 비만인 사람과 비만이 아닌 사람 모두에서 두 배 넘게 늘었다.) — K. D. Brownell, A. J. Stunkard, J. M. Albaum, 「Evaluation and modification of exercise patterns in the natural environment」, American Journal of Psychiatry 137(12), 1980-12, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7435710&rettype=abstract&retmode=text, 2026-10-27 접속
+[^2]: [SNS] "It annoys the shit sticks out of me when the elevator stops on 5, someone gets on, and then promtply gets off on 6." (엘리베이터가 5층에 서고 누가 타더니 곧장 6층에서 내리면 정말 짜증 난다.) — Straight Dope 댓글, 2000-05-02, https://boards.straightdope.com/t/the-problems-of-gettting-from-floor-to-floor/18387, 2026-10-26 접속
+[^3]: [학술] "The prevalence of stair use increased from a baseline value of 8.1 percent to 18.3 percent when the motivating messages were in place." (동기를 주는 문구를 붙이자 계단 이용률이 기준선 8.1%에서 18.3%로 늘었다.) — J. Kerr, F. F. Eves, D. Carroll, 「Getting more people on the stairs: the impact of a new message format」, Journal of Health Psychology 6(5), 2001-09, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22049448&rettype=abstract&retmode=text, 2026-10-26 접속
+[^4]: [SNS] "the elevator stops on 2 or 3 (or often both) to admit someone (typically a young and healthy looking student) who needs to cram himself or herself into the car" (엘리베이터가 2층이나 3층에, 자주는 두 층 모두에 서서 누군가(대개 젊고 건강해 보이는 학생)를 태우는데 그 사람은 칸 안에 몸을 욱여넣어야 한다) — Straight Dope 게시글, 2005-03-05, https://boards.straightdope.com/t/oh-is-your-leg-broken-elevator-abuse-rant/293075, 2026-10-26 접속
+[^5]: [학술] "There was no effect of the intervention on stair climbing and baseline rates (0.4%) were much lower than previous studies in Western populations (5.4%)." (개입은 계단 오르기에 효과가 없었고 기준 이용률(0.4%)은 서구 인구를 본 선행 연구(5.4%)보다 훨씬 낮았다.) — F. F. Eves, R. S. Masters, 「An uphill struggle: effects of a point-of-choice stair climbing intervention in a non-English speaking population」, International Journal of Epidemiology 35(5), 2006-10, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16849368&rettype=abstract&retmode=text, 2026-10-26 접속
+[^6]: [매체] "Or they’ll walk far out of their way just to get to an escalator." (아니면 에스컬레이터까지 가려고 한참 돌아서 걷는다.) — Shaunacy Ferro, 「People Really, Really Don't Like Taking the Stairs」, Mental Floss, 2015-07-10, https://www.mentalfloss.com/article/66071/people-really-really-dont-taking-stairs, 2026-10-26 접속
+[^7]: [공공] "작년 9월 설치한 신도림역 기부하는 건강계단은 설치 전‧후 계단 이용률이 약 3%에서 29%로 9배 넘게 증가했으며, 15년 1월 설치한 왕십리역 계단은 18.8%에서 32%로 2배 가까이 늘었습니다." — 서울특별시, 「나도 모르게 기부되는 '열여섯 계단'의 비밀」, 내 손안에 서울, 2015-10-08, https://mediahub.seoul.go.kr/archives/916868, 2026-10-26 접속
