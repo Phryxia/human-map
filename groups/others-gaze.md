@@ -6,6 +6,7 @@
 
 - [나이 줄여 말하기](../docs/understating-age.md) 사람이 남에게 자기 나이를 실제보다 적게 말한다.
 - [남몰래 울기](../docs/crying-in-secret.md) 남 앞에서 울음을 참은 사람이 남이 보지 않는 곳을 찾아가 혼자 운다.
+- [남은 음식 포장 요청 부끄러워하기](../docs/embarrassment-asking-for-doggy-bag.md) 식당에서 음식을 남긴 손님이 남은 음식을 싸 달라고 하기를 부끄러워해 요청하지 않는다.
 - [녹음된 자기 목소리 싫어하기](../docs/disliking-recorded-own-voice.md) 녹음된 자기 목소리를 듣는 사람이 그 소리를 낯설고 불편하게 느끼거나 싫어한다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
 - [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
