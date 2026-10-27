@@ -2506,9 +2506,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2830/pg2830-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.gutenberg.org/cache/epub/12881/pg12881-images.html": {
     "first": "2026-10-18",
@@ -11497,6 +11497,30 @@
     "lastVerified": "2026-10-27"
   },
   "https://www.centralbedfordshire.gov.uk/news/2023/council-and-residents-united-call-action-engine-idling": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.nbcnews.com/news/amp/wbna22132580": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://news.ycombinator.com/item?id=352294": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://lbsresearch.london.edu/id/eprint/463": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://yougov.com/en-us/articles/17378-unwanted-holiday-gifts": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
