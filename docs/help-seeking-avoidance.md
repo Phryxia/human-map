@@ -14,7 +14,7 @@
 
 2022년 Du 등은 가까운 가족이나 친구가 있어도 노인들이 남에게 짐이 되지 않으려고 도움을 청하기보다 혼자 어려움을 넘기려 한다고 적었다.[^6] 2023년 클리앙 게시글의 글쓴이는 민폐라고 생각해서 일을 안 하면 안 했지 도와 달라는 말은 하지 않는다고 적었다.[^7]
 
-2025년 Nakahara 의 초록은 기존 이론의 가정을 소개한다. 그 가정에서 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하고 도움 요청을 억제한다.[^8] 2026년 브런치 에세이의 저자는 자신이 도와 달라는 말을 잘 못한다고 적었다.[^9] 2026년 8월 글[^10]의 기사가 전한 조사에서 장기요양서비스를 쓰지 않는 수급자의 미이용 사유 가운데 다른 사람의 도움을 받는 것이 꺼려져서가 39.6%로 가장 많았다.
+2025년 Nakahara 의 초록은 기존 이론의 가정을 소개한다. 그 가정에서 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하고 도움 요청을 억제한다.[^8] 2026년 8월 글[^9]의 기사가 전한 조사에서 장기요양서비스를 쓰지 않는 수급자의 미이용 사유 가운데 다른 사람의 도움을 받는 것이 꺼려져서가 39.6%로 가장 많았다.
 
 # 관계
 
@@ -51,5 +51,4 @@
 [^6]: [학술] "However, despite having close family or friends, older adults still seem to prefer to overcome difficulties on their own rather than seek help, in order to avoid being a burden to others" (그러나 가까운 가족이나 친구가 있어도 노인들은 남에게 짐이 되지 않으려고 도움을 청하기보다 혼자 어려움을 넘기는 쪽을 여전히 택하는 듯하다) — Qianqian Du 외, "Why do older adults living alone in cities cease seeking assistance? A qualitative study in China", BMC Geriatrics, 2022-06-29, https://pmc.ncbi.nlm.nih.gov/articles/PMC9241305/, 2026-10-17 접속
 [^7]: [SNS] "저는 도와 달라고 하지 않는 성격이라 그렇습니다. 일을 안 하면 안 했지, 도와달라는 말은 안 합니다. 민폐라고 생각했거든요." — 클리앙 모두의공원 게시글, 2023-06-05, https://www.clien.net/service/board/park/18116516, 2026-10-17 접속
 [^8]: [학술] "Previous theoretical assumptions show that individuals with high self-esteem and instability would estimate the ego-threat associated with help-seeking as high and suppress help-seeking" (기존 이론의 가정에 따르면 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하여 도움 요청을 억제한다) — Jun Nakahara, "Effects of the level and instability of self-esteem on help-seeking and its orientation", Innovation in Aging 9(Suppl 2), 2025-12-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC12760982/, 2026-10-17 접속
-[^9]: [매체] "나는 도와달라는 말을 잘 못한다." — 달조각, 「도움은 왜 자존심을 건드리는가」, 브런치, 2026-06-28, https://brunch.co.kr/@beliebt83/8, 2026-10-17 접속
-[^10]: [매체] "장기요양서비스 미이용률은 21%로 미이용 사유는 다른 사람의 도움을 받는 것이 꺼려져서 39.6%, 병원 선호 23.6%, 충분한 가족 돌봄 14.5%, 경제적 부담 10.6%, 아직 서비스가 필요 없음 6.7% 순이다." — 구무서, "'아들아 요양원은 싫다'…노인 70%는 아파도 집 거주 희망", 뉴시스, 2026-08-06, https://www.newsis.com/view/NISX20260806_0003738299, 2026-10-19 접속
+[^9]: [매체] "장기요양서비스 미이용률은 21%로 미이용 사유는 다른 사람의 도움을 받는 것이 꺼려져서 39.6%, 병원 선호 23.6%, 충분한 가족 돌봄 14.5%, 경제적 부담 10.6%, 아직 서비스가 필요 없음 6.7% 순이다." — 구무서, "'아들아 요양원은 싫다'…노인 70%는 아파도 집 거주 희망", 뉴시스, 2026-08-06, https://www.newsis.com/view/NISX20260806_0003738299, 2026-10-19 접속
