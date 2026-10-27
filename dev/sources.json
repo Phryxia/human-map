@@ -12125,5 +12125,16 @@
     "last": "2026-10-27",
     "result": "VERIFIED",
     "lastVerified": "2026-10-27"
+  },
+  "https://www.gutenberg.org/cache/epub/766/pg766.txt": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.jstage.jst.go.jp/article/chirikagaku/80/2/80_58/_pdf/-char/ja": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "UNREACHABLE"
   }
 }
