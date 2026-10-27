@@ -20,6 +20,7 @@
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
 - [복수심](../docs/desire-for-revenge.md) 남에게 해를 입거나 모욕당한 사람이 상대에게 같은 고통을 되갚아 주고 싶어 한다.
+- [분노 억누르기](../docs/anger-suppression.md) 화가 난 사람이 그 분노를 겉으로 드러내지 않고 억누른다.
 - [삐짐](../docs/sulking.md) 서운함을 느낀 사람이 말없이 토라져 상대가 먼저 알아차리고 마음을 풀어 주기를 기다린다.
 - [사과하지 못하기](../docs/apology-reluctance.md) 자기 잘못을 아는 사람이 상대에게 사과의 말을 하지 않거나 늦게 한다.
 - [생일을 잊혀 서운해도 내색하지 않기](../docs/hiding-hurt-over-forgotten-birthday.md) 가족이나 친구가 자기 생일을 잊었을 때 서운함을 느끼면서 그 마음을 스스로 누르거나 낮춰 말한다.

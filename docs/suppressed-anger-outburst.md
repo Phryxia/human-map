@@ -6,11 +6,13 @@
 
 # 서술
 
-2005년 Carfagnini 의 학위논문은 친밀한 관계에서 자기를 침묵시키는 사람이 이따금 분노를 터뜨리고 그 분노를 다른 대상에게 옮긴다고 요약한다.[^1] 2005년 Hosie 등의 실험에서 분노를 억제한 뒤 분노와 관련 정서의 자기보고가 높아진 쪽은 여성이었고 남성은 다른 감정으로 대체한 뒤 그 평정이 높아졌다.[^2]
+2002년 기사[^1]에서 한 정신의학 조교수는 억누른 분노가 대개 사라지지 않고 결국 밖으로 나온다고 말했다.
 
-2014년 Sapadin 은 인내심을 잃고 터지는 반응이 겉으로는 난데없이 나온 것처럼 보여도 그 밑에서 끓어오르던 것이 있었다고 적는다.[^3] 2016년 기사[^4]는 분노를 표출하지 못하는 상태가 이어지면 일상의 사소한 일에 쌓였던 감정이 폭발할 수 있다고 썼다.
+2005년 Carfagnini 의 학위논문은 친밀한 관계에서 자기를 침묵시키는 사람이 이따금 분노를 터뜨리고 그 분노를 다른 대상에게 옮긴다고 요약한다.[^2] 2005년 Hosie 등의 실험에서 분노를 억제한 뒤 분노와 관련 정서의 자기보고가 높아진 쪽은 여성이었고 남성은 다른 감정으로 대체한 뒤 그 평정이 높아졌다.[^3]
 
-2022년 질문 게시글[^5]의 글쓴이는 평소에는 잘 웃고 잘 어울리다가 하나둘 쌓이면 한꺼번에 터뜨린다고 자신을 설명했다.
+2014년 Sapadin 은 인내심을 잃고 터지는 반응이 겉으로는 난데없이 나온 것처럼 보여도 그 밑에서 끓어오르던 것이 있었다고 적는다.[^4] 2016년 기사[^5]는 분노를 표출하지 못하는 상태가 이어지면 일상의 사소한 일에 쌓였던 감정이 폭발할 수 있다고 썼다.
+
+2022년 질문 게시글[^6]의 글쓴이는 평소에는 잘 웃고 잘 어울리다가 하나둘 쌓이면 한꺼번에 터뜨린다고 자신을 설명했다.
 
 # 관계
 
@@ -24,7 +26,8 @@
 
 ## 원인
 
-- [자기 침묵](self-silencing.md)[^1]
+- [분노 억누르기](anger-suppression.md)[^1]
+- [자기 침묵](self-silencing.md)[^2]
 
 ## 결과
 
@@ -36,8 +39,9 @@
 
 #관계
 
-[^1]: [학술] "This leads to occasional anger outbursts and displacement and eventually to increased vulnerability for depression as the relationship further deteriorates." (이것은 이따금의 분노 폭발과 전위로 이어지고 관계가 더 나빠지면서 결국 우울에 더 취약해지게 한다.) — J. Brooke Carfagnini, 「Self-silencing, depressed mood, and anger expression and the meanings behind self-silencing within intimate relationships」, Lakehead University 석사학위논문, 2005, https://knowledgecommons.lakeheadu.ca/handle/2453/2830, 2026-10-18 접속
-[^2]: [학술] "whereas suppression led to an increase in females’ self reports of anger and related affective states, substitution led to an increase in males’ ratings of anger and related affective states." (억제는 여성의 분노와 관련 정서 자기보고를 높인 반면 대체는 남성의 분노와 관련 정서 평정을 높였다.) — J. A. Hosie, A. B. Milne, L. McArthur, 「The after-effects of regulating anger and anger-related emotions on self-report ratings and behavior: divergent consequences for men and women」, Psychologia 48(4), 2005, https://www.jstage.jst.go.jp/article/psysoc/48/4/48_4_288/_article, 2026-10-18 접속
-[^3]: [매체] "It may appear to come from nowhere, but if you'd been aware of the bubbles brewing underneath the surface, you'd understand the reaction." (난데없이 나온 것처럼 보일 수 있지만 수면 아래에서 끓어오르던 거품을 알았다면 그 반응을 이해할 것이다.) — Linda Sapadin, 「When You Lose Your Patience: Sitting on a Ticking Time Bomb」, Psych Central, 2014-02-28, https://psychcentral.com/blog/when-you-lose-your-patience-sitting-on-a-ticking-time-bomb, 2026-10-18 접속
-[^4]: [매체] "게다가 욕구불만이나 분노를 표출하지 못하는 상태가 지속되면 일상의 사소한 일에도 쌓였던 감정이 폭발할 수 있다." — 김영태, 「건강한 분노 처방전」, CBS노컷뉴스, 2016-07-23, https://nocutnews.co.kr/news/4627125, 2026-10-18 접속
-[^5]: [SNS] "제가 평소에는 잘 웃고 잘어울리고 하는데 한두개씩 무엇인가가 쌓이다보면 한꺼번에 터뜨리는 스타일이라 갑자기 확 터지다보니" — 닥터나우, 질문 게시글, 2022-10-08, https://doctornow.co.kr/content/qna/38f2b259905d11ed95e206ef18b6ac0c, 2026-10-18 접속
+[^1]: [매체] "If you suppress your anger, it usually doesn't go away, it eventually comes out, although often it comes out on someone else, at another time, in another place" (분노를 억누르면 대개 사라지지 않고 결국 밖으로 나온다. 다른 때, 다른 곳에서, 다른 사람에게 나오는 일이 많다.) — Colette Bouchez, 「Women Should Let the Fur Fly」, HealthDay, 2002-01-14, https://www.healthday.com/health-news/mental-health/women-should-let-the-fur-fly-505530.html, 2026-10-27 접속
+[^2]: [학술] "This leads to occasional anger outbursts and displacement and eventually to increased vulnerability for depression as the relationship further deteriorates." (이것은 이따금의 분노 폭발과 전위로 이어지고 관계가 더 나빠지면서 결국 우울에 더 취약해지게 한다.) — J. Brooke Carfagnini, 「Self-silencing, depressed mood, and anger expression and the meanings behind self-silencing within intimate relationships」, Lakehead University 석사학위논문, 2005, https://knowledgecommons.lakeheadu.ca/handle/2453/2830, 2026-10-18 접속
+[^3]: [학술] "whereas suppression led to an increase in females’ self reports of anger and related affective states, substitution led to an increase in males’ ratings of anger and related affective states." (억제는 여성의 분노와 관련 정서 자기보고를 높인 반면 대체는 남성의 분노와 관련 정서 평정을 높였다.) — J. A. Hosie, A. B. Milne, L. McArthur, 「The after-effects of regulating anger and anger-related emotions on self-report ratings and behavior: divergent consequences for men and women」, Psychologia 48(4), 2005, https://www.jstage.jst.go.jp/article/psysoc/48/4/48_4_288/_article, 2026-10-18 접속
+[^4]: [매체] "It may appear to come from nowhere, but if you'd been aware of the bubbles brewing underneath the surface, you'd understand the reaction." (난데없이 나온 것처럼 보일 수 있지만 수면 아래에서 끓어오르던 거품을 알았다면 그 반응을 이해할 것이다.) — Linda Sapadin, 「When You Lose Your Patience: Sitting on a Ticking Time Bomb」, Psych Central, 2014-02-28, https://psychcentral.com/blog/when-you-lose-your-patience-sitting-on-a-ticking-time-bomb, 2026-10-18 접속
+[^5]: [매체] "게다가 욕구불만이나 분노를 표출하지 못하는 상태가 지속되면 일상의 사소한 일에도 쌓였던 감정이 폭발할 수 있다." — 김영태, 「건강한 분노 처방전」, CBS노컷뉴스, 2016-07-23, https://nocutnews.co.kr/news/4627125, 2026-10-18 접속
+[^6]: [SNS] "제가 평소에는 잘 웃고 잘어울리고 하는데 한두개씩 무엇인가가 쌓이다보면 한꺼번에 터뜨리는 스타일이라 갑자기 확 터지다보니" — 닥터나우, 질문 게시글, 2022-10-08, https://doctornow.co.kr/content/qna/38f2b259905d11ed95e206ef18b6ac0c, 2026-10-18 접속

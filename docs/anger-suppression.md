@@ -1,0 +1,39 @@
+# 분노 억누르기
+
+별칭: 없음
+
+화가 난 사람이 그 분노를 겉으로 드러내지 않고 억누른다.
+
+# 서술
+
+2002년 기사[^1]에서 한 정신의학 조교수는 억누른 분노가 대개 사라지지 않고 결국 다른 때 다른 곳에서 다른 사람에게 나오는 일이 많다고 말했다.
+
+2005년 실험[^2]에서 분노를 일으키는 영상을 본 뒤 감정 표현을 억누른 여성 참가자는 뒤이은 행동에서 격분과 혐오의 표현이 늘었다.
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+- [참아 온 불만의 폭발](suppressed-anger-outburst.md)[^1]
+- [엉뚱한 대상에게 화풀이하기](displaced-aggression.md)[^1]
+
+## 대립
+
+없음.
+
+#마음 #관계
+
+[^1]: [매체] "If you suppress your anger, it usually doesn't go away, it eventually comes out, although often it comes out on someone else, at another time, in another place" (분노를 억누르면 대개 사라지지 않고 결국 밖으로 나온다. 다른 때, 다른 곳에서, 다른 사람에게 나오는 일이 많다.) — Colette Bouchez, 「Women Should Let the Fur Fly」, HealthDay, 2002-01-14, https://www.healthday.com/health-news/mental-health/women-should-let-the-fur-fly-505530.html, 2026-10-27 접속
+[^2]: [학술] "Analysis of participants’ expressive behavior following the period of anger regulation also showed an increase in expressions of outrage and disgust by female suppressors." (분노 조절 뒤 참가자의 표현 행동을 분석한 결과 억제한 여성에게서 격분과 혐오의 표현도 늘었다.) — J. A. Hosie, A. B. Milne, L. McArthur, 「The after-effects of regulating anger and anger-related emotions on self-report ratings and behavior: divergent consequences for men and women」, Psychologia 48(4), 2005, https://www.jstage.jst.go.jp/article/psysoc/48/4/48_4_288/_article, 2026-10-27 접속
