@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T03:38:47.665Z",
-  "nextSeq": 2309,
-  "stops": 118,
+  "savedAt": "2026-10-27T06:41:40.287Z",
+  "nextSeq": 2326,
+  "stops": 119,
   "items": [
     {
-      "id": "fa8bdcbe",
-      "title": "dev: source-check 가 글은 소켓 오류, 홈은 타임아웃인 호스트를 소멸로 판정",
-      "priority": 60,
-      "note": "2026-10-27 bystander-effect [^4] pred.uni-regensburg.de/id/eprint/20599/ 첫 실행 ECONNRESET, / 는 다른 종류 실패라 소멸 지시. 같은 날 재실행은 타임아웃, / 타임아웃으로 호스트 차단 판정. curl 로 / 도 Connection reset. 소켓 오류와 타임아웃을 같은 연결 실패로 묶어 볼 것",
-      "createdAt": "2026-10-27T03:28:17.979Z",
-      "seq": 2299
+      "id": "91fc954e",
+      "title": "dev: validate 가 매체 종류의 블로그 계정 경로(brunch @@, @) 중복도 잡는다",
+      "priority": 80,
+      "note": "2026-10-27 waiting-up-for-family 보강 후보 brunch.co.kr/@@82Me/112 가 waiting-for-someone-late 에 이미 있는데 validate 0 errors. 같은 계정 규칙은 종류와 상관없이 블로그 플랫폼 계정에도 적용할 것",
+      "createdAt": "2026-10-27T06:41:27.887Z",
+      "seq": 2325
     },
     {
       "id": "454daacc",
@@ -539,6 +539,46 @@
       "note": "2026-10-27 지식iN 2025-09-04, 브런치 longvacation/124 (2026-09-05) 로 만듦. 같은 브런치 글: 조용한 방일수록 나가면 이목이 집중될까 봐 못 나감 → staying-in-group-chats 근거 후보",
       "createdAt": "2026-10-27T03:37:53.191Z",
       "seq": 2307
+    },
+    {
+      "id": "ab27495e",
+      "title": "keeping-leftover-medicines 보강: 2007년 이전 파편, reusing-leftover-medicine 과 관계",
+      "priority": 50,
+      "note": "2026-10-27 파편 2017 SBS, 2021 서울, 2023 EPA. CDC EID 05-1471 2006 은 reusing-leftover-medicine 이 씀. 보관 때문에 다시 먹는다는 원인 파편 찾을 것",
+      "createdAt": "2026-10-27T06:25:10.242Z",
+      "seq": 2320
+    },
+    {
+      "id": "5716ad0f",
+      "title": "waiting-up-for-family 보강: 한국어 파편, 학술 파편",
+      "priority": 50,
+      "note": "2026-10-27 mumsnet teenagers/4783860 waiting-up 스레드는 Cloudflare 로 막힘. 위키문헌 근대 소설에서 어머니가 자식 귀가를 기다리는 대목 찾을 것",
+      "createdAt": "2026-10-27T06:27:29.909Z",
+      "seq": 2321
+    },
+    {
+      "id": "9b10ca78",
+      "title": "self-diagnosed-food-avoidance 보강: 한국어 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-27 파편 MJA 2015, FSS 2026. mja 같은 페이지 'one in seven adult Australian respondents' 대목도 있음",
+      "createdAt": "2026-10-27T06:33:43.046Z",
+      "seq": 2322
+    },
+    {
+      "id": "db38e4ea",
+      "title": "faking-sick-to-skip-school 와 calling-in-sick-when-not-sick 관계 확인",
+      "priority": 50,
+      "note": "2026-10-27 학생 꾀병과 직장인 꾀병 결근. 두 현상을 함께 다룬 파편이 있으면 상위나 원인 관계",
+      "createdAt": "2026-10-27T06:38:06.852Z",
+      "seq": 2323
+    },
+    {
+      "id": "6c092c62",
+      "title": "crying-in-secret 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-27 파편 1908 문학, 1954 문학, 2008·2012·2020·2025 매체, 2013 학술. SNS 없음. Reddit 은 이 환경에서 막힘",
+      "createdAt": "2026-10-27T06:39:44.750Z",
+      "seq": 2324
     },
     {
       "id": "d16898d2",
