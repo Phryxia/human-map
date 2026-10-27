@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T12:21:19.804Z",
-  "nextSeq": 2384,
+  "savedAt": "2026-10-27T12:22:37.535Z",
+  "nextSeq": 2386,
   "stops": 120,
   "items": [
     {
@@ -21,14 +21,6 @@
       "seq": 2380
     },
     {
-      "id": "f46f669e",
-      "title": "lingering-in-bed-on-cold-mornings: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. https://gall.dcinside.com/board/view/?id=bike&no=1878991 이 lingering-in-bed-on-cold-mornings:[^4], snoozing-the-alarm:[^4] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
-      "createdAt": "2026-10-27T12:08:08.042Z",
-      "seq": 2381
-    },
-    {
       "id": "c58311f7",
       "title": "muting-chat-notifications: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
       "priority": 100,
@@ -37,12 +29,12 @@
       "seq": 2382
     },
     {
-      "id": "b68953e9",
-      "title": "oversleeping-anxiety: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
+      "id": "15aa6d0b",
+      "title": "lingering-in-bed-on-cold-mornings: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
       "priority": 100,
-      "note": "2026-10-27 validate WARN. https://www.clien.net/service/board/park/9222948 이 oversleeping-anxiety:[^1], snoozing-the-alarm:[^3] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
-      "createdAt": "2026-10-27T12:08:08.357Z",
-      "seq": 2383
+      "note": "2026-10-27 validate WARN. gall.dcinside.com/board/view/?id=bike&no=1878991 이 lingering-in-bed-on-cold-mornings:[^4], snoozing-the-alarm:[^3] 에 함께 쓰이고 두 문서의 원인/결과 간선 근거다. 추워서 알람을 끈다는 다른 인과 파편을 못 찾음. 후보 아님: vogue.co.kr 2023-10-20 스누징의 유혹(인과 없음), ruliweb 77108603(알람 없음)",
+      "createdAt": "2026-10-27T12:22:36.636Z",
+      "seq": 2385
     },
     {
       "id": "c35d5998",
