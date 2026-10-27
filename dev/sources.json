@@ -12136,5 +12136,11 @@
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "UNREACHABLE"
+  },
+  "https://yorkspace.library.yorku.ca/items/5d6467d6-6fb9-42b2-a6b1-90f781b961ff/full": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
   }
 }
