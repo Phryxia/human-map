@@ -9164,15 +9164,15 @@
   },
   "https://www.ipss.go.jp/ps-doukou/j/doukou15/report15html/NFS15R_html03.html": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-27"
   },
   "https://www.segye.com/view/20231116516323": {
     "first": "2026-10-24",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://hrcopinion.co.kr/archives/11764": {
     "first": "2026-10-24",
@@ -11863,6 +11863,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://news.ycombinator.com/item?id=954573": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://news.ycombinator.com/item?id=31734484": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
