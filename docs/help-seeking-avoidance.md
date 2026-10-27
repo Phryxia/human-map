@@ -25,6 +25,7 @@
 ## 하위
 
 - [복지 급여 미신청](not-claiming-benefits.md)
+- [돈 빌려 달라는 말 꺼내기 부끄러워하기](shame-asking-to-borrow-money.md)
 
 ## 원인
 

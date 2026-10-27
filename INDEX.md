@@ -89,6 +89,7 @@
 - [도움받을 때의 자존감 위협](docs/threat-in-receiving-help.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [독감 예방접종 거르기](docs/skipping-flu-vaccine.md) ([건강과 위험](groups/health-and-safety.md))
 - [돈 걱정](docs/money-worry.md) ([돈과 소비](groups/money.md))
+- [돈 빌려 달라는 말 꺼내기 부끄러워하기](docs/shame-asking-to-borrow-money.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [돈 쓰기 아까워하기](docs/tightwad-spending.md) ([돈과 소비](groups/money.md))
 - [돌아온 고향의 낯섦](docs/returning-home-feels-strange.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [동물에게 말 걸기](docs/talking-to-animals.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
