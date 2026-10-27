@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T12:25:56.508Z",
-  "nextSeq": 2386,
+  "savedAt": "2026-10-27T12:27:49.714Z",
+  "nextSeq": 2388,
   "stops": 120,
   "items": [
-    {
-      "id": "5bcd8e1d",
-      "title": "bystander-effect: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. https://singletrackworld.com/forum/off-topic/to-those-who-run-towards-danger/ 이 bystander-effect:[^5], helping-after-first-helper:[^2] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
-      "createdAt": "2026-10-27T12:08:07.403Z",
-      "seq": 2377
-    },
-    {
-      "id": "c58311f7",
-      "title": "muting-chat-notifications: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. https://kin.naver.com/qna/detail.naver?dirId=1130&docId=488565138 이 muting-chat-notifications:[^2], pressure-to-reply-quickly:[^5] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
-      "createdAt": "2026-10-27T12:08:08.208Z",
-      "seq": 2382
-    },
     {
       "id": "15aa6d0b",
       "title": "lingering-in-bed-on-cold-mornings: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
@@ -27,6 +11,14 @@
       "note": "2026-10-27 validate WARN. gall.dcinside.com/board/view/?id=bike&no=1878991 이 lingering-in-bed-on-cold-mornings:[^4], snoozing-the-alarm:[^3] 에 함께 쓰이고 두 문서의 원인/결과 간선 근거다. 추워서 알람을 끈다는 다른 인과 파편을 못 찾음. 후보 아님: vogue.co.kr 2023-10-20 스누징의 유혹(인과 없음), ruliweb 77108603(알람 없음)",
       "createdAt": "2026-10-27T12:22:36.636Z",
       "seq": 2385
+    },
+    {
+      "id": "d3576503",
+      "title": "muting-chat-notifications: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
+      "priority": 100,
+      "note": "2026-10-27 validate WARN. kin.naver.com/qna/detail.naver?dirId=1130&docId=488565138 이 muting-chat-notifications:[^2], pressure-to-reply-quickly:[^5] 에 함께 쓰이고 두 문서의 간선 근거다. 답장 압박 때문에 알림을 끈다는 한 문장 인과를 못 찾음. 가까운 후보: open.edu OpenLearn Tagg 2022-09-20 (두 문장에 걸침), refinery29 2020-08-09 (문장이 떨어져 있음). 남은 검색어: 텔레프레셔, 즉답 압박 알림 끄기, telepressure 초록",
+      "createdAt": "2026-10-27T12:27:48.937Z",
+      "seq": 2387
     },
     {
       "id": "c35d5998",
