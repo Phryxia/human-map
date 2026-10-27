@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T15:33:48.852Z",
-  "nextSeq": 2418,
-  "stops": 122,
+  "savedAt": "2026-10-27T18:35:56.657Z",
+  "nextSeq": 2441,
+  "stops": 123,
   "items": [
     {
-      "id": "e1e6161e",
-      "title": "muting-chat-notifications: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. kin.naver.com docId=488565138 이 muting-chat-notifications:[^2], pressure-to-reply-quickly:[^5] 에 함께 쓰이고 간선 근거다. 답장 압박 때문에 알림을 끈다는 한 문장 인과를 못 찾음. 쓸 수 없음: open.edu OpenLearn(이 환경 403), brunch @longvacation(avoiding-read-receipts 가 씀, 인과 없음), vibesandvoicenotes substack(delaying-message-replies 가 씀). 남은 검색어: 텔레프레셔, telepressure 초록, 지식iN 다른 글",
-      "createdAt": "2026-10-27T15:09:32.167Z",
-      "seq": 2406
-    },
-    {
-      "id": "f651f77c",
-      "title": "dev: validate 가 앞 문단에서 이미 쓴 각주만 다시 가리키는 서술 문단을 잡는다",
+      "id": "dad1f3fb",
+      "title": "dev: validate 의 앞 문단 각주만 되짚는 문단 검사를 ERROR 로 올린다",
       "priority": 80,
-      "note": "2026-10-27 harsh-words-for-worry 11행 [^2] 문단 뒤 15행 '2019년 글[^2]은 부모가 자녀에게 하는 말이고 저자는 부모가 자란 방식을 조건으로 든다.' 가 0 errors 로 통과. 4절 '앞 문단의 출처를 되짚어 다시 풀어 쓰는 문단을 뒤에 두지 않는다'",
-      "createdAt": "2026-10-27T09:32:51.125Z",
-      "seq": 2365
+      "note": "2026-10-27 WARN 으로 넣은 검사에 걸린 11개 문서를 모두 고쳐 지금 0건. dev/lib/validate.mjs 의 warn( 을 err( 로, 테스트와 5절 명세 맞춤",
+      "createdAt": "2026-10-27T18:10:25.495Z",
+      "seq": 2436
     },
     {
       "id": "c3049b70",
@@ -667,6 +659,38 @@
       "note": "2026-10-27 추가. 답답해서 빨간불에 건넜다는 한 문장 인과 필요. 후보: korea.kr 148757052 '보행자 신호가 자주 바뀌지 않기 때문에' 대목(jaywalking [^2] 와 같은 URL), Guo 2011 PMID 21259179 'The violation inclination of most pedestrians increased with the increasing waiting duration'",
       "createdAt": "2026-10-27T15:32:36.521Z",
       "seq": 2417
+    },
+    {
+      "id": "0c15c1ce",
+      "title": "consulting-fortune-tellers 보강: SNS 파편, 2000년대 이전 비문학, 불안 원인 간선",
+      "priority": 50,
+      "note": "2026-10-27 추가. 후보: Pew 2025 같은 글 'Relatively few Americans make major life decisions based on' (중대 결정에는 드묾, 조건), 영남일보 2026-03-01 '불안감 등 정신적 욕구 해소에' (같은 URL, 불안 원인). Jane Eyre XVIII장(1260)과 War and Peace Book Seven 12장(2600)은 이미 4개 문서가 쓰는 URL 이라 5개째가 되어 뺌",
+      "createdAt": "2026-10-27T18:24:44.753Z",
+      "seq": 2437
+    },
+    {
+      "id": "84fecb5b",
+      "title": "empty-invitations 보강: 한국어 SNS, 공공 파편, ritual-refusal 관계",
+      "priority": 50,
+      "note": "2026-10-27 추가. 후보: Wharton The Age of Innocence 20장 gutenberg 541 'Look me up, won't you?' 받는 쪽이 빈말로 앎(1920), HN item?id=8938548 (2015-01-24) 날짜 없는 점심 약속을 거절 방식으로 씀, hangyo 77663 같은 글 '실제로 밥을 먹자고 연락이 오는 경우는 거의 없다'",
+      "createdAt": "2026-10-27T18:30:47.165Z",
+      "seq": 2438
+    },
+    {
+      "id": "e2fd6f9a",
+      "title": "trying-on-outfits-before-going-out 보강: 한국어 파편, 2020년대 파편",
+      "priority": 50,
+      "note": "2026-10-27 YouLookFab 2013 SNS 더함. 후보: creators.com Stephanie Hayes 2021-06-26 'I changed three times', stories.swns.com 2012-11-06 평균 3벌, brunch @lkhyun0807/17 (2025-12-10). Woodward 2007 책의 옷장으로 되돌아가는 되풀이(holycross 강의 자료)는 원인 후보",
+      "createdAt": "2026-10-27T18:31:43.048Z",
+      "seq": 2439
+    },
+    {
+      "id": "9b309ee3",
+      "title": "hoping-to-run-into-a-crush 보강: 학술, SNS 파편, unrequited-love 관계",
+      "priority": 50,
+      "note": "2026-10-27 확인됨 2개(문학 1869, 매체 2024)로 추가. 후보: Flaubert 같은 책 4장 'He glanced towards the windows of the first floor' 이사 간 뒤 창을 올려다보던 기억(같은 URL). mysupportforums.org 1인칭 글은 403",
+      "createdAt": "2026-10-27T18:35:41.422Z",
+      "seq": 2440
     },
     {
       "id": "d16898d2",
