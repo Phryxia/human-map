@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-26T21:41:30.135Z",
-  "nextSeq": 2256,
-  "stops": 116,
+  "savedAt": "2026-10-27T00:32:38.165Z",
+  "nextSeq": 2273,
+  "stops": 117,
   "items": [
     {
       "id": "4c19cd85",
@@ -459,6 +459,38 @@
       "note": "2026-10-26 클리앙 park/15090572 (2020-06-20) cctv 경고와 캡쳐 전송 뒤 입주자가 안 버림은 적발이 섞여 약함. 1인칭 '보는 사람 없으면' 글 미발견. 루리웹·더쿠 공개 글 후보. segye 20170430001979 무관",
       "createdAt": "2026-10-26T21:41:20.412Z",
       "seq": 2255
+    },
+    {
+      "id": "07e6d770",
+      "title": "passed-over-for-promotion 보강: envy 관계, 이직 결과",
+      "priority": 50,
+      "note": "2026-10-27 Lam, Schaubroeck 2000 더함. 후보: Balzac Bureaucracy gutenberg 1343 Rabourdin 사직 결심. envy 상위 또는 원인 간선 근거 파편 필요. segye 20160229001128 승진 가능성 없음 47.5% 구직",
+      "createdAt": "2026-10-27T00:31:03.641Z",
+      "seq": 2269
+    },
+    {
+      "id": "8e85d83a",
+      "title": "unclaimed-money 보강: not-claiming-benefits 와 관계",
+      "priority": 50,
+      "note": "2026-10-27 HN 38638490 더함. not-claiming-benefits 와 공통 상위 후보. russellsage.org/node/9426 (2020-01) 찾아가지 않는 이유가 알려진 것이 적다",
+      "createdAt": "2026-10-27T00:31:44.071Z",
+      "seq": 2270
+    },
+    {
+      "id": "7bf2d541",
+      "title": "regifting 보강: feigning-delight-at-gifts 관계",
+      "priority": 50,
+      "note": "2026-10-27 kormedi 1205449 더함. 후보: kormedi.com/1213118 (2014-12-22) 준 사람에게 미안. Mansfield Park 26장 목걸이 gutenberg 141. HN 45360010 (2025-09-24)",
+      "createdAt": "2026-10-27T00:32:13.846Z",
+      "seq": 2271
+    },
+    {
+      "id": "f4ceb042",
+      "title": "engine-idling 보강: 한국어 파편, 2010년대 학술",
+      "priority": 50,
+      "note": "2026-10-27 한국어 검색은 예열 권장 해설만 나옴(운전자 행동 서술 없음). 후보: psmag 기사가 인용한 Carrico 외 'Costly Myths' Energy Policy, NRCan 'Canadians also idle while waiting for passengers'(이미 쓴 URL)",
+      "createdAt": "2026-10-27T00:32:37.057Z",
+      "seq": 2272
     },
     {
       "id": "d16898d2",
@@ -2075,6 +2107,30 @@
       "note": "2026-10-26 APS 2011-08-10 보도자료 'Many of us go to extraordinary lengths to avoid learning the endings' 귀 막기, 비평가에게 요구. reading-the-ending-first 와 대립 후보(같은 사람 안 근거 필요)",
       "createdAt": "2026-10-26T18:25:04.016Z",
       "seq": 2240
+    },
+    {
+      "id": "5ed5de3e",
+      "title": "승진에서 밀린 뒤 이직",
+      "priority": 10,
+      "note": "2026-10-27 passed-over-for-promotion 작업 중. HN 31533468 (2022-05-27) 'After being passed over for promotion ... I started looking around'. passed-over-for-promotion 의 결과 간선 후보",
+      "createdAt": "2026-10-27T00:09:57.899Z",
+      "seq": 2266
+    },
+    {
+      "id": "aa87786e",
+      "title": "고금리 대출로 지인 부탁 피하기",
+      "priority": 10,
+      "note": "2026-10-27 shame-asking-to-borrow-money 작업 중. PMC13246145 (2026-02-12) 'payday loans are used as a shield against shame, judgment, and relational strain'. shame-asking-to-borrow-money 의 결과 간선 근거. lendingtree.com/personal/lending-between-friends-and-family-survey 31%",
+      "createdAt": "2026-10-27T00:17:51.145Z",
+      "seq": 2267
+    },
+    {
+      "id": "e1372f38",
+      "title": "스톱앤고 기능 끄기",
+      "priority": 10,
+      "note": "2026-10-27 engine-idling 작업 중. highwaysmagazine nearly-quarter-drivers-admit-idling (2022-06-16) 5~10% 가 stop-start 를 끔, 배터리 마모 걱정과 짜증. engine-idling 과 관계 후보. 같은 URL 은 engine-idling 이 이미 씀",
+      "createdAt": "2026-10-27T00:20:05.455Z",
+      "seq": 2268
     },
     {
       "id": "02b2f242",
