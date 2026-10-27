@@ -10,7 +10,7 @@
 
 2019년 심리치료사 Sam Louie 는 아시아계 부모가 자녀에게 사랑과 걱정을 잔소리로 에둘러 전한다고 쓴다. 저자는 그 부모 자신이 그렇게 길러졌다고 덧붙인다.[^2]
 
-2019년 글[^2]은 부모가 자녀에게 하는 말이고 저자는 부모가 자란 방식을 조건으로 든다.
+2026년 3월 브런치 글[^3]의 필자는 늦게 온 상대에게 괜찮냐고 묻고 싶었지만 지금 몇 시냐며 따지는 말로 끝났다고 썼다.
 
 # 관계
 
@@ -38,3 +38,4 @@
 
 [^1]: [문학] "“이 난장 맞을 년, 남편이 들어오는데 나와보지도 않아, 이 오라질 년.”이라고 고함을 친 게 수상하다. 이 고함이야말로 제 몸을 엄습해오는 무시무시한 증을 쫓아버리려는 허장성세(虛張聲勢)인 까닭이다." — 현진건, "운수 좋은 날", 위키문헌, 1924, https://ko.wikisource.org/wiki/%EC%9A%B4%EC%88%98_%EC%A2%8B%EC%9D%80_%EB%82%A0, 2026-10-17 접속
 [^2]: [매체] "In addition, due to the indirect nature of how they were raised, Asian parents will indirectly communicate their love and care for you through nagging." (게다가 그들이 길러진 간접적인 방식 때문에 아시아계 부모는 사랑과 보살핌을 잔소리로 간접적으로 전한다.) — Sam Louie, "Nagging", Psychology Today, 2019-10-30, https://www.psychologytoday.com/nz/blog/minority-report/201910/nagging, 2026-10-17 접속
+[^3]: [매체] "“지금 몇 시야! 왜 이렇게 늦었어.” 목소리가 단단했다. 시작은 ‘괜찮냐’로 가고 싶었는데, 끝은 ‘따지기’로 갔다." — 사랑주니, 「걱정이었는데, 내 말투는 화살이 됐다」, 브런치, 2026-03-21, https://brunch.co.kr/@joonyjs/540, 2026-10-27 접속

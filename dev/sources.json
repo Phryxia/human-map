@@ -797,15 +797,15 @@
   },
   "https://ko.wikisource.org/wiki/%EC%9A%B4%EC%88%98_%EC%A2%8B%EC%9D%80_%EB%82%A0": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.psychologytoday.com/nz/blog/minority-report/201910/nagging": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.imaeil.com/page/view/2012120610201186982": {
     "first": "2026-10-17",
@@ -11845,6 +11845,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://news.ycombinator.com/item?id=25251560": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://brunch.co.kr/@joonyjs/540": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
