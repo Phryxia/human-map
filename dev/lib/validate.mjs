@@ -100,8 +100,8 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
       if (!r.length) continue
       const m = Math.min(...r)
       if (m < prevMin) err(p.ln, `서술 문단이 발행일 순이 아니다: 이 문단의 첫 파편 [^${m}] 이 앞 문단의 [^${prevMin}] 보다 이르다`)
-      // 앞 문단의 출처를 되짚어 다시 풀어 쓰는 문단을 뒤에 두지 않는다. 기존 문서가 고쳐질 때까지 WARN 이다
-      else if (r.every(n => seen.has(n))) warn(p.ln, `앞 문단에서 쓴 각주만 다시 가리키는 문단이다: ${[...new Set(r)].map(n => `[^${n}]`).join('')}`)
+      // 앞 문단의 출처를 되짚어 다시 풀어 쓰는 문단을 뒤에 두지 않는다
+      else if (r.every(n => seen.has(n))) err(p.ln, `앞 문단에서 쓴 각주만 다시 가리키는 문단이다: ${[...new Set(r)].map(n => `[^${n}]`).join('')}`)
       prevMin = Math.max(prevMin, m)
       r.forEach(n => seen.add(n))
     }

@@ -110,7 +110,7 @@ test('줄임표 WARN 은 출처에서 원문 그대로 확인된 파편에는 �
 })
 
 test('문단 수 제한은 없고, 문단당 4문장을 넘으면 ERROR', () => {
-  const nine = Array.from({length: 9}, (_, i) => `문단 ${i}.[^1][^2]`).join('\n\n')
+  const nine = Array.from({length: 9}, (_, i) => i < 8 ? `문단 ${i}.` : `문단 ${i}.[^1][^2]`).join('\n\n')
   assert.deepEqual(errs(loadAll(makeRepo({a: makeDoc({body: nine})}))), [])
   const long = '하나다. 둘이다. 15.6%였다. 넷이다. 다섯이다.[^1][^2]'
   assert.ok(errs(loadAll(makeRepo({a: makeDoc({body: long})}))).some(x => x.includes('문단이 4문장을 넘는다 (5)')))
@@ -130,7 +130,7 @@ test('관계 줄의 붙여 쓴 근거 파편[^1][^2] 도 간선으로 읽고, �
 })
 
 test('본문이 파편을 F<n> 번호로 부르면 ERROR, 따옴표 안과 각주는 통과', () => {
-  const bad = (p) => errs(loadAll(makeRepo({a: makeDoc({body: `문단.[^1][^2]\n\n${p}`})})))
+  const bad = (p) => errs(loadAll(makeRepo({a: makeDoc({body: `${p}\n\n문단.[^2]`})})))
   assert.ok(bad('2001년 F1 은 조건을 다룬다.[^1]').some(x => x.includes('번호(F1)')))
   assert.ok(bad('[F1] 조건을 다룬다.[^1]').some(x => x.includes('번호(F1)')))
   assert.deepEqual(bad('2001년 연구[^1]는 조건을 다룬다.'), [])
@@ -189,11 +189,11 @@ test('서술 문단이 첫 파편의 발행일 순이 아니면 ERROR (이슈 #1
   assert.deepEqual(warns(loadAll(makeRepo({a: ok}))), [])
 })
 
-test('앞 문단에서 쓴 각주만 다시 가리키는 서술 문단은 WARN', () => {
+test('앞 문단에서 쓴 각주만 다시 가리키는 서술 문단은 ERROR', () => {
   const fr = [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2010', 'https://b.example/2'), frag(3, '공공', '2020', 'https://c.example/3')]
   // harsh-words-for-worry 2026-10-27: [^2] 문단 뒤에 [^2] 만 다시 푸는 문단
   const again = makeDoc({body: '앞.[^1]\n\n뒤.[^2]\n\n2019년 글[^2]은 부모가 자녀에게 하는 말이다.\n\n더 뒤.[^3]', frags: fr})
-  assert.ok(warns(loadAll(makeRepo({a: again}))).some(x => x.includes('앞 문단에서 쓴 각주만')))
+  assert.ok(errs(loadAll(makeRepo({a: again}))).some(x => x.includes('앞 문단에서 쓴 각주만')))
   const ok = makeDoc({body: '앞.[^1]\n\n뒤.[^2] 앞 시기와 견줌.[^1]\n\n더 뒤.[^3]', frags: fr})
   assert.deepEqual(errs(loadAll(makeRepo({a: ok}))), [])
   assert.deepEqual(warns(loadAll(makeRepo({a: ok}))), [])
