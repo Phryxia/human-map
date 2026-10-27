@@ -347,6 +347,7 @@
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
 - [하차 표시 망설이기](docs/hesitating-to-signal-bus-stop.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [하품 전염](docs/contagious-yawning.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [학교 가기 싫어 꾀병 부리기](docs/faking-sick-to-skip-school.md) ([시간과 하루 습관](groups/daily-time.md))
 - [학습된 무력감](docs/learned-helplessness.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [한 사람이 나서면 따라 돕기](docs/helping-after-first-helper.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [한숨 쉬기](docs/sighing.md) ([걱정과 기분](groups/worry-and-mood.md))
