@@ -282,3 +282,13 @@ test('extractText: JSON-LD 의 articleBody 를 본문으로 넣는다', () => {
   const graph = JSON.stringify({'@graph': [{'@type': 'WebPage'}, {'@type': 'Article', articleBody: '그래프 안 본문'}]})
   assert.ok(quoteIn(extractText(`<html><script type="application/ld+json">${graph}</script><script type="application/ld+json">{깨진</script></html>`, 'text/html'), '그래프 안 본문'))
 })
+
+// pred.uni-regensburg.de 는 2026-10-27 eprint/20599 를 ECONNRESET 으로 줬고 / 는 연결 타임아웃이었다(curl 은 / 에서 Connection reset).
+// 같은 호스트가 실행마다 소켓 오류와 타임아웃을 번갈아 준다. 둘 다 연결 단계 실패로 묶는다.
+test('hostBlocked: 소켓 오류와 타임아웃은 같은 연결 실패로 본다', async () => {
+  const fail = code => async () => { throw Object.assign(new TypeError('fetch failed'), {cause: {code}}) }
+  const url = 'https://pred.uni-regensburg.de/id/eprint/20599/'
+  assert.equal(await hostBlocked(url, 'fetch failed (ECONNRESET)', {fetchImpl: fail('UND_ERR_CONNECT_TIMEOUT')}), true)
+  assert.equal(await hostBlocked(url, '타임아웃', {fetchImpl: fail('ECONNRESET')}), true)
+  assert.equal(await hostBlocked(url, 'fetch failed (ECONNRESET)', {fetchImpl: fail('ENOTFOUND')}), false)
+})

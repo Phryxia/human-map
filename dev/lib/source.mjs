@@ -119,15 +119,16 @@ export async function recheckText(url, {quote, wasVerified, fetchText: get = fet
 // 점검 페이지(www150.statcan.gc.ca, 2026-10-21)도 / 가 같은 종류로 실패하면 호스트 장애다(이슈 #6).
 // Location 없는 3xx 로 막는 봇 프록시(www.plansponsor.com 의 Sucuri, 2026-10-24)도 / 가 3xx 면 같다.
 // 소켓 오류(UND_ERR_SOCKET, ECONNRESET)도 / 가 소켓 오류면 프록시가 호스트로 가는 연결을 끊은 것이다(futurechosun.com, www.82cook.com, 2026-10-24).
+// 소켓 오류와 타임아웃은 같은 연결 실패로 묶는다. 같은 호스트가 실행마다 둘을 번갈아 준다(pred.uni-regensburg.de, 2026-10-27).
 const TLS_CODE_RE = /\((?:[A-Z_]*CERT[A-Z_]*|ERR_TLS_[A-Z_]+|ERR_SSL_[A-Z_]+|UNABLE_TO_VERIFY_LEAF_SIGNATURE)\)$/
 export function failureKind(reason = '') {
   if (/^HTTP 3\d\d$/.test(reason)) return '3xx'
   if (/^HTTP 4\d\d$/.test(reason)) return '4xx'
   if (/^HTTP 5\d\d$/.test(reason)) return '5xx'
-  if (reason === '타임아웃') return 'timeout'
+  if (reason === '타임아웃') return 'connect'
   if (reason === '점검 페이지') return 'maintenance'
   if (TLS_CODE_RE.test(reason)) return 'tls'
-  if (/\((?:UND_ERR_SOCKET|ECONNRESET)\)$/.test(reason)) return 'socket'
+  if (/\((?:UND_ERR_SOCKET|ECONNRESET)\)$/.test(reason)) return 'connect'
   return null
 }
 
