@@ -6,11 +6,13 @@
 
 # 서술
 
-조이스의 1914년 소설에서 가브리엘은 만찬 연설을 앞두고 아일랜드의 환대, 슬픈 기억, 삼미신, 파리, 브라우닝 인용으로 이어지는 연설의 항목을 훑어 되짚는다.[^1]
+1864년 도스토옙스키의 소설에서 화자는 전날부터 옛 동창들과의 자리를 준비했지만 상대가 보인 고관 같은 정중함과 내려다보는 태도는 예상하지 못했다.[^1]
 
-1988년 Edwards, Honeycutt, Zagacki 는 상상된 상호작용의 여러 기능 가운데 하나로 예상되는 만남의 리허설을 든다.[^2]
+조이스의 1914년 소설에서 가브리엘은 만찬 연설을 앞두고 아일랜드의 환대, 슬픈 기억, 삼미신, 파리, 브라우닝 인용으로 이어지는 연설의 항목을 훑어 되짚는다.[^2]
 
-2023년 YTN 이 보도한 조사에서 콜 포비아를 겪는 MZ세대 응답자는 대처 방법으로 통화 전 대본 작성(28.4%)을 꼽았다.[^3]
+1988년 Edwards, Honeycutt, Zagacki 는 상상된 상호작용의 여러 기능 가운데 하나로 예상되는 만남의 리허설을 든다.[^3]
+
+2023년 YTN 이 보도한 조사에서 콜 포비아를 겪는 MZ세대 응답자는 대처 방법으로 통화 전 대본 작성(28.4%)을 꼽았다.[^4]
 
 # 관계
 
@@ -24,7 +26,7 @@
 
 ## 원인
 
-- [전화 통화 두려움](phone-call-fear.md)[^3]
+- [전화 통화 두려움](phone-call-fear.md)[^4]
 
 ## 결과
 
@@ -36,6 +38,7 @@
 
 #관계
 
-[^1]: [문학] "He ran over the headings of his speech: Irish hospitality, sad memories, the Three Graces, Paris, the quotation from Browning." (그는 연설의 항목들을 훑어 되짚었다. 아일랜드의 환대, 슬픈 기억, 삼미신, 파리, 브라우닝 인용.) — James Joyce, "The Dead", Dubliners, 1914, https://www.gutenberg.org/cache/epub/2814/pg2814-images.html, 2026-10-18 접속
-[^2]: [학술] "Imagined interactions serve several functions including rehearsal for anticipated encounters." (상상된 상호작용은 예상되는 만남의 리허설을 포함한 여러 기능을 한다.) — Renee Edwards, James M. Honeycutt, Kenneth S. Zagacki, "Imagined interaction as an element of social cognition", Western Journal of Speech Communication 52(1), 1988, https://repository.lsu.edu/cmst_pubs/104, 2026-10-18 접속
-[^3]: [매체] "콜 포비아 증상을 겪는 MZ세대 10명 중 9명(90.4%)은 콜포비아에 대처하기 위한 방법으로 ‘모르는 번호의 전화는 받지 않기(39.2%)’가 가장 많이 꼽혔다. △전화 통화를 최소화하고 이메일, 문자 위주로 소통(28.8%) △전화 통화를 하기 전 미리 대본 작성(28.4%) 등이 뒤를 이었다." — 이유나, "'통화 대신 문자 하면 안 될까요?'...'콜 포비아' 늘어난 MZ세대", YTN, 2023-11-01, https://www.ytn.co.kr/_ln/0103_202311011050017994, 2026-10-18 접속
+[^1]: [문학] "I had been preparing for them ever since the previous day, but I had not expected such condescension, such high-official courtesy." (나는 전날부터 그들을 맞을 준비를 해 왔지만 그렇게 내려다보는 태도, 그렇게 고관다운 정중함은 예상하지 못했다.) — Fyodor Dostoevsky, Notes from the Underground, Constance Garnett 옮김, Project Gutenberg, 1864, https://www.gutenberg.org/cache/epub/600/pg600-images.html, 2026-10-27 접속
+[^2]: [문학] "He ran over the headings of his speech: Irish hospitality, sad memories, the Three Graces, Paris, the quotation from Browning." (그는 연설의 항목들을 훑어 되짚었다. 아일랜드의 환대, 슬픈 기억, 삼미신, 파리, 브라우닝 인용.) — James Joyce, "The Dead", Dubliners, 1914, https://www.gutenberg.org/cache/epub/2814/pg2814-images.html, 2026-10-18 접속
+[^3]: [학술] "Imagined interactions serve several functions including rehearsal for anticipated encounters." (상상된 상호작용은 예상되는 만남의 리허설을 포함한 여러 기능을 한다.) — Renee Edwards, James M. Honeycutt, Kenneth S. Zagacki, "Imagined interaction as an element of social cognition", Western Journal of Speech Communication 52(1), 1988, https://repository.lsu.edu/cmst_pubs/104, 2026-10-18 접속
+[^4]: [매체] "콜 포비아 증상을 겪는 MZ세대 10명 중 9명(90.4%)은 콜포비아에 대처하기 위한 방법으로 ‘모르는 번호의 전화는 받지 않기(39.2%)’가 가장 많이 꼽혔다. △전화 통화를 최소화하고 이메일, 문자 위주로 소통(28.8%) △전화 통화를 하기 전 미리 대본 작성(28.4%) 등이 뒤를 이었다." — 이유나, "'통화 대신 문자 하면 안 될까요?'...'콜 포비아' 늘어난 MZ세대", YTN, 2023-11-01, https://www.ytn.co.kr/_ln/0103_202311011050017994, 2026-10-18 접속

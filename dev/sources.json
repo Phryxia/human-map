@@ -1972,21 +1972,21 @@
   },
   "https://www.gutenberg.org/cache/epub/2814/pg2814-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://repository.lsu.edu/cmst_pubs/104": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.ytn.co.kr/_ln/0103_202311011050017994": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=3a59002fc43e0c5affe0bdc3ef48d419": {
     "first": "2026-10-18",
@@ -11623,6 +11623,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://www.seoul.co.kr/news/society/2026/06/11/20260611500016": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.gutenberg.org/cache/epub/600/pg600-images.html": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
