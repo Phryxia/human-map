@@ -12,6 +12,7 @@
 - [미어캣 효과](../docs/meerkat-effect.md) 주식 투자자가 시장이 오르거나 내린 뒤 자기 계좌를 더 자주 확인한다.
 - [사후 확신 편향](../docs/hindsight-bias.md) 일의 결과를 알게 된 사람이 그 결과를 처음부터 예측할 수 있었다고 느낀다.
 - [선택 과부하](../docs/choice-overload.md) 고를 것이 너무 많은 사람이 고르기를 힘들어하거나 고르지 않고 그만둔다.
+- [선택 연기](../docs/choice-deferral.md) 고를 대안 앞에 선 사람이 무엇을 고를지 정하지 않고 결정을 뒤로 미룬다.
 - [소유 효과](../docs/endowment-effect.md) 자신이 가진 물건에 가지지 않은 사람보다 높은 값을 매기는 사람의 심리다.
 - [처분 효과](../docs/disposition-effect.md) 이익이 난 투자 자산은 일찍 팔고 손실이 난 투자 자산은 오래 쥐고 있는 투자자의 행동이다.
 - [평균 이상 효과](../docs/better-than-average-effect.md) 사람이 자기 능력과 성격을 같은 처지의 평균적인 사람보다 낫다고 평가한다.

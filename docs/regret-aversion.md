@@ -32,6 +32,7 @@
 
 ## 결과
 
+- [선택 연기](choice-deferral.md)[^3]
 - [처분 효과](disposition-effect.md)[^1]
 
 ## 대립

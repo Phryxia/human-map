@@ -185,6 +185,7 @@
 - [서비스 받는 동안 잡담 피하기](docs/avoiding-small-talk-during-service.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [선물 고르기 고민](docs/gift-choosing-anxiety.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [선택 과부하](docs/choice-overload.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [선택 연기](docs/choice-deferral.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [설단 현상](docs/tip-of-the-tongue.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [소개팅 주선](docs/matchmaking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
