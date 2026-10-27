@@ -230,6 +230,7 @@
 - [양 세기](docs/counting-sheep.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [어둠 공포](docs/fear-of-the-dark.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [얹혀사는 집에서 몸 낮추기](docs/shrinking-in-hosts-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [얻어먹기 거절](docs/declining-free-meals-out-of-pride.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얼굴 붉어짐](docs/blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엄숙한 자리에서 터지는 웃음](docs/laughing-at-solemn-occasions.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엉뚱한 대상에게 화풀이하기](docs/displaced-aggression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

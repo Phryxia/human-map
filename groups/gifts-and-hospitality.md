@@ -7,6 +7,7 @@
 - [가족이 받은 칭찬을 대신 낮추기](../docs/downplaying-praise-of-family.md) 남이 자기 자녀나 배우자를 칭찬하면 그 가족이 칭찬받은 사람을 대신해 칭찬을 부정하거나 그 사람의 다른 결점을 꺼낸다.
 - [감사 선물](../docs/thank-you-gift.md) 도움이나 선물을 받은 사람이 그 사람에게 답례로 선물을 준다.
 - [도움받을 때의 자존감 위협](../docs/threat-in-receiving-help.md) 자기보다 가진 것이 많은 사람에게 도움을 받는 사람이 자신을 낮게 느끼고 그 도움을 밀어내거나 스스로 해결하려 한다.
+  - [얻어먹기 거절](../docs/declining-free-meals-out-of-pride.md)
 - [마음에 들지 않는 선물에 기뻐하는 척하기](../docs/feigning-delight-at-gifts.md) 마음에 들지 않는 선물을 받은 사람이 준 사람 앞에서 실망을 감추고 기뻐하는 척한다.
 - [받은 선물 다시 선물하기](../docs/regifting.md) 받은 선물을 쓰지 않은 사람이 그것을 다른 사람에게 다시 선물로 준다.
 - [보이지 않을 때까지 배웅하기](../docs/watching-until-out-of-sight.md) 떠나는 사람을 배웅한 사람이 기차나 차가 떠난 뒤에도 바로 돌아서지 않고 그 모습이 보이지 않을 때까지 그 자리에서 지켜보거나 손을 흔든다.

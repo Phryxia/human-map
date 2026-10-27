@@ -11927,5 +11927,17 @@
     "last": "2026-10-27",
     "result": "VERIFIED",
     "lastVerified": "2026-10-27"
+  },
+  "https://ko.wikisource.org/wiki/%ED%96%89%EB%9E%91%EC%9E%90%EC%8B%9D": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31103443&rettype=abstract&retmode=text": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
   }
 }

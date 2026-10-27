@@ -22,7 +22,7 @@
 
 ## 하위
 
-없음.
+- [얻어먹기 거절](declining-free-meals-out-of-pride.md)
 
 ## 원인
 
