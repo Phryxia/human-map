@@ -333,6 +333,7 @@
 - [청력 손실 숨기기](docs/hiding-hearing-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [추운 아침 이불 속에 머물기](docs/lingering-in-bed-on-cold-mornings.md) ([시간과 하루 습관](groups/daily-time.md))
 - [축의금 액수 저울질](docs/weighing-gift-money.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [충동구매](docs/impulse-buying.md) ([돈과 소비](groups/money.md))
 - [층간소음 참기](docs/enduring-neighbor-noise.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [치과 공포](docs/dental-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [침수 도로 진입](docs/driving-into-floodwater.md) ([길과 운전](groups/roads-and-driving.md))
