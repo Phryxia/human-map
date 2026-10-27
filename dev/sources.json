@@ -1019,9 +1019,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1399/pg1399-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-22",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-27"
   },
   "https://ko.wikisource.org/wiki/%EC%A7%81%EB%85%80%EC%84%B1/%EC%A0%9C12%EC%9E%A5": {
     "first": "2026-10-18",
@@ -10682,33 +10682,33 @@
   },
   "https://www.gutenberg.org/cache/epub/46272/pg46272-images.html": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://boards.straightdope.com/t/catching-a-yawn/9319": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12880893&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22163307&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://www.khan.co.kr/article/20111212103134A/": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://www.govinfo.gov/content/pkg/FR-2016-01-25/html/2016-01291.htm": {
     "first": "2026-10-26",
@@ -10724,9 +10724,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21960970&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://brunch.co.kr/@hongkim1013/15": {
     "first": "2026-10-26",
@@ -11551,6 +11551,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://www.seoul.co.kr/news/2000/03/15/20000315026001": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://en.wikisource.org/wiki/Anna_Karenina_(Garnett)/Part_Four/Chapter_14": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
