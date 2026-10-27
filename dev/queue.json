@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T12:34:47.834Z",
-  "nextSeq": 2392,
-  "stops": 120,
+  "savedAt": "2026-10-27T12:38:04.251Z",
+  "nextSeq": 2394,
+  "stops": 121,
   "items": [
     {
       "id": "15aa6d0b",
@@ -59,14 +59,6 @@
       "note": "2026-10-25 Worsley 외 2021 europepmc PMC7986561 더함. 후보: PMC12511522 (2025, 1980년대 회고) 'It was always a delicate business going knocking on doors'. PMC 는 이 환경에서 reCAPTCHA",
       "createdAt": "2026-10-25T21:32:22.719Z",
       "seq": 2142
-    },
-    {
-      "id": "6b16a3f5",
-      "title": "not-reporting-workplace-injury 보강: 한국 공공 파편",
-      "priority": 50,
-      "note": "2026-10-26 확인: korea.kr 155350181 근로자 응답은 팀반장·사업주 거부 35.7%, 보상금 적음 12.5% 로 노동자 본인의 걱정을 말하지 않음. moel news_seq=10569 도 방해·불이익 사례 수. not-reporting-for-fear-of-reprisal 는 범죄 피해자 한정이라 상위 아님. 산재 미신청 사유 '불이익 우려' 를 묻는 안전보건공단·노동연구원 조사 HTML 찾기",
-      "createdAt": "2026-10-26T09:26:54.064Z",
-      "seq": 2188
     },
     {
       "id": "d5d3cfeb",
@@ -627,6 +619,14 @@
       "note": "2026-10-27 배웅 대목 없음: jstage jsmd 21_1, unesa hikari 72807, twcu 17845, ucf scopus2015/7097. 막힘: nature.com s41599-022-01061-3 (303 로그인). 비학술 후보: ryokan.or.jp/past/english/checking_out (공공), dutchreview.com dutch-people-wave-goodbye-for-ages. 남은 방법: J-STAGE 안에서 お見送り 接客",
       "createdAt": "2026-10-27T12:34:00.936Z",
       "seq": 2391
+    },
+    {
+      "id": "6cd0bebb",
+      "title": "not-reporting-workplace-injury 보강: 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-10-26 korea.kr 155350181, moel news_seq=10569 는 노동자 본인 걱정 없음. 2026-10-27 추가로 없음: moel explain 10563, 11978, report 10234, korea.kr 148867390, 148885125. 남은 방법: 국회의원 보도자료, 서울시 노동권익센터, 지자체 이동노동자 실태조사. 매체 단서: laborhealth.or.kr/36151, newsis NISX20210305_0001360742",
+      "createdAt": "2026-10-27T12:37:56.033Z",
+      "seq": 2393
     },
     {
       "id": "d16898d2",
