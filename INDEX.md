@@ -59,6 +59,7 @@
 - [남 탓하기](docs/blaming-others.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남몰래 울기](docs/crying-in-secret.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [남은 약 다시 먹기](docs/reusing-leftover-medicine.md) ([건강과 위험](groups/health-and-safety.md))
+- [남은 약 버리지 않고 두기](docs/keeping-leftover-medicines.md) ([건강과 위험](groups/health-and-safety.md))
 - [남의 불행에 대한 기쁨](docs/schadenfreude.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 사적인 기록 몰래 보기](docs/reading-others-private-writing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

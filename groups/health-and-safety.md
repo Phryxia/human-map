@@ -17,6 +17,7 @@
 - [기침할 때 가리지 않기](../docs/not-covering-coughs.md) 공공장소에서 기침이나 재채기를 하는 사람이 습관이 되지 않았거나 귀찮아서 입과 코를 가리지 않거나 맨손으로만 가린다.
 - [나아지면 약 끊기](../docs/stopping-medication-when-feeling-better.md) 처방약을 먹던 사람이 증상이 나아지면 다 나았다고 여겨 정해진 기간을 채우지 않고 스스로 약을 끊는다.
 - [남은 약 다시 먹기](../docs/reusing-leftover-medicine.md) 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.
+- [남은 약 버리지 않고 두기](../docs/keeping-leftover-medicines.md) 다 먹지 않고 남은 약을 가진 사람이 그 약을 버리지 않고 집에 둔다.
 - [논밭두렁과 영농부산물 태우기](../docs/burning-farm-waste.md) 농촌 주민이 산불 위험과 금지 안내를 알면서도 논밭두렁이나 영농부산물, 쓰레기를 태운다.
 - [대피 미루기](../docs/delayed-evacuation.md) 화재나 해일의 경보나 징후를 접한 사람이 위험이 크지 않다고 여겨 대피하지 않거나 늦게 움직인다.
   - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)

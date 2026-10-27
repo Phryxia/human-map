@@ -11669,5 +11669,17 @@
     "last": "2026-10-27",
     "result": "VERIFIED",
     "lastVerified": "2026-10-27"
+  },
+  "https://www.sbs.com.au/news/australians-hoarding-medicines-survey": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.epa.gov/household-medication-disposal/safe-storage-medicines-home": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
   }
 }
