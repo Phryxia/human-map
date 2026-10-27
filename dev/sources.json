@@ -4221,9 +4221,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1400/pg1400-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-22",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-10-27"
   },
   "https://www.opinium.com/avoiding-awkward-situations/": {
     "first": "2026-10-19",
@@ -11635,6 +11635,30 @@
     "lastVerified": "2026-10-27"
   },
   "https://www.greenpeace.org/korea/update/12888/blog-etc-earth-day-every-day/": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.dt.co.kr/article/10417526": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00597/full": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.vogue.co.kr/?p=676274": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://ko.wikisource.org/wiki/%EC%95%A0%EC%9D%B8/6%EC%9E%A5": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
