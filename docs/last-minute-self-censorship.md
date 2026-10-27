@@ -10,6 +10,8 @@
 
 2013년 Das 와 Kramer 는 페이스북 사용자의 71%가 조사 기간에 어느 정도의 막판 자기검열을 보였다고 보고했다.[^2]
 
+2021년 Hacker News 댓글[^3]의 글쓴이는 잘못된 논리를 바로잡으려고 긴 댓글을 썼지만 Hacker News 에서 정치적인 말을 하고 싶지 않아 지웠다고 썼다.
+
 # 관계
 
 ## 상위
@@ -36,3 +38,4 @@
 
 [^1]: [SNS] "Many times I read a comment after writing it, see that although it does add a little, it does not add enough to the discussion, and just close the tab without posting the comment." (댓글을 쓴 뒤 다시 읽어 보면 조금 보태기는 해도 토론에 보탤 만큼은 아니라는 걸 알게 되고, 그냥 댓글을 올리지 않은 채 탭을 닫는 일이 많다.) — Hacker News, 댓글, 2011-04-04, https://news.ycombinator.com/item?id=2406082, 2026-10-18 접속
 [^2]: [학술] "Our results indicate that 71% of users exhibited some level of last-minute self-censorship in the time period" (결과에 따르면 사용자의 71%가 그 기간에 어느 정도의 막판 자기검열을 보였다.) — Sauvik Das, Adam Kramer, "Self-Censorship on Facebook", Proceedings of the International AAAI Conference on Web and Social Media 7(1), 2013, https://aaai.org/papers/00120-14412-self-censorship-on-facebook/, 2026-10-18 접속
+[^3]: [SNS] "I wrote a long comment, but removed it since I don't want to be political on HN, even to correct a fallacy." (긴 댓글을 썼지만 지웠다. 잘못된 논리를 바로잡으려는 것이라 해도 HN 에서 정치적이고 싶지 않기 때문이다.) — Hacker News 댓글, 2021-02-15, https://news.ycombinator.com/item?id=26139019, 2026-10-27 접속
