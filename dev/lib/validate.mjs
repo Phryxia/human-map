@@ -147,12 +147,13 @@ export function validateAll(docs, sources = {}, tags = loadTags()) {
   const byUrl = new Map(), byAcct = new Map()
   for (const d of docs.values()) for (const f of d.fragments) {
     byUrl.set(f.url, (byUrl.get(f.url) ?? new Set()).add(d.id))
-    const a = f.kind === 'SNS' ? accountOf(f.url) : blogAccountOf(f.url)
+    // 계정 경로가 URL 에 없는 SNS 글은 글 하나가 곧 한 사람이므로 URL 을 계정으로 잰다
+    const a = f.kind === 'SNS' ? accountOf(f.url) ?? `글/${f.url}` : blogAccountOf(f.url)
     if (a) { byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
   }
   for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 URL 을 ${ids.size}개 문서가 쓴다: ${url}`})
-  // 블로그 계정 검사는 기존 문서가 고쳐질 때까지 WARN 이다
-  const isBlog = a => BLOG_PATTERNS.some(([name]) => a.startsWith(name + '/'))
-  for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: isBlog(a) ? 'WARN' : 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})
+  // 블로그 계정 검사와 계정 경로 없는 SNS 글 검사는 기존 문서가 고쳐질 때까지 WARN 이다
+  const isWarn = a => a.startsWith('글/') || BLOG_PATTERNS.some(([name]) => a.startsWith(name + '/'))
+  for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: isWarn(a) ? 'WARN' : 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})
   return out
 }

@@ -60,6 +60,13 @@ test('같은 SNS 계정 경로가 둘이면 오류', () => {
   assert.ok(m.some(x => x.includes('같은 계정 경로')))
 })
 
+test('계정 경로가 URL 에 없는 SNS 글이 두 문서에 쓰이면 같은 계정으로 잰다(WARN)', () => {
+  const u = 'https://www.clien.net/service/board/image/260260'
+  const mk = () => [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, 'SNS', '2002', u).replace('서지 2', '클리앙 게시글')]
+  const m = warns(loadAll(makeRepo({a: makeDoc({frags: mk()}), b: makeDoc({frags: mk()})})))
+  assert.ok(m.some(x => x.includes('같은 계정 경로') && x.includes('a:[^2]') && x.includes('b:[^2]')))
+})
+
 test('블로그 플랫폼 계정은 종류와 상관없이 같은 계정 경로로 잰다', () => {
   assert.equal(accountOf('https://brunch.co.kr/@@82Me/112'), 'brunch/@82me')
   assert.equal(accountOf('https://brunch.co.kr/@bidancheon/166'), 'brunch/bidancheon')
