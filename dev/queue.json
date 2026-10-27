@@ -1,32 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T12:38:04.251Z",
-  "nextSeq": 2394,
-  "stops": 121,
+  "savedAt": "2026-10-27T15:33:48.852Z",
+  "nextSeq": 2418,
+  "stops": 122,
   "items": [
     {
-      "id": "15aa6d0b",
-      "title": "lingering-in-bed-on-cold-mornings: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. gall.dcinside.com/board/view/?id=bike&no=1878991 이 lingering-in-bed-on-cold-mornings:[^4], snoozing-the-alarm:[^3] 에 함께 쓰이고 두 문서의 원인/결과 간선 근거다. 추워서 알람을 끈다는 다른 인과 파편을 못 찾음. 후보 아님: vogue.co.kr 2023-10-20 스누징의 유혹(인과 없음), ruliweb 77108603(알람 없음)",
-      "createdAt": "2026-10-27T12:22:36.636Z",
-      "seq": 2385
-    },
-    {
-      "id": "d3576503",
+      "id": "e1e6161e",
       "title": "muting-chat-notifications: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
       "priority": 100,
-      "note": "2026-10-27 validate WARN. kin.naver.com/qna/detail.naver?dirId=1130&docId=488565138 이 muting-chat-notifications:[^2], pressure-to-reply-quickly:[^5] 에 함께 쓰이고 두 문서의 간선 근거다. 답장 압박 때문에 알림을 끈다는 한 문장 인과를 못 찾음. 가까운 후보: open.edu OpenLearn Tagg 2022-09-20 (두 문장에 걸침), refinery29 2020-08-09 (문장이 떨어져 있음). 남은 검색어: 텔레프레셔, 즉답 압박 알림 끄기, telepressure 초록",
-      "createdAt": "2026-10-27T12:27:48.937Z",
-      "seq": 2387
-    },
-    {
-      "id": "c35d5998",
-      "title": "dev: validate 의 블로그 계정 경로 중복을 WARN 에서 ERROR 로 올린다",
-      "priority": 80,
-      "note": "2026-10-27 brunch 중복 네 건은 같은 날 모두 고쳐짐(validate 0 warnings). 사례 avoiding-read-receipts:[^3] muting-chat-notifications:[^2]",
-      "createdAt": "2026-10-27T09:15:17.689Z",
-      "seq": 2357
+      "note": "2026-10-27 validate WARN. kin.naver.com docId=488565138 이 muting-chat-notifications:[^2], pressure-to-reply-quickly:[^5] 에 함께 쓰이고 간선 근거다. 답장 압박 때문에 알림을 끈다는 한 문장 인과를 못 찾음. 쓸 수 없음: open.edu OpenLearn(이 환경 403), brunch @longvacation(avoiding-read-receipts 가 씀, 인과 없음), vibesandvoicenotes substack(delaying-message-replies 가 씀). 남은 검색어: 텔레프레셔, telepressure 초록, 지식iN 다른 글",
+      "createdAt": "2026-10-27T15:09:32.167Z",
+      "seq": 2406
     },
     {
       "id": "f651f77c",
@@ -35,6 +19,14 @@
       "note": "2026-10-27 harsh-words-for-worry 11행 [^2] 문단 뒤 15행 '2019년 글[^2]은 부모가 자녀에게 하는 말이고 저자는 부모가 자란 방식을 조건으로 든다.' 가 0 errors 로 통과. 4절 '앞 문단의 출처를 되짚어 다시 풀어 쓰는 문단을 뒤에 두지 않는다'",
       "createdAt": "2026-10-27T09:32:51.125Z",
       "seq": 2365
+    },
+    {
+      "id": "c3049b70",
+      "title": "dev: source-check 가 VERIFIED 였던 파편의 TLS 실패를 판정 사유 없이 통과시킨다",
+      "priority": 60,
+      "note": "2026-10-27 spouse-financial-concealment [^2] scholarworks.iu.edu 가 fetch failed (SELF_SIGNED_CERT_IN_CHAIN) 로 UNREACHABLE 인데 '호스트 전체가 막혀 있다' 도 소멸 안내도 없이 종료코드 0. 호스트 / 도 curl 000. 출력에 통과 사유를 붙이거나 판정을 명세대로 맞춘다",
+      "createdAt": "2026-10-27T15:29:53.560Z",
+      "seq": 2416
     },
     {
       "id": "0017517c",
@@ -99,30 +91,6 @@
       "note": "2026-10-26 SBS Biz 2025-10-15 무대응 31.3% 더함. 같은 기사 '사직을 통해 회사를 떠나는 피해자도 20% 가까이' 는 직장 그만두기 문서가 생기면 결과 간선 근거(같은 URL). Pennington 2000 PMID 11314480 eutils efetch, Fitzgerald 1995 Wiley 봇 확인",
       "createdAt": "2026-10-26T09:35:17.135Z",
       "seq": 2199
-    },
-    {
-      "id": "8dec9a62",
-      "title": "gossip 보강: overhearing-talk-about-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-26 brunch @ohmichin/57 (2026-07-31) 죄책감 더함. 후보: insight.co.kr/news/531540 (2025-12-01) 팀장 뒷담화를 칸막이 너머에서 들은 수습 직원, workingus.com 뒷담화하는 사람들 (2023-10-22)",
-      "createdAt": "2026-10-26T09:36:03.890Z",
-      "seq": 2200
-    },
-    {
-      "id": "2b7867ca",
-      "title": "not-reading-books 보강: 학술·문학 파편, 2000년 이전, smartphone-checking-habit 관계",
-      "priority": 50,
-      "note": "2026-10-26 loc.gov lcib 0806 (2008-06) 18\\~24세 절반 더함. 후보: mcst pressView pSeq=10050 (2009-07-03), news.ycombinator.com/item?id=9349113 (2015). NEA 원보고서 HTML, 1990년대 갤럽 기사 미발견",
-      "createdAt": "2026-10-26T09:36:42.715Z",
-      "seq": 2201
-    },
-    {
-      "id": "f0f37ce1",
-      "title": "pet-loss-grief 보강: bereavement-regret 관계(자책)",
-      "priority": 50,
-      "note": "2026-10-26 HN 5699451 (2013-05-13) 유골과 털 간직 더함. keeping-belongings-of-the-dead 는 사람을 잃은 경우라 상위·관계 아님. 후보: samhsa.gov/resource/dbhis/coping-losing-pet (2025-02-21) 연령대별 애도",
-      "createdAt": "2026-10-26T09:37:24.011Z",
-      "seq": 2202
     },
     {
       "id": "f6e7de03",
@@ -629,6 +597,78 @@
       "seq": 2393
     },
     {
+      "id": "95da4315",
+      "title": "pet-loss-grief 와 bereavement-regret 관계(자책)",
+      "priority": 50,
+      "note": "2026-10-27 The Conversation 2022-12-07 안락사 동의 뒤 41% 죄책감 파편을 pet-loss-grief 에 더함. bereavement-regret 는 사람을 잃은 경우라 상위 아님. 반려동물 자책을 따로 문서로 두거나 원인 간선 근거 필요. 후보: vegannews 382851 안락사 뒤 '더 해줄 수 있는 일' 반복",
+      "createdAt": "2026-10-27T15:11:17.457Z",
+      "seq": 2407
+    },
+    {
+      "id": "632de248",
+      "title": "gossip 보강: overhearing-talk-about-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-26 brunch @ohmichin/57 (2026-07-31) 죄책감 더함. 후보: insight.co.kr/news/531540 (2025-12-01) 팀장 뒷담화를 칸막이 너머에서 들은 수습 직원, workingus.com 뒷담화하는 사람들 (2023-10-22)",
+      "createdAt": "2026-10-27T15:12:29.030Z",
+      "seq": 2408
+    },
+    {
+      "id": "5aa780da",
+      "title": "not-reading-books 보강: 문학 파편, smartphone-checking-habit 관계",
+      "priority": 50,
+      "note": "2026-10-27 Mikulecky 1978 ERIC ED157052 더함. 다른 ERIC 후보: ED240543 (1984 AEI 회의 People Who Can Read but Won't), ED265528 (1985). 문체부 2024 [^6] '책 이외 매체(스마트폰...)를 이용해서' 는 스마트폰 이용 일반이라 확인 습관 간선 근거로는 약함",
+      "createdAt": "2026-10-27T15:16:32.170Z",
+      "seq": 2410
+    },
+    {
+      "id": "68d8485c",
+      "title": "choice-deferral 와 choice-overload 관계",
+      "priority": 50,
+      "note": "2026-10-27 choice-deferral 추가. 대안이 많아 선택을 미룬다는 인과 파편이 있으면 choice-overload 결과 간선. Anderson 2003 초록 'selection difficulty' 는 요인 나열이라 근거 아님. 박상미 2019 칼럼의 '햄릿 증후군' 별칭 후보",
+      "createdAt": "2026-10-27T15:17:54.638Z",
+      "seq": 2411
+    },
+    {
+      "id": "ac78df75",
+      "title": "craving-spicy-food-under-stress 보강: 학술, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-27 추가. 후보: 서울대 연구진 Food Quality and Preference 급성 스트레스 뒤 매운맛 욕구(정서적 섭식 성향 조건, 코메디닷컴 2026-08-27 이 전함), 2018 디지털콘텐츠학회논문지 치위생과 학생 387명(koreascience 이 환경에서 연결 실패)",
+      "createdAt": "2026-10-27T15:24:02.547Z",
+      "seq": 2412
+    },
+    {
+      "id": "f30130b0",
+      "title": "impulse-buying 보강: SNS 파편, retail-therapy 관계, 자기 보상 원인",
+      "priority": 50,
+      "note": "2026-10-27 추가. 후보: 뉴시스 NISX20170726_0000051341 (2017-07-26) 충동 소비의 가장 큰 이유는 자신에게 이 정도는 해줘도 된다는 생각, 10명 중 7명 경험. Hoch·Loewenstein 1991 초록 'sudden increases in desire for a product'",
+      "createdAt": "2026-10-27T15:25:39.154Z",
+      "seq": 2413
+    },
+    {
+      "id": "05eaa186",
+      "title": "overreporting-desirable-behavior 보강: 매체·SNS 파편, 투표 과대 보고",
+      "priority": 50,
+      "note": "2026-10-27 추가. 후보: Vernon 외 2012 PMID 22144501 대장암 검진 자기보고 과대 보고(사회적 바람직성 척도와는 무관), PMID 35142972 (2022 성행동 과대·과소 보고). 질병관리청 2026-10-15 손씻기 실천 응답 51.2% 와 관찰 11.4%",
+      "createdAt": "2026-10-27T15:27:00.667Z",
+      "seq": 2414
+    },
+    {
+      "id": "99c0b86b",
+      "title": "delaying-going-home 보강: 학술 파편, 차 안에 머물기, shrinking-in-hosts-home 관계",
+      "priority": 50,
+      "note": "2026-10-27 추가. 후보: jamaica-gleaner.com/article/lifestyle/20260422/youre-not-alone-sitting-car-after-long-day (AP 2026-04-22) 'Others stay long after they’ve parked.' 가족 회피는 직접 말하지 않음. 주간경향 2015-01-20 같은 글 '조금이라도 귀가시간을 늦추기 위해 어떻게 해서든 저녁 약속을 만든다'",
+      "createdAt": "2026-10-27T15:27:41.709Z",
+      "seq": 2415
+    },
+    {
+      "id": "65e77fc9",
+      "title": "impatience-at-red-light 보강: SNS 파편, jaywalking 결과 간선",
+      "priority": 50,
+      "note": "2026-10-27 추가. 답답해서 빨간불에 건넜다는 한 문장 인과 필요. 후보: korea.kr 148757052 '보행자 신호가 자주 바뀌지 않기 때문에' 대목(jaywalking [^2] 와 같은 URL), Guo 2011 PMID 21259179 'The violation inclination of most pedestrians increased with the increasing waiting duration'",
+      "createdAt": "2026-10-27T15:32:36.521Z",
+      "seq": 2417
+    },
+    {
       "id": "d16898d2",
       "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
       "priority": 40,
@@ -1085,44 +1125,12 @@
       "seq": 250
     },
     {
-      "id": "3a4cdeae",
-      "title": "재정 파탄을 알리지 않고 파산 신청하기에 대한 상대의 반응",
-      "priority": 10,
-      "note": "Mong 외 2021 J Financial Therapy 12(1) journals.newprairiepress.org/jft/article/id/5558/: 관계를 떠날 의향을 부른 유일한 행동은 알리지 않은 파산 신청. spouse-financial-concealment 결과 후보",
-      "createdAt": "2026-10-18T09:00:22.353Z",
-      "seq": 251
-    },
-    {
       "id": "f57ffce7",
       "title": "얹혀사는 대가로 집안일 거들기",
       "priority": 10,
       "note": "김유정 따라지(위키문헌) '아우는 마당도 쓸어 놓고, 부뚜막의 그릇도 치우고'. shrinking-in-hosts-home 하위 또는 결과 후보, indebtedness 와 관련",
       "createdAt": "2026-10-18T09:45:50.307Z",
       "seq": 270
-    },
-    {
-      "id": "6c6a4c26",
-      "title": "집에 늦게 들어가 마주침 피하기",
-      "priority": 10,
-      "note": "주간경향 2015-01-20 캥거루족 기사: 부모 집에 사는 30대가 귀가를 늦추려 저녁 약속을 만든다. shrinking-in-hosts-home, avoiding-shared-elevator 와 관련",
-      "createdAt": "2026-10-18T09:45:50.428Z",
-      "seq": 271
-    },
-    {
-      "id": "be7f435d",
-      "title": "얻어먹기를 거절하는 자존심",
-      "priority": 10,
-      "note": "나도향 행랑자식(위키문헌 1923): 진태 '나는 밥 얻어먹으러 들어가기는 싫어요', 어멈 '먹을 것 있어요' 부끄러운 웃음. threat-in-receiving-help, help-seeking-avoidance 와 관련",
-      "createdAt": "2026-10-18T09:45:50.582Z",
-      "seq": 272
-    },
-    {
-      "id": "0d826243",
-      "title": "말과 다른 행동 (자기보고와 관찰의 차이)",
-      "priority": 10,
-      "note": "질병관리청 2026-10-15 보도자료: 올바른 손씻기 실천 응답 51.2%, 관찰 11.4%. Lawson 2019: 남이 있어도 같다고 답했으나 혼자일 때 덜 씻음. phone-use-while-driving F2(위험 인지 98%)와 관련",
-      "createdAt": "2026-10-18T10:03:37.349Z",
-      "seq": 279
     },
     {
       "id": "534bbeca",
@@ -1141,14 +1149,6 @@
       "seq": 320
     },
     {
-      "id": "8e3a0de9",
-      "title": "선택 연기",
-      "priority": 10,
-      "note": "regret-aversion F3(이우빈·김재휘 2019, 단일 대안 제시가 선택 연기에 미치는 효과를 예상 후회가 매개). regret-aversion 의 결과 후보, procrastination 과 관련",
-      "createdAt": "2026-10-18T12:57:40.661Z",
-      "seq": 322
-    },
-    {
       "id": "54432e81",
       "title": "운전 중단 뒤 고립감",
       "priority": 10,
@@ -1163,38 +1163,6 @@
       "note": "ignoring-emergency-alerts F5(Sutton&Wood 2025 desensitization) 와 delayed-evacuation 사이 원인 간선 후보. 2008 Simmons&Sutter AMS 초록 ams.confex.com/ams/88Annual/webprogram/Paper135736.html 'False alarms are widely perceived to reduce response to warnings'",
       "createdAt": "2026-10-18T14:45:56.271Z",
       "seq": 331
-    },
-    {
-      "id": "34a8fa00",
-      "title": "분노 억제 뒤 분노 증가",
-      "priority": 10,
-      "note": "Hosie 외 2005 Psychologia 48(4) jstage 48_4_288: suppression led to an increase in females’ self reports of anger. suppressed-anger-outburst 원인/하위 후보, 성별 조건",
-      "createdAt": "2026-10-18T16:38:15.953Z",
-      "seq": 343
-    },
-    {
-      "id": "3a7c9e0b",
-      "title": "구매 욕구와 의지의 맞섬",
-      "priority": 10,
-      "note": "Hoch&Loewenstein 1991 JCR 17(4) ideas.repec.org/a/oup/jconrs/v17y1991i4p492-507.html 'a struggle between two psychological forces, desire and willpower'. delaying-purchases 와 retail-therapy 사이 긴장 근거 후보",
-      "createdAt": "2026-10-18T16:45:10.190Z",
-      "seq": 344
-    },
-    {
-      "id": "2b2b5c8c",
-      "title": "보상 소비로서의 매운 음식 찾기",
-      "priority": 10,
-      "note": "mood-repair F2·F3(주간경향 2004, 비즈한국 2015). 하위 후보",
-      "createdAt": "2026-10-18T16:55:32.322Z",
-      "seq": 345
-    },
-    {
-      "id": "2f7f349d",
-      "title": "신호 대기 중의 답답함",
-      "priority": 10,
-      "note": "jaywalking F4(news.seoul.go.kr/traffic/archives/510853): 빨간불 남은 시간을 모를 때 기다리는 답답함, 무단횡단 원인 후보. korea.kr 148757052 도 '보행자 신호가 자주 바뀌지 않기 때문에 ... 무단횡단의 유혹' 원인 문장",
-      "createdAt": "2026-10-18T17:38:59.342Z",
-      "seq": 358
     },
     {
       "id": "0597c551",
@@ -2219,6 +2187,14 @@
       "note": "레이디경향 2021-09-30 lady.khan.co.kr/culture/article/202109301729001: 회식에 부정적인 이유 '업무의 연장 같다는 생각 때문(48.2%)'. company-dinner-pressure 원인 간선 후보(같은 URL). 2026-10-27 damoang free/5452436 봇 확인 403, insight.co.kr 468874 (2026-07) 상사 '회식도 업무의 연장이다' 사연, tsisalaw.com 30222 회식 근로시간 논쟁 후보",
       "createdAt": "2026-10-27T03:38:24.229Z",
       "seq": 2308
+    },
+    {
+      "id": "735954ec",
+      "title": "무료급식 이용을 꺼리는 노인",
+      "priority": 10,
+      "note": "declining-free-meals-out-of-pride 보강 후보. 2026-10-27 한국어 매체 파편 미발견. 검색어: 무료급식 노인 체면, 경로식당 이용 기피. jjan.kr 20210524732823 에 자녀들이 부모가 밥을 얻어먹으러 다니는 것을 낯부끄러워했다는 대목",
+      "createdAt": "2026-10-27T15:14:22.179Z",
+      "seq": 2409
     },
     {
       "id": "02b2f242",
