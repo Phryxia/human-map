@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T12:08:17.805Z",
+  "savedAt": "2026-10-27T12:16:44.527Z",
   "nextSeq": 2384,
   "stops": 120,
   "items": [
-    {
-      "id": "e2310b44",
-      "title": "bedtime-procrastination: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. https://bbs.ruliweb.com/family/4526/board/300143/read/76592812 이 bedtime-procrastination:[^6], procrastination:[^9] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
-      "createdAt": "2026-10-27T12:08:07.251Z",
-      "seq": 2376
-    },
     {
       "id": "5bcd8e1d",
       "title": "bystander-effect: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
@@ -27,14 +19,6 @@
       "note": "2026-10-27 validate WARN. https://www.clien.net/service/board/park/9289386 이 cringing-at-past-embarrassment:[^3], lying-awake-thinking:[^6] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
       "createdAt": "2026-10-27T12:08:07.557Z",
       "seq": 2378
-    },
-    {
-      "id": "b1d913de",
-      "title": "fear-of-failure: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. https://news.ycombinator.com/item?id=17187260 이 fear-of-failure:[^4], procrastination:[^4] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
-      "createdAt": "2026-10-27T12:08:07.713Z",
-      "seq": 2379
     },
     {
       "id": "66fbbd6a",
