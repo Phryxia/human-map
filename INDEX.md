@@ -310,6 +310,7 @@
 - [조용한 이탈](docs/silent-exit.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [졸음운전](docs/driving-while-drowsy.md) ([길과 운전](groups/roads-and-driving.md))
 - [좋게 보이는 행동 부풀려 답하기](docs/overreporting-desirable-behavior.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [좋아하는 사람을 마주치려고 기다리기](docs/hoping-to-run-into-a-crush.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋은 물건 아껴 두기](docs/saving-things-for-best.md) ([돈과 소비](groups/money.md))
 - [주말 몰아 자기](docs/weekend-catch-up-sleep.md) ([시간과 하루 습관](groups/daily-time.md))

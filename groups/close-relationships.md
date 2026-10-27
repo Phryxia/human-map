@@ -52,6 +52,7 @@
     - [아픈 것을 가족에게 숨기기](../docs/hiding-illness-from-family.md)
 - [자기에 대한 말 엿듣기](../docs/overhearing-talk-about-oneself.md) 자기 이야기를 하는 다른 사람들의 대화를 그 자리에 없는 줄 아는 상태에서 사람이 몰래 듣는다.
 - [자식 자랑](../docs/bragging-about-children.md) 부모가 다른 사람 앞에서 자기 자녀의 외모나 대학, 직장을 자랑한다.
+- [좋아하는 사람을 마주치려고 기다리기](../docs/hoping-to-run-into-a-crush.md) 좋아하는 사람을 한 번이라도 보려는 사람이 그 사람이 나타날 만한 곳에 일부러 가서 기다린다.
 - [짐이 되기 싫은 마음](../docs/self-perceived-burden.md) 나이 들거나 아픈 사람이 가족과 돌보는 사람에게 짐이 된다고 느끼고 그 짐을 덜려고 도움을 줄이거나 따로 살거나 치료를 그만두기를 바란다.
 - [짝사랑](../docs/unrequited-love.md) 어떤 사람을 사랑하는 사람이 상대가 같은 마음을 주지 않거나 그 마음을 모르는 채로 혼자 마음을 품는다.
 - [참아 온 불만의 폭발](../docs/suppressed-anger-outburst.md) 오래 불만이나 분노를 드러내지 않던 사람이 사소한 계기에 쌓인 감정을 한꺼번에 쏟아 낸다.
