@@ -1,24 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T06:41:40.287Z",
-  "nextSeq": 2326,
-  "stops": 119,
+  "savedAt": "2026-10-27T09:38:06.701Z",
+  "nextSeq": 2368,
+  "stops": 120,
   "items": [
     {
-      "id": "91fc954e",
-      "title": "dev: validate 가 매체 종류의 블로그 계정 경로(brunch @@, @) 중복도 잡는다",
+      "id": "a838815d",
+      "title": "dev: validate 가 같은 SNS URL 이 둘 이상의 문서에 쓰인 것을 같은 계정으로 잡는다",
       "priority": 80,
-      "note": "2026-10-27 waiting-up-for-family 보강 후보 brunch.co.kr/@@82Me/112 가 waiting-for-someone-late 에 이미 있는데 validate 0 errors. 같은 계정 규칙은 종류와 상관없이 블로그 플랫폼 계정에도 적용할 것",
-      "createdAt": "2026-10-27T06:41:27.887Z",
-      "seq": 2325
+      "note": "2026-10-27 clien.net/service/board/image/260260 이 dodging-the-bill:[^2] 와 fighting-over-the-bill:[^2] 에 있었는데 계정 경로가 URL 에 없어 0 errors 였다(같은 날 dodging-the-bill 쪽을 뺌)",
+      "createdAt": "2026-10-27T09:15:17.543Z",
+      "seq": 2356
     },
     {
-      "id": "454daacc",
-      "title": "hiding-bedbug-infestation 보강: 한국어 파편, avoiding-inviting-people-home 과 관계",
-      "priority": 50,
-      "note": "2026-10-25 경향 202311011603001, 경기 20240111580138, brunch bizhrd/569 에 숨김·낙인 대목 없음. Asshoff 2022 'self-isolate and avoid family and friends'(같은 URL)",
-      "createdAt": "2026-10-25T21:29:23.321Z",
-      "seq": 2139
+      "id": "c35d5998",
+      "title": "dev: validate 의 블로그 계정 경로 중복을 WARN 에서 ERROR 로 올린다",
+      "priority": 80,
+      "note": "2026-10-27 brunch 중복 네 건은 같은 날 모두 고쳐짐(validate 0 warnings). 사례 avoiding-read-receipts:[^3] muting-chat-notifications:[^2]",
+      "createdAt": "2026-10-27T09:15:17.689Z",
+      "seq": 2357
+    },
+    {
+      "id": "f651f77c",
+      "title": "dev: validate 가 앞 문단에서 이미 쓴 각주만 다시 가리키는 서술 문단을 잡는다",
+      "priority": 80,
+      "note": "2026-10-27 harsh-words-for-worry 11행 [^2] 문단 뒤 15행 '2019년 글[^2]은 부모가 자녀에게 하는 말이고 저자는 부모가 자란 방식을 조건으로 든다.' 가 0 errors 로 통과. 4절 '앞 문단의 출처를 되짚어 다시 풀어 쓰는 문단을 뒤에 두지 않는다'",
+      "createdAt": "2026-10-27T09:32:51.125Z",
+      "seq": 2365
     },
     {
       "id": "0017517c",
@@ -45,14 +53,6 @@
       "seq": 2142
     },
     {
-      "id": "1eee0674",
-      "title": "kiosk-order-abandonment 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-25 아주경제 2019-09-30 별칭 키오스크 포비아 더함. 후보: wikitree 627568 어머니 20분 헤매다 귀가(자녀 글 옮김)",
-      "createdAt": "2026-10-25T21:34:01.491Z",
-      "seq": 2143
-    },
-    {
       "id": "695216e7",
       "title": "guilt-about-resigning 보강: 공공 파편",
       "priority": 50,
@@ -61,36 +61,12 @@
       "seq": 2154
     },
     {
-      "id": "0b261968",
-      "title": "job-insecurity 보강: 한국어 파편, 건강 결과 간선",
-      "priority": 50,
-      "note": "2026-10-26 Sinclair 1906, Ferrie 1995 BMJ, HN 22921685 2020, Bacci 2024 로 만듦. 후보: PMC1732160 Ferrie 2002 'Self reported morbidity was higher among participants who lost job security.', frontiersin 10.3389/fpsyg.2017.02084 두려움의 두 면, HN 46773296 (2026-01-26) 잘릴까 반대 의견을 말하지 못함, Metamorphosis gutenberg 5200 지각 뒤 자리 걱정. money-worry, guilt-about-resigning 과 관계 후보",
-      "createdAt": "2026-10-26T06:10:52.168Z",
-      "seq": 2158
-    },
-    {
-      "id": "eb7d8d35",
-      "title": "withholding-information-from-doctors 보강: SNS 파편, 이유와 원인 간선",
-      "priority": 50,
-      "note": "2026-10-26 Trollope 1858, Palmieri 2009, Levy 2018, 코메디닷컴 2022 로 만듦. 후보: 같은 Levy PMC6324389 'not wanting to be judged or hear how harmful their behavior is'(이유, 같은 URL), kormedi.com/1383445 (2022-02-26) 폭음 습관을 죄책감·부끄러움으로 숨김, PMC2709648 Chao 2008 대체요법 사용 절반 넘게 말하지 않음, Tolstoy Ivan Ilych IV en.wikisource 처방을 몰래 먹음. fear-of-negative-evaluation, hiding-illness-from-family 과 관계 후보",
-      "createdAt": "2026-10-26T06:24:14.757Z",
-      "seq": 2159
-    },
-    {
       "id": "59658d7f",
       "title": "watching-until-out-of-sight 보강: 학술 파편",
       "priority": 50,
       "note": "2026-10-26 Substack 댓글 2023-12-24 더함. 후보: karapaia.com/archives/52248367.html 댓글 '本当に見えなくなるまでずーーーっと見送ってくれてた'(댓글 날짜 미확인), Masaki·Asai 2013 Med Humanit omiokuri 는 사망 퇴원 배웅(mh.bmj.com Cloudflare, eutils 만 열림), ryokan.or.jp checking_out 미검증",
       "createdAt": "2026-10-26T06:36:46.852Z",
       "seq": 2160
-    },
-    {
-      "id": "3f13e027",
-      "title": "alarm-fatigue 보강: 2010년 이전 파편, 의료 밖 사례",
-      "priority": 50,
-      "note": "2026-10-26 2013~2025 의료 출처로 만듦. Graham·Cvach 2010 aacnjournals 403, Joint Commission SEA 50 403, NBK555522 reCAPTCHA. 가정용 보안경보, 차량 경보 사례 후보",
-      "createdAt": "2026-10-26T09:18:36.365Z",
-      "seq": 2186
     },
     {
       "id": "6b16a3f5",
@@ -125,28 +101,12 @@
       "seq": 2194
     },
     {
-      "id": "df2b6a04",
-      "title": "breaking-up 보강: 다른 시기 파편, holding-back-tears-at-breakup 관계",
-      "priority": 50,
-      "note": "2026-10-26 marieclaire 2019 더하고 snooping-on-partners-phone 원인 간선. 후보: livescience 28814 (2013-04-17) 고교 커플, 네이트판 202712787 (2010-09-22) 되풀이되는 싸움에 지쳐 헤어짐",
-      "createdAt": "2026-10-26T09:32:52.232Z",
-      "seq": 2195
-    },
-    {
       "id": "882064e2",
       "title": "emotional-labor 보강: heavy-drinking 결과 간선 근거",
       "priority": 50,
       "note": "2026-10-26 퇴사 SNS 파편 더함. 후보: pann 342131791 (2018-05-23) 욕설 고객에게 공감 표현이 안 나감, pann 323934909 (2014-08-19) 판매직. 음주 원인 1인칭 글 미발견",
       "createdAt": "2026-10-26T09:33:39.144Z",
       "seq": 2197
-    },
-    {
-      "id": "b1072442",
-      "title": "keeping-a-diary 보강: 연령·성별 조건, unsent-letters 관계",
-      "priority": 50,
-      "note": "2026-10-26 Seemann 2021 PMC8440253 더함. 후보: news.ycombinator.com/item?id=25251560 (2020-11-30), PMID 19320211 Yukawa 2008 웹 일기와 반추, literacytrust 2022 는 PDF",
-      "createdAt": "2026-10-26T09:34:35.879Z",
-      "seq": 2198
     },
     {
       "id": "67ae84ef",
@@ -579,6 +539,86 @@
       "note": "2026-10-27 파편 1908 문학, 1954 문학, 2008·2012·2020·2025 매체, 2013 학술. SNS 없음. Reddit 은 이 환경에서 막힘",
       "createdAt": "2026-10-27T06:39:44.750Z",
       "seq": 2324
+    },
+    {
+      "id": "0e9c8998",
+      "title": "dodging-the-bill 과 fighting-over-the-bill 의 대립 간선을 다른 출처로 다시 긋는다",
+      "priority": 50,
+      "note": "2026-10-27 근거였던 brunch hongkim1013/15 가 같은 계정 규칙에 걸려 fighting-over-the-bill 에서 빠짐. 같은 사람 안에서 다 내고 싶은 마음과 얻어먹고 싶은 마음을 말하는 출처 필요",
+      "createdAt": "2026-10-27T09:14:34.843Z",
+      "seq": 2355
+    },
+    {
+      "id": "a5a97dbb",
+      "title": "hiding-bedbug-infestation 보강: 한국어 파편, avoiding-inviting-people-home 과 관계",
+      "priority": 50,
+      "note": "2026-10-25 경향 202311011603001, 경기 20240111580138, brunch bizhrd/569 에 숨김·낙인 대목 없음. 2026-10-27 twig24 20231106500202 '신고 꺼리는 분위기' 는 JS 본문·503 이고 영업장 이야기, elle 81988 숨김 대목 없음. Asshoff 2022 'self-isolate and avoid family and friends'(같은 URL)",
+      "createdAt": "2026-10-27T09:16:32.317Z",
+      "seq": 2358
+    },
+    {
+      "id": "1da31793",
+      "title": "job-insecurity 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-10-27 경향 2008-04-23 잡코리아 53.2% 더함. 관계 절이 모두 비어 있음. HN 46773296 반대 의견 못 함, money-worry, guilt-about-resigning, staying-in-job-for-health-insurance 와 관계 후보",
+      "createdAt": "2026-10-27T09:19:52.679Z",
+      "seq": 2359
+    },
+    {
+      "id": "347d597e",
+      "title": "holding-a-grudge 보강: 다른 시기, desire-for-revenge 와 rumination 관계",
+      "priority": 50,
+      "note": "2026-10-27 Ricciardi 2013 frontiersin fnhum.2013.00839 더함. 같은 글 'Typically, people holding a grudge rehearse memories of past hurtful events (Baumeister et al., 1998 ). This condition, known as rumination' 는 rumination 관계 후보. 원한이 복수심을 부른다는 파편, 2000년 이전 파편 필요",
+      "createdAt": "2026-10-27T09:27:17.171Z",
+      "seq": 2360
+    },
+    {
+      "id": "f21d522e",
+      "title": "withholding-information-from-doctors 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-10-27 HN 44182805 (2025) 식단 잔소리 피하려 숨김 더함. 후보: HN 21539358 (2019-11-14) 정보 유출이 두려워 의사에게 거짓말, Levy PMC6324389 'not wanting to be judged'(이유), fear-of-negative-evaluation, hiding-illness-from-family 관계 후보",
+      "createdAt": "2026-10-27T09:28:04.870Z",
+      "seq": 2361
+    },
+    {
+      "id": "2e56195c",
+      "title": "alarm-fatigue 보강: 2010년 이전 파편",
+      "priority": 50,
+      "note": "2026-10-27 HN 8479528 (2014) 자동차 경보 더함. Graham·Cvach 2010 aacnjournals 403, Joint Commission SEA 50 403, NBK555522 reCAPTCHA. 후보: HN 6517292 (2013) 거짓 경보 잦은 연기 감지기를 떼어 둠, HN 13362670 (2017) 대피 훈련이 모든 경보를 가짜로 여기게 함",
+      "createdAt": "2026-10-27T09:28:58.702Z",
+      "seq": 2362
+    },
+    {
+      "id": "5f1bd0cb",
+      "title": "breaking-up 보강: holding-back-tears-at-breakup 관계",
+      "priority": 50,
+      "note": "2026-10-27 livescience 28814 (2013) 더함. 후보: 네이트판 202712787 (2010-09-22) 되풀이되는 싸움에 지쳐 헤어짐",
+      "createdAt": "2026-10-27T09:30:18.609Z",
+      "seq": 2363
+    },
+    {
+      "id": "3981d713",
+      "title": "keeping-a-diary 보강: 성별 조건, unsent-letters 관계",
+      "priority": 50,
+      "note": "2026-10-27 HN 25251560 (2020) 10대부터 40년 더함. 후보: PMID 19320211 Yukawa 2008 웹 일기와 반추(rumination 관계 후보), literacytrust 2022 는 PDF",
+      "createdAt": "2026-10-27T09:31:16.266Z",
+      "seq": 2364
+    },
+    {
+      "id": "7acb88ba",
+      "title": "holding-back-tears-at-breakup 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-27 HN '\"held back tears\" breakup' 무소득. teamblind 헤어지자고-만난-자리에서-YtEUwm24 (2024-02-26) 는 회사명이 함께 보여 쓰지 않음. postype @nothingwillchangeeveniftimegoes/21447795 는 창작물일 수 있음",
+      "createdAt": "2026-10-27T09:37:01.437Z",
+      "seq": 2366
+    },
+    {
+      "id": "3fe5229f",
+      "title": "intentional-tanning 보강: 2000년 이전 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-27 확인됨 2개(2024, 2026). HN 21147035 (2019) 는 기분 때문에 태닝 침대를 씀으로 겉모습 목적이 아님",
+      "createdAt": "2026-10-27T09:37:01.617Z",
+      "seq": 2367
     },
     {
       "id": "d16898d2",
