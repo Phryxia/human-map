@@ -12,6 +12,8 @@
 
 2022년 기사[^6]는 환자 가족과 상담하면 환자가 말한 것보다 훨씬 많은 술을 마신다는 점이 드러난다고 적는다.
 
+2025년 Hacker News 댓글[^7]의 글쓴이는 혈압약 처방을 받아야 했고 식단 잔소리를 듣고 싶지 않아 자기 식단을 의사에게 말하지 않았다고 썼다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^4]: [학술] "Patients, on the other hand, may minimize or exaggerate symptoms or avoid key clinical issues." (한편 환자는 증상을 줄이거나 부풀리고, 진료의 핵심 문제를 피할 수 있다.) — John J. Palmieri, Theodore A. Stern, "Lies in the Doctor-Patient Relationship", Primary Care Companion to The Journal of Clinical Psychiatry, 2009, https://pmc.ncbi.nlm.nih.gov/articles/PMC2736034/, 2026-10-26 접속
 [^5]: [학술] "A total of 1630 MTurk participants (81.1%) and 1535 SSI participants (61.4%) avoided disclosing at least 1 type of information." (MTurk 참가자 1630명(81.1%)과 SSI 참가자 1535명(61.4%)이 적어도 한 가지 정보를 밝히지 않았다.) — Andrea Gurmankin Levy 외, "Prevalence of and Factors Associated With Patient Nondisclosure of Medically Relevant Information to Clinicians", JAMA Network Open, 2018-11-30, https://pmc.ncbi.nlm.nih.gov/articles/PMC6324389/, 2026-10-26 접속
 [^6]: [매체] "환자의 가족들과 상담해보면 환자가 말한 것보다 훨씬 많은 양의 술을 마시고 있다는 점이 드러난다." — 코메디닷컴, "환자들이 의사에게 하는 흔한 거짓말 5", 2022-04-18, https://kormedi.com/1392792/, 2026-10-26 접속
+[^7]: [SNS] "I didn't tell my doctor about my diet, because I needed him to prescribe the BP meds and didn't want him nagging me about diet." (혈압약을 처방받아야 했고 식단에 대해 잔소리를 듣고 싶지 않아서 의사에게 내 식단을 말하지 않았다.) — Hacker News 댓글, 2025-06-04, https://news.ycombinator.com/item?id=44182805, 2026-10-27 접속
