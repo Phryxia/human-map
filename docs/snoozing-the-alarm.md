@@ -27,6 +27,7 @@
 ## 원인
 
 - [추운 아침 이불 속에 머물기](lingering-in-bed-on-cold-mornings.md)[^4]
+- [늦잠에 대한 불안](oversleeping-anxiety.md)[^5]
 
 ## 결과
 

@@ -74,6 +74,7 @@
 - [누구에게 말했는지 잊기](docs/destination-memory-failure.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [눈치 야근](docs/staying-late-for-boss.md) ([일터와 일자리](groups/work.md))
 - [늦는 사람을 기다리며 서성이기](docs/waiting-for-someone-late.md) ([시간과 하루 습관](groups/daily-time.md))
+- [늦잠에 대한 불안](docs/oversleeping-anxiety.md) ([시간과 하루 습관](groups/daily-time.md))
 - [다른 일을 하며 휴대전화 보기](docs/phone-use-while-doing-other-things.md) ([길과 운전](groups/roads-and-driving.md))
 - [다원적 무지](docs/pluralistic-ignorance.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [다이어트 중 폭식](docs/diet-breaking-binge.md) ([시간과 하루 습관](groups/daily-time.md))

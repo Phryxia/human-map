@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [늦는 사람을 기다리며 서성이기](../docs/waiting-for-someone-late.md) 올 시간이 지나도 오지 않는 사람을 기다리는 사람이 불안해하며 서성이거나 거듭 연락한다.
+- [늦잠에 대한 불안](../docs/oversleeping-anxiety.md) 아침에 제때 일어나야 하는 사람이 늦잠을 잘까 봐 불안해한다.
 - [다이어트 중 폭식](../docs/diet-breaking-binge.md) 먹는 것을 참던 사람이 한 번 다이어트가 깨지면 그동안 참던 음식을 한꺼번에 많이 먹는다.
 - [받은 음식 남기기](../docs/leaving-food-on-the-plate.md) 급식이나 식당에서 음식을 받은 사람이 그 음식을 다 먹지 않고 남긴다.
 - [봄맞이 대청소](../docs/spring-cleaning.md) 겨울이 지나고 봄이 온 것을 느낀 사람이 집 안의 먼지와 묵은 때를 한꺼번에 치우는 대청소를 한다.
