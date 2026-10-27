@@ -11240,33 +11240,33 @@
   },
   "https://www.korea.kr/news/reporterView.do?newsId=148687506": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31221770&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://www.rcips.ky/cash-turned-over-to-the-police-owner-located-9-january": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://view.asiae.co.kr/article/2023071410351761289": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39881201&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://www.nbcnews.com/id/wbna21102202": {
     "first": "2026-10-26",
@@ -12162,6 +12162,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://www.gutenberg.org/cache/epub/1019/pg1019.txt": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.spokesman.com/stories/1996/nov/24/seattleites-can-be-justly-proud": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
