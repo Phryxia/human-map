@@ -6,9 +6,9 @@
 
 # 서술
 
-2025년 9월 지식iN 게시글[^1]의 글쓴이는 카톡이 오면 바로 답해야 한다는 부담감, 중요하지 않은 일상 대화, 잦은 알림 때문에 친한 친구들의 알림은 보통 꺼 둔다고 적었다.
+2019년 1월 기사[^1]가 전한 e2save 조사에서 응답자 40퍼센트는 단체 대화방을 떠나고 싶지만 무례하다고 여겨 대신 음소거 버튼을 쓴다고 답했다.
 
-2026년 9월 브런치 글[^2]의 필자는 단체 대화방에서 나가기 버튼 대신 알림 끄기 버튼을 눌렀다.
+2025년 9월 지식iN 게시글[^2]의 글쓴이는 카톡이 오면 바로 답해야 한다는 부담감, 중요하지 않은 일상 대화, 잦은 알림 때문에 친한 친구들의 알림은 보통 꺼 둔다고 적었다.
 
 # 관계
 
@@ -22,7 +22,7 @@
 
 ## 원인
 
-- [빨리 답해야 한다는 압박](pressure-to-reply-quickly.md)[^1]
+- [빨리 답해야 한다는 압박](pressure-to-reply-quickly.md)[^2]
 
 ## 결과
 
@@ -34,5 +34,5 @@
 
 #온라인 #관계
 
-[^1]: [SNS] "일상 중에서도 카톡 오면 바로 답장해줘야 한다는 부담감+그렇게 중요하지 않은 일상적인 대화+자주 연락해서 알림 자주 옴 이어서 친한 친구들은 보통 꺼두는 편이고" — 네이버 지식iN 게시글, 2025-09-04, https://kin.naver.com/qna/detail.naver?dirId=1130&docId=488565138, 2026-10-27 접속
-[^2]: [매체] "결국 나가기 버튼대신 알림 끄기 버튼을 눌렀다." — 「나는 단톡방 알림을 왜 껐을까」, 브런치, 2026-09-05, https://brunch.co.kr/@longvacation/124, 2026-10-27 접속
+[^1]: [매체] "However, 40 per cent revealed they would like to leave but deemed it too impolite, using the 'mute' button instead." (그러나 40퍼센트는 떠나고 싶지만 너무 무례하다고 여겨 대신 '음소거' 버튼을 쓴다고 밝혔다.) — 「WhatsApp etiquette:The do's and don'ts of messaging」, The Star, 2019-01-16, https://www.the-star.co.ke/news/2018-10-20-whatsapp-etiquettethe-dos-and-donts-of-messaging/, 2026-10-27 접속
+[^2]: [SNS] "일상 중에서도 카톡 오면 바로 답장해줘야 한다는 부담감+그렇게 중요하지 않은 일상적인 대화+자주 연락해서 알림 자주 옴 이어서 친한 친구들은 보통 꺼두는 편이고" — 네이버 지식iN 게시글, 2025-09-04, https://kin.naver.com/qna/detail.naver?dirId=1130&docId=488565138, 2026-10-27 접속
