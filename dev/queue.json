@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T12:22:37.535Z",
+  "savedAt": "2026-10-27T12:25:56.508Z",
   "nextSeq": 2386,
   "stops": 120,
   "items": [
@@ -11,14 +11,6 @@
       "note": "2026-10-27 validate WARN. https://singletrackworld.com/forum/off-topic/to-those-who-run-towards-danger/ 이 bystander-effect:[^5], helping-after-first-helper:[^2] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
       "createdAt": "2026-10-27T12:08:07.403Z",
       "seq": 2377
-    },
-    {
-      "id": "66fbbd6a",
-      "title": "irish-goodbye: 다른 문서와 같은 SNS 글 파편을 다른 출처로 바꾼다",
-      "priority": 100,
-      "note": "2026-10-27 validate WARN. https://news.ycombinator.com/item?id=37840563 이 irish-goodbye:[^7], lingering-goodbye:[^8] 에 함께 쓰임. 한 쪽 파편을 다른 SNS 글로 바꾼다",
-      "createdAt": "2026-10-27T12:08:07.862Z",
-      "seq": 2380
     },
     {
       "id": "c58311f7",
