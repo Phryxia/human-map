@@ -1762,27 +1762,27 @@
   },
   "https://www.seoul.co.kr/news/1994/03/29/19940329021002": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://kyeonggi.com/article/200811140303811": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4128647/": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.clien.net/service/board/park/17849463": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6210a1.htm": {
     "first": "2026-10-18",
@@ -1888,15 +1888,15 @@
   },
   "https://www.korea.kr/archive/governmentView.do?newsId=148747324": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148733053": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=60102&docId=356338937": {
     "first": "2026-10-18",
@@ -11617,6 +11617,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://brunch.co.kr/@loiskim01/422": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://www.seoul.co.kr/news/society/2026/06/11/20260611500016": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",

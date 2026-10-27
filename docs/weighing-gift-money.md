@@ -14,6 +14,8 @@
 
 2023년 클리앙 게시글의 글쓴이는 친한 직장 동료에게 20을 내면 상대가 서운해하지 않을 것 같다고 생각하면서 그 액수가 적은지 물었다.[^6]
 
+2026년 6월 기사[^7]가 전한 누리꾼 의견 가운데에는 예식장 식대를 검색해 보고 10만원이 넘는 곳에는 15만원을 낸다는 말이 있었다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^4]: [공공] "결혼 당사자들은 과도한 혼수와 결혼식 피로연 비용 때문에, 하객들은 축의금 부담으로 힘들어하고 있다" — 국무총리실, 「검소한 혼례문화 확산…공공시설 예식장으로 개방」, 대한민국 정책브리핑, 2012-05-11, https://www.korea.kr/news/policyNewsView.do?newsId=148733053, 2026-10-18 접속
 [^5]: [학술] "The purpose is to record gifts received from hosting ceremonies to remind how much to pay back when fellow residents hold social events in the future." (행사를 치르며 받은 선물을 기록해 두는 목적은 나중에 이웃이 행사를 열 때 얼마를 갚아야 하는지 상기하려는 것이다.) — Xi Chen 외, "Gift-Giving and Network Structure in Rural China: Utilizing Long-Term Spontaneous Gift Records", PLoS ONE, 2014-08-11, https://pmc.ncbi.nlm.nih.gov/articles/PMC4128647/, 2026-10-18 접속
 [^6]: [SNS] "20 정도면 서운해 하진 않을것 같다고 생각해봤는데요.. 적을까요?" — 클리앙, 게시글, 2023-01-15, https://www.clien.net/service/board/park/17849463, 2026-10-18 접속
+[^7]: [매체] "반면 “생각 있는 사람이라면 식대 검색해 보고 10만원 넘는 곳은 15만원 낸다”며 일부 옹호하는 의견도 나왔다." — 김민지, 「“뷔페 비싼데 축의금 15만원 냈으면”…10만원은 ‘남는 게 없다’는 예비부부」, 서울신문, 2026-06-11, https://www.seoul.co.kr/news/society/2026/06/11/20260611500016, 2026-10-27 접속
