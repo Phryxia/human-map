@@ -8378,15 +8378,15 @@
   },
   "https://www.pewresearch.org/short-reads/2021/09/21/who-doesnt-read-books-in-america/": {
     "first": "2026-10-23",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148928309": {
     "first": "2026-10-23",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://en.wikisource.org/wiki/Epitaph_to_a_Dog": {
     "first": "2026-10-23",
@@ -9152,9 +9152,9 @@
   },
   "https://news.ycombinator.com/item?id=43288299": {
     "first": "2026-10-24",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://research.tilburguniversity.edu/en/publications/the-gamblers-fallacy-and-gender/": {
     "first": "2026-10-24",
@@ -10262,15 +10262,15 @@
   },
   "https://www2.ljworld.com/news/2007/aug/22/poll_fewer_adults_reading_books/": {
     "first": "2026-10-25",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://www.mcst.go.kr/site/s_notice/press/pressView.jsp?pSeq=9121": {
     "first": "2026-10-25",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://eiec.kdi.re.kr/policy/materialView.do?num=287919": {
     "first": "2026-10-25",
@@ -10982,9 +10982,9 @@
   },
   "https://www.loc.gov/loc/lcib/0806/reading.html": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-27"
   },
   "https://news.ycombinator.com/item?id=5699451": {
     "first": "2026-10-26",
@@ -11935,6 +11935,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31103443&rettype=abstract&retmode=text": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://eric.ed.gov/?id=ED157052": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
