@@ -12,8 +12,6 @@
 
 2025년 2월 칼럼[^3]의 필자는 아버지가 에둘러 아들 자랑을 한 뒤 자기가 팔불출이 다 되었다며 스스로를 낮추는 말을 덧붙였다고 적었다.
 
-2026년 8월 브런치 칼럼은 남편이 자상하다는 말에 밖에서만 그렇다고 답하고 아이가 의젓하다는 말에 집에서는 말을 안 듣는다고 답하는 대화를 예로 든다.[^4]
-
 # 관계
 
 ## 상위
@@ -41,4 +39,3 @@
 [^1]: [문학] "김 부인은 딸의 칭찬 같으나 묻는 말에 마지 못하여 대답한다. “어디 바느질이나 제법 앉아서 배울 새나 있나요." — 나혜석, "경희", 여자계, 1918-03, https://ko.wikisource.org/wiki/%EA%B2%BD%ED%9D%AC, 2026-10-19 접속
 [^2]: [학술] "parents would respond to other peoples’ compliments to their children’s achievement mainly in 3 ways: 1.Modesty: deny directly, saying that their child is not that good;" (부모는 자녀의 성취에 대한 다른 사람의 칭찬에 주로 세 가지 방식으로 응답한다. 1. 겸손: 자기 아이가 그렇게 잘하지 않는다고 말하며 바로 부정한다.) — Kuei-Hsiang Han, "A Study of Parents' Responding Patterns to Other's Compliments for Their Children's Achievement", Tamkang University 연구보고서 NSC100-2410-H032-029-MY2, 2011-08-01, https://teacher.tku.edu.tw/StfFdDtl.aspx?tid=342641, 2026-10-19 접속
 [^3]: [매체] "어느 날 아버지는 친구에게 ‘우리 아들 이번에 대학 가’라며 에둘러 아들 자랑을 했다. 겸연쩍은지 ‘내가 팔불출이 다 되었네’라는 말을 덧붙였다." — 김선경, 「[한입 우리말] 팔불출에 바보와 깡패라」, 경향신문, 2025-02-23, https://www.khan.co.kr/article/202502232101015, 2026-10-26 접속
-[^4]: [매체] ""남편분 정말 자상하시네요." "밖에서만 그래요. 집에서는 손 하나 까딱 안 해요." "아이가 참 의젓하네요." "집에서는 얼마나 말을 안 듣는데요."" — 조은지, 「왜 우리는 가족이 칭찬받으면 핀잔부터 줄까」, 브런치, 2026-08-18, https://brunch.co.kr/@l-p/379, 2026-10-19 접속
