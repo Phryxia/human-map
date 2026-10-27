@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [메신저 알림 꺼 두기](muting-chat-notifications.md)[^5]
 
 ## 대립
 
