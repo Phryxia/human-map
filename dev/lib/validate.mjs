@@ -152,8 +152,8 @@ export function validateAll(docs, sources = {}, tags = loadTags()) {
     if (a) { byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
   }
   for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 URL 을 ${ids.size}개 문서가 쓴다: ${url}`})
-  // 블로그 계정 검사와 계정 경로 없는 SNS 글 검사는 기존 문서가 고쳐질 때까지 WARN 이다
-  const isWarn = a => a.startsWith('글/') || BLOG_PATTERNS.some(([name]) => a.startsWith(name + '/'))
+  // 계정 경로 없는 SNS 글 검사는 기존 문서가 고쳐질 때까지 WARN 이다
+  const isWarn = a => a.startsWith('글/')
   for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: isWarn(a) ? 'WARN' : 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})
   return out
 }

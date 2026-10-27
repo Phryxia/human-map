@@ -67,14 +67,14 @@ test('계정 경로가 URL 에 없는 SNS 글이 두 문서에 쓰이면 같은 
   assert.ok(m.some(x => x.includes('같은 계정 경로') && x.includes('a:[^2]') && x.includes('b:[^2]')))
 })
 
-test('블로그 플랫폼 계정은 종류와 상관없이 같은 계정 경로로 잰다', () => {
+test('블로그 플랫폼 계정은 종류와 상관없이 같은 계정 경로로 재고 중복은 오류다', () => {
   assert.equal(accountOf('https://brunch.co.kr/@@82Me/112'), 'brunch/@82me')
   assert.equal(accountOf('https://brunch.co.kr/@bidancheon/166'), 'brunch/bidancheon')
   assert.equal(accountOf('https://foo-bar.tistory.com/12'), 'tistory/foo-bar')
   assert.equal(accountOf('https://m.blog.naver.com/someid/2233'), 'naver/someid')
   assert.equal(accountOf('https://medium.com/@writer/post-1'), 'medium/writer')
   const mk = n => [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2002', `https://brunch.co.kr/@@82Me/${n}`)]
-  const m = warns(loadAll(makeRepo({a: makeDoc({frags: mk(1)}), b: makeDoc({frags: mk(2)})})))
+  const m = errs(loadAll(makeRepo({a: makeDoc({frags: mk(1)}), b: makeDoc({frags: mk(2)})})))
   assert.ok(m.some(x => x.includes('같은 계정 경로(brunch/@82me)')))
 })
 
