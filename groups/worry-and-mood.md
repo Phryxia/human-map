@@ -17,6 +17,7 @@
     - [유언장 작성 미루기](../docs/delaying-will-writing.md)
     - [잠자리 미루기](../docs/bedtime-procrastination.md)
     - [장기기증 등록 미루기](../docs/delaying-organ-donor-registration.md)
+  - [스트레스 받을 때 매운 음식 찾기](../docs/craving-spicy-food-under-stress.md)
   - [시름을 술로 달래기](../docs/drinking-to-cope.md)
 - [나쁜 소식 확인 미루기](../docs/delaying-bad-news.md) 나쁜 소식일 수 있는 정보를 확인할 시점이 다가오면 그 확인을 늦추거나 피하는 행동이다.
   - [우편물 뜯지 않기](../docs/leaving-mail-unopened.md)
