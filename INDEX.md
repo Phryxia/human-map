@@ -324,6 +324,7 @@
 - [카페에 오래 앉은 손님의 눈치](docs/lingering-in-cafe-guilt.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [큰돈이 생기는 공상](docs/daydreaming-about-windfall.md) ([돈과 소비](groups/money.md))
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [타인의 표정을 부정적으로 읽기](docs/reading-faces-as-negative.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [텃밭 가꾸기](docs/vegetable-gardening.md) ([시간과 하루 습관](groups/daily-time.md))
 - [퇴근 뒤 업무 연락에 답하기](docs/after-hours-work-replies.md) ([일터와 일자리](groups/work.md))
 - [퇴근 뒤 일 생각 곱씹기](docs/work-rumination-after-hours.md) ([일터와 일자리](groups/work.md))
