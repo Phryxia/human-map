@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T18:35:56.657Z",
-  "nextSeq": 2441,
-  "stops": 123,
+  "savedAt": "2026-10-27T21:34:25.927Z",
+  "nextSeq": 2468,
+  "stops": 124,
   "items": [
-    {
-      "id": "dad1f3fb",
-      "title": "dev: validate 의 앞 문단 각주만 되짚는 문단 검사를 ERROR 로 올린다",
-      "priority": 80,
-      "note": "2026-10-27 WARN 으로 넣은 검사에 걸린 11개 문서를 모두 고쳐 지금 0건. dev/lib/validate.mjs 의 warn( 을 err( 로, 테스트와 5절 명세 맞춤",
-      "createdAt": "2026-10-27T18:10:25.495Z",
-      "seq": 2436
-    },
     {
       "id": "c3049b70",
       "title": "dev: source-check 가 VERIFIED 였던 파편의 TLS 실패를 판정 사유 없이 통과시킨다",
@@ -19,22 +11,6 @@
       "note": "2026-10-27 spouse-financial-concealment [^2] scholarworks.iu.edu 가 fetch failed (SELF_SIGNED_CERT_IN_CHAIN) 로 UNREACHABLE 인데 '호스트 전체가 막혀 있다' 도 소멸 안내도 없이 종료코드 0. 호스트 / 도 curl 000. 출력에 통과 사유를 붙이거나 판정을 명세대로 맞춘다",
       "createdAt": "2026-10-27T15:29:53.560Z",
       "seq": 2416
-    },
-    {
-      "id": "0017517c",
-      "title": "avoiding-death-talk 보강: 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-24 NBC 2004-09-15 스웨덴 부모 연구 더함. 후보: thegazette.co.uk/all-notices/content/100090 72% 불편",
-      "createdAt": "2026-10-25T21:29:45.427Z",
-      "seq": 2140
-    },
-    {
-      "id": "2564edf1",
-      "title": "watching-until-out-of-sight 보강: 학술, SNS 파편, lingering-goodbye 와 관계",
-      "priority": 50,
-      "note": "2026-10-25 HN algolia 'until the car was out of sight', 'waved until we were out of sight' 무소득. 후보: Dickens David Copperfield 57장 gutenberg 766, 김유정 「산골」 위키문헌",
-      "createdAt": "2026-10-25T21:30:45.413Z",
-      "seq": 2141
     },
     {
       "id": "81f98952",
@@ -51,30 +27,6 @@
       "note": "2026-10-26 Pelosi 2014-02-05 CBO job-lock 더함. 한국어 자료와 문학 파편 아직 없음",
       "createdAt": "2026-10-26T09:27:43.015Z",
       "seq": 2189
-    },
-    {
-      "id": "cd825f8b",
-      "title": "desire-for-revenge 보강: 학술 인과 간선",
-      "priority": 50,
-      "note": "2026-10-26 kormedi 1221497 (2017) 더함. 후보: Zhao·Zheng frontiersin 10.3389/fpsyg.2023.1255880 또래 피해와 복수, kormedi.com/1188411 (2009) 복수심 강한 사람 실직, psmag.com/?p=44553 (2009). 관계 절이 모두 비어 있음",
-      "createdAt": "2026-10-26T09:28:46.959Z",
-      "seq": 2190
-    },
-    {
-      "id": "a1c76a21",
-      "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
-      "priority": 50,
-      "note": "2026-10-26 nytimes·apnews·upi 아카이브 403, csmonitor 1985/1009/mrb518 와 1990/0611/mrc336 시계 대목 없음, PubMed 1970~1999 clock AND insomnia 는 생체시계뿐. latimes.com/archives la-xpm-199* insomnia 기사는 열림, URL 목록을 Wayback CDX 로 얻기. 그 밖 brunch.co.kr/@bidancheon/166 (2026-05-15)",
-      "createdAt": "2026-10-26T09:31:42.210Z",
-      "seq": 2194
-    },
-    {
-      "id": "882064e2",
-      "title": "emotional-labor 보강: heavy-drinking 결과 간선 근거",
-      "priority": 50,
-      "note": "2026-10-26 퇴사 SNS 파편 더함. 후보: pann 342131791 (2018-05-23) 욕설 고객에게 공감 표현이 안 나감, pann 323934909 (2014-08-19) 판매직. 음주 원인 1인칭 글 미발견",
-      "createdAt": "2026-10-26T09:33:39.144Z",
-      "seq": 2197
     },
     {
       "id": "67ae84ef",
@@ -157,68 +109,12 @@
       "seq": 2215
     },
     {
-      "id": "bff59454",
-      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계, 한국어 성묘 글",
-      "priority": 50,
-      "note": "2026-10-26 신규, 문학 1·학술 2·매체 1. 후보: Brontë Remembrance 1846 gutenberg 1019 'Cold in the earth'. 서울신문 2023-05-16 20230516009010 유가족이 영정 속 희생자에게 메시지(참사 기사, 실명 대목 주의)",
-      "createdAt": "2026-10-26T12:36:18.543Z",
-      "seq": 2217
-    },
-    {
-      "id": "b4ab6dcf",
-      "title": "talking-to-animals 보강: 공공 파편, talking-to-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-26 학술 Scheibeck 2011, Bowen 2021 더함. 공공 후보 news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 는 대화증가가 동물을 향한 말인지 불분명. ucdavis.edu/news/puppy-talk (1991-04-26) Hart 'having someone to talk to'. 혼잣말을 잇는 대목 못 찾음",
-      "createdAt": "2026-10-26T15:14:23.212Z",
-      "seq": 2224
-    },
-    {
-      "id": "8e8419af",
-      "title": "leaving-lights-on 보강: 2008년 이전 파편",
-      "priority": 50,
-      "note": "2026-10-26 정책브리핑 2012-08-09 더함. 2007-09-27 Energy Saving Trust 보도자료 사본 property4media.com 'Almost half (45%) of people say they now remember to do easy actions such as turning off lights' (간접). 경기일보 2000-12-09 어린이 생활문은 실명 아동 글이라 뺌. 구텐베르크 장면 못 찾음",
-      "createdAt": "2026-10-26T15:20:19.017Z",
-      "seq": 2225
-    },
-    {
-      "id": "adbeebe4",
-      "title": "leaving-tv-on-for-company 보강: loneliness 원인 간선",
-      "priority": 50,
-      "note": "2026-10-26 GOV.UK 2012, SciTePress 2025 더함. 원인 근거 후보 oar.baker.edu.au/1035ED (2025-06-19) 'higher levels of loneliness in women predicted longer TV viewing duration' (시청 시간, 켜 두기 아님). PMC9372884 Fingerman 'compensation for social isolation'",
-      "createdAt": "2026-10-26T15:29:05.541Z",
-      "seq": 2226
-    },
-    {
-      "id": "f5d97f3a",
-      "title": "vegetable-gardening 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-26 클리앙 2024-06-17 더함. Secret Garden 1911 'parsley an' radishes' 는 시골 저택이라 도시 텃밭 요약과 맞지 않음. 교외 원예 수필(Wright 1901 The Garden of a Commuter's Wife 등) 볼 것",
-      "createdAt": "2026-10-26T15:31:16.107Z",
-      "seq": 2227
-    },
-    {
       "id": "d7e0e057",
       "title": "boredom 보강: loneliness·avoiding-being-alone-with-thoughts 관계",
       "priority": 50,
       "note": "2026-10-26 클리앙 2023-12-04 더함. 관계 후보 clien park/18153933 댓글 (2023-06-26) '혼자여행도 3일쯤 넘어가기 시작하면 좀 외롭고 심심하더라고요' (인과 아님). Havermans 2015 Appetite 지루함과 스스로 주는 전기 충격",
       "createdAt": "2026-10-26T15:33:37.282Z",
       "seq": 2228
-    },
-    {
-      "id": "7cda31c1",
-      "title": "embarrassed-by-parents 보강: avoiding-inviting-people-home 관계",
-      "priority": 50,
-      "note": "2026-10-26 후보 cs.observer-reporter.com/columns/2013/sep/04/fearful-of-father-when-hes-drinking/ 'Embarrassment: Young people who are worried about a parent’s drinking may not bring home friends' 는 부모 행동이 원인이라 집이 초라해서라는 avoiding-inviting-people-home 요약과 다름. Globe and Mail 2010 article4327858 'avoid introducing them for fear that my parents will humiliate me'(embarrassed-by-parents 파편 후보)",
-      "createdAt": "2026-10-26T15:37:20.297Z",
-      "seq": 2229
-    },
-    {
-      "id": "61a9de9c",
-      "title": "smell-evoked-memory 보강: nostalgia 관계, 불쾌한 냄새 조건",
-      "priority": 50,
-      "note": "2026-10-26 khan 202410022006015 은 냄새로 그리움이 따라옴. 클리앙 park/12464615 같은 글에 최루가스 냄새로 어린 시절이 떠오른 대목(병원 이름 포함이라 못 씀). Chu, Downes 2002 PMID 12184552 냄새 단서 기억이 더 자세함",
-      "createdAt": "2026-10-26T18:12:41.526Z",
-      "seq": 2238
     },
     {
       "id": "7429a1c9",
@@ -235,14 +131,6 @@
       "note": "2026-10-26 Leavitt, Christenfeld 2011 PMID 21841150 초록 없음. Goodreads 1583296 무서운 책에서 무사 확인. sonlight 2012-04-19 'It helps me enjoy the book more'",
       "createdAt": "2026-10-26T18:25:04.142Z",
       "seq": 2241
-    },
-    {
-      "id": "1dcbb14c",
-      "title": "returning-lost-wallets 보강: 2010년 이전 파편, 사례금 기대 조건",
-      "priority": 50,
-      "note": "2026-10-26 아시아경제 2023 사례금 질문 더함. 경시청 습득물 통계는 PDF 표. Cohn 2019 이타심과 도둑으로 보이기 싫음이 이유(같은 초록) — 자기상 관련 현상과 원인 간선 후보",
-      "createdAt": "2026-10-26T18:29:27.620Z",
-      "seq": 2242
     },
     {
       "id": "2e60047f",
@@ -691,6 +579,102 @@
       "note": "2026-10-27 확인됨 2개(문학 1869, 매체 2024)로 추가. 후보: Flaubert 같은 책 4장 'He glanced towards the windows of the first floor' 이사 간 뒤 창을 올려다보던 기억(같은 URL). mysupportforums.org 1인칭 글은 403",
       "createdAt": "2026-10-27T18:35:41.422Z",
       "seq": 2440
+    },
+    {
+      "id": "70f92cf7",
+      "title": "watching-until-out-of-sight 보강: 확인되는 학술 파편, lingering-goodbye 와 관계",
+      "priority": 50,
+      "note": "2026-10-27 Dickens 1850 과 山口 2025 지리과학 PDF(미확인) 더함. J-STAGE HTML 본문 404. 후보: 祥雲 외 2026 応用老年学 20(1) PDF 방문간호 고령자가 보이지 않을 때까지 손 흔듦",
+      "createdAt": "2026-10-27T21:21:53.548Z",
+      "seq": 2456
+    },
+    {
+      "id": "ea016e13",
+      "title": "desire-for-revenge 보강: 학술 인과 간선",
+      "priority": 50,
+      "note": "2026-10-27 원한 품기와 복수의 연결은 Van Monsjou 2019 학위논문이 linked to 로만 말해 원인 간선 근거가 못 됨. 후보: Zhao·Zheng frontiersin 10.3389/fpsyg.2023.1255880 또래 피해와 복수, kormedi.com/1188411 (2009), psmag.com/?p=44553 (2009)",
+      "createdAt": "2026-10-27T21:23:18.030Z",
+      "seq": 2457
+    },
+    {
+      "id": "efe648e2",
+      "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
+      "priority": 50,
+      "note": "2026-10-27 chroniclingamerica 옛 검색 API 는 JSON 이 아님(loc.gov 로 옮김). 이전 note: nytimes·apnews·upi 403, latimes la-xpm-199* 열림, Wayback CDX 로 URL 얻기",
+      "createdAt": "2026-10-27T21:24:06.256Z",
+      "seq": 2458
+    },
+    {
+      "id": "4d2fef18",
+      "title": "vegetable-gardening 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-26 클리앙 2024-06-17 더함. Secret Garden 1911 은 시골 저택이라 맞지 않음. 2026-10-27 Wright 의 The Garden of a Commuter's Wife 는 gutenberg 에 없음(11561 은 People of the Whirlpool, 채소밭 대목 없음). 한국 근대 수필·소설의 도시 텃밭 장면 볼 것",
+      "createdAt": "2026-10-27T21:24:39.856Z",
+      "seq": 2459
+    },
+    {
+      "id": "328a30c1",
+      "title": "emotional-labor 보강: heavy-drinking 결과 간선 근거",
+      "priority": 50,
+      "note": "2026-10-27 pann 342131791 (2018-05-23) 욕설 고객 대목 더함. 남은 후보: pann 323934909 (2014-08-19) 판매직. 음주 원인 1인칭 글 미발견",
+      "createdAt": "2026-10-27T21:25:49.035Z",
+      "seq": 2460
+    },
+    {
+      "id": "0aaa8608",
+      "title": "leaving-tv-on-for-company 보강: loneliness 원인 간선",
+      "priority": 50,
+      "note": "2026-10-27 aop.org.uk 2024-09-24 Specsavers 51% 더함(상관, 인과 아님). blackpoolgazette Rotary 62% 기사는 본문 추출 안 됨. 후보: limerickleader.ie 8521985 칼럼, sundaypost.com older people rely on tv for company, PMC9372884 Fingerman",
+      "createdAt": "2026-10-27T21:27:00.553Z",
+      "seq": 2461
+    },
+    {
+      "id": "2b093694",
+      "title": "talking-to-animals 보강: 공공 파편, talking-to-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-27 UC Davis 1991-04-26 Puppy Talk 더함(매체). 공공 후보 news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 는 대화증가가 동물을 향한 말인지 불분명. 혼잣말을 잇는 대목 못 찾음",
+      "createdAt": "2026-10-27T21:28:04.969Z",
+      "seq": 2462
+    },
+    {
+      "id": "f360eae5",
+      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계, 한국어 성묘 글",
+      "priority": 50,
+      "note": "2026-10-27 Brontë Remembrance 1846 더함. 서울신문 2023-05-16 20230516009010 유가족이 영정 속 희생자에게 메시지(참사 기사, 실명 대목 주의)",
+      "createdAt": "2026-10-27T21:28:53.360Z",
+      "seq": 2463
+    },
+    {
+      "id": "031e3187",
+      "title": "returning-lost-wallets 보강: 사례금 기대 조건",
+      "priority": 50,
+      "note": "2026-10-27 Spokesman-Review 1996-11-24 Ann Landers 칼럼(Reader's Digest 1995 실험 80/120) 더함. 사례금 기대 조건 파편 아직 없음. 경시청 습득물 통계는 PDF 표. Cohn 2019 이타심과 도둑으로 보이기 싫음이 이유(같은 초록), 자기상 관련 현상과 원인 간선 후보",
+      "createdAt": "2026-10-27T21:31:08.684Z",
+      "seq": 2464
+    },
+    {
+      "id": "4d6e4ad2",
+      "title": "leaving-lights-on 보강: 2008년 이전 파편",
+      "priority": 50,
+      "note": "2026-10-27 spokesman.com Ann Landers 1990년대 칼럼 검색 무소득, modbs.co.uk Ex-Or 조사는 2013-06-03. 이전: Energy Saving Trust 2007-09-27 사본 property4media.com (간접), 경기일보 2000-12-09 실명 아동 글이라 뺌, 구텐베르크 장면 못 찾음",
+      "createdAt": "2026-10-27T21:31:46.488Z",
+      "seq": 2465
+    },
+    {
+      "id": "fb2eaa5d",
+      "title": "smell-evoked-memory 보강: 불쾌한 냄새 조건",
+      "priority": 50,
+      "note": "2026-10-27 Reid 외 2015 로 nostalgia 결과 간선 그음. 클리앙 park/12464615 최루가스 대목은 병원 이름 포함이라 못 씀. khan 202410022006015 은 이미 씀",
+      "createdAt": "2026-10-27T21:33:45.653Z",
+      "seq": 2466
+    },
+    {
+      "id": "1b866bab",
+      "title": "embarrassed-by-parents 보강: avoiding-inviting-people-home 관계",
+      "priority": 50,
+      "note": "2026-10-26 후보 cs.observer-reporter.com/columns/2013/sep/04/fearful-of-father-when-hes-drinking/ 는 부모 음주가 원인이라 avoiding-inviting-people-home 요약과 다름. 2026-10-27 Globe and Mail article4327858 은 theglobeandmail.com/life/parenting/article4327858/ 404",
+      "createdAt": "2026-10-27T21:34:11.935Z",
+      "seq": 2467
     },
     {
       "id": "d16898d2",
