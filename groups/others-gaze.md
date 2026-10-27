@@ -25,6 +25,7 @@
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
 - [연체 뒤 도서관 피하기](../docs/avoiding-library-over-overdue-books.md) 빌린 책을 제때 돌려주지 못한 사람이 연체료나 부끄러움 때문에 반납을 미루고 도서관에 가지 않는다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
+- [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
 - [창피한 일을 꾸며 둘러대기](../docs/covering-up-embarrassment.md) 창피한 일을 겪은 사람이 그 일을 사실대로 말하지 않고 다른 이야기로 꾸며 남에게 둘러댄다.
 - [청력 손실 숨기기](../docs/hiding-hearing-loss.md) 청력이 떨어진 사람이 남에게 그 사실을 알리지 않거나 보청기를 보이지 않게 감춘다.
 - [카페에 오래 앉은 손님의 눈치](../docs/lingering-in-cafe-guilt.md) 카페에 오래 머무는 손님이 직원의 시선을 의식해 음료를 더 시키거나 자기가 거슬리는 손님인지 걱정한다.

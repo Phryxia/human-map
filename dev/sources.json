@@ -1858,9 +1858,9 @@
   },
   "https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do": {
     "first": "2026-10-18",
-    "last": "2026-10-24",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-27"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15738853&resultType=core&format=json": {
     "first": "2026-10-18",
@@ -11989,6 +11989,12 @@
     "lastVerified": "2026-10-27"
   },
   "https://news.bizwatch.co.kr/article/consumer/2016/12/23/0026": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30191358&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
