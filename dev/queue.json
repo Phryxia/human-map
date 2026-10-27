@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-10-27T12:27:49.714Z",
-  "nextSeq": 2388,
+  "savedAt": "2026-10-27T12:34:47.834Z",
+  "nextSeq": 2392,
   "stops": 120,
   "items": [
     {
@@ -59,22 +59,6 @@
       "note": "2026-10-25 Worsley 외 2021 europepmc PMC7986561 더함. 후보: PMC12511522 (2025, 1980년대 회고) 'It was always a delicate business going knocking on doors'. PMC 는 이 환경에서 reCAPTCHA",
       "createdAt": "2026-10-25T21:32:22.719Z",
       "seq": 2142
-    },
-    {
-      "id": "695216e7",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-10-26 공공 HTML 미발견(committees.parliament.uk oralevidence 7186, eastamb NHS 에 guilt 없음, DfE working lives wave 4 는 PDF). 남은 방법: hansard.parliament.uk 사이트 내 guilty leaving 검색, 스코틀랜드 의회 서면 증거. 매체 후보 ktvz.com/news/national-world/2021/02/25/traumatized-and-tired-nurses-are-quitting-due-to-the-pandemic/",
-      "createdAt": "2026-10-26T03:35:26.096Z",
-      "seq": 2154
-    },
-    {
-      "id": "59658d7f",
-      "title": "watching-until-out-of-sight 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-10-26 Substack 댓글 2023-12-24 더함. 후보: karapaia.com/archives/52248367.html 댓글 '本当に見えなくなるまでずーーーっと見送ってくれてた'(댓글 날짜 미확인), Masaki·Asai 2013 Med Humanit omiokuri 는 사망 퇴원 배웅(mh.bmj.com Cloudflare, eutils 만 열림), ryokan.or.jp checking_out 미검증",
-      "createdAt": "2026-10-26T06:36:46.852Z",
-      "seq": 2160
     },
     {
       "id": "6b16a3f5",
@@ -627,6 +611,22 @@
       "note": "2026-10-27 확인됨 2개(2024, 2026). HN 21147035 (2019) 는 기분 때문에 태닝 침대를 씀으로 겉모습 목적이 아님",
       "createdAt": "2026-10-27T09:37:01.617Z",
       "seq": 2367
+    },
+    {
+      "id": "30fdcf4b",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-10-27 hansard.parliament.uk, committees.parliament.uk writtenevidence(NWO0058 등), ourcommons.ca 는 이 환경에서 403. ola.org 회의록 2022-04-12, 2024-02-22 앞 100000자에 guilt 없음. 남은 방법: ola.org offset 100000 이후, record.senedd.wales, oireachtas.ie 토론 HTML",
+      "createdAt": "2026-10-27T12:31:55.941Z",
+      "seq": 2390
+    },
+    {
+      "id": "44bf2b46",
+      "title": "watching-until-out-of-sight 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-10-27 배웅 대목 없음: jstage jsmd 21_1, unesa hikari 72807, twcu 17845, ucf scopus2015/7097. 막힘: nature.com s41599-022-01061-3 (303 로그인). 비학술 후보: ryokan.or.jp/past/english/checking_out (공공), dutchreview.com dutch-people-wave-goodbye-for-ages. 남은 방법: J-STAGE 안에서 お見送り 接客",
+      "createdAt": "2026-10-27T12:34:00.936Z",
+      "seq": 2391
     },
     {
       "id": "d16898d2",
