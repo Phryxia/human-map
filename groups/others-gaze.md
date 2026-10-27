@@ -24,6 +24,7 @@
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
 - [연체 뒤 도서관 피하기](../docs/avoiding-library-over-overdue-books.md) 빌린 책을 제때 돌려주지 못한 사람이 연체료나 부끄러움 때문에 반납을 미루고 도서관에 가지 않는다.
+- [외출 전 옷 여러 번 갈아입기](../docs/trying-on-outfits-before-going-out.md) 외출을 앞둔 사람이 입을 옷을 정하지 못해 여러 벌을 입어 보고 갈아입는다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
 - [창피한 일을 꾸며 둘러대기](../docs/covering-up-embarrassment.md) 창피한 일을 겪은 사람이 그 일을 사실대로 말하지 않고 다른 이야기로 꾸며 남에게 둘러댄다.
