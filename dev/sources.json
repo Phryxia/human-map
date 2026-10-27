@@ -1552,15 +1552,15 @@
   },
   "https://pred.uni-regensburg.de/id/eprint/20599/": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
-    "result": "VERIFIED",
+    "last": "2026-10-27",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://hangyo.com/news/article.html?no=109529": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.eia.gov/todayinenergy/detail.php?id=37072": {
     "first": "2026-10-18",
@@ -1588,21 +1588,21 @@
   },
   "https://www.clien.net/service/board/park/11233632": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6790599/": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://research.vu.nl/en/publications/would-i-be-helped-cross-national-cctv-footage-shows-that-interven": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.ytn.co.kr/_ln/0483_201510260517064735": {
     "first": "2026-10-18",
@@ -1618,15 +1618,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=4032225&rettype=abstract&retmode=text": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19025293&rettype=abstract&retmode=text": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-27"
   },
   "https://www.dailian.co.kr/news/view/982190/": {
     "first": "2026-10-18",
@@ -11563,6 +11563,24 @@
     "lastVerified": "2026-10-27"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7435710&rettype=abstract&retmode=text": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://mediahub.seoul.go.kr/archives/1055052": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://singletrackworld.com/forum/off-topic/to-those-who-run-towards-danger/": {
+    "first": "2026-10-27",
+    "last": "2026-10-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-27"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32406697&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
     "last": "2026-10-27",
     "result": "VERIFIED",
