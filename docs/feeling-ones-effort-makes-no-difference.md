@@ -29,6 +29,7 @@
 ## 결과
 
 - [분리배출 하지 않기](not-sorting-recyclables.md)[^2]
+- [기후 행동 하지 않기](climate-inaction.md)[^4]
 
 ## 대립
 

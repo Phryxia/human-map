@@ -45,6 +45,7 @@
 - [기시감](docs/deja-vu.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [기준점 의존](docs/reference-dependence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [기침할 때 가리지 않기](docs/not-covering-coughs.md) ([건강과 위험](groups/health-and-safety.md))
+- [기후 행동 하지 않기](docs/climate-inaction.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [길에 쓰레기 버리기](docs/littering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [꾀병 결근](docs/calling-in-sick-when-not-sick.md) ([일터와 일자리](groups/work.md))
 - [끝내지 못한 일 계속 떠올리기](docs/zeigarnik-effect.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
