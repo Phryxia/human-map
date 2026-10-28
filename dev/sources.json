@@ -251,9 +251,9 @@
   },
   "https://sciencenordic.com/poor-kids-help-home-hide-school": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://www.redcross.fi/news/2025/survey-on-poverty-among-families-with-children-low-income-reflected-in-lack-of-food-and-clothing--good-holiday-spirit-campaign-helps-families-during-the-holidays/": {
     "first": "2026-10-17",
@@ -2392,9 +2392,9 @@
   },
   "https://ideas.repec.org/a/iab/iabjlr/v46i4p321-333.html": {
     "first": "2026-10-18",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://ora.ox.ac.uk/objects/uuid:287a38d8-48cd-42d3-bb6a-b3509bb2db30": {
     "first": "2026-10-18",
@@ -2416,8 +2416,8 @@
   },
   "https://wiserd.ac.uk/blog/poverty-in-the-classroom-school-pupils-in-wales-are-acutely-aware-of-hardships-experienced-by-their-classmates/": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
-    "result": "VERIFIED",
+    "last": "2026-10-28",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://www.gutenberg.org/cache/epub/1260/pg1260-images.html": {
@@ -8690,21 +8690,21 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9831881&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://kyeonggi.com/article/201201120436653": {
     "first": "2026-10-23",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://weekly.khan.co.kr/article/201812101539181": {
     "first": "2026-10-23",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://globalnews.ca/news/2547915/serious-disconnect-with-millennials-and-inheritance-expectations-vancity-report/amp/": {
     "first": "2026-10-23",
@@ -10568,9 +10568,9 @@
   },
   "https://weekly.khan.co.kr/article/201711281004271": {
     "first": "2026-10-25",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://news.ycombinator.com/item?id=47356574": {
     "first": "2026-10-25",
@@ -11384,9 +11384,9 @@
   },
   "https://news.ycombinator.com/item?id=9557380": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://www.nber.org/papers/w12386": {
     "first": "2026-10-26",
@@ -12666,6 +12666,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://theconversation.com/psychological-specialness-spirals-can-make-ordinary-items-feel-like-treasures-and-may-explain-how-clutter-accumulates-165863": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.tes.com/magazine/archive/charity-days-bad-news-poor": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
