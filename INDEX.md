@@ -276,6 +276,7 @@
 - [의무 해제 뒤에도 마스크 쓰기](docs/keeping-mask-after-mandate.md) ([건강과 위험](groups/health-and-safety.md))
 - [의사에게 증상과 습관 줄여 말하기](docs/withholding-information-from-doctors.md) ([건강과 위험](groups/health-and-safety.md))
 - [이별 앞에서 눈물 참기](docs/holding-back-tears-at-breakup.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [이삿날 빈집 둘러보기](docs/last-look-at-empty-house.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [이웃과 엘리베이터 같이 타지 않기](docs/avoiding-shared-elevator.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [인사 안 받는 이웃에게 아는 체 그만두기](docs/stopping-greeting-unresponsive-neighbor.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [인사 없이 모임 자리 뜨기](docs/irish-goodbye.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
