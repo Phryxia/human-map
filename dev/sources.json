@@ -3010,8 +3010,8 @@
   "https://link.springer.com/article/10.1186/s40101-022-00317-w": {
     "first": "2026-10-18",
     "last": "2026-10-28",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-10-27"
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
   },
   "https://www.clien.net/service/board/park/18218641": {
     "first": "2026-10-18",
@@ -12750,6 +12750,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30443237&rettype=abstract&retmode=text": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.vogue.co.kr/2018/08/22/%ec%97%ac%eb%9f%ac-%ea%b0%9c-%ec%bc%9c%eb%91%94-%ec%95%8c%eb%9e%8c%ec%9d%b4-%eb%a7%8c%ec%84%b1%ed%94%bc%eb%a1%9c%eb%a1%9c-%ec%9d%b4%ec%96%b4%ec%a7%88-%ec%88%98-%ec%9e%88%eb%8b%a4/": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
