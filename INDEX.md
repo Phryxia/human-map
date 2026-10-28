@@ -293,6 +293,7 @@
 - [작별 인사 길게 끌기](docs/lingering-goodbye.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [작심삼일](docs/abandoning-resolutions.md) ([시간과 하루 습관](groups/daily-time.md))
 - [잔액 확인 피하기](docs/avoiding-checking-balance.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [잠깐 세우는 불법 주정차](docs/brief-illegal-parking.md) ([길과 운전](groups/roads-and-driving.md))
 - [잠자리 미루기](docs/bedtime-procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠자리에서 시계 보기](docs/clock-watching-in-bed.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [장 볼 때 필요보다 많이 사기](docs/overbuying-groceries.md) ([돈과 소비](groups/money.md))

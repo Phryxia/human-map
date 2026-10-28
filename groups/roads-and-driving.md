@@ -15,6 +15,7 @@
 - [운전 그만두기 미루기](../docs/delaying-driving-cessation.md) 고령 운전자가 운전에 부담을 느끼면서도 운전을 그만두거나 운전면허를 반납하는 일을 미룬다.
 - [음주 후 운전](../docs/drink-driving.md) 술을 마신 사람이 이 정도는 괜찮다고 여겨 운전대를 잡는다.
 - [자전거 헬멧 미착용](../docs/bicycle-helmet-nonuse.md) 자전거나 전동킥보드를 타는 사람이 짧은 거리, 불편함, 외모 따위를 이유로 헬멧을 쓰지 않는다.
+- [잠깐 세우는 불법 주정차](../docs/brief-illegal-parking.md) 운전자가 잠깐이면 된다고 여기고 횡단보도, 소화전 앞, 이중 주차 자리 같은 금지 구역에 차를 세운다.
 - [정차 중 공회전](../docs/engine-idling.md) 차를 세워 두고 기다리는 운전자가 엔진을 끄지 않고 공회전시킨다.
 - [졸음운전](../docs/driving-while-drowsy.md) 졸음을 느낀 운전자가 차를 세워 쉬지 않고 계속 운전한다.
 - [침수 도로 진입](../docs/driving-into-floodwater.md) 운전자가 물에 잠긴 도로를 만나 돌아가지 않고 차를 몰아 그대로 건넌다.
