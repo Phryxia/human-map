@@ -3003,13 +3003,13 @@
   },
   "https://www.clien.net/service/board/park/9222948": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://link.springer.com/article/10.1186/s40101-022-00317-w": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-27"
   },
@@ -12726,6 +12726,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://www.gutenberg.org/cache/epub/2554/pg2554-images.html": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.gutenberg.org/cache/epub/107/pg107-images.html": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
