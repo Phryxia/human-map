@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-28T03:40:53.536Z",
-  "nextSeq": 2509,
-  "stops": 126,
+  "savedAt": "2026-10-28T06:43:30.242Z",
+  "nextSeq": 2517,
+  "stops": 127,
   "items": [
     {
       "id": "614976f7",
@@ -659,6 +659,30 @@
       "note": "2026-10-28 Eghbalnia 2013 PMID 23734527 학부모 30% 서약 더함. 한국어 파편 없음. 후보 미탐색: 공회전 단속, 겨울 예열 게시글",
       "createdAt": "2026-10-28T03:40:28.503Z",
       "seq": 2508
+    },
+    {
+      "id": "2ca46580",
+      "title": "expecting-antibiotics-for-colds 보강: 받지 못하면 다른 의사 찾기",
+      "priority": 50,
+      "note": "2026-10-28 후보 HN 47672527 (2026-04-07) 주치의가 항생제 꺼려 다른 의사에게 받음(부비동염). patient.info strep throat 669322 (2018-07-20) walk-in 에서 못 받아 GP 다시 감",
+      "createdAt": "2026-10-28T06:24:49.296Z",
+      "seq": 2514
+    },
+    {
+      "id": "bd803e90",
+      "title": "rubbernecking 보강: 한국어 공공·매체 파편, 플라톤 레온티오스",
+      "priority": 50,
+      "note": "2026-10-28 국가 4권 레온티오스 gutenberg 1497 (발행일 기원전이라 형식 미정). 한국도로공사 구경 운전 보도자료 미발견. forbidden-curiosity 와 관계 근거 미탐색",
+      "createdAt": "2026-10-28T06:38:59.117Z",
+      "seq": 2515
+    },
+    {
+      "id": "d096ca59",
+      "title": "rinsing-lenses-with-tap-water 보강: 2005년 이전 파편, 덧붓기",
+      "priority": 50,
+      "note": "2026-10-28 Joslin 2007 PMC2692658 덧붓기 환자군 58.6% vs 25.6%. 렌즈를 수돗물로 헹구기 큐 항목(ec34f290)은 이 문서로 처리됨",
+      "createdAt": "2026-10-28T06:43:22.271Z",
+      "seq": 2516
     },
     {
       "id": "d16898d2",
@@ -2203,6 +2227,14 @@
       "note": "APRA·ASIC 2023-07-18 retirement income covenant 정보보고서 'many people die with the bulk of the wealth they had at retirement intact', 'many members tend to underspend because they draw down at the regulated minimum rate'. tightwad-spending 과 관계 후보",
       "createdAt": "2026-10-28T00:38:04.473Z",
       "seq": 2490
+    },
+    {
+      "id": "ec34f290",
+      "title": "렌즈를 수돗물로 헹구기",
+      "priority": 10,
+      "note": "2026-10-28 sleeping-in-contact-lenses 작업 중 CDC MMWR mm6432a2 (2015-08-21) 착용자 35.5% 수돗물 헹굼. 데일리팜 337804 (2026-04-23) 교체주기 미준수 이유 '불편함이 없어서 57%'",
+      "createdAt": "2026-10-28T06:24:49.162Z",
+      "seq": 2513
     },
     {
       "id": "02b2f242",
