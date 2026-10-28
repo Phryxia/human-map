@@ -376,6 +376,7 @@
 - [향수](docs/homesickness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [허위 합의 효과](docs/false-consensus-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [헌혈 꺼림](docs/avoiding-blood-donation.md) ([건강과 위험](groups/health-and-safety.md))
+- [헬스장 등록하고 안 가기](docs/gym-membership-nonuse.md) ([돈과 소비](groups/money.md))
 - [형편을 넘는 손님 대접](docs/hosting-beyond-means.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [혼자 먹는 식사의 감정](docs/eating-alone-feelings.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 생각만 하는 시간 꺼리기](docs/avoiding-being-alone-with-thoughts.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
