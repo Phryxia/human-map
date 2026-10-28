@@ -113,6 +113,7 @@
 - [또래 음주량 과대 추정](docs/overestimating-peer-drinking.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [렌즈 낀 채 잠들기](docs/sleeping-in-contact-lenses.md) ([건강과 위험](groups/health-and-safety.md))
 - [렌즈를 수돗물로 헹구기](docs/rinsing-lenses-with-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
+- [리베이트 받지 않기](docs/rebate-slippage.md) ([돈과 소비](groups/money.md))
 - [리콜 수리 받지 않기](docs/ignoring-vehicle-recalls.md) ([길과 운전](groups/roads-and-driving.md))
 - [마음에 들지 않는 선물에 기뻐하는 척하기](docs/feigning-delight-at-gifts.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [말을 피하려고 자는 척하기](docs/pretending-to-sleep-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

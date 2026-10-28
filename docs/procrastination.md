@@ -44,6 +44,7 @@
 - [상습 지각](chronic-lateness.md)[^8]
 - [잠자리 미루기](bedtime-procrastination.md)[^6]
 - [미래 기억 실패](prospective-memory-failure.md)[^5]
+- [리베이트 받지 않기](rebate-slippage.md)
 
 ## 대립
 
