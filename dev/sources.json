@@ -12178,5 +12178,29 @@
     "last": "2026-10-27",
     "result": "VERIFIED",
     "lastVerified": "2026-10-27"
+  },
+  "https://aisel.aisnet.org/iceb2001/131": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://news.ycombinator.com/item?id=4596887": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.korea.kr/news/cultureColumnView.do?newsId=148864177": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307195": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
   }
 }
