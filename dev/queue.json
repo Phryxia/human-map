@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-28T15:43:53.932Z",
-  "nextSeq": 2581,
-  "stops": 130,
+  "savedAt": "2026-10-28T18:31:56.495Z",
+  "nextSeq": 2586,
+  "stops": 131,
   "items": [
-    {
-      "id": "aee1a9c6",
-      "title": "dev: validate 가 퍼센트 인코딩한 URL 과 안 한 URL 을 같은 출처로 센다",
-      "priority": 80,
-      "note": "2026-10-28 ko.wikisource 술_권하는_사회 를 blaming-others 는 한글 그대로, drinking-to-cope·waiting-for-someone-late·waiting-up-for-family 는 %EC%88%A0... 로 씀. 운수_좋은_날, 빈처 도 같음. sourceKey 에서 decodeURI 로 맞출 것",
-      "createdAt": "2026-10-28T15:32:51.861Z",
-      "seq": 2573
-    },
     {
       "id": "f58da843",
       "title": "dev: validate 가 관계 줄의 표시 제목이 대상 문서 제목과 다르면 잡는다",
@@ -635,6 +627,14 @@
       "note": "2026-10-28 brunch balbam/1 (2026-09-28) 더함. 같은 글 '결국 눈물이 터졌다' 는 돌아선 뒤 울음. 네이트판 1인칭 글 필요",
       "createdAt": "2026-10-28T15:43:17.982Z",
       "seq": 2580
+    },
+    {
+      "id": "7b9bb8a0",
+      "title": "imagining-others-sorry-at-own-death 와 sulking 관계",
+      "priority": 50,
+      "note": "2026-10-28 Mill on the Floss(epub/6688) 1권 5장 'then they would all be frightened, and Tom would be sorry' 는 서운함에서 숨고 굶는 상상. 두 현상을 잇는 원인 파편 필요",
+      "createdAt": "2026-10-28T18:31:04.010Z",
+      "seq": 2585
     },
     {
       "id": "d16898d2",
@@ -2203,6 +2203,14 @@
       "note": "2026-10-28 Pride and Prejudice 12장 pg1342 'Miss Bingley was then sorry that she had proposed the delay'. ritual-refusal, lingering-goodbye 와 관계 후보",
       "createdAt": "2026-10-28T12:17:09.731Z",
       "seq": 2543
+    },
+    {
+      "id": "99b5348e",
+      "title": "새 옷이나 머리를 알아봐 주지 않아 서운해하기",
+      "priority": 10,
+      "note": "2026-10-28 후보: watt-evans.com/blog/?p=1058 (2017, 'why bother maintaining the trim if nobody notices?'), distractify husband-doesnt-notice-wifes-haircut (2023). 매체뿐이라 문학이나 SNS 파편 필요. spotlight-effect 와 관계 후보",
+      "createdAt": "2026-10-28T18:30:30.814Z",
+      "seq": 2584
     },
     {
       "id": "02b2f242",
