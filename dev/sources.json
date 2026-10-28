@@ -12298,5 +12298,17 @@
     "last": "2026-10-28",
     "result": "VERIFIED",
     "lastVerified": "2026-10-28"
+  },
+  "https://www.gutenberg.org/cache/epub/4200/pg4200-images.html": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11705526/fullTextXML": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
   }
 }
