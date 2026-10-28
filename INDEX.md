@@ -210,7 +210,7 @@
 - [스마트폰 확인 습관](docs/smartphone-checking-habit.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [스트레스 받을 때 매운 음식 찾기](docs/craving-spicy-food-under-stress.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [슬픈 이야기를 보며 울기](docs/crying-at-sad-stories.md) ([걱정과 기분](groups/worry-and-mood.md))
-- [승진에서 밀린 뒤의 분함](docs/passed-over-for-promotion.md) ([일터와 일자리](groups/work.md))
+- [승진에서 밀린 뒤의 분함](docs/passed-over-for-promotion.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [시간 부족으로 운동하지 않기](docs/no-time-to-exercise.md) ([시간과 하루 습관](groups/daily-time.md))
 - [시간에 쫓기는 느낌](docs/feeling-rushed.md) ([시간과 하루 습관](groups/daily-time.md))
 - [시기심](docs/envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

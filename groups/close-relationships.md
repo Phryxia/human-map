@@ -27,6 +27,7 @@
 - [생일을 잊혀 서운해도 내색하지 않기](../docs/hiding-hurt-over-forgotten-birthday.md) 가족이나 친구가 자기 생일을 잊었을 때 서운함을 느끼면서 그 마음을 스스로 누르거나 낮춰 말한다.
 - [소개팅 주선](../docs/matchmaking.md) 사람이 자기가 아는 두 사람을 연인으로 이어 주려고 서로 소개한다.
 - [시기심](../docs/envy.md) 자기와 비슷한 처지에서 출발한 사람이 자기에게 중요한 영역에서 앞선 것을 본 사람이 고통이나 분함을 느끼고 그 이점을 갖고 싶어 한다.
+  - [승진에서 밀린 뒤의 분함](../docs/passed-over-for-promotion.md)
   - [악의적 시기](../docs/malicious-envy.md)
 - [애정을 거친 말이나 행동으로 드러내기](../docs/rough-affection.md) 가까운 사람을 아끼는 사람이 그 마음을 다정한 말 대신 퉁명스러운 말이나 놀림으로 드러낸다.
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)

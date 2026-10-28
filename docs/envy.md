@@ -20,6 +20,7 @@
 
 ## 하위
 
+- [승진에서 밀린 뒤의 분함](passed-over-for-promotion.md)
 - [악의적 시기](malicious-envy.md)
 
 ## 원인
