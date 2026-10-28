@@ -35,9 +35,11 @@ export const accountOf = url => {
 export const SOURCE_PATTERNS = [
   ['gutenberg', /^https?:\/\/(?:www\.)?gutenberg\.org\/(?:cache\/epub|ebooks|files)\/(\d+)(?:[/.?#]|$)/i],
 ]
+// 퍼센트 인코딩한 URL 과 안 한 URL(위키문헌의 한글 제목 등)은 같은 글이므로 풀어서 잰다
+const decoded = url => { try { return decodeURI(url) } catch { return url } }
 export const sourceKey = url => {
   for (const [name, re] of SOURCE_PATTERNS) { const m = re.exec(url); if (m) return `${name}:${m[1]}` }
-  return url
+  return decoded(url)
 }
 
 const DATE_OK = d => d === '발행일 미상' || /^\d{4}(-\d{2}(-\d{2})?)?$/.test(d)
@@ -162,7 +164,7 @@ export function validateAll(docs, sources = {}, tags = loadTags()) {
   for (const d of docs.values()) for (const f of d.fragments) {
     byUrl.set(sourceKey(f.url), (byUrl.get(sourceKey(f.url)) ?? new Set()).add(d.id))
     // 계정 경로가 URL 에 없는 SNS 글은 글 하나가 곧 한 사람이므로 URL 을 계정으로 잰다
-    const a = f.kind === 'SNS' ? accountOf(f.url) ?? `글/${f.url}` : blogAccountOf(f.url)
+    const a = f.kind === 'SNS' ? accountOf(f.url) ?? `글/${decoded(f.url)}` : blogAccountOf(f.url)
     if (a) { byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
   }
   for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 출처(URL)를 ${ids.size}개 문서가 쓴다: ${url}`})

@@ -211,3 +211,17 @@ test('같은 Gutenberg 책의 HTML 판과 txt 판은 같은 출처로 센다', (
   const other = makeDoc({body: '문단.[^1][^2][^3]', frags: [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '문학', '1850', urls[0]), frag(3, '문학', '1850', 'https://www.gutenberg.org/cache/epub/76/pg76.txt')]})
   assert.ok(!errs(loadAll(makeRepo({a: other}))).some(x => x.includes('한 출처에서 한 파편만')))
 })
+
+test('퍼센트 인코딩한 URL 과 안 한 URL 은 같은 출처로 센다', () => {
+  // 2026-10-28 ko.wikisource 술_권하는_사회 를 blaming-others 는 한글로, drinking-to-cope 등은 %EC%88%A0... 로 썼다
+  const raw = 'https://ko.wikisource.org/wiki/술_권하는_사회'
+  const enc = encodeURI(raw)
+  const urls = [raw, enc, raw, enc, raw]
+  const docs = Object.fromEntries(urls.map((u, i) => [`d${i}`, makeDoc({frags: [frag(1, '학술', '2001', `https://a.example/${i}`), frag(2, '문학', '1921', u)]})]))
+  assert.ok(warns(loadAll(makeRepo(docs))).some(x => x.includes('5개 문서')))
+  const two = makeDoc({body: '문단.[^1][^2][^3]', frags: [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '문학', '1921', raw), frag(3, '문학', '1921', enc)]})
+  assert.ok(errs(loadAll(makeRepo({a: two}))).some(x => x.includes('한 출처에서 한 파편만')))
+  // 잘못된 % 시퀀스가 있어도 멈추지 않는다
+  const bad = makeDoc({frags: [frag(1, '학술', '2001', 'https://a.example/%E0%A4%A'), frag(2, '문학', '1921', raw)]})
+  assert.doesNotThrow(() => errs(loadAll(makeRepo({a: bad}))))
+})
