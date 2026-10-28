@@ -1,80 +1,24 @@
 {
   "version": 1,
-  "savedAt": "2026-10-28T15:13:09.972Z",
-  "nextSeq": 2546,
-  "stops": 129,
+  "savedAt": "2026-10-28T15:43:53.932Z",
+  "nextSeq": 2581,
+  "stops": 130,
   "items": [
     {
-      "id": "ab814045",
-      "title": "dev: validate 가 같은 Gutenberg 책의 HTML 판과 txt 판 URL 을 같은 출처로 센다",
+      "id": "aee1a9c6",
+      "title": "dev: validate 가 퍼센트 인코딩한 URL 과 안 한 URL 을 같은 출처로 센다",
       "priority": 80,
-      "note": "2026-10-28 epub/766 은 pg766-images.html 4문서와 pg766.txt 1문서(delaying-will-writing 등)로 5문서가 쓰지만 URL 이 달라 WARN 이 안 남",
-      "createdAt": "2026-10-28T12:44:45.393Z",
-      "seq": 2544
+      "note": "2026-10-28 ko.wikisource 술_권하는_사회 를 blaming-others 는 한글 그대로, drinking-to-cope·waiting-for-someone-late·waiting-up-for-family 는 %EC%88%A0... 로 씀. 운수_좋은_날, 빈처 도 같음. sourceKey 에서 decodeURI 로 맞출 것",
+      "createdAt": "2026-10-28T15:32:51.861Z",
+      "seq": 2573
     },
     {
-      "id": "d7b043a8",
-      "title": "reading-faces-as-negative 보강: SNS 파편, fear-of-negative-evaluation 원인 간선 근거",
-      "priority": 50,
-      "note": "2026-10-27 Winton 1995, W Korea 2026-10-05 로 만듦. Winton 초록은 상관이라 원인 간선 근거 아님. 표정을 보고 나한테 화났나 생각하는 게시글 필요",
-      "createdAt": "2026-10-27T03:29:49.183Z",
-      "seq": 2301
-    },
-    {
-      "id": "cb3f614a",
-      "title": "not-cutting-into-conversation 보강: SNS 파편, fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-10-27 Natale 1979 (가설 문장), Lois Kim 브런치 2026-07-30 으로 만듦. 초록의 확인 문장 'These hypotheses were confirmed' 는 무엇이 확인됐는지 안 담음. 후보: brunch.co.kr/@heydey/679 (2026-06-02) 말할 타이밍을 잡느라 상대 이야기에 집중 못함",
-      "createdAt": "2026-10-27T03:31:04.484Z",
-      "seq": 2302
-    },
-    {
-      "id": "ba512a82",
-      "title": "oversleeping-anxiety 보강: 매체 파편, 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-10-27 snoozing-the-alarm 의 클리앙 2016, Ogawa 2022 로 만듦. 두 파편 모두 그 문서와 같은 출처. 알람 여러 개, 시험·비행기 전날 늦잠 걱정 대목 필요",
-      "createdAt": "2026-10-27T03:35:27.225Z",
-      "seq": 2305
-    },
-    {
-      "id": "a099cdae",
-      "title": "climate-inaction 보강: 2010년 이전 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-27 그린피스 2020-04-17, Hamann 2024 로 만듦. 두 파편이 10년 안. 같은 그린피스 글 '바쁜 일상을 보내다 보면 우리는 지구환경보다 편리함의 유혹에 이끌리게 됩니다'",
-      "createdAt": "2026-10-27T03:36:44.319Z",
-      "seq": 2306
-    },
-    {
-      "id": "cfabb14c",
-      "title": "muting-chat-notifications 보강: 학술 파편, staying-in-group-chats 관계",
-      "priority": 50,
-      "note": "2026-10-27 지식iN 2025-09-04, 브런치 longvacation/124 (2026-09-05) 로 만듦. 같은 브런치 글: 조용한 방일수록 나가면 이목이 집중될까 봐 못 나감 → staying-in-group-chats 근거 후보",
-      "createdAt": "2026-10-27T03:37:53.191Z",
-      "seq": 2307
-    },
-    {
-      "id": "ab27495e",
-      "title": "keeping-leftover-medicines 보강: 2007년 이전 파편, reusing-leftover-medicine 과 관계",
-      "priority": 50,
-      "note": "2026-10-27 파편 2017 SBS, 2021 서울, 2023 EPA. CDC EID 05-1471 2006 은 reusing-leftover-medicine 이 씀. 보관 때문에 다시 먹는다는 원인 파편 찾을 것",
-      "createdAt": "2026-10-27T06:25:10.242Z",
-      "seq": 2320
-    },
-    {
-      "id": "5716ad0f",
-      "title": "waiting-up-for-family 보강: 한국어 파편, 학술 파편",
-      "priority": 50,
-      "note": "2026-10-27 mumsnet teenagers/4783860 waiting-up 스레드는 Cloudflare 로 막힘. 위키문헌 근대 소설에서 어머니가 자식 귀가를 기다리는 대목 찾을 것",
-      "createdAt": "2026-10-27T06:27:29.909Z",
-      "seq": 2321
-    },
-    {
-      "id": "9b10ca78",
-      "title": "self-diagnosed-food-avoidance 보강: 한국어 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-27 파편 MJA 2015, FSS 2026. mja 같은 페이지 'one in seven adult Australian respondents' 대목도 있음",
-      "createdAt": "2026-10-27T06:33:43.046Z",
-      "seq": 2322
+      "id": "f58da843",
+      "title": "dev: validate 가 관계 줄의 표시 제목이 대상 문서 제목과 다르면 잡는다",
+      "priority": 80,
+      "note": "2026-10-28 fear-of-negative-evaluation 결과 절에 '[의사에게 정보 숨기기](withholding-information-from-doctors.md)' 를 적었는데 실제 제목은 '의사에게 증상과 습관 줄여 말하기' 였고 validate 가 통과시킴. 현재 문서 전체 불일치 0건",
+      "createdAt": "2026-10-28T15:36:53.491Z",
+      "seq": 2576
     },
     {
       "id": "db38e4ea",
@@ -83,14 +27,6 @@
       "note": "2026-10-27 학생 꾀병과 직장인 꾀병 결근. 두 현상을 함께 다룬 파편이 있으면 상위나 원인 관계",
       "createdAt": "2026-10-27T06:38:06.852Z",
       "seq": 2323
-    },
-    {
-      "id": "6c092c62",
-      "title": "crying-in-secret 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-27 파편 1908 문학, 1954 문학, 2008·2012·2020·2025 매체, 2013 학술. SNS 없음. Reddit 은 이 환경에서 막힘",
-      "createdAt": "2026-10-27T06:39:44.750Z",
-      "seq": 2324
     },
     {
       "id": "0e9c8998",
@@ -109,14 +45,6 @@
       "seq": 2358
     },
     {
-      "id": "1da31793",
-      "title": "job-insecurity 보강: 관계 간선",
-      "priority": 50,
-      "note": "2026-10-27 경향 2008-04-23 잡코리아 53.2% 더함. 관계 절이 모두 비어 있음. HN 46773296 반대 의견 못 함, money-worry, guilt-about-resigning, staying-in-job-for-health-insurance 와 관계 후보",
-      "createdAt": "2026-10-27T09:19:52.679Z",
-      "seq": 2359
-    },
-    {
       "id": "347d597e",
       "title": "holding-a-grudge 보강: 다른 시기, desire-for-revenge 와 rumination 관계",
       "priority": 50,
@@ -125,44 +53,12 @@
       "seq": 2360
     },
     {
-      "id": "f21d522e",
-      "title": "withholding-information-from-doctors 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-10-27 HN 44182805 (2025) 식단 잔소리 피하려 숨김 더함. 후보: HN 21539358 (2019-11-14) 정보 유출이 두려워 의사에게 거짓말, Levy PMC6324389 'not wanting to be judged'(이유), fear-of-negative-evaluation, hiding-illness-from-family 관계 후보",
-      "createdAt": "2026-10-27T09:28:04.870Z",
-      "seq": 2361
-    },
-    {
-      "id": "2e56195c",
-      "title": "alarm-fatigue 보강: 2010년 이전 파편",
-      "priority": 50,
-      "note": "2026-10-27 HN 8479528 (2014) 자동차 경보 더함. Graham·Cvach 2010 aacnjournals 403, Joint Commission SEA 50 403, NBK555522 reCAPTCHA. 후보: HN 6517292 (2013) 거짓 경보 잦은 연기 감지기를 떼어 둠, HN 13362670 (2017) 대피 훈련이 모든 경보를 가짜로 여기게 함",
-      "createdAt": "2026-10-27T09:28:58.702Z",
-      "seq": 2362
-    },
-    {
       "id": "5f1bd0cb",
       "title": "breaking-up 보강: holding-back-tears-at-breakup 관계",
       "priority": 50,
       "note": "2026-10-27 livescience 28814 (2013) 더함. 후보: 네이트판 202712787 (2010-09-22) 되풀이되는 싸움에 지쳐 헤어짐",
       "createdAt": "2026-10-27T09:30:18.609Z",
       "seq": 2363
-    },
-    {
-      "id": "3981d713",
-      "title": "keeping-a-diary 보강: 성별 조건, unsent-letters 관계",
-      "priority": 50,
-      "note": "2026-10-27 HN 25251560 (2020) 10대부터 40년 더함. 후보: PMID 19320211 Yukawa 2008 웹 일기와 반추(rumination 관계 후보), literacytrust 2022 는 PDF",
-      "createdAt": "2026-10-27T09:31:16.266Z",
-      "seq": 2364
-    },
-    {
-      "id": "7acb88ba",
-      "title": "holding-back-tears-at-breakup 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-27 HN '\"held back tears\" breakup' 무소득. teamblind 헤어지자고-만난-자리에서-YtEUwm24 (2024-02-26) 는 회사명이 함께 보여 쓰지 않음. postype @nothingwillchangeeveniftimegoes/21447795 는 창작물일 수 있음",
-      "createdAt": "2026-10-27T09:37:01.437Z",
-      "seq": 2366
     },
     {
       "id": "3fe5229f",
@@ -235,14 +131,6 @@
       "note": "2026-10-27 추가. 후보: 서울대 연구진 Food Quality and Preference 급성 스트레스 뒤 매운맛 욕구(정서적 섭식 성향 조건, 코메디닷컴 2026-08-27 이 전함), 2018 디지털콘텐츠학회논문지 치위생과 학생 387명(koreascience 이 환경에서 연결 실패)",
       "createdAt": "2026-10-27T15:24:02.547Z",
       "seq": 2412
-    },
-    {
-      "id": "f30130b0",
-      "title": "impulse-buying 보강: SNS 파편, retail-therapy 관계, 자기 보상 원인",
-      "priority": 50,
-      "note": "2026-10-27 추가. 후보: 뉴시스 NISX20170726_0000051341 (2017-07-26) 충동 소비의 가장 큰 이유는 자신에게 이 정도는 해줘도 된다는 생각, 10명 중 7명 경험. Hoch·Loewenstein 1991 초록 'sudden increases in desire for a product'",
-      "createdAt": "2026-10-27T15:25:39.154Z",
-      "seq": 2413
     },
     {
       "id": "05eaa186",
@@ -651,6 +539,102 @@
       "note": "2026-10-28 후보 Middlemarch pg145 'Three times she wrote.' 짧음, David Copperfield pg766 'I must have written half-a-dozen answers at least.' 는 epub 766 이 이미 5문서. Anna Karenina pg1399 편지 찢고 다시 쓰기 대목은 4문서가 씀",
       "createdAt": "2026-10-28T12:44:45.520Z",
       "seq": 2545
+    },
+    {
+      "id": "8f368166",
+      "title": "reading-faces-as-negative 보강: 1인칭 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-28 Tsuji 2018 더함. 표정 보고 나한테 화났나 하는 공개 게시글 못 찾음(Reddit 차단, HN 무소득). a-ha.io 438080f370593980befd99d4ffec0154 는 기분 탓, 표정 낱말 없음. Dyer 2022 PMID 35070339 은 상태 불안 조작",
+      "createdAt": "2026-10-28T15:27:31.226Z",
+      "seq": 2567
+    },
+    {
+      "id": "54152329",
+      "title": "oversleeping-anxiety 보강: 여행·시험 전날 파편",
+      "priority": 50,
+      "note": "2026-10-28 보그 2018 더함. 후보: sunshine.co.uk news 123 (휴가 전 잠 못 잔 사람 41% 늦잠 걱정, curl 본문 없음), cravemag.co.uk why-cant-we-sleep-the-night-before-a-flight (2025-04), fodors 740919 게시글",
+      "createdAt": "2026-10-28T15:29:11.270Z",
+      "seq": 2568
+    },
+    {
+      "id": "961be3ac",
+      "title": "not-cutting-into-conversation 보강: SNS 파편, fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-28 HN algolia(gap, word in, pause), 클리앙 검색(끼어들 타이밍, 대화에 못 끼) 무소득. brunch @heydey/679 은 남의 말을 자르는 쪽이라 맞지 않음. Natale 1979 의 'inversely related' 는 상관이라 원인 간선 근거 아님",
+      "createdAt": "2026-10-28T15:30:02.801Z",
+      "seq": 2569
+    },
+    {
+      "id": "40fcf9be",
+      "title": "muting-chat-notifications 보강: 학술 파편, staying-in-group-chats 관계",
+      "priority": 50,
+      "note": "2026-10-28 Mannell 2023 Conversation 재게재(interaksyon) 더함. 같은 글 'Other participants described feeling trapped in group chats they would prefer to leave' 와 'x has left the group' 알림이 나가기를 꺼리게 함 → staying-in-group-chats 원인 근거 후보",
+      "createdAt": "2026-10-28T15:31:31.037Z",
+      "seq": 2570
+    },
+    {
+      "id": "b5cdbd03",
+      "title": "keeping-leftover-medicines 보강: 2007년 이전 파편, reusing-leftover-medicine 과 관계",
+      "priority": 50,
+      "note": "2026-10-27 파편 2017 SBS, 2021 서울, 2023 EPA. CDC EID 05-1471 2006 은 reusing-leftover-medicine 이 씀. 보관 때문에 다시 먹는다는 원인 파편 찾을 것",
+      "createdAt": "2026-10-28T15:32:23.777Z",
+      "seq": 2571
+    },
+    {
+      "id": "719e959f",
+      "title": "waiting-up-for-family 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-10-28 현진건 1921 술 권하는 사회 더함. 자녀 귀가 전 부모 수면 연구 필요",
+      "createdAt": "2026-10-28T15:32:39.921Z",
+      "seq": 2572
+    },
+    {
+      "id": "530c2dac",
+      "title": "self-diagnosed-food-avoidance 보강: 한국어 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-28 kormedi 2760909 (2026-07) 은 진단 없이 밀가루 증상 10%, 피하는 행동 대목 없음. doctornow qna 는 이 환경에서 403. 지식iN 유당불내증·글루텐 자가 판단 글 찾을 것",
+      "createdAt": "2026-10-28T15:34:00.957Z",
+      "seq": 2574
+    },
+    {
+      "id": "195cb880",
+      "title": "crying-in-secret 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-28 HN algolia(cried in the bathroom at work, cry in private 등) 무소득. 666103 (2009-06-20) 은 혼자 있을 때 울었다지만 자살 사고 맥락이라 안 씀",
+      "createdAt": "2026-10-28T15:34:46.466Z",
+      "seq": 2575
+    },
+    {
+      "id": "b9410677",
+      "title": "job-insecurity 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-10-28 결과 sickness-presenteeism 더함(보건복지부 실직 우려). 남은 후보: money-worry, guilt-about-resigning, staying-in-job-for-health-insurance, HN 46773296 반대 의견 못 함",
+      "createdAt": "2026-10-28T15:37:30.450Z",
+      "seq": 2577
+    },
+    {
+      "id": "4e586b95",
+      "title": "keeping-a-diary 보강: unsent-letters 관계",
+      "priority": 50,
+      "note": "2026-10-28 National Literacy Trust 2016 성별(여자아이 3배) 더함. 후보: PMID 19320211 Yukawa 2008 웹 일기와 반추(rumination 관계 후보)",
+      "createdAt": "2026-10-28T15:38:39.441Z",
+      "seq": 2578
+    },
+    {
+      "id": "6dfa403b",
+      "title": "impulse-buying 보강: retail-therapy 관계, 자기 보상 원인",
+      "priority": 50,
+      "note": "2026-10-28 HN 32422933 (2022) 서점 충동구매 후회 더함. 후회는 buyers-remorse 류 결과 간선 후보",
+      "createdAt": "2026-10-28T15:42:11.286Z",
+      "seq": 2579
+    },
+    {
+      "id": "0d65057d",
+      "title": "holding-back-tears-at-breakup 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-28 brunch balbam/1 (2026-09-28) 더함. 같은 글 '결국 눈물이 터졌다' 는 돌아선 뒤 울음. 네이트판 1인칭 글 필요",
+      "createdAt": "2026-10-28T15:43:17.982Z",
+      "seq": 2580
     },
     {
       "id": "d16898d2",
