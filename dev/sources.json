@@ -11312,21 +11312,21 @@
   },
   "https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-96-191/html/GAOREPORTS-RCED-96-191.htm": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35764451&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39578606&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12184552&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
@@ -12642,6 +12642,18 @@
     "lastVerified": "2026-10-28"
   },
   "https://www.richlandlibrary.com/blog/2018-12-07/eye-eating-amoebas-my-journey-acanthamoeba-keratitis": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://m.seoul.co.kr/news/1997/10/23/19971023021001": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://news.ycombinator.com/item?id=17959891": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
