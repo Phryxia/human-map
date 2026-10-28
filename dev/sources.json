@@ -4419,15 +4419,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10988380/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://www.cdc.gov/mmwr/volumes/75/wr/mm7519a2.htm": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://news.ycombinator.com/item?id=13811411": {
     "first": "2026-10-20",
@@ -12852,6 +12852,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://bostonkravmaga.com/blog/personal-safety/grudges-and-revenge.html": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/8376674/": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
