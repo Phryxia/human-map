@@ -1738,9 +1738,9 @@
   },
   "https://www.gutenberg.org/cache/epub/141/pg141-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm": {
     "first": "2026-10-18",
@@ -2410,9 +2410,9 @@
   },
   "https://www.jstage.jst.go.jp/article/psysoc/48/4/48_4_288/_article": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://wiserd.ac.uk/blog/poverty-in-the-classroom-school-pupils-in-wales-are-acutely-aware-of-hardships-experienced-by-their-classmates/": {
     "first": "2026-10-18",
@@ -11612,15 +11612,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=490308&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://brunch.co.kr/@loiskim01/422": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.seoul.co.kr/news/society/2026/06/11/20260611500016": {
     "first": "2026-10-27",
@@ -11960,9 +11960,9 @@
   },
   "https://www.healthday.com/health-news/mental-health/women-should-let-the-fur-fly-505530.html": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://mediahub.seoul.go.kr/archives/1060048": {
     "first": "2026-10-27",
@@ -12720,6 +12720,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://www.gutenberg.org/cache/epub/11/pg11-images.html": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.gutenberg.org/cache/epub/2554/pg2554-images.html": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
