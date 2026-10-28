@@ -4527,21 +4527,21 @@
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01088/full": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://news.ycombinator.com/item?id=25436658": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://news.ycombinator.com/item?id=29592688": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2011.00078/full": {
     "first": "2026-10-20",
@@ -12714,6 +12714,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://api.parliament.uk/historic-hansard/commons/1990/may/10/london-regional-transport-penalty-fares": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.gutenberg.org/cache/epub/11/pg11-images.html": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
