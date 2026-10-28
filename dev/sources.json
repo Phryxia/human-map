@@ -875,15 +875,15 @@
   },
   "https://ko.wikisource.org/wiki/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83_(%EC%8B%9C%EC%A7%91)/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://www.insight.co.kr/news/69749": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://ideas.repec.org/a/aea/aecrev/v96y2006i3p694-719.html": {
     "first": "2026-10-17",
@@ -12780,6 +12780,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://news.ycombinator.com/item?id=32422933": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://brunch.co.kr/@balbam/1": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
