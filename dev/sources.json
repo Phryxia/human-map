@@ -8966,51 +8966,51 @@
   },
   "https://www.seoul.co.kr/news/1994/02/14/19940214022001": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://m.seoul.co.kr/news/society/2004/10/30/20041030008003": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://audit.vic.gov.au/node/30644": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://www.worldtransitresearch.info/research/6255": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://mediahub.seoul.go.kr/archives/965587": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://www.worldtransitresearch.info/research/6322": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://www.amny.com/new-york/manhattan/the-villager/fare-evasion-nypd-how-and-why": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://www.khan.co.kr/article/202507090600101": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://boards.straightdope.com/t/bedbugs-shudder/416135": {
     "first": "2026-10-24",
@@ -9524,9 +9524,9 @@
   },
   "https://www.clien.net/service/board/park/19265313": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://www.christiantoday.com/news/why-dont-we-talk-about-death": {
     "first": "2026-10-24",
@@ -9698,9 +9698,9 @@
   },
   "https://news.seoul.go.kr/traffic/archives/3117": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-28"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9727609/": {
     "first": "2026-10-24",
@@ -12708,6 +12708,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://mediahub.seoul.go.kr/archives/814173": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://api.parliament.uk/historic-hansard/commons/1990/may/10/london-regional-transport-penalty-fares": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
