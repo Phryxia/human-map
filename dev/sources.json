@@ -4491,15 +4491,15 @@
   },
   "https://news.ycombinator.com/item?id=36794740": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://www.eweek.com/news/ghostworking-survey-workplace-culture/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://www150.statcan.gc.ca/n1/daily-quotidien/150618/dq150618b-eng.htm": {
     "first": "2026-10-20",
@@ -4623,15 +4623,15 @@
   },
   "https://news.ycombinator.com/item?id=2799543": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://link.springer.com/article/10.1007/s40821-023-00243-6": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-28"
   },
   "https://news.ycombinator.com/item?id=27961392": {
     "first": "2026-10-20",
@@ -12252,6 +12252,18 @@
     "lastVerified": "2026-10-28"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1010845/full": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://bizhankook.com/articles/5568.html": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://econpapers.repec.org/RePEc:oup:jconrs:v:44:y:2017:i:1:p:118-138.": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
