@@ -33,6 +33,7 @@
 - [노스탤지어](nostalgia.md)[^6]
 - [향수](homesickness.md)[^5]
 - [은둔형 외톨이](social-withdrawal-at-home.md)[^9]
+- [물건에 이름 붙이고 사람처럼 대하기](treating-objects-as-companions.md)
 - [놓칠까 두려운 마음](fear-of-missing-out.md)[^7]
 
 ## 대립
