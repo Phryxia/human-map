@@ -14,6 +14,8 @@
 
 2017년 조사 기사[^6]에서 연말에 원치 않는 선물을 받은 사람의 42%는 그 선물을 다른 사람에게 다시 주었다.
 
+2017년 11월 보도자료[^7]가 전한 설문에서 응답자 70%는 원치 않은 선물이 마음에 들지 않았다고 인정하는 대신 그것을 다시 선물한 적이 있다고 답했다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^4]: [학술] "Participants who imagined regifting a gift (receivers) thought that the original giver would be more offended than participants who imagined that their gifts were regifted (givers) reported feeling." (선물을 다시 준다고 상상한 참가자(받은 사람)는 자기 선물이 다시 선물되었다고 상상한 참가자(준 사람)가 보고한 것보다 원래 준 사람이 더 불쾌해할 거라고 여겼다.) — G. S. Adams, F. J. Flynn, M. I. Norton, "The gifts we keep on giving: Documenting and destigmatizing the regifting taboo", Psychological Science 23(10), 2012-10, https://lbsresearch.london.edu/id/eprint/463, 2026-10-27 접속
 [^5]: [매체] "패트론 사의 또 다른 조사에서는 선물 받은 것을 또다시 선물하는 대상은 첫째 가족, 둘째 직장 동료라고 답했다." — 조현욱, "선물에 관한 잘못된 믿음 4가지", 코메디닷컴, 2012-12-23, https://kormedi.com/1205449/, 2026-10-27 접속
 [^6]: [매체] "As for individuals who received an unwanted gift over the holidays, data suggests that 42% did exactly that: they re-gifted the gift by giving it to someone else." (연휴에 원치 않는 선물을 받은 사람 가운데 42%가 바로 그렇게 했다. 그 선물을 다른 사람에게 다시 주었다.) — Paul Hiebert, "A third of people tossed unwanted holiday presents in the garbage", YouGov, 2017-01-12, https://yougov.com/en-us/articles/17378-unwanted-holiday-gifts, 2026-10-27 접속
+[^7]: [매체] "showing that 70 per cent of us have ‘re-gifted’ a present we didn’t want, rather than admit we didn’t like it, and almost 80 per cent of us are willing to say we love a present we actually dislike." (우리 가운데 70%가 마음에 들지 않았다고 인정하는 대신 원치 않은 선물을 다시 선물했고 80% 가까이는 실제로는 싫은 선물을 아주 좋다고 말할 의향이 있음을 보여 준다.) — Gift Wink 보도자료, "This Christmas, 80 per cent of us will lie and say we love a present we actually hate", ResponseSource, 2017-11-21, https://pressreleases.responsesource.com/newsroom/CEWCommunications/release/94440/?print=true, 2026-10-28 접속
