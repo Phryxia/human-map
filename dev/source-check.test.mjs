@@ -25,6 +25,14 @@ test('judge: 기록에 VERIFIED 가 있던 파편이 사라지면 소멸 표시�
   assert.equal(j.exit, 1); assert.match(j.note, /소멸, 2026-08-01/)
   assert.equal(judge({unverified: false, vanished: '2026-08-01'}, 'UNREACHABLE', rec).exit, 0)
 })
+test('judge: 소멸 표시가 있는 파편이 열리지 않으면 통과 사유를 붙인다', () => {
+  // spouse-financial-concealment [^2] scholarworks.iu.edu, SELF_SIGNED_CERT_IN_CHAIN (2026-10-27)
+  const rec = {lastVerified: '2026-10-18'}
+  for (const r of ['UNREACHABLE', 'NOT_FOUND']) {
+    const j = judge({unverified: false, vanished: '2026-10-18'}, r, rec)
+    assert.equal(j.exit, 0); assert.match(j.note, /소멸 표시가 있다/)
+  }
+})
 test('daysBetween', () => assert.equal(daysBetween('2026-01-01', '2026-04-11'), 100))
 test('needsProxyReexec: 프록시 환경에서 NODE_USE_ENV_PROXY 가 없으면 다시 실행한다', async () => {
   const {needsProxyReexec} = await import('./lib/source.mjs')

@@ -144,7 +144,7 @@ export function judge(frag, result, record, {hostBlocked = false} = {}) {
   const wasVerified = !!record?.lastVerified
   if (result === 'VERIFIED') return {exit: 0, note: frag.unverified ? '(미확인) 표시를 뗄 수 있다' : ''}
   if (wasVerified) {
-    if (frag.vanished) return {exit: 0, note: ''}
+    if (frag.vanished) return {exit: 0, note: `소멸 표시가 있다(${frag.vanished} 까지 확인). 그대로 둔다`}
     if (result === 'UNREACHABLE' && hostBlocked) return {exit: 0, note: '호스트 전체가 막혀 있다(/ 도 열리지 않음). 소멸로 보지 않는다'}
     return {exit: 1, note: `줄 끝을 (소멸, ${record.lastVerified} 까지 확인) 으로 바꾼다`}
   }
