@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [아파도 출근하기](sickness-presenteeism.md)
 
 ## 대립
 

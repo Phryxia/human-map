@@ -26,6 +26,7 @@
 
 ## 원인
 
+- [고용 불안](job-insecurity.md)[^5]
 - [소득 상실 우려](income-loss-worry.md)[^5]
 
 ## 결과
