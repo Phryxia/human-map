@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [물건 못 버리기](difficulty-discarding.md)[^7]
 
 ## 대립
 

@@ -10,9 +10,11 @@
 
 2017년 연구[^3]의 저자들은 나이가 들수록 그들이 저장장애라 부르는 상태가 흔해지고 심해지는 것이 주로 물건을 버리기 어려워하는 데서 온다고 썼다. 2018년 논문[^4]의 저자들은 그들이 저장장애라 부르는 상태에서 낭비를 피하려는 마음이 물건을 모아 두는 두드러진 동기일 수 있다고 썼다. 2019년 칼럼[^5]의 필자는 추억이 있어 못 버리는 옷과 살이 빠지면 입으려고 10년째 못 버린 작은 옷이 장롱에 가득했다고 적었다. 2020년 논문[^6]의 성인 1113명 온라인 표본에서 가장 좋은 선택지를 찾을 때까지 모든 대안을 따지는 결정 성향이 강할수록 물건을 버리기 어려워하는 정도를 포함한 저장 증상이 컸다.
 
-2022년 기사[^7]는 나이 든 부모가 피땀 흘려 번 돈으로 사고 자녀의 추억이 밴 물건을 차마 버리지 못한다고 전했다. 기사 속 인터뷰이는 그 세대가 전쟁을 겪었고 근검절약하며 살았다고 말했다.[^7]
+2021년 연구자의 글[^7]은 쓸 기회를 미루는 사이 더 특별하게 느껴진 물건이 쌓여 쓰지 않는 잡동사니가 되는 과정을 한 가지 설명으로 든다.
 
-2026년 에세이[^8]의 글쓴이는 부모님 집을 정리하며 한 번도 쓰지 않은 공구와 휴대용 버너를 버리자고 아버지를 설득하기가 특히 어렵다고 적었다. 같은 글에서 어머니는 몇 달 동안 실랑이한 끝에 웬만하면 버리는 데 동의했다.
+2022년 기사[^8]는 나이 든 부모가 피땀 흘려 번 돈으로 사고 자녀의 추억이 밴 물건을 차마 버리지 못한다고 전했다. 기사 속 인터뷰이는 그 세대가 전쟁을 겪었고 근검절약하며 살았다고 말했다.[^8]
+
+2026년 에세이[^9]의 글쓴이는 부모님 집을 정리하며 한 번도 쓰지 않은 공구와 휴대용 버너를 버리자고 아버지를 설득하기가 특히 어렵다고 적었다. 같은 글에서 어머니는 몇 달 동안 실랑이한 끝에 웬만하면 버리는 데 동의했다.
 
 # 관계
 
@@ -27,7 +29,7 @@
 
 ## 원인
 
-없음.
+- [좋은 물건 아껴 두기](saving-things-for-best.md)[^7]
 
 ## 결과
 
@@ -45,5 +47,6 @@
 [^4]: [학술] "Recent evidence suggests that avoiding waste may be a prominent motive to save in hoarding disorder." (최근 증거는 낭비를 피하려는 것이 저장장애에서 물건을 모아 두는 두드러진 동기일 수 있음을 시사한다.) — R. O. Frost 외, 「Scrupulosity and hoarding」, Comprehensive Psychiatry 86, 2018-10, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30041077&rettype=abstract&retmode=text, 2026-10-23 접속
 [^5]: [매체] "입지 않지만 추억이 있어서 못 버리는 옷들, 작지만 ‘다음에’ 살 빠지면 입으려고 10년째 못 버리는 옷들이 장롱 가득" — 박상미, 「[박상미의 고민사전] 못 버리는 나, 저장강박증 아닌가요?」, 스포츠경향, 2019-11-06, https://sports.khan.co.kr/article/201911060700013, 2026-10-25 접속
 [^6]: [학술] "The tendency to maximize in decision-making was significantly correlated with hoarding symptoms (including difficulty discarding possessions, excessive acquisition, and clutter)." (결정에서 최대화하려는 성향은 저장 증상, 곧 소유물을 버리기 어려움, 지나친 획득, 어수선함과 유의하게 상관했다.) — M. G. Wheaton, K. Topilow, 「Maximizing decision-making style and hoarding disorder symptoms」, Comprehensive Psychiatry 101, 2020-08, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32504873&rettype=abstract&retmode=text, 2026-10-23 접속
-[^7]: [매체] "그 물건들은 자신들이 피땀 흘린 돈으로 산 것이기도 하고, 자녀들의 추억도 배어 있기 때문에 차마 버리지 못하는 것." — 오병돈, 「정리정돈 잘 하려면… “40세 넘으면 하루에 하나씩 버려야”」, 브라보마이라이프, 2022-01-03, https://bravo.etoday.co.kr/view/atc_view/13057, 2026-10-26 접속
-[^8]: [매체] "생전 쓰지도 않는 갖가지 공구들과 휴대용 버너 등 특히 아버지를 설득하기가 어렵습니다. 엄마는 지난 몇 달동안 전투로 어지간하면 버리는데 동의를 합니다." — 김지안, 「버리려는 자식과 지키려는 부모」, 브런치, 2026-06-14, https://brunch.co.kr/@augustan74/183, 2026-10-23 접속
+[^7]: [매체] "This accrual of specialness can be one explanation for how possessions accumulate and turn into unused clutter." (이렇게 특별함이 쌓이는 것은 소유물이 쌓여 쓰지 않는 잡동사니가 되는 과정의 한 가지 설명일 수 있다.) — Jacqueline Rifkin, "Psychological 'specialness spirals' can make ordinary items feel like treasures – and may explain how clutter accumulates", The Conversation, 2021-09-22, https://theconversation.com/psychological-specialness-spirals-can-make-ordinary-items-feel-like-treasures-and-may-explain-how-clutter-accumulates-165863, 2026-10-28 접속
+[^8]: [매체] "그 물건들은 자신들이 피땀 흘린 돈으로 산 것이기도 하고, 자녀들의 추억도 배어 있기 때문에 차마 버리지 못하는 것." — 오병돈, 「정리정돈 잘 하려면… “40세 넘으면 하루에 하나씩 버려야”」, 브라보마이라이프, 2022-01-03, https://bravo.etoday.co.kr/view/atc_view/13057, 2026-10-26 접속
+[^9]: [매체] "생전 쓰지도 않는 갖가지 공구들과 휴대용 버너 등 특히 아버지를 설득하기가 어렵습니다. 엄마는 지난 몇 달동안 전투로 어지간하면 버리는데 동의를 합니다." — 김지안, 「버리려는 자식과 지키려는 부모」, 브런치, 2026-06-14, https://brunch.co.kr/@augustan74/183, 2026-10-23 접속
