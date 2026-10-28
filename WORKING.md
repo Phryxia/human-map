@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-10-28T15:12Z | 2026-10-28T15:30Z | gutenberg 1342·1260 파편 빼기 | awaiting-uncertain-news waiting-for-someone-late
+없음.
