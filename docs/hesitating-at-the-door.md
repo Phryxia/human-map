@@ -12,9 +12,11 @@
 
 2019년 Refinery29 글[^4]의 필자는 처음 선거운동 호별 방문을 앞두고 문을 두드릴 생각을 하면 콜드콜 전화를 걸 때와 비슷한 두려움이 든다고 썼다. 2021년 대학 기숙사 연구[^5]의 초점집단에서 한 학생은 긴 복도의 방들을 두고 사람들 방문을 그냥 두드리며 인사하는 일이 몹시 어색할 것이라고 말했다. 2024년 인터뷰 글[^6]에서 호별 방문을 처음 앞둔 사람은 남의 영역에 끼어드는 느낌이 들 것이라 예상했고 그 이유로 자기가 집에서 쉴 때 누가 문을 두드리면 그렇게 느낀다는 것을 들었다. 2024년 질적 메타합성[^7]이 옮긴 참여자의 말에서 그는 그냥 찾아가 초인종을 눌러 사람을 만나는 것은 틀린 일 같았고 실수할까 봐 감히 그러지 못했다.
 
-2026년 4월 기사[^8]의 글쓴이는 이웃을 만나려면 직접 가서 문을 두드려야 했는데 가족 누구도 그 일이 편하지 않았다고 썼다. 2026년 6월 기사[^9]에서 초인종을 쓰지 않는 Z세대의 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했고 기사는 그 이유를 어색함 피하기로 적었다.
+1980년대 영국에서 성병 상담사로 일한 경험을 적은 2025년 회고 논문[^8]의 저자는 접촉자를 찾아 문을 두드리러 가는 일이 늘 조심스러웠고 누가 문을 열지 알 수 없었다고 썼다.
 
-2026년 8월 Hacker News 댓글[^10]의 글쓴이는 음식 배달원이 길 한가운데 선 채 전화를 걸었다고 쓰고 그가 다가가 문을 두드리거나 초인종을 누르기를 두려워하는 것처럼 보였다고 적었다.
+2026년 4월 기사[^9]의 글쓴이는 이웃을 만나려면 직접 가서 문을 두드려야 했는데 가족 누구도 그 일이 편하지 않았다고 썼다. 2026년 6월 기사[^10]에서 초인종을 쓰지 않는 Z세대의 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했고 기사는 그 이유를 어색함 피하기로 적었다.
+
+2026년 8월 Hacker News 댓글[^11]의 글쓴이는 음식 배달원이 길 한가운데 선 채 전화를 걸었다고 쓰고 그가 다가가 문을 두드리거나 초인종을 누르기를 두려워하는 것처럼 보였다고 적었다.
 
 # 관계
 
@@ -47,6 +49,7 @@
 [^5]: [학술] "I’d feel really awkward just knocking on people’s doors being like ‘hi’" (그냥 사람들 방문을 두드리며 '안녕' 하는 건 정말 어색할 것 같다) — J. D. Worsley, P. Harrison, R. Corcoran 외, 「The role of accommodation environments in student mental health and wellbeing」, BMC Public Health 21, 2021-03-23, https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7986561/fullTextXML, 2026-10-25 접속
 [^6]: [매체] "I also anticipated it would feel like I was intruding. Because this is how I feel when somebody comes knocking when I'm at home, relaxing." (나는 또 그것이 남에게 끼어드는 느낌일 거라고 예상했다. 내가 집에서 쉬고 있을 때 누가 문을 두드리면 그렇게 느끼기 때문이다.) — Dave Fleischer, "The fear you feel before you knock on a door", Dave's Substack, 2024-09-08, https://davefleischer.substack.com/p/the-fear-you-feel-before-you-knock, 2026-10-22 접속
 [^7]: [학술] "I didn’t dare make a mistake, because it would be, like, wrong to meet someone by just going up and ringing the doorbell." (나는 감히 실수를 할 수 없었다. 그냥 다가가서 초인종을 눌러 누군가를 만나는 것은, 말하자면, 틀린 일일 것이기 때문이다.) — Chi Yi Lee 외, "The experience of loneliness among people with psychosis: Qualitative meta-synthesis", PLOS ONE, 2024-12-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC11687762/, 2026-10-25 접속
-[^8]: [매체] "We'd have to physically go up and knock on our neighbors' doors to meet them, and no one in my family felt comfortable doing that." (이웃을 만나려면 직접 걸어가 이웃집 문을 두드려야 했는데 우리 가족 누구도 그 일이 편하지 않았다.) — Annie Reneau, Upworthy, Yahoo Life, 2026-04-17, https://www.yahoo.com/lifestyle/articles/10-years-social-anxiety-kept-014807941.html, 2026-10-22 접속
-[^9]: [매체] "이 같은 변화의 가장 큰 이유는 '어색함'을 피하기 위해서다. 초인종을 사용하지 않는 Z세대 가운데 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했다." — 장지민, 한국경제, 2026-06-19, https://www.hankyung.com/article/2026061970727, 2026-10-22 접속
-[^10]: [SNS] "I had one food delivery driver call me while standing in the middle of the street. Seemed like he was afraid to approach and knock or ring." (음식 배달원 한 명은 길 한가운데 선 채 내게 전화를 걸었다. 다가가서 문을 두드리거나 초인종을 누르기를 두려워하는 것 같았다.) — Hacker News 댓글, 2026-08-31, https://news.ycombinator.com/item?id=49510448, 2026-10-23 접속
+[^8]: [학술] "It was always a delicate business going knocking on doors, not knowing whether the contact or one of his partners might open the door." (접촉자 본인이 문을 열지 그의 파트너 가운데 누가 열지 모른 채 문을 두드리러 가는 일은 늘 조심스러운 일이었다.) — D. Evans, "'How Old Are You, Boy?' An Autobiographical History of Working as a Sexual Health Adviser in 1980s Britain", Social History of Medicine, 2025-03-04, https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12511522/fullTextXML, 2026-10-28 접속
+[^9]: [매체] "We'd have to physically go up and knock on our neighbors' doors to meet them, and no one in my family felt comfortable doing that." (이웃을 만나려면 직접 걸어가 이웃집 문을 두드려야 했는데 우리 가족 누구도 그 일이 편하지 않았다.) — Annie Reneau, Upworthy, Yahoo Life, 2026-04-17, https://www.yahoo.com/lifestyle/articles/10-years-social-anxiety-kept-014807941.html, 2026-10-22 접속
+[^10]: [매체] "이 같은 변화의 가장 큰 이유는 '어색함'을 피하기 위해서다. 초인종을 사용하지 않는 Z세대 가운데 39%는 문자 메시지가 상대에게 덜 부담스럽다고 답했다." — 장지민, 한국경제, 2026-06-19, https://www.hankyung.com/article/2026061970727, 2026-10-22 접속
+[^11]: [SNS] "I had one food delivery driver call me while standing in the middle of the street. Seemed like he was afraid to approach and knock or ring." (음식 배달원 한 명은 길 한가운데 선 채 내게 전화를 걸었다. 다가가서 문을 두드리거나 초인종을 누르기를 두려워하는 것 같았다.) — Hacker News 댓글, 2026-08-31, https://news.ycombinator.com/item?id=49510448, 2026-10-23 접속
