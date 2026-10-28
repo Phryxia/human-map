@@ -147,6 +147,7 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
     for (const e of edges) {
       const other = docs.get(e.id)
       if (!other) { err(e.ln, `링크 대상 파일이 없다: ${e.id}.md`); continue }
+      if (other.title && e.title !== other.title) err(e.ln, `관계 줄의 표시 제목 '${e.title}' 이 ${e.id} 의 제목 '${other.title}' 과 다르다`)
       if (!(other.rel[INVERSE[rel]] ?? []).some(x => x.id === doc.id)) err(e.ln, `ASYMMETRIC: ${doc.id} ${rel} ${e.id} 의 역방향이 ${e.id} 의 ${INVERSE[rel]} 에 없다`)
       if ((rel === '원인' || rel === '대립') && !e.frags.length) err(e.ln, `${rel} 간선에 근거 파편이 없다`)
     }

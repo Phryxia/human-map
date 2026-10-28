@@ -49,6 +49,14 @@ test('ASYMMETRIC 과 원인 간선의 근거 파편', () => {
   assert.ok(m.some(x => x.includes('근거 파편이 없다') && x.includes('원인')))
 })
 
+test('관계 줄의 표시 제목이 대상 문서 제목과 다르면 오류', () => {
+  const a = makeDoc({title: '가', rel: {상위: ['- [다른 이름](b.md)']}})
+  const b = makeDoc({title: '비', rel: {하위: ['- [가](a.md)']}})
+  const m = errs(loadAll(makeRepo({a, b})))
+  assert.ok(m.some(x => x.includes('표시 제목') && x.includes('다른 이름') && x.includes('비')))
+  assert.ok(!m.some(x => x.includes('표시 제목') && x.includes("'가'")))
+})
+
 test('링크 대상 파일이 없으면 오류', () => {
   assert.ok(errs(loadAll(makeRepo({a: makeDoc({rel: {상위: ['- [없](zzz.md)']}})}))).some(x => x.includes('zzz.md')))
 })
@@ -119,7 +127,7 @@ test('문단 수 제한은 없고, 문단당 4문장을 넘으면 ERROR', () => 
 })
 
 test('관계 줄의 붙여 쓴 근거 파편[^1][^2] 도 간선으로 읽고, 형식이 틀린 관계 줄은 오류', () => {
-  const a = makeDoc({rel: {원인: ['- [B](b.md)[^1][^2]']}})
+  const a = makeDoc({title: 'A', rel: {원인: ['- [B](b.md)[^1][^2]']}})
   const b = makeDoc({title: 'B', rel: {결과: ['- [A](a.md)[^1]']}})
   const docs = loadAll(makeRepo({a, b}))
   assert.deepEqual(docs.get('a').rel['원인'][0].frags, [1, 2])
