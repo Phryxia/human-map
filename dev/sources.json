@@ -12244,5 +12244,17 @@
     "last": "2026-10-28",
     "result": "VERIFIED",
     "lastVerified": "2026-10-28"
+  },
+  "https://api.parliament.uk/historic-hansard/written_answers/2004/apr/01/computer-misuse": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1010845/full": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
   }
 }
