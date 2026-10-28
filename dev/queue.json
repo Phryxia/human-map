@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-10-28T09:41:44.338Z",
-  "nextSeq": 2540,
-  "stops": 128,
+  "savedAt": "2026-10-28T12:44:48.593Z",
+  "nextSeq": 2546,
+  "stops": 129,
   "items": [
+    {
+      "id": "ab814045",
+      "title": "dev: validate 가 같은 Gutenberg 책의 HTML 판과 txt 판 URL 을 같은 출처로 센다",
+      "priority": 80,
+      "note": "2026-10-28 epub/766 은 pg766-images.html 4문서와 pg766.txt 1문서(delaying-will-writing 등)로 5문서가 쓰지만 URL 이 달라 WARN 이 안 남",
+      "createdAt": "2026-10-28T12:44:45.393Z",
+      "seq": 2544
+    },
     {
       "id": "d7b043a8",
       "title": "reading-faces-as-negative 보강: SNS 파편, fear-of-negative-evaluation 원인 간선 근거",
@@ -635,6 +643,14 @@
       "note": "2026-10-28 ERIC EJ333440 (1985) 초록은 아이 나눔이 모델 행동에 좌우됨뿐, 구경꾼 돕기와 멂. Bryan & Test 1967 (PMID 6082466) 초록 없음, PsycNET 403. 후보: ctvnews.ca/edmonton be-the-one-who-moves (2026-04-13), Greitemeyer 2022 PMID 34628366",
       "createdAt": "2026-10-28T09:41:33.122Z",
       "seq": 2539
+    },
+    {
+      "id": "befa0f61",
+      "title": "rereading-messages-before-sending 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-28 후보 Middlemarch pg145 'Three times she wrote.' 짧음, David Copperfield pg766 'I must have written half-a-dozen answers at least.' 는 epub 766 이 이미 5문서. Anna Karenina pg1399 편지 찢고 다시 쓰기 대목은 4문서가 씀",
+      "createdAt": "2026-10-28T12:44:45.520Z",
+      "seq": 2545
     },
     {
       "id": "d16898d2",
@@ -2195,6 +2211,14 @@
       "note": "2026-10-28 leaving-food-on-the-plate 와 대립 후보. HN 17960050 (2018-09-11) 받은 것을 다 먹어야 한다는 압박, HN 22994656 (2020-04-27) 남기면 죄책감, HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
       "createdAt": "2026-10-28T09:10:55.760Z",
       "seq": 2529
+    },
+    {
+      "id": "e1d21737",
+      "title": "떠나려는 손님을 붙잡아 놓고 후회하기",
+      "priority": 10,
+      "note": "2026-10-28 Pride and Prejudice 12장 pg1342 'Miss Bingley was then sorry that she had proposed the delay'. ritual-refusal, lingering-goodbye 와 관계 후보",
+      "createdAt": "2026-10-28T12:17:09.731Z",
+      "seq": 2543
     },
     {
       "id": "02b2f242",
