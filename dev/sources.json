@@ -11978,21 +11978,21 @@
   },
   "https://ideas.repec.org/a/oup/jconrs/v17y1991i4p492-507.html": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.dt.co.kr/article/10792863": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://news.bizwatch.co.kr/article/consumer/2016/12/23/0026": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30191358&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -12774,6 +12774,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://literacytrust.org.uk/research-services/research-reports/childrens-and-young-peoples-diary-writing-2015": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://news.ycombinator.com/item?id=32422933": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
