@@ -198,3 +198,16 @@ test('앞 문단에서 쓴 각주만 다시 가리키는 서술 문단은 ERROR'
   assert.deepEqual(errs(loadAll(makeRepo({a: ok}))), [])
   assert.deepEqual(warns(loadAll(makeRepo({a: ok}))), [])
 })
+
+test('같은 Gutenberg 책의 HTML 판과 txt 판은 같은 출처로 센다', () => {
+  // 2026-10-28 epub/766 을 pg766-images.html 4문서와 pg766.txt 1문서가 썼다
+  const urls = ['https://www.gutenberg.org/cache/epub/766/pg766-images.html', 'https://www.gutenberg.org/cache/epub/766/pg766.txt', 'https://www.gutenberg.org/ebooks/766', 'https://www.gutenberg.org/files/766/766-h/766-h.htm', 'https://www.gutenberg.org/files/766/766-0.txt']
+  const docs = Object.fromEntries(urls.map((u, i) => [`d${i}`, makeDoc({frags: [frag(1, '학술', '2001', `https://a.example/${i}`), frag(2, '문학', '1850', u)]})]))
+  assert.ok(warns(loadAll(makeRepo(docs))).some(x => x.includes('5개 문서') && x.includes('gutenberg')))
+  const four = Object.fromEntries(Object.entries(docs).slice(0, 4))
+  assert.ok(!warns(loadAll(makeRepo(four))).some(x => x.includes('개 문서')))
+  const two = makeDoc({body: '문단.[^1][^2][^3]', frags: [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '문학', '1850', urls[0]), frag(3, '문학', '1850', urls[1])]})
+  assert.ok(errs(loadAll(makeRepo({a: two}))).some(x => x.includes('한 출처에서 한 파편만') && x.includes('[^3]')))
+  const other = makeDoc({body: '문단.[^1][^2][^3]', frags: [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '문학', '1850', urls[0]), frag(3, '문학', '1850', 'https://www.gutenberg.org/cache/epub/76/pg76.txt')]})
+  assert.ok(!errs(loadAll(makeRepo({a: other}))).some(x => x.includes('한 출처에서 한 파편만')))
+})

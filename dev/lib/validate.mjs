@@ -31,6 +31,15 @@ export const accountOf = url => {
   return blogAccountOf(url)
 }
 
+// 같은 글의 다른 판(HTML, txt 등)을 같은 출처로 잰다. [이름, 정규식(1번 묶음이 글 번호)]
+export const SOURCE_PATTERNS = [
+  ['gutenberg', /^https?:\/\/(?:www\.)?gutenberg\.org\/(?:cache\/epub|ebooks|files)\/(\d+)(?:[/.?#]|$)/i],
+]
+export const sourceKey = url => {
+  for (const [name, re] of SOURCE_PATTERNS) { const m = re.exec(url); if (m) return `${name}:${m[1]}` }
+  return url
+}
+
 const DATE_OK = d => d === '발행일 미상' || /^\d{4}(-\d{2}(-\d{2})?)?$/.test(d)
 const sortKey = d => d === '발행일 미상' ? '' : d
 // 문장 끝: 공백이나 문단 끝 앞의 마침표·물음표·느낌표. 15.6% 같은 소수점은 세지 않는다.
@@ -73,8 +82,9 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
   for (const b of doc.strayLines) err(b.ln, b.text.startsWith('[^') ? '각주 정의는 태그 줄 뒤에만 둔다' : '태그 줄 뒤에는 각주 정의만 둔다')
   const nums = new Set(), firstByUrl = new Map()
   doc.fragments.forEach((f, i) => {
-    if (firstByUrl.has(f.url)) err(f.ln, `한 출처에서 한 파편만 쓴다: [^${firstByUrl.get(f.url)}] 와 [^${f.n}] 이 같은 URL ${f.url}`)
-    else firstByUrl.set(f.url, f.n)
+    const key = sourceKey(f.url)
+    if (firstByUrl.has(key)) err(f.ln, `한 출처에서 한 파편만 쓴다: [^${firstByUrl.get(key)}] 와 [^${f.n}] 이 같은 출처 ${key}`)
+    else firstByUrl.set(key, f.n)
     if (f.n !== i + 1) err(f.ln, `파편 번호가 순서와 다르다 ([^${f.n}], 기대 [^${i + 1}])`)
     nums.add(f.n)
     if (!KINDS.includes(f.kind)) err(f.ln, `종류가 다섯 중 하나가 아니다: ${f.kind}`)
@@ -150,12 +160,12 @@ export function validateAll(docs, sources = {}, tags = loadTags()) {
   for (const d of docs.values()) out.push(...validateDoc(d, docs, sources, tags))
   const byUrl = new Map(), byAcct = new Map()
   for (const d of docs.values()) for (const f of d.fragments) {
-    byUrl.set(f.url, (byUrl.get(f.url) ?? new Set()).add(d.id))
+    byUrl.set(sourceKey(f.url), (byUrl.get(sourceKey(f.url)) ?? new Set()).add(d.id))
     // 계정 경로가 URL 에 없는 SNS 글은 글 하나가 곧 한 사람이므로 URL 을 계정으로 잰다
     const a = f.kind === 'SNS' ? accountOf(f.url) ?? `글/${f.url}` : blogAccountOf(f.url)
     if (a) { byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
   }
-  for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 URL 을 ${ids.size}개 문서가 쓴다: ${url}`})
+  for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 출처(URL)를 ${ids.size}개 문서가 쓴다: ${url}`})
   // 계정 경로 없는 SNS 글 검사는 기존 문서가 고쳐질 때까지 WARN 이다
   const isWarn = a => a.startsWith('글/')
   for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: isWarn(a) ? 'WARN' : 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})
