@@ -1,89 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-28T00:40:48.517Z",
-  "nextSeq": 2492,
-  "stops": 125,
+  "savedAt": "2026-10-28T03:40:53.536Z",
+  "nextSeq": 2509,
+  "stops": 126,
   "items": [
-    {
-      "id": "63e1ff7d",
-      "title": "keeping-cash-at-home 보강: 한국 공공 파편, 위기 조건",
-      "priority": 50,
-      "note": "2026-10-26 RBA 2000-01 Y2K bulletin 확인: 은행의 Y2K 추가 지폐 수요 25억 달러는 고객 인출과 은행 금고 예비분을 함께 셈해 가계 보관 근거로 약함. 한국은행 현금사용행태 조사 HTML 원문 미발견. Bundesbank 2024-03 publikationen.bundesbank.de/content/928358, 1819news 2022-05-07 대공황 세대 은행 불신. panic-buying 관계 근거 파편 없음",
-      "createdAt": "2026-10-26T09:40:08.687Z",
-      "seq": 2207
-    },
-    {
-      "id": "b818b4db",
-      "title": "singing-to-keep-up-courage 보강: 학술·SNS 파편, fear-of-the-dark 관계",
-      "priority": 50,
-      "note": "2026-10-25 신규, 문학 4·매체 1. 다른 문학 후보: poets.org/poem/halloween Burns 1786 'whistled up Lord Lennox march To keep his courage cheery', gutenberg 1661 Doyle 1892 'humming a tune under my breath to keep up my spirits'. HN 1인칭 댓글, HTML 학술 연구는 못 찾음",
-      "createdAt": "2026-10-26T09:40:25.109Z",
-      "seq": 2208
-    },
-    {
-      "id": "b7bb1fe7",
-      "title": "putting-off-backups 보강: 학술 파편, 이유",
-      "priority": 50,
-      "note": "2026-10-25 신규. 후보: itweb.africa 2014-01-31 'South Africans too lazy to back up data' 바쁨 40% 귀찮음 15%. Deccan Herald 2023 Western Digital 인도 조사는 본문이 JSON 에만 있음. 학술 HTML 미탐색",
-      "createdAt": "2026-10-26T09:40:40.683Z",
-      "seq": 2209
-    },
-    {
-      "id": "3861a1b3",
-      "title": "tempting-fate 보강: 한국어 SNS 1인칭 파편, 장담을 말리는 면",
-      "priority": 50,
-      "note": "2026-10-26 신규, 문학 2·학술 2·매체 2. 후보: Lawrence Lady Chatterley's Lover 1928 gutenberg 73144 'Don't boast, while the gods are listening'(인용부호가 섞여 미사용). Milne Happy Days 1915 gutenberg 26098 'Cross your fingers quickly, James, and touch wood.' 입방정·설레발·김칫국 검색 무소득",
-      "createdAt": "2026-10-26T12:16:35.997Z",
-      "seq": 2214
-    },
-    {
-      "id": "4ec630a2",
-      "title": "spring-cleaning 보강: 학술 파편, tidying-before-guests 관계",
-      "priority": 50,
-      "note": "2026-10-26 신규, 문학 1·매체 2·공공 1. 학술 출처 미발견. cmmonline.com 2020-03-09 ACI 조사 78%. brunch.co.kr/@bicycle/18 (2026-03-24) 겨울 뒤 창문 열고 쌓인 박스를 봄. localnaeil 649628 (2023-04-24) 대청소와 물건 처분",
-      "createdAt": "2026-10-26T12:30:40.219Z",
-      "seq": 2215
-    },
-    {
-      "id": "d7e0e057",
-      "title": "boredom 보강: loneliness·avoiding-being-alone-with-thoughts 관계",
-      "priority": 50,
-      "note": "2026-10-26 클리앙 2023-12-04 더함. 관계 후보 clien park/18153933 댓글 (2023-06-26) '혼자여행도 3일쯤 넘어가기 시작하면 좀 외롭고 심심하더라고요' (인과 아님). Havermans 2015 Appetite 지루함과 스스로 주는 전기 충격",
-      "createdAt": "2026-10-26T15:33:37.282Z",
-      "seq": 2228
-    },
-    {
-      "id": "7429a1c9",
-      "title": "wishcycling 보강: not-sorting-recyclables 관계, 사회적 관심 조건",
-      "priority": 50,
-      "note": "2026-10-26 PsyArXiv 9v7aq Kramer, Yoeli, Rand 2023 지속가능성 관심이 클수록 확실치 않을 때 재활용 쪽으로 넣음(초록은 api.osf.io/v2/preprints/9v7aq/ JSON 에만). 10년 이전 파편 없음",
-      "createdAt": "2026-10-26T18:18:41.046Z",
-      "seq": 2239
-    },
-    {
-      "id": "ccfec8d3",
-      "title": "reading-the-ending-first 보강: 학술 파편, 불안 조건",
-      "priority": 50,
-      "note": "2026-10-26 Leavitt, Christenfeld 2011 PMID 21841150 초록 없음. Goodreads 1583296 무서운 책에서 무사 확인. sonlight 2012-04-19 'It helps me enjoy the book more'",
-      "createdAt": "2026-10-26T18:25:04.142Z",
-      "seq": 2241
-    },
-    {
-      "id": "2e60047f",
-      "title": "treating-objects-as-companions 보강: 한국어 파편, 외로움 원인 간선",
-      "priority": 50,
-      "note": "2026-10-26 Epley 2008 PMID 18271858 외로움이 의인화를 늘림(원인 간선 근거). NBC 2007 Sung, Grinter 연구 30명 중 21명이 이름 붙임(원 논문 미확인). Moby-Dick 118장 사분의에 말 걸기. substack asassylittle im-sorry 차에 사과 미열람",
-      "createdAt": "2026-10-26T18:31:34.082Z",
-      "seq": 2243
-    },
-    {
-      "id": "74b7eab8",
-      "title": "crying-at-sad-stories 보강: 문학, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-26 Little Women(pg514) 'crying over the Heir of Redclyffe' 는 같은 작품이 이미 5개 문서에 쓰여 뺌. Küster 2022 PMID 34918224 스스로 고른 슬픈 영화. 카타르시스 결과 간선 후보(매일신문 2007)",
-      "createdAt": "2026-10-26T18:34:07.412Z",
-      "seq": 2244
-    },
     {
       "id": "614976f7",
       "title": "leaving-food-on-the-plate 보강: SNS·한국어 파편, 양이 많아 남김 조건",
@@ -157,14 +77,6 @@
       "seq": 2271
     },
     {
-      "id": "f4ceb042",
-      "title": "engine-idling 보강: 한국어 파편, 2010년대 학술",
-      "priority": 50,
-      "note": "2026-10-27 한국어 검색은 예열 권장 해설만 나옴(운전자 행동 서술 없음). 후보: psmag 기사가 인용한 Carrico 외 'Costly Myths' Energy Policy, NRCan 'Canadians also idle while waiting for passengers'(이미 쓴 URL)",
-      "createdAt": "2026-10-27T00:32:37.057Z",
-      "seq": 2272
-    },
-    {
       "id": "0e03c3b9",
       "title": "burning-farm-waste 보강: working-through-heat 관계",
       "priority": 50,
@@ -187,14 +99,6 @@
       "note": "2026-10-27 'overdue library book' 과 답장 지연 수치를 같이 다룬 글 검색 무소득. 후보: writerswrite.com new-york-public-library-receives-8042014177 사서가 54년 연체 반납을 두고 수치심 때문인지 묻는 대목, odt.co.nz fines-discontinued-district-libraries (2022-07-25)",
       "createdAt": "2026-10-27T03:12:59.585Z",
       "seq": 2293
-    },
-    {
-      "id": "dcafba49",
-      "title": "contagious-yawning 보강: 비율 수치 파편",
-      "priority": 50,
-      "note": "2026-10-27 Anna Karenina 4부 14장 wikisource 로 문학 파편 더함(gutenberg 1399 는 5개 문서가 써서 피함). 전염 비율 % 든 초록 미발견",
-      "createdAt": "2026-10-27T03:14:22.925Z",
-      "seq": 2294
     },
     {
       "id": "af651bbc",
@@ -691,6 +595,70 @@
       "note": "2026-10-28 신규, 학술 1·공공 1. 후보: HN 47971375 (2026-05-01) 은퇴한 부모가 넉넉한데도 1,000달러 휴대전화를 사지 못함, Poterba 외 2011 같은 초록 저자는 노년 지출 대비 자기보험이라 추측, APRA 2023 같은 글 'many members tend to underspend because they draw down at the regulated minimum rate'",
       "createdAt": "2026-10-28T00:40:02.702Z",
       "seq": 2491
+    },
+    {
+      "id": "6579d23d",
+      "title": "boredom 보강: loneliness·avoiding-being-alone-with-thoughts 관계",
+      "priority": 50,
+      "note": "2026-10-28 Havermans 2015 (PMID 25447018) 더함. 지루함에서 벗어나려 스스로 충격을 줌(negative reinforcement)은 avoiding-being-alone-with-thoughts 의 Wilson 2014 와 같은 면이나 인과 간선 근거는 아님. 외로움→지루함 인과 파편 미탐색. clien park/18153933 댓글 (2023-06-26) 외롭고 심심(인과 아님)",
+      "createdAt": "2026-10-28T03:33:39.193Z",
+      "seq": 2501
+    },
+    {
+      "id": "35245254",
+      "title": "wishcycling 보강: not-sorting-recyclables 관계, 2018년 이전 파편",
+      "priority": 50,
+      "note": "2026-10-28 사회적 관심 조건은 [^5] PsyArXiv 9v7aq 로 이미 서술됨. 같은 연구의 게재본 psycharchives.org/en/item/94ab114e-57ea-4248-a999-f9553b1ee464 (2025-05-12, Global Environmental Psychology) HTML 초록 열림(같은 연구라 대체용). 남은 것: not-sorting-recyclables 관계 근거, 10년 이전 파편",
+      "createdAt": "2026-10-28T03:34:17.718Z",
+      "seq": 2502
+    },
+    {
+      "id": "4df2f596",
+      "title": "spring-cleaning 보강: tidying-before-guests 관계",
+      "priority": 50,
+      "note": "2026-10-28 학술 파편 Saadat 2011 PMC3170248 더함. 손님맞이 관계 후보: refinery29 2017-03-20 노루즈 앞 몇 주 khaneh takani, clien park/17930098 (2023-02-27) 봄맞이 대청소. 손님 맞기 전 청소와 이어 말하는 인과 파편 미발견",
+      "createdAt": "2026-10-28T03:35:04.616Z",
+      "seq": 2503
+    },
+    {
+      "id": "092a9929",
+      "title": "reading-the-ending-first 보강: 불안 조건 학술 파편",
+      "priority": 50,
+      "note": "2026-10-28 Daniel, Katz 2019 PMID 30115003 스포일러 조건(TV 는 줄고 단편은 안 줄음) 더함. 불안해서 결말을 먼저 보는 면의 학술 파편은 아직 없음. Leavitt, Christenfeld 2011 PMID 21841150 초록 없음",
+      "createdAt": "2026-10-28T03:36:39.086Z",
+      "seq": 2504
+    },
+    {
+      "id": "e6ee4201",
+      "title": "treating-objects-as-companions 보강: 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-28 외로움 원인 간선은 Epley 2008 [^4] 로 그음. 한국어 파편 없음. 후보 미탐색: 로봇청소기 이름 붙이기, 자동차에 이름 붙이기 한국어 게시글. substack asassylittle im-sorry 차에 사과 미열람",
+      "createdAt": "2026-10-28T03:37:23.653Z",
+      "seq": 2505
+    },
+    {
+      "id": "6fd2a9bd",
+      "title": "crying-at-sad-stories 보강: SNS 파편, 카타르시스 결과 간선",
+      "priority": 50,
+      "note": "2026-10-28 Anne of Green Gables 1908 문학 파편 더함(pg45 는 이제 4개 문서). Küster 2022 PMID 34918224 스스로 고른 슬픈 영화. 카타르시스 결과 간선 후보(매일신문 2007)",
+      "createdAt": "2026-10-28T03:38:34.231Z",
+      "seq": 2506
+    },
+    {
+      "id": "8ef04b7c",
+      "title": "contagious-yawning 보강: 비율 수치 파편",
+      "priority": 50,
+      "note": "2026-10-28 Bartholomew, Cirulli 2014 PMID 24632594 나이 조건 더함. 초록에 하품이 옮는 사람 비율 수치는 없음. 본문 PMC3954725 미열람",
+      "createdAt": "2026-10-28T03:39:25.788Z",
+      "seq": 2507
+    },
+    {
+      "id": "cdc2677b",
+      "title": "engine-idling 보강: 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-28 Eghbalnia 2013 PMID 23734527 학부모 30% 서약 더함. 한국어 파편 없음. 후보 미탐색: 공회전 단속, 겨울 예열 게시글",
+      "createdAt": "2026-10-28T03:40:28.503Z",
+      "seq": 2508
     },
     {
       "id": "d16898d2",
