@@ -11480,27 +11480,27 @@
   },
   "https://oee.nrcan.gc.ca/transportation/idling/facts.cfm": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://psmag.com/environment/american-idling-ecological-engine-running-3771/": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.highwaysmagazine.co.uk/news/strategic-road-network/nearly-quarter-drivers-admit-idling": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.centralbedfordshire.gov.uk/news/2023/council-and-residents-united-call-action-engine-idling": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.nbcnews.com/news/amp/wbna22132580": {
     "first": "2026-10-27",
@@ -12402,6 +12402,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24632594&rettype=abstract&retmode=text": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=23734527&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
