@@ -18,7 +18,7 @@
 
 ## 하위
 
-없음.
+- [헬스장 등록하고 안 가기](gym-membership-nonuse.md)
 
 ## 원인
 
