@@ -4059,9 +4059,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1026/pg1026-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.gutenberg.org/cache/epub/57333/pg57333-images.html": {
     "first": "2026-10-19",
@@ -8336,15 +8336,15 @@
   },
   "https://nocutnews.co.kr/news/1166798": {
     "first": "2026-10-23",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.stiftungfuerzukunftsfragen.de/en/the-appeal-of-writing-why-keeping-a-diary-increases-our-well-being/": {
     "first": "2026-10-23",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.eeoc.gov/select-task-force-study-harassment-workplace": {
     "first": "2026-10-23",
@@ -9140,9 +9140,9 @@
   },
   "https://news.ycombinator.com/item?id=2094320": {
     "first": "2026-10-24",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.npr.org/transcripts/722141820": {
     "first": "2026-10-24",
@@ -10226,15 +10226,15 @@
   },
   "https://research.unipd.it/handle/11577/1375667": {
     "first": "2026-10-25",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19102488&rettype=abstract&retmode=text": {
     "first": "2026-10-25",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3337490/": {
     "first": "2026-10-25",
@@ -10964,9 +10964,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8440253/": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://biz.sbs.co.kr/amp/article/20000265203": {
     "first": "2026-10-26",
@@ -11846,9 +11846,9 @@
   },
   "https://news.ycombinator.com/item?id=25251560": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://brunch.co.kr/@joonyjs/540": {
     "first": "2026-10-27",
@@ -12768,6 +12768,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://www.gutenberg.org/cache/epub/21/pg21-images.html": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://literacytrust.org.uk/research-services/research-reports/childrens-and-young-peoples-diary-writing-2015": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
