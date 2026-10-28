@@ -8348,15 +8348,15 @@
   },
   "https://www.eeoc.gov/select-task-force-study-harassment-workplace": {
     "first": "2026-10-23",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://m.ekn.kr/view.php?key=343593": {
     "first": "2026-10-23",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://www.gutenberg.org/cache/epub/145/pg145-images.html": {
     "first": "2026-10-23",
@@ -10238,15 +10238,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3337490/": {
     "first": "2026-10-25",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://www.clien.net/service/board/park/15275324": {
     "first": "2026-10-25",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://www.segye.com/newsView/20191121513801": {
     "first": "2026-10-25",
@@ -10970,9 +10970,9 @@
   },
   "https://biz.sbs.co.kr/amp/article/20000265203": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-28"
   },
   "https://brunch.co.kr/@ohmichin/57": {
     "first": "2026-10-26",
@@ -12282,6 +12282,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://www.radioseoul1650.com/archives/152467": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11314480&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
