@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-28T18:31:56.495Z",
-  "nextSeq": 2586,
-  "stops": 131,
+  "savedAt": "2026-10-28T21:39:18.081Z",
+  "nextSeq": 2598,
+  "stops": 132,
   "items": [
-    {
-      "id": "f58da843",
-      "title": "dev: validate 가 관계 줄의 표시 제목이 대상 문서 제목과 다르면 잡는다",
-      "priority": 80,
-      "note": "2026-10-28 fear-of-negative-evaluation 결과 절에 '[의사에게 정보 숨기기](withholding-information-from-doctors.md)' 를 적었는데 실제 제목은 '의사에게 증상과 습관 줄여 말하기' 였고 validate 가 통과시킴. 현재 문서 전체 불일치 0건",
-      "createdAt": "2026-10-28T15:36:53.491Z",
-      "seq": 2576
-    },
-    {
-      "id": "db38e4ea",
-      "title": "faking-sick-to-skip-school 와 calling-in-sick-when-not-sick 관계 확인",
-      "priority": 50,
-      "note": "2026-10-27 학생 꾀병과 직장인 꾀병 결근. 두 현상을 함께 다룬 파편이 있으면 상위나 원인 관계",
-      "createdAt": "2026-10-27T06:38:06.852Z",
-      "seq": 2323
-    },
-    {
-      "id": "0e9c8998",
-      "title": "dodging-the-bill 과 fighting-over-the-bill 의 대립 간선을 다른 출처로 다시 긋는다",
-      "priority": 50,
-      "note": "2026-10-27 근거였던 brunch hongkim1013/15 가 같은 계정 규칙에 걸려 fighting-over-the-bill 에서 빠짐. 같은 사람 안에서 다 내고 싶은 마음과 얻어먹고 싶은 마음을 말하는 출처 필요",
-      "createdAt": "2026-10-27T09:14:34.843Z",
-      "seq": 2355
-    },
-    {
-      "id": "a5a97dbb",
-      "title": "hiding-bedbug-infestation 보강: 한국어 파편, avoiding-inviting-people-home 과 관계",
-      "priority": 50,
-      "note": "2026-10-25 경향 202311011603001, 경기 20240111580138, brunch bizhrd/569 에 숨김·낙인 대목 없음. 2026-10-27 twig24 20231106500202 '신고 꺼리는 분위기' 는 JS 본문·503 이고 영업장 이야기, elle 81988 숨김 대목 없음. Asshoff 2022 'self-isolate and avoid family and friends'(같은 URL)",
-      "createdAt": "2026-10-27T09:16:32.317Z",
-      "seq": 2358
-    },
-    {
-      "id": "347d597e",
-      "title": "holding-a-grudge 보강: 다른 시기, desire-for-revenge 와 rumination 관계",
-      "priority": 50,
-      "note": "2026-10-27 Ricciardi 2013 frontiersin fnhum.2013.00839 더함. 같은 글 'Typically, people holding a grudge rehearse memories of past hurtful events (Baumeister et al., 1998 ). This condition, known as rumination' 는 rumination 관계 후보. 원한이 복수심을 부른다는 파편, 2000년 이전 파편 필요",
-      "createdAt": "2026-10-27T09:27:17.171Z",
-      "seq": 2360
-    },
-    {
-      "id": "5f1bd0cb",
-      "title": "breaking-up 보강: holding-back-tears-at-breakup 관계",
-      "priority": 50,
-      "note": "2026-10-27 livescience 28814 (2013) 더함. 후보: 네이트판 202712787 (2010-09-22) 되풀이되는 싸움에 지쳐 헤어짐",
-      "createdAt": "2026-10-27T09:30:18.609Z",
-      "seq": 2363
-    },
-    {
-      "id": "3fe5229f",
-      "title": "intentional-tanning 보강: 2000년 이전 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-27 확인됨 2개(2024, 2026). HN 21147035 (2019) 는 기분 때문에 태닝 침대를 씀으로 겉모습 목적이 아님",
-      "createdAt": "2026-10-27T09:37:01.617Z",
-      "seq": 2367
-    },
-    {
-      "id": "30fdcf4b",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-10-27 hansard.parliament.uk, committees.parliament.uk writtenevidence(NWO0058 등), ourcommons.ca 는 이 환경에서 403. ola.org 회의록 2022-04-12, 2024-02-22 앞 100000자에 guilt 없음. 남은 방법: ola.org offset 100000 이후, record.senedd.wales, oireachtas.ie 토론 HTML",
-      "createdAt": "2026-10-27T12:31:55.941Z",
-      "seq": 2390
-    },
     {
       "id": "44bf2b46",
       "title": "watching-until-out-of-sight 보강: 학술 파편",
@@ -635,6 +571,46 @@
       "note": "2026-10-28 Mill on the Floss(epub/6688) 1권 5장 'then they would all be frightened, and Tom would be sorry' 는 서운함에서 숨고 굶는 상상. 두 현상을 잇는 원인 파편 필요",
       "createdAt": "2026-10-28T18:31:04.010Z",
       "seq": 2585
+    },
+    {
+      "id": "dd7e7240",
+      "title": "hiding-bedbug-infestation 보강: 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-28 Medill 2017 더함. 한국어 개인 숨김 대목 못 찾음: fnnews 202311181000235405, 세계 20231121510654, 경향 202312010742001, 이투데이 2300099, 노컷 6032697, 매일 2016121704582953997. 서울신문 m.seoul 20231105500048 은 업소의 신고 회피. 예비 후보: CMAJ PMC10205907 (2023) 의료진에게 말하면 방문이 끊길까 두려움, McSweeney's column-7-emma (2010) 가명",
+      "createdAt": "2026-10-28T21:26:35.302Z",
+      "seq": 2592
+    },
+    {
+      "id": "04c8845f",
+      "title": "holding-a-grudge 와 rumination 관계",
+      "priority": 50,
+      "note": "2026-10-28 holding-a-grudge 에 Wuthering Heights 1847 과 desire-for-revenge 원인 간선(bostonkravmaga grudges-and-revenge) 더함. kormedi 1627194 (2023-10-11) 제목은 분노반추가 원한의 원인이라 함, 본문 인과 대목 확인 필요",
+      "createdAt": "2026-10-28T21:29:55.171Z",
+      "seq": 2594
+    },
+    {
+      "id": "355f68a1",
+      "title": "breaking-up 보강: holding-back-tears-at-breakup 관계",
+      "priority": 50,
+      "note": "2026-10-28 원문 안에 이별→눈물 참기 인과가 든 대목 못 찾음. 후보: teamblind kr 오늘-헤어졌다-oqkF7ALV (2020-09-06) '꾹 꾹 참고 있다' 는 대목에 헤어지 없음, hercampus 7-things-i-learned-my-first-heartbreak (2017) 'I had to pretend everything was okay' 는 몇 달 뒤 일, fanmaum 132031631 은 드라마 인물. 다른 후보: 네이트판 202712787 (2010-09-22)",
+      "createdAt": "2026-10-28T21:33:13.851Z",
+      "seq": 2595
+    },
+    {
+      "id": "17262924",
+      "title": "intentional-tanning 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-28 PubMed 8376674 (1993) 더함. SNS 1인칭 겉모습 목적 태닝 글 못 찾음. 후보: Guardian From the archive 1935 'Chasing a tan in the New Bronze Age' 원 URL, Trove 1930년대 기사",
+      "createdAt": "2026-10-28T21:36:02.203Z",
+      "seq": 2596
+    },
+    {
+      "id": "441bc693",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-10-27 hansard.parliament.uk, committees.parliament.uk, ourcommons.ca 403. 2026-10-28 oireachtas.ie 405/403(Seanad 2023-02-22 Welfare and Safety of Workers 는 병가 죄책감), theyworkforyou 본문 없음, parliament.scot 6회의 guilt 는 퇴사 무관, DfE working lives 는 PDF. 남은 방법: likms.assembly.go.kr 회의록, NHS England HTML 보고서, 국가인권위 보도자료. 학술 단서 PMC10248469",
+      "createdAt": "2026-10-28T21:39:08.950Z",
+      "seq": 2597
     },
     {
       "id": "d16898d2",
@@ -2211,6 +2187,14 @@
       "note": "2026-10-28 후보: watt-evans.com/blog/?p=1058 (2017, 'why bother maintaining the trim if nobody notices?'), distractify husband-doesnt-notice-wifes-haircut (2023). 매체뿐이라 문학이나 SNS 파편 필요. spotlight-effect 와 관계 후보",
       "createdAt": "2026-10-28T18:30:30.814Z",
       "seq": 2584
+    },
+    {
+      "id": "a2f8daa3",
+      "title": "빈대 옮길까 봐 손님 들이지 않기",
+      "priority": 10,
+      "note": "2026-10-28 PMC10205907 'I knew that I shouldn't invite friends or family to visit', brickunderground 2011/06 bedbugged 'I did not invite people over', zikoko 7-nigerians 'I hardly entertain visitors'. avoiding-inviting-people-home 은 집이 부끄러워서라 원인이 다름",
+      "createdAt": "2026-10-28T21:26:35.428Z",
+      "seq": 2593
     },
     {
       "id": "02b2f242",
