@@ -14,6 +14,8 @@
 
 2003년 연구[^4]는 하품 전염을 흔하지만 잘 이해되지 않은 현상이라 불렀다. 2011년 9월 연구[^5]에서 하품하는 사람의 사진을 보고 따라 하품한 보행자의 비율은 겨울에 45%, 여름에 24%였다. 2011년 12월 연구[^6]에서 하품이 옮는 비율은 혈연, 친구, 지인, 낯선 사람 순으로 높았다. 같은 달 경향신문 기사[^7]도 이 연구를 전하며 하품 전염 대부분이 직접적인 혈연 사이에서 일어났다고 적었다.
 
+2014년 연구[^8]에서 하품 영상을 본 참가자 328명은 나이가 많을수록 하품이 덜 옮았고 40세 미만으로 좁혀도 그랬다.
+
 # 관계
 
 ## 상위
@@ -45,3 +47,4 @@
 [^5]: [학술] "As predicted, the proportion of pedestrians who yawned in response to seeing pictures of people yawning differed significantly between the two conditions (winter: 45%; summer: 24%)." (예측대로 하품하는 사람의 사진을 보고 하품한 보행자의 비율은 두 조건 사이에 유의하게 달랐다(겨울 45%, 여름 24%).) — A. C. Gallup, O. T. Eldakar, 「Contagious yawning and seasonal climate variation」, Frontiers in Evolutionary Neuroscience 3, 2011-09, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21960970&rettype=abstract&retmode=text, 2026-10-26 접속
 [^6]: [학술] "As with other measures of empathy, the rate of contagion was greatest in response to kin, then friends, then acquaintances, and lastly strangers." (다른 공감 척도와 마찬가지로 전염 비율은 혈연에게서 가장 높았고 친구, 지인, 마지막으로 낯선 사람 순이었다.) — I. Norscia, E. Palagi, 「Yawn contagion and empathy in Homo sapiens」, PLoS One 6(12), 2011-12, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22163307&rettype=abstract&retmode=text, 2026-10-26 접속
 [^7]: [매체] "그 결과 대부분의 하품 전염은 직접적인 혈연 사이에서 일어나며 친구 사이에서는 이보다 약간 적게 일어나고 단순한 지인이나 모르는 사람 사이에서는 이보다도 덜 일어나는 것으로 나타났다." — 경향신문, 「하품은 식구 사이에 옮는다」, 2011-12-12, https://www.khan.co.kr/article/20111212103134A/, 2026-10-26 접속
+[^8]: [학술] "Participants were less likely to show contagious yawning as their age increased, even when restricting to ages of less than 40 years." (참가자는 나이가 많을수록 하품 전염을 덜 보였고, 40세 미만으로 한정해도 그랬다.) — Bartholomew AJ, Cirulli ET, 「Individual variation in contagious yawning susceptibility is highly stable and largely unexplained by empathy or other known factors」, PLoS One 9(3), 2014-03-14, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24632594&rettype=abstract&retmode=text, 2026-10-28 접속

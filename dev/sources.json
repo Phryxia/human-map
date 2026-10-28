@@ -10682,33 +10682,33 @@
   },
   "https://www.gutenberg.org/cache/epub/46272/pg46272-images.html": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://boards.straightdope.com/t/catching-a-yawn/9319": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12880893&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22163307&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.khan.co.kr/article/20111212103134A/": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://www.govinfo.gov/content/pkg/FR-2016-01-25/html/2016-01291.htm": {
     "first": "2026-10-26",
@@ -10724,9 +10724,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21960970&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://brunch.co.kr/@hongkim1013/15": {
     "first": "2026-10-26",
@@ -11558,9 +11558,9 @@
   },
   "https://en.wikisource.org/wiki/Anna_Karenina_(Garnett)/Part_Four/Chapter_14": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7435710&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -12396,6 +12396,12 @@
     "lastVerified": "2026-10-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30115003&rettype=abstract&retmode=text": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24632594&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
     "last": "2026-10-28",
     "result": "VERIFIED",
