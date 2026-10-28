@@ -79,7 +79,6 @@
       "hesitating-to-take-parental-leave",
       "not-reporting-workplace-injury",
       "staying-in-job-for-health-insurance",
-      "calling-in-sick-when-not-sick",
       "not-negotiating-salary",
       "guilt-about-resigning",
       "emotional-labor",
@@ -87,7 +86,8 @@
       "retirement-emptiness",
       "skipping-lunch-break",
       "job-insecurity",
-      "cyberloafing"
+      "cyberloafing",
+      "feigning-illness"
     ]
   },
   {
@@ -112,8 +112,7 @@
       "not-reading-books",
       "vegetable-gardening",
       "leaving-lights-on",
-      "leaving-food-on-the-plate",
-      "faking-sick-to-skip-school"
+      "leaving-food-on-the-plate"
     ]
   },
   {

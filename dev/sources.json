@@ -12820,5 +12820,23 @@
     "last": "2026-10-28",
     "result": "VERIFIED",
     "lastVerified": "2026-10-28"
+  },
+  "https://ko.wikisource.org/wiki/일설_춘향전": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://econpapers.repec.org/RePEc:jae:japmet:v:19:y:2004:i:6:p:809-823": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.cambridge.org/core/journals/journal-of-law-medicine-and-ethics/article/doubt-and-social-policy-the-long-history-of-malingering-in-modern-welfare-states/224C5CD7DE76A92E646A67928BBB9032": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
   }
 }

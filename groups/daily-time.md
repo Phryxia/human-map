@@ -22,4 +22,3 @@
 - [책 읽지 않기](../docs/not-reading-books.md) 성인이 한 해 동안 종이책, 전자책, 오디오북 가운데 어느 것도 읽지 않고 지낸다.
 - [추운 아침 이불 속에 머물기](../docs/lingering-in-bed-on-cold-mornings.md) 추운 아침에 잠이 깬 사람이 따뜻한 이불 속에 더 있고 싶어 일어나기를 미룬다.
 - [텃밭 가꾸기](../docs/vegetable-gardening.md) 도시에 사는 사람이 작은 텃밭에 작물을 심어 가꾸며 자라는 것을 보고 뿌듯해한다.
-- [학교 가기 싫어 꾀병 부리기](../docs/faking-sick-to-skip-school.md) 학교에 가기 싫은 아이가 아프다고 하거나 아픈 척을 해서 학교를 빠지려 한다.

@@ -9,7 +9,9 @@
 - [고용 불안](../docs/job-insecurity.md) 일하는 사람이 지금의 일자리를 잃을지 모른다고 걱정한다.
 - [구직 단념](../docs/giving-up-job-search.md) 일할 뜻과 능력이 있는 사람이 일자리를 찾다가 원하는 일자리가 없거나 될 것 같지 않다고 여겨 구직을 그만둔다.
 - [근무 중 사적인 인터넷 사용](../docs/cyberloafing.md) 직장인이 근무 시간에 업무와 상관없는 웹사이트와 SNS 를 본다.
-- [꾀병 결근](../docs/calling-in-sick-when-not-sick.md) 아프지 않은 직장인이 쉬고 싶거나 일을 피하고 싶어 아프다고 하고 병가를 내거나 결근한다.
+- [꾀병 부리기](../docs/feigning-illness.md) 사람이 공부나 일처럼 해야 할 일을 피하려고 아프지 않은데 아프다고 말하거나 아픈 척한다.
+  - [꾀병 결근](../docs/calling-in-sick-when-not-sick.md)
+  - [학교 가기 싫어 꾀병 부리기](../docs/faking-sick-to-skip-school.md)
 - [노년의 계속 일하기 희망](../docs/wanting-to-keep-working-in-old-age.md) 나이가 든 사람이 은퇴할 나이가 지나도 일을 이어 가기를 바란다.
 - [사직 앞의 죄책감](../docs/guilt-about-resigning.md) 직장을 그만두려는 사람이 상사와 동료를 두고 떠나는 일에 죄책감과 불안을 느낀다.
 - [산재 신고 꺼리기](../docs/not-reporting-workplace-injury.md) 일하다 다친 노동자가 불이익이나 동료에게 돌아갈 피해를 걱정해 부상을 회사나 기관에 알리지 않거나 산재 신청을 하지 않는다.
