@@ -25,6 +25,7 @@
   - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)
 - [독감 예방접종 거르기](../docs/skipping-flu-vaccine.md) 권고 대상인 사람이 필요 없다고 여기거나 부작용을 걱정하거나 시간이 없어 독감 예방접종을 받지 않는다.
 - [렌즈 낀 채 잠들기](../docs/sleeping-in-contact-lenses.md) 콘택트렌즈를 끼는 사람이 렌즈를 빼지 않은 채 밤잠이나 낮잠을 잔다.
+- [렌즈를 수돗물로 헹구기](../docs/rinsing-lenses-with-tap-water.md) 콘택트렌즈 착용자가 렌즈 용액 대신 수돗물로 렌즈를 헹구거나 수돗물에 담가 둔다.
 - [반려견 목줄 풀어 두기](../docs/walking-dog-off-leash.md) 반려견과 산책하는 사람이 개에게 운동이 필요하다고 여기거나 자기 개가 순하다고 여기거나 지키기 귀찮아서 목줄을 풀어 두거나 채우지 않는다.
 - [의무 해제 뒤에도 마스크 쓰기](../docs/keeping-mask-after-mandate.md) 마스크 착용 의무가 풀린 뒤에도 사람이 습관이나 불편한 느낌 때문에 마스크를 계속 쓴다.
 - [의사에게 증상과 습관 줄여 말하기](../docs/withholding-information-from-doctors.md) 진료받는 사람이 의사에게 증상이나 음주 같은 생활습관을 줄여 말하거나 숨긴다.

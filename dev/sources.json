@@ -12628,5 +12628,23 @@
     "last": "2026-10-28",
     "result": "VERIFIED",
     "lastVerified": "2026-10-28"
+  },
+  "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6432a2.htm": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4921294/": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
+  },
+  "https://www.richlandlibrary.com/blog/2018-12-07/eye-eating-amoebas-my-journey-acanthamoeba-keratitis": {
+    "first": "2026-10-28",
+    "last": "2026-10-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-28"
   }
 }
