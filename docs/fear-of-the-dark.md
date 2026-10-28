@@ -28,7 +28,7 @@
 
 ## 결과
 
-없음.
+- [겁날 때 노래하거나 휘파람 불기](singing-to-keep-up-courage.md)
 
 ## 대립
 
