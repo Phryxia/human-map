@@ -331,6 +331,7 @@
 - [주운 지갑 돌려주기](docs/returning-lost-wallets.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [죽은 이에게 말 걸기](docs/talking-to-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [중고 직거래 상대를 만나는 부담](docs/wariness-meeting-secondhand-buyers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [증상을 읽고 병을 의심하기](docs/reading-symptoms-and-suspecting-illness.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [지나치게 일찍 도착하기](docs/arriving-too-early.md) ([시간과 하루 습관](groups/daily-time.md))
 - [지난 창피한 일 떠올리며 몸서리치기](docs/cringing-at-past-embarrassment.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
