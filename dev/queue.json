@@ -1,89 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T18:39:57.637Z",
-  "nextSeq": 2716,
-  "stops": 139,
+  "savedAt": "2026-10-29T21:39:24.991Z",
+  "nextSeq": 2730,
+  "stops": 140,
   "items": [
-    {
-      "id": "6579d23d",
-      "title": "boredom 보강: loneliness·avoiding-being-alone-with-thoughts 관계",
-      "priority": 50,
-      "note": "2026-10-28 Havermans 2015 (PMID 25447018) 더함. 지루함에서 벗어나려 스스로 충격을 줌(negative reinforcement)은 avoiding-being-alone-with-thoughts 의 Wilson 2014 와 같은 면이나 인과 간선 근거는 아님. 외로움→지루함 인과 파편 미탐색. clien park/18153933 댓글 (2023-06-26) 외롭고 심심(인과 아님)",
-      "createdAt": "2026-10-28T03:33:39.193Z",
-      "seq": 2501
-    },
-    {
-      "id": "35245254",
-      "title": "wishcycling 보강: not-sorting-recyclables 관계, 2018년 이전 파편",
-      "priority": 50,
-      "note": "2026-10-28 사회적 관심 조건은 [^5] PsyArXiv 9v7aq 로 이미 서술됨. 같은 연구의 게재본 psycharchives.org/en/item/94ab114e-57ea-4248-a999-f9553b1ee464 (2025-05-12, Global Environmental Psychology) HTML 초록 열림(같은 연구라 대체용). 남은 것: not-sorting-recyclables 관계 근거, 10년 이전 파편",
-      "createdAt": "2026-10-28T03:34:17.718Z",
-      "seq": 2502
-    },
-    {
-      "id": "4df2f596",
-      "title": "spring-cleaning 보강: tidying-before-guests 관계",
-      "priority": 50,
-      "note": "2026-10-28 학술 파편 Saadat 2011 PMC3170248 더함. 손님맞이 관계 후보: refinery29 2017-03-20 노루즈 앞 몇 주 khaneh takani, clien park/17930098 (2023-02-27) 봄맞이 대청소. 손님 맞기 전 청소와 이어 말하는 인과 파편 미발견",
-      "createdAt": "2026-10-28T03:35:04.616Z",
-      "seq": 2503
-    },
-    {
-      "id": "092a9929",
-      "title": "reading-the-ending-first 보강: 불안 조건 학술 파편",
-      "priority": 50,
-      "note": "2026-10-28 Daniel, Katz 2019 PMID 30115003 스포일러 조건(TV 는 줄고 단편은 안 줄음) 더함. 불안해서 결말을 먼저 보는 면의 학술 파편은 아직 없음. Leavitt, Christenfeld 2011 PMID 21841150 초록 없음",
-      "createdAt": "2026-10-28T03:36:39.086Z",
-      "seq": 2504
-    },
-    {
-      "id": "e6ee4201",
-      "title": "treating-objects-as-companions 보강: 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-28 외로움 원인 간선은 Epley 2008 [^4] 로 그음. 한국어 파편 없음. 후보 미탐색: 로봇청소기 이름 붙이기, 자동차에 이름 붙이기 한국어 게시글. substack asassylittle im-sorry 차에 사과 미열람",
-      "createdAt": "2026-10-28T03:37:23.653Z",
-      "seq": 2505
-    },
-    {
-      "id": "6fd2a9bd",
-      "title": "crying-at-sad-stories 보강: SNS 파편, 카타르시스 결과 간선",
-      "priority": 50,
-      "note": "2026-10-28 Anne of Green Gables 1908 문학 파편 더함(pg45 는 이제 4개 문서). Küster 2022 PMID 34918224 스스로 고른 슬픈 영화. 카타르시스 결과 간선 후보(매일신문 2007)",
-      "createdAt": "2026-10-28T03:38:34.231Z",
-      "seq": 2506
-    },
-    {
-      "id": "8ef04b7c",
-      "title": "contagious-yawning 보강: 비율 수치 파편",
-      "priority": 50,
-      "note": "2026-10-28 Bartholomew, Cirulli 2014 PMID 24632594 나이 조건 더함. 초록에 하품이 옮는 사람 비율 수치는 없음. 본문 PMC3954725 미열람",
-      "createdAt": "2026-10-28T03:39:25.788Z",
-      "seq": 2507
-    },
-    {
-      "id": "cdc2677b",
-      "title": "engine-idling 보강: 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-28 Eghbalnia 2013 PMID 23734527 학부모 30% 서약 더함. 한국어 파편 없음. 후보 미탐색: 공회전 단속, 겨울 예열 게시글",
-      "createdAt": "2026-10-28T03:40:28.503Z",
-      "seq": 2508
-    },
-    {
-      "id": "2ca46580",
-      "title": "expecting-antibiotics-for-colds 보강: 받지 못하면 다른 의사 찾기",
-      "priority": 50,
-      "note": "2026-10-28 후보 HN 47672527 (2026-04-07) 주치의가 항생제 꺼려 다른 의사에게 받음(부비동염). patient.info strep throat 669322 (2018-07-20) walk-in 에서 못 받아 GP 다시 감",
-      "createdAt": "2026-10-28T06:24:49.296Z",
-      "seq": 2514
-    },
-    {
-      "id": "bd803e90",
-      "title": "rubbernecking 보강: 한국어 공공·매체 파편, 플라톤 레온티오스",
-      "priority": 50,
-      "note": "2026-10-28 국가 4권 레온티오스 gutenberg 1497 (발행일 기원전이라 형식 미정). 한국도로공사 구경 운전 보도자료 미발견. forbidden-curiosity 와 관계 근거 미탐색",
-      "createdAt": "2026-10-28T06:38:59.117Z",
-      "seq": 2515
-    },
     {
       "id": "d096ca59",
       "title": "rinsing-lenses-with-tap-water 보강: 2005년 이전 파편, 덧붓기",
@@ -483,6 +403,54 @@
       "note": "2026-10-29 계절 조건은 korea.kr 148850695 [^6] 로 더함. 남은 후보: clien park/19276407 (2026-10-12 낮잠은 오히려 더 피곤, 이 환경에서 clien 403 일 수 있음). 1993 서울신문 [^1] 게으름 시선과 guilt-about-resting 관계 근거 미탐색",
       "createdAt": "2026-10-29T18:33:32.704Z",
       "seq": 2711
+    },
+    {
+      "id": "fe7b14ee",
+      "title": "loneliness 보강: 아동 지루함→외로움 종단 파편",
+      "priority": 50,
+      "note": "2026-10-29 Grygiel 외 2026-05-31 PMC13298037 'higher boredom at T1 predicted higher loneliness at T2' 아동 4333명 2년. boredom 원인 간선 근거 보강용",
+      "createdAt": "2026-10-29T21:10:15.847Z",
+      "seq": 2723
+    },
+    {
+      "id": "d8926983",
+      "title": "boredom 보강: 지루해서 스스로 고통 주기 학술 파편",
+      "priority": 50,
+      "note": "2026-10-29 Nederkoorn 외 2016 PMID 26847946 지루함 조건에서 충격 더 많이·세게(슬픔 조건은 아님). Fox 외 2014 Frontiers fpsyg.2014.01427 18명 중 4명이 충격 이유로 지루함",
+      "createdAt": "2026-10-29T21:10:15.973Z",
+      "seq": 2724
+    },
+    {
+      "id": "d3ba18fc",
+      "title": "wishcycling 보강: not-sorting-recyclables 관계, 공공 비율 파편",
+      "priority": 50,
+      "note": "2026-10-29 1992 Seattle Times 독자 편지 더함. 후보 WRAP Recycling Tracker Winter 2021 (2022-07-19) wrap.ngo/resources/report/recycling-tracker-report-winter-2021 '87% dispose of an item in the recycling that is not accepted', 57% 재활용 기회 놓침(두 실수 나란히, 인과·대립 근거 아님). 1993-01-24 Seattle Times 'When in doubt, throw it out'",
+      "createdAt": "2026-10-29T21:21:21.442Z",
+      "seq": 2725
+    },
+    {
+      "id": "2974eff7",
+      "title": "reading-the-ending-first 보강: 장편 연재 결말 미리 보기 결과",
+      "priority": 50,
+      "note": "2026-10-29 IJOC 2024 Brookes 외 더함. 후보 Ellithorpe, Brookes 2018 Psychology of Popular Media Culture 7(3) doi 10.1037/ppm0000134 스포일러 노출이 마지막 회 즐거움을 늘리고 parasocial breakup distress 를 줄임(ovid 페이지, 같은 연구진)",
+      "createdAt": "2026-10-29T21:25:57.778Z",
+      "seq": 2726
+    },
+    {
+      "id": "03c2da3c",
+      "title": "crying-at-sad-stories 보강: 카타르시스 결과 간선",
+      "priority": 50,
+      "note": "2026-10-29 HN 29260892 (2021-11-18) 울고 나면 liberating, cathartic 더함. 카타르시스 문서 없음(graph find 결과 없음). 매일신문 2007 [^3] 도 카타르시스 쾌감. 새 현상 '울고 난 뒤 후련함' 문서가 생기면 결과 간선",
+      "createdAt": "2026-10-29T21:29:55.095Z",
+      "seq": 2727
+    },
+    {
+      "id": "3ad147cb",
+      "title": "rubbernecking 보강: 플라톤 레온티오스, forbidden-curiosity 관계",
+      "priority": 50,
+      "note": "2026-10-29 연합뉴스 2022 현장구경 정의 더함. 남은 후보: 세계일보 2012-01-06 독자투고 aid=20120106003863 (투고자 실명 있음, 서지 판단 필요), 국가 4권 레온티오스 gutenberg 1497",
+      "createdAt": "2026-10-29T21:39:06.901Z",
+      "seq": 2729
     },
     {
       "id": "d16898d2",
@@ -2315,6 +2283,14 @@
       "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함('이골이 났기 때문이다' 인과). laughing-off 와 직접 간선 근거 없음. 2026-10-29 skipping-holiday-gatherings 문서가 있어 잔소리 원인 간선은 그쪽과 먼저 맞춰 볼 것. 한국어 SNS 파편 필요",
       "createdAt": "2026-10-29T15:45:59.036Z",
       "seq": 2701
+    },
+    {
+      "id": "1517e3be",
+      "title": "바디 더블링: 혼자서는 일을 못 해 남이 있는 자리 찾기",
+      "priority": 10,
+      "note": "2026-10-29 링커리어 jayuu/6300512 댓글 (2026-07-27) 집에 혼자 있으면 아무것도 못 해 스카 정기권, 디코 같이 하는 방, 바디더블링 사이트. behaving-better-when-watched 와 관계 후보. HN 8893203 (2015-01-15) 볼 사람 있으면 집중",
+      "createdAt": "2026-10-29T21:36:54.862Z",
+      "seq": 2728
     },
     {
       "id": "02b2f242",
