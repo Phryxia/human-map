@@ -1,97 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T00:33:57.181Z",
-  "nextSeq": 2606,
-  "stops": 133,
+  "savedAt": "2026-10-29T03:35:54.014Z",
+  "nextSeq": 2616,
+  "stops": 134,
   "items": [
-    {
-      "id": "bd44448d",
-      "title": "dev: validate 의 확인됨 파편 수를 dev/sources.json 결과로 센다",
-      "priority": 80,
-      "note": "2026-10-29 pleasure-of-anticipation 에서 [^2] (link.springer.com s11482-009-9091-9) 가 source-check UNREACHABLE(429) 로 기록됐고 (미확인) 표시가 없었는데 validate 는 확인됨 2개로 보고 0 errors 를 냈다. isVerified 가 (미확인) 표시만 본다. 소멸이 아니면서 sources.json 에 lastVerified 가 없는 파편은 확인됨에서 빼야 한다",
-      "createdAt": "2026-10-29T00:33:48.794Z",
-      "seq": 2605
-    },
-    {
-      "id": "44bf2b46",
-      "title": "watching-until-out-of-sight 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-10-27 배웅 대목 없음: jstage jsmd 21_1, unesa hikari 72807, twcu 17845, ucf scopus2015/7097. 막힘: nature.com s41599-022-01061-3 (303 로그인). 비학술 후보: ryokan.or.jp/past/english/checking_out (공공), dutchreview.com dutch-people-wave-goodbye-for-ages. 남은 방법: J-STAGE 안에서 お見送り 接客",
-      "createdAt": "2026-10-27T12:34:00.936Z",
-      "seq": 2391
-    },
-    {
-      "id": "6cd0bebb",
-      "title": "not-reporting-workplace-injury 보강: 한국 공공 파편",
-      "priority": 50,
-      "note": "2026-10-26 korea.kr 155350181, moel news_seq=10569 는 노동자 본인 걱정 없음. 2026-10-27 추가로 없음: moel explain 10563, 11978, report 10234, korea.kr 148867390, 148885125. 남은 방법: 국회의원 보도자료, 서울시 노동권익센터, 지자체 이동노동자 실태조사. 매체 단서: laborhealth.or.kr/36151, newsis NISX20210305_0001360742",
-      "createdAt": "2026-10-27T12:37:56.033Z",
-      "seq": 2393
-    },
-    {
-      "id": "95da4315",
-      "title": "pet-loss-grief 와 bereavement-regret 관계(자책)",
-      "priority": 50,
-      "note": "2026-10-27 The Conversation 2022-12-07 안락사 동의 뒤 41% 죄책감 파편을 pet-loss-grief 에 더함. bereavement-regret 는 사람을 잃은 경우라 상위 아님. 반려동물 자책을 따로 문서로 두거나 원인 간선 근거 필요. 후보: vegannews 382851 안락사 뒤 '더 해줄 수 있는 일' 반복",
-      "createdAt": "2026-10-27T15:11:17.457Z",
-      "seq": 2407
-    },
-    {
-      "id": "632de248",
-      "title": "gossip 보강: overhearing-talk-about-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-26 brunch @ohmichin/57 (2026-07-31) 죄책감 더함. 후보: insight.co.kr/news/531540 (2025-12-01) 팀장 뒷담화를 칸막이 너머에서 들은 수습 직원, workingus.com 뒷담화하는 사람들 (2023-10-22)",
-      "createdAt": "2026-10-27T15:12:29.030Z",
-      "seq": 2408
-    },
-    {
-      "id": "5aa780da",
-      "title": "not-reading-books 보강: 문학 파편, smartphone-checking-habit 관계",
-      "priority": 50,
-      "note": "2026-10-27 Mikulecky 1978 ERIC ED157052 더함. 다른 ERIC 후보: ED240543 (1984 AEI 회의 People Who Can Read but Won't), ED265528 (1985). 문체부 2024 [^6] '책 이외 매체(스마트폰...)를 이용해서' 는 스마트폰 이용 일반이라 확인 습관 간선 근거로는 약함",
-      "createdAt": "2026-10-27T15:16:32.170Z",
-      "seq": 2410
-    },
-    {
-      "id": "68d8485c",
-      "title": "choice-deferral 와 choice-overload 관계",
-      "priority": 50,
-      "note": "2026-10-27 choice-deferral 추가. 대안이 많아 선택을 미룬다는 인과 파편이 있으면 choice-overload 결과 간선. Anderson 2003 초록 'selection difficulty' 는 요인 나열이라 근거 아님. 박상미 2019 칼럼의 '햄릿 증후군' 별칭 후보",
-      "createdAt": "2026-10-27T15:17:54.638Z",
-      "seq": 2411
-    },
-    {
-      "id": "ac78df75",
-      "title": "craving-spicy-food-under-stress 보강: 학술, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-27 추가. 후보: 서울대 연구진 Food Quality and Preference 급성 스트레스 뒤 매운맛 욕구(정서적 섭식 성향 조건, 코메디닷컴 2026-08-27 이 전함), 2018 디지털콘텐츠학회논문지 치위생과 학생 387명(koreascience 이 환경에서 연결 실패)",
-      "createdAt": "2026-10-27T15:24:02.547Z",
-      "seq": 2412
-    },
-    {
-      "id": "05eaa186",
-      "title": "overreporting-desirable-behavior 보강: 매체·SNS 파편, 투표 과대 보고",
-      "priority": 50,
-      "note": "2026-10-27 추가. 후보: Vernon 외 2012 PMID 22144501 대장암 검진 자기보고 과대 보고(사회적 바람직성 척도와는 무관), PMID 35142972 (2022 성행동 과대·과소 보고). 질병관리청 2026-10-15 손씻기 실천 응답 51.2% 와 관찰 11.4%",
-      "createdAt": "2026-10-27T15:27:00.667Z",
-      "seq": 2414
-    },
-    {
-      "id": "99c0b86b",
-      "title": "delaying-going-home 보강: 학술 파편, 차 안에 머물기, shrinking-in-hosts-home 관계",
-      "priority": 50,
-      "note": "2026-10-27 추가. 후보: jamaica-gleaner.com/article/lifestyle/20260422/youre-not-alone-sitting-car-after-long-day (AP 2026-04-22) 'Others stay long after they’ve parked.' 가족 회피는 직접 말하지 않음. 주간경향 2015-01-20 같은 글 '조금이라도 귀가시간을 늦추기 위해 어떻게 해서든 저녁 약속을 만든다'",
-      "createdAt": "2026-10-27T15:27:41.709Z",
-      "seq": 2415
-    },
-    {
-      "id": "65e77fc9",
-      "title": "impatience-at-red-light 보강: SNS 파편, jaywalking 결과 간선",
-      "priority": 50,
-      "note": "2026-10-27 추가. 답답해서 빨간불에 건넜다는 한 문장 인과 필요. 후보: korea.kr 148757052 '보행자 신호가 자주 바뀌지 않기 때문에' 대목(jaywalking [^2] 와 같은 URL), Guo 2011 PMID 21259179 'The violation inclination of most pedestrians increased with the increasing waiting duration'",
-      "createdAt": "2026-10-27T15:32:36.521Z",
-      "seq": 2417
-    },
     {
       "id": "0c15c1ce",
       "title": "consulting-fortune-tellers 보강: SNS 파편, 2000년대 이전 비문학, 불안 원인 간선",
@@ -627,6 +539,46 @@
       "note": "2026-10-29 두 문서 추가. 같은 사람이 버리려다 못 버린다는 파편 필요. discarding [^4] 블라인드 글이 그런 장면이나 keeping 쪽 근거 파편 없음. 후보: spsp.org how-technology-complicates-breakup-process (발행일 미상), Brody 외 2020 JSPR doi 10.1177/0265407520921460",
       "createdAt": "2026-10-29T00:18:01.960Z",
       "seq": 2604
+    },
+    {
+      "id": "23a09392",
+      "title": "pet-euthanasia-guilt 보강: 공공 또는 문학 파편",
+      "priority": 50,
+      "note": "2026-10-29 추가. 후보: tildes.net ~life.pets/1ua5 (2026-05-20) '내가 죽였다' 형 게시글, 같은 스레드 댓글 '미뤄도 죄책감'. bereavement-regret 와는 사람 사별이라 상위 아님",
+      "createdAt": "2026-10-29T03:22:35.307Z",
+      "seq": 2611
+    },
+    {
+      "id": "49f2aec3",
+      "title": "not-reading-books 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-29 맞지 않음: Gutenberg 121 Northanger Abbey Thorpe 'I never read novels' (소설만, 다른 책은 읽음), 158 Emma Knightley 'steady reading' (읽으려다 못 읽음). smartphone-checking-habit 간선은 근거 약해 뺌",
+      "createdAt": "2026-10-29T03:23:45.454Z",
+      "seq": 2612
+    },
+    {
+      "id": "9af02bc0",
+      "title": "overreporting-desirable-behavior 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-29 매체 2개 더함. SNS 후보: lauravanderkam.com 2014/01/guess-what-exercise 댓글 2014-01-11 (같은 URL 이라 한 출처 한 파편 규칙에 걸림). 학술 후보: Harbaugh 1996 Public Choice, 서강대 석사논문 설문조사 투표율 과장",
+      "createdAt": "2026-10-29T03:32:26.585Z",
+      "seq": 2613
+    },
+    {
+      "id": "d01d8fbd",
+      "title": "delaying-going-home 보강: 학술 또는 공공 파편, 차 안에 머물기, shrinking-in-hosts-home 관계",
+      "priority": 50,
+      "note": "2026-10-29 학술 HTML 초록 없음: CiNii フラリーマン 단행본 2018, 帰宅拒否·帰宅恐怖症 기사들 초록 null, J-STAGE jjrcsns 24_240110 와 spls 10_5 는 PDF 본문에만. 남은 방법: KCI '남편 늦은 귀가' 초록, 공공 team-kaji-ikuji.metro.tokyo.lg.jp. 매체 후보: jamaica-gleaner 20260422 차 안에 앉아 있기",
+      "createdAt": "2026-10-29T03:35:29.226Z",
+      "seq": 2614
+    },
+    {
+      "id": "c23db96c",
+      "title": "impatience-at-red-light 보강: SNS 파편, jaywalking 결과 간선",
+      "priority": 50,
+      "note": "2026-10-27 추가. 답답해서 빨간불에 건넜다는 한 문장 인과 필요. 후보: korea.kr 148757052 '보행자 신호가 자주 바뀌지 않기 때문에' 대목(jaywalking [^2] 와 같은 URL), Guo 2011 PMID 21259179 'The violation inclination of most pedestrians increased with the increasing waiting duration' 은 대기 시간 인과라 조급함 근거로 약함(2026-10-29)",
+      "createdAt": "2026-10-29T03:35:46.857Z",
+      "seq": 2615
     },
     {
       "id": "d16898d2",
