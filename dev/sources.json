@@ -8408,15 +8408,15 @@
   },
   "https://www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=15834": {
     "first": "2026-10-23",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://economist.co.kr/article/view/ecn202412270078": {
     "first": "2026-10-23",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/550/pg550-images.html": {
     "first": "2026-10-23",
@@ -9170,9 +9170,9 @@
   },
   "https://www.segye.com/view/20231116516323": {
     "first": "2026-10-24",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://hrcopinion.co.kr/archives/11764": {
     "first": "2026-10-24",
@@ -9200,9 +9200,9 @@
   },
   "https://www.hankyung.com/article/202609081264H": {
     "first": "2026-10-24",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.clien.net/service/board/park/19148358": {
     "first": "2026-10-24",
@@ -9590,15 +9590,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10358355/": {
     "first": "2026-10-24",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://news.ycombinator.com/item?id=7648856": {
     "first": "2026-10-24",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://news.ycombinator.com/item?id=1650041": {
     "first": "2026-10-24",
@@ -10280,9 +10280,9 @@
   },
   "https://www.gutenberg.org/cache/epub/205/pg205-images.html": {
     "first": "2026-10-25",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/550/pg550.txt": {
     "first": "2026-10-25",
@@ -10994,21 +10994,21 @@
   },
   "https://news.ycombinator.com/item?id=8952036": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://news.ycombinator.com/item?id=48429608": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://news.ycombinator.com/item?id=36404085": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/28615/pg28615-images.html": {
     "first": "2026-10-26",
@@ -12295,21 +12295,21 @@
   },
   "https://pos.toasttab.com/blog/data/solo-dining-insights": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/4200/pg4200-images.html": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11705526/fullTextXML": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://ideas.repec.org/p/nbr/nberwo/16675.html": {
     "first": "2026-10-28",
@@ -13284,6 +13284,12 @@
     "lastVerified": "2026-10-29"
   },
   "https://knewsla.com/usa/2026081520022352191/": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://mobile.newsis.com/view/NISX20201011_0001192838": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
