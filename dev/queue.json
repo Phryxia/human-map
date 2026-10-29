@@ -1,121 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T12:59:27.361Z",
-  "nextSeq": 2688,
-  "stops": 137,
+  "savedAt": "2026-10-29T15:47:48.875Z",
+  "nextSeq": 2704,
+  "stops": 138,
   "items": [
-    {
-      "id": "031e3187",
-      "title": "returning-lost-wallets 보강: 사례금 기대 조건",
-      "priority": 50,
-      "note": "2026-10-27 Spokesman-Review 1996-11-24 Ann Landers 칼럼(Reader's Digest 1995 실험 80/120) 더함. 사례금 기대 조건 파편 아직 없음. 경시청 습득물 통계는 PDF 표. Cohn 2019 이타심과 도둑으로 보이기 싫음이 이유(같은 초록), 자기상 관련 현상과 원인 간선 후보",
-      "createdAt": "2026-10-27T21:31:08.684Z",
-      "seq": 2464
-    },
-    {
-      "id": "4d6e4ad2",
-      "title": "leaving-lights-on 보강: 2008년 이전 파편",
-      "priority": 50,
-      "note": "2026-10-27 spokesman.com Ann Landers 1990년대 칼럼 검색 무소득, modbs.co.uk Ex-Or 조사는 2013-06-03. 이전: Energy Saving Trust 2007-09-27 사본 property4media.com (간접), 경기일보 2000-12-09 실명 아동 글이라 뺌, 구텐베르크 장면 못 찾음",
-      "createdAt": "2026-10-27T21:31:46.488Z",
-      "seq": 2465
-    },
-    {
-      "id": "fb2eaa5d",
-      "title": "smell-evoked-memory 보강: 불쾌한 냄새 조건",
-      "priority": 50,
-      "note": "2026-10-27 Reid 외 2015 로 nostalgia 결과 간선 그음. 클리앙 park/12464615 최루가스 대목은 병원 이름 포함이라 못 씀. khan 202410022006015 은 이미 씀",
-      "createdAt": "2026-10-27T21:33:45.653Z",
-      "seq": 2466
-    },
-    {
-      "id": "1b866bab",
-      "title": "embarrassed-by-parents 보강: avoiding-inviting-people-home 관계",
-      "priority": 50,
-      "note": "2026-10-26 후보 cs.observer-reporter.com/columns/2013/sep/04/fearful-of-father-when-hes-drinking/ 는 부모 음주가 원인이라 avoiding-inviting-people-home 요약과 다름. 2026-10-27 Globe and Mail article4327858 은 theglobeandmail.com/life/parenting/article4327858/ 404",
-      "createdAt": "2026-10-27T21:34:11.935Z",
-      "seq": 2467
-    },
-    {
-      "id": "d1c5bd20",
-      "title": "cyberloafing 보강: 원인 간선, 2020년대 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-28 신규, 학술 2·SNS 1·공공 1. 후보: Frontiers fpsyg.2021.722063 (2022-02-04) 동료 학대 목격이 부정 정서를 거쳐 딴짓, fpsyg.2022.1010845 (2022-10-04) 권위적 리더와 정서 고갈, HN 4596887 같은 댓글 '일이 생기면 해고가 걱정돼 멈춘다'(나타나지 않는 조건), Hansard 2004-04-01 computer-misuse 근무시간 밖 개인 사용만 허용. 지루함 원인은 Mercado 2017(Emerald 403)",
-      "createdAt": "2026-10-28T00:17:36.119Z",
-      "seq": 2480
-    },
-    {
-      "id": "b89c9913",
-      "title": "brief-illegal-parking 보강: 원인 간선, 단속 조건",
-      "priority": 50,
-      "note": "2026-10-28 신규, SNS 2·공공 2·학술 1. 후보: Fisman & Miguel 2007 ideas.repec.org ucp/jpolec v115 2002년 단속 권한 뒤 미납 위반 급감(조건), Marquis 2016 dspace.rpi.edu 배송 트럭 주차 자리 부족 때문에 이중 주차(인과), therideshareguy 2023-04-05 배달 기사 금지 구역 주차 인정 증가, korea.kr 148872136 같은 글 '출근 시간 주차할 곳이 없어 어쩔 수 없었다'",
-      "createdAt": "2026-10-28T00:21:44.924Z",
-      "seq": 2482
-    },
-    {
-      "id": "5eb51f33",
-      "title": "pretending-to-be-busy 와 cyberloafing 관계",
-      "priority": 50,
-      "note": "2026-10-28 비즈한국 2015-01-29 bizhankook 5568 '업무 중 딴짓을 하기 위해 ‘업무를 하는 것처럼 연기한다’(39.5%)'. 같은 기사 딴짓 이유 둘째 '정말 할 일이 없어서'(32.6%). 인과 꼴 파편이 있으면 간선",
-      "createdAt": "2026-10-28T00:26:21.552Z",
-      "seq": 2483
-    },
-    {
-      "id": "3e463d1e",
-      "title": "hesitating-at-the-door 보강: 사회불안 원인 간선",
-      "priority": 50,
-      "note": "2026-10-28 Evans 2025 PMC12511522 fullTextXML 로 1980년대 회고 더함. 사회불안 때문에 문을 못 두드린다는 인과 파편 미탐색. social-anxiety-safety-behaviors 와 관계 후보",
-      "createdAt": "2026-10-28T00:27:29.654Z",
-      "seq": 2484
-    },
-    {
-      "id": "c677537c",
-      "title": "staying-in-job-for-health-insurance 보강: 원인 간선, 한국 직장인 파편",
-      "priority": 50,
-      "note": "2026-10-28 Miles 시 substack 2026-04-23, 라디오서울 2026-08-19 잡 록 더함. 한국 피부양자 자격 때문에 퇴사 미루는 1인칭 글 미발견. electricliterature 2020-09-10 소설 속 보험 플롯 에세이는 들어가는 쪽이라 뺌",
-      "createdAt": "2026-10-28T00:29:48.072Z",
-      "seq": 2485
-    },
-    {
-      "id": "096ff9da",
-      "title": "enduring-workplace-harassment 보강: 퇴사 결과 간선",
-      "priority": 50,
-      "note": "2026-10-28 Pennington 2000 eutils 11314480 신고 1% 미만 더함. SBS Biz 2025-10-15 같은 기사 '사직을 통해 회사를 떠나는 피해자도 20% 가까이' 는 직장 그만두기 문서가 생기면 결과 간선 근거",
-      "createdAt": "2026-10-28T00:30:31.840Z",
-      "seq": 2486
-    },
-    {
-      "id": "f36595fb",
-      "title": "preference-for-solitude 와 solo-leisure 관계",
-      "priority": 50,
-      "note": "2026-10-28 혼자가 좋아서 혼자 논다는 인과 파편 재탐색: 한국어 미발견. Toast 2026-07-30 '45% of solo diners eat alone because they want personal time' 은 solo-leisure 에 더함(personal time 이 혼자 있기 선호인지 불분명해 간선 안 그음). CNN/KTVZ 2024-08-31 OpenTable 'me time' 1위. piabo.net 9067 'I like to eat alone (23 %)' curl 미확인",
-      "createdAt": "2026-10-28T00:34:12.364Z",
-      "seq": 2487
-    },
-    {
-      "id": "10ed0b0b",
-      "title": "skipping-holiday-homecoming 과 laughing-off-holiday-nagging 관계",
-      "priority": 50,
-      "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함(같은 URL, '이골이 났기 때문이다' 인과). 결과/원인 간선 후보는 명절 잔소리 듣기 문서가 생기면. laughing-off 와 직접 간선은 근거 없음. 2026-10-26 HN 에서 명절 귀성 포기 1인칭 댓글 못 찾음, 한국어 SNS 파편 필요",
-      "createdAt": "2026-10-28T00:34:23.095Z",
-      "seq": 2488
-    },
-    {
-      "id": "0e927c5f",
-      "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
-      "priority": 50,
-      "note": "2026-10-28 재탐색: 고통·아까움을 말하는 공공 HTML 미발견. 2026-10-24 재확인: 대립 근거 파편 없음. 클리앙 park/19148358 (2026-02-22) '돈을 쓰는 것은 피해야 할 일이라는 인식'(인과, 어린 시절 가난 문서가 생기면 간선). Fed SHED, ECB 예비적 저축은 상황 대응이라 뺌",
-      "createdAt": "2026-10-28T00:38:04.302Z",
-      "seq": 2489
-    },
-    {
-      "id": "1a210e58",
-      "title": "retirees-not-spending-savings 보강: SNS 파편, 이유, tightwad-spending 관계",
-      "priority": 50,
-      "note": "2026-10-28 신규, 학술 1·공공 1. 후보: HN 47971375 (2026-05-01) 은퇴한 부모가 넉넉한데도 1,000달러 휴대전화를 사지 못함, Poterba 외 2011 같은 초록 저자는 노년 지출 대비 자기보험이라 추측, APRA 2023 같은 글 'many members tend to underspend because they draw down at the regulated minimum rate'",
-      "createdAt": "2026-10-28T00:40:02.702Z",
-      "seq": 2491
-    },
     {
       "id": "6579d23d",
       "title": "boredom 보강: loneliness·avoiding-being-alone-with-thoughts 관계",
@@ -555,6 +443,30 @@
       "note": "2026-10-29 fnnews 202609250701431740 봉안당 기사 더함. 관계 후보: brunch @logincj/3 (2025-11-28) 속으로 어머니에게 말 걸고 바람 소리를 대답처럼 느낌, jjan.kr 20240202580017 어린이 글(글쓴이 미성년 실명이 페이지에 있어 서지 처리 주의)",
       "createdAt": "2026-10-29T12:59:19.010Z",
       "seq": 2687
+    },
+    {
+      "id": "6cc9b41f",
+      "title": "staying-in-job-for-health-insurance 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-10-29 knewsla 2026-08-15 직업 고착 별칭 더함. loss-aversion 과 job lock 을 인과로 이은 원문 미발견(EPI, Niskanen 은 curl 에 막힘). communityvoiceks.com 2026-07-25 'afraid of losing coverage' 는 wypr 와 같은 Gallup 보도. 한국 직장인 피부양자 1인칭 글 여전히 미발견",
+      "createdAt": "2026-10-29T15:43:50.266Z",
+      "seq": 2699
+    },
+    {
+      "id": "7fc0b5ec",
+      "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
+      "priority": 50,
+      "note": "2026-10-29 재탐색: kca.go.kr 웹진 kca_1903 '아까운 돈' 기고는 대상별 아까움이라 성향과 다름. 미확인 후보 korea.kr 148961206 무지출 챌린지, bok.or.kr nttId=10017654 젊은 경제주체 소비 성향. 클리앙 park/19148358 (2026-02-22) '돈을 쓰는 것은 피해야 할 일이라는 인식'(인과, 어린 시절 가난 문서가 생기면 간선). Fed SHED, ECB 예비적 저축은 상황 대응이라 뺌",
+      "createdAt": "2026-10-29T15:47:32.346Z",
+      "seq": 2702
+    },
+    {
+      "id": "55e833ea",
+      "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
+      "priority": 50,
+      "note": "2026-10-29 재탐색: kca.go.kr 웹진 kca_1903 '아까운 돈' 기고는 대상별 아까움이라 성향과 다름. korea.kr 148961206 무지출 챌린지 본문에 맞는 대목 없음. 미확인 bok.or.kr nttId=10017654 젊은 경제주체 소비 성향. 클리앙 park/19148358 '돈을 쓰는 것은 피해야 할 일이라는 인식'(인과, 어린 시절 가난 문서가 생기면 간선). Fed SHED, ECB 예비적 저축은 상황 대응이라 뺌",
+      "createdAt": "2026-10-29T15:47:47.027Z",
+      "seq": 2703
     },
     {
       "id": "d16898d2",
@@ -2347,6 +2259,46 @@
       "note": "2026-10-29 desire-for-revenge 의 Zhao·Zheng 2024 frontiersin fpsyg.2023.1255880: 또래 피해가 적대적 귀인 편향을 키워 복수를 부른다. desire-for-revenge 의 원인 간선 후보(같은 URL)",
       "createdAt": "2026-10-29T09:30:56.670Z",
       "seq": 2678
+    },
+    {
+      "id": "1046999e",
+      "title": "분실물 사례금 요구",
+      "priority": 10,
+      "note": "2026-10-29 returning-lost-wallets 보강 중. 세계일보 2021-11-26 segye.com/view/20211126503414 습득자가 휴대폰 돌려주며 사례금 10만원 요구(3만원 제안), YTN 2026-02-09 거마비 2천원(returning-lost-wallets 에 씀). returning-lost-wallets 와 하위 또는 결과 관계 후보",
+      "createdAt": "2026-10-29T15:20:05.068Z",
+      "seq": 2696
+    },
+    {
+      "id": "d18f07d6",
+      "title": "외상 기억을 불러내는 냄새",
+      "priority": 10,
+      "note": "2026-10-29 smell-evoked-memory 보강 중. pubmed 12633130 Vermetten & Bremner 2003 외상 관련 냄새가 외상 기억을 촉발, 17285093(smell-evoked-memory 에 씀). smell-evoked-memory 의 하위 후보",
+      "createdAt": "2026-10-29T15:25:59.504Z",
+      "seq": 2697
+    },
+    {
+      "id": "732dd12c",
+      "title": "주차 자리 찾아 맴돌기",
+      "priority": 10,
+      "note": "2026-10-29 brief-illegal-parking 원인 간선 상대 후보. 단속 조건은 이미 [^1] Fisman & Miguel 2007 로 있음. dspace.rpi.edu Marquis 2016 주차 자리 부족 때문에 이중 주차, korea.kr 148872136 '주차할 곳이 없어'. 이 문서가 생기면 brief-illegal-parking 의 원인으로 긋는다(cruising for parking)",
+      "createdAt": "2026-10-29T15:37:20.382Z",
+      "seq": 2698
+    },
+    {
+      "id": "d50a06b7",
+      "title": "직장 그만두기",
+      "priority": 10,
+      "note": "2026-10-29 enduring-workplace-harassment 결과 간선 상대. SBS Biz 2025-10-15(enduring-workplace-harassment 에 씀) '사직을 통해 회사를 떠나는 피해자도 20% 가까이'. guilt-about-resigning, staying-in-job-for-health-insurance 와 관계 후보",
+      "createdAt": "2026-10-29T15:44:05.259Z",
+      "seq": 2700
+    },
+    {
+      "id": "4a3d72a5",
+      "title": "skipping-holiday-homecoming 과 laughing-off-holiday-nagging 관계",
+      "priority": 10,
+      "note": "서울신문 2009-09-30 신입사원이 부모의 '시집' 타령에 이골이 나 업무 핑계로 귀성 안 함('이골이 났기 때문이다' 인과). laughing-off 와 직접 간선 근거 없음. 2026-10-29 skipping-holiday-gatherings 문서가 있어 잔소리 원인 간선은 그쪽과 먼저 맞춰 볼 것. 한국어 SNS 파편 필요",
+      "createdAt": "2026-10-29T15:45:59.036Z",
+      "seq": 2701
     },
     {
       "id": "02b2f242",
