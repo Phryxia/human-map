@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T09:11:38.366Z",
-  "nextSeq": 2673,
+  "savedAt": "2026-10-29T09:15:58.993Z",
+  "nextSeq": 2675,
   "stops": 135,
   "items": [
-    {
-      "id": "e2fd6f9a",
-      "title": "trying-on-outfits-before-going-out 보강: 한국어 파편, 2020년대 파편",
-      "priority": 50,
-      "note": "2026-10-27 YouLookFab 2013 SNS 더함. 후보: creators.com Stephanie Hayes 2021-06-26 'I changed three times', stories.swns.com 2012-11-06 평균 3벌, brunch @lkhyun0807/17 (2025-12-10). Woodward 2007 책의 옷장으로 되돌아가는 되풀이(holycross 강의 자료)는 원인 후보",
-      "createdAt": "2026-10-27T18:31:43.048Z",
-      "seq": 2439
-    },
-    {
-      "id": "9b309ee3",
-      "title": "hoping-to-run-into-a-crush 보강: 학술, SNS 파편, unrequited-love 관계",
-      "priority": 50,
-      "note": "2026-10-27 확인됨 2개(문학 1869, 매체 2024)로 추가. 후보: Flaubert 같은 책 4장 'He glanced towards the windows of the first floor' 이사 간 뒤 창을 올려다보던 기억(같은 URL). mysupportforums.org 1인칭 글은 403",
-      "createdAt": "2026-10-27T18:35:41.422Z",
-      "seq": 2440
-    },
     {
       "id": "70f92cf7",
       "title": "watching-until-out-of-sight 보강: 확인되는 학술 파편, lingering-goodbye 와 관계",
@@ -2363,6 +2347,14 @@
       "note": "#12 사랑·애착·성 요청",
       "createdAt": "2026-10-29T09:07:17.238Z",
       "seq": 2670
+    },
+    {
+      "id": "ff75b84d",
+      "title": "리머런스(사랑에 빠진 상태의 집착)",
+      "priority": 10,
+      "note": "2026-10-29 hoping-to-run-into-a-crush 의 Wyant 2021 PMC8641115 가 리머런스 사례. 상위 후보로 hoping-to-run-into-a-crush 를 하위로 둘지 볼 것. 기존 같은 제목 항목 있음",
+      "createdAt": "2026-10-29T09:15:58.865Z",
+      "seq": 2674
     },
     {
       "id": "02b2f242",
