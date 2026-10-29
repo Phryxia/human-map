@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [낮잠](../docs/daytime-napping.md) 낮에 졸리거나 지친 사람이 점심 뒤나 오후에 잠깐 잔다.
 - [늦는 사람을 기다리며 서성이기](../docs/waiting-for-someone-late.md) 올 시간이 지나도 오지 않는 사람을 기다리는 사람이 불안해하며 서성이거나 거듭 연락한다.
 - [늦잠에 대한 불안](../docs/oversleeping-anxiety.md) 아침에 제때 일어나야 하는 사람이 늦잠을 잘까 봐 불안해한다.
 - [다이어트 중 폭식](../docs/diet-breaking-binge.md) 먹는 것을 참던 사람이 한 번 다이어트가 깨지면 그동안 참던 음식을 한꺼번에 많이 먹는다.

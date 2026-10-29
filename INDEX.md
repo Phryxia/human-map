@@ -71,6 +71,7 @@
 - [남의 불행에 대한 기쁨](docs/schadenfreude.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 사적인 기록 몰래 보기](docs/reading-others-private-writing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [낮잠](docs/daytime-napping.md) ([시간과 하루 습관](groups/daily-time.md))
 - [낯선 사람에게 속내 털어놓기](docs/confiding-in-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [내가 죽으면 다들 미안해하리라는 상상](docs/imagining-others-sorry-at-own-death.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [냄새가 불러낸 옛 기억](docs/smell-evoked-memory.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
