@@ -233,3 +233,14 @@ test('퍼센트 인코딩한 URL 과 안 한 URL 은 같은 출처로 센다', (
   const bad = makeDoc({frags: [frag(1, '학술', '2001', 'https://a.example/%E0%A4%A'), frag(2, '문학', '1921', raw)]})
   assert.doesNotThrow(() => errs(loadAll(makeRepo({a: bad}))))
 })
+
+test('validate 는 sources.json 에 VERIFIED 기록이 없는 파편을 확인됨에서 뺀다', () => {
+  const docs = loadAll(makeRepo({a: makeDoc()}))
+  const has = s => validateAll(docs, s).some(r => r.msg.includes('확인됨 파편이 2개 미만'))
+  const V = {first: '2026-10-29', last: '2026-10-29', result: 'VERIFIED', lastVerified: '2026-10-29'}
+  assert.equal(has({'https://a.example/1': V, 'https://b.example/2': {first: '2026-10-29', last: '2026-10-29', result: 'UNREACHABLE'}}), true)
+  assert.equal(has({'https://a.example/1': V, 'https://b.example/2': V}), false)
+  assert.equal(has({}), false)
+  const vanished = loadAll(makeRepo({a: makeDoc({frags: [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2011', 'https://b.example/2', ' (소멸, 2026-10-01 까지 확인)')]})}))
+  assert.equal(validateAll(vanished, {'https://a.example/1': V, 'https://b.example/2': {first: '2026-10-01', last: '2026-10-29', result: 'NOT_FOUND'}}).some(r => r.msg.includes('확인됨 파편이 2개 미만')), false)
+})

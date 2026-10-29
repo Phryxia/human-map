@@ -96,7 +96,8 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
     if (i > 0 && sortKey(f.date) < sortKey(doc.fragments[i - 1].date)) err(f.ln, '파편이 발행일 순이 아니다')
     if (f.kind === 'SNS' && (/@/.test(f.biblio) || !/^\S+(?: \S+)? (게시글|댓글)$/.test(f.biblio))) err(f.ln, `SNS 서지는 플랫폼명과 글의 종류만 쓴다: ${f.biblio}`)
   })
-  const verified = doc.fragments.filter(isVerified)
+  // 기록이 있는데 VERIFIED 였던 적이 없으면 (미확인) 표시가 빠졌어도 확인됨이 아니다. 기록이 없는 파편은 source-check 전이다.
+  const verified = doc.fragments.filter(f => isVerified(f) && (f.vanished || !sources[f.url] || sources[f.url].lastVerified))
   if (verified.length < 2) err(0, `확인됨 파편이 2개 미만 (${verified.length})`)
   if (new Set(verified.map(f => f.kind)).size < 2) err(0, '확인됨 파편의 종류가 2가지 미만')
   // 본문의 참조
