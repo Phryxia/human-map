@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T09:15:58.993Z",
-  "nextSeq": 2675,
+  "savedAt": "2026-10-29T09:29:47.414Z",
+  "nextSeq": 2677,
   "stops": 135,
   "items": [
-    {
-      "id": "70f92cf7",
-      "title": "watching-until-out-of-sight 보강: 확인되는 학술 파편, lingering-goodbye 와 관계",
-      "priority": 50,
-      "note": "2026-10-27 Dickens 1850 과 山口 2025 지리과학 PDF(미확인) 더함. J-STAGE HTML 본문 404. 후보: 祥雲 외 2026 応用老年学 20(1) PDF 방문간호 고령자가 보이지 않을 때까지 손 흔듦",
-      "createdAt": "2026-10-27T21:21:53.548Z",
-      "seq": 2456
-    },
     {
       "id": "ea016e13",
       "title": "desire-for-revenge 보강: 학술 인과 간선",
@@ -571,6 +563,14 @@
       "note": "2026-10-29 네이트판 2008·2022 SNS 더함. 후보: pann 343860644 (2018-10-17) 이별 뒤 '믿지는 않지만 답답해서', 영남일보 2026-03-01 같은 URL 불안감. reddit·클리앙·더쿠 403",
       "createdAt": "2026-10-29T09:11:38.237Z",
       "seq": 2672
+    },
+    {
+      "id": "633f0a2c",
+      "title": "watching-until-out-of-sight 보강: lingering-goodbye 관계 근거",
+      "priority": 50,
+      "note": "2026-10-29 酒井 2024 J-STAGE 초록(お見送り를 이별 미루기로 다룸) 더함. J-STAGE 의 訪問看護(sagj 20/1), グリーン・ツーリズム(rlsj 70/1) 등은 PDF 뿐. Frontiers fnhum.2015.00186 은 해리 포터 인용이라 뺌",
+      "createdAt": "2026-10-29T09:29:47.276Z",
+      "seq": 2676
     },
     {
       "id": "d16898d2",
