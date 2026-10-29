@@ -11162,27 +11162,27 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10771279&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148711584": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.clien.net/service/board/park/12464615": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.khan.co.kr/article/202410022006015": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://m.seoul.co.kr/news/2018/04/03/20180403002024": {
     "first": "2026-10-26",
@@ -11330,9 +11330,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12184552&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/2701/pg2701.txt": {
     "first": "2026-10-26",
@@ -12175,9 +12175,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24456210&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://aisel.aisnet.org/iceb2001/131": {
     "first": "2026-10-28",
@@ -13236,6 +13236,24 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.thecrimson.com/article/2002/5/3/harvard-pushes-energy-reduction-several-stories/": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.healthday.com/health-news/public-health/odors-conjure-up-awful-9-11-memories-513682.html": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17285093&rettype=abstract&retmode=text": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://ppss.kr/archives/24492": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
