@@ -1,6 +1,6 @@
 # 건강보험 때문에 직장에 남기
 
-별칭: Job lock[^1], 잡 록[^8]
+별칭: Job lock[^1], 잡 록[^9], 직업 고착[^8]
 
 그만두거나 옮기고 싶은 직장인이 지금 직장을 통해 받는 건강보험을 잃을까 봐 그 직장에 남는다.
 
@@ -10,7 +10,7 @@
 
 2015년 Hacker News 댓글[^4]의 글쓴이는 건강보험이 있기를 바란다는 말에 답하며 보험이 지금까지 일을 그만두지 않은 몇 안 되는 이유 가운데 하나라고 썼다. 2017년 댓글의 글쓴이는 가족의 유일한 소득자이고 보험이 아주 좋아서 지금 직장에 남는다고 썼다. 글쓴이는 보험이 아니라면 프리랜서로 일하며 집에서 시간을 더 보낼 것이라고 적었다.[^5]
 
-2026년 4월 시[^6]의 화자는 망가진 401k 와 쓸모없을지도 모르는 건강보험 때문에 지금 일에 머문다고 말한다. 2026년 7월 기사[^7]가 전한 조사에서 직장을 통해 건강보험을 받는 노동자의 4분의 1 가까이가 원하지 않는 직장에 보험 때문에 남는다고 답했다. 2026년 8월 라디오서울 기사[^8]는 잡 록을 건강보험을 잃을 수 있다는 불안 때문에 원하지 않는 직장에 계속 머무르는 현상이라고 설명한다.
+2026년 4월 시[^6]의 화자는 망가진 401k 와 쓸모없을지도 모르는 건강보험 때문에 지금 일에 머문다고 말한다. 2026년 7월 기사[^7]가 전한 조사에서 직장을 통해 건강보험을 받는 노동자의 4분의 1 가까이가 원하지 않는 직장에 보험 때문에 남는다고 답했다. 2026년 8월 15일 기사[^8]가 전한 보고서는 직업 고착을 건강보험을 잃을까 우려해 이직을 원하면서도 직장에 남아 있는 상태로 정의했다. 2026년 8월 라디오서울 기사[^9]는 잡 록을 건강보험을 잃을 수 있다는 불안 때문에 원하지 않는 직장에 계속 머무르는 현상이라고 설명한다.
 
 # 관계
 
@@ -43,4 +43,5 @@
 [^5]: [SNS] "I literally stay at my job because I'm the sole earner for my family and the health insurance is very good (PPO) - if it wasn't for health insurance I'd probably freelance and spend more time at home" (나는 가족의 유일한 소득자이고 건강보험이 아주 좋아서(PPO) 말 그대로 이 직장에 남아 있다. 건강보험이 아니었다면 아마 프리랜서로 일하며 집에서 시간을 더 보냈을 것이다) — Hacker News, 댓글, 2017-03-04, https://news.ycombinator.com/item?id=13790938, 2026-10-23 접속
 [^6]: [문학] "I am in it for a 401k that has been crippled and for health insurance that my turn out to be completely useless" (내가 여기 있는 건 망가진 401k 와 완전히 쓸모없는 것으로 드러날지도 모르는 건강보험 때문이다) — Lawrence Miles, "Chest Fever", Substack, 2026-04-23, https://lawrencemiles.substack.com/p/chest-fever, 2026-10-28 접속
 [^7]: [매체] "nearly a quarter of workers who get health insurance through their jobs report staying in unwanted jobs for health insurance" (직장을 통해 건강보험을 받는 노동자의 4분의 1 가까이가 건강보험 때문에 원하지 않는 직장에 남는다고 답했다) — Joseph Kim, "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says", NPR, 2026-07-22, https://www.wypr.org/2026-07-22/staying-in-a-job-for-the-health-insurance-about-1-in-4-americans-do-a-survey-says, 2026-10-23 접속
-[^8]: [매체] "잡 록이란 건강보험을 잃을 수 있다는 불안 때문에 원하지 않는 직장에 계속 머무르는 현상을 말합니다." — Radio Seoul News Desk, 「“이직하고 싶어도 감옥 같은 직장”… 치솟는 건강보험료에 2,300만 명 ‘잡 록’ 인질 됐다」, 라디오서울, 2026-08-19, https://www.radioseoul1650.com/archives/152467, 2026-10-28 접속
+[^8]: [매체] "보고서는 직업 고착을 건강보험 상실 우려 때문에 이직을 원하면서도 직장에 남아있는 상태로 정의했다." — 「[이슈] 건강보험 때문에 사표도 못 내 … 2,300만명 ‘직장에 갇혔다’」, 케이뉴스LA, 2026-08-15, https://knewsla.com/usa/2026081520022352191/, 2026-10-29 접속
+[^9]: [매체] "잡 록이란 건강보험을 잃을 수 있다는 불안 때문에 원하지 않는 직장에 계속 머무르는 현상을 말합니다." — Radio Seoul News Desk, 「“이직하고 싶어도 감옥 같은 직장”… 치솟는 건강보험료에 2,300만 명 ‘잡 록’ 인질 됐다」, 라디오서울, 2026-08-19, https://www.radioseoul1650.com/archives/152467, 2026-10-28 접속
