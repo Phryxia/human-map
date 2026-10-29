@@ -24,6 +24,8 @@
 
 2023년 커뮤니티 댓글[^9]의 글쓴이는 끈적해서 선크림을 덧바르는 일을 잘 하지 않는다고 쓴다.
 
+2024년 Cancer Council Australia 보도자료[^10]가 전한 조사에서 늦봄과 여름의 대부분의 날에 차단제를 바른 호주인은 38.1%였다.
+
 # 관계
 
 ## 상위
@@ -57,3 +59,4 @@
 [^7]: [학술] "The major reasons for not using sunscreen were inconvenience and no perceived need for applying sunscreen." (자외선 차단제를 쓰지 않는 주된 이유는 번거로움과 바를 필요를 느끼지 않는다는 것이었다.) — K. Diehl 외, "Who Are the Nonusers of Sunscreen, and What Are Their Reasons? Development of a New Item Set", Journal of Cancer Education 36(5), 2020-03-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC8520879/, 2026-10-20 접속
 [^8]: [매체] "however 61% of Americans say they never wear sunscreen on partly cloudy or cloudy days." (그러나 미국인의 61%는 구름이 조금 끼었거나 흐린 날에는 자외선 차단제를 전혀 바르지 않는다고 말한다.) — Advanced Dermatology, "Sun Safety in 2022", Advanced Dermatology 블로그, 2022-07-14, https://www.advdermatology.com/blog/sun-safety-2022/, 2026-10-20 접속
 [^9]: [SNS] "저도 끈적해서 썬크림 덧바르는 거 잘 안 하는데" — 지니어트, 댓글, 2023-08-14, https://geniet.co.kr/community/freetalk/10041166, 2026-10-29 접속
+[^10]: [매체] "Only two in five (38.1%) Australians used sunscreen on most days during late spring and summer when daily sunscreen use is recommended." (매일 자외선 차단제를 바르라고 권하는 늦봄과 여름에 대부분의 날 자외선 차단제를 바른 호주인은 다섯 명에 두 명(38.1%)뿐이었다.) — Cancer Council Australia, "Concerning new data shows almost half of Australians aren’t using adequate sun protection", 2024-09-03, https://www.cancer.org.au/about-us/news-and-media/media-releases/concerning-new-data-shows-almost-half-of-australians-aren-t-using-adequate-sun-protection, 2026-10-29 접속
