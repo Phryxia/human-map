@@ -1174,9 +1174,9 @@
   },
   "https://www.gutenberg.org/cache/epub/161/pg161-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://ko.wikisource.org/wiki/유정": {
     "first": "2026-10-18",
@@ -13164,6 +13164,24 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/9070/pg9070-images.html": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/9177020/": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://boards.straightdope.com/t/is-it-wrong-to-use-a-vending-machine/415472": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.psychologicalscience.org/journals/current-directions/0963721414553264/": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",

@@ -296,6 +296,7 @@
 - [일요일 밤의 출근 걱정](docs/sunday-night-dread.md) ([일터와 일자리](groups/work.md))
 - [일터에서 바쁜 척하기](docs/pretending-to-be-busy.md) ([일터와 일자리](groups/work.md))
 - [읽음 표시를 피하려고 메시지 열지 않기](docs/avoiding-read-receipts.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 침묵](docs/self-silencing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자기에 대한 말 엿듣기](docs/overhearing-talk-about-oneself.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자리 양보 망설임](docs/hesitating-to-offer-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

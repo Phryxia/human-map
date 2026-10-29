@@ -45,6 +45,7 @@
     "summary": "사람이 가치, 확률, 시간을 어림할 때 한쪽으로 기우는 판단이다.",
     "roots": [
       "disposition-effect",
+      "self-serving-justification",
       "endowment-effect",
       "learned-helplessness",
       "meerkat-effect",
