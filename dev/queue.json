@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T09:29:47.414Z",
-  "nextSeq": 2677,
+  "savedAt": "2026-10-29T09:30:56.799Z",
+  "nextSeq": 2679,
   "stops": 135,
   "items": [
-    {
-      "id": "ea016e13",
-      "title": "desire-for-revenge 보강: 학술 인과 간선",
-      "priority": 50,
-      "note": "2026-10-27 원한 품기와 복수의 연결은 Van Monsjou 2019 학위논문이 linked to 로만 말해 원인 간선 근거가 못 됨. 후보: Zhao·Zheng frontiersin 10.3389/fpsyg.2023.1255880 또래 피해와 복수, kormedi.com/1188411 (2009), psmag.com/?p=44553 (2009)",
-      "createdAt": "2026-10-27T21:23:18.030Z",
-      "seq": 2457
-    },
     {
       "id": "efe648e2",
       "title": "clock-watching-in-bed 보강: 2000년 이전 비문학 파편",
@@ -2355,6 +2347,14 @@
       "note": "2026-10-29 hoping-to-run-into-a-crush 의 Wyant 2021 PMC8641115 가 리머런스 사례. 상위 후보로 hoping-to-run-into-a-crush 를 하위로 둘지 볼 것. 기존 같은 제목 항목 있음",
       "createdAt": "2026-10-29T09:15:58.865Z",
       "seq": 2674
+    },
+    {
+      "id": "e89d6cd8",
+      "title": "적대적 귀인 편향",
+      "priority": 10,
+      "note": "2026-10-29 desire-for-revenge 의 Zhao·Zheng 2024 frontiersin fpsyg.2023.1255880: 또래 피해가 적대적 귀인 편향을 키워 복수를 부른다. desire-for-revenge 의 원인 간선 후보(같은 URL)",
+      "createdAt": "2026-10-29T09:30:56.670Z",
+      "seq": 2678
     },
     {
       "id": "02b2f242",
