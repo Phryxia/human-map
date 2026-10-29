@@ -157,6 +157,7 @@
 - [보복이 두려워 신고하지 않기](docs/not-reporting-for-fear-of-reprisal.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [보상을 기다리며 불만 없이 일하기](docs/silent-work-awaiting-reward.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [보이지 않을 때까지 배웅하기](docs/watching-until-out-of-sight.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [보채는 아이에게 스마트기기 쥐여 주기](docs/handing-devices-to-fussy-children.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [복권 구매](docs/buying-lottery-tickets.md) ([돈과 소비](groups/money.md))
 - [복수심](docs/desire-for-revenge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [복지 급여 미신청](docs/not-claiming-benefits.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

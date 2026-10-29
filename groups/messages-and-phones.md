@@ -15,6 +15,7 @@
 - [배송 조회 되풀이하기](../docs/checking-parcel-tracking.md) 온라인으로 주문한 물건을 기다리는 사람이 배송 조회 페이지를 되풀이해 확인한다.
 - [배터리 부족 불안](../docs/low-battery-anxiety.md) 휴대전화를 가진 사람이 배터리 잔량이 줄어드는 것을 보고 불안해하며 충전할 곳을 찾거나 쓰임을 줄인다.
 - [보내기 전 메시지 다시 읽기](../docs/rereading-messages-before-sending.md) 이메일이나 메시지를 쓴 사람이 보내기 전에 초안을 여러 번 다시 읽거나 고쳐 쓴다.
+- [보채는 아이에게 스마트기기 쥐여 주기](../docs/handing-devices-to-fussy-children.md) 부모가 밖에서 아이가 보채거나 지루해할 때 스마트폰이나 태블릿을 건네 아이를 달랜다.
 - [비밀번호 재사용](../docs/password-reuse.md) 여러 온라인 계정을 쓰는 사람이 사이트마다 다른 비밀번호를 만들지 않고 같은 비밀번호를 여러 곳에 쓴다.
 - [빨리 답해야 한다는 압박](../docs/pressure-to-reply-quickly.md) 메시지를 받은 사람이 되도록 빨리 답해야 한다는 압박을 느낀다.
 - [스마트폰 확인 습관](../docs/smartphone-checking-habit.md) 스마트폰 이용자가 화면을 짧게 자주 들여다보다가 다른 일로 넘어가 쓰는 시간이 늘고 그 시간을 조절하지 못한다.
