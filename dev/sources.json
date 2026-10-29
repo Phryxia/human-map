@@ -2356,9 +2356,9 @@
   },
   "https://weekly.khan.co.kr/article/7770": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://bizhankook.com/articles/9400.html": {
     "first": "2026-10-18",
@@ -11966,15 +11966,15 @@
   },
   "https://mediahub.seoul.go.kr/archives/1060048": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://kormedi.com/2853622/": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://ideas.repec.org/a/oup/jconrs/v17y1991i4p492-507.html": {
     "first": "2026-10-27",
@@ -13020,6 +13020,18 @@
     "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16525169&rettype=abstract&retmode=text": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://kin.naver.com/qna/detail.naver?dirId=70601&docId=398884955": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://pureportal.coventry.ac.uk/en/publications/unpacking-the-relationship-between-stress-and-spicy-food-consumpt/": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
