@@ -11240,33 +11240,33 @@
   },
   "https://www.korea.kr/news/reporterView.do?newsId=148687506": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31221770&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.rcips.ky/cash-turned-over-to-the-police-owner-located-9-january": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://view.asiae.co.kr/article/2023071410351761289": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39881201&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.nbcnews.com/id/wbna21102202": {
     "first": "2026-10-26",
@@ -12169,9 +12169,9 @@
   },
   "https://www.spokesman.com/stories/1996/nov/24/seattleites-can-be-justly-proud": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24456210&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -13200,6 +13200,24 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.fnnews.com/news/202609250701431740": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://cambridge.org/core/journals/law-and-society-review/article/losers-recovering-lost-property-in-japan-and-the-united-states/7579D0E14C966DCE6E8CC3A4A607AC52": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.thejakartapost.com/life/2018/03/10/37b-yen-in-cash-brought-to-tokyo-police-as-lost-and-found-in-2017.html": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.ytn.co.kr/_ln/0103_202602090834500851": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
