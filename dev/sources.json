@@ -10286,9 +10286,9 @@
   },
   "https://www.gutenberg.org/cache/epub/550/pg550.txt": {
     "first": "2026-10-25",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.nbcnews.com/id/wbna27119294": {
     "first": "2026-10-25",
@@ -11270,21 +11270,21 @@
   },
   "https://www.nbcnews.com/id/wbna21102202": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18271858&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://boards.straightdope.com/t/roomba-names/633066": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7972600&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
@@ -11336,9 +11336,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2701/pg2701.txt": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://blog.sonlight.com/why-i-read-the-end-first.html": {
     "first": "2026-10-26",
@@ -13445,6 +13445,18 @@
     "lastVerified": "2026-10-29"
   },
   "https://ijoc.org/index.php/ijoc/article/view/19466": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.clien.net/service/board/park/18608830": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://m.news.nate.com/view/20260311n31991": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",

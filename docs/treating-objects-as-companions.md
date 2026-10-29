@@ -14,6 +14,8 @@
 
 2012년 Straight Dope 게시판의 한 댓글[^5]의 글쓴이는 바퀴 하나가 빠진 진공청소기를 집에서 기르던 개의 이름을 따 Tripod 라고 불렀다고 썼다.
 
+2024년 2월 클리앙 댓글[^6]의 글쓴이는 로봇청소기가 더듬이를 정신없이 돌려 대서 '듬이' 라고 부른다고 썼다. 2026년 3월 한국경제 기사[^7]는 많은 사람들이 로봇청소기에 이름을 붙이고 말을 건다고 적었다.
+
 # 관계
 
 ## 상위
@@ -43,3 +45,5 @@
 [^3]: [매체] "They give them nicknames, worry when they signal for help and sometimes even treat them like a trusted pet." (그들은 청소기에 별명을 붙이고 청소기가 도움을 청하는 신호를 내면 걱정하며 때로는 믿음직한 반려동물처럼 대하기까지 한다.) — The Associated Press, 「Roombas fill an emotional vacuum for owners」, NBC News, 2007-10-02, https://www.nbcnews.com/id/wbna21102202, 2026-10-26 접속
 [^4]: [학술] "those who lack social connection with other humans may try to compensate by creating a sense of human connection with nonhuman agents" (다른 사람과의 사회적 연결이 모자란 사람은 사람 아닌 행위자와 사람 같은 연결감을 만들어 그것을 메우려 할 수 있다) — N. Epley 외, 「Creating social connection through inferential reproduction: loneliness and perceived agency in gadgets, gods, and greyhounds」, Psychological Science 19(2), 2008-02, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18271858&rettype=abstract&retmode=text, 2026-10-26 접속
 [^5]: [SNS] "Not a Roomba, but we used to have a shop-vac with a missing wheel. We called him “Tripod,” after our dog." (룸바는 아니지만 우리 집에는 바퀴 하나가 빠진 작업용 청소기가 있었다. 우리는 기르던 개의 이름을 따 그를 "Tripod" 라고 불렀다.) — Straight Dope, 댓글, 2012-08-29, https://boards.straightdope.com/t/roomba-names/633066, 2026-10-26 접속
+[^6]: [SNS] "더듬이를 정신없이 돌려대길래 '듬이'라고 부르네요 ㅋㅋ" — 클리앙, 댓글, 2024-02-27, https://www.clien.net/service/board/park/18608830, 2026-10-29 접속
+[^7]: [매체] "실제로 많은 사람들은 로봇청소기에 이름을 붙이고 말을 건다." — 설지연, 「우리는 왜 로봇에게 이름을 붙여주고 칭찬까지 해줄까」, 한국경제, 2026-03-11, https://m.news.nate.com/view/20260311n31991, 2026-10-29 접속
