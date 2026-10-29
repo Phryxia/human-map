@@ -1013,9 +1013,9 @@
   },
   "https://www.gutenberg.org/cache/epub/9182/pg9182-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-24",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/1399/pg1399-images.html": {
     "first": "2026-10-18",
@@ -12918,6 +12918,18 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/11/24/tokyo-police-care-for-lost-umbrellas-keys-flying-squirrels": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://scholars.indianastate.edu/etds/1453": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.segye.com/newsView/20221022504820": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
