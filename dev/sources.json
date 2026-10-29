@@ -11210,33 +11210,33 @@
   },
   "https://www.gutenberg.org/cache/epub/3409/pg3409.txt": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.thenational.ae/lifestyle/my-life-the-ending-of-a-book-comes-first-for-some-1.465792": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.psychologicalscience.org/news/releases/spoiler-alert-stories-are-not-spoiled-byspoilers.html": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.goodreads.com/topic/show/1583296-do-you-read-the-ending-of-books-first?page=1": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://lady.khan.co.kr/education/article/202112071616001": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.korea.kr/news/reporterView.do?newsId=148687506": {
     "first": "2026-10-26",
@@ -11342,9 +11342,9 @@
   },
   "https://blog.sonlight.com/why-i-read-the-end-first.html": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.kca.go.kr/webzine/board/view?menuId=MENU00306&linkId=104&div=kca_1911": {
     "first": "2026-10-26",
@@ -12397,9 +12397,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30115003&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24632594&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
@@ -13439,6 +13439,12 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.homesandgardens.com/solved/persian-nowruz-spring-clean": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://ijoc.org/index.php/ijoc/article/view/19466": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",

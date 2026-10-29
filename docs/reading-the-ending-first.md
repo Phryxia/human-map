@@ -16,6 +16,8 @@
 
 2021년 레이디경향 칼럼[^7]에서 결말을 먼저 읽는 아이들은 끝을 먼저 봐도 재미있다고 말했다. 아이들은 어떻게 그렇게 됐는지 궁금하다고 덧붙였다.[^7]
 
+2024년 2월 논문[^8]의 저자들은 정서적 고통을 피하려는 마음이 스포일러 선택에 작용하며 사람들이 부정적인 감정에서 자신을 지키려고 스포일러를 찾아볼 수 있다고 썼다.
+
 # 관계
 
 ## 상위
@@ -47,3 +49,4 @@
 [^5]: [SNS] "I have done it once or twice in really scary books when I just need to know that someone is going to be alright." (아주 무서운 책에서 누군가 무사하리라는 걸 꼭 알아야 할 때 한두 번 그렇게 했다.) — Goodreads, 게시글, 2013-11-22, https://www.goodreads.com/topic/show/1583296-do-you-read-the-ending-of-books-first?page=1, 2026-10-26 접속
 [^6]: [학술] "spoilers, under certain circumstances, have a negative effect on enjoyment for television but not short stories." (스포일러는 어떤 상황에서 텔레비전의 즐거움에는 부정적 영향을 주지만 단편 소설에는 그렇지 않다.) — Daniel TA, Katz JS, 「Spoilers Affect the Enjoyment of Television Episodes but Not Short Stories」, Psychological Reports 122(5), 2019-10, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30115003&rettype=abstract&retmode=text, 2026-10-28 접속
 [^7]: [매체] "끝을 먼저 봐도 재미있어요. 어떻게 그렇게 됐는지 궁금하잖아요." — 최승필, 「'결말부터 읽는 버릇', 독서의 질 떨어뜨리지 않는다」, 레이디경향, 2021-12-07, https://lady.khan.co.kr/education/article/202112071616001, 2026-10-26 접속
+[^8]: [학술] "This suggests that the desire to avoid emotional distress plays a role in spoiler selection: People may seek out spoilers to protect themselves from negative feelings." (이는 정서적 고통을 피하려는 욕구가 스포일러 선택에 작용함을 시사한다. 사람들은 부정적인 감정에서 자신을 지키려고 스포일러를 찾아볼 수 있다.) — Sarah E. Brookes, Judith E. Rosenbaum, Morgan E. Ellithorpe, 「Spoilers as Self-Protection: Investigating the Influence of Empathic Distress and Concern for the Self on Spoiler Selection」, International Journal of Communication 18, 2024-02-27, https://ijoc.org/index.php/ijoc/article/view/19466, 2026-10-29 접속
