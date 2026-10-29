@@ -4,6 +4,8 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [건강 불안](../docs/health-anxiety.md) 사람이 뚜렷한 근거 없이 자기가 심각한 병에 걸렸거나 걸릴 것이라고 걱정한다.
+  - [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md)
 - [겁날 때 노래하거나 휘파람 불기](../docs/singing-to-keep-up-courage.md) 어둡거나 무서운 곳을 지나는 사람이 겁을 누르려고 소리 내어 노래하거나 휘파람을 분다.
 - [결말 먼저 읽기](../docs/reading-the-ending-first.md) 소설이나 이야기를 읽는 사람이 처음부터 읽기 전에 마지막 장을 먼저 펼쳐 결말을 본다.
 - [기분 회복 행동](../docs/mood-repair.md) 기분이 나쁜 사람이 그 기분을 낫게 하려고 먹기, 마시기, 사기, 자기 같은 행동을 한다.
@@ -41,7 +43,6 @@
 - [점과 운세 보기](../docs/consulting-fortune-tellers.md) 앞날을 알고 싶은 사람이 점쟁이를 찾아가거나 별자리 운세, 타로, 사주를 본다.
 - [죽음 이야기 피하기](../docs/avoiding-death-talk.md) 사람이 자기 죽음이나 생애 말기에 관해 생각하거나 가족과 이야기하기를 피한다.
 - [즐거운 일을 기다리는 즐거움](../docs/pleasure-of-anticipation.md) 즐거운 일을 앞둔 사람이 그 일이 오기 전 기다리는 동안 이미 들뜨고 즐거워한다.
-- [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md) 질병 정보를 읽는 사람이 거기 적힌 증상이 자기에게 있다고 여겨 그 병에 걸렸다고 믿거나 걱정한다.
 - [지루함](../docs/boredom.md) 사람이 하는 일이나 지내는 날에 흥미를 느끼지 못하고 따분해한다.
   - [퇴근 시간 기다리며 시계 보기](../docs/clock-watching-at-work.md)
 - [징크스 지키기](../docs/superstitious-rituals.md) 결과를 알 수 없는 일을 앞둔 사람이 불운을 막거나 일이 잘되도록 정해 둔 작은 의례를 하거나 어떤 행동을 피한다.
