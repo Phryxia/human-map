@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-10-28T21:39:18.081Z",
-  "nextSeq": 2598,
-  "stops": 132,
+  "savedAt": "2026-10-29T00:33:57.181Z",
+  "nextSeq": 2606,
+  "stops": 133,
   "items": [
+    {
+      "id": "bd44448d",
+      "title": "dev: validate 의 확인됨 파편 수를 dev/sources.json 결과로 센다",
+      "priority": 80,
+      "note": "2026-10-29 pleasure-of-anticipation 에서 [^2] (link.springer.com s11482-009-9091-9) 가 source-check UNREACHABLE(429) 로 기록됐고 (미확인) 표시가 없었는데 validate 는 확인됨 2개로 보고 0 errors 를 냈다. isVerified 가 (미확인) 표시만 본다. 소멸이 아니면서 sources.json 에 lastVerified 가 없는 파편은 확인됨에서 빼야 한다",
+      "createdAt": "2026-10-29T00:33:48.794Z",
+      "seq": 2605
+    },
     {
       "id": "44bf2b46",
       "title": "watching-until-out-of-sight 보강: 학술 파편",
@@ -611,6 +619,14 @@
       "note": "2026-10-27 hansard.parliament.uk, committees.parliament.uk, ourcommons.ca 403. 2026-10-28 oireachtas.ie 405/403(Seanad 2023-02-22 Welfare and Safety of Workers 는 병가 죄책감), theyworkforyou 본문 없음, parliament.scot 6회의 guilt 는 퇴사 무관, DfE working lives 는 PDF. 남은 방법: likms.assembly.go.kr 회의록, NHS England HTML 보고서, 국가인권위 보도자료. 학술 단서 PMC10248469",
       "createdAt": "2026-10-28T21:39:08.950Z",
       "seq": 2597
+    },
+    {
+      "id": "a281d040",
+      "title": "keeping-an-exs-belongings 와 discarding-an-exs-belongings 대립",
+      "priority": 50,
+      "note": "2026-10-29 두 문서 추가. 같은 사람이 버리려다 못 버린다는 파편 필요. discarding [^4] 블라인드 글이 그런 장면이나 keeping 쪽 근거 파편 없음. 후보: spsp.org how-technology-complicates-breakup-process (발행일 미상), Brody 외 2020 JSPR doi 10.1177/0265407520921460",
+      "createdAt": "2026-10-29T00:18:01.960Z",
+      "seq": 2604
     },
     {
       "id": "d16898d2",
