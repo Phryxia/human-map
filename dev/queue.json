@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T03:35:54.014Z",
-  "nextSeq": 2616,
-  "stops": 134,
+  "savedAt": "2026-10-29T06:35:28.337Z",
+  "nextSeq": 2625,
+  "stops": 135,
   "items": [
     {
       "id": "0c15c1ce",
@@ -11,14 +11,6 @@
       "note": "2026-10-27 추가. 후보: Pew 2025 같은 글 'Relatively few Americans make major life decisions based on' (중대 결정에는 드묾, 조건), 영남일보 2026-03-01 '불안감 등 정신적 욕구 해소에' (같은 URL, 불안 원인). Jane Eyre XVIII장(1260)과 War and Peace Book Seven 12장(2600)은 이미 4개 문서가 쓰는 URL 이라 5개째가 되어 뺌",
       "createdAt": "2026-10-27T18:24:44.753Z",
       "seq": 2437
-    },
-    {
-      "id": "84fecb5b",
-      "title": "empty-invitations 보강: 한국어 SNS, 공공 파편, ritual-refusal 관계",
-      "priority": 50,
-      "note": "2026-10-27 추가. 후보: Wharton The Age of Innocence 20장 gutenberg 541 'Look me up, won't you?' 받는 쪽이 빈말로 앎(1920), HN item?id=8938548 (2015-01-24) 날짜 없는 점심 약속을 거절 방식으로 씀, hangyo 77663 같은 글 '실제로 밥을 먹자고 연락이 오는 경우는 거의 없다'",
-      "createdAt": "2026-10-27T18:30:47.165Z",
-      "seq": 2438
     },
     {
       "id": "e2fd6f9a",
@@ -59,14 +51,6 @@
       "note": "2026-10-27 chroniclingamerica 옛 검색 API 는 JSON 이 아님(loc.gov 로 옮김). 이전 note: nytimes·apnews·upi 403, latimes la-xpm-199* 열림, Wayback CDX 로 URL 얻기",
       "createdAt": "2026-10-27T21:24:06.256Z",
       "seq": 2458
-    },
-    {
-      "id": "4d2fef18",
-      "title": "vegetable-gardening 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-26 클리앙 2024-06-17 더함. Secret Garden 1911 은 시골 저택이라 맞지 않음. 2026-10-27 Wright 의 The Garden of a Commuter's Wife 는 gutenberg 에 없음(11561 은 People of the Whirlpool, 채소밭 대목 없음). 한국 근대 수필·소설의 도시 텃밭 장면 볼 것",
-      "createdAt": "2026-10-27T21:24:39.856Z",
-      "seq": 2459
     },
     {
       "id": "328a30c1",
@@ -579,6 +563,30 @@
       "note": "2026-10-27 추가. 답답해서 빨간불에 건넜다는 한 문장 인과 필요. 후보: korea.kr 148757052 '보행자 신호가 자주 바뀌지 않기 때문에' 대목(jaywalking [^2] 와 같은 URL), Guo 2011 PMID 21259179 'The violation inclination of most pedestrians increased with the increasing waiting duration' 은 대기 시간 인과라 조급함 근거로 약함(2026-10-29)",
       "createdAt": "2026-10-29T03:35:46.857Z",
       "seq": 2615
+    },
+    {
+      "id": "ec3ea308",
+      "title": "vegetable-gardening 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-29 계용묵 1942 수필(매체) 더함. 수필은 매체라 문학 아님. 후보: 채만식 「집」 위키문헌 /wiki/%EC%A7%91 안양 근교 채마밭에 날마다 물 주어 싹이 이쁘게 섬, 발표 연도와 소설·수필 여부 미확인. 강경애 「번뇌」 1935 텃밭은 간도라 도시 아님",
+      "createdAt": "2026-10-29T06:21:53.171Z",
+      "seq": 2622
+    },
+    {
+      "id": "4d4ab773",
+      "title": "rechecking-door-and-stove 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-29 매일신문 2000, 코메디닷컴 2022 더함. Gutenberg 75종 grep 으로 이미 확인하고 다시 돌아가 문이나 불을 보는 대목 못 찾음. 한국어 위키문헌 근대 소설 볼 것. 후보 kormedi.com/1728856 (2024-10-17) 본문 미확인",
+      "createdAt": "2026-10-29T06:34:03.809Z",
+      "seq": 2623
+    },
+    {
+      "id": "1cec001b",
+      "title": "empty-invitations 보강: 한국어 SNS, 공공 파편, ritual-refusal 관계",
+      "priority": 50,
+      "note": "2026-10-29 Wharton 1920, HN 8938548 (2015) 더함. 한국어 SNS 와 공공 파편, ritual-refusal 관계 근거 남음",
+      "createdAt": "2026-10-29T06:35:21.137Z",
+      "seq": 2624
     },
     {
       "id": "d16898d2",
@@ -2163,6 +2171,14 @@
       "note": "2026-10-28 PMC10205907 'I knew that I shouldn't invite friends or family to visit', brickunderground 2011/06 bedbugged 'I did not invite people over', zikoko 7-nigerians 'I hardly entertain visitors'. avoiding-inviting-people-home 은 집이 부끄러워서라 원인이 다름",
       "createdAt": "2026-10-28T21:26:35.428Z",
       "seq": 2593
+    },
+    {
+      "id": "e2936c0b",
+      "title": "유족이 주변 사람이 그 일을 꺼낼지 신경 쓰기",
+      "priority": 10,
+      "note": "2026-10-29 avoiding-the-grieving-and-ill 보강 중. 후보: C. S. Lewis, A Grief Observed 1961, fadedpage 20150436 'trying to make up their minds whether they’ll ‘say something about it’ or not. I hate it if they do, and if they don’t.' (쿠키 리다이렉트로 source-check 확인 필요). avoiding-the-grieving-and-ill 의 상대 쪽",
+      "createdAt": "2026-10-29T06:14:25.067Z",
+      "seq": 2621
     },
     {
       "id": "02b2f242",
