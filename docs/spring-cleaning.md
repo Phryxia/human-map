@@ -16,6 +16,8 @@
 
 2024년 미국청소협회(ACI) 조사에서 미국인 80%가 그해 봄 대청소를 할 계획이라고 답했다. 이 비율은 3년 전보다 10% 넘게 늘었다.[^6]
 
+2025년 3월 Homes and Gardens 기사[^7]의 이란 출신 저자는 이란 사람들이 손님이 오기 전에 집이 깨끗해 보이기를 바라 새해 노루즈 전에 대청소를 한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -28,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [손님 오기 전에 집 치우기](tidying-before-guests.md)[^7]
 
 ## 결과
 
@@ -46,3 +48,4 @@
 [^4]: [학술] "The Persian's new year starts with spring and Iranians spend the last few weeks of the year (in winter) cleaning their houses and surroundings to make them ready for a new year." (페르시아의 새해는 봄과 함께 시작하고, 이란 사람들은 한 해의 마지막 몇 주(겨울)를 새해를 맞을 채비로 집과 그 주변을 청소하며 보낸다.) — Soheil Saadat, Mojgan Karbakhsh, 「Spring cleaning as a safety risk: results of a population-based study in two consecutive years」, BMC Public Health 11:631, 2011-08-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC3170248/, 2026-10-28 접속
 [^5]: [SNS] "따뜻한 봄이 되어 정말 크게 맘먹고 골방 청소를 해봤습나다, 그 와중에 뜬금없이 나타난 추억의 물건들." — 클리앙, 게시글, 2019-03-06, https://www.clien.net/service/board/park/13235022, 2026-10-28 접속
 [^6]: [매체] "The survey found that 80% of Americans plan to spring clean this year, which is a more than a 10% increase from just 3 years ago." (조사 결과 미국인 80%가 올해 봄 대청소를 할 계획이며 이는 불과 3년 전보다 10% 넘게 늘어난 것이다.) — American Cleaning Institute, "ACI Survey: 80% of Americans Now Spring Clean Every Year", Newswise, 2024-03-06, https://www.newswise.com/articles/aci-survey-80-of-americans-now-spring-clean-every-year, 2026-10-26 접속
+[^7]: [매체] "Iranians are nothing if not house proud and hospitable, so we always want our home looking ready and clean before guests arrive." (이란 사람들은 무엇보다 집을 자랑스러워하고 손님을 반기는 사람들이라 손님이 오기 전에 늘 집이 준비되고 깨끗해 보이기를 바란다.) — Punteha van Terheyden, 「Try my 13-day Persian Nowruz spring cleaning checklist」, Homes and Gardens, 2025-03-19, https://www.homesandgardens.com/solved/persian-nowruz-spring-clean, 2026-10-29 접속
