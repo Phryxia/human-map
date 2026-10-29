@@ -16,6 +16,8 @@
 
 2014년 연구[^8]에서 하품 영상을 본 참가자 328명은 나이가 많을수록 하품이 덜 옮았고 40세 미만으로 좁혀도 그랬다.
 
+2021년 12월 SUNY Polytechnic Institute 보도자료[^9]는 하품 영상을 보여 주었을 때 따라 하품하는 사람이 30-60%뿐이라는 연구들을 전했다.
+
 # 관계
 
 ## 상위
@@ -48,3 +50,4 @@
 [^6]: [학술] "As with other measures of empathy, the rate of contagion was greatest in response to kin, then friends, then acquaintances, and lastly strangers." (다른 공감 척도와 마찬가지로 전염 비율은 혈연에게서 가장 높았고 친구, 지인, 마지막으로 낯선 사람 순이었다.) — I. Norscia, E. Palagi, 「Yawn contagion and empathy in Homo sapiens」, PLoS One 6(12), 2011-12, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22163307&rettype=abstract&retmode=text, 2026-10-26 접속
 [^7]: [매체] "그 결과 대부분의 하품 전염은 직접적인 혈연 사이에서 일어나며 친구 사이에서는 이보다 약간 적게 일어나고 단순한 지인이나 모르는 사람 사이에서는 이보다도 덜 일어나는 것으로 나타났다." — 경향신문, 「하품은 식구 사이에 옮는다」, 2011-12-12, https://www.khan.co.kr/article/20111212103134A/, 2026-10-26 접속
 [^8]: [학술] "Participants were less likely to show contagious yawning as their age increased, even when restricting to ages of less than 40 years." (참가자는 나이가 많을수록 하품 전염을 덜 보였고, 40세 미만으로 한정해도 그랬다.) — Bartholomew AJ, Cirulli ET, 「Individual variation in contagious yawning susceptibility is highly stable and largely unexplained by empathy or other known factors」, PLoS One 9(3), 2014-03-14, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24632594&rettype=abstract&retmode=text, 2026-10-28 접속
+[^9]: [매체] "Studies show that when displayed yawning videos, only 30-60% of people yawn contagiously." (연구에 따르면 하품 영상을 보여 주었을 때 따라 하품하는 사람은 30-60%뿐이다.) — SUNY Polytechnic Institute, 「News Release: What Contagious Yawning (or Lack Thereof) Says About Your Personality」, 2021-12-10, https://sunypoly.edu/news/news-release-what-contagious-yawning-or-lack-thereof-says-about-your-personality, 2026-10-29 접속
