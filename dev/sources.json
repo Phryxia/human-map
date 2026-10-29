@@ -2614,9 +2614,9 @@
   },
   "https://www.gutenberg.org/cache/epub/768/pg768-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://rug.nl/hrm-ob/bloggen/blog-30-04-2015-what-did-they-just-say-about-me": {
     "first": "2026-10-18",
@@ -11048,21 +11048,21 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918682/": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8910367/": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.newsis.com/view/NISX20241202_0002979688": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/289/pg289-images.html": {
     "first": "2026-10-26",
@@ -12163,9 +12163,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1019/pg1019.txt": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.spokesman.com/stories/1996/nov/24/seattleites-can-be-justly-proud": {
     "first": "2026-10-27",
@@ -13194,6 +13194,12 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.huffingtonpost.co.uk/entry/two-thirds-of-lonely-people-are-relying-on-the-television-to-keep-them-company_uk_5c90d1d8e4b04ed2c1ae7dee": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.fnnews.com/news/202609250701431740": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",

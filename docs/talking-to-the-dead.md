@@ -14,6 +14,8 @@
 
 2022년 Goodall 등의 체계적 문헌고찰[^4]은 자살 사별 뒤의 지속 유대가 드러나는 사적인 모습으로 고인에게 글을 쓰거나 말을 거는 일을 든다. 2024년 뉴시스 기사에 따르면 아들을 먼저 떠나보낸 어머니가 아들을 그리는 메시지를 보냈고 생면부지의 청년이 답신을 보냈다.[^5]
 
+2026년 9월 파이낸셜뉴스 기사[^6]는 추석을 앞둔 봉안당에서 봉안함 앞에 서서 살아 있는 가족에게 하듯 조용히 이야기를 건네는 추모객을 적었다.
+
 # 관계
 
 ## 상위
@@ -43,3 +45,4 @@
 [^3]: [학술] "Many parents and siblings talked to the deceased child at the cemetery. One sibling shared, “I'll go to his grave sometimes and talk to him.”" (많은 부모와 형제가 묘지에서 죽은 아이에게 말을 걸었다. 한 형제는 “가끔 그의 무덤에 가서 그에게 이야기해요.” 라고 말했다.) — Terrah L. Foster, Mary Jo Gilmer, Betty Davies 외, "Comparison of Continuing Bonds Reported by Parents and Siblings After a Child's Death from Cancer", Death Studies, 2011-05, https://pmc.ncbi.nlm.nih.gov/articles/PMC3918682/, 2026-10-26 접속
 [^4]: [학술] "A public manifestation may include participation in ceremonies or rituals such as a funeral whilst a private manifestation may include writing to or talking to the deceased" (공적인 표현은 장례 같은 의식이나 의례에 참여하는 일을 포함할 수 있고 사적인 표현은 고인에게 글을 쓰거나 말을 거는 일을 포함할 수 있다) — Rebecca Goodall, Karolina Krysinska, Karl Andriessen, "Continuing Bonds after Loss by Suicide: A Systematic Review", International Journal of Environmental Research and Public Health 19(5), 2022-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC8910367/, 2026-10-26 접속
 [^5]: [매체] "메시지를 보낸 이는 아들을 먼저 떠나 보낸 어머니였는데, 아들을 향한 그리움이 담긴 메시지에 생면부지의 청년이 보낸 따뜻한 답신이 누리꾼들에게 감동을 주고 있다." — 최윤서, 「“너가 보고싶은 날” 하늘 간 아들에 카톡…답장이 왔다」, 뉴시스, 2024-12-02, https://www.newsis.com/view/NISX20241202_0002979688, 2026-10-26 접속
+[^6]: [매체] "두 손을 모은 채 한동안 묵념하는 사람이 있는가 하면, 봉안함 앞에서 살아 있는 가족에게 말을 걸 듯 조용히 이야기를 건네는 이도 있었다." — 우은식, 이시현, 「납골당 미니어처 차례상…'기억의 방식' vs '상업화 우려'[출동!인턴]」, 파이낸셜뉴스, 2026-09-25, https://www.fnnews.com/news/202609250701431740, 2026-10-29 접속
