@@ -11186,27 +11186,27 @@
   },
   "https://m.seoul.co.kr/news/2018/04/03/20180403002024": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7437488/": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8771173/": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://news.oxfordshire.gov.uk/oxfordshire-to-get-real-this-recycle-week/": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/3409/pg3409.txt": {
     "first": "2026-10-26",
@@ -11306,9 +11306,9 @@
   },
   "https://api.osf.io/v2/preprints/9v7aq/": {
     "first": "2026-10-26",
-    "last": "2026-10-26",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-10-29"
   },
   "https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-96-191/html/GAOREPORTS-RCED-96-191.htm": {
     "first": "2026-10-26",
@@ -13427,6 +13427,12 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.psychologytoday.com/us/blog/the-engaged-mind/202308/the-boredom-of-solitude": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://archive.seattletimes.com/archive/?date=19921101&slug=1522133": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
