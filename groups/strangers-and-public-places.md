@@ -15,6 +15,7 @@
 - [엘리베이터 안의 침묵](../docs/elevator-silence.md) 엘리베이터에 낯선 사람과 함께 탄 사람이 말을 멈추고 신발, 문, 층수 표시기를 바라본다.
 - [옆 사람 통화에 신경 쓰이기](../docs/overheard-phone-calls.md) 공공장소에 있는 사람이 옆 사람의 휴대전화 통화를 듣게 되면 그 소리에 주의가 쏠려 거슬려한다.
 - [예약 부도](../docs/reservation-no-show.md) 가게에 예약한 손님이 취소 연락 없이 예약한 때에 나타나지 않는다.
+- [유실물 찾아가지 않기](../docs/leaving-lost-items-unclaimed.md) 대중교통에 옷이나 우산 같은 값싼 물건을 두고 내린 사람이 그 물건을 찾으러 가지 않는다.
 - [이웃과 엘리베이터 같이 타지 않기](../docs/avoiding-shared-elevator.md) 엘리베이터에 이웃이나 꺼리는 사람이 타 있거나 같이 탈 것 같으면 함께 타지 않으려고 기다리거나 늦게 나간다.
 - [인사 안 받는 이웃에게 아는 체 그만두기](../docs/stopping-greeting-unresponsive-neighbor.md) 이웃에게 건넨 인사에 반응이 없었던 사람이 그 뒤로 그 이웃에게 인사하지 않는다.
 - [자리 양보 망설임](../docs/hesitating-to-offer-seat.md) 대중교통에 앉은 사람이 노인이나 임산부에게 자리를 내줄지 망설이다 내주지 않거나 말없이 일어난다.

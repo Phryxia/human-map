@@ -274,6 +274,7 @@
 - [원한 품기](docs/holding-a-grudge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
+- [유실물 찾아가지 않기](docs/leaving-lost-items-unclaimed.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [유언장 작성 미루기](docs/delaying-will-writing.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [육아휴직 망설이기](docs/hesitating-to-take-parental-leave.md) ([일터와 일자리](groups/work.md))
 - [은둔형 외톨이](docs/social-withdrawal-at-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
