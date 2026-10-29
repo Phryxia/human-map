@@ -12976,5 +12976,17 @@
     "last": "2026-10-29",
     "result": "VERIFIED",
     "lastVerified": "2026-10-29"
+  },
+  "https://www.gutenberg.org/cache/epub/47/pg47-images.html": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://personal.eur.nl/veenhoven/Pub2010s/2010g-ab.html": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
   }
 }
