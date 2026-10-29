@@ -12,6 +12,8 @@
 
 2018년 10월 아이디얼 홈 기사는 어지러운 집 때문에 영국인 50% 가까이가 누군가를 집에 들이기를 망설이고 그 까닭이 대개 부끄러움이라고 적었다.[^3]
 
+2024년 에세이[^4]의 글쓴이는 아버지가 함께 살지 않고 차도 새 물건도 없이 중고 소파와 기부받은 교복으로 지내던 어린 시절을 부끄러워했다. 글쓴이는 그 때문에 가장 친한 친구들에게도 학교 밖 생활을 거의 말하지 않았고 너무 창피해서 누구도 집에 거의 부르지 않았다고 적었다.[^4]
+
 # 관계
 
 ## 상위
@@ -24,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [부모가 창피함](embarrassed-by-parents.md)[^4]
 
 ## 결과
 
@@ -39,3 +41,4 @@
 [^1]: [학술] "usually do not invite people home, perhaps because they are embarrassed about the clutter or anxious that someone might try to clean the house." (대개 사람을 집에 초대하지 않는데, 아마 어지러움이 부끄럽거나 누군가 집을 치우려 할까 봐 불안하기 때문일 것이다.) — Ayesha Silman, "Help your patient with hoarding disorder move the clutter to the curb", Current Psychiatry 13(9), 발행일 미상, https://blogs.the-hospitalist.org/content/help-your-patient-hoarding-disorder-move-clutter-curb, 2026-10-19 접속
 [^2]: [문학] "Now it was all coarse and common, and I would not have had Miss Havisham and Estella see it on any account." (이제 그것은 모두 거칠고 천했고, 나는 어떤 일이 있어도 해비셤 양과 에스텔라에게 그것을 보이고 싶지 않았다.) — Charles Dickens, Great Expectations, Chapter XIV, 1861, https://www.gutenberg.org/cache/epub/1400/pg1400-images.html, 2026-10-19 접속
 [^3]: [매체] "any mess will make nearly 50 per cent of us think twice about inviting someone over the threshold. And more often than not it's because we're embarrassed." (어떤 어지러움이든 우리 가운데 50% 가까이가 누군가를 문턱 안으로 들이기를 다시 생각하게 만든다. 그리고 대개는 부끄럽기 때문이다.) — Amy Cutmore, Ideal Home, 2018-10-31, https://www.idealhome.co.uk/news/home-clutter-214357, 2026-10-19 접속
+[^4]: [매체] "I was ashamed of all that, so I said very little about my existence outside of school, even to my closest childhood friends. That meant I almost never invited anyone over. I felt too embarrassed." (나는 그 모든 것이 부끄러워서 가장 친한 어린 시절 친구들에게도 학교 밖의 내 삶을 거의 말하지 않았다. 그래서 나는 누구도 집에 거의 부르지 않았다. 너무 창피했다.) — Susie Moore, 「Hosting Dinners Is Healing My Childhood Shame」, Wondermind, 2024-08-21, https://www.wondermind.com/article/hosting-dinners/, 2026-10-29 접속

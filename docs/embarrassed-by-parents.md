@@ -16,6 +16,8 @@
 
 2023년 댓글[^5]의 글쓴이는 중학생 아들을 가끔 학교에 데려다주면 아들이 창피하다며 멀리서 내려 달라고 말한다고 적었다. 2024년 댓글[^6]의 글쓴이는 낡은 첫 차를 20년 동안 탔고 초등학생이던 둘째가 차 밖에 친구들이 보이면 몸을 낮춰 숨었다고 적었다.
 
+2024년 에세이[^7]의 글쓴이는 아버지가 함께 살지 않고 차도 새 물건도 없이 중고 소파와 기부받은 교복으로 지내던 어린 시절을 부끄러워했다. 글쓴이는 그 때문에 가장 친한 친구들에게도 학교 밖 생활을 거의 말하지 않았고 너무 창피해서 누구도 집에 거의 부르지 않았다고 적었다.[^7]
+
 # 관계
 
 ## 상위
@@ -32,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [집이 부끄러워 손님 들이지 않기](avoiding-inviting-people-home.md)[^7]
 
 ## 대립
 
@@ -46,3 +48,4 @@
 [^4]: [매체] "One in eight (12%) children say they don’t find their parents embarrassing at all." (어린이 8명 가운데 1명(12%)은 부모가 전혀 창피하지 않다고 말한다.) — Matthew Smith, 「YouGov reveals what kids find most embarrassing about their parents」, YouGov, 2017-09-04, https://yougov.com/en-gb/articles/19024-yougov-reveals-what-kids-find-most-embarrassing-ab, 2026-10-23 접속
 [^5]: [SNS] "근데 중딩 아들내미 학교 가끔 데려다주면 비슷하게 반응한다네요...저기 멀리서 내려달라고...쪽팔린다고" — 클리앙, 댓글, 2023-04-18, https://www.clien.net/service/board/park/18032403, 2026-10-23 접속
 [^6]: [SNS] "딴 얘기지만 첫차를 사서 아무 생각없이 20년을 탔는데 초등학생이던 둘째가 차밖에 친구들이 보이면 몸을 낮춰 숨던 기억이 납니다. ㅎㅎ 차가 좀 덜덜거리고 낡긴 했었어요." — 클리앙, 댓글, 2024-06-25, https://www.clien.net/service/board/park/18752297, 2026-10-24 접속
+[^7]: [매체] "I was ashamed of all that, so I said very little about my existence outside of school, even to my closest childhood friends. That meant I almost never invited anyone over. I felt too embarrassed." (나는 그 모든 것이 부끄러워서 가장 친한 어린 시절 친구들에게도 학교 밖의 내 삶을 거의 말하지 않았다. 그래서 나는 누구도 집에 거의 부르지 않았다. 너무 창피했다.) — Susie Moore, 「Hosting Dinners Is Healing My Childhood Shame」, Wondermind, 2024-08-21, https://www.wondermind.com/article/hosting-dinners/, 2026-10-29 접속
