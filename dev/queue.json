@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T09:07:17.406Z",
-  "nextSeq": 2671,
+  "savedAt": "2026-10-29T09:11:38.366Z",
+  "nextSeq": 2673,
   "stops": 135,
   "items": [
-    {
-      "id": "0c15c1ce",
-      "title": "consulting-fortune-tellers 보강: SNS 파편, 2000년대 이전 비문학, 불안 원인 간선",
-      "priority": 50,
-      "note": "2026-10-27 추가. 후보: Pew 2025 같은 글 'Relatively few Americans make major life decisions based on' (중대 결정에는 드묾, 조건), 영남일보 2026-03-01 '불안감 등 정신적 욕구 해소에' (같은 URL, 불안 원인). Jane Eyre XVIII장(1260)과 War and Peace Book Seven 12장(2600)은 이미 4개 문서가 쓰는 URL 이라 5개째가 되어 뺌",
-      "createdAt": "2026-10-27T18:24:44.753Z",
-      "seq": 2437
-    },
     {
       "id": "e2fd6f9a",
       "title": "trying-on-outfits-before-going-out 보강: 한국어 파편, 2020년대 파편",
@@ -587,6 +579,14 @@
       "note": "2026-10-29 Wharton 1920, HN 8938548 (2015) 더함. 한국어 SNS 와 공공 파편, ritual-refusal 관계 근거 남음",
       "createdAt": "2026-10-29T06:35:21.137Z",
       "seq": 2624
+    },
+    {
+      "id": "e91731e7",
+      "title": "consulting-fortune-tellers 보강: 불안 원인 간선, 2000년대 이전 비문학",
+      "priority": 50,
+      "note": "2026-10-29 네이트판 2008·2022 SNS 더함. 후보: pann 343860644 (2018-10-17) 이별 뒤 '믿지는 않지만 답답해서', 영남일보 2026-03-01 같은 URL 불안감. reddit·클리앙·더쿠 403",
+      "createdAt": "2026-10-29T09:11:38.237Z",
+      "seq": 2672
     },
     {
       "id": "d16898d2",

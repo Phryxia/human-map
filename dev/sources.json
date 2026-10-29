@@ -12056,27 +12056,27 @@
   },
   "https://www.gutenberg.org/cache/epub/143/pg143-images.html": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35510634&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.pewresearch.org/religion/2025/05/21/3-in-10-americans-consult-astrology-tarot-cards-or-fortune-tellers/": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://v.daum.net/v/20260301181027087": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/1156/pg1156-images.html": {
     "first": "2026-10-27",
@@ -13080,6 +13080,18 @@
     "lastVerified": "2026-10-29"
   },
   "https://news.ycombinator.com/item?id=8938548": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://pann.nate.com/talk/2515776": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://pann.nate.com/talk/364402473": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
