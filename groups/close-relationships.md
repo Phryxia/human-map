@@ -60,3 +60,4 @@
 - [참아 온 불만의 폭발](../docs/suppressed-anger-outburst.md) 오래 불만이나 분노를 드러내지 않던 사람이 사소한 계기에 쌓인 감정을 한꺼번에 쏟아 낸다.
 - [편애받는 형제에 대한 질투](../docs/sibling-jealousy-over-favoritism.md) 부모가 다른 형제를 더 아낀다고 느끼는 자식이 그 형제를 질투하거나 부모에게 서운해한다.
 - [할 말을 몰라 아픈 사람과 유족 피하기](../docs/avoiding-the-grieving-and-ill.md) 중병에 걸린 사람이나 가족을 잃은 사람의 주변 사람이 무슨 말을 할지 몰라 그 사람을 찾아가거나 연락하기를 피한다.
+- [헤어진 연인의 물건 없애기](../docs/discarding-an-exs-belongings.md) 연인과 헤어진 사람이 상대에게 받은 편지, 사진, 선물을 태우거나 버린다.
