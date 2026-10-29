@@ -16,6 +16,8 @@
 
 2016년 6월 기사[^5]가 전한 설문에서 영국 여성 열에 한 명은 그날 입을 옷을 고르느라 쓴 시간 때문에 직장에 늦는 일이 잦았다.
 
+2025년 12월 브런치 글[^6]의 글쓴이는 후드티와 바지에 아껴 둔 신발까지 갖춰 신고 보면 마음에 들지 않고 색 조합이나 재질이 이상해 보인다고 썼다. 누군가에게 잘 보이고 싶은 날에는 더 그렇다고 덧붙였다.
+
 # 관계
 
 ## 상위
@@ -45,3 +47,4 @@
 [^3]: [SNS] "I'll wear the black pants and (after some agonizing) the polka dot top. No, I don't think I want to be in polka dots at this meeting. I'll wear the tipped blouse instead." (검은 바지에 (한참 고민한 끝에) 물방울무늬 상의를 입어야지. 아니, 이 회의에서 물방울무늬는 입고 싶지 않아. 대신 테두리 장식 블라우스를 입을래.) — YouLookFab 게시글, 2013-03-07, https://youlookfab.com/welookfab/topic/outfit-plan-fail-fallout, 2026-10-27 접속
 [^4]: [매체] "Even with all that planning, two-thirds of women admit to trying on multiple outfits before leaving the house; about 15% have regretted their choice and returned to pick something else." (그렇게 계획을 세우고도 여성의 3분의 2는 집을 나서기 전에 옷을 여러 벌 입어 본다고 인정한다. 약 15%는 고른 옷을 후회하고 돌아가 다른 것을 고른 적이 있다.) — Arden Dier, 「Women spend 5 months of their lives deciding what to wear」, Fox News, 2015-07-07, https://www.foxnews.com/health/women-spend-5-months-of-their-lives-deciding-what-to-wear, 2026-10-27 접속
 [^5]: [매체] "It has also seen one in ten regularly arriving late to work because of the time spent choosing their outfit for the day" (열에 한 명은 그날 입을 옷을 고르느라 쓴 시간 때문에 직장에 자주 늦는다는 결과도 나왔다) — Jack Peat, 「Almost Two-Thirds of British Women Suffer From 'Wardrobe Rage'」, The London Economic, 2016-06-06, https://thelondoneconomic.com/lifestyle/almost-two-thirds-of-british-women-suffer-from-wardrobe-rage-29389/, 2026-10-27 접속
+[^6]: [매체] "멋있는 후드티에 이쁜 바지까지 입고 마지막으로 그동안 아껴왔던 신발까지 신어서 보면 먼가 마음에 안 들고 색조합 혹은 옷의 재질등이 이상해 보인다. 혹여나 내가 누군가한테 잘 보이고 싶다면 더더욱 그럴 것이다." — 규현, 「입을 옷이 없다」, 브런치, 2025-12-10, https://brunch.co.kr/@lkhyun0807/17, 2026-10-29 접속
