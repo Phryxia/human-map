@@ -1,41 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-29T09:37:05.805Z",
-  "nextSeq": 2679,
-  "stops": 136,
+  "savedAt": "2026-10-29T12:59:27.361Z",
+  "nextSeq": 2688,
+  "stops": 137,
   "items": [
-    {
-      "id": "328a30c1",
-      "title": "emotional-labor 보강: heavy-drinking 결과 간선 근거",
-      "priority": 50,
-      "note": "2026-10-27 pann 342131791 (2018-05-23) 욕설 고객 대목 더함. 남은 후보: pann 323934909 (2014-08-19) 판매직. 음주 원인 1인칭 글 미발견",
-      "createdAt": "2026-10-27T21:25:49.035Z",
-      "seq": 2460
-    },
-    {
-      "id": "0aaa8608",
-      "title": "leaving-tv-on-for-company 보강: loneliness 원인 간선",
-      "priority": 50,
-      "note": "2026-10-27 aop.org.uk 2024-09-24 Specsavers 51% 더함(상관, 인과 아님). blackpoolgazette Rotary 62% 기사는 본문 추출 안 됨. 후보: limerickleader.ie 8521985 칼럼, sundaypost.com older people rely on tv for company, PMC9372884 Fingerman",
-      "createdAt": "2026-10-27T21:27:00.553Z",
-      "seq": 2461
-    },
-    {
-      "id": "2b093694",
-      "title": "talking-to-animals 보강: 공공 파편, talking-to-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-27 UC Davis 1991-04-26 Puppy Talk 더함(매체). 공공 후보 news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 는 대화증가가 동물을 향한 말인지 불분명. 혼잣말을 잇는 대목 못 찾음",
-      "createdAt": "2026-10-27T21:28:04.969Z",
-      "seq": 2462
-    },
-    {
-      "id": "f360eae5",
-      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계, 한국어 성묘 글",
-      "priority": 50,
-      "note": "2026-10-27 Brontë Remembrance 1846 더함. 서울신문 2023-05-16 20230516009010 유가족이 영정 속 희생자에게 메시지(참사 기사, 실명 대목 주의)",
-      "createdAt": "2026-10-27T21:28:53.360Z",
-      "seq": 2463
-    },
     {
       "id": "031e3187",
       "title": "returning-lost-wallets 보강: 사례금 기대 조건",
@@ -555,6 +523,38 @@
       "note": "2026-10-29 酒井 2024 J-STAGE 초록(お見送り를 이별 미루기로 다룸) 더함. J-STAGE 의 訪問看護(sagj 20/1), グリーン・ツーリズム(rlsj 70/1) 등은 PDF 뿐. Frontiers fnhum.2015.00186 은 해리 포터 인용이라 뺌",
       "createdAt": "2026-10-29T09:29:47.276Z",
       "seq": 2676
+    },
+    {
+      "id": "1df318a9",
+      "title": "health-anxiety 보강: 안심 구하기 하위 현상",
+      "priority": 50,
+      "note": "2026-10-29 몰리에르 1673 더함. 후보: koreascience JAKO202332157265001 전요섭 2023 별칭 목록(건강불안, 질병불안장애), kormedi 1282872 2019 소화불량을 위암으로 의심, seoul.co.kr 20240319021002 여러 병원 전전 대목. reassurance seeking 하위 현상 후보",
+      "createdAt": "2026-10-29T12:36:30.624Z",
+      "seq": 2684
+    },
+    {
+      "id": "1df92c5a",
+      "title": "self-serving-justification 보강: 한국어 파편, 하위 현상",
+      "priority": 50,
+      "note": "2026-10-29 후보: psychologytoday 202008 six-common-ways-people-justify-unethical-behavior (애매한 방역 지침을 원하는 대로 해석), ideas.repec.org judgdm v4y2009i6p467-474 Larson Capra 2009 moral wiggle room, Batson 1997 moral hypocrisy 는 별개 현상 후보. 한국어 매체 파편 미발견",
+      "createdAt": "2026-10-29T12:42:33.041Z",
+      "seq": 2685
+    },
+    {
+      "id": "b409667d",
+      "title": "talking-to-animals 보강: 공공 파편, talking-to-oneself 관계",
+      "priority": 50,
+      "note": "2026-10-29 HuffPost UK 2019-03-20 Rotary 27% 더함(매체). 공공 파편 없음. 후보 news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 대화증가 대상 불분명. 혼잣말을 잇는 대목 못 찾음",
+      "createdAt": "2026-10-29T12:54:02.225Z",
+      "seq": 2686
+    },
+    {
+      "id": "14610f13",
+      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계",
+      "priority": 50,
+      "note": "2026-10-29 fnnews 202609250701431740 봉안당 기사 더함. 관계 후보: brunch @logincj/3 (2025-11-28) 속으로 어머니에게 말 걸고 바람 소리를 대답처럼 느낌, jjan.kr 20240202580017 어린이 글(글쓴이 미성년 실명이 페이지에 있어 서지 처리 주의)",
+      "createdAt": "2026-10-29T12:59:19.010Z",
+      "seq": 2687
     },
     {
       "id": "d16898d2",
