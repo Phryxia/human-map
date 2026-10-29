@@ -12,9 +12,9 @@
 
 2018년 5월 게시글[^4]의 글쓴이인 콜센터 상담사는 욕설하는 고객에게는 공감이나 배려의 표현이 쉽게 나오지 않는다고 썼다. 2018년 기사[^5]의 기자는 음식 배달이 늦어 콜센터에 짜증을 퍼부었을 때 상담사가 다 듣고 나서 불편을 드려 죄송하다고 말했다고 썼다. 2019년 4월 게시글[^6]의 글쓴이는 상담 일을 참고 또 참으며 하다가 끝내 상담직을 떠나기로 했다.
 
-2019년 연구에서 고객 앞의 표면 행위는 인구 특성, 업무 요구, 부정 정서를 통제한 뒤에도 과음과 관련이 있었다. 저자들은 이 관련을 자기 통제가 약해진 탓으로 설명한다.[^7]
+2019년 연구에서 고객 앞의 표면 행위는 인구 특성, 업무 요구, 부정 정서를 통제한 뒤에도 과음과 관련이 있었다. 저자들은 이 관련을 자기 통제가 약해진 탓으로 설명한다.[^7] 2020년 Sayre 등[^8]의 일기 연구에서 표면 행위는 감정 요구가 높은 사람에게서만 그 뒤의 음주를 직접 늘렸다.
 
-2020년 게시글[^8]의 글쓴이인 고객센터 상담사는 고객에게 해 줄 수 있는 일이 없어 빌고 사과하고 욕을 먹고 고함을 듣는 역할만 남는다고 썼다.
+2020년 게시글[^9]의 글쓴이인 고객센터 상담사는 고객에게 해 줄 수 있는 일이 없어 빌고 사과하고 욕을 먹고 고함을 듣는 역할만 남는다고 썼다.
 
 # 관계
 
@@ -32,7 +32,7 @@
 
 ## 결과
 
-없음.
+- [과음](heavy-drinking.md)[^8]
 
 ## 대립
 
@@ -47,4 +47,5 @@
 [^5]: [매체] "대꾸를 안하던 상담사는 다 듣더니 “불편 드려서 죄송하다” 했다." — 남형도, 「수화기 너머 낯선 남자의 욕설, 심장이 떨렸다[남기자의 체헐리즘]」, 머니투데이, 2018-11-10, https://www.mt.co.kr/society/2018/11/10/2018110813513182333, 2026-10-24 접속
 [^6]: [SNS] "참고 참고 일하다가 이러다가 사람을 죽이든 내가 죽든 하겠다 싶어 결국 곧 상담직을 떠납니다." — 네이트판 게시글, 2019-04-25, https://pann.nate.com/talk/346250344, 2026-10-26 접속
 [^7]: [학술] "Overall, surface acting was robustly related to heavy drinking, even after controlling for demographics, job demands, and negative affectivity, consistent with an explanation of impaired self-control." (전체적으로 표면 행위는 인구 특성, 업무 요구, 부정 정서를 통제한 뒤에도 과음과 뚜렷하게 관련되었고, 이는 자기 통제 손상이라는 설명과 맞는다.) — A. A. Grandey, M. R. Frone, R. C. Melloy, G. M. Sayre, 「When are fakers also drinkers? A self-control view of emotional labor and alcohol consumption among U.S. service workers」, Journal of Occupational Health Psychology 24(4), 2019-08, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30829513&rettype=abstract&retmode=text, 2026-10-23 접속
-[^8]: [SNS] "뭐라도 할 수 있다면 고객님들께 당당히 말씀을 드릴 수 있을텐데 그것도 아니니 그저 빌고, 사과드리고, 욕먹고, 소리지르는거 듣는 역할밖에 없게 됩니다" — 네이트판 게시글, 2020-08-22, https://pann.nate.com/talk/353662108, 2026-10-25 접속
+[^8]: [학술] "Study 2 demonstrated that surface acting directly increased subsequent drinking only for those with high emotional demands, but not through depletion." (연구 2는 표면 행위가 감정 요구가 높은 사람에게서만 그 뒤의 음주를 직접 늘렸고 고갈을 거친 경로는 아니었음을 보였다.) — Gordon M. Sayre, Alicia A. Grandey, Nai-Wen Chi, "From cheery to 'cheers'? Regulating emotions at work and alcohol consumption after work", Journal of Applied Psychology 105(6), 597-618, 2020-06, https://pubmed.ncbi.nlm.nih.gov/31556628/, 2026-10-29 접속
+[^9]: [SNS] "뭐라도 할 수 있다면 고객님들께 당당히 말씀을 드릴 수 있을텐데 그것도 아니니 그저 빌고, 사과드리고, 욕먹고, 소리지르는거 듣는 역할밖에 없게 됩니다" — 네이트판 게시글, 2020-08-22, https://pann.nate.com/talk/353662108, 2026-10-25 접속
