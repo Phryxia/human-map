@@ -7844,15 +7844,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24994650&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.scrippsnews.com/science-and-tech/the-weirdest-health-studies-of-2014": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/2863/pg2863-images.html": {
     "first": "2026-10-23",
@@ -7982,9 +7982,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35787636&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://pann.nate.com/talk/364783996": {
     "first": "2026-10-23",
@@ -8726,21 +8726,21 @@
   },
   "https://www.gutenberg.org/cache/epub/18269/pg18269.txt": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://psmag.com/social-justice/really-dont-like-alone-thoughts-84969/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.wkorea.com/2025/12/21/%ED%98%BC%EC%9E%90-%EC%9E%88%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%AA%BB-%EA%B2%AC%EB%94%94%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%ED%8A%B9%EC%A7%95-3/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.tcd.ie/news_events/articles/sensing-the-dead-is-perfectly-normal--and-often-helpful/": {
     "first": "2026-10-23",
@@ -13415,6 +13415,18 @@
     "lastVerified": "2026-10-29"
   },
   "https://news.cancerresearchuk.org/2003/05/10/survey-shows-most-people-ignore-sun-safety-advice-despite-fears-of-skin-cancer/": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://vindyarchives.com/news/2014/jul/04/study-being-alone-with-your-thoughts-is-": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.psychologytoday.com/us/blog/the-engaged-mind/202308/the-boredom-of-solitude": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
