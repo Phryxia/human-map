@@ -1,14 +1,16 @@
 # 좋게 보이는 행동 부풀려 답하기
 
-별칭: social desirability response bias[^1]
+별칭: social desirability response bias[^3]
 
 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
 
 # 서술
 
-2018년 연구[^1]의 저자들은 응답자가 사회가 좋게 보는 행동은 체계적으로 많이, 나쁘게 보는 행동은 체계적으로 적게 보고한다는 실증 근거가 있다고 쓴다.
+2014년 1월 블로그 글[^1]의 저자는 출입이 기록되는 줄 알면서도 사람들이 실제보다 훨씬 자주 체육관에 간다고 답했다고 전한다. 2014년 2월 블로그 글[^2]은 투표를 사회가 좋게 보기 때문에 사람들이 평균적으로 투표하지 않고도 투표했다고 답하는 경향이 있다고 적는다.
 
-2026년 질병관리청 발표[^2]에서 공중화장실 출구조사 응답자의 51.2%는 평소 올바르게 손을 씻는다고 답했다. 같은 조사의 관찰에서 비누로 손을 씻은 사람 가운데 30초 이상 씻은 사람은 11.4%였다.[^2]
+2018년 연구[^3]의 저자들은 응답자가 사회가 좋게 보는 행동은 체계적으로 많이, 나쁘게 보는 행동은 체계적으로 적게 보고한다는 실증 근거가 있다고 쓴다.
+
+2026년 질병관리청 발표[^4]에서 공중화장실 출구조사 응답자의 51.2%는 평소 올바르게 손을 씻는다고 답했다. 같은 조사의 관찰에서 비누로 손을 씻은 사람 가운데 30초 이상 씻은 사람은 11.4%였다.[^4]
 
 # 관계
 
@@ -34,5 +36,7 @@
 
 #마음 #건강
 
-[^1]: [학술] "Empirical evidence suggests that respondents systematically overreport socially desirable behaviors and systematically underreport socially undesirable behaviors." (실증 근거는 응답자가 사회적으로 바람직한 행동은 체계적으로 과대 보고하고 바람직하지 않은 행동은 체계적으로 과소 보고함을 시사한다.) — D. Poltavski, R. Van Eck, A. T. Winger, C. Honts, 「Using a Polygraph System for Evaluation of the Social Desirability Response Bias in Self-Report Measures of Aggression」, Applied Psychophysiology and Biofeedback 43(4), 2018-12, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30191358&rettype=abstract&retmode=text, 2026-10-27 접속
-[^2]: [공공] "출구조사에서는 ‘평소 올바른 손씻기를 실천’한다고 응답한 비율이 51.2%였으나, 실제 관찰조사에서 비누를 사용해 손을 씻은 사람 중 ‘30초 이상 올바르게 손을 씻은 비율’은 11.4%에 그쳤다." — 질병관리청, 「2026년 상반기 감염병 예방행태 실태조사 결과 발표」, 2026-10-15, https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do, 2026-10-27 접속
+[^1]: [매체] "Even though people knew their access was recorded, they still claimed to go to the gym much more frequently than they did." (사람들은 출입이 기록된다는 것을 알면서도 실제보다 훨씬 자주 체육관에 간다고 주장했다.) — Laura Vanderkam, 「Guess what? We don't exercise as much as we think」, lauravanderkam.com, 2014-01-10, https://lauravanderkam.com/2014/01/guess-what-exercise/, 2026-10-29 접속
+[^2]: [매체] "Specifically, because voting is seen as socially desirable, people on average tend to over-report turnout – in other words, say they have voted when they have not." (구체적으로, 투표는 사회적으로 바람직하게 여겨지기 때문에 사람들은 평균적으로 투표 참여를 과대 보고하는 경향이 있다. 곧 투표하지 않았을 때도 투표했다고 말한다.) — Doug Chapin, 「New Pew Dispatch Examines Research on Over-Reporting of Turnout in Surveys」, Election Academy, 2014-02-24, https://electionacademy.lib.umn.edu/2014/02/24/new-pew-dispatch-examines-new, 2026-10-29 접속
+[^3]: [학술] "Empirical evidence suggests that respondents systematically overreport socially desirable behaviors and systematically underreport socially undesirable behaviors." (실증 근거는 응답자가 사회적으로 바람직한 행동은 체계적으로 과대 보고하고 바람직하지 않은 행동은 체계적으로 과소 보고함을 시사한다.) — D. Poltavski, R. Van Eck, A. T. Winger, C. Honts, 「Using a Polygraph System for Evaluation of the Social Desirability Response Bias in Self-Report Measures of Aggression」, Applied Psychophysiology and Biofeedback 43(4), 2018-12, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30191358&rettype=abstract&retmode=text, 2026-10-27 접속
+[^4]: [공공] "출구조사에서는 ‘평소 올바른 손씻기를 실천’한다고 응답한 비율이 51.2%였으나, 실제 관찰조사에서 비누를 사용해 손을 씻은 사람 중 ‘30초 이상 올바르게 손을 씻은 비율’은 11.4%에 그쳤다." — 질병관리청, 「2026년 상반기 감염병 예방행태 실태조사 결과 발표」, 2026-10-15, https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do, 2026-10-27 접속
