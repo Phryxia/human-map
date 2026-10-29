@@ -2104,9 +2104,9 @@
   },
   "https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/36765": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://kbmaeil.com/article/202212130350283": {
     "first": "2026-10-18",
@@ -7904,15 +7904,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30951804&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.cbsnews.com/losangeles/news/study-finds-the-many-streaming-choices-overwhelm-audiences-steering-some-to-turn-the-tv-off/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.coglode.com/research/zeigarnik-effect": {
     "first": "2026-10-23",
@@ -7958,9 +7958,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=28527101&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42008152&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8828,27 +8828,27 @@
   },
   "https://www.gutenberg.org/cache/epub/1661/pg1661.txt": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://digitalchosun.dizzo.com/site/data/html_dir/2018/01/22/2018012210787.html": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.clien.net/service/board/park/19199735": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gqkorea.co.kr/?p=391926": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-10-29"
   },
   "https://www.spring.org.uk/2021/06/zeigarnik-effect.php": {
     "first": "2026-10-23",
@@ -11948,15 +11948,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12555797&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://sports.khan.co.kr/article/201908210700003": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-29"
   },
   "https://www.healthday.com/health-news/mental-health/women-should-let-the-fur-fly-505530.html": {
     "first": "2026-10-27",
@@ -13014,6 +13014,12 @@
     "lastVerified": "2026-10-29"
   },
   "https://griefline.org.au/online-forums/topic/guilt-following-euthanasia-of-elderly-dog/": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16525169&rettype=abstract&retmode=text": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
