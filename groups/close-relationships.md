@@ -15,6 +15,7 @@
 - [남의 사적인 기록 몰래 보기](../docs/reading-others-private-writing.md) 가족이나 연인처럼 가까이 지내는 사람의 일기, 편지, 메시지 같은 사적인 기록을 그 사람 몰래 읽는다.
   - [연인의 휴대폰 몰래 보기](../docs/snooping-on-partners-phone.md)
 - [내가 죽으면 다들 미안해하리라는 상상](../docs/imagining-others-sorry-at-own-death.md) 서운하거나 억울한 사람이 자기가 죽은 뒤 주변 사람들이 놀라고 슬퍼하고 미안해하는 모습을 상상한다.
+- [노후에 자녀와 따로 살기 바라기](../docs/wanting-to-live-apart-from-children.md) 나이 든 사람이 자녀와 한집에 살기보다 따로 살기를 바란다.
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
   - [돈 빌려 달라는 말 꺼내기 부끄러워하기](../docs/shame-asking-to-borrow-money.md)
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)

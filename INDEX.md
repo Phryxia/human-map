@@ -78,6 +78,7 @@
 - [노력이 소용없다는 생각](docs/feeling-ones-effort-makes-no-difference.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [노스탤지어](docs/nostalgia.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [노후 준비 미루기](docs/delaying-retirement-saving.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [노후에 자녀와 따로 살기 바라기](docs/wanting-to-live-apart-from-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [녹음된 자기 목소리 싫어하기](docs/disliking-recorded-own-voice.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [논밭두렁과 영농부산물 태우기](docs/burning-farm-waste.md) ([건강과 위험](groups/health-and-safety.md))
 - [높은 곳에서 뛰어내리고 싶은 충동](docs/urge-to-jump-from-heights.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))

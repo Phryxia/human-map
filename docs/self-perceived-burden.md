@@ -33,6 +33,7 @@
 ## 결과
 
 - [도움 요청 회피](help-seeking-avoidance.md)[^4]
+- [노후에 자녀와 따로 살기 바라기](wanting-to-live-apart-from-children.md)[^6]
 
 ## 대립
 
