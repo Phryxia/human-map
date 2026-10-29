@@ -4419,15 +4419,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10988380/": {
     "first": "2026-10-20",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.cdc.gov/mmwr/volumes/75/wr/mm7519a2.htm": {
     "first": "2026-10-20",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://news.ycombinator.com/item?id=13811411": {
     "first": "2026-10-20",
@@ -4767,21 +4767,21 @@
   },
   "https://bizhankook.com/articles/7985.html": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://www.cancer.gov/news-events/cancer-currents-blog/2015/no-sunscreen": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8520879/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/33504": {
     "first": "2026-10-20",
@@ -4845,9 +4845,9 @@
   },
   "https://www.advdermatology.com/blog/sun-safety-2022/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC1730748/": {
     "first": "2026-10-20",
@@ -5031,15 +5031,15 @@
   },
   "https://hbw.pharmaintelligence.informa.com/RS009184/Sunscreen-study": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://www.newswise.com/articles/using-sunscreen-correctly-is-the-key-to-avoiding-sunburn": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://christianitytoday.com/2023/09/mansaf-jordan-funeral-lunch-christians-protest-cost": {
     "first": "2026-10-20",
@@ -12859,9 +12859,9 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/8376674/": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.gutenberg.org/cache/epub/161/pg161-images.html#chap49": {
     "first": "2026-10-29",
@@ -13349,6 +13349,18 @@
     "result": "UNREACHABLE"
   },
   "https://ncc.re.kr/prBoardView1.ncc?nwsId=781": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/12507347/": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://geniet.co.kr/community/freetalk/10041166": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
