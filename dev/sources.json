@@ -695,21 +695,21 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4351276/": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://medigatenews.com/news/2939195191": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://www.mpib-berlin.mpg.de/press-releases/medical-information-avoidance": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://www.nbcnews.com/id/wbna47313799": {
     "first": "2026-10-17",
@@ -749,9 +749,9 @@
   },
   "https://www.fnnews.com/news/202603121601547430": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20240229": {
     "first": "2026-10-17",
@@ -5342,9 +5342,9 @@
   },
   "https://www.healthcaredive.com/news/high-costs-narrow-networks-drive-insured-patients-to-ed/408071/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-29"
   },
   "https://www.ajmc.com/view/when-routine-care-is-out-of-reach-latino-adults-end-up-in-the-emergency-department": {
     "first": "2026-10-20",
@@ -13332,6 +13332,23 @@
     "lastVerified": "2026-10-29"
   },
   "https://www.clien.net/service/board/park/19175742": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/16963194/": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://www.clien.net/service/board/park/17696953": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "UNREACHABLE"
+  },
+  "https://ncc.re.kr/prBoardView1.ncc?nwsId=781": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
