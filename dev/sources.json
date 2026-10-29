@@ -8084,9 +8084,9 @@
   },
   "https://www.gutenberg.org/cache/epub/45/pg45-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www150.statcan.gc.ca/n1/pub/75-001-x/2008106/article/10639-eng.htm": {
     "first": "2026-10-23",
@@ -11288,21 +11288,21 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7972600&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://www.imaeil.com/page/view/2007110117412698258": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://brunch.co.kr/@syul2/73": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-10-29",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-29"
   },
   "https://api.osf.io/v2/preprints/9v7aq/": {
     "first": "2026-10-26",
@@ -13457,6 +13457,12 @@
     "lastVerified": "2026-10-29"
   },
   "https://m.news.nate.com/view/20260311n31991": {
+    "first": "2026-10-29",
+    "last": "2026-10-29",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-29"
+  },
+  "https://news.ycombinator.com/item?id=29260892": {
     "first": "2026-10-29",
     "last": "2026-10-29",
     "result": "VERIFIED",
