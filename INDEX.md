@@ -136,6 +136,7 @@
 - [미루기](docs/procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [미어캣 효과](docs/meerkat-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [반려견 목줄 풀어 두기](docs/walking-dog-off-leash.md) ([건강과 위험](groups/health-and-safety.md))
+- [반려동물 안락사 뒤 죄책감](docs/pet-euthanasia-guilt.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [반려동물을 잃은 슬픔](docs/pet-loss-grief.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [반응 없는 게시물 지우기](docs/deleting-posts-with-few-reactions.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [반추](docs/rumination.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))

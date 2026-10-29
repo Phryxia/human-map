@@ -11,6 +11,7 @@
 - [등교 거부](../docs/school-refusal.md) 학생이 친구 관계나 괴롭힘 같은 학교 안의 어려움으로 학교에 가기를 꺼리고 집에 머문다.
 - [물건에 이름 붙이고 사람처럼 대하기](../docs/treating-objects-as-companions.md) 사람이 오래 쓰거나 곁에 두는 물건에 이름을 붙이고 사람이나 동물을 대하듯 대한다.
 - [반려동물을 잃은 슬픔](../docs/pet-loss-grief.md) 반려동물이 죽거나 사라진 뒤 그 동물과 함께 살던 사람이 상실감과 슬픔을 겪는다.
+  - [반려동물 안락사 뒤 죄책감](../docs/pet-euthanasia-guilt.md)
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
