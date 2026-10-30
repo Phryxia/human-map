@@ -4221,21 +4221,21 @@
   },
   "https://www.gutenberg.org/cache/epub/1400/pg1400-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.opinium.com/avoiding-awkward-situations/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.munhwa.com/article/11592115": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://talkerresearch.com/is-keeping-your-home-tidy-harder-than-your-9-to-5/": {
     "first": "2026-10-19",
@@ -13529,6 +13529,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://steamcommunity.com/discussions/forum/12/640179866666271450/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.gutenberg.org/cache/epub/6053/pg6053-images.html": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
