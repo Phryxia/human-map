@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-30T12:37:56.512Z",
-  "nextSeq": 2846,
-  "stops": 145,
+  "savedAt": "2026-10-30T15:38:38.153Z",
+  "nextSeq": 2890,
+  "stops": 146,
   "items": [
-    {
-      "id": "b409667d",
-      "title": "talking-to-animals 보강: 공공 파편, talking-to-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-29 HuffPost UK 2019-03-20 Rotary 27% 더함(매체). 공공 파편 없음. 후보 news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 대화증가 대상 불분명. 혼잣말을 잇는 대목 못 찾음",
-      "createdAt": "2026-10-29T12:54:02.225Z",
-      "seq": 2686
-    },
     {
       "id": "6cc9b41f",
       "title": "staying-in-job-for-health-insurance 보강: 원인 간선",
@@ -29,52 +21,12 @@
       "seq": 2702
     },
     {
-      "id": "523857be",
-      "title": "medical-care-avoidance 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-29 후보 clien park/17696953 (2022-11-09 게시글, 암이라고 할까 봐 겁나서 대장 검사 못 함) 은 이 환경에서 403. 다른 후보 clien park/19090464 (2025-11-06 '내가 건강검진을 하지 않는 이유'). 공공 대체 후보 ncc.re.kr nwsId=4335 (2018-12-28, [^5] 메디게이트 기사의 원 보도자료)",
-      "createdAt": "2026-10-29T18:23:08.542Z",
-      "seq": 2707
-    },
-    {
       "id": "94b4e27c",
       "title": "daytime-napping 보강: 낮잠 뒤 더 피곤함, guilt-about-resting 관계",
       "priority": 50,
       "note": "2026-10-29 계절 조건은 korea.kr 148850695 [^6] 로 더함. 남은 후보: clien park/19276407 (2026-10-12 낮잠은 오히려 더 피곤, 이 환경에서 clien 403 일 수 있음). 1993 서울신문 [^1] 게으름 시선과 guilt-about-resting 관계 근거 미탐색",
       "createdAt": "2026-10-29T18:33:32.704Z",
       "seq": 2711
-    },
-    {
-      "id": "fe7b14ee",
-      "title": "loneliness 보강: 아동 지루함→외로움 종단 파편",
-      "priority": 50,
-      "note": "2026-10-29 Grygiel 외 2026-05-31 PMC13298037 'higher boredom at T1 predicted higher loneliness at T2' 아동 4333명 2년. boredom 원인 간선 근거 보강용",
-      "createdAt": "2026-10-29T21:10:15.847Z",
-      "seq": 2723
-    },
-    {
-      "id": "d8926983",
-      "title": "boredom 보강: 지루해서 스스로 고통 주기 학술 파편",
-      "priority": 50,
-      "note": "2026-10-29 Nederkoorn 외 2016 PMID 26847946 지루함 조건에서 충격 더 많이·세게(슬픔 조건은 아님). Fox 외 2014 Frontiers fpsyg.2014.01427 18명 중 4명이 충격 이유로 지루함",
-      "createdAt": "2026-10-29T21:10:15.973Z",
-      "seq": 2724
-    },
-    {
-      "id": "d3ba18fc",
-      "title": "wishcycling 보강: not-sorting-recyclables 관계, 공공 비율 파편",
-      "priority": 50,
-      "note": "2026-10-29 1992 Seattle Times 독자 편지 더함. 후보 WRAP Recycling Tracker Winter 2021 (2022-07-19) wrap.ngo/resources/report/recycling-tracker-report-winter-2021 '87% dispose of an item in the recycling that is not accepted', 57% 재활용 기회 놓침(두 실수 나란히, 인과·대립 근거 아님). 1993-01-24 Seattle Times 'When in doubt, throw it out'",
-      "createdAt": "2026-10-29T21:21:21.442Z",
-      "seq": 2725
-    },
-    {
-      "id": "2974eff7",
-      "title": "reading-the-ending-first 보강: 장편 연재 결말 미리 보기 결과",
-      "priority": 50,
-      "note": "2026-10-29 IJOC 2024 Brookes 외 더함. 후보 Ellithorpe, Brookes 2018 Psychology of Popular Media Culture 7(3) doi 10.1037/ppm0000134 스포일러 노출이 마지막 회 즐거움을 늘리고 parasocial breakup distress 를 줄임(ovid 페이지, 같은 연구진)",
-      "createdAt": "2026-10-29T21:25:57.778Z",
-      "seq": 2726
     },
     {
       "id": "03c2da3c",
@@ -285,14 +237,6 @@
       "seq": 2816
     },
     {
-      "id": "cf6b73e4",
-      "title": "dreams-of-the-deceased 보강: 2000년 이전 학술",
-      "priority": 50,
-      "note": "2026-10-30 지식iN 2026-09 SNS 더함(산소 다녀온 뒤 꿈). 2000년 이전 학술 파편 아직 없음",
-      "createdAt": "2026-10-30T09:32:32.174Z",
-      "seq": 2817
-    },
-    {
       "id": "8513b0c7",
       "title": "overreporting-desirable-behavior 보강: SNS 파편",
       "priority": 50,
@@ -389,44 +333,148 @@
       "seq": 2840
     },
     {
-      "id": "5d502390",
-      "title": "not-drinking-tap-water 보강: SNS 파편, 수질 사고 뒤 불신",
+      "id": "b517ac1e",
+      "title": "talking-to-animals 보강: talking-to-oneself 관계",
       "priority": 50,
-      "note": "2026-10-30 후보 mediahub 2001025 (2021-03-24 시민기자, 녹물·유충 뉴스 뒤 불신, 매체), Rosinger 2021 같은 페이지 플린트 전후 비율(한 출처 한 파편), 2010 서울신문 아리수 조사 m.go.seoul.co.kr/news/2010/01/29/20100129026016 막연한 불안감 29.6% 미확인",
-      "createdAt": "2026-10-30T12:25:34.776Z",
-      "seq": 2841
+      "note": "2026-10-30 INRAE [^13] 가 공공 파편이라 공공 보강은 끝남. 혼잣말과 상위·원인으로 잇는 원문 다시 못 찾음. Bustle 2017-04-05 'sign of intelligence, as is talking to yourself' 는 나란히 놓았을 뿐 간선 근거 아님",
+      "createdAt": "2026-10-30T15:10:24.275Z",
+      "seq": 2870
     },
     {
-      "id": "e6325861",
-      "title": "forgetting-reusable-bags 보강: 텀블러 사 모으기, SNS 파편",
+      "id": "c0c545e4",
+      "title": "wishcycling 보강: not-sorting-recyclables 관계",
       "priority": 50,
-      "note": "2026-10-30 후보 WRAP 같은 글 'forgetting to take bags from home' 이유(한 출처 한 파편), heraldk 2026031201400032217 텀블러 수집 목적(미열람), committees.parliament.uk writtenevidence 47293 (Cloudflare 막힘)",
-      "createdAt": "2026-10-30T12:28:52.630Z",
-      "seq": 2842
+      "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음",
+      "createdAt": "2026-10-30T15:14:23.276Z",
+      "seq": 2871
     },
     {
-      "id": "a0869b1b",
-      "title": "escalator-one-line-standing 보강: 학술·SNS 파편, TfL Holborn 실험",
+      "id": "7177db56",
+      "title": "reading-the-ending-first 보강: 장편 연재 결말 미리 보기 결과",
       "priority": 50,
-      "note": "2026-10-30 tfl.gov.uk 403 봇 확인. 후보 mediahub 819416 (2014-11-17) '사람들이 잘 안 지키는 것이 에스컬레이터 승차 시 두 줄로 서서 타기다' 미확인. 2026 행안부 원 보도자료 못 찾음",
-      "createdAt": "2026-10-30T12:33:09.926Z",
-      "seq": 2843
+      "note": "2026-10-30 Ellithorpe, Brookes 2018 PPMC 7(3) doi 10.1037/ppm0000134 초록 원문 못 찾음(검색 결과는 인용 목록뿐). inverse.com 57735 (2019-07-25) 는 스포일러 언급 없음",
+      "createdAt": "2026-10-30T15:14:47.333Z",
+      "seq": 2872
     },
     {
-      "id": "a0e05a42",
-      "title": "tossing-cigarette-butts 보강: SNS·매체 파편",
+      "id": "fa462a66",
+      "title": "underestimating-compliance 보강: help-seeking-avoidance 원인 간선, 비영어 파편",
       "priority": 50,
-      "note": "2026-10-30 후보 PMC3397372 같은 초록 55.7% 지난달 땅·하수구 투기(한 출처 한 파편), keepbritaintidy.org/cigarette-butts-are-rubbish (발행일 미상, 쓰레기통 없을 때). '11% of smokers do not consider cigarette butts to be litter' 원 출처 미확인",
-      "createdAt": "2026-10-30T12:36:28.193Z",
-      "seq": 2844
+      "note": "2026-10-30 Flynn·Lake 2008, Bohns 2016, NPR 2020 로 추가. 과소평가 때문에 도움을 청하지 않는다는 인과 원문 아직 없음. 후보 ecommons 9c0adbfb (Flynn·Bohns 2008 초록), scienceblog.com 14,000 strangers 글",
+      "createdAt": "2026-10-30T15:16:07.761Z",
+      "seq": 2873
     },
     {
-      "id": "fd5f374d",
-      "title": "skipping-handwashing 보강: SNS 파편, 응답과 관찰 행동 차이",
+      "id": "90bc424e",
+      "title": "leaving-messages-on-read 보강: waiting-for-a-reply·delaying-message-replies 관계, SNS 파편",
       "priority": 50,
-      "note": "2026-10-30 kdca 312943 [^6] 같은 페이지에 '평소 올바른 손씻기 실천' 응답 51.2% 대 관찰 11.4%(한 출처 한 파편이라 못 씀). 후보 korea.kr 148797533 (2015-07-02, 원문 %% 오타), kbmaeil 201210160048198 (2012, 원문 백틱)",
-      "createdAt": "2026-10-30T12:37:45.411Z",
-      "seq": 2845
+      "note": "2026-10-30 fnnews 2011, Akyüz 2026, 주간경향 2026 로 추가. 후보 Kato 외 2020 IJTHI 16(1) econpapers RePEc:igg:jthi00:v:16:y:2020:i:1:p:36-53 '읽음 상태 메시지의 답을 기다릴 때 부정 감정이 더 빨리 생김'(waiting-for-a-reply 결과 근거 후보), Chou 외 CHI 2022 받는 쪽 이유 8유형",
+      "createdAt": "2026-10-30T15:21:52.897Z",
+      "seq": 2875
+    },
+    {
+      "id": "a1fd94d6",
+      "title": "isolation-after-driving-cessation 보강: delaying-driving-cessation 관계, 우울 파편",
+      "priority": 50,
+      "note": "2026-10-30 Qin 외 2019, CWRU 2019, 브라보마이라이프 2026 로 추가. 후보 Chihuri 외 2016 JAGS PMID 26780879 'driving cessation almost doubled the risk of depressive symptoms', 고립이 두려워 운전을 그만두지 못한다는 원문은 아직 없음",
+      "createdAt": "2026-10-30T15:23:56.036Z",
+      "seq": 2876
+    },
+    {
+      "id": "fdb989f1",
+      "title": "answering-unknown-calls-silently 보강: 학술·공공 파편, 보이스피싱 경계 원인",
+      "priority": 50,
+      "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 위키트리는 스팸·보이스피싱 경계심을 원인으로 듦(phishing 관련 문서 생기면 원인 간선 후보). not-answering-unknown-numbers 와 관계 근거 없음",
+      "createdAt": "2026-10-30T15:26:48.474Z",
+      "seq": 2877
+    },
+    {
+      "id": "dbdc06ee",
+      "title": "leisure-sickness 보강: 한국어·SNS 파편, 업무 부담 조건",
+      "priority": 50,
+      "note": "2026-10-30 Ferenczi 1926, Vingerhoets 2002, patient.info 2018 로 추가. Vingerhoets 초록은 업무량·책임감·쉬지 못함을 위험 요인으로 듦(서술 문단 후보). sunday-night-dread 와 구별",
+      "createdAt": "2026-10-30T15:28:19.526Z",
+      "seq": 2878
+    },
+    {
+      "id": "cfa3bfb4",
+      "title": "dreams-of-the-deceased 보강: 2000년 이전 학술",
+      "priority": 50,
+      "note": "2026-10-30 PubMed 1950~2000 'dreams of the dead', bereavement dreams 검색 무소득. Parkes 1970 Psychiatry 33(4) PMID 5275840 은 초록 없음. Barrett 1992 Omega 'Through a glass darkly' 원문 접근 경로 찾을 것",
+      "createdAt": "2026-10-30T15:30:48.141Z",
+      "seq": 2880
+    },
+    {
+      "id": "9c45ec0d",
+      "title": "not-drinking-tap-water 보강: 수질 사고 뒤 불신 매체 파편",
+      "priority": 50,
+      "note": "2026-10-30 HN 44212724 (2025-06-07) SNS 더함. 남은 후보 mediahub 2001025 (2021-03-24 녹물·유충 뉴스 뒤 불신), 2010 서울신문 아리수 조사 20100129026016",
+      "createdAt": "2026-10-30T15:31:33.250Z",
+      "seq": 2881
+    },
+    {
+      "id": "20a73f7c",
+      "title": "tossing-cigarette-butts 보강: 매체 파편",
+      "priority": 50,
+      "note": "2026-10-30 HN 18832120 (2019-01-05) SNS 더함. 같은 댓글에 재떨이 달린 쓰레기통이 늘자 꽁초가 크게 줄었다는 조건(한 출처 한 파편). keepbritaintidy.org/cigarette-butts-are-rubbish 후보",
+      "createdAt": "2026-10-30T15:33:00.616Z",
+      "seq": 2882
+    },
+    {
+      "id": "94a765e3",
+      "title": "escalator-one-line-standing 보강: 학술 파편, TfL Holborn 실험",
+      "priority": 50,
+      "note": "2026-10-30 HN 2222503 (2011-02-15) SNS 더함. HN 10916873 (2016-01-16) 아르헨티나 혼잡 시간대에는 두 줄 서기(조건 후보). tfl.gov.uk 봇 확인. mediahub 819416 은 발행일이 페이지에 없음",
+      "createdAt": "2026-10-30T15:34:15.150Z",
+      "seq": 2883
+    },
+    {
+      "id": "412a07c5",
+      "title": "forgetting-reusable-bags 보강: 텀블러 사 모으기",
+      "priority": 50,
+      "note": "2026-10-30 HN 39251899 (2024-02-04) SNS 더함. 후보 heraldk 2026031201400032217 텀블러 수집 목적(미열람)",
+      "createdAt": "2026-10-30T15:34:56.309Z",
+      "seq": 2884
+    },
+    {
+      "id": "b0899688",
+      "title": "benign-envy 보강: 문학 파편, 1980년대 이전 시기",
+      "priority": 50,
+      "note": "2026-10-30 van de Ven 2009, 2015, 코메디닷컴 2021, HN 2023 로 채움. 후보 Salerno 외 2019 JCR 'The Bad Can Be Good', 일본 학생 종단 연구 trait benign envy → 시험 점수",
+      "createdAt": "2026-10-30T15:37:57.065Z",
+      "seq": 2885
+    },
+    {
+      "id": "5b002270",
+      "title": "people-pleasing 보강: 한국어·다른 시기 파편, difficulty-saying-no 관계",
+      "priority": 50,
+      "note": "2026-10-30 Psyche 2023, Kuang 2025, HN 2026 로 채움. Kuang 'These students may struggle to decline requests due to fears of social isolation, a desire for approval' 는 거절 어려움의 원인을 인정 욕구로 말함. 2010년 이전 파편 없음",
+      "createdAt": "2026-10-30T15:37:57.222Z",
+      "seq": 2886
+    },
+    {
+      "id": "9fb81566",
+      "title": "treatment-burden 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-10-30 서울신문 2014, Tran 외 2015, HN 2023 로 채움. Tran 초록은 부담의 결과로 poor adherence 를 듦",
+      "createdAt": "2026-10-30T15:37:57.348Z",
+      "seq": 2887
+    },
+    {
+      "id": "b1e1a13e",
+      "title": "intergroup-schadenfreude 보강: 문학·한국어 파편",
+      "priority": 50,
+      "note": "2026-10-30 Cikara 외 2011, NPR 2018 로 추가. 이광수 「이차돈의 사」 위키문헌 action=raw 의 '고소하기도 하였다' 대목은 처녀들이 달님을 시기해 고소해하는 것이라 집단 간이 아님(malicious-envy·schadenfreude 문학 파편 후보). Cikara·Fiske 2013 'inter-group schadenfreude' 별칭 근거",
+      "createdAt": "2026-10-30T15:38:16.927Z",
+      "seq": 2888
+    },
+    {
+      "id": "de8b4d2a",
+      "title": "malicious-envy 보강: 이광수 「이차돈의 사」 문학 파편",
+      "priority": 50,
+      "note": "2026-10-30 위키문헌 이차돈의_사 action=raw: 처녀들이 달님을 '일변 부럽기도 하고 일변 밉기도 하였다. 그러나 내일 아침이면 달님이 크게 경을 치리라 하면 고소하기도 하였다'. schadenfreude 원인 간선 근거 후보",
+      "createdAt": "2026-10-30T15:38:17.070Z",
+      "seq": 2889
     },
     {
       "id": "d16898d2",
@@ -437,20 +485,20 @@
       "seq": 1518
     },
     {
-      "id": "42820ee6",
-      "title": "faking-wealth 와 poverty-shame 원인 간선",
-      "priority": 40,
-      "note": "2026-10-24 재탐색. 브런치 @yoonss-writer/1313 '좋은 가방, 그럴듯한 시계, 무리해서라도 맞춘 정장 한 벌이면 어느 정도는 감출 수 있다고 믿습니다'(가난을 감추려는 동기, 인과 문장 아님). 경기일보 2026-01-06 article/20260106580455 가난 챌린지",
-      "createdAt": "2026-10-24T09:34:46.915Z",
-      "seq": 1519
-    },
-    {
       "id": "7012ac33",
       "title": "believing-reporting-is-futile 보강: 한국어 SNS 파편, 경찰 경험 조건",
       "priority": 40,
       "note": "2026-10-22·10-24 자전거 도난 신고 한국어 커뮤니티 검색 결과 없음. newcastleworld 4788172 경찰이 CCTV 를 직접 구해 오라고 함(경찰 경험 조건 후보, 매체)",
       "createdAt": "2026-10-24T09:35:15.743Z",
       "seq": 1520
+    },
+    {
+      "id": "218bef24",
+      "title": "faking-wealth 와 poverty-shame 원인 간선",
+      "priority": 40,
+      "note": "2026-10-30 재탐색. 영어 'ashamed of being poor' + 'pretend to be rich' 검색은 반대 방향(부자가 가난한 척) 글뿐. Benzinga 2025-10 r/confession 보도 'faking a rich lifestyle just to fit in' 은 동기가 어울림이지 가난 수치 아님. 브런치 @yoonss-writer/1313, 경기일보 20260106580455 이전 후보",
+      "createdAt": "2026-10-30T15:17:16.020Z",
+      "seq": 2874
     },
     {
       "id": "e8ba47a7",
@@ -853,14 +901,6 @@
       "seq": 2193
     },
     {
-      "id": "284365c8",
-      "title": "읽고 답하지 않기 (읽씹)",
-      "priority": 10,
-      "note": "Chou 외 CHI 2022 'Why Did You/I Read but Not Reply?' (doi 10.1145/3491102.3517496): 받는 쪽이 답하지 않는 이유 8유형. ACM DL 봇 확인 페이지라 다른 HTML 사본 필요. waiting-for-a-reply 와 원인 후보, delaying-message-replies 와 상위/하위 후보",
-      "createdAt": "2026-10-18T05:44:39.690Z",
-      "seq": 214
-    },
-    {
       "id": "1d02be1d",
       "title": "친구 끊기를 상대가 알아챌까 봐 망설이기",
       "priority": 10,
@@ -909,22 +949,6 @@
       "seq": 320
     },
     {
-      "id": "54432e81",
-      "title": "운전 중단 뒤 고립감",
-      "priority": 10,
-      "note": "delaying-driving-cessation 서술 출처 BMC Geriatrics 2024(s12877-024-04835-3) 와 서플 댓글 '고령 운전자를 고립시킬수는 없어요'. 결과 간선 후보",
-      "createdAt": "2026-10-18T14:37:42.090Z",
-      "seq": 330
-    },
-    {
-      "id": "23a05521",
-      "title": "경보 둔감화와 대피 지연",
-      "priority": 10,
-      "note": "ignoring-emergency-alerts F5(Sutton&Wood 2025 desensitization) 와 delayed-evacuation 사이 원인 간선 후보. 2008 Simmons&Sutter AMS 초록 ams.confex.com/ams/88Annual/webprogram/Paper135736.html 'False alarms are widely perceived to reduce response to warnings'",
-      "createdAt": "2026-10-18T14:45:56.271Z",
-      "seq": 331
-    },
-    {
       "id": "0597c551",
       "title": "뒷말에 대한 분노와 보복 의도",
       "priority": 10,
@@ -933,44 +957,12 @@
       "seq": 381
     },
     {
-      "id": "02429188",
-      "title": "답장 지연 뒤 죄책감",
-      "priority": 10,
-      "note": "delaying-message-replies F3 의 결과 후보. 확인된 매체 후보: Refinery29 2021-12-10 refinery29.com/en-gb/late-replies-whatsapp-excuses 'And the longer I go, the more insurmountable the task of opening an app and typing another round of \"sorry sorry sorry\" begins to feel.', soulsthatlisten.substack.com/p/i-forget-to-reply 2021-01-17. 학술: Li, Zheng, Schroeder 2026 PSPB doi 10.1177/01461672261478732(HTML 초록 열리지 않음). 학술이나 SNS 출처 필요",
-      "createdAt": "2026-10-18T19:04:32.927Z",
-      "seq": 383
-    },
-    {
-      "id": "718145d3",
-      "title": "치료 부담감",
-      "priority": 10,
-      "note": "서울신문 2014-03-31 결핵 기사: 6개월 복약 동안 심리적·육체적·경제적 부담을 느끼고 '그런 이유로 복약을 중단'. stopping-medication-when-feeling-better 의 원인 후보",
-      "createdAt": "2026-10-18T20:40:05.153Z",
-      "seq": 394
-    },
-    {
       "id": "eb1ee9d5",
       "title": "날짜 지난 음식에 남는 찜찜함",
       "priority": 10,
       "note": "매일신문 2012-03-03 imaeil 2012030307252073161: 하루 지난 우유가 냄새·맛에 이상이 없어도 '마음이 영 찝찝'. discarding-food-by-date-label 의 원인 후보(같은 출처는 이미 F3 로 씀, 다른 출처 필요)",
       "createdAt": "2026-10-18T20:47:07.098Z",
       "seq": 395
-    },
-    {
-      "id": "f74effe1",
-      "title": "휴일에 나타나는 몸의 증상",
-      "priority": 10,
-      "note": "별칭 Sunday neurosis, leisure sickness. Ferenczi 1926 Further Contributions XIII(archive.org/stream/furthercontribut017926mbp/furthercontribut017926mbp_djvu.txt) 일요일마다 두통·위장 장애, 'often utterly spoilt the young people's one free day of the week'. sunday-night-dread 와 달리 다음 날 출근이 아니라 휴일 자체. 다른 시기 출처 필요",
-      "createdAt": "2026-10-18T21:45:11.715Z",
-      "seq": 406
-    },
-    {
-      "id": "a1f33b60",
-      "title": "모르는 번호 전화를 받고 먼저 말하지 않기",
-      "priority": 10,
-      "note": "위키트리 2026-09-24 articles/1158353: Z세대가 모르는 번호 전화를 받은 뒤 말없이 기다림, 스팸·보이스피싱 경계심. not-answering-unknown-numbers 와 관련",
-      "createdAt": "2026-10-18T21:53:37.558Z",
-      "seq": 407
     },
     {
       "id": "21521b5a",
@@ -987,14 +979,6 @@
       "note": "루리웹 2025-11-06 bbs.ruliweb.com/community/board/300143/read/72947567 '꼴랑 75만원 받자고 그 자존심 스크래치내면서 온갖 서류 다 준비하고 내 통장 다 까서 소득 증명까지 함?'. 지식iN 2008-05-28 docId=48305697 '제 자존심을 너무 무너뜨리더군요.' not-claiming-benefits 원인 또는 poverty-shame 하위 후보",
       "createdAt": "2026-10-18T23:39:45.935Z",
       "seq": 432
-    },
-    {
-      "id": "6afd7a9d",
-      "title": "요청자의 승낙 과소평가",
-      "priority": 10,
-      "note": "difficulty-saying-no F5(Bohns 2016 eCommons): requesters underestimate compliance by 48%. help-seeking-avoidance 원인 후보, Flynn·Bohns 2008 ecommons 9c0adbfb 초록",
-      "createdAt": "2026-10-19T02:43:13.384Z",
-      "seq": 445
     },
     {
       "id": "116adda4",
@@ -1027,38 +1011,6 @@
       "note": "Little Women 28장(gutenberg 514) Meg 'She longed to run to meet him, and beg pardon' 대목. apology-reluctance 하위 후보. 나도향 물레방아(위키문헌) 사과할 마음이 거친 말로 나옴: harsh-words-for-worry 관련",
       "createdAt": "2026-10-19T02:47:08.108Z",
       "seq": 449
-    },
-    {
-      "id": "9820ef0f",
-      "title": "응분의 불행에 대한 기쁨",
-      "priority": 10,
-      "note": "schadenfreude F3(HN 2009 item 998910) 'getting its just deserts'. HN item 9515722(2015) 도 같은 면. schadenfreude 하위 후보",
-      "createdAt": "2026-10-19T02:56:36.862Z",
-      "seq": 450
-    },
-    {
-      "id": "c45fb561",
-      "title": "경쟁 집단의 불행에 대한 기쁨",
-      "priority": 10,
-      "note": "schadenfreude F4(Cikara·Fiske 2013 PMC4472308) 'inferiority ... leads to inter-group schadenfreude'. 이광수 이차돈의 사(위키문헌) 경쟁자가 벌받으리라 고소해함. schadenfreude 하위 후보",
-      "createdAt": "2026-10-19T02:56:37.005Z",
-      "seq": 451
-    },
-    {
-      "id": "1321893d",
-      "title": "남의 비위 맞추기 (people-pleasing)",
-      "priority": 10,
-      "note": "difficulty-saying-no 상위 또는 원인 후보. Kuang 외 2025 PsyCh Journal PMC12318589 'These students may struggle to decline requests due to fears of social isolation, a desire for approval, or a need for harmonious interactions.' 보조: psyche.co/guides/how-to-stop-people-pleasing-by-learning-to-say-no 2023-09-20",
-      "createdAt": "2026-10-19T04:39:29.281Z",
-      "seq": 463
-    },
-    {
-      "id": "080c2b05",
-      "title": "양성 시기 (benign envy)",
-      "priority": 10,
-      "note": "envy 하위, malicious-envy 와 대비. van de Ven 외 2011 Springer s11031-011-9235-8 'benign envy (aimed at improving one’s own situation)' 는 malicious-envy F2 라 다른 출처 필요",
-      "createdAt": "2026-10-19T04:48:31.322Z",
-      "seq": 464
     },
     {
       "id": "cb03f0aa",
@@ -2339,6 +2291,14 @@
       "note": "2026-10-30 지식iN 495572645 (2026-10-16) 시험 점수가 나쁘면 '할게 너무 많아서', '피곤해서', '일부러 안한거야' 라고 생각함. self-serving-justification 과 별개, impostor-phenomenon 과 반대 방향 귀인",
       "createdAt": "2026-10-30T09:39:13.185Z",
       "seq": 2832
+    },
+    {
+      "id": "8ab5036f",
+      "title": "경보 둔감화와 대피 지연",
+      "priority": 10,
+      "note": "2026-10-30 재탐색. Simmons·Sutter 2008 AMS 초록은 'widely perceived' 뿐이라 인과 근거 아님. Dow·Cutter 1998 Coastal Management(doi 10.1080/08920759809362356)는 거짓 경보 뒤에도 주민이 관리를 불신하지 않았다고 결론(반대 근거). LeClerc·Joslyn 2015 Risk Analysis 실험은 cry wolf 효과(대피가 아니라 보호 조치). insurancejournal.com 2015-01-28 기사 후보",
+      "createdAt": "2026-10-30T15:28:43.753Z",
+      "seq": 2879
     },
     {
       "id": "02b2f242",
