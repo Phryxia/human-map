@@ -14,9 +14,11 @@
 
 2019년 연구[^4]의 관찰에서 손씻기 준수율은 화장실에 혼자 있을 때가 다른 사람이 있을 때보다 낮았다.
 
-2023년 기사[^5]가 전한 조사에서 화장실을 쓰고도 손을 씻지 않은 사람이 꼽은 가장 큰 이유는 귀찮아서(38.8%)였다.
+2022년 2월 Hacker News 댓글[^5]의 글쓴이는 화장실에서 종이 수건을 건네는 직원에게 팁을 줘야 할 것 같은 마음이 싫어 손을 씻지 않는 사람을 많이 보았다고 썼다.
 
-2026년 질병관리청의 공중화장실 관찰조사에서 물로만 손을 씻은 경우는 39.3%, 손을 씻지 않은 경우는 14.0%였다.[^6]
+2023년 기사[^6]가 전한 조사에서 화장실을 쓰고도 손을 씻지 않은 사람이 꼽은 가장 큰 이유는 귀찮아서(38.8%)였다.
+
+2026년 질병관리청의 공중화장실 관찰조사에서 물로만 손을 씻은 경우는 39.3%, 손을 씻지 않은 경우는 14.0%였다.[^7]
 
 # 관계
 
@@ -46,5 +48,6 @@
 [^2]: [학술] "Many people do not wash their hands when the behavior in which they engage would warrant it." (많은 사람이 손을 씻어야 할 행동을 하고도 손을 씻지 않는다.) — Borchgrevink CP, Cha J, Kim S, "Hand washing practices in a college town environment", Journal of Environmental Health 75(8), 2013-04, https://pubmed.ncbi.nlm.nih.gov/23621052/, 2026-10-30 접속
 [^3]: [공공] "지난해 질병관리본부가 실제 공중화장실 이용자를 대상으로 한 관찰 조사에서 화장실에서 용변 후 손을 씻는 사람의 비율이 73%였고 이 중 비누로 손을 씻는 사람의 비율은 33%에 불과한 것으로 나타났다." — 질병관리본부, 「감염병 50∼70% 손씻기만으로 충분히 예방」, 정책브리핑, 2014-07-11, https://www.korea.kr/news/policyNewsView.do?newsId=148781222, 2026-10-30 접속
 [^4]: [학술] "the hand hygiene compliance rate was lower when individuals were alone than when another person was present" (손 위생 준수율은 혼자 있을 때가 다른 사람이 있을 때보다 낮았다) — A. Lawson, "An investigation of the hand hygiene behaviours of the general population when using public restrooms", Ulster University 박사학위논문, 2019-10, https://pure.ulster.ac.uk/en/studentTheses/an-investigation-of-the-hand-hygiene-behaviours-of-the-general-po/, 2026-10-18 접속
-[^5]: [매체] "이들이 화장실 이용 후 손을 씻지 않은 가장 큰 이유는 ‘귀찮아서(38.8%·87명)’로 조사됐다." — 세계일보, 「화장실 쓰고도 손 안 씻은 이용객의 40% "귀찮아서"…'바쁘니까' '습관이 안 돼서'도 지목」, 2023-10-16, https://www.segye.com/newsView/20231016517163, 2026-10-30 접속
-[^6]: [공공] "반면, 물로만 손을 씻은 경우는 39.3%, 손을 씻지 않은 경우는 14.0%로 나타났다." — 질병관리청, 「2026년 상반기 감염병 예방행태 실태조사 결과 발표」, 보도자료, 2026-10-15, https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do, 2026-10-18 접속
+[^5]: [SNS] "I do end up seeing a lot of people just not wash their hands because they don’t like feeling obligated to tip the guy for handing them a paper towel." (나는 종이 수건을 건네주는 사람에게 팁을 줘야 할 것 같은 의무감이 싫어서 그냥 손을 씻지 않는 사람을 꽤 많이 보게 된다.) — Hacker News, 댓글, 2022-02-08, https://news.ycombinator.com/item?id=30261000, 2026-10-30 접속
+[^6]: [매체] "이들이 화장실 이용 후 손을 씻지 않은 가장 큰 이유는 ‘귀찮아서(38.8%·87명)’로 조사됐다." — 세계일보, 「화장실 쓰고도 손 안 씻은 이용객의 40% "귀찮아서"…'바쁘니까' '습관이 안 돼서'도 지목」, 2023-10-16, https://www.segye.com/newsView/20231016517163, 2026-10-30 접속
+[^7]: [공공] "반면, 물로만 손을 씻은 경우는 39.3%, 손을 씻지 않은 경우는 14.0%로 나타났다." — 질병관리청, 「2026년 상반기 감염병 예방행태 실태조사 결과 발표」, 보도자료, 2026-10-15, https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do, 2026-10-18 접속
