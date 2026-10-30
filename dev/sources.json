@@ -695,21 +695,21 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4351276/": {
     "first": "2026-10-17",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://medigatenews.com/news/2939195191": {
     "first": "2026-10-17",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.mpib-berlin.mpg.de/press-releases/medical-information-avoidance": {
     "first": "2026-10-17",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.nbcnews.com/id/wbna47313799": {
     "first": "2026-10-17",
@@ -749,9 +749,9 @@
   },
   "https://www.fnnews.com/news/202603121601547430": {
     "first": "2026-10-17",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20240229": {
     "first": "2026-10-17",
@@ -5342,9 +5342,9 @@
   },
   "https://www.healthcaredive.com/news/high-costs-narrow-networks-drive-insured-patients-to-ed/408071/": {
     "first": "2026-10-20",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.ajmc.com/view/when-routine-care-is-out-of-reach-latino-adults-end-up-in-the-emergency-department": {
     "first": "2026-10-20",
@@ -13339,9 +13339,9 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/16963194/": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.clien.net/service/board/park/17696953": {
     "first": "2026-10-29",
@@ -13350,9 +13350,9 @@
   },
   "https://ncc.re.kr/prBoardView1.ncc?nwsId=781": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://pubmed.ncbi.nlm.nih.gov/12507347/": {
     "first": "2026-10-29",
@@ -13386,9 +13386,9 @@
   },
   "https://medicaltimes.com/Main/view.html?ID=96518": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://geniet.co.kr/community/daily/25840200": {
     "first": "2026-10-29",
@@ -13398,9 +13398,9 @@
   },
   "https://archive.cdc.gov/www_cdc_gov/media/pressrel/r050510.htm": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.cbsnews.com/news/are-your-kids-getting-burned/": {
     "first": "2026-10-29",
@@ -13410,9 +13410,9 @@
   },
   "https://www.korea.kr/news/reporterView.do?newsId=148897176": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://news.cancerresearchuk.org/2003/05/10/survey-shows-most-people-ignore-sun-safety-advice-despite-fears-of-skin-cancer/": {
     "first": "2026-10-29",
@@ -14362,6 +14362,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=39251899": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://news.ycombinator.com/item?id=30152000": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
