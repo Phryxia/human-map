@@ -3219,9 +3219,9 @@
   },
   "https://ecommons.cornell.edu/entities/publication/2c50b460-fb5c-4490-9047-9bb02b9f6f25": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.nature.com/articles/s41598-023-50532-3": {
     "first": "2026-10-19",
@@ -14206,6 +14206,18 @@
     "lastVerified": "2026-10-30"
   },
   "https://www.wrap.ngo/resources/report/recycling-tracker-report-winter-2021": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18605856&rettype=abstract&retmode=text": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.npr.org/transcripts/809530189": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
