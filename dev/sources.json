@@ -10652,33 +10652,33 @@
   },
   "https://boards.straightdope.com/t/the-problems-of-gettting-from-floor-to-floor/18387": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22049448&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16849368&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.mentalfloss.com/article/66071/people-really-really-dont-taking-stairs": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://mediahub.seoul.go.kr/archives/916868": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/46272/pg46272-images.html": {
     "first": "2026-10-26",
@@ -10718,9 +10718,9 @@
   },
   "https://boards.straightdope.com/t/oh-is-your-leg-broken-elevator-abuse-rant/293075": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21960970&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
@@ -11564,9 +11564,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7435710&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://mediahub.seoul.go.kr/archives/1055052": {
     "first": "2026-10-27",
@@ -13942,6 +13942,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://v.daum.net/v/20230720063011121": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3255141/": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
