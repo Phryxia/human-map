@@ -4479,15 +4479,15 @@
   },
   "https://www.gutenberg.org/cache/epub/308/pg308-images.html": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.712703/full": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=36794740": {
     "first": "2026-10-20",
@@ -13672,6 +13672,24 @@
     "lastVerified": "2026-10-30"
   },
   "https://forums.moneysavingexpert.com/discussion/6219138/from-saving-to-spending": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/11489098/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.slate.com/articles/health_and_science/medical_examiner/2014/07/hypochondria_in_medical_students_and_doctors_when_to_worry_about_health.html": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.clien.net/service/board/park/18006590": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
