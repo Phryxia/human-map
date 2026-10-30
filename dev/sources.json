@@ -1852,9 +1852,9 @@
   },
   "https://pure.ulster.ac.uk/en/studentTheses/an-investigation-of-the-hand-hygiene-behaviours-of-the-general-po/": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do": {
     "first": "2026-10-18",
@@ -7418,15 +7418,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC1686213/": {
     "first": "2026-10-22",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.ncl.ac.uk/press/articles/archive/2015/12/eyeslittering/": {
     "first": "2026-10-22",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/1532/pg1532-images.html": {
     "first": "2026-10-22",
@@ -8006,9 +8006,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4671191/": {
     "first": "2026-10-23",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://ko.wikisource.org/wiki/벙어리_삼룡이": {
     "first": "2026-10-23",
@@ -11588,15 +11588,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=1003323&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://kormedi.com/1204917/": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7887878&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -12685,9 +12685,9 @@
   },
   "https://news.ycombinator.com/item?id=5480130": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://archive.news.ufl.edu/articles/2004/06/redemption-of-mail-in-rebates-declines-with-increased-time-allowance.html": {
     "first": "2026-10-28",
@@ -13586,5 +13586,11 @@
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "UNREACHABLE"
+  },
+  "https://www.clien.net/service/board/park/15480028": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
   }
 }

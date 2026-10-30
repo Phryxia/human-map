@@ -20,6 +20,8 @@
 
 2019년 학위논문[^7]에서 공중화장실 이용자의 손 위생 준수율은 혼자 있을 때가 다른 사람이 있을 때보다 낮았다.
 
+2020년 10월 클리앙 댓글[^8]의 글쓴이는 누가 모니터를 쳐다보는 것 같은 카페 같은 곳에서 집중이 더 잘 되고 딴짓을 덜 한다며 도서관에서도 일부러 다 보이는 자리에 앉는다고 썼다.
+
 # 관계
 
 ## 상위
@@ -53,3 +55,4 @@
 [^5]: [매체] "As we care what other people think about us, we behave better and more honestly when we feel we are being observed." (우리는 남이 우리를 어떻게 생각하는지 신경 쓰기 때문에 관찰당한다고 느낄 때 더 바르고 정직하게 행동한다.) — Newcastle University Press Office, "Watching eyes prevent littering", 2015-12-01, https://www.ncl.ac.uk/press/articles/archive/2015/12/eyeslittering/, 2026-10-22 접속
 [^6]: [학술] "We also found that people were less likely to litter when there other people in the immediate vicinity than when there were not (odds ratios 0.04-0.25)" (또 바로 근처에 다른 사람이 있을 때 없을 때보다 사람들이 쓰레기를 덜 버린다는 것을 발견했다(오즈비 0.04-0.25).) — Bateson M, Robinson R, Abayomi-Cole T, Greenlees J, O'Connor A, Nettle D, "Watching eyes on potential litter can reduce littering: evidence from two field experiments", PeerJ 3:e1443, 2015-12-01, https://pmc.ncbi.nlm.nih.gov/articles/PMC4671191/, 2026-10-23 접속
 [^7]: [학술] "the hand hygiene compliance rate was lower when individuals were alone than when another person was present" (손 위생 준수율은 혼자 있을 때가 다른 사람이 있을 때보다 낮았다) — A. Lawson, "An investigation of the hand hygiene behaviours of the general population when using public restrooms", Ulster University 박사학위논문, 2019-10, https://pure.ulster.ac.uk/en/studentTheses/an-investigation-of-the-hand-hygiene-behaviours-of-the-general-po/, 2026-10-22 접속
+[^8]: [SNS] "카페처럼 누가 왠지 내 모니터를 쳐다보는 것 같은 환경에서 집중이 더 잘 되더라구요. 괜히 딴짓 안하구요.. 도서관가도 일부러 다 보이는 자리 앉습니다." — 클리앙 모두의공원 댓글, 2020-10-15, https://www.clien.net/service/board/park/15480028, 2026-10-30 접속
