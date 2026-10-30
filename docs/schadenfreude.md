@@ -24,7 +24,7 @@
 
 ## 하위
 
-없음.
+- [경쟁 집단의 불행에 대한 기쁨](intergroup-schadenfreude.md)
 
 ## 원인
 

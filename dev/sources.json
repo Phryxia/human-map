@@ -3357,9 +3357,9 @@
   },
   "https://www.npr.org/transcripts/644447045": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://kormedi.com/1255198/": {
     "first": "2026-10-19",
@@ -14242,6 +14242,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25297882&rettype=abstract&retmode=text": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21270447&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
