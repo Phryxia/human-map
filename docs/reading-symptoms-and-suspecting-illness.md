@@ -16,6 +16,8 @@
 
 2023년 클리앙 게시글[^5]의 글쓴이는 어떤 증상을 조심하라는 영상을 계속 보면 자기 이야기 같아 신경이 쓰이고 검사를 받아 보면 정상이었다고 썼다.
 
+2026년 인도 의대생 연구[^6]는 건강 불안을 키우는 지나친 온라인 건강 정보 찾기를 사이버콘드리아라 부르고 의대생 사이에 흔하다고 적었다.
+
 # 관계
 
 ## 상위
@@ -32,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [건강 불안](health-anxiety.md)[^6]
 
 ## 대립
 
@@ -45,3 +47,4 @@
 [^3]: [매체] "Medical student syndrome is a well-documented phenomenon, a one- to two-year phase during which aspiring physicians think they’ve contracted whatever disease it is they’re studying." (의대생 증후군은 잘 기록된 현상으로 의사 지망생들이 공부하는 병이 무엇이든 그 병에 걸렸다고 생각하는 1\~2년의 시기다.) — Katy Waldman, "Doctors Could Use a Little Hypochondria", Slate, 2014-07-06, https://www.slate.com/articles/health_and_science/medical_examiner/2014/07/hypochondria_in_medical_students_and_doctors_when_to_worry_about_health.html, 2026-10-30 접속
 [^4]: [학술] "During the COVID-19 pandemic, people are likely to search health-related information online for reassurance because of fear and related physical symptoms" (코로나19 유행 동안 사람들은 두려움과 그에 따른 신체 증상 때문에 안심을 얻으려고 온라인에서 건강 관련 정보를 찾기 쉽다) — Peng XQ 외, "The Status and Influencing Factors of Cyberchondria During the COVID-19 Epidemic. A Cross-Sectional Study in Nanyang City of China", Frontiers in Psychology 12, 2021-11-11, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.712703/full, 2026-10-20 접속
 [^5]: [SNS] "이런 증상일때 조심해라\~\~ 이런 영상을 계속 보고있으면 웬지 내 얘기같고 한번 보고나면 계속 신경쓰여서 검사해보면 정상.." — 클리앙 게시글, 2023-04-05, https://www.clien.net/service/board/park/18006590, 2026-10-30 접속
+[^6]: [학술] "Cyberchondria, excessive online health information seeking that amplifies health anxiety, is prevalent among medical students." (건강 불안을 키우는 지나친 온라인 건강 정보 찾기인 사이버콘드리아는 의대생 사이에 흔하다.) — M. J. Rao, S. D, K. B, 「Behavioural and Contextual Predictors of Cyberchondria Severity Among Preclinical Medical Students in India: A Two-Wave Longitudinal Study」, Cureus 18(6), 2026-06-10, https://pubmed.ncbi.nlm.nih.gov/42437210/, 2026-10-30 접속

@@ -30,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [증상을 읽고 병을 의심하기](reading-symptoms-and-suspecting-illness.md)[^7]
 
 ## 결과
 
@@ -48,3 +48,4 @@
 [^4]: [매체] "병원을 자주 방문하며 건강을 챙기는 사람들 사이에서 건강염려증이 생기곤 하며, 의사가 이상이 없다고 말해줘도 믿지 않는다. 오히려 의사에게 들은 의학적 용어를 써가며 심각성을 과장해 설명하기도 한다." — 전기연, "건강염려증이란, 두통만 생겨도 심각한 질병이라 믿는 것! 사회생활에도 악영향", 아주경제, 2014-11-09, https://www.ajunews.com/view/20141109134036428, 2026-10-29 접속
 [^5]: [학술] "Health anxiety is a disabling condition characterised by excessive fears of having or developing serious illnesses, misinterpretation of bodily symptoms and body hypervigilance" (health anxiety 는 심각한 병에 걸렸거나 걸릴 것이라는 지나친 두려움, 몸의 증상을 잘못 읽는 일, 몸에 대한 과잉 경계를 특징으로 하는 일상을 어렵게 하는 상태다) — Jill M. Newby 외, "Pilot trial of a therapist-supported internet-delivered cognitive behavioural therapy program for health anxiety", Internet Interventions 6, 2016-10-02, https://pmc.ncbi.nlm.nih.gov/articles/PMC6096191/, 2026-10-29 접속
 [^6]: [매체] "건강염려증 환자들은 지나가는 감기에도 폐렴을 의심하고, 정상적으로 만져지는 연골조차 혹으로 오해한다." — 이현정, "'나 죽을 병 걸렸나'… 머릿속의 염려증 진짜 사람 잡아요", 서울신문, 2024-03-18, https://m.seoul.co.kr/news/2024/03/19/20240319021002, 2026-10-29 접속
+[^7]: [학술] "Cyberchondria, excessive online health information seeking that amplifies health anxiety, is prevalent among medical students." (건강 불안을 키우는 지나친 온라인 건강 정보 찾기인 사이버콘드리아는 의대생 사이에 흔하다.) — M. J. Rao, S. D, K. B, 「Behavioural and Contextual Predictors of Cyberchondria Severity Among Preclinical Medical Students in India: A Two-Wave Longitudinal Study」, Cureus 18(6), 2026-06-10, https://pubmed.ncbi.nlm.nih.gov/42437210/, 2026-10-30 접속
