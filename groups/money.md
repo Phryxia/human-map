@@ -44,4 +44,5 @@
 - [좋은 물건 아껴 두기](../docs/saving-things-for-best.md) 좋은 옷이나 물건을 가진 사람이 그것을 특별한 날에 쓰려고 아껴 두고 평소에 쓰지 않는다.
 - [집에 현금 쌓아 두기](../docs/keeping-cash-at-home.md) 위기나 사고에 대비하려는 사람이 은행에 맡기지 않은 현금을 집 안에 쌓아 둔다.
 - [충동구매](../docs/impulse-buying.md) 살 계획이 없던 물건을 본 사람이 그 자리에서 사고 싶어져 산다.
+  - [기분을 달래려는 소비](../docs/retail-therapy.md)
 - [큰돈이 생기는 공상](../docs/daydreaming-about-windfall.md) 아직 손에 없는 큰돈이 생기는 장면을 떠올린 사람이 그 돈으로 무엇을 사고 무엇을 할지 자세히 상상한다.

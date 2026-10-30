@@ -17,6 +17,7 @@
 ## 상위
 
 - [기분 회복 행동](mood-repair.md)
+- [충동구매](impulse-buying.md)
 
 ## 하위
 
