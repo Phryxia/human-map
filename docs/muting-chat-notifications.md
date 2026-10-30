@@ -25,6 +25,7 @@
 ## 원인
 
 - [빨리 답해야 한다는 압박](pressure-to-reply-quickly.md)[^3]
+- [단톡방 나가지 못하기](staying-in-group-chats.md)[^1]
 
 ## 결과
 
