@@ -12,6 +12,8 @@
 
 2021년 7월 코메디닷컴 기사[^3]는 온화한 시기심을 가진 사람이 상대의 성공에 눈을 두고 자기도 그런 결과를 얻을 방법을 고민한다고 썼다.
 
+2023년 2월 Hacker News 댓글[^4]의 글쓴이는 시기가 즐거운 감정은 아니지만 자기를 익숙한 자리 밖으로 밀어 지금보다 더 이루게 한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -39,3 +41,4 @@
 [^1]: [학술] "It reveals that the experience of benign envy leads to a moving-up motivation aimed at improving one's own position" (이 연구는 온화한 시기를 겪으면 자기 처지를 개선하려는 상승 동기가 생긴다는 것을 보여 준다) — van de Ven N, Zeelenberg M, Pieters R, 「Leveling up and down: the experiences of benign and malicious envy」, Emotion 9(3), 2009-06, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19485619&rettype=abstract&retmode=text, 2026-10-30 접속
 [^2]: [학술] "We found that malicious envy is related to schadenfreude, while benign envy is not." (악의적 시기는 샤덴프로이데와 관련이 있었으나 온화한 시기는 그렇지 않았다.) — van de Ven N, Hoogland CE, Smith RH, van Dijk WW, Breugelmans SM, Zeelenberg M, 「When envy leads to schadenfreude」, Cognition and Emotion 29(6), 2015, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25297882&rettype=abstract&retmode=text, 2026-10-30 접속
 [^3]: [매체] "하지만 온화한 시기심을 가진 사람은 상대방의 성공에 포커스를 두고 어떻게 나도 이처럼 좋은 결과물을 얻을 수 있을까 고민하는데 집중한다." — 코메디닷컴, 「남의 불행에서 '쾌감' 얻는 시기심의 유형」, 2021-07-24, https://kormedi.com/1347382/, 2026-10-30 접속
+[^4]: [SNS] "For me, envy motivates me and defines what is possible. Envy is not an enjoyable motion, but it pushes me out of my comfort zone and to achieve more than I am." (나에게 시기는 동기를 주고 무엇이 가능한지를 정해 준다. 시기는 즐거운 감정이 아니지만 나를 편한 자리 밖으로 밀어내 지금의 나보다 더 이루게 한다.) — Hacker News, 댓글, 2023-02-11, https://news.ycombinator.com/item?id=34756207, 2026-10-30 접속
