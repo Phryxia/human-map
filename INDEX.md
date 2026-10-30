@@ -75,6 +75,7 @@
 - [남은 약 버리지 않고 두기](docs/keeping-leftover-medicines.md) ([건강과 위험](groups/health-and-safety.md))
 - [남은 음식 포장 요청 부끄러워하기](docs/embarrassment-asking-for-doggy-bag.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [남의 불행에 대한 기쁨](docs/schadenfreude.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [남의 비위 맞추기](docs/people-pleasing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 사적인 기록 몰래 보기](docs/reading-others-private-writing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [낮잠](docs/daytime-napping.md) ([시간과 하루 습관](groups/daily-time.md))
