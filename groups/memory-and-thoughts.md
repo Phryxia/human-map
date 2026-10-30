@@ -20,4 +20,5 @@
 - [설단 현상](../docs/tip-of-the-tongue.md) 말하려는 사람이 떠올리려는 단어를 알고 있다고 느끼면서도 그 단어를 끝내 떠올리지 못한다.
 - [아는 사람 이름 잊기](../docs/forgetting-acquaintances-names.md) 아는 사람을 만난 사람이 얼굴은 알아보면서 그 사람의 이름이 떠오르지 않아 당혹스러워하거나 짜증스러워한다.
 - [일기 쓰기](../docs/keeping-a-diary.md) 사람이 겪은 일과 생각을 날마다 또는 일이 있을 때 일기로 적어 둔다.
+- [잃어버린 물건을 찾은 곳에서 또 찾기](../docs/re-searching-for-lost-items.md) 둔 곳을 잊은 물건을 찾는 사람이 이미 찾아본 곳을 다시 뒤진다.
 - [지난 창피한 일 떠올리며 몸서리치기](../docs/cringing-at-past-embarrassment.md) 지난날 자기가 한 창피한 말이나 행동이 떠오른 사람이 그때의 부끄러움을 다시 느낀다.
