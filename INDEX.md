@@ -222,6 +222,7 @@
 - [손실 추격](docs/loss-chasing.md) ([돈과 소비](groups/money.md))
 - [손실 회피](docs/loss-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [손톱 물어뜯기](docs/nail-biting.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [수돗물 그대로 마시지 않기](docs/not-drinking-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
 - [수줍은 방광](docs/shy-bladder.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [쉬는 데 죄책감 느끼기](docs/guilt-about-resting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [스마트폰 확인 습관](docs/smartphone-checking-habit.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
