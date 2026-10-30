@@ -351,6 +351,7 @@
 - [지난 창피한 일 떠올리며 몸서리치기](docs/cringing-at-past-embarrassment.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [지루함](docs/boredom.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [직장 내 괴롭힘 참고 넘기기](docs/enduring-workplace-harassment.md) ([일터와 일자리](groups/work.md))
+- [직장 문제를 윗사람에게 말하지 않기](docs/employee-silence.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [진단 없이 음식 피하기](docs/self-diagnosed-food-avoidance.md) ([건강과 위험](groups/health-and-safety.md))
 - [진료 회피](docs/medical-care-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))

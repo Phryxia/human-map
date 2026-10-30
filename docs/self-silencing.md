@@ -27,6 +27,7 @@
 - [보내지 않는 편지 쓰기](unsent-letters.md)
 - [힘든 사정 털어놓지 않기](keeping-hardship-to-oneself.md)
 - [거절하지 못하기](difficulty-saying-no.md)
+- [직장 문제를 윗사람에게 말하지 않기](employee-silence.md)
 
 ## 원인
 

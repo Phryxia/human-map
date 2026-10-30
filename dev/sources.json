@@ -10784,27 +10784,27 @@
   },
   "https://www.gutenberg.org/cache/epub/140/pg140-images.html": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2551182/": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=22921685": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1347966/full": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2736034/": {
     "first": "2026-10-26",
@@ -10826,15 +10826,15 @@
   },
   "https://www.gutenberg.org/cache/epub/5200/pg5200-images.html": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC1732160/": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/767/pg767-images.html": {
     "first": "2026-10-26",
@@ -10862,9 +10862,9 @@
   },
   "https://news.ycombinator.com/item?id=46773296": {
     "first": "2026-10-26",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.securitymagazine.com/articles/100765-78-of-people-use-the-same-password-across-multiple-accounts": {
     "first": "2026-10-26",
@@ -11774,9 +11774,9 @@
   },
   "https://www.khan.co.kr/article/200804231550212": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.psychologytoday.com/us/blog/mood-thought/201202/thinking-too-much-in-depression": {
     "first": "2026-10-27",
@@ -13990,6 +13990,18 @@
     "lastVerified": "2026-10-30"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=8010502&docId=481668739": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://econpapers.repec.org/RePEc:bla:jomstd:v:40:y:2003:i:6:p:1453-1476": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.myosh.com/news/workers-not-reporting-safety-breaches-over-fears-theyll-be-sacked": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",

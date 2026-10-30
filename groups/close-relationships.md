@@ -50,6 +50,7 @@
   - [불만 제기 회피](../docs/non-complaining.md)
     - [반품 포기](../docs/abandoning-returns.md)
     - [조용한 이탈](../docs/silent-exit.md)
+  - [직장 문제를 윗사람에게 말하지 않기](../docs/employee-silence.md)
   - [층간소음 참기](../docs/enduring-neighbor-noise.md)
   - [힘든 사정 털어놓지 않기](../docs/keeping-hardship-to-oneself.md)
     - [아픈 것을 가족에게 숨기기](../docs/hiding-illness-from-family.md)
