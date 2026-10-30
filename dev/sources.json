@@ -8456,15 +8456,15 @@
   },
   "https://www.gutenberg.org/cache/epub/2413/pg2413-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.psychologytoday.com/us/blog/media-spotlight/201703/bored-in-the-usa/amp": {
     "first": "2026-10-23",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/503/pg503-images.html": {
     "first": "2026-10-23",
@@ -9218,9 +9218,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27775405&rettype=abstract&retmode=text": {
     "first": "2026-10-24",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.casenews.co.kr/news/articleView.html?idxno=3971": {
     "first": "2026-10-24",
@@ -9608,9 +9608,9 @@
   },
   "https://news.ycombinator.com/item?id=5091017": {
     "first": "2026-10-24",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.cctimes.kr/news/articleView.html?idxno=539611": {
     "first": "2026-10-24",
@@ -10508,9 +10508,9 @@
   },
   "https://lady.khan.co.kr/education/article/202503190920001": {
     "first": "2026-10-25",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.bravotv.com/kandi-koated-nights/personal-space/people-invade-their-partners-privacy": {
     "first": "2026-10-25",
@@ -11150,9 +11150,9 @@
   },
   "https://www.clien.net/service/board/park/18457951": {
     "first": "2026-10-26",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.paychex.com/articles/human-resources/retirees-rejoining-the-workforce": {
     "first": "2026-10-26",
@@ -12391,9 +12391,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25447018&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30115003&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
@@ -13267,9 +13267,9 @@
   },
   "https://paulspector.com/why-do-employees-cyberloaf/": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=39469981": {
     "first": "2026-10-29",
@@ -13422,15 +13422,15 @@
   },
   "https://vindyarchives.com/news/2014/jul/04/study-being-alone-with-your-thoughts-is-": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.psychologytoday.com/us/blog/the-engaged-mind/202308/the-boredom-of-solitude": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://archive.seattletimes.com/archive/?date=19921101&slug=1522133": {
     "first": "2026-10-29",
@@ -14188,6 +14188,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://gangdong.go.kr/web/newportal/press/14352": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26847946&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
