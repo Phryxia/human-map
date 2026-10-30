@@ -6,13 +6,15 @@
 
 # 서술
 
-1906년 오히긴스의 소설에서 점원은 쓸데없는 질문에 몇 번 답한 뒤 상대에게서 슬금슬금 물러나 전화번호부에서 아무것도 찾지 않으면서 바쁜 척했다.[^1] 1937년 채만식의 소설에서 초봉이는 곁에 지켜 선 윤희에게 또 시달림을 받기 싫어 진열장에서 약병을 꺼내 싸고 전표를 쓰며 분주한 체했다.[^2]
+1893년 기싱의 소설[^1]에서 공동 침실에 누운 모니카는 돌아온 동료들과 말을 해야 할까 봐 자는 척했다.
 
-2012년 사이언스데일리가 전한 버스 승객 연구는 옆자리에 누가 앉는 것을 피하려는 승객들이 바쁜 척하고 휴대폰을 확인하고 가방을 뒤지고 잠든다고 적는다.[^3]
+1906년 오히긴스의 소설에서 점원은 쓸데없는 질문에 몇 번 답한 뒤 상대에게서 슬금슬금 물러나 전화번호부에서 아무것도 찾지 않으면서 바쁜 척했다.[^2] 1937년 채만식의 소설에서 초봉이는 곁에 지켜 선 윤희에게 또 시달림을 받기 싫어 진열장에서 약병을 꺼내 싸고 전표를 쓰며 분주한 체했다.[^3]
 
-2017년 클리앙의 한 댓글은 비행기 옆자리 사람이 계속 말을 걸어 귀찮아서 이어폰을 끼고 잤다고 말한다.[^4]
+2012년 사이언스데일리가 전한 버스 승객 연구는 옆자리에 누가 앉는 것을 피하려는 승객들이 바쁜 척하고 휴대폰을 확인하고 가방을 뒤지고 잠든다고 적는다.[^4]
 
-2026년 1월 조선일보 기사에서 한 직장인은 평소 미용사가 말 거는 게 싫어 자는 척 눈을 감고 있다고 말했다. 그는 대화 거절 옵션으로 예약한 미용실에서 필요한 질문 외에 아무 말도 듣지 않아 편했다고 덧붙였다.[^5]
+2017년 클리앙의 한 댓글은 비행기 옆자리 사람이 계속 말을 걸어 귀찮아서 이어폰을 끼고 잤다고 말한다.[^5]
+
+2026년 1월 조선일보 기사에서 한 직장인은 평소 미용사가 말 거는 게 싫어 자는 척 눈을 감고 있다고 말했다. 그는 대화 거절 옵션으로 예약한 미용실에서 필요한 질문 외에 아무 말도 듣지 않아 편했다고 덧붙였다.[^6]
 
 # 관계
 
@@ -38,8 +40,9 @@
 
 #관계 #공공
 
-[^1]: [문학] "The clerk, after answering several futile questions, edged away from him and pretended to be busy looking up nothing in the telephone directory." (점원은 쓸데없는 질문 몇 가지에 답한 뒤 그에게서 슬금슬금 물러나 전화번호부에서 아무것도 아닌 것을 찾느라 바쁜 척했다.) — Harvey J. O'Higgins, Don-A-Dreams, Part 4 Chapter 9, Duckworth & Co., 위키문헌, 1906, https://en.wikisource.org/wiki/Don-A-Dreams/Part_4/Chapter_9, 2026-10-19 접속
-[^2]: [문학] "초봉이는 아직도 그대로 지켜 섰는 윤희한테 또 시달림을 받기가 싫어서 분주한 체, 헤리오트로핀 한 병 있는 것을 진열장에서 꺼내다가, 싸개지로 싸고 다시 전표를 쓰고 막 그러고 나니까 또 전화가 온다." — 채만식, 「탁류」 제2장, 조선일보 연재, 위키문헌, 1937, https://ko.wikisource.org/wiki/%ED%83%81%EB%A5%98/%EC%A0%9C2%EC%9E%A5, 2026-10-19 접속
-[^3]: [매체] "We engage in all sorts of behavior to avoid others, pretending to be busy, checking phones, rummaging through bags, looking past people or falling asleep." (우리는 남을 피하려고 온갖 행동을 한다. 바쁜 척하기, 휴대폰 확인하기, 가방 뒤지기, 사람을 못 본 척 지나쳐 보기, 잠들기.) — "Strangers on a bus: Study reveals lengths commuters go to avoid each other", ScienceDaily, Wiley 보도자료, 2012-08-01, https://www.sciencedaily.com/releases/2012/08/120801093615.htm, 2026-10-18 접속
-[^4]: [SNS] "저는 자야하는데 계속 말거는 필리핀 남자애가 있었던.. ㅠ 귀차나서 이어폰 끼고 잠잤었네요 ㅠ" — 클리앙, 댓글, 2017-01-11, https://www.clien.net/service/board/park/10204233, 2026-10-18 접속
-[^5]: [매체] "평소 미용사가 말 거는 게 싫어 자는 척 눈을 감고 있는데, 필요한 질문 외에 아무 말도 하지 않아 편했다" — 조유미, 「"쉿! 말 걸지 마세요"…미용실·택시에 등장한 '대화 선택권'」, 조선일보(네이트 뉴스 전재), 2026-01-10, https://m.news.nate.com/view/20260110n00225, 2026-10-18 접속
+[^1]: [문학] "Afraid of being obliged to talk, Monica feigned sleep." (말을 해야 할까 봐 모니카는 자는 척했다.) — George Gissing, The Odd Women, Project Gutenberg, 1893, https://www.gutenberg.org/cache/epub/4313/pg4313-images.html, 2026-10-30 접속
+[^2]: [문학] "The clerk, after answering several futile questions, edged away from him and pretended to be busy looking up nothing in the telephone directory." (점원은 쓸데없는 질문 몇 가지에 답한 뒤 그에게서 슬금슬금 물러나 전화번호부에서 아무것도 아닌 것을 찾느라 바쁜 척했다.) — Harvey J. O'Higgins, Don-A-Dreams, Part 4 Chapter 9, Duckworth & Co., 위키문헌, 1906, https://en.wikisource.org/wiki/Don-A-Dreams/Part_4/Chapter_9, 2026-10-19 접속
+[^3]: [문학] "초봉이는 아직도 그대로 지켜 섰는 윤희한테 또 시달림을 받기가 싫어서 분주한 체, 헤리오트로핀 한 병 있는 것을 진열장에서 꺼내다가, 싸개지로 싸고 다시 전표를 쓰고 막 그러고 나니까 또 전화가 온다." — 채만식, 「탁류」 제2장, 조선일보 연재, 위키문헌, 1937, https://ko.wikisource.org/wiki/%ED%83%81%EB%A5%98/%EC%A0%9C2%EC%9E%A5, 2026-10-19 접속
+[^4]: [매체] "We engage in all sorts of behavior to avoid others, pretending to be busy, checking phones, rummaging through bags, looking past people or falling asleep." (우리는 남을 피하려고 온갖 행동을 한다. 바쁜 척하기, 휴대폰 확인하기, 가방 뒤지기, 사람을 못 본 척 지나쳐 보기, 잠들기.) — "Strangers on a bus: Study reveals lengths commuters go to avoid each other", ScienceDaily, Wiley 보도자료, 2012-08-01, https://www.sciencedaily.com/releases/2012/08/120801093615.htm, 2026-10-18 접속
+[^5]: [SNS] "저는 자야하는데 계속 말거는 필리핀 남자애가 있었던.. ㅠ 귀차나서 이어폰 끼고 잠잤었네요 ㅠ" — 클리앙, 댓글, 2017-01-11, https://www.clien.net/service/board/park/10204233, 2026-10-18 접속
+[^6]: [매체] "평소 미용사가 말 거는 게 싫어 자는 척 눈을 감고 있는데, 필요한 질문 외에 아무 말도 하지 않아 편했다" — 조유미, 「"쉿! 말 걸지 마세요"…미용실·택시에 등장한 '대화 선택권'」, 조선일보(네이트 뉴스 전재), 2026-01-10, https://m.news.nate.com/view/20260110n00225, 2026-10-18 접속
