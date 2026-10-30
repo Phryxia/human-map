@@ -10430,39 +10430,39 @@
   },
   "https://www.gutenberg.org/cache/epub/821/pg821-images.html": {
     "first": "2026-10-25",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/507/pg507-images.html": {
     "first": "2026-10-25",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/215/pg215-images.html": {
     "first": "2026-10-25",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/113/pg113-images.html": {
     "first": "2026-10-25",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.dvm360.com/view/survey-says-pets-more-reliable-people": {
     "first": "2026-10-25",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=47399714": {
     "first": "2026-10-25",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://community.caithness.org/article/4681": {
     "first": "2026-10-25",
@@ -11114,15 +11114,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3351901/": {
     "first": "2026-10-26",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.622060/full": {
     "first": "2026-10-26",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.korea.kr/news/reporterView.do?newsId=148737230": {
     "first": "2026-10-26",
@@ -12157,9 +12157,9 @@
   },
   "https://www.ucdavis.edu/news/puppy-talk": {
     "first": "2026-10-27",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/1019/pg1019.txt": {
     "first": "2026-10-27",
@@ -13195,9 +13195,9 @@
   },
   "https://www.huffingtonpost.co.uk/entry/two-thirds-of-lonely-people-are-relying-on-the-television-to-keep-them-company_uk_5c90d1d8e4b04ed2c1ae7dee": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.fnnews.com/news/202609250701431740": {
     "first": "2026-10-29",
@@ -13497,5 +13497,41 @@
     "last": "2026-10-29",
     "result": "VERIFIED",
     "lastVerified": "2026-10-29"
+  },
+  "https://www.gutenberg.org/cache/epub/521/pg521-images.html": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.gutenberg.org/cache/epub/271/pg271-images.html": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://stars.library.ucf.edu/scopus2000/2921": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.579346/full": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.inrae.fr/en/news/talking-horses-we-talk-young-children": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://steamcommunity.com/discussions/forum/12/640179866666271450/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
   }
 }
