@@ -32,7 +32,7 @@
 
 ## 대립
 
-없음.
+- [헤어진 연인의 물건 간직하기](keeping-an-exs-belongings.md)[^4]
 
 #관계
 
