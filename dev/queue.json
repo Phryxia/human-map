@@ -1,137 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-30T18:36:21.403Z",
-  "nextSeq": 2900,
-  "stops": 147,
+  "savedAt": "2026-10-30T21:33:35.752Z",
+  "nextSeq": 2928,
+  "stops": 148,
   "items": [
-    {
-      "id": "6cc9b41f",
-      "title": "staying-in-job-for-health-insurance 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-10-29 knewsla 2026-08-15 직업 고착 별칭 더함. loss-aversion 과 job lock 을 인과로 이은 원문 미발견(EPI, Niskanen 은 curl 에 막힘). communityvoiceks.com 2026-07-25 'afraid of losing coverage' 는 wypr 와 같은 Gallup 보도. 한국 직장인 피부양자 1인칭 글 여전히 미발견",
-      "createdAt": "2026-10-29T15:43:50.266Z",
-      "seq": 2699
-    },
-    {
-      "id": "7fc0b5ec",
-      "title": "tightwad-spending 보강: 공공 파편, retail-therapy 대립 후보",
-      "priority": 50,
-      "note": "2026-10-29 재탐색: kca.go.kr 웹진 kca_1903 '아까운 돈' 기고는 대상별 아까움이라 성향과 다름. 미확인 후보 korea.kr 148961206 무지출 챌린지, bok.or.kr nttId=10017654 젊은 경제주체 소비 성향. 클리앙 park/19148358 (2026-02-22) '돈을 쓰는 것은 피해야 할 일이라는 인식'(인과, 어린 시절 가난 문서가 생기면 간선). Fed SHED, ECB 예비적 저축은 상황 대응이라 뺌",
-      "createdAt": "2026-10-29T15:47:32.346Z",
-      "seq": 2702
-    },
-    {
-      "id": "94b4e27c",
-      "title": "daytime-napping 보강: 낮잠 뒤 더 피곤함, guilt-about-resting 관계",
-      "priority": 50,
-      "note": "2026-10-29 계절 조건은 korea.kr 148850695 [^6] 로 더함. 남은 후보: clien park/19276407 (2026-10-12 낮잠은 오히려 더 피곤, 이 환경에서 clien 403 일 수 있음). 1993 서울신문 [^1] 게으름 시선과 guilt-about-resting 관계 근거 미탐색",
-      "createdAt": "2026-10-29T18:33:32.704Z",
-      "seq": 2711
-    },
-    {
-      "id": "03c2da3c",
-      "title": "crying-at-sad-stories 보강: 카타르시스 결과 간선",
-      "priority": 50,
-      "note": "2026-10-29 HN 29260892 (2021-11-18) 울고 나면 liberating, cathartic 더함. 카타르시스 문서 없음(graph find 결과 없음). 매일신문 2007 [^3] 도 카타르시스 쾌감. 새 현상 '울고 난 뒤 후련함' 문서가 생기면 결과 간선",
-      "createdAt": "2026-10-29T21:29:55.095Z",
-      "seq": 2727
-    },
-    {
-      "id": "3ad147cb",
-      "title": "rubbernecking 보강: 플라톤 레온티오스, forbidden-curiosity 관계",
-      "priority": 50,
-      "note": "2026-10-29 연합뉴스 2022 현장구경 정의 더함. 남은 후보: 세계일보 2012-01-06 독자투고 aid=20120106003863 (투고자 실명 있음, 서지 판단 필요), 국가 4권 레온티오스 gutenberg 1497",
-      "createdAt": "2026-10-29T21:39:06.901Z",
-      "seq": 2729
-    },
-    {
-      "id": "ba536b96",
-      "title": "behaving-better-when-watched 보강: 평판 신경 쓰기 관계",
-      "priority": 50,
-      "note": "2026-10-30 클리앙 15480028 댓글 더함. 평판 신경 쓰기 문서 없음. 후보 Nettle 보도자료 [^5] 'As we care what other people think about us' 를 원인 근거로 쓸 상대 문서 필요",
-      "createdAt": "2026-10-30T03:10:53.388Z",
-      "seq": 2743
-    },
-    {
-      "id": "593efd16",
-      "title": "regifting 과 feigning-delight-at-gifts 관계",
-      "priority": 50,
-      "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 싫다고 인정하는 대신 재선물. 원인 간선 근거로는 약함. 2026-10-30 공통 상위(선물이 싫다고 말하지 않기) 후보. 후보 casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
-      "createdAt": "2026-10-30T03:15:46.639Z",
-      "seq": 2746
-    },
-    {
-      "id": "dee32ff6",
-      "title": "rereading-messages-before-sending 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-10-30 문학 2개 더함. 후보 vrbib.rutgers.edu/full-record?entry=5410 Walther 2007 CHB 편집 행동(다시 읽기는 직접 말하지 않음)",
-      "createdAt": "2026-10-30T03:19:58.759Z",
-      "seq": 2748
-    },
-    {
-      "id": "44f23a37",
-      "title": "reading-symptoms-and-suspecting-illness 와 health-anxiety 관계",
-      "priority": 50,
-      "note": "2026-10-30 Moss-Morris 2001 PubMed 11489098 의대생 병 고통과 hypochondriacal concerns 함께 측정. 상위 또는 원인 간선 근거 필요",
-      "createdAt": "2026-10-30T03:36:35.021Z",
-      "seq": 2749
-    },
-    {
-      "id": "fa4939d8",
-      "title": "no-tears-at-funeral 보강: 2000년 이전 비문학 파편, 관계",
-      "priority": 50,
-      "note": "2026-10-30 추가. 후보: cancerchat.cancerresearchuk.org dying-with-cancer 54895 (2010-04-30) 무례로 볼까 걱정, amimagazine.org 2019-05-15 shivah 첫 며칠 눈물 없음, 아우구스티누스 고백록 Gutenberg 3296 9권 12장 'returned without tears'(울음 누름에 가까움)",
-      "createdAt": "2026-10-30T06:14:21.077Z",
-      "seq": 2759
-    },
-    {
-      "id": "d5dc6196",
-      "title": "relief-after-caregiving-death 보강: 나타나지 않는 조건, 관계",
-      "priority": 50,
-      "note": "2026-10-30 추가. Bass & Bowman 1990 Gerontologist 30(1) PMID 2311960 돌봄 부담이 클수록 사별 적응이 어려움(초록 페이지 미확인). Levy 1976 PMC2158200 사별 직후 emotional relief 15.2%. Sons and Lovers Gutenberg 217 'perhaps a little relief'. no-tears-at-funeral 과 관계 후보",
-      "createdAt": "2026-10-30T06:20:11.636Z",
-      "seq": 2761
-    },
-    {
-      "id": "10184f81",
-      "title": "own-face-in-photos 보강: 사진 찍히기 회피, disliking-recorded-own-voice 관계",
-      "priority": 50,
-      "note": "2026-10-30 추가. 후보: Leacock Gutenberg 23449 'To me it is but a worthless bauble.' 사진을 받지 않고 나감, Straight Dope 522727 1쪽 2009-12-28 사진 찍히기 불편, Epley & Whitchurch 2008 PMID 18550861 자기 얼굴을 실제보다 매력적으로 알아봄(PubMed 쿠키 페이지 주의)",
-      "createdAt": "2026-10-30T06:24:12.364Z",
-      "seq": 2762
-    },
-    {
-      "id": "57181210",
-      "title": "anniversary-grief 보강: 한국어 파편, 제사·기일 문학",
-      "priority": 50,
-      "note": "2026-10-30 추가. 한국어 매체와 위키문헌 제삿날 대목 못 찾음. 후보: Rostila 2015 자녀 기일 주 어머니 사망 위험 SMRR 1.46(아버지는 증가 없음), Musaph 1990 전쟁 40여 년 뒤 추모일 반응, Tennyson LXX 폭풍 치는 기일과 XCVII 맑은 기일 대비",
-      "createdAt": "2026-10-30T06:27:19.575Z",
-      "seq": 2763
-    },
-    {
-      "id": "5d8f336d",
-      "title": "avoiding-places-of-the-lost 보강: 문학, 한국어 매체 파편",
-      "priority": 50,
-      "note": "2026-10-30 추가. 문학 장면 못 찾음(Gutenberg 75편 정규식 무소득). 후보: Proust Gutenberg 7178 스완이 오데트의 국화와 편지를 둔 서랍장 앞을 돌아감(물건), 문화일보 11396741 (2023-11-21) 요양원 앞을 지날 때 눈시울(회피 아님), Straight Dope 193996 11번 댓글 이혼 뒤 옛 단골 피함",
-      "createdAt": "2026-10-30T06:30:46.132Z",
-      "seq": 2764
-    },
-    {
-      "id": "8ef74473",
-      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편, 고인 번호로 문자 보내기",
-      "priority": 50,
-      "note": "2026-10-30 추가. 후보: Straight Dope 701242 6번 댓글 2003년 아버지 목소리 자동응답기 못 지움, Bassett 2019 Warwick 박사논문 Fear of Second Loss(초록 문장 202자), Walter 2015 PMC4606816",
-      "createdAt": "2026-10-30T06:34:01.764Z",
-      "seq": 2765
-    },
-    {
-      "id": "df48eb37",
-      "title": "burning-farm-waste 보강: working-through-heat 관계",
-      "priority": 50,
-      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
-      "createdAt": "2026-10-30T09:06:29.139Z",
-      "seq": 2801
-    },
     {
       "id": "dfbb8e01",
       "title": "muting-chat-notifications 보강: 학술 파편",
@@ -515,6 +387,118 @@
       "note": "2026-10-30 추가. 멍때리기는 아무 생각 없는 상태라 별개 현상 후보: 서울신문 20160509500196 (2016-05-09) 첫 한강 대회, 경향 202504180941011 (2025-04-18), 세계일보 20210804510416 (2021-08-04) 정의, mediahub 2008049 (2023-05-26) 아무것도 하지 않을 때의 불안. 딴생각 후보: Smallwood & Schooler 2015 PMID 25293689 정의, Killingsworth 2010 PMID 21071660, The Voyage Out Gutenberg 144, HN 24100455 같은 쪽에 5분. doodling 과 관계 근거 필요",
       "createdAt": "2026-10-30T18:34:13.976Z",
       "seq": 2899
+    },
+    {
+      "id": "c4bed3f9",
+      "title": "staying-in-job-for-health-insurance 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-10-29 knewsla 2026-08-15 직업 고착 별칭 더함. loss-aversion 과 job lock 을 인과로 이은 원문 미발견(EPI, Niskanen 은 curl 에 막힘). communityvoiceks.com 2026-07-25 'afraid of losing coverage' 는 wypr 와 같은 Gallup 보도. 한국 직장인 피부양자 1인칭 글 여전히 미발견",
+      "createdAt": "2026-10-30T21:06:31.042Z",
+      "seq": 2914
+    },
+    {
+      "id": "07a366ca",
+      "title": "daytime-napping 보강: 낮잠 뒤 더 피곤함, guilt-about-resting 관계",
+      "priority": 50,
+      "note": "2026-10-29 계절 조건은 korea.kr 148850695 [^6] 로 더함. 남은 후보: clien park/19276407 (2026-10-12 낮잠은 오히려 더 피곤, 이 환경에서 clien 403 일 수 있음). 1993 서울신문 [^1] 게으름 시선과 guilt-about-resting 관계 근거 미탐색",
+      "createdAt": "2026-10-30T21:06:31.190Z",
+      "seq": 2915
+    },
+    {
+      "id": "a1bac17c",
+      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
+      "priority": 50,
+      "note": "2026-10-30 호주 재무부 2020 보고서 [^5] 는 PDF 라 미확인. 후보 DWP 2026-07 RP0908 PDF 'reluctant to use their savings, even where they were available'(예비적 동기와 섞임). korea.kr 은 이 환경에서 연결이 끊김. retail-therapy 대립 근거 파편 미발견",
+      "createdAt": "2026-10-30T21:14:20.946Z",
+      "seq": 2916
+    },
+    {
+      "id": "3fdf164d",
+      "title": "relief-after-crying 보강: 나타나지 않는 조건, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-30 추가. Gračanin 2015 PMID 26500382 초록은 실험실 직후에는 기분이 나빠진다고 함(한 출처 한 파편이라 다른 출처 필요). 주간경향 2008 18168 의 '후련하다' 대목은 실명 붙어 뺌. crying-in-secret 과 관계 후보",
+      "createdAt": "2026-10-30T21:19:02.755Z",
+      "seq": 2917
+    },
+    {
+      "id": "3b0a7c68",
+      "title": "rubbernecking 보강: forbidden-curiosity 관계",
+      "priority": 50,
+      "note": "2026-10-30 플라톤 국가 4권 레온티오스 [^1] 더함(보고 싶음과 혐오가 함께). 대립 또는 상위 근거 파편 필요. 세계일보 2012-01-06 독자투고 aid=20120106003863 은 투고자 실명 있음",
+      "createdAt": "2026-10-30T21:20:02.483Z",
+      "seq": 2918
+    },
+    {
+      "id": "57e62588",
+      "title": "minding-what-others-think 보강: 학술 파편, fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-30 추가. 후보 Nezlek 2019 PMID 30007076 public self-consciousness 와 옷차림 자기제시 동기, Gilovich 2000 PMID 10707330 spotlight-effect 와 관계 근거 후보. kormedi 1610925 의 71.9% 남들에게 보이기 위한 행동(showing-off-possessions 관계 후보)",
+      "createdAt": "2026-10-30T21:23:02.547Z",
+      "seq": 2919
+    },
+    {
+      "id": "221a338b",
+      "title": "regifting 과 feigning-delight-at-gifts 관계",
+      "priority": 50,
+      "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 싫다고 인정하는 대신 재선물. 원인 간선 근거로는 약함. 2026-10-30 공통 상위(선물이 싫다고 말하지 않기) 후보. 후보 casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
+      "createdAt": "2026-10-30T21:23:07.662Z",
+      "seq": 2920
+    },
+    {
+      "id": "f776b8c6",
+      "title": "no-tears-at-funeral 보강: 관계, 무정하게 볼까 걱정하는 면의 2000년 이전 파편",
+      "priority": 50,
+      "note": "2026-10-30 Levy 1976 PMID 957295 멍함 78.3% 더함. 후보: Parkes 1975 PMID 1182377 initial period of numbness, Darwin 1872 Gutenberg 1227 6장 Englishmen rarely cry(문화 차이). relief-after-crying, crying-in-secret 관계 근거 미탐색",
+      "createdAt": "2026-10-30T21:30:29.595Z",
+      "seq": 2921
+    },
+    {
+      "id": "f6dca8c5",
+      "title": "relief-after-caregiving-death 보강: 관계",
+      "priority": 50,
+      "note": "2026-10-30 Bass & Bowman 1990 [^3] 나타나지 않는 조건 더함. 후보 Levy 1976 PMID 957295 사별 직후 emotional relief 15.2%(간병 여부 불명), Sons and Lovers Gutenberg 217 'perhaps a little relief'. no-tears-at-funeral, relief-after-crying 과 관계 근거 미탐색",
+      "createdAt": "2026-10-30T21:31:15.342Z",
+      "seq": 2922
+    },
+    {
+      "id": "d35c62c1",
+      "title": "own-face-in-photos 보강: 사진 찍히기 회피, disliking-recorded-own-voice 관계",
+      "priority": 50,
+      "note": "2026-10-30 Epley 2008 PMID 18550861 [^2] 더함. 남은 후보: Leacock Gutenberg 23449 사진을 받지 않고 나감, Straight Dope 522727 1쪽 2009-12-28 사진 찍히기 불편. 녹음된 자기 목소리와 공통 상위 근거 미탐색",
+      "createdAt": "2026-10-30T21:32:01.744Z",
+      "seq": 2923
+    },
+    {
+      "id": "a0568020",
+      "title": "anniversary-grief 보강: 한국어 파편, 제사·기일 문학",
+      "priority": 50,
+      "note": "2026-10-30 추가. 한국어 매체와 위키문헌 제삿날 대목 못 찾음(2026-10-30 재검색도 영어 결과뿐). Rostila 2015 는 이미 [^3]. 후보: Musaph 1990 전쟁 40여 년 뒤 추모일 반응, Tennyson LXX 폭풍 치는 기일과 XCVII 맑은 기일 대비, healthtalk.org 는 hexi.ox.ac.uk 로 옮겨 감(기일 몇 주 전이 더 힘듦 대목 미확인)",
+      "createdAt": "2026-10-30T21:32:47.975Z",
+      "seq": 2924
+    },
+    {
+      "id": "575f39e7",
+      "title": "avoiding-places-of-the-lost 보강: 문학, 한국어 매체 파편",
+      "priority": 50,
+      "note": "2026-10-30 추가. 문학 장면 못 찾음(Gutenberg 75편 정규식 무소득). Proust Gutenberg 7178 은 이미 5개 문서가 써서 못 씀. 2026-10-30 한국어 검색 무소득. 후보: 문화일보 11396741 (2023-11-21) 요양원 앞을 지날 때 눈시울(회피 아님), Straight Dope 193996 11번 댓글 이혼 뒤 옛 단골 피함",
+      "createdAt": "2026-10-30T21:33:14.525Z",
+      "seq": 2925
+    },
+    {
+      "id": "eba4aa89",
+      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편, 고인 번호로 문자 보내기",
+      "priority": 50,
+      "note": "2026-10-30 추가. Straight Dope 701242 는 이미 [^1] 이라 같은 출처 못 씀. 후보: Bassett 2019 Warwick 박사논문 Fear of Second Loss(초록 문장 202자), Walter 2015 PMC4606816. 2010년 이전 후보 미발견",
+      "createdAt": "2026-10-30T21:33:27.838Z",
+      "seq": 2926
+    },
+    {
+      "id": "3a36e8cc",
+      "title": "burning-farm-waste 보강: working-through-heat 관계",
+      "priority": 50,
+      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
+      "createdAt": "2026-10-30T21:33:34.577Z",
+      "seq": 2927
     },
     {
       "id": "d16898d2",
