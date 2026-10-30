@@ -10,7 +10,9 @@
 
 2018년 연구[^2]에서 평가받는 상황에 대한 두려움 점수가 높은 참가자일수록 부정 감정이 더 약하게 담긴 시선도 부정 감정으로 판단했다. 저자들은 이 결과를 사회불안 경향이 높은 사람이 약한 부정 감정의 시선을 부정 감정으로 해석하고 위협으로 여기는 경향으로 읽었다.
 
-2026년 10월 잡지 글[^3]은 말수가 적고 표정이 어두운 동료를 보고 "내가 뭐 잘못했나?" 하는 생각이 자주 드는 일을 높은 불안도와 이어 적었다.
+2019년 6월 지식iN 게시글[^3]의 글쓴이는 친구들의 표정이 안 좋으면 괜히 자기 탓인 것 같고 자신이 싫어졌는지, 뭘 잘못했는지 생각하며 불안해하다가 친구 표정이 좋아지면 안도한다고 적었다.
+
+2026년 10월 잡지 글[^4]은 말수가 적고 표정이 어두운 동료를 보고 "내가 뭐 잘못했나?" 하는 생각이 자주 드는 일을 높은 불안도와 이어 적었다.
 
 # 관계
 
@@ -38,4 +40,5 @@
 
 [^1]: [학술] "high social anxiety subjects have a bias towards identifying others' emotional expressions as negative in the absence of an enhanced ability to discriminate between different emotional states" (사회불안이 높은 참가자는 서로 다른 감정 상태를 더 잘 구별하는 능력 없이 다른 사람의 감정 표현을 부정적인 것으로 판별하는 쪽으로 치우친다) — E. C. Winton, D. M. Clark, R. J. Edelmann, 「Social anxiety, fear of negative evaluation and the detection of negative emotion in others」, Behaviour Research and Therapy 33(2), 1995-02, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7887878&rettype=abstract&retmode=text, 2026-10-27 접속
 [^2]: [학술] "This result suggests individuals with a high tendency toward social anxiety tend to interpret subtle negative emotional gazes as a negative emotion and regard these gazes as a threat." (이 결과는 사회불안 경향이 높은 사람이 약한 부정적 감정의 시선을 부정적 감정으로 해석하고 이 시선을 위협으로 여기는 경향이 있음을 시사한다.) — Y. Tsuji, S. Shimada, 「Socially Anxious Tendencies Affect Impressions of Others' Positive and Negative Emotional Gazes」, Frontiers in Psychology 9, 2018-11-01, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30443237&rettype=abstract&retmode=text, 2026-10-28 접속
-[^3]: [매체] "평소보다 말수가 적고 표정도 어두운 동료를 보고, 머릿속에서 ‘내가 뭐 잘못했나?’라는 생각이 자주 드는 편이라면 평소 불안도가 높지 않은 지 체크해 보아야 할 때입니다." — 박은아, 「상대의 기분이 안 좋아 보이면 ‘내 탓인가?’ 생각하는 이들의 공통점」, W Korea, 2026-10-05, https://www.wkorea.com/?p=456089, 2026-10-27 접속
+[^3]: [SNS] "저는 제친구들이 표정이 안좋으면 괜히 제탓인것같고 어제 그거때문에 내가 싫어졌나? 내가 뭘 잘못했나? 이런생각이 들어서 자꾸 불안해하다가 친구 표정이 좋아지면 다시 안도하고" — 네이버 지식iN 게시글, 2019-06-28, https://kin.naver.com/qna/detail.naver?dirId=110407&docId=330120386, 2026-10-30 접속
+[^4]: [매체] "평소보다 말수가 적고 표정도 어두운 동료를 보고, 머릿속에서 ‘내가 뭐 잘못했나?’라는 생각이 자주 드는 편이라면 평소 불안도가 높지 않은 지 체크해 보아야 할 때입니다." — 박은아, 「상대의 기분이 안 좋아 보이면 ‘내 탓인가?’ 생각하는 이들의 공통점」, W Korea, 2026-10-05, https://www.wkorea.com/?p=456089, 2026-10-27 접속
