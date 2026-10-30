@@ -4491,15 +4491,15 @@
   },
   "https://news.ycombinator.com/item?id=36794740": {
     "first": "2026-10-20",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.eweek.com/news/ghostworking-survey-workplace-culture/": {
     "first": "2026-10-20",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www150.statcan.gc.ca/n1/daily-quotidien/150618/dq150618b-eng.htm": {
     "first": "2026-10-20",
@@ -4623,15 +4623,15 @@
   },
   "https://news.ycombinator.com/item?id=2799543": {
     "first": "2026-10-20",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://link.springer.com/article/10.1007/s40821-023-00243-6": {
     "first": "2026-10-20",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=27961392": {
     "first": "2026-10-20",
@@ -12259,15 +12259,15 @@
   },
   "https://bizhankook.com/articles/5568.html": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://econpapers.repec.org/RePEc:oup:jconrs:v:44:y:2017:i:1:p:118-138.": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12511522/fullTextXML": {
     "first": "2026-10-28",
@@ -13571,6 +13571,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://www.wndu.com/2024/08/22/forgetting-something-these-are-most-frequently-lost-items-america": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.gutenberg.org/cache/epub/21249/pg21249-images.html": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
