@@ -13,6 +13,7 @@
 - [높은 곳에서 뛰어내리고 싶은 충동](../docs/urge-to-jump-from-heights.md) 높은 곳의 가장자리에 선 사람이 뛰어내리고 싶은 충동을 순간 느낀다.
 - [누구에게 말했는지 잊기](../docs/destination-memory-failure.md) 이야기나 정보를 남에게 전한 사람이 그것을 누구에게 이미 말했는지 잊는다.
 - [뒤늦게 떠오른 대답](../docs/staircase-wit.md) 대화나 말다툼이 끝난 뒤에야 사람이 그 자리에서 했어야 할 대답을 떠올린다.
+- [딴생각](../docs/mind-wandering.md) 하던 일을 하는 사람의 생각이 그 일과 상관없는 데로 흘러간다.
 - [미래 기억 실패](../docs/prospective-memory-failure.md) 나중에 할 일을 정해 둔 사람이 그때가 와도 그 일을 떠올리지 못하고 지나친다.
   - [차 안에 아이를 잊고 내리기](../docs/forgetting-child-in-car.md)
 - [반추](../docs/rumination.md) 사람이 지난 일이나 자기 문제와 실수를 결론 없이 되풀이해 곱씹는다.
