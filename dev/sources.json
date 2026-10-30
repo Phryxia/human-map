@@ -7520,9 +7520,9 @@
   },
   "https://www.gutenberg.org/cache/epub/6688/pg6688-images.html": {
     "first": "2026-10-22",
-    "last": "2026-10-24",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-30"
   },
   "https://ideas.repec.org/a/ucp/jacres/doi10.1086-714363.html": {
     "first": "2026-10-22",
@@ -14629,5 +14629,17 @@
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "UNREACHABLE"
+  },
+  "https://weekly.khan.co.kr/article/18168": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/26500382/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
   }
 }
