@@ -116,6 +116,7 @@
 - [뒷좌석 안전띠 미착용](docs/rear-seat-belt-nonuse.md) ([길과 운전](groups/roads-and-driving.md))
 - [들킬까 두려워하기](docs/fear-of-being-found-out.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [등교 거부](docs/school-refusal.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [떠난 사람과 다니던 장소 피하기](docs/avoiding-places-of-the-lost.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [또래 유행 따라 사기](docs/following-peer-fashion.md) ([돈과 소비](groups/money.md))
 - [또래 음주량 과대 추정](docs/overestimating-peer-drinking.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [렌즈 낀 채 잠들기](docs/sleeping-in-contact-lenses.md) ([건강과 위험](groups/health-and-safety.md))
