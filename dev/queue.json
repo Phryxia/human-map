@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-30T09:39:14.253Z",
-  "nextSeq": 2833,
-  "stops": 144,
+  "savedAt": "2026-10-30T12:37:56.512Z",
+  "nextSeq": 2846,
+  "stops": 145,
   "items": [
     {
       "id": "b409667d",
@@ -379,6 +379,54 @@
       "note": "2026-10-29 후보: psychologytoday 202008 six-common-ways-people-justify-unethical-behavior, Larson Capra 2009 moral wiggle room. 2026-10-30 지식iN '자기합리화' 글들(495572645 등)은 나쁜 결과 뒤 핑계 대기라 별개 현상",
       "createdAt": "2026-10-30T09:39:13.072Z",
       "seq": 2831
+    },
+    {
+      "id": "7d63d665",
+      "title": "saving-seats-with-belongings 보강: 확인되는 공공 파편",
+      "priority": 50,
+      "note": "2026-10-30 영종국제도서관 이용규칙 [^1] 은 curl 로는 열리나 node fetch, https.get 모두 프록시에서 ECONNRESET 라 미확인. 대체 후보 rainbowlib.go.kr 이용예절(이번 회차 본문에서 문구 못 찾음), elis.go.kr 시립도서관 운영 규칙 열람실 조항. 2026 Frontiers Li 외 'shift from opposing seat occupation to participating in it' 는 같은 출처라 못 씀",
+      "createdAt": "2026-10-30T12:17:12.123Z",
+      "seq": 2840
+    },
+    {
+      "id": "5d502390",
+      "title": "not-drinking-tap-water 보강: SNS 파편, 수질 사고 뒤 불신",
+      "priority": 50,
+      "note": "2026-10-30 후보 mediahub 2001025 (2021-03-24 시민기자, 녹물·유충 뉴스 뒤 불신, 매체), Rosinger 2021 같은 페이지 플린트 전후 비율(한 출처 한 파편), 2010 서울신문 아리수 조사 m.go.seoul.co.kr/news/2010/01/29/20100129026016 막연한 불안감 29.6% 미확인",
+      "createdAt": "2026-10-30T12:25:34.776Z",
+      "seq": 2841
+    },
+    {
+      "id": "e6325861",
+      "title": "forgetting-reusable-bags 보강: 텀블러 사 모으기, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-30 후보 WRAP 같은 글 'forgetting to take bags from home' 이유(한 출처 한 파편), heraldk 2026031201400032217 텀블러 수집 목적(미열람), committees.parliament.uk writtenevidence 47293 (Cloudflare 막힘)",
+      "createdAt": "2026-10-30T12:28:52.630Z",
+      "seq": 2842
+    },
+    {
+      "id": "a0869b1b",
+      "title": "escalator-one-line-standing 보강: 학술·SNS 파편, TfL Holborn 실험",
+      "priority": 50,
+      "note": "2026-10-30 tfl.gov.uk 403 봇 확인. 후보 mediahub 819416 (2014-11-17) '사람들이 잘 안 지키는 것이 에스컬레이터 승차 시 두 줄로 서서 타기다' 미확인. 2026 행안부 원 보도자료 못 찾음",
+      "createdAt": "2026-10-30T12:33:09.926Z",
+      "seq": 2843
+    },
+    {
+      "id": "a0e05a42",
+      "title": "tossing-cigarette-butts 보강: SNS·매체 파편",
+      "priority": 50,
+      "note": "2026-10-30 후보 PMC3397372 같은 초록 55.7% 지난달 땅·하수구 투기(한 출처 한 파편), keepbritaintidy.org/cigarette-butts-are-rubbish (발행일 미상, 쓰레기통 없을 때). '11% of smokers do not consider cigarette butts to be litter' 원 출처 미확인",
+      "createdAt": "2026-10-30T12:36:28.193Z",
+      "seq": 2844
+    },
+    {
+      "id": "fd5f374d",
+      "title": "skipping-handwashing 보강: SNS 파편, 응답과 관찰 행동 차이",
+      "priority": 50,
+      "note": "2026-10-30 kdca 312943 [^6] 같은 페이지에 '평소 올바른 손씻기 실천' 응답 51.2% 대 관찰 11.4%(한 출처 한 파편이라 못 씀). 후보 korea.kr 148797533 (2015-07-02, 원문 %% 오타), kbmaeil 201210160048198 (2012, 원문 백틱)",
+      "createdAt": "2026-10-30T12:37:45.411Z",
+      "seq": 2845
     },
     {
       "id": "d16898d2",
