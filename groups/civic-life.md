@@ -8,6 +8,7 @@
 - [기부하지 않기](../docs/not-donating.md) 기부를 요청받거나 기부를 떠올린 사람이 형편이 안 된다거나 단체를 믿을 수 없다는 이유로 돈을 내지 않거나 더 내지 않는다.
 - [기후 행동 하지 않기](../docs/climate-inaction.md) 기후변화를 아는 사람이 기후를 위해 생활을 바꾸거나 다른 사람과 함께 행동하지 않는다.
 - [길에 쓰레기 버리기](../docs/littering.md) 밖에서 쓰레기가 생긴 사람이 쓰레기통이 아닌 길이나 주변에 두고 간다.
+  - [담배꽁초 길에 버리기](../docs/tossing-cigarette-butts.md)
 - [노력이 소용없다는 생각](../docs/feeling-ones-effort-makes-no-difference.md) 사람이 자기 한 사람의 행동이 결과에 차이를 만들지 못한다고 생각한다.
   - [신고해도 소용없다는 믿음](../docs/believing-reporting-is-futile.md)
 - [다원적 무지](../docs/pluralistic-ignorance.md) 집단 안의 사람이 속으로는 이해하지 못하거나 동의하지 않으면서 다른 사람들은 이해하거나 동의한다고 믿고 겉으로 따른다.
