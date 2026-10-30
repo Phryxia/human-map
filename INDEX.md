@@ -49,6 +49,7 @@
 - [기분 회복 행동](docs/mood-repair.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [기분을 달래려는 소비](docs/retail-therapy.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [기시감](docs/deja-vu.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [기일 무렵 되살아나는 슬픔](docs/anniversary-grief.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [기준점 의존](docs/reference-dependence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [기침할 때 가리지 않기](docs/not-covering-coughs.md) ([건강과 위험](groups/health-and-safety.md))
 - [기후 행동 하지 않기](docs/climate-inaction.md) ([시민 참여와 공공의 일](groups/civic-life.md))
