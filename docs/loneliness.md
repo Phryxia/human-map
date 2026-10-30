@@ -16,6 +16,8 @@
 
 2025년 3월 논문[^9]의 저자들은 외로움을 많이 느낄수록 FoMO 가 높아지고 이것이 SNS 과다 사용으로 이어진다고 적는다. 같은 달 코메디닷컴 기사는 혼밥이 잦으면 사회적 고립감이 커질 수 있다는 보고서 내용을 전하고 일주일 내내 혼밥을 한 사람의 38%가 외로움을 느꼈다고 적었다.[^10] 2025년 9월 안선경 등은 선행 연구가 외로움 같은 정신건강 문제를 청년기 고립은둔으로 옮겨 가는 과정을 앞당기는 요인으로 보고해 왔다고 적었다.[^11]
 
+2026년 5월 아동 종단 연구[^12]에서 첫 조사 때 지루함이 높았던 아동은 두 번째 조사 때 외로움이 더 높았다.
+
 # 관계
 
 ## 상위
@@ -28,7 +30,7 @@
 
 ## 원인
 
-- [지루함](boredom.md)[^8]
+- [지루함](boredom.md)[^8][^12]
 - [혼자 먹는 식사의 감정](eating-alone-feelings.md)[^10]
 
 ## 결과
@@ -57,3 +59,4 @@
 [^9]: [학술] "Therefore, the more the individual experiences feelings of loneliness, the higher the levels of FoMO, which ultimately leads to the overuse of social networking sites." (그러므로 개인이 외로움을 많이 느낄수록 FoMO 수준이 높아지고 이것이 결국 소셜 네트워킹 사이트의 과다 사용으로 이어진다.) — Yuhua Wang, Yufei Sun, Taiping Li 외, "The longitudinal relationship between loneliness and problematic social networking site use in college students: the mediating role of trait- and state-fear of missing out", Frontiers in Psychology 16, 2025-03-19, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1477239/full, 2026-10-22 접속
 [^10]: [매체] "혼밥이 너무 잦으면 사회적 고립감이 커지고 행복감을 떨어뜨릴 수 있다는 것이다. 일주일 동안 줄곧 혼밥을 한 사람들은 38%가 외로움을 느낀 것으로 조사됐다." — 김용, 「혼밥 먹는 사람들...“외로워” vs “나만의 시간”...가장 나쁜 식습관은?」, 코메디닷컴, 2025-03-24, https://kormedi.com/2707535/, 2026-10-17 접속
 [^11]: [학술] "선행 연구에서는 아동기에 경험한 부정적 생애경험은 성인기 우울과 외로움 등 정신건강 문제로 이어질 가능성이 높으며, 이러한 정신건강 문제는 청년기의 고립은둔으로 이행되는 과정을 가속화할 수 있는 요인으로 작용함을 보고해 왔다." — 안선경, 김소연, 정익중, 「고립은둔 청년의 성인기 후 부정적 생애경험 유형화」, 보건사회연구 45(3), 2025-09, https://www.kihasa.re.kr/hswr/v.45/3/383/%EA%B3%A0%EB%A6%BD%EC%9D%80%EB%91%94+%EC%B2%AD%EB%85%84%EC%9D%98+%EC%84%B1%EC%9D%B8%EA%B8%B0+%ED%9B%84+%EB%B6%80%EC%A0%95%EC%A0%81+%EC%83%9D%EC%95%A0%EA%B2%BD%ED%97%98+%EC%9C%A0%ED%98%95%ED%99%94, 2026-10-17 접속
+[^12]: [학술] "Conversely, higher boredom at T1 predicted higher loneliness at T2" (반대로 T1 의 지루함이 높을수록 T2 의 외로움이 높았다) — Paweł Grygiel, Sylwia Opozda-Suder, Roman Dolata, 「The Longitudinal Interplay Between Loneliness and Depressive Symptoms During Late Childhood: Cross-Lagged Panel Network Analyses」, European Journal of Investigation in Health, Psychology and Education 16(6), 2026-05-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC13298037/, 2026-10-30 접속
