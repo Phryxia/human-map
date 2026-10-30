@@ -41,6 +41,7 @@
 - [물건에 이름 붙이고 사람처럼 대하기](treating-objects-as-companions.md)
 - [놓칠까 두려운 마음](fear-of-missing-out.md)[^9]
 - [적막해서 TV 켜 두기](leaving-tv-on-for-company.md)[^4]
+- [동물에게 말 걸기](talking-to-animals.md)[^4]
 
 ## 대립
 
