@@ -1558,9 +1558,9 @@
   },
   "https://hangyo.com/news/article.html?no=109529": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.eia.gov/todayinenergy/detail.php?id=37072": {
     "first": "2026-10-18",
@@ -11570,21 +11570,21 @@
   },
   "https://mediahub.seoul.go.kr/archives/1055052": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://singletrackworld.com/forum/off-topic/to-those-who-run-towards-danger/": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32406697&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=1003323&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -13960,6 +13960,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://www.cravemag.co.uk/why-cant-we-sleep-the-night-before-a-flight/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://eric.ed.gov/?id=ED056320": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
