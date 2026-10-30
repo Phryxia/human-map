@@ -32,6 +32,7 @@
 - [시기심](../docs/envy.md) 자기와 비슷한 처지에서 출발한 사람이 자기에게 중요한 영역에서 앞선 것을 본 사람이 고통이나 분함을 느끼고 그 이점을 갖고 싶어 한다.
   - [승진에서 밀린 뒤의 분함](../docs/passed-over-for-promotion.md)
   - [악의적 시기](../docs/malicious-envy.md)
+  - [온화한 시기](../docs/benign-envy.md)
 - [애정을 거친 말이나 행동으로 드러내기](../docs/rough-affection.md) 가까운 사람을 아끼는 사람이 그 마음을 다정한 말 대신 퉁명스러운 말이나 놀림으로 드러낸다.
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)
   - [좋아하는 상대 괴롭히기](../docs/teasing-someone-liked.md)

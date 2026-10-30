@@ -3291,9 +3291,9 @@
   },
   "https://kormedi.com/1347382/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8711567/": {
     "first": "2026-10-19",
@@ -14230,6 +14230,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12318589/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19485619&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
