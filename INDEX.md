@@ -26,6 +26,7 @@
 - [결혼 전 불안](docs/pre-wedding-doubts.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [경보 피로](docs/alarm-fatigue.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 구급차 호출](docs/nonurgent-ambulance-calls.md) ([건강과 위험](groups/health-and-safety.md))
+- [경증 응급 의료 이용](docs/nonurgent-emergency-care-use.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 응급실 이용](docs/nonurgent-emergency-room-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [계단 대신 에스컬레이터와 엘리베이터 타기](docs/taking-escalator-over-stairs.md) ([건강과 위험](groups/health-and-safety.md))
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))

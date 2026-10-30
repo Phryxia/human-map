@@ -8912,9 +8912,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9132851/": {
     "first": "2026-10-24",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.heraldk.com/article/2026042221000053240": {
     "first": "2026-10-24",
@@ -13936,6 +13936,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://community.sueryder.org/t/dreaming-of-my-mum/6978": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://v.daum.net/v/20230720063011121": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",

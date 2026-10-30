@@ -18,7 +18,7 @@
 
 ## 상위
 
-없음.
+- [경증 응급 의료 이용](nonurgent-emergency-care-use.md)
 
 ## 하위
 
