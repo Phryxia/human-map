@@ -14,7 +14,9 @@
 
 2015년 Hacker News 댓글[^5]의 글쓴이는 웃으며 언젠가 점심을 먹자고 하고 상대가 연락해 와도 답하지 않는 것을 요즘 사람을 거절하는 방식으로 적었다.
 
-2025년 12월 Hacker News 댓글[^6]의 글쓴이는 날짜 없이 언제 한번 놀자고 하는 말을 구체적인 계획이 아니라 친절의 표시로 읽는다.
+2021년 12월 지식iN 게시글[^6]의 글쓴이는 가끔 전화하면 만나지도 않을 거면서 언제 한번 밥이나 먹자, 얼굴이나 보자는 마음에도 없는 말을 하는 이유를 물었다.
+
+2025년 12월 Hacker News 댓글[^7]의 글쓴이는 날짜 없이 언제 한번 놀자고 하는 말을 구체적인 계획이 아니라 친절의 표시로 읽는다.
 
 # 관계
 
@@ -45,4 +47,5 @@
 [^3]: [학술] "People sometimes extend invitations they don't intend to be taken seriously. We call these ostensible invitations." (사람들은 때로 진지하게 받아들여지기를 바라지 않는 초대를 건넨다. 우리는 이를 표면적 초대라고 부른다.) — Ellen A. Isaacs, Herbert H. Clark, 「Ostensible invitations」, Language in Society 19(4), 1990-12, https://www.cambridge.org/core/journals/language-in-society/article/abs/ostensible-invitations1/09879C56035C6B7E2AC205B2D5061043, 2026-10-27 접속
 [^4]: [매체] "이를테면 ‘빈말 인사’라는 것이다. 서로가 그렇게 되지 않을 줄 다 알면서 주고받는 말이기 때문에 더욱 그렇다는 것이다." — 박인기, 「밥이 소통이다」, 한국교육신문, 2014-09-01, https://hangyo.com/mobile/article.html?no=77663, 2026-10-27 접속
 [^5]: [SNS] "people down nowadays seems to be to smile and say "sure, we should get lunch one of these days, you can contact me at my email/IM/Facebook/whatever", and then never reply when they contact you." (요즘 사람을 거절하는 방식은 웃으면서 "그래, 언제 점심 한번 먹자, 이메일이든 메신저든 페이스북이든 연락해" 라고 말하고는 상대가 연락해 와도 답하지 않는 것인 듯하다.) — Hacker News 댓글, 2015-01-24, https://news.ycombinator.com/item?id=8938548, 2026-10-29 접속
-[^6]: [SNS] "If you're just saying it generally, that "we should hang out sometime", it's just them being nice rather than having concrete plans." (그냥 막연하게 "언제 한번 놀자" 고 하는 거라면 구체적인 계획이 있어서가 아니라 친절하게 구는 것일 뿐이다.) — Hacker News 댓글, 2025-12-29, https://news.ycombinator.com/item?id=46417156, 2026-10-27 접속
+[^6]: [SNS] "가끔씩 전화하면 만나지도 않을거면서 "언제 한번 밥이나 먹자" "언제 한번 얼굴이나 보자" 이런 마음에도 없는 말을 하는데 이유가 뭔가요?" — 네이버 지식iN 게시글, 2021-12-09, https://kin.naver.com/qna/detail.naver?dirId=80101&docId=406875913, 2026-10-30 접속
+[^7]: [SNS] "If you're just saying it generally, that "we should hang out sometime", it's just them being nice rather than having concrete plans." (그냥 막연하게 "언제 한번 놀자" 고 하는 거라면 구체적인 계획이 있어서가 아니라 친절하게 구는 것일 뿐이다.) — Hacker News 댓글, 2025-12-29, https://news.ycombinator.com/item?id=46417156, 2026-10-27 접속
