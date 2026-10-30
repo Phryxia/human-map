@@ -14,6 +14,8 @@
 
 2026년 문헌 고찰[^5]은 고인 꿈의 공통 주제로 위안, 인도, 고인과 이어진 느낌을 든다.
 
+2026년 9월 지식iN 게시글[^6]의 글쓴이는 얼마 전 할아버지 산소에 다녀와서인지 몇 년 만에 할아버지가 꿈에 나왔다고 적었다.
+
 # 관계
 
 ## 상위
@@ -43,3 +45,4 @@
 [^3]: [SNS] "I wake up remembering I will never hear her voice for real again and that hurts a lot." (잠에서 깨면 다시는 엄마 목소리를 실제로 듣지 못한다는 것이 떠오르고 그게 몹시 아프다.) — community.sueryder.org 댓글, 2017-12-13, https://community.sueryder.org/t/dreaming-of-my-mum/6978, 2026-10-30 접속
 [^4]: [매체] "꿈에서라도 한 번 쯤 보고 싶었지만 일 년이 넘도록 한번도 나타나지 않았다. 무정한 세월만을 탓하며 그저 잘못한 일들만 기억 속에 맴돌았다." — 김연주, "첫 꿈", 전북일보, 2021-07-22, https://www.jjan.kr/article/20210722736917, 2026-10-30 접속
 [^5]: [학술] "Common themes included feelings of comfort, guidance, and continued connection with deceased loved ones." (공통 주제에는 위안, 인도, 사랑하는 고인과 이어지는 느낌이 있었다.) — Zulkayda Mamat 외, "Dreams of the deceased: A scoping and mixed-methods systematic review", Sleep Medicine 140, 2026-04, https://pubmed.ncbi.nlm.nih.gov/41570642/, 2026-10-30 접속
+[^6]: [SNS] "제가 얼마전에 할아버지 산소를 갔다와서 그런지 몇 년만에 할아버지가 꿈에 나왔어요" — 네이버 지식iN 게시글, 2026-09-27, https://kin.naver.com/qna/detail.naver?dirId=31505&docId=495324424, 2026-10-30 접속
