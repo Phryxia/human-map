@@ -14156,5 +14156,29 @@
     "last": "2026-10-30",
     "result": "VERIFIED",
     "lastVerified": "2026-10-30"
+  },
+  "https://m.korea.kr/briefing/policyBriefingView.do?endDate=&gubun=&newsId=148678725&pageIndex=&srchType=&srchWord=&startDate=": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://news.seoul.go.kr/traffic/archives/12495": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://m.korea.kr/briefing/policyBriefingView.do?endDate=&gubun=&newsId=148794612&pageIndex=&srchType=&srchWord=&startDate=": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.wikitree.co.kr/articles/1155567": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
   }
 }
