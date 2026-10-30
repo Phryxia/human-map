@@ -1019,9 +1019,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1399/pg1399-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://ko.wikisource.org/wiki/%EC%A7%81%EB%85%80%EC%84%B1/%EC%A0%9C12%EC%9E%A5": {
     "first": "2026-10-18",
@@ -3615,9 +3615,9 @@
   },
   "https://www.americamagazine.org/politics-society/dispatches/2015/04/30/email-debt-forgiveness-day-jubilee-rest-us/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/3167/pg3167-images.html": {
     "first": "2026-10-19",
@@ -3897,15 +3897,15 @@
   },
   "https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-10-66": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.psychologytoday.com/us/blog/romantically-attached/202410/why-friends-dont-always-text-back": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://today.uconn.edu/2016/08/privacy-paradox/": {
     "first": "2026-10-19",
@@ -14278,6 +14278,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://bravo.etoday.co.kr/view/atc_view/18631": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.refinery29.com/en-gb/late-replies-whatsapp-excuses": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",

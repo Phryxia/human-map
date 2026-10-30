@@ -10,7 +10,9 @@
 
 2010년 면담 연구[^2]에서 스웨덴 젊은 성인들은 답하지 않은 전화와 문자가 죄책감으로 이어질 수 있다고 말했다. 2015년 글[^3]의 글쓴이는 답장을 쓰는 데 오래 걸릴수록 죄책감과 수치감이 쌓인다고 적었다.
 
-2025년 글[^4]의 저자는 답장하지 못한 채 시간이 지나 생긴 어색함이 죄책감이 되고 그 죄책감이 답장을 더 피하게 만든다고 적었다.
+2021년 12월 Refinery29 글[^4]의 글쓴이는 책을 읽거나 목욕을 하는 시간에도 아직 메시지에 답하지 않았다는 죄책감이 따라붙는다고 썼다.
+
+2025년 글[^5]의 저자는 답장하지 못한 채 시간이 지나 생긴 어색함이 죄책감이 되고 그 죄책감이 답장을 더 피하게 만든다고 적었다.
 
 # 관계
 
@@ -28,7 +30,7 @@
 
 ## 결과
 
-- [답장 미루기](delaying-message-replies.md)[^4]
+- [답장 미루기](delaying-message-replies.md)[^5]
 
 ## 대립
 
@@ -39,4 +41,5 @@
 [^1]: [문학] "He sent the saddle without an answer, and with a sense of having done something shameful;" (그는 답장 없이 안장을 보냈고 부끄러운 일을 했다는 느낌이 들었다.) — Leo Tolstoy, Anna Karenina, Part Three, Chapter 24, Constance Garnett 옮김, Project Gutenberg, 1878, https://www.gutenberg.org/cache/epub/1399/pg1399-images.html, 2026-10-19 접속
 [^2]: [학술] "Unreturned calls or SMS messages could lead to feelings of guilt." (답하지 않은 전화나 문자 메시지는 죄책감으로 이어질 수 있었다.) — Sara Thomée, Lotta Dellve, Annika Härenstam, Mats Hagberg, "Perceived connections between information and communication technology use and mental symptoms among young adults - a qualitative study", BMC Public Health 10:66, 2010-02-12, https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-10-66, 2026-10-19 접속
 [^3]: [매체] "The problem is, the longer it takes to actually craft a response, the greater the guilt and shame that builds up." (문제는 실제로 답장을 쓰는 데 오래 걸릴수록 죄책감과 수치감이 더 쌓인다는 것이다.) — Jim McDermott, "Email Debt Forgiveness Day: A Jubilee for the Rest of Us", America Magazine, 2015-04-30, https://www.americamagazine.org/politics-society/dispatches/2015/04/30/email-debt-forgiveness-day-jubilee-rest-us/, 2026-10-19 접속
-[^4]: [매체] "That awkwardness turns into guilt, and that guilt leads to further avoidance of responding." (그 어색함은 죄책감이 되고, 그 죄책감은 답장을 더 피하게 만든다.) — Mariana Bockarova, "Why Friends Don't Always Text Back", Psychology Today, 2025-09-17, https://www.psychologytoday.com/us/blog/romantically-attached/202410/why-friends-dont-always-text-back, 2026-10-19 접속
+[^4]: [매체] "Every 'mindful' hour I spend trying to read a book or take a bath is tainted by the faint, scratching guilt at the back of my brain that says I still haven’t messaged so-and-so back about that thing." (책을 읽거나 목욕을 하며 보내려는 '마음 챙김' 시간마다 아직 아무개에게 그 일로 답장을 보내지 않았다고 말하는 희미하고 긁는 듯한 죄책감이 머릿속 뒤편에 묻어 있다.) — Lauren Bravo, 「Why I’m Done Apologising For Replying Late To People」, Refinery29, 2021-12-10, https://www.refinery29.com/en-gb/late-replies-whatsapp-excuses, 2026-10-30 접속
+[^5]: [매체] "That awkwardness turns into guilt, and that guilt leads to further avoidance of responding." (그 어색함은 죄책감이 되고, 그 죄책감은 답장을 더 피하게 만든다.) — Mariana Bockarova, "Why Friends Don't Always Text Back", Psychology Today, 2025-09-17, https://www.psychologytoday.com/us/blog/romantically-attached/202410/why-friends-dont-always-text-back, 2026-10-19 접속
