@@ -24,7 +24,7 @@
 
 ## 원인
 
-없음.
+- [읽고 답하지 않기](leaving-messages-on-read.md)[^7]
 
 ## 결과
 
