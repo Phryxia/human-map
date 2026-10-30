@@ -19,6 +19,7 @@
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
+- [운전을 그만둔 뒤의 고립](../docs/isolation-after-driving-cessation.md) 운전을 그만둔 노인이 밖에 나가는 일을 줄이고 남과 떨어져 고립감을 느낀다.
 - [은둔형 외톨이](../docs/social-withdrawal-at-home.md) 대인관계의 어려움을 포함한 여러 이유로 사람이 다른 사람과의 관계를 끊고 집에 머문다.
 - [이삿날 빈집 둘러보기](../docs/last-look-at-empty-house.md) 이사를 떠나는 사람이 짐을 뺀 빈집을 마지막으로 둘러보며 낯섦과 아쉬움을 느낀다.
 - [장례에서 눈물이 나지 않음](../docs/no-tears-at-funeral.md) 가까운 사람이 죽은 자리에서 눈물이 나지 않는 사람이 그것을 이상하게 여기거나 남들이 자기를 무정하게 볼까 신경 쓴다.
