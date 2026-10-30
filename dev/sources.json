@@ -4419,15 +4419,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10988380/": {
     "first": "2026-10-20",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.cdc.gov/mmwr/volumes/75/wr/mm7519a2.htm": {
     "first": "2026-10-20",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=13811411": {
     "first": "2026-10-20",
@@ -12859,9 +12859,9 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/8376674/": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/161/pg161-images.html#chap49": {
     "first": "2026-10-29",
@@ -13356,9 +13356,9 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/12507347/": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://geniet.co.kr/community/freetalk/10041166": {
     "first": "2026-10-29",
@@ -13404,9 +13404,9 @@
   },
   "https://www.cbsnews.com/news/are-your-kids-getting-burned/": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.korea.kr/news/reporterView.do?newsId=148897176": {
     "first": "2026-10-29",
@@ -14020,6 +14020,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=80101&docId=493718368": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://kin.naver.com/qna/detail.naver?dirId=8030104&docId=302877328": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
