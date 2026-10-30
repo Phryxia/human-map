@@ -278,6 +278,7 @@
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [외출 전 옷 여러 번 갈아입기](docs/trying-on-outfits-before-going-out.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [용변 뒤 손 씻지 않기](docs/not-washing-hands-after-toilet.md) ([건강과 위험](groups/health-and-safety.md))
 - [우편물 뜯지 않기](docs/leaving-mail-unopened.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [운명이나 신을 탓하기](docs/blaming-fate-or-god.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [운전 그만두기 미루기](docs/delaying-driving-cessation.md) ([길과 운전](groups/roads-and-driving.md))

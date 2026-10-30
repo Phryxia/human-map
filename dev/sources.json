@@ -1858,9 +1858,9 @@
   },
   "https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do": {
     "first": "2026-10-18",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15738853&resultType=core&format=json": {
     "first": "2026-10-18",
@@ -14086,6 +14086,24 @@
     "lastVerified": "2026-10-30"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1863222/full": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/23621052/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148781222": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.segye.com/newsView/20231016517163": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
