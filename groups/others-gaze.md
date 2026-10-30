@@ -14,6 +14,7 @@
 - [부모가 창피함](../docs/embarrassed-by-parents.md) 자녀가 남이 보는 자리에서 부모의 말이나 행동이나 집안 모습을 창피하게 여긴다.
 - [부정적 평가에 대한 두려움](../docs/fear-of-negative-evaluation.md) 사람이 다른 사람에게 부정적으로 평가받을 수 있는 상황에서 불안과 긴장을 느낀다.
 - [빈대 생긴 일 숨기기](../docs/hiding-bedbug-infestation.md) 집에 빈대가 생긴 사람이 창피하거나 불이익이 두려워 주변과 집주인에게 알리지 않고 숨긴다.
+- [사진 속 내 얼굴의 낯섦](../docs/own-face-in-photos.md) 자기가 찍힌 사진을 본 사람이 거울에서 보던 얼굴보다 사진 속 얼굴이 낯설거나 못나게 나왔다고 느낀다.
 - [사회불안의 안전 행동](../docs/social-anxiety-safety-behaviors.md) 사회적 상황에서 불안한 사람이 남의 눈에 띄거나 부정적으로 보이지 않으려고 눈 맞춤을 피하거나 말수를 줄인다.
   - [되풀이 사과](../docs/over-apologizing.md)
 - [사회적 상황 앞의 예기불안](../docs/anticipatory-social-anxiety.md) 다가올 발표나 회의 같은 사회적 상황을 앞둔 사람이 그 장면을 미리 떠올리며 불안해한다.
