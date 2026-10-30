@@ -1372,9 +1372,9 @@
   },
   "https://journals.vu.lt/IM/en/article/view/46449": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://kottke.org/99/10/i-just-unsubscribed-from-a": {
     "first": "2026-10-18",
@@ -14248,6 +14248,18 @@
     "lastVerified": "2026-10-30"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21270447&rettype=abstract&retmode=text": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.fnnews.com/news/201104241750437867": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://weekly.khan.co.kr/article/202607250600051": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
