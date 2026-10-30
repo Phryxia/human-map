@@ -131,6 +131,7 @@
 - [리베이트 받지 않기](docs/rebate-slippage.md) ([돈과 소비](groups/money.md))
 - [리콜 수리 받지 않기](docs/ignoring-vehicle-recalls.md) ([길과 운전](groups/roads-and-driving.md))
 - [마음에 들지 않는 선물에 기뻐하는 척하기](docs/feigning-delight-at-gifts.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [말 안 하기로 화 드러내기](docs/silent-treatment.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [말을 피하려고 자는 척하기](docs/pretending-to-sleep-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [메시징 의존](docs/messaging-dependency.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [메신저 알림 꺼 두기](docs/muting-chat-notifications.md) ([메시지와 휴대전화](groups/messages-and-phones.md))

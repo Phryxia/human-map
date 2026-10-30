@@ -21,6 +21,7 @@
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
   - [돈 빌려 달라는 말 꺼내기 부끄러워하기](../docs/shame-asking-to-borrow-money.md)
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
+- [말 안 하기로 화 드러내기](../docs/silent-treatment.md) 다툰 뒤 화가 난 사람이 상대에게 일부러 말을 하지 않는다.
 - [명절 귀성 포기](../docs/skipping-holiday-homecoming.md) 명절에 고향이나 부모 집에 갈 수 있는 사람이 가지 않고 지내던 곳에 남기로 한다.
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
