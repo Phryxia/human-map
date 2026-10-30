@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-30T15:38:38.153Z",
-  "nextSeq": 2890,
-  "stops": 146,
+  "savedAt": "2026-10-30T18:36:21.403Z",
+  "nextSeq": 2900,
+  "stops": 147,
   "items": [
     {
       "id": "6cc9b41f",
@@ -475,6 +475,46 @@
       "note": "2026-10-30 위키문헌 이차돈의_사 action=raw: 처녀들이 달님을 '일변 부럽기도 하고 일변 밉기도 하였다. 그러나 내일 아침이면 달님이 크게 경을 치리라 하면 고소하기도 하였다'. schadenfreude 원인 간선 근거 후보",
       "createdAt": "2026-10-30T15:38:17.070Z",
       "seq": 2889
+    },
+    {
+      "id": "494ecb7c",
+      "title": "pretending-to-have-read-books 보강: 대화에 끼려는 동기, 관계",
+      "priority": 50,
+      "note": "2026-10-30 추가. 후보: Paulhus 2003 PMID 12703655 over-claiming(없는 항목 20%), Refinery29 2017-04-22 18~24세 64%(Reading Agency 와 같은 조사), Vanity Fair Gutenberg 599 오즈번 영감이 손자 공부 이야기를 아는 척, Northanger Abbey Gutenberg 121 소프. pretending-to-understand, overreporting-desirable-behavior 와 관계 근거 필요",
+      "createdAt": "2026-10-30T18:11:39.080Z",
+      "seq": 2895
+    },
+    {
+      "id": "9ace4905",
+      "title": "making-excuses-to-skip-plans 와 company-dinner-pressure, urge-to-cancel-plans 관계",
+      "priority": 50,
+      "note": "2026-10-30 추가. company-dinner-pressure 요약에 '빠질 핑계를 찾는다', 클리앙 park/12390339 는 그 문서 [^2] 라 재사용 불가. 후보: 서울신문 2008-06-17 기사 제사, 선약 사례, Global News 2807021 (2016-07-07) 미국인 80% 외출 피하려 거짓말, iheart 2019-08-23 43% 죄책감(같은 출처라 [^7] 과 바꿀 때만), Givi & Kirk 2024 PMID 38079463 거절 결과 과대평가, Age of Innocence Gutenberg 541 previous engagement 관습",
+      "createdAt": "2026-10-30T18:18:25.884Z",
+      "seq": 2896
+    },
+    {
+      "id": "1af83bca",
+      "title": "silent-treatment 보강: 관계, 한국어 매체, 받는 쪽 반응",
+      "priority": 50,
+      "note": "2026-10-30 추가. partner-conflict, apology-reluctance 와 관계 근거 필요. 후보: Dvir, Beşikci, Williams 2026 PMID 41418500 배척을 신체 학대보다 해롭게 평가, 스포츠경향 201710171752003 (2017-10-17) 투명인간 취급 복수전, Psychology Today 202209 침묵을 끝낼 방법에 사로잡힘, 클리앙 kin/18911270 (2025-02-05) 냉전 중 사실은 풀고 싶다, 같은 글 댓글 20년 냉전 반복, Bleak House Gutenberg 1023 이웃끼리 몇 주 말 섞지 않음",
+      "createdAt": "2026-10-30T18:22:28.825Z",
+      "seq": 2897
+    },
+    {
+      "id": "2352ef26",
+      "title": "doodling 보강: 지루함 원인 간선, 공공 파편",
+      "priority": 50,
+      "note": "2026-10-30 추가. 후보: Andrade 같은 초록 'Doodling is a way of passing the time when bored by a lecture or telephone call', EurekAlert 823877 (2009-02-26) 지루하면 공상, BPS Research Digest 2009-12-18 공책 칸 칠하기, PBS NOVA 2014-07-28 필기 대신 그림, BBC Bitesize zmdpmfr (2019-09-19) 통화 중 낙서 모양, Guelph 2024-10-18 부주의의 표시로 여겨짐, Ulysses Gutenberg 4300 타자수가 메모장에 끄적임. 지루함 문서 있으면 원인 간선",
+      "createdAt": "2026-10-30T18:28:53.418Z",
+      "seq": 2898
+    },
+    {
+      "id": "7409d57a",
+      "title": "mind-wandering 보강: 멍때리기, boredom 관계, 2000년 이전 비문학",
+      "priority": 50,
+      "note": "2026-10-30 추가. 멍때리기는 아무 생각 없는 상태라 별개 현상 후보: 서울신문 20160509500196 (2016-05-09) 첫 한강 대회, 경향 202504180941011 (2025-04-18), 세계일보 20210804510416 (2021-08-04) 정의, mediahub 2008049 (2023-05-26) 아무것도 하지 않을 때의 불안. 딴생각 후보: Smallwood & Schooler 2015 PMID 25293689 정의, Killingsworth 2010 PMID 21071660, The Voyage Out Gutenberg 144, HN 24100455 같은 쪽에 5분. doodling 과 관계 근거 필요",
+      "createdAt": "2026-10-30T18:34:13.976Z",
+      "seq": 2899
     },
     {
       "id": "d16898d2",
