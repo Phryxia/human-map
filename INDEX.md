@@ -327,6 +327,7 @@
 - [장 볼 때 필요보다 많이 사기](docs/overbuying-groceries.md) ([돈과 소비](groups/money.md))
 - [장기기증 등록 미루기](docs/delaying-organ-donor-registration.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [장례에서 눈물이 나지 않음](docs/no-tears-at-funeral.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [장바구니와 텀블러 챙기지 않기](docs/forgetting-reusable-bags.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [재난 문자 무시하기](docs/ignoring-emergency-alerts.md) ([건강과 위험](groups/health-and-safety.md))
 - [재활용되기를 바라며 재활용함에 넣기](docs/wishcycling.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [저녁형 성향](docs/evening-chronotype.md) ([시간과 하루 습관](groups/daily-time.md))

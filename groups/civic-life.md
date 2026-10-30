@@ -17,6 +17,7 @@
   - [보복이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-reprisal.md)
 - [분리배출 하지 않기](../docs/not-sorting-recyclables.md) 가정에서 재활용할 수 있는 쓰레기를 사람이 분리하지 않고 일반 쓰레기와 함께 버린다.
 - [자원봉사 하지 않기](../docs/not-volunteering.md) 자원봉사를 떠올린 사람이 시간이 없다는 이유로 봉사하지 않는다.
+- [장바구니와 텀블러 챙기지 않기](../docs/forgetting-reusable-bags.md) 장바구니나 텀블러를 가진 사람이 집을 나설 때 그것을 챙기지 않아 일회용 봉투나 컵을 쓴다.
 - [재활용되기를 바라며 재활용함에 넣기](../docs/wishcycling.md) 재활용될지 확실하지 않은 물건을 사람이 재활용되기를 바라며 재활용함에 넣는다.
 - [정치 무력감](../docs/political-inefficacy.md) 유권자가 정부와 정치인이 자기 같은 사람의 생각에 관심이 없고 자기 표가 결정을 바꾸지 못한다고 믿는다.
 - [주운 지갑 돌려주기](../docs/returning-lost-wallets.md) 돈이 든 남의 지갑이나 분실물을 주운 사람이 그것을 경찰이나 주인에게 돌려준다.
