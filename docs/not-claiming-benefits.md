@@ -23,6 +23,7 @@
 ## 상위
 
 - [도움 요청 회피](help-seeking-avoidance.md)
+- [받을 돈 찾아가지 않기](unclaimed-money.md)
 
 ## 하위
 

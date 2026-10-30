@@ -25,6 +25,7 @@
 ## 하위
 
 - [리베이트 받지 않기](rebate-slippage.md)
+- [복지 급여 미신청](not-claiming-benefits.md)
 
 ## 원인
 
