@@ -22,7 +22,7 @@
 
 ## 하위
 
-없음.
+- [고인의 전화번호 지우지 못하기](keeping-deceaseds-phone-number.md)
 
 ## 원인
 

@@ -19,6 +19,7 @@
 - [또래 유행 따라 사기](../docs/following-peer-fashion.md) 아이나 청소년이 또래가 모두 가진 옷이나 물건을 자기도 가지려고 사거나 사 달라고 조른다.
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
   - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
+    - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
   - [안 쓰는 휴대폰 집에 두기](../docs/keeping-old-phones.md)
 - [물려받을 재산 기대하기](../docs/counting-on-inheritance.md) 사람이 부모나 친척에게서 물려받을 재산을 자기 살림 계산에 넣고 기대한다.
 - [받을 돈 찾아가지 않기](../docs/unclaimed-money.md) 사람이 자기가 받을 수 있는 환급금, 예금, 보험금을 찾아가지 않고 내버려 둔다.
