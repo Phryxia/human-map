@@ -827,15 +827,15 @@
   },
   "https://ko.wikisource.org/wiki/%EB%A9%94%EB%B0%80%EA%BD%83_%ED%95%84_%EB%AC%B4%EB%A0%B5": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.livescience.com/8530-older-people-repeat-stories.html": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://news.seoul.go.kr/gov/archives/540969": {
     "first": "2026-10-17",
@@ -13642,6 +13642,18 @@
     "lastVerified": "2026-10-30"
   },
   "https://www.clien.net/service/board/cm_tour/12397271": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/20718537/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://pann.nate.com/talk/371783982": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
