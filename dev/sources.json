@@ -14030,5 +14030,17 @@
     "last": "2026-10-30",
     "result": "VERIFIED",
     "lastVerified": "2026-10-30"
+  },
+  "https://kin.naver.com/qna/detail.naver?dirId=70109&docId=256678733": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7174434/": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
   }
 }

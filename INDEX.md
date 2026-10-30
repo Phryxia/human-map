@@ -5,6 +5,7 @@
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
 - [가난을 숨기려는 또래 관계 회피](docs/poverty-peer-withdrawal.md) ([돈과 소비](groups/money.md))
+- [가면 증후군](docs/impostor-phenomenon.md) ([일터와 일자리](groups/work.md))
 - [가족이 받은 칭찬을 대신 낮추기](docs/downplaying-praise-of-family.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [가진 것 과시하기](docs/showing-off-possessions.md) ([돈과 소비](groups/money.md))
 - [간병 끝 사별의 안도](docs/relief-after-caregiving-death.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
