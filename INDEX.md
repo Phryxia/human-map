@@ -374,6 +374,7 @@
 - [퇴근 뒤 업무 연락에 답하기](docs/after-hours-work-replies.md) ([일터와 일자리](groups/work.md))
 - [퇴근 뒤 일 생각 곱씹기](docs/work-rumination-after-hours.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [퇴근 시간 기다리며 시계 보기](docs/clock-watching-at-work.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [퇴사 결심](docs/deciding-to-quit-job.md) ([일터와 일자리](groups/work.md))
 - [퇴직 뒤 허전함](docs/retirement-emptiness.md) ([일터와 일자리](groups/work.md))
 - [투표 불참](docs/not-voting.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [투표했다고 거짓으로 답하기](docs/claiming-to-have-voted.md) ([시민 참여와 공공의 일](groups/civic-life.md))
