@@ -34,7 +34,7 @@
 
 ## 원인
 
-없음.
+- [남의 시선 의식하기](minding-what-others-think.md)[^5]
 
 ## 결과
 
