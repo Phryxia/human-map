@@ -4515,15 +4515,15 @@
   },
   "https://www.grammarly.com/blog/workplace-email-report/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://news.ycombinator.com/item?id=40657815": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01088/full": {
     "first": "2026-10-20",
@@ -13612,6 +13612,18 @@
     "lastVerified": "2026-10-30"
   },
   "https://www.wikitree.co.kr/articles/588249": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.gutenberg.org/cache/epub/4274/pg4274-images.html": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.gutenberg.org/cache/epub/5231/pg5231-images.html": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
