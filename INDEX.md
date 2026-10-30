@@ -138,6 +138,7 @@
 - [명절 잔소리를 웃음으로 넘기기](docs/laughing-off-holiday-nagging.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [명절 친지 모임 피하기](docs/skipping-holiday-gatherings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [모르는 번호의 전화 받지 않기](docs/not-answering-unknown-numbers.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [모르는 번호의 전화를 받고 먼저 말하지 않기](docs/answering-unknown-calls-silently.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [모인 자리에서 말하지 않기](docs/staying-quiet-in-groups.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [무단횡단](docs/jaywalking.md) ([길과 운전](groups/roads-and-driving.md))
 - [문과 전기 기구 다시 확인하기](docs/rechecking-door-and-stove.md) ([걱정과 기분](groups/worry-and-mood.md))

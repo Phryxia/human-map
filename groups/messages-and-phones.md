@@ -10,6 +10,7 @@
 - [메시징 의존](../docs/messaging-dependency.md) 휴대전화로 메시지를 주고받는 사람이 답이 오지 않거나 읽음 표시가 바뀌지 않으면 불안해서 화면을 거듭 확인한다.
 - [메신저 알림 꺼 두기](../docs/muting-chat-notifications.md) 메신저를 쓰는 사람이 대화방에서 나가지 않고 그 방이나 상대의 알림만 꺼 둔다.
 - [모르는 번호의 전화 받지 않기](../docs/not-answering-unknown-numbers.md) 휴대전화를 쓰는 사람이 저장되지 않은 번호로 걸려 온 전화를 받지 않는다.
+- [모르는 번호의 전화를 받고 먼저 말하지 않기](../docs/answering-unknown-calls-silently.md) 모르는 번호의 전화를 받은 사람이 인사하지 않고 상대가 먼저 말할 때까지 기다린다.
 - [반응 없는 게시물 지우기](../docs/deleting-posts-with-few-reactions.md) 소셜 미디어에 글이나 사진을 올린 사람이 반응이 적으면 그 게시물을 지운다.
 - [받은 편지와 메시지 되풀이해 읽기](../docs/rereading-received-messages.md) 사람이 가까운 사람에게서 받은 편지나 메시지를 몇 번이고 다시 읽는다.
 - [배송 조회 되풀이하기](../docs/checking-parcel-tracking.md) 온라인으로 주문한 물건을 기다리는 사람이 배송 조회 페이지를 되풀이해 확인한다.
