@@ -3003,14 +3003,14 @@
   },
   "https://www.clien.net/service/board/park/9222948": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://link.springer.com/article/10.1186/s40101-022-00317-w": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
-    "result": "VERIFIED",
+    "last": "2026-10-30",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-28"
   },
   "https://www.clien.net/service/board/park/18218641": {
@@ -12733,9 +12733,9 @@
   },
   "https://www.gutenberg.org/cache/epub/107/pg107-images.html": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/599/pg599-images.html": {
     "first": "2026-10-28",
@@ -12757,9 +12757,9 @@
   },
   "https://www.vogue.co.kr/2018/08/22/%ec%97%ac%eb%9f%ac-%ea%b0%9c-%ec%bc%9c%eb%91%94-%ec%95%8c%eb%9e%8c%ec%9d%b4-%eb%a7%8c%ec%84%b1%ed%94%bc%eb%a1%9c%eb%a1%9c-%ec%9d%b4%ec%96%b4%ec%a7%88-%ec%88%98-%ec%9e%88%eb%8b%a4/": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://interaksyon.philstar.com/hobbies-interests/2023/11/10/264515/overwhelmed-by-group-chat-messages-youre-not-alone/": {
     "first": "2026-10-28",
@@ -13954,6 +13954,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=110407&docId=330120386": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.cravemag.co.uk/why-cant-we-sleep-the-night-before-a-flight/": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
