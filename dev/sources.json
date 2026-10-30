@@ -5432,26 +5432,26 @@
   },
   "https://wwwnc.cdc.gov/eid/article/12/10/05-1471_article": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.who.int/europe/news/item/21-11-2022-1-in-3-use-antibiotics-without-prescription--who-europe-s-study-shows": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.mt.co.kr/thebio/2023/10/23/2023102315080049470": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://doctornow.co.kr/content/qna/6eeb596d1ab74827bc1ae90733fa1dcd": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
-    "result": "VERIFIED",
+    "last": "2026-10-30",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://www.gutenberg.org/cache/epub/1597/pg1597-images.html": {
@@ -5606,9 +5606,9 @@
   },
   "https://pids.org/2023/11/22/in-the-news-leftover-antibiotics-major-barrier-to-antimicrobial-stewardship/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://link.springer.com/article/10.1007/BF00845372": {
     "first": "2026-10-20",
@@ -5834,9 +5834,9 @@
   },
   "https://www.healio.com/news/infectious-disease/20231108/leftover-antibiotics-major-barrier-to-antimicrobial-stewardship": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-30"
   },
   "https://www.seoul.co.kr/news/plan/now/2019/07/15/20190715017002": {
     "first": "2026-10-21",
@@ -11672,21 +11672,21 @@
   },
   "https://www.sbs.com.au/news/australians-hoarding-medicines-survey": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.epa.gov/household-medication-disposal/safe-storage-medicines-home": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://mediahub.seoul.go.kr/archives/2002909": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.scarymommy.com/parenting/do-you-lie-awake-worrying-when-your-teen-is-out-at-night": {
     "first": "2026-10-27",
@@ -13972,6 +13972,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=814&docId=486338158": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://www.ums.ac.id/en/news/research/why-keeping-antibiotics-at-home-can-be-risky": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",

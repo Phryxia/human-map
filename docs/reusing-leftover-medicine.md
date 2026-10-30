@@ -14,6 +14,8 @@
 
 2024년 한 의료 상담 앱의 질문 글쓴이는 소변을 볼 때 잔뇨감과 통증이 있다며 집에 먹다 남은 항생제를 먹어도 되는지 묻는다.[^6]
 
+2026년 6월 대학 기사[^7]에서 연구자는 의료기관이 문을 닫은 때 응답자들이 집에 이미 약이 있으니 다시 쓰면 된다고 여기게 된다고 전했다.
+
 # 관계
 
 ## 상위
@@ -27,6 +29,7 @@
 ## 원인
 
 - [나아지면 약 끊기](stopping-medication-when-feeling-better.md)[^5]
+- [남은 약 버리지 않고 두기](keeping-leftover-medicines.md)[^7]
 
 ## 결과
 
@@ -44,3 +47,4 @@
 [^4]: [매체] "For those who stopped antibiotics early, 74% kept the leftover antibiotics." (항생제를 일찍 끊은 사람 가운데 74% 는 남은 항생제를 보관했다.) — "Leftover antibiotics major barrier to antimicrobial stewardship", Healio, 2023-11-08, https://www.healio.com/news/infectious-disease/20231108/leftover-antibiotics-major-barrier-to-antimicrobial-stewardship, 2026-10-21 접속
 [^5]: [매체] "Most people acquired leftover antibiotics because they stopped taking prescribed antibiotics early due to feeling better" (사람들 대부분은 몸이 나아져서 처방받은 항생제를 일찍 끊었기 때문에 남은 항생제를 갖게 되었다) — Pediatric Infectious Diseases Society, "In the News: Leftover antibiotics major barrier to antimicrobial stewardship", 2023-11-22, https://pids.org/2023/11/22/in-the-news-leftover-antibiotics-major-barrier-to-antimicrobial-stewardship/, 2026-10-20 접속
 [^6]: [SNS] "소변볼때 잔뇨감이 있고 통증도 조금 있어요. 혹시 집에 전에 먹다남은 항생제가있는데 먹어도되나요?" — 닥터나우 질문 게시글, 2024-01-20, https://doctornow.co.kr/content/qna/6eeb596d1ab74827bc1ae90733fa1dcd, 2026-10-20 접속
+[^7]: [매체] "They end up feeling they already have medicine at home and can just use it again" (결국 집에 이미 약이 있으니 그냥 다시 쓰면 된다고 느끼게 된다) — Genis Dwi Gustati, 「Why Keeping Antibiotics at Home Can Be Risky」, Universitas Muhammadiyah Surakarta, 2026-06-19, https://www.ums.ac.id/en/news/research/why-keeping-antibiotics-at-home-can-be-risky, 2026-10-30 접속

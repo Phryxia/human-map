@@ -12,6 +12,8 @@
 
 2023년 미국 환경보호청 페이지[^3]가 인용한 조사에서 37%는 남은 처방약을 나중에 쓰려고 보관했다.
 
+2026년 6월 대학 기사[^4]에서 연구자는 의료기관이 문을 닫은 때 응답자들이 집에 이미 약이 있으니 다시 쓰면 된다고 여기게 된다고 전했다.
+
 # 관계
 
 ## 상위
@@ -28,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [남은 약 다시 먹기](reusing-leftover-medicine.md)[^4]
 
 ## 대립
 
@@ -39,3 +41,4 @@
 [^1]: [매체] "Other common reasons for not throwing medicines away included not wanting to waste money, not knowing how to dispose of them" (약을 버리지 않는 다른 흔한 이유로는 돈을 낭비하고 싶지 않은 것, 버리는 방법을 모르는 것이 있었다) — "Australians hoarding medicines: survey", SBS News, 2017-12-20, https://www.sbs.com.au/news/australians-hoarding-medicines-survey, 2026-10-27 접속
 [^2]: [매체] "이 중엔 같은 증상이 생기면 ‘다시 쓸 일이 있겠지’ 하며 보관한 것도 있다." — "먹다 남은 약, 쓰레기봉투에 그냥 버리면 안된다?", 내 손안에 서울, 2021-10-13, https://mediahub.seoul.go.kr/archives/2002909, 2026-10-27 접속
 [^3]: [공공] "showed that 37% of people kept their leftover prescriptions for future use." (37% 가 남은 처방약을 나중에 쓰려고 보관했음을 보여 주었다.) — U.S. Environmental Protection Agency, "Safe Storage of Medicines in the Home", 2023-11-21, https://www.epa.gov/household-medication-disposal/safe-storage-medicines-home, 2026-10-27 접속
+[^4]: [매체] "They end up feeling they already have medicine at home and can just use it again" (결국 집에 이미 약이 있으니 그냥 다시 쓰면 된다고 느끼게 된다) — Genis Dwi Gustati, 「Why Keeping Antibiotics at Home Can Be Risky」, Universitas Muhammadiyah Surakarta, 2026-06-19, https://www.ums.ac.id/en/news/research/why-keeping-antibiotics-at-home-can-be-risky, 2026-10-30 접속
