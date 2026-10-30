@@ -1738,9 +1738,9 @@
   },
   "https://www.gutenberg.org/cache/epub/141/pg141-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-29",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm": {
     "first": "2026-10-18",
@@ -11612,15 +11612,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=490308&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://brunch.co.kr/@loiskim01/422": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-10-30"
   },
   "https://www.seoul.co.kr/news/society/2026/06/11/20260611500016": {
     "first": "2026-10-27",
@@ -13966,6 +13966,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://eric.ed.gov/?id=ED056320": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://kin.naver.com/qna/detail.naver?dirId=814&docId=486338158": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",
