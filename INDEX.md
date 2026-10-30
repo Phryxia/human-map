@@ -316,6 +316,7 @@
 - [일터에서 바쁜 척하기](docs/pretending-to-be-busy.md) ([일터와 일자리](groups/work.md))
 - [읽고 답하지 않기](docs/leaving-messages-on-read.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [읽음 표시를 피하려고 메시지 열지 않기](docs/avoiding-read-receipts.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [읽지 않은 책을 읽은 척하기](docs/pretending-to-have-read-books.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [잃어버린 물건을 찾은 곳에서 또 찾기](docs/re-searching-for-lost-items.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 침묵](docs/self-silencing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
