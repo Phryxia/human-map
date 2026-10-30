@@ -8420,21 +8420,21 @@
   },
   "https://www.gutenberg.org/cache/epub/550/pg550-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-30"
   },
   "https://knowledge.wharton.upenn.edu/?p=6610": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-30"
   },
   "https://www.russellsage.org/node/4432": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-30"
   },
   "https://gangdong.go.kr/web/newportal/press/6190": {
     "first": "2026-10-23",
@@ -9206,9 +9206,9 @@
   },
   "https://www.clien.net/service/board/park/19148358": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-10-30"
   },
   "https://m.seoul.co.kr/news/2003/04/25/20030425024002": {
     "first": "2026-10-24",
@@ -14618,5 +14618,16 @@
     "last": "2026-10-30",
     "result": "VERIFIED",
     "lastVerified": "2026-10-30"
+  },
+  "http://www.kca.go.kr/webzine/board/view?menuId=MENU00306&linkId=64&div=kca_1907": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://treasury.gov.au/sites/default/files/2021-02/p2020-100554-udcomplete-report.pdf": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "UNREACHABLE"
   }
 }
