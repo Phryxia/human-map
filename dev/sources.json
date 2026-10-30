@@ -2470,9 +2470,9 @@
   },
   "https://news.seoul.go.kr/traffic/archives/510853": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://v.daum.net/v/20260629063209314": {
     "first": "2026-10-18",
@@ -12026,9 +12026,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21259179&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-30",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-30"
   },
   "https://www.gutenberg.org/cache/epub/11052/pg11052-images.html": {
     "first": "2026-10-27",
@@ -14044,6 +14044,12 @@
     "lastVerified": "2026-10-30"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=31505&docId=495324424": {
+    "first": "2026-10-30",
+    "last": "2026-10-30",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-30"
+  },
+  "https://kin.naver.com/qna/detail.naver?dirId=70109&docId=493815511": {
     "first": "2026-10-30",
     "last": "2026-10-30",
     "result": "VERIFIED",

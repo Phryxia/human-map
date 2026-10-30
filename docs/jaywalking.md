@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [신호 대기 중의 답답함](impatience-at-red-light.md)[^2]
 
 ## 결과
 
