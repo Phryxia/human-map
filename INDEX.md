@@ -215,6 +215,7 @@
 - [소개팅 주선](docs/matchmaking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [소득 상실 우려](docs/income-loss-worry.md) ([돈과 소비](groups/money.md))
 - [소유 효과](docs/endowment-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [소지품으로 자리 맡기](docs/saving-seats-with-belongings.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [소프트웨어 업데이트 미루기](docs/delaying-software-updates.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [손님 오기 전에 집 치우기](docs/tidying-before-guests.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [손님이 가 주기를 바라기](docs/wishing-guests-would-leave.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))

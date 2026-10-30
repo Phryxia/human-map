@@ -11,6 +11,7 @@
 - [방관자 효과](../docs/bystander-effect.md) 위급한 상황을 여러 사람이 함께 볼 때 그 가운데 한 사람이 도울 가능성이 줄어든다.
 - [새치기를 보고도 말하지 않기](../docs/staying-silent-at-line-cutting.md) 줄을 선 사람이 다른 사람이 새치기하는 것을 보고도 따지지 않고 넘어간다.
 - [서비스 받는 동안 잡담 피하기](../docs/avoiding-small-talk-during-service.md) 미용실이나 택시에서 서비스를 받는 손님이 직원이나 기사와 잡담하지 않으려고 대화 없는 서비스를 고르거나 미리 요청한다.
+- [소지품으로 자리 맡기](../docs/saving-seats-with-belongings.md) 도서관 열람실 이용자가 자리를 비우면서 가방이나 책을 두어 그 자리를 오래 맡아 둔다.
 - [아는 사람을 마주치고 못 본 척하기](../docs/pretending-not-to-see-acquaintance.md) 밖에서 아는 사람을 발견한 사람이 인사를 나누지 않으려고 못 본 척하거나 고개를 숙인다.
 - [엘리베이터 안의 침묵](../docs/elevator-silence.md) 엘리베이터에 낯선 사람과 함께 탄 사람이 말을 멈추고 신발, 문, 층수 표시기를 바라본다.
 - [옆 사람 통화에 신경 쓰이기](../docs/overheard-phone-calls.md) 공공장소에 있는 사람이 옆 사람의 휴대전화 통화를 듣게 되면 그 소리에 주의가 쏠려 거슬려한다.
