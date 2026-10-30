@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-30T00:29:13.935Z",
-  "nextSeq": 2732,
-  "stops": 141,
+  "savedAt": "2026-10-30T03:39:49.664Z",
+  "nextSeq": 2750,
+  "stops": 142,
   "items": [
-    {
-      "id": "d096ca59",
-      "title": "rinsing-lenses-with-tap-water 보강: 2005년 이전 파편, 덧붓기",
-      "priority": 50,
-      "note": "2026-10-28 Joslin 2007 PMC2692658 덧붓기 환자군 58.6% vs 25.6%. 렌즈를 수돗물로 헹구기 큐 항목(ec34f290)은 이 문서로 처리됨",
-      "createdAt": "2026-10-28T06:43:22.271Z",
-      "seq": 2516
-    },
-    {
-      "id": "a93add1e",
-      "title": "behaving-better-when-watched 보강: 한국어 SNS 파편, 평판 신경 쓰기 관계",
-      "priority": 50,
-      "note": "2026-10-28 HN 5480130 (2013-04-02) 더함. 한국어 1인칭 커뮤니티 글 미발견. 후보 HN 6540966 (2013-10-13) 화면이 보이게 자리 잡음, HN 8893203 (2015-01-15) 혼자면 고양이 영상, 볼 사람 있으면 집중",
-      "createdAt": "2026-10-28T09:29:24.498Z",
-      "seq": 2530
-    },
-    {
-      "id": "5cbc812b",
-      "title": "passed-over-for-promotion 보강: 이직 결과",
-      "priority": 50,
-      "note": "2026-10-28 상위 envy 더함. 이직 결과 간선 근거 파편 필요. 후보 Balzac Bureaucracy gutenberg 1343 Rabourdin 사직 결심, segye 20160229001128 승진 가능성 없음 47.5% 구직",
-      "createdAt": "2026-10-28T09:29:53.088Z",
-      "seq": 2531
-    },
-    {
-      "id": "2cfa5658",
-      "title": "unclaimed-money 보강: not-claiming-benefits 와 관계",
-      "priority": 50,
-      "note": "2026-10-28 하위 rebate-slippage 더함. 공통 상위 후보 근거 미발견. 후보 sateconomy 1065584375475075 (2026-07-07) 숨은보험금 청구 미룸, bizwatch 2021/10/29/0028 알면서도 그대로 둠",
-      "createdAt": "2026-10-28T09:32:02.400Z",
-      "seq": 2532
-    },
-    {
-      "id": "588602fe",
-      "title": "regifting 과 feigning-delight-at-gifts 관계",
-      "priority": 50,
-      "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 싫다고 인정하는 대신 재선물. 원인 간선 근거로는 약함. 후보 casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
-      "createdAt": "2026-10-28T09:35:47.256Z",
-      "seq": 2533
-    },
     {
       "id": "1d11ad99",
       "title": "burning-farm-waste 보강: working-through-heat 관계",
@@ -91,14 +51,6 @@
       "note": "2026-10-28 ERIC EJ333440 (1985) 초록은 아이 나눔이 모델 행동에 좌우됨뿐, 구경꾼 돕기와 멂. Bryan & Test 1967 (PMID 6082466) 초록 없음, PsycNET 403. 후보: ctvnews.ca/edmonton be-the-one-who-moves (2026-04-13), Greitemeyer 2022 PMID 34628366",
       "createdAt": "2026-10-28T09:41:33.122Z",
       "seq": 2539
-    },
-    {
-      "id": "befa0f61",
-      "title": "rereading-messages-before-sending 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-28 후보 Middlemarch pg145 'Three times she wrote.' 짧음, David Copperfield pg766 'I must have written half-a-dozen answers at least.' 는 epub 766 이 이미 5문서. Anna Karenina pg1399 편지 찢고 다시 쓰기 대목은 4문서가 씀",
-      "createdAt": "2026-10-28T12:44:45.520Z",
-      "seq": 2545
     },
     {
       "id": "8f368166",
@@ -451,6 +403,70 @@
       "note": "2026-10-29 연합뉴스 2022 현장구경 정의 더함. 남은 후보: 세계일보 2012-01-06 독자투고 aid=20120106003863 (투고자 실명 있음, 서지 판단 필요), 국가 4권 레온티오스 gutenberg 1497",
       "createdAt": "2026-10-29T21:39:06.901Z",
       "seq": 2729
+    },
+    {
+      "id": "86b00d43",
+      "title": "rinsing-lenses-with-tap-water: [^1] bjo.bmj.com 미확인 재확인",
+      "priority": 50,
+      "note": "2026-10-30 source-check 에서 HTTP 429, curl 로는 열림",
+      "createdAt": "2026-10-30T03:07:50.420Z",
+      "seq": 2742
+    },
+    {
+      "id": "ba536b96",
+      "title": "behaving-better-when-watched 보강: 평판 신경 쓰기 관계",
+      "priority": 50,
+      "note": "2026-10-30 클리앙 15480028 댓글 더함. 평판 신경 쓰기 문서 없음. 후보 Nettle 보도자료 [^5] 'As we care what other people think about us' 를 원인 근거로 쓸 상대 문서 필요",
+      "createdAt": "2026-10-30T03:10:53.388Z",
+      "seq": 2743
+    },
+    {
+      "id": "0e5d931d",
+      "title": "deciding-to-quit-job 과 guilt-about-resigning 관계",
+      "priority": 50,
+      "note": "2026-10-30 퇴사 결심 뒤 사직 앞의 죄책감. 근거 파편 필요. 후보 news.cornell.edu 2021/08 rejected-internal-applicants-twice-likely-quit (사내 공모 탈락 뒤 퇴사 두 배)",
+      "createdAt": "2026-10-30T03:15:23.391Z",
+      "seq": 2744
+    },
+    {
+      "id": "e01d2470",
+      "title": "unclaimed-money 보강: not-claiming-benefits 와 관계",
+      "priority": 50,
+      "note": "2026-10-28 하위 rebate-slippage 더함. 공통 상위 후보 근거 미발견. 후보 sateconomy 1065584375475075 (2026-07-07) 숨은보험금 청구 미룸, bizwatch 2021/10/29/0028 알면서도 그대로 둠",
+      "createdAt": "2026-10-30T03:15:31.095Z",
+      "seq": 2745
+    },
+    {
+      "id": "593efd16",
+      "title": "regifting 과 feigning-delight-at-gifts 관계",
+      "priority": 50,
+      "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 싫다고 인정하는 대신 재선물. 원인 간선 근거로는 약함. 2026-10-30 공통 상위(선물이 싫다고 말하지 않기) 후보. 후보 casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
+      "createdAt": "2026-10-30T03:15:46.639Z",
+      "seq": 2746
+    },
+    {
+      "id": "e3c54187",
+      "title": "burning-farm-waste 보강: working-through-heat 관계",
+      "priority": 50,
+      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 후보: newsseoul 1065610818350753 (2024-02-28) 익충 80~97%, kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
+      "createdAt": "2026-10-30T03:16:06.069Z",
+      "seq": 2747
+    },
+    {
+      "id": "dee32ff6",
+      "title": "rereading-messages-before-sending 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-10-30 문학 2개 더함. 후보 vrbib.rutgers.edu/full-record?entry=5410 Walther 2007 CHB 편집 행동(다시 읽기는 직접 말하지 않음)",
+      "createdAt": "2026-10-30T03:19:58.759Z",
+      "seq": 2748
+    },
+    {
+      "id": "44f23a37",
+      "title": "reading-symptoms-and-suspecting-illness 와 health-anxiety 관계",
+      "priority": 50,
+      "note": "2026-10-30 Moss-Morris 2001 PubMed 11489098 의대생 병 고통과 hypochondriacal concerns 함께 측정. 상위 또는 원인 간선 근거 필요",
+      "createdAt": "2026-10-30T03:36:35.021Z",
+      "seq": 2749
     },
     {
       "id": "d16898d2",
@@ -2291,6 +2307,14 @@
       "note": "2026-10-29 링커리어 jayuu/6300512 댓글 (2026-07-27) 집에 혼자 있으면 아무것도 못 해 스카 정기권, 디코 같이 하는 방, 바디더블링 사이트. behaving-better-when-watched 와 관계 후보. HN 8893203 (2015-01-15) 볼 사람 있으면 집중",
       "createdAt": "2026-10-29T21:36:54.862Z",
       "seq": 2728
+    },
+    {
+      "id": "9b1c0ecd",
+      "title": "렌즈 용액 덧붓기",
+      "priority": 10,
+      "note": "2026-10-30 Joslin 2007 PMC2692658 'solution reuse or topping off' 월 5회 초과 환자군 58.6%. rinsing-lenses-with-tap-water 와 같은 렌즈 위생 묶음",
+      "createdAt": "2026-10-30T03:07:50.291Z",
+      "seq": 2741
     },
     {
       "id": "02b2f242",
