@@ -301,6 +301,7 @@
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [외출 전 옷 여러 번 갈아입기](docs/trying-on-outfits-before-going-out.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [우편물 뜯지 않기](docs/leaving-mail-unopened.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [운동에 관심이 없어 운동하지 않기](docs/not-interested-in-exercise.md) ([시간과 하루 습관](groups/daily-time.md))
 - [운명이나 신을 탓하기](docs/blaming-fate-or-god.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [운전 그만두기 미루기](docs/delaying-driving-cessation.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전 실력 과신](docs/driving-overconfidence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))

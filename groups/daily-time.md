@@ -18,6 +18,7 @@
 - [시간에 쫓기는 느낌](../docs/feeling-rushed.md) 일과 집안일을 하는 사람이 할 일에 비해 시간이 모자란다고 느끼며 늘 쫓긴다.
 - [아침 식사 거르기](../docs/skipping-breakfast.md) 시간이 없거나 입맛이 없는 사람이 아침을 먹지 않고 하루를 시작한다.
 - [알람 끄고 다시 잠들기](../docs/snoozing-the-alarm.md) 아침에 알람을 들은 사람이 알람을 끄거나 미루고 다시 잠든다.
+- [운동에 관심이 없어 운동하지 않기](../docs/not-interested-in-exercise.md) 운동하지 않는 사람이 그 까닭으로 운동에 관심이 없다는 것을 든다.
 - [작심삼일](../docs/abandoning-resolutions.md) 새해 목표나 결심을 세운 사람이 며칠이나 몇 주 만에 그 일을 그만둔다.
 - [저녁형 성향](../docs/evening-chronotype.md) 저녁형 성향의 사람이 밤늦게 정신이 맑아지고 아침 일찍 일어나는 일정을 힘들어하며 이 성향이 여러 해 이어진다.
 - [주말 몰아 자기](../docs/weekend-catch-up-sleep.md) 평일에 잠을 덜 잔 사람이 주말이나 연휴에 평소보다 오래 자서 모자란 잠을 메운다.
