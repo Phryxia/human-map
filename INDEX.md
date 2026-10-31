@@ -37,6 +37,7 @@
 - [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([돈과 소비](groups/money.md))
 - [고인의 전화번호 지우지 못하기](docs/keeping-deceaseds-phone-number.md) ([돈과 소비](groups/money.md))
 - [고인의 존재를 느끼기](docs/sensing-presence-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [공용 우산 돌려주지 않기](docs/not-returning-shared-umbrellas.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [과다복용 현장에서 신고 꺼리기](docs/not-calling-for-help-at-overdose.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [과속 운전](docs/speeding.md) ([길과 운전](groups/roads-and-driving.md))
 - [과음](docs/heavy-drinking.md) ([건강과 위험](groups/health-and-safety.md))
