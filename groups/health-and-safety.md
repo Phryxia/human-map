@@ -33,6 +33,7 @@
 - [의사에게 증상과 습관 줄여 말하기](../docs/withholding-information-from-doctors.md) 진료받는 사람이 의사에게 증상이나 음주 같은 생활습관을 줄여 말하거나 숨긴다.
 - [일부러 피부 태우기](../docs/intentional-tanning.md) 피부를 그을린 모습으로 만들고 싶은 사람이 햇볕이나 태닝 기계 아래에서 일부러 피부를 태운다.
 - [자외선 차단제 안 바르기](../docs/sunscreen-nonuse.md) 햇볕에 나가는 사람이 번거롭거나 필요 없다고 여겨 자외선 차단제를 바르지 않는다.
+- [재난 대비 미루기](../docs/not-preparing-for-disasters.md) 사람이 지진이나 홍수 같은 재난의 위험을 알면서도 비상용품을 갖추거나 집을 보강하는 대비를 미루거나 하지 않는다.
 - [정상 집착](../docs/summit-fever.md) 산을 오르는 사람이 날씨가 나빠지거나 시간이 늦어져도 정상에 가겠다는 마음에 돌아서지 않고 계속 오른다.
 - [진단 없이 음식 피하기](../docs/self-diagnosed-food-avoidance.md) 어떤 음식을 먹은 뒤 몸이 불편했다고 여기는 사람이 의학적 진단 없이 그 음식을 먹지 않는다.
 - [진료를 미루다 응급실 가기](../docs/delayed-care-emergency-visits.md) 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
