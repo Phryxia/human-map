@@ -1504,27 +1504,27 @@
   },
   "https://www.trl.co.uk/publications/trl222": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://www.earticle.net/Article/A290687": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://www.iihs.org/news/detail/adults-admit-to-not-always-using-safety-belts-in-the-back-seat-iihs-survey-finds": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://dmv.ny.gov/news/nhtsa-gtsc-help-raise-awareness-about-importance-seat-belt-use-back-seat": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://archives-new.honoluluadvertiser.com/article/2005/Nov/25/il/FP511250304.html": {
     "first": "2026-10-18",
@@ -1582,9 +1582,9 @@
   },
   "https://www.khan.co.kr/article/201903062140005": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://www.clien.net/service/board/park/11233632": {
     "first": "2026-10-18",
@@ -1606,15 +1606,15 @@
   },
   "https://www.ytn.co.kr/_ln/0483_201510260517064735": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://www.iihs.org/topics/bibliography/ref/2141": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=4032225&rettype=abstract&retmode=text": {
     "first": "2026-10-18",
@@ -1630,15 +1630,15 @@
   },
   "https://www.dailian.co.kr/news/view/982190/": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://www.heraldk.com/article/2025100117575023268": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://home.barclays/news/press-releases/2018/11/brits-are-spending-a-penny-to-dodge-paying-the-pounds": {
     "first": "2026-10-18",
@@ -14689,5 +14689,17 @@
     "last": "2026-10-30",
     "result": "VERIFIED",
     "lastVerified": "2026-10-30"
+  },
+  "https://wired-gov.net/wg/wg-news-1.nsf/0/0C4D7CB420553F7A802574F600267FC2": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.codot.gov/safety/shift-into-safe-news/2025/january/nhtsa-finalizes-seat-belt-reminder-rule-to-increase-seat-belt-use-improve-occupant-safety": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
   }
 }
