@@ -376,6 +376,7 @@
 - [좋게 보이는 행동 부풀려 답하기](docs/overreporting-desirable-behavior.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [좋아하는 사람을 마주치려고 기다리기](docs/hoping-to-run-into-a-crush.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [좋아하는 책 다시 읽기](docs/rereading-favorite-books.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [좋은 물건 아껴 두기](docs/saving-things-for-best.md) ([돈과 소비](groups/money.md))
 - [주말 몰아 자기](docs/weekend-catch-up-sleep.md) ([시간과 하루 습관](groups/daily-time.md))
 - [주운 지갑 돌려주기](docs/returning-lost-wallets.md) ([시민 참여와 공공의 일](groups/civic-life.md))
