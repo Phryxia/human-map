@@ -1,33 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T06:41:02.664Z",
-  "nextSeq": 2964,
-  "stops": 151,
+  "savedAt": "2026-10-31T09:32:06.651Z",
+  "nextSeq": 2984,
+  "stops": 152,
   "items": [
-    {
-      "id": "6c43b078",
-      "title": "impulse-buying 보강: 자기 보상 원인, 후회 결과",
-      "priority": 50,
-      "note": "2026-10-30 retail-therapy 를 하위로 둠. HN 32422933 (2022) 충동구매 후회는 buyers-remorse 류 결과 간선 후보",
-      "createdAt": "2026-10-30T09:21:59.334Z",
-      "seq": 2808
-    },
-    {
-      "id": "099f725c",
-      "title": "holding-back-tears-at-breakup 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-28 brunch balbam/1 더함. 2026-10-30 지식iN(헤어지자는 말 듣고 눈물 참, 이별할때 안 울려고) 무소득, 웹 검색 네이트판 무소득",
-      "createdAt": "2026-10-30T09:22:32.828Z",
-      "seq": 2809
-    },
-    {
-      "id": "48b5cebb",
-      "title": "hiding-bedbug-infestation 보강: 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-28 Medill 2017 더함. 한국어 개인 숨김 대목 못 찾음(기사 6곳, 2026-10-30 지식iN 빈대 창피·말해야 무소득, 30813005 (2006) 은 룸메이트에 대한 죄책감뿐). 예비 후보: CMAJ PMC10205907 (2023), McSweeney's column-7-emma (2010)",
-      "createdAt": "2026-10-30T09:23:24.339Z",
-      "seq": 2811
-    },
     {
       "id": "f8617a7b",
       "title": "guilt-about-resigning 보강: 공공 파편",
@@ -589,6 +565,70 @@
       "seq": 2963
     },
     {
+      "id": "ac68ad32",
+      "title": "impulse-buying 보강: 자기 보상 원인",
+      "priority": 50,
+      "note": "2026-10-31 buyers-remorse 결과 간선은 그음. 자기 보상 문서 없음, 근거 파편 필요",
+      "createdAt": "2026-10-31T09:10:49.953Z",
+      "seq": 2974
+    },
+    {
+      "id": "daf25b73",
+      "title": "buyers-remorse 보강: 반품 결과, 대립 후보",
+      "priority": 50,
+      "note": "2026-10-31 후보: Frontiers fcomm.2025.1547639 'high return rates ... driven by post-purchase regret', newsis NISX20170726_0000051341 (2017) 사고 나면 기분 좋아짐 55%, retailbrew 2026-05-04 62% 후회, Little Women ch28 Meg 비단 remorse",
+      "createdAt": "2026-10-31T09:10:50.139Z",
+      "seq": 2975
+    },
+    {
+      "id": "b1892a99",
+      "title": "holding-back-tears-at-breakup 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-28 brunch balbam/1 더함. 2026-10-30 지식iN, 네이트판 무소득. 2026-10-31 HN algolia(tried not to cry, held back tears + breakup) 무소득, teamblind YtEUwm24 는 울었다는 글이고 회사명 노출. 남은 곳: forums.beyondblue.org.au, mysupportforums.org 208901 hiding-emotions",
+      "createdAt": "2026-10-31T09:12:05.555Z",
+      "seq": 2976
+    },
+    {
+      "id": "7271d653",
+      "title": "hiding-bedbug-infestation 보강: 한국어 파편",
+      "priority": 50,
+      "note": "2026-10-28 Medill 2017 더함. 한국어 개인 숨김 대목 못 찾음(기사 6곳, 지식iN 무소득). 2026-10-31 elle 81988, khan 202311011603001, kbmaeil, fnnews, seoul.co.kr, koreadaily 에 개인 숨김 대목 없음. 서울신문 2023-11-05 은 업소의 영업 우려 비신고뿐. 예비 후보: CMAJ PMC10205907 (2023), McSweeney's column-7-emma (2010)",
+      "createdAt": "2026-10-31T09:13:01.694Z",
+      "seq": 2977
+    },
+    {
+      "id": "31441d02",
+      "title": "fear-of-blushing 보강: 학술 파편, blushing 결과 간선, fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가. 주간경향 10843 은 blushing F3 로도 쓰여 blushing 쪽 간선 근거로 못 씀. 인과 문장 있는 학술(Drummond 등) 필요",
+      "createdAt": "2026-10-31T09:17:47.197Z",
+      "seq": 2978
+    },
+    {
+      "id": "3bcd6f31",
+      "title": "privacy-paradox 와 agreeing-without-reading-terms 관계",
+      "priority": 50,
+      "note": "2026-10-31 privacy-paradox 추가. 약관 안 읽고 동의가 프라이버시 역설의 한 경우라고 말하는 파편 필요(OAIC 2023 '<35 less likely to read privacy policies', boannews 90975 84.7% 중요 인식). 원인 후보: 편의(HN 43906114)",
+      "createdAt": "2026-10-31T09:21:49.458Z",
+      "seq": 2979
+    },
+    {
+      "id": "b63212c9",
+      "title": "thinking-about-secrets 보강: 다른 시기·SNS 파편, fear-of-being-found-out 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가(SciAm 2017, Slepian 2017 PubMed 28481618). 다른 시기 파편과 1인칭 글 필요. PubMed 30742457 (2020) Shame, guilt, and secrets on the mind 후보",
+      "createdAt": "2026-10-31T09:23:17.559Z",
+      "seq": 2980
+    },
+    {
+      "id": "45d8ad25",
+      "title": "doing-chores-while-staying 보강: 미안함·눈치 대목, shrinking-in-hosts-home·indebtedness 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가. 신세가 미안해 집안일을 한다는 인과 대목 필요(한국어 지식iN·네이트판·캥거루족 기사 무소득)",
+      "createdAt": "2026-10-31T09:28:06.453Z",
+      "seq": 2982
+    },
+    {
       "id": "d16898d2",
       "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
       "priority": 40,
@@ -1037,14 +1077,6 @@
       "seq": 250
     },
     {
-      "id": "f57ffce7",
-      "title": "얹혀사는 대가로 집안일 거들기",
-      "priority": 10,
-      "note": "김유정 따라지(위키문헌) '아우는 마당도 쓸어 놓고, 부뚜막의 그릇도 치우고'. shrinking-in-hosts-home 하위 또는 결과 후보, indebtedness 와 관련",
-      "createdAt": "2026-10-18T09:45:50.307Z",
-      "seq": 270
-    },
-    {
       "id": "534bbeca",
       "title": "카공하는 사람의 비용 지출과 눈치 사이의 긴장",
       "priority": 10,
@@ -1059,14 +1091,6 @@
       "note": "aafp.org 2003 p1555 'Short-term sequelae include ... problems with peer relationships'. school-refusal 의 결과 후보",
       "createdAt": "2026-10-18T12:36:29.383Z",
       "seq": 320
-    },
-    {
-      "id": "0597c551",
-      "title": "뒷말에 대한 분노와 보복 의도",
-      "priority": 10,
-      "note": "Martinescu 외 2019 Frontiers fpsyg.2018.02603 초록: 부정적 뒷말이 분노를 일으키고 분노가 뒷말한 사람에 대한 보복 의도를 예측(문장 213자, 연속 구간 'Negative gossip, however, also generated other-directed negative emotions (e.g., anger), especially for targets with high reputational concerns'). overhearing-talk-about-oneself 의 결과 후보. Zong 외 2021 fpsyg.2021.629376 체면 손실 두려움 → 맞뒷말",
-      "createdAt": "2026-10-18T18:58:49.869Z",
-      "seq": 381
     },
     {
       "id": "eb1ee9d5",
@@ -1091,22 +1115,6 @@
       "note": "루리웹 2025-11-06 bbs.ruliweb.com/community/board/300143/read/72947567 '꼴랑 75만원 받자고 그 자존심 스크래치내면서 온갖 서류 다 준비하고 내 통장 다 까서 소득 증명까지 함?'. 지식iN 2008-05-28 docId=48305697 '제 자존심을 너무 무너뜨리더군요.' not-claiming-benefits 원인 또는 poverty-shame 하위 후보",
       "createdAt": "2026-10-18T23:39:45.935Z",
       "seq": 432
-    },
-    {
-      "id": "116adda4",
-      "title": "내키지 않는 초대에 응하기",
-      "priority": 10,
-      "note": "Emma Vol II Ch XII(gutenberg 158) 'I could not refuse; ... I would rather be at home'(187자). difficulty-saying-no 하위 후보, company-dinner-pressure 관련",
-      "createdAt": "2026-10-19T02:43:13.516Z",
-      "seq": 446
-    },
-    {
-      "id": "b88a54fc",
-      "title": "사과 거부 뒤의 자존감 상승",
-      "priority": 10,
-      "note": "apology-reluctance F3(Okimoto 2013 Monash): apology refusal → self-esteem, power/control, value integrity 매개. 결과 간선 후보",
-      "createdAt": "2026-10-19T02:47:07.853Z",
-      "seq": 447
     },
     {
       "id": "d354c6f0",
@@ -1149,14 +1157,6 @@
       "seq": 467
     },
     {
-      "id": "9833865d",
-      "title": "운동에 관심이 없어 운동하지 않기",
-      "priority": 10,
-      "note": "no-time-to-exercise F8(머니투데이 2026-01-19) 60대 '관심 부족' 1순위, ABS 2007 media release 85051A8899... 여성 'not interested in exercising'(19%). no-time-to-exercise 와 형제 현상 후보",
-      "createdAt": "2026-10-19T06:37:54.840Z",
-      "seq": 475
-    },
-    {
       "id": "1a8f1f11",
       "title": "일하는 어머니의 시간 부족 지각",
       "priority": 10,
@@ -1171,14 +1171,6 @@
       "note": "skipping-breakfast 와 no-time-to-exercise 모두 '시간이 없어서' 가 1순위 이유. 공통 상위를 말하는 파편을 찾아야 간선",
       "createdAt": "2026-10-19T06:37:55.055Z",
       "seq": 477
-    },
-    {
-      "id": "1bf18929",
-      "title": "기부 단체 불신",
-      "priority": 10,
-      "note": "not-donating F5(서울시 2019 '믿을 수 없어서 24.4%'), F6(지식iN 2023 해피빈 불신). 지식iN 글은 횡령 뉴스를 본 뒤 불신이 생겼다고 적음. not-donating 원인 후보",
-      "createdAt": "2026-10-19T06:50:32.086Z",
-      "seq": 478
     },
     {
       "id": "c23f68d1",
@@ -1227,38 +1219,6 @@
       "note": "khan.co.kr/article/202107151200001 (2021-07-15): '부서장 눈치를 보면서 야근을 하거나 법으로 보장된 연차를 사용하면서도 사유를 설명해야' 두 현상을 같은 조직문화에서 말함. 인과 표현은 없음, 상위 공유 현상(상사 눈치) 후보",
       "createdAt": "2026-10-19T12:38:38.219Z",
       "seq": 515
-    },
-    {
-      "id": "3e76612e",
-      "title": "프라이버시 역설 (중요하다면서 보호 행동 안 함)",
-      "priority": 10,
-      "note": "OAIC 2020: 84% 가 중요하다고 믿지만 31% 만 방침을 읽음. ijoc 17146 (Obar 2022) 제목 'privacy paradox'. agreeing-without-reading-terms 의 상위 또는 긴장 후보",
-      "createdAt": "2026-10-19T12:42:30.941Z",
-      "seq": 517
-    },
-    {
-      "id": "f7653f85",
-      "title": "적면공포 (얼굴 붉어질까 두려워하기)",
-      "priority": 10,
-      "note": "usz.ch/en/disease/erythrophobia (2025-02-14): 'not the blushing itself ... but the fear of it occurring uncontrollably'. weekly.khan.co.kr/article/10843 (2005) '빨개 지는 얼굴 때문에 신경이 쓰여 면접관의 질문에 집중을 할 수 없을 정도다'. blushing 의 결과 후보, fear-of-negative-evaluation 과 관계 후보",
-      "createdAt": "2026-10-19T12:44:42.010Z",
-      "seq": 518
-    },
-    {
-      "id": "e5a39ac6",
-      "title": "좋아요를 받아야 한다는 압박",
-      "priority": 10,
-      "note": "pewresearch.org/internet/2018/11/28/teens-social-media-habits-and-experiences: 10대 43% 잘 보이는 것만 올려야, 37% 좋아요 많이 받을 것만 올려야 한다는 압박. deleting-posts-with-few-reactions 의 원인 후보, last-minute-self-censorship 과 관계 후보. scholarexchange.furman.edu/scjas/2018/all/132: 여성이 좋아요 부족 때문에 사진을 더 지움(고교생 포스터, 약한 출처)",
-      "createdAt": "2026-10-19T12:48:40.833Z",
-      "seq": 520
-    },
-    {
-      "id": "2cf49c3a",
-      "title": "비밀에 대한 생각에 사로잡히기",
-      "priority": 10,
-      "note": "scientificamerican.com Hutson 2017-05-30 (이제 fear-of-being-found-out F4): 'The more often their mind wandered to a secret, the more they reported that it damaged their well-being'. sciencealert 2017-05-29 같은 연구. fear-of-being-found-out 의 하위 또는 별개 현상 후보",
-      "createdAt": "2026-10-19T12:56:00.268Z",
-      "seq": 523
     },
     {
       "id": "c3ac211f",
@@ -2419,6 +2379,22 @@
       "note": "2026-10-31 completing-a-collection [^2] Bonnard 1881 'our collection will soon be complete. And then what are we going to do?', straightdope 484352 첫 글의 what next? 대목. completing-a-collection 의 결과 후보",
       "createdAt": "2026-10-31T06:20:43.061Z",
       "seq": 2958
+    },
+    {
+      "id": "ba50b46d",
+      "title": "좋아요를 받아야 한다는 압박",
+      "priority": 10,
+      "note": "pewresearch.org/internet/2018/11/28/teens-social-media-habits-and-experiences 확인(2026-10-31): 'Around four-in-ten say they feel pressure to only post content ... (43%) or share things that will get a lot of likes or comments (37%).' 두 번째 종류 못 찾음(HN algolia, 한국어 기사 검색 무소득). utexas 2020 Lee 외 는 적은 좋아요의 고통이라 다른 현상. deleting-posts-with-few-reactions 원인 후보",
+      "createdAt": "2026-10-31T09:24:09.971Z",
+      "seq": 2981
+    },
+    {
+      "id": "dbe16c9f",
+      "title": "뒷말에 대한 분노와 보복 의도",
+      "priority": 10,
+      "note": "Martinescu 외 2019 Frontiers fpsyg.2018.02603 확인(2026-10-31): 'anger), especially for targets with high reputational concerns, which in turn predicted retaliation intentions against the gossiper.' 비학술 파편 못 찾음(한국어 뒷담화 복수 검색, lawtalk qna 77811 무소득). overhearing-talk-about-oneself 의 결과 후보",
+      "createdAt": "2026-10-31T09:30:22.863Z",
+      "seq": 2983
     },
     {
       "id": "02b2f242",
