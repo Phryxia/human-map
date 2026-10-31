@@ -11672,21 +11672,21 @@
   },
   "https://www.sbs.com.au/news/australians-hoarding-medicines-survey": {
     "first": "2026-10-27",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://www.epa.gov/household-medication-disposal/safe-storage-medicines-home": {
     "first": "2026-10-27",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://mediahub.seoul.go.kr/archives/2002909": {
     "first": "2026-10-27",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://www.scarymommy.com/parenting/do-you-lie-awake-worrying-when-your-teen-is-out-at-night": {
     "first": "2026-10-27",
@@ -13979,9 +13979,9 @@
   },
   "https://www.ums.ac.id/en/news/research/why-keeping-antibiotics-at-home-can-be-risky": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=7010102&docId=495179453": {
     "first": "2026-10-30",
@@ -15002,6 +15002,12 @@
     "lastVerified": "2026-10-31"
   },
   "https://www.vice.com/en/article/how-to-be-less-shy-in-groups/": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7153968&rettype=abstract&retmode=text": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",
