@@ -41,6 +41,7 @@
 - [과속 운전](docs/speeding.md) ([길과 운전](groups/roads-and-driving.md))
 - [과음](docs/heavy-drinking.md) ([건강과 위험](groups/health-and-safety.md))
 - [구매 결정 미루기](docs/delaying-purchases.md) ([돈과 소비](groups/money.md))
+- [구매 후 후회](docs/buyers-remorse.md) ([돈과 소비](groups/money.md))
 - [구명조끼 미착용](docs/life-jacket-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [구직 단념](docs/giving-up-job-search.md) ([일터와 일자리](groups/work.md))
 - [귀가 늦추기](docs/delaying-going-home.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
