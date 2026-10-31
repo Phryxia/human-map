@@ -167,6 +167,7 @@
 - [받을 돈 찾아가지 않기](docs/unclaimed-money.md) ([돈과 소비](groups/money.md))
 - [밤길 혼자 걷기 두려움](docs/fear-of-walking-alone-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [방관자 효과](docs/bystander-effect.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [배달 음식 시켜 먹기](docs/ordering-food-delivery.md) ([시간과 하루 습관](groups/daily-time.md))
 - [배송 조회 되풀이하기](docs/checking-parcel-tracking.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [배우자에게 재정 정보 숨기기](docs/spouse-financial-concealment.md) ([돈과 소비](groups/money.md))
 - [배터리 부족 불안](docs/low-battery-anxiety.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
