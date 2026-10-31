@@ -1696,15 +1696,15 @@
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29409146&resultType=core&format=json": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://brunch.co.kr/@minotebook/57": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://pure.psu.edu/en/publications/reasons-for-reporting-and-not-reporting-domestic-violence-to-the-/": {
     "first": "2026-10-18",
@@ -1738,9 +1738,9 @@
   },
   "https://www.gutenberg.org/cache/epub/141/pg141-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm": {
     "first": "2026-10-18",
@@ -1864,15 +1864,15 @@
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15738853&resultType=core&format=json": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://scholarworks.gnu.ac.kr/handle/sw.gnu/10417": {
     "first": "2026-10-18",
-    "last": "2026-10-29",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-10-31"
   },
   "https://m.dcinside.com/board/bjd/118699": {
     "first": "2026-10-18",
@@ -3927,9 +3927,9 @@
   },
   "https://neurosciencenews.com/blushing-neuroimaging-cerebellum-26463/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://www.gutenberg.org/cache/epub/3608/pg3608-images.html": {
     "first": "2026-10-19",
@@ -11612,15 +11612,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=490308&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://brunch.co.kr/@loiskim01/422": {
     "first": "2026-10-27",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://www.seoul.co.kr/news/society/2026/06/11/20260611500016": {
     "first": "2026-10-27",
@@ -13973,9 +13973,9 @@
   },
   "https://kin.naver.com/qna/detail.naver?dirId=814&docId=486338158": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://www.ums.ac.id/en/news/research/why-keeping-antibiotics-at-home-can-be-risky": {
     "first": "2026-10-30",
@@ -14996,6 +14996,12 @@
     "lastVerified": "2026-10-31"
   },
   "https://www.boards.scarleteen.com/viewtopic.php?p=80183": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.vice.com/en/article/how-to-be-less-shy-in-groups/": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",
