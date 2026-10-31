@@ -33,6 +33,7 @@
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
 - [생각 때문에 잠 못 이루기](../docs/lying-awake-thinking.md) 잠자리에 누운 사람이 낮에 겪은 일이나 잠에 대한 걱정을 되풀이해 생각하느라 잠들지 못한다.
+- [생각하려고 걷기](../docs/walking-to-think.md) 사람이 생각을 정리하거나 마음을 가라앉히려고 밖으로 나가 걷는다.
 - [손톱 물어뜯기](../docs/nail-biting.md) 사람이 초조하거나 지루하거나 어려운 일을 붙잡고 있을 때 손톱을 물어뜯는다.
 - [쉬는 데 죄책감 느끼기](../docs/guilt-about-resting.md) 쉬거나 아무것도 하지 않고 시간을 보낸 사람이 해야 할 일을 하지 않았다는 죄책감을 느낀다.
 - [슬픈 이야기를 보며 울기](../docs/crying-at-sad-stories.md) 슬픈 영화나 소설을 보는 사람이 지어낸 이야기에 눈물을 흘린다.

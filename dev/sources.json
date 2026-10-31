@@ -15120,5 +15120,35 @@
     "last": "2026-10-31",
     "result": "VERIFIED",
     "lastVerified": "2026-10-31"
+  },
+  "https://www.gutenberg.org/cache/epub/2527/pg2527-images.html": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.gutenberg.org/cache/epub/2891/pg2891-images.html": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/24749966/": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://news.knn.co.kr/news/article/189682": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
   }
 }
