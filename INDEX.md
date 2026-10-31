@@ -384,6 +384,7 @@
 - [조명 효과](docs/spotlight-effect.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [조용한 이탈](docs/silent-exit.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [졸음운전](docs/driving-while-drowsy.md) ([길과 운전](groups/roads-and-driving.md))
+- [종이 영수증 바로 버리기](docs/discarding-paper-receipts.md) ([돈과 소비](groups/money.md))
 - [좋게 보이는 행동 부풀려 답하기](docs/overreporting-desirable-behavior.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [좋아하는 사람을 마주치려고 기다리기](docs/hoping-to-run-into-a-crush.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

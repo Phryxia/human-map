@@ -15744,5 +15744,23 @@
     "last": "2026-10-31",
     "result": "VERIFIED",
     "lastVerified": "2026-10-31"
+  },
+  "https://www.newstomato.com/ReadNews.aspx?no=547696": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.incheon.go.kr/env/ENV050101/view?nttNo=9404": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.clien.net/service/board/park/13533388": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
   }
 }

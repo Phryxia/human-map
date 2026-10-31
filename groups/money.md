@@ -45,6 +45,7 @@
 - [위기 때 생필품 사재기](../docs/panic-buying.md) 재난이나 감염병 소식을 들은 사람이 평소보다 많은 생필품을 한꺼번에 사 둔다.
 - [은퇴 자금 쓰지 않기](../docs/retirees-not-spending-savings.md) 은퇴한 사람이 모아 둔 은퇴 자금을 거의 꺼내 쓰지 않고 그대로 둔다.
 - [장 볼 때 필요보다 많이 사기](../docs/overbuying-groceries.md) 장을 보는 사람이 집에서 다 먹지 못할 만큼 식료품을 사고 남은 것을 버린다.
+- [종이 영수증 바로 버리기](../docs/discarding-paper-receipts.md) 가게에서 계산한 손님이 종이 영수증을 받지 않고 버려 달라고 하거나 받자마자 버린다.
 - [좋은 물건 아껴 두기](../docs/saving-things-for-best.md) 좋은 옷이나 물건을 가진 사람이 그것을 특별한 날에 쓰려고 아껴 두고 평소에 쓰지 않는다.
 - [집에 현금 쌓아 두기](../docs/keeping-cash-at-home.md) 위기나 사고에 대비하려는 사람이 은행에 맡기지 않은 현금을 집 안에 쌓아 둔다.
 - [충동구매](../docs/impulse-buying.md) 살 계획이 없던 물건을 본 사람이 그 자리에서 사고 싶어져 산다.
