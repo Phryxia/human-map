@@ -103,6 +103,7 @@
 - [뉴스 회피](docs/news-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [늦는 사람을 기다리며 서성이기](docs/waiting-for-someone-late.md) ([시간과 하루 습관](groups/daily-time.md))
 - [늦잠에 대한 불안](docs/oversleeping-anxiety.md) ([시간과 하루 습관](groups/daily-time.md))
+- [다녀간 자리에 이름 새기기](docs/carving-names-at-visited-places.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [다른 일을 하며 휴대전화 보기](docs/phone-use-while-doing-other-things.md) ([길과 운전](groups/roads-and-driving.md))
 - [다원적 무지](docs/pluralistic-ignorance.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [다이어트 중 폭식](docs/diet-breaking-binge.md) ([시간과 하루 습관](groups/daily-time.md))
