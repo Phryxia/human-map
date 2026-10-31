@@ -182,6 +182,7 @@
 - [범죄 피해 신고하지 않기](docs/not-reporting-crime.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [보내기 전 메시지 다시 읽기](docs/rereading-messages-before-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보내지 않는 편지 쓰기](docs/unsent-letters.md) ([메시지와 휴대전화](groups/messages-and-phones.md), [가까운 사이의 감정과 말](groups/close-relationships.md))
+- [보낸 메시지 후회](docs/senders-remorse.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보는 눈이 있을 때 행동 바꾸기](docs/behaving-better-when-watched.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [보복이 두려워 신고하지 않기](docs/not-reporting-for-fear-of-reprisal.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [보상을 기다리며 불만 없이 일하기](docs/silent-work-awaiting-reward.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

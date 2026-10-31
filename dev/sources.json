@@ -4515,9 +4515,9 @@
   },
   "https://www.grammarly.com/blog/workplace-email-report/": {
     "first": "2026-10-20",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://news.ycombinator.com/item?id=40657815": {
     "first": "2026-10-20",
@@ -15584,6 +15584,12 @@
     "lastVerified": "2026-10-31"
   },
   "https://www.jalopnik.com/2226845/what-to-know-buying-car-no-haggle-dealership/": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://news.ycombinator.com/item?id=60295": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",
