@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-30T21:33:35.752Z",
-  "nextSeq": 2928,
-  "stops": 148,
+  "savedAt": "2026-10-31T00:42:35.638Z",
+  "nextSeq": 2942,
+  "stops": 149,
   "items": [
     {
       "id": "dfbb8e01",
@@ -499,6 +499,62 @@
       "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
       "createdAt": "2026-10-30T21:33:34.577Z",
       "seq": 2927
+    },
+    {
+      "id": "504dddb2",
+      "title": "not-preparing-for-disasters 보강: 원인 간선과 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-31 NZ Herald 2008 에 'belief of many Aucklanders that they would not face an emergency' 대목(unrealistic-optimism 원인 후보, 뒤에 공무원 실명). OHS 2009 의 구조대 기대 대목은 문서 없음. 한국 공공·SNS 파편 없음",
+      "createdAt": "2026-10-31T00:15:37.130Z",
+      "seq": 2935
+    },
+    {
+      "id": "1489de5b",
+      "title": "refusing-statistical-surveys 보강: SNS 파편과 관계",
+      "priority": 50,
+      "note": "2026-10-31 SNS 파편 없음. 사생활 걱정을 다룬 문서가 생기면 Census CED-WP-2025-002 가 원인 간선 근거 후보. 경향 2015 기사에 정부·사회 불만 33.2%",
+      "createdAt": "2026-10-31T00:19:20.889Z",
+      "seq": 2936
+    },
+    {
+      "id": "1f18689e",
+      "title": "disabled-parking-misuse 보강: SNS 파편과 brief-illegal-parking 관계",
+      "priority": 50,
+      "note": "2026-10-31 운전자 본인의 글(SNS) 없음. 서울신문 2015 의 '잠시만' 대목은 brief-illegal-parking 과 겹침, 상위 관계 검토. 예비: 뉴시스 NISX20241122_0002969681 (서울 표지 위반 과태료 984건), Cope·Allred 1991 PMC1279625",
+      "createdAt": "2026-10-31T00:24:07.243Z",
+      "seq": 2937
+    },
+    {
+      "id": "45488e64",
+      "title": "road-rage 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-10-31 후보: anger-suppression 대립, suppressed-anger-outburst. Lajunen·Parker 2001 PubMed 11204896 (분노와 공격 운전의 관계가 상황에 달림), 오토뷰 61528 댓글 '일상의 모든 스트레스' (스트레스 원인 후보), Alberta driver-aggression 페이지(발행일 미상)",
+      "createdAt": "2026-10-31T00:30:47.118Z",
+      "seq": 2938
+    },
+    {
+      "id": "f33a5984",
+      "title": "yellow-light-dilemma 보강: 한국 공공 파편과 관계",
+      "priority": 50,
+      "note": "2026-10-31 한국 공공 HTML 못 찾음. 예비: PubMed 25907375 (2016, 진입 차량 2.3% 황색), PubMed 4096798 (1985 점멸 녹색), 데일리안 1360838 (2024, 실명 변호사 발언이라 뺌). jaywalking, impatience-at-red-light 와 관계 검토",
+      "createdAt": "2026-10-31T00:33:49.952Z",
+      "seq": 2939
+    },
+    {
+      "id": "954bfb81",
+      "title": "exiting-the-way-you-came 보강: 관계와 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-31 delayed-evacuation, dismissing-fire-alarms 와 관계 검토. Sime 1985 'Movement toward the familiar' SAGE 는 봇 확인 페이지. Benthorn 1996 페이지에 비상구가 열려 바깥이 보이면 비상구를 고른다는 조건 대목(문장 끊김, 재확인 필요)",
+      "createdAt": "2026-10-31T00:35:47.959Z",
+      "seq": 2940
+    },
+    {
+      "id": "e2ba512c",
+      "title": "refusing-mobility-aids 보강: 공공 파편과 관계",
+      "priority": 50,
+      "note": "2026-10-31 NIA·NHS·healthdirect 에 낙인 대목 없음, canada.ca 빈 응답. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 예비: NPR 2026-01-06 nx-s1-5640140 (넘어진 환자 절반이 의사에게 말하지 않음), youthassembly 966688 (늙어 보일까 걱정)",
+      "createdAt": "2026-10-31T00:39:35.072Z",
+      "seq": 2941
     },
     {
       "id": "d16898d2",
