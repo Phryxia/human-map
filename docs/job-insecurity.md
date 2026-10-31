@@ -32,6 +32,7 @@
 
 - [아파도 출근하기](sickness-presenteeism.md)
 - [직장 문제를 윗사람에게 말하지 않기](employee-silence.md)[^6]
+- [돈 걱정](money-worry.md)
 
 ## 대립
 
