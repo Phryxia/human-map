@@ -26,6 +26,7 @@
   - [잔액 확인 피하기](../docs/avoiding-checking-balance.md)
   - [진료 회피](../docs/medical-care-avoidance.md)
     - [치과 공포](../docs/dental-anxiety.md)
+- [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.

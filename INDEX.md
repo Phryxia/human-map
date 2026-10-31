@@ -97,6 +97,7 @@
 - [놓칠까 두려운 마음](docs/fear-of-missing-out.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [누구에게 말했는지 잊기](docs/destination-memory-failure.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [눈치 야근](docs/staying-late-for-boss.md) ([일터와 일자리](groups/work.md))
+- [뉴스 회피](docs/news-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [늦는 사람을 기다리며 서성이기](docs/waiting-for-someone-late.md) ([시간과 하루 습관](groups/daily-time.md))
 - [늦잠에 대한 불안](docs/oversleeping-anxiety.md) ([시간과 하루 습관](groups/daily-time.md))
 - [다른 일을 하며 휴대전화 보기](docs/phone-use-while-doing-other-things.md) ([길과 운전](groups/roads-and-driving.md))

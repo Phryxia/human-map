@@ -15186,5 +15186,23 @@
     "last": "2026-10-31",
     "result": "VERIFIED",
     "lastVerified": "2026-10-31"
+  },
+  "https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2023/dnr-executive-summary": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.journalist.or.kr/m/m_article.html?no=56602": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
   }
 }
