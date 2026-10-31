@@ -3699,9 +3699,9 @@
   },
   "https://weekly.khan.co.kr/article/10843": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118243": {
     "first": "2026-10-19",
@@ -15260,6 +15260,12 @@
     "lastVerified": "2026-10-31"
   },
   "https://neurosciencenews.com/social-neuroscience-invites-25349/": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.usz.ch/en/disease/erythrophobia/": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",

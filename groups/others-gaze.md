@@ -27,6 +27,7 @@
 - [실패 사실 숨기기](../docs/concealing-failure.md) 시험이나 일에서 실패한 사람이 창피해서 그 사실을 가족이나 주변 사람에게 말하지 않거나 숨긴다.
   - [실직 사실 숨기기](../docs/concealing-job-loss.md)
 - [알아들은 척하기](../docs/pretending-to-understand.md) 사람이 남의 말이나 설명을 알아듣지 못했는데 알아들은 듯이 고개를 끄덕이거나 맞장구친다.
+- [얼굴 붉어질까 두려워하기](../docs/fear-of-blushing.md) 남 앞에 선 사람이 얼굴이 붉어질까 신경 쓰고 두려워한다.
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
 - [외출 전 옷 여러 번 갈아입기](../docs/trying-on-outfits-before-going-out.md) 외출을 앞둔 사람이 입을 옷을 정하지 못해 여러 벌을 입어 보고 갈아입는다.
