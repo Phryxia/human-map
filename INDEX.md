@@ -402,6 +402,7 @@
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [타인의 표정을 부정적으로 읽기](docs/reading-faces-as-negative.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [텃밭 가꾸기](docs/vegetable-gardening.md) ([시간과 하루 습관](groups/daily-time.md))
+- [통계 조사 응답 거부](docs/refusing-statistical-surveys.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [퇴근 뒤 업무 연락에 답하기](docs/after-hours-work-replies.md) ([일터와 일자리](groups/work.md))
 - [퇴근 뒤 일 생각 곱씹기](docs/work-rumination-after-hours.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [퇴근 시간 기다리며 시계 보기](docs/clock-watching-at-work.md) ([걱정과 기분](groups/worry-and-mood.md))
