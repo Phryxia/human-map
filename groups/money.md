@@ -50,3 +50,4 @@
 - [충동구매](../docs/impulse-buying.md) 살 계획이 없던 물건을 본 사람이 그 자리에서 사고 싶어져 산다.
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
 - [큰돈이 생기는 공상](../docs/daydreaming-about-windfall.md) 아직 손에 없는 큰돈이 생기는 장면을 떠올린 사람이 그 돈으로 무엇을 사고 무엇을 할지 자세히 상상한다.
+- [흥정 회피](../docs/avoiding-haggling.md) 값을 깎을 수 있는 자리에서 어떤 사람은 흥정을 부담스러워해 하지 않거나 돈을 더 내더라도 피한다.
