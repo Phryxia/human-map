@@ -429,6 +429,7 @@
 - [편애받는 형제에 대한 질투](docs/sibling-jealousy-over-favoritism.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [평균 이상 효과](docs/better-than-average-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
+- [프라이버시 역설](docs/privacy-paradox.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [하차 표시 망설이기](docs/hesitating-to-signal-bus-stop.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [하품 전염](docs/contagious-yawning.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [학교 가기 싫어 꾀병 부리기](docs/faking-sick-to-skip-school.md) ([일터와 일자리](groups/work.md))
