@@ -210,6 +210,7 @@
 - [빨리 답해야 한다는 압박](docs/pressure-to-reply-quickly.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [삐짐](docs/sulking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사고 현장 구경하기](docs/rubbernecking.md) ([길과 운전](groups/roads-and-driving.md))
+- [사과 거부 뒤의 자존감 상승](docs/self-esteem-after-refusing-apology.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사과하지 못하기](docs/apology-reluctance.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사별 뒤 후회](docs/bereavement-regret.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [사직 앞의 죄책감](docs/guilt-about-resigning.md) ([일터와 일자리](groups/work.md))

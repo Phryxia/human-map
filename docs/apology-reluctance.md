@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [사과 거부 뒤의 자존감 상승](self-esteem-after-refusing-apology.md)[^3]
 
 ## 대립
 
