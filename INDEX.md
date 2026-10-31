@@ -444,6 +444,7 @@
 - [할 말을 몰라 아픈 사람과 유족 피하기](docs/avoiding-the-grieving-and-ill.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [향수](docs/homesickness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [허위 합의 효과](docs/false-consensus-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [허풍 떨기](docs/exaggerating-own-stories.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [헌혈 꺼림](docs/avoiding-blood-donation.md) ([건강과 위험](groups/health-and-safety.md))
 - [헤어진 연인의 물건 간직하기](docs/keeping-an-exs-belongings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [헤어진 연인의 물건 없애기](docs/discarding-an-exs-belongings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
