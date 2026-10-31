@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T09:32:06.651Z",
-  "nextSeq": 2984,
-  "stops": 152,
+  "savedAt": "2026-10-31T12:37:32.589Z",
+  "nextSeq": 2992,
+  "stops": 153,
   "items": [
     {
       "id": "f8617a7b",
@@ -627,6 +627,22 @@
       "note": "2026-10-31 추가. 신세가 미안해 집안일을 한다는 인과 대목 필요(한국어 지식iN·네이트판·캥거루족 기사 무소득)",
       "createdAt": "2026-10-31T09:28:06.453Z",
       "seq": 2982
+    },
+    {
+      "id": "d7d7c944",
+      "title": "spouse-financial-concealment 보강: 학술 파편, 한국어 서술 문체",
+      "priority": 50,
+      "note": "2026-10-31 secret-stash-from-spouse 작업 중. 후보 journals.newprairiepress.org/jft/article/id/5697 Jeanfreau 등 2018 '27% of participants have kept a financial secret from their partner'. [^2] 소멸이라 학술 확인됨 파편 보충 필요",
+      "createdAt": "2026-10-31T12:30:22.802Z",
+      "seq": 2990
+    },
+    {
+      "id": "c8cc0978",
+      "title": "wishing-coin-toss 와 superstitious-rituals 관계",
+      "priority": 50,
+      "note": "2026-10-31 wishing-coin-toss 추가. 소원 동전 던지기가 징크스 지키기의 특수한 경우인지(상위 후보). 아주경제 20180403081725447 (2018-04-03) 동전 기부 대목, The Wishing Well 원작 출간 연도 확인 필요",
+      "createdAt": "2026-10-31T12:34:46.815Z",
+      "seq": 2991
     },
     {
       "id": "d16898d2",
@@ -2395,6 +2411,22 @@
       "note": "Martinescu 외 2019 Frontiers fpsyg.2018.02603 확인(2026-10-31): 'anger), especially for targets with high reputational concerns, which in turn predicted retaliation intentions against the gossiper.' 비학술 파편 못 찾음(한국어 뒷담화 복수 검색, lawtalk qna 77811 무소득). overhearing-talk-about-oneself 의 결과 후보",
       "createdAt": "2026-10-31T09:30:22.863Z",
       "seq": 2983
+    },
+    {
+      "id": "1e5135ce",
+      "title": "이야기를 되풀이하며 바뀌는 기억",
+      "priority": 10,
+      "note": "2026-10-31 exaggerating-own-stories 작업 중. Marsh & Tversky 2004 (scholars.duke.edu/publication/677284) 참가자가 재진술의 61%를 왜곡이라 표시. PMC4243986 Barber 2014 재진술이 기억을 바꿈. exaggerating-own-stories 의 결과 후보",
+      "createdAt": "2026-10-31T12:13:47.050Z",
+      "seq": 2988
+    },
+    {
+      "id": "777fe8d7",
+      "title": "좋아하는 드라마와 영화 다시 보기",
+      "priority": 10,
+      "note": "2026-10-31 rereading-favorite-books 작업 중. Salon 2020-09-20 comfort reading 기사, 경인일보 1725535 (2025-01-08) 다시 보기 대목, Russell & Levy 2012 rewatching. rereading-favorite-books 와 공통 상위(익숙한 것 되풀이해 즐기기) 후보",
+      "createdAt": "2026-10-31T12:22:40.563Z",
+      "seq": 2989
     },
     {
       "id": "02b2f242",
