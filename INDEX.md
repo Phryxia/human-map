@@ -154,6 +154,7 @@
 - [모음 채우기](docs/completing-a-collection.md) ([돈과 소비](groups/money.md))
 - [모인 자리에서 말하지 않기](docs/staying-quiet-in-groups.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [무단횡단](docs/jaywalking.md) ([길과 운전](groups/roads-and-driving.md))
+- [무더위 쉼터 가지 않기](docs/not-using-cooling-centers.md) ([건강과 위험](groups/health-and-safety.md))
 - [무심코 낙서하기](docs/doodling.md) ([시간과 하루 습관](groups/daily-time.md))
 - [문과 전기 기구 다시 확인하기](docs/rechecking-door-and-stove.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [물건 못 버리기](docs/difficulty-discarding.md) ([돈과 소비](groups/money.md))
