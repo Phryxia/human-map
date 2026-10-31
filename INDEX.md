@@ -462,6 +462,7 @@
 - [혼자 여가 보내기](docs/solo-leisure.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 있기 선호](docs/preference-for-solitude.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼잣말](docs/talking-to-oneself.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [화상 회의에서 자기 얼굴 보기의 불편함](docs/video-call-self-view-discomfort.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [화장실 뒤 손 안 씻기](docs/skipping-handwashing.md) ([건강과 위험](groups/health-and-safety.md))
 - [화재감지기 꺼 두기](docs/disabling-smoke-alarms.md) ([건강과 위험](groups/health-and-safety.md))
 - [화재경보를 오작동으로 여기기](docs/dismissing-fire-alarms.md) ([건강과 위험](groups/health-and-safety.md))
