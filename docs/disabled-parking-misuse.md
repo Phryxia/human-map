@@ -10,7 +10,7 @@
 
 2010년 NPR 방송에서 한 기자는 표지가 차에 걸려 있어 그것이 필요한 사람이 타지 않았을 때도 계속 쓰기 쉽다고 말했다.[^3] 2015년 서울신문 기사에서 단속 현장의 운전자들은 잠시만 세웠다고 발뺌했고 장애인 차량을 비장애인이 몰고 와 세우기도 했다.[^4] 2016년 Donegal Daily 기사가 전한 조사에서 운전자들은 다른 사람이 그 자리를 원하면 옮기겠다, 원하는 곳에 세우겠다, 숙취가 있다, 중국 음식을 찾으러 왔다는 말을 했다.[^5]
 
-2020년 서울 강동구 보도자료는 비장애인 차량의 주정차, 장애인 주차표지 부정 사용, 보행상 장애인이 타지 않은 차량의 주차를 위반 유형으로 들었다.[^6] 2024년 영국 Central Bedfordshire 의회 보도자료에서 배우자의 Blue Badge 를 쓰다 유죄 판결을 받은 운전자 두 명은 표지 소지자가 없는 동안 그를 위해 약을 가지러 왔다고 주장했다.[^7]
+2020년 서울 강동구 보도자료는 비장애인 차량의 주정차, 장애인 주차표지 부정 사용, 보행상 장애인이 타지 않은 차량의 주차를 위반 유형으로 들었다.[^6] 2024년 4월 영국 Central Bedfordshire 의회 보도자료에서 배우자의 Blue Badge 를 쓰다 유죄 판결을 받은 운전자 두 명은 표지 소지자가 없는 동안 그를 위해 약을 가지러 왔다고 주장했다.[^7] 2024년 11월 뉴시스 기사에서 서울시가 2023년 장애인 주차구역의 표지 위반으로 과태료를 매긴 사례는 984건이었다.[^8]
 
 # 관계
 
@@ -43,3 +43,4 @@
 [^5]: [매체] "They included “I’ll move if somebody else wants the space”, “I’ll park where I like”, “I’ve a hangover” and “I’m getting my Chinese.”" (그 가운데에는 '다른 사람이 그 자리를 원하면 옮길게요', '내가 원하는 데 세울 거예요', '숙취가 있어요', '중국 음식 찾으러 왔어요'가 있었다.) — Chris McNulty, "Survey reveals ridicoulous excuses given by people who park in disabled spots", Donegal Daily, 2016-09-08, https://www.donegaldaily.com/2016/09/08/survey-reveals-ridicoulous-excuses-given-by-people-who-park-in-disabled-spots/, 2026-10-31 접속
 [^6]: [공공] "△비장애인 차량의 불법 주정차 △장애인 주차표지 부정사용 △보행상 장애인 미탑승 차량의 주차" — 서울특별시 강동구, "잠깐! 장애인 전용 주차구역 확인하셨나요?", 보도자료, 2020-11-24, https://gangdong.go.kr/web/newportal/press/10264, 2026-10-31 접속
 [^7]: [공공] "Both drivers claimed they were using their spouses’ badges to collect medicine for the Blue Badge holder when they were not present, which is against the rules." (두 운전자는 배우자의 표지를 써서 Blue Badge 소지자가 함께 있지 않을 때 그를 위해 약을 가지러 왔다고 주장했는데 이는 규칙에 어긋난다.) — Central Bedfordshire Council, "Two drivers convicted for Blue Badge misuse", 보도자료, 2024-04-04, https://www.centralbedfordshire.gov.uk/news/article/1121/two_drivers_convicted_for_blue_badge_misuse, 2026-10-31 접속
+[^8]: [매체] "서울시 장애인자립지원과에 따르면 지난해 장애인 주차구역에서 표지 위반으로 과태료를 부과한 사례는 984건이다." — 뉴시스, "불법주차·위조 표지에 갈 곳 잃은 장애인…'탑승자 기준으로 발급해야'", 뉴시스, 2024-11-23, https://www.newsis.com/view/NISX20241122_0002969681, 2026-10-31 접속
