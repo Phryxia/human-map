@@ -16,6 +16,7 @@
 - [다원적 무지](../docs/pluralistic-ignorance.md) 집단 안의 사람이 속으로는 이해하지 못하거나 동의하지 않으면서 다른 사람들은 이해하거나 동의한다고 믿고 겉으로 따른다.
   - [또래 음주량 과대 추정](../docs/overestimating-peer-drinking.md)
 - [대중교통 무임승차](../docs/fare-evasion.md) 대중교통 승객이 단속에 걸리지 않으리라 여기거나 돈을 아끼려고 요금을 내지 않거나 덜 내고 탄다.
+- [반려견 배설물 치우지 않기](../docs/not-picking-up-dog-waste.md) 개를 산책시키는 사람이 개의 배설물을 치우지 않거나 봉지에 담아 나무나 덤불에 두고 간다.
 - [범죄 피해 신고하지 않기](../docs/not-reporting-crime.md) 범죄 피해를 당한 사람이 경찰에 알리지 않고 넘어간다.
   - [보복이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-reprisal.md)
 - [분리배출 하지 않기](../docs/not-sorting-recyclables.md) 가정에서 재활용할 수 있는 쓰레기를 사람이 분리하지 않고 일반 쓰레기와 함께 버린다.
