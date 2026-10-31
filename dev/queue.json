@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T03:39:24.890Z",
-  "nextSeq": 2950,
-  "stops": 150,
+  "savedAt": "2026-10-31T06:41:02.664Z",
+  "nextSeq": 2964,
+  "stops": 151,
   "items": [
     {
       "id": "6c43b078",
@@ -539,6 +539,54 @@
       "note": "2026-10-31 결과 money-worry 더함(MSE 포럼 2013). 남은 후보: guilt-about-resigning, staying-in-job-for-health-insurance. 학술 후보 Basyouni 2021 fpsyg.2021.632265 (횡단 설계, 매개 경로)",
       "createdAt": "2026-10-31T03:39:23.908Z",
       "seq": 2949
+    },
+    {
+      "id": "475b30b4",
+      "title": "hiking-closed-trails 보강: 남을 따라 샛길로 드는 면, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-31 Blue Mountains Gazette 2020 'most people were copy cats - if they saw someone already off-trail' 대목, Goh 2020 준거집단(다른 방문객, 친구). 서울신문 2010-03-08 m.seoul.co.kr/news/2010/03/08/20100308017006 백두대간 종주 샛길출입 대목. nps.gov social-trails",
+      "createdAt": "2026-10-31T06:16:55.548Z",
+      "seq": 2957
+    },
+    {
+      "id": "ddcc32fc",
+      "title": "accepting-long-commute 보강: SNS 파편, 통근 피로 결과",
+      "priority": 50,
+      "note": "2026-10-31 brunch bhy2078/8 (2026-03-22) 왕복 3-4시간 대목이 있으나 bhy2078 계정은 work-rumination-after-hours 에서 사용 중. 미국 Census 2021-03-18 보도자료 27.6분",
+      "createdAt": "2026-10-31T06:25:22.717Z",
+      "seq": 2959
+    },
+    {
+      "id": "6b956d3d",
+      "title": "walking-to-think 보강: SNS 파편, 관계",
+      "priority": 50,
+      "note": "2026-10-31 후보 brunch theshhhforest/47, lalla1021/1896. Pride and Prejudice 36장 '두 시간 길을 걸으며' 대목은 Gutenberg 1342 가 이미 4개 문서에서 쓰여 뺐다",
+      "createdAt": "2026-10-31T06:29:24.235Z",
+      "seq": 2960
+    },
+    {
+      "id": "81cf9b25",
+      "title": "gazing-out-the-window 보강: 학술 파편, 다른 시기",
+      "priority": 50,
+      "note": "2026-10-31 brunch daeho/16 이 Kaplan 주의 회복 이론을 소개. Ulrich 1984 Science PubMed 6143402 는 창밖 풍경과 수술 회복이라 현상과 멂. 이광수 「그 여자의 일생」 위키문헌 '창밖을 내다 보았다' 대목은 발행 연도 확인 필요. Jane Eyre(1260)는 이미 4개 문서에서 쓰임",
+      "createdAt": "2026-10-31T06:33:08.113Z",
+      "seq": 2961
+    },
+    {
+      "id": "ace7e056",
+      "title": "ordering-food-delivery 보강: 공공·SNS 파편, 2000년대 출처",
+      "priority": 50,
+      "note": "2026-10-31 통계청·식품소비행태조사·FSA 는 PDF 만. dailypharm.com/user/news/58370 (2020-10-12) 코로나19 뒤 배달 주문 빈도 증가 22%",
+      "createdAt": "2026-10-31T06:35:37.676Z",
+      "seq": 2962
+    },
+    {
+      "id": "710d4934",
+      "title": "news-avoidance 보강: 공공·SNS 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-10-31 Ofcom 회피 수치는 PDF 에만. 기자협회보 56602 에 이유 문항 '안 좋은 뉴스(부정적인 뉴스)가 너무 많아서'(3.62점). Reuters 2023 응답자 'Turning my back on news is the only way I feel I can cope sometimes.'",
+      "createdAt": "2026-10-31T06:38:17.453Z",
+      "seq": 2963
     },
     {
       "id": "d16898d2",
@@ -2363,6 +2411,14 @@
       "note": "2026-10-30 재탐색. Simmons·Sutter 2008 AMS 초록은 'widely perceived' 뿐이라 인과 근거 아님. Dow·Cutter 1998 Coastal Management(doi 10.1080/08920759809362356)는 거짓 경보 뒤에도 주민이 관리를 불신하지 않았다고 결론(반대 근거). LeClerc·Joslyn 2015 Risk Analysis 실험은 cry wolf 효과(대피가 아니라 보호 조치). insurancejournal.com 2015-01-28 기사 후보",
       "createdAt": "2026-10-30T15:28:43.753Z",
       "seq": 2879
+    },
+    {
+      "id": "19836e7b",
+      "title": "모음 완성 뒤의 허전함",
+      "priority": 10,
+      "note": "2026-10-31 completing-a-collection [^2] Bonnard 1881 'our collection will soon be complete. And then what are we going to do?', straightdope 484352 첫 글의 what next? 대목. completing-a-collection 의 결과 후보",
+      "createdAt": "2026-10-31T06:20:43.061Z",
+      "seq": 2958
     },
     {
       "id": "02b2f242",
