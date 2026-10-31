@@ -89,21 +89,21 @@
   },
   "https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84": {
     "first": "2026-10-16",
-    "last": "2026-10-27",
+    "last": "2026-10-31",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-18"
   },
   "https://www.nfcc.org/press_release/financial-infidelity-growing-concern/": {
     "first": "2026-10-16",
-    "last": "2026-10-27",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-31"
   },
   "https://link.springer.com/article/10.1007/s10834-024-09988-2": {
     "first": "2026-10-16",
-    "last": "2026-10-27",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-31"
   },
   "https://ko.wikisource.org/wiki/봄봄": {
     "first": "2026-10-16",
@@ -1672,9 +1672,9 @@
   },
   "https://www.imaeil.com/page/view/2007111517391962006": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-31"
   },
   "https://api.crossref.org/works/10.1002/job.4030150306": {
     "first": "2026-10-18",
@@ -12020,9 +12020,9 @@
   },
   "https://journals.newprairiepress.org/jft/article/id/5558/": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-10-31"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21259179&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -15446,6 +15446,12 @@
     "lastVerified": "2026-10-31"
   },
   "https://www.rightmove.co.uk/news/articles/lovers-money-secrets-revealed-time-you-asked-about-your-partners-cash-stash/": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://journals.newprairiepress.org/jft/article/id/5697/": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",
