@@ -1750,9 +1750,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%94%B0%EB%9D%BC%EC%A7%80": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5760191/": {
     "first": "2026-10-18",
@@ -15302,6 +15302,18 @@
     "lastVerified": "2026-10-31"
   },
   "https://pubmed.ncbi.nlm.nih.gov/28481618/": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://boards.straightdope.com/t/for-parents-of-adults-who-still-live-at-home/540787?page=2": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.pbs.org/newshour/economy/pew-study-young-adults-ok-with": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",
