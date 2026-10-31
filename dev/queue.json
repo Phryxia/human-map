@@ -1,41 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T18:38:09.196Z",
-  "nextSeq": 3026,
-  "stops": 155,
+  "savedAt": "2026-10-31T21:44:30.112Z",
+  "nextSeq": 3030,
+  "stops": 156,
   "items": [
-    {
-      "id": "dd6d1cc4",
-      "title": "deciding-to-quit-job 과 guilt-about-resigning 관계",
-      "priority": 50,
-      "note": "2026-10-30 퇴사 결심 뒤 사직 앞의 죄책감. 근거 파편 필요. 지식iN 386092245 (2021-04-01) '퇴사를 하려고 마음을 먹었는데 ... 제가 나가면 사무실 완전 멘붕' 은 순서만 있고 인과 문장은 아님. 후보 news.cornell.edu 2021/08 rejected-internal-applicants-twice-likely-quit",
-      "createdAt": "2026-10-30T09:34:19.351Z",
-      "seq": 2820
-    },
-    {
-      "id": "ff4040fd",
-      "title": "delaying-going-home 보강: 학술 또는 공공 파편, 차 안에 머물기, shrinking-in-hosts-home 관계",
-      "priority": 50,
-      "note": "2026-10-29 CiNii, J-STAGE 초록 없음. 2026-10-30 go.jp, lg.jp 에 フラリーマン 조사 없음(민간: 養命酒 66%, アサヒ飲料 1割, jinjibu.jp 14623). 남은 방법: KCI '남편 늦은 귀가' 초록. 매체 후보: jamaica-gleaner 20260422",
-      "createdAt": "2026-10-30T09:34:45.306Z",
-      "seq": 2821
-    },
-    {
-      "id": "f7a5a3a1",
-      "title": "vegetable-gardening 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-29 계용묵 1942 수필(매체) 더함. Warner 1870 도 매체. 2026-10-30 채만식 「집」 위키문헌은 '연도 미입력 작품', 배경이 안양 하천가 마을이라 도시 텃밭과 멂(대목: '날마다 석양이면 물을 주고 해서 며칠 후엔 씨앗이 모두 이쁘게 섰었다'). 강경애 「번뇌」 는 간도",
-      "createdAt": "2026-10-30T09:36:06.778Z",
-      "seq": 2822
-    },
-    {
-      "id": "401f5990",
-      "title": "rechecking-door-and-stove 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-29 매일신문 2000, 코메디닷컴 2022 더함. Gutenberg 75종 grep 으로 다시 돌아가 문이나 불을 보는 대목 못 찾음. 한국어 위키문헌 근대 소설 볼 것. 후보 kormedi.com/1728856 (2024-10-17) 본문 미확인",
-      "createdAt": "2026-10-30T09:36:16.902Z",
-      "seq": 2823
-    },
     {
       "id": "ea5e33b8",
       "title": "empty-invitations 보강: 공공 파편, ritual-refusal 관계",
@@ -723,6 +691,22 @@
       "note": "2026-10-31 매체 2015, 공공 2017, SNS 2019. 후보: 한국경제 2023-08 프랑스 영수증 기사 hankyung.com/amp/202308044714Y, 강남구 카드 영수증 선택 발급 안내",
       "createdAt": "2026-10-31T18:37:58.098Z",
       "seq": 3025
+    },
+    {
+      "id": "8183c663",
+      "title": "delaying-going-home 보강: 차 안에 머물기, shrinking-in-hosts-home 관계",
+      "priority": 50,
+      "note": "2026-10-31 Damaske 외 2014 학술 파편 더함. 차 안이나 카페에서 귀가를 미루는 장면의 학술·공공 출처는 못 찾음. 매체 후보: news.allabout.co.jp/articles/o/32023 (家に帰りたくないとき 500명 조사), jamaica-gleaner 20260422. UC Berkeley 1997-05-02 보도자료 work2.html 'the more people avoid home' 은 Hochschild 같은 주장이라 겹침",
+      "createdAt": "2026-10-31T21:14:56.852Z",
+      "seq": 3028
+    },
+    {
+      "id": "7fe00a1e",
+      "title": "rechecking-door-and-stove 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 확인한 뒤 다시 확인하는 대목 못 찾음. 근접 후보는 '잊고 나온 것' 장면이라 안 맞음: Conrad The Secret Agent 12장 (gutenberg 974) 'I've forgotten to shut the shop door as I went out', 宮本百合子「蛋白石」(aozora 15950, 연도 미상) 火の用心 잊은 불안. 한국어 위키문헌은 검색 API 429",
+      "createdAt": "2026-10-31T21:44:22.798Z",
+      "seq": 3029
     },
     {
       "id": "d16898d2",
