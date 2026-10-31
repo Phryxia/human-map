@@ -24,7 +24,7 @@
 
 ## 하위
 
-없음.
+- [배우자 몰래 비상금 모으기](secret-stash-from-spouse.md)
 
 ## 원인
 

@@ -28,6 +28,7 @@
   - [리베이트 받지 않기](../docs/rebate-slippage.md)
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
 - [배우자에게 재정 정보 숨기기](../docs/spouse-financial-concealment.md) 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨기는 행동이다.
+  - [배우자 몰래 비상금 모으기](../docs/secret-stash-from-spouse.md)
 - [복권 구매](../docs/buying-lottery-tickets.md) 사람이 당첨을 바라며 복권을 산다.
 - [부유한 척하기](../docs/faking-wealth.md) 남에게 가난해 보이기 싫은 사람이 빌린 물건이나 연출한 사진으로 실제보다 부유해 보이게 꾸민다.
 - [뷔페 접시 넘치게 담기](../docs/overfilling-buffet-plates.md) 뷔페에서 손님이 먹을 수 있는 양보다 많이 접시에 담고 남긴다.
