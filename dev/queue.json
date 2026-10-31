@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T12:37:32.589Z",
-  "nextSeq": 2992,
-  "stops": 153,
+  "savedAt": "2026-10-31T15:27:33.345Z",
+  "nextSeq": 3014,
+  "stops": 154,
   "items": [
-    {
-      "id": "f8617a7b",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-10-27~28 영국·캐나다·아일랜드 의회 403/405. 2026-10-30 korea.kr 검색 무소득. 남은 방법: likms.assembly.go.kr 회의록, NHS England HTML 보고서, 국가인권위 보도자료. 학술 단서 PMC10248469",
-      "createdAt": "2026-10-30T09:28:44.482Z",
-      "seq": 2813
-    },
-    {
-      "id": "635e28de",
-      "title": "impostor-phenomenon 보강: 관계, 매체·공공 파편",
-      "priority": 50,
-      "note": "2026-10-30 지식iN 2016, Bravata 2019 로 추가. PMC7174434 에 Clance & Imes 1978 첫 기술, 성공을 운이나 남의 도움 탓으로 돌림 대목. 관계 후보: fear-of-negative-evaluation, 완벽주의",
-      "createdAt": "2026-10-30T09:30:28.570Z",
-      "seq": 2814
-    },
-    {
-      "id": "5264a822",
-      "title": "pet-euthanasia-guilt 보강: 공공 또는 문학 파편",
-      "priority": 50,
-      "note": "2026-10-29 추가. 2026-10-30 대학 수의대 자료(Tufts 2012, Guelph 2016, OSU 브로셔 PDF, Iowa State 1997)는 매체이거나 대목 없음. 후보: tildes.net ~life.pets/1ua5 (2026-05-20)",
-      "createdAt": "2026-10-30T09:30:54.105Z",
-      "seq": 2815
-    },
-    {
-      "id": "14dc2a45",
-      "title": "not-reading-books 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-29 Northanger Abbey, Emma 맞지 않음. 2026-10-30 웹 검색(never read a book 등) 무소득. 트롤럽, 엘리엇, 고골 본문에서 had never read a book 류를 찾을 것",
-      "createdAt": "2026-10-30T09:31:10.255Z",
-      "seq": 2816
-    },
-    {
-      "id": "8513b0c7",
-      "title": "overreporting-desirable-behavior 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-29 매체 2개 더함. 2026-10-30 지식iN(설문 좋게 답함, 운동 부풀림), HN algolia(lie on surveys, lied on the survey) 에서 1인칭 과장 글 무소득. 학술 후보: Harbaugh 1996 Public Choice",
-      "createdAt": "2026-10-30T09:33:02.777Z",
-      "seq": 2818
-    },
-    {
-      "id": "f69ddd90",
-      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계",
-      "priority": 50,
-      "note": "2026-10-29 fnnews 봉안당 기사 더함. 2026-10-30 PMC8910367, PMC3918682 에서 인과 대목 찾으려 했으나 PMC 가 reCAPTCHA. brunch @logincj/3 (2025-11-28) 은 두 현상이 함께 나올 뿐 인과 아님",
-      "createdAt": "2026-10-30T09:33:18.444Z",
-      "seq": 2819
-    },
     {
       "id": "dd6d1cc4",
       "title": "deciding-to-quit-job 과 guilt-about-resigning 관계",
@@ -645,6 +597,94 @@
       "seq": 2991
     },
     {
+      "id": "430d13c7",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-10-27~28 영국·캐나다·아일랜드 의회 403/405. 2026-10-30 korea.kr 무소득. 2026-10-31 gov.uk/nhs.uk/gov.au/canada.ca 'guilty leaving colleagues' 무소득. 남은 방법: likms.assembly.go.kr 회의록, 국가인권위 보도자료. 학술 단서 PMC10248469",
+      "createdAt": "2026-10-31T15:06:10.222Z",
+      "seq": 3003
+    },
+    {
+      "id": "20c2193e",
+      "title": "impostor-phenomenon 보강: perfectionism 원인 간선, 공공 파편",
+      "priority": 50,
+      "note": "2026-10-31 CIO Korea 2017, HSE Perm 2019 추가. therapytoronto.ca/news/?p=28821 (2019-06-01, HSE 보도자료 전재) 'Adaptive perfectionism ... does not lead to impostor syndrome' 는 부정문이라 원인 근거로 약함. Permyakova 외 2019 PAID doi 10.1016/j.paid.2019.02.005",
+      "createdAt": "2026-10-31T15:09:21.701Z",
+      "seq": 3004
+    },
+    {
+      "id": "989944f5",
+      "title": "pet-euthanasia-guilt 보강: 공공 또는 문학 파편",
+      "priority": 50,
+      "note": "2026-10-30 대학 수의대 자료는 매체이거나 대목 없음. 2026-10-31 korea.kr/go.kr 펫로스 안락사 무소득(KB경영연구소 2025 는 민간). 후보: tildes.net ~life.pets/1ua5 (2026-05-20), Galsworthy Memories 1912 확인할 것",
+      "createdAt": "2026-10-31T15:09:52.306Z",
+      "seq": 3005
+    },
+    {
+      "id": "95456fc7",
+      "title": "cute-aggression 보강: rough-affection 관계, 감정 압도 원인",
+      "priority": 50,
+      "note": "Stavropoulos·Alba 2018 Frontiers 에 'relationship between appraisal and cute aggression was significantly mediated by feeling overwhelmed'. Aragón 외 2015 Psychological Science 이형 표현(dimorphous expression). maily 2024 는 눈물·웃음과 비슷한 현상이라 적음",
+      "createdAt": "2026-10-31T15:11:36.853Z",
+      "seq": 3006
+    },
+    {
+      "id": "fd234a2f",
+      "title": "overreporting-desirable-behavior 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-10-30 지식iN, HN algolia 1인칭 과장 글 무소득. 2026-10-31 reddit 운동 과장 검색 무소득. 학술 후보: Harbaugh 1996 Public Choice",
+      "createdAt": "2026-10-31T15:13:54.789Z",
+      "seq": 3007
+    },
+    {
+      "id": "f7d10ecd",
+      "title": "saying-food-is-fine 보강: 학술 또는 한국어 파편, 미용실 등 다른 장면",
+      "priority": 50,
+      "note": "2026-10-31 추가. 후보: insight.co.kr/news/128052 (2018-05-18), morningadvertiser.co.uk 2018-01-04 YouGov, Snyder(BI Norwegian Business School) 소비자 거짓말 연구(cxm.world/?p=26390). Seattle Met 2014 필자가 말하지 않는 이유로 'Don’t want to be a pain' 을 듦",
+      "createdAt": "2026-10-31T15:15:28.203Z",
+      "seq": 3008
+    },
+    {
+      "id": "2ab1bb88",
+      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계",
+      "priority": 50,
+      "note": "2026-10-30 PMC8910367, PMC3918682 reCAPTCHA. brunch @logincj/3 (2025-11-28) 은 인과 아님. 2026-10-31 손대지 않고 되돌림",
+      "createdAt": "2026-10-31T15:15:40.101Z",
+      "seq": 3009
+    },
+    {
+      "id": "91f28471",
+      "title": "hesitating-to-unfriend 보강: 학술 파편, staying-in-group-chats 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가. blog.commarts.wisc.edu/2009/11/18/unfriended (Ellcessor 2009-11-18) 알림이 없어 상처를 덜 줌. dcinside aoegame 31767743 (2026-10-20) 해코지당할까 겁나 친삭 망설임",
+      "createdAt": "2026-10-31T15:21:45.439Z",
+      "seq": 3010
+    },
+    {
+      "id": "310426d5",
+      "title": "video-call-self-view-discomfort 보강: 학술 파편, own-face-in-photos 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가. Bailenson 2021 Technology, Mind, and Behavior(tmb.apaopen.org nonverbal-overload) 와 news.stanford.edu 2021/02 는 Cloudflare. koreascience JAKO202216054039517 이은지 2022 MZ세대의 화상회의 피로감. 골웨이대 2024 EEG 연구(businesspost.ie 2024-04-22)",
+      "createdAt": "2026-10-31T15:23:37.412Z",
+      "seq": 3011
+    },
+    {
+      "id": "4502829e",
+      "title": "avoiding-haggling 과 haggling 관계, 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-10-31 추가. haggling F3 브런치 2026 필자는 깎아 달라는 말을 끝까지 밀지 못함. 같은 계정 재사용 불가라 다른 출처 필요. qz.com Indiana University '미국 성인 95% 협상 회피' 는 봇 확인 페이지",
+      "createdAt": "2026-10-31T15:24:56.634Z",
+      "seq": 3012
+    },
+    {
+      "id": "2ff67337",
+      "title": "senders-remorse 보강: 한국어 파편, rereading-messages-before-sending 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가. 카카오톡 메시지 삭제 기능(2018) 보도, 카톡 보내고 후회 지식iN 후보. Grammarly 2019 같은 글 'Almost one-third of respondents use the “unsend” function'",
+      "createdAt": "2026-10-31T15:25:55.548Z",
+      "seq": 3013
+    },
+    {
       "id": "d16898d2",
       "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
       "priority": 40,
@@ -1069,14 +1109,6 @@
       "seq": 2193
     },
     {
-      "id": "1d02be1d",
-      "title": "친구 끊기를 상대가 알아챌까 봐 망설이기",
-      "priority": 10,
-      "note": "archive.blogs.harvard.edu/digitalnatives/2008/12/15/unfriending-stealth-tactics-and-sensible-responses/ (2008-12-15) 'they’re quite likely to discover the unfriending eventually.' blog.commarts.wisc.edu/2009/11/18/unfriended (Ellcessor 2009-11-18) 알림이 없어 상처를 덜 줌. staying-in-group-chats 와 관련 후보",
-      "createdAt": "2026-10-18T05:47:32.692Z",
-      "seq": 215
-    },
-    {
       "id": "870be3f4",
       "title": "식사비를 누가 낼지 상대와 상황으로 정하기",
       "priority": 10,
@@ -1157,14 +1189,6 @@
       "seq": 465
     },
     {
-      "id": "34f0b3c2",
-      "title": "마음에 들지 않는 결과 앞에서 칭찬하기",
-      "priority": 10,
-      "note": "non-complaining 하위 후보(check-cycle OK). 매체 확보: insight.co.kr/news/128052 (2018-05-18, 이다래), seattlemet.com/eat-and-drink/2014/08/what-do-you-say-when-the-waiter-asks-how-is-everything-august-2014 ('I said everything was fine. I know. I lied.'), morningadvertiser.co.uk 2018-01-04 (YouGov). 학술 또는 SNS 하나 필요: Snyder(BI Norwegian Business School) 소비자 거짓말 연구 원문(cxm.world/?p=26390 가 소개), LessWrong 댓글 등",
-      "createdAt": "2026-10-19T05:02:02.599Z",
-      "seq": 466
-    },
-    {
       "id": "f2407748",
       "title": "층간소음 보복",
       "priority": 10,
@@ -1203,14 +1227,6 @@
       "note": "brunch.co.kr/@philanthr/14 (2026-04-08) '이미 여러 번 꺼낸 기억인데도 또 꺼냅니다.' 저자는 망각이 아니라 삶을 다시 이해하려는 데서 원인을 찾음. retelling-same-story 원인 후보, destination-memory-failure 와 대비. 이어지는 문장은 추출이 깨져 미확인",
       "createdAt": "2026-10-19T08:51:09.088Z",
       "seq": 491
-    },
-    {
-      "id": "b406f614",
-      "title": "귀여운 공격성 (이형 표현)",
-      "priority": 10,
-      "note": "Aragón·Clark·Dyer·Bargh 2015 Psychological Science 26(3) psychologicalscience.org/journals/psychological-science/0956797614561044/ 강한 긍정 감정이 부정 감정용 표현으로 나옴. rough-affection 과 관계 후보",
-      "createdAt": "2026-10-19T08:53:47.324Z",
-      "seq": 492
     },
     {
       "id": "bf43e3a5",
@@ -1373,28 +1389,12 @@
       "seq": 606
     },
     {
-      "id": "57992cc7",
-      "title": "보낸 메시지를 후회하기 (보내고 나서 걱정)",
-      "priority": 10,
-      "note": "HN 60295(2007-09-27) sender's remorse, Grammarly 2019 블로그: 응답자 약 1/3 이 unsend 기능 사용. rereading-messages-before-sending 과 관련 후보",
-      "createdAt": "2026-10-20T00:56:45.828Z",
-      "seq": 610
-    },
-    {
       "id": "189c7718",
       "title": "높은 사람에게 길 비켜 주기",
       "priority": 10,
       "note": "도스토옙스키 Notes from Underground(gutenberg 600) 'continually moving aside to make way for generals, for officers of the guards and the hussars, or for ladies' 뒤 굴욕감. 비학술 외 파편 필요(보행자 양보 연구: psychologicalscience.org 2020 포스터, PMC8758047 상황 요인)",
       "createdAt": "2026-10-20T00:57:27.248Z",
       "seq": 611
-    },
-    {
-      "id": "b1a27cc3",
-      "title": "화상 회의에서 자기 얼굴 보기 불편함",
-      "priority": 10,
-      "note": "HN 26364880(2021-03-06): 화상 면접에서 자기 모습을 보게 되고 자기 입과 얼굴이 싫다. disliking-recorded-own-voice, aged-face-in-mirror 와 관련 후보",
-      "createdAt": "2026-10-20T01:00:15.264Z",
-      "seq": 613
     },
     {
       "id": "ee15591a",
@@ -1421,28 +1421,12 @@
       "seq": 634
     },
     {
-      "id": "18e4ef46",
-      "title": "값 흥정하기",
-      "priority": 10,
-      "note": "현진건 「운수 좋은 날」 1924 ko.wikisource.org/wiki/운수_좋은_날 VERIFIED 가능(curl): '“일 원 오십 전은 너무 과한데.” 이런 말을 하며 학생은 고개를 기웃하였다. “아니올시다. 잇수로 치면 여기서 거기가 시오 리가 넘는답니다. 또 이런 진날은 좀 더 주셔야지요.”' 다른 종류 파편 필요",
-      "createdAt": "2026-10-20T03:02:19.130Z",
-      "seq": 637
-    },
-    {
       "id": "7075fd3f",
       "title": "들어갈까 말까 머뭇거리기",
       "priority": 10,
       "note": "김유정 「소낙비」 ko.wikisource.org/wiki/소낙비 '섭섭한 낯으로 머뭇머뭇하다가 그냥 돌아갈 듯이 봉당 아래로 내려섰다'(발표 연도 페이지에 없음, 확인 필요). 나도향 「벙어리 삼룡이」 1925 '담에서서 주저주저하더니 담을 넘엇다'",
       "createdAt": "2026-10-20T03:02:19.269Z",
       "seq": 638
-    },
-    {
-      "id": "01407539",
-      "title": "흥정을 부담스러워해 하지 않기",
-      "priority": 10,
-      "note": "haggling F2(진현정·정아영 2009) 흥정을 부담으로 여김, F3(브런치 2026) 끝까지 밀지 못함. qz.com Indiana University 연구 '미국 성인 95% 협상 회피'는 봇 확인 페이지. haggling 하위 후보",
-      "createdAt": "2026-10-20T03:04:08.440Z",
-      "seq": 639
     },
     {
       "id": "e8184d28",
