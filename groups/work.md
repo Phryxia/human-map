@@ -10,6 +10,7 @@
 - [고용 불안](../docs/job-insecurity.md) 일하는 사람이 지금의 일자리를 잃을지 모른다고 걱정한다.
 - [구직 단념](../docs/giving-up-job-search.md) 일할 뜻과 능력이 있는 사람이 일자리를 찾다가 원하는 일자리가 없거나 될 것 같지 않다고 여겨 구직을 그만둔다.
 - [근무 중 사적인 인터넷 사용](../docs/cyberloafing.md) 직장인이 근무 시간에 업무와 상관없는 웹사이트와 SNS 를 본다.
+- [긴 통근 감수](../docs/accepting-long-commute.md) 직장인이 집값이 싼 먼 곳에 살며 긴 출퇴근 시간을 받아들인다.
 - [꾀병 부리기](../docs/feigning-illness.md) 사람이 공부나 일처럼 해야 할 일을 피하려고 아프지 않은데 아프다고 말하거나 아픈 척한다.
   - [꾀병 결근](../docs/calling-in-sick-when-not-sick.md)
   - [학교 가기 싫어 꾀병 부리기](../docs/faking-sick-to-skip-school.md)
