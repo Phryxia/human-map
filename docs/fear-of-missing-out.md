@@ -31,6 +31,7 @@
 ## 결과
 
 - [스마트폰 확인 습관](smartphone-checking-habit.md)[^4]
+- [출입 금지된 샛길 산행](hiking-closed-trails.md)
 
 ## 대립
 
