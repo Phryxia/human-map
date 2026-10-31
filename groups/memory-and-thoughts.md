@@ -14,6 +14,7 @@
 - [누구에게 말했는지 잊기](../docs/destination-memory-failure.md) 이야기나 정보를 남에게 전한 사람이 그것을 누구에게 이미 말했는지 잊는다.
 - [뒤늦게 떠오른 대답](../docs/staircase-wit.md) 대화나 말다툼이 끝난 뒤에야 사람이 그 자리에서 했어야 할 대답을 떠올린다.
 - [딴생각](../docs/mind-wandering.md) 하던 일을 하는 사람의 생각이 그 일과 상관없는 데로 흘러간다.
+  - [비밀에 대한 생각에 사로잡히기](../docs/thinking-about-secrets.md)
   - [창밖 바라보기](../docs/gazing-out-the-window.md)
 - [미래 기억 실패](../docs/prospective-memory-failure.md) 나중에 할 일을 정해 둔 사람이 그때가 와도 그 일을 떠올리지 못하고 지나친다.
   - [차 안에 아이를 잊고 내리기](../docs/forgetting-child-in-car.md)

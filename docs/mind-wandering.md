@@ -24,6 +24,7 @@
 
 ## 하위
 
+- [비밀에 대한 생각에 사로잡히기](thinking-about-secrets.md)
 - [창밖 바라보기](gazing-out-the-window.md)
 
 ## 원인

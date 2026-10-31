@@ -3783,9 +3783,9 @@
   },
   "https://www.scientificamerican.com/article/why-it-rsquo-s-so-hard-to-keep-a-secret": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://www.munhwa.com/article/11155267": {
     "first": "2026-10-19",
@@ -15296,6 +15296,12 @@
     "lastVerified": "2026-10-31"
   },
   "https://news.ycombinator.com/item?id=43906114": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/28481618/": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",
