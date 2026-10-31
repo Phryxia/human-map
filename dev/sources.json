@@ -15630,5 +15630,41 @@
     "last": "2026-10-31",
     "result": "VERIFIED",
     "lastVerified": "2026-10-31"
+  },
+  "https://www.seoul.co.kr/news/society/2014/12/09/20141209009014": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://mediahub.seoul.go.kr/archives/894957": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=334674&tag=&nPage=699": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://mobile.newsis.com/view/NISX20190724_0000721357": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=351117&mid=a10503010100&nPage=490&tag=": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://m.seoul.co.kr/news/2026/04/23/20260423500135": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
   }
 }
