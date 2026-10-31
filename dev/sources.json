@@ -14033,15 +14033,15 @@
   },
   "https://kin.naver.com/qna/detail.naver?dirId=70109&docId=256678733": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7174434/": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-10-31"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=31505&docId=495324424": {
     "first": "2026-10-30",
@@ -15488,6 +15488,18 @@
     "lastVerified": "2026-10-31"
   },
   "https://research.aston.ac.uk/en/publications/reading-habits-in-the-covid-pandemic-an-applied-linguistic-perspe": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.cio.com/article/3531053/": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://perm.hse.ru/en/news/320094211.html": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",
