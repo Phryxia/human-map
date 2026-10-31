@@ -143,6 +143,7 @@
 - [명절 친지 모임 피하기](docs/skipping-holiday-gatherings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [모르는 번호의 전화 받지 않기](docs/not-answering-unknown-numbers.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [모르는 번호의 전화를 받고 먼저 말하지 않기](docs/answering-unknown-calls-silently.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [모음 채우기](docs/completing-a-collection.md) ([돈과 소비](groups/money.md))
 - [모인 자리에서 말하지 않기](docs/staying-quiet-in-groups.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [무단횡단](docs/jaywalking.md) ([길과 운전](groups/roads-and-driving.md))
 - [무심코 낙서하기](docs/doodling.md) ([시간과 하루 습관](groups/daily-time.md))
