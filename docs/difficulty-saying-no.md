@@ -22,7 +22,7 @@
 
 ## 하위
 
-없음.
+- [내키지 않는 초대에 응하기](accepting-unwanted-invitations.md)
 
 ## 원인
 

@@ -48,6 +48,7 @@
 - [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md) 연인과 헤어지는 사람이 슬픔을 드러내지 않으려고 눈물을 참고 아무렇지 않은 척한다.
 - [자기 침묵](../docs/self-silencing.md) 관계를 지키거나 갈등을 피하려는 사람이 자기 생각과 불만을 말하지 않고 누른다.
   - [거절하지 못하기](../docs/difficulty-saying-no.md)
+    - [내키지 않는 초대에 응하기](../docs/accepting-unwanted-invitations.md)
   - [모인 자리에서 말하지 않기](../docs/staying-quiet-in-groups.md)
   - [보내지 않는 편지 쓰기](../docs/unsent-letters.md)
   - [보상을 기다리며 불만 없이 일하기](../docs/silent-work-awaiting-reward.md)
