@@ -236,6 +236,7 @@
 - [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [소개팅 주선](docs/matchmaking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [소득 상실 우려](docs/income-loss-worry.md) ([돈과 소비](groups/money.md))
+- [소원 빌며 동전 던지기](docs/wishing-coin-toss.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [소유 효과](docs/endowment-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [소지품으로 자리 맡기](docs/saving-seats-with-belongings.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [소프트웨어 업데이트 미루기](docs/delaying-software-updates.md) ([걱정과 기분](groups/worry-and-mood.md))
