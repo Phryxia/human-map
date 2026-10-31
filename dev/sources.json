@@ -3513,9 +3513,9 @@
   },
   "https://news.seoul.go.kr/gov/?p=505674": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-10-31",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-10-31"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=61002&docId=458108675": {
     "first": "2026-10-19",
@@ -15314,6 +15314,12 @@
     "lastVerified": "2026-10-31"
   },
   "https://www.pbs.org/newshour/economy/pew-study-young-adults-ok-with": {
+    "first": "2026-10-31",
+    "last": "2026-10-31",
+    "result": "VERIFIED",
+    "lastVerified": "2026-10-31"
+  },
+  "https://www.mt.co.kr/society/2020/05/18/2020051512375753294": {
     "first": "2026-10-31",
     "last": "2026-10-31",
     "result": "VERIFIED",

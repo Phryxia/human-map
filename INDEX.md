@@ -50,6 +50,7 @@
 - [근무 중 사적인 인터넷 사용](docs/cyberloafing.md) ([일터와 일자리](groups/work.md))
 - [금연 뒤 다시 피우기](docs/smoking-relapse.md) ([건강과 위험](groups/health-and-safety.md))
 - [금지된 것에 대한 호기심](docs/forbidden-curiosity.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [기부 단체 불신](docs/distrust-of-charities.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [기부하지 않기](docs/not-donating.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [기분 회복 행동](docs/mood-repair.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [기분을 달래려는 소비](docs/retail-therapy.md) ([돈과 소비](groups/money.md), [걱정과 기분](groups/worry-and-mood.md))

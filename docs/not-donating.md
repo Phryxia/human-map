@@ -30,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [기부 단체 불신](distrust-of-charities.md)[^5]
 
 ## 결과
 
