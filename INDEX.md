@@ -122,6 +122,7 @@
 - [되풀이 사과](docs/over-apologizing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [뒤늦게 떠오른 대답](docs/staircase-wit.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [뒷좌석 안전띠 미착용](docs/rear-seat-belt-nonuse.md) ([길과 운전](groups/roads-and-driving.md))
+- [들어온 길로 대피하기](docs/exiting-the-way-you-came.md) ([건강과 위험](groups/health-and-safety.md))
 - [들킬까 두려워하기](docs/fear-of-being-found-out.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [등교 거부](docs/school-refusal.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [딴생각](docs/mind-wandering.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
