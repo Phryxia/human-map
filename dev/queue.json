@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T00:42:35.638Z",
-  "nextSeq": 2942,
-  "stops": 149,
+  "savedAt": "2026-10-31T03:39:24.890Z",
+  "nextSeq": 2950,
+  "stops": 150,
   "items": [
-    {
-      "id": "dfbb8e01",
-      "title": "muting-chat-notifications 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-10-30 staying-in-group-chats 원인 간선은 The Star 2019 로 그음. 학술 파편 아직 없음",
-      "createdAt": "2026-10-30T09:06:29.393Z",
-      "seq": 2802
-    },
-    {
-      "id": "073c535a",
-      "title": "avoiding-library-over-overdue-books 보강: shame-after-unanswered-message 와 관계",
-      "priority": 50,
-      "note": "2026-10-27 'overdue library book' 과 답장 지연 수치를 같이 다룬 글 검색 무소득. 2026-10-30 두 문서는 원인 관계 근거가 없고 공통 상위(부끄러움 때문에 상대를 피하기) 후보. 후보: writerswrite.com new-york-public-library-receives-8042014177, odt.co.nz fines-discontinued-district-libraries (2022-07-25)",
-      "createdAt": "2026-10-30T09:08:56.787Z",
-      "seq": 2803
-    },
-    {
-      "id": "fa48ccf7",
-      "title": "not-cutting-into-conversation 보강: fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-10-30 지식iN 486338158 (2025-06) SNS 파편 더함. Natale 1979 의 'inversely related' 는 상관이라 원인 간선 근거 아님. 평가가 두려워 말을 못 꺼낸다는 인과 대목 찾을 것",
-      "createdAt": "2026-10-30T09:14:24.175Z",
-      "seq": 2804
-    },
-    {
-      "id": "aa85a609",
-      "title": "keeping-leftover-medicines 보강: 2007년 이전 파편",
-      "priority": 50,
-      "note": "2026-10-30 UMS 2026-06 기사로 reusing-leftover-medicine 결과 간선 그음. 파편 2017~2026 뿐. CDC EID 05-1471 2006 은 reusing-leftover-medicine 이 씀",
-      "createdAt": "2026-10-30T09:16:18.698Z",
-      "seq": 2805
-    },
-    {
-      "id": "b3bb7077",
-      "title": "waiting-up-for-family 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-10-28 현진건 1921 더함. 2026-10-30 후보: Arber 외 2007 Sociological Research Online 12(5) 'Gender roles and women's sleep in mid and later life' (자녀 늦은 귀가와 수면 질), socresonline 은 Cloudflare 차단, ORA uuid:5caef53f 초록은 JS. Surrey 커플 수면 연구(늦게 들어오는 성인 자녀 걱정에 깨는 아버지) 포털이 JS",
-      "createdAt": "2026-10-30T09:16:57.625Z",
-      "seq": 2806
-    },
-    {
-      "id": "4a5c70fb",
-      "title": "job-insecurity 보강: 관계 간선",
-      "priority": 50,
-      "note": "2026-10-30 결과 employee-silence 더함(myosh 2018). 남은 후보: money-worry, guilt-about-resigning, staying-in-job-for-health-insurance",
-      "createdAt": "2026-10-30T09:21:05.618Z",
-      "seq": 2807
-    },
     {
       "id": "6c43b078",
       "title": "impulse-buying 보강: 자기 보상 원인, 후회 결과",
@@ -555,6 +507,38 @@
       "note": "2026-10-31 NIA·NHS·healthdirect 에 낙인 대목 없음, canada.ca 빈 응답. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 예비: NPR 2026-01-06 nx-s1-5640140 (넘어진 환자 절반이 의사에게 말하지 않음), youthassembly 966688 (늙어 보일까 걱정)",
       "createdAt": "2026-10-31T00:39:35.072Z",
       "seq": 2941
+    },
+    {
+      "id": "ff5856d7",
+      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
+      "priority": 50,
+      "note": "2026-10-31 추가. poverty-peer-withdrawal, avoiding-creditors, skipping-holiday-gatherings(서울신문 2008-09-09 20080909023002 무직자 면목 없어 귀향 안 함)가 하위 후보. 매체 파편 없음",
+      "createdAt": "2026-10-31T03:21:43.095Z",
+      "seq": 2946
+    },
+    {
+      "id": "3d5a956a",
+      "title": "muting-chat-notifications 보강: 2016년 학술 파편",
+      "priority": 50,
+      "note": "2026-10-31 Frontiers 2025 더함. 후보 arxiv.org/html/1612.02314 Pielot 2016 WhatsApp group notifications 끔, Mannell 2020 JCMC 는 Cloudflare",
+      "createdAt": "2026-10-31T03:21:43.230Z",
+      "seq": 2947
+    },
+    {
+      "id": "f5435b49",
+      "title": "keeping-leftover-medicines 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-10-31 Edwards 1982 더함. 원인 후보 Wasserfallen 2003 PMID 12708953 (과잉 처방, 불완전한 복약, 큰 포장이 남은 약 보관으로 이어짐), Furst 1975 PMID 1165177 Drug hoarding 별칭 후보",
+      "createdAt": "2026-10-31T03:31:14.833Z",
+      "seq": 2948
+    },
+    {
+      "id": "84a9d7bb",
+      "title": "job-insecurity 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-10-31 결과 money-worry 더함(MSE 포럼 2013). 남은 후보: guilt-about-resigning, staying-in-job-for-health-insurance. 학술 후보 Basyouni 2021 fpsyg.2021.632265 (횡단 설계, 매개 경로)",
+      "createdAt": "2026-10-31T03:39:23.908Z",
+      "seq": 2949
     },
     {
       "id": "d16898d2",
