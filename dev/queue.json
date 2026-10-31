@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T15:27:33.345Z",
-  "nextSeq": 3014,
-  "stops": 154,
+  "savedAt": "2026-10-31T18:38:09.196Z",
+  "nextSeq": 3026,
+  "stops": 155,
   "items": [
     {
       "id": "dd6d1cc4",
@@ -683,6 +683,46 @@
       "note": "2026-10-31 추가. 카카오톡 메시지 삭제 기능(2018) 보도, 카톡 보내고 후회 지식iN 후보. Grammarly 2019 같은 글 'Almost one-third of respondents use the “unsend” function'",
       "createdAt": "2026-10-31T15:25:55.548Z",
       "seq": 3013
+    },
+    {
+      "id": "218cf959",
+      "title": "not-returning-shared-umbrellas 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-10-31 매체 5, 공공 1. 공용 우산 미반납 논문 초록 못 찾음. MDPI Sustainability 9/9/1504 (Mobike theft, free riding) 403. 후보: 수원시 공유 누리집 우산 대여 안내(발행일 미상), mothership.sg 2024-01 Joo Chiat umbrella sharing 중단",
+      "createdAt": "2026-10-31T18:17:21.069Z",
+      "seq": 3020
+    },
+    {
+      "id": "852391f6",
+      "title": "eating-foraged-wild-mushrooms 보강: SNS 파편, 직접 딴 사람의 글",
+      "priority": 50,
+      "note": "2026-10-31 공공 3, 학술 1, 매체 1. 대안 공공: rda.go.kr 보도자료 dataNo=100000747222 (2018-07-10) '생김새나 민간 속설에 의존해 구분', korea.kr newsId=148854842 (2018-10-19) '본인만의 지식이나 일반 도감'",
+      "createdAt": "2026-10-31T18:29:11.060Z",
+      "seq": 3022
+    },
+    {
+      "id": "1f8a2541",
+      "title": "not-using-cooling-centers 보강: 국내 공공 파편, 노인 본인 면담 학술",
+      "priority": 50,
+      "note": "2026-10-31 학술 1, 공공 1(CDC), 매체 2. 매일신문 2023 '무더위 쉼터란 데가 있는 줄도 몰랐다', 회원제 경로당. 후보: Front Public Health 2023 홍콩, Hamilton 포커스 그룹",
+      "createdAt": "2026-10-31T18:33:07.530Z",
+      "seq": 3023
+    },
+    {
+      "id": "04428db4",
+      "title": "not-picking-up-dog-waste 보강: 한국어 파편, 견주의 말",
+      "priority": 50,
+      "note": "2026-10-31 영어 출처만 4개. 견주가 직접 이유를 말한 대목 못 찾음. 후보: Albuquerque 2014 'There Is No Poop Fairy' 캠페인, Donegal·Limerick 기사의 쓰레기통 부족",
+      "createdAt": "2026-10-31T18:35:54.519Z",
+      "seq": 3024
+    },
+    {
+      "id": "66ad95ce",
+      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
+      "priority": 50,
+      "note": "2026-10-31 매체 2015, 공공 2017, SNS 2019. 후보: 한국경제 2023-08 프랑스 영수증 기사 hankyung.com/amp/202308044714Y, 강남구 카드 영수증 선택 발급 안내",
+      "createdAt": "2026-10-31T18:37:58.098Z",
+      "seq": 3025
     },
     {
       "id": "d16898d2",
@@ -2411,6 +2451,14 @@
       "note": "2026-10-31 rereading-favorite-books 작업 중. Salon 2020-09-20 comfort reading 기사, 경인일보 1725535 (2025-01-08) 다시 보기 대목, Russell & Levy 2012 rewatching. rereading-favorite-books 와 공통 상위(익숙한 것 되풀이해 즐기기) 후보",
       "createdAt": "2026-10-31T12:22:40.563Z",
       "seq": 2989
+    },
+    {
+      "id": "7d01b192",
+      "title": "임신부가 배려석 양보를 청하지 못하기",
+      "priority": 10,
+      "note": "2026-10-31 not-yielding-maternity-seats 작업 중. 2019 mohw 보도자료 '배가 나오지 않아서' 57.1%, 2026 서울신문 '임산부 맞아?' 괴롭힘. 상위 후보 hesitating-to-offer-seat 또는 help-seeking-avoidance",
+      "createdAt": "2026-10-31T18:24:24.060Z",
+      "seq": 3021
     },
     {
       "id": "02b2f242",
