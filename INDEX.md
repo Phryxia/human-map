@@ -326,6 +326,7 @@
 - [육아휴직 망설이기](docs/hesitating-to-take-parental-leave.md) ([일터와 일자리](groups/work.md))
 - [은둔형 외톨이](docs/social-withdrawal-at-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [은퇴 자금 쓰지 않기](docs/retirees-not-spending-savings.md) ([돈과 소비](groups/money.md))
+- [음식이 마음에 들지 않아도 괜찮다고 답하기](docs/saying-food-is-fine.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [음주 후 운전](docs/drink-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [의례적 사양](docs/ritual-refusal.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [의무 해제 뒤에도 마스크 쓰기](docs/keeping-mask-after-mandate.md) ([건강과 위험](groups/health-and-safety.md))
