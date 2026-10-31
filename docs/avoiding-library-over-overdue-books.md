@@ -18,7 +18,7 @@ Saint Paul 공공도서관은 연체료를 두고 사람들이 느끼는 죄책�
 
 ## 상위
 
-없음.
+- [부끄러워 사람 피하기](avoiding-people-out-of-shame.md)
 
 ## 하위
 

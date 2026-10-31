@@ -12,6 +12,10 @@
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
 - [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
 - [보는 눈이 있을 때 행동 바꾸기](../docs/behaving-better-when-watched.md) 누군가 지켜본다고 느끼는 사람이 혼자일 때와 달리 남이 좋게 볼 만한 쪽으로 행동한다.
+- [부끄러워 사람 피하기](../docs/avoiding-people-out-of-shame.md) 부끄러운 처지나 일이 있는 사람이 그 일을 아는 사람이나 사람이 모인 자리를 피한다.
+  - [실직 뒤 사람 만남 피하기](../docs/withdrawing-after-job-loss.md)
+  - [연체 뒤 도서관 피하기](../docs/avoiding-library-over-overdue-books.md)
+  - [집이 부끄러워 손님 들이지 않기](../docs/avoiding-inviting-people-home.md)
 - [부모가 창피함](../docs/embarrassed-by-parents.md) 자녀가 남이 보는 자리에서 부모의 말이나 행동이나 집안 모습을 창피하게 여긴다.
 - [부정적 평가에 대한 두려움](../docs/fear-of-negative-evaluation.md) 사람이 다른 사람에게 부정적으로 평가받을 수 있는 상황에서 불안과 긴장을 느낀다.
 - [빈대 생긴 일 숨기기](../docs/hiding-bedbug-infestation.md) 집에 빈대가 생긴 사람이 창피하거나 불이익이 두려워 주변과 집주인에게 알리지 않고 숨긴다.
@@ -25,7 +29,6 @@
 - [알아들은 척하기](../docs/pretending-to-understand.md) 사람이 남의 말이나 설명을 알아듣지 못했는데 알아들은 듯이 고개를 끄덕이거나 맞장구친다.
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
-- [연체 뒤 도서관 피하기](../docs/avoiding-library-over-overdue-books.md) 빌린 책을 제때 돌려주지 못한 사람이 연체료나 부끄러움 때문에 반납을 미루고 도서관에 가지 않는다.
 - [외출 전 옷 여러 번 갈아입기](../docs/trying-on-outfits-before-going-out.md) 외출을 앞둔 사람이 입을 옷을 정하지 못해 여러 벌을 입어 보고 갈아입는다.
 - [읽지 않은 책을 읽은 척하기](../docs/pretending-to-have-read-books.md) 사람이 읽지 않은 책을 남 앞에서 읽었다고 말한다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.

@@ -18,7 +18,7 @@
 
 ## 상위
 
-없음.
+- [부끄러워 사람 피하기](avoiding-people-out-of-shame.md)
 
 ## 하위
 

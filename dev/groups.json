@@ -77,7 +77,6 @@
       "sunday-night-dread",
       "unused-annual-leave",
       "wanting-to-keep-working-in-old-age",
-      "withdrawing-after-job-loss",
       "hesitating-to-take-parental-leave",
       "not-reporting-workplace-injury",
       "staying-in-job-for-health-insurance",
@@ -139,7 +138,10 @@
       "engine-idling",
       "impatience-at-red-light",
       "brief-illegal-parking",
-      "rubbernecking", "disabled-parking-misuse", "road-rage", "yellow-light-dilemma"
+      "rubbernecking",
+      "disabled-parking-misuse",
+      "road-rage",
+      "yellow-light-dilemma"
     ]
   },
   {
@@ -179,7 +181,10 @@
       "rinsing-lenses-with-tap-water",
       "not-drinking-tap-water",
       "leisure-sickness",
-      "treatment-burden", "not-preparing-for-disasters", "exiting-the-way-you-came", "refusing-mobility-aids"
+      "treatment-burden",
+      "not-preparing-for-disasters",
+      "exiting-the-way-you-came",
+      "refusing-mobility-aids"
     ]
   },
   {
@@ -217,7 +222,6 @@
     "summary": "사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.",
     "roots": [
       "anticipatory-social-anxiety",
-      "avoiding-library-over-overdue-books",
       "hiding-bedbug-infestation",
       "blushing",
       "concealing-failure",
@@ -246,7 +250,8 @@
       "trying-on-outfits-before-going-out",
       "own-face-in-photos",
       "pretending-to-have-read-books",
-      "minding-what-others-think"
+      "minding-what-others-think",
+      "avoiding-people-out-of-shame"
     ]
   },
   {
@@ -281,7 +286,6 @@
     "title": "선물, 대접과 예의",
     "summary": "사람이 칭찬, 선물, 초대, 손님맞이, 작별을 주고받으며 하는 일이다.",
     "roots": [
-      "avoiding-inviting-people-home",
       "deflecting-compliments",
       "downplaying-praise-of-family",
       "feigning-delight-at-gifts",
@@ -464,7 +468,8 @@
       "fare-evasion",
       "wishcycling",
       "returning-lost-wallets",
-      "forgetting-reusable-bags", "refusing-statistical-surveys"
+      "forgetting-reusable-bags",
+      "refusing-statistical-surveys"
     ]
   },
   {
