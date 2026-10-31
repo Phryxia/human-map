@@ -294,6 +294,7 @@
 - [운명이나 신을 탓하기](docs/blaming-fate-or-god.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [운전 그만두기 미루기](docs/delaying-driving-cessation.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전 실력 과신](docs/driving-overconfidence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [운전 중 분노](docs/road-rage.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전 중 휴대전화 사용](docs/phone-use-while-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전을 그만둔 뒤의 고립](docs/isolation-after-driving-cessation.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [울고 난 뒤 후련함](docs/relief-after-crying.md) ([걱정과 기분](groups/worry-and-mood.md))
