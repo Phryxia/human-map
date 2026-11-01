@@ -15822,5 +15822,29 @@
     "last": "2026-11-01",
     "result": "VERIFIED",
     "lastVerified": "2026-11-01"
+  },
+  "https://en.wikisource.org/wiki/Marginalia": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://newrepublic.com/article/83947/books-annotations-marginalia-jackson": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://yalebooks.yale.edu/9780300097207/marginalia": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://brunch.co.kr/@hummingpages/44": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
   }
 }

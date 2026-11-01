@@ -26,3 +26,4 @@
 - [잃어버린 물건을 찾은 곳에서 또 찾기](../docs/re-searching-for-lost-items.md) 둔 곳을 잊은 물건을 찾는 사람이 이미 찾아본 곳을 다시 뒤진다.
 - [좋아하는 책 다시 읽기](../docs/rereading-favorite-books.md) 이미 읽은 책을 좋아하는 사람이 내용과 결말을 알면서도 그 책을 되풀이해 읽는다.
 - [지난 창피한 일 떠올리며 몸서리치기](../docs/cringing-at-past-embarrassment.md) 지난날 자기가 한 창피한 말이나 행동이 떠오른 사람이 그때의 부끄러움을 다시 느낀다.
+- [책 여백에 메모하기](../docs/writing-in-book-margins.md) 책을 읽는 사람이 책의 여백에 떠오른 생각이나 의견을 적고 문장에 밑줄을 긋는다.
