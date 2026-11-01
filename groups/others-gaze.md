@@ -21,6 +21,7 @@
 - [빈대 생긴 일 숨기기](../docs/hiding-bedbug-infestation.md) 집에 빈대가 생긴 사람이 창피하거나 불이익이 두려워 주변과 집주인에게 알리지 않고 숨긴다.
 - [사진 속 내 얼굴의 낯섦](../docs/own-face-in-photos.md) 자기가 찍힌 사진을 본 사람이 거울에서 보던 얼굴보다 사진 속 얼굴이 낯설거나 못나게 나왔다고 느낀다.
 - [사진 찍히기 피하기](../docs/avoiding-being-photographed.md) 사진을 찍는 자리에 있는 사람이 자기 모습이 사진에 남는 것을 꺼려 카메라를 피하거나 사진에서 빠진다.
+- [사투리 숨기기](../docs/hiding-regional-accent.md) 고향을 떠난 사람이 낯선 자리에서 자기 사투리나 지역 억양을 숨기거나 표준어로 고쳐 말한다.
 - [사회불안의 안전 행동](../docs/social-anxiety-safety-behaviors.md) 사회적 상황에서 불안한 사람이 남의 눈에 띄거나 부정적으로 보이지 않으려고 눈 맞춤을 피하거나 말수를 줄인다.
   - [되풀이 사과](../docs/over-apologizing.md)
 - [사회적 상황 앞의 예기불안](../docs/anticipatory-social-anxiety.md) 다가올 발표나 회의 같은 사회적 상황을 앞둔 사람이 그 장면을 미리 떠올리며 불안해한다.
