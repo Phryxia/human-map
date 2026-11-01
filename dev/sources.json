@@ -1174,9 +1174,9 @@
   },
   "https://www.gutenberg.org/cache/epub/161/pg161-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-29",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-01"
   },
   "https://ko.wikisource.org/wiki/유정": {
     "first": "2026-10-18",
@@ -13171,21 +13171,21 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/9177020/": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-01"
   },
   "https://boards.straightdope.com/t/is-it-wrong-to-use-a-vending-machine/415472": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-01"
   },
   "https://www.psychologicalscience.org/journals/current-directions/0963721414553264/": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-01"
   },
   "https://pubmed.ncbi.nlm.nih.gov/31556628/": {
     "first": "2026-10-29",
@@ -15968,6 +15968,12 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.seoul.co.kr/news/life/health-news/2024/03/19/20240319021002": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.fnnews.com/news/202206241417357849": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",

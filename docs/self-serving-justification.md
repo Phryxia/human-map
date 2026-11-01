@@ -14,6 +14,8 @@
 
 2015년 Shalvi 등[^4]은 의도적으로 윤리 규칙을 어기기 전과 뒤에 생기는 정당화가 도덕적 자기상에 대한 위협을 줄인다고 적었다. 저자들은 그 정당화 덕분에 사람이 잘못을 하면서도 자기를 도덕적이라고 느낀다고 썼다.
 
+2022년 6월 파이낸셜뉴스의 직장인 설문 기사[^5]에서 응답자 60%는 회사 볼펜이 어차피 쓰라고 둔 것이니 집에 가져가도 괜찮다고 답했다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [학술] "In Study 2, 10 of 20 participants flipped a coin, but of these, 9 assigned themselves the positive consequences task." (연구 2에서 참가자 20명 가운데 10명이 동전을 던졌으나 그 가운데 9명이 좋은 결과가 따르는 과제를 자기에게 배정했다.) — C. D. Batson, D. Kobrynowicz, J. L. Dinnerstein, H. C. Kampf, A. D. Wilson, "In a very different voice: unmasking moral hypocrisy", Journal of Personality and Social Psychology 72(6), 1335-1348, 1997-06, https://pubmed.ncbi.nlm.nih.gov/9177020/, 2026-10-29 접속
 [^3]: [SNS] "Vending machines the world over owe me enough quarters to reach the moon. I would clean that machine without the slightest pang of remorse." (세상의 자판기들은 나에게 달까지 닿을 만큼의 동전을 빚졌다. 나는 그 자판기를 털면서 조금도 가책을 느끼지 않을 것이다.) — Straight Dope 댓글, 2007-08-14, https://boards.straightdope.com/t/is-it-wrong-to-use-a-vending-machine/415472, 2026-10-29 접속
 [^4]: [학술] "self-serving justifications emerging before and after people engage in intentional ethical violations mitigate the threat to the moral self, enabling them to do wrong while feeling moral." (사람이 의도적으로 윤리를 어기기 전과 뒤에 생기는 자기 이익을 위한 정당화는 도덕적 자기에 대한 위협을 줄여 잘못을 하면서도 도덕적이라고 느끼게 한다.) — Shaul Shalvi, Francesca Gino, Rachel Barkan, Shahar Ayal, "Self-Serving Justifications: Doing Wrong and Feeling Moral", Current Directions in Psychological Science 24(2), 2015-04, https://www.psychologicalscience.org/journals/current-directions/0963721414553264/, 2026-10-29 접속
+[^5]: [매체] "예를 들어, 회사 볼펜은 어차피 쓰라고 둔 거니 집으로 가져가도 괜찮고(60%), 회사에서 A4용지로 개인 자료를 출력하는 것도 괜찮다(78%)는 게 다수의 선택이었다." — 정상희, 「[직장인풍향계] 직장인 '소확횡' 어디까지 괜찮을까?」, 파이낸셜뉴스, 2022-06-24, https://www.fnnews.com/news/202206241417357849, 2026-11-01 접속
