@@ -16020,5 +16020,58 @@
     "last": "2026-11-01",
     "result": "VERIFIED",
     "lastVerified": "2026-11-01"
+  },
+  "https://www.seoul.co.kr/news/2002/01/14/20020114017001": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://korea.kr/special/policyFocusView.do?newsId=148649134&pkgId=49500049": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "UNREACHABLE"
+  },
+  "https://www.khan.co.kr/article/200903091724465/amp": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://korea.kr/news/policyBriefingView.do?newsId=156499109": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292275/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://scholarworks.gnu.ac.kr/handle/sw.gnu/80965?mode=full": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.kdi.re.kr/eng/research/reportView?pub_no=19029": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://hangyo.com/news/article.html?no=106760": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.korea.kr/special/policyFocusView.do?newsId=148649134&pkgId=49500049": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
   }
 }

@@ -363,6 +363,7 @@
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 침묵](docs/self-silencing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자기에 대한 말 엿듣기](docs/overhearing-talk-about-oneself.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [자녀 사교육 불안](docs/private-tutoring-anxiety.md) ([돈과 소비](groups/money.md))
 - [자리 양보 망설임](docs/hesitating-to-offer-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자살 유족의 자책](docs/suicide-bereavement-self-blame.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [자식 자랑](docs/bragging-about-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
