@@ -1,89 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T06:43:21.613Z",
-  "nextSeq": 3090,
-  "stops": 159,
+  "savedAt": "2026-11-01T09:37:14.021Z",
+  "nextSeq": 3111,
+  "stops": 160,
   "items": [
-    {
-      "id": "9ace4905",
-      "title": "making-excuses-to-skip-plans 와 company-dinner-pressure, urge-to-cancel-plans 관계",
-      "priority": 50,
-      "note": "2026-10-30 추가. company-dinner-pressure 요약에 '빠질 핑계를 찾는다', 클리앙 park/12390339 는 그 문서 [^2] 라 재사용 불가. 후보: 서울신문 2008-06-17 기사 제사, 선약 사례, Global News 2807021 (2016-07-07) 미국인 80% 외출 피하려 거짓말, iheart 2019-08-23 43% 죄책감(같은 출처라 [^7] 과 바꿀 때만), Givi & Kirk 2024 PMID 38079463 거절 결과 과대평가, Age of Innocence Gutenberg 541 previous engagement 관습",
-      "createdAt": "2026-10-30T18:18:25.884Z",
-      "seq": 2896
-    },
-    {
-      "id": "1af83bca",
-      "title": "silent-treatment 보강: 관계, 한국어 매체, 받는 쪽 반응",
-      "priority": 50,
-      "note": "2026-10-30 추가. partner-conflict, apology-reluctance 와 관계 근거 필요. 후보: Dvir, Beşikci, Williams 2026 PMID 41418500 배척을 신체 학대보다 해롭게 평가, 스포츠경향 201710171752003 (2017-10-17) 투명인간 취급 복수전, Psychology Today 202209 침묵을 끝낼 방법에 사로잡힘, 클리앙 kin/18911270 (2025-02-05) 냉전 중 사실은 풀고 싶다, 같은 글 댓글 20년 냉전 반복, Bleak House Gutenberg 1023 이웃끼리 몇 주 말 섞지 않음",
-      "createdAt": "2026-10-30T18:22:28.825Z",
-      "seq": 2897
-    },
-    {
-      "id": "7409d57a",
-      "title": "mind-wandering 보강: 멍때리기, boredom 관계, 2000년 이전 비문학",
-      "priority": 50,
-      "note": "2026-10-30 추가. 멍때리기는 아무 생각 없는 상태라 별개 현상 후보: 서울신문 20160509500196 (2016-05-09) 첫 한강 대회, 경향 202504180941011 (2025-04-18), 세계일보 20210804510416 (2021-08-04) 정의, mediahub 2008049 (2023-05-26) 아무것도 하지 않을 때의 불안. 딴생각 후보: Smallwood & Schooler 2015 PMID 25293689 정의, Killingsworth 2010 PMID 21071660, The Voyage Out Gutenberg 144, HN 24100455 같은 쪽에 5분. doodling 과 관계 근거 필요",
-      "createdAt": "2026-10-30T18:34:13.976Z",
-      "seq": 2899
-    },
-    {
-      "id": "c4bed3f9",
-      "title": "staying-in-job-for-health-insurance 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-10-29 knewsla 2026-08-15 직업 고착 별칭 더함. loss-aversion 과 job lock 을 인과로 이은 원문 미발견(EPI, Niskanen 은 curl 에 막힘). communityvoiceks.com 2026-07-25 'afraid of losing coverage' 는 wypr 와 같은 Gallup 보도. 한국 직장인 피부양자 1인칭 글 여전히 미발견",
-      "createdAt": "2026-10-30T21:06:31.042Z",
-      "seq": 2914
-    },
-    {
-      "id": "07a366ca",
-      "title": "daytime-napping 보강: 낮잠 뒤 더 피곤함, guilt-about-resting 관계",
-      "priority": 50,
-      "note": "2026-10-29 계절 조건은 korea.kr 148850695 [^6] 로 더함. 남은 후보: clien park/19276407 (2026-10-12 낮잠은 오히려 더 피곤, 이 환경에서 clien 403 일 수 있음). 1993 서울신문 [^1] 게으름 시선과 guilt-about-resting 관계 근거 미탐색",
-      "createdAt": "2026-10-30T21:06:31.190Z",
-      "seq": 2915
-    },
-    {
-      "id": "a1bac17c",
-      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
-      "priority": 50,
-      "note": "2026-10-30 호주 재무부 2020 보고서 [^5] 는 PDF 라 미확인. 후보 DWP 2026-07 RP0908 PDF 'reluctant to use their savings, even where they were available'(예비적 동기와 섞임). korea.kr 은 이 환경에서 연결이 끊김. retail-therapy 대립 근거 파편 미발견",
-      "createdAt": "2026-10-30T21:14:20.946Z",
-      "seq": 2916
-    },
-    {
-      "id": "3fdf164d",
-      "title": "relief-after-crying 보강: 나타나지 않는 조건, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-30 추가. Gračanin 2015 PMID 26500382 초록은 실험실 직후에는 기분이 나빠진다고 함(한 출처 한 파편이라 다른 출처 필요). 주간경향 2008 18168 의 '후련하다' 대목은 실명 붙어 뺌. crying-in-secret 과 관계 후보",
-      "createdAt": "2026-10-30T21:19:02.755Z",
-      "seq": 2917
-    },
-    {
-      "id": "3b0a7c68",
-      "title": "rubbernecking 보강: forbidden-curiosity 관계",
-      "priority": 50,
-      "note": "2026-10-30 플라톤 국가 4권 레온티오스 [^1] 더함(보고 싶음과 혐오가 함께). 대립 또는 상위 근거 파편 필요. 세계일보 2012-01-06 독자투고 aid=20120106003863 은 투고자 실명 있음",
-      "createdAt": "2026-10-30T21:20:02.483Z",
-      "seq": 2918
-    },
-    {
-      "id": "57e62588",
-      "title": "minding-what-others-think 보강: 학술 파편, fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-10-30 추가. 후보 Nezlek 2019 PMID 30007076 public self-consciousness 와 옷차림 자기제시 동기, Gilovich 2000 PMID 10707330 spotlight-effect 와 관계 근거 후보. kormedi 1610925 의 71.9% 남들에게 보이기 위한 행동(showing-off-possessions 관계 후보)",
-      "createdAt": "2026-10-30T21:23:02.547Z",
-      "seq": 2919
-    },
-    {
-      "id": "221a338b",
-      "title": "regifting 과 feigning-delight-at-gifts 관계",
-      "priority": 50,
-      "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 싫다고 인정하는 대신 재선물. 원인 간선 근거로는 약함. 2026-10-30 공통 상위(선물이 싫다고 말하지 않기) 후보. 후보 casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
-      "createdAt": "2026-10-30T21:23:07.662Z",
-      "seq": 2920
-    },
     {
       "id": "f776b8c6",
       "title": "no-tears-at-funeral 보강: 관계, 무정하게 볼까 걱정하는 면의 2000년 이전 파편",
@@ -691,6 +611,62 @@
       "note": "2026-11-01 Iliad 문학 더함. 후보 왓챠피디아 bo5Ag58 『쌤통의 심리학』 소개 한일전 대목(출판사 소개글, 날짜 없음), dspace.library.uu.nl 1874/416305 (2021) 인간-로봇 팀",
       "createdAt": "2026-11-01T06:41:30.931Z",
       "seq": 3089
+    },
+    {
+      "id": "00220e02",
+      "title": "silent-treatment 와 apology-reluctance 관계",
+      "priority": 50,
+      "note": "2026-11-01 후보: heartfeltcounselingmn.com 2024-04-18 상대가 먼저 사과하기를 기다리는 침묵, Psychology Today 202209 'To avoid taking responsibility', 경향 200310130829541 누가 먼저 사과하나 줄다리기. 스포츠경향 201710171752003 투명인간 취급 복수전 미사용",
+      "createdAt": "2026-11-01T09:15:17.429Z",
+      "seq": 3102
+    },
+    {
+      "id": "e117acba",
+      "title": "staying-in-job-for-health-insurance 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-11-01 deciding-to-quit-job 대립은 knewsla 로 그음. 원인(loss-aversion, income-loss-worry) 인과 원문은 여전히 미발견. 한국 직장인 피부양자 1인칭 글 미발견",
+      "createdAt": "2026-11-01T09:24:05.948Z",
+      "seq": 3104
+    },
+    {
+      "id": "0c147f4b",
+      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
+      "priority": 50,
+      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은퇴 자산 excess savings(예비적, 유산 동기라 현상과 다름). crr.bc.edu squared-away half-of-retirees-afraid-to-use-savings 는 매체. rogerdooley 'A lot of tightwads seem to have gone through a really hard moment' 원인 후보(같은 출처). retail-therapy 대립 원문 미발견",
+      "createdAt": "2026-11-01T09:30:40.794Z",
+      "seq": 3106
+    },
+    {
+      "id": "910b1526",
+      "title": "relief-after-crying 와 crying-in-secret 관계",
+      "priority": 50,
+      "note": "2026-11-01 APS 2008 보도자료는 사회적 지지 조건으로 씀. 같은 글 '실험실에서 운 참가자는 후련하다고 말하지 않는 경우가 많다', pubmed 17437260 Rottenberg 2008 은 미사용. crying-in-secret 과 관계 근거 미탐색",
+      "createdAt": "2026-11-01T09:33:06.580Z",
+      "seq": 3107
+    },
+    {
+      "id": "36c5e12d",
+      "title": "morbid-curiosity 보강: 2000년 이전 출처, SNS, 한국어 병적 호기심",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: georgeherald.com rubbernecking-thrill-inducing-curiosity-201309011000 (2013-09-01) 사고 잔해 구경을 morbid curiosity 라 부름. PLOS 2017 'chosen in about thirty-five percent of the trials'. rubbernecking 과 forbidden-curiosity 관계는 근거 미발견, 상위는 morbid-curiosity 로 둠",
+      "createdAt": "2026-11-01T09:35:29.648Z",
+      "seq": 3108
+    },
+    {
+      "id": "680e831f",
+      "title": "minding-what-others-think 와 fear-of-negative-evaluation, spotlight-effect 관계",
+      "priority": 50,
+      "note": "2026-11-01 Nezlek 2019 학술 파편 추가. 관계 근거 미발견. 후보 Gilovich 2000 PMID 10707330, kormedi 1610925 71.9% 남들에게 보이기 위한 행동(showing-off-possessions)",
+      "createdAt": "2026-11-01T09:36:38.112Z",
+      "seq": 3109
+    },
+    {
+      "id": "e56ae854",
+      "title": "regifting 과 feigning-delight-at-gifts 관계",
+      "priority": 50,
+      "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 싫다고 인정하는 대신 재선물. 원인 간선 근거로는 약함. 2026-10-30 공통 상위(선물이 싫다고 말하지 않기) 후보. 후보 casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
+      "createdAt": "2026-11-01T09:37:02.893Z",
+      "seq": 3110
     },
     {
       "id": "d16898d2",
@@ -2435,6 +2411,30 @@
       "note": "2026-11-01 fnnews 202103121501196452 2020 걷기여행 실태조사 참여 이유 자연과의 교감 64.1%, 스트레스 해소 56.2%. walking-to-think 과 별개 현상 후보",
       "createdAt": "2026-11-01T00:24:18.342Z",
       "seq": 3041
+    },
+    {
+      "id": "f7926267",
+      "title": "약속 취소 핑계가 거짓일 때의 서운함",
+      "priority": 10,
+      "note": "2026-11-01 Futurity ?p=2863122 (2023-01-25) Chopik 연구: 참가자 80%가 취소 이유가 거짓이면 속상하다. making-excuses-to-skip-plans 결과 후보. Global News 2807021, Ipsos en-ca/node/1031526 (2024-10-03) 48% 핑계 지어냄 도 후보",
+      "createdAt": "2026-11-01T09:11:14.107Z",
+      "seq": 3101
+    },
+    {
+      "id": "04b36f1a",
+      "title": "멍때리기",
+      "priority": 10,
+      "note": "2026-11-01 mind-wandering 에서 분리한 후보: 아무 생각 없이 멍하니 있기. 서울신문 20160509500196 (2016-05-09) 한강 대회, 경향 202504180941011, 세계일보 20210804510416 정의, mediahub 2008049. doodling 과 mind-wandering 관계 근거는 여전히 미발견",
+      "createdAt": "2026-11-01T09:22:58.878Z",
+      "seq": 3103
+    },
+    {
+      "id": "5af5949c",
+      "title": "낮잠 기피",
+      "priority": 10,
+      "note": "2026-11-01 Naitoh 1993 PMID 8500187 초록: 체온 최저점에 깨는 과정이 괴로워 'sleep (nap) aversion' 이 생김. daytime-napping 결과 후보. brunch @zero500/86 낮잠 두통도 후보",
+      "createdAt": "2026-11-01T09:27:41.481Z",
+      "seq": 3105
     },
     {
       "id": "02b2f242",
