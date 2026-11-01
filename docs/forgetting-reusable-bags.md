@@ -20,6 +20,8 @@
 
 2024년 2월 21일 기사[^7]는 한 사람이 텀블러를 몇 개씩 가지고 있고 쓰지 않은 텀블러를 책상이나 서랍장 구석에 쌓아 두기도 한다고 적었다.
 
+2025년 12월 칼럼[^8]의 필자는 꾸준히 쓰이는 텀블러가 10개 가운데 1개가 될까 말까 하고 휴대와 세척이 번거로워 대부분 집과 사무실에 놓여 있다고 썼다.
+
 # 관계
 
 ## 상위
@@ -51,3 +53,4 @@
 [^5]: [공공] "Whilst nine in ten of us own a re-usable bag for life, almost one in three admit to having bags at home that they rarely use." (우리 열 명 가운데 아홉 명은 재사용 장바구니를 가지고 있지만 세 명 가운데 한 명 가까이는 거의 쓰지 않는 장바구니가 집에 있다고 인정한다.) — WRAP, "Bags for life: Or are they?", 2021-05-07, https://wrap.ngo/blog/2021/05/bags-life-or-are-they, 2026-10-30 접속
 [^6]: [SNS] "I've tried again and again, but they all wind up in a pile at home. I forget to empty them and take them. They're never in the car when I need them. I probably have had twenty to thirty reusable bags." (여러 번 해 봤지만 가방은 모두 집에 쌓이고 만다. 비우고 챙겨 가는 걸 잊는다. 필요할 때 차에 있는 법이 없다. 아마 장바구니를 스물에서 서른 개쯤 가졌을 것이다.) — Hacker News, 댓글, 2024-02-04, https://news.ycombinator.com/item?id=39251899, 2026-10-30 접속
 [^7]: [매체] "보통 1인당 몇 개 이상 텀블러를 갖고 있다. 때론 사용하지 않은 텀블러를 책상이나 서랍장 구석에 쌓아 두기도 한다." — 장정욱, 「책상 가득 안 쓰는 '텀블러'…"차라리 일회용품 쓰세요" [친환경의 역설②]」, 데일리안, 2024-02-21, https://www.dailian.co.kr/news/view/1330290/, 2026-11-01 접속
+[^8]: [매체] "일상생활에서 꾸준히 사용되는 텀블러는 10개 중 1개가 될까 말까다. 휴대가 힘들고 세척이 번거로운 탓에 대부분의 텀블러가 집과 사무실에 고이 모셔져 있는 게 현실이다." — 송형석, 「[천자칼럼] 일회용 컵 유료화 논란」, 한국경제, 2025-12-18, https://www.hankyung.com/article/2025121824651, 2026-11-01 접속
