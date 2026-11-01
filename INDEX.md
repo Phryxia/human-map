@@ -187,6 +187,7 @@
 - [배터리 부족 불안](docs/low-battery-anxiety.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [백업 미루기](docs/putting-off-backups.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [범죄 피해 신고하지 않기](docs/not-reporting-crime.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [병적 호기심](docs/morbid-curiosity.md) ([길과 운전](groups/roads-and-driving.md))
 - [보내기 전 메시지 다시 읽기](docs/rereading-messages-before-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보내지 않는 편지 쓰기](docs/unsent-letters.md) ([메시지와 휴대전화](groups/messages-and-phones.md), [가까운 사이의 감정과 말](groups/close-relationships.md))
 - [보낸 메시지 후회](docs/senders-remorse.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
