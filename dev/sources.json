@@ -3357,9 +3357,9 @@
   },
   "https://www.npr.org/transcripts/644447045": {
     "first": "2026-10-19",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://kormedi.com/1255198/": {
     "first": "2026-10-19",
@@ -14249,9 +14249,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21270447&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.fnnews.com/news/201104241750437867": {
     "first": "2026-10-30",
@@ -16152,6 +16152,18 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.nice.org.uk/guidance/ng56/chapter/Recommendations": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4472308": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://dcoll.ajou.ac.kr/dcollection/srch/srchDetail/000000032254": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
