@@ -10,7 +10,7 @@
 
 2015년 경향신문 기사에서 인구총조사에 응하지 않은 가구의 34.6%는 사생활을 드러내고 싶지 않아서라고 답했다.[^3] 2020년 3월 Government Executive 에 실린 글은 사람들이 인구조사에 참여하지 않는 여러 이유 가운데 몇 가지가 자료의 저장과 쓰임에 대한 두려움과 관련될 수 있다고 썼다.[^4] 2020년 4월 세계일보 기사에서 통계청은 1인 가구가 늘어 조사원이 응답자를 만나기 어렵고 만나도 거절당하는 일이 적지 않다고 설명했다.[^5]
 
-2024년 영국 통계청 블로그는 다른 나라들처럼 여러 가구 조사의 응답률이 떨어지고 있다고 적었다.[^6] 2025년 미국 인구조사국 워킹페이퍼에서 한 카운티에 초고속 인터넷 서비스가 들어온 직후 현재인구조사의 응답 거부가 늘었다.[^7]
+2024년 영국 통계청 블로그는 다른 나라들처럼 여러 가구 조사의 응답률이 떨어지고 있다고 적었다.[^6] 2025년 미국 인구조사국 워킹페이퍼에서 한 카운티에 초고속 인터넷 서비스가 들어온 직후 현재인구조사의 응답 거부가 늘었다.[^7] 2025년 11월 Hacker News 댓글[^8]의 글쓴이는 미국 지역사회조사 표본에 두 번 뽑혔고 조사가 너무 캐묻는다는 이유로 두 번 다 거절했다고 적는다.
 
 # 관계
 
@@ -43,3 +43,4 @@
 [^5]: [매체] "1인 가구 증가 등 갈수록 어려워지는 통계조사환경으로 조사 응답자를 만나기도 힘들고, 만나도 거절당하는 경우가 적지 않아 통계조사원들이 조사를 포기하는 경우가 발생한다고 통계청은 설명했다." — 세계일보, "통계조사원 15% 중도 조사 포기… 통계청, 통계조사환경 개선 국민의견 수렴 나서", 세계일보, 2020-04-01, https://www.segye.com/newsView/20200401508785, 2026-10-31 접속
 [^6]: [공공] "In line with other countries, the ONS has been facing the challenge of falling response rates for many of our household surveys in recent years." (다른 나라들과 마찬가지로 ONS 는 최근 몇 년 동안 여러 가구 조사의 응답률 하락이라는 과제를 마주하고 있다.) — Office for National Statistics, "How ONS is improving the Labour Force Survey", ONS Blog, 2024-02-05, https://blog.ons.gov.uk/2024/02/05/how-ons-is-improving-the-labour-force-survey/, 2026-10-31 접속
 [^7]: [공공] "Refusal in the Current Population Survey increased immediately after broadband services entered a county." (한 카운티에 초고속 인터넷 서비스가 들어온 직후 현재인구조사의 응답 거부가 늘었다.) — Scott Dallman, Evan Totty, "Privacy and Survey Response: Evidence from Broadband Internet", U.S. Census Bureau Working Paper CED-WP-2025-002, 2025-09-24, https://www.census.gov/library/working-papers/2025/adrm/ced-wp-2025-002.html, 2026-10-31 접속
+[^8]: [SNS] "I’ve gotten ACS twice and refused both times over how intrusive it is." (ACS 를 두 번 받았고 너무 캐묻는다는 이유로 두 번 다 거절했다.) — Hacker News 댓글, 2025-11-17, https://news.ycombinator.com/item?id=45954551, 2026-11-01 접속
