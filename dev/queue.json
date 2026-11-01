@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-10-31T21:44:30.112Z",
-  "nextSeq": 3030,
-  "stops": 156,
+  "savedAt": "2026-11-01T00:40:14.800Z",
+  "nextSeq": 3046,
+  "stops": 157,
   "items": [
     {
       "id": "ea5e33b8",
@@ -707,6 +707,62 @@
       "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 확인한 뒤 다시 확인하는 대목 못 찾음. 근접 후보는 '잊고 나온 것' 장면이라 안 맞음: Conrad The Secret Agent 12장 (gutenberg 974) 'I've forgotten to shut the shop door as I went out', 宮本百合子「蛋白石」(aozora 15950, 연도 미상) 火の用心 잊은 불안. 한국어 위키문헌은 검색 API 429",
       "createdAt": "2026-10-31T21:44:22.798Z",
       "seq": 3029
+    },
+    {
+      "id": "10f4ef16",
+      "title": "buying-souvenirs-for-others 보강: thank-you-gift 또는 미안함 관계",
+      "priority": 50,
+      "note": "2026-11-01 GLOBIS 2026-07-20 'Giving Omiyage serves as both a thank you and a subtle apology.' 시대 2014 3위 '업무를 대신 해준 것이 미안해서'. 브런치 marupark/8 기념품 못 받은 소외 후보",
+      "createdAt": "2026-11-01T00:15:42.963Z",
+      "seq": 3038
+    },
+    {
+      "id": "cbbec914",
+      "title": "eavesdropping-on-strangers 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-01 문학 2, 매체 1. 후보 Woolf An Unwritten Novel (Gutenberg 29220) 기차에서 맞은편 낯선 사람 사연 지어내기. 학술 파편 없음",
+      "createdAt": "2026-11-01T00:15:43.121Z",
+      "seq": 3039
+    },
+    {
+      "id": "b33975a4",
+      "title": "writing-in-book-margins 보강: 도서관 책 낙서, 책을 깨끗이 두는 독자",
+      "priority": 50,
+      "note": "2026-11-01 New Republic 2001 Kermode 가 도서관 책 여백 낙서를 다룸. 책에 아무것도 적지 않는 독자와의 대비, SNS 파편 후보 없음",
+      "createdAt": "2026-11-01T00:21:16.539Z",
+      "seq": 3040
+    },
+    {
+      "id": "53f91d46",
+      "title": "writers-block 보강: 완벽주의 원인, procrastination 관계",
+      "priority": 50,
+      "note": "2026-11-01 브런치 infjk/35 가 첫 문장을 못 쓴 까닭을 머릿속의 완벽한 글로 적음(원문 아직 안 옮김). Gissing 1891 후보 B '20쪽 쓰고 용기가 꺾인다'",
+      "createdAt": "2026-11-01T00:31:35.879Z",
+      "seq": 3042
+    },
+    {
+      "id": "a5a3c011",
+      "title": "humming-while-working 보강: 학술 파편, earworm 관계",
+      "priority": 50,
+      "note": "2026-11-01 Müllensiefen 외 2014 Music Perception 31(4) research.gold.ac.uk/id/eprint/10159 'Everyday singing ... positively predict length and frequency of reported INMI episodes' 는 예측이지 인과 아님. thestar.co.uk 청소하며 노래 29% 는 403",
+      "createdAt": "2026-11-01T00:34:15.973Z",
+      "seq": 3043
+    },
+    {
+      "id": "dc4d2bc4",
+      "title": "making-new-years-resolutions 보강: 문학 파편, abandoning-resolutions 관계",
+      "priority": 50,
+      "note": "2026-11-01 학술 Norcross 2002, 매체 시대 2018 뿐. Twain 1863, Pepys 1662-02-17 은 abandoning-resolutions 가 씀. Gutenberg 10994 The Good Resolution(1831) 은 생일 결심이라 맞지 않음",
+      "createdAt": "2026-11-01T00:37:00.753Z",
+      "seq": 3044
+    },
+    {
+      "id": "c1ed2517",
+      "title": "fidgeting 보강: 지루함 관계, mind-wandering",
+      "priority": 50,
+      "note": "2026-11-01 Carriere 외 2013 은 부주의·마음 방황이 fidgeting 을 예측한다고 함(인과 원문 아님). Vanity Fair 599 'beating the devil's tattoo and biting his nails' 는 599 가 이미 3개 문서",
+      "createdAt": "2026-11-01T00:40:03.065Z",
+      "seq": 3045
     },
     {
       "id": "d16898d2",
@@ -2443,6 +2499,14 @@
       "note": "2026-10-31 not-yielding-maternity-seats 작업 중. 2019 mohw 보도자료 '배가 나오지 않아서' 57.1%, 2026 서울신문 '임산부 맞아?' 괴롭힘. 상위 후보 hesitating-to-offer-seat 또는 help-seeking-avoidance",
       "createdAt": "2026-10-31T18:24:24.060Z",
       "seq": 3021
+    },
+    {
+      "id": "d1ee0228",
+      "title": "걷기여행",
+      "priority": 10,
+      "note": "2026-11-01 fnnews 202103121501196452 2020 걷기여행 실태조사 참여 이유 자연과의 교감 64.1%, 스트레스 해소 56.2%. walking-to-think 과 별개 현상 후보",
+      "createdAt": "2026-11-01T00:24:18.342Z",
+      "seq": 3041
     },
     {
       "id": "02b2f242",
