@@ -10,7 +10,6 @@
   - [얻어먹기 거절](../docs/declining-free-meals-out-of-pride.md)
 - [마음에 들지 않는 선물에 기뻐하는 척하기](../docs/feigning-delight-at-gifts.md) 마음에 들지 않는 선물을 받은 사람이 준 사람 앞에서 실망을 감추고 기뻐하는 척한다.
 - [받은 선물 다시 선물하기](../docs/regifting.md) 받은 선물을 쓰지 않은 사람이 그것을 다른 사람에게 다시 선물로 준다.
-- [보이지 않을 때까지 배웅하기](../docs/watching-until-out-of-sight.md) 떠나는 사람을 배웅한 사람이 기차나 차가 떠난 뒤에도 바로 돌아서지 않고 그 모습이 보이지 않을 때까지 그 자리에서 지켜보거나 손을 흔든다.
 - [부채감](../docs/indebtedness.md) 남에게 호의나 도움을 받은 사람이 그것을 갚아야 한다는 의무감과 불편함을 느낀다.
 - [빈말 약속](../docs/empty-invitations.md) 헤어지거나 오랜만에 만난 사람에게 날짜를 정하지 않은 만남이나 식사를 지킬 생각 없이 인사로 약속한다.
 - [선물 고르기 고민](../docs/gift-choosing-anxiety.md) 가까운 사람에게 선물을 하려는 사람이 상대에게 맞는 물건을 찾느라 오래 망설이고 스트레스를 느낀다.
@@ -21,8 +20,10 @@
 - [얹혀사는 집에서 몸 낮추기](../docs/shrinking-in-hosts-home.md) 남의 집에 얹혀사는 사람이 집주인 앞에서 자리를 비키고 말과 몸짓을 줄인다.
 - [여행 기념품 사 오기](../docs/buying-souvenirs-for-others.md) 여행이나 출장에서 돌아오는 사람이 직장 동료나 가족에게 줄 기념품을 사 온다.
 - [의례적 사양](../docs/ritual-refusal.md) 음식이나 선물, 초대를 권받은 사람이 받을 생각이 있으면서도 처음에는 예의로 사양한다.
+- [이별을 아쉬워하기](../docs/reluctant-parting.md) 헤어지는 사람이 헤어짐을 아쉬워해 작별을 늦추거나 떠나는 상대를 오래 지켜본다.
+  - [보이지 않을 때까지 배웅하기](../docs/watching-until-out-of-sight.md)
+  - [작별 인사 길게 끌기](../docs/lingering-goodbye.md)
 - [인사 없이 모임 자리 뜨기](../docs/irish-goodbye.md) 모임에 있던 사람이 아무에게도 작별 인사를 하지 않고 조용히 자리를 떠난다.
-- [작별 인사 길게 끌기](../docs/lingering-goodbye.md) 헤어지려는 사람들이 작별 인사를 한 뒤에도 바로 떠나지 않고 인사를 되풀이하며 머문다.
 - [지어낸 핑계로 약속 빠지기](../docs/making-excuses-to-skip-plans.md) 가고 싶지 않은 초대나 약속을 거절하려는 사람이 진짜 이유 대신 다른 일이나 병 같은 핑계를 지어내 댄다.
 - [축의금 액수 저울질](../docs/weighing-gift-money.md) 경조사에 낼 돈을 정하는 사람이 상대와의 친분, 예전에 받은 액수, 적게 냈을 때의 시선을 따져 액수를 고른다.
 - [칭찬 부정하기](../docs/deflecting-compliments.md) 칭찬을 받은 사람이 그 칭찬을 부정하거나 자기 몫을 깎아서 대답한다.
