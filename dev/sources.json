@@ -15774,5 +15774,23 @@
     "last": "2026-10-31",
     "result": "VERIFIED",
     "lastVerified": "2026-10-31"
+  },
+  "https://www.gutenberg.org/cache/epub/689/pg689-images.html": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.gutenberg.org/cache/epub/1429/pg1429-images.html": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.insidehook.com/wellness/case-eavesdropping": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
   }
 }
