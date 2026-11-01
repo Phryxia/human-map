@@ -16174,5 +16174,11 @@
     "last": "2026-11-01",
     "result": "VERIFIED",
     "lastVerified": "2026-11-01"
+  },
+  "https://www.gutenberg.org/cache/epub/2870/pg2870.txt": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
   }
 }
