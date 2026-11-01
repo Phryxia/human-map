@@ -12745,9 +12745,9 @@
   },
   "https://www.gutenberg.org/cache/epub/155/pg155-images.html": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-01"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30443237&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
@@ -15914,6 +15914,24 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.sidae.com/article/2017122913268023099": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/9880251/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/23458548/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.gqkorea.co.kr/?p=309432": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
