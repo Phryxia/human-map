@@ -26,6 +26,7 @@
 
 ## 하위
 
+- [여러 병원 전전하기](doctor-shopping.md)
 - [증상을 읽고 병을 의심하기](reading-symptoms-and-suspecting-illness.md)
 
 ## 원인

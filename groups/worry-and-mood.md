@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [건강 불안](../docs/health-anxiety.md) 사람이 뚜렷한 근거 없이 자기가 심각한 병에 걸렸거나 걸릴 것이라고 걱정한다.
+  - [여러 병원 전전하기](../docs/doctor-shopping.md)
   - [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md)
 - [겁날 때 노래하거나 휘파람 불기](../docs/singing-to-keep-up-courage.md) 어둡거나 무서운 곳을 지나는 사람이 겁을 누르려고 소리 내어 노래하거나 휘파람을 분다.
 - [결말 먼저 읽기](../docs/reading-the-ending-first.md) 소설이나 이야기를 읽는 사람이 처음부터 읽기 전에 마지막 장을 먼저 펼쳐 결말을 본다.
