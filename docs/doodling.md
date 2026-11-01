@@ -18,6 +18,8 @@
 
 2024년 논문[^8]의 여러 연구에서 낙서는 다른 조건에 견주어 지루함이나 딴생각을 줄이지 않았고 주의나 정보 기억을 늘리지도 않았다.
 
+2026년 2월 영국 도싯 기록보관소 블로그 글[^9]은 지루한 회의에서 여백에 낙서하는 일을 아무도 참지 못하며 아주 오래전부터 그래 왔다고 쓴다.
+
 # 관계
 
 ## 상위
@@ -50,3 +52,4 @@
 [^6]: [매체] "전화를 받을 때도, 수업을 할 때도 손에 펜만 쥐여 주면 무엇인가를 끊임없이 낙서하는 사람을 주변에서 흔히 볼 수 있다." — 강인욱, 「낄낄대며 끼적이던 낙서, 창조의 원동력 되다」, 동아일보, 2023-01-20, https://v.daum.net/v/20230120030226767, 2026-10-30 접속
 [^7]: [SNS] "A doodle I make in order to give my hand something to do while I attend a meeting." (회의에 참석하는 동안 손에 할 일을 주려고 하는 낙서.) — Hacker News 댓글, 2023-10-25, https://news.ycombinator.com/item?id=38014193, 2026-10-30 접속
 [^8]: [학술] "Across studies, doodling neither reduced boredom or mind-wandering nor increased attention or retention of information compared with other conditions." (여러 연구에 걸쳐 낙서는 다른 조건에 비해 지루함이나 딴생각을 줄이지 않았고 주의나 정보 보존을 늘리지도 않았다.) — E. K. Spencer-Mueller, M. J. Fenske, 「Note-taking for the win: Doodling does not reduce boredom or mind-wandering, nor enhance attention or retention of lecture material」, Quarterly Journal of Experimental Psychology 77(8), 2024-08, https://pubmed.ncbi.nlm.nih.gov/38087918/, 2026-10-30 접속
+[^9]: [공공] "No one can resist doodling in the margins while sat in a dull meeting, and it seems this has been true for time immemorial." (지루한 회의에 앉아 있을 때 여백에 낙서하는 것을 참을 수 있는 사람은 없으며, 이는 아주 오래전부터 그랬던 것으로 보인다.) — Dorset History Centre, 「Doodles Through Time」, Dorset Council, 2026-02-06, https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2026/02/06/doodles-through-time/, 2026-11-01 접속
