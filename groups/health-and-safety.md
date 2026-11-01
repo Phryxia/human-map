@@ -23,6 +23,7 @@
 - [남은 약 다시 먹기](../docs/reusing-leftover-medicine.md) 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.
 - [남은 약 버리지 않고 두기](../docs/keeping-leftover-medicines.md) 다 먹지 않고 남은 약을 가진 사람이 그 약을 버리지 않고 집에 둔다.
 - [논밭두렁과 영농부산물 태우기](../docs/burning-farm-waste.md) 농촌 주민이 산불 위험과 금지 안내를 알면서도 논밭두렁이나 영농부산물, 쓰레기를 태운다.
+- [대기오염 경보에도 바깥 활동 줄이지 않기](../docs/ignoring-air-quality-alerts.md) 대기오염 경보나 미세먼지 나쁨 예보가 나온 날 사람들이 마스크를 쓰지 않거나 바깥 활동을 줄이지 않는다.
 - [대피 미루기](../docs/delayed-evacuation.md) 화재나 해일의 경보나 징후를 접한 사람이 위험이 크지 않다고 여겨 대피하지 않거나 늦게 움직인다.
   - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)
 - [독감 예방접종 거르기](../docs/skipping-flu-vaccine.md) 권고 대상인 사람이 필요 없다고 여기거나 부작용을 걱정하거나 시간이 없어 독감 예방접종을 받지 않는다.
