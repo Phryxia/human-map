@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T18:39:44.682Z",
-  "nextSeq": 3165,
-  "stops": 163,
+  "savedAt": "2026-11-01T21:37:56.159Z",
+  "nextSeq": 3189,
+  "stops": 164,
   "items": [
-    {
-      "id": "954bfb81",
-      "title": "exiting-the-way-you-came 보강: 관계와 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-31 delayed-evacuation, dismissing-fire-alarms 와 관계 검토. Sime 1985 'Movement toward the familiar' SAGE 는 봇 확인 페이지. Benthorn 1996 페이지에 비상구가 열려 바깥이 보이면 비상구를 고른다는 조건 대목(문장 끊김, 재확인 필요)",
-      "createdAt": "2026-10-31T00:35:47.959Z",
-      "seq": 2940
-    },
-    {
-      "id": "e2ba512c",
-      "title": "refusing-mobility-aids 보강: 공공 파편과 관계",
-      "priority": 50,
-      "note": "2026-10-31 NIA·NHS·healthdirect 에 낙인 대목 없음, canada.ca 빈 응답. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 예비: NPR 2026-01-06 nx-s1-5640140 (넘어진 환자 절반이 의사에게 말하지 않음), youthassembly 966688 (늙어 보일까 걱정)",
-      "createdAt": "2026-10-31T00:39:35.072Z",
-      "seq": 2941
-    },
-    {
-      "id": "ff5856d7",
-      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
-      "priority": 50,
-      "note": "2026-10-31 추가. poverty-peer-withdrawal, avoiding-creditors, skipping-holiday-gatherings(서울신문 2008-09-09 20080909023002 무직자 면목 없어 귀향 안 함)가 하위 후보. 매체 파편 없음",
-      "createdAt": "2026-10-31T03:21:43.095Z",
-      "seq": 2946
-    },
-    {
-      "id": "3d5a956a",
-      "title": "muting-chat-notifications 보강: 2016년 학술 파편",
-      "priority": 50,
-      "note": "2026-10-31 Frontiers 2025 더함. 후보 arxiv.org/html/1612.02314 Pielot 2016 WhatsApp group notifications 끔, Mannell 2020 JCMC 는 Cloudflare",
-      "createdAt": "2026-10-31T03:21:43.230Z",
-      "seq": 2947
-    },
-    {
-      "id": "f5435b49",
-      "title": "keeping-leftover-medicines 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-10-31 Edwards 1982 더함. 원인 후보 Wasserfallen 2003 PMID 12708953 (과잉 처방, 불완전한 복약, 큰 포장이 남은 약 보관으로 이어짐), Furst 1975 PMID 1165177 Drug hoarding 별칭 후보",
-      "createdAt": "2026-10-31T03:31:14.833Z",
-      "seq": 2948
-    },
-    {
-      "id": "84a9d7bb",
-      "title": "job-insecurity 보강: 관계 간선",
-      "priority": 50,
-      "note": "2026-10-31 결과 money-worry 더함(MSE 포럼 2013). 남은 후보: guilt-about-resigning, staying-in-job-for-health-insurance. 학술 후보 Basyouni 2021 fpsyg.2021.632265 (횡단 설계, 매개 경로)",
-      "createdAt": "2026-10-31T03:39:23.908Z",
-      "seq": 2949
-    },
-    {
-      "id": "475b30b4",
-      "title": "hiking-closed-trails 보강: 남을 따라 샛길로 드는 면, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-31 Blue Mountains Gazette 2020 'most people were copy cats - if they saw someone already off-trail' 대목, Goh 2020 준거집단(다른 방문객, 친구). 서울신문 2010-03-08 m.seoul.co.kr/news/2010/03/08/20100308017006 백두대간 종주 샛길출입 대목. nps.gov social-trails",
-      "createdAt": "2026-10-31T06:16:55.548Z",
-      "seq": 2957
-    },
-    {
-      "id": "ddcc32fc",
-      "title": "accepting-long-commute 보강: SNS 파편, 통근 피로 결과",
-      "priority": 50,
-      "note": "2026-10-31 brunch bhy2078/8 (2026-03-22) 왕복 3-4시간 대목이 있으나 bhy2078 계정은 work-rumination-after-hours 에서 사용 중. 미국 Census 2021-03-18 보도자료 27.6분",
-      "createdAt": "2026-10-31T06:25:22.717Z",
-      "seq": 2959
-    },
-    {
-      "id": "6b956d3d",
-      "title": "walking-to-think 보강: SNS 파편, 관계",
-      "priority": 50,
-      "note": "2026-10-31 후보 brunch theshhhforest/47, lalla1021/1896. Pride and Prejudice 36장 '두 시간 길을 걸으며' 대목은 Gutenberg 1342 가 이미 4개 문서에서 쓰여 뺐다",
-      "createdAt": "2026-10-31T06:29:24.235Z",
-      "seq": 2960
-    },
-    {
-      "id": "81cf9b25",
-      "title": "gazing-out-the-window 보강: 학술 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-10-31 brunch daeho/16 이 Kaplan 주의 회복 이론을 소개. Ulrich 1984 Science PubMed 6143402 는 창밖 풍경과 수술 회복이라 현상과 멂. 이광수 「그 여자의 일생」 위키문헌 '창밖을 내다 보았다' 대목은 발행 연도 확인 필요. Jane Eyre(1260)는 이미 4개 문서에서 쓰임",
-      "createdAt": "2026-10-31T06:33:08.113Z",
-      "seq": 2961
-    },
-    {
-      "id": "ace7e056",
-      "title": "ordering-food-delivery 보강: 공공·SNS 파편, 2000년대 출처",
-      "priority": 50,
-      "note": "2026-10-31 통계청·식품소비행태조사·FSA 는 PDF 만. dailypharm.com/user/news/58370 (2020-10-12) 코로나19 뒤 배달 주문 빈도 증가 22%",
-      "createdAt": "2026-10-31T06:35:37.676Z",
-      "seq": 2962
-    },
-    {
-      "id": "710d4934",
-      "title": "news-avoidance 보강: 공공·SNS 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-10-31 Ofcom 회피 수치는 PDF 에만. 기자협회보 56602 에 이유 문항 '안 좋은 뉴스(부정적인 뉴스)가 너무 많아서'(3.62점). Reuters 2023 응답자 'Turning my back on news is the only way I feel I can cope sometimes.'",
-      "createdAt": "2026-10-31T06:38:17.453Z",
-      "seq": 2963
-    },
-    {
-      "id": "ac68ad32",
-      "title": "impulse-buying 보강: 자기 보상 원인",
-      "priority": 50,
-      "note": "2026-10-31 buyers-remorse 결과 간선은 그음. 자기 보상 문서 없음, 근거 파편 필요",
-      "createdAt": "2026-10-31T09:10:49.953Z",
-      "seq": 2974
-    },
     {
       "id": "daf25b73",
       "title": "buyers-remorse 보강: 반품 결과, 대립 후보",
@@ -763,6 +659,102 @@
       "note": "2026-11-01 후보: Frontiers 2025 결론(부모의 사회적 비교가 자존감에 부정적 영향) 원인 간선 후보, 전북일보 2008 엄친아 정의 대목, 서울신문 2014-11-07 함인희 칼럼 엄친아의 배신. 공개 SNS 글 미확보",
       "createdAt": "2026-11-01T18:32:07.718Z",
       "seq": 3163
+    },
+    {
+      "id": "6b953c40",
+      "title": "exiting-the-way-you-came 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-01 SNS 파편 더함. delayed-evacuation, dismissing-fire-alarms 와 관계 검토 남음. 후보: Lund 1999 lup.lub.lu.se/record/783746 익숙한 출구 선택, cyclechat.net/threads/fire.283985/post-6685944 (2022 교실 비상구 두고 되짚어 나감, 교관에게 들은 이야기)",
+      "createdAt": "2026-11-01T21:10:07.165Z",
+      "seq": 3177
+    },
+    {
+      "id": "7baa8280",
+      "title": "refusing-mobility-aids 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-01 Darlington 공공 파편 더함. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 매체 후보 한국경제 2019110695681 국립교통재활병원장 칼럼(403)",
+      "createdAt": "2026-11-01T21:20:51.960Z",
+      "seq": 3178
+    },
+    {
+      "id": "60feb86d",
+      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
+      "priority": 50,
+      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
+      "createdAt": "2026-11-01T21:21:59.597Z",
+      "seq": 3179
+    },
+    {
+      "id": "42844c2f",
+      "title": "keeping-leftover-medicines 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-11-01 Wasserfallen 2003 PMID 12708953 의 원인 문장은 218자라 못 씀. 원인 후보 stopping-medication-when-feeling-better: pids.org 2023-11-22 파편은 남은 항생제를 '갖게 됨'만 말하고 보관은 말하지 않음. 보관까지 말하는 파편 필요. Furst 1975 PMID 1165177 Drug hoarding 별칭 후보",
+      "createdAt": "2026-11-01T21:23:37.486Z",
+      "seq": 3180
+    },
+    {
+      "id": "81229a6a",
+      "title": "job-insecurity 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-11-01 Basyouni 2021 로 money-worry 간선에 근거 더함. 남은 후보: guilt-about-resigning, staying-in-job-for-health-insurance",
+      "createdAt": "2026-11-01T21:24:31.113Z",
+      "seq": 3181
+    },
+    {
+      "id": "704a0ec1",
+      "title": "hiking-closed-trails 보강: 남을 따라 샛길로 드는 면",
+      "priority": 50,
+      "note": "2026-11-01 Oregon Hikers 2014 SNS 파편 더함. 남은 후보: Blue Mountains Gazette 2020 'most people were copy cats', oregonhikers.org viewtopic.php?p=44162 (2011 안내판 읽고 돌아 들어감, 같은 호스트)",
+      "createdAt": "2026-11-01T21:27:04.900Z",
+      "seq": 3182
+    },
+    {
+      "id": "6dd3b6b9",
+      "title": "accepting-long-commute 보강: 통근 피로 결과",
+      "priority": 50,
+      "note": "2026-11-01 미코 2025 SNS 파편 더함. 결과 후보: MSE 포럼 forums.moneysavingexpert.com/discussion/2609117/commuting (2010-07-21 편도 2시간, 2년 뒤 미칠 것 같다), 클리앙 park/19276343 (2026-10-12 왕복 3시간 지쳐 이사 생각)",
+      "createdAt": "2026-11-01T21:29:30.402Z",
+      "seq": 3183
+    },
+    {
+      "id": "79d9aaee",
+      "title": "walking-to-think 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-01 HN 2013 SNS 파편 더함. 예비 HN item?id=44857785 (2025-08-10 글쓰기 막히면 휴대폰 없이 걷기), item?id=9824922 (2015-07-03)",
+      "createdAt": "2026-11-01T21:31:11.306Z",
+      "seq": 3184
+    },
+    {
+      "id": "7c5a5c50",
+      "title": "gazing-out-the-window 보강: 2000년 이전 학술 파편",
+      "priority": 50,
+      "note": "2026-11-01 Dubois 2024 Frontiers for Young Minds 더함. Kaplan 1993 deepblue Cloudflare, Kaplan 2001 SAGE 403, MDPI Sustainability 15(23):16215 'mental disconnection' 403. 후보 escholarship Heschong Mahone 'Windows and Offices'",
+      "createdAt": "2026-11-01T21:35:06.701Z",
+      "seq": 3185
+    },
+    {
+      "id": "a61a52aa",
+      "title": "ordering-food-delivery 보강: 공공 파편, 2000년대 출처",
+      "priority": 50,
+      "note": "2026-11-01 MSE 2013 SNS 파편 더함. 2000년대 후보 MSE discussion/527535/resisting-takeaways (2007-08-14, 지쳐서 요리할 엄두를 못 냄, 원문에 takeaway 없음). 통계청·식품소비행태조사·FSA 는 PDF 만",
+      "createdAt": "2026-11-01T21:36:58.740Z",
+      "seq": 3186
+    },
+    {
+      "id": "6a648c38",
+      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-11-01 HN 2025 SNS 파편 더함. Ofcom 회피 수치는 PDF 에만. 기자협회보 56602 이유 문항 '안 좋은 뉴스가 너무 많아서'(3.62점)",
+      "createdAt": "2026-11-01T21:37:35.242Z",
+      "seq": 3187
+    },
+    {
+      "id": "05672702",
+      "title": "impulse-buying 보강: 자기 보상 원인",
+      "priority": 50,
+      "note": "2026-10-31 buyers-remorse 결과 간선은 그음. 자기 보상 문서 없음(retail-therapy 는 이미 하위), 근거 파편 필요",
+      "createdAt": "2026-11-01T21:37:55.119Z",
+      "seq": 3188
     },
     {
       "id": "d16898d2",
