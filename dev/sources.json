@@ -15906,5 +15906,17 @@
     "last": "2026-11-01",
     "result": "VERIFIED",
     "lastVerified": "2026-11-01"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/11920693/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.sidae.com/article/2017122913268023099": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
   }
 }
