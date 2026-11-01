@@ -12,7 +12,9 @@
 
 2018년 사고조사 보고[^3]의 승객은 열차를 타려고 서두르다 문이 다시 열릴 것으로 여기고 닫히는 문 사이에 팔뚝을 넣었다고 진술했다.
 
-2026년 기사[^4]에 따르면 2021년부터 2025년까지 서울교통공사 관할 역에서 난 사고 2966건 가운데 출입문 끼임 사고가 988건이었다.
+2026년 3월 사고조사 발표[^4]는 일링 브로드웨이 역 사고의 원인으로 운전사가 승객이 오르내리는 중에 문을 닫은 일과 승객이 문이 닫히는 중에 타려 한 일을 함께 들었다.
+
+2026년 5월 기사[^5]에 따르면 2021년부터 2025년까지 서울교통공사 관할 역에서 난 사고 2966건 가운데 출입문 끼임 사고가 988건이었다.
 
 # 관계
 
@@ -41,4 +43,5 @@
 [^1]: [SNS] "So I sprinted on the off chance that I could get there before the doors closed. This is not an uncommon occurrence for me – some days you make it, and some you don’t." (그래서 문이 닫히기 전에 닿을지도 모른다는 생각에 전력으로 뛰었다. 나에게 드문 일이 아니다. 탈 때도 있고 못 탈 때도 있다.) — Straight Dope 게시글, 2008-08-14, https://boards.straightdope.com/t/how-not-to-board-a-subway-or-mind-the-gap/460004, 2026-11-01 접속
 [^2]: [매체] "Many people, some 16 per cent of passengers, take the risk of still trying to board when the doors are actually closing in front of them." (많은 사람, 승객의 약 16%가 문이 눈앞에서 실제로 닫히고 있을 때도 위험을 무릅쓰고 타려 한다.) — Railnews, "Many passengers disregard closing door warnings", 2017-11-13, https://www.railnews.co.uk/news/2017/11/13-many-passengers-disregard-closing-door.html, 2026-11-01 접속
 [^3]: [공공] "The passenger stated that she was rushing to catch the train and placed her forearm between the closing doors, expecting that they would reopen." (승객은 열차를 타려고 서두르고 있었고 문이 다시 열릴 것으로 예상하고 닫히는 문 사이에 팔뚝을 넣었다고 진술했다.) — Rail Accident Investigation Branch, "Passenger trapped in train doors and dragged at Bushey station, 26 March 2018", Safety digest 07/2018, GOV.UK, 2018-08-29, https://www.gov.uk/government/publications/safety-digest-072018-bushey/passenger-trapped-in-train-doors-and-dragged-at-bushey-station-26-march-2018, 2026-11-01 접속
-[^4]: [매체] "최근 5년간(2021\~2025) 공사 관할 지하철 역사에서 발생한 사고 2966건 가운데 출입문 끼임 사고는 988건으로 집계되는" — 헤럴드경제, 「“무리한 승차 대신 안전한 기다림”…서울교통공사, 안전한 승하차 문화 확산 나서」, 2026-05-28, https://www.heraldk.com/article/2026052818210068485, 2026-11-01 접속
+[^4]: [공공] "The accident occurred because the driver closed the doors while passengers were still leaving and boarding the train, and because the passenger attempted to board while the doors were closing." (사고는 승객들이 아직 열차에서 내리고 타는 중에 운전사가 문을 닫았기 때문이고, 승객이 문이 닫히는 중에 타려 했기 때문에 일어났다.) — Rail Accident Investigation Branch, "Report 01/2026: Passenger trapped and dragged at Ealing Broadway", GOV.UK, 2026-03-04, https://www.gov.uk/government/news/report-012026-passenger-trapped-and-dragged-at-ealing-broadway, 2026-11-01 접속
+[^5]: [매체] "최근 5년간(2021\~2025) 공사 관할 지하철 역사에서 발생한 사고 2966건 가운데 출입문 끼임 사고는 988건으로 집계되는" — 헤럴드경제, 「“무리한 승차 대신 안전한 기다림”…서울교통공사, 안전한 승하차 문화 확산 나서」, 2026-05-28, https://www.heraldk.com/article/2026052818210068485, 2026-11-01 접속
