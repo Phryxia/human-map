@@ -27,6 +27,7 @@
   - [우편물 뜯지 않기](../docs/leaving-mail-unopened.md)
   - [잔액 확인 피하기](../docs/avoiding-checking-balance.md)
   - [진료 회피](../docs/medical-care-avoidance.md)
+    - [건강검진 이상 소견 뒤 재검 미루기](../docs/skipping-follow-up-after-abnormal-screening.md)
     - [치과 공포](../docs/dental-anxiety.md)
 - [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.

@@ -35,6 +35,7 @@
 ## 하위
 
 - [치과 공포](dental-anxiety.md)
+- [건강검진 이상 소견 뒤 재검 미루기](skipping-follow-up-after-abnormal-screening.md)
 
 ## 원인
 

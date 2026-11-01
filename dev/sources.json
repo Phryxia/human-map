@@ -16324,5 +16324,29 @@
     "last": "2026-11-01",
     "result": "VERIFIED",
     "lastVerified": "2026-11-01"
+  },
+  "https://koreascience.or.kr/article/JAKO200331462790769.page?lang=ko": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/27310983/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://m.go.seoul.co.kr/news/2016/07/29/20160729014015": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.korea.kr/briefing/policyBriefingView.do?newsId=148881652": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
   }
 }
