@@ -1,89 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T03:37:37.270Z",
-  "nextSeq": 3071,
-  "stops": 158,
+  "savedAt": "2026-11-01T06:43:21.613Z",
+  "nextSeq": 3090,
+  "stops": 159,
   "items": [
-    {
-      "id": "dbdc06ee",
-      "title": "leisure-sickness 보강: 한국어·SNS 파편, 업무 부담 조건",
-      "priority": 50,
-      "note": "2026-10-30 Ferenczi 1926, Vingerhoets 2002, patient.info 2018 로 추가. Vingerhoets 초록은 업무량·책임감·쉬지 못함을 위험 요인으로 듦(서술 문단 후보). sunday-night-dread 와 구별",
-      "createdAt": "2026-10-30T15:28:19.526Z",
-      "seq": 2878
-    },
-    {
-      "id": "9c45ec0d",
-      "title": "not-drinking-tap-water 보강: 수질 사고 뒤 불신 매체 파편",
-      "priority": 50,
-      "note": "2026-10-30 HN 44212724 (2025-06-07) SNS 더함. 남은 후보 mediahub 2001025 (2021-03-24 녹물·유충 뉴스 뒤 불신), 2010 서울신문 아리수 조사 20100129026016",
-      "createdAt": "2026-10-30T15:31:33.250Z",
-      "seq": 2881
-    },
-    {
-      "id": "94a765e3",
-      "title": "escalator-one-line-standing 보강: 학술 파편, TfL Holborn 실험",
-      "priority": 50,
-      "note": "2026-10-30 HN 2222503 (2011-02-15) SNS 더함. HN 10916873 (2016-01-16) 아르헨티나 혼잡 시간대에는 두 줄 서기(조건 후보). tfl.gov.uk 봇 확인. mediahub 819416 은 발행일이 페이지에 없음",
-      "createdAt": "2026-10-30T15:34:15.150Z",
-      "seq": 2883
-    },
-    {
-      "id": "412a07c5",
-      "title": "forgetting-reusable-bags 보강: 텀블러 사 모으기",
-      "priority": 50,
-      "note": "2026-10-30 HN 39251899 (2024-02-04) SNS 더함. 후보 heraldk 2026031201400032217 텀블러 수집 목적(미열람)",
-      "createdAt": "2026-10-30T15:34:56.309Z",
-      "seq": 2884
-    },
-    {
-      "id": "b0899688",
-      "title": "benign-envy 보강: 문학 파편, 1980년대 이전 시기",
-      "priority": 50,
-      "note": "2026-10-30 van de Ven 2009, 2015, 코메디닷컴 2021, HN 2023 로 채움. 후보 Salerno 외 2019 JCR 'The Bad Can Be Good', 일본 학생 종단 연구 trait benign envy → 시험 점수",
-      "createdAt": "2026-10-30T15:37:57.065Z",
-      "seq": 2885
-    },
-    {
-      "id": "5b002270",
-      "title": "people-pleasing 보강: 한국어·다른 시기 파편, difficulty-saying-no 관계",
-      "priority": 50,
-      "note": "2026-10-30 Psyche 2023, Kuang 2025, HN 2026 로 채움. Kuang 'These students may struggle to decline requests due to fears of social isolation, a desire for approval' 는 거절 어려움의 원인을 인정 욕구로 말함. 2010년 이전 파편 없음",
-      "createdAt": "2026-10-30T15:37:57.222Z",
-      "seq": 2886
-    },
-    {
-      "id": "9fb81566",
-      "title": "treatment-burden 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-10-30 서울신문 2014, Tran 외 2015, HN 2023 로 채움. Tran 초록은 부담의 결과로 poor adherence 를 듦",
-      "createdAt": "2026-10-30T15:37:57.348Z",
-      "seq": 2887
-    },
-    {
-      "id": "b1e1a13e",
-      "title": "intergroup-schadenfreude 보강: 문학·한국어 파편",
-      "priority": 50,
-      "note": "2026-10-30 Cikara 외 2011, NPR 2018 로 추가. 이광수 「이차돈의 사」 위키문헌 action=raw 의 '고소하기도 하였다' 대목은 처녀들이 달님을 시기해 고소해하는 것이라 집단 간이 아님(malicious-envy·schadenfreude 문학 파편 후보). Cikara·Fiske 2013 'inter-group schadenfreude' 별칭 근거",
-      "createdAt": "2026-10-30T15:38:16.927Z",
-      "seq": 2888
-    },
-    {
-      "id": "de8b4d2a",
-      "title": "malicious-envy 보강: 이광수 「이차돈의 사」 문학 파편",
-      "priority": 50,
-      "note": "2026-10-30 위키문헌 이차돈의_사 action=raw: 처녀들이 달님을 '일변 부럽기도 하고 일변 밉기도 하였다. 그러나 내일 아침이면 달님이 크게 경을 치리라 하면 고소하기도 하였다'. schadenfreude 원인 간선 근거 후보",
-      "createdAt": "2026-10-30T15:38:17.070Z",
-      "seq": 2889
-    },
-    {
-      "id": "494ecb7c",
-      "title": "pretending-to-have-read-books 보강: 대화에 끼려는 동기, 관계",
-      "priority": 50,
-      "note": "2026-10-30 추가. 후보: Paulhus 2003 PMID 12703655 over-claiming(없는 항목 20%), Refinery29 2017-04-22 18~24세 64%(Reading Agency 와 같은 조사), Vanity Fair Gutenberg 599 오즈번 영감이 손자 공부 이야기를 아는 척, Northanger Abbey Gutenberg 121 소프. pretending-to-understand, overreporting-desirable-behavior 와 관계 근거 필요",
-      "createdAt": "2026-10-30T18:11:39.080Z",
-      "seq": 2895
-    },
     {
       "id": "9ace4905",
       "title": "making-excuses-to-skip-plans 와 company-dinner-pressure, urge-to-cancel-plans 관계",
@@ -99,14 +19,6 @@
       "note": "2026-10-30 추가. partner-conflict, apology-reluctance 와 관계 근거 필요. 후보: Dvir, Beşikci, Williams 2026 PMID 41418500 배척을 신체 학대보다 해롭게 평가, 스포츠경향 201710171752003 (2017-10-17) 투명인간 취급 복수전, Psychology Today 202209 침묵을 끝낼 방법에 사로잡힘, 클리앙 kin/18911270 (2025-02-05) 냉전 중 사실은 풀고 싶다, 같은 글 댓글 20년 냉전 반복, Bleak House Gutenberg 1023 이웃끼리 몇 주 말 섞지 않음",
       "createdAt": "2026-10-30T18:22:28.825Z",
       "seq": 2897
-    },
-    {
-      "id": "2352ef26",
-      "title": "doodling 보강: 지루함 원인 간선, 공공 파편",
-      "priority": 50,
-      "note": "2026-10-30 추가. 후보: Andrade 같은 초록 'Doodling is a way of passing the time when bored by a lecture or telephone call', EurekAlert 823877 (2009-02-26) 지루하면 공상, BPS Research Digest 2009-12-18 공책 칸 칠하기, PBS NOVA 2014-07-28 필기 대신 그림, BBC Bitesize zmdpmfr (2019-09-19) 통화 중 낙서 모양, Guelph 2024-10-18 부주의의 표시로 여겨짐, Ulysses Gutenberg 4300 타자수가 메모장에 끄적임. 지루함 문서 있으면 원인 간선",
-      "createdAt": "2026-10-30T18:28:53.418Z",
-      "seq": 2898
     },
     {
       "id": "7409d57a",
@@ -715,6 +627,70 @@
       "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 2026-11-01 blogs.clemson.edu/ccit 2023-04-26 'always let the other person speak first' 는 권고뿐. FCC 403. 실제 행동을 잰 학술 못 찾음",
       "createdAt": "2026-11-01T03:37:24.020Z",
       "seq": 3070
+    },
+    {
+      "id": "1f527e77",
+      "title": "private-tutoring-anxiety 보강: 나타나지 않는 조건, 별칭",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: 국회도서관 KINX2021194456 양육불안감이 사교육에 유의한 영향 없음(조건), korea.kr 156577074 (2023-06-26) '사교육 불안 마케팅' 별칭 근거, Frontiers fpsyg.2022.800039 'parents’ education anxiety'. bragging-about-children, fear-of-missing-out 과 관계 근거 필요",
+      "createdAt": "2026-11-01T06:12:04.451Z",
+      "seq": 3082
+    },
+    {
+      "id": "9e0c60be",
+      "title": "leisure-sickness 보강: 학술 파편 Van Heck 2007",
+      "priority": 50,
+      "note": "2026-11-01 매체 2, SNS 1 더함. 후보 hrcak.srce.hr/20385 (2007-12-15) 'some people feel particularly ill ... especially during weekends and vacations', HN 29646791 금요일 오후 고열(주말형). kormedi 1217639 에 '과학적 근거는 부족하다' 반론 대목",
+      "createdAt": "2026-11-01T06:14:44.782Z",
+      "seq": 3083
+    },
+    {
+      "id": "2e73d71e",
+      "title": "forgetting-reusable-bags 보강: 학술 파편 Dalhousie 2008",
+      "priority": 50,
+      "note": "2026-11-01 Yahoo/PA 2020(미확인, 429), 데일리안 2024 더함. 후보 dalspace 10222/77842 (2008-04) '81% of those surveyed own a reusable mug but 82% of those observed do not use' 학생 보고서, 한경 2025121824651 텀블러 10개 중 1개, earticle A368901 (2020-01)",
+      "createdAt": "2026-11-01T06:25:26.044Z",
+      "seq": 3084
+    },
+    {
+      "id": "98c73f1c",
+      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
+      "priority": 50,
+      "note": "2026-11-01 이광수 「이차돈의 사」(위키문헌, 1935년 작품 분류) 대목은 원문 줄바꿈이 '일|변', '아침이|면' 처럼 낱말 중간에 있어 페이지 텍스트가 '일 변' 이 되므로 글자 그대로 옮길 수 없음. 다른 판본이나 다른 작품을 찾을 것",
+      "createdAt": "2026-11-01T06:37:29.601Z",
+      "seq": 3085
+    },
+    {
+      "id": "2a436765",
+      "title": "pretending-to-have-read-books 보강: 대화에 끼려는 동기, 관계",
+      "priority": 50,
+      "note": "2026-10-30 추가. 후보: Paulhus 2003 PMID 12703655 over-claiming(없는 항목 20%. 2026-11-01 초록 확인: 책 항목 언급 없음), Refinery29 2017-04-22 18~24세 64%(Reading Agency 와 같은 조사), Vanity Fair Gutenberg 599 오즈번 영감이 손자 공부 이야기를 아는 척, Northanger Abbey Gutenberg 121 소프. pretending-to-understand, overreporting-desirable-behavior 와 관계 근거 필요",
+      "createdAt": "2026-11-01T06:37:41.102Z",
+      "seq": 3086
+    },
+    {
+      "id": "915e6873",
+      "title": "doodling 보강: 지루함 원인 간선",
+      "priority": 50,
+      "note": "2026-11-01 Dorset History Centre 2026 공공 파편 더함. 후보: Andrade 같은 초록 'Doodling is a way of passing the time when bored by a lecture or telephone call', PBS NOVA 2014-07-28 필기 대신 그림, BBC Bitesize zmdpmfr (2019-09-19), Guelph 2024-10-18, Ulysses Gutenberg 4300. 지루함 문서 있으면 원인 간선",
+      "createdAt": "2026-11-01T06:39:29.419Z",
+      "seq": 3087
+    },
+    {
+      "id": "8ef13aed",
+      "title": "people-pleasing 보강: difficulty-saying-no 원인 관계",
+      "priority": 50,
+      "note": "2026-11-01 Washington Square 1881 문학 더함. 후보 Hayaki 2003 scholars.duke.edu/publication/963671 sociotropy 정의, sgsg.hankyung.com 2007011253601 착한 사람 콤플렉스(전각 문장부호), 주간경향 202309151058301 '거부당하지 않기 위해 거절을 잘 못한다'(이미 [^3] 출처라 재사용 불가)",
+      "createdAt": "2026-11-01T06:40:05.994Z",
+      "seq": 3088
+    },
+    {
+      "id": "d821ec4f",
+      "title": "intergroup-schadenfreude 보강: 한국어 매체 파편",
+      "priority": 50,
+      "note": "2026-11-01 Iliad 문학 더함. 후보 왓챠피디아 bo5Ag58 『쌤통의 심리학』 소개 한일전 대목(출판사 소개글, 날짜 없음), dspace.library.uu.nl 1874/416305 (2021) 인간-로봇 팀",
+      "createdAt": "2026-11-01T06:41:30.931Z",
+      "seq": 3089
     },
     {
       "id": "d16898d2",
