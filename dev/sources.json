@@ -7520,9 +7520,9 @@
   },
   "https://www.gutenberg.org/cache/epub/6688/pg6688-images.html": {
     "first": "2026-10-22",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://ideas.repec.org/a/ucp/jacres/doi10.1086-714363.html": {
     "first": "2026-10-22",
@@ -14632,15 +14632,15 @@
   },
   "https://weekly.khan.co.kr/article/18168": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://pubmed.ncbi.nlm.nih.gov/26500382/": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.gutenberg.org/cache/epub/1497/pg1497-images.html": {
     "first": "2026-10-30",
@@ -16272,6 +16272,18 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.rogerdooley.com/tightwad-spendthrift-scott-rick/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.psychologicalscience.org/news/releases/cry-me-a-river-the-psychology-of-crying.html": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://letstalk.mindline.sg/t/crying-is-more-important-than-you-think/16316": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
