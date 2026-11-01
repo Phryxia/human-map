@@ -15189,21 +15189,21 @@
   },
   "https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2023/dnr-executive-summary": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.journalist.or.kr/m/m_article.html?no=56602": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://m.seoul.co.kr/news/2010/03/08/20100308017006": {
     "first": "2026-10-31",
@@ -16782,6 +16782,12 @@
     "lastVerified": "2026-11-01"
   },
   "https://forums.moneysavingexpert.com/discussion/4717025/falling-into-the-take-away-trap-any-advice": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://news.ycombinator.com/item?id=45282810": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
