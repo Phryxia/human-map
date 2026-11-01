@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T15:40:24.683Z",
-  "nextSeq": 3153,
-  "stops": 162,
+  "savedAt": "2026-11-01T18:39:44.682Z",
+  "nextSeq": 3165,
+  "stops": 163,
   "items": [
     {
       "id": "954bfb81",
@@ -723,6 +723,46 @@
       "note": "2026-10-31 한국 공공 HTML 못 찾음. 2026-11-01 news.koroad.or.kr vol78 sub04, vol89 sub06 딜레마존 글은 이 환경에서 ENOTFOUND. KCI ART001145741 황색신호 딜레마 운전자 행동(학술). 예비: PubMed 25907375, PubMed 4096798. jaywalking, impatience-at-red-light 와 관계 검토",
       "createdAt": "2026-11-01T15:40:17.438Z",
       "seq": 3152
+    },
+    {
+      "id": "d8cbe77b",
+      "title": "inheritance-disputes 보강: 원인 간선과 공공 파편",
+      "priority": 50,
+      "note": "2026-11-01 후보: Psychology Today 2020-02-24 Doka good-mourning/202002 (유언 갈등의 유일한 예측 변수는 이전 갈등), 법률신문 2024-02-26 lawtimes 196169 (장자 상속을 다른 상속인이 문제 삼음), 머니투데이 2026-02-14 사법연감 상속재산분할 접수 2776건. 사법연감 PDF 는 열리지 않음",
+      "createdAt": "2026-11-01T18:12:37.470Z",
+      "seq": 3159
+    },
+    {
+      "id": "3d044736",
+      "title": "mother-in-law-conflict 보강: 다른 시기 문학 파편과 결과 간선",
+      "priority": 50,
+      "note": "2026-11-01 후보: zh.wikisource 孔雀東南飛 '阿母謂府吏 何乃太區區 此婦無禮節' 6구(성립 시기 확인 필요), 농민신문 2009-02-23 nongmin.com/article/20090221076544 남편 방관형이 세 사람 모두를 가장 힘들게 함, PMC9726850 2022 시어머니 갈등과 산모 우울 연관, 산림청 2018-11-08 korea.kr 156303001",
+      "createdAt": "2026-11-01T18:19:32.440Z",
+      "seq": 3160
+    },
+    {
+      "id": "9efed740",
+      "title": "pressuring-children-to-marry 보강: 결과 간선 skipping-holiday-homecoming",
+      "priority": 50,
+      "note": "2026-11-01 서울신문 2017-10-02 seoul.co.kr/news/society/2017/10/02/20171002002007 '빨리 결혼하라는 잔소리는 더욱 집요해졌고 ... 압박도 계속됐기 때문이다' 로 귀성 안 함. China Daily 2017 'More than 32 percent are increasingly unwilling to go home'. 공공 파편 없음",
+      "createdAt": "2026-11-01T18:25:17.548Z",
+      "seq": 3161
+    },
+    {
+      "id": "5d732d32",
+      "title": "hiding-regional-accent 보강: 학술과 SNS 파편, 사투리 차별 원인",
+      "priority": 50,
+      "note": "2026-11-01 후보: Kipps 1905 Gutenberg 39162 h 발음 고침, Tess 1891 Gutenberg 110 집에서는 사투리 밖에서는 표준 영어, 클리앙 park/19221072 댓글 고향 가면 사투리 복귀(끝 ...), 매일신문 2016-01-01 2016010101484233431 촌스럽다고 감추던 사투리, Manchester 2014 응답자 셋 중 하나 가짜 느낌",
+      "createdAt": "2026-11-01T18:29:00.825Z",
+      "seq": 3162
+    },
+    {
+      "id": "055e8509",
+      "title": "comparing-children-to-others 보강: SNS 파편과 bragging-about-children 관계",
+      "priority": 50,
+      "note": "2026-11-01 후보: Frontiers 2025 결론(부모의 사회적 비교가 자존감에 부정적 영향) 원인 간선 후보, 전북일보 2008 엄친아 정의 대목, 서울신문 2014-11-07 함인희 칼럼 엄친아의 배신. 공개 SNS 글 미확보",
+      "createdAt": "2026-11-01T18:32:07.718Z",
+      "seq": 3163
     },
     {
       "id": "d16898d2",
@@ -2499,6 +2539,14 @@
       "note": "2026-11-01 no-tears-at-funeral 탐색 중. agingcare 434079 caregivers grieving through the care giving process, caregivers.com 432378. no-tears-at-funeral 원인 후보",
       "createdAt": "2026-11-01T15:09:59.588Z",
       "seq": 3140
+    },
+    {
+      "id": "4d59b071",
+      "title": "가난한 친척 외면하기",
+      "priority": 10,
+      "note": "2026-11-01 문학 후보: Vanity Fair(Gutenberg 599, 이미 2개 문서) 44장 'denies a poor relation'. 비문학 파편 없음. Curl, Lareau, Wu 2018 Sociological Forum socf.12461 계층 상승자와 가족의 충돌(초록 못 읽음). philnews 2025-08-14 은 친척 돈 부탁을 피하려 가난한 척하기라 별개 현상 후보. embarrassed-by-parents 와 관계 검토",
+      "createdAt": "2026-11-01T18:35:11.465Z",
+      "seq": 3164
     },
     {
       "id": "02b2f242",
