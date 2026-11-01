@@ -36,6 +36,7 @@
 
 - [구명조끼 미착용](life-jacket-nonuse.md)[^3]
 - [대피 미루기](delayed-evacuation.md)[^5]
+- [재난 대비 미루기](not-preparing-for-disasters.md)[^7]
 
 ## 대립
 

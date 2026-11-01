@@ -14,6 +14,8 @@
 
 2019년 샌디에이고 카운티 뉴스는 대비를 가로막는 가장 큰 두 가지로 나중에 하려는 계획(40%)과 비용(31%)을 꼽았다.[^6] 2024년 Han 과 Wu 의 중국 전국 조사에서 대비 행동을 하지 않는 주된 이유는 인식 부족, 어디서 사거나 구할지 모름, 그 행동을 불필요하게 여김이었다.[^7]
 
+2026년 브라조스강 관리청 팟캐스트 녹취록[^8]의 화자는 사람들이 나에게는 일어나지 않으리라 생각해서 비상사태에 대비하지 않는다고 말한다.
+
 # 관계
 
 ## 상위
@@ -26,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [낙관 편향](unrealistic-optimism.md)[^8]
 
 ## 결과
 
@@ -45,3 +47,4 @@
 [^5]: [공공] "However, Canadians were less likely to have set aside items such as water, food, medicine, flashlights or cash in an emergency supply kit for their homes (47%)" (그러나 캐나다인이 물, 식량, 약, 손전등, 현금 같은 물품을 집의 비상용품 키트에 따로 마련해 둔 경우는 그보다 적었다(47%)) — Statistics Canada, "Survey of Emergency Preparedness and Resilience in Canada, 2014", The Daily, 2015-10-28, https://www150.statcan.gc.ca/n1/daily-quotidien/151028/dq151028a-eng.htm, 2026-10-31 접속
 [^6]: [공공] "The two greatest barriers to being prepared? Planning to do it later (40 percent), followed by cost (31 percent)!" (대비를 가로막는 가장 큰 두 가지는? 나중에 하려는 계획(40%), 그다음은 비용(31%)!) — County of San Diego, "Shopping Sweepstakes: Emergency Preparedness Edition", County News Center, 2019-02-25, https://www.countynewscenter.com/?p=194487, 2026-10-31 접속
 [^7]: [학술] "The primary reasons for not adopting are “lack of awareness,” “not knowing where to buy or reach resources,” and “perceiving the action as unnecessary.”" (채택하지 않는 주된 이유는 '인식 부족', '어디서 사거나 자원에 닿을 수 있는지 모름', '그 행동을 불필요하게 여김'이다.) — Ziqiang Han, Guochun Wu, "Why do people not prepare for disasters? A national survey from China", npj Natural Hazards, 2024-02-28, https://www.nature.com/articles/s44304-024-00001-2, 2026-10-31 접속
+[^8]: [매체] "We don't prepare for emergencies because we think it won't be me. The percentage is too low. The occurrence is not frequent enough. So, we don't prepare." (우리는 나에게는 일어나지 않을 거라고 생각해서 비상사태에 대비하지 않는다. 확률이 너무 낮고 자주 일어나지 않는다. 그래서 대비하지 않는다.) — Brazos River Authority, "Why your fire extinguisher is in the wrong place", Unpacking the Brazos River 팟캐스트 녹취록, 2026-01-01, https://brazosriverauthority.transistor.fm/s1/10/transcript, 2026-11-01 접속
