@@ -41,6 +41,7 @@
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)
   - [좋아하는 상대 괴롭히기](../docs/teasing-someone-liked.md)
 - [엉뚱한 대상에게 화풀이하기](../docs/displaced-aggression.md) 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
+- [여행지에서 엽서 보내기](../docs/sending-travel-postcards.md) 여행 중인 사람이 여행지에서 고향의 가족이나 친구에게 그림엽서를 써서 부친다.
 - [연애 기피](../docs/avoiding-dating.md) 교제 상대가 없는 미혼자가 연애나 교제를 바라지 않거나 혼자가 편하다며 이성을 만나지 않는다.
 - [연애 질투](../docs/romantic-jealousy.md) 연인을 둔 사람이 연인 곁의 경쟁자나 사소한 단서를 보고 연인을 의심하며 괴로워한다.
 - [연인과 헤어지기](../docs/breaking-up.md) 연애하거나 함께 사는 두 사람 가운데 한쪽 또는 양쪽이 관계를 끝내고 헤어진다.
