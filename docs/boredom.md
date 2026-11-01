@@ -18,13 +18,15 @@
 
 2017년 블로그 글[^7]이 전한 연구에서 참가자는 낯선 사람이나 직장 동료와 있을 때, 혼자 있을 때 지루하다고 더 자주 답했고 아이, 연인이나 배우자, 친구와 있을 때 가장 드물게 답했다.
 
-2019년 블로그 글[^8]에서 연구자는 일이 적은 직원은 지루해지기 쉬웠고 지루한 직원은 근무 중 딴짓을 하기 쉬웠다고 정리했다.
+2018년 5월 실험[^8]에서 딴생각은 지루함을 끌어낸 조건에서 가장 많았다.
 
-2023년 8월 블로그 글[^9]의 저자들은 노인의 외로움이 지루함에서 비롯될 수 있다는 연구 결과를 전했다.
+2019년 블로그 글[^9]에서 연구자는 일이 적은 직원은 지루해지기 쉬웠고 지루한 직원은 근무 중 딴짓을 하기 쉬웠다고 정리했다.
 
-2023년 클리앙 게시글[^10]의 글쓴이는 크게 부자가 되거나 사치하거나 이성을 만나고 싶은 생각이 없어지자 사는 게 재미가 없다고 썼다.
+2023년 8월 블로그 글[^10]의 저자들은 노인의 외로움이 지루함에서 비롯될 수 있다는 연구 결과를 전했다.
 
-2025년 3월 기사[^11]는 아이들이 자극을 충분히 받지 못하거나 무엇을 해야 할지 모를 때 지루함을 호소한다고 썼다.
+2023년 클리앙 게시글[^11]의 글쓴이는 크게 부자가 되거나 사치하거나 이성을 만나고 싶은 생각이 없어지자 사는 게 재미가 없다고 썼다.
+
+2025년 3월 기사[^12]는 아이들이 자극을 충분히 받지 못하거나 무엇을 해야 할지 모를 때 지루함을 호소한다고 썼다.
 
 # 관계
 
@@ -42,8 +44,9 @@
 
 ## 결과
 
-- [근무 중 사적인 인터넷 사용](cyberloafing.md)[^8]
-- [외로움](loneliness.md)[^9]
+- [근무 중 사적인 인터넷 사용](cyberloafing.md)[^9]
+- [딴생각](mind-wandering.md)[^8]
+- [외로움](loneliness.md)[^10]
 - [혼자 생각만 하는 시간 꺼리기](avoiding-being-alone-with-thoughts.md)[^3]
 
 ## 대립
@@ -59,7 +62,8 @@
 [^5]: [학술] "Participants in the boredom condition self-administered more shocks and with higher intensity, compared to both the neutral and sadness condition." (지루함 조건의 참가자들은 중립 조건과 슬픔 조건 모두에 견주어 더 많은 충격을 더 높은 세기로 스스로 주었다.) — Nederkoorn C, Vancleef L, Wilkenhöner A, Claes L, Havermans RC, 「Self-inflicted pain out of boredom」, Psychiatry Research 237, 2016-03-30, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26847946&rettype=abstract&retmode=text, 2026-10-30 접속
 [^6]: [학술] "Boredom is more prevalent among men, youths, the unmarried, and those of lower income." (지루함은 남성, 젊은 사람, 미혼자, 소득이 낮은 사람에게서 더 흔하다.) — A. Chin, A. Markey, S. Bhargava, K. S. Kassam, G. Loewenstein, 「Bored in the USA: Experience sampling and boredom in everyday life」, Emotion 17(2), 2017-03, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27775405&rettype=abstract&retmode=text, 2026-10-24 접속
 [^7]: [매체] "Participants were more likely to report feeling bored in the presence of strangers, coworkers, or when they were alone, and least likely to report boredom when with children, partners, or friends." (참가자들은 낯선 사람이나 직장 동료와 함께 있거나 혼자 있을 때 지루함을 보고할 가능성이 더 컸고, 아이, 연인이나 배우자, 친구와 함께 있을 때 가장 낮았다.) — Romeo Vitelli, 「Bored in the U.S.A.」, Psychology Today, 2017-03-03, https://www.psychologytoday.com/us/blog/media-spotlight/201703/bored-in-the-usa/amp, 2026-10-23 접속
-[^8]: [매체] "Employees who were underloaded were likely to be bored, and bored employees were likely to cyberloaf." (일이 적은 직원은 지루해지기 쉬웠고, 지루한 직원은 근무 중 딴짓을 하기 쉬웠다.) — Paul Spector, 「Why Do Employees Cyberloaf?」, 2019-03-21, https://paulspector.com/why-do-employees-cyberloaf/, 2026-10-29 접속
-[^9]: [매체] "Research has certainly shown that loneliness in the elderly can be driven by boredom." (노인의 외로움이 지루함에서 비롯될 수 있다는 것은 연구로 분명히 드러났다.) — James Danckert, John Eastwood, 「The Boredom of Solitude」, Psychology Today, 2023-08-21, https://www.psychologytoday.com/us/blog/the-engaged-mind/202308/the-boredom-of-solitude, 2026-10-29 접속
-[^10]: [SNS] "이제는 크게 부자가 되고 싶은 생각도 없고, 사치하고 싶은 생각도 없고, 이성을 만나고 싶은 생각도 없다보니 사는게 재미가 없네요" — 클리앙, 게시글, 2023-12-04, https://www.clien.net/service/board/park/18457951, 2026-10-26 접속
-[^11]: [매체] "아이들은 충분한 자극을 받지 못하거나, 무엇을 해야 할지 모를 때 지루함을 호소한다." — 이유진, 「“심심해…” 아이들 지루해야 창의력 커진다」, 레이디경향, 2025-03-19, https://lady.khan.co.kr/education/article/202503190920001, 2026-10-25 접속
+[^8]: [학술] "Results replicated known associations between mind-wandering and state boredom (i.e., mind-wandering was highest for the boredom mood induction)." (결과는 딴생각과 상태 지루함 사이의 알려진 연관을 재현했다. 곧 딴생각은 지루함을 끌어낸 조건에서 가장 많았다.) — J. Danckert, T. Hammerschmidt, J. Marty-Dugas, D. Smilek, 「Boredom: Under-aroused and restless」, Consciousness and Cognition 61, 2018-05, https://pubmed.ncbi.nlm.nih.gov/29631194/, 2026-11-01 접속
+[^9]: [매체] "Employees who were underloaded were likely to be bored, and bored employees were likely to cyberloaf." (일이 적은 직원은 지루해지기 쉬웠고, 지루한 직원은 근무 중 딴짓을 하기 쉬웠다.) — Paul Spector, 「Why Do Employees Cyberloaf?」, 2019-03-21, https://paulspector.com/why-do-employees-cyberloaf/, 2026-10-29 접속
+[^10]: [매체] "Research has certainly shown that loneliness in the elderly can be driven by boredom." (노인의 외로움이 지루함에서 비롯될 수 있다는 것은 연구로 분명히 드러났다.) — James Danckert, John Eastwood, 「The Boredom of Solitude」, Psychology Today, 2023-08-21, https://www.psychologytoday.com/us/blog/the-engaged-mind/202308/the-boredom-of-solitude, 2026-10-29 접속
+[^11]: [SNS] "이제는 크게 부자가 되고 싶은 생각도 없고, 사치하고 싶은 생각도 없고, 이성을 만나고 싶은 생각도 없다보니 사는게 재미가 없네요" — 클리앙, 게시글, 2023-12-04, https://www.clien.net/service/board/park/18457951, 2026-10-26 접속
+[^12]: [매체] "아이들은 충분한 자극을 받지 못하거나, 무엇을 해야 할지 모를 때 지루함을 호소한다." — 이유진, 「“심심해…” 아이들 지루해야 창의력 커진다」, 레이디경향, 2025-03-19, https://lady.khan.co.kr/education/article/202503190920001, 2026-10-25 접속
