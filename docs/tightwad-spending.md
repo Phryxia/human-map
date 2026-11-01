@@ -12,7 +12,9 @@
 
 2019년 한국소비자원 웹진 에세이[^4]의 필자는 몸에 밴 "아껴야 잘 산다" 는 가르침이 주는 죄책감을 소비를 가로막는 가장 큰 장벽으로 꼽았다. 2020년 호주 재무부의 은퇴소득 검토 보고서[^5]는 사람들이 저축을 쓰기 위한 돈이 아니라 모아 두기 위한 돈으로 여긴다고 적었다.
 
-2026년 2월 클리앙 게시글[^6]의 글쓴이는 1997년 외환위기 때 집안이 겪은 가난 뒤로 돈 쓰는 일을 피해야 할 일로 여기게 됐다고 적었다. 통장 잔고가 늘어도 물건 하나를 살 때 오래 고민하다 포기하거나 중고 물건을 찾고서야 안심했고 유료 도구가 일을 빨리 끝내 줄 때도 결제하지 못했다.[^6]
+2024년 6월 팟캐스트 대담 기록[^6]에서 연구자는 은행 계좌만 보면 돈을 편하게 쓸 것 같은 tightwad 가 많다고 말했다.
+
+2026년 2월 클리앙 게시글[^7]의 글쓴이는 1997년 외환위기 때 집안이 겪은 가난 뒤로 돈 쓰는 일을 피해야 할 일로 여기게 됐다고 적었다. 통장 잔고가 늘어도 물건 하나를 살 때 오래 고민하다 포기하거나 중고 물건을 찾고서야 안심했고 유료 도구가 일을 빨리 끝내 줄 때도 결제하지 못했다.[^7]
 
 # 관계
 
@@ -43,4 +45,5 @@
 [^3]: [학술] "We propose that an anticipatory pain of paying drives “tightwads” to spend less than they would ideally like to spend." (우리는 지불에 대해 미리 느끼는 고통이 '인색한 사람'으로 하여금 스스로 바라는 것보다 적게 쓰게 한다고 제안한다.) — S. I. Rick, C. E. Cryder, G. Loewenstein, 「Tightwads and Spendthrifts」, Journal of Consumer Research 34(6), Russell Sage Foundation, 2008-04, https://www.russellsage.org/node/4432, 2026-10-23 접속
 [^4]: [매체] "그중에서도 내 속에 각인된 “아껴야 잘 산다”라는 가르침이 주는 죄책감은 소비를 가로막는 가장 큰 장벽이었다." — 김대일, 「[나만의 소비철학] 아껴야 잘 산다? 전 반대입니다만」, 한국소비자원 소비자시대, 2019-07, http://www.kca.go.kr/webzine/board/view?menuId=MENU00306&linkId=64&div=kca_1907, 2026-10-30 접속
 [^5]: [공공] "People are primed to consider their savings are for saving, and not for spending." (사람들은 저축이 쓰기 위한 것이 아니라 모아 두기 위한 것이라고 여기도록 길들여져 있다.) — Australian Government The Treasury, Retirement Income Review Final Report, 2020-11-20, https://treasury.gov.au/sites/default/files/2021-02/p2020-100554-udcomplete-report.pdf, 2026-10-30 접속 (미확인)
-[^6]: [SNS] "물건 하나를 살 때도 오랜 시간 고민하다 구매를 포기하거나, 중고 거래 플랫폼에서 누군가 사용하던 물건을 찾고 나서야 안심합니다." — 클리앙 게시글, 2026-02-22, https://www.clien.net/service/board/park/19148358, 2026-10-24 접속
+[^6]: [매체] "So there’s a lot of tightwads who you would think they’d be quite comfortable spending if you just looked at their bank accounts." (그러니까 은행 계좌만 보면 돈을 꽤 편하게 쓸 것 같은 tightwad 가 많다.) — Roger Dooley, 「Tightwads and Spendthrifts with Scott Rick」, Brainfluence, 2024-06-18, https://www.rogerdooley.com/tightwad-spendthrift-scott-rick/, 2026-11-01 접속
+[^7]: [SNS] "물건 하나를 살 때도 오랜 시간 고민하다 구매를 포기하거나, 중고 거래 플랫폼에서 누군가 사용하던 물건을 찾고 나서야 안심합니다." — 클리앙 게시글, 2026-02-22, https://www.clien.net/service/board/park/19148358, 2026-10-24 접속
