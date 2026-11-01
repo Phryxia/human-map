@@ -14267,21 +14267,21 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31431103&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://case.edu/news/new-study-giving-car-keys-could-lead-social-isolation-older-adults": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://bravo.etoday.co.kr/view/atc_view/18631": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.refinery29.com/en-gb/late-replies-whatsapp-excuses": {
     "first": "2026-10-30",
@@ -16010,6 +16010,12 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.seattleweekly.com/?p=79976": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26780879&rettype=abstract&retmode=text": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
