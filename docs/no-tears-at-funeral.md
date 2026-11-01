@@ -16,9 +16,13 @@
 
 2010년 암 환자 가족 포럼 게시글[^5]의 글쓴이는 아버지가 죽은 지 일주일이 지났는데 무언가가 울음을 막는 것 같다고 적는다. 글쓴이는 자기 태도를 사람들이 아버지에 대한 무례로 여길까 걱정한다.[^5]
 
-2013년 연구[^6]에서 친구를 잃은 한 젊은 남성은 배 속에서 끔찍한 무언가가 느껴지는데 그것이 눈물샘으로 이어지지 않는다고 말했다. 그는 남자들이 그런 식이라고 덧붙였다.[^6] 2014년 연구[^7]에서 아기를 잃은 청소년 참여자 일부는 남들이 울기를 기대하는 줄 알면서도 충격이 커서 울지 못했다고 말했다.
+2011년 3월 Straight Dope 게시판 댓글[^6]의 글쓴이는 장례식에서 대체로 울지 않고 나중에 혼자 있을 때나 아내와 둘이 있을 때 자주 운다고 적는다.
 
-2020년 칼럼[^8]의 필자는 어머니 장례식에서 친척과 마을 어른들이 좋은 곳에 가셨으니 울지 말라고 위로해서 장례식 동안 제대로 울지 못했다고 적는다.
+2013년 연구[^7]에서 친구를 잃은 한 젊은 남성은 배 속에서 끔찍한 무언가가 느껴지는데 그것이 눈물샘으로 이어지지 않는다고 말했다. 그는 남자들이 그런 식이라고 덧붙였다.[^7] 2014년 연구[^8]에서 아기를 잃은 청소년 참여자 일부는 남들이 울기를 기대하는 줄 알면서도 충격이 커서 울지 못했다고 말했다.
+
+2019년 브런치 에세이[^9]의 필자는 암 같은 병으로 죽으면 갑작스러운 일이 아니어서 장례식장에서 대성통곡하는 일이 별로 없다고 적는다.
+
+2020년 칼럼[^10]의 필자는 어머니 장례식에서 친척과 마을 어른들이 좋은 곳에 가셨으니 울지 말라고 위로해서 장례식 동안 제대로 울지 못했다고 적는다.
 
 # 관계
 
@@ -49,6 +53,8 @@
 [^3]: [매체] "그러나 어느 틈에 동화된 것일까. 나 역시 눈물 한 방울 나오지 않았다. 그곳 분위기가 나에게 그렇게 해주기를 강요했고 나는 그것을 지켰던 것이다." — "주말에세이-흐르는 것이 강물 뿐이랴", 매일신문, 2000-09-30, https://www.imaeil.com/page/view/2000093014581009920, 2026-10-30 접속
 [^4]: [SNS] "I can sense people wondering why I'm not breaking down when I broke down constantly at the mere mention of care homes a few months ago." (몇 달 전에는 요양원 이야기만 나와도 줄곧 무너졌는데 왜 지금은 무너지지 않는지 사람들이 의아해하는 것이 느껴진다.) — TalkingPoint 게시글, 2008-04-13, https://forum.alzheimers.org.uk/threads/why.10633/, 2026-10-30 접속
 [^5]: [SNS] "It feels as though something is stopping me from crying. I'm worried people think the way I'm behaving is disrespectful to my Dad." (무언가가 울음을 막는 것 같다. 내가 행동하는 방식을 사람들이 아빠에 대한 무례로 생각할까 걱정된다.) — Cancer Chat 게시글, 2010-04-30, https://cancerchat.cancerresearchuk.org/f/dying-with-cancer/54895/my-dad-died-a-week-ago-and-i-can-t-cry/379485, 2026-10-30 접속
-[^6]: [학술] "I can just feel something in my stomach that feels terrible and it just won’t connect with the tear glands and I think that’s just how guys are." (배 속에서 끔찍한 무언가가 느껴지는데 그게 눈물샘으로 이어지지 않는다. 남자들은 그런 식인 것 같다.) — Genevieve Creighton, John L. Oliffe, Shelly Butterwick, Elizabeth Saewyc, "After the death of a friend: Young Men's grief and masculine identities", Social Science & Medicine 84, 2013-05, https://pmc.ncbi.nlm.nih.gov/articles/PMC4760764/, 2026-10-30 접속
-[^7]: [학술] "Some participants described being in such a state of shock that they could not cry, even though they knew others expected them to cry." (일부 참여자는 남들이 자기가 울기를 기대한다는 것을 알면서도 충격이 너무 커서 울 수 없었다고 말했다.) — Kimberly Fenstermacher, "Enduring to Gain New Perspective: A Grounded Theory Study of the Experience of Perinatal Bereavement in Black Adolescents", Research in Nursing & Health 37, 2014-04, https://pmc.ncbi.nlm.nih.gov/articles/PMC4091616/, 2026-10-30 접속
-[^8]: [매체] "그때 친척들과 마을 어른들이 저에게 와서 위로하면서 “엄마가 좋은 곳에 가셨으니 울지 마라”고 하셨다. 그래서 나는 장례식을 하는 동안 제대로 울지 못했다." — 안해용, "[경기시론] 애통의 공동체성", 경기일보, 2020-02-03, https://kyeonggi.com/article/202002031112382, 2026-10-30 접속
+[^6]: [SNS] "I generally don’t cry at funerals, but very often do later in private, or with just my wife." (나는 대체로 장례식에서 울지 않지만 나중에 혼자 있을 때나 아내와 둘이 있을 때 자주 운다.) — Straight Dope 댓글, 2011-03-10, https://boards.straightdope.com/t/do-you-cry-at-funerals/574034?page=2, 2026-11-01 접속
+[^7]: [학술] "I can just feel something in my stomach that feels terrible and it just won’t connect with the tear glands and I think that’s just how guys are." (배 속에서 끔찍한 무언가가 느껴지는데 그게 눈물샘으로 이어지지 않는다. 남자들은 그런 식인 것 같다.) — Genevieve Creighton, John L. Oliffe, Shelly Butterwick, Elizabeth Saewyc, "After the death of a friend: Young Men's grief and masculine identities", Social Science & Medicine 84, 2013-05, https://pmc.ncbi.nlm.nih.gov/articles/PMC4760764/, 2026-10-30 접속
+[^8]: [학술] "Some participants described being in such a state of shock that they could not cry, even though they knew others expected them to cry." (일부 참여자는 남들이 자기가 울기를 기대한다는 것을 알면서도 충격이 너무 커서 울 수 없었다고 말했다.) — Kimberly Fenstermacher, "Enduring to Gain New Perspective: A Grounded Theory Study of the Experience of Perinatal Bereavement in Black Adolescents", Research in Nursing & Health 37, 2014-04, https://pmc.ncbi.nlm.nih.gov/articles/PMC4091616/, 2026-10-30 접속
+[^9]: [매체] "또한 암 같은 병으로 죽은 경우 갑작스러운 일이 아니기 때문에 대성통곡하는 일은 별로 없다." — 허윤숙, 「장례식장에서 눈에 띈 남자」, 브런치, 2019-10-01, https://brunch.co.kr/@pamella/180, 2026-11-01 접속
+[^10]: [매체] "그때 친척들과 마을 어른들이 저에게 와서 위로하면서 “엄마가 좋은 곳에 가셨으니 울지 마라”고 하셨다. 그래서 나는 장례식을 하는 동안 제대로 울지 못했다." — 안해용, "[경기시론] 애통의 공동체성", 경기일보, 2020-02-03, https://kyeonggi.com/article/202002031112382, 2026-10-30 접속
