@@ -16,7 +16,9 @@
 
 2019년 연구 초록[^6]의 저자들은 소비자가 사회적 초대를 거절할 때 시간이나 돈이 모자란다는 것을 핑계로 대는 경우가 많다고 쓴다. 2019년 8월 기사[^7]가 전한 설문에서 미국인 47%가 약속에서 빠지려고 핑계를 꾸며 낸 적이 있었다.
 
-2023년 인터뷰[^8]에서 초대 거절을 연구한 연구자는 사람들이 다른 약속이 있거나 돈이 없어서가 아니라 그저 가기 싫어서 모임을 거절하기도 한다고 말했다.
+2023년 인터뷰[^9]에서 초대 거절을 연구한 연구자는 사람들이 다른 약속이 있거나 돈이 없어서가 아니라 그저 가기 싫어서 모임을 거절하기도 한다고 말했다.
+
+2024년 9월 기사[^10]가 전한 설문에서 응답자 62%가 저녁 회식에 참석하기 싫어 거짓말로 핑계를 대고 빠진 적이 있다고 답했다.
 
 # 관계
 
@@ -30,7 +32,8 @@
 
 ## 원인
 
-없음.
+- [약속 취소 충동](urge-to-cancel-plans.md)[^8]
+- [회식 참석 부담](company-dinner-pressure.md)[^10]
 
 ## 결과
 
@@ -49,4 +52,6 @@
 [^5]: [학술] "participants were asked to report their true reasons for engaging in social exclusion and to report which reasons they would actually provide the target" (참가자들에게 사회적 배제를 한 진짜 이유와 상대에게 실제로 댈 이유를 각각 보고하게 했다) — Gili Freedman, Kipling D. Williams, Jennifer S. Beer, 「Softening the Blow of Social Exclusion: The Responsive Theory of Social Exclusion」, Frontiers in Psychology 7, 2016-10-10, https://pmc.ncbi.nlm.nih.gov/articles/PMC5056179/, 2026-10-30 접속
 [^6]: [학술] "Therefore, consumers often choose to cite insufficient time or money as an excuse for rejecting social invitations." (그래서 소비자들은 사회적 초대를 거절할 때 시간이나 돈이 모자란다는 것을 핑계로 대는 경우가 많다.) — Ashley Whillans, Michael Norton, 「Communicating Resource Scarcity」, Harvard Kennedy School M-RCBG, 2019, https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/communicating-resource-scarcity, 2026-10-30 접속
 [^7]: [매체] "A new Sling TV survey finds that 47% of Americans have faked an excuse to get out of plans" (Sling TV 의 새 설문에서 미국인 47%가 약속에서 빠지려고 핑계를 꾸며 낸 적이 있었다) — 「The Majority of You Have Faked an Excuse to Get out of Plans」, Shenandoah Country Q102, 2019-08-23, https://shenandoahcountryq102.iheart.com/content/2019-08-23-the-majority-of-you-have-faked-an-excuse-to-get-out-of-plans, 2026-10-30 접속
-[^8]: [매체] "we're declining events not necessarily because we have, like, another commitment or we can't afford to go or whatever, but really we just don't want to go to it, right?" (우리가 모임을 거절하는 건 꼭 다른 약속이 있거나 갈 형편이 안 돼서가 아니라 사실은 그냥 가기 싫어서인 거죠.) — 「Why declining social invites is OK」, NPR, 2023-12-17, https://www.npr.org/transcripts/1219901418, 2026-10-30 접속
+[^8]: [매체] "Apparently making plans is a good thing until the planned day arrives...then making excuses takes over..." (약속을 잡는 건 좋은 일인 모양이다. 약속한 날이 오기 전까지는. 그다음엔 핑계 대기가 시작된다.) — Joe Chille, 「Have You Faked An Excuse To Get Out Of Plans?」, The New 96.1, 2019-08-26, https://thenew961.com/have-you-faked-an-excuse-to-get-out-of-plans/, 2026-11-01 접속
+[^9]: [매체] "we're declining events not necessarily because we have, like, another commitment or we can't afford to go or whatever, but really we just don't want to go to it, right?" (우리가 모임을 거절하는 건 꼭 다른 약속이 있거나 갈 형편이 안 돼서가 아니라 사실은 그냥 가기 싫어서인 거죠.) — 「Why declining social invites is OK」, NPR, 2023-12-17, https://www.npr.org/transcripts/1219901418, 2026-10-30 접속
+[^10]: [매체] "이번 설문조사 결과에 따르면 저녁 회식에 참석하기 싫어 거짓말로 핑계를 대고 빠진 경험이 있다는 응답자가 62%(77명)나 됐다." — 김동희, 「[제약업계 소식] 9월 4일」, 의사신문, 2024-09-04, http://www.doctorstimes.com/news/articleView.html?idxno=228818, 2026-11-01 접속

@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-11-01T09:05Z | 2026-11-01T09:25Z | making-excuses-to-skip-plans 관계 | making-excuses-to-skip-plans company-dinner-pressure urge-to-cancel-plans
+없음.
