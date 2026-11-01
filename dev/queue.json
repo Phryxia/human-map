@@ -1,105 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T12:42:38.848Z",
-  "nextSeq": 3125,
-  "stops": 161,
+  "savedAt": "2026-11-01T15:40:24.683Z",
+  "nextSeq": 3153,
+  "stops": 162,
   "items": [
-    {
-      "id": "f776b8c6",
-      "title": "no-tears-at-funeral 보강: 관계, 무정하게 볼까 걱정하는 면의 2000년 이전 파편",
-      "priority": 50,
-      "note": "2026-10-30 Levy 1976 PMID 957295 멍함 78.3% 더함. 후보: Parkes 1975 PMID 1182377 initial period of numbness, Darwin 1872 Gutenberg 1227 6장 Englishmen rarely cry(문화 차이). relief-after-crying, crying-in-secret 관계 근거 미탐색",
-      "createdAt": "2026-10-30T21:30:29.595Z",
-      "seq": 2921
-    },
-    {
-      "id": "f6dca8c5",
-      "title": "relief-after-caregiving-death 보강: 관계",
-      "priority": 50,
-      "note": "2026-10-30 Bass & Bowman 1990 [^3] 나타나지 않는 조건 더함. 후보 Levy 1976 PMID 957295 사별 직후 emotional relief 15.2%(간병 여부 불명), Sons and Lovers Gutenberg 217 'perhaps a little relief'. no-tears-at-funeral, relief-after-crying 과 관계 근거 미탐색",
-      "createdAt": "2026-10-30T21:31:15.342Z",
-      "seq": 2922
-    },
-    {
-      "id": "d35c62c1",
-      "title": "own-face-in-photos 보강: 사진 찍히기 회피, disliking-recorded-own-voice 관계",
-      "priority": 50,
-      "note": "2026-10-30 Epley 2008 PMID 18550861 [^2] 더함. 남은 후보: Leacock Gutenberg 23449 사진을 받지 않고 나감, Straight Dope 522727 1쪽 2009-12-28 사진 찍히기 불편. 녹음된 자기 목소리와 공통 상위 근거 미탐색",
-      "createdAt": "2026-10-30T21:32:01.744Z",
-      "seq": 2923
-    },
-    {
-      "id": "a0568020",
-      "title": "anniversary-grief 보강: 한국어 파편, 제사·기일 문학",
-      "priority": 50,
-      "note": "2026-10-30 추가. 한국어 매체와 위키문헌 제삿날 대목 못 찾음(2026-10-30 재검색도 영어 결과뿐). Rostila 2015 는 이미 [^3]. 후보: Musaph 1990 전쟁 40여 년 뒤 추모일 반응, Tennyson LXX 폭풍 치는 기일과 XCVII 맑은 기일 대비, healthtalk.org 는 hexi.ox.ac.uk 로 옮겨 감(기일 몇 주 전이 더 힘듦 대목 미확인)",
-      "createdAt": "2026-10-30T21:32:47.975Z",
-      "seq": 2924
-    },
-    {
-      "id": "575f39e7",
-      "title": "avoiding-places-of-the-lost 보강: 문학, 한국어 매체 파편",
-      "priority": 50,
-      "note": "2026-10-30 추가. 문학 장면 못 찾음(Gutenberg 75편 정규식 무소득). Proust Gutenberg 7178 은 이미 5개 문서가 써서 못 씀. 2026-10-30 한국어 검색 무소득. 후보: 문화일보 11396741 (2023-11-21) 요양원 앞을 지날 때 눈시울(회피 아님), Straight Dope 193996 11번 댓글 이혼 뒤 옛 단골 피함",
-      "createdAt": "2026-10-30T21:33:14.525Z",
-      "seq": 2925
-    },
-    {
-      "id": "eba4aa89",
-      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편, 고인 번호로 문자 보내기",
-      "priority": 50,
-      "note": "2026-10-30 추가. Straight Dope 701242 는 이미 [^1] 이라 같은 출처 못 씀. 후보: Bassett 2019 Warwick 박사논문 Fear of Second Loss(초록 문장 202자), Walter 2015 PMC4606816. 2010년 이전 후보 미발견",
-      "createdAt": "2026-10-30T21:33:27.838Z",
-      "seq": 2926
-    },
-    {
-      "id": "3a36e8cc",
-      "title": "burning-farm-waste 보강: working-through-heat 관계",
-      "priority": 50,
-      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
-      "createdAt": "2026-10-30T21:33:34.577Z",
-      "seq": 2927
-    },
-    {
-      "id": "504dddb2",
-      "title": "not-preparing-for-disasters 보강: 원인 간선과 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-31 NZ Herald 2008 에 'belief of many Aucklanders that they would not face an emergency' 대목(unrealistic-optimism 원인 후보, 뒤에 공무원 실명). OHS 2009 의 구조대 기대 대목은 문서 없음. 한국 공공·SNS 파편 없음",
-      "createdAt": "2026-10-31T00:15:37.130Z",
-      "seq": 2935
-    },
-    {
-      "id": "1489de5b",
-      "title": "refusing-statistical-surveys 보강: SNS 파편과 관계",
-      "priority": 50,
-      "note": "2026-10-31 SNS 파편 없음. 사생활 걱정을 다룬 문서가 생기면 Census CED-WP-2025-002 가 원인 간선 근거 후보. 경향 2015 기사에 정부·사회 불만 33.2%",
-      "createdAt": "2026-10-31T00:19:20.889Z",
-      "seq": 2936
-    },
-    {
-      "id": "1f18689e",
-      "title": "disabled-parking-misuse 보강: SNS 파편과 brief-illegal-parking 관계",
-      "priority": 50,
-      "note": "2026-10-31 운전자 본인의 글(SNS) 없음. 서울신문 2015 의 '잠시만' 대목은 brief-illegal-parking 과 겹침, 상위 관계 검토. 예비: 뉴시스 NISX20241122_0002969681 (서울 표지 위반 과태료 984건), Cope·Allred 1991 PMC1279625",
-      "createdAt": "2026-10-31T00:24:07.243Z",
-      "seq": 2937
-    },
-    {
-      "id": "45488e64",
-      "title": "road-rage 보강: 관계 간선",
-      "priority": 50,
-      "note": "2026-10-31 후보: anger-suppression 대립, suppressed-anger-outburst. Lajunen·Parker 2001 PubMed 11204896 (분노와 공격 운전의 관계가 상황에 달림), 오토뷰 61528 댓글 '일상의 모든 스트레스' (스트레스 원인 후보), Alberta driver-aggression 페이지(발행일 미상)",
-      "createdAt": "2026-10-31T00:30:47.118Z",
-      "seq": 2938
-    },
-    {
-      "id": "f33a5984",
-      "title": "yellow-light-dilemma 보강: 한국 공공 파편과 관계",
-      "priority": 50,
-      "note": "2026-10-31 한국 공공 HTML 못 찾음. 예비: PubMed 25907375 (2016, 진입 차량 2.3% 황색), PubMed 4096798 (1985 점멸 녹색), 데일리안 1360838 (2024, 실명 변호사 발언이라 뺌). jaywalking, impatience-at-red-light 와 관계 검토",
-      "createdAt": "2026-10-31T00:33:49.952Z",
-      "seq": 2939
-    },
     {
       "id": "954bfb81",
       "title": "exiting-the-way-you-came 보강: 관계와 SNS 파편",
@@ -715,6 +619,110 @@
       "note": "2026-11-01 추가. 후보: 서울신문 2016 20160902008012 '단속이 없는 밤 시간대에는'(흡연자 말, behaving-better-when-watched 관계 후보), kgnews 908058 (2026-08-18) 경기도 적발 5168건, Korea JoongAng Daily 2005 단속이 사실상 없다. 흡연자 본인의 공개 게시글 미발견",
       "createdAt": "2026-11-01T12:40:59.888Z",
       "seq": 3124
+    },
+    {
+      "id": "69f45443",
+      "title": "no-tears-at-funeral 보강: 관계 근거",
+      "priority": 50,
+      "note": "2026-11-01 Straight Dope 574034 page=2 [^6] 와 pamella/180 [^9] 더함. crying-in-secret 과 원인 꼴 근거 없음(울지 않고 나중에 혼자 운다는 서술뿐). 후보: caregivers.com 432378 4년 간병 뒤 울지 않음(인과 암시), agingcare 434079 간병 중 애도, debbywaldman substack 2024-11-28 어머니 죽음 예상, brunch @daheum/2 2026 늦게 온 눈물",
+      "createdAt": "2026-11-01T15:09:59.432Z",
+      "seq": 3139
+    },
+    {
+      "id": "e9fcbd43",
+      "title": "relief-after-caregiving-death 보강: 관계",
+      "priority": 50,
+      "note": "2026-10-30 Bass & Bowman 1990 [^3] 나타나지 않는 조건 더함. 후보 Levy 1976 PMID 957295 사별 직후 emotional relief 15.2%(간병 여부 불명), Sons and Lovers Gutenberg 217 'perhaps a little relief'. 2026-11-01 no-tears-at-funeral 과 원인 근거 찾음: caregivers.com 432378 4년 간병 뒤 울지 않음은 인과 암시뿐",
+      "createdAt": "2026-11-01T15:10:16.211Z",
+      "seq": 3141
+    },
+    {
+      "id": "c3dff774",
+      "title": "own-face-in-photos 보강: disliking-recorded-own-voice 관계",
+      "priority": 50,
+      "note": "2026-11-01 avoiding-being-photographed 를 결과로 이음. 녹음된 자기 목소리와 공통 상위 근거 미탐색. Gizmodo 5929667 이 목소리도 다루는지 확인",
+      "createdAt": "2026-11-01T15:19:37.723Z",
+      "seq": 3142
+    },
+    {
+      "id": "ce343c6b",
+      "title": "avoiding-being-photographed 보강: 문학, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: Rupert Hughes In a Little Town Gutenberg 29561 Martha 가 카메라 앞에 선 적 없음(문장 240자), maily.so/soon2/posts/92ze1eynrep 2023 외모 콤플렉스로 사진 싫어함, CCI Module 6 PDF",
+      "createdAt": "2026-11-01T15:19:37.865Z",
+      "seq": 3143
+    },
+    {
+      "id": "f2244b98",
+      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-01 국민일보 0924117356 [^4] 더함. 남은 후보: 서울아산병원 정신건강칼럼 contentId=258306(발행일 미상, 기념일 반응 정의), 충청신문 dailycc 737711 (2023-03-20) 봄이면 어머니 모습 선명, Musaph 1990, Tennyson XCVII",
+      "createdAt": "2026-11-01T15:22:20.437Z",
+      "seq": 3144
+    },
+    {
+      "id": "ccebb13b",
+      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편(Persuasion, North and South, Bleak House 등) 무소득. 약한 후보: Wuthering Heights Gutenberg 768 Edgar 가 마을을 피함(이유가 Heathcliff 회피 포함)",
+      "createdAt": "2026-11-01T15:25:39.401Z",
+      "seq": 3145
+    },
+    {
+      "id": "e817c826",
+      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-01 서울신문 2016-12-14 [^2] 더함. 후보: gizmodo 5115670 (2008-12-22) 3년째 고인 요금 내고 음성메시지 남김(기사가 실명 인물 이야기), 다음 카페 tamha/SYKX/4617 휴대전화 수기 공모전 1등작(원 발행일 미상), lungevity 26110 (2007, 403)",
+      "createdAt": "2026-11-01T15:28:58.440Z",
+      "seq": 3146
+    },
+    {
+      "id": "9d20f27d",
+      "title": "burning-farm-waste 보강: working-through-heat 관계",
+      "priority": 50,
+      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
+      "createdAt": "2026-11-01T15:29:03.813Z",
+      "seq": 3147
+    },
+    {
+      "id": "a8947ebc",
+      "title": "not-preparing-for-disasters 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-11-01 원인 unrealistic-optimism 을 Brazos 팟캐스트 [^8] 로 이음. SNS 파편 없음. 후보: thebig.ca disaster-preparedness (2020-10-28) it won't happen to me mentality, Knowledge at Wharton ostriches-can-teach-us-risk (2017-02-07), Trumbo 2014 PMID 24286290",
+      "createdAt": "2026-11-01T15:32:21.433Z",
+      "seq": 3148
+    },
+    {
+      "id": "c2101372",
+      "title": "refusing-statistical-surveys 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-01 HN 45954551 [^8] 더함. 사생활 걱정 문서가 생기면 Census CED-WP-2025-002 와 [^8] 이 원인 간선 근거 후보. 다른 후보 HN 22435040 (2020-02-27) 조사원 방문 뒤에도 거절",
+      "createdAt": "2026-11-01T15:34:00.827Z",
+      "seq": 3149
+    },
+    {
+      "id": "7c8253ce",
+      "title": "disabled-parking-misuse 보강: brief-illegal-parking 관계",
+      "priority": 50,
+      "note": "2026-11-01 HN 15158887 [^6] 더함. HN 22233290 (2020-02-04) 장애인 당사자가 'it'll just be a minute' 핑계를 옮김(원문 202자 넘을 수 있음, 끝 ... 원글 부호), HN 21106915 (2019-09-29) 친척 표지 빌려 주차. 서울신문 2015 [^4] 잠시만 대목으로 brief-illegal-parking 상위 검토",
+      "createdAt": "2026-11-01T15:35:54.319Z",
+      "seq": 3150
+    },
+    {
+      "id": "91116781",
+      "title": "road-rage 보강: anger-suppression 대립, 학술 근거",
+      "priority": 50,
+      "note": "2026-11-01 원인 suppressed-anger-outburst 를 mediahub 858195 로 이음. 후보: shelburnefreepress.ca ask-a-psychotherapist-9 (2014-01-22) displaced anger 를 익명성 속에 운전 중 터뜨림",
+      "createdAt": "2026-11-01T15:38:14.413Z",
+      "seq": 3151
+    },
+    {
+      "id": "69fde0e3",
+      "title": "yellow-light-dilemma 보강: 한국 공공 파편과 관계",
+      "priority": 50,
+      "note": "2026-10-31 한국 공공 HTML 못 찾음. 2026-11-01 news.koroad.or.kr vol78 sub04, vol89 sub06 딜레마존 글은 이 환경에서 ENOTFOUND. KCI ART001145741 황색신호 딜레마 운전자 행동(학술). 예비: PubMed 25907375, PubMed 4096798. jaywalking, impatience-at-red-light 와 관계 검토",
+      "createdAt": "2026-11-01T15:40:17.438Z",
+      "seq": 3152
     },
     {
       "id": "d16898d2",
@@ -2483,6 +2491,14 @@
       "note": "2026-11-01 rushing-closing-doors 탐색 중. NBC New York 2009-09-05 Blocking-Subway-Doors-Makes-Us-Late--57564812 'think they're being kind by holding the door to let someone rush in'. rushing-closing-doors 와 원인/결과 관계 후보",
       "createdAt": "2026-11-01T12:13:02.488Z",
       "seq": 3118
+    },
+    {
+      "id": "9bc85317",
+      "title": "예기 애도",
+      "priority": 10,
+      "note": "2026-11-01 no-tears-at-funeral 탐색 중. agingcare 434079 caregivers grieving through the care giving process, caregivers.com 432378. no-tears-at-funeral 원인 후보",
+      "createdAt": "2026-11-01T15:09:59.588Z",
+      "seq": 3140
     },
     {
       "id": "02b2f242",
