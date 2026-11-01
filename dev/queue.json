@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T09:37:14.021Z",
-  "nextSeq": 3111,
-  "stops": 160,
+  "savedAt": "2026-11-01T12:42:38.848Z",
+  "nextSeq": 3125,
+  "stops": 161,
   "items": [
     {
       "id": "f776b8c6",
@@ -667,6 +667,54 @@
       "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 싫다고 인정하는 대신 재선물. 원인 간선 근거로는 약함. 2026-10-30 공통 상위(선물이 싫다고 말하지 않기) 후보. 후보 casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
       "createdAt": "2026-11-01T09:37:02.893Z",
       "seq": 3110
+    },
+    {
+      "id": "29cd231d",
+      "title": "rushing-closing-doors 보강: 한국 공공 파편, 학술 파편, 열차 문이 다시 열린다는 믿음",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: RAIB Ealing Broadway 2026-03-04 보도자료, koreascience JAKO201817659636887 (초록에 이유 없음), Railnews 2017 'train doors are like lift doors' 대목(같은 출처라 못 씀), DNV 2018 닫힘 경보를 타라는 신호로 받아들임, mediahub.seoul.go.kr 819416 (2014) 시민기자 글",
+      "createdAt": "2026-11-01T12:13:02.630Z",
+      "seq": 3119
+    },
+    {
+      "id": "ff09b8df",
+      "title": "skipping-follow-up-after-abnormal-screening 보강: SNS 파편, 결과를 몰라서와 미뤄서의 구분",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: PMC7168865 (2020) 후속 대장내시경 미수검자 26.4% 가 결과를 몰랐다, PMC8834256 (2022) head-in-the-sand 미루기(앞 절 포함하면 200자 넘음), cancer.gov 2022-05-05 대장내시경 준비 두려움. 공개 게시판 본인 글 미발견",
+      "createdAt": "2026-11-01T12:19:46.193Z",
+      "seq": 3120
+    },
+    {
+      "id": "733888a9",
+      "title": "swimming-after-drinking 보강: sensation-seeking 관계, 과시와 재미라는 이유",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: Leavy 2022 PLoS One 제목에 sensation-seeking 역할(초록에서 원인 문장 확인 필요), JTBC 2025-08-12 v.daum.net/v/20250812194651553 '언제 죽을지도 모른다는 압박감. 맥주도 한잔하고', RLSS UK about-dont-drink-and-drown 젊은 음주자 75% 괜찮다고 여김(발행일 미상), 경남신문 knnews 992668 (2011) 휴가지 일탈감",
+      "createdAt": "2026-11-01T12:23:57.616Z",
+      "seq": 3121
+    },
+    {
+      "id": "4d3a7f5a",
+      "title": "discarding-mail-without-shredding 보강: privacy-paradox 관계, 한국 공공 설문",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: Dynamic Business 2010-10-11 australians-risk-identity-theft-nidfaw-2074 '85 percent of Australians are concerned about identity fraud but continually put themselves at enormous risk'(걱정과 행동의 엇갈림, privacy-paradox 상위 후보), Irish Times 2008-10-07 82%, 인사이트 80934 (2018), pipc.go.kr nttId=9203 (2023) 권고뿐",
+      "createdAt": "2026-11-01T12:32:11.571Z",
+      "seq": 3122
+    },
+    {
+      "id": "7818973f",
+      "title": "ignoring-air-quality-alerts 보강: 공공 파편, 자기보고와 실제 행동의 어긋남",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: EPA NCER abstract_id 2385 report/F 'There is no reduction in hours outdoors on Code Red days.'(발행일 미상이라 순서 검사에 걸려 뺌, 과제 기간 2002-2005), 같은 페이지 약 2/3 가 높은 오존 날 아이를 실내에 뒀다고 자기보고. StatCan 11-526-x/2009001/t005 경보를 안 가구 45% 행동 변화 없음(표)",
+      "createdAt": "2026-11-01T12:35:58.149Z",
+      "seq": 3123
+    },
+    {
+      "id": "06878529",
+      "title": "smoking-in-no-smoking-areas 보강: SNS 파편, 단속이 없을 때만 나타나는 조건",
+      "priority": 50,
+      "note": "2026-11-01 추가. 후보: 서울신문 2016 20160902008012 '단속이 없는 밤 시간대에는'(흡연자 말, behaving-better-when-watched 관계 후보), kgnews 908058 (2026-08-18) 경기도 적발 5168건, Korea JoongAng Daily 2005 단속이 사실상 없다. 흡연자 본인의 공개 게시글 미발견",
+      "createdAt": "2026-11-01T12:40:59.888Z",
+      "seq": 3124
     },
     {
       "id": "d16898d2",
@@ -1515,14 +1563,6 @@
       "note": "2026-10-21 leaving-mail-unopened 의 원인 후보(onefamily 2025 '5 million young adults avoid checking bills due to money anxiety'). moneyadvicetrust 2024 'unable to cope due to money worries'",
       "createdAt": "2026-10-21T08:55:31.184Z",
       "seq": 784
-    },
-    {
-      "id": "db277f2d",
-      "title": "건강검진 유소견 후 재검 미루기",
-      "priority": 10,
-      "note": "koreascience.or.kr/article/JAKO200331462790769.page?lang=ko (권복순 외 2003) '추후의료기관을 이용하지 않은 이유는 가벼운 질환인 것 같아서가 32.4%로 가장 높았으며' (Mozilla UA 로만 열림). medical-care-avoidance 하위 후보. 공공 HTML 출처 미발견",
-      "createdAt": "2026-10-21T10:49:48.691Z",
-      "seq": 821
     },
     {
       "id": "6f8ed8bb",
@@ -2435,6 +2475,14 @@
       "note": "2026-11-01 Naitoh 1993 PMID 8500187 초록: 체온 최저점에 깨는 과정이 괴로워 'sleep (nap) aversion' 이 생김. daytime-napping 결과 후보. brunch @zero500/86 낮잠 두통도 후보",
       "createdAt": "2026-11-01T09:27:41.481Z",
       "seq": 3105
+    },
+    {
+      "id": "6c957349",
+      "title": "뛰어드는 사람을 위해 지하철 문 잡아 주기",
+      "priority": 10,
+      "note": "2026-11-01 rushing-closing-doors 탐색 중. NBC New York 2009-09-05 Blocking-Subway-Doors-Makes-Us-Late--57564812 'think they're being kind by holding the door to let someone rush in'. rushing-closing-doors 와 원인/결과 관계 후보",
+      "createdAt": "2026-11-01T12:13:02.488Z",
+      "seq": 3118
     },
     {
       "id": "02b2f242",
