@@ -14159,27 +14159,27 @@
   },
   "https://m.korea.kr/briefing/policyBriefingView.do?endDate=&gubun=&newsId=148678725&pageIndex=&srchType=&srchWord=&startDate=": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://news.seoul.go.kr/traffic/archives/12495": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://m.korea.kr/briefing/policyBriefingView.do?endDate=&gubun=&newsId=148794612&pageIndex=&srchType=&srchWord=&startDate=": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.wikitree.co.kr/articles/1155567": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3397372/": {
     "first": "2026-10-30",
@@ -14357,9 +14357,9 @@
   },
   "https://news.ycombinator.com/item?id=2222503": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://news.ycombinator.com/item?id=39251899": {
     "first": "2026-10-30",
@@ -16099,6 +16099,18 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.sateconomy.co.kr/news/view/179589694164524": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.jstage.jst.go.jp/article/journalcpij/52/3/52_263/_article/-char/ja/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.jstage.jst.go.jp/article/jste/7/2/7_A_54/_article/-char/ja/": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
