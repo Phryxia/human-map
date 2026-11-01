@@ -14920,33 +14920,33 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/20160951/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
-    "result": "VERIFIED",
+    "last": "2026-11-01",
+    "result": "NOT_FOUND",
     "lastVerified": "2026-10-31"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7763066/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://seasidemagazine.ca/the-golden-years-seniors-perception-of-mobility-aids-can-compromise-personal-safety/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.agingcare.com/questions/amp/479579": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.youthassembly.kr/news/970124": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://pubmed.ncbi.nlm.nih.gov/25907375/": {
     "first": "2026-10-31",
@@ -14955,9 +14955,9 @@
   },
   "https://www.npr.org/2026/01/06/nx-s1-5640140/people-want-to-look-good-researcher-hopes-redesigned-walker-will-remove-stigma": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.newsis.com/view/NISX20241122_0002969681": {
     "first": "2026-10-31",
@@ -16728,6 +16728,12 @@
     "lastVerified": "2026-11-01"
   },
   "https://boards.straightdope.com/t/how-effective-are-fire-drills/1027346/59": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.darlington.gov.uk/adult-social-care/i-need-support/ageing-well/falls-prevention-guide/": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
