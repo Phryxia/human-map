@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T00:40:14.800Z",
-  "nextSeq": 3046,
-  "stops": 157,
+  "savedAt": "2026-11-01T03:37:37.270Z",
+  "nextSeq": 3071,
+  "stops": 158,
   "items": [
-    {
-      "id": "ea5e33b8",
-      "title": "empty-invitations 보강: 공공 파편, ritual-refusal 관계",
-      "priority": 50,
-      "note": "2026-10-30 지식iN 406875913 (2021-12) 한국어 SNS 더함. 같은 글이 61303/406875759 로도 올라 있음. 공공 파편과 ritual-refusal 관계 근거 남음",
-      "createdAt": "2026-10-30T09:37:09.382Z",
-      "seq": 2824
-    },
-    {
-      "id": "66a4343f",
-      "title": "consulting-fortune-tellers 보강: 불안 원인 간선, 2000년대 이전 비문학",
-      "priority": 50,
-      "note": "2026-10-29 네이트판 2008·2022 더함. 2026-10-30 [^6] 영남일보 '사회·경제적 불확실성에 대한 고민이 많아지면서 ... 운세 소비가 잦아지고' 는 원인 근거가 되나 맞는 문서 없음(awaiting-uncertain-news 는 특정 소식 기다림). '앞날에 대한 불안' 문서 신설 후보. 후보: pann 343860644 (2018-10-17)",
-      "createdAt": "2026-10-30T09:37:34.182Z",
-      "seq": 2825
-    },
-    {
-      "id": "d0f4dbca",
-      "title": "watching-until-out-of-sight 보강: lingering-goodbye 관계 근거",
-      "priority": 50,
-      "note": "2026-10-29 酒井 2024 더함. 2026-10-30 원인 관계보다 공통 상위(이별을 아쉬워하기, 名残惜しさ) 신설이 맞음. 酒井 2024 [^9] 가 お見送り를 名残惜しさ 연출로 봄. last-look-at-empty-house 도 하위 후보",
-      "createdAt": "2026-10-30T09:37:51.072Z",
-      "seq": 2827
-    },
-    {
-      "id": "5e96f5db",
-      "title": "health-anxiety 보강: 안심 구하기 하위 현상",
-      "priority": 50,
-      "note": "2026-10-29 몰리에르 1673 더함. 2026-10-30 하위 후보 '여러 병원 전전하기' 를 큐에 넣음. 후보: koreascience JAKO202332157265001 전요섭 2023, kormedi 1282872 2019",
-      "createdAt": "2026-10-30T09:38:22.455Z",
-      "seq": 2830
-    },
-    {
-      "id": "1e730502",
-      "title": "self-serving-justification 보강: 한국어 파편, 하위 현상",
-      "priority": 50,
-      "note": "2026-10-29 후보: psychologytoday 202008 six-common-ways-people-justify-unethical-behavior, Larson Capra 2009 moral wiggle room. 2026-10-30 지식iN '자기합리화' 글들(495572645 등)은 나쁜 결과 뒤 핑계 대기라 별개 현상",
-      "createdAt": "2026-10-30T09:39:13.072Z",
-      "seq": 2831
-    },
-    {
-      "id": "7d63d665",
-      "title": "saving-seats-with-belongings 보강: 확인되는 공공 파편",
-      "priority": 50,
-      "note": "2026-10-30 영종국제도서관 이용규칙 [^1] 은 curl 로는 열리나 node fetch, https.get 모두 프록시에서 ECONNRESET 라 미확인. 대체 후보 rainbowlib.go.kr 이용예절(이번 회차 본문에서 문구 못 찾음), elis.go.kr 시립도서관 운영 규칙 열람실 조항. 2026 Frontiers Li 외 'shift from opposing seat occupation to participating in it' 는 같은 출처라 못 씀",
-      "createdAt": "2026-10-30T12:17:12.123Z",
-      "seq": 2840
-    },
-    {
-      "id": "b517ac1e",
-      "title": "talking-to-animals 보강: talking-to-oneself 관계",
-      "priority": 50,
-      "note": "2026-10-30 INRAE [^13] 가 공공 파편이라 공공 보강은 끝남. 혼잣말과 상위·원인으로 잇는 원문 다시 못 찾음. Bustle 2017-04-05 'sign of intelligence, as is talking to yourself' 는 나란히 놓았을 뿐 간선 근거 아님",
-      "createdAt": "2026-10-30T15:10:24.275Z",
-      "seq": 2870
-    },
-    {
-      "id": "c0c545e4",
-      "title": "wishcycling 보강: not-sorting-recyclables 관계",
-      "priority": 50,
-      "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음",
-      "createdAt": "2026-10-30T15:14:23.276Z",
-      "seq": 2871
-    },
-    {
-      "id": "7177db56",
-      "title": "reading-the-ending-first 보강: 장편 연재 결말 미리 보기 결과",
-      "priority": 50,
-      "note": "2026-10-30 Ellithorpe, Brookes 2018 PPMC 7(3) doi 10.1037/ppm0000134 초록 원문 못 찾음(검색 결과는 인용 목록뿐). inverse.com 57735 (2019-07-25) 는 스포일러 언급 없음",
-      "createdAt": "2026-10-30T15:14:47.333Z",
-      "seq": 2872
-    },
-    {
-      "id": "fa462a66",
-      "title": "underestimating-compliance 보강: help-seeking-avoidance 원인 간선, 비영어 파편",
-      "priority": 50,
-      "note": "2026-10-30 Flynn·Lake 2008, Bohns 2016, NPR 2020 로 추가. 과소평가 때문에 도움을 청하지 않는다는 인과 원문 아직 없음. 후보 ecommons 9c0adbfb (Flynn·Bohns 2008 초록), scienceblog.com 14,000 strangers 글",
-      "createdAt": "2026-10-30T15:16:07.761Z",
-      "seq": 2873
-    },
-    {
-      "id": "90bc424e",
-      "title": "leaving-messages-on-read 보강: waiting-for-a-reply·delaying-message-replies 관계, SNS 파편",
-      "priority": 50,
-      "note": "2026-10-30 fnnews 2011, Akyüz 2026, 주간경향 2026 로 추가. 후보 Kato 외 2020 IJTHI 16(1) econpapers RePEc:igg:jthi00:v:16:y:2020:i:1:p:36-53 '읽음 상태 메시지의 답을 기다릴 때 부정 감정이 더 빨리 생김'(waiting-for-a-reply 결과 근거 후보), Chou 외 CHI 2022 받는 쪽 이유 8유형",
-      "createdAt": "2026-10-30T15:21:52.897Z",
-      "seq": 2875
-    },
-    {
-      "id": "a1fd94d6",
-      "title": "isolation-after-driving-cessation 보강: delaying-driving-cessation 관계, 우울 파편",
-      "priority": 50,
-      "note": "2026-10-30 Qin 외 2019, CWRU 2019, 브라보마이라이프 2026 로 추가. 후보 Chihuri 외 2016 JAGS PMID 26780879 'driving cessation almost doubled the risk of depressive symptoms', 고립이 두려워 운전을 그만두지 못한다는 원문은 아직 없음",
-      "createdAt": "2026-10-30T15:23:56.036Z",
-      "seq": 2876
-    },
-    {
-      "id": "fdb989f1",
-      "title": "answering-unknown-calls-silently 보강: 학술·공공 파편, 보이스피싱 경계 원인",
-      "priority": 50,
-      "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 위키트리는 스팸·보이스피싱 경계심을 원인으로 듦(phishing 관련 문서 생기면 원인 간선 후보). not-answering-unknown-numbers 와 관계 근거 없음",
-      "createdAt": "2026-10-30T15:26:48.474Z",
-      "seq": 2877
-    },
     {
       "id": "dbdc06ee",
       "title": "leisure-sickness 보강: 한국어·SNS 파편, 업무 부담 조건",
@@ -117,28 +13,12 @@
       "seq": 2878
     },
     {
-      "id": "cfa3bfb4",
-      "title": "dreams-of-the-deceased 보강: 2000년 이전 학술",
-      "priority": 50,
-      "note": "2026-10-30 PubMed 1950~2000 'dreams of the dead', bereavement dreams 검색 무소득. Parkes 1970 Psychiatry 33(4) PMID 5275840 은 초록 없음. Barrett 1992 Omega 'Through a glass darkly' 원문 접근 경로 찾을 것",
-      "createdAt": "2026-10-30T15:30:48.141Z",
-      "seq": 2880
-    },
-    {
       "id": "9c45ec0d",
       "title": "not-drinking-tap-water 보강: 수질 사고 뒤 불신 매체 파편",
       "priority": 50,
       "note": "2026-10-30 HN 44212724 (2025-06-07) SNS 더함. 남은 후보 mediahub 2001025 (2021-03-24 녹물·유충 뉴스 뒤 불신), 2010 서울신문 아리수 조사 20100129026016",
       "createdAt": "2026-10-30T15:31:33.250Z",
       "seq": 2881
-    },
-    {
-      "id": "20a73f7c",
-      "title": "tossing-cigarette-butts 보강: 매체 파편",
-      "priority": 50,
-      "note": "2026-10-30 HN 18832120 (2019-01-05) SNS 더함. 같은 댓글에 재떨이 달린 쓰레기통이 늘자 꽁초가 크게 줄었다는 조건(한 출처 한 파편). keepbritaintidy.org/cigarette-butts-are-rubbish 후보",
-      "createdAt": "2026-10-30T15:33:00.616Z",
-      "seq": 2882
     },
     {
       "id": "94a765e3",
@@ -765,6 +645,78 @@
       "seq": 3045
     },
     {
+      "id": "83959213",
+      "title": "empty-invitations 보강: ritual-refusal 관계",
+      "priority": 50,
+      "note": "2026-11-01 국립국어원 소식지 2006 공공 파편 더함. ritual-refusal 과 묶는 원문 못 찾음. 후보: 문금현 2009 「한국어 빈말 인사 표현의 사용 양상과 특징」, 국립국어원 『남에서는 이런 말』 2018 PDF 화법 절",
+      "createdAt": "2026-11-01T03:10:11.134Z",
+      "seq": 3060
+    },
+    {
+      "id": "15dcff03",
+      "title": "consulting-fortune-tellers 보강: 불안 원인 간선",
+      "priority": 50,
+      "note": "2026-11-01 서울신문 1994 매체 파편 더함(호기심·기대가 까닭). 불안 원인 간선은 '앞날에 대한 불안' 문서 신설 필요. 후보: koreascience JAKO199934718166285 심형화 1999 'anxiety relieving cultural system', [^7] 영남일보",
+      "createdAt": "2026-11-01T03:13:57.356Z",
+      "seq": 3061
+    },
+    {
+      "id": "e3fe2834",
+      "title": "reluctant-parting 보강: SNS·공공 파편, last-look-at-empty-house 하위 검토",
+      "priority": 50,
+      "note": "2026-11-01 신설(Shakespeare 1597, 酒井 2024). 후보: 山口 2025 地理科学 '別れを惜しんでいた'(PDF 미확인). 이삿날 빈집 둘러보기가 하위인지 근거 찾기",
+      "createdAt": "2026-11-01T03:14:49.322Z",
+      "seq": 3062
+    },
+    {
+      "id": "49e0bf7c",
+      "title": "health-anxiety 보강: 안심 구하기(인터넷 검색, 확인 질문) 하위",
+      "priority": 50,
+      "note": "2026-11-01 doctor-shopping 하위로 더함. 남은 하위 후보: 반복 안심 구하기. 후보: kormedi 1282872 2019, Bailer 2013 kops.uni-konstanz.de 45672 'doctor shopping, a typical behavioral consequence of hypochondriasis' (결과 간선 근거 가능)",
+      "createdAt": "2026-11-01T03:17:34.997Z",
+      "seq": 3063
+    },
+    {
+      "id": "2a2e4b43",
+      "title": "self-serving-justification 보강: 하위 현상(회사 비품 가져가기)",
+      "priority": 50,
+      "note": "2026-11-01 fnnews 2022-06-24 소확횡 설문 더함. 하위 후보 '회사 비품 가져가기'(소확횡): v.daum.net/v/20240815120107860 한경 2024 '부족한 회사의 복지에 대한 귀여운 복수', m.seoul.co.kr 20041030008003 부정승차 '고작 몇백원인데 뭘'",
+      "createdAt": "2026-11-01T03:21:01.196Z",
+      "seq": 3064
+    },
+    {
+      "id": "ff739593",
+      "title": "underestimating-compliance 보강: help-seeking-avoidance 원인 간선, 비영어 파편",
+      "priority": 50,
+      "note": "2026-10-30 Flynn·Lake 2008, Bohns 2016, NPR 2020 로 추가. 2026-11-01 인과 원문 또 못 찾음. 근접: ecommons 50f30acd Newark·Bohns·Flynn 2016 'Whether people seek help depends on their estimations of both the likelihood and the value', PubMed 36067802 Zhao·Epley 2022(응할 가능성이 아니라 상대 기분 과소평가 → 요청 꺼림; 별개 현상 '도움 부탁받은 사람의 기쁨 과소평가' 후보)",
+      "createdAt": "2026-11-01T03:33:48.182Z",
+      "seq": 3067
+    },
+    {
+      "id": "b8752737",
+      "title": "leaving-messages-on-read 보강: waiting-for-a-reply·delaying-message-replies 관계, SNS 파편",
+      "priority": 50,
+      "note": "2026-10-30 fnnews 2011, Akyüz 2026, 주간경향 2026 로 추가. 2026-11-01 Kato 외 2020 초록은 읽음/안읽음 비교 연관일 뿐 인과 문장 없음, 이미 waiting-for-a-reply [^5] 로 쓰임. Chou 외 CHI 2022 받는 쪽 이유 8유형 남음",
+      "createdAt": "2026-11-01T03:35:30.117Z",
+      "seq": 3068
+    },
+    {
+      "id": "95c47230",
+      "title": "isolation-after-driving-cessation 보강: delaying-driving-cessation 관계",
+      "priority": 50,
+      "note": "2026-11-01 Chihuri 2016 메타분석 우울 증상 더함. 고립이 두려워 운전을 그만두지 못한다는 원문은 아직 없음",
+      "createdAt": "2026-11-01T03:36:06.853Z",
+      "seq": 3069
+    },
+    {
+      "id": "fc28a688",
+      "title": "answering-unknown-calls-silently 보강: 학술·공공 파편, 보이스피싱 경계 원인",
+      "priority": 50,
+      "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 2026-11-01 blogs.clemson.edu/ccit 2023-04-26 'always let the other person speak first' 는 권고뿐. FCC 403. 실제 행동을 잰 학술 못 찾음",
+      "createdAt": "2026-11-01T03:37:24.020Z",
+      "seq": 3070
+    },
+    {
       "id": "d16898d2",
       "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
       "priority": 40,
@@ -787,6 +739,22 @@
       "note": "2026-10-30 재탐색. 영어 'ashamed of being poor' + 'pretend to be rich' 검색은 반대 방향(부자가 가난한 척) 글뿐. Benzinga 2025-10 r/confession 보도 'faking a rich lifestyle just to fit in' 은 동기가 어울림이지 가난 수치 아님. 브런치 @yoonss-writer/1313, 경기일보 20260106580455 이전 후보",
       "createdAt": "2026-10-30T15:17:16.020Z",
       "seq": 2874
+    },
+    {
+      "id": "ef71cb91",
+      "title": "wishcycling 보강: not-sorting-recyclables 관계",
+      "priority": 40,
+      "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음. 2026-11-01 이미 1992 Seattle Times [^1] 있음. 두 현상을 한 사람 안에서 맞세우는 원문 필요",
+      "createdAt": "2026-11-01T03:26:36.591Z",
+      "seq": 3065
+    },
+    {
+      "id": "05aa9f59",
+      "title": "reading-the-ending-first 보강: 장편 연재 결말 미리 보기 결과",
+      "priority": 40,
+      "note": "2026-10-30 Ellithorpe, Brookes 2018 PPMC 7(3) doi 10.1037/ppm0000134 초록 원문 못 찾음(검색 결과는 인용 목록뿐). inverse.com 57735 (2019-07-25) 는 스포일러 언급 없음",
+      "createdAt": "2026-11-01T03:29:39.584Z",
+      "seq": 3066
     },
     {
       "id": "e8ba47a7",
@@ -2419,22 +2387,6 @@
       "note": "2026-10-30 consulting-fortune-tellers [^6] 영남일보 2026-03-01 이 사회·경제적 불확실성 고민 때문에 운세를 본다고 함. 신설하면 consulting-fortune-tellers 원인 간선",
       "createdAt": "2026-10-30T09:37:34.359Z",
       "seq": 2826
-    },
-    {
-      "id": "bc6803ab",
-      "title": "이별 아쉬워하기",
-      "priority": 10,
-      "note": "2026-10-30 watching-until-out-of-sight, lingering-goodbye, last-look-at-empty-house 의 공통 상위 후보. 別れを惜しむ, 名残惜しい 출처 찾을 것",
-      "createdAt": "2026-10-30T09:37:51.233Z",
-      "seq": 2828
-    },
-    {
-      "id": "2b55c966",
-      "title": "여러 병원 전전하기",
-      "priority": 10,
-      "note": "2026-10-30 health-anxiety 하위 후보(안심 구하기). 서울신문 20240319021002 (2024-03-19, 이현정) '‘이상이 없다’고 진단받아도 걱정과 불안으로 병원을 전전하는데' 등. 학술 파편 필요(PubMed doctor shopping AND health anxiety 검색은 무관한 결과)",
-      "createdAt": "2026-10-30T09:38:22.326Z",
-      "seq": 2829
     },
     {
       "id": "3bac0b19",
