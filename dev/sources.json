@@ -7424,9 +7424,9 @@
   },
   "https://www.ncl.ac.uk/press/articles/archive/2015/12/eyeslittering/": {
     "first": "2026-10-22",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.gutenberg.org/cache/epub/1532/pg1532-images.html": {
     "first": "2026-10-22",
@@ -14656,9 +14656,9 @@
   },
   "https://kormedi.com/1610925/": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://vrbib.rutgers.edu/full-record?entry=5410": {
     "first": "2026-10-30",
@@ -16290,6 +16290,12 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.psychologytoday.com/us/blog/morbid-minds/202102/what-is-morbid-curiosity": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/30007076/": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
