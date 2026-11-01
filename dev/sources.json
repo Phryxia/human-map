@@ -14309,21 +14309,21 @@
   },
   "https://archive.org/stream/furthercontribut017926mbp/furthercontribut017926mbp_djvu.txt": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12411765&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://patient.info/news-and-features/why-you-always-seem-to-get-sick-on-holiday": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://m.seoul.co.kr/news/2014/03/31/20140331025003": {
     "first": "2026-10-30",
@@ -16069,6 +16069,24 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.korea.kr/special/policyFocusView.do?newsId=148649134&pkgId=49500049": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://kormedi.com/1217639/": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://news.ycombinator.com/item?id=29644949": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.newsis.com/view/NISX20260728_0003727118": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
