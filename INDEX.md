@@ -35,6 +35,7 @@
 - [계단 대신 에스컬레이터와 엘리베이터 타기](docs/taking-escalator-over-stairs.md) ([건강과 위험](groups/health-and-safety.md))
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [고부 갈등](docs/mother-in-law-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [고용 불안](docs/job-insecurity.md) ([일터와 일자리](groups/work.md))
 - [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([돈과 소비](groups/money.md))
 - [고인의 전화번호 지우지 못하기](docs/keeping-deceaseds-phone-number.md) ([돈과 소비](groups/money.md))
