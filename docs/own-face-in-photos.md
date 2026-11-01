@@ -14,9 +14,11 @@
 
 2012년 기사[^4]는 친구의 페이스북 앨범을 넘기다 자기 사진과 마주친 사람이 그 사진을 조금 덜 매력적인 자기 판본으로 본다고 적는다.
 
-2019년 논문[^5]이 소개한 1977년 연구에서 참가자들은 자기의 거울상 얼굴을 거울에 비치지 않은 사진보다 좋아했다. 같은 연구에서 참가자의 친구와 연인은 반대로 거울에 비치지 않은 사진을 좋아했다.[^5]
+2013년 에세이[^5]의 필자는 사진 속 자기를 보고 이게 정말 나냐고 생각한다고 쓴다.
 
-2025년 기사[^6]는 남이 찍어 준 사진 속 자기 얼굴에서 사람들이 못나 보임보다 낯섦을 느낀다고 적는다. 2026년 기사[^7]는 거울에서 괜찮아 보이던 얼굴이 남이 찍어 준 사진에서는 비뚤어지거나 코가 커 보이기도 한다고 적는다.
+2019년 논문[^6]이 소개한 1977년 연구에서 참가자들은 자기의 거울상 얼굴을 거울에 비치지 않은 사진보다 좋아했다. 같은 연구에서 참가자의 친구와 연인은 반대로 거울에 비치지 않은 사진을 좋아했다.[^6]
+
+2025년 기사[^7]는 남이 찍어 준 사진 속 자기 얼굴에서 사람들이 못나 보임보다 낯섦을 느낀다고 적는다. 2026년 기사[^8]는 거울에서 괜찮아 보이던 얼굴이 남이 찍어 준 사진에서는 비뚤어지거나 코가 커 보이기도 한다고 적는다.
 
 # 관계
 
@@ -34,7 +36,7 @@
 
 ## 결과
 
-없음.
+- [사진 찍히기 피하기](avoiding-being-photographed.md)[^5]
 
 ## 대립
 
@@ -46,6 +48,7 @@
 [^2]: [학술] "Participants were more likely to recognize an attractively enhanced version of their own face out of a lineup as their own" (참가자들은 여러 얼굴 가운데 매력적으로 다듬은 자기 얼굴을 자기 얼굴로 알아볼 가능성이 더 컸다) — N. Epley, E. Whitchurch, 「Mirror, mirror on the wall: enhancement in self-recognition」, Personality and Social Psychology Bulletin 34(9), 2008-09, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18550861&rettype=abstract&retmode=text, 2026-10-30 접속
 [^3]: [SNS] "I still don’t know why the image I see in the mirror looks OK, but a snapshot of that image looks like a sub-mental troll!" (거울에서 보는 모습은 괜찮은데 그 모습을 찍은 스냅사진은 왜 머리 나쁜 트롤처럼 보이는지 아직도 모르겠다.) — Straight Dope 댓글, 2009-12-30, https://boards.straightdope.com/t/do-some-people-just-not-photograph-well-if-so-why/522727?page=2, 2026-10-30 접속
 [^4]: [매체] "There you are, clicking through your friend’s Facebook album, when suddenly you happen upon a picture of yourself — or rather, a slightly less attractive version of yourself." (친구의 페이스북 앨범을 넘기다가 문득 자기 사진, 아니 조금 덜 매력적인 판본의 자기와 마주친다.) — Robbie Gonzalez, "Why do we hate seeing photos of ourselves?", Gizmodo, 2012-07-27, https://gizmodo.com/why-do-we-hate-seeing-photos-of-ourselves-5929667, 2026-10-30 접속
-[^5]: [학술] "Mita et al. (1977) found that the participants of their study liked their mirror-image better than their non-mirrored portrait, while their friends and lovers showed the opposite preference." (Mita 등(1977)은 연구 참가자들이 거울에 비치지 않은 자기 사진보다 거울상을 더 좋아했고 그들의 친구와 연인은 반대로 좋아했음을 발견했다.) — Lieke M. J. Swinkels, Hidde Gramser, Eni S. Becker, Mike Rinck, "Self-Approach Tendencies: Relations With Explicit and Implicit Self-Evaluations", Frontiers in Psychology 10, 2019-02-21, https://pmc.ncbi.nlm.nih.gov/articles/PMC6394373/, 2026-10-30 접속
-[^6]: [매체] "결국 우리는 ‘못나 보인다’가 아닌, ‘낯설다’라고 스스로를 느끼는 것입니다." — 최수, "남이 찍어준 사진이 마음에 안 드는 과학적 이유", 더블유 코리아, 2025-04-29, https://www.wkorea.com/?p=365859, 2026-10-30 접속
-[^7]: [매체] "거울에서는 괜찮아 보였는데 누군가 찍어준 사진을 보면 얼굴이 비뚤어 보이거나 코가 유난히 커 보이기도 한다." — 이유진, "“거울 속 내 얼굴, 실제와 다르다고?”…진짜 내 얼굴 확인하는 방법", 레이디경향, 2026-10-19, https://lady.khan.co.kr/beauty/article/202610191542001, 2026-10-30 접속
+[^5]: [매체] "But then I see myself in a photograph and think, "Is that really me?" And then I don't want any more pictures of myself because they remind me of what I no longer look like." (그러다 사진 속 나를 보고 "이게 정말 나야?" 하고 생각한다. 그러고 나면 내가 더는 그렇게 보이지 않는다는 것을 떠올리게 해서 내 사진을 더 갖고 싶지 않다.) — Marlena Graves, "We're Not 'Too Fat' for Pictures", Christianity Today, 2013-12-19, https://christianitytoday.com/ct/2013/december-web-only/were-not-too-fat-for-pictures.html, 2026-11-01 접속
+[^6]: [학술] "Mita et al. (1977) found that the participants of their study liked their mirror-image better than their non-mirrored portrait, while their friends and lovers showed the opposite preference." (Mita 등(1977)은 연구 참가자들이 거울에 비치지 않은 자기 사진보다 거울상을 더 좋아했고 그들의 친구와 연인은 반대로 좋아했음을 발견했다.) — Lieke M. J. Swinkels, Hidde Gramser, Eni S. Becker, Mike Rinck, "Self-Approach Tendencies: Relations With Explicit and Implicit Self-Evaluations", Frontiers in Psychology 10, 2019-02-21, https://pmc.ncbi.nlm.nih.gov/articles/PMC6394373/, 2026-10-30 접속
+[^7]: [매체] "결국 우리는 ‘못나 보인다’가 아닌, ‘낯설다’라고 스스로를 느끼는 것입니다." — 최수, "남이 찍어준 사진이 마음에 안 드는 과학적 이유", 더블유 코리아, 2025-04-29, https://www.wkorea.com/?p=365859, 2026-10-30 접속
+[^8]: [매체] "거울에서는 괜찮아 보였는데 누군가 찍어준 사진을 보면 얼굴이 비뚤어 보이거나 코가 유난히 커 보이기도 한다." — 이유진, "“거울 속 내 얼굴, 실제와 다르다고?”…진짜 내 얼굴 확인하는 방법", 레이디경향, 2026-10-19, https://lady.khan.co.kr/beauty/article/202610191542001, 2026-10-30 접속
