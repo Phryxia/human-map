@@ -1,0 +1,41 @@
+# 일하거나 씻으며 흥얼거리기
+
+별칭: 없음
+
+사람이 집안일이나 손일을 하거나 샤워하는 동안 혼자 노래를 흥얼거린다.
+
+# 서술
+
+1859년 엘리엇의 소설에서 긴 빗자루로 비질을 하던 인물은 귀를 기울여야 들릴 만큼 낮은 소리로 혼자 찬송가를 불렀다.[^1]
+
+1874년 하디의 소설에서 풀을 베던 일꾼은 낫질 박자에 맞춰 곡조를 흥얼거렸다.[^2]
+
+2007년 기사[^3]가 전한 조사에서 미국 소비자 29%와 캐나다 소비자 26%는 샤워하며 로큰롤 노래를 부른다고 답했다.
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 대립
+
+없음.
+
+#마음 #시간
+
+[^1]: [문학] "as she held the long brush, and swept, singing to herself in a very low tone—like a sweet summer murmur that you have to listen for very closely—one of Charles Wesley’s hymns" (그녀는 긴 빗자루를 들고 비질을 하며 귀를 아주 가까이 기울여야 들리는 달콤한 여름의 웅얼거림 같은 아주 낮은 소리로 찰스 웨슬리의 찬송가 한 곡을 혼자 불렀다) — George Eliot, Adam Bede, 1859, https://www.gutenberg.org/cache/epub/507/pg507-images.html, 2026-11-01 접속
+[^2]: [문학] "Coggan and Mark Clark were mowing in a less forward meadow, Clark humming a tune to the strokes of his scythe, to which Jan made no attempt to keep time with his." (코건과 마크 클라크는 덜 자란 풀밭에서 풀을 베고 있었고 클라크는 낫질에 맞춰 곡조를 흥얼거렸는데 잰은 거기에 자기 낫질 박자를 맞추려 하지 않았다.) — Thomas Hardy, Far from the Madding Crowd, 1874, https://www.gutenberg.org/cache/epub/107/pg107-images.html, 2026-11-01 접속
+[^3]: [매체] "Singing in the shower remains a popular pastime. The survey found that 29% of U.S. consumers and 26% of consumers in Canada sing rock ‘n roll songs while showering" (샤워하며 노래하기는 여전히 인기 있는 소일거리다. 조사에서 미국 소비자 29%와 캐나다 소비자 26%가 샤워하면서 로큰롤 노래를 부른다고 나타났다) — "Oct. 22, 2007 - Shower Power", Supply House Times, 2007-10-22, https://www.supplyht.com/articles/91844-oct-22-2007-shower-power, 2026-11-01 접속
