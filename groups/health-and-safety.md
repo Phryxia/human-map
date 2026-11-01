@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [감기에 항생제 기대하기](../docs/expecting-antibiotics-for-colds.md) 감기나 인후통으로 진료받는 사람이 항생제 처방을 기대하거나 요구하고 받지 못하면 불만을 느낀다.
+- [개인정보 적힌 우편물과 송장 그대로 버리기](../docs/discarding-mail-without-shredding.md) 이름과 주소가 적힌 우편물, 서류, 택배 송장을 버리는 사람이 찢거나 파쇄하지 않고 그대로 버린다.
 - [경보 피로](../docs/alarm-fatigue.md) 거짓 경보가 잦은 곳에서 일하거나 사는 사람이 경보에 무뎌져 경보를 무시하거나 소리를 끄거나 장치를 꺼 둔다.
   - [재난 문자 무시하기](../docs/ignoring-emergency-alerts.md)
   - [화재감지기 꺼 두기](../docs/disabling-smoke-alarms.md)

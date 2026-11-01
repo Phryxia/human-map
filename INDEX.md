@@ -15,6 +15,7 @@
 - [감정노동](docs/emotional-labor.md) ([일터와 일자리](groups/work.md))
 - [값 흥정](docs/haggling.md) ([돈과 소비](groups/money.md))
 - [같은 이야기 되풀이](docs/retelling-same-story.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [개인정보 적힌 우편물과 송장 그대로 버리기](docs/discarding-mail-without-shredding.md) ([건강과 위험](groups/health-and-safety.md))
 - [거울 속 늙은 얼굴의 낯섦](docs/aged-face-in-mirror.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [거절하지 못하기](docs/difficulty-saying-no.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [거친 말로 드러내는 걱정](docs/harsh-words-for-worry.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
