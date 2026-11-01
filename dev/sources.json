@@ -2302,26 +2302,26 @@
   },
   "https://knowledgecommons.lakeheadu.ca/handle/2453/2830": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-01"
   },
   "https://psychcentral.com/blog/when-you-lose-your-patience-sitting-on-a-ticking-time-bomb": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-01"
   },
   "https://nocutnews.co.kr/news/4627125": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-01"
   },
   "https://doctornow.co.kr/content/qna/38f2b259905d11ed95e206ef18b6ac0c": {
     "first": "2026-10-18",
-    "last": "2026-10-27",
-    "result": "VERIFIED",
+    "last": "2026-11-01",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-27"
   },
   "https://koreascience.kr/article/JAKO200606414526011.pub?lang=ko": {
@@ -2410,9 +2410,9 @@
   },
   "https://www.jstage.jst.go.jp/article/psysoc/48/4/48_4_288/_article": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-01"
   },
   "https://wiserd.ac.uk/blog/poverty-in-the-classroom-school-pupils-in-wales-are-acutely-aware-of-hardships-experienced-by-their-classmates/": {
     "first": "2026-10-18",
@@ -11960,9 +11960,9 @@
   },
   "https://www.healthday.com/health-news/mental-health/women-should-let-the-fur-fly-505530.html": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-01"
   },
   "https://mediahub.seoul.go.kr/archives/1060048": {
     "first": "2026-10-27",
@@ -14830,39 +14830,39 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/12873078/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.imaeil.com/page/view/2008040307370657567": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.segye.com/newsView/20150627000838": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.autoview.co.kr/ko-kr/boards/1/61528": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://newsroom.aaa.com/2016/07/nearly-80-percent-of-drivers-express-significant-anger-aggression-or-road-rage/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148957606": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://boards.straightdope.com/t/the-yellow-light-is-there-for-a-reason/317685": {
     "first": "2026-10-31",
@@ -14967,9 +14967,9 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/11204896/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-01"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1686513/full": {
     "first": "2026-10-31",
@@ -16554,6 +16554,12 @@
     "lastVerified": "2026-11-01"
   },
   "https://news.ycombinator.com/item?id=15158887": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://mediahub.seoul.go.kr/archives/858195": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",
