@@ -14111,27 +14111,27 @@
   },
   "https://mediahub.seoul.go.kr/archives/157202": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://mediahub.seoul.go.kr/archives/195246": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.cambridge.org/core/product/6EE0D5605D8DDCE4991F6EFBC1F42E41/core-reader": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156477461": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://www.wired-gov.net/wg/wg-news-1.nsf/0/01DB4BC5F7426B1E802576710040652A": {
     "first": "2026-10-30",
@@ -14339,9 +14339,9 @@
   },
   "https://news.ycombinator.com/item?id=44212724": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-01",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-01"
   },
   "https://news.ycombinator.com/item?id=30261000": {
     "first": "2026-10-30",
@@ -16087,6 +16087,18 @@
     "lastVerified": "2026-11-01"
   },
   "https://www.newsis.com/view/NISX20260728_0003727118": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.seoul.co.kr/news/1991/03/22/19910322018003": {
+    "first": "2026-11-01",
+    "last": "2026-11-01",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-01"
+  },
+  "https://www.sateconomy.co.kr/news/view/179589694164524": {
     "first": "2026-11-01",
     "last": "2026-11-01",
     "result": "VERIFIED",

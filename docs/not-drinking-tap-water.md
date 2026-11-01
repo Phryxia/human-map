@@ -6,15 +6,19 @@
 
 # 서술
 
-2007년 서울시 조사[^1]에서 수돗물이 식수로 맞지 않는다고 생각한 579명이 가장 많이 꼽은 이유는 한강 상수원이 깨끗하지 않을 것 같아서(32.3%)였다. 수도관과 물탱크 관리에 문제가 있을 것 같다는 이유와 막연한 불안이 뒤를 이었다.
+1991년 낙동강 페놀 오염 사고 직후의 기사[^1]에서 부산 지역 생수 판매회사의 매출은 중산층 주민들이 생수를 많이 찾으면서 평소의 최고 10배로 늘었다.
 
-2013년 서울시 블라인드 맛 테스트[^2]에서 가장 맛이 좋은 물로 생수를 고른 사람은 35.3%, 정수기물은 32.5%, 수돗물은 32.2%였다.
+2007년 서울시 조사[^2]에서 수돗물이 식수로 맞지 않는다고 생각한 579명이 가장 많이 꼽은 이유는 한강 상수원이 깨끗하지 않을 것 같아서(32.3%)였다. 수도관과 물탱크 관리에 문제가 있을 것 같다는 이유와 막연한 불안이 뒤를 이었다.
 
-2021년 연구[^3]의 저자들은 미국에서 사람들이 수돗물을 마시지 않는 이유로 맛 같은 감각적 고려와 가정의 수질 위반에서 오는 불신을 들었다.
+2013년 서울시 블라인드 맛 테스트[^3]에서 가장 맛이 좋은 물로 생수를 고른 사람은 35.3%, 정수기물은 32.5%, 수돗물은 32.2%였다.
 
-2021년 환경부 실태조사[^4]에서 수돗물에 정수기를 달아 마시는 비율은 49.5%, 생수를 사서 마시는 비율은 32.9%였다.
+2020년 수돗물 유충 사고를 다룬 기사[^4]에 따르면 수돗물에 대한 불안감이 퍼지면서 유충이 신고된 지역의 생수 매출이 급증했다.
 
-2025년 6월 Hacker News 댓글[^5]의 글쓴이는 안전하지만 맛이 나쁜 수돗물이 나오는 미국 지역에서 자란 사람은 수돗물 맛과 수질이 아주 좋은 도시로 옮겨도 수돗물을 마시지 않는 버릇이 든다고 썼다.
+2021년 연구[^5]의 저자들은 미국에서 사람들이 수돗물을 마시지 않는 이유로 맛 같은 감각적 고려와 가정의 수질 위반에서 오는 불신을 들었다.
+
+2021년 환경부 실태조사[^6]에서 수돗물에 정수기를 달아 마시는 비율은 49.5%, 생수를 사서 마시는 비율은 32.9%였다.
+
+2025년 6월 Hacker News 댓글[^7]의 글쓴이는 안전하지만 맛이 나쁜 수돗물이 나오는 미국 지역에서 자란 사람은 수돗물 맛과 수질이 아주 좋은 도시로 옮겨도 수돗물을 마시지 않는 버릇이 든다고 썼다.
 
 # 관계
 
@@ -40,8 +44,10 @@
 
 #건강 #공공
 
-[^1]: [공공] "수돗물이 식수로 부적합하다고 생각하는 579명에게 이유를 조사한 결과, 한강 상수원이 깨끗하지 않을 것 같아서가 32.3%로 가장 많았고, 수도관·물탱크 관리에 문제가 있을 것 같아서, 막연히 불안해서 등이 뒤를 이었다." — 서울특별시, 「서울시민 58.2%」, 내 손안에 서울, 2007-07-25, https://mediahub.seoul.go.kr/archives/157202, 2026-10-30 접속
-[^2]: [공공] "가장 맛이 좋은 물을 선택하는 테스트에 293명(35.3%)이 생수를 골랐고, 270명(32.5%)가 정수기물을, 268명(32.2%)이 수돗물을 선택했다." — 서울특별시, 「수돗물, 모르고 먹으면 일반 생수 같아」, 서울톡톡, 2013-09-05, https://mediahub.seoul.go.kr/archives/195246, 2026-10-30 접속
-[^3]: [학술] "Not drinking tap water occurs for many reasons, including aesthetic considerations or distrust due to water quality violations in homes" (수돗물을 마시지 않는 데에는 감각적 고려나 가정의 수질 위반에서 오는 불신을 비롯한 여러 이유가 있다) — Asher Y Rosinger, Anisha I Patel, Francesca Weaks, "Examining recent trends in the racial disparity gap in tap water consumption: NHANES 2011–2018", Public Health Nutrition, 2021-06-11, https://www.cambridge.org/core/product/6EE0D5605D8DDCE4991F6EFBC1F42E41/core-reader, 2026-10-30 접속
-[^4]: [공공] "한편 물을 먹을 때 수돗물에 정수기를 설치하여 먹는 비율은 49.5%였으며, 먹는 샘물, 즉 생수를 구매해서 먹는 비율은 32.9%로 조사되었습니다." — 환경부, 「국민 3명 중 1명 수돗물 마신다…실태조사 첫 공개」, 정책브리핑, 2021-10-26, https://www.korea.kr/briefing/policyBriefingView.do?newsId=156477461, 2026-10-30 접속
-[^5]: [SNS] "People who grew up in one of these areas are habituated into never drinking the tap water even if they move to a city with excellent tasting and very high quality tap water." (이런 지역에서 자란 사람은 맛이 아주 좋고 수질이 매우 높은 수돗물이 나오는 도시로 옮겨도 수돗물을 절대 마시지 않는 데 길들어 있다.) — Hacker News, 댓글, 2025-06-07, https://news.ycombinator.com/item?id=44212724, 2026-10-30 접속
+[^1]: [매체] "또 중산층 주민들이 생수를 많이 찾는 바람에 부산지역 생수판매회사는 평소보다 최고 10배 가량 매출이 늘어즐거운 비명을 올리기도" — 서울신문, 「수돗물불신 팽배…약수터마다 장사진/「식수오염 공포」…영남주민 표정」, 1991-03-22, https://www.seoul.co.kr/news/1991/03/22/19910322018003, 2026-11-01 접속
+[^2]: [공공] "수돗물이 식수로 부적합하다고 생각하는 579명에게 이유를 조사한 결과, 한강 상수원이 깨끗하지 않을 것 같아서가 32.3%로 가장 많았고, 수도관·물탱크 관리에 문제가 있을 것 같아서, 막연히 불안해서 등이 뒤를 이었다." — 서울특별시, 「서울시민 58.2%」, 내 손안에 서울, 2007-07-25, https://mediahub.seoul.go.kr/archives/157202, 2026-10-30 접속
+[^3]: [공공] "가장 맛이 좋은 물을 선택하는 테스트에 293명(35.3%)이 생수를 골랐고, 270명(32.5%)가 정수기물을, 268명(32.2%)이 수돗물을 선택했다." — 서울특별시, 「수돗물, 모르고 먹으면 일반 생수 같아」, 서울톡톡, 2013-09-05, https://mediahub.seoul.go.kr/archives/195246, 2026-10-30 접속
+[^4]: [매체] "수돗물에 대한 불안감이 확산하면서 유충 발견 사고가 접수된 지역에서 생수 매출도 급증했다." — 김시우, 「'수돗물 유충' 사태로 샤워기 필터·생수 판매 급증」, 토요경제, 2020-07-20, https://www.sateconomy.co.kr/news/view/179589694164524, 2026-11-01 접속
+[^5]: [학술] "Not drinking tap water occurs for many reasons, including aesthetic considerations or distrust due to water quality violations in homes" (수돗물을 마시지 않는 데에는 감각적 고려나 가정의 수질 위반에서 오는 불신을 비롯한 여러 이유가 있다) — Asher Y Rosinger, Anisha I Patel, Francesca Weaks, "Examining recent trends in the racial disparity gap in tap water consumption: NHANES 2011–2018", Public Health Nutrition, 2021-06-11, https://www.cambridge.org/core/product/6EE0D5605D8DDCE4991F6EFBC1F42E41/core-reader, 2026-10-30 접속
+[^6]: [공공] "한편 물을 먹을 때 수돗물에 정수기를 설치하여 먹는 비율은 49.5%였으며, 먹는 샘물, 즉 생수를 구매해서 먹는 비율은 32.9%로 조사되었습니다." — 환경부, 「국민 3명 중 1명 수돗물 마신다…실태조사 첫 공개」, 정책브리핑, 2021-10-26, https://www.korea.kr/briefing/policyBriefingView.do?newsId=156477461, 2026-10-30 접속
+[^7]: [SNS] "People who grew up in one of these areas are habituated into never drinking the tap water even if they move to a city with excellent tasting and very high quality tap water." (이런 지역에서 자란 사람은 맛이 아주 좋고 수질이 매우 높은 수돗물이 나오는 도시로 옮겨도 수돗물을 절대 마시지 않는 데 길들어 있다.) — Hacker News, 댓글, 2025-06-07, https://news.ycombinator.com/item?id=44212724, 2026-10-30 접속
