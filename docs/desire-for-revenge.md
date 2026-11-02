@@ -20,7 +20,7 @@
 
 ## 하위
 
-없음.
+- [층간소음 보복](neighbor-noise-retaliation.md)
 
 ## 원인
 

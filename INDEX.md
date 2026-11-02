@@ -467,6 +467,7 @@
 - [축의금 액수 저울질](docs/weighing-gift-money.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [출입 금지된 샛길 산행](docs/hiking-closed-trails.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [충동구매](docs/impulse-buying.md) ([돈과 소비](groups/money.md))
+- [층간소음 보복](docs/neighbor-noise-retaliation.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [층간소음 참기](docs/enduring-neighbor-noise.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [치과 공포](docs/dental-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [치료 부담감](docs/treatment-burden.md) ([건강과 위험](groups/health-and-safety.md))
