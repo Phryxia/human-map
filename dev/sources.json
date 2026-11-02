@@ -12056,9 +12056,9 @@
   },
   "https://www.gutenberg.org/cache/epub/143/pg143-images.html": {
     "first": "2026-10-27",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35510634&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -14980,9 +14980,9 @@
   },
   "https://www.gutenberg.org/cache/epub/110/pg110-images.html": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://repub.eur.nl/pub/20778": {
     "first": "2026-10-31",
@@ -16664,27 +16664,27 @@
   },
   "https://www.personneltoday.com/hr/jobseekers-hide-accents-to-improve-interview-chances/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.rfa.org/korean/weekly_program/joosungha/co-sh-06042010144749.html": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.timeshighereducation.com/news/academics-talk-posh-to-protect-their-careers/2002931.article": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.manchester.ac.uk/discover/news/brits-feel-fake-when-poshing-up-accents/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.psychologytoday.com/us/blog/good-mourning/202002/why-did-my-family-fall-apart-after-moms-death": {
     "first": "2026-11-01",
@@ -16724,9 +16724,9 @@
   },
   "https://www.gutenberg.org/cache/epub/39162/pg39162-images.html": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://boards.straightdope.com/t/how-effective-are-fire-drills/1027346/59": {
     "first": "2026-11-01",
@@ -17755,6 +17755,18 @@
     "lastVerified": "2026-11-02"
   },
   "https://www.seoul.co.kr/news/society/2017/10/02/20171002002007": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/17552729/": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://news.ycombinator.com/item?id=19636950": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
