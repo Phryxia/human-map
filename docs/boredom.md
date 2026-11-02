@@ -28,6 +28,8 @@
 
 2025년 3월 기사[^12]는 아이들이 자극을 충분히 받지 못하거나 무엇을 해야 할지 모를 때 지루함을 호소한다고 썼다.
 
+2026년 2월 영국 도싯 기록보관소 블로그 글[^13]은 지루한 회의에 앉아 있을 때 여백에 낙서하는 일을 아무도 참지 못한다고 쓴다.
+
 # 관계
 
 ## 상위
@@ -46,6 +48,7 @@
 
 - [근무 중 사적인 인터넷 사용](cyberloafing.md)[^9]
 - [딴생각](mind-wandering.md)[^8]
+- [무심코 낙서하기](doodling.md)[^13]
 - [외로움](loneliness.md)[^10]
 - [혼자 생각만 하는 시간 꺼리기](avoiding-being-alone-with-thoughts.md)[^3]
 
@@ -67,3 +70,4 @@
 [^10]: [매체] "Research has certainly shown that loneliness in the elderly can be driven by boredom." (노인의 외로움이 지루함에서 비롯될 수 있다는 것은 연구로 분명히 드러났다.) — James Danckert, John Eastwood, 「The Boredom of Solitude」, Psychology Today, 2023-08-21, https://www.psychologytoday.com/us/blog/the-engaged-mind/202308/the-boredom-of-solitude, 2026-10-29 접속
 [^11]: [SNS] "이제는 크게 부자가 되고 싶은 생각도 없고, 사치하고 싶은 생각도 없고, 이성을 만나고 싶은 생각도 없다보니 사는게 재미가 없네요" — 클리앙, 게시글, 2023-12-04, https://www.clien.net/service/board/park/18457951, 2026-10-26 접속
 [^12]: [매체] "아이들은 충분한 자극을 받지 못하거나, 무엇을 해야 할지 모를 때 지루함을 호소한다." — 이유진, 「“심심해…” 아이들 지루해야 창의력 커진다」, 레이디경향, 2025-03-19, https://lady.khan.co.kr/education/article/202503190920001, 2026-10-25 접속
+[^13]: [공공] "No one can resist doodling in the margins while sat in a dull meeting, and it seems this has been true for time immemorial." (지루한 회의에 앉아 있을 때 여백에 낙서하는 것을 참을 수 있는 사람은 없으며, 이는 아주 오래전부터 그랬던 것으로 보인다.) — Dorset History Centre, 「Doodles Through Time」, Dorset Council, 2026-02-06, https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2026/02/06/doodles-through-time/, 2026-11-02 접속
