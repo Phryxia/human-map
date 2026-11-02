@@ -386,6 +386,7 @@
 - [잃어버린 물건을 찾은 곳에서 또 찾기](docs/re-searching-for-lost-items.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [임산부 배려석 비켜 주지 않기](docs/not-yielding-maternity-seats.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [자기 전 양치 거르기](docs/skipping-bedtime-toothbrushing.md) ([건강과 위험](groups/health-and-safety.md))
 - [자기 침묵](docs/self-silencing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자기에 대한 말 엿듣기](docs/overhearing-talk-about-oneself.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자녀 사교육 불안](docs/private-tutoring-anxiety.md) ([돈과 소비](groups/money.md))

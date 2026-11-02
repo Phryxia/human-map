@@ -39,6 +39,7 @@
 - [의무 해제 뒤에도 마스크 쓰기](../docs/keeping-mask-after-mandate.md) 마스크 착용 의무가 풀린 뒤에도 사람이 습관이나 불편한 느낌 때문에 마스크를 계속 쓴다.
 - [의사에게 증상과 습관 줄여 말하기](../docs/withholding-information-from-doctors.md) 진료받는 사람이 의사에게 증상이나 음주 같은 생활습관을 줄여 말하거나 숨긴다.
 - [일부러 피부 태우기](../docs/intentional-tanning.md) 피부를 그을린 모습으로 만들고 싶은 사람이 햇볕이나 태닝 기계 아래에서 일부러 피부를 태운다.
+- [자기 전 양치 거르기](../docs/skipping-bedtime-toothbrushing.md) 밤에 잠자리에 드는 사람이 피곤하거나 귀찮아서 이를 닦지 않고 잔다.
 - [자외선 차단제 안 바르기](../docs/sunscreen-nonuse.md) 햇볕에 나가는 사람이 번거롭거나 필요 없다고 여겨 자외선 차단제를 바르지 않는다.
 - [재난 대비 미루기](../docs/not-preparing-for-disasters.md) 사람이 지진이나 홍수 같은 재난의 위험을 알면서도 비상용품을 갖추거나 집을 보강하는 대비를 미루거나 하지 않는다.
 - [정상 집착](../docs/summit-fever.md) 산을 오르는 사람이 날씨가 나빠지거나 시간이 늦어져도 정상에 가겠다는 마음에 돌아서지 않고 계속 오른다.
