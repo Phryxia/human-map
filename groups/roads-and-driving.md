@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [과속 운전](../docs/speeding.md) 운전자가 운전을 통제하고 있다고 믿거나 더 빨리 도착하려고 제한 속도보다 빠르게 달린다.
+  - [단속 카메라 앞에서만 속도 줄이기](../docs/slowing-only-at-speed-cameras.md)
 - [다른 일을 하며 휴대전화 보기](../docs/phone-use-while-doing-other-things.md) 사람들이 걷기, 운전, 자전거 타기, 식사처럼 다른 일을 하는 동안 휴대전화 화면을 보거나 조작한다.
   - [걸으며 휴대전화 보기](../docs/walking-while-using-phone.md)
   - [운전 중 휴대전화 사용](../docs/phone-use-while-driving.md)
