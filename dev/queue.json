@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-01T21:37:56.159Z",
-  "nextSeq": 3189,
-  "stops": 164,
+  "savedAt": "2026-11-02T00:42:55.865Z",
+  "nextSeq": 3205,
+  "stops": 165,
   "items": [
     {
       "id": "daf25b73",
@@ -755,6 +755,62 @@
       "note": "2026-10-31 buyers-remorse 결과 간선은 그음. 자기 보상 문서 없음(retail-therapy 는 이미 하위), 근거 파편 필요",
       "createdAt": "2026-11-01T21:37:55.119Z",
       "seq": 3188
+    },
+    {
+      "id": "b35664c8",
+      "title": "working-longer-at-home 와 after-hours-work-replies 관계, 보강",
+      "priority": 50,
+      "note": "2026-11-02 추가. 후보: Eurofound mynewsdesk teleworkers-twice-as-likely-to-exceed-48-hour-working-time-limit-433322 (2021-09-09) right to disconnect, PMC10090341 Keightley 2022 'difficulties with switching off' (work-rumination-after-hours 원인 후보), HN 41815594 (2024) 다른 시기 SNS, 한국어 파편 없음",
+      "createdAt": "2026-11-02T00:12:13.716Z",
+      "seq": 3197
+    },
+    {
+      "id": "147749bb",
+      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공, 위험을 알면서 쓰기",
+      "priority": 50,
+      "note": "2026-11-02 추가. 후보: soumu.go.jp 01ryutsu03_02000091 (2015, Shift_JIS) 위협 인지에도 대책 안 함, OPC 블로그 같은 글의 85% concern 문장, boannews 25986 (2011), federalreserve 2016 76% 민감정보 안 보냄, news.seoul.go.kr 520321 (2021) 금융거래 최소화 당부",
+      "createdAt": "2026-11-02T00:25:40.829Z",
+      "seq": 3199
+    },
+    {
+      "id": "72ff365b",
+      "title": "resume-embellishment 와 exaggerating-own-stories 관계, 공공 파편",
+      "priority": 50,
+      "note": "2026-11-02 추가. 상위 후보 exaggerating-own-stories. 원인 후보: Cifas cv-fraud-rise-uk-job-market-cools (2022-11-02) 일자리 경쟁, hrreview 36576 등록금 인상 43%, HN 44096170 (2025) 학위 필터 때문에 거짓 기재. 정부 출처는 gao.gov 403, HEDD 404",
+      "createdAt": "2026-11-02T00:29:30.469Z",
+      "seq": 3200
+    },
+    {
+      "id": "17f50daf",
+      "title": "sharenting 보강: 자녀의 1인칭 글, 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-02 추가. 자녀가 부모의 게시를 싫어한다는 1인칭 SNS 글 못 찾음. Ofcom 2017(PDF, 403), eSafety 연결 실패. 후보: Mott 같은 글 'three-fourths of parents think another parent has shared too much'",
+      "createdAt": "2026-11-02T00:33:01.641Z",
+      "seq": 3201
+    },
+    {
+      "id": "57511638",
+      "title": "skipping-flossing 보강: 2020년 이후 파편, 안 쓰는 이유, withholding-information-from-doctors 관계",
+      "priority": 50,
+      "note": "2026-11-02 추가. 후보: NPR 417184367 같은 기사 'It makes your gums bleed', mentalfloss 81516 (2016) 32% 전혀 안 씀, Ipsos 2017 시간 55% (PDF). 치과의사에게 부풀려 말하기는 withholding-information-from-doctors 하위 후보",
+      "createdAt": "2026-11-02T00:36:03.266Z",
+      "seq": 3202
+    },
+    {
+      "id": "02c127bd",
+      "title": "setting-clocks-fast 보강: 학술·공공 파편, 빠른 줄 알면서 따르는 면",
+      "priority": 50,
+      "note": "2026-11-02 추가. 학술 정면 연구 못 찾음. 후보: straightdope 595507 같은 스레드 'I do consciously know that it’s fast', organizationsandmarkets.com 2007-01-17 procrastinator's clock, overcomingbias 2007-01-28, dailydot 'psychological buffer'. 상위 후보: 마감 앞당기기(self-imposed deadlines)",
+      "createdAt": "2026-11-02T00:39:12.790Z",
+      "seq": 3203
+    },
+    {
+      "id": "d4ecece6",
+      "title": "forgotten-fridge-leftovers 보강: 공공 파편, discarding-food-by-date-label 관계",
+      "priority": 50,
+      "note": "2026-11-02 추가. 공공 후보 못 받음: selwyn.govt.nz·aucklandcouncil 403, lovefoodhatewaste Cloudflare. 다음 후보: lovefoodhatewaste.nsw.gov.au 2015-16 Tracking Survey(PDF), USDA ERS, WRAP. Yahoo 같은 기사 'forget about leftovers once they're out of sight (32%)'",
+      "createdAt": "2026-11-02T00:42:46.653Z",
+      "seq": 3204
     },
     {
       "id": "d16898d2",
@@ -2539,6 +2595,14 @@
       "note": "2026-11-01 문학 후보: Vanity Fair(Gutenberg 599, 이미 2개 문서) 44장 'denies a poor relation'. 비문학 파편 없음. Curl, Lareau, Wu 2018 Sociological Forum socf.12461 계층 상승자와 가족의 충돌(초록 못 읽음). philnews 2025-08-14 은 친척 돈 부탁을 피하려 가난한 척하기라 별개 현상 후보. embarrassed-by-parents 와 관계 검토",
       "createdAt": "2026-11-01T18:35:11.465Z",
       "seq": 3164
+    },
+    {
+      "id": "04d81fd3",
+      "title": "온라인 후기 믿지 않기, 가짜 후기 의심",
+      "priority": 10,
+      "note": "2026-11-02 reading-reviews-before-buying 작업 중. gov.uk fake-reviews-and-sneaky-hidden-fees (2025-04-06) 'top-rated seller ... despite what previous buyers said' 대목, reading-reviews-before-buying 와 대립 후보",
+      "createdAt": "2026-11-02T00:15:54.474Z",
+      "seq": 3198
     },
     {
       "id": "02b2f242",
