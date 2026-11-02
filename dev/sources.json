@@ -3219,9 +3219,9 @@
   },
   "https://ecommons.cornell.edu/entities/publication/2c50b460-fb5c-4490-9047-9bb02b9f6f25": {
     "first": "2026-10-19",
-    "last": "2026-10-30",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-02"
   },
   "https://www.nature.com/articles/s41598-023-50532-3": {
     "first": "2026-10-19",
@@ -14213,15 +14213,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18605856&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-02"
   },
   "https://www.npr.org/transcripts/809530189": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-02"
   },
   "https://psyche.co/guides/how-to-stop-people-pleasing-by-learning-to-say-no": {
     "first": "2026-10-30",
@@ -17472,6 +17472,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://news.ycombinator.com/item?id=32419412": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.asiae.co.kr/article/2023061316275444892": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
