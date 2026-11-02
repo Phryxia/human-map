@@ -34,6 +34,7 @@
 - [반려견 목줄 풀어 두기](../docs/walking-dog-off-leash.md) 반려견과 산책하는 사람이 개에게 운동이 필요하다고 여기거나 자기 개가 순하다고 여기거나 지키기 귀찮아서 목줄을 풀어 두거나 채우지 않는다.
 - [수돗물 그대로 마시지 않기](../docs/not-drinking-tap-water.md) 수돗물을 마실 수 있는 곳에 사는 사람이 수돗물을 그대로 마시지 않고 정수기를 달거나 생수를 사서 마신다.
 - [술 마신 뒤 물놀이](../docs/swimming-after-drinking.md) 술을 마신 사람이 바다, 강, 계곡, 호수에 들어가 헤엄치거나 물놀이를 한다.
+- [암 재발 두려움](../docs/fear-of-cancer-recurrence.md) 암 치료를 마친 사람이 암이 다시 생길까 봐 두려워한다.
 - [야생 버섯 따 먹기](../docs/eating-foraged-wild-mushrooms.md) 산이나 들에서 야생 버섯을 딴 사람이 생김새나 민간 속설로 먹을 수 있는 버섯을 가려 먹는다.
 - [야식 먹기](../docs/late-night-eating.md) 저녁 식사를 마친 사람이 잠들기 전 밤늦은 시간에 다시 음식을 먹는다.
 - [의무 해제 뒤에도 마스크 쓰기](../docs/keeping-mask-after-mandate.md) 마스크 착용 의무가 풀린 뒤에도 사람이 습관이나 불편한 느낌 때문에 마스크를 계속 쓴다.

@@ -309,6 +309,7 @@
 - [안 쓰는 휴대폰 집에 두기](docs/keeping-old-phones.md) ([돈과 소비](groups/money.md))
 - [알람 끄고 다시 잠들기](docs/snoozing-the-alarm.md) ([시간과 하루 습관](groups/daily-time.md))
 - [알아들은 척하기](docs/pretending-to-understand.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [암 재발 두려움](docs/fear-of-cancer-recurrence.md) ([건강과 위험](groups/health-and-safety.md))
 - [압박에 못 이겨 팁 주기](docs/guilt-tipping.md) ([돈과 소비](groups/money.md))
 - [애정을 거친 말이나 행동으로 드러내기](docs/rough-affection.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [야반도주](docs/moonlight-flit.md) ([돈과 소비](groups/money.md))
