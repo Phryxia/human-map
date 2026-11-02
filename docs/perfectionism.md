@@ -28,6 +28,7 @@
 
 ## 결과
 
+- [글 막힘](writers-block.md)[^1]
 - [미루기](procrastination.md)[^1][^3]
 
 ## 대립
