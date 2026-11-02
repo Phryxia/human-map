@@ -24,7 +24,7 @@
 
 ## 하위
 
-없음.
+- [스트레스 받을 때 매운 음식 찾기](craving-spicy-food-under-stress.md)
 
 ## 원인
 

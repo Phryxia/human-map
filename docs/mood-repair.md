@@ -27,7 +27,6 @@
 - [시름을 술로 달래기](drinking-to-cope.md)
 - [기분을 달래려는 소비](retail-therapy.md)
 - [미루기](procrastination.md)
-- [스트레스 받을 때 매운 음식 찾기](craving-spicy-food-under-stress.md)
 - [기분을 달래려고 먹기](emotional-eating.md)
 
 ## 원인

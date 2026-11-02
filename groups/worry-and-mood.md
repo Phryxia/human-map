@@ -11,6 +11,7 @@
 - [결말 먼저 읽기](../docs/reading-the-ending-first.md) 소설이나 이야기를 읽는 사람이 처음부터 읽기 전에 마지막 장을 먼저 펼쳐 결말을 본다.
 - [기분 회복 행동](../docs/mood-repair.md) 기분이 나쁜 사람이 그 기분을 낫게 하려고 먹기, 마시기, 사기, 자기 같은 행동을 한다.
   - [기분을 달래려고 먹기](../docs/emotional-eating.md)
+    - [스트레스 받을 때 매운 음식 찾기](../docs/craving-spicy-food-under-stress.md)
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
   - [미루기](../docs/procrastination.md)
     - [노후 준비 미루기](../docs/delaying-retirement-saving.md)
@@ -21,7 +22,6 @@
     - [유언장 작성 미루기](../docs/delaying-will-writing.md)
     - [잠자리 미루기](../docs/bedtime-procrastination.md)
     - [장기기증 등록 미루기](../docs/delaying-organ-donor-registration.md)
-  - [스트레스 받을 때 매운 음식 찾기](../docs/craving-spicy-food-under-stress.md)
   - [시름을 술로 달래기](../docs/drinking-to-cope.md)
 - [꼼지락거리기](../docs/fidgeting.md) 초조하거나 주의가 흐트러진 사람이 무심코 다리를 떨거나 손가락으로 무언가를 두드리며 몸을 가만히 두지 못한다.
 - [나쁜 소식 확인 미루기](../docs/delaying-bad-news.md) 나쁜 소식일 수 있는 정보를 확인할 시점이 다가오면 그 확인을 늦추거나 피하는 행동이다.

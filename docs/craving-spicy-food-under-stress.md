@@ -20,7 +20,7 @@
 
 ## 상위
 
-- [기분 회복 행동](mood-repair.md)
+- [기분을 달래려고 먹기](emotional-eating.md)
 
 ## 하위
 
