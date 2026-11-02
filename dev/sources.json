@@ -17012,6 +17012,7 @@
   "https://m.dcinside.com/board/bedbug/904": {
     "first": "2026-11-02",
     "last": "2026-11-02",
-    "result": "NOT_FOUND"
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
   }
 }
