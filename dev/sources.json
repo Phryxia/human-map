@@ -4515,9 +4515,9 @@
   },
   "https://www.grammarly.com/blog/workplace-email-report/": {
     "first": "2026-10-20",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://news.ycombinator.com/item?id=40657815": {
     "first": "2026-10-20",
@@ -15591,9 +15591,9 @@
   },
   "https://news.ycombinator.com/item?id=60295": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://www.seoul.co.kr/news/2001/09/17/20010917025001": {
     "first": "2026-10-31",
@@ -17268,6 +17268,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://news.bizwatch.co.kr/article/market/2018/04/20/0019": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.wikitree.co.kr/articles/1072872": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
