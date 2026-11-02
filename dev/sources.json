@@ -16597,33 +16597,33 @@
   },
   "https://ko.wikisource.org/wiki/%ED%83%9C%ED%8F%89%EC%B2%9C%ED%95%98/%EC%A0%9C5%EC%9E%A5": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://koreascience.kr/article/JAKO198811919387985.pub?lang=ko": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.seoul.co.kr/news/2002/07/31/20020731006003": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.imaeil.com/page/view/2013101207081995693": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://pann.nate.com/talk/340479801": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/6923/pg6923-images.html": {
     "first": "2026-11-01",
@@ -16711,9 +16711,9 @@
   },
   "https://www.nongmin.com/article/20090221076544": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/968/pg968-images.html": {
     "first": "2026-11-01",
@@ -17568,6 +17568,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://www.fnnews.com/news/202204071827171369": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://zh.wikisource.org/wiki/%E5%AD%94%E9%9B%80%E6%9D%B1%E5%8D%97%E9%A3%9B": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
