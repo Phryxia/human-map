@@ -35,6 +35,7 @@
 - [경증 응급실 이용](docs/nonurgent-emergency-room-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [곁에 없는 사람의 옷 냄새 맡기](docs/smelling-absent-loved-ones-clothes.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [계단 대신 에스컬레이터와 엘리베이터 타기](docs/taking-escalator-over-stairs.md) ([건강과 위험](groups/health-and-safety.md))
+- [계단과 걸음 세기](docs/counting-steps-and-stairs.md) ([성향과 기질](groups/traits.md))
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [고부 갈등](docs/mother-in-law-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

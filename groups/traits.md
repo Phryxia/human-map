@@ -5,4 +5,5 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [감각 추구](../docs/sensation-seeking.md) 어떤 사람은 새롭고 강한 감각과 경험을 찾고 그 경험을 위해 위험을 무릅쓴다.
+- [계단과 걸음 세기](../docs/counting-steps-and-stairs.md) 사람이 일상에서 계단, 걸음, 타일 같은 것의 개수를 저도 모르게 센다.
 - [완벽주의](../docs/perfectionism.md) 어떤 사람은 자기 일이 흠 없이 완벽해야 한다고 여겨 자신과 남에게 아주 높은 기준을 둔다.
