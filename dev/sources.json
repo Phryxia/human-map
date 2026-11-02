@@ -14135,27 +14135,27 @@
   },
   "https://www.wired-gov.net/wg/wg-news-1.nsf/0/01DB4BC5F7426B1E802576710040652A": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-30"
   },
   "https://iems.ust.hk/tlb2": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://mediahub.seoul.go.kr/archives/1255463": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://wrap.ngo/blog/2021/05/bags-life-or-are-they": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://m.korea.kr/briefing/policyBriefingView.do?endDate=&gubun=&newsId=148678725&pageIndex=&srchType=&srchWord=&startDate=": {
     "first": "2026-10-30",
@@ -14363,9 +14363,9 @@
   },
   "https://news.ycombinator.com/item?id=39251899": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://news.ycombinator.com/item?id=30152000": {
     "first": "2026-10-30",
@@ -16118,14 +16118,14 @@
   },
   "https://uk.finance.yahoo.com/news/campaign-launches-remind-consumers-remember-000100955.html": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "UNREACHABLE"
   },
   "https://www.dailian.co.kr/news/view/1330290/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/348/pg348.txt": {
     "first": "2026-11-01",
@@ -16195,9 +16195,9 @@
   },
   "https://www.hankyung.com/article/2025121824651": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://thenew961.com/have-you-faked-an-excuse-to-get-out-of-plans/": {
     "first": "2026-11-01",
@@ -17304,6 +17304,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://hrcak.srce.hr/20385": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://dalspace.library.dal.ca/handle/10222/77842": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
