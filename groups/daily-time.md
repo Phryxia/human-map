@@ -17,6 +17,7 @@
 - [새해 결심 세우기](../docs/making-new-years-resolutions.md) 새해를 맞는 사람이 그해에 고치거나 이룰 일을 결심으로 정한다.
 - [시간 부족으로 운동하지 않기](../docs/no-time-to-exercise.md) 일이나 학업에 쫓기는 사람이 운동할 시간이 없다고 여기고 규칙적인 운동을 하지 않는다.
 - [시간에 쫓기는 느낌](../docs/feeling-rushed.md) 일과 집안일을 하는 사람이 할 일에 비해 시간이 모자란다고 느끼며 늘 쫓긴다.
+- [시계를 빠르게 맞춰 두기](../docs/setting-clocks-fast.md) 어떤 사람들은 손목시계, 알람 시계, 자동차 시계를 실제보다 몇 분 빠르게 맞춰 둔다.
 - [아침 식사 거르기](../docs/skipping-breakfast.md) 시간이 없거나 입맛이 없는 사람이 아침을 먹지 않고 하루를 시작한다.
 - [알람 끄고 다시 잠들기](../docs/snoozing-the-alarm.md) 아침에 알람을 들은 사람이 알람을 끄거나 미루고 다시 잠든다.
 - [운동에 관심이 없어 운동하지 않기](../docs/not-interested-in-exercise.md) 운동하지 않는 사람이 그 까닭으로 운동에 관심이 없다는 것을 든다.
