@@ -1,0 +1,44 @@
+# 이력서 부풀리기
+
+별칭: resume fraud[^3]
+
+일자리를 구하는 사람이 이력서나 지원서에 경력, 학력, 기술을 실제보다 부풀리거나 없는 것을 적는다.
+
+# 서술
+
+2010년 해커뉴스 댓글[^1]의 글쓴이는 첫 직장에 지원하면서 이력서에 C++ 기초 지식이 있다고 거짓으로 적었고 그 덕에 전화 면접을 통과했다고 썼다.
+
+2012년 HR Review 기사가 전한 조사에서 학생과 졸업생 응답자의 3분의 1은 이력서에 자격을 거짓으로 적거나 부풀린 사람을 이미 알고 있었다.[^2]
+
+2017년 Henle 외의 연구는 이력서 속임을 지어내기, 부풀리기, 빼기의 세 차원으로 나누어 재는 문항을 만들었다.[^3]
+
+2025년 Cifas 보도자료는 영국인의 18%가 지난 12개월 동안 일자리를 얻으려고 이력서와 지원서에 거짓을 적었거나 그런 사람을 안다고 적는다.[^4]
+
+# 관계
+
+## 상위
+
+없음.
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 대립
+
+없음.
+
+#일
+
+[^1]: [SNS] "I lied on my resume (basic C++ knowledge) when applying for my very first job. It got me past the phone interview" (나는 첫 직장에 지원할 때 이력서에 거짓말을 했다(C++ 기초 지식). 그 덕에 전화 면접을 통과했다) — Hacker News 댓글, 2010-09-14, https://news.ycombinator.com/item?id=1691338, 2026-11-02 접속
+[^2]: [매체] "a third already knew someone who has lied or exaggerated about their qualifications on their CV." (3분의 1은 이력서에 자격을 거짓으로 적거나 부풀린 사람을 이미 알고 있었다.) — Pamela Flores, "Graduates more likely to lie on CVs due to higher tuition fees, research reports", HR Review, 2012-06-22, https://hrreview.co.uk/hr-news/recruitment/graduates-more-likely-to-lie-on-cvs-due-to-higher-tuition-fees-research-reports/36576, 2026-11-02 접속
+[^3]: [학술] "In study 1, an initial set of items designed to measure three theorized resume fraud dimensions (fabrication, embellishment, omission) are rated for content validity." (연구 1에서는 이론으로 세운 이력서 사기의 세 차원(지어내기, 부풀리기, 빼기)을 재도록 만든 첫 문항들의 내용 타당도를 평가한다.) — Christine A. Henle, Brian R. Dineen, Michelle K. Duffy, "Assessing Intentional Resume Deception: Development and Nomological Network of a Resume Fraud Measure", Journal of Business and Psychology 34(1), 2017-12-16, https://link.springer.com/article/10.1007/s10869-017-9527-4, 2026-11-02 접속
+[^4]: [매체] "Nearly a fifth (18%) of UK people have lied on their CVs and job applications in order to land a role, or know someone who has, in the last 12 months" (영국인의 5분의 1에 가까운 18%가 지난 12개월 동안 일자리를 얻으려고 이력서와 지원서에 거짓말을 했거나 그런 사람을 안다) — Cifas, "1 in 5 individuals have lied about their university degree to secure employment", Cifas 보도자료, 2025-02-03, https://cifas.org.uk/newsroom/1-in-5-lie-about-uni-degree-cv-fraud, 2026-11-02 접속
