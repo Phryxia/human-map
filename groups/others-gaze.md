@@ -28,6 +28,7 @@
 - [수줍은 방광](../docs/shy-bladder.md) 공중화장실에서 다른 사람이 가까이 있는 사람이 소변을 시작하지 못하거나 화장실 쓰기를 두려워한다.
 - [실패 사실 숨기기](../docs/concealing-failure.md) 시험이나 일에서 실패한 사람이 창피해서 그 사실을 가족이나 주변 사람에게 말하지 않거나 숨긴다.
   - [실직 사실 숨기기](../docs/concealing-job-loss.md)
+  - [업무 실수 숨기기](../docs/hiding-mistakes-at-work.md)
 - [알아들은 척하기](../docs/pretending-to-understand.md) 사람이 남의 말이나 설명을 알아듣지 못했는데 알아들은 듯이 고개를 끄덕이거나 맞장구친다.
 - [얼굴 붉어질까 두려워하기](../docs/fear-of-blushing.md) 남 앞에 선 사람이 얼굴이 붉어질까 신경 쓰고 두려워한다.
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.

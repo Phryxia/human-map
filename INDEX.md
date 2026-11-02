@@ -328,6 +328,7 @@
 - [얼굴 붉어질까 두려워하기](docs/fear-of-blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [얼굴 붉어짐](docs/blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엄숙한 자리에서 터지는 웃음](docs/laughing-at-solemn-occasions.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [업무 실수 숨기기](docs/hiding-mistakes-at-work.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엉뚱한 대상에게 화풀이하기](docs/displaced-aggression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [에너지 요금 때문에 식비 줄이기](docs/heat-or-eat.md) ([돈과 소비](groups/money.md))
 - [에스컬레이터 한 줄 서기](docs/escalator-one-line-standing.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
