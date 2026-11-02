@@ -14,6 +14,8 @@
 
 2021년 영국 통계청 자료에서 2020년에 조금이라도 집에서 일한 사람은 주당 평균 6.0시간의 무급 초과근무를 했다. 집에서 전혀 일하지 않은 사람은 3.6시간이었다.[^4]
 
+2024년 해커뉴스 댓글[^5]의 글쓴이는 집에서 일하면 더 오래 일하는 경향이 있고 한 가지에 몰두해 12시간을 일하기도 한다고 적었다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [학술] "However, telecommuting hours are three times more likely to occur as overtime than hours worked on-site." (그러나 재택근무 시간은 사업장에서 일한 시간보다 초과근무로 발생할 가능성이 세 배 높다.) — Jennifer L. Glass, Mary C. Noonan, "Telecommuting and Earnings Trajectories Among American Women and Men 1989–2008", Social Forces 95(1), 2016-05-26, https://pmc.ncbi.nlm.nih.gov/articles/PMC5100676, 2026-11-02 접속
 [^3]: [공공] "It also identifies several disadvantages such as a tendency to work longer hours, and an overlap between paid work and personal life – which can lead to high levels of stress." (보고서는 더 오래 일하는 경향, 유급 노동과 사생활의 겹침 같은 몇 가지 불리한 점도 짚는데 이는 높은 수준의 스트레스로 이어질 수 있다.) — International Labour Organization, "“Working anytime, anywhere”: New report highlights opportunities and challenges of expanding telework", ILO 보도자료, 2017-02-15, https://www.ilo.org/resource/news/new-report-highlights-opportunities-and-challenges-expanding-telework, 2026-11-02 접속
 [^4]: [공공] "People who completed any work from home did 6.0 hours of unpaid overtime on average per week in 2020, compared with 3.6 hours for those that never work from home." (2020년에 조금이라도 집에서 일한 사람은 주당 평균 6.0시간의 무급 초과근무를 했고, 집에서 전혀 일하지 않는 사람은 3.6시간이었다.) — Office for National Statistics, "Homeworking hours, rewards and opportunities in the UK: 2011 to 2020", 2021-04-19, https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/homeworkinghoursrewardsandopportunitiesintheuk2011to2020/2021-04-19, 2026-11-02 접속
+[^5]: [SNS] "The only issue with working form home is that I tend to work longer. I might hyperfocus and pull at 12 hour day or something, but I try not to do this." (집에서 일하는 것의 유일한 문제는 내가 더 오래 일하는 경향이 있다는 것이다. 과하게 몰두해서 12시간을 일하기도 하는데 그러지 않으려고 한다.) — Hacker News 댓글, 2024-10-12, https://news.ycombinator.com/item?id=41815594, 2026-11-02 접속
