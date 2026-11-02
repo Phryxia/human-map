@@ -518,6 +518,7 @@
 - [화재경보를 오작동으로 여기기](docs/dismissing-fire-alarms.md) ([건강과 위험](groups/health-and-safety.md))
 - [황색 신호 앞의 망설임](docs/yellow-light-dilemma.md) ([길과 운전](groups/roads-and-driving.md))
 - [회복기에 일상을 새롭게 느끼기](docs/savoring-ordinary-life-in-convalescence.md) ([건강과 위험](groups/health-and-safety.md))
+- [회사 비품 가져가기](docs/taking-office-supplies.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [회식 참석 부담](docs/company-dinner-pressure.md) ([일터와 일자리](groups/work.md))
 - [효과 없는 버튼 누르기](docs/pressing-placebo-buttons.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [후회 회피](docs/regret-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
