@@ -396,6 +396,7 @@
 - [장애인 전용 주차구역 무단 주차](docs/disabled-parking-misuse.md) ([길과 운전](groups/roads-and-driving.md))
 - [재난 대비 미루기](docs/not-preparing-for-disasters.md) ([건강과 위험](groups/health-and-safety.md))
 - [재난 문자 무시하기](docs/ignoring-emergency-alerts.md) ([건강과 위험](groups/health-and-safety.md))
+- [재택근무 중 더 오래 일하기](docs/working-longer-at-home.md) ([일터와 일자리](groups/work.md))
 - [재활용되기를 바라며 재활용함에 넣기](docs/wishcycling.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [저녁형 성향](docs/evening-chronotype.md) ([시간과 하루 습관](groups/daily-time.md))
 - [적막해서 TV 켜 두기](docs/leaving-tv-on-for-company.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
