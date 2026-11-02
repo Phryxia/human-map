@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-02T00:42:55.865Z",
-  "nextSeq": 3205,
-  "stops": 165,
+  "savedAt": "2026-11-02T03:37:19.868Z",
+  "nextSeq": 3223,
+  "stops": 166,
   "items": [
-    {
-      "id": "daf25b73",
-      "title": "buyers-remorse 보강: 반품 결과, 대립 후보",
-      "priority": 50,
-      "note": "2026-10-31 후보: Frontiers fcomm.2025.1547639 'high return rates ... driven by post-purchase regret', newsis NISX20170726_0000051341 (2017) 사고 나면 기분 좋아짐 55%, retailbrew 2026-05-04 62% 후회, Little Women ch28 Meg 비단 remorse",
-      "createdAt": "2026-10-31T09:10:50.139Z",
-      "seq": 2975
-    },
-    {
-      "id": "b1892a99",
-      "title": "holding-back-tears-at-breakup 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-28 brunch balbam/1 더함. 2026-10-30 지식iN, 네이트판 무소득. 2026-10-31 HN algolia(tried not to cry, held back tears + breakup) 무소득, teamblind YtEUwm24 는 울었다는 글이고 회사명 노출. 남은 곳: forums.beyondblue.org.au, mysupportforums.org 208901 hiding-emotions",
-      "createdAt": "2026-10-31T09:12:05.555Z",
-      "seq": 2976
-    },
-    {
-      "id": "7271d653",
-      "title": "hiding-bedbug-infestation 보강: 한국어 파편",
-      "priority": 50,
-      "note": "2026-10-28 Medill 2017 더함. 한국어 개인 숨김 대목 못 찾음(기사 6곳, 지식iN 무소득). 2026-10-31 elle 81988, khan 202311011603001, kbmaeil, fnnews, seoul.co.kr, koreadaily 에 개인 숨김 대목 없음. 서울신문 2023-11-05 은 업소의 영업 우려 비신고뿐. 예비 후보: CMAJ PMC10205907 (2023), McSweeney's column-7-emma (2010)",
-      "createdAt": "2026-10-31T09:13:01.694Z",
-      "seq": 2977
-    },
-    {
-      "id": "31441d02",
-      "title": "fear-of-blushing 보강: 학술 파편, blushing 결과 간선, fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-10-31 추가. 주간경향 10843 은 blushing F3 로도 쓰여 blushing 쪽 간선 근거로 못 씀. 인과 문장 있는 학술(Drummond 등) 필요",
-      "createdAt": "2026-10-31T09:17:47.197Z",
-      "seq": 2978
-    },
-    {
-      "id": "3bcd6f31",
-      "title": "privacy-paradox 와 agreeing-without-reading-terms 관계",
-      "priority": 50,
-      "note": "2026-10-31 privacy-paradox 추가. 약관 안 읽고 동의가 프라이버시 역설의 한 경우라고 말하는 파편 필요(OAIC 2023 '<35 less likely to read privacy policies', boannews 90975 84.7% 중요 인식). 원인 후보: 편의(HN 43906114)",
-      "createdAt": "2026-10-31T09:21:49.458Z",
-      "seq": 2979
-    },
-    {
-      "id": "b63212c9",
-      "title": "thinking-about-secrets 보강: 다른 시기·SNS 파편, fear-of-being-found-out 관계",
-      "priority": 50,
-      "note": "2026-10-31 추가(SciAm 2017, Slepian 2017 PubMed 28481618). 다른 시기 파편과 1인칭 글 필요. PubMed 30742457 (2020) Shame, guilt, and secrets on the mind 후보",
-      "createdAt": "2026-10-31T09:23:17.559Z",
-      "seq": 2980
-    },
-    {
-      "id": "45d8ad25",
-      "title": "doing-chores-while-staying 보강: 미안함·눈치 대목, shrinking-in-hosts-home·indebtedness 관계",
-      "priority": 50,
-      "note": "2026-10-31 추가. 신세가 미안해 집안일을 한다는 인과 대목 필요(한국어 지식iN·네이트판·캥거루족 기사 무소득)",
-      "createdAt": "2026-10-31T09:28:06.453Z",
-      "seq": 2982
-    },
-    {
-      "id": "d7d7c944",
-      "title": "spouse-financial-concealment 보강: 학술 파편, 한국어 서술 문체",
-      "priority": 50,
-      "note": "2026-10-31 secret-stash-from-spouse 작업 중. 후보 journals.newprairiepress.org/jft/article/id/5697 Jeanfreau 등 2018 '27% of participants have kept a financial secret from their partner'. [^2] 소멸이라 학술 확인됨 파편 보충 필요",
-      "createdAt": "2026-10-31T12:30:22.802Z",
-      "seq": 2990
-    },
-    {
-      "id": "c8cc0978",
-      "title": "wishing-coin-toss 와 superstitious-rituals 관계",
-      "priority": 50,
-      "note": "2026-10-31 wishing-coin-toss 추가. 소원 동전 던지기가 징크스 지키기의 특수한 경우인지(상위 후보). 아주경제 20180403081725447 (2018-04-03) 동전 기부 대목, The Wishing Well 원작 출간 연도 확인 필요",
-      "createdAt": "2026-10-31T12:34:46.815Z",
-      "seq": 2991
-    },
-    {
-      "id": "430d13c7",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-10-27~28 영국·캐나다·아일랜드 의회 403/405. 2026-10-30 korea.kr 무소득. 2026-10-31 gov.uk/nhs.uk/gov.au/canada.ca 'guilty leaving colleagues' 무소득. 남은 방법: likms.assembly.go.kr 회의록, 국가인권위 보도자료. 학술 단서 PMC10248469",
-      "createdAt": "2026-10-31T15:06:10.222Z",
-      "seq": 3003
-    },
-    {
-      "id": "20c2193e",
-      "title": "impostor-phenomenon 보강: perfectionism 원인 간선, 공공 파편",
-      "priority": 50,
-      "note": "2026-10-31 CIO Korea 2017, HSE Perm 2019 추가. therapytoronto.ca/news/?p=28821 (2019-06-01, HSE 보도자료 전재) 'Adaptive perfectionism ... does not lead to impostor syndrome' 는 부정문이라 원인 근거로 약함. Permyakova 외 2019 PAID doi 10.1016/j.paid.2019.02.005",
-      "createdAt": "2026-10-31T15:09:21.701Z",
-      "seq": 3004
-    },
-    {
-      "id": "989944f5",
-      "title": "pet-euthanasia-guilt 보강: 공공 또는 문학 파편",
-      "priority": 50,
-      "note": "2026-10-30 대학 수의대 자료는 매체이거나 대목 없음. 2026-10-31 korea.kr/go.kr 펫로스 안락사 무소득(KB경영연구소 2025 는 민간). 후보: tildes.net ~life.pets/1ua5 (2026-05-20), Galsworthy Memories 1912 확인할 것",
-      "createdAt": "2026-10-31T15:09:52.306Z",
-      "seq": 3005
-    },
-    {
-      "id": "95456fc7",
-      "title": "cute-aggression 보강: rough-affection 관계, 감정 압도 원인",
-      "priority": 50,
-      "note": "Stavropoulos·Alba 2018 Frontiers 에 'relationship between appraisal and cute aggression was significantly mediated by feeling overwhelmed'. Aragón 외 2015 Psychological Science 이형 표현(dimorphous expression). maily 2024 는 눈물·웃음과 비슷한 현상이라 적음",
-      "createdAt": "2026-10-31T15:11:36.853Z",
-      "seq": 3006
-    },
     {
       "id": "fd234a2f",
       "title": "overreporting-desirable-behavior 보강: SNS 파편",
@@ -811,6 +707,70 @@
       "note": "2026-11-02 추가. 공공 후보 못 받음: selwyn.govt.nz·aucklandcouncil 403, lovefoodhatewaste Cloudflare. 다음 후보: lovefoodhatewaste.nsw.gov.au 2015-16 Tracking Survey(PDF), USDA ERS, WRAP. Yahoo 같은 기사 'forget about leftovers once they're out of sight (32%)'",
       "createdAt": "2026-11-02T00:42:46.653Z",
       "seq": 3204
+    },
+    {
+      "id": "9ccebc28",
+      "title": "fear-of-blushing 와 blushing 원인 간선",
+      "priority": 50,
+      "note": "2026-11-02 후보 Drummond 2020 Motivation and Emotion s11031-020-09839-1 초록 'could increase self-awareness of blushing ... hence augmenting fear of blushing' (홍조 경향이 붉어짐 두려움을 키움). Springer 429 로 원문 대조 못 함",
+      "createdAt": "2026-11-02T03:14:06.980Z",
+      "seq": 3215
+    },
+    {
+      "id": "ce772eac",
+      "title": "fear-of-blushing 보강: 학술 파편, blushing 결과 간선, fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가. 주간경향 10843 은 blushing F3 로도 쓰여 blushing 쪽 간선 근거로 못 씀. 2026-11-02 Drummond 2020 s11031-020-09839-1 초록 'hence augmenting fear of blushing' 확인했으나 Springer 429, ifp.nyu.edu 인증서 오류, Murdoch esploro 는 JS 렌더라 원문 대조 불가. 다른 판(PMC, 저자 저장소) 필요",
+      "createdAt": "2026-11-02T03:28:40.104Z",
+      "seq": 3216
+    },
+    {
+      "id": "3ffde507",
+      "title": "thinking-about-secrets 보강: 다른 시기·SNS 파편, fear-of-being-found-out 관계",
+      "priority": 50,
+      "note": "2026-10-31 추가(SciAm 2017, Slepian 2017 PubMed 28481618). 다른 시기 파편과 1인칭 글 필요. 2026-11-02 PubMed 30742457 (Slepian, Kirby, Kalokerinos 2019-02-11 온라인) 초록 'shame was linked with increased mind wandering to the secret. Guilt, in contrast, was linked with reduced mind wandering' 확인(Europe PMC REST). pubmed.ncbi 는 쿠키 벽이라 대조 가능한 판 필요",
+      "createdAt": "2026-11-02T03:29:36.715Z",
+      "seq": 3217
+    },
+    {
+      "id": "1c6b092c",
+      "title": "doing-chores-while-staying 보강: 미안함·눈치 대목, shrinking-in-hosts-home·indebtedness 관계",
+      "priority": 50,
+      "note": "2026-11-02 straightdope 644109 (고마움으로 청소) 더함. 신세가 미안해 집안일을 한다는 인과 대목은 아직 없음(지식iN·네이트판·캥거루족 기사 무소득)",
+      "createdAt": "2026-11-02T03:32:01.836Z",
+      "seq": 3218
+    },
+    {
+      "id": "f72eea13",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-11-02 PMC10248469 학술 더함. 공공 파편은 여전히 없음(영국·캐나다·아일랜드 의회 403/405, korea.kr, gov.uk 등 무소득). 남은 방법: likms.assembly.go.kr 회의록, 국가인권위 보도자료",
+      "createdAt": "2026-11-02T03:34:33.969Z",
+      "seq": 3219
+    },
+    {
+      "id": "990ddf4f",
+      "title": "impostor-phenomenon 보강: perfectionism 원인 간선, 공공 파편",
+      "priority": 50,
+      "note": "2026-10-31 CIO Korea 2017, HSE Perm 2019 추가. therapytoronto 부정문은 근거로 약함. 2026-11-02 PMC7882132 (Thomas·Bigatti 2020 리뷰)에 완벽주의가 가면 현상을 낳는다는 인과 문장 없음. 2025 메타분석 r+=.61 은 상관뿐",
+      "createdAt": "2026-11-02T03:35:07.275Z",
+      "seq": 3220
+    },
+    {
+      "id": "1d7363b7",
+      "title": "pet-euthanasia-guilt 보강: 공공 또는 문학 파편",
+      "priority": 50,
+      "note": "2026-10-30 대학 수의대 자료는 매체이거나 대목 없음. 2026-10-31 korea.kr/go.kr 무소득. 2026-11-02 Galsworthy Memories (Gutenberg 2904) 에 안락사 대목 없음. 남은 후보: tildes.net ~life.pets/1ua5 (2026-05-20)",
+      "createdAt": "2026-11-02T03:36:48.407Z",
+      "seq": 3221
+    },
+    {
+      "id": "926fe893",
+      "title": "cute-aggression 보강: 감정 압도 원인",
+      "priority": 50,
+      "note": "Stavropoulos·Alba 2018 Frontiers 'relationship between appraisal and cute aggression was significantly mediated by feeling overwhelmed'. 감정에 압도되기 문서가 아직 없어 먼저 새 현상 필요. 2026-11-02 rough-affection 은 가까운 사람에게 퉁명스럽게 애정 표현이라 상위 아님, 관계 후보에서 뺌. Aragón 외 2015 이형 표현",
+      "createdAt": "2026-11-02T03:37:09.341Z",
+      "seq": 3222
     },
     {
       "id": "d16898d2",
@@ -2603,6 +2563,14 @@
       "note": "2026-11-02 reading-reviews-before-buying 작업 중. gov.uk fake-reviews-and-sneaky-hidden-fees (2025-04-06) 'top-rated seller ... despite what previous buyers said' 대목, reading-reviews-before-buying 와 대립 후보",
       "createdAt": "2026-11-02T00:15:54.474Z",
       "seq": 3198
+    },
+    {
+      "id": "34d20b49",
+      "title": "buyers-remorse 와 상품 반품 관계",
+      "priority": 10,
+      "note": "2026-11-02 newsis 2017 더함. 반품하기 문서 없음. 후회가 반품으로 이어진다는 파편(Frontiers fcomm.2025.1547639 'high return rates driven by post-purchase regret', retailbrew 2026-05-04)으로 새 현상 후 결과 간선. Little Women 은 Gutenberg 514 가 이미 4문서라 못 씀",
+      "createdAt": "2026-11-02T03:07:00.257Z",
+      "seq": 3214
     },
     {
       "id": "02b2f242",
