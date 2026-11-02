@@ -12,6 +12,7 @@
 - [뒷좌석 안전띠 미착용](../docs/rear-seat-belt-nonuse.md) 자동차 뒷좌석에 탄 사람이 불편하거나 잊거나 뒷좌석이 안전하다고 믿어서 안전띠를 매지 않는다.
 - [리콜 수리 받지 않기](../docs/ignoring-vehicle-recalls.md) 리콜 통지를 받은 차주가 무상 수리를 받으러 가지 않는다.
 - [무단횡단](../docs/jaywalking.md) 보행자가 신호가 빨간불일 때나 횡단보도가 없는 곳에서 차도를 건넌다.
+- [방향지시등 켜지 않기](../docs/not-using-turn-signals.md) 운전자가 차로를 바꾸거나 방향을 틀 때 방향지시등을 켜지 않는다.
 - [병적 호기심](../docs/morbid-curiosity.md) 죽음이나 폭력, 다친 몸을 담은 장면 앞에서 사람이 그 장면을 스스로 골라 보거나 보고 싶어 한다.
   - [사고 현장 구경하기](../docs/rubbernecking.md)
 - [신호 대기 중의 답답함](../docs/impatience-at-red-light.md) 횡단보도에서 빨간불이 바뀌기를 기다리는 보행자가 기다림을 답답해하고 오래 기다릴수록 기다림을 끝내려 한다.
