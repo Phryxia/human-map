@@ -12,7 +12,7 @@
 
 2016년 연구[^5]의 저자는 요청하는 사람이 승낙을 과소평가하는 까닭을 거절의 어색함을 헤아리지 못하는 데서 찾는다. 2019년 글[^6]의 글은 거절하면 무례해 보일까 봐 사람들이 할 수 없다는 말을 하지 못한다고 적는다.
 
-2022년 연구[^7]의 저자들은 거절이 어려운 까닭의 일부를 거절한 뒤 겪을 부정적 결과에 대한 걱정에서 찾는다. 2024년 연구[^8]의 저자들은 사람들이 거절하고 싶은 요청에도 응하는 까닭을 거절하기가 어렵다는 데서 찾는다.
+2022년 연구[^7]의 저자들은 거절이 어려운 까닭의 일부를 거절한 뒤 겪을 부정적 결과에 대한 걱정에서 찾는다. 2023년 9월 칼럼[^8]의 필자는 착한 아이 콤플렉스를 지닌 사람이 거부당하지 않으려고 거절을 잘 못한다고 적었다. 2024년 연구[^9]의 저자들은 사람들이 거절하고 싶은 요청에도 응하는 까닭을 거절하기가 어렵다는 데서 찾는다.
 
 # 관계
 
@@ -26,6 +26,7 @@
 
 ## 원인
 
+- [남의 비위 맞추기](people-pleasing.md)[^8]
 - [부정적 평가에 대한 두려움](fear-of-negative-evaluation.md)[^6]
 
 ## 결과
@@ -45,4 +46,5 @@
 [^5]: [학술] "We find that this error results from requesters’ failure to appreciate the awkwardness of saying “no” to a request." (이 오류는 요청하는 사람이 요청에 "아니요" 라고 말하는 일의 어색함을 헤아리지 못하는 데서 생긴다.) — Vanessa K. Bohns, "(Mis)Understanding Our Influence over Others: A Review of the Underestimation-of-Compliance Effect", Current Directions in Psychological Science, Cornell eCommons, 2016, https://ecommons.cornell.edu/entities/publication/2c50b460-fb5c-4490-9047-9bb02b9f6f25, 2026-10-19 접속
 [^6]: [매체] "No-one wants to appear rude by saying no, and often it is this that stop people from saying that they can’t do something." (거절해서 무례해 보이고 싶은 사람은 없고, 사람들이 할 수 없다고 말하지 못하게 막는 것은 흔히 이것이다.) — Ruth Hoey, "Why do we find it hard to say no?", The Stress Management Society, 2019-03-12, https://www.stress.org.uk/why-do-we-find-it-hard-to-say-no/, 2026-10-19 접속
 [^7]: [학술] "People often find it difficult to refuse requests from others partially because they are concern about the negative consequences they will face from saying “no.”" (사람들이 남의 요청을 거절하기 어려워하는 것은 "아니요" 라고 말한 뒤 겪을 부정적 결과를 걱정하기 때문이기도 하다.) — Lu, Fang, Qiu, "Rejecters Overestimate the Negative Consequences They Will Face From Refusal", Journal of Experimental Psychology: Applied 29(2), East China Normal University 저장소, 2022-10-06, https://pure.ecnu.edu.cn/en/publications/rejecters-overestimate-the-negative-consequences-they-will-face-f/, 2026-10-19 접속
-[^8]: [학술] "People often agree with requests—even those they would rather refuse—because it is so hard to say no." (사람들은 요청에, 거절하고 싶은 요청에도, 자주 응한다. 거절하기가 그만큼 어렵기 때문이다.) — Rachel Schlund, Roseanna Sommers, Vanessa K. Bohns, "Giving people the words to say no leads them to feel freer to say yes", Scientific Reports 14, 2024-01-05, https://www.nature.com/articles/s41598-023-50532-3, 2026-10-19 접속
+[^8]: [매체] "하나는 거부 민감성이고, 다른 하나는 착한 아이 콤플렉스다. 둘 다 맥락은 같다. 다른 사람에게 거부당할까 봐 불안해하고, 거부당하지 않기 위해 거절을 잘 못한다는 것이다." — 강원국, 「[요즘 어른의 관계맺기](7)삶의 지경을 지키는 거절」, 주간경향, 2023-09-15, https://weekly.khan.co.kr/article/202309151058301, 2026-11-02 접속
+[^9]: [학술] "People often agree with requests—even those they would rather refuse—because it is so hard to say no." (사람들은 요청에, 거절하고 싶은 요청에도, 자주 응한다. 거절하기가 그만큼 어렵기 때문이다.) — Rachel Schlund, Roseanna Sommers, Vanessa K. Bohns, "Giving people the words to say no leads them to feel freer to say yes", Scientific Reports 14, 2024-01-05, https://www.nature.com/articles/s41598-023-50532-3, 2026-10-19 접속

@@ -3027,9 +3027,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2600/pg2600-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-30",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-02"
   },
   "https://www.seoul.co.kr/news/1993/02/17/19930217012001": {
     "first": "2026-10-18",
@@ -3201,21 +3201,21 @@
   },
   "https://www.gutenberg.org/cache/epub/2860/pg2860-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-02"
   },
   "https://www.newswire.co.kr/newsRead.php?no=311420": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-02"
   },
   "https://news.ycombinator.com/item?id=8064581": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-02"
   },
   "https://ecommons.cornell.edu/entities/publication/2c50b460-fb5c-4490-9047-9bb02b9f6f25": {
     "first": "2026-10-19",
@@ -3225,8 +3225,8 @@
   },
   "https://www.nature.com/articles/s41598-023-50532-3": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
-    "result": "VERIFIED",
+    "last": "2026-11-02",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://www.gutenberg.org/cache/epub/514/pg514-images.html": {
@@ -3333,15 +3333,15 @@
   },
   "https://www.stress.org.uk/why-do-we-find-it-hard-to-say-no/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-02"
   },
   "https://pure.ecnu.edu.cn/en/publications/rejecters-overestimate-the-negative-consequences-they-will-face-f/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-02"
   },
   "https://research.vu.nl/en/publications/deservingness-and-schadenfreude/": {
     "first": "2026-10-19",
@@ -14225,15 +14225,15 @@
   },
   "https://psyche.co/guides/how-to-stop-people-pleasing-by-learning-to-say-no": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12318589/": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19485619&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
@@ -14381,9 +14381,9 @@
   },
   "https://news.ycombinator.com/item?id=46748237": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://news.ycombinator.com/item?id=35434503": {
     "first": "2026-10-30",
@@ -16135,15 +16135,15 @@
   },
   "https://www.publishersweekly.com/9780071460781": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://weekly.khan.co.kr/article/202309151058301": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.nice.org.uk/guidance/cg76/chapter/Recommendations": {
     "first": "2026-11-01",
@@ -16177,9 +16177,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2870/pg2870.txt": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://news.ycombinator.com/item?id=10916873": {
     "first": "2026-11-01",
