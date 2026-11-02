@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-02T16:01:14.572Z",
-  "nextSeq": 3348,
-  "stops": 170,
+  "savedAt": "2026-11-02T18:54:10.093Z",
+  "nextSeq": 3368,
+  "stops": 171,
   "items": [
     {
       "id": "9d20f27d",
@@ -59,14 +59,6 @@
       "note": "2026-11-01 후보: Psychology Today 2020-02-24 Doka good-mourning/202002 (유언 갈등의 유일한 예측 변수는 이전 갈등), 법률신문 2024-02-26 lawtimes 196169 (장자 상속을 다른 상속인이 문제 삼음), 머니투데이 2026-02-14 사법연감 상속재산분할 접수 2776건. 사법연감 PDF 는 열리지 않음",
       "createdAt": "2026-11-01T18:12:37.470Z",
       "seq": 3159
-    },
-    {
-      "id": "3d044736",
-      "title": "mother-in-law-conflict 보강: 다른 시기 문학 파편과 결과 간선",
-      "priority": 50,
-      "note": "2026-11-01 후보: zh.wikisource 孔雀東南飛 '阿母謂府吏 何乃太區區 此婦無禮節' 6구(성립 시기 확인 필요), 농민신문 2009-02-23 nongmin.com/article/20090221076544 남편 방관형이 세 사람 모두를 가장 힘들게 함, PMC9726850 2022 시어머니 갈등과 산모 우울 연관, 산림청 2018-11-08 korea.kr 156303001",
-      "createdAt": "2026-11-01T18:19:32.440Z",
-      "seq": 3160
     },
     {
       "id": "9efed740",
@@ -171,14 +163,6 @@
       "note": "2026-11-01 MSE 2013 SNS 파편 더함. 2000년대 후보 MSE discussion/527535/resisting-takeaways (2007-08-14, 지쳐서 요리할 엄두를 못 냄, 원문에 takeaway 없음). 통계청·식품소비행태조사·FSA 는 PDF 만",
       "createdAt": "2026-11-01T21:36:58.740Z",
       "seq": 3186
-    },
-    {
-      "id": "6a648c38",
-      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-11-01 HN 2025 SNS 파편 더함. Ofcom 회피 수치는 PDF 에만. 기자협회보 56602 이유 문항 '안 좋은 뉴스가 너무 많아서'(3.62점)",
-      "createdAt": "2026-11-01T21:37:35.242Z",
-      "seq": 3187
     },
     {
       "id": "05672702",
@@ -563,6 +547,70 @@
       "note": "2026-11-02 AgingCare 434079 스레드 댓글 2017-12 'you’re not grieving right now because it’s been a relief from all of your duties' 는 결과 no-tears-at-funeral 근거 후보이나 같은 URL 을 anticipatory-grief 가 쓰므로 다른 문서에 넣으면 SNS 같은 글 WARN. 다른 출처 필요. Levy 1976 PMID 957295, Sons and Lovers 217",
       "createdAt": "2026-11-02T15:59:03.844Z",
       "seq": 3342
+    },
+    {
+      "id": "29a0beb2",
+      "title": "slowing-only-at-speed-cameras 보강: SNS 파편과 원인 간선",
+      "priority": 50,
+      "note": "2026-11-02 후보: examiner.co.uk drivers-pass-cameras-speed-up-5087941 (2004-07-12) 카메라 지난 뒤 잃은 시간 만회 과속, feeling-rushed 원인 후보. LSE 2017-10-25 보도자료 카메라 너머 사고 반등을 kangaroo effect 로 추정. SBS Biz 2023-09-30 biz.sbs.co.kr/amp/article/20000137654 후면 단속 적발",
+      "createdAt": "2026-11-02T18:26:13.400Z",
+      "seq": 3359
+    },
+    {
+      "id": "e57ad882",
+      "title": "mother-in-law-conflict 보강: 결과 간선",
+      "priority": 50,
+      "note": "2026-11-02 孔雀東南飛 문학 파편 더함. 남은 후보: PMC9726850 2022 시어머니 갈등과 산모 우울 연관(결과 간선 후보), 산림청 2018-11-08 korea.kr 156303001 (공공)",
+      "createdAt": "2026-11-02T18:37:33.851Z",
+      "seq": 3360
+    },
+    {
+      "id": "39f1401c",
+      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-11-01 HN 2025 SNS 파편 더함. Ofcom 회피 수치는 PDF 에만. 2026-11-02 ofcom.org.uk siteassets 의 making-sense-of-media-bulletin-november-2020 은 403. 기자협회보 56602 이유 문항 '안 좋은 뉴스가 너무 많아서'(3.62점), 기자협회보 51706 (2022) 회피경험 3명 중 2명",
+      "createdAt": "2026-11-02T18:37:38.934Z",
+      "seq": 3361
+    },
+    {
+      "id": "813d2120",
+      "title": "blocking-the-intersection 보강: 관계와 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-02 yellow-light-dilemma 와 관계 검토(경기일보 2008 [^2] 황색 신호에서 멈출 줄 알면서 진입, news.seoul traffic 5181 [^4] 황색 신호 순간 꼬리물기). CSM 1986-12-17 m.csmonitor.com/1986/1217/atraff-f.html gridlock 결과. news.seoul 5181 서울연구원 2011 조사 정체 습관 중 꼬리물기 23.7%",
+      "createdAt": "2026-11-02T18:40:22.477Z",
+      "seq": 3362
+    },
+    {
+      "id": "3a472ef9",
+      "title": "tolerating-unpaid-wages 보강: 관계와 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-02 not-reporting-workplace-injury, enduring-workplace-harassment 와 공통 상위(직장에서 불이익을 참고 넘기기) 검토. 머니투데이 2026-09-19 mt.co.kr/article/2026091813444187671 회사 사정 듣고 월급 기다림. Hansard 2003 같은 페이지 'afraid of losing their job' 대목",
+      "createdAt": "2026-11-02T18:43:32.179Z",
+      "seq": 3363
+    },
+    {
+      "id": "d6c8fe79",
+      "title": "hiding-mistakes-at-work 보강: 한국어 파편과 원인 간선",
+      "priority": 50,
+      "note": "2026-11-02 후보: ITPro 2025-07-09 itpro.com covering-up-cyber-attacks 숨기는 이유 17% 잘못으로 보이기 싫어서, PSNet new-perspective-blame-culture-experimental-study (2012-06) 위계가 낮을수록 처벌 두려움, Martinez 2013 결론 punitive response 가 공개를 막음(원인 간선 후보). 한국어 출처 없음",
+      "createdAt": "2026-11-02T18:46:04.235Z",
+      "seq": 3364
+    },
+    {
+      "id": "7b4352d6",
+      "title": "keeping-browser-tabs-open 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-02 Chang 등 CHI 2021 'When the Tab Comes Due' 초록은 ACM DL 이 Cloudflare 봇 확인, semanticscholar 빈 응답. 다른 판(arXiv, CMU KiltHub) 찾기. 후보: uxplanet tab-hoarding, CMU 보도자료 B 대목 reminders·다시 찾기 두려움",
+      "createdAt": "2026-11-02T18:48:33.198Z",
+      "seq": 3365
+    },
+    {
+      "id": "c8bb3c63",
+      "title": "reluctance-to-delegate 보강: 한국어·공공 파편",
+      "priority": 50,
+      "note": "2026-11-02 후보: 교보eBook E000002957358 『팀장 리더십 수업』 소개 '업무를 지시하는 것보다 내가 하는 게 빠르다' (2021-03-15), Irish Times 같은 글 'reluctant to give up control', managementblog 2004 독자 질문 'let down too many times', KIT Responsibility Hoarding (PDF)",
+      "createdAt": "2026-11-02T18:50:31.604Z",
+      "seq": 3366
     },
     {
       "id": "d16898d2",
@@ -2555,6 +2603,14 @@
       "note": "2026-11-02 no-tears-at-funeral 원인 후보. 오래 간병한 가족이 죽음 전에 미리 슬퍼하는 현상. agingcare 434079, caregivers.com 432378",
       "createdAt": "2026-11-02T15:57:32.151Z",
       "seq": 3340
+    },
+    {
+      "id": "c3a0a3c6",
+      "title": "주차 차량 파손 뒤 연락처 없이 떠나기",
+      "priority": 10,
+      "note": "2026-11-02 매체 후보만 확보: claimsjournal 2013-05-30 amp.claimsjournal.com/news/west/2013/05/30/229820.htm 47% 메모 없이 떠남, prnewswire.co.uk nextbase 2023-11-20 목격자 없을 때 14%, dt.co.kr/article/11124481 (2017-10-24) '물피 도주' 정의, metroseoul 2014121200117 민원. 공공·학술 못 찾음. 다음: 국회 의안정보시스템 도로교통법 개정안 검토보고서 HTML, 경찰청 2017 범칙금 신설 korea.kr 판, UK written questions failing to stop damage-only",
+      "createdAt": "2026-11-02T18:54:02.716Z",
+      "seq": 3367
     },
     {
       "id": "02b2f242",
