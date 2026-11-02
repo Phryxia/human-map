@@ -1858,9 +1858,9 @@
   },
   "https://www.kdca.go.kr/bbs/kdca/42/312943/artclView.do": {
     "first": "2026-10-18",
-    "last": "2026-10-30",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-02"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15738853&resultType=core&format=json": {
     "first": "2026-10-18",
@@ -2907,9 +2907,9 @@
   },
   "https://electionacademy.lib.umn.edu/2014/02/24/new-pew-dispatch-examines-new": {
     "first": "2026-10-18",
-    "last": "2026-10-29",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-02"
   },
   "https://www.pewresearch.org/short-reads/2020/12/14/most-americans-dont-answer-cellphone-calls-from-unknown-numbers/": {
     "first": "2026-10-18",
@@ -11996,9 +11996,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30191358&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
-    "last": "2026-10-29",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-02"
   },
   "https://pann.nate.com/talk/315338036": {
     "first": "2026-10-27",
@@ -13039,9 +13039,9 @@
   },
   "https://lauravanderkam.com/2014/01/guess-what-exercise/": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-02"
   },
   "https://ehospice.com/uk_posts/talking-about-bereavement-still-a-taboo-for-many-brits/": {
     "first": "2026-10-29",
@@ -17238,6 +17238,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://www.wikitree.co.kr/articles/1155712": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://boards.straightdope.com/t/what-statistical-things-do-people-perpetually-lie-about/408919/53": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
