@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-02T18:54:10.093Z",
-  "nextSeq": 3368,
-  "stops": 171,
+  "savedAt": "2026-11-02T21:32:06.853Z",
+  "nextSeq": 3388,
+  "stops": 172,
   "items": [
-    {
-      "id": "9d20f27d",
-      "title": "burning-farm-waste 보강: working-through-heat 관계",
-      "priority": 50,
-      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
-      "createdAt": "2026-11-01T15:29:03.813Z",
-      "seq": 3147
-    },
-    {
-      "id": "a8947ebc",
-      "title": "not-preparing-for-disasters 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-11-01 원인 unrealistic-optimism 을 Brazos 팟캐스트 [^8] 로 이음. SNS 파편 없음. 후보: thebig.ca disaster-preparedness (2020-10-28) it won't happen to me mentality, Knowledge at Wharton ostriches-can-teach-us-risk (2017-02-07), Trumbo 2014 PMID 24286290",
-      "createdAt": "2026-11-01T15:32:21.433Z",
-      "seq": 3148
-    },
-    {
-      "id": "c2101372",
-      "title": "refusing-statistical-surveys 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-01 HN 45954551 [^8] 더함. 사생활 걱정 문서가 생기면 Census CED-WP-2025-002 와 [^8] 이 원인 간선 근거 후보. 다른 후보 HN 22435040 (2020-02-27) 조사원 방문 뒤에도 거절",
-      "createdAt": "2026-11-01T15:34:00.827Z",
-      "seq": 3149
-    },
-    {
-      "id": "7c8253ce",
-      "title": "disabled-parking-misuse 보강: brief-illegal-parking 관계",
-      "priority": 50,
-      "note": "2026-11-01 HN 15158887 [^6] 더함. HN 22233290 (2020-02-04) 장애인 당사자가 'it'll just be a minute' 핑계를 옮김(원문 202자 넘을 수 있음, 끝 ... 원글 부호), HN 21106915 (2019-09-29) 친척 표지 빌려 주차. 서울신문 2015 [^4] 잠시만 대목으로 brief-illegal-parking 상위 검토",
-      "createdAt": "2026-11-01T15:35:54.319Z",
-      "seq": 3150
-    },
-    {
-      "id": "91116781",
-      "title": "road-rage 보강: anger-suppression 대립, 학술 근거",
-      "priority": 50,
-      "note": "2026-11-01 원인 suppressed-anger-outburst 를 mediahub 858195 로 이음. 후보: shelburnefreepress.ca ask-a-psychotherapist-9 (2014-01-22) displaced anger 를 익명성 속에 운전 중 터뜨림",
-      "createdAt": "2026-11-01T15:38:14.413Z",
-      "seq": 3151
-    },
-    {
-      "id": "69fde0e3",
-      "title": "yellow-light-dilemma 보강: 한국 공공 파편과 관계",
-      "priority": 50,
-      "note": "2026-10-31 한국 공공 HTML 못 찾음. 2026-11-01 news.koroad.or.kr vol78 sub04, vol89 sub06 딜레마존 글은 이 환경에서 ENOTFOUND. KCI ART001145741 황색신호 딜레마 운전자 행동(학술). 예비: PubMed 25907375, PubMed 4096798. jaywalking, impatience-at-red-light 와 관계 검토",
-      "createdAt": "2026-11-01T15:40:17.438Z",
-      "seq": 3152
-    },
-    {
-      "id": "d8cbe77b",
-      "title": "inheritance-disputes 보강: 원인 간선과 공공 파편",
-      "priority": 50,
-      "note": "2026-11-01 후보: Psychology Today 2020-02-24 Doka good-mourning/202002 (유언 갈등의 유일한 예측 변수는 이전 갈등), 법률신문 2024-02-26 lawtimes 196169 (장자 상속을 다른 상속인이 문제 삼음), 머니투데이 2026-02-14 사법연감 상속재산분할 접수 2776건. 사법연감 PDF 는 열리지 않음",
-      "createdAt": "2026-11-01T18:12:37.470Z",
-      "seq": 3159
-    },
-    {
-      "id": "9efed740",
-      "title": "pressuring-children-to-marry 보강: 결과 간선 skipping-holiday-homecoming",
-      "priority": 50,
-      "note": "2026-11-01 서울신문 2017-10-02 seoul.co.kr/news/society/2017/10/02/20171002002007 '빨리 결혼하라는 잔소리는 더욱 집요해졌고 ... 압박도 계속됐기 때문이다' 로 귀성 안 함. China Daily 2017 'More than 32 percent are increasingly unwilling to go home'. 공공 파편 없음",
-      "createdAt": "2026-11-01T18:25:17.548Z",
-      "seq": 3161
-    },
-    {
-      "id": "5d732d32",
-      "title": "hiding-regional-accent 보강: 학술과 SNS 파편, 사투리 차별 원인",
-      "priority": 50,
-      "note": "2026-11-01 후보: Kipps 1905 Gutenberg 39162 h 발음 고침, Tess 1891 Gutenberg 110 집에서는 사투리 밖에서는 표준 영어, 클리앙 park/19221072 댓글 고향 가면 사투리 복귀(끝 ...), 매일신문 2016-01-01 2016010101484233431 촌스럽다고 감추던 사투리, Manchester 2014 응답자 셋 중 하나 가짜 느낌",
-      "createdAt": "2026-11-01T18:29:00.825Z",
-      "seq": 3162
-    },
-    {
-      "id": "055e8509",
-      "title": "comparing-children-to-others 보강: SNS 파편과 bragging-about-children 관계",
-      "priority": 50,
-      "note": "2026-11-01 후보: Frontiers 2025 결론(부모의 사회적 비교가 자존감에 부정적 영향) 원인 간선 후보, 전북일보 2008 엄친아 정의 대목, 서울신문 2014-11-07 함인희 칼럼 엄친아의 배신. 공개 SNS 글 미확보",
-      "createdAt": "2026-11-01T18:32:07.718Z",
-      "seq": 3163
-    },
-    {
-      "id": "6b953c40",
-      "title": "exiting-the-way-you-came 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-01 SNS 파편 더함. delayed-evacuation, dismissing-fire-alarms 와 관계 검토 남음. 후보: Lund 1999 lup.lub.lu.se/record/783746 익숙한 출구 선택, cyclechat.net/threads/fire.283985/post-6685944 (2022 교실 비상구 두고 되짚어 나감, 교관에게 들은 이야기)",
-      "createdAt": "2026-11-01T21:10:07.165Z",
-      "seq": 3177
-    },
-    {
-      "id": "7baa8280",
-      "title": "refusing-mobility-aids 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-01 Darlington 공공 파편 더함. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 매체 후보 한국경제 2019110695681 국립교통재활병원장 칼럼(403)",
-      "createdAt": "2026-11-01T21:20:51.960Z",
-      "seq": 3178
-    },
-    {
-      "id": "60feb86d",
-      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
-      "priority": 50,
-      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
-      "createdAt": "2026-11-01T21:21:59.597Z",
-      "seq": 3179
-    },
     {
       "id": "42844c2f",
       "title": "keeping-leftover-medicines 보강: 원인 간선",
@@ -611,6 +507,78 @@
       "note": "2026-11-02 후보: 교보eBook E000002957358 『팀장 리더십 수업』 소개 '업무를 지시하는 것보다 내가 하는 게 빠르다' (2021-03-15), Irish Times 같은 글 'reluctant to give up control', managementblog 2004 독자 질문 'let down too many times', KIT Responsibility Hoarding (PDF)",
       "createdAt": "2026-11-02T18:50:31.604Z",
       "seq": 3366
+    },
+    {
+      "id": "86f6989a",
+      "title": "burning-farm-waste 보강: working-through-heat 관계",
+      "priority": 50,
+      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
+      "createdAt": "2026-11-02T21:05:12.747Z",
+      "seq": 3378
+    },
+    {
+      "id": "8fa73a40",
+      "title": "refusing-statistical-surveys 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-01 HN 45954551 [^8] 더함. 사생활 걱정 문서가 생기면 Census CED-WP-2025-002 와 [^8] 이 원인 간선 근거 후보. 다른 후보 HN 22435040 (2020-02-27) 조사원 방문 뒤에도 거절",
+      "createdAt": "2026-11-02T21:08:22.901Z",
+      "seq": 3379
+    },
+    {
+      "id": "96c1bcd5",
+      "title": "road-rage 보강: anger-suppression 대립, 학술 근거",
+      "priority": 50,
+      "note": "2026-11-01 원인 suppressed-anger-outburst 를 mediahub 858195 로 이음. 후보: shelburnefreepress.ca ask-a-psychotherapist-9 (2014-01-22) displaced anger 를 익명성 속에 운전 중 터뜨림",
+      "createdAt": "2026-11-02T21:08:26.613Z",
+      "seq": 3380
+    },
+    {
+      "id": "25462815",
+      "title": "yellow-light-dilemma 보강: blocking-the-intersection, impatience-at-red-light 관계",
+      "priority": 50,
+      "note": "2026-11-02 KOTI 카드뉴스 [^5] 더함. 후보: news.seoul.go.kr/traffic/archives/5181 (2012-09-20) 황색신호 순간 무리한 꼬리물기(blocking-the-intersection 이 이미 씀), easylaw 솔로몬의 재판 trialNo=2134 이번에 못 지나면 오래 기다린다는 생각에 가속, mediahub 2008080 (2023-05-31) 딜레마존이라 빠르게 지나감",
+      "createdAt": "2026-11-02T21:14:13.672Z",
+      "seq": 3381
+    },
+    {
+      "id": "1f245b0b",
+      "title": "inheritance-disputes 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-11-02 서울중앙지법 칼럼 2016 [^4] 더함. 후보: nsw.gov.au trustee-guardian silent-inheritance (2026-09-22) 설명 없는 유언 결정이 원망을 낳음, 남매 하나가 결정을 집안 자기 자리에 대한 판정으로 느낌. sibling-jealousy-over-favoritism 와 원인 간선 검토. gov.uk Family Court Statistics Q4 2021 contested probate 68->104",
+      "createdAt": "2026-11-02T21:17:03.489Z",
+      "seq": 3382
+    },
+    {
+      "id": "7419c551",
+      "title": "hiding-regional-accent 보강: 원인 간선(억양 편견)",
+      "priority": 50,
+      "note": "2026-11-02 Evans 2007 [^5], HN 19636950 [^9] 더함. 후보: PMC5604747 Friedman 2016 'if I do my own accent I am actually doing myself out of the job', koreascience JAKO201110264496547 (2011) 면접 사투리 불안, PMC12851482 (2026) 차별 회피 전략 추측. 억양 편견 문서가 없음",
+      "createdAt": "2026-11-02T21:26:26.397Z",
+      "seq": 3383
+    },
+    {
+      "id": "0f7f16a5",
+      "title": "comparing-children-to-others 보강: bragging-about-children 관계, 별칭 엄친아",
+      "priority": 50,
+      "note": "2026-11-02 clien park/9712496 [^4] 더함. 후보: clien park/2329693 (2011-12-21) 엄친딸 연봉 비교, clien park/18131856 (2023-06-13) 댓글 비교하면 더 잘할 거라 생각, HN 37452946 (2023-09-10) 형제 사촌 또래와 끊임없이 비교",
+      "createdAt": "2026-11-02T21:31:33.002Z",
+      "seq": 3384
+    },
+    {
+      "id": "24a3e96c",
+      "title": "refusing-mobility-aids 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-01 Darlington 공공 파편 더함. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 매체 후보 한국경제 2019110695681 국립교통재활병원장 칼럼(403)",
+      "createdAt": "2026-11-02T21:31:54.913Z",
+      "seq": 3386
+    },
+    {
+      "id": "25dd6ffc",
+      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
+      "priority": 50,
+      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
+      "createdAt": "2026-11-02T21:32:00.254Z",
+      "seq": 3387
     },
     {
       "id": "d16898d2",
@@ -2611,6 +2579,14 @@
       "note": "2026-11-02 매체 후보만 확보: claimsjournal 2013-05-30 amp.claimsjournal.com/news/west/2013/05/30/229820.htm 47% 메모 없이 떠남, prnewswire.co.uk nextbase 2023-11-20 목격자 없을 때 14%, dt.co.kr/article/11124481 (2017-10-24) '물피 도주' 정의, metroseoul 2014121200117 민원. 공공·학술 못 찾음. 다음: 국회 의안정보시스템 도로교통법 개정안 검토보고서 HTML, 경찰청 2017 범칙금 신설 korea.kr 판, UK written questions failing to stop damage-only",
       "createdAt": "2026-11-02T18:54:02.716Z",
       "seq": 3367
+    },
+    {
+      "id": "e995004b",
+      "title": "현상 유지 편향",
+      "priority": 10,
+      "note": "2026-11-02 exiting-the-way-you-came 의 상위 후보(위급할 때도 익숙한 출구를 고름). delayed-evacuation 과는 원인 파편이 없어 관계를 긋지 않음. 후보: Lund 1999 lup.lub.lu.se/record/783746 익숙한 출구 선택",
+      "createdAt": "2026-11-02T21:31:50.513Z",
+      "seq": 3385
     },
     {
       "id": "02b2f242",
