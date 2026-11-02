@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-02T09:41:07.182Z",
-  "nextSeq": 3264,
-  "stops": 168,
+  "savedAt": "2026-11-02T12:37:38.618Z",
+  "nextSeq": 3275,
+  "stops": 169,
   "items": [
-    {
-      "id": "10f4ef16",
-      "title": "buying-souvenirs-for-others 보강: thank-you-gift 또는 미안함 관계",
-      "priority": 50,
-      "note": "2026-11-01 GLOBIS 2026-07-20 'Giving Omiyage serves as both a thank you and a subtle apology.' 시대 2014 3위 '업무를 대신 해준 것이 미안해서'. 브런치 marupark/8 기념품 못 받은 소외 후보",
-      "createdAt": "2026-11-01T00:15:42.963Z",
-      "seq": 3038
-    },
     {
       "id": "b33975a4",
       "title": "writing-in-book-margins 보강: 도서관 책 낙서, 책을 깨끗이 두는 독자",
@@ -787,6 +779,30 @@
       "note": "2026-11-02 경기일보 2022-03-14 추가. 이제 매체 2015, 공공 2017, SNS 2019, 매체 2022. 학술 초록 못 찾음(영문 검색은 업계 설문뿐: Green America 2019, Yocuda 2024). 2005년 이전이나 2025년 이후 출처 필요",
       "createdAt": "2026-11-02T09:41:06.149Z",
       "seq": 3263
+    },
+    {
+      "id": "ded36b15",
+      "title": "skipping-bedtime-toothbrushing 보강: 공공 파편, 음주 뒤 양치 거르기",
+      "priority": 50,
+      "note": "2026-11-02 공공 후보: 질병관리청 국민건강영양조사 잠자기 전 칫솔질 실천율 2024 53.4%(보도자료가 download.do 파일이라 미확인). kukinews 2012, 2016 음주 뒤 양치 기사 403. dentistry.co.uk 2011 '(26%) admitting to the regular gap in their bedtime regimes' 남성 비율",
+      "createdAt": "2026-11-02T12:33:35.014Z",
+      "seq": 3272
+    },
+    {
+      "id": "a13789ef",
+      "title": "late-night-eating 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-11-02 식약처 2026-02-24 korea.kr 148959906 '청년층(19\\~34세)은 야식과 패스트푸드, 라면 섭취를 줄이고' 권고문. 저녁형→야식 인과 원문은 못 찾음(Griffith 2026-07-14 상관만)",
+      "createdAt": "2026-11-02T12:36:42.277Z",
+      "seq": 3273
+    },
+    {
+      "id": "8bcaa6a3",
+      "title": "buying-souvenirs-for-others 보강: thank-you-gift 또는 미안함 관계",
+      "priority": 50,
+      "note": "2026-11-01 GLOBIS 2026-07-20 'Giving Omiyage serves as both a thank you and a subtle apology.' 시대 2014 3위 '업무를 대신 해준 것이 미안해서'. 브런치 marupark/8 기념품 못 받은 소외 후보. 2026-11-02 GLOBIS 는 이미 [^5] 로 쓰여 같은 출처의 다른 대목을 더할 수 없다. 다른 출처 필요",
+      "createdAt": "2026-11-02T12:37:33.894Z",
+      "seq": 3274
     },
     {
       "id": "d16898d2",
