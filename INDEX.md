@@ -513,4 +513,5 @@
 - [후회 회피](docs/regret-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [휴일에 나타나는 몸의 증상](docs/leisure-sickness.md) ([건강과 위험](groups/health-and-safety.md))
 - [흥정 회피](docs/avoiding-haggling.md) ([돈과 소비](groups/money.md))
+- [흰머리 뽑기](docs/plucking-gray-hairs.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [힘든 사정 털어놓지 않기](docs/keeping-hardship-to-oneself.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
