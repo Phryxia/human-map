@@ -203,6 +203,7 @@
 - [보내지 않는 편지 쓰기](docs/unsent-letters.md) ([메시지와 휴대전화](groups/messages-and-phones.md), [가까운 사이의 감정과 말](groups/close-relationships.md))
 - [보낸 메시지 후회](docs/senders-remorse.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보는 눈이 있을 때 행동 바꾸기](docs/behaving-better-when-watched.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [보도블록 금 밟지 않기](docs/avoiding-pavement-cracks.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [보복이 두려워 신고하지 않기](docs/not-reporting-for-fear-of-reprisal.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [보상을 기다리며 불만 없이 일하기](docs/silent-work-awaiting-reward.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [보이지 않을 때까지 배웅하기](docs/watching-until-out-of-sight.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
