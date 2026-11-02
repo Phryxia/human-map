@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-02T03:37:19.868Z",
-  "nextSeq": 3223,
-  "stops": 166,
+  "savedAt": "2026-11-02T06:42:09.898Z",
+  "nextSeq": 3235,
+  "stops": 167,
   "items": [
     {
       "id": "fd234a2f",
@@ -771,6 +771,54 @@
       "note": "Stavropoulos·Alba 2018 Frontiers 'relationship between appraisal and cute aggression was significantly mediated by feeling overwhelmed'. 감정에 압도되기 문서가 아직 없어 먼저 새 현상 필요. 2026-11-02 rough-affection 은 가까운 사람에게 퉁명스럽게 애정 표현이라 상위 아님, 관계 후보에서 뺌. Aragón 외 2015 이형 표현",
       "createdAt": "2026-11-02T03:37:09.341Z",
       "seq": 3222
+    },
+    {
+      "id": "8e4143b2",
+      "title": "plucking-gray-hairs 보강: 뽑으면 더 난다는 믿음, aged-face-in-mirror 관계",
+      "priority": 50,
+      "note": "2026-11-02 추가. nbcnews.com myth-busted-does-plucking-gray-hairs 8C11565154 (2013-11-08), PMC12094410 Belcadi 2025 속설, scienceforums.net topic/30465 (2008-05-21) 미용사에게 들은 믿음, segye.com 20200906512807 새치 곧바로 뽑음(별칭 새치 근거 후보), straightdope 646046/62 같은 글의 'I felt scared'",
+      "createdAt": "2026-11-02T06:20:05.186Z",
+      "seq": 3229
+    },
+    {
+      "id": "910f549a",
+      "title": "dreams-as-omens 보강: 다른 시기 문학, 한국어 SNS, dreams-of-the-deceased 관계",
+      "priority": 50,
+      "note": "2026-11-02 추가. 후보: gutenberg 1522 Julius Caesar 2막 2장 칼푸르니아 꿈, 1513 Romeo 5막 1장 'My dreams presage', wikitree.co.kr/articles/1155712 (2026-08-29) 동행복권 조상님 꿈, wgbh.org 2015-01-15 Morewedge 인터뷰, research.gold.ac.uk/id/eprint/5127 Blagrove 2006 예지몽(초록 문장 223자라 다른 대목 필요)",
+      "createdAt": "2026-11-02T06:24:13.734Z",
+      "seq": 3230
+    },
+    {
+      "id": "d423cba4",
+      "title": "avoiding-pavement-cracks 보강: superstitious-rituals 관계, 강박 조건",
+      "priority": 50,
+      "note": "2026-11-02 추가. jjan.kr/articleAmp/20190411670430 (2019-04-11) 정신과 전문의 기고 선을 밟으면 나쁜 일이 생길 것 같아 한쪽으로만 걸음, imaeil.com 2000050914200528438 (2000-05-09) 영화 인물, straightdope 10785 14번 글 다른 데 신경 쓰면 안 함(같은 URL 이라 쓸 수 없음), brin.ac.uk/?p=588 (2010-09-17) 영국 미신 5위, Boswell Life of Johnson gutenberg 1564 걸음 수 맞추기",
+      "createdAt": "2026-11-02T06:28:48.254Z",
+      "seq": 3231
+    },
+    {
+      "id": "112b7ae9",
+      "title": "smelling-absent-loved-ones-clothes 보강: 한국어 파편, keeping-an-exs-belongings 관계",
+      "priority": 50,
+      "note": "2026-11-02 추가. 후보: neurosciencenews.com/lover-shirt-sleep-15684 (2020-02-13) 혼자 여행할 때 셔츠 챙김, straightdope 745736 8번 글 베개 바꾸기(같은 URL 이라 못 씀), gutenberg 507 Adam Bede 편지 장미 향(1859), m.cafe.daum.net/subdued20club/ReHf/113723 (2011-12-20) 엄마 냄새가 옅어짐(회원제 카페 스크랩이라 보류)",
+      "createdAt": "2026-11-02T06:34:26.436Z",
+      "seq": 3232
+    },
+    {
+      "id": "9241ce58",
+      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-02 추가. 학술 후보 못 찾음. straightdope 305065 같은 스레드 'I counted steps to reassure myself that I was at the bottom'(같은 URL 이라 못 씀), lastwordonnothing 2012 같은 글 페달 세기. avoiding-pavement-cracks 와 함께 Boswell 1564 의 걸음 맞추기",
+      "createdAt": "2026-11-02T06:37:06.449Z",
+      "seq": 3233
+    },
+    {
+      "id": "077d34d3",
+      "title": "hoarding-plastic-bags 보강: 학술 파편, 상위 difficulty-discarding 검토",
+      "priority": 50,
+      "note": "2026-11-02 추가. 학술 후보 못 찾음(orca.cardiff.ac.uk eprint 94652 PDF). brunch.co.kr/@alien1-on-earth/9 (2026-04-09) 할머니가 비닐봉지를 언젠가 쓸 보물로 여김(계정 중복 확인 필요). straightdope 791927 첫 글 쓰레기통에 씌울 봉지",
+      "createdAt": "2026-11-02T06:40:55.660Z",
+      "seq": 3234
     },
     {
       "id": "d16898d2",
