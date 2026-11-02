@@ -50,6 +50,15 @@ test('fetchText: 브라우저형 UA 를 봇으로 막는 사이트는 다른 UA 
   const page = await fetchText('https://example.org/a', {fetchImpl, quote: 'clandestine means'})
   assert.ok(page.ok && quoteIn(page.text, 'clandestine means'))
 })
+test('fetchText: 모바일 UA 에만 댓글을 주는 페이지는 모바일 UA 로 받는다', async () => {
+  // m.dcinside.com/board/bedbug/904: 2026-11-02 iPhone UA 에만 댓글이 본문에 들고 다른 UA 와 node:https 에는 댓글이 없다
+  const fetchImpl = async (url, {headers}) => {
+    const body = /iPhone/.test(headers['user-agent']) ? '<html>입다물고 조용히하는거지</html>' : '<html>본문만</html>'
+    return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body}
+  }
+  const page = await fetchText('https://m.dcinside.com/board/bedbug/904', {fetchImpl, fallbackImpl: fetchImpl, quote: '입다물고 조용히하는거지'})
+  assert.ok(page.ok && quoteIn(page.text, '입다물고 조용히하는거지'))
+})
 test('fetchText: quote 가 없으면 첫 응답을 그대로 쓴다', async () => {
   let n = 0
   const fetchImpl = async () => { n++; return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>x</html>'} }
@@ -131,12 +140,12 @@ test('fetchText: 봇 확인 페이지가 한 번 오면 다시 받는다', async
 test('fetchText: UA 를 모두 돌아도 봇 확인 페이지면 쉬었다가 한 바퀴 더 받는다', async () => {
   let n = 0
   const fetchImpl = async () => {
-    const body = n++ < 2 ? '<html><head><base href="https://www.google.com/recaptcha/challengepage/"></head></html>' : '<html>본문 tendency to limit</html>'
+    const body = n++ < 3 ? '<html><head><base href="https://www.google.com/recaptcha/challengepage/"></head></html>' : '<html>본문 tendency to limit</html>'
     return {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body}
   }
   const page = await fetchText('https://pmc.ncbi.nlm.nih.gov/articles/PMC1/', {fetchImpl, quote: 'tendency to limit', challengeDelay: 0})
   assert.ok(page.ok && quoteIn(page.text, 'tendency to limit'))
-  assert.equal(n, 3)
+  assert.equal(n, 4)
 })
 
 test('extractText: 블록 태그 경계에 공백을 넣어 문단을 넘는 원문을 찾는다', () => {
