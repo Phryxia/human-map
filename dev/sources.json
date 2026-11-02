@@ -16840,5 +16840,23 @@
     "last": "2026-11-02",
     "result": "VERIFIED",
     "lastVerified": "2026-11-02"
+  },
+  "https://www.priv.gc.ca/en/blog/20110826/": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.usenix.org/conference/laser2017/presentation/maimon": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://news.ycombinator.com/item?id=18962989": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
   }
 }
