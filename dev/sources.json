@@ -17656,5 +17656,29 @@
     "last": "2026-11-02",
     "result": "VERIFIED",
     "lastVerified": "2026-11-02"
+  },
+  "https://api.parliament.uk/historic-hansard/westminster_hall/2003/mar/12/national-minimum-wage": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://opus.lib.uts.edu.au/handle/10453/132581": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://magazine.hankyung.com/business/article/202410282395b": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18918": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
   }
 }

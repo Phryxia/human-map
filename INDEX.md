@@ -391,6 +391,7 @@
 - [읽음 표시를 피하려고 메시지 열지 않기](docs/avoiding-read-receipts.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [읽지 않은 책을 읽은 척하기](docs/pretending-to-have-read-books.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [잃어버린 물건을 찾은 곳에서 또 찾기](docs/re-searching-for-lost-items.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [임금 체불 참기](docs/tolerating-unpaid-wages.md) ([일터와 일자리](groups/work.md))
 - [임산부 배려석 비켜 주지 않기](docs/not-yielding-maternity-seats.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 전 양치 거르기](docs/skipping-bedtime-toothbrushing.md) ([건강과 위험](groups/health-and-safety.md))
