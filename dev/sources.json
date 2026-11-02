@@ -4431,9 +4431,9 @@
   },
   "https://news.ycombinator.com/item?id=13811411": {
     "first": "2026-10-20",
-    "last": "2026-10-22",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-02"
   },
   "https://www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm": {
     "first": "2026-10-20",
@@ -17508,6 +17508,18 @@
     "lastVerified": "2026-11-02"
   },
   "https://www.kihasa.re.kr/hswr/v.43/1/282/%EC%95%94+%EC%83%9D%EC%A1%B4%EC%9E%90%EC%9D%98+%EC%95%94+%EC%9E%AC%EB%B0%9C+%EB%91%90%EB%A0%A4%EC%9B%80+%EB%B0%8F+%EA%B4%80%EB%A0%A8+%EC%9A%94%EC%9D%B8": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://m.seoul.co.kr/news/2010/03/30/20100330800046": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.newsis.com/view/NISX20250728_0003268832": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
