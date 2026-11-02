@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [운전 중 휴대전화 사용](phone-use-while-driving.md)[^3]
 
 ## 결과
 
