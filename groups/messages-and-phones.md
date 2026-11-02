@@ -19,6 +19,7 @@
 - [보내기 전 메시지 다시 읽기](../docs/rereading-messages-before-sending.md) 이메일이나 메시지를 쓴 사람이 보내기 전에 초안을 여러 번 다시 읽거나 고쳐 쓴다.
 - [보낸 메시지 후회](../docs/senders-remorse.md) 메시지나 이메일을 보낸 사람이 보낸 뒤에 그 내용을 후회하거나 창피해한다.
 - [보채는 아이에게 스마트기기 쥐여 주기](../docs/handing-devices-to-fussy-children.md) 부모가 밖에서 아이가 보채거나 지루해할 때 스마트폰이나 태블릿을 건네 아이를 달랜다.
+- [브라우저 탭 쌓아 두기](../docs/keeping-browser-tabs-open.md) 컴퓨터 사용자가 열어 둔 웹 브라우저 탭을 닫지 못하고 여러 개 쌓아 둔다.
 - [비밀번호 재사용](../docs/password-reuse.md) 여러 온라인 계정을 쓰는 사람이 사이트마다 다른 비밀번호를 만들지 않고 같은 비밀번호를 여러 곳에 쓴다.
 - [빨리 답해야 한다는 압박](../docs/pressure-to-reply-quickly.md) 메시지를 받은 사람이 되도록 빨리 답해야 한다는 압박을 느낀다.
 - [스마트폰 확인 습관](../docs/smartphone-checking-habit.md) 스마트폰 이용자가 화면을 짧게 자주 들여다보다가 다른 일로 넘어가 쓰는 시간이 늘고 그 시간을 조절하지 못한다.
