@@ -232,6 +232,7 @@
 - [사고 현장 구경하기](docs/rubbernecking.md) ([길과 운전](groups/roads-and-driving.md))
 - [사과 거부 뒤의 자존감 상승](docs/self-esteem-after-refusing-apology.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [사과하지 못하기](docs/apology-reluctance.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [사기 전에 온라인 후기 찾아 읽기](docs/reading-reviews-before-buying.md) ([돈과 소비](groups/money.md))
 - [사별 뒤 후회](docs/bereavement-regret.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [사직 앞의 죄책감](docs/guilt-about-resigning.md) ([일터와 일자리](groups/work.md))
 - [사진 속 내 얼굴의 낯섦](docs/own-face-in-photos.md) ([남의 시선과 창피함](groups/others-gaze.md))

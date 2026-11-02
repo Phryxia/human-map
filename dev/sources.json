@@ -16816,5 +16816,29 @@
     "last": "2026-11-02",
     "result": "VERIFIED",
     "lastVerified": "2026-11-02"
+  },
+  "https://www.nber.org/papers/w10148": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://news.ycombinator.com/item?id=6538264": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.gov.uk/government/news/cma-acts-to-maintain-trust-in-online-reviews-and-endorsements": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.gov.uk/government/news/fake-reviews-and-sneaky-hidden-fees-banned-once-and-for-all": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
   }
 }
