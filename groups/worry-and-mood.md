@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [건강 불안](../docs/health-anxiety.md) 사람이 뚜렷한 근거 없이 자기가 심각한 병에 걸렸거나 걸릴 것이라고 걱정한다.
+  - [건강 안심 구하기](../docs/health-reassurance-seeking.md)
   - [여러 병원 전전하기](../docs/doctor-shopping.md)
   - [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md)
 - [겁날 때 노래하거나 휘파람 불기](../docs/singing-to-keep-up-courage.md) 어둡거나 무서운 곳을 지나는 사람이 겁을 누르려고 소리 내어 노래하거나 휘파람을 분다.
