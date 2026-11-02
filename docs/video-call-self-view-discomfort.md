@@ -10,7 +10,9 @@
 
 2021년 5월 기사[^2]가 전한 연구에서 심한 화상 회의 피로는 자기 모습이 부정적 감정을 일으키는 거울 불안과 이어져 있었다.
 
-2022년 기사[^3]는 평소에 보지 못하는 방식으로 자기 모습을 보는 일이 다소 불안하게 한다고 적었다. 같은 기사는 새 연구에서 이것이 정신 건강에 부정적 영향을 줄 수 있다고 전했다.[^3]
+2021년 11월 연구[^3]의 저자들은 화상 회의 중 자기 영상을 보는 일이 부정적인 자기 초점 주의를 일으켜 화상 회의 피로에 보탤 수 있다고 보고 성인 613명의 설문 응답을 분석했다. 피로는 여성이 남성보다 14.9%, 아시아계가 백인보다 11.1% 높았고 이 차이는 자기 얼굴 생김새에 대한 불만족이 매개했다.[^3]
+
+2022년 기사[^4]는 평소에 보지 못하는 방식으로 자기 모습을 보는 일이 다소 불안하게 한다고 적었다. 같은 기사는 새 연구에서 이것이 정신 건강에 부정적 영향을 줄 수 있다고 전했다.[^4]
 
 # 관계
 
@@ -38,4 +40,5 @@
 
 [^1]: [SNS] "If it goes badly, not only am I being watched and inspected by potentially more than one person, I can also see myself. I hate the sound of my own voice" (잘 안 풀리면 나는 어쩌면 한 사람 넘게에게 관찰당하고 살펴질 뿐 아니라 내 모습도 볼 수 있다. 나는 내 목소리가 싫다.) — Hacker News 댓글, 2021-03-06, https://news.ycombinator.com/item?id=26364880, 2026-10-31 접속
 [^2]: [매체] "In particular, researchers found that intense Zoom fatigue was linked to "mirror anxiety," a physiological response where a person's reflection triggers negative feelings." (특히 연구자들은 심한 줌 피로가 사람의 비친 모습이 부정적 감정을 일으키는 생리적 반응인 "거울 불안"과 이어져 있음을 발견했다.) — "Suffering from "Zoom fatigue"? Try this fix.", CBS News, 2021-05-18, https://www.cbsnews.com/news/zoom-fatigue-video-conferencing-mitigate-stress, 2026-10-31 접속
-[^3]: [매체] "Aside from being somewhat unnerving seeing yourself in a way you never normally get to see, new research has revealed this self voyeurism could have a negative impact on our mental health" (평소에는 결코 보지 못하는 방식으로 자기 모습을 보는 것이 다소 불안하게 한다는 점 말고도 새 연구는 이런 자기 관음이 정신 건강에 부정적 영향을 줄 수 있음을 보여 주었다.) — Marie-Claire Dorking, "Looking at yourself during an online video call 'can worsen your mood'", Yahoo News, 2022-07-04, https://malaysia.news.yahoo.com/looking-yourself-online-video-call-worsens-mood-115426882.html, 2026-10-31 접속
+[^3]: [학술] "Viewing self-video during videoconferences potentially causes negative self-focused attention that contributes to virtual meeting (VM) or "Zoom" fatigue." (화상 회의 중 자기 영상을 보는 일은 부정적인 자기 초점 주의를 일으켜 가상 회의, 곧 "줌" 피로에 보탤 수 있다.) — R. Ratan, D. B. Miller, J. N. Bailenson, 「Facial Appearance Dissatisfaction Explains Differences in Zoom Fatigue」, Cyberpsychology, Behavior, and Social Networking 25(2), 2021-11-25, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34842445&rettype=abstract&retmode=text, 2026-11-02 접속
+[^4]: [매체] "Aside from being somewhat unnerving seeing yourself in a way you never normally get to see, new research has revealed this self voyeurism could have a negative impact on our mental health" (평소에는 결코 보지 못하는 방식으로 자기 모습을 보는 것이 다소 불안하게 한다는 점 말고도 새 연구는 이런 자기 관음이 정신 건강에 부정적 영향을 줄 수 있음을 보여 주었다.) — Marie-Claire Dorking, "Looking at yourself during an online video call 'can worsen your mood'", Yahoo News, 2022-07-04, https://malaysia.news.yahoo.com/looking-yourself-online-video-call-worsens-mood-115426882.html, 2026-10-31 접속

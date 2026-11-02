@@ -15561,21 +15561,21 @@
   },
   "https://news.ycombinator.com/item?id=26364880": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://www.cbsnews.com/news/zoom-fatigue-video-conferencing-mitigate-stress": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://malaysia.news.yahoo.com/looking-yourself-online-video-call-worsens-mood-115426882.html": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://boards.straightdope.com/t/do-you-like-to-haggle/496973": {
     "first": "2026-10-31",
@@ -17256,6 +17256,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://digitalscholarship.unlv.edu/comm_fac_articles/42": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34842445&rettype=abstract&retmode=text": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
