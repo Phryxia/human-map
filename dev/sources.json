@@ -10436,9 +10436,9 @@
   },
   "https://www.gutenberg.org/cache/epub/507/pg507-images.html": {
     "first": "2026-10-25",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/215/pg215-images.html": {
     "first": "2026-10-25",
@@ -12733,9 +12733,9 @@
   },
   "https://www.gutenberg.org/cache/epub/107/pg107-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/599/pg599-images.html": {
     "first": "2026-10-28",
@@ -15903,9 +15903,9 @@
   },
   "https://www.supplyht.com/articles/91844-oct-22-2007-shower-power": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://pubmed.ncbi.nlm.nih.gov/11920693/": {
     "first": "2026-11-01",
@@ -17424,6 +17424,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://www.goodreads.com/topic/show/23098530-april-2025-do-you-mark-up-your-books-while-you-read?page=1": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://link.springer.com/chapter/10.1007/978-3-319-27498-0_8": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
