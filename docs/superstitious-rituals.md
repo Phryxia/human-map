@@ -23,6 +23,7 @@
 ## 하위
 
 - [부정 탈까 봐 말 아끼기](tempting-fate.md)
+- [소원 빌며 동전 던지기](wishing-coin-toss.md)
 
 ## 원인
 

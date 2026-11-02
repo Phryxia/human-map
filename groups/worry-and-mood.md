@@ -38,7 +38,6 @@
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
 - [생각 때문에 잠 못 이루기](../docs/lying-awake-thinking.md) 잠자리에 누운 사람이 낮에 겪은 일이나 잠에 대한 걱정을 되풀이해 생각하느라 잠들지 못한다.
 - [생각하려고 걷기](../docs/walking-to-think.md) 사람이 생각을 정리하거나 마음을 가라앉히려고 밖으로 나가 걷는다.
-- [소원 빌며 동전 던지기](../docs/wishing-coin-toss.md) 우물이나 연못, 분수 앞에 선 사람이 소원을 빌며 동전이나 작은 물건을 물속에 던진다.
 - [손톱 물어뜯기](../docs/nail-biting.md) 사람이 초조하거나 지루하거나 어려운 일을 붙잡고 있을 때 손톱을 물어뜯는다.
 - [쉬는 데 죄책감 느끼기](../docs/guilt-about-resting.md) 쉬거나 아무것도 하지 않고 시간을 보낸 사람이 해야 할 일을 하지 않았다는 죄책감을 느낀다.
 - [슬픈 이야기를 보며 울기](../docs/crying-at-sad-stories.md) 슬픈 영화나 소설을 보는 사람이 지어낸 이야기에 눈물을 흘린다.
@@ -54,5 +53,6 @@
   - [퇴근 시간 기다리며 시계 보기](../docs/clock-watching-at-work.md)
 - [징크스 지키기](../docs/superstitious-rituals.md) 결과를 알 수 없는 일을 앞둔 사람이 불운을 막거나 일이 잘되도록 정해 둔 작은 의례를 하거나 어떤 행동을 피한다.
   - [부정 탈까 봐 말 아끼기](../docs/tempting-fate.md)
+  - [소원 빌며 동전 던지기](../docs/wishing-coin-toss.md)
 - [하품 전염](../docs/contagious-yawning.md) 남이 하품하는 것을 보거나 하품 이야기를 읽은 사람이 따라 하품한다.
 - [한숨 쉬기](../docs/sighing.md) 사람이 답답하거나 안도할 때 숨을 길게 내쉰다.
