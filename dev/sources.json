@@ -16568,33 +16568,33 @@
   },
   "https://www.gutenberg.org/cache/epub/3078/pg3078-images.html": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.newsweek.com/squabbling-children-157857": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://lawfact.co.kr/news_proc/news_contents.jsp?ncd=681": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://dare.uva.nl/id/56f2ba57-47dd-4bba-bda0-28cb80c57a56": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.ucd.ie/newsandopinion/news/2022/may/17/opinionwhyfamiliesfightoverinheritancesandhowtoavoidit": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://ko.wikisource.org/wiki/%ED%83%9C%ED%8F%89%EC%B2%9C%ED%95%98/%EC%A0%9C5%EC%9E%A5": {
     "first": "2026-11-01",
@@ -16688,9 +16688,9 @@
   },
   "https://www.psychologytoday.com/us/blog/good-mourning/202002/why-did-my-family-fall-apart-after-moms-death": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.jjan.kr/articleAmp/20081105288153": {
     "first": "2026-11-01",
@@ -16718,9 +16718,9 @@
   },
   "https://www.gutenberg.org/cache/epub/968/pg968-images.html": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/39162/pg39162-images.html": {
     "first": "2026-11-01",
@@ -17743,6 +17743,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://www.koti.re.kr/user/bbs/cardnewsView.do?bbs_no=69012": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://seoul.scourt.go.kr/dcboard/new/DcNewsViewAction.work?seqnum=348&gubun=48&scode_kname=&pageIndex=1&searchWord=&cbub_code=000210": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
