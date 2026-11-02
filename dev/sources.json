@@ -4785,9 +4785,9 @@
   },
   "https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/33504": {
     "first": "2026-10-20",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://brunch.co.kr/@darius7/48": {
     "first": "2026-10-20",
@@ -15579,15 +15579,15 @@
   },
   "https://boards.straightdope.com/t/do-you-like-to-haggle/496973": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://www.jalopnik.com/2226845/what-to-know-buying-car-no-haggle-dealership/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-02"
   },
   "https://news.ycombinator.com/item?id=60295": {
     "first": "2026-10-31",
@@ -17262,6 +17262,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34842445&rettype=abstract&retmode=text": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://news.bizwatch.co.kr/article/market/2018/04/20/0019": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
