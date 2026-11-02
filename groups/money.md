@@ -14,6 +14,7 @@
 - [구매 후 후회](../docs/buyers-remorse.md) 물건을 산 사람이 산 뒤에 그 구매를 후회한다.
 - [날짜 표시만 보고 음식 버리기](../docs/discarding-food-by-date-label.md) 집에서 음식을 다루는 사람이 포장의 날짜 표시가 지났거나 가까워졌다는 이유로 아직 먹을 수 있는 음식을 버린다.
 - [냉난방 참기](../docs/energy-limiting-behavior.md) 전기요금이나 연료비를 부담스러워하는 사람이 더위나 추위 속에서도 냉방이나 난방을 켜지 않거나 줄이고 버틴다.
+- [냉장고 속 남은 음식 잊고 버리기](../docs/forgotten-fridge-leftovers.md) 먹다 남은 음식을 나중에 먹으려고 냉장고에 넣어 둔 사람이 그것을 먹지 않고 있다가 버린다.
 - [돈 걱정](../docs/money-worry.md) 돈 사정을 생각하는 사람이 돈이 모자랄까 봐 걱정하고 불안해한다.
   - [소득 상실 우려](../docs/income-loss-worry.md)
 - [돈 쓰기 아까워하기](../docs/tightwad-spending.md) 돈을 낼 때의 괴로움을 미리 느끼는 사람이 스스로 바라는 것보다 적게 쓴다.

@@ -101,6 +101,7 @@
 - [내키지 않는 초대에 응하기](docs/accepting-unwanted-invitations.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [냄새가 불러낸 옛 기억](docs/smell-evoked-memory.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [냉난방 참기](docs/energy-limiting-behavior.md) ([돈과 소비](groups/money.md))
+- [냉장고 속 남은 음식 잊고 버리기](docs/forgotten-fridge-leftovers.md) ([돈과 소비](groups/money.md))
 - [노년의 계속 일하기 희망](docs/wanting-to-keep-working-in-old-age.md) ([일터와 일자리](groups/work.md))
 - [노력이 소용없다는 생각](docs/feeling-ones-effort-makes-no-difference.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [노스탤지어](docs/nostalgia.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
