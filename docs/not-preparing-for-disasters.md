@@ -10,17 +10,17 @@
 
 2008년 뉴질랜드 헤럴드 기사에서 대비가 중요하다고 답하고도 대비하지 않은 오클랜드 주민의 약 31%는 그 까닭으로 게으름이나 안일함을 들었다.[^2] 2009년 Occupational Health & Safety 기사가 전한 FEMA 보고서에서 미국인의 30%는 응급 구조대가 도와주리라 여겨 대비하지 않았다.[^3]
 
-2013년 Jones 는 일반 대중이 대비하지 않는 원인으로 가장 자주 꼽히는 것이 무관심, 시간 부족, 돈 부족, 대비 방법을 모름이라고 썼다.[^4] 2015년 캐나다 통계청 조사에서 물, 식량, 약, 손전등, 현금을 담은 비상용품 키트를 집에 마련한 응답자는 47%였다.[^5]
+2013년 Jones 는 일반 대중이 대비하지 않는 원인으로 가장 자주 꼽히는 것이 무관심, 시간 부족, 돈 부족, 대비 방법을 모름이라고 썼다.[^4] 2014년 해커뉴스 댓글의 글쓴이는 대지진 가능성이 잘 알려져 있는데도 자신을 포함해 아무도 대비하지 않았고 재난용 비상 가방을 만들려고 마음먹고도 하지 못했다고 썼다.[^5] 2015년 캐나다 통계청 조사에서 물, 식량, 약, 손전등, 현금을 담은 비상용품 키트를 집에 마련한 응답자는 47%였다.[^6]
 
-2019년 샌디에이고 카운티 뉴스는 대비를 가로막는 가장 큰 두 가지로 나중에 하려는 계획(40%)과 비용(31%)을 꼽았다.[^6] 2024년 Han 과 Wu 의 중국 전국 조사에서 대비 행동을 하지 않는 주된 이유는 인식 부족, 어디서 사거나 구할지 모름, 그 행동을 불필요하게 여김이었다.[^7]
+2019년 샌디에이고 카운티 뉴스는 대비를 가로막는 가장 큰 두 가지로 나중에 하려는 계획(40%)과 비용(31%)을 꼽았다.[^7] 2024년 Han 과 Wu 의 중국 전국 조사에서 대비 행동을 하지 않는 주된 이유는 인식 부족, 어디서 사거나 구할지 모름, 그 행동을 불필요하게 여김이었다.[^8]
 
-2026년 브라조스강 관리청 팟캐스트 녹취록[^8]의 화자는 사람들이 나에게는 일어나지 않으리라 생각해서 비상사태에 대비하지 않는다고 말한다.
+2026년 브라조스강 관리청 팟캐스트 녹취록[^9]의 화자는 사람들이 나에게는 일어나지 않으리라 생각해서 비상사태에 대비하지 않는다고 말한다.
 
 # 관계
 
 ## 상위
 
-없음.
+- [미루기](procrastination.md)
 
 ## 하위
 
@@ -28,7 +28,7 @@
 
 ## 원인
 
-- [낙관 편향](unrealistic-optimism.md)[^8]
+- [낙관 편향](unrealistic-optimism.md)[^9]
 
 ## 결과
 
@@ -44,7 +44,8 @@
 [^2]: [매체] "About 31 per cent of Aucklanders who said being prepared was important but who were not prepared, blamed it on laziness or complacency." (대비가 중요하다고 했지만 대비하지 않은 오클랜드 주민의 약 31%는 그 탓을 게으름이나 안일함으로 돌렸다.) — Wayne Thompson, "Aucklanders the least prepared for disasters", NZ Herald, 2008-09-05, https://nzherald.co.nz/nz/aucklanders-the-least-prepared-for-disasters/AMP7I6M6MX3W27U3GQHZ4O4OJE, 2026-10-31 접속
 [^3]: [매체] "30 percent of Americans have not prepared because they think that emergency responders will help them" (미국인의 30%는 응급 구조대가 자신을 도와줄 것이라고 생각해서 대비하지 않았다) — Occupational Health & Safety, "FEMA Issues Report on Personal Preparedness in America", 2009-08-27, https://ohsonline.com/articles/2009/08/27/fema-on-personal-preparedness.aspx, 2026-10-31 접속
 [^4]: [학술] "The most frequently cited causes for lack of preparedness in the general public are consumer apathy, lack of time, lack of money and the lack of knowledge on how best to prepare." (일반 대중이 대비하지 않는 원인으로 가장 자주 꼽히는 것은 소비자의 무관심, 시간 부족, 돈 부족, 어떻게 대비하는 것이 가장 좋은지에 대한 지식 부족이다.) — A M Jones, "Use of fear and threat-based messages to motivate preparedness: costs, consequences and other choices. Part Two", Journal of Business Continuity & Emergency Planning, 2013, https://pubmed.ncbi.nlm.nih.gov/23615060/, 2026-10-31 접속
-[^5]: [공공] "However, Canadians were less likely to have set aside items such as water, food, medicine, flashlights or cash in an emergency supply kit for their homes (47%)" (그러나 캐나다인이 물, 식량, 약, 손전등, 현금 같은 물품을 집의 비상용품 키트에 따로 마련해 둔 경우는 그보다 적었다(47%)) — Statistics Canada, "Survey of Emergency Preparedness and Resilience in Canada, 2014", The Daily, 2015-10-28, https://www150.statcan.gc.ca/n1/daily-quotidien/151028/dq151028a-eng.htm, 2026-10-31 접속
-[^6]: [공공] "The two greatest barriers to being prepared? Planning to do it later (40 percent), followed by cost (31 percent)!" (대비를 가로막는 가장 큰 두 가지는? 나중에 하려는 계획(40%), 그다음은 비용(31%)!) — County of San Diego, "Shopping Sweepstakes: Emergency Preparedness Edition", County News Center, 2019-02-25, https://www.countynewscenter.com/?p=194487, 2026-10-31 접속
-[^7]: [학술] "The primary reasons for not adopting are “lack of awareness,” “not knowing where to buy or reach resources,” and “perceiving the action as unnecessary.”" (채택하지 않는 주된 이유는 '인식 부족', '어디서 사거나 자원에 닿을 수 있는지 모름', '그 행동을 불필요하게 여김'이다.) — Ziqiang Han, Guochun Wu, "Why do people not prepare for disasters? A national survey from China", npj Natural Hazards, 2024-02-28, https://www.nature.com/articles/s44304-024-00001-2, 2026-10-31 접속
-[^8]: [매체] "We don't prepare for emergencies because we think it won't be me. The percentage is too low. The occurrence is not frequent enough. So, we don't prepare." (우리는 나에게는 일어나지 않을 거라고 생각해서 비상사태에 대비하지 않는다. 확률이 너무 낮고 자주 일어나지 않는다. 그래서 대비하지 않는다.) — Brazos River Authority, "Why your fire extinguisher is in the wrong place", Unpacking the Brazos River 팟캐스트 녹취록, 2026-01-01, https://brazosriverauthority.transistor.fm/s1/10/transcript, 2026-11-01 접속
+[^5]: [SNS] "absolutely no one (including myself) is prepared for it at all. I've certainly been meaning to fashion myself a “bug out bag” in case of a disaster but haven't gotten around to it" (나를 포함해 아무도 전혀 대비하지 않았다. 재난에 대비해 비상 가방을 하나 만들려고 줄곧 마음먹었지만 아직 하지 못했다) — Hacker News 댓글, 2014-03-27, https://news.ycombinator.com/item?id=7481288, 2026-11-02 접속
+[^6]: [공공] "However, Canadians were less likely to have set aside items such as water, food, medicine, flashlights or cash in an emergency supply kit for their homes (47%)" (그러나 캐나다인이 물, 식량, 약, 손전등, 현금 같은 물품을 집의 비상용품 키트에 따로 마련해 둔 경우는 그보다 적었다(47%)) — Statistics Canada, "Survey of Emergency Preparedness and Resilience in Canada, 2014", The Daily, 2015-10-28, https://www150.statcan.gc.ca/n1/daily-quotidien/151028/dq151028a-eng.htm, 2026-10-31 접속
+[^7]: [공공] "The two greatest barriers to being prepared? Planning to do it later (40 percent), followed by cost (31 percent)!" (대비를 가로막는 가장 큰 두 가지는? 나중에 하려는 계획(40%), 그다음은 비용(31%)!) — County of San Diego, "Shopping Sweepstakes: Emergency Preparedness Edition", County News Center, 2019-02-25, https://www.countynewscenter.com/?p=194487, 2026-10-31 접속
+[^8]: [학술] "The primary reasons for not adopting are “lack of awareness,” “not knowing where to buy or reach resources,” and “perceiving the action as unnecessary.”" (채택하지 않는 주된 이유는 '인식 부족', '어디서 사거나 자원에 닿을 수 있는지 모름', '그 행동을 불필요하게 여김'이다.) — Ziqiang Han, Guochun Wu, "Why do people not prepare for disasters? A national survey from China", npj Natural Hazards, 2024-02-28, https://www.nature.com/articles/s44304-024-00001-2, 2026-10-31 접속
+[^9]: [매체] "We don't prepare for emergencies because we think it won't be me. The percentage is too low. The occurrence is not frequent enough. So, we don't prepare." (우리는 나에게는 일어나지 않을 거라고 생각해서 비상사태에 대비하지 않는다. 확률이 너무 낮고 자주 일어나지 않는다. 그래서 대비하지 않는다.) — Brazos River Authority, "Why your fire extinguisher is in the wrong place", Unpacking the Brazos River 팟캐스트 녹취록, 2026-01-01, https://brazosriverauthority.transistor.fm/s1/10/transcript, 2026-11-01 접속
