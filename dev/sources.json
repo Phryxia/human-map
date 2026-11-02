@@ -15825,27 +15825,27 @@
   },
   "https://en.wikisource.org/wiki/Marginalia": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://newrepublic.com/article/83947/books-annotations-marginalia-jackson": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://yalebooks.yale.edu/9780300097207/marginalia": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://brunch.co.kr/@hummingpages/44": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-02",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/1022/pg1022-images.html": {
     "first": "2026-11-01",
@@ -17418,6 +17418,12 @@
     "lastVerified": "2026-11-02"
   },
   "https://www.segye.com/newsView/20211016504817": {
+    "first": "2026-11-02",
+    "last": "2026-11-02",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-02"
+  },
+  "https://www.goodreads.com/topic/show/23098530-april-2025-do-you-mark-up-your-books-while-you-read?page=1": {
     "first": "2026-11-02",
     "last": "2026-11-02",
     "result": "VERIFIED",
