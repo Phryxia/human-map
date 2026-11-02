@@ -1,121 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-02T06:42:09.898Z",
-  "nextSeq": 3235,
-  "stops": 167,
+  "savedAt": "2026-11-02T09:41:07.182Z",
+  "nextSeq": 3264,
+  "stops": 168,
   "items": [
-    {
-      "id": "fd234a2f",
-      "title": "overreporting-desirable-behavior 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-10-30 지식iN, HN algolia 1인칭 과장 글 무소득. 2026-10-31 reddit 운동 과장 검색 무소득. 학술 후보: Harbaugh 1996 Public Choice",
-      "createdAt": "2026-10-31T15:13:54.789Z",
-      "seq": 3007
-    },
-    {
-      "id": "f7d10ecd",
-      "title": "saying-food-is-fine 보강: 학술 또는 한국어 파편, 미용실 등 다른 장면",
-      "priority": 50,
-      "note": "2026-10-31 추가. 후보: insight.co.kr/news/128052 (2018-05-18), morningadvertiser.co.uk 2018-01-04 YouGov, Snyder(BI Norwegian Business School) 소비자 거짓말 연구(cxm.world/?p=26390). Seattle Met 2014 필자가 말하지 않는 이유로 'Don’t want to be a pain' 을 듦",
-      "createdAt": "2026-10-31T15:15:28.203Z",
-      "seq": 3008
-    },
-    {
-      "id": "2ab1bb88",
-      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계",
-      "priority": 50,
-      "note": "2026-10-30 PMC8910367, PMC3918682 reCAPTCHA. brunch @logincj/3 (2025-11-28) 은 인과 아님. 2026-10-31 손대지 않고 되돌림",
-      "createdAt": "2026-10-31T15:15:40.101Z",
-      "seq": 3009
-    },
-    {
-      "id": "91f28471",
-      "title": "hesitating-to-unfriend 보강: 학술 파편, staying-in-group-chats 관계",
-      "priority": 50,
-      "note": "2026-10-31 추가. blog.commarts.wisc.edu/2009/11/18/unfriended (Ellcessor 2009-11-18) 알림이 없어 상처를 덜 줌. dcinside aoegame 31767743 (2026-10-20) 해코지당할까 겁나 친삭 망설임",
-      "createdAt": "2026-10-31T15:21:45.439Z",
-      "seq": 3010
-    },
-    {
-      "id": "310426d5",
-      "title": "video-call-self-view-discomfort 보강: 학술 파편, own-face-in-photos 관계",
-      "priority": 50,
-      "note": "2026-10-31 추가. Bailenson 2021 Technology, Mind, and Behavior(tmb.apaopen.org nonverbal-overload) 와 news.stanford.edu 2021/02 는 Cloudflare. koreascience JAKO202216054039517 이은지 2022 MZ세대의 화상회의 피로감. 골웨이대 2024 EEG 연구(businesspost.ie 2024-04-22)",
-      "createdAt": "2026-10-31T15:23:37.412Z",
-      "seq": 3011
-    },
-    {
-      "id": "4502829e",
-      "title": "avoiding-haggling 과 haggling 관계, 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-10-31 추가. haggling F3 브런치 2026 필자는 깎아 달라는 말을 끝까지 밀지 못함. 같은 계정 재사용 불가라 다른 출처 필요. qz.com Indiana University '미국 성인 95% 협상 회피' 는 봇 확인 페이지",
-      "createdAt": "2026-10-31T15:24:56.634Z",
-      "seq": 3012
-    },
-    {
-      "id": "2ff67337",
-      "title": "senders-remorse 보강: 한국어 파편, rereading-messages-before-sending 관계",
-      "priority": 50,
-      "note": "2026-10-31 추가. 카카오톡 메시지 삭제 기능(2018) 보도, 카톡 보내고 후회 지식iN 후보. Grammarly 2019 같은 글 'Almost one-third of respondents use the “unsend” function'",
-      "createdAt": "2026-10-31T15:25:55.548Z",
-      "seq": 3013
-    },
-    {
-      "id": "218cf959",
-      "title": "not-returning-shared-umbrellas 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-10-31 매체 5, 공공 1. 공용 우산 미반납 논문 초록 못 찾음. MDPI Sustainability 9/9/1504 (Mobike theft, free riding) 403. 후보: 수원시 공유 누리집 우산 대여 안내(발행일 미상), mothership.sg 2024-01 Joo Chiat umbrella sharing 중단",
-      "createdAt": "2026-10-31T18:17:21.069Z",
-      "seq": 3020
-    },
-    {
-      "id": "852391f6",
-      "title": "eating-foraged-wild-mushrooms 보강: SNS 파편, 직접 딴 사람의 글",
-      "priority": 50,
-      "note": "2026-10-31 공공 3, 학술 1, 매체 1. 대안 공공: rda.go.kr 보도자료 dataNo=100000747222 (2018-07-10) '생김새나 민간 속설에 의존해 구분', korea.kr newsId=148854842 (2018-10-19) '본인만의 지식이나 일반 도감'",
-      "createdAt": "2026-10-31T18:29:11.060Z",
-      "seq": 3022
-    },
-    {
-      "id": "1f8a2541",
-      "title": "not-using-cooling-centers 보강: 국내 공공 파편, 노인 본인 면담 학술",
-      "priority": 50,
-      "note": "2026-10-31 학술 1, 공공 1(CDC), 매체 2. 매일신문 2023 '무더위 쉼터란 데가 있는 줄도 몰랐다', 회원제 경로당. 후보: Front Public Health 2023 홍콩, Hamilton 포커스 그룹",
-      "createdAt": "2026-10-31T18:33:07.530Z",
-      "seq": 3023
-    },
-    {
-      "id": "04428db4",
-      "title": "not-picking-up-dog-waste 보강: 한국어 파편, 견주의 말",
-      "priority": 50,
-      "note": "2026-10-31 영어 출처만 4개. 견주가 직접 이유를 말한 대목 못 찾음. 후보: Albuquerque 2014 'There Is No Poop Fairy' 캠페인, Donegal·Limerick 기사의 쓰레기통 부족",
-      "createdAt": "2026-10-31T18:35:54.519Z",
-      "seq": 3024
-    },
-    {
-      "id": "66ad95ce",
-      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
-      "priority": 50,
-      "note": "2026-10-31 매체 2015, 공공 2017, SNS 2019. 후보: 한국경제 2023-08 프랑스 영수증 기사 hankyung.com/amp/202308044714Y, 강남구 카드 영수증 선택 발급 안내",
-      "createdAt": "2026-10-31T18:37:58.098Z",
-      "seq": 3025
-    },
-    {
-      "id": "8183c663",
-      "title": "delaying-going-home 보강: 차 안에 머물기, shrinking-in-hosts-home 관계",
-      "priority": 50,
-      "note": "2026-10-31 Damaske 외 2014 학술 파편 더함. 차 안이나 카페에서 귀가를 미루는 장면의 학술·공공 출처는 못 찾음. 매체 후보: news.allabout.co.jp/articles/o/32023 (家に帰りたくないとき 500명 조사), jamaica-gleaner 20260422. UC Berkeley 1997-05-02 보도자료 work2.html 'the more people avoid home' 은 Hochschild 같은 주장이라 겹침",
-      "createdAt": "2026-10-31T21:14:56.852Z",
-      "seq": 3028
-    },
-    {
-      "id": "7fe00a1e",
-      "title": "rechecking-door-and-stove 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 확인한 뒤 다시 확인하는 대목 못 찾음. 근접 후보는 '잊고 나온 것' 장면이라 안 맞음: Conrad The Secret Agent 12장 (gutenberg 974) 'I've forgotten to shut the shop door as I went out', 宮本百合子「蛋白石」(aozora 15950, 연도 미상) 火の用心 잊은 불안. 한국어 위키문헌은 검색 API 429",
-      "createdAt": "2026-10-31T21:44:22.798Z",
-      "seq": 3029
-    },
     {
       "id": "10f4ef16",
       "title": "buying-souvenirs-for-others 보강: thank-you-gift 또는 미안함 관계",
@@ -123,14 +11,6 @@
       "note": "2026-11-01 GLOBIS 2026-07-20 'Giving Omiyage serves as both a thank you and a subtle apology.' 시대 2014 3위 '업무를 대신 해준 것이 미안해서'. 브런치 marupark/8 기념품 못 받은 소외 후보",
       "createdAt": "2026-11-01T00:15:42.963Z",
       "seq": 3038
-    },
-    {
-      "id": "cbbec914",
-      "title": "eavesdropping-on-strangers 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-01 문학 2, 매체 1. 후보 Woolf An Unwritten Novel (Gutenberg 29220) 기차에서 맞은편 낯선 사람 사연 지어내기. 학술 파편 없음",
-      "createdAt": "2026-11-01T00:15:43.121Z",
-      "seq": 3039
     },
     {
       "id": "b33975a4",
@@ -251,22 +131,6 @@
       "note": "2026-11-01 추가. 후보: 국회도서관 KINX2021194456 양육불안감이 사교육에 유의한 영향 없음(조건), korea.kr 156577074 (2023-06-26) '사교육 불안 마케팅' 별칭 근거, Frontiers fpsyg.2022.800039 'parents’ education anxiety'. bragging-about-children, fear-of-missing-out 과 관계 근거 필요",
       "createdAt": "2026-11-01T06:12:04.451Z",
       "seq": 3082
-    },
-    {
-      "id": "9e0c60be",
-      "title": "leisure-sickness 보강: 학술 파편 Van Heck 2007",
-      "priority": 50,
-      "note": "2026-11-01 매체 2, SNS 1 더함. 후보 hrcak.srce.hr/20385 (2007-12-15) 'some people feel particularly ill ... especially during weekends and vacations', HN 29646791 금요일 오후 고열(주말형). kormedi 1217639 에 '과학적 근거는 부족하다' 반론 대목",
-      "createdAt": "2026-11-01T06:14:44.782Z",
-      "seq": 3083
-    },
-    {
-      "id": "2e73d71e",
-      "title": "forgetting-reusable-bags 보강: 학술 파편 Dalhousie 2008",
-      "priority": 50,
-      "note": "2026-11-01 Yahoo/PA 2020(미확인, 429), 데일리안 2024 더함. 후보 dalspace 10222/77842 (2008-04) '81% of those surveyed own a reusable mug but 82% of those observed do not use' 학생 보고서, 한경 2025121824651 텀블러 10개 중 1개, earticle A368901 (2020-01)",
-      "createdAt": "2026-11-01T06:25:26.044Z",
-      "seq": 3084
     },
     {
       "id": "98c73f1c",
@@ -819,6 +683,110 @@
       "note": "2026-11-02 추가. 학술 후보 못 찾음(orca.cardiff.ac.uk eprint 94652 PDF). brunch.co.kr/@alien1-on-earth/9 (2026-04-09) 할머니가 비닐봉지를 언젠가 쓸 보물로 여김(계정 중복 확인 필요). straightdope 791927 첫 글 쓰레기통에 씌울 봉지",
       "createdAt": "2026-11-02T06:40:55.660Z",
       "seq": 3234
+    },
+    {
+      "id": "c9c65195",
+      "title": "saying-food-is-fine 보강: 학술 또는 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-02 bi.no Snyder 2018 매체로 추가. 학술 후보: Snyder, Witell, Gustafsson, McColl-Kennedy 2022 Journal of Business Research 141:755-769 Consumer lying behavior in service encounters (econpapers 초록 비어 있음). insight.co.kr/news/128052 는 미용실 장면이라 식당 요약에 안 맞음",
+      "createdAt": "2026-11-02T09:22:08.919Z",
+      "seq": 3251
+    },
+    {
+      "id": "c4562631",
+      "title": "overreporting-desirable-behavior 보강: 운동화 매장에서 달리기 횟수 부풀리기",
+      "priority": 50,
+      "note": "2026-11-02 bi.no consumer-lies-in-the-service-encounter (2018-07-02) 'exaggerating to the salesperson how often you run'. 이 출처는 saying-food-is-fine 이 씀. 조사 장면 밖이라 요약 확장 여부 판단 필요",
+      "createdAt": "2026-11-02T09:22:09.043Z",
+      "seq": 3252
+    },
+    {
+      "id": "00ce6443",
+      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계",
+      "priority": 50,
+      "note": "2026-10-30 PMC8910367, PMC3918682 reCAPTCHA. brunch @logincj/3 (2025-11-28) 은 인과 아님. 2026-11-02 frontporchrepublic.com/?p=52280 (2024-06-03) 인과 대목 없음. Penberthy 2023 SAGE 는 nectar.northampton.ac.uk PDF 뿐",
+      "createdAt": "2026-11-02T09:22:52.718Z",
+      "seq": 3253
+    },
+    {
+      "id": "a22afd00",
+      "title": "hesitating-to-unfriend 와 staying-in-group-chats 관계",
+      "priority": 50,
+      "note": "2026-11-02 학술 파편(Pennington 2019) 추가. 관계 근거 파편은 아직 없음. dcinside aoegame 31767743 (2026-10-20) 해코지당할까 겁나 친삭 망설임",
+      "createdAt": "2026-11-02T09:24:05.133Z",
+      "seq": 3254
+    },
+    {
+      "id": "ba01d1a3",
+      "title": "video-call-self-view-discomfort 와 own-face-in-photos 관계",
+      "priority": 50,
+      "note": "2026-11-02 Ratan 2021 학술 파편 추가. PMID 39648826 Lim, Ratan 2024 미국과 한국의 facial dissatisfaction 비교. 관계 근거 파편 필요",
+      "createdAt": "2026-11-02T09:25:31.088Z",
+      "seq": 3255
+    },
+    {
+      "id": "e663eda6",
+      "title": "avoiding-haggling 과 haggling 관계, 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-02 bizwatch 2018 한국어 매체 추가. SNS 는 아직 없음. haggling 의 브런치 2026 필자는 깎아 달라는 말을 끝까지 밀지 못함. 같은 계정 재사용 불가",
+      "createdAt": "2026-11-02T09:26:47.559Z",
+      "seq": 3256
+    },
+    {
+      "id": "4a13587c",
+      "title": "senders-remorse 와 rereading-messages-before-sending 관계",
+      "priority": 50,
+      "note": "2026-11-02 위키트리 2025-08-13 한국어 파편 추가. 관계 근거 파편 필요. 후보: byline.network/2018/09/18-30 카카오 '순간의 실수를 보완하기 위한 기술'",
+      "createdAt": "2026-11-02T09:27:51.776Z",
+      "seq": 3257
+    },
+    {
+      "id": "4a7a5eac",
+      "title": "not-returning-shared-umbrellas 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-10-31 매체 5, 공공 1. 공용 우산 미반납 논문 초록 못 찾음. MDPI Sustainability 9/9/1504 403. 2026-11-02 영문 검색도 보도뿐(E Umbrella 2017, Joo Chiat 2024 socsc.smu.edu.sg). 공공재 실험이나 공유경제 무임승차 논문에서 우산 사례를 찾을 것",
+      "createdAt": "2026-11-02T09:28:12.342Z",
+      "seq": 3258
+    },
+    {
+      "id": "cb5a1d10",
+      "title": "not-using-cooling-centers 보강: 국내 공공 파편, 노인 본인 면담 학술",
+      "priority": 50,
+      "note": "2026-11-02 뉴시스 2026-08-02 행안부 의뢰 연세대 보고서 '지역별 취약계층 분포 등을 고려한 쉼터 지정·운영 개선방안' 보도 추가. 원 보고서(공공) 찾기. 뉴스토마토 newstomato.com/ReadNews.aspx?no=1237003 2024 쪽방 보고서 '귀찮거나 힘들어서 37.5%'",
+      "createdAt": "2026-11-02T09:31:28.791Z",
+      "seq": 3259
+    },
+    {
+      "id": "935b72a9",
+      "title": "not-picking-up-dog-waste 보강: 견주의 말",
+      "priority": 50,
+      "note": "2026-11-02 전북일보 2024-02-06 한국어 파편 추가. 견주가 직접 이유를 말한 대목은 아직 없음. 데일리벳 2026 농식품부 조사 '드문 단속' 이 펫티켓 미준수 이유",
+      "createdAt": "2026-11-02T09:32:42.651Z",
+      "seq": 3260
+    },
+    {
+      "id": "6d99dea8",
+      "title": "delaying-going-home 와 shrinking-in-hosts-home 관계, 차 안 머물기 학술·공공",
+      "priority": 50,
+      "note": "2026-11-02 The Spinoff 2024-01-14 차 안 15분 에세이 추가. Mercury Insurance 2018 설문 '미국 운전자 3분의 1이 집 앞 차 안에 머묾' 원 보도자료 찾기. news.allabout.co.jp 는 403",
+      "createdAt": "2026-11-02T09:34:49.950Z",
+      "seq": 3261
+    },
+    {
+      "id": "95d5a7a1",
+      "title": "rechecking-door-and-stove 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 확인한 뒤 다시 확인하는 대목 못 찾음. 근접 후보: Conrad The Secret Agent 12장 (gutenberg 974), 宮本百合子「蛋白石」(aozora 15950). 한국어 위키문헌은 검색 API 429. 2026-11-02 손대지 않고 되돌림",
+      "createdAt": "2026-11-02T09:35:01.814Z",
+      "seq": 3262
+    },
+    {
+      "id": "f762fa1c",
+      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
+      "priority": 50,
+      "note": "2026-11-02 경기일보 2022-03-14 추가. 이제 매체 2015, 공공 2017, SNS 2019, 매체 2022. 학술 초록 못 찾음(영문 검색은 업계 설문뿐: Green America 2019, Yocuda 2024). 2005년 이전이나 2025년 이후 출처 필요",
+      "createdAt": "2026-11-02T09:41:06.149Z",
+      "seq": 3263
     },
     {
       "id": "d16898d2",
@@ -2619,6 +2587,14 @@
       "note": "2026-11-02 newsis 2017 더함. 반품하기 문서 없음. 후회가 반품으로 이어진다는 파편(Frontiers fcomm.2025.1547639 'high return rates driven by post-purchase regret', retailbrew 2026-05-04)으로 새 현상 후 결과 간선. Little Women 은 Gutenberg 514 가 이미 4문서라 못 씀",
       "createdAt": "2026-11-02T03:07:00.257Z",
       "seq": 3214
+    },
+    {
+      "id": "56dcfd10",
+      "title": "나쁘게 보이는 행동 줄여 답하기",
+      "priority": 10,
+      "note": "2026-11-02 overreporting-desirable-behavior 보강 중. boards.straightdope.com/t/lying-with-statistics/627453/33 (2012-07-09) 부모 옆 신입생 건강 설문 흡연 0%. overreporting-desirable-behavior [^4] Poltavski 2018 이 underreport 도 말함. 대립 또는 형제 현상",
+      "createdAt": "2026-11-02T09:19:51.186Z",
+      "seq": 3250
     },
     {
       "id": "02b2f242",
