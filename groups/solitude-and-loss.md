@@ -19,6 +19,7 @@
   - [반려동물 안락사 뒤 죄책감](../docs/pet-euthanasia-guilt.md)
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
+- [어린 시절 살던 집 찾아가기](../docs/revisiting-childhood-home.md) 어른이 된 사람이 어린 시절 살던 집이나 동네를 일부러 다시 찾아가 지금의 모습을 기억과 견주어 본다.
 - [예기 애도](../docs/anticipatory-grief.md) 가족이 죽어 가는 것을 지켜보는 사람이 그 가족이 죽기 전에 미리 슬퍼한다.
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
 - [운전을 그만둔 뒤의 고립](../docs/isolation-after-driving-cessation.md) 운전을 그만둔 노인이 밖에 나가는 일을 줄이고 남과 떨어져 고립감을 느낀다.
