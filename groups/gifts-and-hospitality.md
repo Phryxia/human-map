@@ -9,6 +9,7 @@
 - [도움받을 때의 자존감 위협](../docs/threat-in-receiving-help.md) 자기보다 가진 것이 많은 사람에게 도움을 받는 사람이 자신을 낮게 느끼고 그 도움을 밀어내거나 스스로 해결하려 한다.
   - [얻어먹기 거절](../docs/declining-free-meals-out-of-pride.md)
 - [마음에 들지 않는 선물에 기뻐하는 척하기](../docs/feigning-delight-at-gifts.md) 마음에 들지 않는 선물을 받은 사람이 준 사람 앞에서 실망을 감추고 기뻐하는 척한다.
+- [말 꺼내기 전 헛기침](../docs/clearing-throat-before-speaking.md) 여럿 앞에서 말을 꺼내려는 사람이 먼저 헛기침으로 목청을 가다듬는다.
 - [받은 선물 다시 선물하기](../docs/regifting.md) 받은 선물을 쓰지 않은 사람이 그것을 다른 사람에게 다시 선물로 준다.
 - [부채감](../docs/indebtedness.md) 남에게 호의나 도움을 받은 사람이 그것을 갚아야 한다는 의무감과 불편함을 느낀다.
 - [빈말 약속](../docs/empty-invitations.md) 헤어지거나 오랜만에 만난 사람에게 날짜를 정하지 않은 만남이나 식사를 지킬 생각 없이 인사로 약속한다.
