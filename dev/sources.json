@@ -2410,9 +2410,9 @@
   },
   "https://www.jstage.jst.go.jp/article/psysoc/48/4/48_4_288/_article": {
     "first": "2026-10-18",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://wiserd.ac.uk/blog/poverty-in-the-classroom-school-pupils-in-wales-are-acutely-aware-of-hardships-experienced-by-their-classmates/": {
     "first": "2026-10-18",
@@ -11960,9 +11960,9 @@
   },
   "https://www.healthday.com/health-news/mental-health/women-should-let-the-fur-fly-505530.html": {
     "first": "2026-10-27",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://mediahub.seoul.go.kr/archives/1060048": {
     "first": "2026-10-27",
@@ -12727,9 +12727,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2554/pg2554-images.html": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-03"
   },
   "https://www.gutenberg.org/cache/epub/107/pg107-images.html": {
     "first": "2026-10-28",
@@ -14830,39 +14830,39 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/12873078/": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-03",
+    "result": "NOT_FOUND",
     "lastVerified": "2026-11-01"
   },
   "https://www.imaeil.com/page/view/2008040307370657567": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://www.segye.com/newsView/20150627000838": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://www.autoview.co.kr/ko-kr/boards/1/61528": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://newsroom.aaa.com/2016/07/nearly-80-percent-of-drivers-express-significant-anger-aggression-or-road-rage/": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148957606": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://boards.straightdope.com/t/the-yellow-light-is-there-for-a-reason/317685": {
     "first": "2026-10-31",
@@ -14968,8 +14968,8 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/11204896/": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-03",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1686513/full": {
@@ -16562,9 +16562,9 @@
   },
   "https://mediahub.seoul.go.kr/archives/858195": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-03"
   },
   "https://www.gutenberg.org/cache/epub/3078/pg3078-images.html": {
     "first": "2026-11-01",
@@ -18593,6 +18593,12 @@
     "lastVerified": "2026-11-03"
   },
   "https://www.khan.co.kr/article/202112211520011": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://shelburnefreepress.ca/ask-a-psychotherapist-9/": {
     "first": "2026-11-03",
     "last": "2026-11-03",
     "result": "VERIFIED",
