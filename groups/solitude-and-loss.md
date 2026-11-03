@@ -7,6 +7,7 @@
 - [간병 끝 사별의 안도](../docs/relief-after-caregiving-death.md) 오래 앓던 가족을 돌보던 사람이 그 가족이 죽은 뒤 슬픔과 함께 안도를 느끼고 그 안도에 죄책감을 느끼기도 한다.
 - [거울 속 늙은 얼굴의 낯섦](../docs/aged-face-in-mirror.md) 사람이 거울에 비친 자기 얼굴을 보고 스스로 느끼는 나이보다 늙었다고 여기며 낯설어한다.
 - [곁에 없는 사람의 옷 냄새 맡기](../docs/smelling-absent-loved-ones-clothes.md) 사람이 멀리 떠나 있거나 세상을 떠난 가까운 사람을 그리워하며 그 사람의 옷이나 베개에 남은 냄새를 맡는다.
+- [고인의 유품 간직하기](../docs/keeping-belongings-of-the-deceased.md) 가족이나 가까운 사람을 잃은 사람이 고인이 입고 쓰던 물건을 버리지 못하고 간직한다.
 - [고인의 존재를 느끼기](../docs/sensing-presence-of-the-dead.md) 가까운 사람을 잃은 사람이 세상을 떠난 그가 곁에 있다고 느끼거나 그 목소리를 듣는다.
 - [기일 무렵 되살아나는 슬픔](../docs/anniversary-grief.md) 가까운 사람을 잃은 사람이 해마다 그 사람이 죽은 날이 돌아오면 그 무렵 슬픔이 다시 짙어진다.
 - [꿈에 나타나는 고인](../docs/dreams-of-the-deceased.md) 가까운 사람을 잃은 사람이 꿈에서 고인을 만나고 깨어나 그 꿈을 위안이나 슬픔으로 받아들인다.
