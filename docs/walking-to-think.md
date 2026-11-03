@@ -18,7 +18,9 @@
 
 2015년 연구[^7]에서 자연 속을 90분 걸은 참가자는 스스로 보고한 반추와 슬하 전전두피질의 신경 활동이 모두 줄었다.
 
-2026년 방송사 기사[^8]는 고민이 많을 때 가볍게 산책하거나 답답할 때 잠시 밖을 걸으며 기분을 바꾸는 일을 흔한 일로 소개했다. 2026년 8월 블로그 글[^9]의 글쓴이는 가만히 앉아 있으면 생각과 감정이 한꺼번에 뒤엉키지만 걷는 동안에는 생각이 걸음의 리듬을 따라 순서대로 지나가는 것처럼 느낀다고 썼다.
+2025년 Hacker News 댓글[^8]의 글쓴이는 글이 막히면 휴대폰을 두고 산책을 나가 눈앞의 문제에만 생각을 모은다고 적었다.
+
+2026년 방송사 기사[^9]는 고민이 많을 때 가볍게 산책하거나 답답할 때 잠시 밖을 걸으며 기분을 바꾸는 일을 흔한 일로 소개했다. 2026년 8월 블로그 글[^10]의 글쓴이는 가만히 앉아 있으면 생각과 감정이 한꺼번에 뒤엉키지만 걷는 동안에는 생각이 걸음의 리듬을 따라 순서대로 지나가는 것처럼 느낀다고 썼다.
 
 # 관계
 
@@ -32,7 +34,7 @@
 
 ## 원인
 
-없음.
+- [글 막힘](writers-block.md)[^8]
 
 ## 결과
 
@@ -51,5 +53,6 @@
 [^5]: [학술] "Four experiments demonstrate that walking boosts creative ideation in real time and shortly after." (네 실험은 걷기가 걷는 동안과 그 직후에 창의적 발상을 높인다는 것을 보여 준다.) — Oppezzo M, Schwartz DL, "Give your ideas some legs: the positive effect of walking on creative thinking", Journal of Experimental Psychology: Learning, Memory, and Cognition 40(4), 2014-07, https://pubmed.ncbi.nlm.nih.gov/24749966/, 2026-10-31 접속
 [^6]: [매체] "Because we don’t have to devote much conscious effort to the act of walking, our attention is free to wander—to overlay the world before us with a parade of images from the mind’s theatre." (걷는 행위에 의식적인 노력을 많이 들이지 않아도 되기 때문에 우리의 주의는 자유롭게 떠돌며 눈앞의 세계 위에 마음의 극장에서 나온 이미지들을 겹쳐 놓는다.) — Ferris Jabr, "Why Walking Helps Us Think", The New Yorker, 2014-09-03, https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think, 2026-10-31 접속
 [^7]: [학술] "a brief nature experience, a 90-min walk in a natural setting, decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex (sgPFC)" (자연 속에서 90분 걷는 짧은 자연 경험은 스스로 보고한 반추와 슬하 전전두피질(sgPFC)의 신경 활동을 모두 줄인다) — Gregory N. Bratman, J. Paul Hamilton, Kevin S. Hahn, Gretchen C. Daily, James J. Gross, "Nature experience reduces rumination and subgenual prefrontal cortex activation", PNAS 112(28), 2015-07-14, https://pubmed.ncbi.nlm.nih.gov/26124129/, 2026-11-01 접속
-[^8]: [매체] "실제로 우리는 고민이 많을 때 가볍게 산책을 하거나, 답답한 마음이 들 때 잠시 밖을 걸으며 기분 전환을 하곤 합니다." — KNN, 「[행복한책읽기]-'걷는다'」, 2026-07-06, https://news.knn.co.kr/news/article/189682, 2026-10-31 접속
-[^9]: [매체] "가만히 앉아 있을 때는 여러 생각과 감정이 한꺼번에 뒤엉켜 밀려오지만, 걷는 동안에는 그 생각들이 마치 걸음의 리듬을 따라 한 걸음 한 걸음 순서대로 지나가는 것처럼 느껴진다." — 고요의숲, 「몸이 걸으면, 마음도 따라 걷는다」, 브런치, 2026-08-10, https://brunch.co.kr/@theshhhforest/47, 2026-10-31 접속
+[^8]: [SNS] "For example, often when I am stuck on writing I go for a walk. I often don’t take my phone and force myself to focus only on the problem at hand." (이를테면 글이 막히면 자주 산책을 나간다. 휴대폰은 대개 두고 가서 눈앞의 문제에만 집중하도록 스스로를 몰아붙인다.) — Hacker News 댓글, 2025-08-10, https://news.ycombinator.com/item?id=44857785, 2026-11-03 접속
+[^9]: [매체] "실제로 우리는 고민이 많을 때 가볍게 산책을 하거나, 답답한 마음이 들 때 잠시 밖을 걸으며 기분 전환을 하곤 합니다." — KNN, 「[행복한책읽기]-'걷는다'」, 2026-07-06, https://news.knn.co.kr/news/article/189682, 2026-10-31 접속
+[^10]: [매체] "가만히 앉아 있을 때는 여러 생각과 감정이 한꺼번에 뒤엉켜 밀려오지만, 걷는 동안에는 그 생각들이 마치 걸음의 리듬을 따라 한 걸음 한 걸음 순서대로 지나가는 것처럼 느껴진다." — 고요의숲, 「몸이 걸으면, 마음도 따라 걷는다」, 브런치, 2026-08-10, https://brunch.co.kr/@theshhhforest/47, 2026-10-31 접속
