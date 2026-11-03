@@ -341,6 +341,7 @@
 - [엘리베이터 안의 침묵](docs/elevator-silence.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [여러 병원 전전하기](docs/doctor-shopping.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [여행 기념품 사 오기](docs/buying-souvenirs-for-others.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [여행 짐 많이 싸기](docs/overpacking.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [여행지에서 엽서 보내기](docs/sending-travel-postcards.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연봉 협상하지 않기](docs/not-negotiating-salary.md) ([일터와 일자리](groups/work.md))
 - [연애 기피](docs/avoiding-dating.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
