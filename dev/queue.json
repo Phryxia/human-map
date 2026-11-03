@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-03T18:40:45.013Z",
-  "nextSeq": 3543,
-  "stops": 179,
+  "savedAt": "2026-11-03T21:34:13.661Z",
+  "nextSeq": 3561,
+  "stops": 180,
   "items": [
-    {
-      "id": "8fa73a40",
-      "title": "refusing-statistical-surveys 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-01 HN 45954551 [^8] 더함. 사생활 걱정 문서가 생기면 Census CED-WP-2025-002 와 [^8] 이 원인 간선 근거 후보. 다른 후보 HN 22435040 (2020-02-27) 조사원 방문 뒤에도 거절",
-      "createdAt": "2026-11-02T21:08:22.901Z",
-      "seq": 3379
-    },
-    {
-      "id": "96c1bcd5",
-      "title": "road-rage 보강: anger-suppression 대립, 학술 근거",
-      "priority": 50,
-      "note": "2026-11-01 원인 suppressed-anger-outburst 를 mediahub 858195 로 이음. 후보: shelburnefreepress.ca ask-a-psychotherapist-9 (2014-01-22) displaced anger 를 익명성 속에 운전 중 터뜨림",
-      "createdAt": "2026-11-02T21:08:26.613Z",
-      "seq": 3380
-    },
-    {
-      "id": "25462815",
-      "title": "yellow-light-dilemma 보강: blocking-the-intersection, impatience-at-red-light 관계",
-      "priority": 50,
-      "note": "2026-11-02 KOTI 카드뉴스 [^5] 더함. 후보: news.seoul.go.kr/traffic/archives/5181 (2012-09-20) 황색신호 순간 무리한 꼬리물기(blocking-the-intersection 이 이미 씀), easylaw 솔로몬의 재판 trialNo=2134 이번에 못 지나면 오래 기다린다는 생각에 가속, mediahub 2008080 (2023-05-31) 딜레마존이라 빠르게 지나감",
-      "createdAt": "2026-11-02T21:14:13.672Z",
-      "seq": 3381
-    },
-    {
-      "id": "1f245b0b",
-      "title": "inheritance-disputes 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-11-02 서울중앙지법 칼럼 2016 [^4] 더함. 후보: nsw.gov.au trustee-guardian silent-inheritance (2026-09-22) 설명 없는 유언 결정이 원망을 낳음, 남매 하나가 결정을 집안 자기 자리에 대한 판정으로 느낌. sibling-jealousy-over-favoritism 와 원인 간선 검토. gov.uk Family Court Statistics Q4 2021 contested probate 68->104",
-      "createdAt": "2026-11-02T21:17:03.489Z",
-      "seq": 3382
-    },
-    {
-      "id": "7419c551",
-      "title": "hiding-regional-accent 보강: 원인 간선(억양 편견)",
-      "priority": 50,
-      "note": "2026-11-02 Evans 2007 [^5], HN 19636950 [^9] 더함. 후보: PMC5604747 Friedman 2016 'if I do my own accent I am actually doing myself out of the job', koreascience JAKO201110264496547 (2011) 면접 사투리 불안, PMC12851482 (2026) 차별 회피 전략 추측. 억양 편견 문서가 없음",
-      "createdAt": "2026-11-02T21:26:26.397Z",
-      "seq": 3383
-    },
-    {
-      "id": "0f7f16a5",
-      "title": "comparing-children-to-others 보강: bragging-about-children 관계, 별칭 엄친아",
-      "priority": 50,
-      "note": "2026-11-02 clien park/9712496 [^4] 더함. 후보: clien park/2329693 (2011-12-21) 엄친딸 연봉 비교, clien park/18131856 (2023-06-13) 댓글 비교하면 더 잘할 거라 생각, HN 37452946 (2023-09-10) 형제 사촌 또래와 끊임없이 비교",
-      "createdAt": "2026-11-02T21:31:33.002Z",
-      "seq": 3384
-    },
-    {
-      "id": "24a3e96c",
-      "title": "refusing-mobility-aids 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-01 Darlington 공공 파편 더함. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 매체 후보 한국경제 2019110695681 국립교통재활병원장 칼럼(403)",
-      "createdAt": "2026-11-02T21:31:54.913Z",
-      "seq": 3386
-    },
-    {
-      "id": "25dd6ffc",
-      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
-      "priority": 50,
-      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
-      "createdAt": "2026-11-02T21:32:00.254Z",
-      "seq": 3387
-    },
     {
       "id": "cc19adb8",
       "title": "revisiting-childhood-home 보강: 관계 간선",
@@ -363,6 +299,70 @@
       "note": "2026-11-03 작성. 후보: 국가기록원 뉴스레터 133호 theme.archives.go.kr vol_133 달맞이 소원 빌기가 대보름 대표 풍속, news.seoul.go.kr/env/archives/514076 (2021-08-11) 유성우 영상 보며 소원 비는 시간",
       "createdAt": "2026-11-03T18:36:32.117Z",
       "seq": 3542
+    },
+    {
+      "id": "6f22c512",
+      "title": "privacy-concern 보강: privacy-paradox 관계, 인구조사 사생활 침해 인식",
+      "priority": 50,
+      "note": "2026-11-03 후보: news.gallup.com/poll/3004 (2000-04-13) 인구조사를 사생활 침해로 보는 18%, pewresearch 2019-11-15 Americans concerned lack of control 79%",
+      "createdAt": "2026-11-03T21:10:44.439Z",
+      "seq": 3553
+    },
+    {
+      "id": "9a095760",
+      "title": "road-rage 보강: anger-suppression 대립 근거",
+      "priority": 50,
+      "note": "2026-11-03 원인 anger-suppression 을 shelburnefreepress ask-a-psychotherapist-9 로 이음. 대립 근거 파편은 아직 없음",
+      "createdAt": "2026-11-03T21:16:10.929Z",
+      "seq": 3554
+    },
+    {
+      "id": "3b37b671",
+      "title": "yellow-light-dilemma 보강: 기다리기 싫어 가속하는 원인",
+      "priority": 50,
+      "note": "2026-11-03 결과 blocking-the-intersection 을 경기일보 200812220307612 로 이음. 후보: easylaw.go.kr/CSP/SolomonRetrieve.laf?trialNo=2134&topMenu=serviceUl6 (발행일 미상) 오래 기다려야 된다는 생각에 속도를 높여 통과, 경기일보 200310310131140 (2003-10-31) 이번 신호에는 무슨일이 있어도 진행. impatience-at-red-light 는 보행자 범위라 운전자 신호 대기 답답함 문서가 필요",
+      "createdAt": "2026-11-03T21:24:51.406Z",
+      "seq": 3555
+    },
+    {
+      "id": "25b6e94e",
+      "title": "inheritance-disputes 보강: sibling-jealousy-over-favoritism 원인 간선",
+      "priority": 50,
+      "note": "2026-11-03 원인 avoiding-death-talk 를 irwinmitchell 2025-05 보도자료로 이음. 큐에 있던 nsw.gov.au silent-inheritance 는 404 라 찾지 못함. 후보: keystone-law.com/blog/inheritance-disputes-between-siblings, etheringtons.com.au how-to-prevent-a-will-dispute-between-siblings 설명 없는 불균등 상속이 형제 원망을 낳음",
+      "createdAt": "2026-11-03T21:30:34.012Z",
+      "seq": 3556
+    },
+    {
+      "id": "e928f889",
+      "title": "hiding-regional-accent 보강: 원인 간선(억양 편견)",
+      "priority": 50,
+      "note": "2026-11-02 Evans 2007 [^5], HN 19636950 [^9] 더함. 후보: PMC5604747 Friedman 2016 'if I do my own accent I am actually doing myself out of the job', koreascience JAKO201110264496547 (2011) 면접 사투리 불안, PMC12851482 (2026) 차별 회피 전략 추측. 억양 편견 문서가 없음. 2026-11-03 후보 더: McKenzie 2022 북잉글랜드 억양 편견(phys.org 는 429 로 막힘, 다른 판 필요), 기존 [^6] RFA 2010 과 [^7] THE 2013 은 원인 간선 근거로 쓸 수 있음",
+      "createdAt": "2026-11-03T21:31:41.517Z",
+      "seq": 3557
+    },
+    {
+      "id": "c94e9b90",
+      "title": "comparing-children-to-others 보강: bragging-about-children 관계",
+      "priority": 50,
+      "note": "2026-11-03 별칭 엄친아 [^2] 더함. 후보: clien park/2329693 (2011-12-21) 엄친딸 연봉 비교, clien park/18131856 (2023-06-13), HN 37452946 (2023-09-10) 형제 사촌 또래와 끊임없이 비교",
+      "createdAt": "2026-11-03T21:32:31.371Z",
+      "seq": 3558
+    },
+    {
+      "id": "d2a9ee8b",
+      "title": "refusing-mobility-aids 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-01 Darlington 공공 파편 더함. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 매체 후보 한국경제 2019110695681 국립교통재활병원장 칼럼(403). 2026-11-03 hiding-hearing-loss 는 청력 손실 자체를 숨기는 문서라 보조기구 상위보다 몸의 쇠퇴 숨기기 상위가 맞을 수 있음. 근거 후보 PMC7763066 [^3], PMC2904535 [^1]",
+      "createdAt": "2026-11-03T21:33:21.363Z",
+      "seq": 3559
+    },
+    {
+      "id": "d1870478",
+      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
+      "priority": 50,
+      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
+      "createdAt": "2026-11-03T21:33:36.029Z",
+      "seq": 3560
     },
     {
       "id": "d16898d2",
@@ -2667,6 +2667,14 @@
       "note": "2026-11-03 tolerating-unpaid-wages, not-reporting-workplace-injury, enduring-workplace-harassment 의 공통 상위 후보. 상위 문서용 파편 필요",
       "createdAt": "2026-11-03T15:33:57.738Z",
       "seq": 3528
+    },
+    {
+      "id": "a964dadc",
+      "title": "의료진에게 정보 숨기기",
+      "priority": 10,
+      "note": "2026-11-03 privacy-concern [^6] PMC7394042 에서 봄. 개인정보 걱정 때문에 환자가 의료 정보를 말하지 않음, privacy-concern 의 결과 간선 후보",
+      "createdAt": "2026-11-03T21:10:44.272Z",
+      "seq": 3552
     },
     {
       "id": "02b2f242",
