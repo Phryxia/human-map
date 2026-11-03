@@ -12733,9 +12733,9 @@
   },
   "https://www.gutenberg.org/cache/epub/107/pg107-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.gutenberg.org/cache/epub/599/pg599-images.html": {
     "first": "2026-10-28",
@@ -17851,6 +17851,47 @@
     "lastVerified": "2026-11-03"
   },
   "https://www.abouttime.org.au/experiences/managing-your-sentence-the-flow-of-time-in-prison": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://en.wikisource.org/wiki/Lyrical_Ballads_(1798)/We_are_seven": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://www.seoul.co.kr/news/2000/03/08/20000308019002": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://www.newswire.co.kr/newsRead.php?no=536336": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://www.spokesman.com/stories/2012/may/31/cemeteries-hold-more-than-deceased/": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://community.sueryder.org/t/my-mums-grave/9251": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC9319928/": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "UNREACHABLE"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC13176479/": {
     "first": "2026-11-03",
     "last": "2026-11-03",
     "result": "VERIFIED",
