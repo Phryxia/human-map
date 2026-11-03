@@ -1750,9 +1750,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%94%B0%EB%9D%BC%EC%A7%80": {
     "first": "2026-10-18",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5760191/": {
     "first": "2026-10-18",
@@ -15310,15 +15310,15 @@
   },
   "https://boards.straightdope.com/t/for-parents-of-adults-who-still-live-at-home/540787?page=2": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.pbs.org/newshour/economy/pew-study-young-adults-ok-with": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.mt.co.kr/society/2020/05/18/2020051512375753294": {
     "first": "2026-10-31",
@@ -17024,9 +17024,9 @@
   },
   "https://boards.straightdope.com/t/is-it-okay-for-a-guest-to-clean-his-hosts-house-need-answer-fast/644109": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10248469/": {
     "first": "2026-11-02",
@@ -18011,6 +18011,12 @@
     "lastVerified": "2026-11-03"
   },
   "https://link.springer.com/article/10.1007/s11031-020-09839-1": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://boards.straightdope.com/t/do-guests-have-a-responsibility-to-chip-in-with-the-housework/429436": {
     "first": "2026-11-03",
     "last": "2026-11-03",
     "result": "VERIFIED",
