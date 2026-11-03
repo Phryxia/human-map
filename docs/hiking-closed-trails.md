@@ -1,6 +1,6 @@
 # 출입 금지된 샛길 산행
 
-별칭: 샛길 출입[^1], 비법정 탐방로 무단출입[^7]
+별칭: 샛길 출입[^1], 비법정 탐방로 무단출입[^8]
 
 등산객이 출입이 금지된 샛길이나 지정 탐방로 밖으로 들어가 산행한다.
 
@@ -10,9 +10,9 @@
 
 2014년 미국 오리건 등산 포럼 게시글[^4]의 글쓴이는 송골매 보호로 닫은 옛길의 쓰러진 나무 너머에 발자국이 꽤 많이 나 있는 것을 보았다고 적었다.
 
-2020년 Goh 의 연구[^5]에서 자연을 더 가까이 보려는 마음과 더 모험하고 싶은 마음이 방문객을 탐방로 밖으로 이끄는 주요 태도로 나타났다. 같은 해 호주 블루마운틴스 국립공원 기사[^6]는 탐방로 밖으로 나가는 데 놓칠까 두려운 마음도 있다고 전하며 다른 방문객이 울타리를 넘어 절벽 끝에 앉아 셀카를 찍는다고 썼다.
+2020년 Goh 의 연구[^5]에서 자연을 더 가까이 보려는 마음과 더 모험하고 싶은 마음이 방문객을 탐방로 밖으로 이끄는 주요 태도로 나타났다. 같은 해 호주 블루마운틴스 국립공원 기사[^6]는 탐방로 밖으로 나가는 데 놓칠까 두려운 마음도 있다고 전하며 다른 방문객이 울타리를 넘어 절벽 끝에 앉아 셀카를 찍는다고 썼다. 같은 해 Goh 의 다른 연구[^7]에서 친구는 탐방로 밖으로 나가려는 의도에 가장 크게 작용하는 규범 신념의 대상으로 나타났다.
 
-2026년 7월 기사[^7]에서 불법 등반객은 관리 인력이 없는 새벽 1\~2시에 입산해 백록담 일대에서 일출을 보고 하산하는 방식으로 단속을 피했다. 2026년 9월 기사[^8]는 탐방객이 사진 촬영, 경관 감상, 산행과 등반을 목적으로 출입금지 구역에 들어가는 사례가 많다고 썼다.
+2026년 7월 기사[^8]에서 불법 등반객은 관리 인력이 없는 새벽 1\~2시에 입산해 백록담 일대에서 일출을 보고 하산하는 방식으로 단속을 피했다. 2026년 9월 기사[^9]는 탐방객이 사진 촬영, 경관 감상, 산행과 등반을 목적으로 출입금지 구역에 들어가는 사례가 많다고 썼다.
 
 # 관계
 
@@ -44,5 +44,6 @@
 [^4]: [SNS] "Last I hiked the Cape Horn Trail, I got to the viewpoint near the falcon closure and noticed that there were quite a few footprints past the downed tree over the old trail." (지난번 Cape Horn 등산로에 갔을 때 송골매 보호 통제 구역 근처 전망대에 이르러 보니 옛길 위 쓰러진 나무 너머로 발자국이 꽤 많이 나 있었다.) — Oregon Hikers, 게시글, 2014-05-21, https://www.oregonhikers.org/forum/viewtopic.php?p=139882, 2026-11-01 접속
 [^5]: [학술] "Results identified a closer view of nature and being more adventurous as key attitudinal items shaping visitors to venture off-trail." (자연을 더 가까이 보려는 것과 더 모험적이고 싶은 마음이 방문객을 탐방로 밖으로 이끄는 주요 태도 항목으로 나타났다.) — Edmund Goh, "Breaking the rules to venture off-trail at national parks: exploring salient beliefs through a planned behaviour approach", Tourism Recreation Research 45(2), 2020, https://ro.ecu.edu.au/ecuworkspost2013/8342, 2026-10-31 접속
 [^6]: [매체] "There is also an element of FOMO... Other visitors are climbing the fence at Sublime Point to sit on the cliff edge to take awesome selfies." (놓칠까 두려운 마음도 있다. 다른 방문객들이 서브라임 포인트의 울타리를 넘어 절벽 끝에 앉아 멋진 셀카를 찍고 있다.) — Jennie Curtin, "New study reveals why people jump barriers to go off-trail in Blue Mountains National Park", Blue Mountains Gazette, 2020-07-13, https://www.bluemountainsgazette.com.au/story/6824807/new-study-reveals-why-people-jump-barriers-to-go-off-trail-in-blue-mountains-national-park/, 2026-10-31 접속
-[^7]: [매체] "불법 등반객들은 관리 인력이 없는 새벽 1\~2시에 입산한 뒤 정상 서릉과 혈망봉, 백록담 일대에서 일출을 감상하고 하산하는 방식으로 단속을 피해 가고 있기 때문이다." — 아시아경제, 「비법정 탐방로 무단출입 77% 급증」, 2026-07-16, https://view.asiae.co.kr/article/2026071608331280493, 2026-10-31 접속
-[^8]: [매체] "탐방객들이 사진 촬영이나 경관 감상, 산행과 등반 등을 목적으로 출입금지 구역에 들어가는 사례가 많은 것으로 나타났다." — 노해섭, 국립공원 비법정 탐방로 사망사고 기사, 위키트리, 2026-09-10, https://www.wikitree.co.kr/articles/1158538, 2026-10-31 접속
+[^7]: [학술] "Friends as a reference group were the strongest normative belief that influenced off-trail intentions." (준거 집단으로서 친구가 탐방로 밖으로 나가려는 의도에 영향을 준 가장 강한 규범 신념이었다.) — Edmund Goh, "Walking off-trail in national parks: Monkey see monkey do", Leisure Sciences 45(1), 2020-07-21, https://ro.ecu.edu.au/ecuworkspost2013/8297, 2026-11-03 접속
+[^8]: [매체] "불법 등반객들은 관리 인력이 없는 새벽 1\~2시에 입산한 뒤 정상 서릉과 혈망봉, 백록담 일대에서 일출을 감상하고 하산하는 방식으로 단속을 피해 가고 있기 때문이다." — 아시아경제, 「비법정 탐방로 무단출입 77% 급증」, 2026-07-16, https://view.asiae.co.kr/article/2026071608331280493, 2026-10-31 접속
+[^9]: [매체] "탐방객들이 사진 촬영이나 경관 감상, 산행과 등반 등을 목적으로 출입금지 구역에 들어가는 사례가 많은 것으로 나타났다." — 노해섭, 국립공원 비법정 탐방로 사망사고 기사, 위키트리, 2026-09-10, https://www.wikitree.co.kr/articles/1158538, 2026-10-31 접속
