@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-03T09:35:29.662Z",
-  "nextSeq": 3482,
-  "stops": 176,
+  "savedAt": "2026-11-03T12:35:00.332Z",
+  "nextSeq": 3493,
+  "stops": 177,
   "items": [
     {
       "id": "8bcaa6a3",
@@ -443,6 +443,38 @@
       "note": "2026-11-03 korea.kr 야식 섭취 비율 자료 못 찾음. 학술 후보: koreascience JAKO201203939216500 (2005 국민건강영양조사, 성인 3903명 중 야식 섭취 34.0%, 초록 HTML). 이전: 식약처 2026-02-24 korea.kr 148959906 권고문",
       "createdAt": "2026-11-03T09:34:58.149Z",
       "seq": 3481
+    },
+    {
+      "id": "4811a984",
+      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-03 Wharton 2003 Pragmatics & Cognition 'ahem' 은 ResearchGate 403. Nicholas Nickleby pg967 복도에서 기침해 온다는 걸 알리라는 대목은 다른 문학 후보",
+      "createdAt": "2026-11-03T12:15:19.841Z",
+      "seq": 3489
+    },
+    {
+      "id": "eb52457f",
+      "title": "drinking-less-to-avoid-toilet 보강: 공공 파편, 교사 사례",
+      "priority": 50,
+      "note": "2026-11-03 Baird 2023 digitalcommons.wku.edu/ijesab/vol16/iss2/293 'restroom access is limited and reduces fluid consumption for most teachers'(It appears 로 시작, 저자 추정). MSD 매뉴얼 탈수 2024-05-06 노인이 실금 두려움으로 적게 마신다. Health Innovation Network 2025-07-11. Mumsnet 4218335 2021 외출 90분 전 마시기 멈춤",
+      "createdAt": "2026-11-03T12:24:41.113Z",
+      "seq": 3490
+    },
+    {
+      "id": "57dd633a",
+      "title": "clearing-throat-to-show-dignity 보강: 학술 파편, 영어 문학 파편",
+      "priority": 50,
+      "note": "2026-11-03 후보: David Copperfield pg766 'clearing his throat in his magnificent way'(766 은 이미 4개 문서, 5번째면 WARN), Bleak House pg1023 Sir Leicester 'solemn wave of his hand ... Hem!', 가루지기 타령 성두본 '헛기침 버썩 뱉으면서'(한자 포함), 청춘극장 1권 3장 백 초시 '에헴!' 등장. 학술 없음",
+      "createdAt": "2026-11-03T12:30:27.192Z",
+      "seq": 3491
+    },
+    {
+      "id": "509a4c24",
+      "title": "clearing-throat-before-speaking 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-03 공공 1, 문학 1, 매체 2. USF 2013 etd/5066 은 헛기침 없음. Blind 2021 회의 앞 목 걸림은 삼키기라 다른 현상",
+      "createdAt": "2026-11-03T12:34:49.275Z",
+      "seq": 3492
     },
     {
       "id": "d16898d2",
