@@ -17132,38 +17132,38 @@
   },
   "https://www.gutenberg.org/cache/epub/4300/pg4300-images.html": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://boards.straightdope.com/t/stuff-of-the-deceased/356682": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://boards.straightdope.com/t/do-you-know-what-your-significant-other-or-other-loved-ones-smell-like/745736": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://psych.ubc.ca/news/stressed-out-try-smelling-your-partners-shirt/": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.fnnews.com/news/201801081119084450": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://eprints.whiterose.ac.uk/204808/": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
-    "result": "VERIFIED",
+    "last": "2026-11-03",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-02"
   },
   "https://www.gutenberg.org/cache/epub/1522/pg1522-images.html": {
@@ -17234,9 +17234,9 @@
   },
   "https://neurosciencenews.com/lover-shirt-sleep-15684/": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.wikitree.co.kr/articles/1155712": {
     "first": "2026-11-02",
@@ -18161,6 +18161,18 @@
     "lastVerified": "2026-11-03"
   },
   "https://brunch.co.kr/@concord26/2480": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://kbmaeil.com/article/201502060121683": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://brunch.co.kr/@kitchenie/72": {
     "first": "2026-11-03",
     "last": "2026-11-03",
     "result": "VERIFIED",
