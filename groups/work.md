@@ -33,6 +33,7 @@
 - [재택근무 중 더 오래 일하기](../docs/working-longer-at-home.md) 재택근무하는 사람이 집에서 일하면서 사업장에서 일할 때보다 더 오래 일한다.
 - [점심 휴식 거르고 일하기](../docs/skipping-lunch-break.md) 일하는 사람이 점심시간이나 휴게시간을 다 쓰지 않고 책상에서 먹거나 곧바로 일로 돌아간다.
 - [직장 내 괴롭힘 참고 넘기기](../docs/enduring-workplace-harassment.md) 직장에서 괴롭힘을 당한 사람이 회사나 기관에 알리지 않고 참거나 모르는 척한다.
+- [통근 피로](../docs/commute-fatigue.md) 긴 시간 출퇴근하는 직장인이 통근 때문에 지치고 스트레스를 느낀다.
 - [퇴근 뒤 업무 연락에 답하기](../docs/after-hours-work-replies.md) 일하는 사람이 퇴근 뒤나 휴일에도 업무 메시지와 이메일을 확인하고 답한다.
 - [퇴사 결심](../docs/deciding-to-quit-job.md) 직장인이 다니던 직장을 그만두기로 마음먹는다.
 - [퇴직 뒤 허전함](../docs/retirement-emptiness.md) 오래 다니던 일터를 떠난 사람이 할 일과 목적을 잃고 허전함과 무력감을 느낀다.
