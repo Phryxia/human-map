@@ -14,6 +14,8 @@
 
 2019년 해커뉴스 댓글[^4]의 글쓴이는 공항과 호텔 와이파이, 스타벅스 같은 믿을 수 없는 공용 망에서 은행 업무를 보고 이메일을 읽는다고 쓰고 그것이 문제라고 여기지 않는다고 적었다.
 
+2021년 3월 NordVPN 조사[^5]에서 미국인 응답자의 36.1% 가 공용 와이파이에 연결한 채 온라인으로 물건을 산 적이 있다고 답했다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [공공] "公衆無線LAN利用時の脅威について半数以上が認知しているが、脅威への対策については実施率 が大きく下がり、特に日本人においては半数以上が対策を取っていない。" (공중 무선랜을 쓸 때의 위협은 절반 이상이 알고 있지만 위협에 대한 대책은 실시율이 크게 떨어지고 특히 일본인은 절반 이상이 대책을 취하지 않는다.) — 総務省, 「公衆無線LAN利用に関する情報セキュリティ意識調査結果」, 総務省 報道資料, 2015-03-16, https://www.soumu.go.jp/menu_news/s-news/01ryutsu03_02000091.html, 2026-11-02 접속
 [^3]: [학술] "they still use these networks to access social networks, email, and other websites that handle sensitive information" (그들은 여전히 이 망으로 소셜 네트워크, 이메일, 민감한 정보를 다루는 다른 웹사이트에 접속한다) — David Maimon, Michael Becker, Sushant Patil, Jonathan Katz, "Self-Protective Behaviors Over Public WiFi Networks", LASER Workshop 2017, USENIX, 2017-10, https://www.usenix.org/conference/laser2017/presentation/maimon, 2026-11-02 접속
 [^4]: [SNS] "I do banking and I read my email on public, untrusted networks like airport and hotel wifi, Starbucks and the internet. I see not problem with that." (나는 공항과 호텔 와이파이, 스타벅스, 인터넷 같은 믿을 수 없는 공용 망에서 은행 업무를 보고 이메일을 읽는다. 나는 거기서 문제를 보지 못한다.) — Hacker News 댓글, 2019-01-21, https://news.ycombinator.com/item?id=18962989, 2026-11-02 접속
+[^5]: [매체] "Nearly four in 10 Americans (36.1%) said they have purchased something online while connected to public Wi-Fi" (미국인 열 명 가운데 네 명 가까이(36.1%)가 공용 와이파이에 연결한 채 온라인으로 물건을 산 적이 있다고 답했다) — NordVPN, "NordVPN Research: Americans Online Banking Usage Reaches 85%, But Trust Is Lagging Behind", 2021-03-02, https://nordvpn.com/nordvpn-research-americans-online-banking/, 2026-11-03 접속
