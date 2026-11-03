@@ -45,6 +45,11 @@ export const MAINTENANCE_PATTERNS = [
   /<title>\s*(?:[^<]*[-|:–]\s*)?(?:site |website )?(?:under )?maintenance\s*<\/title>/i,
 ]
 
+// 2xx 로 오지만 본문이 요청 제한 안내뿐인 페이지. PubMed 는 VERIFIED 였던 글에 203 과 "Too Many Requests" 를 줬다(2026-11-03).
+export const RATE_LIMIT_PATTERNS = [/^\s*Too Many Requests\s*$/i]
+// 요청 제한은 글이 사라진 것이 아니라 잠시 뒤 다시 받으라는 응답이다. HTTP 429 와 위 패턴의 본문을 요청 제한으로 본다.
+export const isRateLimited = (reason = '') => reason === 'HTTP 429' || reason === '요청 제한'
+
 // 바이트를 Content-Type 의 charset, 없으면 앞부분의 meta charset 으로 디코딩한다. 네이트 뉴스처럼 EUC-KR 로 오는 페이지가 있다.
 export function decodeBody(bytes, contentType = '') {
   const head = new TextDecoder('latin1').decode(bytes.subarray(0, 4096))
@@ -58,6 +63,7 @@ async function fetchOnce(url, ua, {timeout, fetchImpl}) {
     if (!res.ok) return {ok: false, reason: `HTTP ${res.status}`}
     const ct = res.headers.get('content-type') ?? ''
     const body = res.arrayBuffer ? decodeBody(new Uint8Array(await res.arrayBuffer()), ct) : await res.text()
+    if (RATE_LIMIT_PATTERNS.some(re => re.test(body.slice(0, 200)))) return {ok: false, reason: '요청 제한'}
     if (CHALLENGE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
     if (MAINTENANCE_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '점검 페이지'}
     const text = extractText(body, ct)
@@ -141,11 +147,12 @@ export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 200
 }
 
 // 결과를 기록과 줄 표시에 맞춰 판정한다. 돌려주는 값: {exit: 0|1, note}
-export function judge(frag, result, record, {hostBlocked = false} = {}) {
+export function judge(frag, result, record, {hostBlocked = false, rateLimited = false} = {}) {
   const wasVerified = !!record?.lastVerified
   if (result === 'VERIFIED') return {exit: 0, note: frag.unverified ? '(미확인) 표시를 뗄 수 있다' : ''}
   if (wasVerified) {
     if (frag.vanished) return {exit: 0, note: `소멸 표시가 있다(${frag.vanished} 까지 확인). 그대로 둔다`}
+    if (result === 'UNREACHABLE' && rateLimited) return {exit: 0, note: '요청 제한을 받았다(429). 소멸로 보지 않는다'}
     if (result === 'UNREACHABLE' && hostBlocked) return {exit: 0, note: '호스트 전체가 막혀 있다(/ 도 열리지 않음). 소멸로 보지 않는다'}
     return {exit: 1, note: `줄 끝을 (소멸, ${record.lastVerified} 까지 확인) 으로 바꾼다`}
   }

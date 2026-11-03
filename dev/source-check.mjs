@@ -4,7 +4,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import {spawnSync} from 'node:child_process'
 import {loadAll, ROOT} from './lib/doc.mjs'
-import {recheckText, quoteIn, judge, hostBlocked, daysBetween, needsProxyReexec, mergeRecords} from './lib/source.mjs'
+import {recheckText, quoteIn, judge, hostBlocked, isRateLimited, daysBetween, needsProxyReexec, mergeRecords} from './lib/source.mjs'
 
 if (needsProxyReexec(process.env)) {
   const r = spawnSync(process.execPath, ['--disable-warning=UNDICI-EHPA', ...process.argv.slice(1)], {stdio: 'inherit', env: {...process.env, NODE_USE_ENV_PROXY: '1'}})
@@ -62,7 +62,7 @@ for (const {doc, frag} of targets) {
   const result = !page.ok ? 'UNREACHABLE' : quoteIn(page.text, frag.quote) ? 'VERIFIED' : 'NOT_FOUND'
   const rec = records[frag.url]
   const blocked = result === 'UNREACHABLE' && rec?.lastVerified && !frag.vanished ? await hostBlocked(frag.url, page.reason) : false
-  const j = judge(frag, result, rec, {hostBlocked: blocked})
+  const j = judge(frag, result, rec, {hostBlocked: blocked, rateLimited: result === 'UNREACHABLE' && isRateLimited(page.reason)})
   console.log(`${result} ${doc.id} [^${frag.n}]${page.ok ? '' : ` (${page.reason})`}${j.note ? ' — ' + j.note : ''}`)
   if (j.exit) failed = true
   records[frag.url] = {...rec, first: rec?.first ?? today, last: today, result, lastVerified: result === 'VERIFIED' ? today : rec?.lastVerified}

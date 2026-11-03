@@ -1,6 +1,6 @@
 import {test} from 'node:test'
 import assert from 'node:assert/strict'
-import {normalize, extractText, quoteIn, judge, daysBetween, fetchText, hostBlocked, recheckText} from './lib/source.mjs'
+import {normalize, extractText, quoteIn, judge, daysBetween, fetchText, hostBlocked, recheckText, isRateLimited} from './lib/source.mjs'
 
 test('normalize: 따옴표, 대시, 공백 종류를 맞춘다', () => {
   assert.equal(normalize('“그는” 말했다 – 그리고  떠났다'), '"그는" 말했다 - 그리고 떠났다')
@@ -308,4 +308,21 @@ test('hostBlocked: 소켓 오류와 타임아웃은 같은 연결 실패로 본�
   assert.equal(await hostBlocked(url, 'fetch failed (ECONNRESET)', {fetchImpl: fail('UND_ERR_CONNECT_TIMEOUT')}), true)
   assert.equal(await hostBlocked(url, '타임아웃', {fetchImpl: fail('ECONNRESET')}), true)
   assert.equal(await hostBlocked(url, 'fetch failed (ECONNRESET)', {fetchImpl: fail('ENOTFOUND')}), false)
+})
+
+// pubmed.ncbi.nlm.nih.gov 는 2026-11-03 VERIFIED 였던 11204896 에 HTTP 429 를, 12873078 에 203 과 본문 "Too Many Requests" 를 줬다. 홈(/)은 200 이었다.
+test('fetchText: 2xx 로 온 "Too Many Requests" 본문은 요청 제한으로 본다 (PubMed 203)', async () => {
+  const fetchImpl = async () => ({ok: true, status: 203, headers: new Map([['content-type', 'text/html']]), text: async () => 'Too Many Requests'})
+  const page = await fetchText('https://pubmed.ncbi.nlm.nih.gov/12873078/', {fetchImpl, fallbackImpl: fetchImpl, quote: 'Nearly a third', challengeDelay: 0})
+  assert.equal(page.ok, false)
+  assert.equal(page.reason, '요청 제한')
+})
+test('judge: 요청 제한(HTTP 429, 요청 제한)이면 VERIFIED 기록이 있어도 소멸 표시를 요구하지 않는다', () => {
+  const rec = {first: '2026-10-31', last: '2026-11-01', result: 'VERIFIED', lastVerified: '2026-11-01'}
+  const f = {unverified: false, vanished: null}
+  assert.ok(isRateLimited('HTTP 429') && isRateLimited('요청 제한') && !isRateLimited('HTTP 404'))
+  const j = judge(f, 'UNREACHABLE', rec, {rateLimited: true})
+  assert.equal(j.exit, 0)
+  assert.match(j.note, /요청 제한/)
+  assert.equal(judge(f, 'UNREACHABLE', undefined, {rateLimited: true}).exit, 1)
 })
