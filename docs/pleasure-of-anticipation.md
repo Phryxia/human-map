@@ -16,6 +16,8 @@
 
 2018년 클리앙 게시글[^5]의 글쓴이는 여행 출발까지 석 달이 남았는데 벌써 너무 들떴다고 썼다.
 
+2023년 Yahoo Life UK 기사는 큰날을 앞둔 들뜸이 스트레스와 비슷하게 잠을 흐트러뜨린다는 말을 옮겼다.[^6]
+
 # 관계
 
 ## 상위
@@ -32,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [설레는 날 전날 밤 잠 못 들기](sleepless-before-exciting-day.md)[^6]
 
 ## 대립
 
@@ -45,3 +47,4 @@
 [^3]: [학술] "Vacationers reported a higher degree of pre-trip happiness, compared to non-vacationers, possibly because they are anticipating their holiday." (휴가를 가는 사람들은 가지 않는 사람들보다 여행 전 행복도를 더 높게 보고했는데 휴가를 고대하고 있기 때문일 수 있다.) — Jeroen Nawijn 외, "Vacationers Happier, but Most not Happier After a Holiday", Applied Research in Quality of Life, 2010-02-10, https://personal.eur.nl/veenhoven/Pub2010s/2010g-ab.html, 2026-10-29 접속
 [^4]: [매체] "막상 여행지에 가면 고생도 해야 하고 뜻하지 않은 일로 힘들기도 하지만 떠나기 전 설렘은 무제한으로 누릴 수 있는 즐거움이다." — 김경집, "여행은 전주곡이 더 달콤하다", 한경비즈니스, 2016-01-28, https://magazine.hankyung.com/business/article/201601285911b, 2026-10-30 접속
 [^5]: [SNS] "아직 출발하려면 3개월이나 남았는데 벌써부터 너무 업된 거 같아요 전ㅠ" — 클리앙 게시글, 2018-07-25, https://www.clien.net/service/board/cm_tour/12397271, 2026-10-30 접속
+[^6]: [매체] "We often associate sleep problems with stress, but feeling excited in anticipation of a big day can have similarly disruptive effects on sleep." (우리는 흔히 수면 문제를 스트레스와 연결하지만 큰날을 기대하며 들뜨는 것도 잠에 비슷한 방해 효과를 낼 수 있다.) — Kate Ng, 「Sending kids to bed early on Christmas Eve is 'counterproductive', sleep expert says」, Yahoo Life UK, 2023-12-20, https://malaysia.news.yahoo.com/children-sleep-tips-christmas-eve-163314670.html, 2026-11-03 접속

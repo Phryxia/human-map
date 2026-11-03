@@ -24,7 +24,7 @@
 
 ## 원인
 
-없음.
+- [즐거운 일을 기다리는 즐거움](pleasure-of-anticipation.md)[^5]
 
 ## 결과
 
