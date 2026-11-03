@@ -326,3 +326,10 @@ test('judge: 요청 제한(HTTP 429, 요청 제한)이면 VERIFIED 기록이 있
   assert.match(j.note, /요청 제한/)
   assert.equal(judge(f, 'UNREACHABLE', undefined, {rateLimited: true}).exit, 1)
 })
+// 같은 날 pubmed 40398335 와 25907375 는 203 과 "Cookies must be enabled ... reload this page to continue" 페이지를 줬다. 홈(/)은 200 이었다.
+test('fetchText: PubMed 의 쿠키 확인 페이지는 요청 제한으로 본다', async () => {
+  const body = '<!doctype html><html lang="en"><head><title>pubmed.ncbi.nlm.nih.gov</title></head><body><h1>Cookies must be enabled</h1><p>Enable cookies for pubmed.ncbi.nlm.nih.gov and reload this page to continue.</p></body></html>'
+  const fetchImpl = async () => ({ok: true, status: 203, headers: new Map([['content-type', 'text/html']]), text: async () => body})
+  const page = await fetchText('https://pubmed.ncbi.nlm.nih.gov/40398335/', {fetchImpl, fallbackImpl: fetchImpl, quote: 'stop/go dilemma', challengeDelay: 0})
+  assert.equal(page.reason, '요청 제한')
+})
