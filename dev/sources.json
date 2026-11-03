@@ -14866,33 +14866,33 @@
   },
   "https://boards.straightdope.com/t/the-yellow-light-is-there-for-a-reason/317685": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.fhwa.dot.gov/publications/research/safety/06033/03scenario3.cfm": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.ksl.com/article/27525069": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://pubmed.ncbi.nlm.nih.gov/40398335/": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
-    "result": "VERIFIED",
+    "last": "2026-11-03",
+    "result": "NOT_FOUND",
     "lastVerified": "2026-11-02"
   },
   "https://www.imaeil.com/page/view/2026101518391643483": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://lup.lub.lu.se/search/publication/526252": {
     "first": "2026-10-31",
@@ -14950,8 +14950,8 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/25907375/": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
-    "result": "VERIFIED",
+    "last": "2026-11-03",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-02"
   },
   "https://www.npr.org/2026/01/06/nx-s1-5640140/people-want-to-look-good-researcher-hopes-redesigned-walker-will-remove-stigma": {
@@ -17630,33 +17630,33 @@
   },
   "https://www.nyc.gov/html/om/html/2000b/pr430-00.html": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.kyeonggi.com/article/200812220307612": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://mediahub.seoul.go.kr/archives/172056": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://news.seoul.go.kr/traffic/archives/5181": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://trid.trb.org/View/1439541": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://api.parliament.uk/historic-hansard/westminster_hall/2003/mar/12/national-minimum-wage": {
     "first": "2026-11-02",
@@ -17744,9 +17744,9 @@
   },
   "https://www.koti.re.kr/user/bbs/cardnewsView.do?bbs_no=69012": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://seoul.scourt.go.kr/dcboard/new/DcNewsViewAction.work?seqnum=348&gubun=48&scode_kname=&pageIndex=1&searchWord=&cbub_code=000210": {
     "first": "2026-11-02",
