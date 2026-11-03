@@ -136,6 +136,7 @@
 - [단속 카메라 앞에서만 속도 줄이기](docs/slowing-only-at-speed-cameras.md) ([길과 운전](groups/roads-and-driving.md))
 - [단톡방 나가지 못하기](docs/staying-in-group-chats.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [닫히는 문으로 뛰어들어 타기](docs/rushing-closing-doors.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [달과 별똥별에 소원 빌기](docs/wishing-on-moon-and-stars.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [담배꽁초 길에 버리기](docs/tossing-cigarette-butts.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [답장 기다리며 초조해하기](docs/waiting-for-a-reply.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [답장 미루기](docs/delaying-message-replies.md) ([걱정과 기분](groups/worry-and-mood.md))

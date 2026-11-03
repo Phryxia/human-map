@@ -34,6 +34,7 @@
     - [건강검진 이상 소견 뒤 재검 미루기](../docs/skipping-follow-up-after-abnormal-screening.md)
     - [치과 공포](../docs/dental-anxiety.md)
 - [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
+- [달과 별똥별에 소원 빌기](../docs/wishing-on-moon-and-stars.md) 사람이 떨어지는 별똥별이나 보름달, 초승달을 보며 소원을 빈다.
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
