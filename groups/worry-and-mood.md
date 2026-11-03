@@ -37,7 +37,6 @@
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
-- [보도블록 금 밟지 않기](../docs/avoiding-pavement-cracks.md) 사람이 길이나 바닥을 걸으며 블록 사이의 금과 선을 밟지 않으려고 걸음을 맞춘다.
 - [봄 타기](../docs/spring-fever.md) 겨울을 지나 봄을 맞은 사람이 까닭 없이 마음이 들뜨고 싱숭생숭해져 일이 손에 잡히지 않고 밖으로 나가고 싶어진다.
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
@@ -57,6 +56,7 @@
 - [지루함](../docs/boredom.md) 사람이 하는 일이나 지내는 날에 흥미를 느끼지 못하고 따분해한다.
   - [퇴근 시간 기다리며 시계 보기](../docs/clock-watching-at-work.md)
 - [징크스 지키기](../docs/superstitious-rituals.md) 결과를 알 수 없는 일을 앞둔 사람이 불운을 막거나 일이 잘되도록 정해 둔 작은 의례를 하거나 어떤 행동을 피한다.
+  - [보도블록 금 밟지 않기](../docs/avoiding-pavement-cracks.md)
   - [부정 탈까 봐 말 아끼기](../docs/tempting-fate.md)
   - [소원 빌며 동전 던지기](../docs/wishing-coin-toss.md)
 - [하품 전염](../docs/contagious-yawning.md) 남이 하품하는 것을 보거나 하품 이야기를 읽은 사람이 따라 하품한다.
