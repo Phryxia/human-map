@@ -28,5 +28,6 @@
 - [주말 몰아 자기](../docs/weekend-catch-up-sleep.md) 평일에 잠을 덜 잔 사람이 주말이나 연휴에 평소보다 오래 자서 모자란 잠을 메운다.
 - [지나치게 일찍 도착하기](../docs/arriving-too-early.md) 늦을까 마음 쓰는 사람이 정해진 시간보다 한참 앞서 나가거나 깨어 기다린다.
 - [책 읽지 않기](../docs/not-reading-books.md) 성인이 한 해 동안 종이책, 전자책, 오디오북 가운데 어느 것도 읽지 않고 지낸다.
+- [첫눈 반기기](../docs/welcoming-first-snow.md) 그해 처음 내리는 눈을 본 사람이 들떠 걸음을 멈추거나 밖으로 나가 눈을 본다.
 - [추운 아침 이불 속에 머물기](../docs/lingering-in-bed-on-cold-mornings.md) 추운 아침에 잠이 깬 사람이 따뜻한 이불 속에 더 있고 싶어 일어나기를 미룬다.
 - [텃밭 가꾸기](../docs/vegetable-gardening.md) 도시에 사는 사람이 작은 텃밭에 작물을 심어 가꾸며 자라는 것을 보고 뿌듯해한다.

@@ -477,6 +477,7 @@
 - [책 여백에 메모하기](docs/writing-in-book-margins.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [책 읽지 않기](docs/not-reading-books.md) ([시간과 하루 습관](groups/daily-time.md))
 - [처분 효과](docs/disposition-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [첫눈 반기기](docs/welcoming-first-snow.md) ([시간과 하루 습관](groups/daily-time.md))
 - [청력 보호구 미착용](docs/hearing-protection-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [청력 손실 숨기기](docs/hiding-hearing-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [추운 아침 이불 속에 머물기](docs/lingering-in-bed-on-cold-mornings.md) ([시간과 하루 습관](groups/daily-time.md))
