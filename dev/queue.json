@@ -1,153 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-03T06:32:31.716Z",
-  "nextSeq": 3446,
-  "stops": 175,
+  "savedAt": "2026-11-03T09:35:29.662Z",
+  "nextSeq": 3482,
+  "stops": 176,
   "items": [
-    {
-      "id": "112b7ae9",
-      "title": "smelling-absent-loved-ones-clothes 보강: 한국어 파편, keeping-an-exs-belongings 관계",
-      "priority": 50,
-      "note": "2026-11-02 추가. 후보: neurosciencenews.com/lover-shirt-sleep-15684 (2020-02-13) 혼자 여행할 때 셔츠 챙김, straightdope 745736 8번 글 베개 바꾸기(같은 URL 이라 못 씀), gutenberg 507 Adam Bede 편지 장미 향(1859), m.cafe.daum.net/subdued20club/ReHf/113723 (2011-12-20) 엄마 냄새가 옅어짐(회원제 카페 스크랩이라 보류)",
-      "createdAt": "2026-11-02T06:34:26.436Z",
-      "seq": 3232
-    },
-    {
-      "id": "9241ce58",
-      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
-      "priority": 50,
-      "note": "2026-11-02 추가. 학술 후보 못 찾음. straightdope 305065 같은 스레드 'I counted steps to reassure myself that I was at the bottom'(같은 URL 이라 못 씀), lastwordonnothing 2012 같은 글 페달 세기. avoiding-pavement-cracks 와 함께 Boswell 1564 의 걸음 맞추기",
-      "createdAt": "2026-11-02T06:37:06.449Z",
-      "seq": 3233
-    },
-    {
-      "id": "077d34d3",
-      "title": "hoarding-plastic-bags 보강: 학술 파편, 상위 difficulty-discarding 검토",
-      "priority": 50,
-      "note": "2026-11-02 추가. 학술 후보 못 찾음(orca.cardiff.ac.uk eprint 94652 PDF). brunch.co.kr/@alien1-on-earth/9 (2026-04-09) 할머니가 비닐봉지를 언젠가 쓸 보물로 여김(계정 중복 확인 필요). straightdope 791927 첫 글 쓰레기통에 씌울 봉지",
-      "createdAt": "2026-11-02T06:40:55.660Z",
-      "seq": 3234
-    },
-    {
-      "id": "c9c65195",
-      "title": "saying-food-is-fine 보강: 학술 또는 한국어 파편",
-      "priority": 50,
-      "note": "2026-11-02 bi.no Snyder 2018 매체로 추가. 학술 후보: Snyder, Witell, Gustafsson, McColl-Kennedy 2022 Journal of Business Research 141:755-769 Consumer lying behavior in service encounters (econpapers 초록 비어 있음). insight.co.kr/news/128052 는 미용실 장면이라 식당 요약에 안 맞음",
-      "createdAt": "2026-11-02T09:22:08.919Z",
-      "seq": 3251
-    },
-    {
-      "id": "c4562631",
-      "title": "overreporting-desirable-behavior 보강: 운동화 매장에서 달리기 횟수 부풀리기",
-      "priority": 50,
-      "note": "2026-11-02 bi.no consumer-lies-in-the-service-encounter (2018-07-02) 'exaggerating to the salesperson how often you run'. 이 출처는 saying-food-is-fine 이 씀. 조사 장면 밖이라 요약 확장 여부 판단 필요",
-      "createdAt": "2026-11-02T09:22:09.043Z",
-      "seq": 3252
-    },
-    {
-      "id": "00ce6443",
-      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계",
-      "priority": 50,
-      "note": "2026-10-30 PMC8910367, PMC3918682 reCAPTCHA. brunch @logincj/3 (2025-11-28) 은 인과 아님. 2026-11-02 frontporchrepublic.com/?p=52280 (2024-06-03) 인과 대목 없음. Penberthy 2023 SAGE 는 nectar.northampton.ac.uk PDF 뿐",
-      "createdAt": "2026-11-02T09:22:52.718Z",
-      "seq": 3253
-    },
-    {
-      "id": "a22afd00",
-      "title": "hesitating-to-unfriend 와 staying-in-group-chats 관계",
-      "priority": 50,
-      "note": "2026-11-02 학술 파편(Pennington 2019) 추가. 관계 근거 파편은 아직 없음. dcinside aoegame 31767743 (2026-10-20) 해코지당할까 겁나 친삭 망설임",
-      "createdAt": "2026-11-02T09:24:05.133Z",
-      "seq": 3254
-    },
-    {
-      "id": "ba01d1a3",
-      "title": "video-call-self-view-discomfort 와 own-face-in-photos 관계",
-      "priority": 50,
-      "note": "2026-11-02 Ratan 2021 학술 파편 추가. PMID 39648826 Lim, Ratan 2024 미국과 한국의 facial dissatisfaction 비교. 관계 근거 파편 필요",
-      "createdAt": "2026-11-02T09:25:31.088Z",
-      "seq": 3255
-    },
-    {
-      "id": "e663eda6",
-      "title": "avoiding-haggling 과 haggling 관계, 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-02 bizwatch 2018 한국어 매체 추가. SNS 는 아직 없음. haggling 의 브런치 2026 필자는 깎아 달라는 말을 끝까지 밀지 못함. 같은 계정 재사용 불가",
-      "createdAt": "2026-11-02T09:26:47.559Z",
-      "seq": 3256
-    },
-    {
-      "id": "4a13587c",
-      "title": "senders-remorse 와 rereading-messages-before-sending 관계",
-      "priority": 50,
-      "note": "2026-11-02 위키트리 2025-08-13 한국어 파편 추가. 관계 근거 파편 필요. 후보: byline.network/2018/09/18-30 카카오 '순간의 실수를 보완하기 위한 기술'",
-      "createdAt": "2026-11-02T09:27:51.776Z",
-      "seq": 3257
-    },
-    {
-      "id": "4a7a5eac",
-      "title": "not-returning-shared-umbrellas 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-10-31 매체 5, 공공 1. 공용 우산 미반납 논문 초록 못 찾음. MDPI Sustainability 9/9/1504 403. 2026-11-02 영문 검색도 보도뿐(E Umbrella 2017, Joo Chiat 2024 socsc.smu.edu.sg). 공공재 실험이나 공유경제 무임승차 논문에서 우산 사례를 찾을 것",
-      "createdAt": "2026-11-02T09:28:12.342Z",
-      "seq": 3258
-    },
-    {
-      "id": "cb5a1d10",
-      "title": "not-using-cooling-centers 보강: 국내 공공 파편, 노인 본인 면담 학술",
-      "priority": 50,
-      "note": "2026-11-02 뉴시스 2026-08-02 행안부 의뢰 연세대 보고서 '지역별 취약계층 분포 등을 고려한 쉼터 지정·운영 개선방안' 보도 추가. 원 보고서(공공) 찾기. 뉴스토마토 newstomato.com/ReadNews.aspx?no=1237003 2024 쪽방 보고서 '귀찮거나 힘들어서 37.5%'",
-      "createdAt": "2026-11-02T09:31:28.791Z",
-      "seq": 3259
-    },
-    {
-      "id": "935b72a9",
-      "title": "not-picking-up-dog-waste 보강: 견주의 말",
-      "priority": 50,
-      "note": "2026-11-02 전북일보 2024-02-06 한국어 파편 추가. 견주가 직접 이유를 말한 대목은 아직 없음. 데일리벳 2026 농식품부 조사 '드문 단속' 이 펫티켓 미준수 이유",
-      "createdAt": "2026-11-02T09:32:42.651Z",
-      "seq": 3260
-    },
-    {
-      "id": "6d99dea8",
-      "title": "delaying-going-home 와 shrinking-in-hosts-home 관계, 차 안 머물기 학술·공공",
-      "priority": 50,
-      "note": "2026-11-02 The Spinoff 2024-01-14 차 안 15분 에세이 추가. Mercury Insurance 2018 설문 '미국 운전자 3분의 1이 집 앞 차 안에 머묾' 원 보도자료 찾기. news.allabout.co.jp 는 403",
-      "createdAt": "2026-11-02T09:34:49.950Z",
-      "seq": 3261
-    },
-    {
-      "id": "95d5a7a1",
-      "title": "rechecking-door-and-stove 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 확인한 뒤 다시 확인하는 대목 못 찾음. 근접 후보: Conrad The Secret Agent 12장 (gutenberg 974), 宮本百合子「蛋白石」(aozora 15950). 한국어 위키문헌은 검색 API 429. 2026-11-02 손대지 않고 되돌림",
-      "createdAt": "2026-11-02T09:35:01.814Z",
-      "seq": 3262
-    },
-    {
-      "id": "f762fa1c",
-      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
-      "priority": 50,
-      "note": "2026-11-02 경기일보 2022-03-14 추가. 이제 매체 2015, 공공 2017, SNS 2019, 매체 2022. 학술 초록 못 찾음(영문 검색은 업계 설문뿐: Green America 2019, Yocuda 2024). 2005년 이전이나 2025년 이후 출처 필요",
-      "createdAt": "2026-11-02T09:41:06.149Z",
-      "seq": 3263
-    },
-    {
-      "id": "ded36b15",
-      "title": "skipping-bedtime-toothbrushing 보강: 공공 파편, 음주 뒤 양치 거르기",
-      "priority": 50,
-      "note": "2026-11-02 공공 후보: 질병관리청 국민건강영양조사 잠자기 전 칫솔질 실천율 2024 53.4%(보도자료가 download.do 파일이라 미확인). kukinews 2012, 2016 음주 뒤 양치 기사 403. dentistry.co.uk 2011 '(26%) admitting to the regular gap in their bedtime regimes' 남성 비율",
-      "createdAt": "2026-11-02T12:33:35.014Z",
-      "seq": 3272
-    },
-    {
-      "id": "a13789ef",
-      "title": "late-night-eating 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-11-02 식약처 2026-02-24 korea.kr 148959906 '청년층(19\\~34세)은 야식과 패스트푸드, 라면 섭취를 줄이고' 권고문. 저녁형→야식 인과 원문은 못 찾음(Griffith 2026-07-14 상관만)",
-      "createdAt": "2026-11-02T12:36:42.277Z",
-      "seq": 3273
-    },
     {
       "id": "8bcaa6a3",
       "title": "buying-souvenirs-for-others 보강: thank-you-gift 또는 미안함 관계",
@@ -469,6 +325,126 @@
       "seq": 3445
     },
     {
+      "id": "68a2ec26",
+      "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
+      "priority": 50,
+      "note": "2026-11-03 한국어 파편 2개 추가. 관계 근거 후보: brunch.co.kr/@animaflos/12 (2026-03-14) 사별한 사람이 냄새 남은 옷을 세탁 못함(헤어진 연인 아님), brunch.co.kr/@hugo71/30 (2026-09-15) 시아버지 카디건 냄새 맡고 남김(인과 문장 없음)",
+      "createdAt": "2026-11-03T09:18:11.046Z",
+      "seq": 3464
+    },
+    {
+      "id": "dab8e62b",
+      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-03 재탐색. 학술 후보는 병리 맥락뿐: pubmed 1439453 (1992) 미상핵 위축 증례의 arithmomania, pubmed 9160585 (1994) 투렛 집단 counting 강박. 일반인 세기 습관 초록은 못 찾음. 한국어는 다음 카페 여성시대(회원제)뿐. 다음엔 브런치·네이버 블로그 '계단을 세며' 구문 검색",
+      "createdAt": "2026-11-03T09:21:24.193Z",
+      "seq": 3465
+    },
+    {
+      "id": "e25e782a",
+      "title": "hoarding-plastic-bags 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-03 brunch alien1-on-earth/9 추가. 학술 후보 여전히 없음(orca.cardiff.ac.uk eprint 94652 PDF)",
+      "createdAt": "2026-11-03T09:22:15.577Z",
+      "seq": 3466
+    },
+    {
+      "id": "814fd6a5",
+      "title": "saying-food-is-fine 보강: 학술 또는 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-03 한국어 검색('맛없는데 맛있다고', '맛있게 드셨어요 괜찮았어요') 결과 없음. teamblind 는 소속 노출로 제외. 이전 note: Snyder 외 2022 JBR 141:755-769 econpapers 초록 비어 있음, insight.co.kr/news/128052 미용실 장면",
+      "createdAt": "2026-11-03T09:23:21.760Z",
+      "seq": 3467
+    },
+    {
+      "id": "4c7310d1",
+      "title": "talking-to-the-dead 보강: sensing-presence-of-the-dead 관계",
+      "priority": 50,
+      "note": "2026-11-03 PMC8910367 curl 로 열림, 'writing to or talking to the deceased' 뿐 인과 없음. emcawiki Hayes2016, eprints.kingston 31570(Steffen & Coyle 2011), eprints.lancs 51023 초록에 대화 언급 없음. core.ac.uk/download/214109442.pdf transcorporeal communication 은 PDF. 이전: PMC3918682 reCAPTCHA",
+      "createdAt": "2026-11-03T09:24:31.148Z",
+      "seq": 3468
+    },
+    {
+      "id": "a342e379",
+      "title": "hesitating-to-unfriend 와 staying-in-group-chats 관계",
+      "priority": 50,
+      "note": "2026-11-03 dcinside aoegame 31767743 파편 추가. 관계 근거 파편은 아직 없음. 두 현상을 함께 말하는 글(친구 끊기와 단톡방 나가기를 같이 망설임) 검색 필요",
+      "createdAt": "2026-11-03T09:25:40.148Z",
+      "seq": 3469
+    },
+    {
+      "id": "b29940da",
+      "title": "avoiding-haggling 과 haggling 관계, 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-03 haggling [^3] brunch darius7 (2026-07-05) 가 깎아 달라 몇 마디 하다 원가를 냄. 대립 근거로 쓸 만하나 avoiding-haggling 에 같은 URL 을 넣으면 계정 중복 오류. avoiding-haggling 쪽에 흥정을 하려다 물러서는 다른 출처 필요",
+      "createdAt": "2026-11-03T09:26:49.813Z",
+      "seq": 3471
+    },
+    {
+      "id": "985b725b",
+      "title": "senders-remorse 와 rereading-messages-before-sending 관계",
+      "priority": 50,
+      "note": "2026-11-03 두 문서가 함께 쓰는 grammarly 2019 보고서는 인과 문장 없음(당황 경험 3/5, 초안 2-4회 읽기 따로). wfae.org 2015-03-11 'think before you hit send to avoid text regret' 기사 후보(본문에 재독 대목은 못 찾음). brunch lkhyun0807/25 '보내기 버튼 앞에서 멈춘 10분' 미확인",
+      "createdAt": "2026-11-03T09:27:30.893Z",
+      "seq": 3472
+    },
+    {
+      "id": "5dc30096",
+      "title": "not-picking-up-dog-waste 보강: 견주의 말",
+      "priority": 50,
+      "note": "2026-11-02 전북일보 2024-02-06 한국어 파편 추가. 견주가 직접 이유를 말한 대목은 아직 없음. 데일리벳 2026 농식품부 조사 '드문 단속' 이 펫티켓 미준수 이유",
+      "createdAt": "2026-11-03T09:27:58.056Z",
+      "seq": 3474
+    },
+    {
+      "id": "7021f835",
+      "title": "not-using-cooling-centers 보강: 국내 공공 파편, 노인 본인 면담 학술",
+      "priority": 50,
+      "note": "2026-11-03 newstomato 1237003 (2024-08-06) 은 쪽방 주민 조사라 노인 한정 요약과 맞는지 불명('귀찮거나 힘들어서 37.5%'). 행안부 의뢰 연세대 보고서 원문(공공) 찾기 남음",
+      "createdAt": "2026-11-03T09:28:06.690Z",
+      "seq": 3475
+    },
+    {
+      "id": "7d92741a",
+      "title": "delaying-going-home 와 shrinking-in-hosts-home 관계, 차 안 머물기 학술·공공",
+      "priority": 50,
+      "note": "2026-11-03 Mercury 2018 원 보도자료 못 찾음(vegoutmag 기사에 Mercury 언급 대목 없음). yorkshirepost.co.uk 'Half of drivers admit they've hidden in their car' 는 Cloudflare 확인 페이지. 이전: The Spinoff 2024-01-14 추가됨, news.allabout.co.jp 403",
+      "createdAt": "2026-11-03T09:28:43.176Z",
+      "seq": 3476
+    },
+    {
+      "id": "57077c3a",
+      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
+      "priority": 50,
+      "note": "2026-11-03 gqkorea ?p=310460 (2024-12-19) '무심코 버리는 영수증' 은 정리법 기사, 받자마자 버리는 장면 없음. hankyung 202308044714Y (2023) 고객 58% 영수증 안 받음(프랑스 사례, 미확인). 여전히 2005년 이전이나 2025년 이후 출처 필요",
+      "createdAt": "2026-11-03T09:29:23.547Z",
+      "seq": 3478
+    },
+    {
+      "id": "847dcef0",
+      "title": "uneasy-eating-past-date-food 와 discarding-food-by-date-label 원인 간선, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-03 새 문서. 찜찜해서 버린다는 인과 파편 필요. 후보: straightdope 616319 (2012-03-20) 날짜 닿은 우유를 아예 거부하는 조카, repositorio.ucp.pt 'disgust towards expired food' 석사논문(PDF), ideas.repec Li·Messer·Kaiser 2020 Food Policy 93",
+      "createdAt": "2026-11-03T09:33:54.619Z",
+      "seq": 3479
+    },
+    {
+      "id": "a514947b",
+      "title": "skipping-bedtime-toothbrushing 보강: 공공 파편, 음주 뒤 양치 거르기",
+      "priority": 50,
+      "note": "2026-11-03 국민건강영양조사 잠자기 전 칫솔질 HTML 원자료 못 찾음. 2017년 51.0% 는 koreascience JAKO201908559987998 PDF 인용. 2020년 이후 문항 바뀜. 2025 서울 지역 보건 통계 표 후보. 이전: kukinews 403, dentistry.co.uk 2011 26%",
+      "createdAt": "2026-11-03T09:34:27.196Z",
+      "seq": 3480
+    },
+    {
+      "id": "7f5c3b32",
+      "title": "late-night-eating 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-11-03 korea.kr 야식 섭취 비율 자료 못 찾음. 학술 후보: koreascience JAKO201203939216500 (2005 국민건강영양조사, 성인 3903명 중 야식 섭취 34.0%, 초록 HTML). 이전: 식약처 2026-02-24 korea.kr 148959906 권고문",
+      "createdAt": "2026-11-03T09:34:58.149Z",
+      "seq": 3481
+    },
+    {
       "id": "d16898d2",
       "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
       "priority": 40,
@@ -763,6 +739,14 @@
       "note": "2026-11-03 상위 superstitious-rituals 그음. 후보: jjan.kr/articleAmp/20190411670430 (2019-04-11) 정신과 전문의 기고 선을 밟으면 나쁜 일이 생길 것 같아 한쪽으로만 걸음, brin.ac.uk/?p=588 (2010-09-17) 영국 미신 5위",
       "createdAt": "2026-11-03T03:25:32.234Z",
       "seq": 3433
+    },
+    {
+      "id": "43c59c81",
+      "title": "rechecking-door-and-stove 보강: 문학 파편",
+      "priority": 40,
+      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 확인한 뒤 다시 확인하는 대목 못 찾음. 근접 후보: Conrad The Secret Agent 12장 (gutenberg 974), 宮本百合子「蛋白石」(aozora 15950). 한국어 위키문헌은 검색 API 429. 2026-11-02, 11-03 손대지 않고 되돌림",
+      "createdAt": "2026-11-03T09:28:51.983Z",
+      "seq": 3477
     },
     {
       "id": "e8ba47a7",
@@ -1149,6 +1133,14 @@
       "seq": 3343
     },
     {
+      "id": "1b0745ff",
+      "title": "not-returning-shared-umbrellas 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-03 영문 검색 다시 보도뿐(Sharing E Umbrella 2017 foxnews·engadget·gigazine, Joo Chiat 2024 mothership). 공공재·공유경제 무임승차 현장실험 논문에서 우산 사례를 찾을 것. 이전: MDPI Sustainability 9/9/1504 403",
+      "createdAt": "2026-11-03T09:27:50.247Z",
+      "seq": 3473
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1221,6 +1213,14 @@
       "seq": 2193
     },
     {
+      "id": "cfb53b6b",
+      "title": "video-call-self-view-discomfort 와 own-face-in-photos 관계",
+      "priority": 20,
+      "note": "2026-11-03 검토: 화상 회의 화면은 거울상이라 사진 속 낯섦의 특수한 경우가 아님. 상위 불가, 원인·대립은 둘을 함께 말하는 파편이 있어야 함. PMID 39648826 Lim, Ratan 2024 확인 필요",
+      "createdAt": "2026-11-03T09:26:03.035Z",
+      "seq": 3470
+    },
+    {
       "id": "870be3f4",
       "title": "식사비를 누가 낼지 상대와 상황으로 정하기",
       "priority": 10,
@@ -1251,14 +1251,6 @@
       "note": "aafp.org 2003 p1555 'Short-term sequelae include ... problems with peer relationships'. school-refusal 의 결과 후보",
       "createdAt": "2026-10-18T12:36:29.383Z",
       "seq": 320
-    },
-    {
-      "id": "eb1ee9d5",
-      "title": "날짜 지난 음식에 남는 찜찜함",
-      "priority": 10,
-      "note": "매일신문 2012-03-03 imaeil 2012030307252073161: 하루 지난 우유가 냄새·맛에 이상이 없어도 '마음이 영 찝찝'. discarding-food-by-date-label 의 원인 후보(같은 출처는 이미 F3 로 씀, 다른 출처 필요)",
-      "createdAt": "2026-10-18T20:47:07.098Z",
-      "seq": 395
     },
     {
       "id": "21521b5a",
