@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [남은 날 세기](../docs/counting-down-the-days.md) 기다리는 날이 있는 사람이 그날까지 남은 날수를 세거나 지나간 날을 달력에서 하나씩 지운다.
 - [낮잠](../docs/daytime-napping.md) 낮에 졸리거나 지친 사람이 점심 뒤나 오후에 잠깐 잔다.
 - [늦는 사람을 기다리며 서성이기](../docs/waiting-for-someone-late.md) 올 시간이 지나도 오지 않는 사람을 기다리는 사람이 불안해하며 서성이거나 거듭 연락한다.
 - [늦잠에 대한 불안](../docs/oversleeping-anxiety.md) 아침에 제때 일어나야 하는 사람이 늦잠을 잘까 봐 불안해한다.
