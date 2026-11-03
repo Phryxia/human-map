@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-02T21:32:06.853Z",
-  "nextSeq": 3388,
-  "stops": 172,
+  "savedAt": "2026-11-03T00:33:37.111Z",
+  "nextSeq": 3398,
+  "stops": 173,
   "items": [
-    {
-      "id": "42844c2f",
-      "title": "keeping-leftover-medicines 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-11-01 Wasserfallen 2003 PMID 12708953 의 원인 문장은 218자라 못 씀. 원인 후보 stopping-medication-when-feeling-better: pids.org 2023-11-22 파편은 남은 항생제를 '갖게 됨'만 말하고 보관은 말하지 않음. 보관까지 말하는 파편 필요. Furst 1975 PMID 1165177 Drug hoarding 별칭 후보",
-      "createdAt": "2026-11-01T21:23:37.486Z",
-      "seq": 3180
-    },
     {
       "id": "81229a6a",
       "title": "job-insecurity 보강: 관계 간선",
@@ -579,6 +571,46 @@
       "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
       "createdAt": "2026-11-02T21:32:00.254Z",
       "seq": 3387
+    },
+    {
+      "id": "cc19adb8",
+      "title": "revisiting-childhood-home 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-11-03 작성. 원인 후보: Burger 2011 scholarcommons.scu.edu/faculty_books/128 'Still others return to former homes to work through psychological issues left over from sad or traumatic childhoods', Psychology Today 2011-03-01 Burger 'one in five people cried'. nostalgia, returning-home-feels-strange 와의 간선 근거 필요",
+      "createdAt": "2026-11-03T00:10:47.922Z",
+      "seq": 3393
+    },
+    {
+      "id": "605f6739",
+      "title": "counting-down-the-days 보강: 관계 간선, 한국어 매체 파편",
+      "priority": 50,
+      "note": "2026-11-03 작성. 후보: brunch.co.kr/@sanwoon/1961 (2026-04-28 제대까지 지운 달력을 간직), cas.au.dk 2017-04-19 수감자가 날짜를 세면 시간이 느리게 간다(행사 안내), PLOS ONE 10.1371/journal.pone.0304660 (2024 다가올 행사까지 시간에 주의를 기울이면 빨리 간다). pleasure-of-anticipation 과의 관계 근거 필요",
+      "createdAt": "2026-11-03T00:16:44.385Z",
+      "seq": 3394
+    },
+    {
+      "id": "791efe91",
+      "title": "visiting-graves 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-11-03 작성. talking-to-the-dead 와의 관계 후보: Sue Ryder community.sueryder.org/t/visiting-grave/84527 (2024-03-19 'talk to her at the grave'). 원인 후보: PMC9319928 Čepulienė 2022 (현실을 받아들이려고 무덤에 감, 이 환경에서 403), PMC11912240 Beeris 2025 (힘들 때 찾아가 털어놓고 안도). 못 가는 면: PMC12548858 Marek 2025 'not visiting the grave'",
+      "createdAt": "2026-11-03T00:22:46.224Z",
+      "seq": 3395
+    },
+    {
+      "id": "2b46e8b6",
+      "title": "keeping-belongings-of-the-deceased 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-11-03 작성. 원인 후보 smelling-absent-loved-ones-clothes: community.sueryder.org/t/clearing-his-belongings/46475 (2022-01-26 냄새가 남아 옷을 빨지 않음, 이미 [^6]). 예비: goodfuneralguide.co.uk/2010/04/tidying-up-our-dead (2010 남편 사후 3년 옷장 그대로), fredhutch.org 2016-10-12 아이 방을 그대로 둠. [^3] whiterose 타임아웃 미확인",
+      "createdAt": "2026-11-03T00:32:13.345Z",
+      "seq": 3396
+    },
+    {
+      "id": "40ca5c47",
+      "title": "keeping-leftover-medicines 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-11-01 Wasserfallen 2003 PMID 12708953 의 원인 문장은 218자라 못 씀. 원인 후보 stopping-medication-when-feeling-better: pids.org 2023-11-22 파편은 남은 항생제를 '갖게 됨'만 말하고 보관은 말하지 않음. 보관까지 말하는 파편 필요. Furst 1975 PMID 1165177 Drug hoarding 별칭 후보",
+      "createdAt": "2026-11-03T00:33:29.161Z",
+      "seq": 3397
     },
     {
       "id": "d16898d2",
