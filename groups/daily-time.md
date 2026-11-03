@@ -16,6 +16,7 @@
 - [불과 전자제품 켜 두기](../docs/leaving-lights-on.md) 방을 나가거나 기기를 다 쓴 사람이 불이나 전자제품을 끄지 않고 켜 둔다.
 - [상습 지각](../docs/chronic-lateness.md) 약속이나 정해진 시간에 번번이 늦는 사람이 스스로는 제시간에 올 수 있다고 여긴다.
 - [새해 결심 세우기](../docs/making-new-years-resolutions.md) 새해를 맞는 사람이 그해에 고치거나 이룰 일을 결심으로 정한다.
+- [설레는 날 전날 밤 잠 못 들기](../docs/sleepless-before-exciting-day.md) 즐거운 일을 앞둔 사람이 그 전날 밤 들떠서 쉽게 잠들지 못한다.
 - [시간 부족으로 운동하지 않기](../docs/no-time-to-exercise.md) 일이나 학업에 쫓기는 사람이 운동할 시간이 없다고 여기고 규칙적인 운동을 하지 않는다.
 - [시간에 쫓기는 느낌](../docs/feeling-rushed.md) 일과 집안일을 하는 사람이 할 일에 비해 시간이 모자란다고 느끼며 늘 쫓긴다.
 - [시계를 빠르게 맞춰 두기](../docs/setting-clocks-fast.md) 어떤 사람들은 손목시계, 알람 시계, 자동차 시계를 실제보다 몇 분 빠르게 맞춰 둔다.
