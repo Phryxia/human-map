@@ -1,6 +1,6 @@
 # 남의 자식과 내 자식 비교하기
 
-별칭: Parents' social comparison[^5]
+별칭: 엄친아[^2], Parents' social comparison[^5]
 
 부모가 남의 집 아이나 친척 아이를 본보기로 삼아 자기 자녀와 견준다.
 
