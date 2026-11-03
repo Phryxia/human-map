@@ -23,6 +23,7 @@
 - [내가 죽으면 다들 미안해하리라는 상상](../docs/imagining-others-sorry-at-own-death.md) 서운하거나 억울한 사람이 자기가 죽은 뒤 주변 사람들이 놀라고 슬퍼하고 미안해하는 모습을 상상한다.
 - [노후에 자녀와 따로 살기 바라기](../docs/wanting-to-live-apart-from-children.md) 나이 든 사람이 자녀와 한집에 살기보다 따로 살기를 바란다.
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
+  - [길을 잃고도 길 묻지 않기](../docs/not-asking-for-directions.md)
   - [돈 빌려 달라는 말 꺼내기 부끄러워하기](../docs/shame-asking-to-borrow-money.md)
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
 - [말 안 하기로 화 드러내기](../docs/silent-treatment.md) 다툰 뒤 화가 난 사람이 상대에게 일부러 말을 하지 않는다.

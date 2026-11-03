@@ -26,6 +26,7 @@
 
 - [복지 급여 미신청](not-claiming-benefits.md)
 - [돈 빌려 달라는 말 꺼내기 부끄러워하기](shame-asking-to-borrow-money.md)
+- [길을 잃고도 길 묻지 않기](not-asking-for-directions.md)
 
 ## 원인
 
