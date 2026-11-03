@@ -278,6 +278,7 @@
 - [선물 고르기 고민](docs/gift-choosing-anxiety.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [선택 과부하](docs/choice-overload.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [선택 연기](docs/choice-deferral.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [선풍기 틀고 자기 꺼리기](docs/fear-of-fan-death.md) ([건강과 위험](groups/health-and-safety.md))
 - [설단 현상](docs/tip-of-the-tongue.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [설레는 날 전날 밤 잠 못 들기](docs/sleepless-before-exciting-day.md) ([시간과 하루 습관](groups/daily-time.md))
 - [성묘](docs/visiting-graves.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
