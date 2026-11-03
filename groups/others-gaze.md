@@ -18,6 +18,7 @@
   - [집이 부끄러워 손님 들이지 않기](../docs/avoiding-inviting-people-home.md)
 - [부모가 창피함](../docs/embarrassed-by-parents.md) 자녀가 남이 보는 자리에서 부모의 말이나 행동이나 집안 모습을 창피하게 여긴다.
 - [부정적 평가에 대한 두려움](../docs/fear-of-negative-evaluation.md) 사람이 다른 사람에게 부정적으로 평가받을 수 있는 상황에서 불안과 긴장을 느낀다.
+  - [얼굴 붉어질까 두려워하기](../docs/fear-of-blushing.md)
 - [빈대 생긴 일 숨기기](../docs/hiding-bedbug-infestation.md) 집에 빈대가 생긴 사람이 창피하거나 불이익이 두려워 주변과 집주인에게 알리지 않고 숨긴다.
 - [사진 속 내 얼굴의 낯섦](../docs/own-face-in-photos.md) 자기가 찍힌 사진을 본 사람이 거울에서 보던 얼굴보다 사진 속 얼굴이 낯설거나 못나게 나왔다고 느낀다.
 - [사진 찍히기 피하기](../docs/avoiding-being-photographed.md) 사진을 찍는 자리에 있는 사람이 자기 모습이 사진에 남는 것을 꺼려 카메라를 피하거나 사진에서 빠진다.
