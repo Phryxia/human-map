@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [가을 타기](../docs/autumn-melancholy.md) 가을이 오면 사람이 쓸쓸하고 울적해지거나 기분이 가라앉는다.
 - [건강 불안](../docs/health-anxiety.md) 사람이 뚜렷한 근거 없이 자기가 심각한 병에 걸렸거나 걸릴 것이라고 걱정한다.
   - [건강 안심 구하기](../docs/health-reassurance-seeking.md)
   - [여러 병원 전전하기](../docs/doctor-shopping.md)
