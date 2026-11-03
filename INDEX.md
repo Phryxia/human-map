@@ -330,7 +330,7 @@
 - [얹혀사는 대가로 집안일 거들기](docs/doing-chores-while-staying.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얹혀사는 집에서 몸 낮추기](docs/shrinking-in-hosts-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얻어먹기 거절](docs/declining-free-meals-out-of-pride.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
-- [얼굴 붉어질까 두려워하기](docs/fear-of-blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [얼굴 붉어질까 두려워하기](docs/fear-of-blushing.md) (묶음 없음)
 - [얼굴 붉어짐](docs/blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엄숙한 자리에서 터지는 웃음](docs/laughing-at-solemn-occasions.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [업무 실수 숨기기](docs/hiding-mistakes-at-work.md) ([남의 시선과 창피함](groups/others-gaze.md))
