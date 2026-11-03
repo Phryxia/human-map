@@ -439,6 +439,7 @@
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [점과 운세 보기](docs/consulting-fortune-tellers.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [점심 휴식 거르고 일하기](docs/skipping-lunch-break.md) ([일터와 일자리](groups/work.md))
+- [점잔 빼는 헛기침](docs/clearing-throat-to-show-dignity.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [정상 집착](docs/summit-fever.md) ([건강과 위험](groups/health-and-safety.md))
 - [정차 중 공회전](docs/engine-idling.md) ([길과 운전](groups/roads-and-driving.md))
 - [정치 무력감](docs/political-inefficacy.md) ([시민 참여와 공공의 일](groups/civic-life.md))

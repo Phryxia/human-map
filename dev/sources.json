@@ -18279,5 +18279,29 @@
     "last": "2026-11-03",
     "result": "VERIFIED",
     "lastVerified": "2026-11-03"
+  },
+  "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%97%90%ED%97%B4": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://ko.wikisource.org/wiki/은파리/별건곤_5호": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://ko.wikisource.org/wiki/청춘극장/2권/43장": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://www.kbmaeil.com/article/20260510500145": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
   }
 }

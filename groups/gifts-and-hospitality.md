@@ -25,6 +25,7 @@
   - [작별 인사 길게 끌기](../docs/lingering-goodbye.md)
 - [인기척 내려고 헛기침하기](../docs/clearing-throat-to-announce-presence.md) 다른 사람이 있는 곳에 다가가거나 그 자리에 함께 있는 사람이 자기가 거기 있음을 알리려고 일부러 헛기침한다.
 - [인사 없이 모임 자리 뜨기](../docs/irish-goodbye.md) 모임에 있던 사람이 아무에게도 작별 인사를 하지 않고 조용히 자리를 떠난다.
+- [점잔 빼는 헛기침](../docs/clearing-throat-to-show-dignity.md) 윗사람으로 대접받으려는 사람이 위엄이나 점잔을 보이려고 일부러 큰기침을 한다.
 - [지어낸 핑계로 약속 빠지기](../docs/making-excuses-to-skip-plans.md) 가고 싶지 않은 초대나 약속을 거절하려는 사람이 진짜 이유 대신 다른 일이나 병 같은 핑계를 지어내 댄다.
 - [축의금 액수 저울질](../docs/weighing-gift-money.md) 경조사에 낼 돈을 정하는 사람이 상대와의 친분, 예전에 받은 액수, 적게 냈을 때의 시선을 따져 액수를 고른다.
 - [칭찬 부정하기](../docs/deflecting-compliments.md) 칭찬을 받은 사람이 그 칭찬을 부정하거나 자기 몫을 깎아서 대답한다.
