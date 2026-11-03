@@ -17,6 +17,7 @@
 - [딴생각](../docs/mind-wandering.md) 하던 일을 하는 사람의 생각이 그 일과 상관없는 데로 흘러간다.
   - [비밀에 대한 생각에 사로잡히기](../docs/thinking-about-secrets.md)
   - [창밖 바라보기](../docs/gazing-out-the-window.md)
+- [무늬에서 얼굴과 모양 보기](../docs/seeing-shapes-in-clouds.md) 사람이 구름, 바위, 음식처럼 무작위로 생긴 무늬에서 얼굴이나 동물, 사물의 모양을 본다.
 - [미래 기억 실패](../docs/prospective-memory-failure.md) 나중에 할 일을 정해 둔 사람이 그때가 와도 그 일을 떠올리지 못하고 지나친다.
   - [차 안에 아이를 잊고 내리기](../docs/forgetting-child-in-car.md)
 - [반추](../docs/rumination.md) 사람이 지난 일이나 자기 문제와 실수를 결론 없이 되풀이해 곱씹는다.
