@@ -26,6 +26,7 @@
 
 - [고인의 물건 간직하기](keeping-belongings-of-the-dead.md)
 - [안 쓰는 휴대폰 집에 두기](keeping-old-phones.md)
+- [비닐봉지 모아 두기](hoarding-plastic-bags.md)
 
 ## 원인
 

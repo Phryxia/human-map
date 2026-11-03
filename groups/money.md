@@ -23,6 +23,7 @@
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
   - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
+  - [비닐봉지 모아 두기](../docs/hoarding-plastic-bags.md)
   - [안 쓰는 휴대폰 집에 두기](../docs/keeping-old-phones.md)
 - [물려받을 재산 기대하기](../docs/counting-on-inheritance.md) 사람이 부모나 친척에게서 물려받을 재산을 자기 살림 계산에 넣고 기대한다.
 - [받을 돈 찾아가지 않기](../docs/unclaimed-money.md) 사람이 자기가 받을 수 있는 환급금, 예금, 보험금을 찾아가지 않고 내버려 둔다.
@@ -33,7 +34,6 @@
 - [복권 구매](../docs/buying-lottery-tickets.md) 사람이 당첨을 바라며 복권을 산다.
 - [부유한 척하기](../docs/faking-wealth.md) 남에게 가난해 보이기 싫은 사람이 빌린 물건이나 연출한 사진으로 실제보다 부유해 보이게 꾸민다.
 - [뷔페 접시 넘치게 담기](../docs/overfilling-buffet-plates.md) 뷔페에서 손님이 먹을 수 있는 양보다 많이 접시에 담고 남긴다.
-- [비닐봉지 모아 두기](../docs/hoarding-plastic-bags.md) 사람이 장보고 받은 비닐봉지를 언젠가 쓰리라 여겨 버리지 않고 봉지 안에 봉지를 넣어 집 안에 모아 둔다.
 - [빌려준 돈 돌려 달라고 못 하기](../docs/not-asking-for-loan-back.md) 친구나 가족에게 돈을 빌려준 사람이 관계가 상하거나 어색해질까 봐 돌려 달라는 말을 꺼내지 못한다.
 - [빚 독촉 피하기](../docs/avoiding-creditors.md) 빚을 진 사람이 채권자의 전화, 편지, 방문을 받지 않거나 채권자와 마주치지 않으려고 피하는 행동이다.
   - [야반도주](../docs/moonlight-flit.md)
