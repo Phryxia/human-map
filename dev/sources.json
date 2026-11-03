@@ -13135,39 +13135,39 @@
   },
   "https://www.gutenberg.org/cache/epub/105/pg105-images.html": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-03"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7088052/": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-03"
   },
   "https://www.ajunews.com/view/20141109134036428": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-03"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6096191/": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-03"
   },
   "https://m.seoul.co.kr/news/2024/03/19/20240319021002": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-03"
   },
   "https://www.gutenberg.org/cache/epub/9070/pg9070-images.html": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-03"
   },
   "https://pubmed.ncbi.nlm.nih.gov/9177020/": {
     "first": "2026-10-29",
@@ -14668,9 +14668,9 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/42437210/": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-03"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=957295&rettype=abstract&retmode=text": {
     "first": "2026-10-30",
@@ -18347,6 +18347,12 @@
     "lastVerified": "2026-11-03"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11295400/": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://kops.uni-konstanz.de/handle/123456789/45672": {
     "first": "2026-11-03",
     "last": "2026-11-03",
     "result": "VERIFIED",
