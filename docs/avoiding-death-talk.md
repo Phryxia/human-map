@@ -20,6 +20,8 @@
 
 2024년 뉴질랜드 공공신탁 자료[^9]가 전한 조사에서 뉴질랜드인 57%는 죽음을 이야기하기가 불편하거나 두렵거나 꺼려진다고 답하거나 아예 피한다고 답했고 24.9%는 죽음을 직접 이야기하기가 편하다고 답했다. 2025년 기사[^10]가 전한 한국보건사회연구원 조사에서 죽음이나 생애 말기 상황, 치료 계획을 가족에게 이야기해 본 응답자는 45.7%였다.
 
+2025년 영국 법률회사의 보도자료[^11]는 55세 넘은 사람의 30% 만 자녀와 상속 이야기를 했다는 조사를 전하며 유언을 둘러싼 다툼이 그 사람이 살아 있을 때 분명히 하지 않고 소통하지 않은 데서 비롯되는 일이 많다고 적었다.
+
 # 관계
 
 ## 상위
@@ -36,6 +38,7 @@
 
 ## 결과
 
+- [유산 다툼](inheritance-disputes.md)[^11]
 - [유언장 작성 미루기](delaying-will-writing.md)[^3]
 
 ## 대립
@@ -54,3 +57,4 @@
 [^8]: [학술] "End-of-life (EOL) communication is often avoided, especially among young adults. Negative expectations concerning EOL conversations with relatives or significant others are one major reason." (생애 말기 대화는 자주 회피되며 젊은 성인에게서 특히 그렇다. 친척이나 가까운 사람과 나눌 생애 말기 대화에 대한 부정적 예상이 주된 이유의 하나다.) — Y. Bendel, C. Gesualdo, M. Pinquart, P. von Blanckenburg, "Better than expected? Predictors of coping with expectation violations in the communication about death and dying", Frontiers in Psychology 14, 2023-10-30, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1256202/full, 2026-10-22 접속
 [^9]: [공공] "The research found that 57% of New Zealanders were ‘uncomfortable, fearful, reluctant’ or ‘avoid discussing death altogether’ versus 24.9% who were ‘comfortable talking about death directly’" (조사에서 뉴질랜드인 57%는 '불편하다, 두렵다, 꺼려진다' 거나 '죽음 이야기를 아예 피한다' 고 했고 24.9%는 '죽음을 직접 이야기하기가 편하다' 고 했다.) — Public Trust, "Death is part of life – let’s talk about it", 2024-11, https://www.publictrust.co.nz/resources/death-is-part-of-life-lets-talk-about-it/, 2026-10-22 접속
 [^10]: [매체] "하지만 죽음이나 생애 말기 상황, 치료 계획에 대해 부모, 자녀, 배우자, 형제·자매 등 가족에게 이야기해 본 적 있는 경우는 45.7%에 그쳤다." — 뉴시스, "국민 46%만 "가족과 죽음 생각 공유"…82% "조력존엄사 찬성"(종합)", 2025-02-23, https://www.newsis.com/view/NISX20250223_0003075186, 2026-10-22 접속
+[^11]: [매체] "These disputes can be both emotionally and financially taxing, often stemming from a lack of clarity and communication during the individual's lifetime." (이런 다툼은 감정적으로도 금전적으로도 고될 수 있고 그 사람이 살아 있을 때 분명히 하지 않고 소통하지 않은 데서 비롯되는 일이 많다.) — Irwin Mitchell, "Will Disputes Set To Rise As Survey Reveals Only 30% Of Adults Discuss Inheritance With Kids", Irwin Mitchell News, 2025-05-14, https://www.irwinmitchell.com/news-and-insights/newsandmedia/2025/May/will-disputes-set-to-rise-as-survey-reveals-only-third-of-adults-discuss-inheritance-with-kids, 2026-11-03 접속

@@ -14,7 +14,7 @@
 
 2019년 연구[^6]에서 두 번째 부모가 죽은 뒤 형제자매 사이의 접촉과 갈등이 늘었고 그 변화는 오래가지 않았다. 2020년 글[^7]의 저자는 상속이 애도에 미치는 영향을 다룬 자기 연구에서 유언을 둘러싼 가족 갈등을 예측한 유일한 변수가 이전의 갈등이었다고 썼다.
 
-2022년 글[^8]의 저자는 자기 연구에서 본 갈등 대부분이 같은 세대 사이에서 일어났고 형제간 경쟁과 시기가 유산을 두고 법정에 가는 주요 이유라고 썼다.
+2022년 글[^8]의 저자는 자기 연구에서 본 갈등 대부분이 같은 세대 사이에서 일어났고 형제간 경쟁과 시기가 유산을 두고 법정에 가는 주요 이유라고 썼다. 2025년 영국 법률회사의 보도자료[^9]는 55세 넘은 사람의 30% 만 자녀와 상속 이야기를 했다는 조사를 전하며 유언을 둘러싼 다툼이 그 사람이 살아 있을 때 분명히 하지 않고 소통하지 않은 데서 비롯되는 일이 많다고 적었다.
 
 # 관계
 
@@ -29,6 +29,7 @@
 ## 원인
 
 - [시기심](envy.md)[^8]
+- [죽음 이야기 피하기](avoiding-death-talk.md)[^9]
 
 ## 결과
 
@@ -48,3 +49,4 @@
 [^6]: [학술] "After the death of the second parent, contact and conflict between siblings increased, but these effects were short‐lived." (두 번째 부모가 죽은 뒤 형제자매 사이의 접촉과 갈등이 늘었지만 그 효과는 오래가지 않았다.) — Matthijs Kalmijn, Thomas Leopold, "Changing Sibling Relationships After Parents' Death: The Role of Solidarity and Kinkeeping", Journal of Marriage and Family 81(1), 2019-02, https://dare.uva.nl/id/56f2ba57-47dd-4bba-bda0-28cb80c57a56, 2026-11-01 접속
 [^7]: [매체] "For example, my study on the role of inheritance on grief showed that the sole predictor of family conflict over the will was prior conflict." (예컨대 상속이 애도에 미치는 역할에 관한 내 연구에서 유언을 둘러싼 가족 갈등을 예측한 유일한 변수는 이전의 갈등이었다.) — Kenneth J. Doka, "Why Did My Family Fall Apart After Mom's Death?", Psychology Today, 2020-02-24, https://www.psychologytoday.com/us/blog/good-mourning/202002/why-did-my-family-fall-apart-after-moms-death, 2026-11-01 접속
 [^8]: [매체] "Most of the conflicts we came across in our research took place among members of the same generation. Sibling rivalry and envy is a key reason to go to court over an estate." (우리 연구에서 본 갈등 대부분은 같은 세대 구성원 사이에서 일어났다. 형제간 경쟁과 시기는 유산을 두고 법정에 가는 주요한 이유다.) — Stephan Köppe, "Opinion: Why families fight over inheritances – and how to avoid it", UCD News, 2022-05-17, https://www.ucd.ie/newsandopinion/news/2022/may/17/opinionwhyfamiliesfightoverinheritancesandhowtoavoidit, 2026-11-01 접속
+[^9]: [매체] "These disputes can be both emotionally and financially taxing, often stemming from a lack of clarity and communication during the individual's lifetime." (이런 다툼은 감정적으로도 금전적으로도 고될 수 있고 그 사람이 살아 있을 때 분명히 하지 않고 소통하지 않은 데서 비롯되는 일이 많다.) — Irwin Mitchell, "Will Disputes Set To Rise As Survey Reveals Only 30% Of Adults Discuss Inheritance With Kids", Irwin Mitchell News, 2025-05-14, https://www.irwinmitchell.com/news-and-insights/newsandmedia/2025/May/will-disputes-set-to-rise-as-survey-reveals-only-third-of-adults-discuss-inheritance-with-kids, 2026-11-03 접속
