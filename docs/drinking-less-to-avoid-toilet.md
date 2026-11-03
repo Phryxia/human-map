@@ -12,7 +12,7 @@
 
 2022년 기사[^5]에서 건설현장 여성 노동자 응답자의 65.7%는 화장실 이용이 불편해 물을 안 마셔 본 적이 있었고 31.3%는 식사를 조절해 봤다. 같은 해 다른 기사[^6]의 콜센터 상담사는 화장실을 제한하려고 스스로 물을 덜 마시고 수당을 더 받으려고 화장실을 두 번 갈 것을 한 번 간다고 말했다.
 
-2023년 연구[^7]는 미국 대중교통 운전원 다수가 운행 시간표와 배설 욕구가 부딪칠까 두려워 물과 음식을 줄이고 소변에 영향을 주는 약을 피한다고 적는다. 2023년 게시글[^8]의 글쓴이는 공연 중 화장실에 갈까 봐 공연 당일 아침부터 아무것도 먹지 않고 물도 갈증이 날 때만 조금 마셨다.
+2023년 연구[^7]는 미국 대중교통 운전원 다수가 운행 시간표와 배설 욕구가 부딪칠까 두려워 물과 음식을 줄이고 소변에 영향을 주는 약을 피한다고 적는다. 2023년 게시글[^8]의 글쓴이는 공연 중 화장실에 갈까 봐 공연 당일 아침부터 아무것도 먹지 않고 물도 갈증이 날 때만 조금 마셨다. 2025년 런던 남부 보건기관의 글[^9]은 나이가 들면서 화장실 가는 일을 더 걱정하게 되고 화장실에 덜 가려고 마시기를 피한다고 적는다.
 
 # 관계
 
@@ -46,3 +46,4 @@
 [^6]: [매체] "상담사 스스로가 화장실을 제한하기 위해 물을 덜 마셔요. 수당을 몇 만원 더 받기 위해 화장실 두 번 갈 거 한 번 가요." — 김한솔, 「[투명장벽의 도시③]샤워·용변·세탁을 동시에…고객 화장실에선 ‘양치 금지’」, 경향신문, 2022-10-13, https://www.khan.co.kr/article/202210131616001, 2026-11-03 접속
 [^7]: [학술] "As a result, many operators are forced to reduce fluid and food intake and avoid taking urination-affecting medications for fear of conflicting their work schedules with their excretory needs." (그 결과 많은 운전원이 운행 일정과 배설 욕구가 부딪칠까 두려워 물과 음식 섭취를 줄이고 소변에 영향을 주는 약을 피할 수밖에 없다.) — Festival Godwin Boateng, "When You Gotta Go, You Gotta Go: Public Transport Operators' Deficient Access to Toilet in the United States", Transportation Research Board 102nd Annual Meeting, 2023, https://trid.trb.org/view/2117734, 2026-11-03 접속
 [^8]: [SNS] "평상시에 화장실 너무 자주 가는 체질이어서 더욱 더 조심해야겠다고 생각하고 콘서트 당일날은 아침부터 아무것도 먹지 않고 물도 거의 마시지 않고 갈증 나면 아주 쬐끔 마시는 정도로 조심을 한 상태로" — 팬마음 커뮤니티, 게시글, 2023-11-29, https://fanmaum.com/community/005/19140092, 2026-11-03 접속
+[^9]: [공공] "We become more worried about visiting the toilet and start to avoid drinking to reduce going to the loo." (우리는 화장실 가는 일을 더 걱정하게 되고 화장실에 덜 가려고 마시기를 피하기 시작한다.) — Health Innovation Network South London, "Supporting older adults to drink more for their health", 2025-07-11, https://healthinnovationnetwork.com/blogs/hydration-supporting-older-adults-to-drink-more-for-health/, 2026-11-03 접속
