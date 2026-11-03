@@ -10,7 +10,9 @@
 
 2017년 댓글[^2]의 글쓴이 집에는 여행 가방 속에도, 고양이 화장실을 치우는 다용도실에도 비닐봉지를 가득 넣은 비닐봉지가 있다.
 
-2026년 기사[^3]는 비닐봉지 같은 물건을 언젠가 쓸 수 있다는 생각에 버리지 않고 모아 두다 보면 서랍과 수납장이 가득 차지만 실제로는 쓰지 않는 경우가 많다고 썼다.
+2026년 에세이[^3]의 글쓴이는 할머니가 모으는 비닐봉지가 어릴 때부터 책장 사이사이에 있어서 놀랍지도 불편하지도 않았다고 적었다.
+
+2026년 기사[^4]는 비닐봉지 같은 물건을 언젠가 쓸 수 있다는 생각에 버리지 않고 모아 두다 보면 서랍과 수납장이 가득 차지만 실제로는 쓰지 않는 경우가 많다고 썼다.
 
 # 관계
 
@@ -38,4 +40,5 @@
 
 [^1]: [SNS] "The space from the cabinet door to the wall, under the counter (about a four foot space) was completely packed with plastic grocery bags." (조리대 아래 수납장 문에서 벽까지의 공간(약 4피트)이 장보기 비닐봉지로 꽉 차 있었다.) — Straight Dope 댓글, 2006-09-11, https://boards.straightdope.com/t/the-plastic-grocery-bags-in-my-cabinet-are-reproducing/372093, 2026-11-02 접속
 [^2]: [SNS] "There are plastic bags filled with plastic bags in our suitcases. There is a plastic bag filled with plastic bags in the utility room for cleaning cat boxes." (우리 여행 가방에는 비닐봉지를 가득 담은 비닐봉지들이 있다. 다용도실에도 고양이 화장실 청소용으로 비닐봉지를 가득 담은 비닐봉지가 하나 있다.) — Straight Dope 댓글, 2017-07-23, https://boards.straightdope.com/t/do-you-have-a-plastic-bag-filled-with-plastic-bags/791927, 2026-11-02 접속
-[^3]: [매체] "하나씩은 별것 아닌 물건이지만 버리지 않고 모아두다 보면 어느새 서랍과 수납장이 가득 찬다. 언젠가 쓸 수 있다는 생각에 보관하지만 실제로는 사용하지 않는 경우도 많다." — 이유진, 「“종이봉투·비닐봉지·나무젓가락 쌓아두지 마세요”…집이 깨끗한 사람의 정리법」, 경향신문, 2026-10-21, https://lady.khan.co.kr/living/article/202610210700011, 2026-11-02 접속
+[^3]: [매체] "그리고 할머니가 모으는 비닐봉지 같은 것은 하도 어릴 때부터 책장 사이사이에 있던 것이라 솔직히 말하면 그렇게 놀랍지도, 불편하지도 않았다." — 「저장 강박 환자와 함께 산다는 것」, 브런치, 2026-04-09, https://brunch.co.kr/@alien1-on-earth/9, 2026-11-03 접속
+[^4]: [매체] "하나씩은 별것 아닌 물건이지만 버리지 않고 모아두다 보면 어느새 서랍과 수납장이 가득 찬다. 언젠가 쓸 수 있다는 생각에 보관하지만 실제로는 사용하지 않는 경우도 많다." — 이유진, 「“종이봉투·비닐봉지·나무젓가락 쌓아두지 마세요”…집이 깨끗한 사람의 정리법」, 경향신문, 2026-10-21, https://lady.khan.co.kr/living/article/202610210700011, 2026-11-02 접속
