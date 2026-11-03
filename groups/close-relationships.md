@@ -29,6 +29,7 @@
 - [명절 귀성 포기](../docs/skipping-holiday-homecoming.md) 명절에 고향이나 부모 집에 갈 수 있는 사람이 가지 않고 지내던 곳에 남기로 한다.
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
+- [벅찬 감정에 압도되기](../docs/overwhelmed-by-positive-emotion.md) 아주 귀엽거나 기쁜 것을 마주한 사람이 감당하기 어려울 만큼 강한 긍정 감정에 휩싸인다.
 - [복수심](../docs/desire-for-revenge.md) 남에게 해를 입거나 모욕당한 사람이 상대에게 같은 고통을 되갚아 주고 싶어 한다.
   - [층간소음 보복](../docs/neighbor-noise-retaliation.md)
 - [분노 억누르기](../docs/anger-suppression.md) 화가 난 사람이 그 분노를 겉으로 드러내지 않고 억누른다.
