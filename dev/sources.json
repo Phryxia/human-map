@@ -17546,33 +17546,33 @@
   },
   "https://api.parliament.uk/historic-hansard/commons/2002/mar/08/road-safety": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://koreascience.kr/article/JAKO201015537945365.page?lang=ko": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://hansard.act.gov.au/hansard/7th-assembly/2011/HTML/week09/3956.htm": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.saferresearch.com/node/1299": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://www.fnnews.com/news/202204071827171369": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-03",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-03"
   },
   "https://zh.wikisource.org/wiki/%E5%AD%94%E9%9B%80%E6%9D%B1%E5%8D%97%E9%A3%9B": {
     "first": "2026-11-02",
@@ -18365,6 +18365,12 @@
     "lastVerified": "2026-11-03"
   },
   "https://mediahub.seoul.go.kr/archives/819416": {
+    "first": "2026-11-03",
+    "last": "2026-11-03",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-03"
+  },
+  "https://www.examiner.co.uk/news/local-news/drivers-pass-cameras-speed-up-5087941": {
     "first": "2026-11-03",
     "last": "2026-11-03",
     "result": "VERIFIED",
