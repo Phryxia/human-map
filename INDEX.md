@@ -76,6 +76,7 @@
 - [기후 행동 하지 않기](docs/climate-inaction.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [긴 통근 감수](docs/accepting-long-commute.md) ([일터와 일자리](groups/work.md))
 - [길에 쓰레기 버리기](docs/littering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [김 서린 유리에 손가락으로 쓰기](docs/writing-on-fogged-glass.md) ([시간과 하루 습관](groups/daily-time.md))
 - [꼼지락거리기](docs/fidgeting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [꾀병 결근](docs/calling-in-sick-when-not-sick.md) ([일터와 일자리](groups/work.md))
 - [꾀병 부리기](docs/feigning-illness.md) ([일터와 일자리](groups/work.md))
