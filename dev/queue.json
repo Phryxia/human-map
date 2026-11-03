@@ -1,169 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-03T12:35:00.332Z",
-  "nextSeq": 3493,
-  "stops": 177,
+  "savedAt": "2026-11-03T15:37:53.855Z",
+  "nextSeq": 3533,
+  "stops": 178,
   "items": [
-    {
-      "id": "8bcaa6a3",
-      "title": "buying-souvenirs-for-others 보강: thank-you-gift 또는 미안함 관계",
-      "priority": 50,
-      "note": "2026-11-01 GLOBIS 2026-07-20 'Giving Omiyage serves as both a thank you and a subtle apology.' 시대 2014 3위 '업무를 대신 해준 것이 미안해서'. 브런치 marupark/8 기념품 못 받은 소외 후보. 2026-11-02 GLOBIS 는 이미 [^5] 로 쓰여 같은 출처의 다른 대목을 더할 수 없다. 다른 출처 필요",
-      "createdAt": "2026-11-02T12:37:33.894Z",
-      "seq": 3274
-    },
-    {
-      "id": "671f27a7",
-      "title": "writers-block 보강: procrastination 관계",
-      "priority": 50,
-      "note": "2026-11-02 원인 perfectionism 은 브런치 infjk/35 로 그음. 미루기와 잇는 원문 아직 없음. Gissing 1891 후보 B '20쪽 쓰고 용기가 꺾인다'",
-      "createdAt": "2026-11-02T15:28:17.279Z",
-      "seq": 3312
-    },
-    {
-      "id": "80e2c938",
-      "title": "humming-while-working 보강: earworm 관계",
-      "priority": 50,
-      "note": "2026-11-02 학술 Sherstinova 2015 더함. earworm 과 잇는 인과 원문 없음. Müllensiefen 2014 은 예측일 뿐",
-      "createdAt": "2026-11-02T15:29:29.578Z",
-      "seq": 3313
-    },
-    {
-      "id": "14575069",
-      "title": "making-new-years-resolutions 보강: 문학 파편, abandoning-resolutions 관계",
-      "priority": 50,
-      "note": "2026-11-02 Gutenberg Montgomery 4권, Little Women, Daddy-Long-Legs, David Copperfield, Alcott 일기 38049 에 새해 결심 대목 없음. Diary of a Nobody 1026 은 이미 4개 문서. 한양대의료원 2019 잡코리아 인용은 매체 중복",
-      "createdAt": "2026-11-02T15:30:45.865Z",
-      "seq": 3314
-    },
-    {
-      "id": "ca832355",
-      "title": "fidgeting 보강: 지루함 원인 간선",
-      "priority": 50,
-      "note": "2026-11-02 Galton 1908 Memories 78669 더함(지루함 정도를 꼼지락 횟수로 잰다, 인과 원문 아님). 원본 Galton 1885 Nature 32:174 'when the audience is bored ... They sway' 는 futilitycloset 2024-02-14 재인용, 원본 PDF 만 있음",
-      "createdAt": "2026-11-02T15:32:27.199Z",
-      "seq": 3315
-    },
-    {
-      "id": "312e1231",
-      "title": "health-anxiety 보강: 결과 doctor-shopping 간선",
-      "priority": 50,
-      "note": "2026-11-02 Bailer 2013 kops.uni-konstanz.de 45672 'doctor shopping, a typical behavioral consequence of hypochondriasis'. 레이디경향 2009 lady.khan.co.kr/finance/article/12481 는 안심 못 해 닥터 쇼핑에 빠진다고 적음",
-      "createdAt": "2026-11-02T15:37:44.441Z",
-      "seq": 3318
-    },
-    {
-      "id": "51989494",
-      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, 별칭, 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-11-02 신설(메디우스 발행일 미상, 박소영·박아경 2023 보건사회연구). Perndorfer 2018 PMC6815683 환자의 보호적 완충이 배우자 FCR 증가 예측. brunch greenktm/14 2024 '스캔자이어티도 결국은 재발에 대한 두려움에 기인' 하위·결과 후보",
-      "createdAt": "2026-11-02T15:45:13.417Z",
-      "seq": 3324
-    },
-    {
-      "id": "6b833def",
-      "title": "feeling-rushed 보강: no-time-to-exercise 관계, 일하는 어머니의 시간 부족",
-      "priority": 50,
-      "note": "2026-11-02 서울신문 2010, 뉴시스 2025 더함. PMC3162476 Brown·Roberts 2011 'Working mothers ... may perceive that they do not have the time' 는 no-time-to-exercise F3 라 재사용 불가. 다른 출처 필요",
-      "createdAt": "2026-11-02T15:53:13.087Z",
-      "seq": 3329
-    },
-    {
-      "id": "bf305882",
-      "title": "rushing-closing-doors 보강: 한국 공공 파편, 학술 파편, 열차 문이 다시 열린다는 믿음",
-      "priority": 50,
-      "note": "2026-11-02 헤럴드경제 heraldk 2026052818210068485 서울교통공사 천호역 캠페인 2021~2025 끼임 사고 988건(매체). 공공 원문은 seoulmetro.co.kr 보도자료에서 찾을 것. 이전 후보: RAIB Ealing Broadway 2026-03-04, DNV 2018, mediahub.seoul.go.kr 819416",
-      "createdAt": "2026-11-02T15:54:42.569Z",
-      "seq": 3334
-    },
-    {
-      "id": "9b7b8ca0",
-      "title": "anticipatory-grief 보강: no-tears-at-funeral 결과 간선, relief-after-caregiving-death 관계, 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-11-02 신설(AgingCare 434079 댓글 2017, Rodriguez Colmenares 2026 PubMed 42087776). 미리 애도해서 장례식에서 울지 않는다는 인과 원문 필요",
-      "createdAt": "2026-11-02T15:58:53.434Z",
-      "seq": 3341
-    },
-    {
-      "id": "9b32af8e",
-      "title": "relief-after-caregiving-death 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-02 AgingCare 434079 스레드 댓글 2017-12 'you’re not grieving right now because it’s been a relief from all of your duties' 는 결과 no-tears-at-funeral 근거 후보이나 같은 URL 을 anticipatory-grief 가 쓰므로 다른 문서에 넣으면 SNS 같은 글 WARN. 다른 출처 필요. Levy 1976 PMID 957295, Sons and Lovers 217",
-      "createdAt": "2026-11-02T15:59:03.844Z",
-      "seq": 3342
-    },
-    {
-      "id": "29a0beb2",
-      "title": "slowing-only-at-speed-cameras 보강: SNS 파편과 원인 간선",
-      "priority": 50,
-      "note": "2026-11-02 후보: examiner.co.uk drivers-pass-cameras-speed-up-5087941 (2004-07-12) 카메라 지난 뒤 잃은 시간 만회 과속, feeling-rushed 원인 후보. LSE 2017-10-25 보도자료 카메라 너머 사고 반등을 kangaroo effect 로 추정. SBS Biz 2023-09-30 biz.sbs.co.kr/amp/article/20000137654 후면 단속 적발",
-      "createdAt": "2026-11-02T18:26:13.400Z",
-      "seq": 3359
-    },
-    {
-      "id": "e57ad882",
-      "title": "mother-in-law-conflict 보강: 결과 간선",
-      "priority": 50,
-      "note": "2026-11-02 孔雀東南飛 문학 파편 더함. 남은 후보: PMC9726850 2022 시어머니 갈등과 산모 우울 연관(결과 간선 후보), 산림청 2018-11-08 korea.kr 156303001 (공공)",
-      "createdAt": "2026-11-02T18:37:33.851Z",
-      "seq": 3360
-    },
-    {
-      "id": "39f1401c",
-      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-11-01 HN 2025 SNS 파편 더함. Ofcom 회피 수치는 PDF 에만. 2026-11-02 ofcom.org.uk siteassets 의 making-sense-of-media-bulletin-november-2020 은 403. 기자협회보 56602 이유 문항 '안 좋은 뉴스가 너무 많아서'(3.62점), 기자협회보 51706 (2022) 회피경험 3명 중 2명",
-      "createdAt": "2026-11-02T18:37:38.934Z",
-      "seq": 3361
-    },
-    {
-      "id": "813d2120",
-      "title": "blocking-the-intersection 보강: 관계와 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-02 yellow-light-dilemma 와 관계 검토(경기일보 2008 [^2] 황색 신호에서 멈출 줄 알면서 진입, news.seoul traffic 5181 [^4] 황색 신호 순간 꼬리물기). CSM 1986-12-17 m.csmonitor.com/1986/1217/atraff-f.html gridlock 결과. news.seoul 5181 서울연구원 2011 조사 정체 습관 중 꼬리물기 23.7%",
-      "createdAt": "2026-11-02T18:40:22.477Z",
-      "seq": 3362
-    },
-    {
-      "id": "3a472ef9",
-      "title": "tolerating-unpaid-wages 보강: 관계와 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-02 not-reporting-workplace-injury, enduring-workplace-harassment 와 공통 상위(직장에서 불이익을 참고 넘기기) 검토. 머니투데이 2026-09-19 mt.co.kr/article/2026091813444187671 회사 사정 듣고 월급 기다림. Hansard 2003 같은 페이지 'afraid of losing their job' 대목",
-      "createdAt": "2026-11-02T18:43:32.179Z",
-      "seq": 3363
-    },
-    {
-      "id": "d6c8fe79",
-      "title": "hiding-mistakes-at-work 보강: 한국어 파편과 원인 간선",
-      "priority": 50,
-      "note": "2026-11-02 후보: ITPro 2025-07-09 itpro.com covering-up-cyber-attacks 숨기는 이유 17% 잘못으로 보이기 싫어서, PSNet new-perspective-blame-culture-experimental-study (2012-06) 위계가 낮을수록 처벌 두려움, Martinez 2013 결론 punitive response 가 공개를 막음(원인 간선 후보). 한국어 출처 없음",
-      "createdAt": "2026-11-02T18:46:04.235Z",
-      "seq": 3364
-    },
-    {
-      "id": "7b4352d6",
-      "title": "keeping-browser-tabs-open 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-02 Chang 등 CHI 2021 'When the Tab Comes Due' 초록은 ACM DL 이 Cloudflare 봇 확인, semanticscholar 빈 응답. 다른 판(arXiv, CMU KiltHub) 찾기. 후보: uxplanet tab-hoarding, CMU 보도자료 B 대목 reminders·다시 찾기 두려움",
-      "createdAt": "2026-11-02T18:48:33.198Z",
-      "seq": 3365
-    },
-    {
-      "id": "c8bb3c63",
-      "title": "reluctance-to-delegate 보강: 한국어·공공 파편",
-      "priority": 50,
-      "note": "2026-11-02 후보: 교보eBook E000002957358 『팀장 리더십 수업』 소개 '업무를 지시하는 것보다 내가 하는 게 빠르다' (2021-03-15), Irish Times 같은 글 'reluctant to give up control', managementblog 2004 독자 질문 'let down too many times', KIT Responsibility Hoarding (PDF)",
-      "createdAt": "2026-11-02T18:50:31.604Z",
-      "seq": 3366
-    },
-    {
-      "id": "86f6989a",
-      "title": "burning-farm-waste 보강: working-through-heat 관계",
-      "priority": 50,
-      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
-      "createdAt": "2026-11-02T21:05:12.747Z",
-      "seq": 3378
-    },
     {
       "id": "8fa73a40",
       "title": "refusing-statistical-surveys 보강: 관계",
@@ -477,6 +317,14 @@
       "seq": 3492
     },
     {
+      "id": "6a50cb16",
+      "title": "writers-block 상위 후보: procrastination",
+      "priority": 50,
+      "note": "2026-11-03 theses.gla.ac.uk/7625 Macleod 2016 초록 'writer's block is a form of unconscious maladaptive procrastination' 상위 근거 후보. Psychology Today Knaus 2010-06-18 도 동일시",
+      "createdAt": "2026-11-03T15:12:44.088Z",
+      "seq": 3513
+    },
+    {
       "id": "d16898d2",
       "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
       "priority": 40,
@@ -779,6 +627,142 @@
       "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 확인한 뒤 다시 확인하는 대목 못 찾음. 근접 후보: Conrad The Secret Agent 12장 (gutenberg 974), 宮本百合子「蛋白石」(aozora 15950). 한국어 위키문헌은 검색 API 429. 2026-11-02, 11-03 손대지 않고 되돌림",
       "createdAt": "2026-11-03T09:28:51.983Z",
       "seq": 3477
+    },
+    {
+      "id": "2e3a905a",
+      "title": "humming-while-working 보강: earworm 관계",
+      "priority": 40,
+      "note": "2026-11-03 후보: straightdope 44450 #17 2000-12-07 'stuck in my head ... Whenever my brain switches over to autopilot, I catch myself humming it'(귀벌레→흥얼거림, 일하는 중인지 불명). overclockers 17590159 2006 쉬는 시간 humming. McCullough 2016 scholarworks.uark.edu/inquiry/vol17/iss1/4 humming·singing 이 INMI 빈도를 늘림(흥얼→귀벌레, 실험 맥락). SNS 한 글을 두 문서에 못 쓰므로 양쪽 문서에 각자 파편 필요. 일·씻기 중 흥얼거림과 잇는 원문 아직 없음",
+      "createdAt": "2026-11-03T15:15:15.423Z",
+      "seq": 3514
+    },
+    {
+      "id": "17994cbb",
+      "title": "making-new-years-resolutions 보강: abandoning-resolutions 관계, SNS 파편",
+      "priority": 40,
+      "note": "2026-11-03 Pepys 4146, Twain 1863 더함. 아오조라 大倉燁子 1950 「今年の抱負」 54481 해마다 결심하고 실행 못함, 2월부터 시듦(작심삼일 후보). Twain 같은 글 'Thirty days from now, we shall have cast our reformation to the winds'",
+      "createdAt": "2026-11-03T15:19:34.253Z",
+      "seq": 3515
+    },
+    {
+      "id": "fcf2325d",
+      "title": "fidgeting 보강: 나타나지 않는 조건",
+      "priority": 40,
+      "note": "2026-11-03 Ricciardi 2019 iris.uniroma1.it 11573/1353277 덜 지루한 조건에서 더 꼼지락. SBS 2016-02-23 몰입하면 덜 꼼지락",
+      "createdAt": "2026-11-03T15:23:38.670Z",
+      "seq": 3516
+    },
+    {
+      "id": "5bea94e0",
+      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, 별칭, 다른 시기 파편",
+      "priority": 40,
+      "note": "2026-11-03 Perndorfer 2018 초록(europepmc PMID 30426612): 'patient protective buffering predicted increased spouse FCR that same day' 는 배우자의 FCR 이고 예측이라 간선 근거로 약함, PMC 페이지는 curl 에 봇 페이지. brunch greenktm/14 2024 스캔자이어티 하위 후보. 별칭 'fear of cancer recurrence' 근거 파편 필요",
+      "createdAt": "2026-11-03T15:25:20.934Z",
+      "seq": 3517
+    },
+    {
+      "id": "fa52e811",
+      "title": "no-time-to-exercise 보강: 일하는 어머니의 시간 부족",
+      "priority": 40,
+      "note": "2026-11-03 후보: 세계일보 2026-05-19 segye.com/newsView/20260519500428 기혼 여성 운동 중단 이유 시간 부족·돌봄. Spotswood 2021 eprints.leedsbeckett.ac.uk 8998 mothering practices work against leisure time physical activity",
+      "createdAt": "2026-11-03T15:27:36.088Z",
+      "seq": 3518
+    },
+    {
+      "id": "ea09f48c",
+      "title": "rushing-closing-doors 보강: 학술 파편, 열차 문이 다시 열린다는 믿음",
+      "priority": 40,
+      "note": "2026-11-03 mediahub 819416 2014 더함. 남은 것: 학술 파편, DNV 2018 후보",
+      "createdAt": "2026-11-03T15:28:25.250Z",
+      "seq": 3519
+    },
+    {
+      "id": "fdc026ba",
+      "title": "anticipatory-grief 보강: no-tears-at-funeral 결과 간선, relief-after-caregiving-death 관계, 다른 시기 파편",
+      "priority": 40,
+      "note": "2026-11-03 alzheimers.org.uk why.10633 의 고모 댓글 'cried all their tears on the long journey ... did not shed a tear' 는 인과지만 같은 스레드가 no-tears-at-funeral [^4] 라 쓸 수 없음. brunch pamella 도 no-tears [^9] 로 사용됨. mumsnet bereavement 796797 2009 'didn't really grieve much when she died because over the years we had lost her slowly' 는 anticipatory-grief 다른 시기 파편 후보. no-tears 쪽 근거는 다른 출처 필요",
+      "createdAt": "2026-11-03T15:30:23.623Z",
+      "seq": 3520
+    },
+    {
+      "id": "3ea643be",
+      "title": "relief-after-caregiving-death 보강: 관계",
+      "priority": 40,
+      "note": "2026-11-02 AgingCare 434079 스레드 댓글 2017-12 'you’re not grieving right now because it’s been a relief from all of your duties' 는 결과 no-tears-at-funeral 근거 후보이나 같은 URL 을 anticipatory-grief 가 쓰므로 다른 문서에 넣으면 SNS 같은 글 WARN. 다른 출처 필요. Levy 1976 PMID 957295, Sons and Lovers 217",
+      "createdAt": "2026-11-03T15:30:27.583Z",
+      "seq": 3521
+    },
+    {
+      "id": "f219f40f",
+      "title": "slowing-only-at-speed-cameras 보강: SNS 파편과 원인 간선",
+      "priority": 40,
+      "note": "2026-11-03 Yorkshire Live 2004-07-12 examiner.co.uk 5087941 더함(잃은 시간 만회 과속). LSE 2017-10-25 kangaroo effect, SBS Biz 2023-09-30 후면 단속. SNS 파편 필요",
+      "createdAt": "2026-11-03T15:31:46.402Z",
+      "seq": 3522
+    },
+    {
+      "id": "8084b5d1",
+      "title": "mother-in-law-conflict 보강: 결과 간선",
+      "priority": 40,
+      "note": "2026-11-02 孔雀東南飛 문학 파편 더함. 남은 후보: PMC9726850 2022 시어머니 갈등과 산모 우울 연관(결과 간선 후보이나 산후 우울 문서가 아직 없음, 2026-11-03 find 확인), 산림청 2018-11-08 korea.kr 156303001 (공공)",
+      "createdAt": "2026-11-03T15:31:55.987Z",
+      "seq": 3523
+    },
+    {
+      "id": "bd77c524",
+      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
+      "priority": 40,
+      "note": "2026-11-03 Ofcom news-consumption HTML 403, ACMA 2026-08 acma-report-reveals-australians-changing-news-habits·2026-05 indicator-5-news-consumption 503(재시도 후보). kpf.or.kr 미디어이슈 「누가, 왜 뉴스를 회피하는가?」 원문 HTML 미발견. 기자협회보 51706 (2022) 회피경험 3명 중 2명",
+      "createdAt": "2026-11-03T15:33:39.110Z",
+      "seq": 3525
+    },
+    {
+      "id": "8aacdad1",
+      "title": "blocking-the-intersection 보강: 관계와 SNS 파편",
+      "priority": 40,
+      "note": "2026-11-02 yellow-light-dilemma 와 관계 검토(경기일보 2008 [^2], news.seoul 5181 [^4]). 2026-11-03 두 파편 모두 두 현상의 인과를 말하지 않아 간선 근거 아님. CSM 1986-12-17 m.csmonitor.com/1986/1217/atraff-f.html gridlock 결과 후보. SNS 파편 필요",
+      "createdAt": "2026-11-03T15:33:50.143Z",
+      "seq": 3526
+    },
+    {
+      "id": "49f70361",
+      "title": "tolerating-unpaid-wages 보강: 관계와 SNS 파편",
+      "priority": 40,
+      "note": "2026-11-02 not-reporting-workplace-injury, enduring-workplace-harassment 와 공통 상위(직장에서 불이익을 참고 넘기기) 검토. 머니투데이 2026-09-19 mt.co.kr/article/2026091813444187671 회사 사정 듣고 월급 기다림. Hansard 2003 같은 페이지 'afraid of losing their job' 대목",
+      "createdAt": "2026-11-03T15:33:57.609Z",
+      "seq": 3527
+    },
+    {
+      "id": "22bfa2e8",
+      "title": "hiding-mistakes-at-work 보강: 원인 간선",
+      "priority": 40,
+      "note": "2026-11-03 코멘토 2026 SNS 더함. 원인 후보: Martinez 2013 punitive response, PSNet blame culture 2012-06, ITPro 2025-07-09 covering-up-cyber-attacks 17%",
+      "createdAt": "2026-11-03T15:36:24.494Z",
+      "seq": 3529
+    },
+    {
+      "id": "4f2e89fb",
+      "title": "keeping-browser-tabs-open 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-02 Chang 등 CHI 2021 'When the Tab Comes Due' 초록은 ACM DL 이 Cloudflare 봇 확인, semanticscholar 빈 응답. 2026-11-03 arXiv API 검색 결과 없음, semanticscholar API 429. 다른 판(CMU KiltHub) 찾기. 후보: uxplanet tab-hoarding",
+      "createdAt": "2026-11-03T15:36:39.846Z",
+      "seq": 3530
+    },
+    {
+      "id": "fa4864c2",
+      "title": "reluctance-to-delegate 보강: 공공 파편",
+      "priority": 40,
+      "note": "2026-11-03 교보eBook 2021 한국어 파편 더함. 공공 파편 필요. KIT Responsibility Hoarding 은 PDF",
+      "createdAt": "2026-11-03T15:37:41.420Z",
+      "seq": 3531
+    },
+    {
+      "id": "97e9a568",
+      "title": "burning-farm-waste 보강: working-through-heat 관계",
+      "priority": 40,
+      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
+      "createdAt": "2026-11-03T15:37:52.500Z",
+      "seq": 3532
     },
     {
       "id": "e8ba47a7",
@@ -2627,6 +2611,22 @@
       "note": "2026-11-03 후보. 매체: gutenberg 33997 Morris The Jonathan Papers (1912 수필) 'He liked the mince best, therefore he saved it until the last, and', thetakeout.com eat-best-part-food-first-or-delay-gratification-1838014684 (2019-09-10) 마시멜로 마지막에, psychologicalscience.org Halloween candy (2013-10-31). 학술 PubMed 22241815 O'Brien Ellsworth 2012 초록 없음. 대립 후보 gutenberg 770 Nesbit 살구 먼저. 매체 아닌 종류 필요. saving-things-for-best 와 관계 검토",
       "createdAt": "2026-11-03T06:29:45.361Z",
       "seq": 3444
+    },
+    {
+      "id": "0389050d",
+      "title": "산후 우울",
+      "priority": 10,
+      "note": "2026-11-03 mother-in-law-conflict 결과 간선 상대. PMC9726850 2022 시어머니 갈등과 산모 우울 연관",
+      "createdAt": "2026-11-03T15:31:56.102Z",
+      "seq": 3524
+    },
+    {
+      "id": "d63ea9ec",
+      "title": "직장에서 불이익을 참고 넘기기",
+      "priority": 10,
+      "note": "2026-11-03 tolerating-unpaid-wages, not-reporting-workplace-injury, enduring-workplace-harassment 의 공통 상위 후보. 상위 문서용 파편 필요",
+      "createdAt": "2026-11-03T15:33:57.738Z",
+      "seq": 3528
     },
     {
       "id": "02b2f242",
