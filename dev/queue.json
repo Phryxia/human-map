@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-03T03:25:51.256Z",
-  "nextSeq": 3434,
-  "stops": 174,
+  "savedAt": "2026-11-03T06:32:31.716Z",
+  "nextSeq": 3446,
+  "stops": 175,
   "items": [
     {
       "id": "112b7ae9",
@@ -435,6 +435,38 @@
       "note": "2026-11-03 상위 exaggerating-own-stories 그음. 원인 후보: Cifas cv-fraud-rise-uk-job-market-cools (2022-11-02) 일자리 경쟁, hrreview 36576 등록금 인상 43%, HN 44096170 (2025) 학위 필터 때문에 거짓 기재. 정부 출처는 gao.gov 403, HEDD 404",
       "createdAt": "2026-11-03T03:15:56.817Z",
       "seq": 3420
+    },
+    {
+      "id": "a4f80ed1",
+      "title": "overpacking 와 걱정 계열 문서의 원인 관계",
+      "priority": 50,
+      "note": "2026-11-03 추가. 후보: globalrescue.com overpacking-a-persistent-traveler-mistake (2025-10-06) 필요 대신 두려움에 맞춰 짐을 쌈, afar.com psychology-behind-overpacking (2024-02-22) 파국적 사고. 인과를 말하는 대목으로 원인 간선 검토",
+      "createdAt": "2026-11-03T06:18:22.366Z",
+      "seq": 3441
+    },
+    {
+      "id": "e50898b5",
+      "title": "welcoming-first-snow 보강: 학술 파편, 시기 다른 파편",
+      "priority": 50,
+      "note": "2026-11-03 추가. 학술 후보 못 찾음(koreascholar 401310 은 적설 시기만). 후보: aozora 55958 島崎藤村 雪の障子 (1940) 눈이 내린 것만으로 기쁨(初雪 낱말 없음), today.yougov.com 2022-12-02 첫눈에 Excited 35%, scienceblog.com 2025-03-18 눈 오는 날 SNS 게시 급증, insight 485313 같은 기사 '예쁜 쓰레기' 대비",
+      "createdAt": "2026-11-03T06:22:31.914Z",
+      "seq": 3442
+    },
+    {
+      "id": "bb9c8dba",
+      "title": "sleepless-before-exciting-day 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-03 추가. 원인 관계는 Yahoo 2023 파편으로 그음. 학술 후보: PMC11148181 (2024) 보상도 과각성을 일으킴(동물), Sleep Medicine Reviews 2023 감정 유도와 수면 메타분석, PLOS ONE 2015 수면 전 긍정 영화 연구. SNS 후보 m.dcinside.com/board/nokanto/145370 (2023-04-12)",
+      "createdAt": "2026-11-03T06:26:59.420Z",
+      "seq": 3443
+    },
+    {
+      "id": "9c7b176b",
+      "title": "writing-on-fogged-glass 보강: 문학 파편, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-03 추가. Gutenberg 약 90권 grep 에서 손가락으로 김 서린 창에 쓰는 대목 못 찾음. 근접: gutenberg 44385 Mansfield Prelude (1920) 손가락을 유리에 누름. 다음: 青空文庫 窓硝子 指で, 위키문헌 성에 손가락. SNS 같은 스레드 2011-10-27 'I write “I love you”' 는 같은 URL 이라 못 씀",
+      "createdAt": "2026-11-03T06:32:12.030Z",
+      "seq": 3445
     },
     {
       "id": "d16898d2",
@@ -2563,6 +2595,14 @@
       "note": "2026-11-03 overwhelmed-by-positive-emotion 작업 중 APS 2014 보도자료 'tears-of-joy-may-help-us-maintain-emotional-balance' 에서 봄. 강한 긍정 감정에 우는 이형 표현, overwhelmed-by-positive-emotion 의 결과 후보",
       "createdAt": "2026-11-03T03:23:49.983Z",
       "seq": 3430
+    },
+    {
+      "id": "3703aadf",
+      "title": "좋아하는 음식 마지막에 먹기",
+      "priority": 10,
+      "note": "2026-11-03 후보. 매체: gutenberg 33997 Morris The Jonathan Papers (1912 수필) 'He liked the mince best, therefore he saved it until the last, and', thetakeout.com eat-best-part-food-first-or-delay-gratification-1838014684 (2019-09-10) 마시멜로 마지막에, psychologicalscience.org Halloween candy (2013-10-31). 학술 PubMed 22241815 O'Brien Ellsworth 2012 초록 없음. 대립 후보 gutenberg 770 Nesbit 살구 먼저. 매체 아닌 종류 필요. saving-things-for-best 와 관계 검토",
+      "createdAt": "2026-11-03T06:29:45.361Z",
+      "seq": 3444
     },
     {
       "id": "02b2f242",
