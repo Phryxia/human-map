@@ -523,6 +523,7 @@
 - [치료 부담감](docs/treatment-burden.md) ([건강과 위험](groups/health-and-safety.md))
 - [치실 거르기](docs/skipping-flossing.md) ([건강과 위험](groups/health-and-safety.md))
 - [친구 끊기를 상대가 알아챌까 봐 망설이기](docs/hesitating-to-unfriend.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [친구 만남 뒤로 미루기](docs/putting-off-friends.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [침수 도로 진입](docs/driving-into-floodwater.md) ([길과 운전](groups/roads-and-driving.md))
 - [칭찬 부정하기](docs/deflecting-compliments.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [카시트 없이 아이 태우기](docs/child-car-seat-nonuse.md) ([길과 운전](groups/roads-and-driving.md))

@@ -4437,9 +4437,9 @@
   },
   "https://www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm": {
     "first": "2026-10-20",
-    "last": "2026-11-03",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-04"
   },
   "https://news.ycombinator.com/item?id=42672920": {
     "first": "2026-10-20",
@@ -19270,6 +19270,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://www.imaeil.com/page/view/2015100801545342405": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://www.gqkorea.co.kr/?p=203288": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",
