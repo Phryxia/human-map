@@ -82,6 +82,7 @@
 - [김 서린 유리에 손가락으로 쓰기](docs/writing-on-fogged-glass.md) ([시간과 하루 습관](groups/daily-time.md))
 - [김장 품앗이](docs/kimjang-together.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [꼼지락거리기](docs/fidgeting.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [꽃잎 뜯으며 사랑 점치기](docs/petal-plucking-love-divination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [꾀병 결근](docs/calling-in-sick-when-not-sick.md) ([일터와 일자리](groups/work.md))
 - [꾀병 부리기](docs/feigning-illness.md) ([일터와 일자리](groups/work.md))
 - [꿈에 나타나는 고인](docs/dreams-of-the-deceased.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))

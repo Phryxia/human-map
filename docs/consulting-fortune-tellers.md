@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [꽃잎 뜯으며 사랑 점치기](petal-plucking-love-divination.md)
 
 ## 원인
 
