@@ -302,7 +302,7 @@
 - [소프트웨어 업데이트 미루기](docs/delaying-software-updates.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [손님 오기 전에 집 치우기](docs/tidying-before-guests.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [손님의 폭언](docs/customer-verbal-abuse.md) ([일터와 일자리](groups/work.md))
-- [손님이 가 주기를 바라기](docs/wishing-guests-would-leave.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [손님이 가 주기를 바라기](docs/wishing-guests-would-leave.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [손실 추격](docs/loss-chasing.md) ([돈과 소비](groups/money.md))
 - [손실 회피](docs/loss-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [손톱 물어뜯기](docs/nail-biting.md) ([걱정과 기분](groups/worry-and-mood.md))

@@ -18,7 +18,7 @@
 
 ## 상위
 
-없음.
+- [원할 때 대화 끝내지 못하기](not-ending-conversations.md)
 
 ## 하위
 

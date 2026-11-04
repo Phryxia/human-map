@@ -37,6 +37,7 @@
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
 - [외출 전 옷 여러 번 갈아입기](../docs/trying-on-outfits-before-going-out.md) 외출을 앞둔 사람이 입을 옷을 정하지 못해 여러 벌을 입어 보고 갈아입는다.
 - [원할 때 대화 끝내지 못하기](../docs/not-ending-conversations.md) 대화를 끝내고 싶은 사람이 먼저 끝내자고 말하지 못하고 대화를 이어 간다.
+  - [손님이 가 주기를 바라기](../docs/wishing-guests-would-leave.md)
 - [읽지 않은 책을 읽은 척하기](../docs/pretending-to-have-read-books.md) 사람이 읽지 않은 책을 남 앞에서 읽었다고 말한다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.

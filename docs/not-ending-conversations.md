@@ -18,7 +18,7 @@
 
 ## 하위
 
-없음.
+- [손님이 가 주기를 바라기](wishing-guests-would-leave.md)
 
 ## 원인
 
