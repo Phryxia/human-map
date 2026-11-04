@@ -287,6 +287,7 @@
 - [산재 신고 꺼리기](docs/not-reporting-workplace-injury.md) ([일터와 일자리](groups/work.md))
 - [상습 지각](docs/chronic-lateness.md) ([시간과 하루 습관](groups/daily-time.md))
 - [새치기를 보고도 말하지 않기](docs/staying-silent-at-line-cutting.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [새치기에 항의하기](docs/confronting-line-cutters.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [새해 결심 세우기](docs/making-new-years-resolutions.md) ([시간과 하루 습관](groups/daily-time.md))
 - [생각 때문에 잠 못 이루기](docs/lying-awake-thinking.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [생각하려고 걷기](docs/walking-to-think.md) ([걱정과 기분](groups/worry-and-mood.md))
