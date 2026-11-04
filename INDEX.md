@@ -384,6 +384,7 @@
 - [운전 중 분노](docs/road-rage.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전 중 휴대전화 사용](docs/phone-use-while-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [운전을 그만둔 뒤의 고립](docs/isolation-after-driving-cessation.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [운전자의 신호 대기 조급함](docs/driver-impatience-at-red-light.md) ([길과 운전](groups/roads-and-driving.md))
 - [울고 난 뒤 후련함](docs/relief-after-crying.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [울리지 않은 휴대전화 진동 느끼기](docs/phantom-phone-vibration.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [원한 품기](docs/holding-a-grudge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [운전자의 신호 대기 조급함](driver-impatience-at-red-light.md)[^3]
 
 ## 결과
 
