@@ -38,7 +38,7 @@
 
 ## 결과
 
-없음.
+- [고인의 물건 간직하기](keeping-belongings-of-the-dead.md)
 
 ## 대립
 

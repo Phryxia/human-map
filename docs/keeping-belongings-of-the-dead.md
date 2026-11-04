@@ -14,6 +14,8 @@
 
 2022년 브라보마이라이프 기사는 유족이 남은 물건이 필요한지 냉정하게 정하기 어렵고 물건을 버린다는 생각을 하지 못해 중고 판매도 쉽게 하지 못한다고 보도했다.[^6]
 
+2024년 댓글[^7]의 글쓴이는 베갯잇에서 아직 남편의 냄새가 나서 베갯잇을 바꾸지 않았다고 적는다.
+
 # 관계
 
 ## 상위
@@ -26,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [곁에 없는 사람의 옷 냄새 맡기](smelling-absent-loved-ones-clothes.md)[^7]
 
 ## 결과
 
@@ -44,3 +46,4 @@
 [^4]: [학술] "Essentially all the mothers (98.6%) reported the existence of transitional objects and 28.2% kept them privately." (사실상 모든 어머니(98.6%)가 이행 대상이 있다고 답했고 28.2% 는 그것을 남모르게 간직했다.) — Richard D. Goldstein, Carter R. Petty, Sue E. Morris 외, "Transitional Objects of Grief", Comprehensive Psychiatry, 2020-01-11, https://pmc.ncbi.nlm.nih.gov/articles/PMC7351592/, 2026-10-20 접속
 [^5]: [학술] "It was shown that a memento mainly contains four meanings: 1) substance/functionality, 2) emotional/relationship-oriented, 3) respect for the will, and 4) symbolic of loss." (유품은 주로 네 가지 의미를 지닌다: 1) 물건과 기능, 2) 감정과 관계, 3) 고인의 뜻 존중, 4) 상실의 상징.) — 白岩 祐子, 栗本 真奈, 唐沢 かおり, 「形見の意味と故人との継続する絆」, 社会心理学研究 36(2), 2020-11-30, https://www.jstage.jst.go.jp/article/jssp/36/2/36_1813/_article, 2026-10-20 접속
 [^6]: [매체] "유족들은 남은 물건의 필요성을 냉정하게 결정하기 어렵고, 물품을 버린다는 생각을 할 수 없어 중고 판매 등도 쉽지 않다." — 이연지, "日 독신가구 증가에 유품 정리 트렌드 변화", 브라보마이라이프, 2022-08-31, https://bravo.etoday.co.kr/view/atc_view/13924, 2026-10-20 접속
+[^7]: [SNS] "I haven’t changed the pillow cases because I can still smell his scent on them and I need that." (베갯잇을 바꾸지 않았다. 아직 거기서 그의 냄새가 나고 나는 그게 필요하다.) — community.sueryder.org 댓글, 2024-02-19, https://community.sueryder.org/t/spouses-clothes/82716, 2026-11-04 접속
