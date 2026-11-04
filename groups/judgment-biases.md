@@ -22,5 +22,6 @@
 - [평균 이상 효과](../docs/better-than-average-effect.md) 사람이 자기 능력과 성격을 같은 처지의 평균적인 사람보다 낫다고 평가한다.
   - [운전 실력 과신](../docs/driving-overconfidence.md)
 - [학습된 무력감](../docs/learned-helplessness.md) 피할 수 없는 나쁜 일을 겪은 사람이 나중에 그 일을 피하거나 바꿀 수 있을 때에도 시도하지 않는다.
+- [핫핸드 믿음](../docs/hot-hand-belief.md) 연달아 성공하거나 당첨되는 것을 본 사람이 서로 무관한 다음 시행에서도 같은 결과가 이어진다고 믿는다.
 - [허위 합의 효과](../docs/false-consensus-effect.md) 사람이 자기와 같은 생각이나 취향인 사람이 실제보다 많다고 여긴다.
 - [후회 회피](../docs/regret-aversion.md) 사람이 결정 뒤에 느낄 후회를 미리 떠올리고 그 후회를 피하는 쪽으로 고르거나 결정을 미룬다.
