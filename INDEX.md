@@ -184,6 +184,7 @@
 - [명절 친지 모임 피하기](docs/skipping-holiday-gatherings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [모르는 번호의 전화 받지 않기](docs/not-answering-unknown-numbers.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [모르는 번호의 전화를 받고 먼저 말하지 않기](docs/answering-unknown-calls-silently.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [모은 돈 들여다보기](docs/gazing-at-saved-money.md) ([돈과 소비](groups/money.md))
 - [모음 채우기](docs/completing-a-collection.md) ([돈과 소비](groups/money.md))
 - [모인 자리에서 말하지 않기](docs/staying-quiet-in-groups.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [무늬에서 얼굴과 모양 보기](docs/seeing-shapes-in-clouds.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
