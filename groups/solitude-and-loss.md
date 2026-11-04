@@ -7,6 +7,9 @@
 - [간병 끝 사별의 안도](../docs/relief-after-caregiving-death.md) 오래 앓던 가족을 돌보던 사람이 그 가족이 죽은 뒤 슬픔과 함께 안도를 느끼고 그 안도에 죄책감을 느끼기도 한다.
 - [거울 속 늙은 얼굴의 낯섦](../docs/aged-face-in-mirror.md) 사람이 거울에 비친 자기 얼굴을 보고 스스로 느끼는 나이보다 늙었다고 여기며 낯설어한다.
 - [곁에 없는 사람의 옷 냄새 맡기](../docs/smelling-absent-loved-ones-clothes.md) 사람이 멀리 떠나 있거나 세상을 떠난 가까운 사람을 그리워하며 그 사람의 옷이나 베개에 남은 냄새를 맡는다.
+- [고인과의 유대 이어 가기](../docs/continuing-bonds.md) 가까운 사람을 잃은 사람이 고인에게 편지를 쓰거나 말을 걸거나 찾아가며 고인과의 관계를 이어 간다.
+  - [성묘](../docs/visiting-graves.md)
+  - [죽은 이에게 말 걸기](../docs/talking-to-the-dead.md)
 - [고인의 존재를 느끼기](../docs/sensing-presence-of-the-dead.md) 가까운 사람을 잃은 사람이 세상을 떠난 그가 곁에 있다고 느끼거나 그 목소리를 듣는다.
 - [기일 무렵 되살아나는 슬픔](../docs/anniversary-grief.md) 가까운 사람을 잃은 사람이 해마다 그 사람이 죽은 날이 돌아오면 그 무렵 슬픔이 다시 짙어진다.
 - [꿈에 나타나는 고인](../docs/dreams-of-the-deceased.md) 가까운 사람을 잃은 사람이 꿈에서 고인을 만나고 깨어나 그 꿈을 위안이나 슬픔으로 받아들인다.
@@ -19,7 +22,6 @@
   - [반려동물 안락사 뒤 죄책감](../docs/pet-euthanasia-guilt.md)
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
-- [성묘](../docs/visiting-graves.md) 가족이나 가까운 사람을 잃은 사람이 그가 묻히거나 안치된 곳을 찾아가 꽃이나 음식을 놓고 말을 걸거나 둘러본다.
 - [어린 시절 살던 집 찾아가기](../docs/revisiting-childhood-home.md) 어른이 된 사람이 어린 시절 살던 집이나 동네를 일부러 다시 찾아가 지금의 모습을 기억과 견주어 본다.
 - [예기 애도](../docs/anticipatory-grief.md) 가족이 죽어 가는 것을 지켜보는 사람이 그 가족이 죽기 전에 미리 슬퍼한다.
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
@@ -28,7 +30,6 @@
 - [이삿날 빈집 둘러보기](../docs/last-look-at-empty-house.md) 이사를 떠나는 사람이 짐을 뺀 빈집을 마지막으로 둘러보며 낯섦과 아쉬움을 느낀다.
 - [장례에서 눈물이 나지 않음](../docs/no-tears-at-funeral.md) 가까운 사람이 죽은 자리에서 눈물이 나지 않는 사람이 그것을 이상하게 여기거나 남들이 자기를 무정하게 볼까 신경 쓴다.
 - [적막해서 TV 켜 두기](../docs/leaving-tv-on-for-company.md) 집에 혼자 있는 사람이 보지 않으면서도 조용함을 피하려고 텔레비전을 켜 둔다.
-- [죽은 이에게 말 걸기](../docs/talking-to-the-dead.md) 가까운 사람을 잃은 사람이 무덤 앞이나 혼자 있는 자리, 메신저에서 세상을 떠난 그에게 말을 걸거나 메시지를 보낸다.
 - [집에 없는 척하기](../docs/pretending-not-to-be-home.md) 집에 있는 사람이 초인종이나 노크를 듣고도 문을 열지 않고 집에 없는 척한다.
 - [향수](../docs/homesickness.md) 고향을 떠난 사람이 두고 온 집과 풍경과 가족을 그리워한다.
 - [혼자 먹는 식사의 감정](../docs/eating-alone-feelings.md) 혼자 식사하는 사람은 쓸쓸함이나 함께 먹는 자리에 대한 그리움을 느끼기도 하고 여유나 자유를 느끼기도 한다.
