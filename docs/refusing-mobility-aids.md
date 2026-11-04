@@ -16,7 +16,7 @@
 
 ## 상위
 
-없음.
+- [늙어 보이는 보조기구 꺼림](avoiding-aids-that-look-old.md)
 
 ## 하위
 
