@@ -32,6 +32,7 @@
   - [업무 실수 숨기기](../docs/hiding-mistakes-at-work.md)
 - [아픈 신발 참고 신기](../docs/wearing-painful-shoes.md) 굽 높은 구두나 꽉 끼는 신발이 발을 아프게 하는 줄 아는 사람이 보기 좋다는 이유로 그 신발을 계속 신는다.
 - [알아들은 척하기](../docs/pretending-to-understand.md) 사람이 남의 말이나 설명을 알아듣지 못했는데 알아들은 듯이 고개를 끄덕이거나 맞장구친다.
+- [억양 편견](../docs/accent-prejudice.md) 말을 듣는 사람이 말하는 사람의 지역 억양이나 계층 억양을 듣고 그 사람의 지위나 능력을 낮게 여긴다.
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
 - [외출 전 옷 여러 번 갈아입기](../docs/trying-on-outfits-before-going-out.md) 외출을 앞둔 사람이 입을 옷을 정하지 못해 여러 벌을 입어 보고 갈아입는다.

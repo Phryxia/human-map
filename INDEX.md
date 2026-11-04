@@ -344,6 +344,7 @@
 - [양 세기](docs/counting-sheep.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [어둠 공포](docs/fear-of-the-dark.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [어린 시절 살던 집 찾아가기](docs/revisiting-childhood-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [억양 편견](docs/accent-prejudice.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [얹혀사는 대가로 집안일 거들기](docs/doing-chores-while-staying.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얹혀사는 집에서 몸 낮추기](docs/shrinking-in-hosts-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얻어먹기 거절](docs/declining-free-meals-out-of-pride.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
