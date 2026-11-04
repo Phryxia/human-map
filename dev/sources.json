@@ -4035,9 +4035,9 @@
   },
   "https://kormedi.com/1408584/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-04"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11332216/": {
     "first": "2026-10-19",
@@ -18738,6 +18738,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://econpapers.repec.org/RePEc:eee:jeeman:v:93:y:2019:i:c:p:254-271": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35816566&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",
