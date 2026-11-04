@@ -29,7 +29,9 @@
 - [자리 양보 망설임](../docs/hesitating-to-offer-seat.md) 대중교통에 앉은 사람이 노인이나 임산부에게 자리를 내줄지 망설이다 내주지 않거나 말없이 일어난다.
   - [임산부 배려석 비켜 주지 않기](../docs/not-yielding-maternity-seats.md)
 - [자리를 양보받고 늙었다고 느끼기](../docs/feeling-old-when-offered-a-seat.md) 대중교통에서 자리를 양보받은 사람이 자기가 늙어 보였다고 느껴 당황하거나 자리를 사양한다.
-- [잔디밭 질러가기](../docs/cutting-across-lawns.md) 보행자가 공원이나 캠퍼스에서 포장된 길을 두고 잔디밭이나 풀밭을 가로질러 걷는다.
+- [정해진 길 벗어나 걷기](../docs/walking-off-designated-paths.md) 보행자나 탐방객이 정해 둔 길을 두고 그 밖으로 걸어 다닌다.
+  - [잔디밭 질러가기](../docs/cutting-across-lawns.md)
+  - [출입 금지된 샛길 산행](../docs/hiking-closed-trails.md)
 - [중고 직거래 상대를 만나는 부담](../docs/wariness-meeting-secondhand-buyers.md) 온라인으로 중고 물건을 사고파는 사람이 처음 보는 거래 상대를 직접 만나는 일을 부담스러워하고 사람이 많은 곳에서 만나려 한다.
 - [한 사람이 나서면 따라 돕기](../docs/helping-after-first-helper.md) 도움이 필요한 사람을 보고도 지나치던 구경꾼들이 한 사람이 먼저 돕기 시작하면 따라 돕는다.
 - [효과 없는 버튼 누르기](../docs/pressing-placebo-buttons.md) 신호나 문이 바뀌기를 기다리는 사람이 누른 효과가 거의 없는 횡단보도 버튼이나 엘리베이터 닫힘 버튼을 누른다.
