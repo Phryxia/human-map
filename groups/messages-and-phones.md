@@ -9,6 +9,7 @@
 - [놓칠까 두려운 마음](../docs/fear-of-missing-out.md) 다른 사람들이 자기 없이 좋은 일을 겪고 있을지 모른다고 여기는 사람이 그것을 놓칠까 불안해한다.
 - [단톡방 나가지 못하기](../docs/staying-in-group-chats.md) 단체 대화방에서 나가고 싶은 사람이 퇴장이 남들 눈에 띄어 관계가 상할까 봐 나가지 않고 남아 있다.
 - [답하지 않은 뒤의 수치감](../docs/shame-after-unanswered-message.md) 받은 연락에 답하지 않거나 늦게 답하는 사람이 그 일로 부끄러움이나 죄책감을 느낀다.
+- [먹기 전에 음식 사진 찍기](../docs/photographing-food-before-eating.md) 식당에서 음식을 받은 사람이 먹기 전에 먼저 그 음식을 카메라나 휴대전화로 찍는다.
 - [메시징 의존](../docs/messaging-dependency.md) 휴대전화로 메시지를 주고받는 사람이 답이 오지 않거나 읽음 표시가 바뀌지 않으면 불안해서 화면을 거듭 확인한다.
 - [메신저 알림 꺼 두기](../docs/muting-chat-notifications.md) 메신저를 쓰는 사람이 대화방에서 나가지 않고 그 방이나 상대의 알림만 꺼 둔다.
 - [모르는 번호의 전화 받지 않기](../docs/not-answering-unknown-numbers.md) 휴대전화를 쓰는 사람이 저장되지 않은 번호로 걸려 온 전화를 받지 않는다.
