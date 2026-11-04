@@ -19280,5 +19280,11 @@
     "last": "2026-11-04",
     "result": "VERIFIED",
     "lastVerified": "2026-11-04"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26436241&rettype=abstract&retmode=text": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
   }
 }
