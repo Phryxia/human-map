@@ -12,6 +12,7 @@
 - [늘 앉던 자리에 앉기](../docs/sitting-in-the-usual-seat.md) 지정석이 없는 강의실이나 공원 같은 곳을 되풀이해 찾는 사람이 늘 앉던 자리에 다시 앉는다.
 - [다녀간 자리에 이름 새기기](../docs/carving-names-at-visited-places.md) 명소나 숲, 유적을 찾은 사람이 그 자리의 나무나 벽, 바위에 자기 이름이나 아는 사람의 이름을 새기거나 써서 남긴다.
 - [닫히는 문으로 뛰어들어 타기](../docs/rushing-closing-doors.md) 승객이 열차나 지하철의 문이 닫히는 중에 뛰어들거나 팔을 넣어 타려 한다.
+- [도서관 책 훼손](../docs/defacing-library-books.md) 도서관 책을 빌린 이용자가 책에 밑줄을 긋고 메모하거나 필요한 쪽을 찢어 간다.
 - [말을 피하려고 자는 척하기](../docs/pretending-to-sleep-to-avoid-talk.md) 버스, 비행기, 미용실, 가게에서 옆 사람이나 미용사나 질문하는 사람이 말을 걸지 않게 하려고 자는 척하거나 이어폰을 끼거나 휴대폰을 보거나 바쁜 척한다.
 - [방관자 효과](../docs/bystander-effect.md) 위급한 상황을 여러 사람이 함께 볼 때 그 가운데 한 사람이 도울 가능성이 줄어든다.
 - [새치기를 보고도 말하지 않기](../docs/staying-silent-at-line-cutting.md) 줄을 선 사람이 다른 사람이 새치기하는 것을 보고도 따지지 않고 넘어간다.
