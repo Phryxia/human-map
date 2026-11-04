@@ -26,7 +26,7 @@
 
 ## 결과
 
-없음.
+- [대피 미루기](delayed-evacuation.md)[^1]
 
 ## 대립
 
