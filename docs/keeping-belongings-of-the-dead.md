@@ -31,6 +31,7 @@
 ## 상위
 
 - [물건 못 버리기](difficulty-discarding.md)
+- [고인과의 유대 이어 가기](continuing-bonds.md)
 
 ## 하위
 

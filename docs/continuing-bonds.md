@@ -22,6 +22,7 @@
 
 - [성묘](visiting-graves.md)
 - [죽은 이에게 말 걸기](talking-to-the-dead.md)
+- [고인의 물건 간직하기](keeping-belongings-of-the-dead.md)
 
 ## 원인
 

@@ -8,6 +8,8 @@
 - [거울 속 늙은 얼굴의 낯섦](../docs/aged-face-in-mirror.md) 사람이 거울에 비친 자기 얼굴을 보고 스스로 느끼는 나이보다 늙었다고 여기며 낯설어한다.
 - [곁에 없는 사람의 옷 냄새 맡기](../docs/smelling-absent-loved-ones-clothes.md) 사람이 멀리 떠나 있거나 세상을 떠난 가까운 사람을 그리워하며 그 사람의 옷이나 베개에 남은 냄새를 맡는다.
 - [고인과의 유대 이어 가기](../docs/continuing-bonds.md) 가까운 사람을 잃은 사람이 고인에게 편지를 쓰거나 말을 걸거나 찾아가며 고인과의 관계를 이어 간다.
+  - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
+    - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
   - [성묘](../docs/visiting-graves.md)
   - [죽은 이에게 말 걸기](../docs/talking-to-the-dead.md)
 - [고인의 존재를 느끼기](../docs/sensing-presence-of-the-dead.md) 가까운 사람을 잃은 사람이 세상을 떠난 그가 곁에 있다고 느끼거나 그 목소리를 듣는다.
