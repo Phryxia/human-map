@@ -25,6 +25,7 @@
   - [퇴근 뒤 일 생각 곱씹기](../docs/work-rumination-after-hours.md)
 - [설단 현상](../docs/tip-of-the-tongue.md) 말하려는 사람이 떠올리려는 단어를 알고 있다고 느끼면서도 그 단어를 끝내 떠올리지 못한다.
 - [아는 사람 이름 잊기](../docs/forgetting-acquaintances-names.md) 아는 사람을 만난 사람이 얼굴은 알아보면서 그 사람의 이름이 떠오르지 않아 당혹스러워하거나 짜증스러워한다.
+- [옛 사진 들여다보기](../docs/looking-at-old-photos.md) 사람이 옛 사진이나 앨범을 꺼내 들여다보며 사진 속 지난 시절과 사람을 떠올린다.
 - [일기 쓰기](../docs/keeping-a-diary.md) 사람이 겪은 일과 생각을 날마다 또는 일이 있을 때 일기로 적어 둔다.
 - [잃어버린 물건을 찾은 곳에서 또 찾기](../docs/re-searching-for-lost-items.md) 둔 곳을 잊은 물건을 찾는 사람이 이미 찾아본 곳을 다시 뒤진다.
 - [좋아하는 책 다시 읽기](../docs/rereading-favorite-books.md) 이미 읽은 책을 좋아하는 사람이 내용과 결말을 알면서도 그 책을 되풀이해 읽는다.

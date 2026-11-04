@@ -380,6 +380,7 @@
 - [옆 사람 통화에 신경 쓰이기](docs/overheard-phone-calls.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [예기 애도](docs/anticipatory-grief.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [예약 부도](docs/reservation-no-show.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [옛 사진 들여다보기](docs/looking-at-old-photos.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [옛 친구에게 연락하기 망설이기](docs/hesitating-to-contact-old-friends.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [온화한 시기](docs/benign-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
