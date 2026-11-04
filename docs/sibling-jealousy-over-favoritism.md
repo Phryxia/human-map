@@ -14,6 +14,8 @@
 
 2021년 게시글[^6]의 글쓴이는 어머니가 동생에게만 자기 식혜를 더 먹으라고 주고 자신에게는 묻지도 않은 일이 너무 서운했다고 썼다. 2024년 게시글[^7]의 글쓴이는 결혼해 자기 가정을 이룬 뒤 부모가 부족한 자식에게 더 마음을 쓰기 마련이라고 이해하려 하고 서운한 감정 자체를 낭비라고 여기며 자기 가정만 생각하기로 했다고 적었다.
 
+2026년 2월 변호사의 법률 안내글[^8]은 형제자매 사이의 상속 분쟁에서 한 상속인이 부모 생전에 편애가 있었다고 느끼면서 갈등이 깊어진다고 적었다.
+
 # 관계
 
 ## 상위
@@ -30,7 +32,7 @@
 
 ## 결과
 
-없음.
+- [유산 다툼](inheritance-disputes.md)[^8]
 
 ## 대립
 
@@ -45,3 +47,4 @@
 [^5]: [학술] "Mixed-model analyses revealed that regardless of which sibling was favored, perceptions of current favoritism and recollections of favoritism in childhood reduced closeness among siblings." (혼합 모형 분석 결과 어느 형제가 편애를 받았는지와 관계없이 현재의 편애 인식과 어린 시절 편애의 기억은 형제 사이의 친밀감을 낮췄다.) — J. Jill Suitor, Jori Sechrist, Mari Plikuhn, Seth T. Pardo, Megan Gilligan, Karl Pillemer, "The Role of Perceived Maternal Favoritism in Sibling Relations in Midlife", Journal of Marriage and Family 71(4), 2009, https://pmc.ncbi.nlm.nih.gov/articles/PMC2810864/, 2026-10-21 접속
 [^6]: [SNS] "엄마가 동생한테만 식혜를 더 먹으라고 본인의 식혜를 주는데 저에게는 물어보지도 않았던 게 너무 서운한 거에요.." — 네이트판 게시글, 2021-04-29, https://pann.nate.com/talk/359388299, 2026-10-21 접속
 [^7]: [SNS] "그래서 나는 결심했다 나도 새로운 내 가정이 있으니 이제 우리 가정만 생각하자. 부모는 부족한 자식한테 더 마음을 쓰기마련이지 그렇게 이해하려고 한다. 서운한 감정 자체도 낭비다" — 네이트판 게시글, 2024-08-21, https://pann.nate.com/talk/373061106, 2026-10-21 접속
+[^8]: [매체] "특정 상속인은 “부모 재산은 원래 내가 더 받을 몫”이라고 생각하고, 다른 상속인은 “생전에 편애가 있었다”고 느끼면서 갈등이 깊어지죠." — 강정한, "[상속] 부모 재산을 둘러싼 형제 상속 갈등, 법적 기준은", 로톡 법률가이드, 2026-02-09, https://www.lawtalk.co.kr/posts/141828, 2026-11-04 접속

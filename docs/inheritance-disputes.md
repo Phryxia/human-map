@@ -16,6 +16,8 @@
 
 2022년 글[^8]의 저자는 자기 연구에서 본 갈등 대부분이 같은 세대 사이에서 일어났고 형제간 경쟁과 시기가 유산을 두고 법정에 가는 주요 이유라고 썼다. 2025년 영국 법률회사의 보도자료[^9]는 55세 넘은 사람의 30% 만 자녀와 상속 이야기를 했다는 조사를 전하며 유언을 둘러싼 다툼이 그 사람이 살아 있을 때 분명히 하지 않고 소통하지 않은 데서 비롯되는 일이 많다고 적었다.
 
+2026년 2월 변호사의 법률 안내글[^10]은 형제자매 사이의 상속 분쟁에서 한 상속인이 부모 생전에 편애가 있었다고 느끼면서 갈등이 깊어진다고 적었다.
+
 # 관계
 
 ## 상위
@@ -30,6 +32,7 @@
 
 - [시기심](envy.md)[^8]
 - [죽음 이야기 피하기](avoiding-death-talk.md)[^9]
+- [편애받는 형제에 대한 질투](sibling-jealousy-over-favoritism.md)[^10]
 
 ## 결과
 
@@ -50,3 +53,4 @@
 [^7]: [매체] "For example, my study on the role of inheritance on grief showed that the sole predictor of family conflict over the will was prior conflict." (예컨대 상속이 애도에 미치는 역할에 관한 내 연구에서 유언을 둘러싼 가족 갈등을 예측한 유일한 변수는 이전의 갈등이었다.) — Kenneth J. Doka, "Why Did My Family Fall Apart After Mom's Death?", Psychology Today, 2020-02-24, https://www.psychologytoday.com/us/blog/good-mourning/202002/why-did-my-family-fall-apart-after-moms-death, 2026-11-01 접속
 [^8]: [매체] "Most of the conflicts we came across in our research took place among members of the same generation. Sibling rivalry and envy is a key reason to go to court over an estate." (우리 연구에서 본 갈등 대부분은 같은 세대 구성원 사이에서 일어났다. 형제간 경쟁과 시기는 유산을 두고 법정에 가는 주요한 이유다.) — Stephan Köppe, "Opinion: Why families fight over inheritances – and how to avoid it", UCD News, 2022-05-17, https://www.ucd.ie/newsandopinion/news/2022/may/17/opinionwhyfamiliesfightoverinheritancesandhowtoavoidit, 2026-11-01 접속
 [^9]: [매체] "These disputes can be both emotionally and financially taxing, often stemming from a lack of clarity and communication during the individual's lifetime." (이런 다툼은 감정적으로도 금전적으로도 고될 수 있고 그 사람이 살아 있을 때 분명히 하지 않고 소통하지 않은 데서 비롯되는 일이 많다.) — Irwin Mitchell, "Will Disputes Set To Rise As Survey Reveals Only 30% Of Adults Discuss Inheritance With Kids", Irwin Mitchell News, 2025-05-14, https://www.irwinmitchell.com/news-and-insights/newsandmedia/2025/May/will-disputes-set-to-rise-as-survey-reveals-only-third-of-adults-discuss-inheritance-with-kids, 2026-11-03 접속
+[^10]: [매체] "특정 상속인은 “부모 재산은 원래 내가 더 받을 몫”이라고 생각하고, 다른 상속인은 “생전에 편애가 있었다”고 느끼면서 갈등이 깊어지죠." — 강정한, "[상속] 부모 재산을 둘러싼 형제 상속 갈등, 법적 기준은", 로톡 법률가이드, 2026-02-09, https://www.lawtalk.co.kr/posts/141828, 2026-11-04 접속
