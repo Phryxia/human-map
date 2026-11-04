@@ -312,6 +312,7 @@
 - [시간에 쫓기는 느낌](docs/feeling-rushed.md) ([시간과 하루 습관](groups/daily-time.md))
 - [시계를 빠르게 맞춰 두기](docs/setting-clocks-fast.md) ([시간과 하루 습관](groups/daily-time.md))
 - [시기심](docs/envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [시든 꽃 버리지 않기](docs/keeping-withered-flowers.md) ([돈과 소비](groups/money.md))
 - [시름을 술로 달래기](docs/drinking-to-cope.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [신고해도 소용없다는 믿음](docs/believing-reporting-is-futile.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [신호 대기 중의 답답함](docs/impatience-at-red-light.md) ([길과 운전](groups/roads-and-driving.md))
