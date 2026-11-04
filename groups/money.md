@@ -43,6 +43,7 @@
 - [빚 독촉 피하기](../docs/avoiding-creditors.md) 빚을 진 사람이 채권자의 전화, 편지, 방문을 받지 않거나 채권자와 마주치지 않으려고 피하는 행동이다.
   - [야반도주](../docs/moonlight-flit.md)
 - [사기 전에 온라인 후기 찾아 읽기](../docs/reading-reviews-before-buying.md) 물건이나 서비스를 사려는 사람이 사기 전에 온라인 후기와 별점을 찾아 읽고 그에 기대어 고른다.
+- [사기 피해 뒤 자책](../docs/self-blame-after-fraud.md) 사기를 당한 사람이 속아 넘어간 자신을 부끄러워하고 탓한다.
 - [사칭 전화에 겁먹고 따르기](../docs/complying-with-impersonation-calls.md) 검찰, 금융기관, 가족을 사칭한 전화를 받은 사람이 겁이나 다급함에 상대가 시키는 대로 한다.
 - [서로 계산하겠다고 다투기](../docs/fighting-over-the-bill.md) 함께 먹은 사람들이 계산할 때가 되면 서로 자기가 내겠다고 실랑이한다.
 - [손실 추격](../docs/loss-chasing.md) 돈을 걸었다가 잃은 사람이 잃은 돈을 되찾으려고 더 건다.
