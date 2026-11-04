@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-04T09:36:19.385Z",
-  "nextSeq": 3670,
-  "stops": 184,
+  "savedAt": "2026-11-04T12:38:26.367Z",
+  "nextSeq": 3687,
+  "stops": 185,
   "items": [
     {
       "id": "96af31ca",
@@ -315,6 +315,62 @@
       "note": "2026-11-04 확인: '계단을 세며' '계단 수를 세' 한국어 검색 결과 없음. heirsholdings hhpeople 5991 본문에 세기 대목 없음, medium age-of-empathy counting-on-the-dark 는 봇 확인. 계단 오르기 건강 기사만 나옴",
       "createdAt": "2026-11-04T09:36:06.111Z",
       "seq": 3669
+    },
+    {
+      "id": "b27bea9f",
+      "title": "food-bank-shame 와 help-seeking-avoidance 원인 간선",
+      "priority": 50,
+      "note": "2026-11-04 food-bank-shame 추가. ourcommons 44-1 AGRI meeting-57 'Stigma was cited as one reason that people are not seeking help from food banks' 는 낙인이 원인이라 수치심 인과로 보기엔 약함. 부끄러워 푸드뱅크 도움을 구하지 않는다는 인과 문장 필요. 후보: birmingham.gov.uk shame_and_stigma_in_foodbank_use 보고서(PDF)",
+      "createdAt": "2026-11-04T12:17:14.608Z",
+      "seq": 3680
+    },
+    {
+      "id": "87151cc7",
+      "title": "customer-verbal-abuse 와 emotional-labor 원인 간선",
+      "priority": 50,
+      "note": "2026-11-04 customer-verbal-abuse 추가. 손님의 폭언 때문에 직원이 감정을 누른다는 인과 파편 필요. 후보: nocutnews 4407552 (2015-05-02) 마트 고객센터 직원 '소리르 지르시거나 욕설을 퍼부으시는 분들' 뒤 '가슴에 상처', gov.uk violence-and-abuse-toward-shop-staff 정부 응답(2021-08-09) 판매 거절 때 폭행",
+      "createdAt": "2026-11-04T12:21:20.236Z",
+      "seq": 3681
+    },
+    {
+      "id": "18c578d1",
+      "title": "손님의 폭언 2013 이전 시기 파편",
+      "priority": 50,
+      "note": "customer-verbal-abuse 파편이 2017~2024 에 몰림. 후보: m.korea.kr policyBriefingView 148760726 (2013-05-16) 콜센터 상담원 '다짜고짜로 욕설을 퍼부으며 구청장을 바꿔달라고' (정책기자 글, 종류 판단 필요, 다음 문장에 실명)",
+      "createdAt": "2026-11-04T12:21:20.387Z",
+      "seq": 3682
+    },
+    {
+      "id": "86f9395d",
+      "title": "food-bank-shame 보강: 한국어 공공 또는 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-04 추가. 후보: futurechosun archives/66750 (2022-07-21) 푸드마켓 '어르신들이 마켓에 오는 걸 많이 민망해한다'(호스트 막힘), korea.kr policyBriefingView 156470804 (2021-09-13) 급식카드 창피함은 poverty-shame 쪽",
+      "createdAt": "2026-11-04T12:25:17.493Z",
+      "seq": 3683
+    },
+    {
+      "id": "1e5367be",
+      "title": "avoiding-jury-duty 보강: 빠지려는 이유 파편",
+      "priority": 50,
+      "note": "2026-11-04 추가. 후보: wa.gov.au media-statements 2012-02-20 'did not respond at all to the summons has reduced from 1,792 to just 762', rti.org high-juror-nonresponse-rates-harris-county-study (2024-09-10), hansard written-answers 2001/nov/27/jury-service 'only one-third was available to attend', thejuryexpert 2013 의 네 가지 원인 문장은 209자",
+      "createdAt": "2026-11-04T12:28:32.528Z",
+      "seq": 3684
+    },
+    {
+      "id": "28fd286b",
+      "title": "defacing-library-books 보강: 공공 파편, writing-in-book-margins 관계",
+      "priority": 50,
+      "note": "2026-11-04 추가. 후보: sites.google.com/columbiatwplibrary.com lost-or-damaged-materials (2016-04-25) 'Highlighting or underlining of text', clien park 18803786 (2024-09-17), clien park 18094401 (2023-05-23) 는 같은 플랫폼 다른 글, jjan 은 기자명 미확인",
+      "createdAt": "2026-11-04T12:37:11.632Z",
+      "seq": 3685
+    },
+    {
+      "id": "826b256f",
+      "title": "open-door-air-conditioning 보강: 학술 또는 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-04 매체 3, 공공 1. 후보: portal.311.nyc.gov KA-03268 (발행일 미상), jjan.kr 20250619580268 (2025-06-19), kbmaeil 20250701500680. 학술(에너지 손실 측정 연구)이나 상인 SNS 글 필요",
+      "createdAt": "2026-11-04T12:38:18.856Z",
+      "seq": 3686
     },
     {
       "id": "d16898d2",
