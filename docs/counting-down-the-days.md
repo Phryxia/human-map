@@ -18,7 +18,9 @@
 
 2024년 댓글[^6]의 글쓴이는 은퇴까지 남은 날수를 화면보호기에 띄워 두고 은퇴 전 15년 넘게 그대로 둔 사람을 보았다.
 
-2026년 수감자 신문 기고[^7]의 필자는 달력에서 하루씩 지우는 일이 위안이 된다고 적는다. 다른 수감자들은 필자에게 그렇게 하면 시간이 더 길게 느껴지는 것 같다고 말했다.[^7]
+2026년 4월 에세이[^7]의 필자는 군 복무 중 하루하루 지운 달력을 제대한 지 30년이 지나서도 간직하고 힘들 때마다 꺼내 본다.
+
+2026년 수감자 신문 기고[^8]의 필자는 달력에서 하루씩 지우는 일이 위안이 된다고 적는다. 다른 수감자들은 필자에게 그렇게 하면 시간이 더 길게 느껴지는 것 같다고 말했다.[^8]
 
 # 관계
 
@@ -50,4 +52,5 @@
 [^4]: [학술] "We show that counting downward while performing a task shortens the perceived duration of the task compared to counting upward." (과제를 하며 아래로 세면 위로 셀 때보다 과제의 지각된 길이가 짧아진다는 것을 보인다.) — Edith Shalev, Vicki G. Morwitz, "Does time fly when you're counting down? The effect of counting direction on subjective time judgment", Journal of Consumer Psychology 23(2), 2013-04, https://cris.iucc.ac.il/en/publications/does-time-fly-when-youre-counting-down-the-effect-of-counting-dir/, 2026-11-03 접속
 [^5]: [매체] "Like most people, they are reluctant to lose track of time, but attention to clocks and calendars will only stretch the perceived length of their sentences." (그들도 대부분의 사람처럼 시간 감각을 잃기 싫어하지만 시계와 달력에 주의를 기울이면 형기가 더 길게 느껴질 뿐이다.) — Michael G. Flaherty, "Prison life puts the 'time work' we all do into sharp relief", Psyche, 2022-05-24, https://psyche.co/ideas/prison-life-puts-the-time-work-we-all-do-into-sharp-relief, 2026-11-03 접속
 [^6]: [SNS] "the most ridiculous thing I remember was his screensaver showing the countdown, in days, until retirement. He had this going for at least 15 years prior to his retirement." (가장 우스웠던 기억은 은퇴까지 남은 날수를 보여 주는 그의 화면보호기였다. 그는 은퇴 전 적어도 15년 동안 그것을 띄워 두었다.) — Hacker News 댓글, 2024-04-13, https://news.ycombinator.com/item?id=40026514, 2026-11-03 접속
-[^7]: [매체] "I find it comforting to cross each day off my calendar (more a measure of ‘days passed’ than ‘days left’); while other inmates have told me it seems to make their time feel longer." (나는 달력에서 하루씩 지우는 일이 위안이 된다(남은 날보다는 지나간 날을 재는 쪽에 가깝다). 다른 수감자들은 그렇게 하면 시간이 더 길게 느껴지는 것 같다고 내게 말했다.) — Anonymous, "Managing Your Sentence: The Flow of Time in Prison", About Time, 2026-07, https://www.abouttime.org.au/experiences/managing-your-sentence-the-flow-of-time-in-prison, 2026-11-03 접속
+[^7]: [매체] "나는 30개월이 조금 못 되는 시간을 복무하고 제대했다. 하루하루 지웠던 달력이 아직도 남아 있다. 힘들 때마다 그때의 달력을 꺼내본다." — 박동욱, 「『네가 살아갈 날들을 위해』 22」, 브런치, 2026-04-28, https://brunch.co.kr/@sanwoon/1961, 2026-11-04 접속
+[^8]: [매체] "I find it comforting to cross each day off my calendar (more a measure of ‘days passed’ than ‘days left’); while other inmates have told me it seems to make their time feel longer." (나는 달력에서 하루씩 지우는 일이 위안이 된다(남은 날보다는 지나간 날을 재는 쪽에 가깝다). 다른 수감자들은 그렇게 하면 시간이 더 길게 느껴지는 것 같다고 내게 말했다.) — Anonymous, "Managing Your Sentence: The Flow of Time in Prison", About Time, 2026-07, https://www.abouttime.org.au/experiences/managing-your-sentence-the-flow-of-time-in-prison, 2026-11-03 접속
