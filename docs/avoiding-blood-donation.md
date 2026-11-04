@@ -20,7 +20,7 @@
 
 ## 하위
 
-없음.
+- [헌혈 뒤 다시 오지 않기](not-returning-to-donate-blood.md)
 
 ## 원인
 

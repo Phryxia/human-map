@@ -555,6 +555,7 @@
 - [허위 합의 효과](docs/false-consensus-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [허풍 떨기](docs/exaggerating-own-stories.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [헌혈 꺼림](docs/avoiding-blood-donation.md) ([건강과 위험](groups/health-and-safety.md))
+- [헌혈 뒤 다시 오지 않기](docs/not-returning-to-donate-blood.md) ([건강과 위험](groups/health-and-safety.md))
 - [헤어진 연인의 물건 간직하기](docs/keeping-an-exs-belongings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [헤어진 연인의 물건 없애기](docs/discarding-an-exs-belongings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [헬스장 등록하고 안 가기](docs/gym-membership-nonuse.md) ([돈과 소비](groups/money.md))
