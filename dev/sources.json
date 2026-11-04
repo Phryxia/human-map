@@ -3513,9 +3513,9 @@
   },
   "https://news.seoul.go.kr/gov/?p=505674": {
     "first": "2026-10-19",
-    "last": "2026-10-31",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-04"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=61002&docId=458108675": {
     "first": "2026-10-19",
@@ -15322,9 +15322,9 @@
   },
   "https://www.mt.co.kr/society/2020/05/18/2020051512375753294": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-04"
   },
   "https://www.npr.org/2013/04/01/175714511/why-not-apologizing-makes-you-feel-better": {
     "first": "2026-10-31",
@@ -18988,6 +18988,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9321869/": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://www.brookings.edu/articles/to-give-or-not-to-give-the-crisis-of-confidence-in-charities/": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",
