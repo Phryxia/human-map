@@ -64,6 +64,7 @@
 - [귀여운 공격성](docs/cute-aggression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [근무 중 사적인 인터넷 사용](docs/cyberloafing.md) ([일터와 일자리](groups/work.md))
 - [글 막힘](docs/writers-block.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [글 모르는 것 숨기기](docs/hiding-illiteracy.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [금연 뒤 다시 피우기](docs/smoking-relapse.md) ([건강과 위험](groups/health-and-safety.md))
 - [금연구역에서 담배 피우기](docs/smoking-in-no-smoking-areas.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [금지된 것에 대한 호기심](docs/forbidden-curiosity.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))

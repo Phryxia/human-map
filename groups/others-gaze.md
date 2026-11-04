@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [글 모르는 것 숨기기](../docs/hiding-illiteracy.md) 글을 읽지 못하거나 잘 읽지 못하는 사람이 그것을 부끄러워해 가족이나 주변 사람에게 알리지 않고 감춘다.
 - [나이 줄여 말하기](../docs/understating-age.md) 사람이 남에게 자기 나이를 실제보다 적게 말한다.
 - [남몰래 울기](../docs/crying-in-secret.md) 남 앞에서 울음을 참은 사람이 남이 보지 않는 곳을 찾아가 혼자 운다.
 - [남은 음식 포장 요청 부끄러워하기](../docs/embarrassment-asking-for-doggy-bag.md) 식당에서 음식을 남긴 손님이 남은 음식을 싸 달라고 하기를 부끄러워해 요청하지 않는다.
