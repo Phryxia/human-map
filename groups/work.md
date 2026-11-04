@@ -15,6 +15,7 @@
   - [꾀병 결근](../docs/calling-in-sick-when-not-sick.md)
   - [학교 가기 싫어 꾀병 부리기](../docs/faking-sick-to-skip-school.md)
 - [노년의 계속 일하기 희망](../docs/wanting-to-keep-working-in-old-age.md) 나이가 든 사람이 은퇴할 나이가 지나도 일을 이어 가기를 바란다.
+- [문 열고 냉방 영업](../docs/open-door-air-conditioning.md) 가게 주인이 냉방을 켠 채 손님이 들어오기 쉽도록 출입문을 열어 두고 영업한다.
 - [사직 앞의 죄책감](../docs/guilt-about-resigning.md) 직장을 그만두려는 사람이 상사와 동료를 두고 떠나는 일에 죄책감과 불안을 느낀다.
 - [산재 신고 꺼리기](../docs/not-reporting-workplace-injury.md) 일하다 다친 노동자가 불이익이나 동료에게 돌아갈 피해를 걱정해 부상을 회사나 기관에 알리지 않거나 산재 신청을 하지 않는다.
 - [손님의 폭언](../docs/customer-verbal-abuse.md) 손님이나 민원인이 자기를 응대하는 직원이나 공무원에게 소리 지르거나 욕한다.
