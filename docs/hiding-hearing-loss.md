@@ -14,6 +14,8 @@
 
 2024년 리뷰[^8]에서 청력 손상을 감추는 일은 사람들이 낙인에 맞서는 주된 방법이었고 의사소통에 다른 어려움을 낳았다.
 
+2025년 한국 기사[^9]는 국내 난청 환자 상당수가 보청기를 낀 모습을 드러내기 꺼리고 비용을 부담스러워해 보청기 착용을 망설인다고 썼다.
+
 # 관계
 
 ## 상위
@@ -31,6 +33,7 @@
 ## 결과
 
 - [알아들은 척하기](pretending-to-understand.md)[^3]
+- [보청기 쓰지 않기](not-wearing-hearing-aids.md)[^9]
 
 ## 대립
 
@@ -46,3 +49,4 @@
 [^6]: [매체] "I was self conscious about my hearing aids and always made sure they were well hidden behind my hair." (나는 보청기가 신경 쓰여서 늘 머리카락 뒤에 잘 숨겨지도록 했다.) — CBC, 오피니언, 2020-11-24, https://amp.cbc.ca/lite/story/1.5813327, 2026-10-22 접속
 [^7]: [공공] "Lack of accurate information and stigmatizing attitudes to ear diseases and hearing loss often limit people from accessing care for these conditions." (정확한 정보의 부족과 귀 질환과 청력 손실에 대한 낙인찍는 태도는 사람들이 이런 상태에 대한 진료를 받는 것을 자주 가로막는다.) — World Health Organization, 「WHO: 1 in 4 people projected to have hearing problems by 2050」, 2021-03-02, https://www.who.int/news/item/02-03-2021-who-1-in-4-people-projected-to-have-hearing-problems-by-2050, 2026-10-22 접속
 [^8]: [학술] "Concealing hearing impairment was the primary way that people fought against stigma, but that had other systematic communication issues." (청력 손상을 감추는 것은 사람들이 낙인에 맞선 주된 방법이었지만 그것은 다른 체계적인 의사소통 문제를 낳았다.) — E. Madara, A. K. Bhowmik, 「Toward Alleviating the Stigma of Hearing Aids: A Review」, Audiology Research, 2024-12-04, https://pmc.ncbi.nlm.nih.gov/articles/PMC11673210/, 2026-10-22 접속
+[^9]: [매체] "난청 환자 상당수가 망설이는 게 '보청기 착용'이다. 보청기를 착용한 모습을 드러내기 꺼리는 데다, 비용 부담 때문이다." — 정심교, 「"보청기? 난 그 정도 아냐" 난청 노인 87% '방치'…치매도 부른다」, 머니투데이, 2025-09-09, https://www.mt.co.kr/thebio/2025/09/09/2025090915325596655, 2026-11-04 접속
