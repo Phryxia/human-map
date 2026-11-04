@@ -1,153 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-04T06:36:22.490Z",
-  "nextSeq": 3640,
-  "stops": 183,
+  "savedAt": "2026-11-04T09:36:19.385Z",
+  "nextSeq": 3670,
+  "stops": 184,
   "items": [
-    {
-      "id": "9a095760",
-      "title": "road-rage 보강: anger-suppression 대립 근거",
-      "priority": 50,
-      "note": "2026-11-03 원인 anger-suppression 을 shelburnefreepress ask-a-psychotherapist-9 로 이음. 대립 근거 파편은 아직 없음",
-      "createdAt": "2026-11-03T21:16:10.929Z",
-      "seq": 3554
-    },
-    {
-      "id": "3b37b671",
-      "title": "yellow-light-dilemma 보강: 기다리기 싫어 가속하는 원인",
-      "priority": 50,
-      "note": "2026-11-03 결과 blocking-the-intersection 을 경기일보 200812220307612 로 이음. 후보: easylaw.go.kr/CSP/SolomonRetrieve.laf?trialNo=2134&topMenu=serviceUl6 (발행일 미상) 오래 기다려야 된다는 생각에 속도를 높여 통과, 경기일보 200310310131140 (2003-10-31) 이번 신호에는 무슨일이 있어도 진행. impatience-at-red-light 는 보행자 범위라 운전자 신호 대기 답답함 문서가 필요",
-      "createdAt": "2026-11-03T21:24:51.406Z",
-      "seq": 3555
-    },
-    {
-      "id": "25b6e94e",
-      "title": "inheritance-disputes 보강: sibling-jealousy-over-favoritism 원인 간선",
-      "priority": 50,
-      "note": "2026-11-03 원인 avoiding-death-talk 를 irwinmitchell 2025-05 보도자료로 이음. 큐에 있던 nsw.gov.au silent-inheritance 는 404 라 찾지 못함. 후보: keystone-law.com/blog/inheritance-disputes-between-siblings, etheringtons.com.au how-to-prevent-a-will-dispute-between-siblings 설명 없는 불균등 상속이 형제 원망을 낳음",
-      "createdAt": "2026-11-03T21:30:34.012Z",
-      "seq": 3556
-    },
-    {
-      "id": "e928f889",
-      "title": "hiding-regional-accent 보강: 원인 간선(억양 편견)",
-      "priority": 50,
-      "note": "2026-11-02 Evans 2007 [^5], HN 19636950 [^9] 더함. 후보: PMC5604747 Friedman 2016 'if I do my own accent I am actually doing myself out of the job', koreascience JAKO201110264496547 (2011) 면접 사투리 불안, PMC12851482 (2026) 차별 회피 전략 추측. 억양 편견 문서가 없음. 2026-11-03 후보 더: McKenzie 2022 북잉글랜드 억양 편견(phys.org 는 429 로 막힘, 다른 판 필요), 기존 [^6] RFA 2010 과 [^7] THE 2013 은 원인 간선 근거로 쓸 수 있음",
-      "createdAt": "2026-11-03T21:31:41.517Z",
-      "seq": 3557
-    },
-    {
-      "id": "c94e9b90",
-      "title": "comparing-children-to-others 보강: bragging-about-children 관계",
-      "priority": 50,
-      "note": "2026-11-03 별칭 엄친아 [^2] 더함. 후보: clien park/2329693 (2011-12-21) 엄친딸 연봉 비교, clien park/18131856 (2023-06-13), HN 37452946 (2023-09-10) 형제 사촌 또래와 끊임없이 비교",
-      "createdAt": "2026-11-03T21:32:31.371Z",
-      "seq": 3558
-    },
-    {
-      "id": "d2a9ee8b",
-      "title": "refusing-mobility-aids 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-01 Darlington 공공 파편 더함. hiding-hearing-loss 와 공통 상위(늙어 보이기 싫어 보조기구 피하기) 후보. 매체 후보 한국경제 2019110695681 국립교통재활병원장 칼럼(403). 2026-11-03 hiding-hearing-loss 는 청력 손실 자체를 숨기는 문서라 보조기구 상위보다 몸의 쇠퇴 숨기기 상위가 맞을 수 있음. 근거 후보 PMC7763066 [^3], PMC2904535 [^1]",
-      "createdAt": "2026-11-03T21:33:21.363Z",
-      "seq": 3559
-    },
-    {
-      "id": "d1870478",
-      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
-      "priority": 50,
-      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
-      "createdAt": "2026-11-03T21:33:36.029Z",
-      "seq": 3560
-    },
-    {
-      "id": "c586576f",
-      "title": "counting-down-the-days 보강: 관계 간선",
-      "priority": 50,
-      "note": "2026-11-04 브런치 2026-04-28 파편 더함. pleasure-of-anticipation 과의 관계 근거 필요. 후보: PLOS ONE 10.1371/journal.pone.0304660 (2024), cas.au.dk 2017-04-19",
-      "createdAt": "2026-11-04T03:08:26.977Z",
-      "seq": 3600
-    },
-    {
-      "id": "b5a5d08f",
-      "title": "visiting-graves 보강: 관계 간선",
-      "priority": 50,
-      "note": "2026-11-04 확인: sueryder 84527 은 무덤에서 말을 건다만 있고 인과 문장 없음. PMC11912240 도 인과 문장 없음. 후보: SSM Mental Health 2023 grave sweeping in China (doaj e02776d917674922b68ee4425cbc0e71) 대화가 유대를 잇는 기회",
-      "createdAt": "2026-11-04T03:09:23.305Z",
-      "seq": 3601
-    },
-    {
-      "id": "ac579c06",
-      "title": "keeping-leftover-medicines 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-11-04 상위 difficulty-discarding 그음. 원인 간선은 아직. [^2] 돈을 낭비하기 싫은 마음은 tightwad-spending 요약(돈 낼 때의 괴로움)과 다름. stopping-medication-when-feeling-better 쪽 보관까지 말하는 파편 필요",
-      "createdAt": "2026-11-04T03:11:22.982Z",
-      "seq": 3602
-    },
-    {
-      "id": "68dfb906",
-      "title": "working-longer-at-home 와 after-hours-work-replies 관계",
-      "priority": 50,
-      "note": "2026-11-04 확인: lifeandletters.la.utexas.edu 2013/04 longer-days-for-telecommuters 는 기술이 근무 시간을 늘렸다는 조사만, 두 현상을 잇는 인과 문장 없음. hrmagazine home-workers-struggling-to-switch-off 는 봇 차단. 이전 후보 eurofound 2021 그대로",
-      "createdAt": "2026-11-04T03:12:58.545Z",
-      "seq": 3603
-    },
-    {
-      "id": "76e18721",
-      "title": "resume-embellishment 보강: 공공 파편, 원인",
-      "priority": 50,
-      "note": "2026-11-04 확인: 한국 감사원 장성군 2024-01 건은 특정 개인 사례라 못 씀. 권익위 보도자료 못 찾음. 이전 원인 후보 Cifas 2022-11-02, hrreview 36576, HN 44096170 그대로",
-      "createdAt": "2026-11-04T03:13:18.778Z",
-      "seq": 3604
-    },
-    {
-      "id": "b242a831",
-      "title": "overpacking 와 걱정 계열 문서의 원인 관계",
-      "priority": 50,
-      "note": "2026-11-04 globalrescue 2025-10-06 파편을 [^8] 로 더함(통제를 잃을까 하는 불안 등이 짐을 늘림). future-anxiety 요약(앞날 나쁜 일을 오래 걱정)과 맞는지 판단 못 해 간선 보류. afar.com psychology-behind-overpacking 은 본문 3천자뿐",
-      "createdAt": "2026-11-04T03:14:27.830Z",
-      "seq": 3605
-    },
-    {
-      "id": "ce1ff213",
-      "title": "welcoming-first-snow 보강: 학술 파편, 시기 다른 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: arxiv 2407.07683 (2024 영국 트위터 날씨 감정) 에 첫눈 대목 없음. 한국어 학술 검색도 없음. 이전 후보 aozora 55958, yougov 2022-12-02, scienceblog 2025-03-18 그대로",
-      "createdAt": "2026-11-04T03:15:11.706Z",
-      "seq": 3606
-    },
-    {
-      "id": "5fbe26ec",
-      "title": "sleepless-before-exciting-day 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: 크리스마스 이브 아이 수면 연구 못 찾음. Schmidt & van der Linden 2013 Cognitive Therapy and Research 10.1007/s10608-013-9532-5 는 잠들기 전 자부심이 수면을 바꾸지 않았다고 함(나타나지 않는 조건 후보, 들뜸과 같은지 판단 필요). 이전 후보 그대로",
-      "createdAt": "2026-11-04T03:15:36.321Z",
-      "seq": 3607
-    },
-    {
-      "id": "e781c912",
-      "title": "writing-on-fogged-glass 보강: 문학 파편, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: gutenberg 34599 78031 47471 76780 66515 14168 9956 txt grep 에서 김 서린 유리에 손가락으로 쓰는 대목 없음. 이전 후보(Mansfield Prelude 44385, 青空文庫, 위키문헌) 그대로",
-      "createdAt": "2026-11-04T03:16:18.323Z",
-      "seq": 3608
-    },
-    {
-      "id": "b9484842",
-      "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
-      "priority": 50,
-      "note": "2026-11-04 확인: ebony.com real-reason-cant-let-go-exs-clothing 은 본문 60자(차단), renews.co.nz, vice 2017-11-23, hercampus 756449, chelseajane substack 에 냄새 때문에 간직한다는 대목 없음",
-      "createdAt": "2026-11-04T03:17:05.910Z",
-      "seq": 3609
-    },
-    {
-      "id": "2da306b6",
-      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: '계단을 세며' 한국어 검색 결과 없음. heirsholdings hhpeople 5991 (계단 세기 블로그) 본문에 세기 대목 없음, medium age-of-empathy counting-on-the-dark 는 봇 확인",
-      "createdAt": "2026-11-04T03:17:31.477Z",
-      "seq": 3610
-    },
     {
       "id": "96af31ca",
       "title": "not-ending-conversations 와 wishing-guests-would-leave, lingering-goodbye 관계",
@@ -339,6 +195,126 @@
       "note": "2026-11-03 작성. 후보: 국가기록원 뉴스레터 133호 theme.archives.go.kr vol_133 달맞이 소원 빌기가 대보름 대표 풍속, news.seoul.go.kr/env/archives/514076 (2021-08-11) 유성우 영상 보며 소원 비는 시간",
       "createdAt": "2026-11-04T06:34:59.324Z",
       "seq": 3639
+    },
+    {
+      "id": "496bcf60",
+      "title": "accent-prejudice 보강: 한국 사투리 편견 파편",
+      "priority": 50,
+      "note": "2026-11-04 RFA 2010, Heaton 2011, Eastern Eye 2019 로 추가. 한국 지역 사투리에 대한 학술 파편과 McKenzie 2022 북잉글랜드 억양 편견 원문(phys.org 429) 다른 판 후보. 2025 Radboud 학위논문 theses.ubn.ru.nl 은 네덜란드 지역 억양 화자가 외국 억양 화자보다 낮게 평가됨",
+      "createdAt": "2026-11-04T09:13:42.631Z",
+      "seq": 3655
+    },
+    {
+      "id": "4ed2d567",
+      "title": "comparing-children-to-others 보강: bragging-about-children 관계",
+      "priority": 50,
+      "note": "2026-11-03 별칭 엄친아 [^2] 더함. 후보: clien park/2329693 (2011-12-21) 엄친딸 연봉 비교, clien park/18131856 (2023-06-13), HN 37452946 (2023-09-10). 2026-11-04 자랑 때문에 비교한다는 원인 문장을 못 찾음. workingus.com/?p=3351161 (2019-06-26) 은 친구 모임에서 자식 자랑하며 서로 비교한다는 동시 발생만. Burton Mail 2022-06-15 baby brags 조사(새 부모 44% 거슬림, 32% 실패 걱정)는 pressreader 본문이 안 열림, 다른 판 필요",
+      "createdAt": "2026-11-04T09:14:33.893Z",
+      "seq": 3656
+    },
+    {
+      "id": "afe08703",
+      "title": "hiding-hearing-loss 와 avoiding-aids-that-look-old 관계 검토",
+      "priority": 50,
+      "note": "2026-11-04 avoiding-aids-that-look-old 를 refusing-mobility-aids 상위로 추가. hiding-hearing-loss 의 보청기 감추기 부분은 Wallhagen 2009 [^1] 처럼 늙어 보이기 싫은 이유가 겹치나 요약이 청력 손실 자체를 숨기는 것이라 상위로 긋지 않음. 보청기 착용 거부를 따로 문서로 나눌지 검토",
+      "createdAt": "2026-11-04T09:16:11.546Z",
+      "seq": 3657
+    },
+    {
+      "id": "311bf5c4",
+      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
+      "priority": 50,
+      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
+      "createdAt": "2026-11-04T09:16:11.706Z",
+      "seq": 3658
+    },
+    {
+      "id": "db561578",
+      "title": "counting-down-the-days 보강: 관계 간선",
+      "priority": 50,
+      "note": "2026-11-04 브런치 2026-04-28 파편 더함. pleasure-of-anticipation 과의 관계 근거 필요. PLOS ONE 0304660 (2024) 은 크리스마스가 빨리 온다는 믿음과 즐거움 상관만 있어 근거가 못 됨. 왓챠 책 소개 '모든 오늘은 떠나기 전날' 은 D- 를 붙이고 기다림이 즐겁다고 하나 인과 문장 아님. 영국 TUI 조사 기사(shieldsgazette 등 3856005)는 403. cas.au.dk 2017-04-19 미확인",
+      "createdAt": "2026-11-04T09:17:04.262Z",
+      "seq": 3659
+    },
+    {
+      "id": "e1054cc7",
+      "title": "keeping-belongings-of-the-dead 와 continuing-bonds 관계 검토",
+      "priority": 50,
+      "note": "2026-11-04 continuing-bonds 를 visiting-graves, talking-to-the-dead 상위로 추가. keeping-belongings-of-the-dead (상위 difficulty-discarding), sensing-presence-of-the-dead, dreams-of-the-deceased 도 하위 후보. 매체 후보 Sue Ryder 커뮤니티 t/7893 (2018-09-20) 남편 휴대전화로 메시지 보내기, berkleycenter.georgetown.edu Hsu 2023 성묘 연구 소개",
+      "createdAt": "2026-11-04T09:22:36.211Z",
+      "seq": 3660
+    },
+    {
+      "id": "e363b6ff",
+      "title": "working-longer-at-home 와 after-hours-work-replies 관계",
+      "priority": 50,
+      "note": "2026-11-04 확인: utexas 2013 은 인과 문장 없음. SHRM remote-employees-working-longer (2020) 은 침실이나 식탁이 사무실이면 경계를 세우기 어렵고 이메일 하나 더 확인하기 쉽다는 말뿐 인과 문장 아님. hrmagazine 봇 차단. 이전 후보 eurofound 2021",
+      "createdAt": "2026-11-04T09:24:11.918Z",
+      "seq": 3661
+    },
+    {
+      "id": "b45fc5ca",
+      "title": "resume-embellishment 보강: 공공 파편, 원인",
+      "priority": 50,
+      "note": "2026-11-04 Cifas 2022-11-02 를 매체 파편으로 더함(구직 경쟁이 커지면 이력서 사기 가능성 커짐, 조건 서술). 공공 파편과 원인 간선은 아직. 원인 후보: 구직 경쟁 압박 문서 없음. Cifas 중년 구직자 보도자료 application-fraud-by-middle-aged-job-seekers 경쟁 시장에서 부풀리고 싶어짐",
+      "createdAt": "2026-11-04T09:25:22.220Z",
+      "seq": 3662
+    },
+    {
+      "id": "914a76a2",
+      "title": "overpacking 와 걱정 계열 문서의 원인 관계",
+      "priority": 50,
+      "note": "2026-11-04 just-in-case-keeping 을 overpacking, keeping-cash-at-home 상위로 추가. 원인 간선은 여전히 보류: globalrescue [^8] 통제를 잃을까 하는 불안은 future-anxiety 요약과 다름. difficulty-discarding, panic-buying 도 just-in-case-keeping 하위 후보",
+      "createdAt": "2026-11-04T09:26:52.157Z",
+      "seq": 3663
+    },
+    {
+      "id": "70861051",
+      "title": "welcoming-first-snow 보강: 학술 파편, 시기 다른 파편",
+      "priority": 50,
+      "note": "2026-11-04 확인: arxiv 2407.07683 첫눈 대목 없음. yougov 2022-12-02 daily 094e9/3 (첫눈에 대한 느낌 질문, 6187명) 은 보기 이름이 텍스트로 안 나옴. 후보 wkar.org 2017-12-10 NPR 첫눈을 반기는 인터넷 반응, aozora 55958 (카드 URL 404, 다른 경로 필요), scienceblog 2025-03-18",
+      "createdAt": "2026-11-04T09:27:29.503Z",
+      "seq": 3664
+    },
+    {
+      "id": "6fd31830",
+      "title": "sleepless-before-exciting-day 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-04 확인: 크리스마스 이브 아이 수면 연구 못 찾음. Schmidt & van der Linden 2013 (doc.rero.ch/record/317917) 자부심은 잠들기를 늦추지 않음. 2004 수면실험 불안한 인지 각성은 잠들기 지연. 기대 들뜸 자체를 다룬 학술 출처는 아직 없음",
+      "createdAt": "2026-11-04T09:27:44.776Z",
+      "seq": 3665
+    },
+    {
+      "id": "b5f3e5cd",
+      "title": "writing-on-fogged-glass 보강: 문학 파편, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-04 확인: gutenberg 44385 (Mansfield Bliss and other stories) txt 에 김 서린 유리에 쓰는 대목 없음. 이전 확인 34599 78031 47471 76780 66515 14168 9956 도 없음. 후보 gutenberg 4284 The Window-Gazer 안개 장면(유리에 쓰는지 미확인), 青空文庫, 위키문헌",
+      "createdAt": "2026-11-04T09:28:05.060Z",
+      "seq": 3666
+    },
+    {
+      "id": "c073eb82",
+      "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
+      "priority": 50,
+      "note": "2026-11-04 확인: ebony, renews.co.nz, vice 2017-11-23, hercampus 756449, chelseajane substack 에 냄새 때문에 간직한다는 대목 없음. insideportlandstate.pdx.edu 2018-02-09 object-impermanence 는 헤어진 상대 셔츠를 2년 간직했고 아직 그 냄새가 난다는 수필(인과 문장 아님). jeopardy.wwu.edu 2022-06-02 는 실명이 들어 있어 못 씀. thestudentroom 403",
+      "createdAt": "2026-11-04T09:28:32.085Z",
+      "seq": 3667
+    },
+    {
+      "id": "fdf6f081",
+      "title": "just-in-case-keeping 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-04 확인됨 2개(Kent 2018 매체, DEV Community 2019 SNS). 학술 후보: PMC4340081 저장 동기 연구(미래 필요 대목은 인용문뿐), PMC7362992 저장장애 84명 도구적 이유(봇 확인 페이지), springermedizin should-i-keep-it 버리기 과제 연구",
+      "createdAt": "2026-11-04T09:35:48.040Z",
+      "seq": 3668
+    },
+    {
+      "id": "7fa7c89d",
+      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-04 확인: '계단을 세며' '계단 수를 세' 한국어 검색 결과 없음. heirsholdings hhpeople 5991 본문에 세기 대목 없음, medium age-of-empathy counting-on-the-dark 는 봇 확인. 계단 오르기 건강 기사만 나옴",
+      "createdAt": "2026-11-04T09:36:06.111Z",
+      "seq": 3669
     },
     {
       "id": "d16898d2",
