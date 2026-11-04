@@ -12,7 +12,7 @@
 
 2019년 얼루어 코리아 기사는 옷의 반을 입지 않더라도 없는 것보다 낫다고 생각하는 사람을 맥시멀리스트라 불렀다.[^5] 2022년 Slate 기사에서 임상심리학자 Lara Fielding 은 짐 싸기가 어떤 물건을 빠뜨리는 실수가 나중의 불편을 부르리라는 걱정을 불러일으킨다고 말했다.[^6]
 
-2024년 InsureandGo 의 조사에서 응답자의 74%가 휴가에 가져가서 끝내 쓰지 않는 물건을 싼다고 인정했고 한 사람이 평균 3.4개를 그렇게 가져갔다.[^7] 2026년 디시인사이드 댓글의 글쓴이는 혹시 몰라 두꺼운 옷부터 얇은 옷까지 6벌쯤 챙기지만 막상 2\~3벌만 돌려 입는다고 적었다.[^8]
+2024년 InsureandGo 의 조사에서 응답자의 74%가 휴가에 가져가서 끝내 쓰지 않는 물건을 싼다고 인정했고 한 사람이 평균 3.4개를 그렇게 가져갔다.[^7] 2025년 Global Rescue 보도자료[^8]는 통제를 잃을까 하는 불안, 집에 대한 애착, 필수품을 잊었던 경험, 예측할 수 없는 조건이 함께 짐을 필요보다 많이 싸게 한다고 적는다. 2026년 디시인사이드 댓글의 글쓴이는 혹시 몰라 두꺼운 옷부터 얇은 옷까지 6벌쯤 챙기지만 막상 2\~3벌만 돌려 입는다고 적었다.[^9]
 
 # 관계
 
@@ -45,4 +45,5 @@
 [^5]: [매체] "옷의 반을 입지 않더라도, 없는 것보다 낫다고 생각하는 사람이라면 맥시멀리스트다." — 허윤선, 「짐 싸기의 기술」, 얼루어 코리아, 2019-05-21, https://www.allurekorea.com/?p=104403, 2026-11-03 접속
 [^6]: [매체] "triggers worries that making a mistake or an omission of certain items will bring about future discomfort." (실수를 하거나 어떤 물건을 빠뜨리면 나중에 불편해지리라는 걱정을 불러일으킨다.) — Liz Krieger, 「When Packing Anxiety Wrecks the Joy of Travel」, Slate, 2022-02-21, https://slate.com/human-interest/2022/02/packing-anxiety-long-weekend-spring-break-travel.html, 2026-11-03 접속
 [^7]: [매체] "Our latest research shows that 74% of us admit that we pack things for our holidays that we never end up using – with each of us taking 3.4 unused items on average." (최근 조사에서 74%가 휴가에 결국 쓰지 않는 물건을 싼다고 인정했고 한 사람이 평균 3.4개의 쓰지 않은 물건을 가져갔다.) — InsureandGo, 「Are you over-packing your suitcase? The top 25 items we never unpack」, 2024-04-23, https://www.insureandgo.com/blog/25-items-we-never-unpack/, 2026-11-03 접속
-[^8]: [SNS] "내 기준 혹시몰라서 두꺼운옷부터 얇은옷까지 해서 6벌정도 챙겨가곤하는데 막상 2\~3벌만 돌려입게되더라" — 디시인사이드, 댓글, 2026-10-10, https://m.dcinside.com/board/walkingtravel/47603, 2026-11-03 접속
+[^8]: [매체] "Anxiety about losing control, attachment to home, past negative experiences like forgotten essentials and unpredictable conditions all contribute to the habit of bringing more than necessary." (통제를 잃을까 하는 불안, 집에 대한 애착, 필수품을 잊었던 것 같은 지난 나쁜 경험, 예측할 수 없는 조건이 모두 필요 이상으로 가져가는 습관에 한몫한다.) — Global Rescue, "Overpacking: A Persistent Traveler Mistake", 2025-10-06, https://www.globalrescue.com/common/blog/detail/overpacking-a-persistent-traveler-mistake/, 2026-11-04 접속
+[^9]: [SNS] "내 기준 혹시몰라서 두꺼운옷부터 얇은옷까지 해서 6벌정도 챙겨가곤하는데 막상 2\~3벌만 돌려입게되더라" — 디시인사이드, 댓글, 2026-10-10, https://m.dcinside.com/board/walkingtravel/47603, 2026-11-03 접속
