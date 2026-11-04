@@ -7856,15 +7856,15 @@
   },
   "https://www.gutenberg.org/cache/epub/2863/pg2863-images.html": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-11-04"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=1182377&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-11-04"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26135362&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -7976,9 +7976,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34866489&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-11-04"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35787636&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8744,21 +8744,21 @@
   },
   "https://www.tcd.ie/news_events/articles/sensing-the-dead-is-perfectly-normal--and-often-helpful/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-11-04"
   },
   "https://v.daum.net/v/20221117102849728": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-11-04"
   },
   "https://www.psypost.org/most-bereaved-people-dream-of-or-sense-the-deceased-study-finds-and-the-two-may-be-linked/": {
     "first": "2026-10-23",
-    "last": "2026-10-23",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-23"
+    "lastVerified": "2026-11-04"
   },
   "https://dlab.sauder.ubc.ca/sjdm/journal/06001/jdm06001.htm": {
     "first": "2026-10-23",
@@ -11054,15 +11054,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8910367/": {
     "first": "2026-10-26",
-    "last": "2026-10-29",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-04"
   },
   "https://www.newsis.com/view/NISX20241202_0002979688": {
     "first": "2026-10-26",
-    "last": "2026-10-29",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-04"
   },
   "https://www.gutenberg.org/cache/epub/289/pg289-images.html": {
     "first": "2026-10-26",
@@ -12163,9 +12163,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1019/pg1019.txt": {
     "first": "2026-10-27",
-    "last": "2026-10-29",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-04"
   },
   "https://www.spokesman.com/stories/1996/nov/24/seattleites-can-be-justly-proud": {
     "first": "2026-10-27",
@@ -13201,9 +13201,9 @@
   },
   "https://www.fnnews.com/news/202609250701431740": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-04"
   },
   "https://cambridge.org/core/journals/law-and-society-review/article/losers-recovering-lost-property-in-japan-and-the-united-states/7579D0E14C966DCE6E8CC3A4A607AC52": {
     "first": "2026-10-29",
@@ -19198,6 +19198,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://newstomato.com/ReadNews.aspx?no=1237003": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://willed.com.au/guides/talking-to-a-loved-one-who-has-died": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",
