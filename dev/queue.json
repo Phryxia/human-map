@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-04T15:34:35.714Z",
-  "nextSeq": 3746,
-  "stops": 186,
+  "savedAt": "2026-11-04T18:37:30.743Z",
+  "nextSeq": 3758,
+  "stops": 187,
   "items": [
     {
       "id": "06449322",
@@ -371,6 +371,54 @@
       "note": "2026-11-04 확인: 검색 결과 요약에 'intense positive affective states may also interfere with sleep'(후회·자부심 조건 수면 연구) 이 있으나 PMC7667149 는 이 환경에서 본문 1만 자 남짓(봇 확인)으로 원문 확인 못 함. doc.rero.ch 10608_2013_Article_9532 는 PDF. 기대감과 입면 지연을 직접 다룬 논문 필요",
       "createdAt": "2026-11-04T15:34:19.270Z",
       "seq": 3745
+    },
+    {
+      "id": "53fac44a",
+      "title": "looking-at-old-photos 보강: nostalgia 관계",
+      "priority": 50,
+      "note": "2026-11-04 작성. 옛 사진 보기가 노스탤지어를 일으킨다는 원인 문장 필요. Carretero 2019 PMC6974493 본문의 'Direct cues were expected to elicit stronger feelings of reliving and nostalgia' 확인 전. 문학 후보 Sedgwick 1902 The Rescue gutenberg 42194 'old photograph-album' 대목",
+      "createdAt": "2026-11-04T18:11:55.887Z",
+      "seq": 3752
+    },
+    {
+      "id": "b7a3b709",
+      "title": "rereading-old-diaries 보강: cringing-at-past-embarrassment, keeping-a-diary 관계",
+      "priority": 50,
+      "note": "2026-11-04 작성. Irish Times 2014 [^4] 제목이 excruciating encounters with my teenage self, 옛 일기 읽기가 과거 창피함 떠올리기를 일으킨다는 원인 문장 필요. 대체 원문 'the pages are brimming with awkward moments I had either blocked out or rewritten in my own head'. Decent 2023 PDF 의 embarrassment 때문에 일기를 다시 보지 않는다는 대목은 PDF 라 UNREACHABLE",
+      "createdAt": "2026-11-04T18:18:02.364Z",
+      "seq": 3753
+    },
+    {
+      "id": "5a093984",
+      "title": "keeping-keepsakes 보강: keeping-an-exs-belongings, keeping-belongings-of-the-dead 상위 검토",
+      "priority": 50,
+      "note": "2026-11-04 작성. 두 문서가 추억이 담긴 물건 간직하기의 특수한 경우인지 검토. 후보: Little Women pg514 네 자매의 relics 상자 대목(514 은 이미 4개 문서가 써서 다른 출처 필요), Dozier 2020 PMC7445186 의 아이 미술 숙제 대목, 오마이뉴스 A0003067199 의 아이들 편지 200여 통 보관",
+      "createdAt": "2026-11-04T18:23:19.152Z",
+      "seq": 3754
+    },
+    {
+      "id": "629cea7a",
+      "title": "noticing-oneself-becoming-like-parents 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-04 작성. 학술 파편 없음. 후보: Erçevik Yüksel & Özcan 2025 Intergenerational Changes in Motherhood (Florence Nightingale Journal of Nursing), imperial.ac.uk/news/166150 양육 방식 전이, Progressive 보험 2,000명 조사(평균 30세에 부모 닮아 감을 알아차림, goodto 기사에 인용, 원문 200자 초과), marieclaire.co.uk/news/you-are-your-mother-217656 Hallmark 조사 32세",
+      "createdAt": "2026-11-04T18:29:05.656Z",
+      "seq": 3755
+    },
+    {
+      "id": "bf2f7a7d",
+      "title": "imagining-intruders-at-night 보강: 학술 파편, fear-of-the-dark 관계",
+      "priority": 50,
+      "note": "2026-11-04 작성. 학술 파편 없음. 후보 Knaggs 1996 ir.wgtn.ac.nz/handle/123456789/26548 혼자 사는 고령 여성이 어두워진 뒤 취약하다고 느낌(소리는 말하지 않음). Substack samjeancoop 글의 확인하러 가지 않으면 잠을 못 잘 것 같았다는 대목",
+      "createdAt": "2026-11-04T18:32:01.041Z",
+      "seq": 3756
+    },
+    {
+      "id": "36087d3b",
+      "title": "order-envy 보강: 원 논문 파편",
+      "priority": 50,
+      "note": "2026-11-04 작성. [^1] 은 AcaWiki 요약이라 발행일 미상. Ariely & Levav 2000 Journal of Consumer Research 27(3) 원문 HTML 필요, 후보 ideas.repec.org/a/oup/jconrs/v27y2000i3p279-90.html 미확인. OpenTable food envy 설문 보도자료 2016-2017 은 열리지 않음",
+      "createdAt": "2026-11-04T18:34:40.879Z",
+      "seq": 3757
     },
     {
       "id": "d16898d2",
