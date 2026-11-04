@@ -20,7 +20,7 @@
 
 ## 상위
 
-없음.
+- [물건 못 버리기](difficulty-discarding.md)
 
 ## 하위
 

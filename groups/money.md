@@ -24,6 +24,7 @@
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
   - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
+  - [남은 약 버리지 않고 두기](../docs/keeping-leftover-medicines.md)
   - [비닐봉지 모아 두기](../docs/hoarding-plastic-bags.md)
   - [시든 꽃 버리지 않기](../docs/keeping-withered-flowers.md)
   - [안 쓰는 휴대폰 집에 두기](../docs/keeping-old-phones.md)

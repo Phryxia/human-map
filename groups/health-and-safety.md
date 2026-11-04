@@ -22,7 +22,6 @@
 - [날닭고기 씻기](../docs/washing-raw-chicken.md) 집에서 닭고기를 요리하는 사람이 조리 전에 날닭고기를 물에 씻거나 헹군다.
 - [날짜 지난 음식 먹기의 찜찜함](../docs/uneasy-eating-past-date-food.md) 포장의 날짜가 지난 음식을 앞에 둔 사람이 냄새나 맛에 이상이 없어도 먹기를 찜찜하게 느낀다.
 - [남은 약 다시 먹기](../docs/reusing-leftover-medicine.md) 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.
-- [남은 약 버리지 않고 두기](../docs/keeping-leftover-medicines.md) 다 먹지 않고 남은 약을 가진 사람이 그 약을 버리지 않고 집에 둔다.
 - [논밭두렁과 영농부산물 태우기](../docs/burning-farm-waste.md) 농촌 주민이 산불 위험과 금지 안내를 알면서도 논밭두렁이나 영농부산물, 쓰레기를 태운다.
 - [대기오염 경보에도 바깥 활동 줄이지 않기](../docs/ignoring-air-quality-alerts.md) 대기오염 경보나 미세먼지 나쁨 예보가 나온 날 사람들이 마스크를 쓰지 않거나 바깥 활동을 줄이지 않는다.
 - [대피 미루기](../docs/delayed-evacuation.md) 화재나 해일의 경보나 징후를 접한 사람이 위험이 크지 않다고 여겨 대피하지 않거나 늦게 움직인다.
