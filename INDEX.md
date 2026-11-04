@@ -515,6 +515,7 @@
 - [첫눈 반기기](docs/welcoming-first-snow.md) ([시간과 하루 습관](groups/daily-time.md))
 - [청력 보호구 미착용](docs/hearing-protection-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [청력 손실 숨기기](docs/hiding-hearing-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [추억이 담긴 물건 간직하기](docs/keeping-keepsakes.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [추운 아침 이불 속에 머물기](docs/lingering-in-bed-on-cold-mornings.md) ([시간과 하루 습관](groups/daily-time.md))
 - [축의금 액수 저울질](docs/weighing-gift-money.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [출입 금지된 샛길 산행](docs/hiking-closed-trails.md) ([시민 참여와 공공의 일](groups/civic-life.md))
