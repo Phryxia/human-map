@@ -25,6 +25,7 @@
 - [연체 뒤 도서관 피하기](avoiding-library-over-overdue-books.md)
 - [집이 부끄러워 손님 들이지 않기](avoiding-inviting-people-home.md)
 - [실직 뒤 사람 만남 피하기](withdrawing-after-job-loss.md)
+- [부끄러워 귀향 피하기](skipping-homecoming-out-of-shame.md)
 
 ## 원인
 

@@ -20,7 +20,7 @@
 
 ## 하위
 
-없음.
+- [부끄러워 귀향 피하기](skipping-homecoming-out-of-shame.md)
 
 ## 원인
 

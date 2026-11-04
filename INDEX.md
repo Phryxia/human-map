@@ -246,6 +246,7 @@
 - [복지 급여 미신청](docs/not-claiming-benefits.md) ([돈과 소비](groups/money.md), [가까운 사이의 감정과 말](groups/close-relationships.md))
 - [봄 타기](docs/spring-fever.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [봄맞이 대청소](docs/spring-cleaning.md) ([시간과 하루 습관](groups/daily-time.md))
+- [부끄러워 귀향 피하기](docs/skipping-homecoming-out-of-shame.md) ([남의 시선과 창피함](groups/others-gaze.md), [가까운 사이의 감정과 말](groups/close-relationships.md))
 - [부끄러워 사람 피하기](docs/avoiding-people-out-of-shame.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [부모가 창피함](docs/embarrassed-by-parents.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [부모를 닮아 가는 자신 알아차리기](docs/noticing-oneself-becoming-like-parents.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

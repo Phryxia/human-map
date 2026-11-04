@@ -13,6 +13,7 @@
 - [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
 - [보는 눈이 있을 때 행동 바꾸기](../docs/behaving-better-when-watched.md) 누군가 지켜본다고 느끼는 사람이 혼자일 때와 달리 남이 좋게 볼 만한 쪽으로 행동한다.
 - [부끄러워 사람 피하기](../docs/avoiding-people-out-of-shame.md) 부끄러운 처지나 일이 있는 사람이 그 일을 아는 사람이나 사람이 모인 자리를 피한다.
+  - [부끄러워 귀향 피하기](../docs/skipping-homecoming-out-of-shame.md)
   - [실직 뒤 사람 만남 피하기](../docs/withdrawing-after-job-loss.md)
   - [연체 뒤 도서관 피하기](../docs/avoiding-library-over-overdue-books.md)
   - [집이 부끄러워 손님 들이지 않기](../docs/avoiding-inviting-people-home.md)
