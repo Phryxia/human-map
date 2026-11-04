@@ -32,6 +32,7 @@
 
 ## 결과
 
+- [남은 약 버리지 않고 두기](keeping-leftover-medicines.md)[^6]
 - [남은 약 다시 먹기](reusing-leftover-medicine.md)[^6]
 
 ## 대립

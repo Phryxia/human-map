@@ -11672,21 +11672,21 @@
   },
   "https://www.sbs.com.au/news/australians-hoarding-medicines-survey": {
     "first": "2026-10-27",
-    "last": "2026-10-31",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-04"
   },
   "https://www.epa.gov/household-medication-disposal/safe-storage-medicines-home": {
     "first": "2026-10-27",
-    "last": "2026-10-31",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-04"
   },
   "https://mediahub.seoul.go.kr/archives/2002909": {
     "first": "2026-10-27",
-    "last": "2026-10-31",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-04"
   },
   "https://www.scarymommy.com/parenting/do-you-lie-awake-worrying-when-your-teen-is-out-at-night": {
     "first": "2026-10-27",
@@ -13979,9 +13979,9 @@
   },
   "https://www.ums.ac.id/en/news/research/why-keeping-antibiotics-at-home-can-be-risky": {
     "first": "2026-10-30",
-    "last": "2026-10-31",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-04"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=7010102&docId=495179453": {
     "first": "2026-10-30",
@@ -15010,9 +15010,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7153968&rettype=abstract&retmode=text": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-04"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7445837/fullTextXML": {
     "first": "2026-10-31",
@@ -18934,6 +18934,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://www.irishtimes.com/life-and-style/people/when-i-m-gone-i-m-gone-and-yet-i-find-myself-talking-to-the-dead-1.3707228": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10677768/": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",
