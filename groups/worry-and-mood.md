@@ -16,6 +16,7 @@
     - [스트레스 받을 때 매운 음식 찾기](../docs/craving-spicy-food-under-stress.md)
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
   - [미루기](../docs/procrastination.md)
+    - [글 막힘](../docs/writers-block.md)
     - [노후 준비 미루기](../docs/delaying-retirement-saving.md)
     - [답장 미루기](../docs/delaying-message-replies.md)
     - [백업 미루기](../docs/putting-off-backups.md)

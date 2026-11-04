@@ -35,6 +35,7 @@
 - [소프트웨어 업데이트 미루기](delaying-software-updates.md)
 - [백업 미루기](putting-off-backups.md)
 - [재난 대비 미루기](not-preparing-for-disasters.md)
+- [글 막힘](writers-block.md)
 
 ## 원인
 

@@ -461,9 +461,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1709/pg1709-images.html": {
     "first": "2026-10-17",
-    "last": "2026-11-03",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-04"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069": {
     "first": "2026-10-17",
@@ -15892,15 +15892,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2277565/": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-04"
   },
   "https://brunch.co.kr/@infjk/35": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-04"
   },
   "https://www.supplyht.com/articles/91844-oct-22-2007-shower-power": {
     "first": "2026-11-01",
@@ -18325,9 +18325,9 @@
   },
   "https://solvingprocrastination.com/writing-procrastination/": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-04"
   },
   "https://www.gutenberg.org/cache/epub/4146/pg4146-images.html": {
     "first": "2026-11-03",
@@ -18850,6 +18850,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11135933/": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://theses.gla.ac.uk/7625/": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",
