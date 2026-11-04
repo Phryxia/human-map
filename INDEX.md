@@ -329,6 +329,7 @@
 - [아침 식사 거르기](docs/skipping-breakfast.md) ([시간과 하루 습관](groups/daily-time.md))
 - [아파도 출근하기](docs/sickness-presenteeism.md) ([일터와 일자리](groups/work.md))
 - [아픈 것을 가족에게 숨기기](docs/hiding-illness-from-family.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [아픈 신발 참고 신기](docs/wearing-painful-shoes.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [악의적 시기](docs/malicious-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [안 쓰는 휴대폰 집에 두기](docs/keeping-old-phones.md) ([돈과 소비](groups/money.md))
 - [알람 끄고 다시 잠들기](docs/snoozing-the-alarm.md) ([시간과 하루 습관](groups/daily-time.md))
