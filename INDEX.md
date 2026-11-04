@@ -415,6 +415,7 @@
 - [유산 다툼](docs/inheritance-disputes.md) ([돈과 소비](groups/money.md))
 - [유실물 찾아가지 않기](docs/leaving-lost-items-unclaimed.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [유언장 작성 미루기](docs/delaying-will-writing.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [유족의 장기기증 거부](docs/families-refusing-organ-donation.md) ([건강과 위험](groups/health-and-safety.md))
 - [육아휴직 망설이기](docs/hesitating-to-take-parental-leave.md) ([일터와 일자리](groups/work.md))
 - [은둔형 외톨이](docs/social-withdrawal-at-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [은퇴 자금 쓰지 않기](docs/retirees-not-spending-savings.md) ([돈과 소비](groups/money.md))

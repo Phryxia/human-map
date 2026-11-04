@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [유족의 장기기증 거부](families-refusing-organ-donation.md)[^6]
 
 ## 대립
 
