@@ -19262,5 +19262,17 @@
     "last": "2026-11-04",
     "result": "VERIFIED",
     "lastVerified": "2026-11-04"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=2789026&rettype=abstract&retmode=text": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://www.imaeil.com/page/view/2015100801545342405": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
   }
 }

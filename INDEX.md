@@ -40,6 +40,7 @@
 - [계단 대신 에스컬레이터와 엘리베이터 타기](docs/taking-escalator-over-stairs.md) ([건강과 위험](groups/health-and-safety.md))
 - [계단과 걸음 세기](docs/counting-steps-and-stairs.md) ([성향과 기질](groups/traits.md))
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))
+- [계절 타기](docs/seasonal-mood-change.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [고부 갈등](docs/mother-in-law-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [고용 불안](docs/job-insecurity.md) ([일터와 일자리](groups/work.md))

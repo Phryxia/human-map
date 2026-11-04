@@ -4,13 +4,15 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
-- [가을 타기](../docs/autumn-melancholy.md) 가을이 오면 사람이 쓸쓸하고 울적해지거나 기분이 가라앉는다.
 - [건강 불안](../docs/health-anxiety.md) 사람이 뚜렷한 근거 없이 자기가 심각한 병에 걸렸거나 걸릴 것이라고 걱정한다.
   - [건강 안심 구하기](../docs/health-reassurance-seeking.md)
   - [여러 병원 전전하기](../docs/doctor-shopping.md)
   - [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md)
 - [겁날 때 노래하거나 휘파람 불기](../docs/singing-to-keep-up-courage.md) 어둡거나 무서운 곳을 지나는 사람이 겁을 누르려고 소리 내어 노래하거나 휘파람을 분다.
 - [결말 먼저 읽기](../docs/reading-the-ending-first.md) 소설이나 이야기를 읽는 사람이 처음부터 읽기 전에 마지막 장을 먼저 펼쳐 결말을 본다.
+- [계절 타기](../docs/seasonal-mood-change.md) 계절이 바뀌거나 어떤 계절이 오면 사람의 기분과 행동이 그 계절에 따라 달라진다.
+  - [가을 타기](../docs/autumn-melancholy.md)
+  - [봄 타기](../docs/spring-fever.md)
 - [기분 회복 행동](../docs/mood-repair.md) 기분이 나쁜 사람이 그 기분을 낫게 하려고 먹기, 마시기, 사기, 자기 같은 행동을 한다.
   - [기분을 달래려고 먹기](../docs/emotional-eating.md)
     - [스트레스 받을 때 매운 음식 찾기](../docs/craving-spicy-food-under-stress.md)
@@ -40,7 +42,6 @@
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
-- [봄 타기](../docs/spring-fever.md) 겨울을 지나 봄을 맞은 사람이 까닭 없이 마음이 들뜨고 싱숭생숭해져 일이 손에 잡히지 않고 밖으로 나가고 싶어진다.
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
 - [생각 때문에 잠 못 이루기](../docs/lying-awake-thinking.md) 잠자리에 누운 사람이 낮에 겪은 일이나 잠에 대한 걱정을 되풀이해 생각하느라 잠들지 못한다.
