@@ -18609,5 +18609,23 @@
     "last": "2026-11-03",
     "result": "VERIFIED",
     "lastVerified": "2026-11-03"
+  },
+  "https://www.gutenberg.org/cache/epub/700/pg700-images.html": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://www.gutenberg.org/cache/epub/5348/pg5348-images.html": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://pillow.app/article/why-do-i-sometimes-wake-up-disoriented-not-knowing-where-i-am": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
   }
 }
