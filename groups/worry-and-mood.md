@@ -51,7 +51,6 @@
 - [실패에 대한 두려움](../docs/fear-of-failure.md) 어떤 일을 앞둔 사람이 실패해 창피를 당하거나 낮게 평가받을까 두려워한다.
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
 - [어둠 공포](../docs/fear-of-the-dark.md) 어두운 곳에 있는 사람이 보이지 않는 것을 무서워한다.
-- [여행 짐 많이 싸기](../docs/overpacking.md) 여행을 앞둔 사람이 혹시 필요할까 싶은 물건까지 챙겨 쓰지 않을 짐을 싸 간다.
 - [울고 난 뒤 후련함](../docs/relief-after-crying.md) 한바탕 운 사람이 울고 난 뒤 마음이 가벼워졌다고 느낀다.
 - [잠자리에서 시계 보기](../docs/clock-watching-in-bed.md) 잠들지 못하고 누워 있는 사람이 시계를 자꾸 보며 몇 시인지와 남은 잠 시간을 확인한다.
 - [점과 운세 보기](../docs/consulting-fortune-tellers.md) 앞날을 알고 싶은 사람이 점쟁이를 찾아가거나 별자리 운세, 타로, 사주를 본다.
@@ -66,3 +65,6 @@
   - [소원 빌며 동전 던지기](../docs/wishing-coin-toss.md)
 - [하품 전염](../docs/contagious-yawning.md) 남이 하품하는 것을 보거나 하품 이야기를 읽은 사람이 따라 하품한다.
 - [한숨 쉬기](../docs/sighing.md) 사람이 답답하거나 안도할 때 숨을 길게 내쉰다.
+- [혹시 몰라 챙겨 두기](../docs/just-in-case-keeping.md) 사람이 언젠가 필요할지 모른다는 생각에 당장 쓰지 않을 물건이나 돈을 챙기거나 쌓아 둔다.
+  - [여행 짐 많이 싸기](../docs/overpacking.md)
+  - [집에 현금 쌓아 두기](../docs/keeping-cash-at-home.md)
