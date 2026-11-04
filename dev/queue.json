@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-04T03:34:58.311Z",
-  "nextSeq": 3630,
-  "stops": 182,
+  "savedAt": "2026-11-04T06:36:22.490Z",
+  "nextSeq": 3640,
+  "stops": 183,
   "items": [
-    {
-      "id": "eb52457f",
-      "title": "drinking-less-to-avoid-toilet 보강: 공공 파편, 교사 사례",
-      "priority": 50,
-      "note": "2026-11-03 Baird 2023 digitalcommons.wku.edu/ijesab/vol16/iss2/293 'restroom access is limited and reduces fluid consumption for most teachers'(It appears 로 시작, 저자 추정). MSD 매뉴얼 탈수 2024-05-06 노인이 실금 두려움으로 적게 마신다. Health Innovation Network 2025-07-11. Mumsnet 4218335 2021 외출 90분 전 마시기 멈춤",
-      "createdAt": "2026-11-03T12:24:41.113Z",
-      "seq": 3490
-    },
-    {
-      "id": "57dd633a",
-      "title": "clearing-throat-to-show-dignity 보강: 학술 파편, 영어 문학 파편",
-      "priority": 50,
-      "note": "2026-11-03 후보: David Copperfield pg766 'clearing his throat in his magnificent way'(766 은 이미 4개 문서, 5번째면 WARN), Bleak House pg1023 Sir Leicester 'solemn wave of his hand ... Hem!', 가루지기 타령 성두본 '헛기침 버썩 뱉으면서'(한자 포함), 청춘극장 1권 3장 백 초시 '에헴!' 등장. 학술 없음",
-      "createdAt": "2026-11-03T12:30:27.192Z",
-      "seq": 3491
-    },
-    {
-      "id": "509a4c24",
-      "title": "clearing-throat-before-speaking 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-03 공공 1, 문학 1, 매체 2. USF 2013 etd/5066 은 헛기침 없음. Blind 2021 회의 앞 목 걸림은 삼키기라 다른 현상",
-      "createdAt": "2026-11-03T12:34:49.275Z",
-      "seq": 3492
-    },
-    {
-      "id": "6a50cb16",
-      "title": "writers-block 상위 후보: procrastination",
-      "priority": 50,
-      "note": "2026-11-03 theses.gla.ac.uk/7625 Macleod 2016 초록 'writer's block is a form of unconscious maladaptive procrastination' 상위 근거 후보. Psychology Today Knaus 2010-06-18 도 동일시",
-      "createdAt": "2026-11-03T15:12:44.088Z",
-      "seq": 3513
-    },
-    {
-      "id": "1b1ecc3e",
-      "title": "cutting-across-lawns 보강: hiking-closed-trails 관계",
-      "priority": 50,
-      "note": "2026-11-03 작성. NPS social-trails [^4] 은 지정 탐방로를 벗어난 샛길을 말함. hiking-closed-trails 와 공통 상위(정해진 길 벗어나 질러가기) 또는 관계 근거 필요. 후보: Helbing 1997 nature.com/articles/40353, arXiv cond-mat/9806097 보행자는 우회 최소 경로망을 만든다",
-      "createdAt": "2026-11-03T18:11:08.045Z",
-      "seq": 3538
-    },
-    {
-      "id": "6d99c445",
-      "title": "zoning-out 보강: mind-wandering, gazing-out-the-window 관계, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-03 작성. 학술 원문 Lynn 2014 Evolutionary Psychology 12(5) 모닥불 영상 혈압 연구는 SAGE 403 으로 못 받음. 한강 멍때리기 대회 2018 mediahub 1147899 '아무것도 하지 않는 것은 뒤처지거나 무가치하다는 통념' 후보",
-      "createdAt": "2026-11-03T18:20:56.017Z",
-      "seq": 3539
-    },
-    {
-      "id": "69421428",
-      "title": "fear-of-fan-death 보강: 학술 파편, 시기",
-      "priority": 50,
-      "note": "2026-11-03 작성. 후보: etoday 2611405 (2026-08-05) 언론과 입소문, 공공기관 자료를 거쳐 오래 사실처럼 받아들여짐, 어머니가 방에 들러 선풍기를 끔. YTN 같은 글 한국과 일본에만 있고 일본은 1980년대 이후 사라짐. koreascience 관련 글은 PDF",
-      "createdAt": "2026-11-03T18:31:56.244Z",
-      "seq": 3541
-    },
-    {
-      "id": "03a023e7",
-      "title": "wishing-on-moon-and-stars 보강: wishing-coin-toss 공통 상위, 한국어 문학",
-      "priority": 50,
-      "note": "2026-11-03 작성. 후보: 국가기록원 뉴스레터 133호 theme.archives.go.kr vol_133 달맞이 소원 빌기가 대보름 대표 풍속, news.seoul.go.kr/env/archives/514076 (2021-08-11) 유성우 영상 보며 소원 비는 시간",
-      "createdAt": "2026-11-03T18:36:32.117Z",
-      "seq": 3542
-    },
     {
       "id": "9a095760",
       "title": "road-rage 보강: anger-suppression 대립 근거",
@@ -363,6 +299,46 @@
       "note": "2026-11-04 이번 회차엔 손대지 못함. 이전 note: Wharton 2003 Pragmatics & Cognition 'ahem' ResearchGate 403, Nicholas Nickleby pg967 문학 후보",
       "createdAt": "2026-11-04T03:34:24.775Z",
       "seq": 3629
+    },
+    {
+      "id": "239cbf4b",
+      "title": "child-car-seat-nonuse 보강: 미확인 파편 대체, 관계",
+      "priority": 50,
+      "note": "2026-11-04 작성. 82cook 138828 은 ECONNRESET, PubMed 26436241 은 429 로 미확인. 후보: Agran 1992 Pediatrics PubMed 1614773 영아는 대개 다른 사람 무릎에 안겨 탄다, Torbay Council car-seats 안고 타면 충돌 때 아이가 품에서 떨어져 나감(발행일 미상), korea.kr 148826033 2016 영유아 응급환자 69% 미착용",
+      "createdAt": "2026-11-04T06:12:52.518Z",
+      "seq": 3635
+    },
+    {
+      "id": "93b0465b",
+      "title": "clearing-throat-to-show-dignity 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-04 Oliver Twist 추가. 학술 HTML 못 찾음. Pickwick Papers pg580 Pell 'solemn and dignified cough' 후보, 국립국어원 온라인가나다 qna_seq=321289 (2025-09-25) 에헴 풀이",
+      "createdAt": "2026-11-04T06:21:12.354Z",
+      "seq": 3636
+    },
+    {
+      "id": "06449322",
+      "title": "cutting-across-lawns 보강: hiking-closed-trails 관계",
+      "priority": 50,
+      "note": "2026-11-03 작성. NPS social-trails [^4] 은 지정 탐방로를 벗어난 샛길을 말함. hiking-closed-trails 와 공통 상위(정해진 길 벗어나 질러가기) 또는 관계 근거 필요. 후보: Helbing 1997 nature.com/articles/40353 초록에 참조 번호가 본문에 끼어 전사가 어려움, arXiv cond-mat/9806097 보행자는 우회 최소 경로망을 만든다",
+      "createdAt": "2026-11-04T06:27:17.600Z",
+      "seq": 3637
+    },
+    {
+      "id": "e4420a9d",
+      "title": "zoning-out 보강: mind-wandering, gazing-out-the-window 관계",
+      "priority": 50,
+      "note": "2026-11-04 학술 Lynn 2014 PMC10429110, 강여울 2021 earticle A405110 추가. 관계 근거 파편 아직 없음. 후보: scholar.kyobobook.co.kr 4010028582365 (2021-11) 캠핑 중 불멍 물멍 멍 때리기 현상, Lynn 2014 소리 없이 깜박이는 불만 볼 때는 이완 효과 없음",
+      "createdAt": "2026-11-04T06:29:16.151Z",
+      "seq": 3638
+    },
+    {
+      "id": "92b55ca6",
+      "title": "wishing-on-moon-and-stars 보강: wishing-coin-toss 공통 상위, 한국어 문학",
+      "priority": 50,
+      "note": "2026-11-03 작성. 후보: 국가기록원 뉴스레터 133호 theme.archives.go.kr vol_133 달맞이 소원 빌기가 대보름 대표 풍속, news.seoul.go.kr/env/archives/514076 (2021-08-11) 유성우 영상 보며 소원 비는 시간",
+      "createdAt": "2026-11-04T06:34:59.324Z",
+      "seq": 3639
     },
     {
       "id": "d16898d2",
