@@ -4077,9 +4077,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7958231/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-04"
   },
   "https://www.gqkorea.co.kr/?p=403718": {
     "first": "2026-10-19",
@@ -18720,6 +18720,18 @@
     "lastVerified": "2026-11-04"
   },
   "https://www.globalrescue.com/common/blog/detail/overpacking-a-persistent-traveler-mistake/": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://news.ycombinator.com/item?id=26384278": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://news.ycombinator.com/item?id=26386238": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",

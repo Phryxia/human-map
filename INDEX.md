@@ -386,6 +386,7 @@
 - [울고 난 뒤 후련함](docs/relief-after-crying.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [울리지 않은 휴대전화 진동 느끼기](docs/phantom-phone-vibration.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [원한 품기](docs/holding-a-grudge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [원할 때 대화 끝내지 못하기](docs/not-ending-conversations.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
 - [유산 다툼](docs/inheritance-disputes.md) ([돈과 소비](groups/money.md))

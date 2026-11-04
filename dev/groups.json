@@ -265,6 +265,7 @@
     "title": "남의 시선과 창피함",
     "summary": "사람이 남에게 어떻게 보일지 의식하며 불안해하거나 창피해하고 그에 맞춰 하는 일이다.",
     "roots": [
+      "not-ending-conversations",
       "anticipatory-social-anxiety",
       "hiding-bedbug-infestation",
       "blushing",
