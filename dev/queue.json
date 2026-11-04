@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-03T21:34:13.661Z",
-  "nextSeq": 3561,
-  "stops": 180,
+  "savedAt": "2026-11-04T00:28:58.168Z",
+  "nextSeq": 3568,
+  "stops": 181,
   "items": [
     {
       "id": "cc19adb8",
@@ -43,14 +43,6 @@
       "note": "2026-11-01 Wasserfallen 2003 PMID 12708953 의 원인 문장은 218자라 못 씀. 원인 후보 stopping-medication-when-feeling-better: pids.org 2023-11-22 파편은 남은 항생제를 '갖게 됨'만 말하고 보관은 말하지 않음. 보관까지 말하는 파편 필요. Furst 1975 PMID 1165177 Drug hoarding 별칭 후보",
       "createdAt": "2026-11-03T00:33:29.161Z",
       "seq": 3397
-    },
-    {
-      "id": "c6e65a8c",
-      "title": "commute-fatigue 보강: 한국어 파편, 2000년 이전 출처",
-      "priority": 50,
-      "note": "2026-11-03 추가. 후보 클리앙 park/19276343 (2026-10-12 왕복 3시간 지쳐 이사 생각), Gizmodo 스웨덴 Scania 21,000명 통근 조사(수면, 탈진). accepting-long-commute 쪽 결과 간선은 근거 각주 없음",
-      "createdAt": "2026-11-03T03:08:40.057Z",
-      "seq": 3416
     },
     {
       "id": "0da600e9",
@@ -363,6 +355,14 @@
       "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
       "createdAt": "2026-11-03T21:33:36.029Z",
       "seq": 3560
+    },
+    {
+      "id": "62e3a746",
+      "title": "commute-fatigue 보강: 2000년 이전 출처, 매체 파편",
+      "priority": 50,
+      "note": "2026-11-04 클리앙 파편 추가. 매체 후보: livescience.com/35950-commuting-and-health.html (2013-05-30, 자동차와 대중교통 통근자가 스트레스, 수면 질 저하, 탈진을 더 겪음. 통근 시간이 아니라 수단 비교라 맞는지 판단 필요), theregister.com 2011-10-31 같은 연구. 원 논문 BMC Public Health 11:834 (2011)",
+      "createdAt": "2026-11-04T00:28:51.789Z",
+      "seq": 3567
     },
     {
       "id": "d16898d2",
