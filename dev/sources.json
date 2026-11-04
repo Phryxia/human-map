@@ -19550,5 +19550,29 @@
     "last": "2026-11-04",
     "result": "VERIFIED",
     "lastVerified": "2026-11-04"
+  },
+  "https://weekly.khan.co.kr/article/201106081722461": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://www.wral.com/the-sunk-cost-fallacy-claims-more-victims/17701238/": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32612790&rettype=abstract&retmode=text": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=33662153&rettype=abstract&retmode=text": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
   }
 }
