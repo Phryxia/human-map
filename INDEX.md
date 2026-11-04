@@ -244,6 +244,7 @@
 - [봄맞이 대청소](docs/spring-cleaning.md) ([시간과 하루 습관](groups/daily-time.md))
 - [부끄러워 사람 피하기](docs/avoiding-people-out-of-shame.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [부모가 창피함](docs/embarrassed-by-parents.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [부모를 닮아 가는 자신 알아차리기](docs/noticing-oneself-becoming-like-parents.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [부유한 척하기](docs/faking-wealth.md) ([돈과 소비](groups/money.md))
 - [부정 탈까 봐 말 아끼기](docs/tempting-fate.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [부정적 평가에 대한 두려움](docs/fear-of-negative-evaluation.md) ([남의 시선과 창피함](groups/others-gaze.md))

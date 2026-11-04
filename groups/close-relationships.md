@@ -33,6 +33,7 @@
 - [벅찬 감정에 압도되기](../docs/overwhelmed-by-positive-emotion.md) 아주 귀엽거나 기쁜 것을 마주한 사람이 감당하기 어려울 만큼 강한 긍정 감정에 휩싸인다.
 - [복수심](../docs/desire-for-revenge.md) 남에게 해를 입거나 모욕당한 사람이 상대에게 같은 고통을 되갚아 주고 싶어 한다.
   - [층간소음 보복](../docs/neighbor-noise-retaliation.md)
+- [부모를 닮아 가는 자신 알아차리기](../docs/noticing-oneself-becoming-like-parents.md) 어른이 된 사람이 자기 말이나 표정, 행동에서 부모를 닮은 모습을 알아차린다.
 - [분노 억누르기](../docs/anger-suppression.md) 화가 난 사람이 그 분노를 겉으로 드러내지 않고 억누른다.
 - [삐짐](../docs/sulking.md) 서운함을 느낀 사람이 말없이 토라져 상대가 먼저 알아차리고 마음을 풀어 주기를 기다린다.
 - [사과 거부 뒤의 자존감 상승](../docs/self-esteem-after-refusing-apology.md) 사과하기를 거부한 사람이 그 뒤 자기 가치감과 힘, 통제감을 더 느낀다.
