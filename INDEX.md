@@ -438,6 +438,7 @@
 - [자녀 사교육 불안](docs/private-tutoring-anxiety.md) ([돈과 소비](groups/money.md))
 - [자녀 사진을 소셜 미디어에 올리기](docs/sharenting.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자리 양보 망설임](docs/hesitating-to-offer-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [자리를 양보받고 늙었다고 느끼기](docs/feeling-old-when-offered-a-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자살 유족의 자책](docs/suicide-bereavement-self-blame.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [자식 자랑](docs/bragging-about-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자외선 차단제 안 바르기](docs/sunscreen-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
