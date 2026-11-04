@@ -17954,8 +17954,8 @@
   "https://zaguan.unizar.es/record/86285": {
     "first": "2026-11-03",
     "last": "2026-11-04",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-11-03"
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
   },
   "https://news.ycombinator.com/item?id=44857785": {
     "first": "2026-11-03",
@@ -19252,6 +19252,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://www.dailian.co.kr/news/view/1671044": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://www.seoul.co.kr/news/2000/11/08/20001108007002": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",
