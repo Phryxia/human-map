@@ -18,6 +18,8 @@
 
 2024년 자료[^6]의 미국 식품의약국 안내는 소비자 음식 폐기의 약 20%를 날짜 표시 혼동에서 온 것으로 추정한다.
 
+2026년 6월 글[^7]은 치즈의 날짜가 지나면 찝찝해서 그대로 버리는 경우가 많다고 썼다.
+
 # 관계
 
 ## 상위
@@ -31,6 +33,7 @@
 ## 원인
 
 - [장 볼 때 필요보다 많이 사기](overbuying-groceries.md)[^3]
+- [날짜 지난 음식 먹기의 찜찜함](uneasy-eating-past-date-food.md)[^7]
 
 ## 결과
 
@@ -48,3 +51,4 @@
 [^4]: [매체] "하지만 사람들에게 유통기한은 소비자의 '섭취 가능 기간' 혹은 '식품 변질 기한'이라는 의미로 해석되는 경우가 많아 실제 부패'변질 상태나 섭취 가능 여부와 상관없이 음식을 폐기하는 경향이 커진다는 것이다." — 매일신문, 「유통기한 지난 식품, 언제까지 먹어도 괜찮을까」, 2012-03-03, https://www.imaeil.com/page/view/2012030307252073161, 2026-10-18 접속
 [^5]: [학술] "Respondents ages 18–34 and those with misunderstanding about date labels reported discarding food based on label dates with significantly more frequency than others." (18\~34세 응답자와 날짜 표시를 잘못 이해한 응답자는 다른 응답자보다 유의하게 더 자주 표시 날짜를 근거로 음식을 버린다고 보고했다.) — Roni A. Neff 외, "Misunderstood food date labels and reported food discards: A survey of U.S. consumer attitudes and behaviors", Waste Management, 2019-03-01, https://pure.johnshopkins.edu/en/publications/misunderstood-food-date-labels-and-reported-food-discards-a-surve/, 2026-10-18 접속
 [^6]: [공공] "Many consumers misunderstand the purpose and meaning of the date labels that often appear on packaged foods. Confusion over date labeling accounts for an estimated 20 percent of consumer food waste." (많은 소비자가 포장 식품에 흔히 붙는 날짜 표시의 목적과 뜻을 잘못 이해한다. 날짜 표시 혼동은 소비자 음식 폐기의 약 20%를 차지하는 것으로 추정된다.) — U.S. Food and Drug Administration, "How to Cut Food Waste and Maintain Food Safety", 2024-03-05, https://www.fda.gov/food/consumers/how-cut-food-waste-and-maintain-food-safety, 2026-10-18 접속
+[^7]: [매체] "날짜가 지나면 찝찝해서 그대로 버리는 경우가 많습니다." — 인삼군의 건강정보, 「"날짜 지났다고 버리지 마세요"..한국인 90%가 몰라서 돈 버리는 음식 1위」, Daum, 2026-06, https://v.daum.net/v/qsYIgFKpU5, 2026-11-04 접속
