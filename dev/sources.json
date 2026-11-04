@@ -17946,14 +17946,14 @@
   },
   "https://forums.moneysavingexpert.com/discussion/2609117/commuting": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-04",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-04"
   },
   "https://zaguan.unizar.es/record/86285": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
-    "result": "VERIFIED",
+    "last": "2026-11-04",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-03"
   },
   "https://news.ycombinator.com/item?id=44857785": {
@@ -18689,6 +18689,12 @@
     "lastVerified": "2026-11-04"
   },
   "https://scijfootankle.emnuvens.com.br/JournalFootAnkle/article/view/2009": {
+    "first": "2026-11-04",
+    "last": "2026-11-04",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-04"
+  },
+  "https://www.clien.net/service/board/park/19276343": {
     "first": "2026-11-04",
     "last": "2026-11-04",
     "result": "VERIFIED",

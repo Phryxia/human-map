@@ -10,6 +10,8 @@
 
 2019년 Gimenez-Nadal 과 Molina 의 미국 시간 사용 조사 분석[^2]에서 하루 통근 시간이 길수록 통근하는 동안의 피로와 스트레스가 높았다.
 
+2026년 10월 클리앙 게시글[^3]의 글쓴이는 경기도민의 설움을 말하며 퇴근하는 길에 집에 갈 생각만으로 벌써 한숨이 나온다고 썼다.
+
 # 관계
 
 ## 상위
@@ -36,3 +38,4 @@
 
 [^1]: [SNS] "I moved out of London which made my commute 2 hours each way. I enjoyed the first year and really enjoyed the change but now 2 years on its driving me insane." (런던을 떠나면서 통근이 편도 2시간이 됐다. 첫해는 즐거웠고 그 변화도 정말 좋았지만 2년이 지난 지금은 미칠 것 같다.) — MoneySavingExpert 포럼, 댓글, 2010-07-21, https://forums.moneysavingexpert.com/discussion/2609117/commuting, 2026-11-03 접속
 [^2]: [학술] "We found that more time spent on the daily commute was related to higher levels of fatigue and stress during commuting" (하루 통근에 쓰는 시간이 많을수록 통근 중의 피로와 스트레스 수준이 높았다) — Jose Ignacio Gimenez-Nadal, Jose Alberto Molina, "Daily feelings of US workers and commuting time", Journal of Transport & Health, 2019-12-12, https://zaguan.unizar.es/record/86285, 2026-11-03 접속
+[^3]: [SNS] "이런 경기도민의 설움을 누가 알끼여? 퇴근하는데 집갈생각하니 벌써부터 한숨이 나오네여. ㅠㅠ" — 클리앙 게시글, 2026-10-12, https://www.clien.net/service/board/park/19276343, 2026-11-04 접속
