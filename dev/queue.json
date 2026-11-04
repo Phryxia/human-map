@@ -1,89 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-04T18:37:30.743Z",
-  "nextSeq": 3758,
-  "stops": 187,
+  "savedAt": "2026-11-04T21:34:52.976Z",
+  "nextSeq": 3801,
+  "stops": 188,
   "items": [
-    {
-      "id": "06449322",
-      "title": "cutting-across-lawns 보강: hiking-closed-trails 관계",
-      "priority": 50,
-      "note": "2026-11-03 작성. NPS social-trails [^4] 은 지정 탐방로를 벗어난 샛길을 말함. hiking-closed-trails 와 공통 상위(정해진 길 벗어나 질러가기) 또는 관계 근거 필요. 후보: Helbing 1997 nature.com/articles/40353 초록에 참조 번호가 본문에 끼어 전사가 어려움, arXiv cond-mat/9806097 보행자는 우회 최소 경로망을 만든다",
-      "createdAt": "2026-11-04T06:27:17.600Z",
-      "seq": 3637
-    },
-    {
-      "id": "496bcf60",
-      "title": "accent-prejudice 보강: 한국 사투리 편견 파편",
-      "priority": 50,
-      "note": "2026-11-04 RFA 2010, Heaton 2011, Eastern Eye 2019 로 추가. 한국 지역 사투리에 대한 학술 파편과 McKenzie 2022 북잉글랜드 억양 편견 원문(phys.org 429) 다른 판 후보. 2025 Radboud 학위논문 theses.ubn.ru.nl 은 네덜란드 지역 억양 화자가 외국 억양 화자보다 낮게 평가됨",
-      "createdAt": "2026-11-04T09:13:42.631Z",
-      "seq": 3655
-    },
-    {
-      "id": "4ed2d567",
-      "title": "comparing-children-to-others 보강: bragging-about-children 관계",
-      "priority": 50,
-      "note": "2026-11-03 별칭 엄친아 [^2] 더함. 후보: clien park/2329693 (2011-12-21) 엄친딸 연봉 비교, clien park/18131856 (2023-06-13), HN 37452946 (2023-09-10). 2026-11-04 자랑 때문에 비교한다는 원인 문장을 못 찾음. workingus.com/?p=3351161 (2019-06-26) 은 친구 모임에서 자식 자랑하며 서로 비교한다는 동시 발생만. Burton Mail 2022-06-15 baby brags 조사(새 부모 44% 거슬림, 32% 실패 걱정)는 pressreader 본문이 안 열림, 다른 판 필요",
-      "createdAt": "2026-11-04T09:14:33.893Z",
-      "seq": 3656
-    },
-    {
-      "id": "afe08703",
-      "title": "hiding-hearing-loss 와 avoiding-aids-that-look-old 관계 검토",
-      "priority": 50,
-      "note": "2026-11-04 avoiding-aids-that-look-old 를 refusing-mobility-aids 상위로 추가. hiding-hearing-loss 의 보청기 감추기 부분은 Wallhagen 2009 [^1] 처럼 늙어 보이기 싫은 이유가 겹치나 요약이 청력 손실 자체를 숨기는 것이라 상위로 긋지 않음. 보청기 착용 거부를 따로 문서로 나눌지 검토",
-      "createdAt": "2026-11-04T09:16:11.546Z",
-      "seq": 3657
-    },
-    {
-      "id": "311bf5c4",
-      "title": "avoiding-people-out-of-shame 보강: 하위 후보",
-      "priority": 50,
-      "note": "2026-11-01 서울신문 2008 매체 파편 더함. poverty-peer-withdrawal, avoiding-creditors 는 요약에 부끄러움이 없어 하위로 긋지 않음. 수치 때문에 귀향을 피하는 현상(skipping-holiday-homecoming 의 하위 후보)을 새 문서로 검토",
-      "createdAt": "2026-11-04T09:16:11.706Z",
-      "seq": 3658
-    },
-    {
-      "id": "db561578",
-      "title": "counting-down-the-days 보강: 관계 간선",
-      "priority": 50,
-      "note": "2026-11-04 브런치 2026-04-28 파편 더함. pleasure-of-anticipation 과의 관계 근거 필요. PLOS ONE 0304660 (2024) 은 크리스마스가 빨리 온다는 믿음과 즐거움 상관만 있어 근거가 못 됨. 왓챠 책 소개 '모든 오늘은 떠나기 전날' 은 D- 를 붙이고 기다림이 즐겁다고 하나 인과 문장 아님. 영국 TUI 조사 기사(shieldsgazette 등 3856005)는 403. cas.au.dk 2017-04-19 미확인",
-      "createdAt": "2026-11-04T09:17:04.262Z",
-      "seq": 3659
-    },
-    {
-      "id": "e1054cc7",
-      "title": "keeping-belongings-of-the-dead 와 continuing-bonds 관계 검토",
-      "priority": 50,
-      "note": "2026-11-04 continuing-bonds 를 visiting-graves, talking-to-the-dead 상위로 추가. keeping-belongings-of-the-dead (상위 difficulty-discarding), sensing-presence-of-the-dead, dreams-of-the-deceased 도 하위 후보. 매체 후보 Sue Ryder 커뮤니티 t/7893 (2018-09-20) 남편 휴대전화로 메시지 보내기, berkleycenter.georgetown.edu Hsu 2023 성묘 연구 소개",
-      "createdAt": "2026-11-04T09:22:36.211Z",
-      "seq": 3660
-    },
-    {
-      "id": "e363b6ff",
-      "title": "working-longer-at-home 와 after-hours-work-replies 관계",
-      "priority": 50,
-      "note": "2026-11-04 확인: utexas 2013 은 인과 문장 없음. SHRM remote-employees-working-longer (2020) 은 침실이나 식탁이 사무실이면 경계를 세우기 어렵고 이메일 하나 더 확인하기 쉽다는 말뿐 인과 문장 아님. hrmagazine 봇 차단. 이전 후보 eurofound 2021",
-      "createdAt": "2026-11-04T09:24:11.918Z",
-      "seq": 3661
-    },
-    {
-      "id": "b45fc5ca",
-      "title": "resume-embellishment 보강: 공공 파편, 원인",
-      "priority": 50,
-      "note": "2026-11-04 Cifas 2022-11-02 를 매체 파편으로 더함(구직 경쟁이 커지면 이력서 사기 가능성 커짐, 조건 서술). 공공 파편과 원인 간선은 아직. 원인 후보: 구직 경쟁 압박 문서 없음. Cifas 중년 구직자 보도자료 application-fraud-by-middle-aged-job-seekers 경쟁 시장에서 부풀리고 싶어짐",
-      "createdAt": "2026-11-04T09:25:22.220Z",
-      "seq": 3662
-    },
-    {
-      "id": "914a76a2",
-      "title": "overpacking 와 걱정 계열 문서의 원인 관계",
-      "priority": 50,
-      "note": "2026-11-04 just-in-case-keeping 을 overpacking, keeping-cash-at-home 상위로 추가. 원인 간선은 여전히 보류: globalrescue [^8] 통제를 잃을까 하는 불안은 future-anxiety 요약과 다름. difficulty-discarding, panic-buying 도 just-in-case-keeping 하위 후보",
-      "createdAt": "2026-11-04T09:26:52.157Z",
-      "seq": 3663
-    },
     {
       "id": "70861051",
       "title": "welcoming-first-snow 보강: 학술 파편, 시기 다른 파편",
@@ -421,6 +341,62 @@
       "seq": 3757
     },
     {
+      "id": "8fce6c0e",
+      "title": "walking-off-designated-paths 와 jaywalking 관계 검토",
+      "priority": 50,
+      "note": "2026-11-04 walking-off-designated-paths 추가. 무단횡단도 정해 둔 건널목을 두고 질러가는 보행이라 하위 후보이나 차도는 길이 아니어서 요약이 맞는지 근거 필요. NPAQ 2024 [^3] 짧은 길 믿음",
+      "createdAt": "2026-11-04T21:07:25.050Z",
+      "seq": 3780
+    },
+    {
+      "id": "a4b5f0d3",
+      "title": "accent-prejudice 보강: 한국 표준어 대 사투리 화자 평가 실험",
+      "priority": 50,
+      "note": "2026-11-04 Kwak, You 2019 제주 방언 태도 [^3] 더함. 경상 방언 화자 지위 평가는 programme.exordo.com/ss22/delegates/presentation/77 (Kang, ECONNRESET) 다른 판 필요. McKenzie 2022 북잉글랜드 억양 phys.org 429",
+      "createdAt": "2026-11-04T21:08:38.769Z",
+      "seq": 3781
+    },
+    {
+      "id": "e33b4e83",
+      "title": "not-wearing-hearing-aids 와 hiding-hearing-loss, avoiding-aids-that-look-old 관계",
+      "priority": 50,
+      "note": "2026-11-04 작성. 머니투데이 2025 [^2] 보청기 낀 모습 드러내기 꺼림. 학술 후보 McCormack, Fortnum 2013 Int J Audiol 'Why do people fitted with hearing aids not wear them?' (PMC3665209 열리지 않음, worktribe 403). Over65 Hastings 2014 늙어 보이기 싫어 보청기 꺼림은 avoiding-aids-that-look-old [^3]",
+      "createdAt": "2026-11-04T21:11:50.322Z",
+      "seq": 3783
+    },
+    {
+      "id": "f976d18e",
+      "title": "confronting-line-cutters 와 staying-silent-at-line-cutting 대립 근거, 비영어 파편",
+      "priority": 50,
+      "note": "2026-11-04 작성. PsyBlog 2008-09 [^2] 은 끼어든 사람과 두 사람 떨어지면 항의가 5%로 떨어진다고 씀. 대립 근거 문장과 한국어 SNS, 공공 파편 필요",
+      "createdAt": "2026-11-04T21:19:47.926Z",
+      "seq": 3789
+    },
+    {
+      "id": "54f0a6df",
+      "title": "hot-hand-belief 보강: SNS 파편, gamblers-fallacy 관계",
+      "priority": 50,
+      "note": "2026-11-04 작성. Sundali, Croson 2006 JDM (gamblers-fallacy [^2], dlab.sauder.ubc.ca jdm06001) 은 개인 간 두 편향의 양의 상관이라 원인·대립 근거 아님. Gilovich 외 1985 농구 슛 연구 원문, 2000년 이전 파편 필요",
+      "createdAt": "2026-11-04T21:21:21.342Z",
+      "seq": 3791
+    },
+    {
+      "id": "5ee65994",
+      "title": "sunk-cost-persistence 보강: SNS 파편, pre-wedding-doubts 관계",
+      "priority": 50,
+      "note": "2026-11-04 작성. wikitree 1141915 (2026-06-17, pre-wedding-doubts [^9]) 청첩장을 돌려 파혼을 못 정함은 남의 시선 두려움이 함께 있어 원인 근거로 약함. 후보: Arkes, Blumer 1985 원 연구, 표값이 아까워 끝까지 본 영화 SNS 글",
+      "createdAt": "2026-11-04T21:23:10.081Z",
+      "seq": 3792
+    },
+    {
+      "id": "218d6807",
+      "title": "illusion-of-control 보강: 비영어, SNS 파편, 하위 후보",
+      "priority": 50,
+      "note": "2026-11-04 작성. 하위 후보 buying-lottery-tickets(번호 직접 고르기), gamblers-fallacy. 한국어 후보 eopla.net/magazines/16320 (로그인 벽) '직접 숫자를 고른 로또의 당첨확률이 더 높게 느끼는 것도 통제의 환상'. Langer 1975 원문 필요",
+      "createdAt": "2026-11-04T21:24:47.209Z",
+      "seq": 3793
+    },
+    {
       "id": "d16898d2",
       "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
       "priority": 40,
@@ -571,14 +547,6 @@
       "note": "2026-11-02 서울신문 20160902008012 는 이미 [^3] 로 쓰임(단속반이 사라지면 사정이 달라졌다 대목 있음, 서술에 조건 문단 추가 가능 여부 확인). kgnews 908058 [^6]. 흡연자 본인의 공개 게시글 미발견",
       "createdAt": "2026-11-02T15:57:15.030Z",
       "seq": 3339
-    },
-    {
-      "id": "da854353",
-      "title": "avoiding-being-photographed 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-02 SNS Hacker News 45439706 더함. 문학 후보 Rupert Hughes In a Little Town Gutenberg 29561(문장 240자), maily.so/soon2/posts/92ze1eynrep 2023",
-      "createdAt": "2026-11-02T16:00:07.022Z",
-      "seq": 3344
     },
     {
       "id": "584b0df7",
@@ -859,6 +827,38 @@
       "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
       "createdAt": "2026-11-03T15:37:52.500Z",
       "seq": 3532
+    },
+    {
+      "id": "06f7d4d9",
+      "title": "following-others-to-evacuate 와 dismissing-fire-alarms 대립 근거",
+      "priority": 40,
+      "note": "2026-11-04 블라인드 2021-11-21 댓글 [^2] 은 오작동이라 무시하려다 남들이 대피해 나감. 같은 글을 dismissing-fire-alarms 에 넣으면 같은 계정 경로 경고라 다른 출처 필요",
+      "createdAt": "2026-11-04T21:27:25.669Z",
+      "seq": 3795
+    },
+    {
+      "id": "0d580aa9",
+      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
+      "priority": 40,
+      "note": "2026-11-04 작성. Parikh 외 1996 [^1] 은 수치심과 숨김을 함께 말함. pretending-to-understand(알아들은 척) 결과 간선 근거 후보, 2013년 경북대 문해 수기(자녀 숙제를 못 도와 바쁘다, 눈이 안 보인다 핑계) 원문 필요",
+      "createdAt": "2026-11-04T21:28:44.871Z",
+      "seq": 3796
+    },
+    {
+      "id": "7283854f",
+      "title": "self-blame-after-fraud 관계: complying-with-impersonation-calls 결과, 비학술 다른 시기",
+      "priority": 40,
+      "note": "2026-11-04 작성. clien park/17520704 (2022-08-29) 사기 뒤 초라하고 무능해 보였다는 글은 이 문서와 같은 사이트 다른 글. 보이스피싱 피해 뒤 자책 기사, 2010년 이전 파편 필요",
+      "createdAt": "2026-11-04T21:31:49.286Z",
+      "seq": 3797
+    },
+    {
+      "id": "93a961bf",
+      "title": "hesitating-to-use-maternity-seats 와 not-yielding-maternity-seats 관계, 공공 파편",
+      "priority": 40,
+      "note": "2026-11-04 작성. 아주경제 2017 [^1] 은 일반 승객에게 밀려 자리를 내준다고 함(not-yielding-maternity-seats 결과 후보). 인구보건복지협회 2018, 2025 조사(미양보나 시선으로 불편 57.6%) 원문 필요",
+      "createdAt": "2026-11-04T21:33:12.329Z",
+      "seq": 3798
     },
     {
       "id": "e8ba47a7",
@@ -1253,6 +1253,46 @@
       "seq": 3473
     },
     {
+      "id": "53e6678f",
+      "title": "comparing-children-to-others 보강: bragging-about-children 관계",
+      "priority": 30,
+      "note": "2026-11-04 두 번째 시도도 원인 문장 없음: 매일신문 2009-12-04 서정오 칼럼은 언론의 영재 이야기로 자기 아들을 째려본다(매체 보도가 계기), lillydoo comparison-among-parents, yugacrew crewtalk/2576 자랑 문장 없음. Burton Mail 2022 baby brags 32% 실패 걱정은 다른 판 필요. 이전: clien park/2329693, HN 37452946, workingus ?p=3351161",
+      "createdAt": "2026-11-04T21:09:40.201Z",
+      "seq": 3782
+    },
+    {
+      "id": "172471b2",
+      "title": "counting-down-the-days 보강: 관계 간선",
+      "priority": 30,
+      "note": "2026-11-04 두 번째 시도: 영국 TUI 조사 기사 thestar, scotsman 판도 403. psnews.com.au merry-mouthful (Nawijn 휴가 기대 행복) 남은 날 세기 문장 없음. 강림절 달력 연구 못 찾음. 이전: PLOS ONE 0304660 상관만, cas.au.dk 2017-04-19 미확인",
+      "createdAt": "2026-11-04T21:15:08.352Z",
+      "seq": 3784
+    },
+    {
+      "id": "acf95d5c",
+      "title": "continuing-bonds 하위 후보: sensing-presence-of-the-dead, dreams-of-the-deceased",
+      "priority": 30,
+      "note": "2026-11-04 keeping-belongings-of-the-dead 를 continuing-bonds 하위로 더함(근거 Gibson 류 2014 [^5] 옷이 산 사람과 죽은 사람의 관계를 이어 감). 고인의 존재를 느끼거나 꿈꾸는 것은 겪는 일이라 관계를 이어 가는 행동인지 출처 필요",
+      "createdAt": "2026-11-04T21:15:36.031Z",
+      "seq": 3785
+    },
+    {
+      "id": "814a7bd0",
+      "title": "working-longer-at-home 와 after-hours-work-replies 관계",
+      "priority": 30,
+      "note": "2026-11-04 후보: eurofound 블로그 does-new-telework-generation-need-right-disconnect, blog/2022/do-we-really-have-right-disconnect 에 telework 가 always on 문화를 낳아 근무 뒤 이메일, 전화에 답하게 한다는 문장이 있다고 검색 요약이 전함. 이 환경에서 eurofound 429. 이전: utexas 2013, SHRM 2020 인과 문장 없음",
+      "createdAt": "2026-11-04T21:16:05.369Z",
+      "seq": 3786
+    },
+    {
+      "id": "4ef3132e",
+      "title": "resume-embellishment 보강: 공공 파편, 원인",
+      "priority": 30,
+      "note": "2026-11-04 두 번째 시도: korea.kr 보도자료 못 찾음. GAO-04-771T, 04-1096T 는 연방 공무원의 학위공장 학위 조사라 이력서 거짓 문장 아님. HEDD(Prospects) 고용주 확인 조사는 매체 보도만 있음(hrreview 48858, thehrdirector). 이전: Cifas application-fraud-by-middle-aged-job-seekers",
+      "createdAt": "2026-11-04T21:16:42.117Z",
+      "seq": 3787
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1333,6 +1373,14 @@
       "seq": 3470
     },
     {
+      "id": "b8a88931",
+      "title": "overpacking 와 걱정 계열 문서의 원인 관계",
+      "priority": 20,
+      "note": "2026-11-04 세 번째 확인: globalrescue [^8] 의 통제를 잃을까 하는 불안에 맞는 문서 없음(future-anxiety, awaiting-uncertain-news 요약과 다름). 불확실성을 못 견디는 마음을 새 문서로 만들 출처가 있으면 원인 간선 근거가 됨",
+      "createdAt": "2026-11-04T21:17:52.549Z",
+      "seq": 3788
+    },
+    {
       "id": "870be3f4",
       "title": "식사비를 누가 낼지 상대와 상황으로 정하기",
       "priority": 10,
@@ -1365,36 +1413,12 @@
       "seq": 320
     },
     {
-      "id": "21521b5a",
-      "title": "부양의무자에게 가난 증명을 청하지 않기",
-      "priority": 10,
-      "note": "뉴스타파 2014-03-11 newstapa.org/article/pHRZU: 왕래 없는 자식의 가난까지 증명해야 해서 기초생활수급 신청 포기, 자존심. 특정 개인 서술이라 다른 출처 필요. not-claiming-benefits 원인 후보",
-      "createdAt": "2026-10-18T22:37:29.656Z",
-      "seq": 422
-    },
-    {
-      "id": "7711117c",
-      "title": "기초생활수급 신청 과정의 자존심 손상",
-      "priority": 10,
-      "note": "루리웹 2025-11-06 bbs.ruliweb.com/community/board/300143/read/72947567 '꼴랑 75만원 받자고 그 자존심 스크래치내면서 온갖 서류 다 준비하고 내 통장 다 까서 소득 증명까지 함?'. 지식iN 2008-05-28 docId=48305697 '제 자존심을 너무 무너뜨리더군요.' not-claiming-benefits 원인 또는 poverty-shame 하위 후보",
-      "createdAt": "2026-10-18T23:39:45.935Z",
-      "seq": 432
-    },
-    {
       "id": "d354c6f0",
       "title": "명예 문화의 평판 걱정",
       "priority": 10,
       "note": "apology-reluctance F6(Lin 외 2022 PNAS PMC9564922): 평판 걱정이 사과 꺼림을 이끈다. 원인 간선 후보",
       "createdAt": "2026-10-19T02:47:07.985Z",
       "seq": 448
-    },
-    {
-      "id": "870c1395",
-      "title": "사과하고 싶으면서 태연한 척하기",
-      "priority": 10,
-      "note": "Little Women 28장(gutenberg 514) Meg 'She longed to run to meet him, and beg pardon' 대목. apology-reluctance 하위 후보. 나도향 물레방아(위키문헌) 사과할 마음이 거친 말로 나옴: harsh-words-for-worry 관련",
-      "createdAt": "2026-10-19T02:47:08.108Z",
-      "seq": 449
     },
     {
       "id": "cb03f0aa",
@@ -1525,14 +1549,6 @@
       "seq": 602
     },
     {
-      "id": "451168a2",
-      "title": "새치기에 항의하기 (뒤에 선 사람이 더 항의)",
-      "priority": 10,
-      "note": "psychologyinaction.org 2014-04-29 Milgram's Other Work: 새치기한 사람 뒤에 선 사람이 앞에 선 사람보다 더 항의(자기 이익). staying-silent-at-line-cutting 과 긴장 후보. 원 논문 Milgram 외 1986 JPSP 51(4) 683, Brintzenhofe 2023 T&F OA 장(403)",
-      "createdAt": "2026-10-20T00:39:02.146Z",
-      "seq": 604
-    },
-    {
       "id": "189c7718",
       "title": "높은 사람에게 길 비켜 주기",
       "priority": 10,
@@ -1571,14 +1587,6 @@
       "note": "김유정 「소낙비」 ko.wikisource.org/wiki/소낙비 '섭섭한 낯으로 머뭇머뭇하다가 그냥 돌아갈 듯이 봉당 아래로 내려섰다'(발표 연도 페이지에 없음, 확인 필요). 나도향 「벙어리 삼룡이」 1925 '담에서서 주저주저하더니 담을 넘엇다'",
       "createdAt": "2026-10-20T03:02:19.269Z",
       "seq": 638
-    },
-    {
-      "id": "e8184d28",
-      "title": "공용 헬멧 위생 걱정으로 쓰지 않기",
-      "priority": 10,
-      "note": "bicycle-helmet-nonuse F8(canberra 2024) 이유에 hygiene concerns. 공유 킥보드 공용 헬멧. bicycle-helmet-nonuse 하위 후보",
-      "createdAt": "2026-10-20T03:41:41.438Z",
-      "seq": 652
     },
     {
       "id": "90fd64b5",
@@ -1629,14 +1637,6 @@
       "seq": 776
     },
     {
-      "id": "de63e791",
-      "title": "사기 피해 뒤 자책",
-      "priority": 10,
-      "note": "2026-10-21 clien.net/service/board/park/17520704 (2022-08-29) '제 자신이 너무 초라해보이고 무능력 해 보여서 정신적으로 너무 힘들었습니다', clien park/18400094 (2023-11-02) 대환대출 사기 '자괴감이 너무 밀려와요'. complying-with-impersonation-calls 결과 후보",
-      "createdAt": "2026-10-21T02:52:56.556Z",
-      "seq": 778
-    },
-    {
       "id": "cb760e3b",
       "title": "돈 걱정",
       "priority": 10,
@@ -1645,44 +1645,12 @@
       "seq": 784
     },
     {
-      "id": "6f8ed8bb",
-      "title": "읽지 못함을 숨기기",
-      "priority": 10,
-      "note": "2026-10-22 pretending-to-understand 탐색 중. scholars.uky.edu/en/publications/shame-and-health-literacy-the-unspoken-connection/ (Parikh 외 1996) 'Many patients with reading problems are ashamed and hide their inability to read.' 수치심 원인 후보. pretending-to-understand 와 관계 후보",
-      "createdAt": "2026-10-22T00:42:24.788Z",
-      "seq": 908
-    },
-    {
-      "id": "9e642eda",
-      "title": "유족의 장기기증 거부",
-      "priority": 10,
-      "note": "2026-10-22 delaying-organ-donor-registration 탐사 중. 뉴시스 2025-08-10 mobile.newsis.com/view/NISX20250808_0003283754 '생전에 기증 의사를 밝혀도 남겨진 가족들이 문화적 관습을 이유로 동의를 거부하는 경우가 적지 않다는 것이다.' NHSBT 2026-08-05 family support 하락. PMC6778422 가족과 뜻을 나누지 않은 80%",
-      "createdAt": "2026-10-22T04:48:44.954Z",
-      "seq": 917
-    },
-    {
-      "id": "70fae5c9",
-      "title": "매몰비용 때문에 그만두지 못하기",
-      "priority": 10,
-      "note": "2026-10-22 wikitree.co.kr/articles/1141915 (2026-06-17) 청첩장을 돌려 파혼 결정을 못 함(pre-wedding-doubts [^8]). pre-wedding-doubts 와 관계 후보",
-      "createdAt": "2026-10-22T07:01:20.238Z",
-      "seq": 942
-    },
-    {
       "id": "5bd13a89",
       "title": "분노를 곱씹기 (분노 반추)",
       "priority": 10,
       "note": "displaced-aggression [^4] Bushman 2005 kar.kent.ac.uk/34963: 도발을 곱씹으면 전위된 공격이 커짐. displaced-aggression 원인 후보",
       "createdAt": "2026-10-22T10:43:28.191Z",
       "seq": 956
-    },
-    {
-      "id": "bbefe5c2",
-      "title": "남들이 움직여야 따라 대피하기",
-      "priority": 10,
-      "note": "teamblind.com/kr 2021-11-21 화재경보 댓글: 오작동이라 무시하려다 다른 분들이 다 대피해서 나감. dismissing-fire-alarms 와 대립 또는 delayed-evacuation 하위 후보",
-      "createdAt": "2026-10-22T14:39:47.376Z",
-      "seq": 1016
     },
     {
       "id": "7265100c",
@@ -1709,14 +1677,6 @@
       "seq": 1078
     },
     {
-      "id": "e3739333",
-      "title": "문자로 도착 알리기",
-      "priority": 10,
-      "note": "hankyung.com/article/2026061970727 (2026-06-19) Uswitch 조사 18~29세 33% 가 초인종 대신 문자나 전화. hesitating-at-the-door [^6] 과 같은 글이라 다른 출처 필요(uswitch.com/media-centre/2026/06/...)",
-      "createdAt": "2026-10-22T18:41:58.993Z",
-      "seq": 1087
-    },
-    {
       "id": "2fca0911",
       "title": "약 먹는 걸 잊기(복약 깜빡함)",
       "priority": 10,
@@ -1739,22 +1699,6 @@
       "note": "2026-10-23 탐색. 매체만 찾음: cleanlink.com/news/article/Survey-Compares-Worker-Productivity-With-Restroom-Use--16544 (2014-01-08) 'Do you ever hide in the restroom during the working day?', 27 percent ... did', 71% time wasting, 14% avoid colleagues. initial.co.uk 2018 1/3 'break zone'(403), europeancleaningjournal SCA Hygiene Matters 2014 take time out 15%, jobplanet news-4537 월루 설문. 학술·SNS·공공 출처 필요",
       "createdAt": "2026-10-23T00:50:58.166Z",
       "seq": 1155
-    },
-    {
-      "id": "e50f903b",
-      "title": "춘곤증",
-      "priority": 10,
-      "note": "2026-10-23 탐색. korea.kr/news/healthView.do?newsId=148811089 (하이닥 제공 기사) '춘곤증은 주의집중 방해와 졸음운전으로 사고를 일으키기 쉬우므로' 는 driving-while-drowsy 원인 간선 후보, '운동이 부족하거나 과로가 쌓였거나 나이가 많은 경우에 춘곤증이 더욱 심하게' 조건. 하이닥 제공이라 종류(공공/매체) 판단 필요. 학술 후보 없음(pubmed 'spring fatigue' 는 Aten Primaria 2013 의료화 비판뿐). 생리 현상이라 범위 판단 필요",
-      "createdAt": "2026-10-23T00:54:39.782Z",
-      "seq": 1157
-    },
-    {
-      "id": "2b1791bc",
-      "title": "평균 이상 효과",
-      "priority": 10,
-      "note": "2026-10-23 탐색. 학술: Zell 외 2020 Psychol Bull PMID 31789535 eutils 초록 'The better-than-average-effect (BTAE) is the tendency for people to perceive their abilities, attributes, and personality traits as superior compared with their average peer', 조건 '(c) sample European Americans rather than East-Asians'. 매체 후보 valueresearchonline stories/32471 (403), Cross 1977 교수 94% 는 원출처 미확인. driving-overconfidence 의 상위 후보",
-      "createdAt": "2026-10-23T01:01:09.702Z",
-      "seq": 1162
     },
     {
       "id": "0020dbc7",
@@ -1781,28 +1725,12 @@
       "seq": 1303
     },
     {
-      "id": "93a6ba9d",
-      "title": "임산부 배려석 앉기 눈치",
-      "priority": 10,
-      "note": "2026-10-23 파편 우선 탐색 중. 매체 아주경제 2017-06-04 ajunews 20170604213320445 '정작 임산부 배려석을 마음 편히 이용하지 못하는 임산부들이 늘고 있다'(본문 사례에 실명 꼴 김모씨 있음, 그 대목은 쓰지 않음). 인구보건복지협회 2018 임산부 10명 중 9명 배려석 이용 불편. news.seoul.go.kr/traffic/archives/13937 은 제도 안내뿐. hesitating-to-offer-seat 와 관계 후보",
-      "createdAt": "2026-10-23T12:31:17.634Z",
-      "seq": 1315
-    },
-    {
       "id": "c5f3602e",
       "title": "틈날 때마다 휴대폰 집기",
       "priority": 10,
       "note": "2026-10-23 brunch.co.kr/@nodin/65 (2026-06-04) '횡단보도를 건너기 전에 잠깐 기다릴 때도 스마트폰을 봅니다.', kbmaeil.com/article/20260416500024 (2026-04-16) '조금만 틈이 난다 싶으면 자동으로 휴대폰에 손이 간다.' avoiding-being-alone-with-thoughts·boredom 관계 후보",
       "createdAt": "2026-10-23T21:09:57.286Z",
       "seq": 1371
-    },
-    {
-      "id": "4901a774",
-      "title": "핫핸드 믿음",
-      "priority": 10,
-      "note": "2026-10-23 dlab.sauder.ubc.ca/sjdm/journal/06001/jdm06001.htm 'In the gambler's fallacy, the coin is due; in the hot hand the person is hot.'(같은 URL은 gamblers-fallacy [^2]), tinbergen.nl/publication/166476 Kong 외 2019 'both the gambler's fallacy and the hot-hand fallacy can exist in different types of lottery games.' kbmaeil 201704270191001 같은 칼럼에 인형뽑기 반대 오류. gamblers-fallacy 와 대립 후보",
-      "createdAt": "2026-10-23T21:17:58.499Z",
-      "seq": 1373
     },
     {
       "id": "4f181236",
@@ -1899,22 +1827,6 @@
       "note": "클리앙 park/3072617 (2012-07-30) 댓글 '저 귀마개 안하고 해서 이명생겼습니다..ㅠ' 로 hearing-protection-nonuse 결과 간선. HN 37856868 도 이명을 귀마개 미착용 탓으로 돌림",
       "createdAt": "2026-10-24T09:08:53.754Z",
       "seq": 1501
-    },
-    {
-      "id": "dd7e8284",
-      "title": "손실 뒤 위험 감수 증가",
-      "priority": 10,
-      "note": "loss-chasing 결과 간선 후보. openjournals.ljmu.ac.uk/PJMR/article/view/3448 (2026-01-06) 'losses are experienced as highly emotional events, frequently leading to loss-chasing behaviour that intensifies subsequent risk-taking.' wikitree 1148428 (2026-07-25) 주식 물타기. disposition-effect 와 loss-chasing 인과 문장은 2026-10-24 탐색에서 미발견(evidenceinvestor 등은 출처 없는 주장)",
-      "createdAt": "2026-10-24T09:28:45.825Z",
-      "seq": 1515
-    },
-    {
-      "id": "1e775077",
-      "title": "통제 착각",
-      "priority": 10,
-      "note": "2026-10-24 pressing-placebo-buttons 작업 중. PMC9292938 (2021-09-08) Langer 1975 정의. pressing-placebo-buttons, buying-lottery-tickets, gamblers-fallacy 의 상위 후보. BBC 2013 magazine-23869955 'illusion of control' 대목은 이미 다른 대목을 썼으므로 다른 출처 필요",
-      "createdAt": "2026-10-24T12:27:58.973Z",
-      "seq": 1528
     },
     {
       "id": "8b57bcb0",
@@ -2645,6 +2557,30 @@
       "seq": 3726
     },
     {
+      "id": "ca52a019",
+      "title": "사과하고 싶으면서 태연한 척하기",
+      "priority": 10,
+      "note": "2026-11-04 Little Women(gutenberg 514) 은 이미 4개 문서가 써서 다섯째로 쓰면 validate 경고. 다른 문학이나 SNS 출처 필요. 나도향 물레방아(위키문헌) 후보. apology-reluctance 하위 후보",
+      "createdAt": "2026-11-04T21:20:04.733Z",
+      "seq": 3790
+    },
+    {
+      "id": "7be2bbb1",
+      "title": "문자로 도착 알리기",
+      "priority": 10,
+      "note": "2026-11-04 확인된 매체 후보: uswitch.com/media-centre/2026/06/im-outside-one-in-three-gen-z-have-ditched-the-doorbell/ (Gen Z 33% 문자나 전화, 39% 덜 끼어드는 느낌), thebuzzmagazines.com/articles/2019/06/doorbell-debate-here-text-out-replace-doorbells (어색한 만남을 피하려고 here 문자), yougov.com/en-us/daily-results/20170829-8d3ae-2 (WSJ 기사 소개). 매체뿐이라 학술이나 SNS 파편 필요. hesitating-at-the-door 와 관계 후보",
+      "createdAt": "2026-11-04T21:33:45.658Z",
+      "seq": 3799
+    },
+    {
+      "id": "dc052d9b",
+      "title": "공용 헬멧 위생 걱정으로 쓰지 않기",
+      "priority": 10,
+      "note": "2026-11-04 탐색: bizhankook articles/21979, 21146, 23688 은 업계 주장(공용 헬멧 위생, 방역 문제)과 착용률 25%뿐이고 이용자가 위생 때문에 쓰지 않는다는 문장 없음. 이전: bicycle-helmet-nonuse F8(canberra 2024) hygiene concerns",
+      "createdAt": "2026-11-04T21:34:51.770Z",
+      "seq": 3800
+    },
+    {
       "id": "02b2f242",
       "title": "독감 예방접종 거르기 보강: 한국 공공 출처",
       "priority": 5,
@@ -2683,6 +2619,14 @@
       "note": "2026-10-19 3차: yougov.com/en-gb 19784(2017-12-12) 는 F1 로 씀. 남은 후보: Emerald 학술 2편 curl 403(EJM 2022 doi 10.1108/EJM-06-2021-0460, Garzaniti 외 2011 doi 10.1108/09604521111185646), dcist.com 2006-01-23 은 질문문, kakaocorp 7888 은 NOT_FOUND 예상",
       "createdAt": "2026-10-19T23:01:16.507Z",
       "seq": 586
+    },
+    {
+      "id": "710c111c",
+      "title": "춘곤증",
+      "priority": 5,
+      "note": "2026-11-04 생리 현상이라 정점 범위 밖으로 보고 낮춤. 이전 노트: korea.kr healthView 148811089 (하이닥 제공), driving-while-drowsy 원인 후보",
+      "createdAt": "2026-11-04T21:25:07.705Z",
+      "seq": 3794
     }
   ]
 }
