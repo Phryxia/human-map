@@ -35,4 +35,3 @@
   - [출입 금지된 샛길 산행](../docs/hiking-closed-trails.md)
 - [중고 직거래 상대를 만나는 부담](../docs/wariness-meeting-secondhand-buyers.md) 온라인으로 중고 물건을 사고파는 사람이 처음 보는 거래 상대를 직접 만나는 일을 부담스러워하고 사람이 많은 곳에서 만나려 한다.
 - [한 사람이 나서면 따라 돕기](../docs/helping-after-first-helper.md) 도움이 필요한 사람을 보고도 지나치던 구경꾼들이 한 사람이 먼저 돕기 시작하면 따라 돕는다.
-- [효과 없는 버튼 누르기](../docs/pressing-placebo-buttons.md) 신호나 문이 바뀌기를 기다리는 사람이 누른 효과가 거의 없는 횡단보도 버튼이나 엘리베이터 닫힘 버튼을 누른다.

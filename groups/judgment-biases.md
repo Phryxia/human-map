@@ -20,6 +20,8 @@
 - [자기 이익을 위한 정당화](../docs/self-serving-justification.md) 사람이 자기에게 이로운 쪽으로 행동하면서 그 행동이 옳거나 의무를 다한 것이라는 이유를 스스로 만들어 낸다.
   - [회사 비품 가져가기](../docs/taking-office-supplies.md)
 - [처분 효과](../docs/disposition-effect.md) 이익이 난 투자 자산은 일찍 팔고 손실이 난 투자 자산은 오래 쥐고 있는 투자자의 행동이다.
+- [통제 착각](../docs/illusion-of-control.md) 결과가 운에 달린 일을 앞둔 사람이 자기가 고르거나 손을 쓰면 결과를 좌우할 수 있다고 느낀다.
+  - [효과 없는 버튼 누르기](../docs/pressing-placebo-buttons.md)
 - [평균 이상 효과](../docs/better-than-average-effect.md) 사람이 자기 능력과 성격을 같은 처지의 평균적인 사람보다 낫다고 평가한다.
   - [운전 실력 과신](../docs/driving-overconfidence.md)
 - [학습된 무력감](../docs/learned-helplessness.md) 피할 수 없는 나쁜 일을 겪은 사람이 나중에 그 일을 피하거나 바꿀 수 있을 때에도 시도하지 않는다.

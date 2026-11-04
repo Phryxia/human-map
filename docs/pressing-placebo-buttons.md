@@ -16,7 +16,7 @@
 
 ## 상위
 
-없음.
+- [통제 착각](illusion-of-control.md)
 
 ## 하위
 

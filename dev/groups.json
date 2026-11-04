@@ -72,7 +72,8 @@
       "false-consensus-effect",
       "underestimating-compliance",
       "hot-hand-belief",
-      "sunk-cost-persistence"
+      "sunk-cost-persistence",
+      "illusion-of-control"
     ]
   },
   {
@@ -335,7 +336,6 @@
       "weather-small-talk",
       "hesitating-at-the-door",
       "reservation-no-show",
-      "pressing-placebo-buttons",
       "overheard-phone-calls",
       "leaving-lost-items-unclaimed",
       "wariness-meeting-secondhand-buyers",
