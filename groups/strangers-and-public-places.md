@@ -27,6 +27,7 @@
 - [유실물 찾아가지 않기](../docs/leaving-lost-items-unclaimed.md) 대중교통에 옷이나 우산 같은 값싼 물건을 두고 내린 사람이 그 물건을 찾으러 가지 않는다.
 - [이웃과 엘리베이터 같이 타지 않기](../docs/avoiding-shared-elevator.md) 엘리베이터에 이웃이나 꺼리는 사람이 타 있거나 같이 탈 것 같으면 함께 타지 않으려고 기다리거나 늦게 나간다.
 - [인사 안 받는 이웃에게 아는 체 그만두기](../docs/stopping-greeting-unresponsive-neighbor.md) 이웃에게 건넨 인사에 반응이 없었던 사람이 그 뒤로 그 이웃에게 인사하지 않는다.
+- [임산부 배려석 앉기 눈치](../docs/hesitating-to-use-maternity-seats.md) 임신한 사람이 대중교통의 임산부 배려석에 앉거나 앉은 사람에게 비켜 달라고 하기를 남의 눈치가 보여 망설인다.
 - [자리 양보 망설임](../docs/hesitating-to-offer-seat.md) 대중교통에 앉은 사람이 노인이나 임산부에게 자리를 내줄지 망설이다 내주지 않거나 말없이 일어난다.
   - [임산부 배려석 비켜 주지 않기](../docs/not-yielding-maternity-seats.md)
 - [자리를 양보받고 늙었다고 느끼기](../docs/feeling-old-when-offered-a-seat.md) 대중교통에서 자리를 양보받은 사람이 자기가 늙어 보였다고 느껴 당황하거나 자리를 사양한다.
