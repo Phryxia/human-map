@@ -44,7 +44,6 @@
 - [고부 갈등](docs/mother-in-law-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [고용 불안](docs/job-insecurity.md) ([일터와 일자리](groups/work.md))
 - [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([돈과 소비](groups/money.md))
-- [고인의 유품 간직하기](docs/keeping-belongings-of-the-deceased.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [고인의 전화번호 지우지 못하기](docs/keeping-deceaseds-phone-number.md) ([돈과 소비](groups/money.md))
 - [고인의 존재를 느끼기](docs/sensing-presence-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [공용 와이파이에서 민감한 일 하기](docs/sensitive-tasks-on-public-wifi.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
