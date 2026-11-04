@@ -1,0 +1,43 @@
+# 푸드뱅크 이용 수치심
+
+별칭: 없음
+
+먹을 것이 모자란 사람이 푸드뱅크나 무료급식소에 가는 일을 부끄러워하고 아는 사람의 눈을 피한다.
+
+# 서술
+
+2007년 캐나다 상원 위원회 회의록[^1]에서 한 증인은 사람들이 어두울 때 와서 음식을 받아 갈 수 있게 저녁에도 문을 여는 푸드뱅크들이 있다고 말했다. 증인은 그 사람들이 자기 형편이 어렵다는 것을 이웃이 알기를 바라지 않는다고 덧붙였다.
+
+2015년 스코틀랜드 북동부의 푸드뱅크 이용 연구[^2]에서 한 참가자는 푸드뱅크에 가는 일이 몹시 자존심이 꺾이는 경험이고 창피하며 부끄럽지만 절박하다고 말했다.
+
+2022년 포럼 댓글[^3]의 글쓴이는 도움이 필요하면서도 자존심 때문에 자기 고객을 보내던 푸드뱅크에 가지 못한다고 적었다. 2023년 세계일보 기사[^4]에 따르면 무료급식소를 찾는 노인에게는 평생 살아온 동네, 자기를 아는 사람이 있는 동네의 무료급식소에 가는 일이 어렵다. 같은 해 캐나다 하원 위원회 증언록[^5]에서 한 증인은 사람들이 푸드뱅크에 도움을 구하지 않는 까닭 가운데 하나로 낙인이 꼽혔다고 말했다.
+
+# 관계
+
+## 상위
+
+- [가난 수치심](poverty-shame.md)
+
+## 하위
+
+없음.
+
+## 원인
+
+없음.
+
+## 결과
+
+없음.
+
+## 대립
+
+없음.
+
+#돈 #마음
+
+[^1]: [공공] "food banks staying open in the evenings so that people can come in darkness to access food. They do not want their neighbours to know that they are in dire straits." (사람들이 어두울 때 와서 음식을 받을 수 있도록 저녁에도 문을 여는 푸드뱅크. 그들은 자기가 어려운 처지라는 것을 이웃이 알기를 원하지 않습니다.) — Senate of Canada, Standing Senate Committee on Agriculture and Forestry, 「Proceedings, 39th Parliament, 1st Session」, 2007-02-06, https://sencanada.ca/en/Content/SEN/Committee/391/agri/14eva-e, 2026-11-04 접속
+[^2]: [학술] "It's a very humbling experience, very embarrassing and you feel ashamed, but you're desperate." (몹시 자존심이 꺾이는 경험이고 아주 창피하고 부끄럽지만 절박하다.) — Flora Douglas, Jennifer Sapko, Kirsty Kiezebrink, Janet Kyle, 「Resourcefulness, Desperation, Shame, Gratitude and Powerlessness: Common Themes Emerging from A Study of Food Bank Use in Northeast Scotland」, AIMS Public Health 2(3), 2015-07-23, https://pmc.ncbi.nlm.nih.gov/articles/PMC5690237/, 2026-11-04 접속
+[^3]: [SNS] "Pride is hindering me from accessing the food bank- where I’ve sent my own clients!! But I’m in need- and if I can get some groceries free- would be appreciated." (자존심 때문에 푸드뱅크에 가지 못하고 있다. 내 고객들을 보내던 곳인데! 하지만 나는 도움이 필요하고 식료품을 공짜로 얻을 수 있다면 고마울 것이다.) — MoneySavingExpert 포럼, 댓글, 2022-07-28, https://forums.moneysavingexpert.com/discussion/6374618/money-moral-dilemma-should-someone-who-earns-a-decent-wage-use-food-banks/p8, 2026-11-04 접속
+[^4]: [매체] "자신이 한평생 살아온 동네, 나를 아는 사람이 있는 동네의 무료급식소에 가는 것이 어렵기 때문이다." — 최상수, 「온기 가득 담은 '밥' 한 끼… 모락모락 '퍼'지는 행복 [밀착취재]」, 세계일보, 2023-01-24, https://www.segye.com/newsView/20230117524967, 2026-11-04 접속
+[^5]: [공공] "Stigma was cited as one reason that people are not seeking help from food banks." (낙인은 사람들이 푸드뱅크에 도움을 구하지 않는 이유 가운데 하나로 꼽혔습니다.) — House of Commons of Canada, Standing Committee on Agriculture and Agri-Food, 「Evidence, Meeting 57, 44th Parliament, 1st Session」, 2023-04-19, https://www.ourcommons.ca/DocumentViewer/en/44-1/AGRI/meeting-57/evidence, 2026-11-04 접속

@@ -7,6 +7,7 @@
 - [가난 감추기](../docs/concealing-poverty.md) 가난한 사람이 자신의 가난이나 굶주림, 도움이 필요한 형편을 남이나 식구에게 숨긴다.
   - [가난을 숨기려는 또래 관계 회피](../docs/poverty-peer-withdrawal.md)
 - [가난 수치심](../docs/poverty-shame.md) 가난한 사람이 남이 자기 형편을 보는 자리에서 부끄러움을 느낀다.
+  - [푸드뱅크 이용 수치심](../docs/food-bank-shame.md)
 - [가진 것 과시하기](../docs/showing-off-possessions.md) 남의 눈을 의식하는 사람이 자기가 가진 물건, 돈, 지위를 다른 사람이 보도록 일부러 드러낸다.
 - [값 흥정](../docs/haggling.md) 물건값이나 삯을 두고 사는 사람과 파는 사람이 값을 깎거나 지키려고 말을 주고받는다.
 - [계산 피하기](../docs/dodging-the-bill.md) 여럿이 먹고 계산할 때가 되면 신발끈을 묶거나 화장실에 가거나 지갑을 두고 와서 다른 사람이 계산하게 둔다.
