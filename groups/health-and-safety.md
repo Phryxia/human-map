@@ -42,6 +42,7 @@
 - [야식 먹기](../docs/late-night-eating.md) 저녁 식사를 마친 사람이 잠들기 전 밤늦은 시간에 다시 음식을 먹는다.
 - [의무 해제 뒤에도 마스크 쓰기](../docs/keeping-mask-after-mandate.md) 마스크 착용 의무가 풀린 뒤에도 사람이 습관이나 불편한 느낌 때문에 마스크를 계속 쓴다.
 - [의사에게 증상과 습관 줄여 말하기](../docs/withholding-information-from-doctors.md) 진료받는 사람이 의사에게 증상이나 음주 같은 생활습관을 줄여 말하거나 숨긴다.
+- [의사에게 질문하지 못하기](../docs/not-asking-doctors-questions.md) 진료받는 사람이나 보호자가 의료진을 귀찮게 하거나 바쁜 진료를 붙잡을까 봐 궁금한 것을 묻지 않는다.
 - [일부러 피부 태우기](../docs/intentional-tanning.md) 피부를 그을린 모습으로 만들고 싶은 사람이 햇볕이나 태닝 기계 아래에서 일부러 피부를 태운다.
 - [자기 전 양치 거르기](../docs/skipping-bedtime-toothbrushing.md) 밤에 잠자리에 드는 사람이 피곤하거나 귀찮아서 이를 닦지 않고 잔다.
 - [자외선 차단제 안 바르기](../docs/sunscreen-nonuse.md) 햇볕에 나가는 사람이 번거롭거나 필요 없다고 여겨 자외선 차단제를 바르지 않는다.
