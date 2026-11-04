@@ -41,6 +41,7 @@
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
+- [밤 소리를 침입자로 여기기](../docs/imagining-intruders-at-night.md) 밤에 집에 있는 사람이 작은 소리를 듣고 누가 들어왔다고 여기며 겁을 먹는다.
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
