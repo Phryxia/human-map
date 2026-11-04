@@ -27,6 +27,7 @@
 ## 하위
 
 - [보복이 두려워 신고하지 않기](not-reporting-for-fear-of-reprisal.md)
+- [사기 피해를 부끄러워 숨기기](scam-victim-silence.md)
 
 ## 원인
 
