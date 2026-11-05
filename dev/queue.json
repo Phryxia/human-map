@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T15:38:03.521Z",
-  "nextSeq": 3878,
-  "stops": 194,
+  "savedAt": "2026-11-05T18:35:27.709Z",
+  "nextSeq": 3891,
+  "stops": 195,
   "items": [
-    {
-      "id": "b0f574aa",
-      "title": "autumn-melancholy 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 seasonal-mood-change 를 상위로 둠. autumn-melancholy 자체의 학술 파편은 아직. 후보: Kasper 1989 (seasonal-mood-change 에 씀) 외 가을 기분 저하를 다룬 논문",
-      "createdAt": "2026-11-04T15:28:59.713Z",
-      "seq": 3739
-    },
-    {
-      "id": "6cc0ae12",
-      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: 'ahem' 학술 검색은 사전 항목뿐(wehd.com 1763 사전 '주의를 끌려는 감탄사' 는 사전). 이전: Wharton 2003 Pragmatics & Cognition ResearchGate 403, Nicholas Nickleby pg967 문학 후보",
-      "createdAt": "2026-11-04T15:29:15.753Z",
-      "seq": 3740
-    },
     {
       "id": "82740c57",
       "title": "putting-off-friends 관계: feeling-rushed, hesitating-to-contact-old-friends, loneliness",
@@ -53,14 +37,6 @@
       "seq": 3744
     },
     {
-      "id": "4a5ad71a",
-      "title": "sleepless-before-exciting-day 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: 검색 결과 요약에 'intense positive affective states may also interfere with sleep'(후회·자부심 조건 수면 연구) 이 있으나 PMC7667149 는 이 환경에서 본문 1만 자 남짓(봇 확인)으로 원문 확인 못 함. doc.rero.ch 10608_2013_Article_9532 는 PDF. 기대감과 입면 지연을 직접 다룬 논문 필요",
-      "createdAt": "2026-11-04T15:34:19.270Z",
-      "seq": 3745
-    },
-    {
       "id": "53fac44a",
       "title": "looking-at-old-photos 보강: nostalgia 관계",
       "priority": 50,
@@ -75,30 +51,6 @@
       "note": "2026-11-04 작성. Irish Times 2014 [^4] 제목이 excruciating encounters with my teenage self, 옛 일기 읽기가 과거 창피함 떠올리기를 일으킨다는 원인 문장 필요. 대체 원문 'the pages are brimming with awkward moments I had either blocked out or rewritten in my own head'. Decent 2023 PDF 의 embarrassment 때문에 일기를 다시 보지 않는다는 대목은 PDF 라 UNREACHABLE",
       "createdAt": "2026-11-04T18:18:02.364Z",
       "seq": 3753
-    },
-    {
-      "id": "629cea7a",
-      "title": "noticing-oneself-becoming-like-parents 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 작성. 학술 파편 없음. 후보: Erçevik Yüksel & Özcan 2025 Intergenerational Changes in Motherhood (Florence Nightingale Journal of Nursing), imperial.ac.uk/news/166150 양육 방식 전이, Progressive 보험 2,000명 조사(평균 30세에 부모 닮아 감을 알아차림, goodto 기사에 인용, 원문 200자 초과), marieclaire.co.uk/news/you-are-your-mother-217656 Hallmark 조사 32세",
-      "createdAt": "2026-11-04T18:29:05.656Z",
-      "seq": 3755
-    },
-    {
-      "id": "bf2f7a7d",
-      "title": "imagining-intruders-at-night 보강: 학술 파편, fear-of-the-dark 관계",
-      "priority": 50,
-      "note": "2026-11-04 작성. 학술 파편 없음. 후보 Knaggs 1996 ir.wgtn.ac.nz/handle/123456789/26548 혼자 사는 고령 여성이 어두워진 뒤 취약하다고 느낌(소리는 말하지 않음). Substack samjeancoop 글의 확인하러 가지 않으면 잠을 못 잘 것 같았다는 대목",
-      "createdAt": "2026-11-04T18:32:01.041Z",
-      "seq": 3756
-    },
-    {
-      "id": "36087d3b",
-      "title": "order-envy 보강: 원 논문 파편",
-      "priority": 50,
-      "note": "2026-11-04 작성. [^1] 은 AcaWiki 요약이라 발행일 미상. Ariely & Levav 2000 Journal of Consumer Research 27(3) 원문 HTML 필요, 후보 ideas.repec.org/a/oup/jconrs/v27y2000i3p279-90.html 미확인. OpenTable food envy 설문 보도자료 2016-2017 은 열리지 않음",
-      "createdAt": "2026-11-04T18:34:40.879Z",
-      "seq": 3757
     },
     {
       "id": "8fce6c0e",
@@ -131,14 +83,6 @@
       "note": "2026-11-04 작성. PsyBlog 2008-09 [^2] 은 끼어든 사람과 두 사람 떨어지면 항의가 5%로 떨어진다고 씀. 대립 근거 문장과 한국어 SNS, 공공 파편 필요",
       "createdAt": "2026-11-04T21:19:47.926Z",
       "seq": 3789
-    },
-    {
-      "id": "54f0a6df",
-      "title": "hot-hand-belief 보강: SNS 파편, gamblers-fallacy 관계",
-      "priority": 50,
-      "note": "2026-11-04 작성. Sundali, Croson 2006 JDM (gamblers-fallacy [^2], dlab.sauder.ubc.ca jdm06001) 은 개인 간 두 편향의 양의 상관이라 원인·대립 근거 아님. Gilovich 외 1985 농구 슛 연구 원문, 2000년 이전 파편 필요",
-      "createdAt": "2026-11-04T21:21:21.342Z",
-      "seq": 3791
     },
     {
       "id": "5ee65994",
@@ -395,6 +339,46 @@
       "note": "2026-11-04 추가. PMC61246 표 2 '질문하지 않는 이유' 에 바보처럼 보일까 봐 24% 도 있음. 공통 상위(도움 구하기 망설임) 또는 help-seeking-avoidance 상위 검토. dailian 1671044 의 '의사에게조차 쉽게 털어놓지 못했던 고민' 은 hiding-illness-from-family 관계 후보",
       "createdAt": "2026-11-05T15:38:02.570Z",
       "seq": 3877
+    },
+    {
+      "id": "8acc6fbc",
+      "title": "looking-for-oneself-first 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-05 추가. own-face-in-photos 와의 관계 후보: myLot 506489 댓글 'i always try to look first at myself in the photo. i wanna see if i look good' (같은 출처라 다른 글 필요). Epley 2008 은 own-face-in-photos 에 씀. EurekAlert 565186 'you'll look at yourself first — unless your boss is also in the picture' curl 403",
+      "createdAt": "2026-11-05T18:13:16.119Z",
+      "seq": 3885
+    },
+    {
+      "id": "5630079a",
+      "title": "unsent-letters 보강: Night and Day 파편",
+      "priority": 50,
+      "note": "Woolf Night and Day pg1245 '“I went home and wrote you a letter. I tore it up.”' 1919, 같은 출처를 rereading-messages-before-sending 이 씀(문서당 한 파편, 저장소 5문서 미만이면 됨)",
+      "createdAt": "2026-11-05T18:20:19.025Z",
+      "seq": 3887
+    },
+    {
+      "id": "52f4a4d3",
+      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-04 확인: 'ahem' 학술 검색은 사전 항목뿐(wehd.com 1763 사전 '주의를 끌려는 감탄사' 는 사전). 이전: Wharton 2003 Pragmatics & Cognition ResearchGate 403, Nicholas Nickleby pg967 문학 후보",
+      "createdAt": "2026-11-05T18:24:32.222Z",
+      "seq": 3888
+    },
+    {
+      "id": "e61306e2",
+      "title": "hot-hand-belief 보강: gamblers-fallacy 관계, 1985 원 논문",
+      "priority": 50,
+      "note": "2026-11-05 문학(The Gambler pg2197), SNS(HN 15780359) 추가. 남은 것: Gilovich 외 1985 초록 HTML 판(ScienceDirect 막힘), gamblers-fallacy 와 대립 근거 문장. HN 13255569 'it was the belief that sometime you get in a zone' 후보",
+      "createdAt": "2026-11-05T18:28:19.981Z",
+      "seq": 3889
+    },
+    {
+      "id": "8091d5df",
+      "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
+      "priority": 50,
+      "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. fear-of-the-dark 관계 근거 문장 필요. 공공 후보 일본 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html 'feeling unsafe in being alone at home at night' (curl 403)",
+      "createdAt": "2026-11-05T18:33:22.783Z",
+      "seq": 3890
     },
     {
       "id": "d16898d2",
@@ -2627,6 +2611,14 @@
       "note": "2026-11-05 상위 정리 완료. 남은 후보: Dozier 2020 PMC7445186 아이 미술 숙제, 오마이뉴스 A0003067199 아이들 편지 200여 통 보관. Little Women pg514 은 4개 문서가 써서 피함",
       "createdAt": "2026-11-05T12:35:47.702Z",
       "seq": 3859
+    },
+    {
+      "id": "d4f5dbde",
+      "title": "신문에서 자기 이름 찾기의 기쁨",
+      "priority": 10,
+      "note": "Chekhov 'Joy' pg13412 'only celebrated people whose names are published in the papers, and now they have gone and published mine!' looking-for-oneself-first 와 관련",
+      "createdAt": "2026-11-05T18:13:16.249Z",
+      "seq": 3886
     },
     {
       "id": "02b2f242",
