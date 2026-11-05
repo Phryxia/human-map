@@ -32,7 +32,7 @@
 
 ## 대립
 
-없음.
+- [흥정 회피](avoiding-haggling.md)[^3]
 
 #돈
 
