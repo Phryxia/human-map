@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T15:37:51.387Z",
-  "nextSeq": 3876,
-  "stops": 193,
+  "savedAt": "2026-11-05T15:38:03.521Z",
+  "nextSeq": 3878,
+  "stops": 194,
   "items": [
-    {
-      "id": "c6b8eeeb",
-      "title": "not-asking-doctors-questions 관계: withholding-information-from-doctors, not-asking-for-directions",
-      "priority": 50,
-      "note": "2026-11-04 추가. PMC61246 표 2 '질문하지 않는 이유' 에 바보처럼 보일까 봐 24% 도 있음. 공통 상위(도움 구하기 망설임) 또는 help-seeking-avoidance 상위 검토. dailian 1671044 의 '의사에게조차 쉽게 털어놓지 못했던 고민' 은 hiding-illness-from-family 관계 후보",
-      "createdAt": "2026-11-04T15:27:09.727Z",
-      "seq": 3738
-    },
     {
       "id": "b0f574aa",
       "title": "autumn-melancholy 보강: 학술 파편",
@@ -395,6 +387,14 @@
       "note": "2026-11-05 healthday 2003, redcross 2025 추가. 대한적십자사 재헌혈률 자료 여전히 없음. 후보: maitlandmercury 6237070 2019 호주 첫 헌혈자 43% 두 번째 안 함",
       "createdAt": "2026-11-05T15:37:51.264Z",
       "seq": 3875
+    },
+    {
+      "id": "e72d5017",
+      "title": "not-asking-doctors-questions 관계: withholding-information-from-doctors, not-asking-for-directions",
+      "priority": 50,
+      "note": "2026-11-04 추가. PMC61246 표 2 '질문하지 않는 이유' 에 바보처럼 보일까 봐 24% 도 있음. 공통 상위(도움 구하기 망설임) 또는 help-seeking-avoidance 상위 검토. dailian 1671044 의 '의사에게조차 쉽게 털어놓지 못했던 고민' 은 hiding-illness-from-family 관계 후보",
+      "createdAt": "2026-11-05T15:38:02.570Z",
+      "seq": 3877
     },
     {
       "id": "d16898d2",
