@@ -4431,21 +4431,21 @@
   },
   "https://news.ycombinator.com/item?id=13811411": {
     "first": "2026-10-20",
-    "last": "2026-11-03",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-05"
   },
   "https://www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm": {
     "first": "2026-10-20",
-    "last": "2026-11-04",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-05"
   },
   "https://news.ycombinator.com/item?id=42672920": {
     "first": "2026-10-20",
-    "last": "2026-11-03",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-05"
   },
   "https://koreascience.or.kr/article/JAKO200330758883987.page": {
     "first": "2026-10-20",
@@ -5312,9 +5312,9 @@
   },
   "https://www.faac.com/blog/2022/01/14/do-aggressive-drivers-speed-or-does-speed-make-us-aggressive/": {
     "first": "2026-10-20",
-    "last": "2026-11-03",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-05"
   },
   "https://cherwell.org/2025/05/20/exam-superstitions/": {
     "first": "2026-10-20",
@@ -5888,9 +5888,9 @@
   },
   "https://www.unsw.edu.au/newsroom/news/2022/05/when-roads-become-rivers--forming-a-plan-b-can-stop-people-drivi": {
     "first": "2026-10-21",
-    "last": "2026-11-03",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-05"
   },
   "https://www.weather.gov/safety/flood-turn-around-dont-drown": {
     "first": "2026-10-21",
@@ -17516,15 +17516,15 @@
   },
   "https://m.seoul.co.kr/news/2010/03/30/20100330800046": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-05"
   },
   "https://www.newsis.com/view/NISX20250728_0003268832": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-05"
   },
   "https://www.agingcare.com/discussions/mom-passed-a-month-ago-i-have-hardly-cried-what-is-wrong-with-me-434079.htm": {
     "first": "2026-11-02",
@@ -18361,9 +18361,9 @@
   },
   "https://theconversation.com/time-scarcity-is-a-slippery-slope-to-inactivity-69294": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-05"
   },
   "https://mediahub.seoul.go.kr/archives/819416": {
     "first": "2026-11-03",
@@ -19277,9 +19277,9 @@
   },
   "https://www.gqkorea.co.kr/?p=203288": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-05"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26436241&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
@@ -20289,6 +20289,12 @@
     "lastVerified": "2026-11-05"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4791211/": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://www.thelondoneconomic.com/lifestyle/brits-losing-out-on-face-to-face-time-with-friends-93312/": {
     "first": "2026-11-05",
     "last": "2026-11-05",
     "result": "VERIFIED",
