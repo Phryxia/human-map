@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T15:19:54.389Z",
-  "nextSeq": 3864,
+  "savedAt": "2026-11-05T15:28:39.791Z",
+  "nextSeq": 3866,
   "stops": 193,
   "items": [
-    {
-      "id": "3553d358",
-      "title": "not-using-cooling-centers 보강: 국내 공공 파편, 노인 본인 면담 학술",
-      "priority": 50,
-      "note": "2026-11-04 newstomato 1237003 (2023년 서울시 쪽방 실태조사 인용) 매체로 더함. 공공 원문: 2023년 서울시 쪽방 실태조사 보고서, 행안부 의뢰 '지역별 취약계층 분포 등을 고려한 쉼터 지정·운영 개선방안'(연세대 산학협력단) 원문 찾기 남음",
-      "createdAt": "2026-11-04T15:18:03.237Z",
-      "seq": 3733
-    },
     {
       "id": "67e3ae04",
       "title": "delaying-going-home 와 shrinking-in-hosts-home 관계",
@@ -387,6 +379,14 @@
       "note": "2026-11-05 확인: kennet.mhlw.go.jp e-04-004(2021-02-16) 은 야간 근무자 대목뿐이라 요약(잠들기 전)과 안 맞음. health.kdca.go.kr cntnts_sn=6693 은 '야간의 과도한 에너지 섭취 패턴' 위험 서술뿐. nhis.or.kr magazin/134/html/c06.html(스트레스 가짜 배고픔) 은 Connection reset 으로 못 읽음, 다시 시도. 이전: kdca artclView 312791, 뉴시스 2019-10-25",
       "createdAt": "2026-11-05T12:35:01.982Z",
       "seq": 3858
+    },
+    {
+      "id": "95985a3b",
+      "title": "senders-remorse 와 rereading-messages-before-sending 관계",
+      "priority": 50,
+      "note": "2026-11-05 확인: 한 문장 인과 없음. 후보: a-ha.io questions/4951841025d5c879a879ceb36da35bac 2024-11-25 '보내고 지울 바에야 애매하면 보내기 누르기 전에 빠르게 다시 한 번 훑어보고'(예상 후회), brunch whynotyoung/20 2019 '그 후로 ... 수신인 확인, 또다시 확인'(수신인), CHI 2021 Warner 'Oops... Mobile Message Deletion'(ACM 403, PDF). 이전: grammarly, richmondbizsense, brunch lkhyun0807 안 됨",
+      "createdAt": "2026-11-05T15:26:24.252Z",
+      "seq": 3865
     },
     {
       "id": "d16898d2",
