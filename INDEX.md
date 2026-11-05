@@ -79,6 +79,7 @@
 - [기침할 때 가리지 않기](docs/not-covering-coughs.md) ([건강과 위험](groups/health-and-safety.md))
 - [기후 행동 하지 않기](docs/climate-inaction.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [긴 통근 감수](docs/accepting-long-commute.md) ([일터와 일자리](groups/work.md))
+- [긴급차량에 길 비켜 주지 않기](docs/not-yielding-to-emergency-vehicles.md) ([길과 운전](groups/roads-and-driving.md))
 - [길에 쓰레기 버리기](docs/littering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [길을 잃고도 길 묻지 않기](docs/not-asking-for-directions.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [김 서린 유리에 손가락으로 쓰기](docs/writing-on-fogged-glass.md) ([시간과 하루 습관](groups/daily-time.md))

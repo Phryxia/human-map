@@ -7,6 +7,7 @@
 - [과속 운전](../docs/speeding.md) 운전자가 운전을 통제하고 있다고 믿거나 더 빨리 도착하려고 제한 속도보다 빠르게 달린다.
   - [단속 카메라 앞에서만 속도 줄이기](../docs/slowing-only-at-speed-cameras.md)
 - [교차로 꼬리물기](../docs/blocking-the-intersection.md) 운전자가 앞이 막혀 교차로를 다 건너지 못할 상황에서도 다음 신호를 기다리지 않고 앞차를 따라 교차로에 들어선다.
+- [긴급차량에 길 비켜 주지 않기](../docs/not-yielding-to-emergency-vehicles.md) 사이렌을 울리는 소방차나 구급차가 다가올 때 운전자가 길을 비켜 주지 않거나 당황해 엉뚱한 쪽으로 움직인다.
 - [다른 일을 하며 휴대전화 보기](../docs/phone-use-while-doing-other-things.md) 사람들이 걷기, 운전, 자전거 타기, 식사처럼 다른 일을 하는 동안 휴대전화 화면을 보거나 조작한다.
   - [걸으며 휴대전화 보기](../docs/walking-while-using-phone.md)
   - [운전 중 휴대전화 사용](../docs/phone-use-while-driving.md)
