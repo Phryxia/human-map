@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-04T21:34:52.976Z",
-  "nextSeq": 3801,
-  "stops": 188,
+  "savedAt": "2026-11-05T00:37:31.989Z",
+  "nextSeq": 3812,
+  "stops": 189,
   "items": [
     {
       "id": "70861051",
@@ -395,6 +395,46 @@
       "note": "2026-11-04 작성. 하위 후보 buying-lottery-tickets(번호 직접 고르기), gamblers-fallacy. 한국어 후보 eopla.net/magazines/16320 (로그인 벽) '직접 숫자를 고른 로또의 당첨확률이 더 높게 느끼는 것도 통제의 환상'. Langer 1975 원문 필요",
       "createdAt": "2026-11-04T21:24:47.209Z",
       "seq": 3793
+    },
+    {
+      "id": "ff84c852",
+      "title": "pocket-patting 원인: 물건 잃어버릴까 하는 불안",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: treatmyocd.com fear-of-losing-things-ocd (2023-11-13) 'The idea of losing things starts to cause distress and you may engage in compulsions in order to feel certain about where important things are.', ocduk.org/ocd/types (발행일 미상) 두고 가서 잃을까 두려워 주머니와 가방 확인. rechecking-door-and-stove 와 공통 상위(확인 행동) 후보: cambridge Behaviour Change 2015 Palmer 외 checking 과 미래 기억",
+      "createdAt": "2026-11-05T00:12:20.463Z",
+      "seq": 3807
+    },
+    {
+      "id": "c7c2ecd2",
+      "title": "first-day-nerves 보강: 원인 문장, 사라지는 시기",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: hrzone job-jitters-scarier-than-dentist 'put the stress of starting a new job down to a fear of making mistakes' (이미 [^4] 출처라 같은 문서엔 못 씀, 다른 출처 필요), tes.com primary-pupils-who-fear-transition (2008-02-08) 첫 학기 말 불안이 대체로 사라짐, PMC6123573 (2018) 진학 시기 걱정 내용, merton.gov.uk transition-secondary 길 잃기 사물함 걱정",
+      "createdAt": "2026-11-05T00:18:03.705Z",
+      "seq": 3808
+    },
+    {
+      "id": "2f2ad730",
+      "title": "imaginary-arguments 원인: 분함, 자기상",
+      "priority": 50,
+      "note": "2026-11-05 추가. mindcafe story 1869148 (이미 [^6]) 은 분해서 받아치는 상상 시작. samwoolfe 2020 원문 A 'Imaginary arguments often occur when we believe our self-image is significantly boosted or sullied by the winning or losing of arguments' (같은 출처라 같은 문서엔 못 씀). staircase-wit, replaying-conversations-afterward 와 관계 후보. ERIC EJ741130 (2006-07) II 로 갈등을 살려 둠, repository.lsu.edu facultybooks/355 (2010)",
+      "createdAt": "2026-11-05T00:26:43.232Z",
+      "seq": 3809
+    },
+    {
+      "id": "37101483",
+      "title": "feigning-absorption-to-avoid-talk 보강: SNS, 한국어, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-05 추가. 확인됨 3개(문학 1908, 매체 2011 Pew, 매체 2019 WCCB). 후보: gutenberg 2559 Man of Property 'He was invisible now behind his paper', gutenberg 1400 Great Expectations 낡은 신문 읽는 척, ecommons.cornell.edu 2020 헤드폰 낀 사람에게 말 덜 건다(상대 쪽), nbcnews wbna44148874 fake conversations. 4276 North and South 는 이미 4개 문서가 써서 못 씀. pretending-to-sleep-to-avoid-talk 와 공통 상위 후보",
+      "createdAt": "2026-11-05T00:33:52.712Z",
+      "seq": 3810
+    },
+    {
+      "id": "da19eeaa",
+      "title": "welcoming-first-snow 보강: 문학 파편 (체호프)",
+      "priority": 50,
+      "note": "2026-11-05 확인: gutenberg 1732 (Schoolmistress and other stories, Garnett 역) 'He liked the snow, the pale street lamps, the sharp black tracks left in the first snow by the feet of the passers-by.' 와 gutenberg 13415 'When the first snow has fallen, on the first day of sledge-driving it is pleasant to see the white earth' 원문 확인. 실린 단편 이름과 발행 연도를 txt 밖의 출처로 확인해야 함. gutenberg 514 Little Women 은 7개 문서가 써서 못 씀. 학술 후보 없음",
+      "createdAt": "2026-11-05T00:36:42.633Z",
+      "seq": 3811
     },
     {
       "id": "d16898d2",
