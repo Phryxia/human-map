@@ -52,10 +52,24 @@ export const RATE_LIMIT_PATTERNS = [/^\s*Too Many Requests\s*$/i, /Cookies must 
 export const isRateLimited = (reason = '') => reason === 'HTTP 429' || reason === '요청 제한'
 
 // 바이트를 Content-Type 의 charset, 없으면 앞부분의 meta charset 으로 디코딩한다. 네이트 뉴스처럼 EUC-KR 로 오는 페이지가 있다.
+// 둘 다 없으면 sniffDecode 가 UTF-8, Shift_JIS, EUC-KR 을 가린다.
 export function decodeBody(bytes, contentType = '') {
   const head = new TextDecoder('latin1').decode(bytes.subarray(0, 4096))
   const label = (/charset\s*=\s*["']?([\w-]+)/i.exec(contentType) ?? /<meta[^>]+charset\s*=\s*["']?([\w-]+)/i.exec(head))?.[1]
-  try { return new TextDecoder(label ?? 'utf-8').decode(bytes) } catch { return new TextDecoder('utf-8').decode(bytes) }
+  if (label) try { return new TextDecoder(label).decode(bytes) } catch {}
+  return sniffDecode(bytes)
+}
+
+// charset 선언이 없으면 UTF-8 로 엄격히 풀어 보고, 실패하면 Shift_JIS 로 풀어 히라가나·가타카나가 나오는지 본다.
+// EUC-KR 바이트는 0x82 리드를 쓰지 않아 Shift_JIS 로 풀어도 히라가나가 생기지 않는다. 둘 다 아니면 EUC-KR 이다.
+// mhlw.go.jp 의 1999년 통계 페이지가 선언 없는 Shift_JIS 다.
+function sniffDecode(bytes) {
+  try { return new TextDecoder('utf-8', {fatal: true}).decode(bytes) } catch {}
+  try {
+    const ja = new TextDecoder('shift_jis', {fatal: true}).decode(bytes)
+    if (/[\u3040-\u30ff]/.test(ja)) return ja
+  } catch {}
+  return new TextDecoder('euc-kr').decode(bytes)
 }
 
 async function fetchOnce(url, ua, {timeout, fetchImpl}) {

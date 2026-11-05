@@ -1,6 +1,6 @@
 import {test} from 'node:test'
 import assert from 'node:assert/strict'
-import {normalize, extractText, quoteIn, judge, daysBetween, fetchText, hostBlocked, recheckText, isRateLimited} from './lib/source.mjs'
+import {normalize, extractText, quoteIn, judge, daysBetween, fetchText, hostBlocked, recheckText, isRateLimited, decodeBody} from './lib/source.mjs'
 
 test('normalize: 따옴표, 대시, 공백 종류를 맞춘다', () => {
   assert.equal(normalize('“그는” 말했다 – 그리고  떠났다'), '"그는" 말했다 - 그리고 떠났다')
@@ -184,6 +184,16 @@ test('fetchText: EUC-KR 페이지는 Content-Type 이나 meta charset 을 읽어
     const page = await fetchText('https://m.news.nate.com/view/20260110n00225', {fetchImpl, quote: '평소 미용사가 말 거는 게 싫어 자는 척'})
     assert.ok(page.ok && quoteIn(page.text, '평소 미용사가 말 거는 게 싫어 자는 척'), ct)
   }
+})
+
+// mhlw.go.jp 의 1999년 통계 페이지는 Content-Type 에 charset 이 없고 meta charset 도 없는 Shift_JIS 다(2026-11-05).
+test('decodeBody: charset 선언이 없고 UTF-8 이 아니면 Shift_JIS 와 EUC-KR 을 가려 디코딩한다', () => {
+  const ja = '<HTML><BODY>男では、「朝起きたとき」「夜寝る前」がともに46.9％と多く</BODY></HTML>'
+  const ko = '<html><body>평소 미용사가 말 거는 게 싫어 자는 척</body></html>'
+  const sjis = Buffer.from('3c48544d4c3e3c424f44593e926a82c582cd8141817592a98b4e82ab82bd82c682ab8176817596e9905182e9914f817682aa82c682e082c934362e39819382c691bd82ad3c2f424f44593e3c2f48544d4c3e', 'hex')
+  assert.equal(decodeBody(sjis, 'text/html'), ja)
+  assert.equal(decodeBody(Buffer.from('3c68746d6c3e3c626f64793ec6f2bcd220b9ccbfebbbe7b0a120b8bb20b0c5b4c220b0d420bdc8beee20c0dab4c220c3b43c2f626f64793e3c2f68746d6c3e', 'hex'), 'text/html'), ko)
+  assert.equal(decodeBody(Buffer.from(ko), 'text/html'), ko)
 })
 
 // instiz.net 은 2026-10-19 오전 VERIFIED 였던 name/49861851 을 저녁에 403 으로 줬고, 홈(/)도 403 이었다. 글이 아니라 호스트가 막은 것이다.
