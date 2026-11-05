@@ -14,6 +14,8 @@
 
 2021년 주간경향 칼럼[^5]의 필자는 어린 시절 연필로 눌러쓴 일기를 가끔 보는데 자기가 썼는데도 낯설게 느껴진다고 적었다. 2023년 연구[^6]의 저자는 14세부터 43세까지 쓴 자기 일기 가운데 일부를 골라 그 위에 되돌아보는 글과 창작하는 글을 써 넣었다.
 
+2024년 Varsity 에세이[^7]의 필자는 10대 때 쓴 일기에서 유난히 오글거리는 대목을 읽을 때면 몸을 웅크리고 이를 악물고 싶어진다고 적었다.
+
 # 관계
 
 ## 상위
@@ -30,7 +32,7 @@
 
 ## 결과
 
-없음.
+- [지난 창피한 일 떠올리며 몸서리치기](cringing-at-past-embarrassment.md)[^7]
 
 ## 대립
 
@@ -44,3 +46,4 @@
 [^4]: [매체] "The whole point of returning to this journal was to glean something worthwhile from my teenage self. Instead I’m taken aback at how clueless I was." (이 일기로 돌아온 목적은 10대의 나에게서 쓸 만한 무언가를 얻는 것이었다. 그런데 나는 내가 얼마나 아무것도 몰랐는지에 놀란다.) — Cian Traynor, "Morto for me: excruciating encounters with my teenage self in an old diary", The Irish Times, 2014-07-24, https://www.irishtimes.com/life-and-style/people/morto-for-me-excruciating-encounters-with-my-teenage-self-in-an-old-diary-1.1869550, 2026-11-04 접속
 [^5]: [매체] "가끔 연필로 꾹꾹 눌러쓴 어린시절 일기를 본다. 내가 썼는데 낯설게 느껴지는 독특한 경험이다." — 노도현, "[꼬다리] 낯선 일기장", 주간경향, 2021-04-05, https://weekly.khan.co.kr/article/202104051530211, 2026-11-04 접속
 [^6]: [학술] "In this study, I selected a sample of my own historic diary entries (ages 14–43) and wrote into them reflectively and creatively." (이 연구에서 나는 14세부터 43세까지 쓴 내 옛 일기 가운데 일부를 골라 그 위에 되돌아보며 창작하듯 글을 써 넣었다.) — Emma Decent, "Full Circle: A Heuristic Inquiry into the Experience and Therapeutic Value of Revisiting and Exploring Personal Historic Diary Material Using Writing and Performance", LIRIC Journal 3(1), 2023-10-01, https://liric.lapidus.org.uk/index.php/lirj/article/view/54, 2026-11-04 접속
+[^7]: [매체] "I find myself fighting the urge to curl up into a ball and grit my teeth as I read a particularly cringe-worthy extract." (유난히 오글거리는 대목을 읽을 때면 몸을 공처럼 웅크리고 이를 악물고 싶은 충동과 싸우게 된다.) — Bex Goodchild, "Dear diary … my heart hurts at how time passes", Varsity, 2024-11-01, https://www.varsity.co.uk/lifestyle/28154, 2026-11-05 접속

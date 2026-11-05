@@ -14,6 +14,8 @@
 
 2022년 The Conversation 글[^6]의 필자는 몇 년 전 사람들 앞에서 저지른 실수가 떠오르면 몸서리치며 부끄러워 죽고 싶어진다고 적었다.
 
+2024년 Varsity 에세이[^7]의 필자는 10대 때 쓴 일기에서 유난히 오글거리는 대목을 읽을 때면 몸을 웅크리고 이를 악물고 싶어진다고 적었다.
+
 # 관계
 
 ## 상위
@@ -26,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [옛 일기 다시 읽기](rereading-old-diaries.md)[^7]
 
 ## 결과
 
@@ -44,3 +46,4 @@
 [^4]: [SNS] "생각해보면 별 일도 아닌데 자려고 누웠다가 생각나서 이불을 펑펑... ㅠㅠ 혹시 딴분들은 그런 일 있으신지요?" — 클리앙, 게시글, 2019-08-07, https://www.clien.net/service/board/park/13797720, 2026-10-23 접속
 [^5]: [학술] "Involuntary (versus voluntary) memories and future events were associated with a heightened emotional response independent of social anxiety" (비자발적(자발적과 대비한) 기억과 미래 사건은 사회불안과 무관하게 더 강한 정서 반응과 연관되었다) — Alejandro Del Palacio-Gonzalez, Dorthe Berntsen, "Involuntary autobiographical memories and future projections in social anxiety", Memory 28(4), 2020-04, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32148184&rettype=abstract&retmode=text, 2026-10-23 접속
 [^6]: [매체] "Or that time a few years ago when you made a social gaffe. You cringe and just want to die of shame." (또는 몇 년 전 사람들 앞에서 실수했던 때. 몸서리치며 부끄러워 그냥 죽고 싶어진다.) — David John Hallford, 「Why do I remember embarrassing things I’ve said or done in the past and feel ashamed all over again?」, The Conversation, 2022-11-09, https://theconversation.com/why-do-i-remember-embarrassing-things-ive-said-or-done-in-the-past-and-feel-ashamed-all-over-again-190535, 2026-10-23 접속
+[^7]: [매체] "I find myself fighting the urge to curl up into a ball and grit my teeth as I read a particularly cringe-worthy extract." (유난히 오글거리는 대목을 읽을 때면 몸을 공처럼 웅크리고 이를 악물고 싶은 충동과 싸우게 된다.) — Bex Goodchild, "Dear diary … my heart hurts at how time passes", Varsity, 2024-11-01, https://www.varsity.co.uk/lifestyle/28154, 2026-11-05 접속
