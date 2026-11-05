@@ -12,6 +12,8 @@
 
 2022년 포럼 댓글[^3]의 글쓴이는 도움이 필요하면서도 자존심 때문에 자기 고객을 보내던 푸드뱅크에 가지 못한다고 적었다. 2023년 세계일보 기사[^4]에 따르면 무료급식소를 찾는 노인에게는 평생 살아온 동네, 자기를 아는 사람이 있는 동네의 무료급식소에 가는 일이 어렵다. 같은 해 캐나다 하원 위원회 증언록[^5]에서 한 증인은 사람들이 푸드뱅크에 도움을 구하지 않는 까닭 가운데 하나로 낙인이 꼽혔다고 말했다.
 
+2024년 푸드뱅크 캐나다의 글[^6]은 낙인과 수치심, 창피함 때문에 많은 사람이 푸드뱅크를 이용하지 못한다고 적었다. 글에 따르면 조사 응답자들이 이 점을 거듭 말했다.
+
 # 관계
 
 ## 상위
@@ -28,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [도움 요청 회피](help-seeking-avoidance.md)[^6]
 
 ## 대립
 
@@ -41,3 +43,4 @@
 [^3]: [SNS] "Pride is hindering me from accessing the food bank- where I’ve sent my own clients!! But I’m in need- and if I can get some groceries free- would be appreciated." (자존심 때문에 푸드뱅크에 가지 못하고 있다. 내 고객들을 보내던 곳인데! 하지만 나는 도움이 필요하고 식료품을 공짜로 얻을 수 있다면 고마울 것이다.) — MoneySavingExpert 포럼, 댓글, 2022-07-28, https://forums.moneysavingexpert.com/discussion/6374618/money-moral-dilemma-should-someone-who-earns-a-decent-wage-use-food-banks/p8, 2026-11-04 접속
 [^4]: [매체] "자신이 한평생 살아온 동네, 나를 아는 사람이 있는 동네의 무료급식소에 가는 것이 어렵기 때문이다." — 최상수, 「온기 가득 담은 '밥' 한 끼… 모락모락 '퍼'지는 행복 [밀착취재]」, 세계일보, 2023-01-24, https://www.segye.com/newsView/20230117524967, 2026-11-04 접속
 [^5]: [공공] "Stigma was cited as one reason that people are not seeking help from food banks." (낙인은 사람들이 푸드뱅크에 도움을 구하지 않는 이유 가운데 하나로 꼽혔습니다.) — House of Commons of Canada, Standing Committee on Agriculture and Agri-Food, 「Evidence, Meeting 57, 44th Parliament, 1st Session」, 2023-04-19, https://www.ourcommons.ca/DocumentViewer/en/44-1/AGRI/meeting-57/evidence, 2026-11-04 접속
+[^6]: [매체] "One of these solutions includes addressing the stigma, shame and embarrassment that prevent many from accessing a food bank — an issue respondents emphasized repeatedly that needs to be addressed." (해결책 가운데 하나는 많은 사람이 푸드뱅크를 이용하지 못하게 막는 낙인과 수치심, 창피함을 다루는 것이다. 응답자들은 이 문제를 다루어야 한다고 거듭 강조했다.) — Food Banks Canada, 「Addressing the stigma that prevents many people from accessing food banks」, 2024-04-24, https://foodbankscanada.ca/addressing-the-stigma-that-prevents-many-people-from-accessing-food-banks/, 2026-11-05 접속

@@ -14,7 +14,7 @@
 
 2022년 Du 등은 가까운 가족이나 친구가 있어도 노인들이 남에게 짐이 되지 않으려고 도움을 청하기보다 혼자 어려움을 넘기려 한다고 적었다.[^6] 2023년 클리앙 게시글의 글쓴이는 민폐라고 생각해서 일을 안 하면 안 했지 도와 달라는 말은 하지 않는다고 적었다.[^7]
 
-2025년 Nakahara 의 초록은 기존 이론의 가정을 소개한다. 그 가정에서 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하고 도움 요청을 억제한다.[^8] 2026년 8월 글[^9]의 기사가 전한 조사에서 장기요양서비스를 쓰지 않는 수급자의 미이용 사유 가운데 다른 사람의 도움을 받는 것이 꺼려져서가 39.6%로 가장 많았다.
+2025년 Nakahara 의 초록은 기존 이론의 가정을 소개한다. 그 가정에서 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하고 도움 요청을 억제한다.[^9] 2026년 8월 글[^10]의 기사가 전한 조사에서 장기요양서비스를 쓰지 않는 수급자의 미이용 사유 가운데 다른 사람의 도움을 받는 것이 꺼려져서가 39.6%로 가장 많았다.
 
 # 관계
 
@@ -31,8 +31,9 @@
 ## 원인
 
 - [부채감](indebtedness.md)[^5]
-- [도움받을 때의 자존감 위협](threat-in-receiving-help.md)[^8]
+- [도움받을 때의 자존감 위협](threat-in-receiving-help.md)[^9]
 - [짐이 되기 싫은 마음](self-perceived-burden.md)[^6]
+- [푸드뱅크 이용 수치심](food-bank-shame.md)[^8]
 
 ## 결과
 
@@ -51,5 +52,6 @@
 [^5]: [매체] "Many were reluctant to request a service or borrow an item that they needed unless they could first help someone else or return the favor immediately." (많은 참여자가 먼저 다른 사람을 돕거나 곧바로 신세를 갚을 수 있지 않으면 필요한 서비스를 청하거나 물건을 빌리기를 꺼렸다.) — UC Berkeley School of Information, "Online Community Members Resist Being Freeloaders, Researchers Find", 2013-02-27, https://www.ischool.berkeley.edu/news/2013/online-community-members-resist-being-freeloaders-researchers-find, 2026-10-18 접속
 [^6]: [학술] "However, despite having close family or friends, older adults still seem to prefer to overcome difficulties on their own rather than seek help, in order to avoid being a burden to others" (그러나 가까운 가족이나 친구가 있어도 노인들은 남에게 짐이 되지 않으려고 도움을 청하기보다 혼자 어려움을 넘기는 쪽을 여전히 택하는 듯하다) — Qianqian Du 외, "Why do older adults living alone in cities cease seeking assistance? A qualitative study in China", BMC Geriatrics, 2022-06-29, https://pmc.ncbi.nlm.nih.gov/articles/PMC9241305/, 2026-10-17 접속
 [^7]: [SNS] "저는 도와 달라고 하지 않는 성격이라 그렇습니다. 일을 안 하면 안 했지, 도와달라는 말은 안 합니다. 민폐라고 생각했거든요." — 클리앙 모두의공원 게시글, 2023-06-05, https://www.clien.net/service/board/park/18116516, 2026-10-17 접속
-[^8]: [학술] "Previous theoretical assumptions show that individuals with high self-esteem and instability would estimate the ego-threat associated with help-seeking as high and suppress help-seeking" (기존 이론의 가정에 따르면 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하여 도움 요청을 억제한다) — Jun Nakahara, "Effects of the level and instability of self-esteem on help-seeking and its orientation", Innovation in Aging 9(Suppl 2), 2025-12-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC12760982/, 2026-10-17 접속
-[^9]: [매체] "장기요양서비스 미이용률은 21%로 미이용 사유는 다른 사람의 도움을 받는 것이 꺼려져서 39.6%, 병원 선호 23.6%, 충분한 가족 돌봄 14.5%, 경제적 부담 10.6%, 아직 서비스가 필요 없음 6.7% 순이다." — 구무서, "'아들아 요양원은 싫다'…노인 70%는 아파도 집 거주 희망", 뉴시스, 2026-08-06, https://www.newsis.com/view/NISX20260806_0003738299, 2026-10-19 접속
+[^8]: [매체] "One of these solutions includes addressing the stigma, shame and embarrassment that prevent many from accessing a food bank — an issue respondents emphasized repeatedly that needs to be addressed." (해결책 가운데 하나는 많은 사람이 푸드뱅크를 이용하지 못하게 막는 낙인과 수치심, 창피함을 다루는 것이다. 응답자들은 이 문제를 다루어야 한다고 거듭 강조했다.) — Food Banks Canada, 「Addressing the stigma that prevents many people from accessing food banks」, 2024-04-24, https://foodbankscanada.ca/addressing-the-stigma-that-prevents-many-people-from-accessing-food-banks/, 2026-11-05 접속
+[^9]: [학술] "Previous theoretical assumptions show that individuals with high self-esteem and instability would estimate the ego-threat associated with help-seeking as high and suppress help-seeking" (기존 이론의 가정에 따르면 자존감이 높고 불안정한 사람은 도움 요청에 따르는 자아 위협을 높게 어림하여 도움 요청을 억제한다) — Jun Nakahara, "Effects of the level and instability of self-esteem on help-seeking and its orientation", Innovation in Aging 9(Suppl 2), 2025-12-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC12760982/, 2026-10-17 접속
+[^10]: [매체] "장기요양서비스 미이용률은 21%로 미이용 사유는 다른 사람의 도움을 받는 것이 꺼려져서 39.6%, 병원 선호 23.6%, 충분한 가족 돌봄 14.5%, 경제적 부담 10.6%, 아직 서비스가 필요 없음 6.7% 순이다." — 구무서, "'아들아 요양원은 싫다'…노인 70%는 아파도 집 거주 희망", 뉴시스, 2026-08-06, https://www.newsis.com/view/NISX20260806_0003738299, 2026-10-19 접속
