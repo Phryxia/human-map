@@ -145,6 +145,7 @@
 - [다원적 무지](docs/pluralistic-ignorance.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [다이어트 중 폭식](docs/diet-breaking-binge.md) ([시간과 하루 습관](groups/daily-time.md))
 - [단속 카메라 앞에서만 속도 줄이기](docs/slowing-only-at-speed-cameras.md) ([길과 운전](groups/roads-and-driving.md))
+- [단체 사진과 신문에서 자기부터 찾기](docs/looking-for-oneself-first.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [단톡방 나가지 못하기](docs/staying-in-group-chats.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [닫히는 문으로 뛰어들어 타기](docs/rushing-closing-doors.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [달과 별똥별에 소원 빌기](docs/wishing-on-moon-and-stars.md) ([걱정과 기분](groups/worry-and-mood.md))
