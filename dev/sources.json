@@ -4515,15 +4515,15 @@
   },
   "https://www.grammarly.com/blog/workplace-email-report/": {
     "first": "2026-10-20",
-    "last": "2026-11-02",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-05"
   },
   "https://news.ycombinator.com/item?id=40657815": {
     "first": "2026-10-20",
-    "last": "2026-10-30",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-05"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01088/full": {
     "first": "2026-10-20",
@@ -13619,15 +13619,15 @@
   },
   "https://www.gutenberg.org/cache/epub/4274/pg4274-images.html": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-05"
   },
   "https://www.gutenberg.org/cache/epub/5231/pg5231-images.html": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-05"
   },
   "https://ideas.repec.org/a/ecj/econjl/v97y1987i387p666-84.html": {
     "first": "2026-10-30",
@@ -14662,9 +14662,9 @@
   },
   "https://vrbib.rutgers.edu/full-record?entry=5410": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-05"
   },
   "https://pubmed.ncbi.nlm.nih.gov/42437210/": {
     "first": "2026-10-30",
@@ -20235,6 +20235,18 @@
     "lastVerified": "2026-11-05"
   },
   "https://www.amennews.com/news/articleView.html?idxno=30737": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://www.gutenberg.org/cache/epub/1245/pg1245-images.html": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://brunch.co.kr/@kchemw/625": {
     "first": "2026-11-05",
     "last": "2026-11-05",
     "result": "VERIFIED",
