@@ -184,6 +184,7 @@
 - [말 안 하기로 화 드러내기](docs/silent-treatment.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [말을 피하려고 자는 척하기](docs/pretending-to-sleep-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [매몰비용 때문에 그만두지 못하기](docs/sunk-cost-persistence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [머릿속 말다툼](docs/imaginary-arguments.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [먹기 전에 음식 사진 찍기](docs/photographing-food-before-eating.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [멍때리기](docs/zoning-out.md) ([시간과 하루 습관](groups/daily-time.md))
 - [메시징 의존](docs/messaging-dependency.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
