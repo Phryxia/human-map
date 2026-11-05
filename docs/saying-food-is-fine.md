@@ -12,7 +12,9 @@
 
 2018년 연구 소개 글[^3]의 필자는 소비자 2060명을 조사한 세 연구에서 손님의 선의의 거짓말이 식당 음식이나 직원의 서비스가 마음에 들지 않는다는 사실을 자주 감춘다고 쓴다.
 
-2026년 게시글[^4]의 글쓴이는 자기를 포함한 한국 사람 대부분이 식당에서 보는 앞에서는 형편없다고 말하지 못하고 그냥 맛있다고 하고 나온다고 적었다.
+2019년 Kwok 의 문헌 검토 초록[^4]은 손님이 불만을 반드시 불평으로 드러내지는 않고 그래서 그 불만이 끝내 전해지지 않을 수 있다고 적었다.
+
+2026년 게시글[^5]의 글쓴이는 자기를 포함한 한국 사람 대부분이 식당에서 보는 앞에서는 형편없다고 말하지 못하고 그냥 맛있다고 하고 나온다고 적었다.
 
 # 관계
 
@@ -41,4 +43,5 @@
 [^1]: [SNS] "I’ll go for typical English subservience in the face of bad service / quality - ‘everything’s fine thanks’." (나쁜 서비스나 품질 앞에서 나는 전형적인 영국식 고분고분함으로 간다. ‘다 괜찮아요, 고마워요’.) — Straight Dope 댓글, 2012-05-06, https://boards.straightdope.com/t/and-how-was-everything-a-restaurant-poll/621103, 2026-10-31 접속
 [^2]: [매체] "So naturally when the waiter trotted over to ask how everything was—I said everything was fine. I know. I lied." (그래서 당연하게도 웨이터가 종종걸음으로 와서 어떠냐고 묻자 나는 다 괜찮다고 했다. 안다. 거짓말을 했다.) — Kathryn Robinson, "What Do You Say When the Waiter Asks How Is Everything?", Seattle Met, 2014-08-18, https://www.seattlemet.com/eat-and-drink/2014/08/what-do-you-say-when-the-waiter-asks-how-is-everything-august-2014, 2026-10-31 접속
 [^3]: [매체] "First, white lies told by the customer often hide the fact that that the consumer does not like the meal at a restaurant or the service of a frontline employee." (먼저, 손님이 하는 선의의 거짓말은 식당에서 음식이 마음에 들지 않거나 일선 직원의 서비스가 마음에 들지 않는다는 사실을 감추는 경우가 많다.) — Hannah Snyder, 「Consumer lies in the service encounter」, BI Business Review, 2018-07-02, https://www.bi.no/en/research/business-review/articles/2018/07/consumer-lies-in-the-service-encounter/, 2026-11-02 접속
-[^4]: [SNS] "보는 앞에서 형편없다고 말을 못하죠, 그냥 맛있다고 하고 나오는게 저를 포함한 대부분의 한국 사람들인것 같습니다." — 클리앙 게시글, 2026-04-02, https://www.clien.net/service/board/park/19171956, 2026-11-04 접속
+[^4]: [학술] "Customers do not necessarily express their dissatisfaction through complaints. Consequently, their grievances might never be heard." (손님이 반드시 불평으로 불만을 드러내는 것은 아니다. 그래서 그들의 불만은 끝내 전해지지 않을 수도 있다.) — S. Kwok, 「Can't complain: Factors influencing dissatisfied customers' non-complaining behaviour」, New Vistas 5(2), 2019-10-15, https://uwlpress.uwl.ac.uk/newvistas/article/id/85/, 2026-11-05 접속
+[^5]: [SNS] "보는 앞에서 형편없다고 말을 못하죠, 그냥 맛있다고 하고 나오는게 저를 포함한 대부분의 한국 사람들인것 같습니다." — 클리앙 게시글, 2026-04-02, https://www.clien.net/service/board/park/19171956, 2026-11-04 접속
