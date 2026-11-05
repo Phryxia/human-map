@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T15:28:39.791Z",
-  "nextSeq": 3866,
+  "savedAt": "2026-11-05T15:29:56.954Z",
+  "nextSeq": 3868,
   "stops": 193,
   "items": [
     {
@@ -387,6 +387,14 @@
       "note": "2026-11-05 확인: 한 문장 인과 없음. 후보: a-ha.io questions/4951841025d5c879a879ceb36da35bac 2024-11-25 '보내고 지울 바에야 애매하면 보내기 누르기 전에 빠르게 다시 한 번 훑어보고'(예상 후회), brunch whynotyoung/20 2019 '그 후로 ... 수신인 확인, 또다시 확인'(수신인), CHI 2021 Warner 'Oops... Mobile Message Deletion'(ACM 403, PDF). 이전: grammarly, richmondbizsense, brunch lkhyun0807 안 됨",
       "createdAt": "2026-11-05T15:26:24.252Z",
       "seq": 3865
+    },
+    {
+      "id": "dcc59d9e",
+      "title": "not-using-cooling-centers 보강: 국내 공공 파편",
+      "priority": 50,
+      "note": "2026-11-05 earticle A261747 2015 학술 추가. 공공 원문 HTML 못 찾음: 서울시 쪽방 실태조사, 감사원 지적, 행안부 의뢰 보고서. eiec.kdi.re.kr materialView num=285114 (복지부 2026-08-05 비회원도 경로당 쉼터 이용 안내) 는 간접 근거",
+      "createdAt": "2026-11-05T15:29:56.822Z",
+      "seq": 3867
     },
     {
       "id": "d16898d2",
