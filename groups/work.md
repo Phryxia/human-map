@@ -18,6 +18,7 @@
 - [문 열고 냉방 영업](../docs/open-door-air-conditioning.md) 가게 주인이 냉방을 켠 채 손님이 들어오기 쉽도록 출입문을 열어 두고 영업한다.
 - [사직 앞의 죄책감](../docs/guilt-about-resigning.md) 직장을 그만두려는 사람이 상사와 동료를 두고 떠나는 일에 죄책감과 불안을 느낀다.
 - [산재 신고 꺼리기](../docs/not-reporting-workplace-injury.md) 일하다 다친 노동자가 불이익이나 동료에게 돌아갈 피해를 걱정해 부상을 회사나 기관에 알리지 않거나 산재 신청을 하지 않는다.
+- [새 일터나 새 학교 첫날의 떨림](../docs/first-day-nerves.md) 새 일터나 새 학교에 처음 나가는 사람이 그날을 앞두거나 겪으며 겁나고 떨린다.
 - [손님의 폭언](../docs/customer-verbal-abuse.md) 손님이나 민원인이 자기를 응대하는 직원이나 공무원에게 소리 지르거나 욕한다.
 - [심리적 계약 위반 지각](../docs/psychological-contract-breach.md) 직원이 회사가 고용 때 약속한 의무를 지키지 않았다고 느끼고 회사를 덜 믿게 된다.
 - [아파도 출근하기](../docs/sickness-presenteeism.md) 몸이 아픈 근로자가 쉬지 않고 출근해 일한다.
