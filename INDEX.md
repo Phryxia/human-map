@@ -267,6 +267,7 @@
 - [분리배출 하지 않기](docs/not-sorting-recyclables.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [불과 전자제품 켜 두기](docs/leaving-lights-on.md) ([시간과 하루 습관](groups/daily-time.md))
 - [불만 제기 회피](docs/non-complaining.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [불이 나면 직접 끄려 하기](docs/fighting-fire-oneself.md) ([건강과 위험](groups/health-and-safety.md))
 - [불확실한 소식을 기다리는 불안](docs/awaiting-uncertain-news.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [뷔페 접시 넘치게 담기](docs/overfilling-buffet-plates.md) ([돈과 소비](groups/money.md))
 - [브라우저 탭 쌓아 두기](docs/keeping-browser-tabs-open.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
