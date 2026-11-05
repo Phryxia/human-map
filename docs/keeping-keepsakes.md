@@ -22,7 +22,8 @@
 
 ## 하위
 
-없음.
+- [고인의 물건 간직하기](keeping-belongings-of-the-dead.md)
+- [헤어진 연인의 물건 간직하기](keeping-an-exs-belongings.md)
 
 ## 원인
 

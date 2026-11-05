@@ -34,3 +34,6 @@
 - [지난 창피한 일 떠올리며 몸서리치기](../docs/cringing-at-past-embarrassment.md) 지난날 자기가 한 창피한 말이나 행동이 떠오른 사람이 그때의 부끄러움을 다시 느낀다.
 - [책 여백에 메모하기](../docs/writing-in-book-margins.md) 책을 읽는 사람이 책의 여백에 떠오른 생각이나 의견을 적고 문장에 밑줄을 긋는다.
 - [추억이 담긴 물건 간직하기](../docs/keeping-keepsakes.md) 사람이 쓸모와 상관없이 추억이 담긴 물건을 버리지 않고 간직한다.
+  - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
+    - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
+  - [헤어진 연인의 물건 간직하기](../docs/keeping-an-exs-belongings.md)
