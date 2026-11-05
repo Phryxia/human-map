@@ -26,7 +26,7 @@
 
 ## 결과
 
-없음.
+- [보청기 쓰지 않기](not-wearing-hearing-aids.md)[^3]
 
 ## 대립
 
