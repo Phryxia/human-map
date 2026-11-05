@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T15:35:43.532Z",
-  "nextSeq": 3874,
+  "savedAt": "2026-11-05T15:37:51.387Z",
+  "nextSeq": 3876,
   "stops": 193,
   "items": [
-    {
-      "id": "32859f87",
-      "title": "not-returning-to-donate-blood 보강: 공공·매체 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-11-04 추가. SNS 2000, 학술 2021 뿐. 후보: Straight Dope bad-blood-donating-experiences/13551 1쪽 'my first (and likely last) donation'(같은 스레드라 못 씀), PMC8645584 Li 등 2021 'donors with higher fear scores reported lower intention to return', badgerandblade 스레드(403). 대한적십자사 재헌혈률 자료 필요",
-      "createdAt": "2026-11-04T15:25:53.681Z",
-      "seq": 3737
-    },
     {
       "id": "c6b8eeeb",
       "title": "not-asking-doctors-questions 관계: withholding-information-from-doctors, not-asking-for-directions",
@@ -395,6 +387,14 @@
       "note": "2026-11-05 aashe casestudy 15184 2016 추가. 학술 여전히 없음. 2005년 이전 출처 없음. retailtechinnovationhub 2024-10-08 Yocuda '75% thrown away a paper receipt they intended to keep' 는 간직하려던 영수증이라 빗나감",
       "createdAt": "2026-11-05T15:35:43.404Z",
       "seq": 3873
+    },
+    {
+      "id": "2f696cdd",
+      "title": "not-returning-to-donate-blood 보강: 국내 파편, 다시 오지 않는 이유",
+      "priority": 50,
+      "note": "2026-11-05 healthday 2003, redcross 2025 추가. 대한적십자사 재헌혈률 자료 여전히 없음. 후보: maitlandmercury 6237070 2019 호주 첫 헌혈자 43% 두 번째 안 함",
+      "createdAt": "2026-11-05T15:37:51.264Z",
+      "seq": 3875
     },
     {
       "id": "d16898d2",
