@@ -20161,5 +20161,11 @@
     "first": "2026-11-05",
     "last": "2026-11-05",
     "result": "UNREACHABLE"
+  },
+  "https://www.uni-mannheim.de/forschung-erleben/artikel/wer-will-das-letzte-stueck-kuchen/": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
   }
 }
