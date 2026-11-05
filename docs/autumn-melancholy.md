@@ -1,6 +1,6 @@
 # 가을 타기
 
-별칭: 가을을 탄다[^4]
+별칭: 가을을 탄다[^5]
 
 가을이 오면 사람이 쓸쓸하고 울적해지거나 기분이 가라앉는다.
 
@@ -12,7 +12,9 @@
 
 2011년 11월 매일신문 칼럼[^3]의 필자는 가을이면 중년 남성의 정신과 상담이 늘고 이들이 일이 손에 잡히지 않아 어디론가 떠나고 싶어 하거나 돌아가신 어머니가 보고 싶다며 눈물을 훔친다고 썼다.
 
-2026년 10월 주간경향 기사[^4]는 가을에 기분이 가라앉거나 피곤함을 느끼는 사람들이 있고 예전에는 이를 가을을 탄다고 불렀다고 적었다.
+2020년 네덜란드 일반 인구 연구[^4]에서 참가자들의 부정 정서 점수는 가을보다 봄에 낮았다.
+
+2026년 10월 주간경향 기사[^5]는 가을에 기분이 가라앉거나 피곤함을 느끼는 사람들이 있고 예전에는 이를 가을을 탄다고 불렀다고 적었다.
 
 # 관계
 
@@ -41,4 +43,5 @@
 [^1]: [문학] "Les sanglots longs Des violons De l’automne Blessent mon cœur D’une langueur Monotone." (가을 바이올린의 긴 흐느낌이 단조로운 권태로 내 마음을 아프게 한다.) — Paul Verlaine, 「Chanson d’automne」, Poèmes saturniens, Lemerre, 1866, https://fr.wikisource.org/wiki/Po%C3%A8mes_saturniens_(1866)/Chanson_d%E2%80%99automne, 2026-11-03 접속
 [^2]: [문학] "공연히 마음이 쓸쓸해지는 가을날 저녁 때……, 상천이는 울고 싶은 가슴을 억지로 참으면서 오늘도 언덕 위 풀밭에 앉아서 쓸쓸히 바다만 보고 있습니다." — 방정환, 「절영도 섬 너머」, 어린이 3권 10호, 1925-10, https://ko.wikisource.org/wiki/%EC%A0%88%EC%98%81%EB%8F%84_%EC%84%AC_%EB%84%88%EB%A8%B8, 2026-11-04 접속
 [^3]: [매체] "가을이면 중년 남성들의 정신과 상담이 늘어나는 것이 사실이다. 일이 손에 잡히지 않고 어디론가 훌쩍 떠나고 싶고, 돌아가신 어머니가 보고 싶다며 눈물을 훔치기도 한다." — 김교영, 「계절성 우울증」, 매일신문, 2011-11-03, https://www.imaeil.com/page/view/2011110314072145603, 2026-11-03 접속
-[^4]: [매체] "좋아하는 계절로 가을을 꼽는 사람이 많지만, 반대로 기분이 가라앉거나 부쩍 피곤함을 느끼는 사람들도 있다. 예전에는 이런 증상을 두고 ‘가을을 탄다’고 했다." — 이용욱, 「‘가을 탄다’는 말···의학적 근거 있을까」, 주간경향, 2026-10-10, https://weekly.khan.co.kr/article/202610100600101, 2026-11-03 접속
+[^4]: [학술] "They also scored significantly lower on negative affect in spring compared to autumn." (참가자들은 또 부정 정서 점수가 가을보다 봄에 유의하게 낮았다.) — Wim H. Winthorst, Elisabeth H. Bos, Annelieke M. Roest, Peter de Jonge, "Seasonality of mood and affect in a large general population sample", PLOS ONE 15(9), 2020-09-14, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239033, 2026-11-05 접속
+[^5]: [매체] "좋아하는 계절로 가을을 꼽는 사람이 많지만, 반대로 기분이 가라앉거나 부쩍 피곤함을 느끼는 사람들도 있다. 예전에는 이런 증상을 두고 ‘가을을 탄다’고 했다." — 이용욱, 「‘가을 탄다’는 말···의학적 근거 있을까」, 주간경향, 2026-10-10, https://weekly.khan.co.kr/article/202610100600101, 2026-11-03 접속
