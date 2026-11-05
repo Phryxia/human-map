@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T03:32:39.957Z",
-  "nextSeq": 3818,
-  "stops": 190,
+  "savedAt": "2026-11-05T06:35:05.760Z",
+  "nextSeq": 3830,
+  "stops": 191,
   "items": [
     {
       "id": "b27bea9f",
@@ -387,6 +387,46 @@
       "note": "2026-11-05 확인: gutenberg 1732 (Schoolmistress and other stories, Garnett 역) 'He liked the snow, the pale street lamps, the sharp black tracks left in the first snow by the feet of the passers-by.' 와 gutenberg 13415 'When the first snow has fallen, on the first day of sledge-driving it is pleasant to see the white earth' 원문 확인. 실린 단편 이름과 발행 연도를 txt 밖의 출처로 확인해야 함. gutenberg 514 Little Women 은 7개 문서가 써서 못 씀. 학술 후보 없음",
       "createdAt": "2026-11-05T00:36:42.633Z",
       "seq": 3811
+    },
+    {
+      "id": "0a1affae",
+      "title": "flushing-wet-wipes 보강: 공공 파편, 2010년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: nyc.gov dep press_releases 19-008pr (2019-02-21, curl UA 403 브라우저 UA 200), watersupplyproject.ie almost-a-million-irish-pe (2022-10-03, water.ie 와 같은 기관), accesswater WEFTEC 2024 Toilet Talk '41% of people still occasionally flush' (품목이 물티슈로 특정 안 됨), ScienceDirect 'Don't rush to flush' 2015 는 이 환경에서 403",
+      "createdAt": "2026-11-05T06:13:51.436Z",
+      "seq": 3824
+    },
+    {
+      "id": "8bdd219d",
+      "title": "not-returning-shopping-carts 보강: 공공 파편, littering 관계",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: longbeach.gov pw litterfreelb abandoned-shopping-carts 'People “borrow” them.' (발행일 미상), testvalley.gov.uk abandoned-trolleys 'not to use a shopping trolley to transport any shopping home.', Keizer 2008 Spreading of Disorder 는 무질서를 본 사람이 쓰레기를 더 버린다는 원인 간선 후보(초록 문장은 의문문)",
+      "createdAt": "2026-11-05T06:19:15.790Z",
+      "seq": 3825
+    },
+    {
+      "id": "f8431288",
+      "title": "feeding-pigeons 보강: SNS 또는 문학 파편, 외로움 동기",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: humanimalia.org article/download/9977/20417 (2013) 'People of all ages enjoy feeding pigeons', gutenberg 7353 Hudson Birds in Town and Village (1919) 'the very great pleasure the elder girl appeared to take in the birds.', ytn.co.kr 0103_202608100507023270 (2026-08-10) 출연자의 동기 추측. Reddit, Mumsnet, boards.ie 는 봇 차단",
+      "createdAt": "2026-11-05T06:26:27.517Z",
+      "seq": 3826
+    },
+    {
+      "id": "4398105e",
+      "title": "not-yielding-to-emergency-vehicles 보강: 한국어 SNS 파편, 2010년 이전 한국 파편",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: mediahub.seoul.go.kr archives/2012050 (2024-08-23) '어느 쪽으로 비켜야 할지 혼동하는 경우가 많아', 1news.co.nz 2021/06/16 'drivers failed to pull over or pulled over the wrong way repeatedly.', honoluluadvertiser 2007 Jul 09 은 앞 문장에 실명",
+      "createdAt": "2026-11-05T06:30:36.460Z",
+      "seq": 3827
+    },
+    {
+      "id": "bb871036",
+      "title": "feeding-stray-cats 보강: 공공 파편, 먹이 주는 사람이 직접 쓴 SNS 글",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: mediahub.seoul.go.kr archives/1502830 (2020-05-29) '보통 캣맘들이 사료나 물을 갔다 주는 것을 본적이 있다.', scholarworks.aub.edu.lb 의 다른 대목은 같은 출처라 못 씀. 82cook 은 연결 끊김",
+      "createdAt": "2026-11-05T06:34:49.992Z",
+      "seq": 3829
     },
     {
       "id": "d16898d2",
@@ -2595,6 +2635,14 @@
       "note": "2026-11-04 탐색: bizhankook articles/21979, 21146, 23688 은 업계 주장(공용 헬멧 위생, 방역 문제)과 착용률 25%뿐이고 이용자가 위생 때문에 쓰지 않는다는 문장 없음. 이전: bicycle-helmet-nonuse F8(canberra 2024) hygiene concerns",
       "createdAt": "2026-11-04T21:34:51.770Z",
       "seq": 3800
+    },
+    {
+      "id": "60e5872f",
+      "title": "feeding-pigeons 와 feeding-stray-cats 공통 상위: 길에 사는 동물에게 먹이 주기",
+      "priority": 10,
+      "note": "2026-11-05 두 문서 추가. 둘 다 civic-life roots. 상위 현상 문서를 만들고 두 문서를 하위로 옮길지 검토",
+      "createdAt": "2026-11-05T06:34:49.889Z",
+      "seq": 3828
     },
     {
       "id": "02b2f242",
