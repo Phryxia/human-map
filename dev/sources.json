@@ -19265,15 +19265,15 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=2789026&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-05"
   },
   "https://www.imaeil.com/page/view/2015100801545342405": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-05"
   },
   "https://www.gqkorea.co.kr/?p=203288": {
     "first": "2026-11-04",
@@ -20253,6 +20253,12 @@
     "lastVerified": "2026-11-05"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239033": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://journal.fi/finjehew/article/view/60778": {
     "first": "2026-11-05",
     "last": "2026-11-05",
     "result": "VERIFIED",
