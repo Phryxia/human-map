@@ -322,6 +322,7 @@
 - [손실 추격](docs/loss-chasing.md) ([돈과 소비](groups/money.md))
 - [손실 회피](docs/loss-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [손톱 물어뜯기](docs/nail-biting.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [쇼핑카트 반납하지 않기](docs/not-returning-shopping-carts.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [수돗물 그대로 마시지 않기](docs/not-drinking-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
 - [수줍은 방광](docs/shy-bladder.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [술 마신 뒤 물놀이](docs/swimming-after-drinking.md) ([건강과 위험](groups/health-and-safety.md))
