@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T09:37:19.325Z",
-  "nextSeq": 3844,
-  "stops": 192,
+  "savedAt": "2026-11-05T12:36:04.973Z",
+  "nextSeq": 3860,
+  "stops": 193,
   "items": [
-    {
-      "id": "b7635650",
-      "title": "avoiding-haggling 과 haggling 관계, 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: haggling [^3] 브런치 darius7/48 은 한 사람이 깎아 달라고 하다 머뭇거리고 원래 값을 내는 대립 근거지만 블로그 계정 규칙 때문에 avoiding-haggling 에 다시 못 씀. 두 문서에 함께 넣을 다른 대립 파편 필요. 이전: theqoo 978963098, bizwatch 2018-04-20",
-      "createdAt": "2026-11-04T15:13:29.150Z",
-      "seq": 3729
-    },
-    {
-      "id": "442d4e65",
-      "title": "late-night-eating 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: 농식품부·식약처·농진청 야식 보도자료 검색 결과 없음, koreascience 소규모 논문만. kdca 국민건강영양조사 원문 PDF 확인 남음. 이전: kdca artclView 312791, 뉴시스 2019-10-25",
-      "createdAt": "2026-11-04T15:13:46.915Z",
-      "seq": 3730
-    },
     {
       "id": "e358db39",
       "title": "skipping-bedtime-toothbrushing 보강: 공공 파편",
@@ -155,14 +139,6 @@
       "note": "2026-11-04 작성. Irish Times 2014 [^4] 제목이 excruciating encounters with my teenage self, 옛 일기 읽기가 과거 창피함 떠올리기를 일으킨다는 원인 문장 필요. 대체 원문 'the pages are brimming with awkward moments I had either blocked out or rewritten in my own head'. Decent 2023 PDF 의 embarrassment 때문에 일기를 다시 보지 않는다는 대목은 PDF 라 UNREACHABLE",
       "createdAt": "2026-11-04T18:18:02.364Z",
       "seq": 3753
-    },
-    {
-      "id": "5a093984",
-      "title": "keeping-keepsakes 보강: keeping-an-exs-belongings, keeping-belongings-of-the-dead 상위 검토",
-      "priority": 50,
-      "note": "2026-11-04 작성. 두 문서가 추억이 담긴 물건 간직하기의 특수한 경우인지 검토. 후보: Little Women pg514 네 자매의 relics 상자 대목(514 은 이미 4개 문서가 써서 다른 출처 필요), Dozier 2020 PMC7445186 의 아이 미술 숙제 대목, 오마이뉴스 A0003067199 의 아이들 편지 200여 통 보관",
-      "createdAt": "2026-11-04T18:23:19.152Z",
-      "seq": 3754
     },
     {
       "id": "629cea7a",
@@ -379,6 +355,54 @@
       "note": "2026-11-05 확인: psypost 2022-08-01 'We thought that one reason might be that people underestimate how much others appreciate their reach-outs,' 는 앞 문장(losing touch)과 이어야 인과라 약 200자. today.com rcna37608 은 논평자 실명. nzherald 2022-07-14 은 liking gap. 이전: PMC11332216 서론 280자",
       "createdAt": "2026-11-05T09:37:12.537Z",
       "seq": 3843
+    },
+    {
+      "id": "c700e77b",
+      "title": "feigning-knowledge 원인 관계: 잘 안다는 느낌",
+      "priority": 50,
+      "note": "2026-11-05 BPS Research Digest 2015-08-12 claiming-they-know-more: 쉬운 퀴즈로 잘 안다는 느낌을 준 참가자가 더 아는 체했다. ScienceDaily 2015-07-20 150720092303 Atir 인용도 같은 원인. 원인이 될 현상 문서(자기 지식 과대평가 등) 확인 필요",
+      "createdAt": "2026-11-05T12:12:00.957Z",
+      "seq": 3852
+    },
+    {
+      "id": "39001401",
+      "title": "feigning-knowledge 보강: SNS 파편, 2007년 기사 꼴불견 순위",
+      "priority": 50,
+      "note": "2026-11-05 sports.khan.co.kr 200707102135403 에 상사의 척 가운데 아는 척 40.2% 대목 있음(물결이 U+223C). 아는 척한 경험을 쓴 게시판 글 필요",
+      "createdAt": "2026-11-05T12:12:01.094Z",
+      "seq": 3853
+    },
+    {
+      "id": "bf9bf024",
+      "title": "fighting-fire-oneself 와 delayed-evacuation 관계",
+      "priority": 50,
+      "note": "2026-11-05 lincolnshire.gov.uk news 1505 '불을 잡으려다 건물을 빠져나가지 않았다', 인천서부소방서 NE030401/2074695 '불 나면 대피 먼저'. 직접 끄려다 대피가 늦어졌다는 인과 파편을 두 문서에 함께 넣을 것",
+      "createdAt": "2026-11-05T12:19:07.163Z",
+      "seq": 3854
+    },
+    {
+      "id": "8b440fa1",
+      "title": "fighting-fire-oneself 보강: SNS 파편, 2008 이전 공공",
+      "priority": 50,
+      "note": "2026-11-05 reddit 403, USFA 2007\\~2008 보도자료(webarchive.library.unt.edu) TLS 오류. 인천공단소방서 NE030401/2060617 은 업체 소재지가 원문에 있어 못 씀. Taylor 2021 초록의 남성이 두 배 대목도 있음",
+      "createdAt": "2026-11-05T12:19:07.321Z",
+      "seq": 3855
+    },
+    {
+      "id": "80e07acd",
+      "title": "leaving-the-last-piece 와 ritual-refusal 관계, 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-05 avesis.yyu.edu.tr Filimonau 2026 이 HTTP 500 이라 (미확인). uni-mannheim.de forschung-erleben wer-will-das-letzte-stueck-kuchen 2011-09-14 은 주인이 권해도 아무도 집지 않는다는 대목, britainexplained.com biscuits-and-manners 는 욕심스러워 보인다는 대목. 한국어 출처 없음",
+      "createdAt": "2026-11-05T12:26:11.530Z",
+      "seq": 3856
+    },
+    {
+      "id": "26673f36",
+      "title": "late-night-eating 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-11-05 확인: kennet.mhlw.go.jp e-04-004(2021-02-16) 은 야간 근무자 대목뿐이라 요약(잠들기 전)과 안 맞음. health.kdca.go.kr cntnts_sn=6693 은 '야간의 과도한 에너지 섭취 패턴' 위험 서술뿐. nhis.or.kr magazin/134/html/c06.html(스트레스 가짜 배고픔) 은 Connection reset 으로 못 읽음, 다시 시도. 이전: kdca artclView 312791, 뉴시스 2019-10-25",
+      "createdAt": "2026-11-05T12:35:01.982Z",
+      "seq": 3858
     },
     {
       "id": "d16898d2",
@@ -2595,6 +2619,22 @@
       "note": "2026-11-05 두 문서 추가. 둘 다 civic-life roots. 상위 현상 문서를 만들고 두 문서를 하위로 옮길지 검토",
       "createdAt": "2026-11-05T06:34:49.889Z",
       "seq": 3828
+    },
+    {
+      "id": "99ccbb64",
+      "title": "아는 것 과신(illusion of explanatory depth), feigning-knowledge 원인",
+      "priority": 10,
+      "note": "2026-11-05 탐색: PMC3062901 reCAPTCHA, Wiley·SAGE 403. europepmc REST JSON(PMCID:PMC3062901) 에 Rozenblit & Keil 2002 초록 있음(source-check 가 JSON 을 읽는지 확인 필요). dezeen 2016-06-19 velocipedia 자전거 그림, road.cc 185690. BPS Research Digest 2015-08-12 '쉬운 퀴즈로 잘 안다는 느낌을 준 참가자가 더 아는 체했다' 가 원인 간선 근거",
+      "createdAt": "2026-11-05T12:28:55.604Z",
+      "seq": 3857
+    },
+    {
+      "id": "ec1f9863",
+      "title": "keeping-keepsakes 보강: 다른 출처의 문학 파편",
+      "priority": 10,
+      "note": "2026-11-05 상위 정리 완료. 남은 후보: Dozier 2020 PMC7445186 아이 미술 숙제, 오마이뉴스 A0003067199 아이들 편지 200여 통 보관. Little Women pg514 은 4개 문서가 써서 피함",
+      "createdAt": "2026-11-05T12:35:47.702Z",
+      "seq": 3859
     },
     {
       "id": "02b2f242",
