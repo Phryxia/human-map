@@ -1,105 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T18:35:27.709Z",
-  "nextSeq": 3891,
-  "stops": 195,
+  "savedAt": "2026-11-05T21:43:00.086Z",
+  "nextSeq": 3909,
+  "stops": 196,
   "items": [
-    {
-      "id": "82740c57",
-      "title": "putting-off-friends 관계: feeling-rushed, hesitating-to-contact-old-friends, loneliness",
-      "priority": 50,
-      "note": "2026-11-04 추가. StatCan dq250617d 의 'These downward trends in seeing friends coincided with more Canadians worrying that they did not spend enough time with family and friends' 는 나란히 적을 뿐 인과 아님. 결혼·육아로 친구가 멀어진다는 SNS 파편(teamblind 결혼 후 친구관계 pkms3j1h 공개 여부 확인)과 인과 파편 필요",
-      "createdAt": "2026-11-04T15:30:20.271Z",
-      "seq": 3741
-    },
-    {
-      "id": "e62a4a40",
-      "title": "child-car-seat-nonuse 보강: 82cook 미확인 파편 대체, 관계",
-      "priority": 50,
-      "note": "2026-11-04 [^7] Zonfrillo 2015 는 eutils URL 로 확인됨. [^3] 82cook 138828 은 여전히 ECONNRESET. 후보: Agran 1992 PubMed 1614773, Torbay Council car-seats, korea.kr 148826033 2016 영유아 응급환자 69% 미착용",
-      "createdAt": "2026-11-04T15:32:25.600Z",
-      "seq": 3742
-    },
-    {
-      "id": "cb100ce0",
-      "title": "clearing-throat-to-show-dignity 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 다시 미룸. 이전: Oliver Twist 추가됨, Pickwick Papers pg580 Pell 'solemn and dignified cough', 국립국어원 온라인가나다 qna_seq=321289 (2025-09-25) 에헴 풀이",
-      "createdAt": "2026-11-04T15:32:43.324Z",
-      "seq": 3743
-    },
-    {
-      "id": "44511692",
-      "title": "customer-verbal-abuse 와 emotional-labor 원인 간선",
-      "priority": 50,
-      "note": "2026-11-04 확인: segye 20190429512155 한전 고객센터 직원 '욕설과 불만을 들은 후 심장이 떨리고 감정이 요동치지만 바로 마음을 다잡고 웃으면서 다음 고객에게 응대해야' (순서이지 '때문에' 아님), go.seoul 2013-06-19 '고객의 부당한 요구와 무례함을 참고 견디며'. 인과 문장 더 찾을 것. 이전: nocutnews 4407552, gov.uk 2021-08-09",
-      "createdAt": "2026-11-04T15:33:32.589Z",
-      "seq": 3744
-    },
-    {
-      "id": "53fac44a",
-      "title": "looking-at-old-photos 보강: nostalgia 관계",
-      "priority": 50,
-      "note": "2026-11-04 작성. 옛 사진 보기가 노스탤지어를 일으킨다는 원인 문장 필요. Carretero 2019 PMC6974493 본문의 'Direct cues were expected to elicit stronger feelings of reliving and nostalgia' 확인 전. 문학 후보 Sedgwick 1902 The Rescue gutenberg 42194 'old photograph-album' 대목",
-      "createdAt": "2026-11-04T18:11:55.887Z",
-      "seq": 3752
-    },
-    {
-      "id": "b7a3b709",
-      "title": "rereading-old-diaries 보강: cringing-at-past-embarrassment, keeping-a-diary 관계",
-      "priority": 50,
-      "note": "2026-11-04 작성. Irish Times 2014 [^4] 제목이 excruciating encounters with my teenage self, 옛 일기 읽기가 과거 창피함 떠올리기를 일으킨다는 원인 문장 필요. 대체 원문 'the pages are brimming with awkward moments I had either blocked out or rewritten in my own head'. Decent 2023 PDF 의 embarrassment 때문에 일기를 다시 보지 않는다는 대목은 PDF 라 UNREACHABLE",
-      "createdAt": "2026-11-04T18:18:02.364Z",
-      "seq": 3753
-    },
-    {
-      "id": "8fce6c0e",
-      "title": "walking-off-designated-paths 와 jaywalking 관계 검토",
-      "priority": 50,
-      "note": "2026-11-04 walking-off-designated-paths 추가. 무단횡단도 정해 둔 건널목을 두고 질러가는 보행이라 하위 후보이나 차도는 길이 아니어서 요약이 맞는지 근거 필요. NPAQ 2024 [^3] 짧은 길 믿음",
-      "createdAt": "2026-11-04T21:07:25.050Z",
-      "seq": 3780
-    },
-    {
-      "id": "a4b5f0d3",
-      "title": "accent-prejudice 보강: 한국 표준어 대 사투리 화자 평가 실험",
-      "priority": 50,
-      "note": "2026-11-04 Kwak, You 2019 제주 방언 태도 [^3] 더함. 경상 방언 화자 지위 평가는 programme.exordo.com/ss22/delegates/presentation/77 (Kang, ECONNRESET) 다른 판 필요. McKenzie 2022 북잉글랜드 억양 phys.org 429",
-      "createdAt": "2026-11-04T21:08:38.769Z",
-      "seq": 3781
-    },
-    {
-      "id": "e33b4e83",
-      "title": "not-wearing-hearing-aids 와 hiding-hearing-loss, avoiding-aids-that-look-old 관계",
-      "priority": 50,
-      "note": "2026-11-04 작성. 머니투데이 2025 [^2] 보청기 낀 모습 드러내기 꺼림. 학술 후보 McCormack, Fortnum 2013 Int J Audiol 'Why do people fitted with hearing aids not wear them?' (PMC3665209 열리지 않음, worktribe 403). Over65 Hastings 2014 늙어 보이기 싫어 보청기 꺼림은 avoiding-aids-that-look-old [^3]",
-      "createdAt": "2026-11-04T21:11:50.322Z",
-      "seq": 3783
-    },
-    {
-      "id": "f976d18e",
-      "title": "confronting-line-cutters 와 staying-silent-at-line-cutting 대립 근거, 비영어 파편",
-      "priority": 50,
-      "note": "2026-11-04 작성. PsyBlog 2008-09 [^2] 은 끼어든 사람과 두 사람 떨어지면 항의가 5%로 떨어진다고 씀. 대립 근거 문장과 한국어 SNS, 공공 파편 필요",
-      "createdAt": "2026-11-04T21:19:47.926Z",
-      "seq": 3789
-    },
-    {
-      "id": "5ee65994",
-      "title": "sunk-cost-persistence 보강: SNS 파편, pre-wedding-doubts 관계",
-      "priority": 50,
-      "note": "2026-11-04 작성. wikitree 1141915 (2026-06-17, pre-wedding-doubts [^9]) 청첩장을 돌려 파혼을 못 정함은 남의 시선 두려움이 함께 있어 원인 근거로 약함. 후보: Arkes, Blumer 1985 원 연구, 표값이 아까워 끝까지 본 영화 SNS 글",
-      "createdAt": "2026-11-04T21:23:10.081Z",
-      "seq": 3792
-    },
-    {
-      "id": "218d6807",
-      "title": "illusion-of-control 보강: 비영어, SNS 파편, 하위 후보",
-      "priority": 50,
-      "note": "2026-11-04 작성. 하위 후보 buying-lottery-tickets(번호 직접 고르기), gamblers-fallacy. 한국어 후보 eopla.net/magazines/16320 (로그인 벽) '직접 숫자를 고른 로또의 당첨확률이 더 높게 느끼는 것도 통제의 환상'. Langer 1975 원문 필요",
-      "createdAt": "2026-11-04T21:24:47.209Z",
-      "seq": 3793
-    },
     {
       "id": "ff84c852",
       "title": "pocket-patting 원인: 물건 잃어버릴까 하는 불안",
@@ -379,6 +283,70 @@
       "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. fear-of-the-dark 관계 근거 문장 필요. 공공 후보 일본 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html 'feeling unsafe in being alone at home at night' (curl 403)",
       "createdAt": "2026-11-05T18:33:22.783Z",
       "seq": 3890
+    },
+    {
+      "id": "50f26731",
+      "title": "putting-off-friends 관계: loneliness, hesitating-to-contact-old-friends",
+      "priority": 50,
+      "note": "2026-11-05 feeling-rushed 원인 간선은 넣음. loneliness 결과 후보: teamblind almost-40-and-realizing-i-have-zero-real-friends 8nb87qth (2026-02-02) 'focused entirely on academics and career ... now im pushing 40 and the loneliness is hitting different' (친구 미루기 자체를 말하진 않음), Dazed 64746 (2024-09-27) 'byproduct of having no time'. 묘사 보강 후보: wftv friendship-recession (2026-10-26) 'Dinner gets postponed, a busy week becomes a busy month', brunch @0520with/21 (2019-01-09) '시간 없다는 핑계로 미루기만 했었다'",
+      "createdAt": "2026-11-05T21:09:10.430Z",
+      "seq": 3900
+    },
+    {
+      "id": "d75b2a44",
+      "title": "child-car-seat-nonuse 관계: rear-seat-belt-nonuse",
+      "priority": 50,
+      "note": "2026-11-05 82cook 파편은 클리앙 cm_baby/10836783 로 바꿈. 짧은 거리 이유가 rear-seat-belt-nonuse [^6] 과 겹침, 공통 상위(안전띠 미착용) 후보. 다른 SNS 후보: clien cm_baby/13212501 (2019-02-28), teamblind kr 아기가 카시트 싫어할때 QH42XKAy (2017-12-31)",
+      "createdAt": "2026-11-05T21:12:57.153Z",
+      "seq": 3901
+    },
+    {
+      "id": "4c3963c4",
+      "title": "clearing-throat-to-show-dignity 보강: 인기척 헛기침, 비한국어 학술",
+      "priority": 50,
+      "note": "2026-11-05 디지털논산문화대전 GC020A020102 학술 파편 더함. 후보: center-for-nonverbal-studies.org/htdocs/throat.htm Givens 'An aggressive version of the throat-clear may be used to interrupt, overrule, or challenge a speaker.', jeju.grandculture.net GC007T02025 시아버지 '흠' 헛기침 (항목 제목에 실명 있어 서지 주의), 측신 헛기침은 인기척 쪽 별개 현상 후보",
+      "createdAt": "2026-11-05T21:21:31.834Z",
+      "seq": 3902
+    },
+    {
+      "id": "1284ca1e",
+      "title": "rereading-old-diaries 와 keeping-a-diary 관계",
+      "priority": 50,
+      "note": "2026-11-05 cringing-at-past-embarrassment 결과 간선은 Varsity 28154 로 넣음. keeping-a-diary 관계 근거 필요. 다른 후보: stylist.co.uk 837264 (2023-11-07) 'would make me cringe and my skin crawl', brunch @notepen/16 (2026-09-26) '부끄럽고 민망하고 손발이 오그라들기 때문이다', npr transcripts/11989043 (2007-07-15) Cringe 낭독회",
+      "createdAt": "2026-11-05T21:34:57.333Z",
+      "seq": 3904
+    },
+    {
+      "id": "a2923ee2",
+      "title": "accent-prejudice 보강: 한국 표준어 대 사투리 화자 평가 실험",
+      "priority": 50,
+      "note": "2026-11-05 김용갑 2017 earticle A351435 더함. 화자 평가 실험은 아직 없음. 후보: koreascience JAKO201110264496547 (2011) 사투리 쓰는 승무원 지원자가 면접 불안을 더 느낌(다른 현상 후보), imaeil 2011050309052227230 사투리 핸디캡 스피치 학원, kukinews kuk202103310289 403",
+      "createdAt": "2026-11-05T21:36:57.006Z",
+      "seq": 3905
+    },
+    {
+      "id": "b7d25690",
+      "title": "confronting-line-cutters 와 staying-silent-at-line-cutting 대립 근거, 비영어 파편",
+      "priority": 50,
+      "note": "2026-11-05 다시 미룸. 한국어 검색 6개로 항의할까 참을까 문장을 못 찾음. 다음: 네이트판, 디시 공개글에서 지하철·마트 계산대 새치기 참았 류. 이전: PsyBlog 2008-09 [^2] 두 사람 떨어지면 항의 5%",
+      "createdAt": "2026-11-05T21:38:44.728Z",
+      "seq": 3906
+    },
+    {
+      "id": "051e7650",
+      "title": "sunk-cost-persistence 와 pre-wedding-doubts 관계, 한국어 SNS",
+      "priority": 50,
+      "note": "2026-11-05 TigerDroppings 2010 영화 표값 파편 더함. 한국어 후보: m.cafe.daum.net/dubai4u/_memo/4413/comments (2011-06-17) 뷔페 본전 생각에 더 먹음(overeating 관계 후보). pre-wedding-doubts 원인 근거는 여전히 없음",
+      "createdAt": "2026-11-05T21:40:37.203Z",
+      "seq": 3907
+    },
+    {
+      "id": "27c42a1b",
+      "title": "illusion-of-control 보강: SNS 파편, 하위 후보",
+      "priority": 50,
+      "note": "2026-11-05 데일리안 1311340 더함. 후보: gqkorea ?p=398896 (2026-09-05) 번호를 직접 고르면 당첨 가능성이 높아진다고 느낌, 통제의 착각. 하위 후보 buying-lottery-tickets, gamblers-fallacy. Langer 1975 원문 필요",
+      "createdAt": "2026-11-05T21:42:51.453Z",
+      "seq": 3908
     },
     {
       "id": "d16898d2",
@@ -2619,6 +2587,14 @@
       "note": "Chekhov 'Joy' pg13412 'only celebrated people whose names are published in the papers, and now they have gone and published mine!' looking-for-oneself-first 와 관련",
       "createdAt": "2026-11-05T18:13:16.249Z",
       "seq": 3886
+    },
+    {
+      "id": "fed0c580",
+      "title": "검토: go.seoul 2019-04-02 공공기관 상담원 폭언, 스마일 마스크 증후군",
+      "priority": 10,
+      "note": "2026-11-05 m.go.seoul.co.kr/news/2019/04/02/20190402008014 '민원인의 폭언 등으로 스마일 마스크 증후군에 시달렸다' customer-verbal-abuse 결과 후보(진단명 있음, 출처를 밝혀 쓸 것). Szczygiel 2021 fpsyg.2020.506085 고객 무례가 표면 행위를 늘림",
+      "createdAt": "2026-11-05T21:27:08.966Z",
+      "seq": 3903
     },
     {
       "id": "02b2f242",
