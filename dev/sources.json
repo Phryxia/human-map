@@ -19409,9 +19409,9 @@
   },
   "https://www.gutenberg.org/cache/epub/4300/pg4300.txt": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-05"
   },
   "https://m.seoul.co.kr/news/2019/05/31/20190531039001": {
     "first": "2026-11-04",
@@ -19664,5 +19664,29 @@
     "last": "2026-11-04",
     "result": "VERIFIED",
     "lastVerified": "2026-11-04"
+  },
+  "https://www.gutenberg.org/cache/epub/541/pg541.txt": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://spectator.org/50512_secrets-manhood/": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://www.harihareswara.net/sumana/2012/03/18/1": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://forums.macrumors.com/threads/are-there-things-that-can-prevent-me-from-leaving-the-house-and-forgetting-to-take-my-iphone.2370894/": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
   }
 }
