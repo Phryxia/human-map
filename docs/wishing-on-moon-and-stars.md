@@ -16,7 +16,7 @@
 
 ## 상위
 
-없음.
+- [징크스 지키기](superstitious-rituals.md)
 
 ## 하위
 

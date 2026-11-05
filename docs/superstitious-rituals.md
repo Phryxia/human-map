@@ -25,6 +25,7 @@
 - [보도블록 금 밟지 않기](avoiding-pavement-cracks.md)
 - [부정 탈까 봐 말 아끼기](tempting-fate.md)
 - [소원 빌며 동전 던지기](wishing-coin-toss.md)
+- [달과 별똥별에 소원 빌기](wishing-on-moon-and-stars.md)
 
 ## 원인
 

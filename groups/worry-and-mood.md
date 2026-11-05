@@ -37,7 +37,6 @@
     - [건강검진 이상 소견 뒤 재검 미루기](../docs/skipping-follow-up-after-abnormal-screening.md)
     - [치과 공포](../docs/dental-anxiety.md)
 - [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
-- [달과 별똥별에 소원 빌기](../docs/wishing-on-moon-and-stars.md) 사람이 떨어지는 별똥별이나 보름달, 초승달을 보며 소원을 빈다.
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
@@ -63,6 +62,7 @@
 - [지루함](../docs/boredom.md) 사람이 하는 일이나 지내는 날에 흥미를 느끼지 못하고 따분해한다.
   - [퇴근 시간 기다리며 시계 보기](../docs/clock-watching-at-work.md)
 - [징크스 지키기](../docs/superstitious-rituals.md) 결과를 알 수 없는 일을 앞둔 사람이 불운을 막거나 일이 잘되도록 정해 둔 작은 의례를 하거나 어떤 행동을 피한다.
+  - [달과 별똥별에 소원 빌기](../docs/wishing-on-moon-and-stars.md)
   - [보도블록 금 밟지 않기](../docs/avoiding-pavement-cracks.md)
   - [부정 탈까 봐 말 아끼기](../docs/tempting-fate.md)
   - [소원 빌며 동전 던지기](../docs/wishing-coin-toss.md)
