@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T15:33:47.853Z",
-  "nextSeq": 3872,
+  "savedAt": "2026-11-05T15:35:43.532Z",
+  "nextSeq": 3874,
   "stops": 193,
   "items": [
-    {
-      "id": "0053d45a",
-      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
-      "priority": 50,
-      "note": "2026-11-04 확인: 영수증 버림 학술 못 찾음(업계 조사뿐: greenamerica node/15380 2019 '절반 가까이 버릴 때 죄책감', Flux 영국 37% 즉시 버림, Yocuda 2024). 2025년 이후 국내 기사 검색 결과 없음. gangnam.go.kr board 4272 '종이 영수증, 이제 그만 헤어지자' 공공 후보(날짜 미확인)",
-      "createdAt": "2026-11-04T15:23:07.127Z",
-      "seq": 3736
-    },
     {
       "id": "32859f87",
       "title": "not-returning-to-donate-blood 보강: 공공·매체 파편, 다른 시기",
@@ -395,6 +387,14 @@
       "note": "2026-11-05 hesitating-to-offer-seat 와 원인 간선 그음(globalag goldenyears 1997). 학술 없음. 2003 한국심리학회지 지하철 양보 논문은 PDF. Ambivalent Ageism Scale 자리 권하기 예 PDF 미열람. avoiding-aids-that-look-old 와 공통 상위 검토",
       "createdAt": "2026-11-05T15:33:47.729Z",
       "seq": 3871
+    },
+    {
+      "id": "c97ac706",
+      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
+      "priority": 50,
+      "note": "2026-11-05 aashe casestudy 15184 2016 추가. 학술 여전히 없음. 2005년 이전 출처 없음. retailtechinnovationhub 2024-10-08 Yocuda '75% thrown away a paper receipt they intended to keep' 는 간직하려던 영수증이라 빗나감",
+      "createdAt": "2026-11-05T15:35:43.404Z",
+      "seq": 3873
     },
     {
       "id": "d16898d2",

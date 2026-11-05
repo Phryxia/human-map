@@ -15748,21 +15748,21 @@
   },
   "https://www.newstomato.com/ReadNews.aspx?no=547696": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-05"
   },
   "https://www.incheon.go.kr/env/ENV050101/view?nttNo=9404": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-05"
   },
   "https://www.clien.net/service/board/park/13533388": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-05"
   },
   "https://www.empowerwork.org/blog/how-to-quit-your-job-leave-without-feeling-guilty": {
     "first": "2026-10-31",
@@ -17324,9 +17324,9 @@
   },
   "https://kyeonggi.com/article/202203143675454": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-05"
   },
   "https://pubmed.ncbi.nlm.nih.gov/10517719/": {
     "first": "2026-11-02",
@@ -20193,6 +20193,12 @@
     "lastVerified": "2026-11-05"
   },
   "https://globalag.igc.org/ruralaging/us/goldenyears.htm": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://hub.aashe.org/browse/casestudy/15184/UW-Madison-Receipt-Reduction-Project": {
     "first": "2026-11-05",
     "last": "2026-11-05",
     "result": "VERIFIED",
