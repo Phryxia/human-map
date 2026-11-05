@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-05T00:37:31.989Z",
-  "nextSeq": 3812,
-  "stops": 189,
+  "savedAt": "2026-11-05T03:32:39.957Z",
+  "nextSeq": 3818,
+  "stops": 190,
   "items": [
-    {
-      "id": "70861051",
-      "title": "welcoming-first-snow 보강: 학술 파편, 시기 다른 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: arxiv 2407.07683 첫눈 대목 없음. yougov 2022-12-02 daily 094e9/3 (첫눈에 대한 느낌 질문, 6187명) 은 보기 이름이 텍스트로 안 나옴. 후보 wkar.org 2017-12-10 NPR 첫눈을 반기는 인터넷 반응, aozora 55958 (카드 URL 404, 다른 경로 필요), scienceblog 2025-03-18",
-      "createdAt": "2026-11-04T09:27:29.503Z",
-      "seq": 3664
-    },
-    {
-      "id": "b5f3e5cd",
-      "title": "writing-on-fogged-glass 보강: 문학 파편, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: gutenberg 44385 (Mansfield Bliss and other stories) txt 에 김 서린 유리에 쓰는 대목 없음. 이전 확인 34599 78031 47471 76780 66515 14168 9956 도 없음. 후보 gutenberg 4284 The Window-Gazer 안개 장면(유리에 쓰는지 미확인), 青空文庫, 위키문헌",
-      "createdAt": "2026-11-04T09:28:05.060Z",
-      "seq": 3666
-    },
-    {
-      "id": "c073eb82",
-      "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
-      "priority": 50,
-      "note": "2026-11-04 확인: ebony, renews.co.nz, vice 2017-11-23, hercampus 756449, chelseajane substack 에 냄새 때문에 간직한다는 대목 없음. insideportlandstate.pdx.edu 2018-02-09 object-impermanence 는 헤어진 상대 셔츠를 2년 간직했고 아직 그 냄새가 난다는 수필(인과 문장 아님). jeopardy.wwu.edu 2022-06-02 는 실명이 들어 있어 못 씀. thestudentroom 403",
-      "createdAt": "2026-11-04T09:28:32.085Z",
-      "seq": 3667
-    },
-    {
-      "id": "fdf6f081",
-      "title": "just-in-case-keeping 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인됨 2개(Kent 2018 매체, DEV Community 2019 SNS). 학술 후보: PMC4340081 저장 동기 연구(미래 필요 대목은 인용문뿐), PMC7362992 저장장애 84명 도구적 이유(봇 확인 페이지), springermedizin should-i-keep-it 버리기 과제 연구",
-      "createdAt": "2026-11-04T09:35:48.040Z",
-      "seq": 3668
-    },
-    {
-      "id": "7fa7c89d",
-      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: '계단을 세며' '계단 수를 세' 한국어 검색 결과 없음. heirsholdings hhpeople 5991 본문에 세기 대목 없음, medium age-of-empathy counting-on-the-dark 는 봇 확인. 계단 오르기 건강 기사만 나옴",
-      "createdAt": "2026-11-04T09:36:06.111Z",
-      "seq": 3669
-    },
     {
       "id": "b27bea9f",
       "title": "food-bank-shame 와 help-seeking-avoidance 원인 간선",
@@ -99,14 +59,6 @@
       "note": "2026-11-04 wishing-guests-would-leave 를 not-ending-conversations 하위로 넣음. lingering-goodbye 는 떠나고 싶지 않아 끄는 쪽이라 상위 아님. 인과 근거 후보: experimental-history.com do-conversations-end-when-people (2025-07-22)",
       "createdAt": "2026-11-04T15:08:11.373Z",
       "seq": 3717
-    },
-    {
-      "id": "72793a4d",
-      "title": "zoning-out 보강: mind-wandering, gazing-out-the-window 관계",
-      "priority": 50,
-      "note": "2026-11-04 확인: zoning-out 요약은 아무 생각도 하지 않음, gazing-out-the-window 는 mind-wandering 하위로 생각에 잠김. 상위 간선 근거 없음. 멍때리기와 딴생각이 서로 반대로 민다는 대립 파편 필요",
-      "createdAt": "2026-11-04T15:08:41.548Z",
-      "seq": 3718
     },
     {
       "id": "f617b6fe",
@@ -899,6 +851,30 @@
       "note": "2026-11-04 작성. 아주경제 2017 [^1] 은 일반 승객에게 밀려 자리를 내준다고 함(not-yielding-maternity-seats 결과 후보). 인구보건복지협회 2018, 2025 조사(미양보나 시선으로 불편 57.6%) 원문 필요",
       "createdAt": "2026-11-04T21:33:12.329Z",
       "seq": 3798
+    },
+    {
+      "id": "97f301e0",
+      "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
+      "priority": 40,
+      "note": "2026-11-05 확인: 냄새 때문에 간직한다는 인과 문장 못 찾음. hercampus ?p=256401 Favorite Sweater (플래시 픽션, 발행일 미상) 'I don't want to wash it and risk removing your familiar scent' 는 빨지 않음이고 전 애인 물건이라는 말 없음. graphic.com.gh 2014-02-26 5 things get rid of after breakup 'how it still smells like him' 은 조언. 이전 확인: ebony, renews.co.nz, vice 2017-11-23, hercampus 756449, chelseajane substack, pdx.edu 2018-02-09, wwu.edu(실명), thestudentroom 403, yourtango 353701, theeagleonline, xtramagazine, huffpost ca, dazed 30155, bustle, autostraddle, theglobeandmail",
+      "createdAt": "2026-11-05T03:22:44.892Z",
+      "seq": 3815
+    },
+    {
+      "id": "b1a9b461",
+      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
+      "priority": 40,
+      "note": "2026-11-05 확인: PMC9483281 (2022, 4개국 대학생 마술적 사고) 표 3 counting objects 는 점치기 목적이라 맞지 않음. Muris 1997 PMID 9125105 초록에 세기 없음, Evans 1997 Child Dev 도 없음. 한국어 '계단 개수를 세' '숫자 세는 버릇' '보도블록 세는 버릇' 결과 없음. mt.co.kr 2010062110470707278, brunch @theellen/91, clien park 13483904 맞지 않음",
+      "createdAt": "2026-11-05T03:30:05.481Z",
+      "seq": 3816
+    },
+    {
+      "id": "384329ac",
+      "title": "zoning-out 보강: mind-wandering, gazing-out-the-window 관계",
+      "priority": 40,
+      "note": "2026-11-05 확인: 대립 근거 못 찾음. frontiersin fpsyg.2013.00650 (Ward, Wegner 2013) 'mind-blanking and mind-wandering are phenomenologically distinct mental states' 는 구별이고 두 보고는 상관 없음. PMC8241869 (Andrillon 2021) 도 구별. zoning-out 에 구별 서술용 학술 파편으로는 쓸 수 있음. Boulakis 2023 PMC10552942 미확인",
+      "createdAt": "2026-11-05T03:32:29.243Z",
+      "seq": 3817
     },
     {
       "id": "e8ba47a7",
