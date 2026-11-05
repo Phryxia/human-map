@@ -12,6 +12,9 @@
 - [녹음된 자기 목소리 싫어하기](../docs/disliking-recorded-own-voice.md) 녹음된 자기 목소리를 듣는 사람이 그 소리를 낯설고 불편하게 느끼거나 싫어한다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
 - [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
+- [모르는 것을 아는 체하기](../docs/feigning-knowledge.md) 사람이 모르는 지식이나 낱말, 개념을 남 앞에서 안다고 말한다.
+  - [알아들은 척하기](../docs/pretending-to-understand.md)
+  - [읽지 않은 책을 읽은 척하기](../docs/pretending-to-have-read-books.md)
 - [보는 눈이 있을 때 행동 바꾸기](../docs/behaving-better-when-watched.md) 누군가 지켜본다고 느끼는 사람이 혼자일 때와 달리 남이 좋게 볼 만한 쪽으로 행동한다.
 - [부끄러워 사람 피하기](../docs/avoiding-people-out-of-shame.md) 부끄러운 처지나 일이 있는 사람이 그 일을 아는 사람이나 사람이 모인 자리를 피한다.
   - [부끄러워 귀향 피하기](../docs/skipping-homecoming-out-of-shame.md)
@@ -33,14 +36,12 @@
   - [실직 사실 숨기기](../docs/concealing-job-loss.md)
   - [업무 실수 숨기기](../docs/hiding-mistakes-at-work.md)
 - [아픈 신발 참고 신기](../docs/wearing-painful-shoes.md) 굽 높은 구두나 꽉 끼는 신발이 발을 아프게 하는 줄 아는 사람이 보기 좋다는 이유로 그 신발을 계속 신는다.
-- [알아들은 척하기](../docs/pretending-to-understand.md) 사람이 남의 말이나 설명을 알아듣지 못했는데 알아들은 듯이 고개를 끄덕이거나 맞장구친다.
 - [억양 편견](../docs/accent-prejudice.md) 말을 듣는 사람이 말하는 사람의 지역 억양이나 계층 억양을 듣고 그 사람의 지위나 능력을 낮게 여긴다.
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
 - [외출 전 옷 여러 번 갈아입기](../docs/trying-on-outfits-before-going-out.md) 외출을 앞둔 사람이 입을 옷을 정하지 못해 여러 벌을 입어 보고 갈아입는다.
 - [원할 때 대화 끝내지 못하기](../docs/not-ending-conversations.md) 대화를 끝내고 싶은 사람이 먼저 끝내자고 말하지 못하고 대화를 이어 간다.
   - [손님이 가 주기를 바라기](../docs/wishing-guests-would-leave.md)
-- [읽지 않은 책을 읽은 척하기](../docs/pretending-to-have-read-books.md) 사람이 읽지 않은 책을 남 앞에서 읽었다고 말한다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
 - [창피한 일을 꾸며 둘러대기](../docs/covering-up-embarrassment.md) 창피한 일을 겪은 사람이 그 일을 사실대로 말하지 않고 다른 이야기로 꾸며 남에게 둘러댄다.

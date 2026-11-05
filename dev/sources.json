@@ -5192,9 +5192,9 @@
   },
   "https://www.gutenberg.org/cache/epub/76/pg76-images.html": {
     "first": "2026-10-20",
-    "last": "2026-10-22",
+    "last": "2026-11-05",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-05"
   },
   "https://journals.lib.uth.gr/index.php/inquiries/article/view/1391": {
     "first": "2026-10-20",
@@ -20044,6 +20044,36 @@
     "lastVerified": "2026-11-05"
   },
   "https://uwlpress.uwl.ac.uk/newvistas/article/id/85/": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://www.gutenberg.org/cache/epub/2992/pg2992-images.html": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://sports.khan.co.kr/article/200707102135403": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://news.cornell.edu/node/284532": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://www.iza.org/publications/dp/12282": {
+    "first": "2026-11-05",
+    "last": "2026-11-05",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-05"
+  },
+  "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255207": {
     "first": "2026-11-05",
     "last": "2026-11-05",
     "result": "VERIFIED",

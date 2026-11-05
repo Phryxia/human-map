@@ -195,6 +195,7 @@
 - [명절 귀성 포기](docs/skipping-holiday-homecoming.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [명절 잔소리를 웃음으로 넘기기](docs/laughing-off-holiday-nagging.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [명절 친지 모임 피하기](docs/skipping-holiday-gatherings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [모르는 것을 아는 체하기](docs/feigning-knowledge.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [모르는 번호의 전화 받지 않기](docs/not-answering-unknown-numbers.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [모르는 번호의 전화를 받고 먼저 말하지 않기](docs/answering-unknown-calls-silently.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [모은 돈 들여다보기](docs/gazing-at-saved-money.md) ([돈과 소비](groups/money.md))
