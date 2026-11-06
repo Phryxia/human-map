@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:19:55.623Z",
-  "nextSeq": 3942,
+  "savedAt": "2026-11-06T09:21:10.990Z",
+  "nextSeq": 3944,
   "stops": 199,
   "items": [
-    {
-      "id": "39001401",
-      "title": "feigning-knowledge 보강: SNS 파편, 2007년 기사 꼴불견 순위",
-      "priority": 50,
-      "note": "2026-11-05 sports.khan.co.kr 200707102135403 에 상사의 척 가운데 아는 척 40.2% 대목 있음(물결이 U+223C). 아는 척한 경험을 쓴 게시판 글 필요",
-      "createdAt": "2026-11-05T12:12:01.094Z",
-      "seq": 3853
-    },
     {
       "id": "bf9bf024",
       "title": "fighting-fire-oneself 와 delayed-evacuation 관계",
@@ -283,6 +275,14 @@
       "note": "2026-11-06 후보: The Railway Children(1906) gutenberg 1874 'So that by eight the fire had been out for some time, the water had all boiled away, and the bottom was burned out of the kettle.' 는 잠든 대목이 앞 문장이라 인용만으로 안 드러남. Anne of Green Gables(gutenberg 45)는 이미 4개 문서가 써서 5개째면 WARN",
       "createdAt": "2026-11-06T06:35:29.121Z",
       "seq": 3939
+    },
+    {
+      "id": "02e76477",
+      "title": "pretending-to-understand 보강 후보",
+      "priority": 50,
+      "note": "2026-11-06 HN 댓글 30977240 (2022-04-10) 'Instead, I pretended to understand what they said.', HN 49128662 (2026-07-31) 물리치료사 설명 앞에서 'I nodded carefully and pretended to understand everything.' 원문 확인 필요",
+      "createdAt": "2026-11-06T09:21:10.705Z",
+      "seq": 3943
     },
     {
       "id": "d16898d2",
