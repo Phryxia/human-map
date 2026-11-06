@@ -6,15 +6,17 @@
 
 # 서술
 
-2010년 서울에 사는 북한 출신 기자의 칼럼[^1]은 서울에서 북쪽 억양으로 말하면 중국에서 돈 벌러 왔느냐며 깔보는 사람들이 있다고 적었다. 같은 칼럼에서 그는 그런 차별하는 시선이 싫어서 사람들이 서울 말투를 빨리 배우려 한다고 썼다.
+1972년 Toomb 외의 학회 발표[^1]에서 청자들은 뉴욕 방언과 General American 화자를 다른 방언 화자보다 능력에서 높게 평가했다.
 
-2011년 미국 연구[^2]에서 같은 글을 듣고 평가한 참가자들은 남부 억양 화자를 표준 억양 화자보다 사교성은 높게, 지위는 낮게 평가했다.
+2010년 서울에 사는 북한 출신 기자의 칼럼[^2]은 서울에서 북쪽 억양으로 말하면 중국에서 돈 벌러 왔느냐며 깔보는 사람들이 있다고 적었다. 같은 칼럼에서 그는 그런 차별하는 시선이 싫어서 사람들이 서울 말투를 빨리 배우려 한다고 썼다.
 
-2017년 한국 방언 연구[^3]의 저자는 표준어 정책 등으로 방언이 교양 없는 사람들이 시골에서나 쓰는 말로 여겨져 쓰는 사람이 줄고 있다고 적었다.
+2011년 미국 연구[^3]에서 같은 글을 듣고 평가한 참가자들은 남부 억양 화자를 표준 억양 화자보다 사교성은 높게, 지위는 낮게 평가했다.
 
-2019년 9월 한국 연구[^4]에서 제주 방언을 쓰지 않는 다른 지역 방언 화자 60명은 설문에서 제주 방언을 유대감도 지위도 낮은 말로 평가했다.
+2017년 한국 방언 연구[^4]의 저자는 표준어 정책 등으로 방언이 교양 없는 사람들이 시골에서나 쓰는 말로 여겨져 쓰는 사람이 줄고 있다고 적었다.
 
-2019년 11월 Eastern Eye 기사가 전한 영국 연구에서 40세가 넘은 청자들은 모든 지원자가 똑같은 답을 했는데도 노동계급 억양 화자를 덜 유능하고 덜 채용할 만하다고 판단했다.[^5] 같은 연구에서 젊은 청자들은 억양에 따라 판단을 달리하지 않았다.
+2019년 9월 한국 연구[^5]에서 제주 방언을 쓰지 않는 다른 지역 방언 화자 60명은 설문에서 제주 방언을 유대감도 지위도 낮은 말로 평가했다.
+
+2019년 11월 Eastern Eye 기사가 전한 영국 연구에서 40세가 넘은 청자들은 모든 지원자가 똑같은 답을 했는데도 노동계급 억양 화자를 덜 유능하고 덜 채용할 만하다고 판단했다.[^6] 같은 연구에서 젊은 청자들은 억양에 따라 판단을 달리하지 않았다.
 
 # 관계
 
@@ -32,7 +34,7 @@
 
 ## 결과
 
-- [사투리 숨기기](hiding-regional-accent.md)[^1]
+- [사투리 숨기기](hiding-regional-accent.md)[^2]
 
 ## 대립
 
@@ -40,8 +42,9 @@
 
 #관계 #마음
 
-[^1]: [매체] "여기 서울도 북쪽 억양을 말하면 중국에서 돈 벌러 왔냐면서 깔보는 사람들이 있습니다. 그런 차별하는 시선이 싫어서 사람들은 서울 말투를 빨리 배우려고 노력하는 것이죠." — 주성하, 「[주성하의 서울살이] 남북의 사투리」, 자유아시아방송, 2010-06-04, https://www.rfa.org/korean/weekly_program/joosungha/co-sh-06042010144749.html, 2026-11-04 접속
-[^2]: [학술] "Although Southern-accented speakers were rated higher in sociality, but lower in status, than standard-accented speakers" (남부 억양 화자는 표준 억양 화자보다 사교성은 높게, 지위는 낮게 평가되었지만) — H Heaton, L C Nygaard, "Charm or Harm: Effect of Passage Content on Listener Attitudes toward American English Accents", Journal of Language and Social Psychology 30(2), 2011-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC3124097/, 2026-11-04 접속
-[^3]: [학술] "표준어 정책 등으로 말미암아 교양 없는 사람들이 시골에서나 사용하는 언어로 인식돼 그 사용층이 점차 감소하고 있고" — 김용갑, 「한국 방언 보전 방안 연구 : 무형문화재 지정 및 표준어 정책을 중심으로」, 한국전통문화연구 20, 2017-11, https://www.earticle.net/Article/A351435, 2026-11-05 접속
-[^4]: [학술] "Also, it was confirmed that other dialect users label Jeju dialect as a language with low solidarity and low status when their overt attitude was analyzed." (또한 다른 방언 사용자들은 외현적 태도를 분석했을 때 제주 방언을 유대감이 낮고 지위가 낮은 언어로 여기는 것으로 확인되었다.) — Saebom Kwak, Seok-Hoon You, "Analysis of Koreans' Overt and Covert Language Attitudes towards Jeju Dialect", 언어정보 29, 2019-09, https://www.earticle.net/Article/A363644, 2026-11-04 접속
-[^5]: [매체] "those above the age of 40 judged speakers of working class accents to be less competent and less hireable, even though all candidates gave exactly the same responses." (40세가 넘은 사람들은 모든 지원자가 똑같은 답을 했는데도 노동계급 억양 화자를 덜 유능하고 덜 채용할 만하다고 판단했다.) — Keerthi Mohan, "Ethnic accents face negative bias", Eastern Eye, 2019-11-28, https://www.easterneye.biz/ethnic-accents-face-negative-bias, 2026-11-04 접속
+[^1]: [학술] "New York and General American dialects were rated significantly higher on competence dimensions than were other dialects." (뉴욕 방언과 General American 방언은 능력 차원에서 다른 방언보다 유의하게 높게 평가되었다.) — J. Kevin Toomb 외, "The Effects of Regional Dialects on Initial Source Credibility", International Communication Association Annual Convention, 1972-04, https://eric.ed.gov/?id=ED062828, 2026-11-06 접속
+[^2]: [매체] "여기 서울도 북쪽 억양을 말하면 중국에서 돈 벌러 왔냐면서 깔보는 사람들이 있습니다. 그런 차별하는 시선이 싫어서 사람들은 서울 말투를 빨리 배우려고 노력하는 것이죠." — 주성하, 「[주성하의 서울살이] 남북의 사투리」, 자유아시아방송, 2010-06-04, https://www.rfa.org/korean/weekly_program/joosungha/co-sh-06042010144749.html, 2026-11-04 접속
+[^3]: [학술] "Although Southern-accented speakers were rated higher in sociality, but lower in status, than standard-accented speakers" (남부 억양 화자는 표준 억양 화자보다 사교성은 높게, 지위는 낮게 평가되었지만) — H Heaton, L C Nygaard, "Charm or Harm: Effect of Passage Content on Listener Attitudes toward American English Accents", Journal of Language and Social Psychology 30(2), 2011-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC3124097/, 2026-11-04 접속
+[^4]: [학술] "표준어 정책 등으로 말미암아 교양 없는 사람들이 시골에서나 사용하는 언어로 인식돼 그 사용층이 점차 감소하고 있고" — 김용갑, 「한국 방언 보전 방안 연구 : 무형문화재 지정 및 표준어 정책을 중심으로」, 한국전통문화연구 20, 2017-11, https://www.earticle.net/Article/A351435, 2026-11-05 접속
+[^5]: [학술] "Also, it was confirmed that other dialect users label Jeju dialect as a language with low solidarity and low status when their overt attitude was analyzed." (또한 다른 방언 사용자들은 외현적 태도를 분석했을 때 제주 방언을 유대감이 낮고 지위가 낮은 언어로 여기는 것으로 확인되었다.) — Saebom Kwak, Seok-Hoon You, "Analysis of Koreans' Overt and Covert Language Attitudes towards Jeju Dialect", 언어정보 29, 2019-09, https://www.earticle.net/Article/A363644, 2026-11-04 접속
+[^6]: [매체] "those above the age of 40 judged speakers of working class accents to be less competent and less hireable, even though all candidates gave exactly the same responses." (40세가 넘은 사람들은 모든 지원자가 똑같은 답을 했는데도 노동계급 억양 화자를 덜 유능하고 덜 채용할 만하다고 판단했다.) — Keerthi Mohan, "Ethnic accents face negative bias", Eastern Eye, 2019-11-28, https://www.easterneye.biz/ethnic-accents-face-negative-bias, 2026-11-04 접속
