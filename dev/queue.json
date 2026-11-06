@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:30:26.197Z",
-  "nextSeq": 3962,
+  "savedAt": "2026-11-06T09:32:07.731Z",
+  "nextSeq": 3966,
   "stops": 199,
   "items": [
-    {
-      "id": "52f4a4d3",
-      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-04 확인: 'ahem' 학술 검색은 사전 항목뿐(wehd.com 1763 사전 '주의를 끌려는 감탄사' 는 사전). 이전: Wharton 2003 Pragmatics & Cognition ResearchGate 403, Nicholas Nickleby pg967 문학 후보",
-      "createdAt": "2026-11-05T18:24:32.222Z",
-      "seq": 3888
-    },
-    {
-      "id": "e61306e2",
-      "title": "hot-hand-belief 보강: gamblers-fallacy 관계, 1985 원 논문",
-      "priority": 50,
-      "note": "2026-11-05 문학(The Gambler pg2197), SNS(HN 15780359) 추가. 남은 것: Gilovich 외 1985 초록 HTML 판(ScienceDirect 막힘), gamblers-fallacy 와 대립 근거 문장. HN 13255569 'it was the belief that sometime you get in a zone' 후보",
-      "createdAt": "2026-11-05T18:28:19.981Z",
-      "seq": 3889
-    },
     {
       "id": "8091d5df",
       "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
@@ -1187,6 +1171,22 @@
       "note": "2026-11-06 상위 help-seeking-avoidance 로 둠. withholding 쪽과의 관계는 파편 필요. PMC61246 표 2 바보처럼 보일까 봐 24%. dailian 1671044 는 hiding-illness-from-family 관계 후보",
       "createdAt": "2026-11-06T09:29:11.164Z",
       "seq": 3961
+    },
+    {
+      "id": "10151d6b",
+      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-04 'ahem' 학술 검색은 사전 항목뿐. Wharton 2003 Pragmatics & Cognition ResearchGate 403. Nicholas Nickleby pg967 문학 후보",
+      "createdAt": "2026-11-06T09:30:37.097Z",
+      "seq": 3964
+    },
+    {
+      "id": "8e463c05",
+      "title": "hot-hand-belief 보강: 1985 원 논문",
+      "priority": 30,
+      "note": "2026-11-06 gamblers-fallacy 대립은 Ayton & Fischer 2004 PMID 15900930 으로 그음. Gilovich 외 1985 초록 HTML 판(ScienceDirect 막힘) 남음. HN 13255569 후보",
+      "createdAt": "2026-11-06T09:32:07.605Z",
+      "seq": 3965
     },
     {
       "id": "75b0ae75",

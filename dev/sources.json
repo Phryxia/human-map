@@ -7874,21 +7874,21 @@
   },
   "https://www.gutenberg.org/cache/epub/2197/pg2197-images.html": {
     "first": "2026-10-23",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24293013&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-06"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26236092&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-06"
   },
   "https://80000hours.org/2012/11/do-you-think-you-re-better-than-average/": {
     "first": "2026-10-23",
@@ -8762,21 +8762,21 @@
   },
   "https://dlab.sauder.ubc.ca/sjdm/journal/06001/jdm06001.htm": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
-    "result": "VERIFIED",
+    "last": "2026-11-06",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-24"
   },
   "https://kbmaeil.com/article/201704270191001": {
     "first": "2026-10-23",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://www.teamblind.com/kr/post/%EC%9A%94%EB%B2%88%EC%A3%BC-18%EB%B2%88%EC%9D%B4-%EB%82%98%EC%98%AC-%EC%9D%B4%EC%9C%A0%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%9C%EB%8B%A4-DFD6P23v": {
     "first": "2026-10-23",
-    "last": "2026-10-24",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-06"
   },
   "https://www.gamblingcommission.gov.uk/statistics-and-research/publication/problem-gambling-screens": {
     "first": "2026-10-23",
@@ -9158,9 +9158,9 @@
   },
   "https://research.tilburguniversity.edu/en/publications/the-gamblers-fallacy-and-gender/": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-06"
   },
   "https://www.ipss.go.jp/ps-doukou/j/doukou15/report15html/NFS15R_html03.html": {
     "first": "2026-10-24",
@@ -19547,9 +19547,9 @@
   },
   "https://www.tinbergen.nl/publication/166476": {
     "first": "2026-11-04",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://weekly.khan.co.kr/article/201106081722461": {
     "first": "2026-11-04",
@@ -20266,9 +20266,9 @@
   },
   "https://news.ycombinator.com/item?id=15780359": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://theses.gla.ac.uk/81582/": {
     "first": "2026-11-05",
@@ -20599,6 +20599,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://www.newdaily.co.kr/site/data/html/2019/09/13/2019091300015.html": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15900930&rettype=abstract&retmode=text": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",
