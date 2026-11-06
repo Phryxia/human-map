@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [계기판 경고등 무시하고 운전하기](../docs/ignoring-dashboard-warning-lights.md) 계기판 경고등이 켜진 차의 운전자가 정비를 미루고 그대로 차를 몬다.
 - [과속 운전](../docs/speeding.md) 운전자가 운전을 통제하고 있다고 믿거나 더 빨리 도착하려고 제한 속도보다 빠르게 달린다.
   - [단속 카메라 앞에서만 속도 줄이기](../docs/slowing-only-at-speed-cameras.md)
 - [교차로 꼬리물기](../docs/blocking-the-intersection.md) 운전자가 앞이 막혀 교차로를 다 건너지 못할 상황에서도 다음 신호를 기다리지 않고 앞차를 따라 교차로에 들어선다.
