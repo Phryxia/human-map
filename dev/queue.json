@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:13:21.799Z",
+  "savedAt": "2026-11-06T09:14:53.793Z",
   "nextSeq": 3940,
   "stops": 199,
   "items": [
-    {
-      "id": "2554660a",
-      "title": "lingering-goodbye 와 not-ending-conversations 관계",
-      "priority": 50,
-      "note": "2026-11-05 문 앞 작별 인사를 콕 집은 인과 문장 못 찾음. Fox News Midwest goodbye 2026-03-29, Strong Towns The Minnesota Goodbye 2022-12-13 은 인과 없음. Star Tribune 429, Minnesota Monthly 403. Harvard Gazette 2021-03-03 'likely happens because people don’t want to seem rude' 는 대화 일반",
-      "createdAt": "2026-11-05T09:29:34.668Z",
-      "seq": 3838
-    },
-    {
-      "id": "bf3c5088",
-      "title": "wishing-on-moon-and-stars 보강: 한국어 문학",
-      "priority": 50,
-      "note": "2026-11-05 상위 superstitious-rituals 로 두어 wishing-coin-toss 와 공통 상위. 한국어 문학 남음. 후보: 국가기록원 뉴스레터 133호 theme.archives.go.kr vol_133 달맞이 소원 빌기(공공)",
-      "createdAt": "2026-11-05T09:30:08.568Z",
-      "seq": 3839
-    },
     {
       "id": "6fd71424",
       "title": "saying-food-is-fine 원인 간선: 어색함·갈등 회피",
