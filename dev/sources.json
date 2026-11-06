@@ -19901,27 +19901,27 @@
   },
   "https://api.parliament.uk/historic-hansard/commons/1950/jul/17/traders-trafalgar-square": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://www.scoop.co.nz/stories/AK0712/S00099.htm": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://openresearch.amsterdam/en/id/88253": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://v.daum.net/v/20250705090134051": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://api.parliament.uk/historic-hansard/lords/1999/mar/25/police-vehicles": {
     "first": "2026-11-05",
@@ -20396,6 +20396,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://inesad.edu.bo/developmentroast/?p=3058": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://www.gutenberg.org/cache/epub/7353/pg7353.txt": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",
