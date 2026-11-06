@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T12:31:57.292Z",
-  "nextSeq": 3980,
-  "stops": 201,
+  "savedAt": "2026-11-06T15:36:28.620Z",
+  "nextSeq": 3998,
+  "stops": 202,
   "items": [
-    {
-      "id": "d75b2a44",
-      "title": "child-car-seat-nonuse 관계: rear-seat-belt-nonuse",
-      "priority": 50,
-      "note": "2026-11-05 82cook 파편은 클리앙 cm_baby/10836783 로 바꿈. 짧은 거리 이유가 rear-seat-belt-nonuse [^6] 과 겹침, 공통 상위(안전띠 미착용) 후보. 다른 SNS 후보: clien cm_baby/13212501 (2019-02-28), teamblind kr 아기가 카시트 싫어할때 QH42XKAy (2017-12-31)",
-      "createdAt": "2026-11-05T21:12:57.153Z",
-      "seq": 3901
-    },
-    {
-      "id": "4c3963c4",
-      "title": "clearing-throat-to-show-dignity 보강: 인기척 헛기침, 비한국어 학술",
-      "priority": 50,
-      "note": "2026-11-05 디지털논산문화대전 GC020A020102 학술 파편 더함. 후보: center-for-nonverbal-studies.org/htdocs/throat.htm Givens 'An aggressive version of the throat-clear may be used to interrupt, overrule, or challenge a speaker.', jeju.grandculture.net GC007T02025 시아버지 '흠' 헛기침 (항목 제목에 실명 있어 서지 주의), 측신 헛기침은 인기척 쪽 별개 현상 후보",
-      "createdAt": "2026-11-05T21:21:31.834Z",
-      "seq": 3902
-    },
-    {
-      "id": "1284ca1e",
-      "title": "rereading-old-diaries 와 keeping-a-diary 관계",
-      "priority": 50,
-      "note": "2026-11-05 cringing-at-past-embarrassment 결과 간선은 Varsity 28154 로 넣음. keeping-a-diary 관계 근거 필요. 다른 후보: stylist.co.uk 837264 (2023-11-07) 'would make me cringe and my skin crawl', brunch @notepen/16 (2026-09-26) '부끄럽고 민망하고 손발이 오그라들기 때문이다', npr transcripts/11989043 (2007-07-15) Cringe 낭독회",
-      "createdAt": "2026-11-05T21:34:57.333Z",
-      "seq": 3904
-    },
-    {
-      "id": "a2923ee2",
-      "title": "accent-prejudice 보강: 한국 표준어 대 사투리 화자 평가 실험",
-      "priority": 50,
-      "note": "2026-11-05 김용갑 2017 earticle A351435 더함. 화자 평가 실험은 아직 없음. 후보: koreascience JAKO201110264496547 (2011) 사투리 쓰는 승무원 지원자가 면접 불안을 더 느낌(다른 현상 후보), imaeil 2011050309052227230 사투리 핸디캡 스피치 학원, kukinews kuk202103310289 403",
-      "createdAt": "2026-11-05T21:36:57.006Z",
-      "seq": 3905
-    },
-    {
-      "id": "b7d25690",
-      "title": "confronting-line-cutters 와 staying-silent-at-line-cutting 대립 근거, 비영어 파편",
-      "priority": 50,
-      "note": "2026-11-05 다시 미룸. 한국어 검색 6개로 항의할까 참을까 문장을 못 찾음. 다음: 네이트판, 디시 공개글에서 지하철·마트 계산대 새치기 참았 류. 이전: PsyBlog 2008-09 [^2] 두 사람 떨어지면 항의 5%",
-      "createdAt": "2026-11-05T21:38:44.728Z",
-      "seq": 3906
-    },
-    {
-      "id": "051e7650",
-      "title": "sunk-cost-persistence 와 pre-wedding-doubts 관계, 한국어 SNS",
-      "priority": 50,
-      "note": "2026-11-05 TigerDroppings 2010 영화 표값 파편 더함. 한국어 후보: m.cafe.daum.net/dubai4u/_memo/4413/comments (2011-06-17) 뷔페 본전 생각에 더 먹음(overeating 관계 후보). pre-wedding-doubts 원인 근거는 여전히 없음",
-      "createdAt": "2026-11-05T21:40:37.203Z",
-      "seq": 3907
-    },
-    {
-      "id": "27c42a1b",
-      "title": "illusion-of-control 보강: SNS 파편, 하위 후보",
-      "priority": 50,
-      "note": "2026-11-05 데일리안 1311340 더함. 후보: gqkorea ?p=398896 (2026-09-05) 번호를 직접 고르면 당첨 가능성이 높아진다고 느낌, 통제의 착각. 하위 후보 buying-lottery-tickets, gamblers-fallacy. Langer 1975 원문 필요",
-      "createdAt": "2026-11-05T21:42:51.453Z",
-      "seq": 3908
-    },
-    {
-      "id": "dff391d0",
-      "title": "ignoring-dashboard-warning-lights 보강: 공공 파편 확인, SNS 파편, 2010년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-06 추가. NHTSA DOT HS 813 617 PDF 가 타임아웃이라 미확인. 확인됨은 매체 2021 Motor1, 학술 2025 PMC12077779. 후보: 같은 PMC 글 'drivers may have been ignoring the warning signs' 는 같은 출처라 못 씀. CarMD 2008 조사 PDF, am-online ClickMechanic 2017 은 열리지 않음. ignoring-vehicle-recalls 와 공통 상위(차량 정비 미루기) 후보",
-      "createdAt": "2026-11-06T00:12:15.447Z",
-      "seq": 3915
-    },
-    {
-      "id": "492069ec",
-      "title": "rereading-old-letters 보강: 학술 파편, SNS 파편, rereading-old-diaries 와 공통 상위",
-      "priority": 50,
-      "note": "2026-11-06 추가. 확인됨 문학 1848 Vanity Fair, 문학 1891 Tess, 매체 2024 경북매일, 매체 2026 오마이뉴스. 학술 후보: PMC9684218 Lindemann 2022 'reading old letters and mails of a deceased' (지속 유대와 비교, continuing-bonds 관계 후보). 브런치 maumcollage/658 은 자기가 보낸 편지를 부모 사후에 다시 읽는 장면. looking-at-old-photos, rereading-old-diaries 와 공통 상위(옛 기록 다시 보기) 후보",
-      "createdAt": "2026-11-06T00:18:22.362Z",
-      "seq": 3916
-    },
     {
       "id": "d074ee30",
       "title": "pocket-patting 원인: 물건 잃어버릴까 하는 불안",
@@ -187,6 +115,22 @@
       "note": "2026-11-06 붉어질까 두려워하는 대목 못 찾음. 근접 후보: Trollope Barchester Towers Gutenberg 3409 'would have given the world not to blush, but her blood was not at her own command', Gaskell Mary Barton 2153 'wished she could prevent it' (blushing 쪽에 더 맞음)",
       "createdAt": "2026-11-06T12:31:54.372Z",
       "seq": 3979
+    },
+    {
+      "id": "4d7df026",
+      "title": "seat-belt-nonuse 보강: 습관, 사고 안 낸다는 믿음",
+      "priority": 50,
+      "note": "2026-11-06 후보: seoul.co.kr 2001/09/18 20010918013001 미착용자 26.5% 불편, 7.7% 효과 없음, 습관. segye 20140404003768 시내버스 기사 숨이 막혀 풀었다 맸다. jjan.kr 20260525500230 택시 승객 과식해 벨트 불편. clien park/12446711 갑갑해서 안 맴(1980~90년대 회고). 별칭 근거 후보 ctr.utk.edu factors-influencing-seat-belt-non-use",
+      "createdAt": "2026-11-06T15:12:02.770Z",
+      "seq": 3989
+    },
+    {
+      "id": "4b139b42",
+      "title": "rereading-old-letters 보강: 학술 파편, SNS 파편, rereading-old-diaries 와 공통 상위",
+      "priority": 50,
+      "note": "2026-11-06 추가. 확인됨 문학 1848 Vanity Fair, 문학 1891 Tess, 매체 2024 경북매일, 매체 2026 오마이뉴스. 학술 후보: PMC9684218 Lindemann 2022 'reading old letters and mails of a deceased' (지속 유대와 비교, continuing-bonds 관계 후보, curl UA 로 대목 확인 실패). 브런치 maumcollage/658 은 자기가 보낸 편지를 부모 사후에 다시 읽는 장면. looking-at-old-photos, rereading-old-diaries 와 공통 상위(옛 기록 다시 보기) 후보",
+      "createdAt": "2026-11-06T15:36:13.849Z",
+      "seq": 3997
     },
     {
       "id": "d16898d2",
@@ -699,6 +643,14 @@
       "note": "2026-11-05 feeling-rushed 원인 간선은 넣음. loneliness 결과 후보: teamblind 8nb87qth (2026-02-02), Dazed 64746 (2024-09-27) 'byproduct of having no time'. 묘사 보강 후보: wftv friendship-recession (2026-10-26) 'Dinner gets postponed, a busy week becomes a busy month' (2026-11-06 URL 못 찾음), brunch @0520with/21 (2019-01-09) '시간 없다는 핑계로 미루기만 했었다'",
       "createdAt": "2026-11-06T09:32:40.901Z",
       "seq": 3969
+    },
+    {
+      "id": "76e5b29a",
+      "title": "ignoring-dashboard-warning-lights 보강: 공공 파편 확인",
+      "priority": 40,
+      "note": "2026-11-06 MOTOR 2004, 클리앙 cm_car/19080501 더함. NHTSA 813617 은 여전히 타임아웃 미확인. 후보: tiresandparts.net 2017-07-25 ClickMechanic 영국 운전자 3분의 1 이상 2주 넘게 기다림, clien park/19232012 (2026-07-21) 공기압 경고등 그대로 탐. ignoring-vehicle-recalls 와 공통 상위 후보",
+      "createdAt": "2026-11-06T15:36:01.609Z",
+      "seq": 3996
     },
     {
       "id": "e8ba47a7",
@@ -1227,6 +1179,46 @@
       "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. 어둠 때문에 소리를 침입자로 여긴다는 인과 문장 필요. 공공 후보 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html (curl 403)",
       "createdAt": "2026-11-06T09:32:22.306Z",
       "seq": 3968
+    },
+    {
+      "id": "8ecb4f0a",
+      "title": "rereading-old-diaries 와 keeping-a-diary 관계",
+      "priority": 30,
+      "note": "2026-11-06 미룸. 필요한 근거: 일기를 써 두었기 때문에 다시 읽게 되었다(결과), 또는 다시 읽으려고 일기를 쓴다는 대목. 상위 관계는 맞지 않음. 이전 note: stylist.co.uk 837264, brunch @notepen/16, npr transcripts/11989043",
+      "createdAt": "2026-11-06T15:13:22.642Z",
+      "seq": 3991
+    },
+    {
+      "id": "097ded84",
+      "title": "accent-prejudice 보강: 한국 표준어 대 사투리 화자 평가 실험",
+      "priority": 30,
+      "note": "2026-11-06 ERIC ED062828 (1972) 더함. 한국 매치드 가이즈 HTML 초록 못 찾음. 후보: doi 10.1515/applirev-2023-0058 (부산 화자 서울 말투일 때 더 좋게 평가, 405), riss 조재형·백승현 2022 방언 언어 태도 설문, eric ED088619 (1974) 표준 영어 대 억양 영어",
+      "createdAt": "2026-11-06T15:20:24.931Z",
+      "seq": 3992
+    },
+    {
+      "id": "a4da5272",
+      "title": "confronting-line-cutters 와 staying-silent-at-line-cutting 대립 근거",
+      "priority": 30,
+      "note": "2026-11-06 staying-silent 에 네이트판 328562892 더함. 대립 근거 후보(미확인): 82cook bn=15 num=1162538 (2012-01-09) 적반하장 걱정에 돌아섬, 이 환경에서 SSL 오류. clien park/18136502 (2023-06-16) 예전엔 에휴 하고 말았는데 요즘엔 대놓고 이야기",
+      "createdAt": "2026-11-06T15:24:59.392Z",
+      "seq": 3993
+    },
+    {
+      "id": "cfded205",
+      "title": "sunk-cost-persistence 와 pre-wedding-doubts 관계",
+      "priority": 30,
+      "note": "2026-11-06 다음 카페 dubai4u 4413 뷔페 본전 댓글 더함. pre-wedding-doubts 원인 근거(들인 돈과 시간이 아까워 결혼을 밀고 감)는 여전히 없음. overeating 관계 후보도 같은 댓글",
+      "createdAt": "2026-11-06T15:25:44.992Z",
+      "seq": 3994
+    },
+    {
+      "id": "bf03e8cc",
+      "title": "illusion-of-control 보강: 2000년대 한국어 파편, 하위 후보",
+      "priority": 30,
+      "note": "2026-11-06 Langer 1982 Cambridge 요약 더함. 후보: gqkorea ?p=398896 (2026-09-05) 통제의 착각, PMC3683617 (2013) Orgaz 외 도박 문제 있는 사람이 통제 착각에 더 취약. 하위 후보 buying-lottery-tickets, gamblers-fallacy",
+      "createdAt": "2026-11-06T15:28:54.573Z",
+      "seq": 3995
     },
     {
       "id": "75b0ae75",
@@ -2555,6 +2547,14 @@
       "note": "2026-11-06 추가. clien park/16242734 (2021-06-18) 댓글 '이어폰 껴도 말걸고 휴대폰 보고 있어도 말걸고'. feigning-absorption-to-avoid-talk 이 통하지 않는 조건. avoiding-small-talk-during-service 와 관계 후보",
       "createdAt": "2026-11-06T03:29:22.953Z",
       "seq": 3929
+    },
+    {
+      "id": "2454451b",
+      "title": "인기척 내는 헛기침과 측신 헛기침",
+      "priority": 10,
+      "note": "2026-11-06 clearing-throat-to-announce-presence 보강 후보: jeju.grandculture.net GC007T02025 시아버지 '흠' 헛기침(항목 제목에 실명, 서지 주의), 측신 헛기침",
+      "createdAt": "2026-11-06T15:13:07.654Z",
+      "seq": 3990
     },
     {
       "id": "02b2f242",
