@@ -935,9 +935,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%B9%88%EC%B2%98": {
     "first": "2026-10-17",
-    "last": "2026-10-27",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-06"
   },
   "https://www.sidae.com/article/2016102808278064569": {
     "first": "2026-10-17",
@@ -11048,9 +11048,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3918682/": {
     "first": "2026-10-26",
-    "last": "2026-11-04",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-06"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8910367/": {
     "first": "2026-10-26",
@@ -15250,21 +15250,21 @@
   },
   "https://www.etoday.co.kr/news/view/1730674": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-06"
   },
   "https://boards.straightdope.com/t/what-makes-you-go-to-a-social-event-you-don-t-want-to-go-to/969528": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-06"
   },
   "https://neurosciencenews.com/social-neuroscience-invites-25349/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-06"
   },
   "https://www.usz.ch/en/disease/erythrophobia/": {
     "first": "2026-10-31",
@@ -18929,15 +18929,15 @@
   },
   "https://www.imaeil.com/page/view/2008050107173176946": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-06"
   },
   "https://www.irishtimes.com/life-and-style/people/when-i-m-gone-i-m-gone-and-yet-i-find-myself-talking-to-the-dead-1.3707228": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-06"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10677768/": {
     "first": "2026-11-04",
@@ -20611,6 +20611,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://ko.wikisource.org/wiki/송동이": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://ko.wikisource.org/wiki/%EC%96%B4%EB%A6%B0_%EC%98%81%ED%98%BC": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",
