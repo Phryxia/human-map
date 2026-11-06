@@ -465,6 +465,7 @@
 - [자기 보상 소비](docs/self-reward-purchase.md) ([돈과 소비](groups/money.md))
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 전 양치 거르기](docs/skipping-bedtime-toothbrushing.md) ([건강과 위험](groups/health-and-safety.md))
+- [자기 지식 과대평가](docs/knowledge-overestimation.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 침묵](docs/self-silencing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자기에 대한 말 엿듣기](docs/overhearing-talk-about-oneself.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자녀 사교육 불안](docs/private-tutoring-anxiety.md) ([돈과 소비](groups/money.md))

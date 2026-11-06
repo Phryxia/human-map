@@ -5192,9 +5192,9 @@
   },
   "https://www.gutenberg.org/cache/epub/76/pg76-images.html": {
     "first": "2026-10-20",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://journals.lib.uth.gr/index.php/inquiries/article/view/1391": {
     "first": "2026-10-20",
@@ -20051,33 +20051,33 @@
   },
   "https://www.gutenberg.org/cache/epub/2992/pg2992-images.html": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://sports.khan.co.kr/article/200707102135403": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://news.cornell.edu/node/284532": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://www.iza.org/publications/dp/12282": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255207": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-06"
   },
   "https://vuir.vu.edu.au/1987/": {
     "first": "2026-11-05",
@@ -20557,6 +20557,24 @@
     "lastVerified": "2026-11-06"
   },
   "https://cyberpsychology.eu/article/view/15411": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21442007&rettype=abstract&retmode=text": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26174782&rettype=abstract&retmode=text": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://www.sciencedaily.com/releases/2015/07/150720092303.htm": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",

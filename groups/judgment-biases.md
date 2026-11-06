@@ -19,6 +19,7 @@
 - [연락받는 사람의 감사 과소평가](../docs/underestimating-reach-out-appreciation.md) 안부를 전하려는 사람이 연락을 받는 사람이 그 연락을 얼마나 고마워할지 실제보다 낮게 어림한다.
 - [자기 이익을 위한 정당화](../docs/self-serving-justification.md) 사람이 자기에게 이로운 쪽으로 행동하면서 그 행동이 옳거나 의무를 다한 것이라는 이유를 스스로 만들어 낸다.
   - [회사 비품 가져가기](../docs/taking-office-supplies.md)
+- [자기 지식 과대평가](../docs/knowledge-overestimation.md) 사람이 어떤 분야나 사물에 대해 자기가 아는 정도를 실제보다 높게 여긴다.
 - [처분 효과](../docs/disposition-effect.md) 이익이 난 투자 자산은 일찍 팔고 손실이 난 투자 자산은 오래 쥐고 있는 투자자의 행동이다.
 - [통제 착각](../docs/illusion-of-control.md) 결과가 운에 달린 일을 앞둔 사람이 자기가 고르거나 손을 쓰면 결과를 좌우할 수 있다고 느낀다.
   - [효과 없는 버튼 누르기](../docs/pressing-placebo-buttons.md)
