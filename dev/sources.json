@@ -19842,7 +19842,7 @@
   "https://www.nature.com/articles/s41598-021-86971-z": {
     "first": "2026-11-05",
     "last": "2026-11-06",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-06"
   },
   "https://www.water.ie/news/the-public-are-urged-to-t": {
@@ -20881,6 +20881,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://www.ucdavis.edu/news/tears-job": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://www.pressherald.com/2007/10/11/water-district-dont-flush-consumer-wipes/": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",
