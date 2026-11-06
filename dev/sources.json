@@ -3495,9 +3495,9 @@
   },
   "https://www.statcan.gc.ca/pub/71-542-x/2009001/summary-sommaire-eng.htm": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-06"
   },
   "https://www150.statcan.gc.ca/n1/pub/11-008-x/2012001/article/11637-eng.htm": {
     "first": "2026-10-19",
@@ -20587,6 +20587,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://news.ycombinator.com/item?id=30977240": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://news.ycombinator.com/item?id=9505956": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",

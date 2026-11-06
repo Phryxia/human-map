@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:23:17.552Z",
-  "nextSeq": 3948,
+  "savedAt": "2026-11-06T09:25:03.372Z",
+  "nextSeq": 3952,
   "stops": 199,
   "items": [
-    {
-      "id": "dcc59d9e",
-      "title": "not-using-cooling-centers 보강: 국내 공공 파편",
-      "priority": 50,
-      "note": "2026-11-05 earticle A261747 2015 학술 추가. 공공 원문 HTML 못 찾음: 서울시 쪽방 실태조사, 감사원 지적, 행안부 의뢰 보고서. eiec.kdi.re.kr materialView num=285114 (복지부 2026-08-05 비회원도 경로당 쉼터 이용 안내) 는 간접 근거",
-      "createdAt": "2026-11-05T15:29:56.822Z",
-      "seq": 3867
-    },
     {
       "id": "76302a8e",
       "title": "delaying-going-home 와 shrinking-in-hosts-home 관계",
@@ -1197,6 +1189,22 @@
       "seq": 3947
     },
     {
+      "id": "857dfaa2",
+      "title": "not-using-cooling-centers 보강: 국내 공공 파편",
+      "priority": 30,
+      "note": "2026-11-05 earticle A261747 2015 학술 추가. 공공 원문 HTML 못 찾음: 서울시 쪽방 실태조사, 감사원 지적, 행안부 의뢰 보고서. eiec.kdi.re.kr num=285114 간접 근거. 2026-11-06 mediahub 2005076 은 안내뿐. m.go.seoul.co.kr 20260807500167 (경기도의원, 비회원 오해로 발길 돌림) 은 매체",
+      "createdAt": "2026-11-06T09:23:46.787Z",
+      "seq": 3950
+    },
+    {
+      "id": "eb5a4aa1",
+      "title": "disliking-fundraising-solicitation 와 not-donating 원인 간선",
+      "priority": 30,
+      "note": "2026-11-06 문서 추가. StatCan 2009 대목은 '더 기부하지 않은 이유' 맥락이나 원문에 인과 표현 없음. 요청 방식이 싫어 기부를 그만뒀다는 파편 필요. HN 7657133 (2014-04-27) 'It devalues the whole exchange when you know it's only being conducted because the other person wants to relieve you of your money.' 은 보강 후보",
+      "createdAt": "2026-11-06T09:25:03.032Z",
+      "seq": 3951
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1339,14 +1347,6 @@
       "note": "skipping-breakfast 와 no-time-to-exercise 모두 '시간이 없어서' 가 1순위 이유. 공통 상위를 말하는 파편을 찾아야 간선",
       "createdAt": "2026-10-19T06:37:55.055Z",
       "seq": 477
-    },
-    {
-      "id": "c23f68d1",
-      "title": "자선 요청 방식에 대한 거부감",
-      "priority": 10,
-      "note": "not-donating F2(Statistics Canada 2009) 'did not like the ways in which requests for donations were made'. not-donating 원인 후보",
-      "createdAt": "2026-10-19T06:50:32.209Z",
-      "seq": 479
     },
     {
       "id": "a0289254",
