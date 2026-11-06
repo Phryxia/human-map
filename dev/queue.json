@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:29:11.291Z",
+  "savedAt": "2026-11-06T09:30:26.197Z",
   "nextSeq": 3962,
   "stops": 199,
   "items": [
-    {
-      "id": "8acc6fbc",
-      "title": "looking-for-oneself-first 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-05 추가. own-face-in-photos 와의 관계 후보: myLot 506489 댓글 'i always try to look first at myself in the photo. i wanna see if i look good' (같은 출처라 다른 글 필요). Epley 2008 은 own-face-in-photos 에 씀. EurekAlert 565186 'you'll look at yourself first — unless your boss is also in the picture' curl 403",
-      "createdAt": "2026-11-05T18:13:16.119Z",
-      "seq": 3885
-    },
-    {
-      "id": "5630079a",
-      "title": "unsent-letters 보강: Night and Day 파편",
-      "priority": 50,
-      "note": "Woolf Night and Day pg1245 '“I went home and wrote you a letter. I tore it up.”' 1919, 같은 출처를 rereading-messages-before-sending 이 씀(문서당 한 파편, 저장소 5문서 미만이면 됨)",
-      "createdAt": "2026-11-05T18:20:19.025Z",
-      "seq": 3887
-    },
     {
       "id": "52f4a4d3",
       "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
