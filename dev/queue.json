@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:06:15.594Z",
+  "savedAt": "2026-11-06T09:13:21.799Z",
   "nextSeq": 3940,
   "stops": 199,
   "items": [
-    {
-      "id": "bb871036",
-      "title": "feeding-stray-cats 보강: 공공 파편, 먹이 주는 사람이 직접 쓴 SNS 글",
-      "priority": 50,
-      "note": "2026-11-05 추가. 후보: mediahub.seoul.go.kr archives/1502830 (2020-05-29) '보통 캣맘들이 사료나 물을 갔다 주는 것을 본적이 있다.', scholarworks.aub.edu.lb 의 다른 대목은 같은 출처라 못 씀. 82cook 은 연결 끊김",
-      "createdAt": "2026-11-05T06:34:49.992Z",
-      "seq": 3829
-    },
     {
       "id": "2554660a",
       "title": "lingering-goodbye 와 not-ending-conversations 관계",
