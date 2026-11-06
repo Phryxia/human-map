@@ -50,6 +50,7 @@
 - [자기 전 양치 거르기](../docs/skipping-bedtime-toothbrushing.md) 밤에 잠자리에 드는 사람이 피곤하거나 귀찮아서 이를 닦지 않고 잔다.
 - [자외선 차단제 안 바르기](../docs/sunscreen-nonuse.md) 햇볕에 나가는 사람이 번거롭거나 필요 없다고 여겨 자외선 차단제를 바르지 않는다.
 - [정상 집착](../docs/summit-fever.md) 산을 오르는 사람이 날씨가 나빠지거나 시간이 늦어져도 정상에 가겠다는 마음에 돌아서지 않고 계속 오른다.
+- [정전 때 발전기와 숯 그릴을 실내 가까이 쓰기](../docs/indoor-generator-and-grill-use.md) 정전을 겪는 사람이 휴대용 발전기를 집 안이나 창문 옆, 차고에서 돌리거나 숯 그릴을 집 안에 들인다.
 - [조리 중 자리 비우기](../docs/leaving-cooking-unattended.md) 사람이 레인지에 음식을 올려 둔 채 다른 일을 하러 자리를 비우거나 잠들어 조리 중인 것을 잊는다.
 - [진단 없이 음식 피하기](../docs/self-diagnosed-food-avoidance.md) 어떤 음식을 먹은 뒤 몸이 불편했다고 여기는 사람이 의학적 진단 없이 그 음식을 먹지 않는다.
 - [진료를 미루다 응급실 가기](../docs/delayed-care-emergency-visits.md) 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
