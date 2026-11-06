@@ -32,6 +32,7 @@
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
 - [벅찬 감정에 압도되기](../docs/overwhelmed-by-positive-emotion.md) 아주 귀엽거나 기쁜 것을 마주한 사람이 감당하기 어려울 만큼 강한 긍정 감정에 휩싸인다.
+- [벌이 없는 식구의 미안함](../docs/dependent-family-member-guilt.md) 벌이가 없어 가족의 살림에 기대는 사람이 그 가족에게 미안해하며 하고 싶은 말이나 부탁을 삼간다.
 - [복수심](../docs/desire-for-revenge.md) 남에게 해를 입거나 모욕당한 사람이 상대에게 같은 고통을 되갚아 주고 싶어 한다.
   - [층간소음 보복](../docs/neighbor-noise-retaliation.md)
 - [부모를 닮아 가는 자신 알아차리기](../docs/noticing-oneself-becoming-like-parents.md) 어른이 된 사람이 자기 말이나 표정, 행동에서 부모를 닮은 모습을 알아차린다.

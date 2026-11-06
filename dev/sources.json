@@ -3993,9 +3993,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%82%98%EC%9D%98_%EC%96%B4%EB%A8%B8%EB%8B%88": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-06"
   },
   "https://www.imaeil.com/page/view/2011090814430699188": {
     "first": "2026-10-19",
@@ -20593,6 +20593,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://news.ycombinator.com/item?id=9505956": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://www.newdaily.co.kr/site/data/html/2019/09/13/2019091300015.html": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",

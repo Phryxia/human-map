@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:25:03.372Z",
-  "nextSeq": 3952,
+  "savedAt": "2026-11-06T09:27:38.713Z",
+  "nextSeq": 3956,
   "stops": 199,
   "items": [
-    {
-      "id": "76302a8e",
-      "title": "delaying-going-home 와 shrinking-in-hosts-home 관계",
-      "priority": 50,
-      "note": "2026-11-05 확인: 얹혀사는 쪽이 눈치 보여 늦게 들어간다는 인과 문장 못 찾음. 집주인 쪽 글(teamblind in-laws, 네이트판 옮김)뿐. zikoko ?p=128489 2018 'Staying late at work just so you don’t have to go and face your family members wahala' 는 집주인 쪽이라 부족. nation.africa 'I feel unwelcome in my married sister's house' 403. 이전: bustle, Halfords 2025",
-      "createdAt": "2026-11-05T15:31:39.480Z",
-      "seq": 3870
-    },
-    {
-      "id": "2e9c21fc",
-      "title": "feeling-old-when-offered-a-seat 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-05 hesitating-to-offer-seat 와 원인 간선 그음(globalag goldenyears 1997). 학술 없음. 2003 한국심리학회지 지하철 양보 논문은 PDF. Ambivalent Ageism Scale 자리 권하기 예 PDF 미열람. avoiding-aids-that-look-old 와 공통 상위 검토",
-      "createdAt": "2026-11-05T15:33:47.729Z",
-      "seq": 3871
-    },
     {
       "id": "c97ac706",
       "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
@@ -1205,6 +1189,22 @@
       "seq": 3951
     },
     {
+      "id": "435d9c27",
+      "title": "feeling-old-when-offered-a-seat 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-05 학술 없음. 2026-11-06 PubMed benevolent ageism help 검색: Chasteen 2021 PMID 34291962(관찰자 인상), Ma 36845210(돕는 쪽) 은 받는 사람의 느낌이 아니라 부적합. 받는 쪽 자기 지각(self-perception of aging) 연구를 찾아볼 것",
+      "createdAt": "2026-11-06T09:25:52.294Z",
+      "seq": 3954
+    },
+    {
+      "id": "6f7297a8",
+      "title": "dependent-family-member-guilt 와 self-perceived-burden 관계",
+      "priority": 30,
+      "note": "2026-11-06 문서 추가. self-perceived-burden 은 나이 들거나 아픈 사람에 한정된 요약이라 상하위로 두지 않음. 두 현상을 함께 묶는 공통 상위(식구에게 짐이 된다는 느낌) 파편 필요",
+      "createdAt": "2026-11-06T09:27:38.460Z",
+      "seq": 3955
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1387,14 +1387,6 @@
       "note": "president.jp/articles/-/28249 (2019-04-10, 中原淳) '残業は上司から部下へと“遺伝”する'. staying-late-for-boss 원인 간선 후보",
       "createdAt": "2026-10-19T14:37:49.937Z",
       "seq": 533
-    },
-    {
-      "id": "e4edf5d4",
-      "title": "벌이 없는 식구의 미안함",
-      "priority": 10,
-      "note": "백신애 「나의 어머니」(1928, ko.wikisource) '불평을 말할 수가 없어졌다' 바로 앞 대목: 벌이 없는 딸이 어머니 살림에 미안해함. self-perceived-burden 하위 후보",
-      "createdAt": "2026-10-19T16:39:21.100Z",
-      "seq": 545
     },
     {
       "id": "80787093",
