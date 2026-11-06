@@ -4581,15 +4581,15 @@
   },
   "https://news.ycombinator.com/item?id=1706096": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-06"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086170": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-06"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239327": {
     "first": "2026-10-20",
@@ -4659,9 +4659,9 @@
   },
   "https://news.ycombinator.com/item?id=32078718": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-06"
   },
   "https://www.jil.go.jp/institute/reports/2011/0128.html": {
     "first": "2026-10-20",
@@ -20629,6 +20629,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://www.gutenberg.org/cache/epub/4537/pg4537-images.html": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://www.gutenberg.org/cache/epub/3184/pg3184-images.html": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",
