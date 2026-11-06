@@ -83,6 +83,7 @@
 - [긴급차량에 길 비켜 주지 않기](docs/not-yielding-to-emergency-vehicles.md) ([길과 운전](groups/roads-and-driving.md))
 - [길고양이에게 밥 주기](docs/feeding-stray-cats.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [길에 쓰레기 버리기](docs/littering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [길에서 마주 오는 사람에게 비켜 주기](docs/stepping-aside-for-oncoming-pedestrians.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [길을 잃고도 길 묻지 않기](docs/not-asking-for-directions.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [김 서린 유리에 손가락으로 쓰기](docs/writing-on-fogged-glass.md) ([시간과 하루 습관](groups/daily-time.md))
 - [김장 품앗이](docs/kimjang-together.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
