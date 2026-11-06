@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T00:34:32.928Z",
-  "nextSeq": 3921,
-  "stops": 197,
+  "savedAt": "2026-11-06T03:32:40.293Z",
+  "nextSeq": 3933,
+  "stops": 198,
   "items": [
-    {
-      "id": "c7c2ecd2",
-      "title": "first-day-nerves 보강: 원인 문장, 사라지는 시기",
-      "priority": 50,
-      "note": "2026-11-05 추가. 후보: hrzone job-jitters-scarier-than-dentist 'put the stress of starting a new job down to a fear of making mistakes' (이미 [^4] 출처라 같은 문서엔 못 씀, 다른 출처 필요), tes.com primary-pupils-who-fear-transition (2008-02-08) 첫 학기 말 불안이 대체로 사라짐, PMC6123573 (2018) 진학 시기 걱정 내용, merton.gov.uk transition-secondary 길 잃기 사물함 걱정",
-      "createdAt": "2026-11-05T00:18:03.705Z",
-      "seq": 3808
-    },
-    {
-      "id": "2f2ad730",
-      "title": "imaginary-arguments 원인: 분함, 자기상",
-      "priority": 50,
-      "note": "2026-11-05 추가. mindcafe story 1869148 (이미 [^6]) 은 분해서 받아치는 상상 시작. samwoolfe 2020 원문 A 'Imaginary arguments often occur when we believe our self-image is significantly boosted or sullied by the winning or losing of arguments' (같은 출처라 같은 문서엔 못 씀). staircase-wit, replaying-conversations-afterward 와 관계 후보. ERIC EJ741130 (2006-07) II 로 갈등을 살려 둠, repository.lsu.edu facultybooks/355 (2010)",
-      "createdAt": "2026-11-05T00:26:43.232Z",
-      "seq": 3809
-    },
-    {
-      "id": "37101483",
-      "title": "feigning-absorption-to-avoid-talk 보강: SNS, 한국어, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-05 추가. 확인됨 3개(문학 1908, 매체 2011 Pew, 매체 2019 WCCB). 후보: gutenberg 2559 Man of Property 'He was invisible now behind his paper', gutenberg 1400 Great Expectations 낡은 신문 읽는 척, ecommons.cornell.edu 2020 헤드폰 낀 사람에게 말 덜 건다(상대 쪽), nbcnews wbna44148874 fake conversations. 4276 North and South 는 이미 4개 문서가 써서 못 씀. pretending-to-sleep-to-avoid-talk 와 공통 상위 후보",
-      "createdAt": "2026-11-05T00:33:52.712Z",
-      "seq": 3810
-    },
-    {
-      "id": "0a1affae",
-      "title": "flushing-wet-wipes 보강: 공공 파편, 2010년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-05 추가. 후보: nyc.gov dep press_releases 19-008pr (2019-02-21, curl UA 403 브라우저 UA 200), watersupplyproject.ie almost-a-million-irish-pe (2022-10-03, water.ie 와 같은 기관), accesswater WEFTEC 2024 Toilet Talk '41% of people still occasionally flush' (품목이 물티슈로 특정 안 됨), ScienceDirect 'Don't rush to flush' 2015 는 이 환경에서 403",
-      "createdAt": "2026-11-05T06:13:51.436Z",
-      "seq": 3824
-    },
-    {
-      "id": "8bdd219d",
-      "title": "not-returning-shopping-carts 보강: 공공 파편, littering 관계",
-      "priority": 50,
-      "note": "2026-11-05 추가. 후보: longbeach.gov pw litterfreelb abandoned-shopping-carts 'People “borrow” them.' (발행일 미상), testvalley.gov.uk abandoned-trolleys 'not to use a shopping trolley to transport any shopping home.', Keizer 2008 Spreading of Disorder 는 무질서를 본 사람이 쓰레기를 더 버린다는 원인 간선 후보(초록 문장은 의문문)",
-      "createdAt": "2026-11-05T06:19:15.790Z",
-      "seq": 3825
-    },
-    {
-      "id": "4398105e",
-      "title": "not-yielding-to-emergency-vehicles 보강: 한국어 SNS 파편, 2010년 이전 한국 파편",
-      "priority": 50,
-      "note": "2026-11-05 추가. 후보: mediahub.seoul.go.kr archives/2012050 (2024-08-23) '어느 쪽으로 비켜야 할지 혼동하는 경우가 많아', 1news.co.nz 2021/06/16 'drivers failed to pull over or pulled over the wrong way repeatedly.', honoluluadvertiser 2007 Jul 09 은 앞 문장에 실명",
-      "createdAt": "2026-11-05T06:30:36.460Z",
-      "seq": 3827
-    },
     {
       "id": "bb871036",
       "title": "feeding-stray-cats 보강: 공공 파편, 먹이 주는 사람이 직접 쓴 SNS 글",
@@ -347,6 +299,38 @@
       "note": "2026-11-06 GQ Korea 2026-10-11 을 [^9] 로 더함. avesis.yyu.edu.tr Filimonau 2026 은 HTTP 500 이라 (미확인). 남은 후보: damoang.net/free/5130089 (403), dau.url.edu handle 20.500.14342/5815 (2026-01 학술, 미확인 대체 후보), mprnews 2016-09-21 just-take-the-last-piece-minnesota",
       "createdAt": "2026-11-06T00:34:20.515Z",
       "seq": 3920
+    },
+    {
+      "id": "0e3255e6",
+      "title": "imaginary-arguments 원인: 자기상",
+      "priority": 50,
+      "note": "2026-11-06 추가. 원한 품기 원인은 [^7] 로 그었음. 자기상 원인은 samwoolfe 와 다른 출처 필요. staircase-wit, replaying-conversations-afterward 와 관계 후보",
+      "createdAt": "2026-11-06T03:16:30.228Z",
+      "seq": 3928
+    },
+    {
+      "id": "5ad4e4dc",
+      "title": "flushing-wet-wipes 보강: 2010년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-06 추가. 공공 파편은 nyc.gov 19-008pr 로 채움. 2010년 이전 출처 없음. capecod.gov ?p=2299 'Flushable Wipes Blamed for Sewer Clogs' 후보",
+      "createdAt": "2026-11-06T03:30:41.286Z",
+      "seq": 3930
+    },
+    {
+      "id": "97036422",
+      "title": "not-returning-shopping-carts 보강: 공공 파편 둘째",
+      "priority": 50,
+      "note": "2026-11-06 추가. littering 관계는 cbsnews 2008 로 그었음. 후보 longbeach.gov litterfreelb abandoned-shopping-carts 'People “borrow” them.', testvalley.gov.uk abandoned-trolleys 는 이 환경에서 404",
+      "createdAt": "2026-11-06T03:32:00.614Z",
+      "seq": 3931
+    },
+    {
+      "id": "65c370db",
+      "title": "not-yielding-to-emergency-vehicles 보강: 한국어 SNS 파편, 2010년 이전 한국 파편",
+      "priority": 50,
+      "note": "2026-11-05 추가. 후보: mediahub.seoul.go.kr archives/2012050 (2024-08-23) '어느 쪽으로 비켜야 할지 혼동하는 경우가 많아', 1news.co.nz 2021/06/16 'drivers failed to pull over or pulled over the wrong way repeatedly.', honoluluadvertiser 2007 Jul 09 은 앞 문장에 실명. 2026-11-06 web.getcha.kr community 11712 는 펌글이라 뺌",
+      "createdAt": "2026-11-06T03:32:24.684Z",
+      "seq": 3932
     },
     {
       "id": "d16898d2",
@@ -2603,6 +2587,22 @@
       "note": "2026-11-05 m.go.seoul.co.kr/news/2019/04/02/20190402008014 '민원인의 폭언 등으로 스마일 마스크 증후군에 시달렸다' customer-verbal-abuse 결과 후보(진단명 있음, 출처를 밝혀 쓸 것). Szczygiel 2021 fpsyg.2020.506085 고객 무례가 표면 행위를 늘림",
       "createdAt": "2026-11-05T21:27:08.966Z",
       "seq": 3903
+    },
+    {
+      "id": "da015d14",
+      "title": "school-refusal-new-semester 새학기에 학교 가기 싫어하기",
+      "priority": 10,
+      "note": "2026-11-06 추가. first-day-nerves 작업 중 발견. kyeonggi.com article/201503100635823 (2015-03-10) '새 선생님과 친구들을 대면하는 일에 부담을 많이 느끼기 때문이다.' 기본 UA 에서만 문장 나옴. first-day-nerves 와 관계 후보",
+      "createdAt": "2026-11-06T03:15:52.926Z",
+      "seq": 3927
+    },
+    {
+      "id": "6269b212",
+      "title": "taxi-driver-small-talk 택시 기사가 말을 거는 상황의 승객",
+      "priority": 10,
+      "note": "2026-11-06 추가. clien park/16242734 (2021-06-18) 댓글 '이어폰 껴도 말걸고 휴대폰 보고 있어도 말걸고'. feigning-absorption-to-avoid-talk 이 통하지 않는 조건. avoiding-small-talk-during-service 와 관계 후보",
+      "createdAt": "2026-11-06T03:29:22.953Z",
+      "seq": 3929
     },
     {
       "id": "02b2f242",
