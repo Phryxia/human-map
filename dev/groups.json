@@ -166,7 +166,6 @@
       "delaying-driving-cessation",
       "driving-while-drowsy",
       "jaywalking",
-      "rear-seat-belt-nonuse",
       "speeding",
       "driving-into-floodwater",
       "ignoring-vehicle-recalls",
@@ -181,8 +180,8 @@
       "driver-impatience-at-red-light",
       "not-using-turn-signals",
       "blocking-the-intersection",
-      "child-car-seat-nonuse",
-      "ignoring-dashboard-warning-lights"
+      "ignoring-dashboard-warning-lights",
+      "seat-belt-nonuse"
     ]
   },
   {

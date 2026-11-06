@@ -365,6 +365,7 @@
 - [아픈 신발 참고 신기](docs/wearing-painful-shoes.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [악의적 시기](docs/malicious-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [안 쓰는 휴대폰 집에 두기](docs/keeping-old-phones.md) ([돈과 소비](groups/money.md))
+- [안전띠 미착용](docs/seat-belt-nonuse.md) ([길과 운전](groups/roads-and-driving.md))
 - [알람 끄고 다시 잠들기](docs/snoozing-the-alarm.md) ([시간과 하루 습관](groups/daily-time.md))
 - [알아들은 척하기](docs/pretending-to-understand.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [암 재발 두려움](docs/fear-of-cancer-recurrence.md) ([건강과 위험](groups/health-and-safety.md))
