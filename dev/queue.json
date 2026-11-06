@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:32:07.731Z",
-  "nextSeq": 3966,
-  "stops": 199,
+  "savedAt": "2026-11-06T09:32:49.805Z",
+  "nextSeq": 3970,
+  "stops": 200,
   "items": [
-    {
-      "id": "8091d5df",
-      "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
-      "priority": 50,
-      "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. fear-of-the-dark 관계 근거 문장 필요. 공공 후보 일본 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html 'feeling unsafe in being alone at home at night' (curl 403)",
-      "createdAt": "2026-11-05T18:33:22.783Z",
-      "seq": 3890
-    },
-    {
-      "id": "50f26731",
-      "title": "putting-off-friends 관계: loneliness, hesitating-to-contact-old-friends",
-      "priority": 50,
-      "note": "2026-11-05 feeling-rushed 원인 간선은 넣음. loneliness 결과 후보: teamblind almost-40-and-realizing-i-have-zero-real-friends 8nb87qth (2026-02-02) 'focused entirely on academics and career ... now im pushing 40 and the loneliness is hitting different' (친구 미루기 자체를 말하진 않음), Dazed 64746 (2024-09-27) 'byproduct of having no time'. 묘사 보강 후보: wftv friendship-recession (2026-10-26) 'Dinner gets postponed, a busy week becomes a busy month', brunch @0520with/21 (2019-01-09) '시간 없다는 핑계로 미루기만 했었다'",
-      "createdAt": "2026-11-05T21:09:10.430Z",
-      "seq": 3900
-    },
     {
       "id": "d75b2a44",
       "title": "child-car-seat-nonuse 관계: rear-seat-belt-nonuse",
@@ -669,6 +653,14 @@
       "seq": 3946
     },
     {
+      "id": "09bda14f",
+      "title": "putting-off-friends 관계: loneliness, hesitating-to-contact-old-friends",
+      "priority": 40,
+      "note": "2026-11-05 feeling-rushed 원인 간선은 넣음. loneliness 결과 후보: teamblind 8nb87qth (2026-02-02), Dazed 64746 (2024-09-27) 'byproduct of having no time'. 묘사 보강 후보: wftv friendship-recession (2026-10-26) 'Dinner gets postponed, a busy week becomes a busy month' (2026-11-06 URL 못 찾음), brunch @0520with/21 (2019-01-09) '시간 없다는 핑계로 미루기만 했었다'",
+      "createdAt": "2026-11-06T09:32:40.901Z",
+      "seq": 3969
+    },
+    {
       "id": "e8ba47a7",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
       "priority": 30,
@@ -1187,6 +1179,14 @@
       "note": "2026-11-06 gamblers-fallacy 대립은 Ayton & Fischer 2004 PMID 15900930 으로 그음. Gilovich 외 1985 초록 HTML 판(ScienceDirect 막힘) 남음. HN 13255569 후보",
       "createdAt": "2026-11-06T09:32:07.605Z",
       "seq": 3965
+    },
+    {
+      "id": "b4801ca5",
+      "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
+      "priority": 30,
+      "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. 어둠 때문에 소리를 침입자로 여긴다는 인과 문장 필요. 공공 후보 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html (curl 403)",
+      "createdAt": "2026-11-06T09:32:22.306Z",
+      "seq": 3968
     },
     {
       "id": "75b0ae75",
