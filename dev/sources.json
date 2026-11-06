@@ -12733,9 +12733,9 @@
   },
   "https://www.gutenberg.org/cache/epub/107/pg107-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-03",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-06"
   },
   "https://www.gutenberg.org/cache/epub/599/pg599-images.html": {
     "first": "2026-10-28",
@@ -17858,33 +17858,33 @@
   },
   "https://en.wikisource.org/wiki/Lyrical_Ballads_(1798)/We_are_seven": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-06"
   },
   "https://www.seoul.co.kr/news/2000/03/08/20000308019002": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-06"
   },
   "https://www.newswire.co.kr/newsRead.php?no=536336": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-06"
   },
   "https://www.spokesman.com/stories/2012/may/31/cemeteries-hold-more-than-deceased/": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-06"
   },
   "https://community.sueryder.org/t/my-mums-grave/9251": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-06"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9319928/": {
     "first": "2026-11-03",
@@ -17893,9 +17893,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13176479/": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-06"
   },
   "https://www.gutenberg.org/cache/epub/203/pg203-images.html": {
     "first": "2026-11-03",
@@ -20815,6 +20815,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://ko.wikisource.org/wiki/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83_(%EC%8B%9C%EC%A7%91)/%EC%B4%88%ED%98%BC": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://ko.wikisource.org/wiki/%EA%BF%88_(%EB%82%98%EB%8F%84%ED%96%A5)": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",
