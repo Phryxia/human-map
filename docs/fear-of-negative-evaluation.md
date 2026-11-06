@@ -31,6 +31,7 @@
 ## 결과
 
 - [알아들은 척하기](pretending-to-understand.md)
+- [새 일터나 새 학교 첫날의 떨림](first-day-nerves.md)
 - [대화 뒤 되짚기](replaying-conversations-afterward.md)[^3]
 - [대화에 끼어들지 못하기](not-cutting-into-conversation.md)[^4]
 - [얼굴 붉어짐](blushing.md)[^5]

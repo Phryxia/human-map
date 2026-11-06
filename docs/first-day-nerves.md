@@ -10,9 +10,9 @@
 
 2006년 기사[^3]의 설문에서 응답자의 절반이 일을 시작할 때 자신감이 없다고 했고 16%는 몹시 떨린다고 답했다. 2008년 3월 기사[^5]의 설문에서 새 일을 시작하는 직원의 절반은 그 일이 치과에 가는 일, 첫 데이트, 출산보다 더 겁난다고 답했다.
 
-2008년 2월 기사[^4]에 따르면 중학교에 올라간 학생들의 불안은 첫 학기가 끝날 무렵 대체로 사라졌다. 2021년 연구[^6]에서 중학교 진학을 앞둔 웨일스 아이들의 약 3분의 1은 진학을 꽤 또는 매우 걱정했다. 같은 연구에서 약 3분의 2는 진학을 꽤 또는 매우 기대했다.
+2008년 2월 기사[^4]에 따르면 중학교에 올라간 학생들의 불안은 첫 학기가 끝날 무렵 대체로 사라졌다. 2016년 기사[^6]에서 심리학자는 아이들이 새 환경에서 일어날 일을 예측하지 못해 통제감을 잃고 그것이 불안이 된다고 말했다. 2021년 연구[^7]에서 중학교 진학을 앞둔 웨일스 아이들의 약 3분의 1은 진학을 꽤 또는 매우 걱정했다. 같은 연구에서 약 3분의 2는 진학을 꽤 또는 매우 기대했다.
 
-2023년 게시글[^7]의 글쓴이는 첫 출근 뒤 두려움 때문에 속에서 신물이 나 먹기 어렵다고 적었다. 2026년 게시글[^8]의 글쓴이는 첫 출근을 앞두고 첫날 인사, 업무, 동료 관계를 떠올리며 너무 떨린다고 썼다.
+2023년 게시글[^8]의 글쓴이는 첫 출근 뒤 두려움 때문에 속에서 신물이 나 먹기 어렵다고 적었다. 2026년 5월 기사[^9]는 곧바로 호감을 얻어야 한다는 압박이 첫날 떨림을 더 키운다고 썼다. 2026년 게시글[^10]의 글쓴이는 첫 출근을 앞두고 첫날 인사, 업무, 동료 관계를 떠올리며 너무 떨린다고 썼다.
 
 # 관계
 
@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [부정적 평가에 대한 두려움](fear-of-negative-evaluation.md)[^9]
 
 ## 결과
 
@@ -43,6 +43,8 @@
 [^3]: [매체] "Half of those surveyed admit to a lack of confidence when starting work – with 28% feeling not very confident, 7% feeling insecure, and 16% feeling downright nervous." (응답자의 절반이 일을 시작할 때 자신감이 없다고 인정했다. 28%는 별로 자신이 없고 7%는 불안하며 16%는 몹시 떨린다고 느꼈다.) — Personnel Today, "Young people 'downright nervous' on first day at work", 2006-03-27, https://www.personneltoday.com/hr/young-people-downright-nervous-on-first-day-at-work, 2026-11-05 접속
 [^4]: [매체] "But pupils’ anxiety largely disappear by the end of their first term, helped by several initiatives." (학생들의 불안은 여러 지원 덕분에 첫 학기가 끝날 무렵 대체로 사라진다.) — Adi Bloom, "Primary pupils who fear transition", Tes, 2008-02-08, https://www.tes.com/news/primary-pupils-who-fear-transition, 2026-11-05 접속
 [^5]: [매체] "Half of employees starting a new job find it more daunting than a trip to the dentist, a first date or even having a baby." (새 일을 시작하는 직원의 절반은 그것이 치과에 가는 일, 첫 데이트, 심지어 출산보다 더 겁난다고 여긴다.) — HRZone, "Job jitters scarier than dentist", 2008-03-07, https://hrzone.com/job-jitters-scarier-than-dentist/, 2026-11-05 접속
-[^6]: [학술] "About a third of children reported being quite or very worried about transition to secondary school, while approximately two-thirds reported looking forward to it quite a bit or very much." (아이들의 약 3분의 1은 중학교 진학이 꽤 또는 매우 걱정된다고 답했고 약 3분의 2는 진학을 꽤 또는 매우 기대한다고 답했다.) — Graham Moore 외, "Socio-Economic Status, Mental Health Difficulties and Feelings about Transition to Secondary School among 10–11 Year Olds in Wales: Multi-Level Analysis of a Cross Sectional Survey", Child Indicators Research, 2021-03-24, https://pmc.ncbi.nlm.nih.gov/articles/PMC8550448/, 2026-11-05 접속
-[^7]: [SNS] "첫 날이라 그렇겠지 생각하려는데 어제도 그렇고 퇴근하고나서도 두려움때문에 속에서 신물이나서 먹는 것도 어렵습니다." — 미코, 게시글, 2023-02-23, https://meeco.kr/anonymous/36869172, 2026-11-05 접속
-[^8]: [SNS] "첫날 인사는 어케할지 업무는 잘해낼수있을지 동료들이랑 잘지낼수있을지 너무떨려요.." — 링커리어 커뮤니티, 게시글, 2026-08-31, https://community.linkareer.com/jayuu/6455784, 2026-11-05 접속
+[^6]: [매체] "Kids don’t know what to predict in a new environment so it’s a total loss of control, which translates to anxiety." (아이들은 새 환경에서 무엇을 예측해야 할지 몰라 통제감을 완전히 잃고, 그것이 불안으로 바뀐다.) — Patricia Kozicka, "Back to school: Tips to overcome the 3 most common first-day jitters", Global News, 2016-08-29, https://globalnews.ca/news/2908752/back-to-school-tips-to-overcome-the-3-most-common-first-day-jitters/, 2026-11-06 접속
+[^7]: [학술] "About a third of children reported being quite or very worried about transition to secondary school, while approximately two-thirds reported looking forward to it quite a bit or very much." (아이들의 약 3분의 1은 중학교 진학이 꽤 또는 매우 걱정된다고 답했고 약 3분의 2는 진학을 꽤 또는 매우 기대한다고 답했다.) — Graham Moore 외, "Socio-Economic Status, Mental Health Difficulties and Feelings about Transition to Secondary School among 10–11 Year Olds in Wales: Multi-Level Analysis of a Cross Sectional Survey", Child Indicators Research, 2021-03-24, https://pmc.ncbi.nlm.nih.gov/articles/PMC8550448/, 2026-11-05 접속
+[^8]: [SNS] "첫 날이라 그렇겠지 생각하려는데 어제도 그렇고 퇴근하고나서도 두려움때문에 속에서 신물이나서 먹는 것도 어렵습니다." — 미코, 게시글, 2023-02-23, https://meeco.kr/anonymous/36869172, 2026-11-05 접속
+[^9]: [매체] "Pressure to be instantly liked can make first day nerves much worse." (곧바로 호감을 얻어야 한다는 압박은 첫날 떨림을 훨씬 키울 수 있다.) — Amber Rolfe, "How to: Stop feeling nervous about starting a new job", reed.co.uk, 2026-05-29, https://www.reed.co.uk/career-advice/how-to-stop-feeling-nervous-about-starting-a-new-job, 2026-11-06 접속
+[^10]: [SNS] "첫날 인사는 어케할지 업무는 잘해낼수있을지 동료들이랑 잘지낼수있을지 너무떨려요.." — 링커리어 커뮤니티, 게시글, 2026-08-31, https://community.linkareer.com/jayuu/6455784, 2026-11-05 접속
