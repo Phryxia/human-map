@@ -244,3 +244,12 @@ test('validate 는 sources.json 에 VERIFIED 기록이 없는 파편을 확인�
   const vanished = loadAll(makeRepo({a: makeDoc({frags: [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2011', 'https://b.example/2', ' (소멸, 2026-10-01 까지 확인)')]})}))
   assert.equal(validateAll(vanished, {'https://a.example/1': V, 'https://b.example/2': {first: '2026-10-01', last: '2026-10-29', result: 'NOT_FOUND'}}).some(r => r.msg.includes('확인됨 파편이 2개 미만')), false)
 })
+
+test('여러 낱말 플랫폼명은 SNS 서지의 실명 꼴로 잡지 않는다', () => {
+  const mk = b => [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, 'SNS', '2002', 'https://b.example/2').replace('서지 2', b)]
+  const bad = b => errs(loadAll(makeRepo({a: makeDoc({frags: mk(b)})}))).some(x => x.includes('SNS 서지'))
+  assert.ok(!bad('Straight Dope Message Board 게시글'))
+  assert.ok(!bad('Hacker News 댓글'))
+  assert.ok(bad('Straight Dope John Smith 게시글'))
+  assert.ok(bad('Some Long Forum Name 게시글'))
+})

@@ -22,6 +22,9 @@ export const BLOG_PATTERNS = [
   ['substack', /^https?:\/\/(?!www\.)([a-z0-9-]+)\.substack\.com(?:[/?#]|$)/i],
   ['blogspot', /^https?:\/\/([a-z0-9-]+)\.blogspot\.[a-z.]+(?:[/?#]|$)/i],
 ]
+// 여러 낱말로 된 플랫폼명. SNS 서지에서 한 낱말로 보고 실명 꼴 검사를 한다.
+export const MULTIWORD_PLATFORMS = ['Straight Dope Message Board', 'Straight Dope', 'Hacker News', 'Stack Exchange', 'Mumsnet Talk', 'MoneySavingExpert 포럼', '네이버 지식iN', '네이트 판', '다음 카페']
+const platformToken = b => MULTIWORD_PLATFORMS.reduce((s, p) => s.startsWith(p + ' ') ? 'PLATFORM' + s.slice(p.length) : s, b)
 export const blogAccountOf = url => {
   for (const [name, re] of BLOG_PATTERNS) { const m = re.exec(url); if (m) return `${name}/${m[1].toLowerCase()}` }
   return null
@@ -94,7 +97,7 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
     if ([...f.quote].length > 200) err(f.ln, `원문이 200자를 넘는다 (${[...f.quote].length})`)
     if (/…|\.\.\.$/.test(f.quote) && sources[f.url]?.result !== 'VERIFIED') warn(f.ln, '원문이 줄임표를 담고 있다')
     if (i > 0 && sortKey(f.date) < sortKey(doc.fragments[i - 1].date)) err(f.ln, '파편이 발행일 순이 아니다')
-    if (f.kind === 'SNS' && (/@/.test(f.biblio) || !/^\S+(?: \S+)? (게시글|댓글)$/.test(f.biblio))) err(f.ln, `SNS 서지는 플랫폼명과 글의 종류만 쓴다: ${f.biblio}`)
+    if (f.kind === 'SNS' && (/@/.test(f.biblio) || !/^\S+(?: \S+)? (게시글|댓글)$/.test(platformToken(f.biblio)))) err(f.ln, `SNS 서지는 플랫폼명과 글의 종류만 쓴다: ${f.biblio}`)
   })
   // 기록이 있는데 VERIFIED 였던 적이 없으면 (미확인) 표시가 빠졌어도 확인됨이 아니다. 기록이 없는 파편은 source-check 전이다.
   const verified = doc.fragments.filter(f => isVerified(f) && (f.vanished || !sources[f.url] || sources[f.url].lastVerified))

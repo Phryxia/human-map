@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T06:35:41.242Z",
+  "savedAt": "2026-11-06T09:06:15.594Z",
   "nextSeq": 3940,
   "stops": 199,
   "items": [
-    {
-      "id": "6cfc42a8",
-      "title": "dev: validate 가 두 낱말 플랫폼명(Straight Dope)을 SNS 서지의 실명 꼴로 잡는다",
-      "priority": 60,
-      "note": "2026-11-06 leaving-cooking-unattended [^2] 서지 'Straight Dope Message Board 게시글' 이 ERROR. 'StraightDope 게시판 게시글' 로 피했다. 알려진 플랫폼명 목록으로 빼는 안",
-      "createdAt": "2026-11-06T06:29:09.749Z",
-      "seq": 3938
-    },
     {
       "id": "bb871036",
       "title": "feeding-stray-cats 보강: 공공 파편, 먹이 주는 사람이 직접 쓴 SNS 글",
