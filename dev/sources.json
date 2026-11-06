@@ -19247,15 +19247,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC61246/": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-06"
   },
   "https://www.dailian.co.kr/news/view/1671044": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-06"
   },
   "https://www.seoul.co.kr/news/2000/11/08/20001108007002": {
     "first": "2026-11-04",
@@ -20905,6 +20905,12 @@
     "lastVerified": "2026-11-06"
   },
   "https://www.clien.net/service/board/cm_car/14985664": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://ko.wikisource.org/wiki/%EC%84%A0%ED%92%8D%EC%8B%9C%EB%8C%80/13%EC%9E%A5": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",

@@ -6,9 +6,11 @@
 
 # 서술
 
-1997년 Tetzlaff 의 연구[^1]에서 백혈병을 앓는 아이의 부모들은 의료진에게 질문하기를 어느 정도 꺼렸고 그 까닭은 대개 의료진에게 폐를 끼칠까 하는 두려움이었다.
+1931년 신문 연재소설[^1]에서 명순이는 죽지는 않겠느냐고 한 번 물었으나 의사가 대답 없이 담배만 피우자 더 묻지 못하고 의사가 입을 열기만 기다렸다.
 
-2026년 데일리안 기사[^2]가 전한 암 환자 면담 연구에서 한 70대 환자는 교수를 만나려면 적어도 두세 시간을 기다려야 하고 자기 같은 사람이 많아 질문 자체가 불가능하다고 느낀다고 말했다.
+1997년 Tetzlaff 의 연구[^2]에서 백혈병을 앓는 아이의 부모들은 의료진에게 질문하기를 어느 정도 꺼렸고 그 까닭은 대개 의료진에게 폐를 끼칠까 하는 두려움이었다.
+
+2026년 데일리안 기사[^3]가 전한 암 환자 면담 연구에서 한 70대 환자는 교수를 만나려면 적어도 두세 시간을 기다려야 하고 자기 같은 사람이 많아 질문 자체가 불가능하다고 느낀다고 말했다.
 
 # 관계
 
@@ -34,5 +36,6 @@
 
 #건강 #관계
 
-[^1]: [학술] "there was at least some reluctance to ask questions, mostly for fear of imposing on the provider" (질문하기를 적어도 어느 정도 꺼렸고 그 까닭은 주로 의료진에게 폐를 끼칠까 하는 두려움이었다) — Linda Tetzlaff, "Consumer Informatics in Chronic Illness", Journal of the American Medical Informatics Association 4(4), 1997-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC61246/, 2026-11-04 접속
-[^2]: [매체] "저 같은 사람들이 주변에 많다 보니 질문 자체가 불가능하다고 느낀다" — 김효경, 「"의사에게도 말 못 했다"…암 환자들이 털어놓은 치료 현장의 고민」, 데일리안, 2026-07-27, https://www.dailian.co.kr/news/view/1671044, 2026-11-04 접속
+[^1]: [문학] "“어떻습니까? 죽지는 않겠습니까?” 명순이는 너무도 안타까워서 물어보았다. 그러나 여전히 아무 대답도 없이 담배만 푹푹피우고 있다. 명순이도 더 묻지 못하고 나의사의 입에서 말이 나오기만 기다리고 앉아 있을밖에 없었다." — 한인택, 「선풍시대」 13장, 조선일보 연재, 1931, https://ko.wikisource.org/wiki/%EC%84%A0%ED%92%8D%EC%8B%9C%EB%8C%80/13%EC%9E%A5, 2026-11-06 접속
+[^2]: [학술] "there was at least some reluctance to ask questions, mostly for fear of imposing on the provider" (질문하기를 적어도 어느 정도 꺼렸고 그 까닭은 주로 의료진에게 폐를 끼칠까 하는 두려움이었다) — Linda Tetzlaff, "Consumer Informatics in Chronic Illness", Journal of the American Medical Informatics Association 4(4), 1997-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC61246/, 2026-11-04 접속
+[^3]: [매체] "저 같은 사람들이 주변에 많다 보니 질문 자체가 불가능하다고 느낀다" — 김효경, 「"의사에게도 말 못 했다"…암 환자들이 털어놓은 치료 현장의 고민」, 데일리안, 2026-07-27, https://www.dailian.co.kr/news/view/1671044, 2026-11-04 접속
