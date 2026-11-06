@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T15:36:28.620Z",
-  "nextSeq": 3998,
-  "stops": 202,
+  "savedAt": "2026-11-06T18:35:43.072Z",
+  "nextSeq": 4015,
+  "stops": 203,
   "items": [
+    {
+      "id": "b6bc7dc2",
+      "title": "dev: style-check 가 명사 차고 뒤 쉼표를 연결어미로 잡는다",
+      "priority": 60,
+      "note": "indoor-generator-and-grill-use 요약 '집 안이나 차고, 창문 옆에서' 의 '차고,' 가 연결어미 뒤 쉼표로 걸렸다. 명사 나열 예외(원고, 창고 등)에 차고를 더한다",
+      "createdAt": "2026-11-06T18:12:46.117Z",
+      "seq": 4007
+    },
     {
       "id": "d074ee30",
       "title": "pocket-patting 원인: 물건 잃어버릴까 하는 불안",
@@ -45,22 +53,6 @@
       "seq": 3930
     },
     {
-      "id": "97036422",
-      "title": "not-returning-shopping-carts 보강: 공공 파편 둘째",
-      "priority": 50,
-      "note": "2026-11-06 추가. littering 관계는 cbsnews 2008 로 그었음. 후보 longbeach.gov litterfreelb abandoned-shopping-carts 'People “borrow” them.', testvalley.gov.uk abandoned-trolleys 는 이 환경에서 404",
-      "createdAt": "2026-11-06T03:32:00.614Z",
-      "seq": 3931
-    },
-    {
-      "id": "65c370db",
-      "title": "not-yielding-to-emergency-vehicles 보강: 한국어 SNS 파편, 2010년 이전 한국 파편",
-      "priority": 50,
-      "note": "2026-11-05 추가. 후보: mediahub.seoul.go.kr archives/2012050 (2024-08-23) '어느 쪽으로 비켜야 할지 혼동하는 경우가 많아', 1news.co.nz 2021/06/16 'drivers failed to pull over or pulled over the wrong way repeatedly.', honoluluadvertiser 2007 Jul 09 은 앞 문장에 실명. 2026-11-06 web.getcha.kr community 11712 는 펌글이라 뺌",
-      "createdAt": "2026-11-06T03:32:24.684Z",
-      "seq": 3932
-    },
-    {
       "id": "307dead2",
       "title": "leaving-car-unlocked 관계: 도난 걱정 없음과 낙관",
       "priority": 50,
@@ -77,36 +69,12 @@
       "seq": 3939
     },
     {
-      "id": "b28b11d9",
-      "title": "talking-to-the-dead 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-06 후보: 김소월 「초혼」 위키문헌 진달래꽃_(시집)/초혼 '떨어져 나가앉은 산 위에서 나는 그대의 이름을 부르노라. 설움에 겹도록 부르노라.' (행갈이 공백 처리 확인 필요)",
-      "createdAt": "2026-11-06T12:17:23.706Z",
-      "seq": 3975
-    },
-    {
-      "id": "ccb95650",
-      "title": "visiting-graves 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-06 후보: 나도향 「꿈」 위키문헌 꿈_(나도향) '석죽(石竹)꽃을 따서 그것으로 화환을 만들어 무덤 앞에 놓아 주고' 대목, 발행 연도 확인 필요",
-      "createdAt": "2026-11-06T12:17:23.850Z",
-      "seq": 3976
-    },
-    {
       "id": "29d11811",
       "title": "not-asking-doctors-questions 보강: 문학 파편",
       "priority": 50,
       "note": "2026-11-06 후보: 김남천 「무자리」 위키문헌 무자리, 조광 35(1938.9.) '아버지의 병세를 물으려고 하나 땅만 들여다보며 의사는 운봉이의 거동을 무시해버린다.' 의사의 외면 쪽. Chekhov The Runaway Gutenberg 13417 'before he had time to open his mouth' 발행 연도 확인 필요",
       "createdAt": "2026-11-06T12:23:56.317Z",
       "seq": 3977
-    },
-    {
-      "id": "83705e3e",
-      "title": "hiding-hearing-loss 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-06 후보: Gaskell Wives and Daughters Gutenberg 4274 'his hearing was very defective, although, on this point, he obstinately adhered to his own opinion' 청력 저하 부인 쪽, 숨기기와 맞는지 확인 필요",
-      "createdAt": "2026-11-06T12:27:42.624Z",
-      "seq": 3978
     },
     {
       "id": "c93e5a7b",
@@ -117,20 +85,28 @@
       "seq": 3979
     },
     {
-      "id": "4d7df026",
-      "title": "seat-belt-nonuse 보강: 습관, 사고 안 낸다는 믿음",
+      "id": "5770865d",
+      "title": "hiding-tears 보강: SNS 파편, crying-in-secret 관계",
       "priority": 50,
-      "note": "2026-11-06 후보: seoul.co.kr 2001/09/18 20010918013001 미착용자 26.5% 불편, 7.7% 효과 없음, 습관. segye 20140404003768 시내버스 기사 숨이 막혀 풀었다 맸다. jjan.kr 20260525500230 택시 승객 과식해 벨트 불편. clien park/12446711 갑갑해서 안 맴(1980~90년대 회고). 별칭 근거 후보 ctr.utk.edu factors-influencing-seat-belt-non-use",
-      "createdAt": "2026-11-06T15:12:02.770Z",
-      "seq": 3989
+      "note": "2026-11-06 추가. 후보: vogue.co.kr/?p=676274 (2025-09-08) '울 때 화장실이나 계단을 찾은 것도, 비공개로 하기 위해서 아닌가.' 는 crying-in-secret 쪽. ucdavis.edu/news/tears-job (2008-03-17) 화장실 칸에 숨기 대목 미검증. autostraddle 2012 'trying not to cry' 대목",
+      "createdAt": "2026-11-06T18:30:42.241Z",
+      "seq": 4012
     },
     {
-      "id": "4b139b42",
-      "title": "rereading-old-letters 보강: 학술 파편, SNS 파편, rereading-old-diaries 와 공통 상위",
+      "id": "f1f02d0b",
+      "title": "stepping-aside-for-oncoming-pedestrians 보강: 지위 차이 조건 학술 파편, 굴욕감",
       "priority": 50,
-      "note": "2026-11-06 추가. 확인됨 문학 1848 Vanity Fair, 문학 1891 Tess, 매체 2024 경북매일, 매체 2026 오마이뉴스. 학술 후보: PMC9684218 Lindemann 2022 'reading old letters and mails of a deceased' (지속 유대와 비교, continuing-bonds 관계 후보, curl UA 로 대목 확인 실패). 브런치 maumcollage/658 은 자기가 보낸 편지를 부모 사후에 다시 읽는 장면. looking-at-old-photos, rereading-old-diaries 와 공통 상위(옛 기록 다시 보기) 후보",
-      "createdAt": "2026-11-06T15:36:13.849Z",
-      "seq": 3997
+      "note": "2026-11-06 추가. psychologicalscience.org 2020annual paper/31694 Weir 포스터는 방법만 있고 결과 없음. Notes from Underground(gutenberg 600) 비켜선 뒤 굴욕감 대목 'convulsive twinge at my heart'. straightdope 352541 댓글 'generally, guys move out of the way for women' 반대 방향",
+      "createdAt": "2026-11-06T18:33:29.166Z",
+      "seq": 4013
+    },
+    {
+      "id": "835a8157",
+      "title": "not-yielding-to-emergency-vehicles 보강: 한국어 SNS 파편, 2010년 이전 한국 파편",
+      "priority": 50,
+      "note": "2026-11-06 mediahub.seoul.go.kr 2012050 (2024-08-23) 공공 더함. 남은 후보: 1news.co.nz 2021/06/16 'drivers failed to pull over or pulled over the wrong way repeatedly.', honoluluadvertiser 2007 Jul 09 은 앞 문장에 실명. web.getcha.kr community 11712 는 펌글이라 뺌",
+      "createdAt": "2026-11-06T18:34:43.477Z",
+      "seq": 4014
     },
     {
       "id": "d16898d2",
@@ -651,6 +627,22 @@
       "note": "2026-11-06 MOTOR 2004, 클리앙 cm_car/19080501 더함. NHTSA 813617 은 여전히 타임아웃 미확인. 후보: tiresandparts.net 2017-07-25 ClickMechanic 영국 운전자 3분의 1 이상 2주 넘게 기다림, clien park/19232012 (2026-07-21) 공기압 경고등 그대로 탐. ignoring-vehicle-recalls 와 공통 상위 후보",
       "createdAt": "2026-11-06T15:36:01.609Z",
       "seq": 3996
+    },
+    {
+      "id": "b32212c2",
+      "title": "seat-belt-nonuse 보강: 사고 안 낸다는 믿음, 별칭",
+      "priority": 40,
+      "note": "2026-11-06 seoul.co.kr 2001-09-18 26.5% 불편 더함. 남은 후보: segye 20140404003768 시내버스 기사 숨이 막혀 풀었다 맸다, clien park/12446711 갑갑해서 안 맴(1980~90년대 회고), 별칭 근거 후보 ctr.utk.edu factors-influencing-seat-belt-non-use",
+      "createdAt": "2026-11-06T18:25:47.859Z",
+      "seq": 4010
+    },
+    {
+      "id": "09260d30",
+      "title": "rereading-old-letters 보강: SNS 파편, 공통 상위 옛 기록 다시 보기",
+      "priority": 40,
+      "note": "2026-11-06 Lindemann 2022 PMC9684218 학술 더함. 남은 것: SNS 파편 없음. looking-at-old-photos, rereading-old-diaries 와 공통 상위(옛 기록 다시 보기) 후보. 브런치 maumcollage/658 은 자기가 보낸 편지를 부모 사후에 다시 읽는 장면",
+      "createdAt": "2026-11-06T18:26:57.662Z",
+      "seq": 4011
     },
     {
       "id": "e8ba47a7",
@@ -1405,14 +1397,6 @@
       "seq": 533
     },
     {
-      "id": "80787093",
-      "title": "놀림받는 자리에서 눈물을 감추려고 바쁜 척하기",
-      "priority": 10,
-      "note": "Richardson, The Getting of Wisdom(1910) en.wikisource The_Getting_of_Wisdom/Chapter_V 'Laura, on her knees before her shelf, pretended to be busy; but she could not see what she was doing, for the mist that gathered in her eyes.' 미검증. pretending-to-sleep-to-avoid-talk, holding-back-tears-at-breakup 관계 후보",
-      "createdAt": "2026-10-19T19:45:06.044Z",
-      "seq": 565
-    },
-    {
       "id": "9e5d1de0",
       "title": "아는 사람을 마주치고 못 본 척하기와 엘리베이터 같이 타기 피하기의 관계",
       "priority": 10,
@@ -1459,14 +1443,6 @@
       "note": "panic-buying F1(AFP 2011): 광저우 마트가 1인 2봉지 제한, 손님 줄서기. F3(Garbe 2020) 위협 지각이 비축을 늘림. 2023년 한국 천일염 품귀(fnnews 202306181847022495, 1인 1개 제한)로 다른 시기 파편 보강 가능",
       "createdAt": "2026-10-20T00:34:23.737Z",
       "seq": 602
-    },
-    {
-      "id": "189c7718",
-      "title": "높은 사람에게 길 비켜 주기",
-      "priority": 10,
-      "note": "도스토옙스키 Notes from Underground(gutenberg 600) 'continually moving aside to make way for generals, for officers of the guards and the hussars, or for ladies' 뒤 굴욕감. 비학술 외 파편 필요(보행자 양보 연구: psychologicalscience.org 2020 포스터, PMC8758047 상황 요인)",
-      "createdAt": "2026-10-20T00:57:27.248Z",
-      "seq": 611
     },
     {
       "id": "ee15591a",
@@ -2555,6 +2531,22 @@
       "note": "2026-11-06 clearing-throat-to-announce-presence 보강 후보: jeju.grandculture.net GC007T02025 시아버지 '흠' 헛기침(항목 제목에 실명, 서지 주의), 측신 헛기침",
       "createdAt": "2026-11-06T15:13:07.654Z",
       "seq": 3990
+    },
+    {
+      "id": "69564b5b",
+      "title": "일산화탄소 경보기 뽑아 두기",
+      "priority": 10,
+      "note": "inforum.com 2023-12-29 couple-shares-story-of-fluke-carbon-monoxide-poisoning: 정전으로 계속 울려 CO 감지기를 뽑았다. disabling-smoke-alarms 의 하위 또는 형제 후보",
+      "createdAt": "2026-11-06T18:12:46.227Z",
+      "seq": 4008
+    },
+    {
+      "id": "91b8cec1",
+      "title": "손주를 돌본 뒤 떠나기를 바라는 마음",
+      "priority": 10,
+      "note": "PMC12607828 일본 60대 지역 주민 연구 'Honestly speaking, I feel tired after they leave.' after-visit-emptiness 와 대립 후보, wishing-guests-would-leave 의 하위 후보",
+      "createdAt": "2026-11-06T18:20:51.399Z",
+      "seq": 4009
     },
     {
       "id": "02b2f242",
