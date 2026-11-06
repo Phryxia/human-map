@@ -11,6 +11,8 @@
 - [귀가 늦추기](../docs/delaying-going-home.md) 집에 있는 가족과 마주치거나 집안일을 맡기 싫은 사람이 일부러 집에 늦게 들어간다.
 - [귀가하는 가족을 자지 않고 기다리기](../docs/waiting-up-for-family.md) 밤늦게 나간 가족이 있는 사람이 그 가족이 집에 돌아올 때까지 잠자리에 들지 않고 깨어 기다린다.
 - [귀여운 공격성](../docs/cute-aggression.md) 귀엽다고 느끼는 대상을 본 사람이 해칠 뜻 없이 그것을 꽉 쥐거나 깨물고 싶은 충동을 느낀다.
+- [남 앞에서 눈물 감추기](../docs/hiding-tears.md) 남 앞에서 눈물이 나려는 사람이 바쁜 척하거나 다른 핑계를 대어 우는 것을 남에게 감춘다.
+  - [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md)
 - [남 이야기하기](../docs/gossip.md) 사람이 그 자리에 없는 다른 사람에 대한 이야기를 주고받는다.
 - [남 탓하기](../docs/blaming-others.md) 잘못이나 실패를 겪은 사람이 그 원인을 자기가 아닌 다른 사람이나 주위 환경에 돌린다.
   - [운명이나 신을 탓하기](../docs/blaming-fate-or-god.md)
@@ -58,7 +60,6 @@
 - [연인과의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.
 - [원한 품기](../docs/holding-a-grudge.md) 언짢은 일을 겪은 사람이 오랜 시간이 지나도 그 일과 상대에 대한 원망을 놓지 않고 품고 있다.
-- [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md) 연인과 헤어지는 사람이 슬픔을 드러내지 않으려고 눈물을 참고 아무렇지 않은 척한다.
 - [자기 침묵](../docs/self-silencing.md) 관계를 지키거나 갈등을 피하려는 사람이 자기 생각과 불만을 말하지 않고 누른다.
   - [거절하지 못하기](../docs/difficulty-saying-no.md)
     - [내키지 않는 초대에 응하기](../docs/accepting-unwanted-invitations.md)
