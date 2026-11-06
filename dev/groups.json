@@ -158,6 +158,7 @@
     "title": "길과 운전",
     "summary": "운전자, 보행자, 자전거를 타는 사람이 길에서 하는 일과 그 판단이다.",
     "roots": [
+      "leaving-car-unlocked",
       "not-yielding-to-emergency-vehicles",
       "bicycle-helmet-nonuse",
       "drink-driving",
