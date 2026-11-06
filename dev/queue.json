@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:32:49.805Z",
-  "nextSeq": 3970,
-  "stops": 200,
+  "savedAt": "2026-11-06T12:31:57.292Z",
+  "nextSeq": 3980,
+  "stops": 201,
   "items": [
     {
       "id": "d75b2a44",
@@ -147,6 +147,46 @@
       "note": "2026-11-06 후보: The Railway Children(1906) gutenberg 1874 'So that by eight the fire had been out for some time, the water had all boiled away, and the bottom was burned out of the kettle.' 는 잠든 대목이 앞 문장이라 인용만으로 안 드러남. Anne of Green Gables(gutenberg 45)는 이미 4개 문서가 써서 5개째면 WARN",
       "createdAt": "2026-11-06T06:35:29.121Z",
       "seq": 3939
+    },
+    {
+      "id": "b28b11d9",
+      "title": "talking-to-the-dead 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-06 후보: 김소월 「초혼」 위키문헌 진달래꽃_(시집)/초혼 '떨어져 나가앉은 산 위에서 나는 그대의 이름을 부르노라. 설움에 겹도록 부르노라.' (행갈이 공백 처리 확인 필요)",
+      "createdAt": "2026-11-06T12:17:23.706Z",
+      "seq": 3975
+    },
+    {
+      "id": "ccb95650",
+      "title": "visiting-graves 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-06 후보: 나도향 「꿈」 위키문헌 꿈_(나도향) '석죽(石竹)꽃을 따서 그것으로 화환을 만들어 무덤 앞에 놓아 주고' 대목, 발행 연도 확인 필요",
+      "createdAt": "2026-11-06T12:17:23.850Z",
+      "seq": 3976
+    },
+    {
+      "id": "29d11811",
+      "title": "not-asking-doctors-questions 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-06 후보: 김남천 「무자리」 위키문헌 무자리, 조광 35(1938.9.) '아버지의 병세를 물으려고 하나 땅만 들여다보며 의사는 운봉이의 거동을 무시해버린다.' 의사의 외면 쪽. Chekhov The Runaway Gutenberg 13417 'before he had time to open his mouth' 발행 연도 확인 필요",
+      "createdAt": "2026-11-06T12:23:56.317Z",
+      "seq": 3977
+    },
+    {
+      "id": "83705e3e",
+      "title": "hiding-hearing-loss 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-06 후보: Gaskell Wives and Daughters Gutenberg 4274 'his hearing was very defective, although, on this point, he obstinately adhered to his own opinion' 청력 저하 부인 쪽, 숨기기와 맞는지 확인 필요",
+      "createdAt": "2026-11-06T12:27:42.624Z",
+      "seq": 3978
+    },
+    {
+      "id": "c93e5a7b",
+      "title": "fear-of-blushing 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-06 붉어질까 두려워하는 대목 못 찾음. 근접 후보: Trollope Barchester Towers Gutenberg 3409 'would have given the world not to blush, but her blood was not at her own command', Gaskell Mary Barton 2153 'wished she could prevent it' (blushing 쪽에 더 맞음)",
+      "createdAt": "2026-11-06T12:31:54.372Z",
+      "seq": 3979
     },
     {
       "id": "d16898d2",
