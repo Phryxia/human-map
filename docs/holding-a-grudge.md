@@ -35,6 +35,7 @@
 ## 결과
 
 - [복수심](desire-for-revenge.md)[^1]
+- [머릿속 말다툼](imaginary-arguments.md)
 
 ## 대립
 
