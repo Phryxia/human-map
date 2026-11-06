@@ -28,6 +28,7 @@
 - [아는 사람 이름 잊기](../docs/forgetting-acquaintances-names.md) 아는 사람을 만난 사람이 얼굴은 알아보면서 그 사람의 이름이 떠오르지 않아 당혹스러워하거나 짜증스러워한다.
 - [옛 사진 들여다보기](../docs/looking-at-old-photos.md) 사람이 옛 사진이나 앨범을 꺼내 들여다보며 사진 속 지난 시절과 사람을 떠올린다.
 - [옛 일기 다시 읽기](../docs/rereading-old-diaries.md) 사람이 예전에 자기가 쓴 일기를 다시 꺼내 읽으며 그때의 자신을 낯설어하거나 부끄러워한다.
+- [옛 편지 다시 읽기](../docs/rereading-old-letters.md) 사람이 오래전에 받은 편지를 꺼내 다시 읽으며 그 편지를 받던 때의 일과 마음을 되살린다.
 - [일기 쓰기](../docs/keeping-a-diary.md) 사람이 겪은 일과 생각을 날마다 또는 일이 있을 때 일기로 적어 둔다.
 - [잃어버린 물건을 찾은 곳에서 또 찾기](../docs/re-searching-for-lost-items.md) 둔 곳을 잊은 물건을 찾는 사람이 이미 찾아본 곳을 다시 뒤진다.
 - [좋아하는 책 다시 읽기](../docs/rereading-favorite-books.md) 이미 읽은 책을 좋아하는 사람이 내용과 결말을 알면서도 그 책을 되풀이해 읽는다.

@@ -407,6 +407,7 @@
 - [옛 사진 들여다보기](docs/looking-at-old-photos.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [옛 일기 다시 읽기](docs/rereading-old-diaries.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [옛 친구에게 연락하기 망설이기](docs/hesitating-to-contact-old-friends.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [옛 편지 다시 읽기](docs/rereading-old-letters.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [온화한 시기](docs/benign-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))

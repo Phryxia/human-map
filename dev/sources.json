@@ -14609,9 +14609,9 @@
   },
   "https://www.gutenberg.org/cache/epub/599/pg599.txt": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-06",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-06"
   },
   "https://www.gutenberg.org/cache/epub/1023/pg1023.txt": {
     "first": "2026-10-30",
@@ -20360,6 +20360,24 @@
     "result": "UNREACHABLE"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12077779/": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://www.gutenberg.org/cache/epub/110/pg110.txt": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://kbmaeil.com/article/202408200403021": {
+    "first": "2026-11-06",
+    "last": "2026-11-06",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-06"
+  },
+  "https://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003251111": {
     "first": "2026-11-06",
     "last": "2026-11-06",
     "result": "VERIFIED",
