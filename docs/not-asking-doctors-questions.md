@@ -14,7 +14,7 @@
 
 ## 상위
 
-없음.
+- [도움 요청 회피](help-seeking-avoidance.md)
 
 ## 하위
 
