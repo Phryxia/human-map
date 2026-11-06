@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T03:32:40.293Z",
-  "nextSeq": 3933,
-  "stops": 198,
+  "savedAt": "2026-11-06T06:35:41.242Z",
+  "nextSeq": 3940,
+  "stops": 199,
   "items": [
+    {
+      "id": "6cfc42a8",
+      "title": "dev: validate 가 두 낱말 플랫폼명(Straight Dope)을 SNS 서지의 실명 꼴로 잡는다",
+      "priority": 60,
+      "note": "2026-11-06 leaving-cooking-unattended [^2] 서지 'Straight Dope Message Board 게시글' 이 ERROR. 'StraightDope 게시판 게시글' 로 피했다. 알려진 플랫폼명 목록으로 빼는 안",
+      "createdAt": "2026-11-06T06:29:09.749Z",
+      "seq": 3938
+    },
     {
       "id": "bb871036",
       "title": "feeding-stray-cats 보강: 공공 파편, 먹이 주는 사람이 직접 쓴 SNS 글",
@@ -331,6 +339,22 @@
       "note": "2026-11-05 추가. 후보: mediahub.seoul.go.kr archives/2012050 (2024-08-23) '어느 쪽으로 비켜야 할지 혼동하는 경우가 많아', 1news.co.nz 2021/06/16 'drivers failed to pull over or pulled over the wrong way repeatedly.', honoluluadvertiser 2007 Jul 09 은 앞 문장에 실명. 2026-11-06 web.getcha.kr community 11712 는 펌글이라 뺌",
       "createdAt": "2026-11-06T03:32:24.684Z",
       "seq": 3932
+    },
+    {
+      "id": "307dead2",
+      "title": "leaving-car-unlocked 관계: 도난 걱정 없음과 낙관",
+      "priority": 50,
+      "note": "2026-11-06 Insurance Journal 2001-06-06 Progressive 설문의 'Thirty-three percent said they are not concerned at all about their vehicle being stolen.' 는 unrealistic-optimism 과의 관계 후보. NICB 는 'complacency thefts' 라 부른다(2019-03-27 같은 기사, 같은 출처라 별칭 근거로 바꿔 쓸지 검토). 2016 Nashville AP amp.insurancejournal.com/news/southeast/2016/02/22/399391.htm 68% 열쇠, Calgary Global News 2018-01-19 697대",
+      "createdAt": "2026-11-06T06:22:30.076Z",
+      "seq": 3937
+    },
+    {
+      "id": "9104f4dc",
+      "title": "leaving-cooking-unattended 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-06 후보: The Railway Children(1906) gutenberg 1874 'So that by eight the fire had been out for some time, the water had all boiled away, and the bottom was burned out of the kettle.' 는 잠든 대목이 앞 문장이라 인용만으로 안 드러남. Anne of Green Gables(gutenberg 45)는 이미 4개 문서가 써서 5개째면 WARN",
+      "createdAt": "2026-11-06T06:35:29.121Z",
+      "seq": 3939
     },
     {
       "id": "d16898d2",
