@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T09:14:53.793Z",
-  "nextSeq": 3940,
+  "savedAt": "2026-11-06T09:17:25.909Z",
+  "nextSeq": 3942,
   "stops": 199,
   "items": [
-    {
-      "id": "6fd71424",
-      "title": "saying-food-is-fine 원인 간선: 어색함·갈등 회피",
-      "priority": 50,
-      "note": "2026-11-05 Kwok 2019 학술 추가. bi.no 2018 (이미 [^3]) 의 'For the customer, they benefit from avoiding an awkward situation or unwanted conflict.' 는 원인 근거 후보. 상대 문서 후보: conflict-avoidance 류 find 로 확인",
-      "createdAt": "2026-11-05T09:34:52.357Z",
-      "seq": 3840
-    },
-    {
-      "id": "72ba1a09",
-      "title": "privacy-concern 보강: privacy-paradox 관계",
-      "priority": 50,
-      "note": "2026-11-04 확인: Kezer, Dienlin, Baruh 2022 Cyberpsychology 16(4) cyberpsychology.eu/article/view/15411 초록 'In all three datasets, we find that people self-disclose more when gratifications exceed concerns.' curl 열림. 걱정과 공개가 반대로 민다는 근거라 '온라인 자기 노출' 문서를 새로 두고 privacy-concern 과 대립, privacy-paradox 를 그 하위로 두는 안. 이전 후보 Gallup 2000-04-13, pewresearch 2019-11-15",
-      "createdAt": "2026-11-05T09:34:57.926Z",
-      "seq": 3841
-    },
     {
       "id": "5a81875a",
       "title": "hesitating-to-unfriend 와 staying-in-group-chats 관계",
@@ -1251,6 +1235,14 @@
       "note": "2026-11-04 두 번째 시도: korea.kr 보도자료 못 찾음. GAO-04-771T, 04-1096T 는 연방 공무원의 학위공장 학위 조사라 이력서 거짓 문장 아님. HEDD(Prospects) 고용주 확인 조사는 매체 보도만 있음(hrreview 48858, thehrdirector). 이전: Cifas application-fraud-by-middle-aged-job-seekers",
       "createdAt": "2026-11-04T21:16:42.117Z",
       "seq": 3787
+    },
+    {
+      "id": "68782baf",
+      "title": "saying-food-is-fine 원인 간선: 어색함·갈등 회피",
+      "priority": 30,
+      "note": "2026-11-06 확인: 상대 문서 conflict-avoidance 없음(find 회피·다툼·불만). bi.no 2018 의 동기 문장 'Often these lies where told to benefit yourself with the motive of gaining some reward, presenting your self in a more flattering way or avoid awkward situations or interactions with service employees.' 는 거짓말 일반이라 음식 답변에 대한 인과로 약함. 갈등 회피 문서를 먼저 세울 출처(학술 정의 + 비학술)를 찾아야 함",
+      "createdAt": "2026-11-06T09:15:37.892Z",
+      "seq": 3941
     },
     {
       "id": "75b0ae75",

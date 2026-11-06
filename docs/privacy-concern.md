@@ -14,6 +14,8 @@
 
 2018년 미국 국가통신정보청의 글에서 사생활 걱정 때문에 특정 온라인 활동을 하지 않았다는 온라인 가구의 비율은 45% 에서 33% 로 줄었다.[^6] 2020년 논문[^7]은 일부 환자가 정보의 보안과 사생활, 쓰임에 대한 걱정 때문에 의료진에게 관련 의료 정보를 말하지 않는다고 적었다. 2021년 기사가 전한 국가인권위원회 조사에서 응답자의 78.5% 는 스마트폰이나 인터넷 사이트에 개인정보를 입력할 때 신상정보 유출이 불안하다고 답했다.[^8]
 
+2022년 논문[^9]이 분석한 세 자료에서 사람들은 기대하는 이득이 걱정보다 클 때 자기 정보를 더 많이 드러냈다.
+
 # 관계
 
 ## 상위
@@ -34,7 +36,7 @@
 
 ## 대립
 
-없음.
+- [온라인 자기 노출](online-self-disclosure.md)[^9]
 
 #온라인 #마음
 
@@ -46,3 +48,4 @@
 [^6]: [공공] "Similarly, the proportion of online households that said privacy concerns stopped them from doing certain online activities dropped from 45 percent to 33 percent." (마찬가지로 사생활 걱정 때문에 특정 온라인 활동을 하지 않았다고 답한 온라인 가구의 비율은 45% 에서 33% 로 떨어졌다.) — National Telecommunications and Information Administration, "Most Americans Continue to Have Privacy and Security Concerns, NTIA Survey Finds", NTIA Blog, 2018-08-20, https://www.ntia.doc.gov/blog/most-americans-continue-have-privacy-and-security-concerns-ntia-survey-finds, 2026-11-03 접속
 [^7]: [학술] "Some patients may withhold relevant medical information from their provider because of concerns about the security and privacy of their information, or about how their information will be used." (일부 환자는 자기 정보의 보안과 사생활에 대한 걱정, 또는 그 정보가 어떻게 쓰일지에 대한 걱정 때문에 의료진에게 관련 의료 정보를 말하지 않을 수 있다.) — Matthew J. DePuccio, Gennaro Di Tosto, Daniel M. Walker, Ann Scheck McAlearney, "Patients' Perceptions About Medical Record Privacy and Security: Implications for Withholding of Information During the COVID-19 Pandemic", Journal of General Internal Medicine 35(10), 2020-07-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC7394042/, 2026-11-03 접속
 [^8]: [매체] "국가인권위원회가 21일 발표한 '2021 국가인권실태조사'에 따르면 응답자의 78.5%가 '스마트폰, 인터넷 사이트에 개인정보 입력 시 신상정보 유출이 불안하다'고 응답했다." — 강은, "초연결시대 높아지는 정보인권 감수성…10명 중 8명 "인터넷 신상정보 유출 불안"", 경향신문, 2021-12-21, https://www.khan.co.kr/article/202112211520011, 2026-11-03 접속
+[^9]: [학술] "In all three datasets, we find that people self-disclose more when gratifications exceed concerns." (세 자료 모두에서 사람들은 얻는 만족이 걱정보다 클 때 자기 정보를 더 많이 드러냈다.) — Murat Kezer, Tobias Dienlin, Lemi Baruh, "Getting the privacy calculus right: Analyzing the relations between privacy concerns, expected benefits, and self-disclosure using response surface analysis", Cyberpsychology 16(4), 2022-09-19, https://cyberpsychology.eu/article/view/15411, 2026-11-06 접속
