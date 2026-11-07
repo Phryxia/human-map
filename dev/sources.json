@@ -12613,9 +12613,9 @@
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178399": {
     "first": "2026-10-28",
-    "last": "2026-11-02",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-07"
   },
   "https://www.gov.uk/guidance/the-highway-code/breakdowns-and-incidents-274-to-287": {
     "first": "2026-10-28",
@@ -14644,9 +14644,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1497/pg1497-images.html": {
     "first": "2026-10-30",
-    "last": "2026-11-02",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-07"
   },
   "https://www.gutenberg.org/cache/epub/543/pg543-images.html": {
     "first": "2026-10-30",
@@ -16292,9 +16292,9 @@
   },
   "https://www.psychologytoday.com/us/blog/morbid-minds/202102/what-is-morbid-curiosity": {
     "first": "2026-11-01",
-    "last": "2026-11-02",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-07"
   },
   "https://pubmed.ncbi.nlm.nih.gov/30007076/": {
     "first": "2026-11-01",
@@ -21505,6 +21505,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://lemmy.uninsane.org/comment/477453": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://news.uci.edu/2019/02/25/people-who-watch-beheading-videos-are-motivated-by-fear-of-terrorism-uci-study-finds/": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
