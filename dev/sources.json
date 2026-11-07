@@ -2002,15 +2002,15 @@
   },
   "https://www.segye.com/newsView/20201105527510": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.msdmanuals.com/ko/home/정신-건강-장애/자살-행동/자살로-인한-충격을-받은-사람들을-위한-지원": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.aafp.org/pubs/afp/issues/2003/1015/p1555.html": {
     "first": "2026-10-18",
@@ -21749,6 +21749,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:12396253%20AND%20SRC:MED&resultType=core&format=json": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1799019%20AND%20SRC:MED&resultType=core&format=json": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
