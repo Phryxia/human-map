@@ -12745,9 +12745,9 @@
   },
   "https://www.gutenberg.org/cache/epub/155/pg155-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-03",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-07"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30443237&rettype=abstract&retmode=text": {
     "first": "2026-10-28",
@@ -15922,21 +15922,21 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/9880251/": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
-    "result": "VERIFIED",
+    "last": "2026-11-07",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-03"
   },
   "https://pubmed.ncbi.nlm.nih.gov/23458548/": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
-    "result": "VERIFIED",
+    "last": "2026-11-07",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-03"
   },
   "https://www.gqkorea.co.kr/?p=309432": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-07"
   },
   "https://www.korean.go.kr/nkview/onletter/20060501/10.html": {
     "first": "2026-11-01",
@@ -17438,9 +17438,9 @@
   },
   "https://www.gutenberg.org/cache/epub/78669/pg78669-images.html": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-07"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642213/": {
     "first": "2026-11-02",
@@ -18343,9 +18343,9 @@
   },
   "https://www.sciencefocus.com/the-human-body/why-do-we-fidget": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-07"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11295400/": {
     "first": "2026-11-03",
@@ -21779,6 +21779,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://www.aozora.gr.jp/cards/001669/files/54481_49241.html": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39011341%20AND%20SRC:MED&resultType=core&format=json": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
