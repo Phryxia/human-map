@@ -8456,9 +8456,9 @@
   },
   "https://www.gutenberg.org/cache/epub/2413/pg2413-images.html": {
     "first": "2026-10-23",
-    "last": "2026-11-03",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-07"
   },
   "https://www.psychologytoday.com/us/blog/media-spotlight/201703/bored-in-the-usa/amp": {
     "first": "2026-10-23",
@@ -15154,15 +15154,15 @@
   },
   "https://www.themuse.com/advice/this-just-in-staring-out-the-window-can-actually-be-good-for-you": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://brunch.co.kr/@daeho/16": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://www.sidae.com/article/2015060313278056411": {
     "first": "2026-10-31",
@@ -16778,9 +16778,9 @@
   },
   "https://kids.frontiersin.org/articles/10.3389/frym.2024.1146773": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://forums.moneysavingexpert.com/discussion/4717025/falling-into-the-take-away-trap-any-advice": {
     "first": "2026-11-01",
@@ -21707,6 +21707,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11740350/": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7170036%20AND%20SRC:MED&resultType=core&format=json": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
