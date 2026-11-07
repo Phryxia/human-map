@@ -16328,27 +16328,27 @@
   },
   "https://koreascience.or.kr/article/JAKO200331462790769.page?lang=ko": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://pubmed.ncbi.nlm.nih.gov/27310983/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-07",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://m.go.seoul.co.kr/news/2016/07/29/20160729014015": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://www.korea.kr/briefing/policyBriefingView.do?newsId=148881652": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://m.seoul.co.kr/news/plan/2006/08/01/20060801013004": {
     "first": "2026-11-01",
@@ -21511,6 +21511,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://news.uci.edu/2019/02/25/people-who-watch-beheading-videos-are-motivated-by-fear-of-terrorism-uci-study-finds/": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7168865/": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
