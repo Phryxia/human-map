@@ -579,6 +579,7 @@
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [타인의 표정을 부정적으로 읽기](docs/reading-faces-as-negative.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [텃밭 가꾸기](docs/vegetable-gardening.md) ([시간과 하루 습관](groups/daily-time.md))
+- [텐트 안에서 난로 켜고 자기](docs/heating-inside-tents.md) ([건강과 위험](groups/health-and-safety.md))
 - [통계 조사 응답 거부](docs/refusing-statistical-surveys.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [통근 피로](docs/commute-fatigue.md) ([일터와 일자리](groups/work.md))
 - [통제 착각](docs/illusion-of-control.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
