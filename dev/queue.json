@@ -1,9 +1,49 @@
 {
   "version": 1,
-  "savedAt": "2026-11-07T15:30:34.422Z",
-  "nextSeq": 4102,
-  "stops": 210,
+  "savedAt": "2026-11-07T18:36:34.852Z",
+  "nextSeq": 4116,
+  "stops": 211,
   "items": [
+    {
+      "id": "211ab37b",
+      "title": "first-night-effect 보강: 다른 시기 문학, 공공 파편",
+      "priority": 50,
+      "note": "2026-11-07 후보: Collins After Dark 1856 Gutenberg 1626 'I soon felt not only that I could not go to sleep', Dickens Pickwick Gutenberg 580 11장 strange bed 문장은 200자 초과. NIH Director's Blog 2016-04-26 'Explaining the Traveler's First-Night Sleep Problem' 은 이 환경에서 DNS 실패",
+      "createdAt": "2026-11-07T18:11:36.633Z",
+      "seq": 4109
+    },
+    {
+      "id": "32d2eef9",
+      "title": "checking-sleeping-babys-breathing 보강: 한국어 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-07 한국어 1인칭 글 못 찾음. War and Peace Gutenberg 2600 안드레이가 아기 숨소리 듣는 장면은 이미 4개 문서가 써서 5번째면 WARN. 2024 UVic 초록의 무호흡·SIDS 침습 사고와 원인 관계 후보, rechecking-door-and-stove 와 비슷한 확인 행동",
+      "createdAt": "2026-11-07T18:24:42.310Z",
+      "seq": 4110
+    },
+    {
+      "id": "5c5017c3",
+      "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편, 수치",
+      "priority": 50,
+      "note": "2026-11-07 후보: Gosling 「Snoop」 2008 발췌 vpm.org/npr-news/2008-05-14/excerpt-snoop-what-your-stuff-says-about-you, NBC News 2013 Test Blog, Spokesman 1995 의 5명 중 2명 문장은 211자. 집주인이 손님 오기 전 물건 치우기(SciAm 2017 38%)는 따로 현상 후보",
+      "createdAt": "2026-11-07T18:27:16.640Z",
+      "seq": 4111
+    },
+    {
+      "id": "2aa84ac2",
+      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편, 별칭",
+      "priority": 50,
+      "note": "2026-11-07 Esther Kim 2012 Symbolic Interaction 'nonsocial transient behavior' 원문과 EurekAlert 919445 열지 못함. ScienceDaily 120801093615 에 이름이 든 문장 있음. 일요시사 2024-03-08 '가방 알박기' 미확인",
+      "createdAt": "2026-11-07T18:30:21.445Z",
+      "seq": 4112
+    },
+    {
+      "id": "d550e7e1",
+      "title": "counting-to-ten-when-angry 보강: 학술, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-07 Osgood & Muraven 2016 Journal of Applied Social Psychology 46(2) jasp.12334 Wiley 초록 열리지 않음(결과가 바로 따르지 않으면 지연이 공격성을 키움, 조건). Jefferson count ten 서간 founders.archives.gov 빈 본문",
+      "createdAt": "2026-11-07T18:32:09.901Z",
+      "seq": 4113
+    },
     {
       "id": "2c55c339",
       "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편",
@@ -2483,6 +2523,22 @@
       "note": "2026-11-07 Bouska & Beatty 1978-04 Bulletin of the Psychonomic Society 11(4) 'dyads with a member dressed as a priest or businessman (higher status ratings) detoured significantly more shoppers' link.springer.com/article/10.3758/BF03336817 VERIFIED 가능(curl UA). Knowles 1973 집단 크기",
       "createdAt": "2026-11-07T03:31:30.601Z",
       "seq": 4046
+    },
+    {
+      "id": "b554ef2f",
+      "title": "반가운 편지·선물 뜯기 미루기",
+      "priority": 10,
+      "note": "2026-11-07 파편 우선 탐색 실패. 후보: SPSP 블로그 Kumar 2016 looking-forward-doing-and-having(경험 소비를 일부러 미룸, 앞 문장 없이 뜻이 약함), Kumar·Gilovich 2016 JCP 초록 미확인. Gutenberg Little Women 514, Daddy-Long-Legs 157 에서 parcel·would not open 찾을 것. pleasure-of-anticipation 하위 후보",
+      "createdAt": "2026-11-07T18:33:26.982Z",
+      "seq": 4114
+    },
+    {
+      "id": "a060aa5f",
+      "title": "불 켜진 남의 집 창을 보며 그 안의 삶 상상하기",
+      "priority": 10,
+      "note": "2026-11-07 후보: brunch.co.kr/@mone2001/208 2026-06-26 산책길 불 켜진 창 실루엣 보고 '다른 사람들은 어떤 삶을 살고 있을까?'(계정 경로 확인 필요). substack unsortedbutsignificant 2023 'tourist in other lives'(기차 창밖, 미대조). 문학 없음, Dickens 두 도시 이야기 3장 비밀 문장은 331자",
+      "createdAt": "2026-11-07T18:36:25.430Z",
+      "seq": 4115
     },
     {
       "id": "02b2f242",
