@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-07T09:38:15.222Z",
-  "nextSeq": 4064,
-  "stops": 208,
+  "savedAt": "2026-11-07T12:35:04.655Z",
+  "nextSeq": 4068,
+  "stops": 209,
   "items": [
     {
       "id": "2db43fd5",
@@ -19,38 +19,6 @@
       "note": "2026-11-07 후보: agingcare.com/questions/amp/478104 (2022-11) 휠체어 타면 이 집에 못 산다는 걱정. HealthDay 2015 'may have to move from their home to assisted living or a nursing home'(의사 실명 인용). Age UK 기사 '16% ... hidden an ailment ... fear losing their independence'(200자 초과, 오타). 보행 보조기 거부 인과는 '때문에' 원문 필요",
       "createdAt": "2026-11-07T09:31:08.375Z",
       "seq": 4062
-    },
-    {
-      "id": "d16898d2",
-      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
-      "priority": 40,
-      "note": "2026-10-23·10-24 두 회차 클리앙 '그럴 줄 알았다' 검색에서 1인칭 글 미발견. hankyung.com/article/202504278937i (2025-04-28) 주식·부동산 판단 조건 후보(원문 '…' 포함)",
-      "createdAt": "2026-10-24T09:34:29.000Z",
-      "seq": 1518
-    },
-    {
-      "id": "7012ac33",
-      "title": "believing-reporting-is-futile 보강: 한국어 SNS 파편, 경찰 경험 조건",
-      "priority": 40,
-      "note": "2026-10-22·10-24 자전거 도난 신고 한국어 커뮤니티 검색 결과 없음. newcastleworld 4788172 경찰이 CCTV 를 직접 구해 오라고 함(경찰 경험 조건 후보, 매체)",
-      "createdAt": "2026-10-24T09:35:15.743Z",
-      "seq": 1520
-    },
-    {
-      "id": "218bef24",
-      "title": "faking-wealth 와 poverty-shame 원인 간선",
-      "priority": 40,
-      "note": "2026-10-30 재탐색. 영어 'ashamed of being poor' + 'pretend to be rich' 검색은 반대 방향(부자가 가난한 척) 글뿐. Benzinga 2025-10 r/confession 보도 'faking a rich lifestyle just to fit in' 은 동기가 어울림이지 가난 수치 아님. 브런치 @yoonss-writer/1313, 경기일보 20260106580455 이전 후보",
-      "createdAt": "2026-10-30T15:17:16.020Z",
-      "seq": 2874
-    },
-    {
-      "id": "ef71cb91",
-      "title": "wishcycling 보강: not-sorting-recyclables 관계",
-      "priority": 40,
-      "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음. 2026-11-01 이미 1992 Seattle Times [^1] 있음. 두 현상을 한 사람 안에서 맞세우는 원문 필요",
-      "createdAt": "2026-11-01T03:26:36.591Z",
-      "seq": 3065
     },
     {
       "id": "05aa9f59",
@@ -579,6 +547,30 @@
       "note": "2026-11-07 공공 statcan dq130318b, SNS straightdope 1001604/18 더함. 관계 근거 원문 아직 없음. 후보: statcan 16-002-x/2008001/10539 (2008) 39% 일반 쓰레기·배수구, 클리앙 park/17379913 (2022-07-05) 팍스로비드 남은 약 쓰레기통 의향, mediahub 2004438 시민기자 55%",
       "createdAt": "2026-11-07T09:37:19.431Z",
       "seq": 4063
+    },
+    {
+      "id": "9be63128",
+      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
+      "priority": 40,
+      "note": "2026-11-07 Science Forums 48936 2010 댓글을 [^3] 으로 씀. 한국어 SNS 는 세 회차째 미발견. hankyung.com/article/202504278937i (2025-04-28) 주식·부동산 조건 후보(원문 '…' 포함)",
+      "createdAt": "2026-11-07T12:32:22.695Z",
+      "seq": 4065
+    },
+    {
+      "id": "a26882c8",
+      "title": "faking-wealth 와 poverty-shame 원인 간선",
+      "priority": 40,
+      "note": "2026-11-07 재탐색. thefinancialdiet.com/?p=2717 (2015-04-03) 'I Have Been The Poor Friend All My Life, And I'm Ashamed' 의 'fighting the urge to buy things that make me appear richer' 는 인과를 직접 말하지 않음(보강 후보). brunch @nusik/48 (2026-09-21) '가난을 숨기기 위하여' 는 숨기기 동기. 'because ashamed' 꼴 원문 필요",
+      "createdAt": "2026-11-07T12:33:53.232Z",
+      "seq": 4066
+    },
+    {
+      "id": "da80c08d",
+      "title": "wishcycling 보강: not-sorting-recyclables 관계",
+      "priority": 40,
+      "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음. 2026-11-01 이미 1992 Seattle Times [^1] 있음. 두 현상을 한 사람 안에서 맞세우는 원문 필요",
+      "createdAt": "2026-11-07T12:34:55.473Z",
+      "seq": 4067
     },
     {
       "id": "e8ba47a7",
@@ -1147,6 +1139,14 @@
       "note": "2026-11-06 Langer 1982 Cambridge 요약 더함. 후보: gqkorea ?p=398896 (2026-09-05) 통제의 착각, PMC3683617 (2013) Orgaz 외 도박 문제 있는 사람이 통제 착각에 더 취약. 하위 후보 buying-lottery-tickets, gamblers-fallacy",
       "createdAt": "2026-11-06T15:28:54.573Z",
       "seq": 3995
+    },
+    {
+      "id": "ed388b31",
+      "title": "feeding-pigeons 보강: 1인칭 외로움 동기 파편",
+      "priority": 30,
+      "note": "2026-11-07 Straight Dope 427529/34 2007 댓글(제3자 추측)을 [^4] 로 씀. 남은 후보: 클리앙 park/18596385 2024-02-20 '밥주는 즐거움을 누리던 사람들'. Harringay Online 2017 은 특정인을 다룬 스레드라 쓰지 않음. 1인칭 글 미발견",
+      "createdAt": "2026-11-07T12:25:04.587Z",
+      "seq": 4064
     },
     {
       "id": "75b0ae75",
