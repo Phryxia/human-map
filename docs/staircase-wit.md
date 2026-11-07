@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [머릿속 말다툼](imaginary-arguments.md)[^4]
 
 ## 대립
 
