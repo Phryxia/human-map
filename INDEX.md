@@ -399,6 +399,7 @@
 - [여행 기념품 사 오기](docs/buying-souvenirs-for-others.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [여행 짐 많이 싸기](docs/overpacking.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [여행지에서 엽서 보내기](docs/sending-travel-postcards.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [연금 조기 수령](docs/early-pension-claiming.md) ([돈과 소비](groups/money.md))
 - [연락받는 사람의 감사 과소평가](docs/underestimating-reach-out-appreciation.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [연봉 협상하지 않기](docs/not-negotiating-salary.md) ([일터와 일자리](groups/work.md))
 - [연애 기피](docs/avoiding-dating.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
