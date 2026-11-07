@@ -14,6 +14,8 @@
 
 2024년 글[^6]의 한의사 필자는 가장으로서 강인하고 살림을 책임져야 한다는 문화 때문에 아버지들이 불편한 점을 숨기는 경우가 많다고 썼다.
 
+2026년 6월 WOWT 기사[^7]에서 노년학자는 노인들이 독립과 통제를 잃을까 두려워 가족에게 문제를 숨기는 일이 많다고 말했다.
+
 # 관계
 
 ## 상위
@@ -26,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [독립을 잃을 두려움](fear-of-losing-independence.md)[^7]
 
 ## 결과
 
@@ -44,3 +46,4 @@
 [^4]: [학술] "Protective buffering was associated with decreased intimacy and increased FCR for the individual reporting buffering that same day." (보호적 완충은 그날 완충을 보고한 당사자의 친밀감 감소, 암 재발 두려움 증가와 관련되었다.) — Perndorfer C, Soriano EC, Siegel SD, Laurenceau JP, "Everyday Protective Buffering Predicts Intimacy and Fear of Cancer Recurrence in Couples Coping with Early-Stage Breast Cancer", Psychooncology 28(2), 2018-12-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC6815683/, 2026-10-19 접속
 [^5]: [학술] "Patients who do not want to worry caregivers can hide their poor physical/mental condition and the complaints they experience." (돌보는 사람을 걱정시키고 싶지 않은 환자는 자신의 나쁜 신체적·정신적 상태와 겪는 불편을 숨길 수 있다.) — Kroemeke A, Sobczyk-Kruszelnicka M, "Protective Buffering and Individual and Relational Adjustment Following Hematopoietic Stem Cell Transplantation: A Dyadic Daily-Diary Study", Frontiers in Psychology 10:2195, 2019-09-24, https://pmc.ncbi.nlm.nih.gov/articles/PMC6771393/, 2026-10-19 접속
 [^6]: [매체] "특히 가장으로써 강인해야 하고 경제적인 부분을 책임져야 하는 우리나라 문화상 아버지들께서 불편한 점을 숨기고 계신 경우가 많다." — 이한별, "어버이날, 관심 두고 봐야 할 부모님 건강 체크포인트", 데일리안, 2024-05-08, https://www.dailian.co.kr/news/view/1358689/, 2026-10-19 접속
+[^7]: [매체] "Sam Cradduck, a gerontologist, said older adults often hide problems from family members because they fear losing independence and control." (노년학자 샘 크래덕은 노인들이 독립과 통제를 잃을까 두려워 가족에게 문제를 숨기는 일이 많다고 말했다.) — LeAnne Gendreau, Katherine Ambrose, Sondra Cradduck, Amy Cameron O’Rourke, Rhea Rogers, "Why older adults hide struggles from family and how to spot warning signs", WOWT, 2026-06-09, https://www.wowt.com/2026/06/09/why-older-adults-hide-struggles-family-how-spot-warning-signs/, 2026-11-07 접속

@@ -3231,9 +3231,9 @@
   },
   "https://www.gutenberg.org/cache/epub/514/pg514-images.html": {
     "first": "2026-10-19",
-    "last": "2026-11-04",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-07"
   },
   "https://ko.wikisource.org/wiki/%EB%82%A0%EA%B0%9C": {
     "first": "2026-10-19",
@@ -3999,27 +3999,27 @@
   },
   "https://www.imaeil.com/page/view/2011090814430699188": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6815683/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6771393/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.dailian.co.kr/news/view/1358689/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=110207&docId=160335846": {
     "first": "2026-10-19",
@@ -21457,6 +21457,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://www.imaeil.com/page/view/2011042507270196251": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.wowt.com/2026/06/09/why-older-adults-hide-struggles-family-how-spot-warning-signs/": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
