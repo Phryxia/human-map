@@ -1,72 +1,40 @@
 {
   "version": 1,
-  "savedAt": "2026-11-07T18:36:34.852Z",
-  "nextSeq": 4116,
-  "stops": 211,
+  "savedAt": "2026-11-07T21:36:56.686Z",
+  "nextSeq": 4149,
+  "stops": 212,
   "items": [
     {
-      "id": "211ab37b",
-      "title": "first-night-effect 보강: 다른 시기 문학, 공공 파편",
+      "id": "65e1f0ca",
+      "title": "teasing-someone-liked 보강: 학술 또는 SNS 파편",
       "priority": 50,
-      "note": "2026-11-07 후보: Collins After Dark 1856 Gutenberg 1626 'I soon felt not only that I could not go to sleep', Dickens Pickwick Gutenberg 580 11장 strange bed 문장은 200자 초과. NIH Director's Blog 2016-04-26 'Explaining the Traveler's First-Night Sleep Problem' 은 이 환경에서 DNS 실패",
-      "createdAt": "2026-11-07T18:11:36.633Z",
-      "seq": 4109
+      "note": "2026-11-07 파편 2개뿐. HN algolia 'teased her because I liked her' 등 3개, Straight Dope search.json 2개, PMC 'pulling her hair' likes 검색 모두 해당 없음",
+      "createdAt": "2026-11-07T21:26:20.560Z",
+      "seq": 4142
     },
     {
-      "id": "32d2eef9",
-      "title": "checking-sleeping-babys-breathing 보강: 한국어 파편, 관계",
+      "id": "faab7a04",
+      "title": "self-esteem-after-refusing-apology 보강: SNS 또는 다른 시기 파편",
       "priority": 50,
-      "note": "2026-11-07 한국어 1인칭 글 못 찾음. War and Peace Gutenberg 2600 안드레이가 아기 숨소리 듣는 장면은 이미 4개 문서가 써서 5번째면 WARN. 2024 UVic 초록의 무호흡·SIDS 침습 사고와 원인 관계 후보, rechecking-door-and-stove 와 비슷한 확인 행동",
-      "createdAt": "2026-11-07T18:24:42.310Z",
-      "seq": 4110
+      "note": "2026-11-07 파편 2개뿐(2013 학술, 2013 NPR). HN algolia 'refused to apologize felt good' 등 3개, Straight Dope search.json 2개 해당 없음",
+      "createdAt": "2026-11-07T21:28:04.233Z",
+      "seq": 4143
     },
     {
-      "id": "5c5017c3",
-      "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편, 수치",
+      "id": "8de89313",
+      "title": "answering-unknown-calls-silently 보강: 학술 또는 공공 파편",
       "priority": 50,
-      "note": "2026-11-07 후보: Gosling 「Snoop」 2008 발췌 vpm.org/npr-news/2008-05-14/excerpt-snoop-what-your-stuff-says-about-you, NBC News 2013 Test Blog, Spokesman 1995 의 5명 중 2명 문장은 211자. 집주인이 손님 오기 전 물건 치우기(SciAm 2017 38%)는 따로 현상 후보",
-      "createdAt": "2026-11-07T18:27:16.640Z",
-      "seq": 4111
+      "note": "2026-11-07 파편 3개(SNS 2022, 매체 2026 둘). 후보 매체: fnnews 202605080724310882 (2026-05, GNT 인용 '여보세요' 하면 끊는 침묵 전화). 공공 당부문은 못 찾음",
+      "createdAt": "2026-11-07T21:30:02.973Z",
+      "seq": 4144
     },
     {
-      "id": "2aa84ac2",
-      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편, 별칭",
+      "id": "95efdf6c",
+      "title": "avoiding-aids-that-look-old 보강: 지팡이·보행기 파편, SNS",
       "priority": 50,
-      "note": "2026-11-07 Esther Kim 2012 Symbolic Interaction 'nonsocial transient behavior' 원문과 EurekAlert 919445 열지 못함. ScienceDaily 120801093615 에 이름이 든 문장 있음. 일요시사 2024-03-08 '가방 알박기' 미확인",
-      "createdAt": "2026-11-07T18:30:21.445Z",
-      "seq": 4112
-    },
-    {
-      "id": "d550e7e1",
-      "title": "counting-to-ten-when-angry 보강: 학술, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-07 Osgood & Muraven 2016 Journal of Applied Social Psychology 46(2) jasp.12334 Wiley 초록 열리지 않음(결과가 바로 따르지 않으면 지연이 공격성을 키움, 조건). Jefferson count ten 서간 founders.archives.gov 빈 본문",
-      "createdAt": "2026-11-07T18:32:09.901Z",
-      "seq": 4113
-    },
-    {
-      "id": "2c55c339",
-      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편",
-      "priority": 40,
-      "note": "2026-11-01 서울신문 2016-12-14 [^2] 더함. 후보: gizmodo 5115670 (2008-12-22, 실명 인물), 다음 카페 tamha/SYKX/4617, lungevity 26110 (2007, 403). Hacker News algolia 에 numericFilters=created_at_i%3C1262304000 로 2010년 이전 댓글 검색 가능",
-      "createdAt": "2026-11-02T16:00:43.390Z",
-      "seq": 3347
-    },
-    {
-      "id": "0ca6e879",
-      "title": "gazing-out-the-window 보강: 2000년 이전 학술 파편",
-      "priority": 40,
-      "note": "2026-11-03 재시도 실패. Kaplan 1993 sciencedirect 403, Kaplan 2001 SAGE Cloudflare, ERIC '\"out the window\"' 2000년 이전 해당 없음(EJ1195898 2018 은 학생이 창밖 보며 딴생각, 2000년 이후). 대안: 2000년 이전 문학 대신 PubMed 초록에서 window view 연구 찾기",
-      "createdAt": "2026-11-03T03:10:01.307Z",
-      "seq": 3417
-    },
-    {
-      "id": "e35cf6f5",
-      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공, 위험을 알면서 쓰기",
-      "priority": 40,
-      "note": "2026-11-03 NordVPN 2021 매체 파편 더함. 2020년 이후 공공 출처 못 찾음. 후보: benton.org 2014 (39% 민감정보 전송, 26% 은행 확인), news.seoul.go.kr 520321 은 SSID 일원화 안내라 행동 없음",
-      "createdAt": "2026-11-03T03:15:37.494Z",
-      "seq": 3419
+      "note": "2026-11-07 파편 3개 모두 보청기. Straight Dope search.json, HN algolia, PubMed 'mobility device stigma old' 해당 없음. Straight Dope 372265/146 (2006) 'I ain’t gettin’ out my cane because I refuse to admit I need one' 은 늙음 언급 없음",
+      "createdAt": "2026-11-07T21:30:45.118Z",
+      "seq": 4145
     },
     {
       "id": "1c876258",
@@ -91,14 +59,6 @@
       "note": "2026-11-03 재시도. straightdope 595507 은 이미 [^2]. 특허 US6411568 (시계를 빠르게 두어도 알면 무시한다는 배경 서술) 은 uspto PDF, patents.google.com 503. Houghton 학위논문 'soft self-deception' 은 PDF. melmagazine 'can-setting-your-clock-fast' 는 매체로 열림(Linda Sapadin 인용)",
       "createdAt": "2026-11-03T03:18:13.310Z",
       "seq": 3423
-    },
-    {
-      "id": "43f3898f",
-      "title": "forgotten-fridge-leftovers 보강: 공공 파편, discarding-food-by-date-label 관계",
-      "priority": 40,
-      "note": "2026-11-03 재시도. EPA·USDA 에 남은 음식 잊기 조사 없음. 매체 후보: geneonline Frigidaire 2026-06 (74% 매주 남은 음식 버림), stacker 'americans say they love leftovers'. 공공은 lovefoodhatewaste NSW 추적조사(PDF), WRAP",
-      "createdAt": "2026-11-03T03:18:27.964Z",
-      "seq": 3424
     },
     {
       "id": "8a076539",
@@ -173,28 +133,12 @@
       "seq": 3477
     },
     {
-      "id": "2e3a905a",
-      "title": "humming-while-working 보강: earworm 관계",
-      "priority": 40,
-      "note": "2026-11-03 후보: straightdope 44450 #17 2000-12-07 'stuck in my head ... Whenever my brain switches over to autopilot, I catch myself humming it'(귀벌레→흥얼거림, 일하는 중인지 불명). overclockers 17590159 2006 쉬는 시간 humming. McCullough 2016 scholarworks.uark.edu/inquiry/vol17/iss1/4 humming·singing 이 INMI 빈도를 늘림(흥얼→귀벌레, 실험 맥락). SNS 한 글을 두 문서에 못 쓰므로 양쪽 문서에 각자 파편 필요. 일·씻기 중 흥얼거림과 잇는 원문 아직 없음",
-      "createdAt": "2026-11-03T15:15:15.423Z",
-      "seq": 3514
-    },
-    {
       "id": "17994cbb",
       "title": "making-new-years-resolutions 보강: abandoning-resolutions 관계, SNS 파편",
       "priority": 40,
       "note": "2026-11-03 Pepys 4146, Twain 1863 더함. 아오조라 大倉燁子 1950 「今年の抱負」 54481 해마다 결심하고 실행 못함, 2월부터 시듦(작심삼일 후보). Twain 같은 글 'Thirty days from now, we shall have cast our reformation to the winds'",
       "createdAt": "2026-11-03T15:19:34.253Z",
       "seq": 3515
-    },
-    {
-      "id": "fcf2325d",
-      "title": "fidgeting 보강: 나타나지 않는 조건",
-      "priority": 40,
-      "note": "2026-11-03 Ricciardi 2019 iris.uniroma1.it 11573/1353277 덜 지루한 조건에서 더 꼼지락. SBS 2016-02-23 몰입하면 덜 꼼지락",
-      "createdAt": "2026-11-03T15:23:38.670Z",
-      "seq": 3516
     },
     {
       "id": "5bea94e0",
@@ -253,14 +197,6 @@
       "seq": 3523
     },
     {
-      "id": "bd77c524",
-      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
-      "priority": 40,
-      "note": "2026-11-03 Ofcom news-consumption HTML 403, ACMA 2026-08 acma-report-reveals-australians-changing-news-habits·2026-05 indicator-5-news-consumption 503(재시도 후보). kpf.or.kr 미디어이슈 「누가, 왜 뉴스를 회피하는가?」 원문 HTML 미발견. 기자협회보 51706 (2022) 회피경험 3명 중 2명",
-      "createdAt": "2026-11-03T15:33:39.110Z",
-      "seq": 3525
-    },
-    {
       "id": "8aacdad1",
       "title": "blocking-the-intersection 보강: 관계와 SNS 파편",
       "priority": 40,
@@ -317,14 +253,6 @@
       "seq": 3795
     },
     {
-      "id": "0d580aa9",
-      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
-      "priority": 40,
-      "note": "2026-11-04 작성. Parikh 외 1996 [^1] 은 수치심과 숨김을 함께 말함. pretending-to-understand(알아들은 척) 결과 간선 근거 후보, 2013년 경북대 문해 수기(자녀 숙제를 못 도와 바쁘다, 눈이 안 보인다 핑계) 원문 필요",
-      "createdAt": "2026-11-04T21:28:44.871Z",
-      "seq": 3796
-    },
-    {
       "id": "7283854f",
       "title": "self-blame-after-fraud 관계: complying-with-impersonation-calls 결과, 비학술 다른 시기",
       "priority": 40,
@@ -347,22 +275,6 @@
       "note": "2026-11-05 확인: 냄새 때문에 간직한다는 인과 문장 못 찾음. hercampus ?p=256401 Favorite Sweater (플래시 픽션, 발행일 미상) 'I don't want to wash it and risk removing your familiar scent' 는 빨지 않음이고 전 애인 물건이라는 말 없음. graphic.com.gh 2014-02-26 5 things get rid of after breakup 'how it still smells like him' 은 조언. 이전 확인: ebony, renews.co.nz, vice 2017-11-23, hercampus 756449, chelseajane substack, pdx.edu 2018-02-09, wwu.edu(실명), thestudentroom 403, yourtango 353701, theeagleonline, xtramagazine, huffpost ca, dazed 30155, bustle, autostraddle, theglobeandmail",
       "createdAt": "2026-11-05T03:22:44.892Z",
       "seq": 3815
-    },
-    {
-      "id": "b1a9b461",
-      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
-      "priority": 40,
-      "note": "2026-11-05 확인: PMC9483281 (2022, 4개국 대학생 마술적 사고) 표 3 counting objects 는 점치기 목적이라 맞지 않음. Muris 1997 PMID 9125105 초록에 세기 없음, Evans 1997 Child Dev 도 없음. 한국어 '계단 개수를 세' '숫자 세는 버릇' '보도블록 세는 버릇' 결과 없음. mt.co.kr 2010062110470707278, brunch @theellen/91, clien park 13483904 맞지 않음",
-      "createdAt": "2026-11-05T03:30:05.481Z",
-      "seq": 3816
-    },
-    {
-      "id": "384329ac",
-      "title": "zoning-out 보강: mind-wandering, gazing-out-the-window 관계",
-      "priority": 40,
-      "note": "2026-11-05 확인: 대립 근거 못 찾음. frontiersin fpsyg.2013.00650 (Ward, Wegner 2013) 'mind-blanking and mind-wandering are phenomenologically distinct mental states' 는 구별이고 두 보고는 상관 없음. PMC8241869 (Andrillon 2021) 도 구별. zoning-out 에 구별 서술용 학술 파편으로는 쓸 수 있음. Boulakis 2023 PMC10552942 미확인",
-      "createdAt": "2026-11-05T03:32:29.243Z",
-      "seq": 3817
     },
     {
       "id": "efc05148",
@@ -571,6 +483,94 @@
       "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 6698행 Edgar 는 마을을 피하나 아내 무덤은 찾아가 맞지 않고, 이 출처는 이미 4개 문서가 씀",
       "createdAt": "2026-11-07T15:30:31.540Z",
       "seq": 4101
+    },
+    {
+      "id": "8d46f9fe",
+      "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편",
+      "priority": 40,
+      "note": "2026-11-07 Ideal Home 2016 수치 더함. 남은 후보: NBC News 2013-06-10 flna6c10272036 은 질문만 있음, Washington Times 2021-12-13 33%, Moen 조사 22% marketscreener 403, AOL 2014 40% 404",
+      "createdAt": "2026-11-07T21:13:54.731Z",
+      "seq": 4134
+    },
+    {
+      "id": "e15f4f05",
+      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-07 she-bagging 별칭과 Substack 2025 더함. Kim 2012 Symbolic Interaction 원문 못 엶. 후보: yalealumnimagazine.org/articles/3581-guarding-your-personal-bus-space (매체), 다른 학술 좌석 선택 연구",
+      "createdAt": "2026-11-07T21:15:02.321Z",
+      "seq": 4135
+    },
+    {
+      "id": "dcdbc21e",
+      "title": "counting-to-ten-when-angry 보강: SNS 파편, 조건",
+      "priority": 40,
+      "note": "2026-11-07 PMC11740350 학술 더함. 후보: PMC13249016 집단 상담에서 배운 count to ten, PMC9879846 형제 지원 연구 'I take a deep breath and count to ten and walk away', Osgood & Muraven 2016 jasp.12334 초록은 Wiley 403",
+      "createdAt": "2026-11-07T21:16:23.853Z",
+      "seq": 4136
+    },
+    {
+      "id": "e493b362",
+      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편",
+      "priority": 40,
+      "note": "2026-11-07 재시도 실패. HN algolia 2010년 이전 댓글 검색어 4개 해당 없음. kukinews kuk201011030030, kuk201309120095 는 Cloudflare. 이전 후보: gizmodo 5115670 (2008-12-22, 실명 인물), lungevity 26110 (2007, 403)",
+      "createdAt": "2026-11-07T21:17:15.445Z",
+      "seq": 4137
+    },
+    {
+      "id": "e911a6df",
+      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공, 위험을 알면서 쓰기",
+      "priority": 40,
+      "note": "2026-11-07 재시도. 総務省 令和5年度 無線LAN利用者実態調査 는 PDF 뿐(000957254.pdf 등). 비공공 후보: NAB Consumer Cyber Security Survey 2024 PDF 25% 은행 업무, ourwatch.org.uk 2026, yougov.com/en-gb/articles/2846",
+      "createdAt": "2026-11-07T21:19:52.881Z",
+      "seq": 4138
+    },
+    {
+      "id": "2408698d",
+      "title": "forgotten-fridge-leftovers 와 discarding-food-by-date-label 관계",
+      "priority": 40,
+      "note": "2026-11-07 NSW EPA 공공 파편 더함. 관계 근거 파편은 아직 없음. 후보: NSW 추적조사 2019 PDF 'food being stored for too long in the fridge or freezer (11%)'",
+      "createdAt": "2026-11-07T21:21:33.805Z",
+      "seq": 4139
+    },
+    {
+      "id": "e7bcb7b7",
+      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
+      "priority": 40,
+      "note": "2026-11-07 ACMA 홈부터 HTTP/2 INTERNAL_ERROR. 総務省 情報通信白書 令和7年版 nd111140 에 회피 수치 없음. 이전: Ofcom 403, kpf.or.kr 원문 HTML 미발견, 기자협회보 51706 (2022)",
+      "createdAt": "2026-11-07T21:23:12.989Z",
+      "seq": 4140
+    },
+    {
+      "id": "12715e23",
+      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
+      "priority": 40,
+      "note": "2026-11-07 PMC7304585 (Roodbeen 2020 PLoS One) 'conceal their limited skills and pretend to understand information' 와 PMC12840061 'pretend to understand the health-related document in front of their families to avoid shame' 은 건강 문해력이라 글 모르는 것과 다르고 인과 표현 아님. 2013년 경북대 문해 수기 원문 여전히 필요",
+      "createdAt": "2026-11-07T21:24:03.372Z",
+      "seq": 4141
+    },
+    {
+      "id": "f8b1014f",
+      "title": "humming-while-working 와 earworm 관계",
+      "priority": 40,
+      "note": "2026-11-07 Straight Dope 44450 #17 (2000) 을 humming-while-working [^3] 에 더함. 같은 글을 earworm 에도 쓰면 같은 글 두 문서 WARN 이라 간선 근거로 못 씀. earworm 쪽에 쓸 다른 출처(귀벌레 때문에 흥얼거린다) 필요",
+      "createdAt": "2026-11-07T21:32:08.767Z",
+      "seq": 4146
+    },
+    {
+      "id": "e29bd14d",
+      "title": "fidgeting 보강: 나타나지 않는 조건",
+      "priority": 40,
+      "note": "2026-11-07 Son 외 2024 Front Psychiatry [^6] 정답 시행에서 더 꼼지락 더함. 남은 후보: Ricciardi 2019 iris.uniroma1.it 11573/1353277 덜 지루한 조건에서 더 꼼지락, SBS 2016-02-23 URL 못 찾음, Galton 1885 Nature 'Measure of Fidget' galton.org PDF 타임아웃",
+      "createdAt": "2026-11-07T21:36:10.818Z",
+      "seq": 4147
+    },
+    {
+      "id": "4171873e",
+      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
+      "priority": 40,
+      "note": "2026-11-07 PMC 'counting the steps' 81건 앞 10건은 보행 측정이 대부분. PMC12999046 'Compulsive tic‐like behaviors such as touching, counting the steps' 는 진단 맥락 학술 후보",
+      "createdAt": "2026-11-07T21:36:48.308Z",
+      "seq": 4148
     },
     {
       "id": "e8ba47a7",
