@@ -19901,27 +19901,27 @@
   },
   "https://api.parliament.uk/historic-hansard/commons/1950/jul/17/traders-trafalgar-square": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://www.scoop.co.nz/stories/AK0712/S00099.htm": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://openresearch.amsterdam/en/id/88253": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://v.daum.net/v/20250705090134051": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://api.parliament.uk/historic-hansard/lords/1999/mar/25/police-vehicles": {
     "first": "2026-11-05",
@@ -20403,9 +20403,9 @@
   },
   "https://www.gutenberg.org/cache/epub/7353/pg7353.txt": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://www.gutenberg.org/cache/epub/57333/pg57333.txt": {
     "first": "2026-11-06",
@@ -20900,9 +20900,9 @@
   },
   "https://en.wikisource.org/wiki/The_Grey_Wig_(collection)/The_Grey_Wig": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://www.clien.net/service/board/cm_car/14985664": {
     "first": "2026-11-06",
@@ -21355,6 +21355,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://hal.science/hal-03368055v1": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://weekly.khan.co.kr/article/201709041646221": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
