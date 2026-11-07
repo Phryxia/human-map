@@ -21681,5 +21681,17 @@
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "UNREACHABLE"
+  },
+  "https://brunch.co.kr/@ceoseon/18": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://babybilly.co/ko/community/detail/bedong/559342": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
   }
 }
