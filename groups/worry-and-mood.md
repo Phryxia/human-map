@@ -57,6 +57,7 @@
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
 - [어둠 공포](../docs/fear-of-the-dark.md) 어두운 곳에 있는 사람이 보이지 않는 것을 무서워한다.
 - [울고 난 뒤 후련함](../docs/relief-after-crying.md) 한바탕 운 사람이 울고 난 뒤 마음이 가벼워졌다고 느낀다.
+- [잠든 아기의 숨 확인하기](../docs/checking-sleeping-babys-breathing.md) 어린 아기를 돌보는 부모가 잠든 아기가 숨을 쉬는지 되풀이해 들여다보고 만져 본다.
 - [잠자리에서 시계 보기](../docs/clock-watching-in-bed.md) 잠들지 못하고 누워 있는 사람이 시계를 자꾸 보며 몇 시인지와 남은 잠 시간을 확인한다.
 - [점과 운세 보기](../docs/consulting-fortune-tellers.md) 앞날을 알고 싶은 사람이 점쟁이를 찾아가거나 별자리 운세, 타로, 사주를 본다.
   - [꽃잎 뜯으며 사랑 점치기](../docs/petal-plucking-love-divination.md)
