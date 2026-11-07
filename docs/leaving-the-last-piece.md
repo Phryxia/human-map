@@ -1,6 +1,6 @@
 # 마지막 한 조각 남기기
 
-별칭: last piece of food[^8]
+별칭: last piece of food[^9]
 
 여럿이 함께 먹는 접시에 음식이 하나 남으면 사람들이 그 마지막 하나를 집지 않고 남겨 둔다.
 
@@ -12,7 +12,7 @@
 
 2016년 기사[^5]는 미네소타 사람들이 여럿이 나눠 먹는 음식의 마지막 한 입을 집느니 차라리 다른 일을 인정하겠다고 한다고 썼다. 2021년 일본어 질문 게시글[^6]은 큰 접시의 마지막 하나를 두고 저마다 "나는 됐으니 드세요" 하며 손을 대지 않는 일과 그렇게 남은 음식을 한 낱말로 불렀다.
 
-2023년 영국 설문 기사[^7]에서 응답자의 65%는 마지막 피자 조각을 자주 집는 쪽이 자기라고 답했고 39%는 남이 그것을 집으면 짜증이 난다고 답했다. 2026년 논문[^8]의 저자들은 행사 손님이 마지막 음식을 먹지 않는 주된 까닭으로 예상되는 수치심과 갈등을 피하려는 마음을 들었다. 2026년 10월 GQ 코리아 기사[^9]는 마지막 한 조각을 눈치가 보이는 음식이라 부르고 그냥 집기보다 먹어도 되느냐고 묻는 한마디가 분위기를 편하게 만든다고 적었다.
+2023년 영국 설문 기사[^7]에서 응답자의 65%는 마지막 피자 조각을 자주 집는 쪽이 자기라고 답했고 39%는 남이 그것을 집으면 짜증이 난다고 답했다. 2024년 댓글[^8]의 글쓴이는 한두 조각이 남으면 젊은 사람들이 눈치를 보며 남겨 두는 경우가 있다고 적었다. 2026년 논문[^9]의 저자들은 행사 손님이 마지막 음식을 먹지 않는 주된 까닭으로 예상되는 수치심과 갈등을 피하려는 마음을 들었다. 2026년 10월 GQ 코리아 기사[^10]는 마지막 한 조각을 눈치가 보이는 음식이라 부르고 그냥 집기보다 먹어도 되느냐고 묻는 한마디가 분위기를 편하게 만든다고 적었다.
 
 # 관계
 
@@ -45,5 +45,6 @@
 [^5]: [매체] "you’d rather admit the accents in “Fargo” are highly accurate than take the last bite of a communal food offering" (여럿이 나눠 먹는 음식의 마지막 한 입을 집느니 차라리 「파고」의 억양이 아주 정확하다고 인정하겠다) — Tracy Mumford, 「Just take the last piece, Minnesota」, MPR News, 2016-09-21, https://www.mprnews.org/story/2016/09/21/just-take-the-last-piece-minnesota, 2026-11-05 접속
 [^6]: [SNS] "大きなお皿に盛った料理などをみんなで食べていると最後にひとつ残り、’私はよいので食べてください’と誰もが遠慮して手を出さなくなること。また、その残された物" (큰 접시에 담은 요리 등을 모두 함께 먹다가 마지막에 하나가 남아 "나는 됐으니 드세요" 하며 누구나 사양하고 손을 대지 않게 되는 것. 또 그렇게 남겨진 것) — DMM英会話 질문 게시글, 2021-09-13, https://eikaiwa.dmm.com/uknow/questions/118304/, 2026-11-05 접속
 [^7]: [매체] "But in a nationwide study of 2,000 adults by Chicago Town, 65% confessed to often being the ones to take the last slice – despite 39% finding it annoying when someone else does." (그러나 Chicago Town 이 성인 2000명을 대상으로 한 전국 조사에서 65%는 마지막 조각을 자주 집는 쪽이 자기라고 털어놓았다. 39%는 남이 그렇게 하면 짜증이 난다고 했는데도 그렇다.) — 「Etiquette guru William Hanson gives some upper crust tips on pizza sharing」, South West Londoner, 2023-10-16, https://swlondoner.co.uk/?p=119687, 2026-11-05 접속
-[^8]: [학술] "The study identifies event guests’ sense of anticipated shame and desire to avoid conflict as primary drivers." (이 연구는 행사 손님이 예상하는 수치심과 갈등을 피하려는 마음을 주된 동인으로 밝힌다.) — V. Filimonau, J. Matute, H. Sezerel, T. Özoğul Balyalı, 「Food Waste in Group Dining: The interplay of Shame and Conflict Aversion in the “Last Piece of Food” Dilemma」, Journal of Sustainable Tourism 34(1), 2026, https://avesis.yyu.edu.tr/yayin/13834f96-a5e4-42e0-939f-76f9a0795ea8/food-waste-in-group-dining-the-interplay-of-shame-and-conflict-aversion-in-the-last-piece-of-food-dilemma, 2026-11-05 접속 (미확인)
-[^9]: [매체] "특히 마지막 한 조각처럼 자연스럽게 눈치가 보이는 음식은 그냥 집어먹기보다 “이거 먹어도 돼?”라는 한마디가 분위기를 편하게 만든다." — 주현욱, 「같이 밥 먹기 편한 사람들의 공통점 8」, GQ Korea, 2026-10-11, https://www.gqkorea.co.kr/2026/10/11/%ea%b0%99%ec%9d%b4-%eb%b0%a5-%eb%a8%b9%ea%b8%b0-%ed%8e%b8%ed%95%9c-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%98-%ea%b3%b5%ed%86%b5%ec%a0%90-8/, 2026-11-06 접속
+[^8]: [SNS] "다만, 저렇게 한두조각 남겨져 있을때를 보면 젊은사람들은 눈치를 보며 남겨두는 경우가 있는데, 이럴땐 미리 자신은 충분히 먹었다 라고 말을 해두는게 음식 남기지 않는데 도움이 되지 않을까 싶네." — 가생이닷컴 댓글, 2024-07-12, https://www.gasengi.com/main/board.php?bo_table=history02&wr_id=91776, 2026-11-07 접속
+[^9]: [학술] "The study identifies event guests’ sense of anticipated shame and desire to avoid conflict as primary drivers." (이 연구는 행사 손님이 예상하는 수치심과 갈등을 피하려는 마음을 주된 동인으로 밝힌다.) — V. Filimonau, J. Matute, H. Sezerel, T. Özoğul Balyalı, 「Food Waste in Group Dining: The interplay of Shame and Conflict Aversion in the “Last Piece of Food” Dilemma」, Journal of Sustainable Tourism 34(1), 2026, https://avesis.yyu.edu.tr/yayin/13834f96-a5e4-42e0-939f-76f9a0795ea8/food-waste-in-group-dining-the-interplay-of-shame-and-conflict-aversion-in-the-last-piece-of-food-dilemma, 2026-11-05 접속 (미확인)
+[^10]: [매체] "특히 마지막 한 조각처럼 자연스럽게 눈치가 보이는 음식은 그냥 집어먹기보다 “이거 먹어도 돼?”라는 한마디가 분위기를 편하게 만든다." — 주현욱, 「같이 밥 먹기 편한 사람들의 공통점 8」, GQ Korea, 2026-10-11, https://www.gqkorea.co.kr/2026/10/11/%ea%b0%99%ec%9d%b4-%eb%b0%a5-%eb%a8%b9%ea%b8%b0-%ed%8e%b8%ed%95%9c-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%98-%ea%b3%b5%ed%86%b5%ec%a0%90-8/, 2026-11-06 접속
