@@ -14,7 +14,7 @@
 
 2024년 12월 경기일보 기사에서 검사를 사칭한 전화를 받은 30대는 막 취업했는데 금융정보 때문에 구속된다는 말을 듣고 너무 무서웠다고 말했다.[^7] 2025년 4월 클리앙 게시글의 글쓴이는 검찰 사칭 전화가 보이스피싱 같았지만 다른 사람의 확언이 필요했고 스스로를 믿지 못하는 상태였다고 적었다.[^8]
 
-2026년 2월 금융감독원 보도자료는 AI 로 조작한 아이의 울음소리로 부모의 불안을 자극하고 짧은 시간 안에 소액 송금을 받아 내는 사칭을 알렸다.[^9] 2026년 7월 노컷뉴스에 실린 경찰관의 기고는 이틀 안에 돈을 옮기지 않으면 큰일 난다는 협박을 받은 70대가 극도의 불안을 느끼고 재산을 지키려면 시키는 대로 따를 수밖에 없다고 믿었다고 적었다.[^10] 2026년 8월 Huang 등은 전기통신 사기 피해자 면담에서 계속 따른 일이 이익에 대한 기대와 함께 되돌릴 수 없는 손해에 대한 두려움과 관련되어 있었다고 보고했다.[^11]
+2026년 2월 금융감독원 보도자료는 AI 로 조작한 아이의 울음소리로 부모의 불안을 자극하고 짧은 시간 안에 소액 송금을 받아 내는 사칭을 알렸다.[^9] 2026년 7월 노컷뉴스에 실린 경찰관의 기고는 이틀 안에 돈을 옮기지 않으면 큰일 난다는 협박을 받은 70대가 극도의 불안을 느끼고 재산을 지키려면 시키는 대로 따를 수밖에 없다고 믿었다고 적었다.[^10] 같은 달 SBS 기사에서 검사 사칭 전화를 받은 30대는 부모가 걱정할까 봐 주변에 알릴 생각을 하지 못했다.[^11] 2026년 8월 Huang 등은 전기통신 사기 피해자 면담에서 계속 따른 일이 이익에 대한 기대와 함께 되돌릴 수 없는 손해에 대한 두려움과 관련되어 있었다고 보고했다.[^12]
 
 # 관계
 
@@ -50,4 +50,5 @@
 [^8]: [SNS] "보이스피싱 같긴 했지만, 솔직히 말해 다른 사람의 확언이 필요했습니다. 스스로를 믿지 못하는 정신 상태였어요." — 클리앙 게시글, 2025-04-17, https://www.clien.net/service/board/park/18957398, 2026-10-21 접속
 [^9]: [공공] "AI로 조작한 아이의 울음소리로 부모의 불안감을 자극하고, 소액 송금을 요구*하여 단시간에 범죄를 일으키는 것이 특징" — 금융감독원 금융사기대응단, 「울면서 ''엄마''부르는 아이 목소리... 알고보니 AI 보이스피싱」 보도자료, 2026-02-01, https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=209831&menuNo=200218, 2026-10-21 접속
 [^10]: [매체] "이틀 내로 돈을 옮기지 않으면 큰일 난다는 협박에 극도의 불안을 느꼈고, 자신의 평생 모은 재산을 지키려면 시키는 대로 해야 한다고 믿었다." — 이승환, 「[기고]70대 노신사는 왜 검찰 사칭 피싱을 당했을까」, 노컷뉴스, 2026-07-02, https://nocutnews.co.kr/news/6541598, 2026-10-21 접속
-[^11]: [학술] "In participants’ accounts, continued compliance was associated not only with hope of gain but also with fear of irreversible damage." (참가자들의 진술에서 계속 따른 일은 이익에 대한 기대뿐 아니라 되돌릴 수 없는 손해에 대한 두려움과도 관련되어 있었다.) — Huang Y, Gao J, Zhou Y, He Q, Gao X, "Psychological Processes of Telecommunications Fraud: Development of a Three-Stage Framework and Cross-Sectional Quantitative Elaboration in a Mixed Methods Study", Journal of Medical Internet Research, 2026-08-13, https://pmc.ncbi.nlm.nih.gov/articles/PMC13472532/, 2026-10-21 접속
+[^11]: [매체] "A 씨는 부모님이 걱정할 것을 우려해 주변에 알릴 생각을 하지 못했다고 합니다." — 「"부모님 걱정할까 봐" 호텔서 일주일…전 재산 뜯긴 30대」, SBS, 2026-07-22, https://v.daum.net/v/20260722072701198, 2026-11-07 접속
+[^12]: [학술] "In participants’ accounts, continued compliance was associated not only with hope of gain but also with fear of irreversible damage." (참가자들의 진술에서 계속 따른 일은 이익에 대한 기대뿐 아니라 되돌릴 수 없는 손해에 대한 두려움과도 관련되어 있었다.) — Huang Y, Gao J, Zhou Y, He Q, Gao X, "Psychological Processes of Telecommunications Fraud: Development of a Three-Stage Framework and Cross-Sectional Quantitative Elaboration in a Mixed Methods Study", Journal of Medical Internet Research, 2026-08-13, https://pmc.ncbi.nlm.nih.gov/articles/PMC13472532/, 2026-10-21 접속
