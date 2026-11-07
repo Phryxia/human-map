@@ -12,6 +12,8 @@
 
 2020년 인도네시아 가정 조사 논문[^3]에서 유효기한이 지난 약을 버리는 가장 흔한 방법은 생활 쓰레기(82.1%)였고 그다음이 변기나 싱크대(5.3%)였다. 2022년 신문 기사[^4]가 전한 조사에서 응답자들은 폐의약품 배출이 불편한 이유로 수거함까지 거리가 멀다(43.8%)와 약국이나 보건소에 가져다주기 눈치 보인다(35.5%)를 들었다.
 
+2022년 10월 미국 어린이병원 여론조사[^5]에서 부모들은 지역의 약 수거 행사에 가지 않는 이유로 대부분의 약에는 필요 없다(24%), 너무 번거롭다(17%), 시간이나 장소가 맞지 않는다(15%)를 들었다.
+
 # 관계
 
 ## 상위
@@ -40,3 +42,4 @@
 [^2]: [매체] "Most Austin residents (44 percent) put their medications directly into the trash, and 12 percent flushed their medications down the toilet or sink." (오스틴 주민 다수(44%)는 약을 바로 쓰레기통에 넣었고 12%는 변기나 싱크대에 흘려보냈다.) — Cory Leahy, "Drug disposal perplexes public", UT News, 2010-10-29, https://news.utexas.edu/2010/10/29/drug-disposal-perplexes-public/, 2026-11-07 접속
 [^3]: [학술] "The most common disposal method of expired medicines was disposal in the household garbage (n = 408, 82.1%), followed by flushing the medication to the toilet or sink (n = 26, 5.3%)." (유효기한이 지난 약을 버리는 가장 흔한 방법은 생활 쓰레기에 버리는 것(n = 408, 82.1%)이었고, 그다음은 변기나 싱크대에 흘려보내는 것(n = 26, 5.3%)이었다.) — Widya N. Insani 외, "Improper disposal practice of unused and expired pharmaceutical products in Indonesian households", Heliyon, 2020-07-29, https://pmc.ncbi.nlm.nih.gov/articles/PMC7393449/, 2026-11-07 접속
 [^4]: [매체] "폐의약품 이용이 불편한 이유로는 '수거함까지의 거리가 멀어서'가 43.8%, '약국·보건소에 가져다주는 것이 눈치 보여서'가 35.5%를 차지했다." — 정채영, 「폐의약품 수거 불편해 쓰레기통에…"배출 편의성 고려한 수거 방법 찾아야"」, 데일리안, 2022-06-14, https://www.dailian.co.kr/news/view/1122616/, 2026-11-07 접속
+[^5]: [매체] "Other reasons for not participating in a drug take-back event were that it was unnecessary for most medicines (24%), it was too much hassle (17%), or the time or location was inconvenient (15%)." (약 수거 행사에 참여하지 않은 다른 이유는 대부분의 약에는 필요 없다(24%), 너무 번거롭다(17%), 시간이나 장소가 불편하다(15%)였다.) — C.S. Mott Children's Hospital, "Parent actions around expired and leftover medicine in the home", National Poll on Children's Health 42(1), 2022-10-24, https://mottpoll.org/node/2922, 2026-11-07 접속
