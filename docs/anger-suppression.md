@@ -22,7 +22,7 @@
 
 ## 하위
 
-없음.
+- [화날 때 열까지 세기](counting-to-ten-when-angry.md)
 
 ## 원인
 
