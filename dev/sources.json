@@ -12691,15 +12691,15 @@
   },
   "https://archive.news.ufl.edu/articles/2004/06/redemption-of-mail-in-rebates-declines-with-increased-time-allowance.html": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-07"
   },
   "https://econpapers.repec.org/RePEc:zbw:cawmdp:124": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-07"
   },
   "https://pressreleases.responsesource.com/newsroom/CEWCommunications/release/94440/?print=true": {
     "first": "2026-10-28",
@@ -20552,15 +20552,15 @@
   },
   "https://www.psychologytoday.com/us/blog/your-online-secrets/201410/why-we-overshare-online": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://cyberpsychology.eu/article/view/15411": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21442007&rettype=abstract&retmode=text": {
     "first": "2026-11-06",
@@ -21277,6 +21277,18 @@
     "lastVerified": "2026-11-07"
   },
   "https://gov.uk/government/publications/means-of-escape-in-residential-buildings-research/means-of-escape-in-residential-buildings": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://consumer.georgia.gov/consumer-topics/rebates": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.priv.gc.ca/en/blog/20080404": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
