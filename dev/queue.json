@@ -1,105 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-07T00:41:36.549Z",
-  "nextSeq": 4035,
-  "stops": 205,
+  "savedAt": "2026-11-07T03:40:25.376Z",
+  "nextSeq": 4049,
+  "stops": 206,
   "items": [
-    {
-      "id": "d074ee30",
-      "title": "pocket-patting 원인: 물건 잃어버릴까 하는 불안",
-      "priority": 50,
-      "note": "2026-11-05 추가. 후보: treatmyocd.com fear-of-losing-things-ocd (2023-11-13) 'The idea of losing things starts to cause distress and you may engage in compulsions in order to feel certain about where important things are.', ocduk.org/ocd/types (발행일 미상) 두고 가서 잃을까 두려워 주머니와 가방 확인. rechecking-door-and-stove 와 공통 상위(확인 행동) 후보: cambridge Behaviour Change 2015 Palmer 외 checking 과 미래 기억. 2026-11-06: 원인 문서(물건 잃어버릴까 하는 불안)가 아직 없어 그 문서를 먼저 써야 한다",
-      "createdAt": "2026-11-06T00:23:04.260Z",
-      "seq": 3917
-    },
-    {
-      "id": "65b4a720",
-      "title": "leaving-the-last-piece 보강: ritual-refusal 관계, 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-06 GQ Korea 2026-10-11 을 [^9] 로 더함. avesis.yyu.edu.tr Filimonau 2026 은 HTTP 500 이라 (미확인). 남은 후보: damoang.net/free/5130089 (403), dau.url.edu handle 20.500.14342/5815 (2026-01 학술, 미확인 대체 후보), mprnews 2016-09-21 just-take-the-last-piece-minnesota",
-      "createdAt": "2026-11-06T00:34:20.515Z",
-      "seq": 3920
-    },
-    {
-      "id": "0e3255e6",
-      "title": "imaginary-arguments 원인: 자기상",
-      "priority": 50,
-      "note": "2026-11-06 추가. 원한 품기 원인은 [^7] 로 그었음. 자기상 원인은 samwoolfe 와 다른 출처 필요. staircase-wit, replaying-conversations-afterward 와 관계 후보",
-      "createdAt": "2026-11-06T03:16:30.228Z",
-      "seq": 3928
-    },
-    {
-      "id": "307dead2",
-      "title": "leaving-car-unlocked 관계: 도난 걱정 없음과 낙관",
-      "priority": 50,
-      "note": "2026-11-06 Insurance Journal 2001-06-06 Progressive 설문의 'Thirty-three percent said they are not concerned at all about their vehicle being stolen.' 는 unrealistic-optimism 과의 관계 후보. NICB 는 'complacency thefts' 라 부른다(2019-03-27 같은 기사, 같은 출처라 별칭 근거로 바꿔 쓸지 검토). 2016 Nashville AP amp.insurancejournal.com/news/southeast/2016/02/22/399391.htm 68% 열쇠, Calgary Global News 2018-01-19 697대",
-      "createdAt": "2026-11-06T06:22:30.076Z",
-      "seq": 3937
-    },
-    {
-      "id": "9104f4dc",
-      "title": "leaving-cooking-unattended 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-06 후보: The Railway Children(1906) gutenberg 1874 'So that by eight the fire had been out for some time, the water had all boiled away, and the bottom was burned out of the kettle.' 는 잠든 대목이 앞 문장이라 인용만으로 안 드러남. Anne of Green Gables(gutenberg 45)는 이미 4개 문서가 써서 5개째면 WARN",
-      "createdAt": "2026-11-06T06:35:29.121Z",
-      "seq": 3939
-    },
-    {
-      "id": "c93e5a7b",
-      "title": "fear-of-blushing 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-06 붉어질까 두려워하는 대목 못 찾음. 근접 후보: Trollope Barchester Towers Gutenberg 3409 'would have given the world not to blush, but her blood was not at her own command', Gaskell Mary Barton 2153 'wished she could prevent it' (blushing 쪽에 더 맞음)",
-      "createdAt": "2026-11-06T12:31:54.372Z",
-      "seq": 3979
-    },
-    {
-      "id": "f1f02d0b",
-      "title": "stepping-aside-for-oncoming-pedestrians 보강: 지위 차이 조건 학술 파편, 굴욕감",
-      "priority": 50,
-      "note": "2026-11-06 추가. psychologicalscience.org 2020annual paper/31694 Weir 포스터는 방법만 있고 결과 없음. Notes from Underground(gutenberg 600) 비켜선 뒤 굴욕감 대목 'convulsive twinge at my heart'. straightdope 352541 댓글 'generally, guys move out of the way for women' 반대 방향",
-      "createdAt": "2026-11-06T18:33:29.166Z",
-      "seq": 4013
-    },
-    {
-      "id": "534512a1",
-      "title": "feeding-pigeons 보강: SNS 파편, 외로움 동기",
-      "priority": 50,
-      "note": "2026-11-06 Zangwill 1901 문학을 [^1] 로 씀. 남은 후보: Benavente Saturday Night 영역(1923) 위키문헌 Tableau_2 'fed the pigeons' 혼자 사는 노파, straightdope 991045?page=2 2023-10-04 댓글(동기는 영상). 한국어 1인칭 외로움 글 미발견",
-      "createdAt": "2026-11-06T21:37:33.789Z",
-      "seq": 4018
-    },
-    {
-      "id": "d31e85b5",
-      "title": "hiding-tears 관계: crying-in-secret",
-      "priority": 50,
-      "note": "2026-11-06 네이트판 2017 SNS 파편 [^5] 더함. vogue.co.kr/?p=676274 (2025-09-08) '울 때 화장실이나 계단을 찾은 것도, 비공개로 하기 위해서 아닌가.' 는 crying-in-secret 쪽",
-      "createdAt": "2026-11-06T21:37:33.869Z",
-      "seq": 4019
-    },
-    {
-      "id": "36e6e039",
-      "title": "not-yielding-to-emergency-vehicles 보강: 2010년 이전 한국 파편",
-      "priority": 50,
-      "note": "2026-11-06 클리앙 2020-05-21 SNS 파편 더함. 클리앙 park/19171236 (2026-04-01) 사설 구급차 불신으로 비켜 주기 싫다는 댓글은 조건 후보",
-      "createdAt": "2026-11-06T21:37:33.952Z",
-      "seq": 4020
-    },
-    {
-      "id": "3aba513c",
-      "title": "not-telling-about-falls 관계: 독립 잃을 두려움, refusing-mobility-aids",
-      "priority": 50,
-      "note": "2026-11-07 추가. NL Times 2026-05-25 는 독립을 잃을 두려움을 이유로 든다(원인 후보, 해당 문서 없음). PMC12148220 Dobash 2025 는 나약함과 부끄러움, stigma, fear of losing independence. PMC7741002 Catona 2020 'people who fall end up in nursing homes'. hiding-illness-from-family 와 공통 상위 후보",
-      "createdAt": "2026-11-07T00:12:46.814Z",
-      "seq": 4028
-    },
-    {
-      "id": "4a1390b1",
-      "title": "early-pension-claiming 관계: loss-aversion",
-      "priority": 50,
-      "note": "2026-11-07 추가. Duke Fuqua Insights 2024-07-25 'The more loss-averse people are, the researchers found, the earlier they claim.' 는 상관이라 원인 간선 근거로 약함. 원인 간선은 'because' 꼴 파편 필요. Hurd 2002 주관적 생존 확률. crr.bc.edu 2024-01-25 'fear of loss'",
-      "createdAt": "2026-11-07T00:19:21.773Z",
-      "seq": 4029
-    },
     {
       "id": "e06e9a56",
       "title": "delaying-help-for-heart-symptoms 보강: 공공, SNS 파편과 시기",
@@ -139,6 +43,30 @@
       "note": "2026-11-07 추가. 후보: European Commission Sustainable consumption 페이지(발행일 없음) 'repair decisions are easily disrupted if arranging repair requires effort.', RTE Brainstorm 2024-04-24 Delemere, 클리앙 kin/16369488 2021 수리 뒤 재고장으로 새로 삼. FTC Nixing the Fix 는 PDF",
       "createdAt": "2026-11-07T00:40:59.179Z",
       "seq": 4034
+    },
+    {
+      "id": "1e9f369d",
+      "title": "stepping-aside-for-oncoming-pedestrians 보강: 지위 차이 조건 학술 파편, 굴욕감",
+      "priority": 50,
+      "note": "2026-11-07 Dabbs & Stokes 1975 Sociometry 38(4) doi:10.2307/2786367 초록 HTML 못 받음(JSTOR, scilit 막힘). 1979 Journal of Communication 29(4) 'Stepping Aside: Correlates of Displacement in Pedestrians' OUP 봇 확인. Knowles 1973 PMID 4710104 초록 없음. Notes from Underground 600 은 이미 [^1] 이라 굴욕감 대목은 다른 출처 필요. 별도 현상 후보: 대화 중인 두 사람 사이 지나가지 않고 돌아가기, Bouska & Beatty 1978 link.springer.com/article/10.3758/BF03336817",
+      "createdAt": "2026-11-07T03:31:30.518Z",
+      "seq": 4045
+    },
+    {
+      "id": "d55bf45d",
+      "title": "feeding-pigeons 보강: SNS 파편, 외로움 동기",
+      "priority": 50,
+      "note": "2026-11-07 SNS 후보 못 찾음(old.reddit 막힘, 클리앙 공원 글은 과태료 논쟁, damoang 본문 없음). 매체 후보: weekly.khan.co.kr/article/201709041646221 (2017-09) 비둘기에게 과자 주는 여성 '나도 쟤네들처럼 친구들과 어울려 살고 싶네요' 미확인. 이전 후보: Benavente Saturday Night 위키문헌 Tableau_2, straightdope 991045?page=2",
+      "createdAt": "2026-11-07T03:33:18.080Z",
+      "seq": 4047
+    },
+    {
+      "id": "6da314fa",
+      "title": "not-telling-about-falls 관계: 독립 잃을 두려움, refusing-mobility-aids",
+      "priority": 50,
+      "note": "2026-11-07 추가. NL Times 2026-05-25 는 독립을 잃을 두려움을 이유로 든다(원인 후보, 해당 문서 없음. 먼저 '독립 잃을 두려움' 문서를 써야 함). PMC12148220 Dobash 2025 는 나약함과 부끄러움, stigma, fear of losing independence. PMC7741002 Catona 2020 'people who fall end up in nursing homes'. hiding-illness-from-family 와 공통 상위 후보. refusing-mobility-aids 와 공통 원인(늙어 보임, 나약함 낙인) 후보",
+      "createdAt": "2026-11-07T03:36:06.424Z",
+      "seq": 4048
     },
     {
       "id": "d16898d2",
@@ -2579,6 +2507,30 @@
       "note": "PMC12607828 일본 60대 지역 주민 연구 'Honestly speaking, I feel tired after they leave.' after-visit-emptiness 와 대립 후보, wishing-guests-would-leave 의 하위 후보",
       "createdAt": "2026-11-06T18:20:51.399Z",
       "seq": 4009
+    },
+    {
+      "id": "58af9d39",
+      "title": "어색함을 피하려 마지막 남은 음식 먹어 버리기",
+      "priority": 10,
+      "note": "2026-11-07 leaving-the-last-piece 탐사 중. a-ha.io/questions/4f55db6cf46460c0a5c11bd5911bf80d (2024-07-11) '서로안먹는데 그런상황이 저는 항상어색해서 일부러 먹어버려서'. leaving-the-last-piece 와 대립 후보. 같은 플랫폼 a-ha.io/questions/41d517b5fb8740fdbd966c7fc7d34289 (2025-08-15) 는 leaving-the-last-piece 보강 후보. wikitree 730352 (2022-02-08) 연장자는 남기고 젊은이는 안 따른다는 세대 조건",
+      "createdAt": "2026-11-07T03:20:30.284Z",
+      "seq": 4043
+    },
+    {
+      "id": "4885d152",
+      "title": "imaginary-arguments 원인: 자기상",
+      "priority": 10,
+      "note": "2026-11-07 자기상 문서가 없어 보류. samwoolfe 와 다른 출처 필요. replaying-conversations-afterward 와 관계 후보",
+      "createdAt": "2026-11-07T03:21:28.878Z",
+      "seq": 4044
+    },
+    {
+      "id": "ed3d77d5",
+      "title": "대화 중인 두 사람 사이로 지나가지 않고 돌아가기",
+      "priority": 10,
+      "note": "2026-11-07 Bouska & Beatty 1978-04 Bulletin of the Psychonomic Society 11(4) 'dyads with a member dressed as a priest or businessman (higher status ratings) detoured significantly more shoppers' link.springer.com/article/10.3758/BF03336817 VERIFIED 가능(curl UA). Knowles 1973 집단 크기",
+      "createdAt": "2026-11-07T03:31:30.601Z",
+      "seq": 4046
     },
     {
       "id": "02b2f242",
