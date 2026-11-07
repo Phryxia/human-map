@@ -4893,9 +4893,9 @@
   },
   "https://www.cdc.gov/nchs/products/databriefs/db160.htm": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://nds.healthwatch.co.uk/node/1111944": {
     "first": "2026-10-20",
@@ -21271,6 +21271,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://www.healthwatch.co.uk/news/nearly-fifth-confess-knowingly-using-ae-non-emergencies": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://gov.uk/government/publications/means-of-escape-in-residential-buildings-research/means-of-escape-in-residential-buildings": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
