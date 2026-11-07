@@ -75,7 +75,12 @@ function sniffDecode(bytes) {
 async function fetchOnce(url, ua, {timeout, fetchImpl}) {
   try {
     const res = await fetchImpl(url, {redirect: 'follow', signal: AbortSignal.timeout(timeout), headers: {'user-agent': ua, accept: 'text/html,text/plain,*/*'}})
-    if (!res.ok) return {ok: false, reason: `HTTP ${res.status}`}
+    if (!res.ok) {
+      // sgsg.hankyung.com 은 글 경로에 403 과 Cloudflare 봇 확인을 준다(2026-11-07). 4xx 본문이 봇 확인이면 그렇게 본다.
+      const errBody = res.status >= 400 && res.status < 500 && res.text ? await res.text().catch(() => '') : ''
+      if (CHALLENGE_PATTERNS.some(re => re.test(errBody.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
+      return {ok: false, reason: `HTTP ${res.status}`}
+    }
     const ct = res.headers.get('content-type') ?? ''
     const body = res.arrayBuffer ? decodeBody(new Uint8Array(await res.arrayBuffer()), ct) : await res.text()
     if (RATE_LIMIT_PATTERNS.some(re => re.test(body.slice(0, 5000)))) return {ok: false, reason: '요청 제한'}
@@ -162,11 +167,12 @@ export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 200
 }
 
 // 결과를 기록과 줄 표시에 맞춰 판정한다. 돌려주는 값: {exit: 0|1, note}
-export function judge(frag, result, record, {hostBlocked = false, rateLimited = false} = {}) {
+export function judge(frag, result, record, {hostBlocked = false, rateLimited = false, challenged = false} = {}) {
   const wasVerified = !!record?.lastVerified
   if (result === 'VERIFIED') return {exit: 0, note: frag.unverified ? '(미확인) 표시를 뗄 수 있다' : ''}
   if (wasVerified) {
     if (frag.vanished) return {exit: 0, note: `소멸 표시가 있다(${frag.vanished} 까지 확인). 그대로 둔다`}
+    if (result === 'UNREACHABLE' && challenged) return {exit: 0, note: '봇 확인 페이지를 받았다. 소멸로 보지 않는다'}
     if (result === 'UNREACHABLE' && rateLimited) return {exit: 0, note: '요청 제한을 받았다. 소멸로 보지 않는다'}
     if (result === 'UNREACHABLE' && hostBlocked) return {exit: 0, note: '호스트 전체가 막혀 있다(/ 도 열리지 않음). 소멸로 보지 않는다'}
     return {exit: 1, note: `줄 끝을 (소멸, ${record.lastVerified} 까지 확인) 으로 바꾼다`}

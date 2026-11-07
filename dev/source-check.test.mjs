@@ -343,3 +343,20 @@ test('fetchText: PubMed 의 쿠키 확인 페이지는 요청 제한으로 본�
   const page = await fetchText('https://pubmed.ncbi.nlm.nih.gov/40398335/', {fetchImpl, fallbackImpl: fetchImpl, quote: 'stop/go dilemma', challengeDelay: 0})
   assert.equal(page.reason, '요청 제한')
 })
+
+// sgsg.hankyung.com 은 2026-10-23 VERIFIED 였던 article/2024040520191 에 2026-11-07 403 과 Cloudflare "Just a moment..." 를 줬고 홈은 200 이었다.
+test('fetchText: 4xx 로 온 봇 확인 페이지도 봇 확인 페이지로 본다', async () => {
+  const challenge = '<!DOCTYPE html><html><head><title>Just a moment...</title></head><body>x</body></html>'
+  const fetchImpl = async () => ({ok: false, status: 403, headers: new Map([['content-type', 'text/html']]), text: async () => challenge})
+  const page = await fetchText('https://sgsg.hankyung.com/article/2024040520191', {fetchImpl, fallbackImpl: fetchImpl, quote: 'x', challengeDelay: 0})
+  assert.equal(page.ok, false)
+  assert.match(page.reason, /봇 확인/)
+})
+test('judge: VERIFIED 였던 파편이 봇 확인 페이지만 받으면 소멸로 보지 않는다', () => {
+  const rec = {first: '2026-10-15', last: '2026-10-23', result: 'VERIFIED', lastVerified: '2026-10-23'}
+  const f = {unverified: false, vanished: null}
+  const j = judge(f, 'UNREACHABLE', rec, {challenged: true})
+  assert.equal(j.exit, 0)
+  assert.match(j.note, /봇 확인/)
+  assert.equal(judge(f, 'UNREACHABLE', rec, {challenged: false}).exit, 1)
+})

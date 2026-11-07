@@ -62,7 +62,7 @@ for (const {doc, frag} of targets) {
   const result = !page.ok ? 'UNREACHABLE' : quoteIn(page.text, frag.quote) ? 'VERIFIED' : 'NOT_FOUND'
   const rec = records[frag.url]
   const blocked = result === 'UNREACHABLE' && rec?.lastVerified && !frag.vanished ? await hostBlocked(frag.url, page.reason) : false
-  const j = judge(frag, result, rec, {hostBlocked: blocked, rateLimited: result === 'UNREACHABLE' && isRateLimited(page.reason)})
+  const j = judge(frag, result, rec, {hostBlocked: blocked, rateLimited: result === 'UNREACHABLE' && isRateLimited(page.reason), challenged: result === 'UNREACHABLE' && page.reason === '봇 확인 페이지'})
   console.log(`${result} ${doc.id} [^${frag.n}]${page.ok ? '' : ` (${page.reason})`}${j.note ? ' — ' + j.note : ''}`)
   if (j.exit) failed = true
   records[frag.url] = {...rec, first: rec?.first ?? today, last: today, result, lastVerified: result === 'VERIFIED' ? today : rec?.lastVerified}
