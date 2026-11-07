@@ -55,9 +55,9 @@
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987426/full": {
     "first": "2026-10-15",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://www.jjan.kr/article/20180904648824": {
     "first": "2026-10-15",
@@ -4179,9 +4179,9 @@
   },
   "https://letstalk.mindline.sg/t/social-anxiety-or-not/22898": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.975374/full": {
     "first": "2026-10-19",
@@ -21743,6 +21743,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://news.ycombinator.com/item?id=35567153": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:12396253%20AND%20SRC:MED&resultType=core&format=json": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",

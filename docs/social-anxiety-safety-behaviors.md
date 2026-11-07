@@ -1,14 +1,16 @@
 # 사회불안의 안전 행동
 
-별칭: safety behaviors[^1]
+별칭: safety behaviors[^2]
 
 사회적 상황에서 불안한 사람이 남의 눈에 띄거나 부정적으로 보이지 않으려고 눈 맞춤을 피하거나 말수를 줄인다.
 
 # 서술
 
-2022년 연구[^1]의 논문은 다른 사람 앞에서 말을 줄이고 눈 맞춤을 피하는 것을 자주 관찰되는 회피 행동의 예로 든다.
+2002년 Baker 와 Edelmann 의 연구[^1]에서 저자들이 social phobics 라 부른 참가자는 대화 중 말할 때 비임상 참가자보다 눈을 덜 맞췄다.
 
-2025년 게시글[^2]의 댓글 글쓴이는 상대와 눈을 똑바로 마주치지 못하면서도 예의 있게 보이려고 웃으며 좋은 인상을 주려 애썼다고 썼다.
+2022년 연구[^2]의 논문은 다른 사람 앞에서 말을 줄이고 눈 맞춤을 피하는 것을 자주 관찰되는 회피 행동의 예로 든다.
+
+2025년 게시글[^3]의 댓글 글쓴이는 상대와 눈을 똑바로 마주치지 못하면서도 예의 있게 보이려고 웃으며 좋은 인상을 주려 애썼다고 썼다.
 
 # 관계
 
@@ -34,5 +36,6 @@
 
 #관계
 
-[^1]: [학술] "For example, speaking less in the presence of others and avoiding eye contact are frequently observed avoidance behaviors (Clark and Wells, 1995)." (예를 들어 다른 사람 앞에서 말을 적게 하는 것과 눈 맞춤을 피하는 것은 자주 관찰되는 회피 행동이다.) — Dahye Kim, Ha-Yeon Kang, Jung-Kwang Ahn 외, "The relationship between three subtypes of safety behaviors and social anxiety: Serial mediating effects of state and trait post-event processing", Frontiers in Psychology, 2022-11-02, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987426/full, 2026-10-19 접속
-[^2]: [SNS] "Back then, I try my best to smile and look pleasant even if I don’t make direct eye contact—just doing what I can within my comfort zone to stay polite while also protecting my peace." (그때 나는 눈을 똑바로 마주치지 못하더라도 웃으며 좋은 인상을 주려고 애썼다. 내 편한 범위 안에서 예의를 지키면서 마음의 평화도 지키려고 할 수 있는 걸 한 것이다.) — Mindline, 댓글, 2025-05-06, https://letstalk.mindline.sg/t/social-anxiety-or-not/22898, 2026-10-19 접속
+[^1]: [학술] "Social phobics exhibited significantly less eye contact while talking in comparison with the non-clinical participants" (사회공포증 참가자는 비임상 참가자에 비해 말하는 동안 눈 맞춤이 유의하게 적었다.) — S. R. Baker, R. J. Edelmann, "Is social phobia related to lack of social skills? Duration of skill-related behaviours and ratings of behavioural adequacy", British Journal of Clinical Psychology 41(3), 2002-09, https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:12396253%20AND%20SRC:MED&resultType=core&format=json, 2026-11-07 접속
+[^2]: [학술] "For example, speaking less in the presence of others and avoiding eye contact are frequently observed avoidance behaviors (Clark and Wells, 1995)." (예를 들어 다른 사람 앞에서 말을 적게 하는 것과 눈 맞춤을 피하는 것은 자주 관찰되는 회피 행동이다.) — Dahye Kim, Ha-Yeon Kang, Jung-Kwang Ahn 외, "The relationship between three subtypes of safety behaviors and social anxiety: Serial mediating effects of state and trait post-event processing", Frontiers in Psychology, 2022-11-02, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987426/full, 2026-10-19 접속
+[^3]: [SNS] "Back then, I try my best to smile and look pleasant even if I don’t make direct eye contact—just doing what I can within my comfort zone to stay polite while also protecting my peace." (그때 나는 눈을 똑바로 마주치지 못하더라도 웃으며 좋은 인상을 주려고 애썼다. 내 편한 범위 안에서 예의를 지키면서 마음의 평화도 지키려고 할 수 있는 걸 한 것이다.) — Mindline, 댓글, 2025-05-06, https://letstalk.mindline.sg/t/social-anxiety-or-not/22898, 2026-10-19 접속
