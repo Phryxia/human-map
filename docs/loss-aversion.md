@@ -12,7 +12,7 @@ Tversky 와 Kahneman 은 1991년 논문에서 손실과 불리함이 이득과 �
 
 2020년 기획재정부 시사경제용어사전은 같은 크기의 이익과 손실에서 이익의 기쁨보다 손실의 고통을 더 크게 느끼는 심리를 손실 회피 성향이라 적는다.[^3]
 
-2024년 한 경제 교육 기사는 주식 투자자가 큰 수익이 날 종목을 발견해도 손해가 큰 종목을 팔지 않고 주가가 회복되기를 기다리는 모습을 이 성향의 사례로 든다.[^4] 2026년 4월 회복 지원 사이트의 글[^5]은 도박에서 잃은 돈을 쫓는 행동이 자연스럽게 느껴지는 까닭을 손실을 피하려는 뇌의 성향에서 찾았다.
+2024년 1월 은퇴 연구 블로그 글[^4]은 사람들이 공적연금을 일찍 신청하는 또 하나의 중요한 이유로 손실을 싫어하는 성향을 들었다. 2024년 4월 한 경제 교육 기사는 주식 투자자가 큰 수익이 날 종목을 발견해도 손해가 큰 종목을 팔지 않고 주가가 회복되기를 기다리는 모습을 이 성향의 사례로 든다.[^5] 2026년 4월 회복 지원 사이트의 글[^6]은 도박에서 잃은 돈을 쫓는 행동이 자연스럽게 느껴지는 까닭을 손실을 피하려는 뇌의 성향에서 찾았다.
 
 # 관계
 
@@ -30,7 +30,8 @@ Tversky 와 Kahneman 은 1991년 논문에서 손실과 불리함이 이득과 �
 
 ## 결과
 
-- [손실 추격](loss-chasing.md)[^5]
+- [연금 조기 수령](early-pension-claiming.md)[^4]
+- [손실 추격](loss-chasing.md)[^6]
 
 ## 대립
 
@@ -41,5 +42,6 @@ Tversky 와 Kahneman 은 1991년 논문에서 손실과 불리함이 이득과 �
 [^1]: [학술] "The central assumption of the theory is that losses and disadvantages have greater impact on preferences than gains and advantages." (이론의 중심 가정은 손실과 불리함이 이득과 유리함보다 선호에 더 큰 영향을 준다는 것이다.) — Amos Tversky, Daniel Kahneman, "Loss Aversion in Riskless Choice: A Reference-Dependent Model", The Quarterly Journal of Economics 106(4), 1991, https://ideas.repec.org/a/oup/qjecon/v106y1991i4p1039-1061..html, 2026-10-15 접속
 [^2]: [학술] "Emotional attachment alters loss aversion by moderating the degree to which parting with an item involves a loss" (정서적 애착은 물건을 내놓는 일이 손실이 되는 정도를 조절해 손실 회피를 바꾼다) — Dan Ariely, Joel Huber, Klaus Wertenbroch, "When do losses loom larger than gains?", Journal of Marketing Research 42(2), 2005-01, https://scholars.duke.edu/publication/777634, 2026-10-15 접속
 [^3]: [공공] "같은 크기의 이익과 손실이라고 해도 이익에서 얻는 기쁨보다 손실에서 얻는 고통을 더 크게 느끼는 사람들의 심리를 정리한 행동경제학의 용어이다." — 기획재정부, 시사경제용어사전 '손실 회피 성향', 2020-11-03, https://mofe.go.kr/sisa/dictionary/detail?idx=1522, 2026-10-15 접속
-[^4]: [매체] "눈앞에 큰 수익을 낼 수 있는 종목을 발견하더라도 손해가 큰 종목을 빠르게 ‘손절’하고 재투자에 나서기보다 무작정 기다리며 주가가 회복되기를 바라는 것이지요." — 황정환, 한경 생글생글, 2024-04-08, https://sgsg.hankyung.com/article/2024040520191, 2026-10-15 접속
-[^5]: [매체] "Chasing losses feels like the most natural thing in the world because your brain is wired to avoid loss at almost any cost." (손실 추격이 세상에서 가장 자연스러운 일처럼 느껴지는 것은 뇌가 거의 어떤 대가를 치르더라도 손실을 피하도록 짜여 있기 때문이다.) — Austin Taylor, 「Chasing Losses: What It Is」, Cope Compass, 2026-04-08, https://copecompass.com/articles/chasing-losses-gambling/, 2026-10-23 접속
+[^4]: [매체] "Another important reason people sign up sooner is the natural human aversion to losing, which this survey gauged by asking the participants to choose what type of gamble they would be willing to take." (사람들이 더 일찍 신청하는 또 하나의 중요한 이유는 사람이 타고난 손실 혐오인데, 이 조사는 참가자에게 어떤 종류의 내기를 하겠느냐고 골라 보게 해서 이를 쟀다.) — Kimberly Blanton, "The Psychology Behind Starting Social Security at 62", Squared Away Blog, Center for Retirement Research at Boston College, 2024-01-25, https://crr.bc.edu/the-psychology-behind-starting-social-security-at-62/, 2026-11-07 접속
+[^5]: [매체] "눈앞에 큰 수익을 낼 수 있는 종목을 발견하더라도 손해가 큰 종목을 빠르게 ‘손절’하고 재투자에 나서기보다 무작정 기다리며 주가가 회복되기를 바라는 것이지요." — 황정환, 한경 생글생글, 2024-04-08, https://sgsg.hankyung.com/article/2024040520191, 2026-10-15 접속
+[^6]: [매체] "Chasing losses feels like the most natural thing in the world because your brain is wired to avoid loss at almost any cost." (손실 추격이 세상에서 가장 자연스러운 일처럼 느껴지는 것은 뇌가 거의 어떤 대가를 치르더라도 손실을 피하도록 짜여 있기 때문이다.) — Austin Taylor, 「Chasing Losses: What It Is」, Cope Compass, 2026-04-08, https://copecompass.com/articles/chasing-losses-gambling/, 2026-10-23 접속
