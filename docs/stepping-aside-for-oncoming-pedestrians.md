@@ -14,6 +14,8 @@
 
 2019년 블로그 글[^4]의 필자는 여성들이 길에서 걷는 사람들을 위해 자기가 비켜야 한다고 자주 불평한다고 적었다.
 
+2021년 Rapos 등의 실험[^5]에서 노인과 젊은 성인이 마주 걸어 부딪힐 듯하면 누가 먼저 지나가든 젊은 성인이 피하는 움직임을 더 많이 맡았다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [SNS] "My husband, who was walking in front of me, got off the sidewalk so as to avoid walking into one of the girls (about 8-10 years old)." (앞서 걷던 남편은 8\~10살쯤 된 여자아이 하나와 부딪히지 않으려고 인도에서 내려섰다.) — Straight Dope Message Board 댓글, 2006-04-13, https://boards.straightdope.com/t/get-outta-my-goddamned-way/352541, 2026-11-06 접속
 [^3]: [매체] "But crucially, neither personality traits, gender, age, height or weight were related to what kind of collision avoidance strategy the participants tended to use." (그런데 결정적으로 성격 특성, 성별, 나이, 키, 몸무게 가운데 어느 것도 참가자들이 즐겨 쓰는 충돌 회피 전략의 종류와 관계가 없었다.) — Christian Jarrett, "There are three kinds of pedestrian – which are you?", BPS Research Digest, 2016-06-24, https://bps.org.uk/research-digest/there-are-three-kinds-pedestrian-which-are-you, 2026-11-06 접속
 [^4]: [매체] "Women often complain about how they have to move out of the way for people walking on the street." (여성들은 길을 걷는 사람들을 위해 자기가 비켜 줘야 한다고 자주 불평한다.) — Sage Krishnamurthy McEneany, "Are women, people of color, and kids more likely to get bumped when walking on the street? (Guest post)", Fit Is a Feminist Issue, 2019-08-28, https://fitisafeministissue.com/2019/08/28/are-women-people-of-color-and-kids-more-likely-to-get-bumped-when-walking-on-the-street-guest-post/, 2026-11-06 접속
+[^5]: [학술] "Whenever an older adult was on a collision course with a young adult, the young adult contributed more to the avoidance regardless of passing order." (노인이 젊은 성인과 충돌 경로에 있을 때마다 지나가는 순서와 상관없이 젊은 성인이 회피에 더 많이 기여했다.) — Victoria Rapos, Michael Eric Cinelli, Robyn Grunberg, Sheryl Bourgaize, Armel Crétual, Anne-Hélène Olivier, "Collision avoidance behaviours between older adult and young adult walkers", Gait & Posture 88, 2021, https://hal.science/hal-03368055v1, 2026-11-07 접속
