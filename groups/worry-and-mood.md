@@ -28,6 +28,7 @@
     - [잠자리 미루기](../docs/bedtime-procrastination.md)
     - [장기기증 등록 미루기](../docs/delaying-organ-donor-registration.md)
     - [재난 대비 미루기](../docs/not-preparing-for-disasters.md)
+      - [재해보험 들지 않기](../docs/not-buying-disaster-insurance.md)
   - [시름을 술로 달래기](../docs/drinking-to-cope.md)
 - [꼼지락거리기](../docs/fidgeting.md) 초조하거나 주의가 흐트러진 사람이 무심코 다리를 떨거나 손가락으로 무언가를 두드리며 몸을 가만히 두지 못한다.
 - [나쁜 소식 확인 미루기](../docs/delaying-bad-news.md) 나쁜 소식일 수 있는 정보를 확인할 시점이 다가오면 그 확인을 늦추거나 피하는 행동이다.

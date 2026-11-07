@@ -24,7 +24,7 @@
 
 ## 하위
 
-없음.
+- [재해보험 들지 않기](not-buying-disaster-insurance.md)
 
 ## 원인
 
