@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [독립을 잃을 두려움](fear-of-losing-independence.md)[^7]
 
 ## 결과
 
