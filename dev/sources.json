@@ -4035,9 +4035,9 @@
   },
   "https://kormedi.com/1408584/": {
     "first": "2026-10-19",
-    "last": "2026-11-04",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-07"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11332216/": {
     "first": "2026-10-19",
@@ -18745,9 +18745,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35816566&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-07"
   },
   "https://news.yahoo.com/dog-owners-confess-why-dont-080000476.html": {
     "first": "2026-11-04",
@@ -21755,6 +21755,18 @@
     "lastVerified": "2026-11-07"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1799019%20AND%20SRC:MED&resultType=core&format=json": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://boards.straightdope.com/t/last-night-after-supper-my-phone-rang/597489": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://news.ycombinator.com/item?id=22103640": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
