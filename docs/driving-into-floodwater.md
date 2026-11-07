@@ -14,6 +14,8 @@
 
 2022년 5월 글[^7]의 면접에서 침수 도로로 들어간 이유의 다수는 직장, 학교, 가족이나 반려동물이 있는 집에 가야 한다는 압박감이었다. 2022년 8월 신문 기자의 체험기[^8]에서 글쓴이는 물에 잠긴 길을 다른 차가 지나가고 앞차가 움직이자 자신도 가속 페달을 밟았다.
 
+2025년 12월 호주 번다버그 지역 의회의 안내문[^9]은 연구를 들어 많은 운전자가 물을 건너 본 적이 없는데도 자기 차가 물을 건너는 능력을 높게 본다고 적는다.
+
 # 관계
 
 ## 상위
@@ -46,3 +48,4 @@
 [^6]: [매체] "The top reason: A previous car had crossed without problems." (가장 큰 이유는 앞차가 문제없이 건넜다는 것이었다.) — Kristin Baird Rattini, "Why Motorists Risk Driving on Flooded Roads", TCU Magazine, 2019, https://magazine.tcu.edu/?p=9882, 2026-10-22 접속
 [^7]: [매체] "We learned many of the reasons people chose to drive into floodwaters were based on feeling pressure. Pressure to get to work, school, or home to family or pets." (사람들이 침수 도로로 차를 몰기로 한 이유의 다수가 압박감에 근거했다는 것을 알게 되었다. 직장, 학교, 또는 가족이나 반려동물이 있는 집에 가야 한다는 압박이다.) — Amy Peden, Andrew Gissing, Kyra Hamilton, "When roads become rivers: forming a Plan B can stop people driving into floodwaters", UNSW Newsroom, 2022-05-18, https://www.unsw.edu.au/newsroom/news/2022/05/when-roads-become-rivers--forming-a-plan-b-can-stop-people-drivi, 2026-10-21 접속
 [^8]: [매체] "바퀴가 3분의 2는 잠긴 채였지만 밀리거나 시동이 꺼지지 않고 지나갔다. 그러자 앞 차가 움직였다. 나도 엑셀을 밟았다." — 김희원, 「“이건 재난이었다”… 경기도민 기자가 겪은 공포의 퇴근길」, 세계일보, 2022-08-09, https://www.segye.com/newsView/20220809518711, 2026-10-22 접속
+[^9]: [공공] "Research suggests that many drivers overestimate their car’s ability to drive through water, even if they’ve never tried." (연구에 따르면 많은 운전자가 해 본 적이 없는데도 자기 차가 물을 건너는 능력을 과대평가한다.) — Bundaberg Regional Council, "Don’t risk driving in floodwaters", Bundaberg Now, 2025-12-31, https://www.brcnow.bundaberg.qld.gov.au/2025/12/31/dont-risk-driving-in-floodwaters/, 2026-11-07 접속
