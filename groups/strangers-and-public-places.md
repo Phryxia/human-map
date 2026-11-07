@@ -24,6 +24,7 @@
 - [아는 사람을 마주치고 못 본 척하기](../docs/pretending-not-to-see-acquaintance.md) 밖에서 아는 사람을 발견한 사람이 인사를 나누지 않으려고 못 본 척하거나 고개를 숙인다.
 - [에스컬레이터 한 줄 서기](../docs/escalator-one-line-standing.md) 에스컬레이터를 탄 사람이 한쪽에 서서 다른 쪽을 걸어 올라가는 사람에게 비워 둔다.
 - [엘리베이터 안의 침묵](../docs/elevator-silence.md) 엘리베이터에 낯선 사람과 함께 탄 사람이 말을 멈추고 신발, 문, 층수 표시기를 바라본다.
+- [옆 빈자리에 가방 두기](../docs/blocking-adjacent-seat-with-bag.md) 버스나 기차에 탄 승객이 옆 빈자리에 가방이나 짐을 올려 두어 다른 사람이 옆에 앉지 못하게 한다.
 - [옆 사람 통화에 신경 쓰이기](../docs/overheard-phone-calls.md) 공공장소에 있는 사람이 옆 사람의 휴대전화 통화를 듣게 되면 그 소리에 주의가 쏠려 거슬려한다.
 - [예약 부도](../docs/reservation-no-show.md) 가게에 예약한 손님이 취소 연락 없이 예약한 때에 나타나지 않는다.
 - [유실물 찾아가지 않기](../docs/leaving-lost-items-unclaimed.md) 대중교통에 옷이나 우산 같은 값싼 물건을 두고 내린 사람이 그 물건을 찾으러 가지 않는다.
