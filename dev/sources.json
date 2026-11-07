@@ -2596,21 +2596,21 @@
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234097": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=70109&docId=491664420": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=50803&docId=491857604": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.gutenberg.org/cache/epub/768/pg768-images.html": {
     "first": "2026-10-18",
@@ -2697,21 +2697,21 @@
   },
   "https://twainquotes.com/18630101bt.html": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2980864%20AND%20SRC:MED&resultType=core&format=xml": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.khan.co.kr/article/200802050856362": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02603/full": {
     "first": "2026-10-18",
@@ -2853,9 +2853,9 @@
   },
   "https://www.pepysdiary.com/diary/1662/02/17/": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://yalealumnimagazine.org/blog_posts/1295-me-and-my-e-mail-apr-1994": {
     "first": "2026-10-18",
@@ -21773,6 +21773,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://boards.straightdope.com/t/whats-been-stuck-in-your-head/44450/17": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.aozora.gr.jp/cards/001669/files/54481_49241.html": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
