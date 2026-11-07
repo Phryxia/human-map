@@ -216,6 +216,7 @@
 - [문 열고 냉방 영업](docs/open-door-air-conditioning.md) ([일터와 일자리](groups/work.md))
 - [문과 전기 기구 다시 확인하기](docs/rechecking-door-and-stove.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [물건 못 버리기](docs/difficulty-discarding.md) ([돈과 소비](groups/money.md))
+- [물건 잃어버릴까 하는 불안](docs/fear-of-losing-things.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [물건에 이름 붙이고 사람처럼 대하기](docs/treating-objects-as-companions.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [물려받을 재산 기대하기](docs/counting-on-inheritance.md) ([돈과 소비](groups/money.md))
 - [물티슈 변기에 버리기](docs/flushing-wet-wipes.md) ([시민 참여와 공공의 일](groups/civic-life.md))

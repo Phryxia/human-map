@@ -24,7 +24,7 @@
 
 ## 원인
 
-없음.
+- [물건 잃어버릴까 하는 불안](fear-of-losing-things.md)[^6]
 
 ## 결과
 
@@ -41,3 +41,4 @@
 [^3]: [매체] "At frequent intervals throughout the day, you pat your pockets to make sure everything’s there." (하루 동안 자주 주머니를 두드려 모든 것이 있는지 확인한다.) — Lawrence Henry, "Secrets of Manhood", The American Spectator, 2004-02-20, https://spectator.org/50512_secrets-manhood/, 2026-11-05 접속
 [^4]: [매체] "When I leave my flat, I usually check to ensure I have my phone, wallet, and keys. They each have a specific spot in my pockets so I can feel the pockets to make sure they're there." (집을 나설 때 나는 대개 휴대폰, 지갑, 열쇠를 챙겼는지 확인한다. 셋은 주머니마다 정해진 자리가 있어서 주머니를 더듬어 있는지 확인할 수 있다.) — Sumana Harihareswara, "Patdown", Cogito, Ergo Sumana, 2012-03-18, https://www.harihareswara.net/sumana/2012/03/18/1, 2026-11-05 접속
 [^5]: [SNS] "A pocket-patting habit does it for me. When I know I've my car keys and phone I can go anywhere and do anything." (나는 주머니를 두드리는 습관으로 해결한다. 차 열쇠와 휴대폰이 있는 걸 알면 어디든 가고 뭐든 할 수 있다.) — MacRumors 포럼, 댓글, 2022-11-19, https://forums.macrumors.com/threads/are-there-things-that-can-prevent-me-from-leaving-the-house-and-forgetting-to-take-my-iphone.2370894/, 2026-11-05 접속
+[^6]: [매체] "The idea of losing things starts to cause distress and you may engage in compulsions in order to feel certain about where important things are." (물건을 잃는다는 생각이 괴로움을 일으키기 시작하고, 중요한 물건이 어디 있는지 확신하려고 강박 행동을 할 수 있다.) — Justin Trout, "I'm always afraid of losing things – What can I do?", NOCD, 2023-11-13, https://www.treatmyocd.com/what-is-ocd/common-fears/fear-of-losing-things-ocd, 2026-11-07 접속
