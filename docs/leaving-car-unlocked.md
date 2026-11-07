@@ -16,6 +16,8 @@
 
 2022년 아일랜드 농장 범죄 연구[^6]에서 한 농민은 트랙터가 낡아 훔칠 값이 없으므로 열쇠를 꽂아 둔다고 말했다.
 
+2024년 11월 캐나다 윈저의 라디오 뉴스 기사[^7]에 실린 경찰관은 열쇠를 꽂아 두고 시동을 켠 채 차를 두는 사람들이 그 일이 자기에게는 일어나지 않으리라 생각한다고 말했다.
+
 # 관계
 
 ## 상위
@@ -28,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [낙관 편향](unrealistic-optimism.md)[^7]
 
 ## 결과
 
@@ -46,3 +48,4 @@
 [^4]: [매체] "이 중 대부분이 차량 문을 잠그지 않고 주차했거나, 운전자가 잠시 자리를 비운 사이에 발생한 것으로 분석됐다." — 심상선, "대구 차량털이 주의보", 경북매일, 2020-06-11, https://kbmaeil.com/article/202006110280812, 2026-11-06 접속
 [^5]: [공공] "A total of 56 vehicles were stolen while left running at places such as gas stations, laundry mats and residences." (주유소, 빨래방, 주택 같은 곳에 시동이 켜진 채 놓여 있던 차량 모두 56대가 도난당했다.) — Mobile Police Department, "496 auto thefts in the city, over half were crime of opportunity", 2020-09-25, https://mobilepd.org/496-auto-thefts-in-the-city-over-half-were-crime-of-opportunity-1, 2026-11-06 접속
 [^6]: [학술] "I wouldn’t take out the tractor keys because it is old, if it was newer I probably would, but my tractor is not worth stealing." (트랙터가 낡아서 열쇠를 빼 두지 않을 거예요. 더 새것이라면 아마 빼겠지만 제 트랙터는 훔칠 가치가 없어요.) — M. O’Brien, J. Windle, "The victimisation of farms in Ireland: fear of crime, social isolation and crime prevention", Crime Prevention and Community Safety 24(3), 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC9206133/, 2026-11-06 접속
+[^7]: [매체] "Just thinking, maybe it won't happen to me type of thing. I can happen to anyone, especially if you're being, frankly, irresponsible by leaving your keys in the ignition and leaving your car running." (그저 나한테는 일어나지 않겠지 하는 식으로 생각하는 거죠. 누구에게나 일어날 수 있어요. 특히 솔직히 말해 열쇠를 꽂아 두고 시동을 켠 채 차를 두는 무책임한 행동을 한다면요.) — "Over a dozen vehicles stolen in Windsor, half with the keys left inside", AM800 CKLW, 2024-11-28, https://www.am800cklw.com/news/over-a-dozen-vehicles-stolen-in-windsor-half-with-the-keys-left-inside.html, 2026-11-07 접속
