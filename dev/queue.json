@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-06T21:37:43.974Z",
-  "nextSeq": 4021,
-  "stops": 204,
+  "savedAt": "2026-11-07T00:41:36.549Z",
+  "nextSeq": 4035,
+  "stops": 205,
   "items": [
     {
       "id": "d074ee30",
@@ -83,6 +83,62 @@
       "note": "2026-11-06 클리앙 2020-05-21 SNS 파편 더함. 클리앙 park/19171236 (2026-04-01) 사설 구급차 불신으로 비켜 주기 싫다는 댓글은 조건 후보",
       "createdAt": "2026-11-06T21:37:33.952Z",
       "seq": 4020
+    },
+    {
+      "id": "3aba513c",
+      "title": "not-telling-about-falls 관계: 독립 잃을 두려움, refusing-mobility-aids",
+      "priority": 50,
+      "note": "2026-11-07 추가. NL Times 2026-05-25 는 독립을 잃을 두려움을 이유로 든다(원인 후보, 해당 문서 없음). PMC12148220 Dobash 2025 는 나약함과 부끄러움, stigma, fear of losing independence. PMC7741002 Catona 2020 'people who fall end up in nursing homes'. hiding-illness-from-family 와 공통 상위 후보",
+      "createdAt": "2026-11-07T00:12:46.814Z",
+      "seq": 4028
+    },
+    {
+      "id": "4a1390b1",
+      "title": "early-pension-claiming 관계: loss-aversion",
+      "priority": 50,
+      "note": "2026-11-07 추가. Duke Fuqua Insights 2024-07-25 'The more loss-averse people are, the researchers found, the earlier they claim.' 는 상관이라 원인 간선 근거로 약함. 원인 간선은 'because' 꼴 파편 필요. Hurd 2002 주관적 생존 확률. crr.bc.edu 2024-01-25 'fear of loss'",
+      "createdAt": "2026-11-07T00:19:21.773Z",
+      "seq": 4029
+    },
+    {
+      "id": "e06e9a56",
+      "title": "delaying-help-for-heart-symptoms 보강: 공공, SNS 파편과 시기",
+      "priority": 50,
+      "note": "2026-11-07 추가. 후보: Hadid 2020 PMC7242810 가족 책임 때문에 입원 미룸(요르단), 뉴시스 2026-07-08 NISX20260708_0003700010 뇌졸중 자가용 이용 환자 도착 7.9→9.8시간, 뉴시스 2024-03-12 급성 심근경색 119 이송 45.3%, kihasa 보건사회연구 43(4) 119 이용 21.7%(문장 207자). 공공 NHS/CDC 페이지는 막힘. medical-care-avoidance 와 관계 후보",
+      "createdAt": "2026-11-07T00:26:06.324Z",
+      "seq": 4030
+    },
+    {
+      "id": "04acaf08",
+      "title": "not-buying-disaster-insurance 보강: SNS 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-11-07 추가. GAO-27-108012 의 'consumers may believe that a property will not flood if it has not flooded previously' 와 '100-year flood' 대목, 'premium increases ... led some policyholders to drop coverage' 는 같은 출처라 못 씀. issues.org/kunreuther 대안 'If residents of hazard-prone areas expect more federal relief ... less economic incentive ... purchase insurance' 는 원인 간선 후보(정부 지원 기대 문서 없음). 뉴시스 2026-07-08 NISX20260707_0003699551 보험료 부담. unrealistic-optimism 원인 후보",
+      "createdAt": "2026-11-07T00:29:24.802Z",
+      "seq": 4031
+    },
+    {
+      "id": "b8218fe3",
+      "title": "complying-with-impersonation-calls 보강: 가족에게 알리지 않음",
+      "priority": 50,
+      "note": "2026-11-07 후보: SBS 2026-07-22 v.daum.net/v/20260722072701198 'A 씨는 부모님이 걱정할 것을 우려해 주변에 알릴 생각을 하지 못했다고 합니다.', 중앙일보 2025-09-22 v.daum.net/v/20250922182646423 '덜컥 겁이 난 A씨는 이를 따랐다.' 셀프감금. hiding-illness-from-family 처럼 걱정 끼치지 않기와 관계 후보",
+      "createdAt": "2026-11-07T00:33:16.012Z",
+      "seq": 4032
+    },
+    {
+      "id": "51dc7df0",
+      "title": "heating-inside-tents 보강: 한국어 SNS, 공공 실태 조사",
+      "priority": 50,
+      "note": "2026-11-07 추가. Hunt Talk 같은 스레드 다른 댓글 'We ran one all night this last season for the two coldest nights.' 는 같은 URL. kormedi 같은 기사 '환기를 한다고 해도 사고위험을 완전히 없앨 수는 없다.' 소비자원 원 보도자료와 소방청 실태 조사 미확인. 클리앙, 뽐뿌 글 미발견",
+      "createdAt": "2026-11-07T00:37:08.367Z",
+      "seq": 4033
+    },
+    {
+      "id": "f14d8ada",
+      "title": "replacing-instead-of-repairing 보강: 공공, 학술 파편과 2010년 이전 시기",
+      "priority": 50,
+      "note": "2026-11-07 추가. 후보: European Commission Sustainable consumption 페이지(발행일 없음) 'repair decisions are easily disrupted if arranging repair requires effort.', RTE Brainstorm 2024-04-24 Delemere, 클리앙 kin/16369488 2021 수리 뒤 재고장으로 새로 삼. FTC Nixing the Fix 는 PDF",
+      "createdAt": "2026-11-07T00:40:59.179Z",
+      "seq": 4034
     },
     {
       "id": "d16898d2",
