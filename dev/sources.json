@@ -3993,9 +3993,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%82%98%EC%9D%98_%EC%96%B4%EB%A8%B8%EB%8B%88": {
     "first": "2026-10-19",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://www.imaeil.com/page/view/2011090814430699188": {
     "first": "2026-10-19",
@@ -4269,15 +4269,15 @@
   },
   "https://gonggam.korea.kr/newsContentView.es?mid=a10224000000&section_id=NCCD_SPECIAL&content=NC002&news_id=EBC6D40145A84203E0540021F662AC5F": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.gqkorea.co.kr/?p=272660": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-07"
   },
   "https://www.ajunews.com/view/20190912124859031": {
     "first": "2026-10-19",
@@ -20600,9 +20600,9 @@
   },
   "https://www.newdaily.co.kr/site/data/html/2019/09/13/2019091300015.html": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-07"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15900930&rettype=abstract&retmode=text": {
     "first": "2026-11-06",
@@ -21289,6 +21289,18 @@
     "lastVerified": "2026-11-07"
   },
   "https://www.priv.gc.ca/en/blog/20080404": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://brunch.co.kr/@findingyuna/32": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.khan.co.kr/article/201109111058571": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
