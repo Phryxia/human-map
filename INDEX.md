@@ -359,6 +359,7 @@
 - [실패 사실 숨기기](docs/concealing-failure.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [실패에 대한 두려움](docs/fear-of-failure.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [심리적 계약 위반 지각](docs/psychological-contract-breach.md) ([일터와 일자리](groups/work.md))
+- [심장 증상에도 도움 청하기 미루기](docs/delaying-help-for-heart-symptoms.md) ([건강과 위험](groups/health-and-safety.md))
 - [써 놓고 내보내지 않기](docs/writing-without-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [쓰지 않는 구독 유지](docs/unused-subscription.md) ([돈과 소비](groups/money.md))
 - [아는 사람 이름 잊기](docs/forgetting-acquaintances-names.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
