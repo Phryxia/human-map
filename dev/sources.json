@@ -5264,9 +5264,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1513/pg1513-images.html": {
     "first": "2026-10-20",
-    "last": "2026-11-02",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-07"
   },
   "https://ko.wikisource.org/wiki/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83_(%EC%8B%9C%EC%A7%91)/%EA%B0%80%EB%8A%94_%EA%B8%B8": {
     "first": "2026-10-20",
@@ -13117,9 +13117,9 @@
   },
   "https://www.jstage.jst.go.jp/article/jsaislud/100/0/100_137/_article/-char/ja": {
     "first": "2026-10-29",
-    "last": "2026-11-02",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-07"
   },
   "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1255880/full": {
     "first": "2026-10-29",
@@ -17450,9 +17450,9 @@
   },
   "https://www.upworthy.com/leaving-and-waving-parents-27-years-photo-series-ex1/": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-07"
   },
   "https://lady.khan.co.kr/finance/article/12481": {
     "first": "2026-11-02",
@@ -21493,6 +21493,18 @@
     "lastVerified": "2026-11-07"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.800039/full": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148677149": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://lemmy.uninsane.org/comment/477453": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
