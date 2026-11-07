@@ -14,6 +14,8 @@
 
 2020년 미국 연구[^5]에서 사는 곳의 공기가 나쁘다고 생각하거나 그런 말을 듣고 행동을 바꾼 응답자는 14.7%였다.
 
+2026년 10월 McGill 대학 보도자료[^6]가 전한 연구에서 몬트리올에 산불 연기 대기질 경보가 내려진 27일 동안 보건 공지가 가장 직접 말린 여가 달리기는 통계적으로 유의한 변화를 보이지 않았다.
+
 # 관계
 
 ## 상위
@@ -43,3 +45,4 @@
 [^3]: [매체] "온라인 커뮤니티와 SNS 등에는 '마스크 썼다가 답답하기만 하고 효과를 못 봤다', '사실상 방독면 쓰지 않는 이상 막기 힘들다'는 글이 게재되고 있다." — 연합뉴스, 「미세먼지 마스크 효용성 두고 '갑론을박'」, 매일신문, 2019-01-17, https://www.imaeil.com/page/view/2019011715554741753, 2026-11-01 접속
 [^4]: [매체] "보건당국은 미세먼지 농도가 나쁨 이상인 날 외출할 땐 황사나 미세먼지 차단 기능을 인정받은 의약외품 보건용 황사마스크 착용을 권고하고 있지만, 정작 이를 실천한 사람은 설문 전체 인원 중 48.7%로 절반에도 못 미치는 것으로 조사됐다." — 장유미, 「'미세먼지 공습' 속 올바른 황사 마스크 착용법은?」, 아이뉴스24, 2019-03-06, https://www.inews24.com/view/1162091, 2026-11-01 접속
 [^5]: [학술] "14.7% changed their behavior because they thought or were informed that air quality where they live was bad" (14.7%가 사는 곳의 대기질이 나쁘다고 생각했거나 그렇게 들어서 행동을 바꾸었다) — Maria C. Mirabelli, Stefanie Ebelt, Scott A. Damon, "Air Quality Index and air quality awareness among adults in the United States", Environmental Research 183, 2020-01-25, https://pmc.ncbi.nlm.nih.gov/articles/PMC7182097/, 2026-11-01 접속
+[^6]: [매체] "Recreational running - the activity that health bulletins caution against most directly - showed no statistically significant change at all, the researchers said." (보건 공지가 가장 직접 경고하는 활동인 여가 달리기는 통계적으로 유의한 변화를 전혀 보이지 않았다고 연구진은 말했다.) — McGill University, "Study finds air quality warnings had only a modest impact on Montrealers' movements", Education News Canada, 2026-10-23, https://educationnewscanada.com/article/education/level/university/1/1224418/study-finds-air-quality-warnings-had-only-a-modest-impact-on-montrealers-movements.html, 2026-11-07 접속
