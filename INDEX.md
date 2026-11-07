@@ -106,7 +106,7 @@
 - [남 앞에서 눈물 감추기](docs/hiding-tears.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남 이야기하기](docs/gossip.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남 탓하기](docs/blaming-others.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
-- [남몰래 울기](docs/crying-in-secret.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [남몰래 울기](docs/crying-in-secret.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남은 날 세기](docs/counting-down-the-days.md) ([시간과 하루 습관](groups/daily-time.md))
 - [남은 약 다시 먹기](docs/reusing-leftover-medicine.md) ([건강과 위험](groups/health-and-safety.md))
 - [남은 약 버리지 않고 두기](docs/keeping-leftover-medicines.md) ([돈과 소비](groups/money.md))
