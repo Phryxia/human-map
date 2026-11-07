@@ -6398,15 +6398,15 @@
   },
   "https://www.psychologytoday.com/au/basics/sensation-seeking": {
     "first": "2026-10-21",
-    "last": "2026-10-22",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-07"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1058927/full": {
     "first": "2026-10-21",
-    "last": "2026-10-22",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-07"
   },
   "https://ag.ny.gov/press-release/2021/attorney-general-james-issues-warning-about-scam-targeting-grandparents-during": {
     "first": "2026-10-21",
@@ -6428,9 +6428,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8436974/": {
     "first": "2026-10-21",
-    "last": "2026-10-22",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-07"
   },
   "https://dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam": {
     "first": "2026-10-21",
@@ -7394,9 +7394,9 @@
   },
   "https://boards.straightdope.com/t/train-surfing-it-s-a-thing-2-sf-ca-teens-died-in-the-last-2-weeks-warning-graphic-photo/997590?page=4": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-07"
   },
   "https://www.nber.org/papers/w9004": {
     "first": "2026-10-22",
@@ -16352,27 +16352,27 @@
   },
   "https://m.seoul.co.kr/news/plan/2006/08/01/20060801013004": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://forums.iboats.com/threads/help-im-drowning-what-would-you-do-true-story.503398": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://pubmed.ncbi.nlm.nih.gov/36331939/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-07",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://eiec.kdi.re.kr/policy/materialView.do?num=284696": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://postandparcel.info/17057/news/uk-homes-receive-15-billion-items-of-junk-mail-a-year/": {
     "first": "2026-11-01",
@@ -16466,9 +16466,9 @@
   },
   "https://m.go.seoul.co.kr/news/2017/07/16/20170716500043": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-07",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-07"
   },
   "https://www.irishtimes.com/news/eight-in-10-bin-personal-information-study-shows-1.892068": {
     "first": "2026-11-01",
@@ -21517,6 +21517,12 @@
     "lastVerified": "2026-11-07"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7168865/": {
+    "first": "2026-11-07",
+    "last": "2026-11-07",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-07"
+  },
+  "https://v.daum.net/v/20250812194651553": {
     "first": "2026-11-07",
     "last": "2026-11-07",
     "result": "VERIFIED",
