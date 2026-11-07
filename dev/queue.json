@@ -1,161 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-07T12:35:04.655Z",
-  "nextSeq": 4068,
-  "stops": 209,
+  "savedAt": "2026-11-07T15:30:34.422Z",
+  "nextSeq": 4102,
+  "stops": 210,
   "items": [
-    {
-      "id": "2db43fd5",
-      "title": "delaying-help-for-heart-symptoms 보강: 공공, SNS 파편과 시기",
-      "priority": 50,
-      "note": "2026-11-07 추가. 후보: 뉴시스 2026-07-08 NISX20260708_0003700010 뇌졸중 자가용 이용 환자 도착 7.9→9.8시간, 뉴시스 2024-03-12 급성 심근경색 119 이송 45.3%, kihasa 보건사회연구 43(4) 119 이용 21.7%(문장 207자). 공공 NHS/CDC, newsinhealth.nih.gov 2014-08 막힘. NHLBI YHYL 매뉴얼은 PDF. betterhealth.vic.gov.au 영상 페이지는 이유 없음, 발행일 미상. medical-care-avoidance 와 관계 후보",
-      "createdAt": "2026-11-07T06:36:53.572Z",
-      "seq": 4055
-    },
-    {
-      "id": "1b11489e",
-      "title": "fear-of-losing-independence 관계: refusing-mobility-aids, hiding-illness-from-family 원인",
-      "priority": 50,
-      "note": "2026-11-07 후보: agingcare.com/questions/amp/478104 (2022-11) 휠체어 타면 이 집에 못 산다는 걱정. HealthDay 2015 'may have to move from their home to assisted living or a nursing home'(의사 실명 인용). Age UK 기사 '16% ... hidden an ailment ... fear losing their independence'(200자 초과, 오타). 보행 보조기 거부 인과는 '때문에' 원문 필요",
-      "createdAt": "2026-11-07T09:31:08.375Z",
-      "seq": 4062
-    },
-    {
-      "id": "05aa9f59",
-      "title": "reading-the-ending-first 보강: 장편 연재 결말 미리 보기 결과",
-      "priority": 40,
-      "note": "2026-10-30 Ellithorpe, Brookes 2018 PPMC 7(3) doi 10.1037/ppm0000134 초록 원문 못 찾음(검색 결과는 인용 목록뿐). inverse.com 57735 (2019-07-25) 는 스포일러 언급 없음",
-      "createdAt": "2026-11-01T03:29:39.584Z",
-      "seq": 3066
-    },
-    {
-      "id": "0bbac6ab",
-      "title": "reluctant-parting 보강: SNS·공공 파편, last-look-at-empty-house 하위 검토",
-      "priority": 40,
-      "note": "2026-11-02 매체 Upworthy 2026 Dikeman 연작 더함. upworthy scoop 기사의 인스타그램 댓글 재인용은 SNS 아님. 山口 2025 地理科学 PDF 미확인",
-      "createdAt": "2026-11-02T15:35:30.461Z",
-      "seq": 3317
-    },
-    {
-      "id": "930209b5",
-      "title": "underestimating-compliance 보강: help-seeking-avoidance 원인 간선",
-      "priority": 40,
-      "note": "2026-11-02 아시아경제 2023 한국어 파편 더함. 인과 원문은 여전히 없음. 근접: Newark·Bohns·Flynn 2016 ecommons, Zhao·Epley 2022 PubMed 36067802",
-      "createdAt": "2026-11-02T15:40:14.625Z",
-      "seq": 3319
-    },
-    {
-      "id": "a4fce9c2",
-      "title": "leaving-messages-on-read 보강: waiting-for-a-reply·delaying-message-replies 관계",
-      "priority": 40,
-      "note": "2026-11-02 SNS Hacker News 36298079 더함(급한 일이 있어 읽고 둔다). 관계 인과 원문 아직 없음. Chou 외 CHI 2022 받는 쪽 이유 8유형 남음",
-      "createdAt": "2026-11-02T15:40:52.873Z",
-      "seq": 3320
-    },
-    {
-      "id": "245ef44d",
-      "title": "answering-unknown-calls-silently 보강: 학술·공공 파편, 보이스피싱 경계 원인",
-      "priority": 40,
-      "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 2026-11-01 clemson 2023 권고뿐, FCC 403. 실제 행동을 잰 학술 못 찾음",
-      "createdAt": "2026-11-02T15:41:27.556Z",
-      "seq": 3322
-    },
-    {
-      "id": "7cd8382e",
-      "title": "private-tutoring-anxiety 보강: 나타나지 않는 조건, 별칭",
-      "priority": 40,
-      "note": "2026-11-02 Frontiers fpsyg.2022.800039 Yu 외 2022-05-19 서지에 Education Anxiety 있음(별칭 근거 가능), 본문 문장은 200자 넘는 것뿐. 후보: 국회도서관 KINX2021194456 양육불안감이 사교육에 유의한 영향 없음(조건). bragging-about-children, fear-of-missing-out 관계 근거 필요",
-      "createdAt": "2026-11-02T15:43:35.882Z",
-      "seq": 3323
-    },
-    {
-      "id": "c7f39e54",
-      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
-      "priority": 40,
-      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02 ko.wikisource API 가 요청 과다로 막힘. 다른 판본이나 다른 작품",
-      "createdAt": "2026-11-02T15:45:26.213Z",
-      "seq": 3325
-    },
-    {
-      "id": "f4e97754",
-      "title": "pretending-to-have-read-books 보강: 관계(상위 '아는 척하기' 신설 검토)",
-      "priority": 40,
-      "note": "2026-11-02 대화에 끼려는 동기는 [^5] christiantoday 2019 가 이미 받침. pretending-to-understand 와 공통 상위 후보 '아는 척하기'. Paulhus 2003 PubMed 12703655 는 측정법, Atir·Dunning 2015 news.cornell.edu/node/284532 는 정직한 오류로 해석해 '척' 과 다름",
-      "createdAt": "2026-11-02T15:46:00.053Z",
-      "seq": 3326
-    },
-    {
-      "id": "4ff31310",
-      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
-      "priority": 40,
-      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은 동기가 달라 맞지 않음. crr.bc.edu 은 매체. retail-therapy 대립 원문 미발견",
-      "createdAt": "2026-11-02T15:50:01.280Z",
-      "seq": 3328
-    },
-    {
-      "id": "cf9ee6e4",
-      "title": "morbid-curiosity 보강: SNS, 한국어 병적 호기심",
-      "priority": 40,
-      "note": "2026-11-02 Plato Republic 1497 4권 Leontius 더함(2000년 이전). georgeherald 2013-09-01 rubbernecking 후보",
-      "createdAt": "2026-11-02T15:54:13.427Z",
-      "seq": 3331
-    },
-    {
-      "id": "f12edae7",
-      "title": "skipping-follow-up-after-abnormal-screening 보강: SNS 파편, 결과를 몰라서와 미뤄서의 구분",
-      "priority": 40,
-      "note": "2026-11-02 Hacker News 검색(abnormal result, biopsy, follow up)에 본인 글 없음. 후보: PMC7168865 (2020) 26.4% 결과 모름, PMC8834256 (2022) head-in-the-sand, cancer.gov 2022-05-05",
-      "createdAt": "2026-11-02T15:55:27.185Z",
-      "seq": 3335
-    },
-    {
-      "id": "676c553f",
-      "title": "swimming-after-drinking 보강: sensation-seeking 관계, 과시와 재미라는 이유",
-      "priority": 40,
-      "note": "2026-11-02 Leavy 2022 PLoS One 은 이미 [^4]. 본문에 sensation-seeking 이 음주 수영을 낳는다는 결과 문장 없음(서론의 익사 원인 문장뿐). 후보: JTBC 2025-08-12 v.daum.net/v/20250812194651553, RLSS UK about-dont-drink-and-drown, 경남신문 knnews 992668 (2011)",
-      "createdAt": "2026-11-02T15:55:57.935Z",
-      "seq": 3336
-    },
-    {
-      "id": "999e6fb0",
-      "title": "discarding-mail-without-shredding 보강: privacy-paradox 관계, 한국 공공 설문",
-      "priority": 40,
-      "note": "2026-11-02 privacy-paradox 요약이 '온라인에서는' 으로 좁아 하위로 둘 수 없음. 오프라인까지 넓히는 공통 상위 또는 privacy-paradox 요약 확장 검토. 후보: Dynamic Business 2010-10-11 nidfaw-2074 85%, Irish Times 2008-10-07 82%, 인사이트 80934 (2018)",
-      "createdAt": "2026-11-02T15:56:11.734Z",
-      "seq": 3337
-    },
-    {
-      "id": "345ccbea",
-      "title": "ignoring-air-quality-alerts 보강: 자기보고와 실제 행동의 어긋남",
-      "priority": 40,
-      "note": "2026-11-02 EPA NCER 2385 'no reduction in hours outdoors on Code Red days' 더함(발행일 미상). 같은 페이지의 '약 2/3 가 실내에 뒀다고 답함' 은 한 출처 한 파편이라 못 씀. StatCan 11-526-x/2009001/t005 45% 행동 변화 없음(표)",
-      "createdAt": "2026-11-02T15:56:56.327Z",
-      "seq": 3338
-    },
-    {
-      "id": "8af063ce",
-      "title": "smoking-in-no-smoking-areas 보강: SNS 파편, 단속이 없을 때만 나타나는 조건",
-      "priority": 40,
-      "note": "2026-11-02 서울신문 20160902008012 는 이미 [^3] 로 쓰임(단속반이 사라지면 사정이 달라졌다 대목 있음, 서술에 조건 문단 추가 가능 여부 확인). kgnews 908058 [^6]. 흡연자 본인의 공개 게시글 미발견",
-      "createdAt": "2026-11-02T15:57:15.030Z",
-      "seq": 3339
-    },
-    {
-      "id": "584b0df7",
-      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
-      "priority": 40,
-      "note": "2026-11-02 Tennyson 1850 은 이미 [^1]. ko.wikisource API 요청 과다로 막혀 한국 문학 검색 못 함. 남은 후보: 서울아산병원 contentId=258306(발행일 미상), 충청신문 dailycc 737711 (2023-03-20)",
-      "createdAt": "2026-11-02T16:00:19.926Z",
-      "seq": 3345
-    },
-    {
-      "id": "55781aba",
-      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 약한 후보: Wuthering Heights 768 Edgar 가 마을을 피함. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음",
-      "createdAt": "2026-11-02T16:00:28.540Z",
-      "seq": 3346
-    },
     {
       "id": "2c55c339",
       "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편",
@@ -571,6 +419,118 @@
       "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음. 2026-11-01 이미 1992 Seattle Times [^1] 있음. 두 현상을 한 사람 안에서 맞세우는 원문 필요",
       "createdAt": "2026-11-07T12:34:55.473Z",
       "seq": 4067
+    },
+    {
+      "id": "d8c386c3",
+      "title": "fear-of-losing-independence 관계: refusing-mobility-aids 원인",
+      "priority": 40,
+      "note": "2026-11-07 보행 보조기 거부와 독립 상실 두려움을 '때문에' 로 잇는 원문 못 찾음. 근접: brightstarcare.com 블로그(장치가 쇠퇴의 상징), mobilitymgmt.com embracing-change(스쿠터를 포기로 여김)",
+      "createdAt": "2026-11-07T15:12:31.163Z",
+      "seq": 4086
+    },
+    {
+      "id": "635f69e2",
+      "title": "underestimating-compliance 보강: help-seeking-avoidance 원인 간선",
+      "priority": 40,
+      "note": "2026-11-02 아시아경제 2023 한국어 파편 더함. 인과 원문은 여전히 없음. 근접: Newark·Bohns·Flynn 2016 ecommons, Zhao·Epley 2022 PubMed 36067802. 2026-11-07 Stanford GSB 2008 flynn_ask 기사의 'This means not only are people not asking for help' 는 앞 문장이 과대추정 얘기라 인과 근거 아님",
+      "createdAt": "2026-11-07T15:18:30.894Z",
+      "seq": 4087
+    },
+    {
+      "id": "c360b236",
+      "title": "answering-unknown-calls-silently 보강: 학술·공공 파편, 보이스피싱 경계 원인",
+      "priority": 40,
+      "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 2026-11-01 clemson 2023 권고뿐, FCC 403. 실제 행동을 잰 학술 못 찾음. 2026-11-07 보이스피싱 경계에 해당하는 문서가 아직 없어 원인 간선 대상부터 만들어야 함",
+      "createdAt": "2026-11-07T15:19:31.627Z",
+      "seq": 4089
+    },
+    {
+      "id": "ef538365",
+      "title": "private-tutoring-anxiety 보강: 나타나지 않는 조건, 관계",
+      "priority": 40,
+      "note": "2026-11-07 별칭 Education Anxiety 는 Yu 외 2022 로 붙였다. 후보: 국회도서관 KINX2021194456 양육불안감이 사교육에 유의한 영향 없음(조건). bragging-about-children, fear-of-missing-out 관계 근거 필요",
+      "createdAt": "2026-11-07T15:20:41.614Z",
+      "seq": 4090
+    },
+    {
+      "id": "8444662c",
+      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
+      "priority": 40,
+      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02 ko.wikisource API 가 요청 과다로 막힘. 다른 판본이나 다른 작품",
+      "createdAt": "2026-11-07T15:20:57.227Z",
+      "seq": 4091
+    },
+    {
+      "id": "04d06ab0",
+      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
+      "priority": 40,
+      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은 동기가 달라 맞지 않음. crr.bc.edu 은 매체. retail-therapy 대립 원문 미발견",
+      "createdAt": "2026-11-07T15:21:29.178Z",
+      "seq": 4092
+    },
+    {
+      "id": "99cc89d8",
+      "title": "morbid-curiosity 보강: SNS, 한국어 병적 호기심",
+      "priority": 40,
+      "note": "2026-11-07 UCI 2019 매체 더함. SNS 와 한국어 파편 남음. georgeherald 2013-09-01 rubbernecking 후보, 머니투데이 2025-10-30 잔혹 실화 콘텐츠",
+      "createdAt": "2026-11-07T15:24:08.091Z",
+      "seq": 4094
+    },
+    {
+      "id": "bd2306a0",
+      "title": "skipping-follow-up-after-abnormal-screening 보강: SNS 파편, 미뤄서의 면",
+      "priority": 40,
+      "note": "2026-11-07 결과를 몰라서는 Cusumano 외 2020 PMC7168865 로 더함. SNS 본인 글 남음. 후보 PMC8834256 (2022) head-in-the-sand, cancer.gov 2022-05-05",
+      "createdAt": "2026-11-07T15:25:19.317Z",
+      "seq": 4095
+    },
+    {
+      "id": "210cfd2c",
+      "title": "discarding-mail-without-shredding 보강: privacy-paradox 관계, 한국 공공 설문",
+      "priority": 40,
+      "note": "2026-11-02 privacy-paradox 요약이 '온라인에서는' 으로 좁아 하위로 둘 수 없음. 후보: Dynamic Business 2010-10-11 nidfaw-2074 85%, Irish Times 2008-10-07 82%, 인사이트 80934 (2018). 2026-11-07 택배 송장 미제거 비율의 한국 공공 조사 검색 실패, 개인정보위 2025 점검은 사업자 대상",
+      "createdAt": "2026-11-07T15:27:31.500Z",
+      "seq": 4096
+    },
+    {
+      "id": "d4917d96",
+      "title": "ignoring-air-quality-alerts 보강: 자기보고와 실제 행동의 어긋남",
+      "priority": 40,
+      "note": "2026-11-07 McGill 2026-10-23 Strava 달리기 변화 없음 더함(행동 자료). 자기보고와 행동을 함께 잰 출처 남음. 후보 PubMed 18466894 (2008) 포틀랜드·휴스턴 10-15% 행동 바꿨다고 답함",
+      "createdAt": "2026-11-07T15:28:23.459Z",
+      "seq": 4097
+    },
+    {
+      "id": "c8871aa8",
+      "title": "smoking-in-no-smoking-areas 보강: SNS 파편, 단속이 없을 때만 나타나는 조건",
+      "priority": 40,
+      "note": "2026-11-02 서울신문 20160902008012 는 이미 [^3]. kgnews 908058 [^6]. 2026-11-07 단속 조건은 [^3] 이 서술에서 이미 받침. straightdope 336840 (2005-12) 에 흡연자 본인의 금연구역 흡연 글 없음. cloudfront life-style/life/2016001 영국 설문 71% 후보",
+      "createdAt": "2026-11-07T15:29:00.008Z",
+      "seq": 4098
+    },
+    {
+      "id": "af09da89",
+      "title": "forgotten-fridge-leftovers 보강: 공공 파편, discarding-food-by-date-label 관계",
+      "priority": 40,
+      "note": "2026-11-03 재시도. EPA·USDA 에 남은 음식 잊기 조사 없음. 2026-11-07 OECD 2026-09 what-drives-household-food-waste 403, 인천시 IC010101 619 는 권고뿐. 매체 후보: Samsung UK newsroom fridge-fails 364개, geneonline Frigidaire 2026-06",
+      "createdAt": "2026-11-07T15:29:31.559Z",
+      "seq": 4099
+    },
+    {
+      "id": "b59c3d52",
+      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
+      "priority": 40,
+      "note": "2026-11-02 Tennyson 1850 은 이미 [^1]. 2026-11-07 ko.wikisource API 여전히 요청 과다로 막힘. 남은 후보: 서울아산병원 contentId=258306(발행일 미상), 충청신문 dailycc 737711 (2023-03-20)",
+      "createdAt": "2026-11-07T15:30:12.957Z",
+      "seq": 4100
+    },
+    {
+      "id": "1c96ad1b",
+      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
+      "priority": 40,
+      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 6698행 Edgar 는 마을을 피하나 아내 무덤은 찾아가 맞지 않고, 이 출처는 이미 4개 문서가 씀",
+      "createdAt": "2026-11-07T15:30:31.540Z",
+      "seq": 4101
     },
     {
       "id": "e8ba47a7",
@@ -1149,6 +1109,14 @@
       "seq": 4064
     },
     {
+      "id": "4fddfb06",
+      "title": "skipping-flossing 와 withholding-information-from-doctors 관계",
+      "priority": 30,
+      "note": "2026-11-03 뉴스토마토 2020 이유 파편 더함. NPR 2015 [^2] 는 성인 27% 가 치과의사에게 치실 빈도를 거짓말. 2026-11-07 NPR 본문에 인과 문장 없음. 치실 사용 부풀려 말하기는 습관을 줄여 말하기와 방향이 반대라 하위로 두기 어렵다",
+      "createdAt": "2026-11-07T15:21:53.942Z",
+      "seq": 4093
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1235,6 +1203,14 @@
       "note": "2026-11-04 세 번째 확인: globalrescue [^8] 의 통제를 잃을까 하는 불안에 맞는 문서 없음(future-anxiety, awaiting-uncertain-news 요약과 다름). 불확실성을 못 견디는 마음을 새 문서로 만들 출처가 있으면 원인 간선 근거가 됨",
       "createdAt": "2026-11-04T21:17:52.549Z",
       "seq": 3788
+    },
+    {
+      "id": "7d5366f0",
+      "title": "leaving-messages-on-read 관계: delaying-message-replies",
+      "priority": 20,
+      "note": "2026-11-07 waiting-for-a-reply 결과 간선은 이미 [^2] 로 있다. delaying-message-replies 와는 한쪽이 다른 쪽의 특수한 경우가 아니어서 상위 아님. 인과 원문 필요. 후보 fnnews 202610052218148674(2026-10-05) 안읽씹 답장 고민",
+      "createdAt": "2026-11-07T15:19:16.113Z",
+      "seq": 4088
     },
     {
       "id": "870be3f4",
