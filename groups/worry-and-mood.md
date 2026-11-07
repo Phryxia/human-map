@@ -9,7 +9,6 @@
   - [여러 병원 전전하기](../docs/doctor-shopping.md)
   - [증상을 읽고 병을 의심하기](../docs/reading-symptoms-and-suspecting-illness.md)
 - [겁날 때 노래하거나 휘파람 불기](../docs/singing-to-keep-up-courage.md) 어둡거나 무서운 곳을 지나는 사람이 겁을 누르려고 소리 내어 노래하거나 휘파람을 분다.
-- [결말 먼저 읽기](../docs/reading-the-ending-first.md) 소설이나 이야기를 읽는 사람이 처음부터 읽기 전에 마지막 장을 먼저 펼쳐 결말을 본다.
 - [계절 타기](../docs/seasonal-mood-change.md) 계절이 바뀌거나 어떤 계절이 오면 사람의 기분과 행동이 그 계절에 따라 달라진다.
   - [가을 타기](../docs/autumn-melancholy.md)
   - [봄 타기](../docs/spring-fever.md)
@@ -51,6 +50,8 @@
 - [생각하려고 걷기](../docs/walking-to-think.md) 사람이 생각을 정리하거나 마음을 가라앉히려고 밖으로 나가 걷는다.
 - [손톱 물어뜯기](../docs/nail-biting.md) 사람이 초조하거나 지루하거나 어려운 일을 붙잡고 있을 때 손톱을 물어뜯는다.
 - [쉬는 데 죄책감 느끼기](../docs/guilt-about-resting.md) 쉬거나 아무것도 하지 않고 시간을 보낸 사람이 해야 할 일을 하지 않았다는 죄책감을 느낀다.
+- [스포일러 찾아보기](../docs/seeking-spoilers.md) 영화, 드라마, 책을 접하는 사람이 작품을 다 보기 전에 줄거리와 결말을 스스로 찾아 미리 알아 둔다.
+  - [결말 먼저 읽기](../docs/reading-the-ending-first.md)
 - [슬픈 이야기를 보며 울기](../docs/crying-at-sad-stories.md) 슬픈 영화나 소설을 보는 사람이 지어낸 이야기에 눈물을 흘린다.
 - [실패에 대한 두려움](../docs/fear-of-failure.md) 어떤 일을 앞둔 사람이 실패해 창피를 당하거나 낮게 평가받을까 두려워한다.
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
