@@ -42,6 +42,7 @@
 - [수돗물 그대로 마시지 않기](../docs/not-drinking-tap-water.md) 수돗물을 마실 수 있는 곳에 사는 사람이 수돗물을 그대로 마시지 않고 정수기를 달거나 생수를 사서 마신다.
 - [술 마신 뒤 물놀이](../docs/swimming-after-drinking.md) 술을 마신 사람이 바다, 강, 계곡, 호수에 들어가 헤엄치거나 물놀이를 한다.
 - [심장 증상에도 도움 청하기 미루기](../docs/delaying-help-for-heart-symptoms.md) 가슴 통증 같은 심장마비 증상이 온 사람이 증상이 곧 지나가리라 여기거나 남 앞에서 창피하거나 짐이 될까 봐 구급차를 부르거나 병원에 가기를 미룬다.
+- [쓰지 않는 약을 쓰레기통과 변기에 버리기](../docs/improper-medicine-disposal.md) 쓰지 않거나 유효기한이 지난 약을 가진 사람이 그 약을 수거함에 내지 않고 생활 쓰레기, 변기, 하수구에 버린다.
 - [암 재발 두려움](../docs/fear-of-cancer-recurrence.md) 암 치료를 마친 사람이 암이 다시 생길까 봐 두려워한다.
 - [야생 버섯 따 먹기](../docs/eating-foraged-wild-mushrooms.md) 산이나 들에서 야생 버섯을 딴 사람이 생김새나 민간 속설로 먹을 수 있는 버섯을 가려 먹는다.
 - [야식 먹기](../docs/late-night-eating.md) 저녁 식사를 마친 사람이 잠들기 전 밤늦은 시간에 다시 음식을 먹는다.

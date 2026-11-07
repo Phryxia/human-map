@@ -364,6 +364,7 @@
 - [심장 증상에도 도움 청하기 미루기](docs/delaying-help-for-heart-symptoms.md) ([건강과 위험](groups/health-and-safety.md))
 - [써 놓고 내보내지 않기](docs/writing-without-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [쓰지 않는 구독 유지](docs/unused-subscription.md) ([돈과 소비](groups/money.md))
+- [쓰지 않는 약을 쓰레기통과 변기에 버리기](docs/improper-medicine-disposal.md) ([건강과 위험](groups/health-and-safety.md))
 - [아는 사람 이름 잊기](docs/forgetting-acquaintances-names.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [아는 사람을 마주치고 못 본 척하기](docs/pretending-not-to-see-acquaintance.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [아침 식사 거르기](docs/skipping-breakfast.md) ([시간과 하루 습관](groups/daily-time.md))
