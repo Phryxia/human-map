@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-07T03:40:25.376Z",
-  "nextSeq": 4049,
-  "stops": 206,
+  "savedAt": "2026-11-07T06:37:04.906Z",
+  "nextSeq": 4056,
+  "stops": 207,
   "items": [
-    {
-      "id": "e06e9a56",
-      "title": "delaying-help-for-heart-symptoms 보강: 공공, SNS 파편과 시기",
-      "priority": 50,
-      "note": "2026-11-07 추가. 후보: Hadid 2020 PMC7242810 가족 책임 때문에 입원 미룸(요르단), 뉴시스 2026-07-08 NISX20260708_0003700010 뇌졸중 자가용 이용 환자 도착 7.9→9.8시간, 뉴시스 2024-03-12 급성 심근경색 119 이송 45.3%, kihasa 보건사회연구 43(4) 119 이용 21.7%(문장 207자). 공공 NHS/CDC 페이지는 막힘. medical-care-avoidance 와 관계 후보",
-      "createdAt": "2026-11-07T00:26:06.324Z",
-      "seq": 4030
-    },
     {
       "id": "04acaf08",
       "title": "not-buying-disaster-insurance 보강: SNS 파편, 원인 간선",
@@ -67,6 +59,22 @@
       "note": "2026-11-07 추가. NL Times 2026-05-25 는 독립을 잃을 두려움을 이유로 든다(원인 후보, 해당 문서 없음. 먼저 '독립 잃을 두려움' 문서를 써야 함). PMC12148220 Dobash 2025 는 나약함과 부끄러움, stigma, fear of losing independence. PMC7741002 Catona 2020 'people who fall end up in nursing homes'. hiding-illness-from-family 와 공통 상위 후보. refusing-mobility-aids 와 공통 원인(늙어 보임, 나약함 낙인) 후보",
       "createdAt": "2026-11-07T03:36:06.424Z",
       "seq": 4048
+    },
+    {
+      "id": "3e2d067a",
+      "title": "improper-medicine-disposal 보강: 공공, SNS 파편과 keeping-leftover-medicines 관계",
+      "priority": 50,
+      "note": "2026-11-07 학술 2, 매체 3. 공공·SNS 없음. jabfm 2006 'storing unused ... and flushed' 는 보관과 버리기가 함께 나타남. mediahub 2002909 (심평원 55.2%) 는 keeping-leftover-medicines 가 이미 씀",
+      "createdAt": "2026-11-07T06:16:36.037Z",
+      "seq": 4054
+    },
+    {
+      "id": "2db43fd5",
+      "title": "delaying-help-for-heart-symptoms 보강: 공공, SNS 파편과 시기",
+      "priority": 50,
+      "note": "2026-11-07 추가. 후보: 뉴시스 2026-07-08 NISX20260708_0003700010 뇌졸중 자가용 이용 환자 도착 7.9→9.8시간, 뉴시스 2024-03-12 급성 심근경색 119 이송 45.3%, kihasa 보건사회연구 43(4) 119 이용 21.7%(문장 207자). 공공 NHS/CDC, newsinhealth.nih.gov 2014-08 막힘. NHLBI YHYL 매뉴얼은 PDF. betterhealth.vic.gov.au 영상 페이지는 이유 없음, 발행일 미상. medical-care-avoidance 와 관계 후보",
+      "createdAt": "2026-11-07T06:36:53.572Z",
+      "seq": 4055
     },
     {
       "id": "d16898d2",
