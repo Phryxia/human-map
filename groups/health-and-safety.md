@@ -59,6 +59,7 @@
 - [진료를 미루다 응급실 가기](../docs/delayed-care-emergency-visits.md) 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
 - [청력 보호구 미착용](../docs/hearing-protection-nonuse.md) 시끄러운 작업장이나 공연장에 있는 사람이 귀마개나 귀덮개를 쓰지 않거나 꾸준히 쓰지 않는다.
 - [치료 부담감](../docs/treatment-burden.md) 오래 치료를 받는 환자가 약 먹기, 검사, 생활 바꾸기 같은 치료의 일을 짐으로 느낀다.
+- [치료비 걱정에 진료 미루기](../docs/skipping-care-due-to-cost.md) 아픈 사람이 진료비나 약값 부담 때문에 필요한 진료를 미루거나 받지 않거나 약을 줄인다.
 - [치실 거르기](../docs/skipping-flossing.md) 이를 닦는 사람이 치실을 매일 쓰지 않거나 거의 쓰지 않는다.
 - [텐트 안에서 난로 켜고 자기](../docs/heating-inside-tents.md) 추운 날 야영하는 사람이 몸을 데우려고 일산화탄소가 나오는 난로나 숯불을 텐트 안에 켜 두고 잠든다.
 - [폭염 속 바깥일 계속하기](../docs/working-through-heat.md) 폭염 속에서 밭일이나 바깥일을 하는 사람이 더위로 몸이 처지거나 쉬라는 말을 들어도 일을 멈추지 않는다.
