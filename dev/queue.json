@@ -1,56 +1,24 @@
 {
   "version": 1,
-  "savedAt": "2026-11-08T03:05:37.758Z",
-  "nextSeq": 4155,
-  "stops": 213,
+  "savedAt": "2026-11-08T03:37:57.864Z",
+  "nextSeq": 4173,
+  "stops": 214,
   "items": [
     {
-      "id": "65e1f0ca",
-      "title": "teasing-someone-liked 보강: 학술 또는 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-07 파편 2개뿐. HN algolia 'teased her because I liked her' 등 3개, Straight Dope search.json 2개, PMC 'pulling her hair' likes 검색 모두 해당 없음",
-      "createdAt": "2026-11-07T21:26:20.560Z",
-      "seq": 4142
+      "id": "09011dd7",
+      "title": "answering-unknown-calls-silently 보강: 목소리 녹음 걱정 원인",
+      "priority": 45,
+      "note": "2026-11-08 후보: ag.state.mn.us/Consumer/Publications/CanYouHearMe.asp (발행일 미상) 'Scam artists may be able to use a recorded “yes” to claim that the person authorized charges', FTC 2023-03-20 AI 음성 복제 'All he needs is a short audio clip'(curl 403), PDRM 2025-12 '여보세요도 하지 말라' 원문 못 찾음. not-answering-unknown-numbers 신규 후보: Pew 2020-12-14 67%. 2026-11-08 원인 문서(목소리 도용 걱정)가 없어 보류",
+      "createdAt": "2026-11-08T03:28:05.047Z",
+      "seq": 4169
     },
     {
-      "id": "faab7a04",
-      "title": "self-esteem-after-refusing-apology 보강: SNS 또는 다른 시기 파편",
-      "priority": 50,
-      "note": "2026-11-07 파편 2개뿐(2013 학술, 2013 NPR). HN algolia 'refused to apologize felt good' 등 3개, Straight Dope search.json 2개 해당 없음",
-      "createdAt": "2026-11-07T21:28:04.233Z",
-      "seq": 4143
-    },
-    {
-      "id": "8de89313",
-      "title": "answering-unknown-calls-silently 보강: 학술 또는 공공 파편",
-      "priority": 50,
-      "note": "2026-11-07 파편 3개(SNS 2022, 매체 2026 둘). 후보 매체: fnnews 202605080724310882 (2026-05, GNT 인용 '여보세요' 하면 끊는 침묵 전화). 공공 당부문은 못 찾음",
-      "createdAt": "2026-11-07T21:30:02.973Z",
-      "seq": 4144
-    },
-    {
-      "id": "95efdf6c",
-      "title": "avoiding-aids-that-look-old 보강: 지팡이·보행기 파편, SNS",
-      "priority": 50,
-      "note": "2026-11-07 파편 3개 모두 보청기. Straight Dope search.json, HN algolia, PubMed 'mobility device stigma old' 해당 없음. Straight Dope 372265/146 (2006) 'I ain’t gettin’ out my cane because I refuse to admit I need one' 은 늙음 언급 없음",
-      "createdAt": "2026-11-07T21:30:45.118Z",
-      "seq": 4145
-    },
-    {
-      "id": "5e3df83c",
+      "id": "7b77e50c",
       "title": "forgiveness 와 holding-a-grudge·desire-for-revenge 대립 간선",
-      "priority": 50,
-      "note": "2026-11-08 forgiveness 추가. 같은 사람 안에서 용서와 원한이 반대로 민다는 파편 필요. 후보: McCullough 2003 PMID 12635915 (회피·보복 동기 감소), 2026 HN 50301116 (용서하지 않음)",
-      "createdAt": "2026-11-08T00:32:14.277Z",
-      "seq": 4154
-    },
-    {
-      "id": "1c876258",
-      "title": "sharenting 보강: 자녀의 1인칭 글",
-      "priority": 40,
-      "note": "2026-11-03 뉴시스 2022 세이브더칠드런 55.4% 파편 더함. 자녀가 부모의 게시를 싫어한다는 1인칭 SNS 글은 아직 없음",
-      "createdAt": "2026-11-03T03:16:40.222Z",
-      "seq": 3421
+      "priority": 45,
+      "note": "2026-11-08 forgiveness 추가. 같은 사람 안에서 용서와 원한이 반대로 민다는 파편 필요. 후보: McCullough 2003 PMID 12635915 (회피·보복 동기 감소, PubMed 429), 2026 HN 50301116. 2026-11-08 PMC4112745, PMC6603330 에 맞는 문장 없음. ojs.wiserpub.com JSPR 3086 Grudges or Forgiveness 는 403. McCullough FFT_JPSP 는 PDF",
+      "createdAt": "2026-11-08T03:28:12.112Z",
+      "seq": 4170
     },
     {
       "id": "7ad5d96c",
@@ -59,14 +27,6 @@
       "note": "2026-11-03 뉴스토마토 2020 이유 파편 더함. NPR 2015 [^2] 는 성인 27% 가 치과의사에게 치실 빈도를 거짓말. 치과의사에게 부풀려 말하기를 withholding-information-from-doctors 하위로 둘지 판단 필요",
       "createdAt": "2026-11-03T03:17:45.934Z",
       "seq": 3422
-    },
-    {
-      "id": "4c1bd895",
-      "title": "setting-clocks-fast 보강: 학술·공공 파편, 빠른 줄 알면서 따르는 면",
-      "priority": 40,
-      "note": "2026-11-03 재시도. straightdope 595507 은 이미 [^2]. 특허 US6411568 (시계를 빠르게 두어도 알면 무시한다는 배경 서술) 은 uspto PDF, patents.google.com 503. Houghton 학위논문 'soft self-deception' 은 PDF. melmagazine 'can-setting-your-clock-fast' 는 매체로 열림(Linda Sapadin 인용)",
-      "createdAt": "2026-11-03T03:18:13.310Z",
-      "seq": 3423
     },
     {
       "id": "8a076539",
@@ -101,14 +61,6 @@
       "seq": 3428
     },
     {
-      "id": "9c8f3813",
-      "title": "pet-euthanasia-guilt 보강: 공공 또는 문학 파편",
-      "priority": 40,
-      "note": "2026-11-03 이번 회차 손대지 않음. 이전 기록: 수의대 자료 매체, korea.kr 무소득, Galsworthy Memories 대목 없음. 남은 후보: tildes.net ~life.pets/1ua5 (2026-05-20, SNS)",
-      "createdAt": "2026-11-03T03:22:45.749Z",
-      "seq": 3429
-    },
-    {
       "id": "bde1838d",
       "title": "plucking-gray-hairs 와 aged-face-in-mirror 관계",
       "priority": 40,
@@ -123,14 +75,6 @@
       "note": "2026-11-03 Jane Eyre (Gutenberg 1260) 'to dream of children was a sure sign of trouble' 는 이미 4개 문서가 써서 5번째면 WARN. 다른 18~19세기 문학 필요. 남은 후보: wgbh.org 2015-01-15 Morewedge 인터뷰, Blagrove 2006 다른 대목",
       "createdAt": "2026-11-03T03:25:12.044Z",
       "seq": 3432
-    },
-    {
-      "id": "61d2cdbb",
-      "title": "avoiding-pavement-cracks 보강: 강박 조건",
-      "priority": 40,
-      "note": "2026-11-03 상위 superstitious-rituals 그음. 후보: jjan.kr/articleAmp/20190411670430 (2019-04-11) 정신과 전문의 기고 선을 밟으면 나쁜 일이 생길 것 같아 한쪽으로만 걸음, brin.ac.uk/?p=588 (2010-09-17) 영국 미신 5위",
-      "createdAt": "2026-11-03T03:25:32.234Z",
-      "seq": 3433
     },
     {
       "id": "43c59c81",
@@ -579,6 +523,22 @@
       "note": "2026-11-07 PMC 'counting the steps' 81건 앞 10건은 보행 측정이 대부분. PMC12999046 'Compulsive tic‐like behaviors such as touching, counting the steps' 는 진단 맥락 학술 후보",
       "createdAt": "2026-11-07T21:36:48.308Z",
       "seq": 4148
+    },
+    {
+      "id": "14e1bb57",
+      "title": "setting-clocks-fast 보강: 학술·공공 파편",
+      "priority": 40,
+      "note": "2026-11-08 MEL 2018 매체 [^3] 더함(알아채고 빼고 읽음). 학술·공공은 아직 없음. 특허 US6411568 는 PDF, Houghton 학위논문은 PDF. 남은 후보: Yahoo '4 Tiny Changes Finally Made Me Quit Being Late' 전문가 인용, webmd help-chronically-late?page=2",
+      "createdAt": "2026-11-08T03:33:14.504Z",
+      "seq": 4171
+    },
+    {
+      "id": "77882f91",
+      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
+      "priority": 40,
+      "note": "2026-11-08 Tufts 2012 매체, OSU 2022 공공 더함. 2000년 이전 문학·매체 못 찾음. UF 소동물병원 Coping with Guilt 는 TLS 오류, MSU CVM 은 Incapsula",
+      "createdAt": "2026-11-08T03:36:49.492Z",
+      "seq": 4172
     },
     {
       "id": "e8ba47a7",
@@ -2547,6 +2507,14 @@
       "note": "2026-11-07 후보: brunch.co.kr/@mone2001/208 2026-06-26 산책길 불 켜진 창 실루엣 보고 '다른 사람들은 어떤 삶을 살고 있을까?'(계정 경로 확인 필요). substack unsortedbutsignificant 2023 'tourist in other lives'(기차 창밖, 미대조). 문학 없음, Dickens 두 도시 이야기 3장 비밀 문장은 331자",
       "createdAt": "2026-11-07T18:36:25.430Z",
       "seq": 4115
+    },
+    {
+      "id": "ee6a6fa9",
+      "title": "보조기구 대신 다른 물건 짚기",
+      "priority": 10,
+      "note": "2026-11-08 avoiding-aids-that-look-old 하위 후보. RESNA 2021 Maximo & Lau 82_Maximo.html 홍콩 우산, 등산 스틱 'people prefer to use devices less associated with aging and disability', AgingCare 2015-03 등산 스틱([^5] 이미 씀)",
+      "createdAt": "2026-11-08T03:25:22.215Z",
+      "seq": 4168
     },
     {
       "id": "02b2f242",
