@@ -28,6 +28,7 @@
 - [윗사람에게 아첨하기](../docs/flattering-superiors.md) 아랫사람이 상사나 힘 있는 사람의 호감을 사려고 그를 추어올리거나 낮은 자세를 보인다.
 - [육아휴직 망설이기](../docs/hesitating-to-take-parental-leave.md) 육아휴직을 쓸 수 있는 직장인이 동료의 업무 부담과 직장 분위기, 경력 불이익을 걱정해 휴직 신청을 미루거나 하지 않는다.
 - [일 맡기지 못하기](../docs/reluctance-to-delegate.md) 관리자나 직장인이 남에게 맡길 수 있는 일을 맡기지 않고 직접 한다.
+- [일 중독](../docs/workaholism.md) 일하는 사람이 일을 멈추지 못하고 일에서 떨어지면 일을 생각하거나 일하지 않는 데 죄책감을 느낀다.
 - [일요일 밤의 출근 걱정](../docs/sunday-night-dread.md) 주중에 일하는 사람이 일요일 저녁이나 밤에 다음 날 출근을 떠올리며 긴장하거나 우울해진다.
 - [일터에서 바쁜 척하기](../docs/pretending-to-be-busy.md) 직장인이 실제로 하는 일과 관계없이 일터에서 바빠 보이도록 행동한다.
   - [눈치 야근](../docs/staying-late-for-boss.md)

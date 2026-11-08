@@ -472,6 +472,7 @@
 - [인사 안 받는 이웃에게 아는 체 그만두기](docs/stopping-greeting-unresponsive-neighbor.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [인사 없이 모임 자리 뜨기](docs/irish-goodbye.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [일 맡기지 못하기](docs/reluctance-to-delegate.md) ([일터와 일자리](groups/work.md))
+- [일 중독](docs/workaholism.md) ([일터와 일자리](groups/work.md))
 - [일기 쓰기](docs/keeping-a-diary.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [일부러 피부 태우기](docs/intentional-tanning.md) ([건강과 위험](groups/health-and-safety.md))
 - [일요일 밤의 출근 걱정](docs/sunday-night-dread.md) ([일터와 일자리](groups/work.md))
