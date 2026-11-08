@@ -53,6 +53,7 @@
 - [스포일러 찾아보기](../docs/seeking-spoilers.md) 영화, 드라마, 책을 접하는 사람이 작품을 다 보기 전에 줄거리와 결말을 스스로 찾아 미리 알아 둔다.
   - [결말 먼저 읽기](../docs/reading-the-ending-first.md)
 - [슬픈 이야기를 보며 울기](../docs/crying-at-sad-stories.md) 슬픈 영화나 소설을 보는 사람이 지어낸 이야기에 눈물을 흘린다.
+- [시험 불안](../docs/test-anxiety.md) 시험을 앞두거나 시험을 치르는 학생이 불안해하고 머리가 잘 돌아가지 않는다.
 - [실패에 대한 두려움](../docs/fear-of-failure.md) 어떤 일을 앞둔 사람이 실패해 창피를 당하거나 낮게 평가받을까 두려워한다.
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
 - [어둠 공포](../docs/fear-of-the-dark.md) 어두운 곳에 있는 사람이 보이지 않는 것을 무서워한다.

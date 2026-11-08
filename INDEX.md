@@ -358,6 +358,7 @@
 - [시기심](docs/envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [시든 꽃 버리지 않기](docs/keeping-withered-flowers.md) ([돈과 소비](groups/money.md))
 - [시름을 술로 달래기](docs/drinking-to-cope.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [시험 불안](docs/test-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [신고해도 소용없다는 믿음](docs/believing-reporting-is-futile.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [신호 대기 중의 답답함](docs/impatience-at-red-light.md) ([길과 운전](groups/roads-and-driving.md))
 - [실직 뒤 사람 만남 피하기](docs/withdrawing-after-job-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
