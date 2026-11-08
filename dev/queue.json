@@ -1,9 +1,49 @@
 {
   "version": 1,
-  "savedAt": "2026-11-08T15:34:33.962Z",
-  "nextSeq": 4208,
-  "stops": 218,
+  "savedAt": "2026-11-08T18:38:21.333Z",
+  "nextSeq": 4218,
+  "stops": 219,
   "items": [
+    {
+      "id": "2e7e4133",
+      "title": "applying-household-remedies-to-burns 보강: 한국어 SNS 파편, 2010년 이전 학술",
+      "priority": 50,
+      "note": "2026-11-08 후보: Karaoz 2010 PMID 20211400 (51% 요구르트 치약 등, PubMed 요청 제한), Yavuz 2011 PMC3032719, 지역내일 2022-04-07 647627 소주 붓는 이유(화기 없애고 소독). 82cook 2005 치약 경험담은 연결 끊김",
+      "createdAt": "2026-11-08T18:25:37.550Z",
+      "seq": 4213
+    },
+    {
+      "id": "10735833",
+      "title": "jumping-in-to-rescue-drowning 보강: 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-11-08 korea.kr 물놀이 수칙 페이지에 관련 문장 없음. 대안 Manchester Fire safe4summer 개 따라 들어간 소녀 사례(발행일 미상), Işın 2021 PMC8296404 46% 다중 사망",
+      "createdAt": "2026-11-08T18:25:37.658Z",
+      "seq": 4214
+    },
+    {
+      "id": "ec713c37",
+      "title": "walking-on-frozen-water 보강: 원인 간선, 다른 시기 공공",
+      "priority": 50,
+      "note": "2026-11-08 Sharma 2020 PLOS 같은 논문의 음주가 얼음 위 위험 감수를 늘린다는 대목, York University 2024-12-11 보도자료(두께만 잰다, 미확인), 소방청 2025-03-07 korea.kr 148940222 카드뉴스",
+      "createdAt": "2026-11-08T18:30:49.405Z",
+      "seq": 4215
+    },
+    {
+      "id": "71ad0533",
+      "title": "staying-outdoors-in-thunderstorms 보강: 지나치게 조심해 보이기 싫은 마음, 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-11-08 weather.gov/safety/lightning-sports 'Not wanting to appear overly cautious, many people wait far too long' (발행일 미상), weather.gov lightning-myths 경기를 끝내고 피해도 된다는 믿음, The Sand Trap 같은 스레드 'that lightning won't hurt you'(같은 URL 이라 못 씀)",
+      "createdAt": "2026-11-08T18:34:59.285Z",
+      "seq": 4216
+    },
+    {
+      "id": "2a894916",
+      "title": "taping-windows-before-typhoons 보강: 학술 파편, 테이프가 유리를 지킨다는 믿음의 비율",
+      "priority": 50,
+      "note": "2026-11-08 FLASH 설문 2012 10명 중 7명, Harris Poll 2014 54% (prnewswire, wlrn 2017 미열람), mediahub 1251723 2019 X자 테이프 효과 미미, 부산일보 2012-08-27 20120827000232 행동요령이 신문지와 테이프를 권함, storm2k p=635635 2004",
+      "createdAt": "2026-11-08T18:38:10.569Z",
+      "seq": 4217
+    },
     {
       "id": "bde1838d",
       "title": "plucking-gray-hairs 와 aged-face-in-mirror 관계",
