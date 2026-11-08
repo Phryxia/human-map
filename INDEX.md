@@ -548,6 +548,7 @@
 - [죽은 이에게 말 걸기](docs/talking-to-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [중고 직거래 상대를 만나는 부담](docs/wariness-meeting-secondhand-buyers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [중요한 말을 추신에 적기](docs/saving-the-point-for-the-postscript.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [즐거운 일을 기다리는 즐거움](docs/pleasure-of-anticipation.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [증상을 읽고 병을 의심하기](docs/reading-symptoms-and-suspecting-illness.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [지나치게 일찍 도착하기](docs/arriving-too-early.md) ([시간과 하루 습관](groups/daily-time.md))
