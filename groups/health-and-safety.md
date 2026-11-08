@@ -36,6 +36,7 @@
 - [렌즈 낀 채 잠들기](../docs/sleeping-in-contact-lenses.md) 콘택트렌즈를 끼는 사람이 렌즈를 빼지 않은 채 밤잠이나 낮잠을 잔다.
 - [렌즈를 수돗물로 헹구기](../docs/rinsing-lenses-with-tap-water.md) 콘택트렌즈 착용자가 렌즈 용액 대신 수돗물로 렌즈를 헹구거나 수돗물에 담가 둔다.
 - [무더위 쉼터 가지 않기](../docs/not-using-cooling-centers.md) 폭염 때 노인이 지자체가 연 무더위 쉼터에 가지 않고 집이나 다른 곳에서 더위를 보낸다.
+- [물에 빠진 이를 구하러 뛰어들기](../docs/jumping-in-to-rescue-drowning.md) 물에 빠진 아이, 가족, 반려견을 본 사람이 구조 장비 없이 직접 물에 뛰어든다.
 - [반려견 목줄 풀어 두기](../docs/walking-dog-off-leash.md) 반려견과 산책하는 사람이 개에게 운동이 필요하다고 여기거나 자기 개가 순하다고 여기거나 지키기 귀찮아서 목줄을 풀어 두거나 채우지 않는다.
 - [보청기 쓰지 않기](../docs/not-wearing-hearing-aids.md) 청력이 떨어진 사람이 보청기가 도움이 될 만한데도 보청기를 쓰지 않는다.
 - [불이 나면 직접 끄려 하기](../docs/fighting-fire-oneself.md) 집이나 일터에서 불이 난 것을 본 사람이 신고나 대피보다 먼저 스스로 불을 끄려 한다.
