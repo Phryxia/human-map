@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [반가운 편지 뜯기 미루기](saving-a-letter-to-open-later.md)
 
 ## 원인
 

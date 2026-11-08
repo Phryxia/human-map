@@ -67,6 +67,7 @@
 - [주머니 두드려 소지품 확인하기](../docs/pocket-patting.md) 외출하거나 길을 가는 사람이 주머니를 손으로 두드리거나 더듬어 지갑, 휴대폰, 집 열쇠 같은 소지품이 있는지 확인한다.
 - [죽음 이야기 피하기](../docs/avoiding-death-talk.md) 사람이 자기 죽음이나 생애 말기에 관해 생각하거나 가족과 이야기하기를 피한다.
 - [즐거운 일을 기다리는 즐거움](../docs/pleasure-of-anticipation.md) 즐거운 일을 앞둔 사람이 그 일이 오기 전 기다리는 동안 이미 들뜨고 즐거워한다.
+  - [반가운 편지 뜯기 미루기](../docs/saving-a-letter-to-open-later.md)
 - [지루함](../docs/boredom.md) 사람이 하는 일이나 지내는 날에 흥미를 느끼지 못하고 따분해한다.
   - [퇴근 시간 기다리며 시계 보기](../docs/clock-watching-at-work.md)
 - [징크스 지키기](../docs/superstitious-rituals.md) 결과를 알 수 없는 일을 앞둔 사람이 불운을 막거나 일이 잘되도록 정해 둔 작은 의례를 하거나 어떤 행동을 피한다.
