@@ -3783,9 +3783,9 @@
   },
   "https://www.scientificamerican.com/article/why-it-rsquo-s-so-hard-to-keep-a-secret": {
     "first": "2026-10-19",
-    "last": "2026-11-02",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-08"
   },
   "https://www.munhwa.com/article/11155267": {
     "first": "2026-10-19",
@@ -15304,8 +15304,8 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/28481618/": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
-    "result": "VERIFIED",
+    "last": "2026-11-08",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-02"
   },
   "https://boards.straightdope.com/t/for-parents-of-adults-who-still-live-at-home/540787?page=2": {
@@ -17018,9 +17018,9 @@
   },
   "https://www.sciencedaily.com/releases/2019/02/190211095453.htm": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-08"
   },
   "https://boards.straightdope.com/t/is-it-okay-for-a-guest-to-clean-his-hosts-house-need-answer-fast/644109": {
     "first": "2026-11-02",
@@ -22211,6 +22211,12 @@
     "lastVerified": "2026-11-08"
   },
   "https://ko.wikisource.org/wiki/%EC%88%9C%EC%A0%95%ED%95%B4%ED%98%91/%EC%A0%9C1%EC%9E%A5": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://www.gutenberg.org/cache/epub/6626/pg6626-images.html": {
     "first": "2026-11-08",
     "last": "2026-11-08",
     "result": "VERIFIED",
