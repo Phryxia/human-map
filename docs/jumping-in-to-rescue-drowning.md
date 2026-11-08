@@ -16,7 +16,7 @@
 
 2015년 게시판 댓글[^6]의 글쓴이는 사랑하는 대상을 구할 가능성이 있으면 자기도 똑같이 했을 것이라며 본능은 논리적이지 않다고 적었다.
 
-2020년 호주 해안 연구[^7]에서 구조하다 숨진 목격자 사고의 3분의 2 이상은 가족이나 가까운 사람을 구하려던 것이었다. 2021년 영국 에식스 소방본부 공지[^8]는 산책하던 개가 물에 빠지거나 뛰어들어도 따라 뛰어들지 말라고 당부했다.
+2020년 호주 해안 연구[^7]에서 구조하다 숨진 목격자 사고의 3분의 2 이상은 가족이나 가까운 사람을 구하려던 것이었다. 2021년 영국 에식스 소방본부 공지[^8]는 산책하던 개가 물에 빠지거나 뛰어들어도 따라 뛰어들지 말라고 당부했다. 2021년 터키 연구[^9]에서는 구조 중 익사 사고의 46%에서 여러 사람이 함께 숨졌다.
 
 # 관계
 
@@ -50,3 +50,4 @@
 [^6]: [SNS] "It may have been a stupid thing to do in retrospect, but I’m sure I would have done the same idiotic thing if there was any chance of rescuing a loved on, beit pet or human. Instinct isn’t logical." (돌이켜 보면 어리석은 짓이었을지 모르지만 반려동물이든 사람이든 사랑하는 존재를 구할 가능성이 조금이라도 있었다면 나도 분명 같은 어리석은 짓을 했을 것이다. 본능은 논리적이지 않다.) — Straight Dope, 댓글, 2015-02-05, https://boards.straightdope.com/t/wherein-i-save-an-idiot-dogs-life/711894, 2026-11-08 접속
 [^7]: [학술] "over two-thirds of fatal bystander incidents attempting to rescue a family member or loved one" (목격자 사망 사고의 3분의 2 이상이 가족이나 가까운 사람을 구하려던 것) — Lawes JC 외, "Dying to help: Fatal bystander rescues in Australian coastal environments", PLOS One 15(9):e0238317, 2020-09-16, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238317, 2026-11-08 접속
 [^8]: [공공] "If you are walking your dog and they fall or jump into the water, please do not jump in after them." (개를 산책시키다가 개가 물에 빠지거나 뛰어들면 따라 뛰어들지 마십시오.) — Essex County Fire and Rescue Service, "Dog rescued from icy lake - firefighters issue safety warning", 2021-02-12, https://essex-fire.gov.uk/incidents/dog-rescued-icy-lake-firefighters-issue-safety-warning-2021-02-12-10-31, 2026-11-08 접속
+[^9]: [학술] "in 46% of cases the rescue resulted in multiple drowning fatalities (mean = 2.29; range 1–5 rescuers)" (사고의 46%에서 구조가 여러 명의 익사로 이어졌다(평균 2.29명, 범위 1\~5명의 구조자)) — Işın A, Turgut A, Peden AE, "Descriptive Epidemiology of Rescue-Related Fatal Drowning in Turkey", International Journal of Environmental Research and Public Health 18(12):6613, 2021-06-19, https://pmc.ncbi.nlm.nih.gov/articles/PMC8296404/, 2026-11-08 접속
