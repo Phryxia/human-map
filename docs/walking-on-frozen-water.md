@@ -16,7 +16,9 @@
 
 2019년 게시판 글[^5]의 글쓴이는 동네 사람들이 설상차로 건너다니는 언 연못에서 설피를 신고 걷다가 한쪽 얼음이 갈라지기 시작해 더 단단한 곳으로 겨우 옮겨 갔다.
 
-2020년 연구[^6]에 따르면 얼음에 빠져 숨진 아이들은 대부분 얼음 위에서 놀거나 스케이트를 타다가 변을 당했다. 저자는 호기심, 부족한 보호, 위험 인식과 물놀이 안전 교육의 부족이 위험을 키운다고 적었다.
+2020년 연구[^6]에 따르면 얼음에 빠져 숨진 아이들은 대부분 얼음 위에서 놀거나 스케이트를 타다가 변을 당했다. 저자는 호기심, 부족한 보호, 위험 인식과 물놀이 안전 교육의 부족이 위험을 키운다고 적었다. 같은 해 그 연구자의 해설[^7]은 술을 마시면 얼음 위에서 위험을 더 감수할 수 있다고 썼다.
+
+2025년 미국 미네소타주 천연자원부 보도자료[^8]에 따르면 그해 겨울 초입에 북부 미네소타에서 10대 두 명이 얇은 얼음을 깨고 물에 빠졌다가 구조됐다.
 
 # 관계
 
@@ -48,3 +50,5 @@
 [^4]: [공공] "해빙기가 되면 강이나 호수의 얼음은 가운데로 갈수록 얇아지고, 아래쪽부터 녹기 시작하여 겉으로는 두께를 가늠하기 어렵기 때문에 가급적 얼음낚시를 자제하는 것이 좋습니다." — 인천광역시 안전정책과, 「「 해빙기 재난예방 」 우리 모두 참여 합시다!」, 2014-02-13, https://www.incheon.go.kr/IC010101/view?nttNo=3222, 2026-11-08 접속
 [^5]: [SNS] "We were snowshoeing on a frozen pond in Maine that the locals snowmobile over but got to one side and the ice all starting cracking- barely made it to a more stable area before falling through." (메인주의 언 연못에서 설피를 신고 걷고 있었는데 동네 사람들이 설상차로 건너다니는 곳이었다. 그런데 한쪽으로 가자 얼음이 온통 갈라지기 시작했고 빠지기 직전에 겨우 더 단단한 곳으로 갔다.) — City-Data, 게시글, 2019-12-24, https://www.city-data.com/forum/weather/3113457-have-you-ever-been-top-frozen-water-3.html, 2026-11-08 접속
 [^6]: [학술] "Most children drowned while playing or skating on the ice, and the risk of drowning was exacerbated by curiosity, inadequate supervision, and a lack of risk-awareness and water-safety education" (대부분의 아이들은 얼음 위에서 놀거나 스케이트를 타다 익사했고, 호기심, 부적절한 감독, 위험 인식과 물 안전 교육의 부족이 익사 위험을 키웠다) — Sharma S 외, "Increased winter drownings in ice-covered regions with warmer winters", PLoS ONE 15(11):e0241222, 2020-11-18, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241222, 2026-11-08 접속
+[^7]: [매체] "Alcohol consumption can further contribute to increased risk-taking behaviour on the ice." (음주는 얼음 위에서 위험을 감수하는 행동을 더 늘리는 데 기여할 수 있다.) — Sapna Sharma, "Winter drownings may increase in northern countries as ice thins with climate change", The Conversation, 2020-11-18, https://theconversation.com/winter-drownings-may-increase-in-northern-countries-as-ice-thins-with-climate-change-150029, 2026-11-08 접속
+[^8]: [공공] "Already this season, a DNR conservation officer and other rescue personnel saved two teenagers who fell through thin ice in northern Minnesota." (이번 철에 벌써 DNR 보호관과 다른 구조대원들이 북부 미네소타에서 얇은 얼음을 깨고 빠진 10대 두 명을 구했다.) — Minnesota Department of Natural Resources, "Parents, guardians urged to prioritize kids' safety around cold water", 2025-11-24, https://www.dnr.state.mn.us/news/2025/11/24/parents-guardians-urged-prioritize-kids-safety-around-cold-water, 2026-11-08 접속
