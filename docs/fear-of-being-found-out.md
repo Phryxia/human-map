@@ -27,6 +27,7 @@
 ## 결과
 
 - [얼굴 붉어짐](blushing.md)[^5]
+- [비밀에 대한 생각에 사로잡히기](thinking-about-secrets.md)[^6]
 
 ## 대립
 
@@ -39,3 +40,4 @@
 [^3]: [학술] "거짓집단은 거울이 있는 조건이 거울이 없는 조건에 비해 상태불안과 사회적 바람직성이 유의미하게 높은 것으로 나타났다." — 박희정, 홍우한, 「거짓말 탐지 상황에서 객관적 자기인식이 용의자의 심리상태에 미치는 영향」, 한국심리학회지: 사회 및 성격 30(1), 2016-02-28, https://accesson.kr/ksppa/v.30/1/115/14892, 2026-10-19 접속
 [^4]: [매체] "People said that when they were not interacting with anyone, they thought about their secrets about twice as often as they actively concealed them in conversation." (사람들은 아무와도 어울리지 않을 때 대화에서 비밀을 적극적으로 숨긴 횟수보다 두 배쯤 자주 그 비밀을 생각했다고 말했다.) — Matthew Hutson, "Why It's So Hard to Keep a Secret", Scientific American, 2017-05-30, https://www.scientificamerican.com/article/why-it-rsquo-s-so-hard-to-keep-a-secret, 2026-10-19 접속
 [^5]: [매체] "거짓이 탄로 날지도 모른다는 정서적 긴장과 압박으로 자신도 모르게 심장 박동이 빨라지거나 얼굴이 붉어지고 침이 마르거나 손에 땀이 나기도 한다." — 문화일보, 「자기기만, 자신의 과오와 책임 피하려는 유혹의 산물」, 문화일보, 2019-10-16, https://www.munhwa.com/article/11155267, 2026-10-19 접속
+[^6]: [매체] "people who perceive greater costs to revealing their secret or who fear their secret will be discovered become more preoccupied with their secret" (비밀을 밝히는 데 드는 대가를 더 크게 느끼거나 비밀이 들킬까 두려워하는 사람은 그 비밀에 더 사로잡힌다) — Association for Psychological Science, "The Costs of the Secrets We Keep", APS News, 2024-03-22, https://www.psychologicalscience.org/news/2024-march-secrets.html, 2026-11-08 접속
