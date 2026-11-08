@@ -192,6 +192,7 @@
 - [리베이트 받지 않기](docs/rebate-slippage.md) ([돈과 소비](groups/money.md))
 - [리콜 수리 받지 않기](docs/ignoring-vehicle-recalls.md) ([길과 운전](groups/roads-and-driving.md))
 - [마음에 들지 않는 선물에 기뻐하는 척하기](docs/feigning-delight-at-gifts.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [마중 나가 기다리기](docs/meeting-arrivals.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [마지막 한 조각 남기기](docs/leaving-the-last-piece.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [말 꺼내기 전 헛기침](docs/clearing-throat-before-speaking.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [말 안 하기로 화 드러내기](docs/silent-treatment.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

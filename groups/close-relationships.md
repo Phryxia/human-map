@@ -31,6 +31,7 @@
   - [돈 빌려 달라는 말 꺼내기 부끄러워하기](../docs/shame-asking-to-borrow-money.md)
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
   - [의사에게 질문하지 못하기](../docs/not-asking-doctors-questions.md)
+- [마중 나가 기다리기](../docs/meeting-arrivals.md) 가족이나 가까운 사람이 기차나 비행기로 도착할 때 사람이 역이나 공항까지 마중을 나가 그 사람이 나오기를 기다린다.
 - [말 안 하기로 화 드러내기](../docs/silent-treatment.md) 다툰 뒤 화가 난 사람이 상대에게 일부러 말을 하지 않는다.
 - [명절 귀성 포기](../docs/skipping-holiday-homecoming.md) 명절에 고향이나 부모 집에 갈 수 있는 사람이 가지 않고 지내던 곳에 남기로 한다.
   - [부끄러워 귀향 피하기](../docs/skipping-homecoming-out-of-shame.md)
