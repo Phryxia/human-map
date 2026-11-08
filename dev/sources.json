@@ -461,9 +461,9 @@
   },
   "https://www.gutenberg.org/cache/epub/1709/pg1709-images.html": {
     "first": "2026-10-17",
-    "last": "2026-11-04",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-08"
   },
   "https://kin.naver.com/qna/detail.naver?dirId=110408&docId=56416069": {
     "first": "2026-10-17",
@@ -21789,5 +21789,29 @@
     "last": "2026-11-07",
     "result": "VERIFIED",
     "lastVerified": "2026-11-07"
+  },
+  "https://www.etoday.co.kr/news/view/139963": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://link.springer.com/article/10.1007/s10869-015-9403-z": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://news.ycombinator.com/item?id=9479714": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://newstomato.com/ReadNews.aspx?no=889789": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
   }
 }
