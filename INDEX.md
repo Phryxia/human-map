@@ -432,6 +432,7 @@
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [외출 전 옷 여러 번 갈아입기](docs/trying-on-outfits-before-going-out.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [용서하기](docs/forgiveness.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [우편물 뜯지 않기](docs/leaving-mail-unopened.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [운동에 관심이 없어 운동하지 않기](docs/not-interested-in-exercise.md) ([시간과 하루 습관](groups/daily-time.md))
 - [운명이나 신을 탓하기](docs/blaming-fate-or-god.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
