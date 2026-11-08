@@ -645,6 +645,7 @@
 - [회복기에 일상을 새롭게 느끼기](docs/savoring-ordinary-life-in-convalescence.md) ([건강과 위험](groups/health-and-safety.md))
 - [회사 비품 가져가기](docs/taking-office-supplies.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [회식 참석 부담](docs/company-dinner-pressure.md) ([일터와 일자리](groups/work.md))
+- [회의 중 딴 일 하기](docs/multitasking-in-meetings.md) ([일터와 일자리](groups/work.md))
 - [효과 없는 버튼 누르기](docs/pressing-placebo-buttons.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [후회 회피](docs/regret-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [휴일에 나타나는 몸의 증상](docs/leisure-sickness.md) ([건강과 위험](groups/health-and-safety.md))

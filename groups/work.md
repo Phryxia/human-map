@@ -40,3 +40,4 @@
 - [퇴사 결심](../docs/deciding-to-quit-job.md) 직장인이 다니던 직장을 그만두기로 마음먹는다.
 - [퇴직 뒤 허전함](../docs/retirement-emptiness.md) 오래 다니던 일터를 떠난 사람이 할 일과 목적을 잃고 허전함과 무력감을 느낀다.
 - [회식 참석 부담](../docs/company-dinner-pressure.md) 직장인이 회식을 부담스러워하면서도 빠졌을 때 상사나 동료가 어떻게 볼지 신경 쓰며 참석하거나 빠질 핑계를 찾는다.
+- [회의 중 딴 일 하기](../docs/multitasking-in-meetings.md) 회의에 참석한 사람이 회의 도중 이메일 확인이나 다른 업무 같은 딴 일을 한다.
