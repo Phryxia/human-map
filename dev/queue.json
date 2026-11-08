@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-08T00:25:10.628Z",
-  "nextSeq": 4153,
-  "stops": 212,
+  "savedAt": "2026-11-08T00:32:28.801Z",
+  "nextSeq": 4155,
+  "stops": 213,
   "items": [
     {
       "id": "65e1f0ca",
@@ -35,6 +35,14 @@
       "note": "2026-11-07 파편 3개 모두 보청기. Straight Dope search.json, HN algolia, PubMed 'mobility device stigma old' 해당 없음. Straight Dope 372265/146 (2006) 'I ain’t gettin’ out my cane because I refuse to admit I need one' 은 늙음 언급 없음",
       "createdAt": "2026-11-07T21:30:45.118Z",
       "seq": 4145
+    },
+    {
+      "id": "5e3df83c",
+      "title": "forgiveness 와 holding-a-grudge·desire-for-revenge 대립 간선",
+      "priority": 50,
+      "note": "2026-11-08 forgiveness 추가. 같은 사람 안에서 용서와 원한이 반대로 민다는 파편 필요. 후보: McCullough 2003 PMID 12635915 (회피·보복 동기 감소), 2026 HN 50301116 (용서하지 않음)",
+      "createdAt": "2026-11-08T00:32:14.277Z",
+      "seq": 4154
     },
     {
       "id": "1c876258",
@@ -2539,22 +2547,6 @@
       "note": "2026-11-07 후보: brunch.co.kr/@mone2001/208 2026-06-26 산책길 불 켜진 창 실루엣 보고 '다른 사람들은 어떤 삶을 살고 있을까?'(계정 경로 확인 필요). substack unsortedbutsignificant 2023 'tourist in other lives'(기차 창밖, 미대조). 문학 없음, Dickens 두 도시 이야기 3장 비밀 문장은 331자",
       "createdAt": "2026-11-07T18:36:25.430Z",
       "seq": 4115
-    },
-    {
-      "id": "d594390e",
-      "title": "자기 불구화(self-handicapping)",
-      "priority": 10,
-      "note": "2026-11-08 find 'self-handicap' 없음. test-anxiety, fear-of-failure 근처",
-      "createdAt": "2026-11-08T00:25:10.434Z",
-      "seq": 4151
-    },
-    {
-      "id": "6c65e6ce",
-      "title": "용서하기",
-      "priority": 10,
-      "note": "2026-11-08 find 'forgiv','용서' 없음. holding-a-grudge, desire-for-revenge 와 대립 후보",
-      "createdAt": "2026-11-08T00:25:10.532Z",
-      "seq": 4152
     },
     {
       "id": "02b2f242",
