@@ -3231,15 +3231,15 @@
   },
   "https://www.gutenberg.org/cache/epub/514/pg514-images.html": {
     "first": "2026-10-19",
-    "last": "2026-11-07",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-08"
   },
   "https://ko.wikisource.org/wiki/%EB%82%A0%EA%B0%9C": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-08"
   },
   "https://research.monash.edu/en/publications/refusing-to-apologize-can-have-psychological-benefits-and-we-issu/": {
     "first": "2026-10-19",
@@ -3249,21 +3249,21 @@
   },
   "https://kormedi.com/1346176/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-08"
   },
   "https://news.ycombinator.com/item?id=30897854": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-08"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9564922/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-08",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-08"
   },
   "https://www.gutenberg.org/cache/epub/28054/pg28054-images.html": {
     "first": "2026-10-19",
@@ -21953,6 +21953,12 @@
     "lastVerified": "2026-11-08"
   },
   "https://link.springer.com/article/10.1007/s40894-025-00262-6": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://boards.straightdope.com/t/do-you-apologize-much/711885": {
     "first": "2026-11-08",
     "last": "2026-11-08",
     "result": "VERIFIED",
