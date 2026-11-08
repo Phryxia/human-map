@@ -59,6 +59,7 @@
 - [조리 중 자리 비우기](../docs/leaving-cooking-unattended.md) 사람이 레인지에 음식을 올려 둔 채 다른 일을 하러 자리를 비우거나 잠들어 조리 중인 것을 잊는다.
 - [진단 없이 음식 피하기](../docs/self-diagnosed-food-avoidance.md) 어떤 음식을 먹은 뒤 몸이 불편했다고 여기는 사람이 의학적 진단 없이 그 음식을 먹지 않는다.
 - [진료를 미루다 응급실 가기](../docs/delayed-care-emergency-visits.md) 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
+- [천둥 번개 속 바깥 활동 계속하기](../docs/staying-outdoors-in-thunderstorms.md) 천둥이 치고 번개가 보이는데도 사람들이 골프, 낚시, 등산 같은 바깥 활동을 이어 가거나 나무 밑으로 피한다.
 - [청력 보호구 미착용](../docs/hearing-protection-nonuse.md) 시끄러운 작업장이나 공연장에 있는 사람이 귀마개나 귀덮개를 쓰지 않거나 꾸준히 쓰지 않는다.
 - [치료 부담감](../docs/treatment-burden.md) 오래 치료를 받는 환자가 약 먹기, 검사, 생활 바꾸기 같은 치료의 일을 짐으로 느낀다.
 - [치료비 걱정에 진료 미루기](../docs/skipping-care-due-to-cost.md) 아픈 사람이 진료비나 약값 부담 때문에 필요한 진료를 미루거나 받지 않거나 약을 줄인다.
