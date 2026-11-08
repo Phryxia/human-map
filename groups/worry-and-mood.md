@@ -38,6 +38,7 @@
     - [심장 증상에도 도움 청하기 미루기](../docs/delaying-help-for-heart-symptoms.md)
     - [치과 공포](../docs/dental-anxiety.md)
 - [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
+- [둠스크롤링](../docs/doomscrolling.md) 불안한 소식을 접한 사람이 나쁜 뉴스를 멈추지 못하고 계속 찾아 읽는다.
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
 - [물건 잃어버릴까 하는 불안](../docs/fear-of-losing-things.md) 사람이 지갑, 휴대폰, 카드 같은 소지품을 지니고 다니며 그것을 떨어뜨리거나 두고 와서 잃어버릴까 걱정한다.

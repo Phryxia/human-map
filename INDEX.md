@@ -177,6 +177,7 @@
 - [돌아온 고향의 낯섦](docs/returning-home-feels-strange.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [동물에게 말 걸기](docs/talking-to-animals.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [되풀이 사과](docs/over-apologizing.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [둠스크롤링](docs/doomscrolling.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [뒤늦게 떠오른 대답](docs/staircase-wit.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [뒷좌석 안전띠 미착용](docs/rear-seat-belt-nonuse.md) ([길과 운전](groups/roads-and-driving.md))
 - [들어온 길로 대피하기](docs/exiting-the-way-you-came.md) ([건강과 위험](groups/health-and-safety.md))
