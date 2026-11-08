@@ -18,6 +18,8 @@
 
 2019년 네이버 지식iN 게시글의 글쓴이는 대학생이고 과제가 많아 운동할 시간이 따로 생기지 않으며 일주일에 사나흘은 밤을 샌다고 적었다.[^8]
 
+2026년 5월 기사[^10]는 육아정책연구소와 여성가족부 연구에서 기혼 여성이 운동을 그만두는 가장 큰 이유로 시간 부족과 돌봄 부담을 꼽았다고 전한다.
+
 # 관계
 
 ## 상위
@@ -51,3 +53,4 @@
 [^7]: [학술] "Among those categorised as inactive, lack of time was reported by half the sub-group as a barrier to physical activity (50.0%, 95% CI 43.0–56.8) and this was the most frequently selected response" (비활동으로 분류된 사람 가운데 절반이 시간 부족을 신체 활동의 장벽으로 답했고(50.0%, 95% CI 43.0–56.8) 이것이 가장 많이 고른 응답이었다.) — Erin Hoare, Bill Stavreski, Garry L Jennings, Bronwyn A Kingwell, "Exploring Motivation and Barriers to Physical Activity among Active and Inactive Australian Adults", Sports 5(3), 2017-06-28, https://pmc.ncbi.nlm.nih.gov/articles/PMC5968958/, 2026-10-19 접속
 [^8]: [SNS] "대학생인데 과제가 너무 많아서 따로 운동할 시간도 안 생기고 일주일에 3-4일은 밤을 샙니다ㅜㅜ" — 네이버 지식iN 게시글, 2019-10-07, https://kin.naver.com/qna/detail.naver?dirId=71102&docId=337484280, 2026-10-19 접속
 [^9]: [매체] "연령대별로는 ▶50대 이하에서 '시간 부족' ▶60대에서 '관심 부족' ▶70세 이상에서 '건강 문제' 응답 비율이 가장 높게 나타났다." — 신화섭, 「"생활체육 걷기-보디빌딩-등산 순" 문체부, 국민 9000명 조사 결과 발표」, 머니투데이, 2026-01-19, https://www.mt.co.kr/sports/2026/01/19/2026011912100485038, 2026-10-19 접속
+[^10]: [매체] "육아정책연구소와 여성가족부 연구에서도 기혼 여성들이 운동을 중단하는 가장 큰 이유로 시간 부족과 돌봄 부담이 꼽힌다." — 권준영, 「“애는 누가 보냐고?”…엄마들의 눈물겨운 ‘새벽 5시 생활체육’」, 세계일보, 2026-05-19, https://www.segye.com/newsView/20260519500428, 2026-11-08 접속
