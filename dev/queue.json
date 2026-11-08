@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-08T06:35:49.867Z",
-  "nextSeq": 4181,
-  "stops": 215,
+  "savedAt": "2026-11-08T09:40:15.114Z",
+  "nextSeq": 4193,
+  "stops": 216,
   "items": [
     {
-      "id": "c0f333bb",
-      "title": "skipping-care-due-to-cost 보강: 문학·SNS 파편, money-worry 관계",
+      "id": "5050f8a2",
+      "title": "quiet-quitting 보강: 2010년 이전 파편(work to rule, bare minimum)",
       "priority": 50,
-      "note": "2026-11-08 작성. 후보: 김유정 땡볕(여성 1937-02) ko.wikisource 땡볕 무료 진찰권 장면, brunch @1280850d8019482/144 (2026-02-02) '돈 때문에 병원에 못 가면 어쩌지' 불안. medical-care-avoidance 하위로 둘지는 그 문서 요약이 비용을 포함하지 않아 보류",
-      "createdAt": "2026-11-08T06:14:11.327Z",
-      "seq": 4178
-    },
-    {
-      "id": "b8391aba",
-      "title": "clock-watching-at-work 보강: 시기별 파편",
-      "priority": 50,
-      "note": "2026-11-08 Lewis 1917 문학 더함. 남은 후보: Bennett, A Man from the North, 1898, gutenberg 52247 'as six o'clock approached, he no longer hurried his work in order to be ready to leave the office immediately the clock struck.' Dickens Old Curiosity Shop 700 점심시간 기다리기. 공공 파편 없음",
-      "createdAt": "2026-11-08T06:34:28.328Z",
-      "seq": 4179
+      "note": "2026-11-08 추가. 발행일 2022~2026 뿐. JIBS 2023-11-24 articlesDetail/35528 '설문에서 전체 응답자 가운데 58% 정도가 ‘조용한 사직’을 고려 중이라고 답했습니다.' 후보(제목 ‘조용한 사직’.. 10명 중 6명 꼴). Hubbard A Message to Garcia (gutenberg 17195, 1899) 'help that does nothing but loaf when his back is turned' 는 고용주 시각, 감독 없을 때 빈둥거림이라 어긋남. TD Magazine 2004 'When Workers Disengage' 429",
+      "createdAt": "2026-11-08T09:38:43.375Z",
+      "seq": 4191
     },
     {
       "id": "09011dd7",
@@ -117,14 +109,6 @@
       "seq": 3517
     },
     {
-      "id": "fa52e811",
-      "title": "no-time-to-exercise 보강: 일하는 어머니의 시간 부족",
-      "priority": 40,
-      "note": "2026-11-03 후보: 세계일보 2026-05-19 segye.com/newsView/20260519500428 기혼 여성 운동 중단 이유 시간 부족·돌봄. Spotswood 2021 eprints.leedsbeckett.ac.uk 8998 mothering practices work against leisure time physical activity",
-      "createdAt": "2026-11-03T15:27:36.088Z",
-      "seq": 3518
-    },
-    {
       "id": "ea09f48c",
       "title": "rushing-closing-doors 보강: 학술 파편, 열차 문이 다시 열린다는 믿음",
       "priority": 40,
@@ -187,14 +171,6 @@
       "note": "2026-11-03 코멘토 2026 SNS 더함. 원인 후보: Martinez 2013 punitive response, PSNet blame culture 2012-06, ITPro 2025-07-09 covering-up-cyber-attacks 17%",
       "createdAt": "2026-11-03T15:36:24.494Z",
       "seq": 3529
-    },
-    {
-      "id": "4f2e89fb",
-      "title": "keeping-browser-tabs-open 보강: 학술 파편",
-      "priority": 40,
-      "note": "2026-11-02 Chang 등 CHI 2021 'When the Tab Comes Due' 초록은 ACM DL 이 Cloudflare 봇 확인, semanticscholar 빈 응답. 2026-11-03 arXiv API 검색 결과 없음, semanticscholar API 429. 다른 판(CMU KiltHub) 찾기. 후보: uxplanet tab-hoarding",
-      "createdAt": "2026-11-03T15:36:39.846Z",
-      "seq": 3530
     },
     {
       "id": "fa4864c2",
@@ -563,6 +539,14 @@
       "note": "2026-11-08 후보: Trollope, The Three Clerks, 1858, gutenberg 7481 'young men, too, were observed to leave not much after four o'clock, without calling down on themselves Mr. Hardlines' usual sarcasm.' 실락원의 별 1956 더함",
       "createdAt": "2026-11-08T06:34:28.464Z",
       "seq": 4180
+    },
+    {
+      "id": "a192396f",
+      "title": "skipping-care-due-to-cost 와 money-worry 원인 간선",
+      "priority": 40,
+      "note": "2026-11-08 HN 31319884 SNS 파편 더함. 원인 간선 근거 후보: Straight Dope 993439/20 (2023-11-21) 'I’m afraid I’ll get billed 1 to 3 hundred dollars to talk to a doctor' 는 두려움만 있고 인과 문장 없음. lemmy.ca/comment/866536 'every trip to the doctors a huge worry' 는 JS 렌더. 한국어 SNS 후보 없음",
+      "createdAt": "2026-11-08T09:10:55.769Z",
+      "seq": 4188
     },
     {
       "id": "e8ba47a7",
@@ -2547,6 +2531,30 @@
       "note": "2026-11-08 채만식 레디메이드 인생(신동아 1934-05) ko.wikisource 레디메이드_인생 '실망이나 하는 체하고 잠시 더 앉아 있는 것이다' 원문 확인됨. 다른 종류 파편 필요",
       "createdAt": "2026-11-08T06:14:11.202Z",
       "seq": 4177
+    },
+    {
+      "id": "ce6cff07",
+      "title": "doomscrolling 와 news-avoidance 관계",
+      "priority": 10,
+      "note": "2026-11-08 doomscrolling 추가. CNN 2001-09-15 [^1] 시청자가 TV 에서 눈을 못 떼면서 1분도 더 못 보겠다고 함. 같은 사람 안의 대립 근거 파편 필요. pewresearch 2001 'can't stop watching news about terrorism' 49% 는 403",
+      "createdAt": "2026-11-08T09:20:34.455Z",
+      "seq": 4189
+    },
+    {
+      "id": "a69fe67d",
+      "title": "checking-likes-after-posting 와 deleting-posts-with-few-reactions 관계",
+      "priority": 10,
+      "note": "2026-11-08 checking-likes-after-posting 추가. W Korea 2026-08-08 후속 대목 '이들은 비난보다 무반응을 더 불안하게 느끼곤 하거든요' 는 무반응 불안. 반응 확인이 게시물 삭제로 이어진다는 인과 파편 필요",
+      "createdAt": "2026-11-08T09:27:32.060Z",
+      "seq": 4190
+    },
+    {
+      "id": "48a4eb0f",
+      "title": "workaholism 와 work-rumination-after-hours·skipping-lunch-break 관계",
+      "priority": 10,
+      "note": "2026-11-08 workaholism 추가, 코메디닷컴 2022 파편 더함. 경남신문 2007 [^2] 남은 회사일이 떠올라 출근. 일 중독이 퇴근 뒤 곱씹기나 점심 거르기로 이어진다는 인과 파편 필요. TIME 'Hooked on Work' 406",
+      "createdAt": "2026-11-08T09:40:12.231Z",
+      "seq": 4192
     },
     {
       "id": "02b2f242",
