@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-08T09:40:15.114Z",
-  "nextSeq": 4193,
-  "stops": 216,
+  "savedAt": "2026-11-08T12:39:07.718Z",
+  "nextSeq": 4198,
+  "stops": 217,
   "items": [
     {
-      "id": "5050f8a2",
-      "title": "quiet-quitting 보강: 2010년 이전 파편(work to rule, bare minimum)",
+      "id": "4f9c7bb6",
+      "title": "meeting-arrivals 보강: 다른 시기 영문 문학, 기다리는 사람의 감정",
       "priority": 50,
-      "note": "2026-11-08 추가. 발행일 2022~2026 뿐. JIBS 2023-11-24 articlesDetail/35528 '설문에서 전체 응답자 가운데 58% 정도가 ‘조용한 사직’을 고려 중이라고 답했습니다.' 후보(제목 ‘조용한 사직’.. 10명 중 6명 꼴). Hubbard A Message to Garcia (gutenberg 17195, 1899) 'help that does nothing but loaf when his back is turned' 는 고용주 시각, 감독 없을 때 빈둥거림이라 어긋남. TD Magazine 2004 'When Workers Disengage' 429",
-      "createdAt": "2026-11-08T09:38:43.375Z",
-      "seq": 4191
+      "note": "2026-11-08 추가. 후보: 함대훈 순정해협 1장(위키문헌, 1936) 정거장에서 아들을 기다리며 차가 보이냐고 묻는 어머니. Great Expectations(1400)는 이미 4개 문서, Wuthering Heights(768)도 4개라 5번째는 WARN",
+      "createdAt": "2026-11-08T12:08:54.630Z",
+      "seq": 4196
     },
     {
       "id": "09011dd7",
@@ -2555,6 +2555,14 @@
       "note": "2026-11-08 workaholism 추가, 코메디닷컴 2022 파편 더함. 경남신문 2007 [^2] 남은 회사일이 떠올라 출근. 일 중독이 퇴근 뒤 곱씹기나 점심 거르기로 이어진다는 인과 파편 필요. TIME 'Hooked on Work' 406",
       "createdAt": "2026-11-08T09:40:12.231Z",
       "seq": 4192
+    },
+    {
+      "id": "97f3a040",
+      "title": "대화에서 용건을 잊은 척 나중에 꺼내기",
+      "priority": 10,
+      "note": "2026-11-08 Bacon Of Cunning (Gutenberg 575, saving-the-point-for-the-postscript [^1] 와 같은 출처라 다른 출처 필요) 'he would pass over that, that he intended most; and go forth, and come back again'. saving-the-point-for-the-postscript 와 형제 현상",
+      "createdAt": "2026-11-08T12:17:05.324Z",
+      "seq": 4197
     },
     {
       "id": "02b2f242",
