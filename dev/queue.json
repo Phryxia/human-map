@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-08T12:39:07.718Z",
-  "nextSeq": 4198,
-  "stops": 217,
+  "savedAt": "2026-11-08T15:34:33.962Z",
+  "nextSeq": 4208,
+  "stops": 218,
   "items": [
-    {
-      "id": "4f9c7bb6",
-      "title": "meeting-arrivals 보강: 다른 시기 영문 문학, 기다리는 사람의 감정",
-      "priority": 50,
-      "note": "2026-11-08 추가. 후보: 함대훈 순정해협 1장(위키문헌, 1936) 정거장에서 아들을 기다리며 차가 보이냐고 묻는 어머니. Great Expectations(1400)는 이미 4개 문서, Wuthering Heights(768)도 4개라 5번째는 WARN",
-      "createdAt": "2026-11-08T12:08:54.630Z",
-      "seq": 4196
-    },
-    {
-      "id": "09011dd7",
-      "title": "answering-unknown-calls-silently 보강: 목소리 녹음 걱정 원인",
-      "priority": 45,
-      "note": "2026-11-08 후보: ag.state.mn.us/Consumer/Publications/CanYouHearMe.asp (발행일 미상) 'Scam artists may be able to use a recorded “yes” to claim that the person authorized charges', FTC 2023-03-20 AI 음성 복제 'All he needs is a short audio clip'(curl 403), PDRM 2025-12 '여보세요도 하지 말라' 원문 못 찾음. not-answering-unknown-numbers 신규 후보: Pew 2020-12-14 67%. 2026-11-08 원인 문서(목소리 도용 걱정)가 없어 보류",
-      "createdAt": "2026-11-08T03:28:05.047Z",
-      "seq": 4169
-    },
-    {
-      "id": "7b77e50c",
-      "title": "forgiveness 와 holding-a-grudge·desire-for-revenge 대립 간선",
-      "priority": 45,
-      "note": "2026-11-08 forgiveness 추가. 같은 사람 안에서 용서와 원한이 반대로 민다는 파편 필요. 후보: McCullough 2003 PMID 12635915 (회피·보복 동기 감소, PubMed 429), 2026 HN 50301116. 2026-11-08 PMC4112745, PMC6603330 에 맞는 문장 없음. ojs.wiserpub.com JSPR 3086 Grudges or Forgiveness 는 403. McCullough FFT_JPSP 는 PDF",
-      "createdAt": "2026-11-08T03:28:12.112Z",
-      "seq": 4170
-    },
-    {
-      "id": "7ad5d96c",
-      "title": "skipping-flossing 와 withholding-information-from-doctors 관계",
-      "priority": 40,
-      "note": "2026-11-03 뉴스토마토 2020 이유 파편 더함. NPR 2015 [^2] 는 성인 27% 가 치과의사에게 치실 빈도를 거짓말. 치과의사에게 부풀려 말하기를 withholding-information-from-doctors 하위로 둘지 판단 필요",
-      "createdAt": "2026-11-03T03:17:45.934Z",
-      "seq": 3422
-    },
-    {
-      "id": "8a076539",
-      "title": "thinking-about-secrets 보강: 다른 시기·SNS 파편, fear-of-being-found-out 관계",
-      "priority": 40,
-      "note": "2026-11-03 재시도. Slepian 2019 는 ScienceDaily [^3] 와 같은 연구라 새 면이 아님. 주홍 글자(Gutenberg 25344) 에 비밀을 자꾸 떠올리는 대목 약함. Poe 'Imp of the Perverse' 'perpetually catch myself pondering upon my security' 는 Gutenberg 2148 이 이미 4개 문서에 쓰여 5번째면 WARN. 다른 19세기 문학 필요",
-      "createdAt": "2026-11-03T03:18:56.637Z",
-      "seq": 3425
-    },
-    {
-      "id": "217b530f",
-      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
-      "priority": 40,
-      "note": "2026-11-03 Straight Dope 429436 (2007 죄책감 때문에 한 끼 차림) 더함. 관계 근거 파편은 아직 없음",
-      "createdAt": "2026-11-03T03:21:34.298Z",
-      "seq": 3426
-    },
-    {
-      "id": "a9c5be97",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 40,
-      "note": "2026-11-03 재시도. 간호사 이직 죄책감 공공 출처 없음. 후보: apps.oregonlegislature.gov 2023R1 PublicTestimonyDocument/58182 (간호사 증언, PDF 가능성), likms.assembly.go.kr 회의록, 국가인권위 보도자료",
-      "createdAt": "2026-11-03T03:21:48.835Z",
-      "seq": 3427
-    },
-    {
-      "id": "b439ca91",
-      "title": "impostor-phenomenon 보강: perfectionism 관계 간선, 공공 파편",
-      "priority": 40,
-      "note": "2026-11-03 재시도. 인과 문장 후보: Benoit 오타와대 학위논문 ruor.uottawa.ca items/690e51ca (가면 감정이 완벽주의 염려를 늘림, 역방향 결과 간선 후보) 는 JS 렌더라 대조 불가, bitstreams a59a6978 은 PDF. Cokley 2018 SUNY researchconnect (자존감 매개) 확인 필요",
-      "createdAt": "2026-11-03T03:22:13.254Z",
-      "seq": 3428
-    },
     {
       "id": "bde1838d",
       "title": "plucking-gray-hairs 와 aged-face-in-mirror 관계",
@@ -547,6 +483,30 @@
       "note": "2026-11-08 HN 31319884 SNS 파편 더함. 원인 간선 근거 후보: Straight Dope 993439/20 (2023-11-21) 'I’m afraid I’ll get billed 1 to 3 hundred dollars to talk to a doctor' 는 두려움만 있고 인과 문장 없음. lemmy.ca/comment/866536 'every trip to the doctors a huge worry' 는 JS 렌더. 한국어 SNS 후보 없음",
       "createdAt": "2026-11-08T09:10:55.769Z",
       "seq": 4188
+    },
+    {
+      "id": "781d0f9f",
+      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
+      "priority": 40,
+      "note": "2026-11-03 Straight Dope 429436 (2007 죄책감 때문에 한 끼 차림) 더함. 관계 근거 파편은 아직 없음. 2026-11-08 재시도: 신세감과 집안일이 한 대목에 든 출처 못 찾음. 근접: Catapult Samantha Paige Rosen 에세이 'I reciprocate by doing dishes'(발행일 미상, 보답). 남은 길: 위키문헌 더부살이 단편, Gutenberg The Wide, Wide World, '얹혀살며 밥값' 칼럼",
+      "createdAt": "2026-11-08T15:31:18.868Z",
+      "seq": 4205
+    },
+    {
+      "id": "3dee4fb9",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 40,
+      "note": "2026-11-08 재시도. 공공 HTML 출처 없음. Oregon 주의회 증언 58182 등은 PDF·실명, 영국 의회 committees.parliament.uk 는 봇 확인 403, CDC·NIOSH 페이지에 guilt 없음. 남은 길: 실명 없는 HTML 주의회 회의록 요약(leg.colorado.gov 등)",
+      "createdAt": "2026-11-08T15:33:58.793Z",
+      "seq": 4206
+    },
+    {
+      "id": "43a2cff9",
+      "title": "impostor-phenomenon 보강: perfectionism 관계 간선, 공공 파편",
+      "priority": 40,
+      "note": "2026-11-03 재시도. 인과 문장 후보: Benoit 오타와대 학위논문 ruor.uottawa.ca items/690e51ca 는 JS 렌더, bitstreams a59a6978 은 PDF. Cokley 2018 SUNY researchconnect 확인 필요. 2026-11-08 이미 쓰인 PMC7174434 리뷰는 완벽주의와 상관(associated, related)만 말하고 인과 문장 없음",
+      "createdAt": "2026-11-08T15:34:20.074Z",
+      "seq": 4207
     },
     {
       "id": "e8ba47a7",
@@ -2563,6 +2523,14 @@
       "note": "2026-11-08 Bacon Of Cunning (Gutenberg 575, saving-the-point-for-the-postscript [^1] 와 같은 출처라 다른 출처 필요) 'he would pass over that, that he intended most; and go forth, and come back again'. saving-the-point-for-the-postscript 와 형제 현상",
       "createdAt": "2026-11-08T12:17:05.324Z",
       "seq": 4197
+    },
+    {
+      "id": "5d1c7613",
+      "title": "전화 목소리 녹음 도용 걱정",
+      "priority": 10,
+      "note": "2026-11-08 answering-unknown-calls-silently [^1] 미네소타 법무장관실 안내문이 녹음된 yes 를 결제 승인 주장에 쓴다고 적음. 이 걱정이 answering-unknown-calls-silently 의 원인이 되는지 'A 때문에 B' 파편 필요. 후보: FTC 2023-03-20 AI 음성 복제(curl 403)",
+      "createdAt": "2026-11-08T15:17:25.902Z",
+      "seq": 4204
     },
     {
       "id": "02b2f242",
