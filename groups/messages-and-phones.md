@@ -31,6 +31,7 @@
 - [약관 읽지 않고 동의하기](../docs/agreeing-without-reading-terms.md) 온라인 서비스에 가입하는 사람이 이용약관이나 개인정보 처리방침을 읽지 않고 동의 버튼을 누른다.
 - [온라인 자기 노출](../docs/online-self-disclosure.md) 사람이 소셜 미디어 같은 온라인 공간에서 자기 사생활과 개인적인 일을 스스로 드러낸다.
   - [프라이버시 역설](../docs/privacy-paradox.md)
+- [올린 글의 반응 자꾸 확인하기](../docs/checking-likes-after-posting.md) 소셜 미디어에 글이나 사진을 올린 사람이 좋아요나 점수가 얼마나 늘었는지 보려고 자꾸 다시 확인한다.
 - [울리지 않은 휴대전화 진동 느끼기](../docs/phantom-phone-vibration.md) 휴대전화를 가지고 다니는 사람이 전화가 울리지 않았는데도 진동이 왔다고 느낀다.
 - [읽고 답하지 않기](../docs/leaving-messages-on-read.md) 메신저로 메시지를 받은 사람이 메시지를 읽고도 답을 보내지 않는다.
 - [읽음 표시를 피하려고 메시지 열지 않기](../docs/avoiding-read-receipts.md) 메신저 메시지를 받은 사람이 상대에게 읽음 표시가 뜨지 않도록 대화방을 열지 않고 알림 미리보기 같은 다른 경로로 내용을 본다.

@@ -430,6 +430,7 @@
 - [옛 편지 다시 읽기](docs/rereading-old-letters.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [온라인 자기 노출](docs/online-self-disclosure.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [온화한 시기](docs/benign-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [올린 글의 반응 자꾸 확인하기](docs/checking-likes-after-posting.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [외출 전 옷 여러 번 갈아입기](docs/trying-on-outfits-before-going-out.md) ([남의 시선과 창피함](groups/others-gaze.md))
