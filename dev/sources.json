@@ -21867,5 +21867,35 @@
     "last": "2026-11-08",
     "result": "VERIFIED",
     "lastVerified": "2026-11-08"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=650387&rettype=abstract&retmode=text": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=1774635&rettype=abstract&retmode=text": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://news.ycombinator.com/item?id=421949": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://www.edweek.org/leadership/the-unexpected-reason-some-students-procrastinate/2017/08": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.741821/full": {
+    "first": "2026-11-08",
+    "last": "2026-11-08",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-08"
   }
 }
