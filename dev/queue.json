@@ -1,24 +1,80 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T15:37:51.840Z",
-  "nextSeq": 4327,
-  "stops": 226,
+  "savedAt": "2026-11-09T18:36:52.860Z",
+  "nextSeq": 4351,
+  "stops": 227,
   "items": [
     {
-      "id": "7fe000f8",
+      "id": "959575b7",
       "title": "mind-going-blank 보강: 학술 파편, 2000년 이전 파편, staircase-wit 결과 간선",
       "priority": 50,
       "note": "2026-11-09 추가(HN 23995662, crozetgazette 2020-08-08 두 파편 모두 2020). 후보: mentalfloss.com/article/544512 (2018-07-16) 내향·외향 차이, HN 7979144 (2014) 화면을 지켜보면 머리가 하얘짐. staircase-wit 와 원인 간선은 '때문에' 문장 필요",
-      "createdAt": "2026-11-09T15:32:00.048Z",
-      "seq": 4322
+      "createdAt": "2026-11-09T18:09:24.983Z",
+      "seq": 4341
     },
     {
-      "id": "8bbe76a4",
+      "id": "d90b6ac0",
       "title": "anger-rumination 보강: SNS 파편, holding-a-grudge 관계",
       "priority": 50,
       "note": "2026-11-09 추가, displaced-aggression 결과 간선 넣음. SNS 후보 못 찾음: HN Algolia(still angry replaying 등) 없음, rickhanson.com/anger-rumination Cloudflare 403(별칭 근거 후보), supple.kr politics/93310809 은 곱씹기 아님, damoang free/4190774 403. 한국어 학술 후보 accesson.kr kpageneral v.30/2/397 (2011)",
-      "createdAt": "2026-11-09T15:33:50.527Z",
-      "seq": 4323
+      "createdAt": "2026-11-09T18:09:35.040Z",
+      "seq": 4342
+    },
+    {
+      "id": "2929f291",
+      "title": "early-morning-solitude 보강: 학술 또는 공공 파편, 한국어 파편, 1853년 문학",
+      "priority": 50,
+      "note": "2026-11-09 추가(문학 1911, SNS 2001·2004). 후보: Villette(Gutenberg 9182, 이미 4개 문서 사용) 여름 아침 혼자 누리려 일찍 일어남, PMC3399900 (2012) 아침형 긍정 정서는 혼자 시간과 무관",
+      "createdAt": "2026-11-09T18:17:06.407Z",
+      "seq": 4343
+    },
+    {
+      "id": "2ac7c097",
+      "title": "peeking-at-others-shopping-carts 보강: 한국어 파편, 학술·공공 파편",
+      "priority": 50,
+      "note": "2026-11-09 추가(SNS 2010, 매체 2011·2025). 한국 커뮤니티 후보 못 찾음. eGullet Nosying other people baskets 봇 확인 페이지. twig24 2026-01-08 계산대 뒷사람 시선 불편(보는 쪽 아님)",
+      "createdAt": "2026-11-09T18:23:45.820Z",
+      "seq": 4345
+    },
+    {
+      "id": "5425e912",
+      "title": "dancing-alone-at-home 보강: 학술 파편, 한국어 파편, 남이 볼 때는 추지 않는 조건",
+      "priority": 50,
+      "note": "2026-11-09 추가. singletrackworld dance-do-you 2021-07-26 댓글 'Even when there is actually nobody watching' 은 같은 출처라 못 씀. 학술 후보: Quiroga Murcia 2009 탱고 2x2(초록 잘림), jyx 60204 Dance Like Someone is Watching(움직임 양 비교)",
+      "createdAt": "2026-11-09T18:27:59.695Z",
+      "seq": 4346
+    },
+    {
+      "id": "fab0f42e",
+      "title": "saving-gift-wrap 보강: 문학 파편, 한국어 파편, 공공 설문",
+      "priority": 50,
+      "note": "2026-11-09 추가(SNS 2008, 매체 2023·2025). 후보: Cranford(Gutenberg 394, 1853) 꾸러미 끈을 자르지 않고 풀어 모아 둠은 끈이라 별개 현상일 수 있음. ALPLA 2024 87% 재사용 보도자료 열지 못함",
+      "createdAt": "2026-11-09T18:31:35.314Z",
+      "seq": 4347
+    },
+    {
+      "id": "c56f0847",
+      "title": "glancing-at-own-reflection-in-windows 보강: SNS 파편, 학술 파편, body checking 관계",
+      "priority": 50,
+      "note": "2026-11-09 추가(문학 1934, 매체 2019 확인됨 2개뿐). 후보: medium.com/the-hairpin how-to-stop-checking-yourself-out, markmcguire.substack.com 107-shop-window-reflections, 섭식장애 기관 블로그의 body checking",
+      "createdAt": "2026-11-09T18:34:38.123Z",
+      "seq": 4348
+    },
+    {
+      "id": "26e74664",
+      "title": "looking-into-lit-windows 보강: 한국어 파편, 1845년 이전 문학",
+      "priority": 50,
+      "note": "2026-11-09 추가, 같은 날 hburgcitizen 2024-06-27 더함. 후보: Gutenberg 27200 성냥팔이 소녀(1845) 창 불빛과 거위 냄새. maily.so/jojal 2023-12-14 는 비행기에서 본 불빛이라 창이 아님",
+      "createdAt": "2026-11-09T18:35:15.297Z",
+      "seq": 4349
+    },
+    {
+      "id": "9664d900",
+      "title": "pocketing-pebbles 보강: 문학 파편, 학술·공공 파편, 국립공원 채집 금지와의 관계",
+      "priority": 50,
+      "note": "2026-11-09 추가(매체 2012, SNS 2025 확인됨 2개뿐). creativenonfiction rock-hounds 에 Pictured Rocks 채집 금지 대목(210자 초과). bostonreview picking-pebbles Cloudflare 차단. HN 45705125 2025-10-26 가족이 여행마다 돌 가져옴(같은 출처)",
+      "createdAt": "2026-11-09T18:36:42.333Z",
+      "seq": 4350
     },
     {
       "id": "b1e741b2",
@@ -2539,6 +2595,22 @@
       "note": "2026-11-09 burning-farm-waste 와 working-through-heat 를 원인으로 잇는 파편이 2026-10-27, 10-30 탐색에서 없어 원인 간선 항목을 버리고 공통 상위 후보로 넣음. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
       "createdAt": "2026-11-09T09:18:43.220Z",
       "seq": 4280
+    },
+    {
+      "id": "0fde2e5b",
+      "title": "깨울까 봐 움직이지 않기",
+      "priority": 10,
+      "note": "Anna Karenina(1399, 이미 4개 문서 사용) 키티가 아기 손에 입 맞추고 싶으나 깨울까 봐 참음. watching-a-loved-one-sleep 와 가까움",
+      "createdAt": "2026-11-09T18:09:12.497Z",
+      "seq": 4340
+    },
+    {
+      "id": "2c8803ec",
+      "title": "남의 카트 보고 같은 물건 사기 (cart envy)",
+      "priority": 10,
+      "note": "2026-11-09 peeking-at-others-shopping-carts 작업 중. fox5ny.com people-put-healthy-items... (2021-09-10) 다섯 중 둘이 cart envy 경험, couponsinthenews 2021-09-02 40%. 같은 설문 40% 는 판단 피하려 건강식만 담음(남의 시선 의식하기 관계 후보)",
+      "createdAt": "2026-11-09T18:23:45.720Z",
+      "seq": 4344
     },
     {
       "id": "02b2f242",
