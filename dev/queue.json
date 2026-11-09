@@ -1,129 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T00:41:20.004Z",
-  "nextSeq": 4232,
-  "stops": 221,
+  "savedAt": "2026-11-09T03:25:50.754Z",
+  "nextSeq": 4261,
+  "stops": 222,
   "items": [
-    {
-      "id": "1fc5ea59",
-      "title": "rainy-day-gloom 보강: 원인 간선과 상위 검토",
-      "priority": 50,
-      "note": "2026-11-09 fnnews 202307151123568910 의 '일조량이 줄어드는 계절이나 날씨에는 멜라토닌 분비량이 늘어나면서 기분이 가라앉거나' 대목은 같은 URL 이라 다른 문서 근거로 못 씀. seasonal-mood-change 와 공통 상위(날씨와 계절에 따른 기분 변화) 검토. Lucas & Lawless 2013 PMC3695376 은 영향 거의 없음, PMC 가 reCAPTCHA",
-      "createdAt": "2026-11-09T00:13:15.889Z",
-      "seq": 4228
-    },
-    {
-      "id": "b81c99fb",
-      "title": "fear-of-thunderstorms 보강: 숨는 행동과 한국어 파편",
-      "priority": 50,
-      "note": "2026-11-09 아오조라 野村胡堂 「銭形平次捕物控 夕立の女」 1950 57205_61619 천둥 울리면 덧문 닫고 모기장 치고 염불(蚊帳 ruby 있음), brunch @@3rRd/27 2026-04-08 천둥번개 밤 지새운 화가, weather.gov/eax/stormanxiety 공공. staying-outdoors-in-thunderstorms 와 대립 근거 파편 찾기",
-      "createdAt": "2026-11-09T00:25:09.293Z",
-      "seq": 4229
-    },
-    {
-      "id": "54a413c5",
-      "title": "fear-of-needles 보강: 진료 회피 결과 간선",
-      "priority": 50,
-      "note": "2026-11-09 Straight Dope 547357/1 2010 게시글이 주사 때문에 병원을 피한다고 하나 SNS 같은 글을 medical-care-avoidance 에 넣으면 WARN. 다른 인과 출처 필요. kormedi 1335675 대체 대목 접종날 졸도",
-      "createdAt": "2026-11-09T00:30:18.508Z",
-      "seq": 4230
-    },
-    {
-      "id": "f73601c4",
-      "title": "fear-of-spiders-and-insects 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-09 Nesbit Treasure Seekers Gutenberg 770 애벌레 보고 비명(원작 발행 연도 페이지로 확인 필요), Anna Karenina 1399 'afraid of spiders' 는 이미 4문서 사용",
-      "createdAt": "2026-11-09T00:41:12.364Z",
-      "seq": 4231
-    },
-    {
-      "id": "17994cbb",
-      "title": "making-new-years-resolutions 보강: abandoning-resolutions 관계, SNS 파편",
-      "priority": 40,
-      "note": "2026-11-03 Pepys 4146, Twain 1863 더함. 아오조라 大倉燁子 1950 「今年の抱負」 54481 해마다 결심하고 실행 못함, 2월부터 시듦(작심삼일 후보). Twain 같은 글 'Thirty days from now, we shall have cast our reformation to the winds'",
-      "createdAt": "2026-11-03T15:19:34.253Z",
-      "seq": 3515
-    },
-    {
-      "id": "5bea94e0",
-      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, 별칭, 다른 시기 파편",
-      "priority": 40,
-      "note": "2026-11-03 Perndorfer 2018 초록(europepmc PMID 30426612): 'patient protective buffering predicted increased spouse FCR that same day' 는 배우자의 FCR 이고 예측이라 간선 근거로 약함, PMC 페이지는 curl 에 봇 페이지. brunch greenktm/14 2024 스캔자이어티 하위 후보. 별칭 'fear of cancer recurrence' 근거 파편 필요",
-      "createdAt": "2026-11-03T15:25:20.934Z",
-      "seq": 3517
-    },
-    {
-      "id": "ea09f48c",
-      "title": "rushing-closing-doors 보강: 학술 파편, 열차 문이 다시 열린다는 믿음",
-      "priority": 40,
-      "note": "2026-11-03 mediahub 819416 2014 더함. 남은 것: 학술 파편, DNV 2018 후보",
-      "createdAt": "2026-11-03T15:28:25.250Z",
-      "seq": 3519
-    },
-    {
-      "id": "fdc026ba",
-      "title": "anticipatory-grief 보강: no-tears-at-funeral 결과 간선, relief-after-caregiving-death 관계, 다른 시기 파편",
-      "priority": 40,
-      "note": "2026-11-03 alzheimers.org.uk why.10633 의 고모 댓글 'cried all their tears on the long journey ... did not shed a tear' 는 인과지만 같은 스레드가 no-tears-at-funeral [^4] 라 쓸 수 없음. brunch pamella 도 no-tears [^9] 로 사용됨. mumsnet bereavement 796797 2009 'didn't really grieve much when she died because over the years we had lost her slowly' 는 anticipatory-grief 다른 시기 파편 후보. no-tears 쪽 근거는 다른 출처 필요",
-      "createdAt": "2026-11-03T15:30:23.623Z",
-      "seq": 3520
-    },
-    {
-      "id": "3ea643be",
-      "title": "relief-after-caregiving-death 보강: 관계",
-      "priority": 40,
-      "note": "2026-11-02 AgingCare 434079 스레드 댓글 2017-12 'you’re not grieving right now because it’s been a relief from all of your duties' 는 결과 no-tears-at-funeral 근거 후보이나 같은 URL 을 anticipatory-grief 가 쓰므로 다른 문서에 넣으면 SNS 같은 글 WARN. 다른 출처 필요. Levy 1976 PMID 957295, Sons and Lovers 217",
-      "createdAt": "2026-11-03T15:30:27.583Z",
-      "seq": 3521
-    },
-    {
-      "id": "f219f40f",
-      "title": "slowing-only-at-speed-cameras 보강: SNS 파편과 원인 간선",
-      "priority": 40,
-      "note": "2026-11-03 Yorkshire Live 2004-07-12 examiner.co.uk 5087941 더함(잃은 시간 만회 과속). LSE 2017-10-25 kangaroo effect, SBS Biz 2023-09-30 후면 단속. SNS 파편 필요",
-      "createdAt": "2026-11-03T15:31:46.402Z",
-      "seq": 3522
-    },
-    {
-      "id": "8084b5d1",
-      "title": "mother-in-law-conflict 보강: 결과 간선",
-      "priority": 40,
-      "note": "2026-11-02 孔雀東南飛 문학 파편 더함. 남은 후보: PMC9726850 2022 시어머니 갈등과 산모 우울 연관(결과 간선 후보이나 산후 우울 문서가 아직 없음, 2026-11-03 find 확인), 산림청 2018-11-08 korea.kr 156303001 (공공)",
-      "createdAt": "2026-11-03T15:31:55.987Z",
-      "seq": 3523
-    },
-    {
-      "id": "8aacdad1",
-      "title": "blocking-the-intersection 보강: 관계와 SNS 파편",
-      "priority": 40,
-      "note": "2026-11-02 yellow-light-dilemma 와 관계 검토(경기일보 2008 [^2], news.seoul 5181 [^4]). 2026-11-03 두 파편 모두 두 현상의 인과를 말하지 않아 간선 근거 아님. CSM 1986-12-17 m.csmonitor.com/1986/1217/atraff-f.html gridlock 결과 후보. SNS 파편 필요",
-      "createdAt": "2026-11-03T15:33:50.143Z",
-      "seq": 3526
-    },
-    {
-      "id": "49f70361",
-      "title": "tolerating-unpaid-wages 보강: 관계와 SNS 파편",
-      "priority": 40,
-      "note": "2026-11-02 not-reporting-workplace-injury, enduring-workplace-harassment 와 공통 상위(직장에서 불이익을 참고 넘기기) 검토. 머니투데이 2026-09-19 mt.co.kr/article/2026091813444187671 회사 사정 듣고 월급 기다림. Hansard 2003 같은 페이지 'afraid of losing their job' 대목",
-      "createdAt": "2026-11-03T15:33:57.609Z",
-      "seq": 3527
-    },
-    {
-      "id": "22bfa2e8",
-      "title": "hiding-mistakes-at-work 보강: 원인 간선",
-      "priority": 40,
-      "note": "2026-11-03 코멘토 2026 SNS 더함. 원인 후보: Martinez 2013 punitive response, PSNet blame culture 2012-06, ITPro 2025-07-09 covering-up-cyber-attacks 17%",
-      "createdAt": "2026-11-03T15:36:24.494Z",
-      "seq": 3529
-    },
-    {
-      "id": "fa4864c2",
-      "title": "reluctance-to-delegate 보강: 공공 파편",
-      "priority": 40,
-      "note": "2026-11-03 교보eBook 2021 한국어 파편 더함. 공공 파편 필요. KIT Responsibility Hoarding 은 PDF",
-      "createdAt": "2026-11-03T15:37:41.420Z",
-      "seq": 3531
-    },
     {
       "id": "97e9a568",
       "title": "burning-farm-waste 보강: working-through-heat 관계",
@@ -531,6 +411,46 @@
       "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 못 찾음. 2026-11-08 Secret Agent 974, 蛋白石 15950, Pepys 4200, Ulysses 4300 등 31종 다시 봐도 확인 뒤 재확인 대목 없음. Ulysses 'couldnt rest easy till I bolted all the doors' 는 근접. 남은 곳: pepysdiary.com 1667-11-29, 1666-07-07",
       "createdAt": "2026-11-08T21:37:17.933Z",
       "seq": 4223
+    },
+    {
+      "id": "e458fdd5",
+      "title": "rainy-day-gloom 보강: 원인과 결과 간선",
+      "priority": 40,
+      "note": "2026-11-09 상위 weather-mood-reactivity 추가함. 매일신문 2007061416073780768 '축축 늘어지는 몸을 가누지 못해 침대 위를' 는 weather-mood-reactivity 가 씀. 경향 lady.khan 202509040912001 비 오는 날 무기력 후보",
+      "createdAt": "2026-11-09T03:08:34.771Z",
+      "seq": 4247
+    },
+    {
+      "id": "a4b8d8e3",
+      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
+      "priority": 40,
+      "note": "2026-11-09 1950 野村胡堂, 2026 brunch 3rRd/27 더함. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 의 蚊帳 대목은 ruby 때문에 source-check 원문에 （かや）가 끼어 쓰지 못함",
+      "createdAt": "2026-11-09T03:10:03.849Z",
+      "seq": 4248
+    },
+    {
+      "id": "8964c5db",
+      "title": "fear-of-needles 보강: medical-care-avoidance 결과 간선",
+      "priority": 40,
+      "note": "2026-11-09 avoiding-blood-donation 결과 간선 더함(dovepress JBM 2016). 진료 회피 인과 출처 아직 없음, racgp 2009 는 associated 라 근거 약함",
+      "createdAt": "2026-11-09T03:11:30.454Z",
+      "seq": 4249
+    },
+    {
+      "id": "66caac59",
+      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, SNS 파편",
+      "priority": 40,
+      "note": "2026-11-09 Lasry 1992 europepmc 1544117 더함. HN 43027887 2025 은 배우자의 재발 두려움이라 맞지 않음. Perndorfer 2018 은 예측이라 간선 근거 약함",
+      "createdAt": "2026-11-09T03:14:25.430Z",
+      "seq": 4251
+    },
+    {
+      "id": "919a316b",
+      "title": "anticipatory-grief 보강: no-tears-at-funeral 결과 간선, relief-after-caregiving-death 관계",
+      "priority": 40,
+      "note": "2026-11-09 Gilliland 1998 europepmc 10342940 더함. mumsnet 796797 은 봇 확인 페이지라 못 씀. Lindemann 1944 원문 후보",
+      "createdAt": "2026-11-09T03:16:41.779Z",
+      "seq": 4252
     },
     {
       "id": "e8ba47a7",
@@ -1115,6 +1035,78 @@
       "note": "2026-11-03 뉴스토마토 2020 이유 파편 더함. NPR 2015 [^2] 는 성인 27% 가 치과의사에게 치실 빈도를 거짓말. 2026-11-07 NPR 본문에 인과 문장 없음. 치실 사용 부풀려 말하기는 습관을 줄여 말하기와 방향이 반대라 하위로 두기 어렵다",
       "createdAt": "2026-11-07T15:21:53.942Z",
       "seq": 4093
+    },
+    {
+      "id": "cbc757c2",
+      "title": "making-new-years-resolutions 와 abandoning-resolutions 관계 근거",
+      "priority": 30,
+      "note": "2026-11-09 Okura 1950 54481 과 HN 8137424 2014 더함. 두 현상 사이 인과를 말하는 파편 아직 없음. 결심을 많이 세울수록 포기가 잦다는 연구 찾기",
+      "createdAt": "2026-11-09T03:13:27.968Z",
+      "seq": 4250
+    },
+    {
+      "id": "f983aaf2",
+      "title": "relief-after-caregiving-death 보강: 관계",
+      "priority": 30,
+      "note": "2026-11-09 anticipatory-grief 원인 간선 근거 탐색. Schulz 2003 72% 는 이미 [^4]. 늦은 단계 치매 간병인이 더 안도하고 준비된 경우 안도가 컸다는 전향 연구(검색 요약, 출처 미확인) 후보",
+      "createdAt": "2026-11-09T03:17:08.964Z",
+      "seq": 4253
+    },
+    {
+      "id": "faa606c7",
+      "title": "slowing-only-at-speed-cameras 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-09 HN 41929953 2024 더함. 원인 후보: 2004 examiner 잃은 시간 만회, LSE 2017-10-25 kangaroo effect, SBS Biz 2023-09-30 후면 단속",
+      "createdAt": "2026-11-09T03:17:46.475Z",
+      "seq": 4254
+    },
+    {
+      "id": "b36534bd",
+      "title": "mother-in-law-conflict 보강: 결과 간선",
+      "priority": 30,
+      "note": "2026-11-09 skipping-holiday-gatherings 결과 후보 검색, 다음 2017-01-27 v.daum 20170127173532421 친정 향하는 며느리 기사는 인과가 약함. PMC9726850 산모 우울 후보",
+      "createdAt": "2026-11-09T03:18:08.261Z",
+      "seq": 4255
+    },
+    {
+      "id": "85026fb5",
+      "title": "blocking-the-intersection 보강: 결과 간선",
+      "priority": 30,
+      "note": "2026-11-09 HN 49637420 2026 더함. HN 49796762 2026-09-22 'block the box and cause everything to grind to a halt' 정체 결과 후보, CSM 1986-12-17 gridlock 후보. 정체 문서 없음",
+      "createdAt": "2026-11-09T03:18:53.002Z",
+      "seq": 4256
+    },
+    {
+      "id": "e1f63e25",
+      "title": "tolerating-unpaid-wages 보강: 관계",
+      "priority": 30,
+      "note": "2026-11-09 HN 17849677 2018 더함. not-reporting-workplace-injury, enduring-workplace-harassment 와 공통 상위 검토 남음. HN 18011960 2018 CEO 가 돈이 묶였다고 약속하며 임금 미지급",
+      "createdAt": "2026-11-09T03:19:56.772Z",
+      "seq": 4257
+    },
+    {
+      "id": "932689c3",
+      "title": "hiding-mistakes-at-work 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-09 perfectionism 원인 후보 검색, 직접 근거 없음. hhs.se 2021 Dahl, Werr 컨설팅 회사 문화가 실수를 숨기게 한다(긍정 문화). 원인 문서 후보: 비난 두려움",
+      "createdAt": "2026-11-09T03:20:25.693Z",
+      "seq": 4258
+    },
+    {
+      "id": "b8112d68",
+      "title": "reluctance-to-delegate 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-09 Hansard 와 business.gov.au 에서 찾지 못함. ANZ business hub, Airtasker 2026-06 은 매체",
+      "createdAt": "2026-11-09T03:20:45.314Z",
+      "seq": 4259
+    },
+    {
+      "id": "ed3e56b1",
+      "title": "climate-inaction 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-09 DESNZ Public Attitudes Tracker Summer 2026 gov.uk 페이지에서 개인 행동이 소용없다는 대목 못 찾음. Winter 2025 'Attitudes to action on climate change' 절 후보",
+      "createdAt": "2026-11-09T03:25:48.610Z",
+      "seq": 4260
     },
     {
       "id": "75b0ae75",
