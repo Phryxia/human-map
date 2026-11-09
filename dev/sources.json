@@ -17660,27 +17660,27 @@
   },
   "https://api.parliament.uk/historic-hansard/westminster_hall/2003/mar/12/national-minimum-wage": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-09"
   },
   "https://opus.lib.uts.edu.au/handle/10453/132581": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-09"
   },
   "https://magazine.hankyung.com/business/article/202410282395b": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
-    "result": "VERIFIED",
+    "last": "2026-11-09",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-02"
   },
   "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18918": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-09"
   },
   "https://www.personneltoday.com/hr/uk-staff-top-the-cover-up-league-table-for-work-mistakes": {
     "first": "2026-11-02",
@@ -22781,6 +22781,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://news.ycombinator.com/item?id=49637420": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://news.ycombinator.com/item?id=17849677": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
