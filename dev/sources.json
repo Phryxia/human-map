@@ -3867,21 +3867,21 @@
   },
   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4839a4.htm": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://www.mt.co.kr/thebio/2023/11/08/2023110814435362579": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://uni.oslomet.no/pansoc/2024/10/02/new-paper-drivers-and-barriers-of-seasonal-vaccination-uptake/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-10-19"
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148775250": {
     "first": "2026-10-19",
@@ -3981,9 +3981,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3081210/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3969748/": {
     "first": "2026-10-19",
@@ -4149,9 +4149,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3718666/": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://onmanorama.com/news/kerala/ring-the-bell-in-ksrtc-bus-stop-answer-passengers-women.html": {
     "first": "2026-10-19",
@@ -4167,9 +4167,9 @@
   },
   "https://www.cdc.gov/respvaxview/publications/reasons-for-nonvaccination-2023-24.html": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://www.instiz.net/name/49861851": {
     "first": "2026-10-19",
@@ -22649,6 +22649,36 @@
     "lastVerified": "2026-11-09"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13023856/": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.gutenberg.org/cache/epub/24276/pg24276-images.html": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.racgp.org.au/afp/2009/march/fear-of-needles": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://boards.straightdope.com/t/how-to-deal-with-a-needle-phobia-need-answer-fast/547357/1": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://kormedi.com/1335675/": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8220023/": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",

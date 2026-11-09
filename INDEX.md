@@ -548,6 +548,7 @@
 - [좋은 물건 아껴 두기](docs/saving-things-for-best.md) ([돈과 소비](groups/money.md))
 - [주말 몰아 자기](docs/weekend-catch-up-sleep.md) ([시간과 하루 습관](groups/daily-time.md))
 - [주머니 두드려 소지품 확인하기](docs/pocket-patting.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [주사 공포](docs/fear-of-needles.md) ([건강과 위험](groups/health-and-safety.md))
 - [주운 지갑 돌려주기](docs/returning-lost-wallets.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [죽은 이에게 말 걸기](docs/talking-to-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))
