@@ -14,7 +14,7 @@
 
 2014년 블로그 글[^5]의 글쓴이는 장면을 상상하고 영리한 논리를 내세워 말다툼에서 확실히 이기는 사람이 많다고 적었다. 2020년 7월 기사[^6]는 그 자리에서 준비한 말을 꺼내기에 늦은 사람이 머릿속에서 대화를 되풀이하며 그 말을 뒤늦게 끼워 넣는다고 썼다. 2020년 10월 에세이[^7]의 글쓴이는 실제로 있었던 말다툼의 흐름을 바꿔 되풀이하거나 끝난 말다툼을 머릿속에서 이어 간다고 썼다.
 
-2023년 게시글[^8]의 글쓴이는 날이 갈수록 분해서 비슷한 상황이 생기면 이렇게 받아치겠다는 상상을 하기 시작했다. 2024년 게시글[^9]의 글쓴이는 설거지 같은 일을 하다가 머릿속에서 배우자와 크게 다툰 끝에 이혼까지 했다고 적었다. 2026년 기사[^10]에 실린 응답자는 일어나지 않을 말다툼을 샤워하며 늘 연습한다고 말했다.
+2023년 게시글[^8]의 글쓴이는 날이 갈수록 분해서 비슷한 상황이 생기면 이렇게 받아치겠다는 상상을 하기 시작했다. 2024년 게시글[^9]의 글쓴이는 설거지 같은 일을 하다가 머릿속에서 배우자와 크게 다툰 끝에 이혼까지 했다고 적었다. 2026년 3월 글[^10]의 필자는 머릿속에서 대화를 연습하는 까닭이 스스로를 중요하게 여기기 때문이라고 적었다. 2026년 5월 기사[^11]에 실린 응답자는 일어나지 않을 말다툼을 샤워하며 늘 연습한다고 말했다.
 
 # 관계
 
@@ -50,4 +50,5 @@
 [^7]: [매체] "You can replay an actual argument you had with someone but altering its course; you can continue an argument with someone (in your head) after the argument is over;" (누군가와 실제로 했던 말다툼을 흐름만 바꿔 되풀이할 수도 있고, 말다툼이 끝난 뒤에도 그 사람과 (머릿속에서) 말다툼을 이어 갈 수도 있다.) — Sam Woolfe, "Why Do We Have Imaginary Arguments With People?", 2020-10-05, https://www.samwoolfe.com/2020/10/imaginary-arguments-with-people.html, 2026-11-05 접속
 [^8]: [SNS] "날이 지날수록 너무 분하더라구요 그래서 이런 상황이 생기면 이런 식으로 받아쳐야 겠다는 상상을 하기 시작했어요" — 마인드카페, 게시글, 2023-04-10, https://mindcafe.co.kr/story?id=1869148, 2026-11-05 접속
 [^9]: [SNS] "I've ended up in blazing rows with the Mrs ending in divorce (in my head), whilst washing up or doing some other mundane task." (설거지나 다른 단조로운 일을 하다가 (머릿속에서) 아내와 크게 다투고 이혼으로 끝난 적이 있다.) — Singletrack World, 게시글, 2024-03-17, https://singletrackworld.com/forum/off-topic/do-you-have-an-internal-monologue/paged/2/, 2026-11-05 접속
-[^10]: [매체] "so I am always rehearsing for arguments in the shower that will never happen, but god do I read my shower wall for filth!" (그래서 나는 일어나지 않을 말다툼을 샤워하며 늘 연습하는데, 샤워실 벽에다 대고 얼마나 퍼붓는지 모른다!) — PEDESTRIAN.TV, "12 People Spill On Who They're Having Imaginary Fights With, From 'Scum Landlords' To 'Obsessed Exes'", 2026-05-22, https://www.pedestrian.tv/culture/asked-people-imaginary-arguments/, 2026-11-05 접속
+[^10]: [매체] "The reason we rehearse these conversations isn’t because we’re anxious. It’s because we’re self-important." (우리가 이런 대화를 연습하는 까닭은 불안해서가 아니다. 스스로를 중요하게 여기기 때문이다.) — Lachlan Brown, "I became calmer the day I realized that much of what I worried about was rehearsing conversations that would probably not happen", Silicon Canals, 2026-03-24, https://siliconcanals.com/i-became-calm-when-i-realized-90-percent-of-worries-were-rehearsing-conversations-that-would-never-happen/, 2026-11-09 접속
+[^11]: [매체] "so I am always rehearsing for arguments in the shower that will never happen, but god do I read my shower wall for filth!" (그래서 나는 일어나지 않을 말다툼을 샤워하며 늘 연습하는데, 샤워실 벽에다 대고 얼마나 퍼붓는지 모른다!) — PEDESTRIAN.TV, "12 People Spill On Who They're Having Imaginary Fights With, From 'Scum Landlords' To 'Obsessed Exes'", 2026-05-22, https://www.pedestrian.tv/culture/asked-people-imaginary-arguments/, 2026-11-05 접속
