@@ -1,6 +1,6 @@
 # 사후 확신 편향
 
-별칭: Hindsight bias[^2]
+별칭: Hindsight bias[^2], 사후 과잉 확신 편향[^7]
 
 일의 결과를 알게 된 사람이 그 결과를 처음부터 예측할 수 있었다고 느낀다.
 
@@ -16,7 +16,7 @@
 
 2012년 9월 연구[^4]의 저자들은 이 편향을 어떤 일이 알려진 뒤에 그 일이 알려지기 전보다 더 예측 가능했다고 믿는 것으로 설명했다. 같은 달 보도자료[^5]는 사람들이 실제로는 처음부터 알지 못했는데도 알았던 것처럼 느끼는 일이 잦다고 적었다.
 
-2015년 3월 스포츠경향 칼럼[^6]은 사건의 결과를 알고 나서 처음부터 그 전개를 알고 있었다고 주장하는 일이 흔하다고 적었다. 2025년 9월 법률신문 기고[^7]의 필자는 불확실했던 회사의 상장도 지나고 보면 성공이 당연하고 확실했던 것처럼 느껴진다고 적었다.
+2015년 3월 스포츠경향 칼럼[^6]은 사건의 결과를 알고 나서 처음부터 그 전개를 알고 있었다고 주장하는 일이 흔하다고 적었다. 2025년 4월 한국경제 기고[^7]의 필자는 주식이나 부동산 투자, 중요한 경영 판단에서 과거의 결정을 탓할 때 이 편향이 자주 인용된다고 적었다. 2025년 9월 법률신문 기고[^8]의 필자는 불확실했던 회사의 상장도 지나고 보면 성공이 당연하고 확실했던 것처럼 느껴진다고 적었다.
 
 # 관계
 
@@ -48,4 +48,5 @@
 [^4]: [학술] "when they believe that an event is more predictable after it becomes known than it was before it became known" (어떤 일이 알려진 뒤에 그 일이 알려지기 전보다 더 예측 가능했다고 믿을 때) — N. J. Roese, K. D. Vohs, 「Hindsight Bias」, Perspectives on Psychological Science 7(5), 2012-09, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26168501&rettype=abstract&retmode=text, 2026-10-23 접속
 [^5]: [매체] "The problem is that too often we actually didn’t know it all along, we only feel as though we did." (문제는 우리가 실제로는 처음부터 알지 못했는데 그저 안 것처럼 느낄 때가 너무 많다는 것이다.) — Association for Psychological Science, 「‘I Knew It All Along…Didn’t I?’ – Understanding Hindsight Bias」, 2012-09-06, https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html, 2026-10-23 접속
 [^6]: [매체] "우리 주변에서도 사건의 결과를 알고 나서 ‘처음부터 그 사건이 어떻게 전개될지 알고 있었다’고 주장하는 경우를 흔히 볼 수 있습니다." — 노승권, 「기억과 신화를 믿어서는 안 되는 이유」, 스포츠경향, 2015-03-10, https://sports.khan.co.kr/article/201503101050143, 2026-10-23 접속
-[^7]: [매체] "아무리 불확실한 일이었더라도 지나고 보면 그 회사의 성공적 상장이 당연하고 확실했던 것처럼 느껴진다." — 김화진, 「사후편향과 포괄적 규제」, 법률신문, 2025-09-10, https://www.lawtimes.co.kr/news/211239, 2026-10-23 접속
+[^7]: [매체] "사후 과잉 확신 편향은 등락을 거듭하는 주식이나 부동산 투자나 중요한 경영상 판단 등에서 과거의 결정을 탓할 때 종종 인용되곤 한다." — 「거봐, 내가 뭐랬어 뒤늦은 확신이 부른 오류」, 한국경제, 2025-04-28, https://www.hankyung.com/article/202504278937i, 2026-11-09 접속
+[^8]: [매체] "아무리 불확실한 일이었더라도 지나고 보면 그 회사의 성공적 상장이 당연하고 확실했던 것처럼 느껴진다." — 김화진, 「사후편향과 포괄적 규제」, 법률신문, 2025-09-10, https://www.lawtimes.co.kr/news/211239, 2026-10-23 접속

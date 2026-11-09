@@ -7928,21 +7928,21 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26168501&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html": {
     "first": "2026-10-23",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17650144&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39075804&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8864,21 +8864,21 @@
   },
   "https://www.gutenberg.org/cache/epub/1342/pg1342.txt": {
     "first": "2026-10-23",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://sports.khan.co.kr/article/201503101050143": {
     "first": "2026-10-23",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.lawtimes.co.kr/news/211239": {
     "first": "2026-10-23",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.seoul.co.kr/news/2023/11/24/20231124500091": {
     "first": "2026-10-23",
@@ -21446,9 +21446,9 @@
   },
   "https://scienceforums.net/topic/48936-science-and-the-hindsight-bias": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://thefinancialdiet.com/?p=2717": {
     "first": "2026-11-07",
@@ -23087,6 +23087,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://news.ycombinator.com/item?id=23995662": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.hankyung.com/article/202504278937i": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
