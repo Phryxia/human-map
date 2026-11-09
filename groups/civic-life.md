@@ -12,7 +12,7 @@
 - [길고양이에게 밥 주기](../docs/feeding-stray-cats.md) 동네의 주인 없는 고양이에게 사람이 사료나 물을 꾸준히 챙겨 준다.
 - [길에 쓰레기 버리기](../docs/littering.md) 밖에서 쓰레기가 생긴 사람이 쓰레기통이 아닌 길이나 주변에 두고 간다.
   - [담배꽁초 길에 버리기](../docs/tossing-cigarette-butts.md)
-- [노력이 소용없다는 생각](../docs/feeling-ones-effort-makes-no-difference.md) 사람이 자기 한 사람의 행동이 결과에 차이를 만들지 못한다고 생각한다.
+- [노력이 소용없다는 생각](../docs/feeling-ones-effort-makes-no-difference.md) 사람이 자기 한 사람의 행동이나 노력이 결과에 차이를 만들지 못한다고 생각한다.
   - [신고해도 소용없다는 믿음](../docs/believing-reporting-is-futile.md)
 - [다원적 무지](../docs/pluralistic-ignorance.md) 집단 안의 사람이 속으로는 이해하지 못하거나 동의하지 않으면서 다른 사람들은 이해하거나 동의한다고 믿고 겉으로 따른다.
   - [또래 음주량 과대 추정](../docs/overestimating-peer-drinking.md)
