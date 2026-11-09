@@ -3159,9 +3159,9 @@
   },
   "https://www.nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1090&bcIdx=135117": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://www.index.go.kr/unify/idx-info.do?idxCd=8104": {
     "first": "2026-10-18",
@@ -22871,6 +22871,24 @@
     "lastVerified": "2026-11-09"
   },
   "https://brunch.co.kr/@kazet2000/84": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://journals.shareok.org/arp/article/view/236": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.sidae.com/article/2024052019198040958": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.pressian.com/pages/articles/2025060318435923830": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",

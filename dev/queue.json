@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T06:21:50.395Z",
-  "nextSeq": 4265,
+  "savedAt": "2026-11-09T06:27:56.392Z",
+  "nextSeq": 4267,
   "stops": 222,
   "items": [
     {
@@ -19,6 +19,14 @@
       "note": "2026-11-09 작성. 후보: mcst 2014 pSeq=13948 늘어난 여가시간을 TV 등 소극적 휴식으로, PMC10888168 (2024) 인지 부담 높은 노동자는 지쳐 운동 안 함(no-time-to-exercise 원인 후보), brunch @sisunlines/106 (2026-09-24). guilt-about-resting, procrastination 관계 후보(Reinecke 2014 죄책감)",
       "createdAt": "2026-11-09T06:21:50.279Z",
       "seq": 4264
+    },
+    {
+      "id": "9e6cc629",
+      "title": "last-minute-vote-decision 보강: SNS 파편, choice-deferral 상위 여부",
+      "priority": 50,
+      "note": "2026-11-09 작성. 후보: nec 2006 bcIdx=135117 못 정한 이유 후보자를 잘 몰라서 46.3%, irishtimes 2024-07-31 일주일 안 결정 56%, ir.lib.uwo.ca/etd/466 McGregor 2012, nec 2025 bcIdx=294263 과반이 한 달 전 결정(나타나지 않는 조건)",
+      "createdAt": "2026-11-09T06:27:56.286Z",
+      "seq": 4266
     },
     {
       "id": "97e9a568",
