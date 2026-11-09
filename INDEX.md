@@ -54,6 +54,7 @@
 - [고치지 않고 새로 사기](docs/replacing-instead-of-repairing.md) ([돈과 소비](groups/money.md))
 - [공용 와이파이에서 민감한 일 하기](docs/sensitive-tasks-on-public-wifi.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [공용 우산 돌려주지 않기](docs/not-returning-shared-umbrellas.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [공중화장실 변기에 앉지 않기](docs/hovering-over-public-toilet-seats.md) ([건강과 위험](groups/health-and-safety.md))
 - [과다복용 현장에서 신고 꺼리기](docs/not-calling-for-help-at-overdose.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [과속 운전](docs/speeding.md) ([길과 운전](groups/roads-and-driving.md))
 - [과음](docs/heavy-drinking.md) ([건강과 위험](groups/health-and-safety.md))
