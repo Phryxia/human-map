@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T03:25:50.754Z",
-  "nextSeq": 4261,
+  "savedAt": "2026-11-09T06:16:09.505Z",
+  "nextSeq": 4263,
   "stops": 222,
   "items": [
+    {
+      "id": "ab77029e",
+      "title": "fear-of-dying-alone 보강: SNS 파편, 결과 관계",
+      "priority": 50,
+      "note": "2026-11-09 작성. 후보: 보배드림 freeb/3435162 (2026-09-09) 고독사할까 무섭다며 연락 안 되면 찾아와 달라고 서로 당부, Yahoo UK 전재 Guardian 2024-07-01 lonely-deaths 87세 'worried about dying alone'. loneliness 와의 관계 근거 파편 필요",
+      "createdAt": "2026-11-09T06:16:09.394Z",
+      "seq": 4262
+    },
     {
       "id": "97e9a568",
       "title": "burning-farm-waste 보강: working-through-heat 관계",

@@ -650,6 +650,7 @@
 - [혼자 생각만 하는 시간 꺼리기](docs/avoiding-being-alone-with-thoughts.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 여가 보내기](docs/solo-leisure.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 있기 선호](docs/preference-for-solitude.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [혼자 죽어 늦게 발견될 걱정](docs/fear-of-dying-alone.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼잣말](docs/talking-to-oneself.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [화날 때 열까지 세기](docs/counting-to-ten-when-angry.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [화상 회의에서 자기 얼굴 보기의 불편함](docs/video-call-self-view-discomfort.md) ([남의 시선과 창피함](groups/others-gaze.md))
