@@ -16,6 +16,8 @@ Jowett 이 영어로 옮긴 플라톤의 「국가」 4권[^1]에서 레온티�
 
 2021년 블로그 글[^4]의 연구자는 사고에서 누가 다치거나 죽기를 바라지 않으면서도 그런 일이 있었다면 그 장면을 보고 싶어지는 끌림을 느낀다고 쓴다.
 
+2025년 10월 기사[^5]에서 한 교수는 판단력이 아직 발달 중인 청소년이 자극적인 영상을 계속 찾는다고 말했다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@ Jowett 이 영어로 옮긴 플라톤의 「국가」 4권[^1]에서 레온티�
 [^2]: [학술] "This paper examined, with a behavioral paradigm, to what extent people choose to view stimuli that portray death, violence or harm." (이 논문은 행동 패러다임으로 사람들이 죽음, 폭력, 위해를 그린 자극을 어느 정도 골라 보는지를 살폈다.) — Suzanne Oosterwijk, 「Choosing the negative: A behavioral demonstration of morbid curiosity」, PLoS ONE 12(7), 2017-07-06, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178399, 2026-11-01 접속
 [^3]: [매체] "About one in five adults in a representative sample of Americans had watched at least part of a beheading video created and posted online by the Islamic State group" (미국인 대표 표본에서 성인 약 5명 가운데 1명은 이슬람국가 집단이 만들어 온라인에 올린 참수 영상을 적어도 일부 본 적이 있었다) — UC Irvine News, "People who watch beheading videos are motivated by fear of terrorism, UCI study finds", 2019-02-25, https://news.uci.edu/2019/02/25/people-who-watch-beheading-videos-are-motivated-by-fear-of-terrorism-uci-study-finds/, 2026-11-07 접속
 [^4]: [매체] "It’s true for almost everyone that you don’t want to see someone injured and you don’t hope anyone died in the wreck. But, if they did, you do feel compelled to look at it." (누군가 다치는 걸 보고 싶지 않고 사고로 누가 죽었기를 바라지 않는다는 건 거의 모두에게 맞는 말이다. 그런데 정말 그랬다면 그걸 보지 않고는 못 배기게 된다.) — Coltan Scrivner, 「What Is Morbid Curiosity?」, Psychology Today, 2021-02-22, https://www.psychologytoday.com/us/blog/morbid-minds/202102/what-is-morbid-curiosity, 2026-11-01 접속
+[^5]: [매체] "청소년들은 전두엽에서 판단력이 아직 발달 중인 상태이기 때문에 자극적인 영상을 계속 추구하는, 브레이크 없는 행동으로 이어진다" — 「SNS 넘쳐나는 '잔혹 실화' 콘텐츠…"청소년 악영향 크게 우려"」, 머니투데이, 2025-10-30, https://www.mt.co.kr/society/2025/10/30/2025103008261274745, 2026-11-09 접속
