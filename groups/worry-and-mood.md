@@ -38,6 +38,8 @@
     - [건강검진 이상 소견 뒤 재검 미루기](../docs/skipping-follow-up-after-abnormal-screening.md)
     - [심장 증상에도 도움 청하기 미루기](../docs/delaying-help-for-heart-symptoms.md)
     - [치과 공포](../docs/dental-anxiety.md)
+- [날씨 타기](../docs/weather-mood-reactivity.md) 날씨가 바뀌면 사람의 기분이 그 날씨에 따라 밝아지거나 가라앉는다.
+  - [비 오는 날의 울적함](../docs/rainy-day-gloom.md)
 - [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
 - [둠스크롤링](../docs/doomscrolling.md) 불안한 소식을 접한 사람이 나쁜 뉴스를 멈추지 못하고 계속 찾아 읽는다.
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.
@@ -48,7 +50,6 @@
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
-- [비 오는 날의 울적함](../docs/rainy-day-gloom.md) 비가 오거나 하늘이 흐린 날 사람의 기분이 가라앉고 울적해진다.
 - [생각 때문에 잠 못 이루기](../docs/lying-awake-thinking.md) 잠자리에 누운 사람이 낮에 겪은 일이나 잠에 대한 걱정을 되풀이해 생각하느라 잠들지 못한다.
 - [생각하려고 걷기](../docs/walking-to-think.md) 사람이 생각을 정리하거나 마음을 가라앉히려고 밖으로 나가 걷는다.
 - [손톱 물어뜯기](../docs/nail-biting.md) 사람이 초조하거나 지루하거나 어려운 일을 붙잡고 있을 때 손톱을 물어뜯는다.
