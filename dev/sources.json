@@ -17630,33 +17630,33 @@
   },
   "https://www.nyc.gov/html/om/html/2000b/pr430-00.html": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://www.kyeonggi.com/article/200812220307612": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://mediahub.seoul.go.kr/archives/172056": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://news.seoul.go.kr/traffic/archives/5181": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://trid.trb.org/View/1439541": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://api.parliament.uk/historic-hansard/westminster_hall/2003/mar/12/national-minimum-wage": {
     "first": "2026-11-02",
@@ -22775,6 +22775,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://news.ycombinator.com/item?id=41929953": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://news.ycombinator.com/item?id=49637420": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",

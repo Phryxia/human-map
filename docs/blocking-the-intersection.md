@@ -14,6 +14,8 @@
 
 2017년 Saroj 등의 학회 논문[^5]은 아래쪽 차량이 밀려 빠져나갈 공간이 없는데도 교차로에 들어서는 차량을 "Block the Box" 라고 부른다.
 
+2026년 9월 Hacker News 댓글[^6]의 글쓴이는 출퇴근 시간에 운전자들이 신호가 바뀔 때마다 거의 매번 삼거리 교차로를 막는다고 썼다.
+
 # 관계
 
 ## 상위
@@ -43,3 +45,4 @@
 [^3]: [공공] "반대편에서 오는 직진 차량들이 자기 신호가 끝날 무렵 다음 신호를 기다리지 않고 무리하게 앞차의 꼬리를 물고 교차로로 진입하는 바람에 다른 방향에서 진입하는 차량과 엉켜서 삽시간에 사거리가 주차장으로 변해버렸다." — 이난희, 「얌체 꼬리 물기, 캠코더로 단속한다!」, 서울특별시 미디어허브, 2013-02-22, https://mediahub.seoul.go.kr/archives/172056, 2026-11-02 접속
 [^4]: [공공] "기존의 위치에선 운전자들이 황색신호가 들어오는 순간에도 무리하게 꼬리물기를 할 수 있는 여지가 있었다면, 조정되는 위치는 교차로를 지나면 신호를 볼 수 없어 정지선을 준수해야만 하는 상황이라 꼬리물기가 차단되는 효과가 있습니다." — 서울특별시, 「신호시스템으로 '교차로 꼬리물기' 잡는다」, 서울특별시 교통, 2013-12-16, https://news.seoul.go.kr/traffic/archives/5181, 2026-11-02 접속
 [^5]: [학술] "A vehicle is considered to “Block the Box” when it enters the intersection with no space to exit due to the traffic spillback downstream." (하류의 차량 정체가 거슬러 올라와 빠져나갈 공간이 없는데 교차로에 들어서는 차량은 "Block the Box" 를 한다고 본다.) — Abhilasha Saroj, Samuel Harris, Angshuman Guin, Michael O Rodgers, Michael Hunter, "Analysis of Vehicle Blocking Behavior on Intersection Performance", Transportation Research Board 96th Annual Meeting, 2017, https://trid.trb.org/View/1439541, 2026-11-02 접속
+[^6]: [SNS] "My apartment overlooks a three way intersection. Drivers block the box almost every light cycle in rush hour." (우리 아파트에서 삼거리 교차로가 내려다보인다. 출퇴근 시간에는 운전자들이 거의 신호 주기마다 교차로를 막는다.) — Hacker News 댓글, 2026-09-10, https://news.ycombinator.com/item?id=49637420, 2026-11-09 접속
