@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T06:35:32.832Z",
-  "nextSeq": 4273,
+  "savedAt": "2026-11-09T06:36:35.314Z",
+  "nextSeq": 4275,
   "stops": 222,
   "items": [
     {
@@ -21,12 +21,12 @@
       "seq": 4266
     },
     {
-      "id": "7081f876",
-      "title": "hovering-over-public-toilet-seats 보강: 공공·SNS 파편",
+      "id": "ce983ad2",
+      "title": "hovering-over-public-toilet-seats 보강: 공공 파편",
       "priority": 50,
-      "note": "2026-11-09 작성. 후보: wexnermedical.osu.edu don't-hover 2020-07-24 (공립대 의료센터 블로그), PMC9053318 Newman 청결 걱정으로 공중화장실 시트 접촉 피함·인종별 차이(발행일 확인 필요), straightdope 645984 2013-01-04 어머니·할머니에게 배워 'So we hovered, for years.', kormedi 2750321 지인은 나이 들어 휴지 깔고 앉음",
-      "createdAt": "2026-11-09T06:35:32.697Z",
-      "seq": 4272
+      "note": "2026-11-09 SNS straightdope 645984/9 더함. 후보: wexnermedical.osu.edu don't-hover 2020-07-24, PMC9053318 Newman 인종별 차이(발행일 확인 필요), kormedi 2750321 지인은 나이 들어 휴지 깔고 앉음",
+      "createdAt": "2026-11-09T06:36:35.212Z",
+      "seq": 4274
     },
     {
       "id": "97e9a568",
