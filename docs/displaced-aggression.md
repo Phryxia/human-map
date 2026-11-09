@@ -30,6 +30,7 @@
 
 ## 원인
 
+- [분노 반추](anger-rumination.md)[^5]
 - [분노 억누르기](anger-suppression.md)[^3]
 - [자기 침묵](self-silencing.md)[^4]
 
