@@ -289,6 +289,7 @@
 - [분노 반추](docs/anger-rumination.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [분노 억누르기](docs/anger-suppression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [분리배출 하지 않기](docs/not-sorting-recyclables.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [불 켜진 남의 창 들여다보기](docs/looking-into-lit-windows.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [불과 전자제품 켜 두기](docs/leaving-lights-on.md) ([시간과 하루 습관](groups/daily-time.md))
 - [불만 제기 회피](docs/non-complaining.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [불이 나면 직접 끄려 하기](docs/fighting-fire-oneself.md) ([건강과 위험](groups/health-and-safety.md))
