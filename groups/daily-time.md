@@ -25,6 +25,7 @@
 - [아침 식사 거르기](../docs/skipping-breakfast.md) 시간이 없거나 입맛이 없는 사람이 아침을 먹지 않고 하루를 시작한다.
 - [알람 끄고 다시 잠들기](../docs/snoozing-the-alarm.md) 아침에 알람을 들은 사람이 알람을 끄거나 미루고 다시 잠든다.
 - [운동에 관심이 없어 운동하지 않기](../docs/not-interested-in-exercise.md) 운동하지 않는 사람이 그 까닭으로 운동에 관심이 없다는 것을 든다.
+- [이른 아침 혼자 있는 시간 누리기](../docs/early-morning-solitude.md) 남들이 아직 자는 이른 아침에 일어난 사람이 혼자 있는 조용한 시간을 누린다.
 - [일하거나 씻으며 흥얼거리기](../docs/humming-while-working.md) 사람이 집안일이나 손일을 하거나 샤워하는 동안 혼자 노래를 흥얼거린다.
 - [작심삼일](../docs/abandoning-resolutions.md) 새해 목표나 결심을 세운 사람이 며칠이나 몇 주 만에 그 일을 그만둔다.
 - [저녁형 성향](../docs/evening-chronotype.md) 저녁형 성향의 사람이 밤늦게 정신이 맑아지고 아침 일찍 일어나는 일정을 힘들어하며 이 성향이 여러 해 이어진다.
