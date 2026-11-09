@@ -335,6 +335,7 @@
 - [서로 계산하겠다고 다투기](docs/fighting-over-the-bill.md) ([돈과 소비](groups/money.md))
 - [서비스 받는 동안 잡담 피하기](docs/avoiding-small-talk-during-service.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [선물 고르기 고민](docs/gift-choosing-anxiety.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [선물 포장지 모아 두기](docs/saving-gift-wrap.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [선택 과부하](docs/choice-overload.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [선택 연기](docs/choice-deferral.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [선풍기 틀고 자기 꺼리기](docs/fear-of-fan-death.md) ([건강과 위험](groups/health-and-safety.md))
