@@ -24,6 +24,7 @@
 
 ## 하위
 
+- [분노 반추](anger-rumination.md)
 - [퇴근 뒤 일 생각 곱씹기](work-rumination-after-hours.md)
 
 ## 원인
