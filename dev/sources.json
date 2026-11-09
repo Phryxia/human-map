@@ -17528,13 +17528,13 @@
   },
   "https://www.agingcare.com/discussions/mom-passed-a-month-ago-i-have-hardly-cried-what-is-wrong-with-me-434079.htm": {
     "first": "2026-11-02",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://pubmed.ncbi.nlm.nih.gov/42087776/": {
     "first": "2026-11-02",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-02"
   },
@@ -18965,9 +18965,9 @@
   },
   "https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.koreadaily.com/article/20260814000207644": {
     "first": "2026-11-04",
@@ -19193,9 +19193,9 @@
   },
   "https://www.virtualhospice.ca/en_US/Main+Site+Navigation/Home/Support/Support/Asked+and+Answered/Grief+and+Loss/Is+it+normal+not+to+cry+after+someone+close+has+died_.aspx": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://newstomato.com/ReadNews.aspx?no=1237003": {
     "first": "2026-11-04",
@@ -22763,6 +22763,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://worldtransitresearch.info/research/8483": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10342940%20AND%20SRC:MED&resultType=core&format=xml": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
