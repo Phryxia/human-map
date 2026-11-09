@@ -16,6 +16,8 @@
 
 2022년 파이낸셜뉴스 칼럼[^6]은 운전자들이 지나친 속도 제한을 답답해하고 내비게이션이 단속 구간을 알려 주어 단속에 걸릴 염려가 적다고 쓴다.
 
+2024년 10월 Hacker News 댓글[^7]의 글쓴이는 사람들이 곧 단속 카메라 자리를 알고 속도를 줄였다가 다음 블록에서 세게 가속했다고 썼다.
+
 # 관계
 
 ## 상위
@@ -46,3 +48,4 @@
 [^4]: [공공] "We all know anecdotal evidence of motorists slamming on the brakes as they drive past speed cameras and then resume their original speed after passing the detection points." (운전자들이 과속 카메라 앞을 지나며 브레이크를 세게 밟았다가 감지 지점을 지난 뒤 원래 속도로 돌아간다는 일화는 우리 모두 안다.) — ACT Legislative Assembly, Hansard, 7th Assembly, Week 09, Page 3956, 2011-08-25, https://hansard.act.gov.au/hansard/7th-assembly/2011/HTML/week09/3956.htm, 2026-11-02 접속
 [^5]: [학술] "The results indicate that kangaroo driving (braking and accelerating) occurs, but no adverse effects on speed or crashes were found." (결과는 캥거루 운전, 곧 제동과 가속이 일어나지만 속도나 사고에 나쁜 효과는 발견되지 않았음을 보여 준다.) — Alena Høye, "Speed cameras, section control, and kangaroo jumps–a meta-analysis", Accident Analysis & Prevention 73, 200-208, 2014, https://www.saferresearch.com/node/1299, 2026-11-02 접속
 [^6]: [매체] "운전자 입장에서는 지나친 속도제한이 답답한 데다, 단속구간을 내비게이션이 친절하게 알려주므로 단속에 걸릴 염려가 별로 없다." — 노주석, 「[fn스트리트] 안전속도 5030」, 파이낸셜뉴스, 2022-04-07, https://www.fnnews.com/news/202204071827171369, 2026-11-02 접속
+[^7]: [SNS] "It didn't seem to do much because people instantly learned it was there, slowed down, then gas it hard the next block." (별 효과가 없어 보였다. 사람들이 곧 카메라가 거기 있다는 것을 알고 속도를 줄였다가 다음 블록에서 세게 밟았다.) — Hacker News 댓글, 2024-10-23, https://news.ycombinator.com/item?id=41929953, 2026-11-09 접속

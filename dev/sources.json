@@ -17546,33 +17546,33 @@
   },
   "https://api.parliament.uk/historic-hansard/commons/2002/mar/08/road-safety": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://koreascience.kr/article/JAKO201015537945365.page?lang=ko": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://hansard.act.gov.au/hansard/7th-assembly/2011/HTML/week09/3956.htm": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://www.saferresearch.com/node/1299": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://www.fnnews.com/news/202204071827171369": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://zh.wikisource.org/wiki/%E5%AD%94%E9%9B%80%E6%9D%B1%E5%8D%97%E9%A3%9B": {
     "first": "2026-11-02",
@@ -18373,9 +18373,9 @@
   },
   "https://www.examiner.co.uk/news/local-news/drivers-pass-cameras-speed-up-5087941": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://comento.kr/job-questions/%EB%AA%A8%EB%93%A0%ED%9A%8C%EC%82%AC/%EB%AA%A8%EB%93%A0%EC%A7%81%EB%AC%B4/%EC%8B%A0%EC%9E%85%EC%9D%B4_%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%B4%20%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-633146": {
     "first": "2026-11-03",
@@ -22769,6 +22769,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10342940%20AND%20SRC:MED&resultType=core&format=xml": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://news.ycombinator.com/item?id=41929953": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
