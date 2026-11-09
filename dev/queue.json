@@ -1,65 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T06:38:11.683Z",
-  "nextSeq": 4275,
-  "stops": 223,
+  "savedAt": "2026-11-09T09:37:56.644Z",
+  "nextSeq": 4283,
+  "stops": 224,
   "items": [
-    {
-      "id": "518ecbc2",
-      "title": "lying-around-instead-of-planned-leisure 보강: SNS 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-09 작성. 후보: mcst 2014 pSeq=13948 늘어난 여가시간을 TV 등 소극적 휴식으로, PMC10888168 (2024) 인지 부담 높은 노동자는 지쳐 운동 안 함(no-time-to-exercise 원인 후보), brunch @sisunlines/106 (2026-09-24). guilt-about-resting, procrastination 관계 후보(Reinecke 2014 죄책감)",
-      "createdAt": "2026-11-09T06:21:50.279Z",
-      "seq": 4264
-    },
-    {
-      "id": "9e6cc629",
-      "title": "last-minute-vote-decision 보강: SNS 파편, choice-deferral 상위 여부",
-      "priority": 50,
-      "note": "2026-11-09 작성. 후보: nec 2006 bcIdx=135117 못 정한 이유 후보자를 잘 몰라서 46.3%, irishtimes 2024-07-31 일주일 안 결정 56%, ir.lib.uwo.ca/etd/466 McGregor 2012, nec 2025 bcIdx=294263 과반이 한 달 전 결정(나타나지 않는 조건)",
-      "createdAt": "2026-11-09T06:27:56.286Z",
-      "seq": 4266
-    },
-    {
-      "id": "ce983ad2",
-      "title": "hovering-over-public-toilet-seats 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-11-09 SNS straightdope 645984/9 더함. 후보: wexnermedical.osu.edu don't-hover 2020-07-24, PMC9053318 Newman 인종별 차이(발행일 확인 필요), kormedi 2750321 지인은 나이 들어 휴지 깔고 앉음",
-      "createdAt": "2026-11-09T06:36:35.212Z",
-      "seq": 4274
-    },
-    {
-      "id": "97e9a568",
-      "title": "burning-farm-waste 보강: working-through-heat 관계",
-      "priority": 40,
-      "note": "2026-10-27 서울신문 2000-03-15 더함. 관계 근거 파편 아직 없음. 2026-10-30 두 문서를 원인으로 잇는 파편 없음, 공통 상위(고령 농민이 위험을 알며 하던 농사일을 잇는 것) 후보. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
-      "createdAt": "2026-11-03T15:37:52.500Z",
-      "seq": 3532
-    },
-    {
-      "id": "06f7d4d9",
-      "title": "following-others-to-evacuate 와 dismissing-fire-alarms 대립 근거",
-      "priority": 40,
-      "note": "2026-11-04 블라인드 2021-11-21 댓글 [^2] 은 오작동이라 무시하려다 남들이 대피해 나감. 같은 글을 dismissing-fire-alarms 에 넣으면 같은 계정 경로 경고라 다른 출처 필요",
-      "createdAt": "2026-11-04T21:27:25.669Z",
-      "seq": 3795
-    },
-    {
-      "id": "7283854f",
-      "title": "self-blame-after-fraud 관계: complying-with-impersonation-calls 결과, 비학술 다른 시기",
-      "priority": 40,
-      "note": "2026-11-04 작성. clien park/17520704 (2022-08-29) 사기 뒤 초라하고 무능해 보였다는 글은 이 문서와 같은 사이트 다른 글. 보이스피싱 피해 뒤 자책 기사, 2010년 이전 파편 필요",
-      "createdAt": "2026-11-04T21:31:49.286Z",
-      "seq": 3797
-    },
-    {
-      "id": "93a961bf",
-      "title": "hesitating-to-use-maternity-seats 와 not-yielding-maternity-seats 관계, 공공 파편",
-      "priority": 40,
-      "note": "2026-11-04 작성. 아주경제 2017 [^1] 은 일반 승객에게 밀려 자리를 내준다고 함(not-yielding-maternity-seats 결과 후보). 인구보건복지협회 2018, 2025 조사(미양보나 시선으로 불편 57.6%) 원문 필요",
-      "createdAt": "2026-11-04T21:33:12.329Z",
-      "seq": 3798
-    },
     {
       "id": "97f301e0",
       "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
@@ -483,6 +427,30 @@
       "note": "2026-11-09 보배드림 freeb/3435162 SNS 파편 더함. 남은 후보: Yahoo UK 전재 Guardian 2024-07-01 lonely-deaths 87세 'worried about dying alone', PMC7551571 혼자 자는 밤에 불안. loneliness 와 원인 간선 근거 파편 필요",
       "createdAt": "2026-11-09T06:32:23.460Z",
       "seq": 4270
+    },
+    {
+      "id": "66296a94",
+      "title": "lying-around-instead-of-planned-leisure 와 guilt-about-resting 원인 간선",
+      "priority": 40,
+      "note": "2026-11-09 SNS 파편 straightdope 499234/19 (2009) 더함. 죄책감 인과 SNS 대목 못 찾음. 후보: overclockers 18837593 (2018-11-19) 유튜브 보며 시간 낭비 느낌, pann 374192269 (2025-03-30) 누워 유튜브 보다 답답함, straightdope 577197 (2011-04-04) 소파에 누워 DVD 보면 부끄러울 것(가정). Reinecke 2014 guilty couch potato 본문 필요",
+      "createdAt": "2026-11-09T09:11:34.831Z",
+      "seq": 4279
+    },
+    {
+      "id": "fdb3259c",
+      "title": "self-blame-after-fraud 와 complying-with-impersonation-calls 원인 간선",
+      "priority": 40,
+      "note": "2026-11-09 msnbc 2008 할머니 사기 '바보 같은 기분' 파편 더함(사칭 전화를 따른 일과 자책의 인과 문장 아님). 후보: ljworld 2006-04-24 financial_abuse_elderly_grows 경품 전화 사기 뒤 'I'm so embarrassed. It was so stupid'(사칭 아님), asiatoday 20261109010003325 금감원 자책 때문에 피해 사실 말 못함, cbc 2024-03-13 grandparent scam too embarrassed to come forward",
+      "createdAt": "2026-11-09T09:29:36.322Z",
+      "seq": 4281
+    },
+    {
+      "id": "10b7f18b",
+      "title": "hesitating-to-use-maternity-seats 와 not-yielding-maternity-seats 원인 간선",
+      "priority": 40,
+      "note": "2026-11-09 정책브리핑 2013 reporterView 148771140 시선 때문에 민망 파편 더함. 공공기관 HTML 에 인과 대목 없음. 후보: korea.kr reporterView 148707988 (2011-03-15) 배려석에 앉은 승객에게 아무 말 못함(실명 인터뷰 간접 인용이라 보류), mohw list_no 351117 (2019-10-10) 배려받지 못한 이유 배가 나오지 않아서 57.1%, 인구보건복지협회 2023\\~2025 조사는 PDF 뿐",
+      "createdAt": "2026-11-09T09:37:40.600Z",
+      "seq": 4282
     },
     {
       "id": "e8ba47a7",
@@ -2587,6 +2555,14 @@
       "note": "2026-11-09 탐색. 매체 후보: m.seoul.co.kr 2011-02-02 20110202010011 '2일 새벽 출발하는 차량과 겹쳐', wikitree 1161505 (2026-09-23) 새벽 출발 눈치게임, m.seoul.co.kr 1994-09-16 도로공사 새벽 출발 권고. 공공·SNS 에서 새벽 출발 자체를 보여 주는 원문 못 찾음(korea.kr 148809057 은 출발 분포만)",
       "createdAt": "2026-11-09T06:31:49.161Z",
       "seq": 4268
+    },
+    {
+      "id": "c32388e1",
+      "title": "고령 농민이 위험을 알면서 하던 농사일 계속하기",
+      "priority": 10,
+      "note": "2026-11-09 burning-farm-waste 와 working-through-heat 를 원인으로 잇는 파편이 2026-10-27, 10-30 탐색에서 없어 원인 간선 항목을 버리고 공통 상위 후보로 넣음. 후보: kyeonggi.com 201703070909998 (2017) 80대 농민 사망",
+      "createdAt": "2026-11-09T09:18:43.220Z",
+      "seq": 4280
     },
     {
       "id": "02b2f242",
