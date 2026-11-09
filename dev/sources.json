@@ -23307,5 +23307,17 @@
     "last": "2026-11-09",
     "result": "VERIFIED",
     "lastVerified": "2026-11-09"
+  },
+  "https://www.gutenberg.org/cache/epub/16317/pg16317.txt": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086906/": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
   }
 }
