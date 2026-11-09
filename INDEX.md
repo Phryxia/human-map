@@ -579,6 +579,7 @@
 - [책 여백에 메모하기](docs/writing-in-book-margins.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [책 읽지 않기](docs/not-reading-books.md) ([시간과 하루 습관](groups/daily-time.md))
 - [처분 효과](docs/disposition-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [천둥 번개 무서움](docs/fear-of-thunderstorms.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [천둥 번개 속 바깥 활동 계속하기](docs/staying-outdoors-in-thunderstorms.md) ([건강과 위험](groups/health-and-safety.md))
 - [첫날 밤 효과](docs/first-night-effect.md) ([시간과 하루 습관](groups/daily-time.md))
 - [첫눈 반기기](docs/welcoming-first-snow.md) ([시간과 하루 습관](groups/daily-time.md))
