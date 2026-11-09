@@ -18,11 +18,13 @@
 
 2007년 12월 뉴질랜드 웰링턴 시의회 보도자료는 공원에 앉아 비둘기에게 먹이를 주거나 음식 찌꺼기를 남기는 사람이 많이 늘었다고 적었다. 같은 글에 따르면 공원에는 새에게 먹이를 주지 말라는 표지판이 이미 여럿 있었다.[^5]
 
-2017년 9월 주간경향의 심리학 칼럼[^6]에서 비둘기에게 과자를 주던 여성은 여기 와서 비둘기에게 과자를 주면 비둘기들이 절대 떠나지 않는다고 말했다.
+2012년 10월 블로그 글[^6]이 옮긴 말에서 한 사회학자는 비둘기에게 먹이를 주려는 충동이 낯선 사람과 이야기를 나누고 싶은 마음과 크게 다르지 않다고 말했다.
 
-2020년 9월 논문[^7]의 설문에서 새에게 먹이를 주는 응답자 다수는 남은 빵과 음식을 버리지 않으려고 먹이를 줬다.
+2017년 9월 주간경향의 심리학 칼럼[^7]에서 비둘기에게 과자를 주던 여성은 여기 와서 비둘기에게 과자를 주면 비둘기들이 절대 떠나지 않는다고 말했다.
 
-2025년 7월 한국 기사에서 과태료가 시행된 광장의 70대 여성은 먹던 김밥을 비둘기에게 나눠 주며 비둘기도 불쌍하지 않으냐고 말했다.[^8]
+2020년 9월 논문[^8]의 설문에서 새에게 먹이를 주는 응답자 다수는 남은 빵과 음식을 버리지 않으려고 먹이를 줬다.
+
+2025년 7월 한국 기사에서 과태료가 시행된 광장의 70대 여성은 먹던 김밥을 비둘기에게 나눠 주며 비둘기도 불쌍하지 않으냐고 말했다.[^9]
 
 # 관계
 
@@ -53,6 +55,7 @@
 [^3]: [공공] "people go to Trafalgar Square precisely for the purpose of feeding the pigeons there and having their photograph taken." (사람들은 바로 그곳에서 비둘기에게 먹이를 주고 사진을 찍으려는 목적으로 트라팔가 광장에 간다.) — UK Parliament, HC Deb 17 July 1950 vol 477 cc1858-9, "Traders, Trafalgar Square", 1950-07-17, https://api.parliament.uk/historic-hansard/commons/1950/jul/17/traders-trafalgar-square, 2026-11-05 접속
 [^4]: [SNS] "You know some people in the big impersonal city get to a point in their life where the feel lonely and feel the need to interact." (알다시피 크고 비정한 도시에서 어떤 사람들은 외로움을 느끼고 누군가와 어울릴 필요를 느끼는 때에 이른다.) — Straight Dope Message Board 댓글, 2007-11-24, https://boards.straightdope.com/t/dont-feed-the-fucking-pigeons-dammit/427529/34, 2026-11-07 접속
 [^5]: [공공] "it’s meant lots more people have been sitting in the park and either feeding the pigeons, or leaving food scraps behind - this is despite a number of existing 'do not feed the birds' signs." (그 때문에 공원에 앉아 비둘기에게 먹이를 주거나 음식 찌꺼기를 남기는 사람이 훨씬 많아졌다. 새에게 먹이를 주지 말라는 표지판이 이미 여럿 있는데도 그렇다.) — Wellington City Council, "Midland Park pigeons face unhappy New Year", Scoop, 2007-12-10, https://www.scoop.co.nz/stories/AK0712/S00099.htm, 2026-11-05 접속
-[^6]: [매체] "그런데 여기 와서 비둘기한테 과자 주면 절대 안 떠나요." — 한성열, 서송희, 「아직도 야단치시는 마음속의 어머니」, 주간경향, 2017-09-04, https://weekly.khan.co.kr/article/201709041646221, 2026-11-07 접속
-[^7]: [학술] "The majority of respondents fed birds so as not to waste bread and meal leftovers." (응답자 다수는 빵과 남은 음식을 버리지 않으려고 새에게 먹이를 줬다.) — S. A. Burt, C. J. Vos, J. A. Buijs, R. J. Corbee, Journal of Animal Physiology and Animal Nutrition, 2020-09, https://openresearch.amsterdam/en/id/88253, 2026-11-05 접속
-[^8]: [매체] "광장 구석에서 돗자리를 펴고 쉬던 70대 여성 A씨는 먹던 김밥을 비둘기에 나눠주며 "비둘기도 불쌍하지 않나. 가끔 주는 건데 뭐 어떤가"라고 말했다." — 뉴시스, 「"비둘기 먹이 주면 과태료 최대 100만원"…현장은 혼선」, 2025-07-05, https://v.daum.net/v/20250705090134051, 2026-11-05 접속
+[^6]: [매체] "The impulse to feed pigeons is not so different from wanting to chat with strangers," (비둘기에게 먹이를 주려는 충동은 낯선 사람과 이야기를 나누고 싶은 마음과 크게 다르지 않다,) — Legally Sociable, "Why New Yorkers and pigeons get along", 2012-10-20, https://legallysociable.com/2012/10/20/why-new-yorkers-and-pigeons-get-along/, 2026-11-09 접속
+[^7]: [매체] "그런데 여기 와서 비둘기한테 과자 주면 절대 안 떠나요." — 한성열, 서송희, 「아직도 야단치시는 마음속의 어머니」, 주간경향, 2017-09-04, https://weekly.khan.co.kr/article/201709041646221, 2026-11-07 접속
+[^8]: [학술] "The majority of respondents fed birds so as not to waste bread and meal leftovers." (응답자 다수는 빵과 남은 음식을 버리지 않으려고 새에게 먹이를 줬다.) — S. A. Burt, C. J. Vos, J. A. Buijs, R. J. Corbee, Journal of Animal Physiology and Animal Nutrition, 2020-09, https://openresearch.amsterdam/en/id/88253, 2026-11-05 접속
+[^9]: [매체] "광장 구석에서 돗자리를 펴고 쉬던 70대 여성 A씨는 먹던 김밥을 비둘기에 나눠주며 "비둘기도 불쌍하지 않나. 가끔 주는 건데 뭐 어떤가"라고 말했다." — 뉴시스, 「"비둘기 먹이 주면 과태료 최대 100만원"…현장은 혼선」, 2025-07-05, https://v.daum.net/v/20250705090134051, 2026-11-05 접속

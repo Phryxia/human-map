@@ -19901,27 +19901,27 @@
   },
   "https://api.parliament.uk/historic-hansard/commons/1950/jul/17/traders-trafalgar-square": {
     "first": "2026-11-05",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.scoop.co.nz/stories/AK0712/S00099.htm": {
     "first": "2026-11-05",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://openresearch.amsterdam/en/id/88253": {
     "first": "2026-11-05",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://v.daum.net/v/20250705090134051": {
     "first": "2026-11-05",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://api.parliament.uk/historic-hansard/lords/1999/mar/25/police-vehicles": {
     "first": "2026-11-05",
@@ -20403,9 +20403,9 @@
   },
   "https://www.gutenberg.org/cache/epub/7353/pg7353.txt": {
     "first": "2026-11-06",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.gutenberg.org/cache/epub/57333/pg57333.txt": {
     "first": "2026-11-06",
@@ -20900,9 +20900,9 @@
   },
   "https://en.wikisource.org/wiki/The_Grey_Wig_(collection)/The_Grey_Wig": {
     "first": "2026-11-06",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.clien.net/service/board/cm_car/14985664": {
     "first": "2026-11-06",
@@ -21362,9 +21362,9 @@
   },
   "https://weekly.khan.co.kr/article/201709041646221": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.agingcare.com/questions/amp/198534": {
     "first": "2026-11-07",
@@ -21398,9 +21398,9 @@
   },
   "https://boards.straightdope.com/t/dont-feed-the-fucking-pigeons-dammit/427529/34": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://boards.straightdope.com/t/what-not-to-do-when-youre-in-the-middle-of-a-heart-attack/799158": {
     "first": "2026-11-07",
@@ -23009,6 +23009,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://jimcrowmuseum.ferris.edu/question/2006/september.htm": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://legallysociable.com/2012/10/20/why-new-yorkers-and-pigeons-get-along/": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
