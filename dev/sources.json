@@ -13997,15 +13997,15 @@
   },
   "https://econpapers.repec.org/RePEc:bla:jomstd:v:40:y:2003:i:6:p:1453-1476": {
     "first": "2026-10-30",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.myosh.com/news/workers-not-reporting-safety-breaches-over-fears-theyll-be-sacked": {
     "first": "2026-10-30",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC1771120/": {
     "first": "2026-10-30",
@@ -18971,9 +18971,9 @@
   },
   "https://www.koreadaily.com/article/20260814000207644": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.nbcnews.com/id/wbna35781743": {
     "first": "2026-11-04",
@@ -22817,6 +22817,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://news.ycombinator.com/item?id=30752395": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://news.ycombinator.com/item?id=6868840": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
