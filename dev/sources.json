@@ -17504,15 +17504,15 @@
   },
   "https://medieus.com/sub_detail/contents_detail.asp?c_num=874": {
     "first": "2026-11-02",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.kihasa.re.kr/hswr/v.43/1/282/%EC%95%94+%EC%83%9D%EC%A1%B4%EC%9E%90%EC%9D%98+%EC%95%94+%EC%9E%AC%EB%B0%9C+%EB%91%90%EB%A0%A4%EC%9B%80+%EB%B0%8F+%EA%B4%80%EB%A0%A8+%EC%9A%94%EC%9D%B8": {
     "first": "2026-11-02",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://m.seoul.co.kr/news/2010/03/30/20100330800046": {
     "first": "2026-11-02",
@@ -18989,9 +18989,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9321869/": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.brookings.edu/articles/to-give-or-not-to-give-the-crisis-of-confidence-in-charities/": {
     "first": "2026-11-04",
@@ -22751,6 +22751,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://news.ycombinator.com/item?id=8137424": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1544117%20AND%20SRC:MED&resultType=core&format=xml": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
