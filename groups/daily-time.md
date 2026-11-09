@@ -35,3 +35,4 @@
 - [첫눈 반기기](../docs/welcoming-first-snow.md) 그해 처음 내리는 눈을 본 사람이 들떠 걸음을 멈추거나 밖으로 나가 눈을 보고 사진을 찍는다.
 - [추운 아침 이불 속에 머물기](../docs/lingering-in-bed-on-cold-mornings.md) 추운 아침에 잠이 깬 사람이 따뜻한 이불 속에 더 있고 싶어 일어나기를 미룬다.
 - [텃밭 가꾸기](../docs/vegetable-gardening.md) 도시에 사는 사람이 작은 텃밭에 작물을 심어 가꾸며 자라는 것을 보고 뿌듯해한다.
+- [하려던 여가 대신 누워 화면 보기](../docs/lying-around-instead-of-planned-leisure.md) 쉬는 시간이 생긴 사람이 하고 싶던 활동 대신 누워서 TV나 휴대폰을 보며 그 시간을 보낸다.

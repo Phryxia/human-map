@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T06:16:09.505Z",
-  "nextSeq": 4263,
+  "savedAt": "2026-11-09T06:21:50.395Z",
+  "nextSeq": 4265,
   "stops": 222,
   "items": [
     {
@@ -11,6 +11,14 @@
       "note": "2026-11-09 작성. 후보: 보배드림 freeb/3435162 (2026-09-09) 고독사할까 무섭다며 연락 안 되면 찾아와 달라고 서로 당부, Yahoo UK 전재 Guardian 2024-07-01 lonely-deaths 87세 'worried about dying alone'. loneliness 와의 관계 근거 파편 필요",
       "createdAt": "2026-11-09T06:16:09.394Z",
       "seq": 4262
+    },
+    {
+      "id": "518ecbc2",
+      "title": "lying-around-instead-of-planned-leisure 보강: SNS 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-09 작성. 후보: mcst 2014 pSeq=13948 늘어난 여가시간을 TV 등 소극적 휴식으로, PMC10888168 (2024) 인지 부담 높은 노동자는 지쳐 운동 안 함(no-time-to-exercise 원인 후보), brunch @sisunlines/106 (2026-09-24). guilt-about-resting, procrastination 관계 후보(Reinecke 2014 죄책감)",
+      "createdAt": "2026-11-09T06:21:50.279Z",
+      "seq": 4264
     },
     {
       "id": "97e9a568",

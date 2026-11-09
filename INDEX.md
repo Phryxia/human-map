@@ -626,6 +626,7 @@
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
 - [푸드뱅크 이용 수치심](docs/food-bank-shame.md) ([돈과 소비](groups/money.md))
 - [프라이버시 역설](docs/privacy-paradox.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [하려던 여가 대신 누워 화면 보기](docs/lying-around-instead-of-planned-leisure.md) ([시간과 하루 습관](groups/daily-time.md))
 - [하차 표시 망설이기](docs/hesitating-to-signal-bus-stop.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [하품 전염](docs/contagious-yawning.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [학교 가기 싫어 꾀병 부리기](docs/faking-sick-to-skip-school.md) ([일터와 일자리](groups/work.md))
