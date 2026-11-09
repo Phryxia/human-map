@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T09:37:56.644Z",
-  "nextSeq": 4283,
-  "stops": 224,
+  "savedAt": "2026-11-09T12:35:19.739Z",
+  "nextSeq": 4287,
+  "stops": 225,
   "items": [
+    {
+      "id": "dc47a978",
+      "title": "feeling-rushed 보강: 국가와 시대 폭",
+      "priority": 50,
+      "note": "이슈 #16. 시간에 쫓기는 느낌을 여러 나라, 여러 시대 파편으로 넓힌다. 현재 파편은 2010~2025 한국, 영국 위주",
+      "createdAt": "2026-11-09T12:09:03.054Z",
+      "seq": 4283
+    },
+    {
+      "id": "c4a59147",
+      "title": "feeling-ones-effort-makes-no-difference 보강: 소비자 밖의 장면",
+      "priority": 50,
+      "note": "이슈 #18. 제목은 그대로 두고 서술이 소비자 행동에 치우친 것을 넓힌다. 일, 학업, 재능과 노력 등 다른 장면의 파편",
+      "createdAt": "2026-11-09T12:09:03.154Z",
+      "seq": 4284
+    },
+    {
+      "id": "cff42eb9",
+      "title": "imaginary-arguments 관계: rumination",
+      "priority": 50,
+      "note": "2026-11-09 후보: letstalk.mindline.sg/t/skills-to-move-on-from-an-argument/16657 (2024-10-08) 받아치지 않고 참은 뒤 그 일을 되풀이하며 받아치는 장면을 그림. whisper7.substack.com/p/being-right (2026-05-13) 반박 연습과 지난 대화 되풀이가 흔들리지 않으려는 욕구에서 나온다. 자기상 원인 문서는 아직 없음",
+      "createdAt": "2026-11-09T12:24:26.126Z",
+      "seq": 4285
+    },
+    {
+      "id": "eb6d693e",
+      "title": "leaving-cooking-unattended 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-06 후보: The Railway Children(1906) gutenberg 1874 kettle 대목은 잠든 대목이 앞 문장이라 인용만으로 안 드러남. Anne of Green Gables(45) 4개 문서 사용. 2026-11-09 Little Women(514) 'The bread burned black; for the salad dressing so aggravated her' 는 다른 일에 정신이 팔린 장면이나 514 도 이미 4개 문서가 써서 WARN",
+      "createdAt": "2026-11-09T12:24:50.923Z",
+      "seq": 4286
+    },
     {
       "id": "97f301e0",
       "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
