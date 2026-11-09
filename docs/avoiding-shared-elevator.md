@@ -4,6 +4,8 @@
 
 엘리베이터에 이웃이나 꺼리는 사람이 타 있거나 같이 탈 것 같으면 함께 타지 않으려고 기다리거나 늦게 나간다.
 
+묶음: [낯선 사람과 공공장소](../groups/strangers-and-public-places.md)
+
 # 서술
 
 2017년 9월 Scientific American 블로그 글[^1]의 필자는 뉴욕에서 엘리베이터를 함께 타는 사람의 수를 줄이는 기술이 있고 그 기술을 elevator dodge 라 부른다고 썼다.
