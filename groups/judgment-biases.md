@@ -14,6 +14,7 @@
 - [사후 확신 편향](../docs/hindsight-bias.md) 일의 결과를 알게 된 사람이 그 결과를 처음부터 예측할 수 있었다고 느낀다.
 - [선택 과부하](../docs/choice-overload.md) 고를 것이 너무 많은 사람이 고르기를 힘들어하거나 고르지 않고 그만둔다.
 - [선택 연기](../docs/choice-deferral.md) 고를 대안 앞에 선 사람이 무엇을 고를지 정하지 않고 결정을 뒤로 미룬다.
+  - [막판에 찍을 후보 정하기](../docs/last-minute-vote-decision.md)
 - [소유 효과](../docs/endowment-effect.md) 자신이 가진 물건에 가지지 않은 사람보다 높은 값을 매기는 사람의 심리다.
 - [승낙 과소평가](../docs/underestimating-compliance.md) 남에게 직접 부탁하는 사람이 상대가 그 부탁을 들어줄 가능성을 실제보다 낮게 어림한다.
 - [연락받는 사람의 감사 과소평가](../docs/underestimating-reach-out-appreciation.md) 안부를 전하려는 사람이 연락을 받는 사람이 그 연락을 얼마나 고마워할지 실제보다 낮게 어림한다.

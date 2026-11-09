@@ -197,7 +197,7 @@
 - [마음에 들지 않는 선물에 기뻐하는 척하기](docs/feigning-delight-at-gifts.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [마중 나가 기다리기](docs/meeting-arrivals.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [마지막 한 조각 남기기](docs/leaving-the-last-piece.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
-- [막판에 찍을 후보 정하기](docs/last-minute-vote-decision.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [막판에 찍을 후보 정하기](docs/last-minute-vote-decision.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [말 꺼내기 전 헛기침](docs/clearing-throat-before-speaking.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [말 안 하기로 화 드러내기](docs/silent-treatment.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [말을 피하려고 다른 일에 몰두한 척하기](docs/feigning-absorption-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

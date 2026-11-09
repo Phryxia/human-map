@@ -20,7 +20,7 @@
 
 ## 하위
 
-없음.
+- [막판에 찍을 후보 정하기](last-minute-vote-decision.md)
 
 ## 원인
 

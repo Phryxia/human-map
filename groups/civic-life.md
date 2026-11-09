@@ -17,7 +17,6 @@
 - [다원적 무지](../docs/pluralistic-ignorance.md) 집단 안의 사람이 속으로는 이해하지 못하거나 동의하지 않으면서 다른 사람들은 이해하거나 동의한다고 믿고 겉으로 따른다.
   - [또래 음주량 과대 추정](../docs/overestimating-peer-drinking.md)
 - [대중교통 무임승차](../docs/fare-evasion.md) 대중교통 승객이 단속에 걸리지 않으리라 여기거나 돈을 아끼려고 요금을 내지 않거나 덜 내고 탄다.
-- [막판에 찍을 후보 정하기](../docs/last-minute-vote-decision.md) 유권자가 선거일이 가까워지거나 투표소 앞에 이르러서야 누구를 찍을지 정한다.
 - [모금 요청 방식에 대한 거부감](../docs/disliking-fundraising-solicitation.md) 기부를 요청받는 사람이 거리나 집 앞에서 기부를 권하는 것 같은 모금 방식을 싫어한다.
 - [물티슈 변기에 버리기](../docs/flushing-wet-wipes.md) 물티슈를 쓴 사람이 그것을 쓰레기통이 아니라 변기에 버려 물로 내린다.
 - [반려견 배설물 치우지 않기](../docs/not-picking-up-dog-waste.md) 개를 산책시키는 사람이 개의 배설물을 치우지 않거나 봉지에 담아 나무나 덤불에 두고 간다.
