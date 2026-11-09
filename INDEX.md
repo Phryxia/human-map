@@ -289,6 +289,7 @@
 - [불확실한 소식을 기다리는 불안](docs/awaiting-uncertain-news.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [뷔페 접시 넘치게 담기](docs/overfilling-buffet-plates.md) ([돈과 소비](groups/money.md))
 - [브라우저 탭 쌓아 두기](docs/keeping-browser-tabs-open.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [비 오는 날의 울적함](docs/rainy-day-gloom.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [비닐봉지 모아 두기](docs/hoarding-plastic-bags.md) ([돈과 소비](groups/money.md))
 - [비둘기에게 먹이 주기](docs/feeding-pigeons.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [비밀번호 재사용](docs/password-reuse.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
