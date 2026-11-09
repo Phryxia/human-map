@@ -76,6 +76,7 @@
   - [보도블록 금 밟지 않기](../docs/avoiding-pavement-cracks.md)
   - [부정 탈까 봐 말 아끼기](../docs/tempting-fate.md)
   - [소원 빌며 동전 던지기](../docs/wishing-coin-toss.md)
+  - [행운의 물건 지니기](../docs/carrying-lucky-charms.md)
 - [하품 전염](../docs/contagious-yawning.md) 남이 하품하는 것을 보거나 하품 이야기를 읽은 사람이 따라 하품한다.
 - [한숨 쉬기](../docs/sighing.md) 사람이 답답하거나 안도할 때 숨을 길게 내쉰다.
 - [혹시 몰라 챙겨 두기](../docs/just-in-case-keeping.md) 사람이 언젠가 필요할지 모른다는 생각에 당장 쓰지 않을 물건이나 돈을 챙기거나 쌓아 둔다.

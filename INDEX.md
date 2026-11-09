@@ -631,6 +631,7 @@
 - [할 말 미리 연습하기](docs/rehearsing-what-to-say.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [할 말을 몰라 아픈 사람과 유족 피하기](docs/avoiding-the-grieving-and-ill.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [핫핸드 믿음](docs/hot-hand-belief.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [행운의 물건 지니기](docs/carrying-lucky-charms.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [향수](docs/homesickness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [허위 합의 효과](docs/false-consensus-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [허풍 떨기](docs/exaggerating-own-stories.md) ([남의 시선과 창피함](groups/others-gaze.md))
