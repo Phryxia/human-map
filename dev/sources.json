@@ -15910,15 +15910,15 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/11920693/": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
-    "result": "VERIFIED",
+    "last": "2026-11-09",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-03"
   },
   "https://www.sidae.com/article/2017122913268023099": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://pubmed.ncbi.nlm.nih.gov/9880251/": {
     "first": "2026-11-01",
@@ -18331,15 +18331,15 @@
   },
   "https://www.gutenberg.org/cache/epub/4146/pg4146-images.html": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://www.marktwainproject.org/writings/ets1/texts/ets-new-years-day/": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-09"
   },
   "https://www.sciencefocus.com/the-human-body/why-do-we-fidget": {
     "first": "2026-11-03",
@@ -21780,9 +21780,9 @@
   },
   "https://www.aozora.gr.jp/cards/001669/files/54481_49241.html": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-09"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39011341%20AND%20SRC:MED&resultType=core&format=json": {
     "first": "2026-11-07",
@@ -22745,6 +22745,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://www.gutenberg.org/cache/epub/770/pg770.txt": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://news.ycombinator.com/item?id=8137424": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
