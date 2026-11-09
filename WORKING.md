@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-11-09T21:05Z | 2026-11-09T21:39Z | glancing-at-own-reflection-in-windows 보강 | glancing-at-own-reflection-in-windows
+없음.
