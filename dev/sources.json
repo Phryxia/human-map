@@ -19637,21 +19637,21 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32508967&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.clien.net/service/board/park/18400094": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41929762&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.ajunews.com/view/20170604213320445": {
     "first": "2026-11-04",
@@ -22955,6 +22955,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://ulmhawkeyeonline.com/24374/news/breaking-news-university-suites-fire-alarm-causes-evacuation": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://www.nbcnews.com/news/amp/wbna26859652": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
