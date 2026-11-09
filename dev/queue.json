@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-08T21:37:32.086Z",
-  "nextSeq": 4224,
-  "stops": 220,
+  "savedAt": "2026-11-09T00:41:20.004Z",
+  "nextSeq": 4232,
+  "stops": 221,
   "items": [
+    {
+      "id": "1fc5ea59",
+      "title": "rainy-day-gloom 보강: 원인 간선과 상위 검토",
+      "priority": 50,
+      "note": "2026-11-09 fnnews 202307151123568910 의 '일조량이 줄어드는 계절이나 날씨에는 멜라토닌 분비량이 늘어나면서 기분이 가라앉거나' 대목은 같은 URL 이라 다른 문서 근거로 못 씀. seasonal-mood-change 와 공통 상위(날씨와 계절에 따른 기분 변화) 검토. Lucas & Lawless 2013 PMC3695376 은 영향 거의 없음, PMC 가 reCAPTCHA",
+      "createdAt": "2026-11-09T00:13:15.889Z",
+      "seq": 4228
+    },
+    {
+      "id": "b81c99fb",
+      "title": "fear-of-thunderstorms 보강: 숨는 행동과 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-09 아오조라 野村胡堂 「銭形平次捕物控 夕立の女」 1950 57205_61619 천둥 울리면 덧문 닫고 모기장 치고 염불(蚊帳 ruby 있음), brunch @@3rRd/27 2026-04-08 천둥번개 밤 지새운 화가, weather.gov/eax/stormanxiety 공공. staying-outdoors-in-thunderstorms 와 대립 근거 파편 찾기",
+      "createdAt": "2026-11-09T00:25:09.293Z",
+      "seq": 4229
+    },
+    {
+      "id": "54a413c5",
+      "title": "fear-of-needles 보강: 진료 회피 결과 간선",
+      "priority": 50,
+      "note": "2026-11-09 Straight Dope 547357/1 2010 게시글이 주사 때문에 병원을 피한다고 하나 SNS 같은 글을 medical-care-avoidance 에 넣으면 WARN. 다른 인과 출처 필요. kormedi 1335675 대체 대목 접종날 졸도",
+      "createdAt": "2026-11-09T00:30:18.508Z",
+      "seq": 4230
+    },
+    {
+      "id": "f73601c4",
+      "title": "fear-of-spiders-and-insects 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-09 Nesbit Treasure Seekers Gutenberg 770 애벌레 보고 비명(원작 발행 연도 페이지로 확인 필요), Anna Karenina 1399 'afraid of spiders' 는 이미 4문서 사용",
+      "createdAt": "2026-11-09T00:41:12.364Z",
+      "seq": 4231
+    },
     {
       "id": "17994cbb",
       "title": "making-new-years-resolutions 보강: abandoning-resolutions 관계, SNS 파편",
