@@ -1,8 +1,10 @@
 import {test} from 'node:test'
+import fs from 'node:fs'
+import path from 'node:path'
 import assert from 'node:assert/strict'
 import {loadAll} from './lib/doc.mjs'
 import {buildReadme, buildOutputs, kindCounts} from './stats.mjs'
-import {checkGroups} from './lib/groups.mjs'
+import {checkGroups, withGroupLine, groupLineOf} from './lib/groups.mjs'
 import {makeDoc, makeRepo} from './lib/fixture.mjs'
 
 test('README 는 머리말과 문서 묶음만 담는다', () => {
@@ -46,4 +48,20 @@ test('묶음 검사: 최상위 현상은 묶음 하나에만 들고 하위 현�
   assert.ok(msgs.some(m => m.startsWith('c 두 묶음에')))
   assert.ok(msgs.some(m => m.includes('문서가 없다: zz')))
   assert.ok(msgs.some(m => m.startsWith('d 최상위 현상이 어느 묶음')))
+})
+
+test('묶음 줄: 문서마다 요약 아래에 든 묶음의 개관 링크를 적고, 이미 맞으면 건드리지 않는다 (이슈 #17)', () => {
+  const dir = makeRepo({
+    a: makeDoc({title: '가', rel: {상위: ['- [나](b.md)']}}),
+    b: makeDoc({title: '나', rel: {하위: ['- [가](a.md)']}}),
+  })
+  const groups = [{id: 'money', title: '돈', summary: '돈 이야기다.', roots: ['b']}, {id: 'rel', title: '관계', summary: '관계다.', roots: []}]
+  const out = buildOutputs(loadAll(dir), '', groups)
+  assert.match(out.get('docs/a.md'), /\n사람이 어떤 상황에서 무언가를 한다\.\n\n묶음: \[돈\]\(\.\.\/groups\/money\.md\)\n\n# 서술\n/)
+  fs.writeFileSync(path.join(dir, 'a.md'), out.get('docs/a.md'))
+  const docs = loadAll(dir)
+  assert.equal(docs.get('a').summary, '사람이 어떤 상황에서 무언가를 한다.')
+  assert.ok(!buildOutputs(docs, '', groups).has('docs/a.md'))
+  assert.equal(withGroupLine(out.get('docs/a.md'), groupLineOf([groups[0], groups[1]])).match(/묶음: .*/g).length, 1)
+  assert.match(withGroupLine(out.get('docs/a.md'), groupLineOf([groups[0], groups[1]])), /묶음: \[돈\]\(\.\.\/groups\/money\.md\), \[관계\]\(\.\.\/groups\/rel\.md\)\n/)
 })

@@ -34,7 +34,7 @@ export function parseFragment(line) {
 export function parseDoc(id, dir = DOCS) {
   const file = path.join(dir, id + '.md')
   const lines = fs.readFileSync(file, 'utf8').replace(/\n+$/, '').split('\n')
-  const doc = {id, file, lines, title: null, aliases: null, aliasList: [], aliasLn: 3, summary: null, sections: {}, headings: [], fragments: [], badFragLines: [], badRelLines: [], strayLines: [], rel: {}, tags: [], tagLine: null, tagLn: null}
+  const doc = {id, file, lines, title: null, aliases: null, aliasList: [], aliasLn: 3, summary: null, sections: {}, headings: [], fragments: [], badFragLines: [], badRelLines: [], strayLines: [], rel: {}, tags: [], tagLine: null, tagLn: null, groupLine: null, groupLn: null}
   for (const r of REL_SECTIONS) doc.rel[r] = null
   // 태그 줄은 태그 꼴인 마지막 줄이고, 없으면 각주 정의와 빈 줄을 뺀 마지막 줄 자리다
   const TAG_RE = /^(#[가-힣a-z0-9_]+)( #[가-힣a-z0-9_]+)*$/
@@ -67,6 +67,8 @@ export function parseDoc(id, dir = DOCS) {
         // 별칭마다 사용례 각주가 붙는다: 우월 착각[^2], Better-than-average effect[^3]
         doc.aliasList = doc.aliases === '없음' ? [] : doc.aliases.split(/,\s*(?![^\[]*\])/).map(a => ({name: a.replace(/(?:\[\^\d+\])+$/, '').trim(), refs: refsIn(a.match(/(?:\[\^\d+\])+$/)?.[0] ?? '')}))
       }
+      // 묶음 줄은 stats.mjs --write 가 적는 개관 링크다(이슈 #17)
+      else if (text.startsWith('묶음:')) { doc.groupLine = text; doc.groupLn = ln }
       else if (text.trim() && doc.summary === null) doc.summary = text.trim()
       return
     }

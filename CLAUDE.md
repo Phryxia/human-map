@@ -105,7 +105,7 @@ gh issue close <번호>
 7. `node dev/source-check.mjs <id>`. 결과가 NOT_FOUND 인 파편은 전사가 틀렸거나 출처가 틀린 것이다. 고치거나 뺀다. UNREACHABLE 인 파편은 줄 끝에 `(미확인)` 을 붙인다. 미확인 파편은 4절의 최소 개수에 세지 않는다.
 8. 관계를 긋는다. 상위 간선은 넣기 전에 `node dev/graph.mjs check-cycle <child> <parent> [--allow-new]` 로 확인하고 CYCLE 이면 넣지 않는다. 원인 간선과 대립 간선은 근거 파편을 붙인다. 모든 간선은 양쪽 문서에 적는다.
 9. 상위가 없는 새 문서는 `dev/groups.json` 에서 주제가 가장 가까운 묶음 하나의 `roots` 에 id 를 넣는다. 맞는 묶음이 없으면 묶음을 새로 만든다(id, 제목, 한 문장 요약, roots). 상위를 얻은 문서는 `roots` 에서 뺀다. 하위 현상은 상위를 따라 묶음에 든다.
-10. `node dev/graph.mjs validate && node dev/graph.mjs cycles && node dev/style-check.mjs <id> && node dev/stats.mjs --write`. 전부 종료코드 0 이어야 한다. `stats.mjs --write` 는 README, INDEX, 묶음 문서를 다시 만든다.
+10. `node dev/graph.mjs validate && node dev/graph.mjs cycles && node dev/style-check.mjs <id> && node dev/stats.mjs --write`. 전부 종료코드 0 이어야 한다. `stats.mjs --write` 는 README, INDEX, 묶음 문서와 문서의 `묶음:` 줄을 다시 만든다.
 11. `git pull origin claude/human` 뒤 `WORKING.md` 에서 자기 편집 잠금을 지우고 함께 커밋한 뒤 push 한다. 메시지는 한국어 한 줄. 예: `loss-aversion 추가, 상위 risk-avoidance`, `procrastination 에 파편 3개 추가`.
 12. 작업 중 파편 안에서 본 다른 현상, 관계의 상대가 될 현상, 발견한 오류는 그 자리에서 큐에 넣는다.
     ```bash
@@ -126,13 +126,13 @@ gh issue close <번호>
 ```bash
 git pull --rebase origin claude/human
 cat WORKING.md                         # 이 세션의 편집 잠금이 없어야 한다
-node dev/stats.mjs --write && git add README.md INDEX.md groups && git commit -m "집계 갱신" || true
+node dev/stats.mjs --write && git add README.md INDEX.md groups docs && git commit -m "집계 갱신" || true
 git push -u origin claude/human
 node dev/queue.mjs stop
 git push -u origin claude/human
 ```
 
-rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경을 그 위에 다시 얹는다. README, INDEX.md, `groups/` 는 충돌을 풀지 않고 `stats.mjs --write` 로 다시 만든다.
+rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경을 그 위에 다시 얹는다. README, INDEX.md, `groups/`, 문서의 `묶음:` 줄은 충돌을 풀지 않고 `stats.mjs --write` 로 다시 만든다.
 
 회차의 마지막 응답은 한 줄이다. `회차 <번호> 끝. 커밋 <개수>, 큐 <개수>.` 만 적는다. 추가하고 지우고 보강한 문서의 목록, 작업 요약, 다음 할 일을 적지 않는다. 응답은 아무도 읽지 않는다.
 
@@ -146,6 +146,8 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 별칭: 다른 이름[^1], 또 다른 이름[^2]
 
 한 문장 요약.
+
+묶음: [묶음 제목](../groups/묶음-id.md)
 
 # 서술
 
@@ -192,6 +194,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 - 서술은 현상이 어떻게 보이는지만 적는다. 문단은 4문장 이내. 문단은 그 문단이 가리키는 가장 이른 파편의 발행일 순으로 둔다. 서술은 가장 이른 출처에서 시작해 시기를 따라 내려가고, 앞 문단의 출처를 되짚어 다시 풀어 쓰는 문단을 뒤에 두지 않는다. 같은 시기의 출처가 같은 면을 말하면 한 문단에 모은다. 현상이 나타나는 조건과 나타나지 않는 조건, 시기도 파편이 말하면 서술의 문단으로 적는다. 서술 말고 다른 절을 만들지 않는다.
 - 현상이 시간이 지나며 다른 모양이 되면 문서를 둘로 나누지 않고 서술에 시기를 적는다. 파편의 발행일이 서로 다른 시기에 걸쳐 있고 말하는 내용이 다르면 "2009년 기사[^3]는 ~, 2024년 게시글[^2]은 ~" 처럼 시기별로 적는다.
 - 문서들은 **docs** 디렉토리 하위에 저장한다.
+- 요약 아래의 `묶음:` 줄은 그 문서가 든 묶음 문서(`groups/<id>.md`)로 가는 링크이고, 하위 현상은 상위를 따라 든 묶음을 모두 적는다. 문서에서 개관으로 돌아가는 길이다. 이 줄은 손으로 쓰지 않는다. `stats.mjs --write` 가 넣고 고친다.
 
 ### 파편
 
@@ -269,8 +272,8 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 
 ### stats.mjs
 
-- `--write`: README.md, INDEX.md, `groups/<id>.md` 를 통째로 다시 만든다. README 는 `README.head.md` 의 머리말 뒤에 `# 문서 묶음` 절 하나만 둔다. 그 절은 `dev/groups.json` 의 순서대로 묶음 문서 링크와 요약을 적는다. 묶음별 문서 수, 전체 문서 수, 간선 수, 태그별 문서 수, 파편 종류 분포, 확인 상태, 발행 연도 분포, 되먹임, 깊이 같은 집계는 README 에 쓰지 않는다. 문서 링크도 README 에 두지 않는다. 묶음 문서 `groups/<id>.md` 는 제목, 요약, 그리고 묶음의 최상위 현상을 제목 순으로 요약과 함께 적고 하위 현상을 상위 아래에 들여 쓴 트리다. INDEX.md 는 전체 문서를 제목 순으로 적고 줄마다 그 문서가 든 묶음을 링크한다. 세 파일 어디에도 문서 수를 적지 않는다. 문서가 늘 때마다 바뀌기만 하는 숫자이기 때문이다. `dev/groups.json` 에 없는 `groups/` 의 파일은 지운다.
-- `--check`: 지금 만들 내용과 현재 README, INDEX.md, `groups/` 가 같지 않거나 `groups/` 에 남은 파일이 있으면 종료코드 1.
+- `--write`: README.md, INDEX.md, `groups/<id>.md` 를 통째로 다시 만들고, 문서마다 요약 아래, 첫 절 헤딩 바로 앞의 `묶음:` 줄을 그 문서가 든 묶음 링크(`[묶음 제목](../groups/<id>.md)`, 여럿이면 쉼표로)로 넣거나 바꾼다. 다른 줄은 건드리지 않는다. README 는 `README.head.md` 의 머리말 뒤에 `# 문서 묶음` 절 하나만 둔다. 그 절은 `dev/groups.json` 의 순서대로 묶음 문서 링크와 요약을 적는다. 묶음별 문서 수, 전체 문서 수, 간선 수, 태그별 문서 수, 파편 종류 분포, 확인 상태, 발행 연도 분포, 되먹임, 깊이 같은 집계는 README 에 쓰지 않는다. 문서 링크도 README 에 두지 않는다. 묶음 문서 `groups/<id>.md` 는 제목, 요약, 그리고 묶음의 최상위 현상을 제목 순으로 요약과 함께 적고 하위 현상을 상위 아래에 들여 쓴 트리다. INDEX.md 는 전체 문서를 제목 순으로 적고 줄마다 그 문서가 든 묶음을 링크한다. 세 파일 어디에도 문서 수를 적지 않는다. 문서가 늘 때마다 바뀌기만 하는 숫자이기 때문이다. `dev/groups.json` 에 없는 `groups/` 의 파일은 지운다.
+- `--check`: 지금 만들 내용과 현재 README, INDEX.md, `groups/`, 문서의 `묶음:` 줄이 같지 않거나 `groups/` 에 남은 파일이 있으면 종료코드 1.
 - `--kinds`: 파편 종류별 개수만 출력한다.
 
 부트스트랩 회차는 모든 테스트가 통과하면 `dev 스크립트 부트스트랩` 으로 커밋하고 3절로 간다.

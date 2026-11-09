@@ -53,9 +53,29 @@ export function groupPage(group, docs) {
   return L.join('\n') + '\n'
 }
 
-export function indexPage(docs, groups) {
+// 문서 id 마다 그 문서가 든 묶음 목록
+export function groupsOf(docs, groups) {
   const of = new Map()
   for (const g of groups) for (const id of members(g, docs)) of.set(id, [...(of.get(id) ?? []), g])
+  return of
+}
+
+// 문서의 요약 아래에 두는 묶음 개관 링크 줄(이슈 #17). 하위 현상도 상위를 따라 든 묶음을 모두 적는다.
+export const groupLineOf = gs => `묶음: ${(gs ?? []).map(g => `[${g.title}](../groups/${g.id}.md)`).join(', ') || '없음'}`
+
+// 문서 원문에 묶음 줄을 넣거나 바꾼다. 자리는 첫 절 헤딩 바로 앞이다.
+export function withGroupLine(text, line) {
+  const L = text.split('\n')
+  const h = L.findIndex((l, k) => k > 0 && /^# /.test(l))
+  if (h < 0) return text
+  const i = L.findIndex((l, k) => k < h && l.startsWith('묶음:'))
+  if (i >= 0) L[i] = line
+  else L.splice(h, 0, line, '')
+  return L.join('\n')
+}
+
+export function indexPage(docs, groups) {
+  const of = groupsOf(docs, groups)
   const L = ['# 전체 문서 목록', '', '전체 문서를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.', '']
   for (const d of [...docs.values()].sort(byTitle)) L.push(`- [${d.title}](docs/${d.id}.md) (${(of.get(d.id) ?? []).map(g => `[${g.title}](groups/${g.id}.md)`).join(', ') || '묶음 없음'})`)
   return L.join('\n') + '\n'

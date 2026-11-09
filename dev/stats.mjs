@@ -3,7 +3,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import {loadAll, ROOT, KINDS} from './lib/doc.mjs'
-import {loadGroups, groupPage, indexPage, groupLines} from './lib/groups.mjs'
+import {loadGroups, groupPage, indexPage, groupLines, groupsOf, groupLineOf, withGroupLine} from './lib/groups.mjs'
 
 export function kindCounts(docs) {
   const c = Object.fromEntries(KINDS.map(k => [k, 0]))
@@ -21,6 +21,13 @@ export function buildReadme(docs, head = '', groups = []) {
 export function buildOutputs(docs, head = '', groups = []) {
   const out = new Map([['README.md', buildReadme(docs, head, groups)], ['INDEX.md', indexPage(docs, groups)]])
   for (const g of groups) out.set(`groups/${g.id}.md`, groupPage(g, docs))
+  // 문서마다 요약 아래의 묶음 개관 링크 줄
+  const of = groupsOf(docs, groups)
+  for (const d of docs.values()) {
+    const text = fs.readFileSync(d.file, 'utf8')
+    const next = withGroupLine(text, groupLineOf(of.get(d.id)))
+    if (next !== text) out.set(`docs/${d.id}.md`, next)
+  }
   return out
 }
 
@@ -32,18 +39,19 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   if (mode === '--kinds') { for (const [k, n] of Object.entries(kindCounts(docs))) console.log(`${k}\t${n}`) }
   else if (mode === '--write' || mode === '--check') {
     if (!fs.existsSync(headFile) && fs.existsSync(readme)) fs.writeFileSync(headFile, fs.readFileSync(readme, 'utf8').split(/\n# (?:집계|문서 묶음)\n/)[0].replace(/\n+$/, '') + '\n')
-    const outs = buildOutputs(docs, fs.existsSync(headFile) ? fs.readFileSync(headFile, 'utf8') : '', loadGroups())
+    const groupsList = loadGroups(), groupsN = groupsList.length
+    const outs = buildOutputs(docs, fs.existsSync(headFile) ? fs.readFileSync(headFile, 'utf8') : '', groupsList)
     const gdir = path.join(ROOT, 'groups')
     const stale = fs.existsSync(gdir) ? fs.readdirSync(gdir).map(f => `groups/${f}`).filter(f => !outs.has(f)) : []
     if (mode === '--write') {
       fs.mkdirSync(gdir, {recursive: true})
       for (const [f, text] of outs) fs.writeFileSync(path.join(ROOT, f), text)
       for (const f of stale) fs.rmSync(path.join(ROOT, f))
-      console.log(`README.md, INDEX.md, 묶음 문서 ${outs.size - 2}개를 다시 만들었다`)
+      console.log(`README.md, INDEX.md, 묶음 문서 ${groupsN}개, 문서 묶음 줄 ${outs.size - 2 - groupsN}개를 다시 만들었다`)
     } else {
       const diff = [...outs].filter(([f, text]) => !fs.existsSync(path.join(ROOT, f)) || fs.readFileSync(path.join(ROOT, f), 'utf8') !== text).map(([f]) => f).concat(stale)
-      if (diff.length) { console.log(`README, INDEX, 묶음 문서가 현재 그래프와 다르다 (--write): ${diff.join(', ')}`); process.exit(1) }
-      console.log('README.md, INDEX.md, 묶음 문서 일치')
+      if (diff.length) { console.log(`README, INDEX, 묶음 문서, 문서의 묶음 줄이 현재 그래프와 다르다 (--write): ${diff.join(', ')}`); process.exit(1) }
+      console.log('README.md, INDEX.md, 묶음 문서, 문서의 묶음 줄 일치')
     }
   } else { console.log('사용법: node dev/stats.mjs --write | --check | --kinds'); process.exit(mode ? 2 : 0) }
 }
