@@ -1,6 +1,6 @@
 # 안전띠 미착용
 
-별칭: 없음
+별칭: Non-Use of Seat Belts[^1]
 
 차에 탄 사람이 가까운 거리이거나 띠가 답답하거나 사고가 나지 않으리라 여겨 자신이나 함께 탄 사람을 안전띠나 카시트로 묶지 않는다.
 
@@ -16,9 +16,9 @@
 
 2008년 NHTSA 보고서에서 가끔만 띠를 매는 사람이 든 주된 이유는 짧은 거리 운전과 잊음이었다.[^5]
 
-2013년 클리앙 댓글의 글쓴이는 가까운 거리를 갈 때 대부분의 운전자가 띠를 매지 않으며 100미터를 가면서 띠를 매자 왜 매느냐는 말을 들었다고 썼다.[^6] 2018년 매일신문의 단속 현장 기사에서 SUV 조수석에 탄 중년 여성은 가까운 거리에 가던 참이라 띠를 매지 않았다고 변명했다.[^7]
+2013년 클리앙 댓글의 글쓴이는 가까운 거리를 갈 때 대부분의 운전자가 띠를 매지 않으며 100미터를 가면서 띠를 매자 왜 매느냐는 말을 들었다고 썼다.[^6] 2014년 세계일보 기사[^7]에서 띠를 매지 않고 시내버스를 몰던 운전기사는 하루 7\~8시간 셔츠를 입고 띠까지 매면 숨이 막힐 때가 있어 맸다가 풀었다가를 반복한다고 말했다. 2018년 매일신문의 단속 현장 기사에서 SUV 조수석에 탄 중년 여성은 가까운 거리에 가던 참이라 띠를 매지 않았다고 변명했다.[^8]
 
-2025년 Kidd 외의 조사에서 임신하지 않은 응답자가 띠를 매지 않은 흔한 이유는 불편함, 잊음, 짧은 거리였다.[^8]
+2025년 Kidd 외의 조사에서 임신하지 않은 응답자가 띠를 매지 않은 흔한 이유는 불편함, 잊음, 짧은 거리였다.[^9]
 
 # 관계
 
@@ -51,5 +51,6 @@
 [^4]: [매체] "반면 미착용자의 26.5%는 ‘불편해서’,7.7%는 ‘효과가 없어서’라고 말했다." — 서울신문, 「[가자! 교통월드컵] ‘생명의 줄’ 안전벨트」, 2001-09-18, https://www.seoul.co.kr/news/newsView.php?id=20010918013001, 2026-11-06 접속
 [^5]: [공공] "Part-time belt users substantially outnumbered those who reported never wearing seat belts, and their primary reasons for non-use were driving just a short distance and forgetting." (가끔 띠를 매는 사람은 한 번도 매지 않는다고 답한 사람보다 훨씬 많았고 그들이 매지 않는 주된 이유는 짧은 거리만 운전한다는 것과 잊는다는 것이었다.) — John M. Boyle, Cheryl Lampkin, "2007 Motor Vehicle Occupant Safety Survey: Volume 2: Seat Belt Report", NHTSA, DOT-HS-810-975, 2008-07, https://rosap.ntl.bts.gov/view/dot/1848, 2026-11-06 접속
 [^6]: [SNS] "현실에서의 대부분의 운전자분들은 가까운 거리를 갈 때 벨트를 매지 않아요 제가 100미터 거리 가는데 벨트를 매니 벨트 왜매냐고 뭐라그래요 ㅎ" — 클리앙 댓글, 2013-08-20, https://www.clien.net/service/board/cm_car/4765005, 2026-11-06 접속
-[^7]: [매체] "SUV 조수석에 탄 한 중년 여성은 "가까운 거리에 가던 참이어서 안전띠를 매지 않았다"고 변명했다." — 김윤기, "[르포]전좌석 안전띠 단속현장…"가까운 거리니 괜찮겠지?" 과태료 부과", 매일신문, 2018-12-03, https://www.imaeil.com/page/view/2018120319053264683, 2026-11-06 접속
-[^8]: [학술] "Discomfort, forgetting, and traveling a short distance were common reasons why nonpregnant respondents did not use a belt." (불편함, 잊음, 짧은 거리 이동은 임신하지 않은 응답자가 띠를 매지 않은 흔한 이유였다.) — David G. Kidd, Jessica S. Jermakian, Sjaan Koppel, "Belts on bones, not over the bump: reported seat belt use and positioning among pregnant and nonpregnant drivers and passengers in the U.S.", Traffic Injury Prevention, 2025-08, https://www.iihs.org/research-areas/bibliography/ref/2331, 2026-11-06 접속
+[^7]: [매체] "안전벨트를 착용하지 않고 시내버스를 운전하던 박모(54)씨는 “시내버스 운전자 좌석에 안전벨트를 설치하고 착용할 것을 의무화했지만 여전히 익숙하지 않다”며 “하루 7∼8시간씩 셔츠를 입고 안전벨트까지 하면 숨이 턱 막힐 때가 있어 맸다가 풀었다가를 반복한다”고 말했다." — 「안전띠 외면하는 시내버스 기사들… “사고나면 치명적”」, 세계일보, 2014-04-04, https://www.segye.com/newsView/20140404003768, 2026-11-09 접속
+[^8]: [매체] "SUV 조수석에 탄 한 중년 여성은 "가까운 거리에 가던 참이어서 안전띠를 매지 않았다"고 변명했다." — 김윤기, "[르포]전좌석 안전띠 단속현장…"가까운 거리니 괜찮겠지?" 과태료 부과", 매일신문, 2018-12-03, https://www.imaeil.com/page/view/2018120319053264683, 2026-11-06 접속
+[^9]: [학술] "Discomfort, forgetting, and traveling a short distance were common reasons why nonpregnant respondents did not use a belt." (불편함, 잊음, 짧은 거리 이동은 임신하지 않은 응답자가 띠를 매지 않은 흔한 이유였다.) — David G. Kidd, Jessica S. Jermakian, Sjaan Koppel, "Belts on bones, not over the bump: reported seat belt use and positioning among pregnant and nonpregnant drivers and passengers in the U.S.", Traffic Injury Prevention, 2025-08, https://www.iihs.org/research-areas/bibliography/ref/2331, 2026-11-06 접속
