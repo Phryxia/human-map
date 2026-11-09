@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T06:31:49.287Z",
-  "nextSeq": 4269,
+  "savedAt": "2026-11-09T06:32:23.574Z",
+  "nextSeq": 4271,
   "stops": 222,
   "items": [
-    {
-      "id": "ab77029e",
-      "title": "fear-of-dying-alone 보강: SNS 파편, 결과 관계",
-      "priority": 50,
-      "note": "2026-11-09 작성. 후보: 보배드림 freeb/3435162 (2026-09-09) 고독사할까 무섭다며 연락 안 되면 찾아와 달라고 서로 당부, Yahoo UK 전재 Guardian 2024-07-01 lonely-deaths 87세 'worried about dying alone'. loneliness 와의 관계 근거 파편 필요",
-      "createdAt": "2026-11-09T06:16:09.394Z",
-      "seq": 4262
-    },
     {
       "id": "518ecbc2",
       "title": "lying-around-instead-of-planned-leisure 보강: SNS 파편, 관계",
@@ -475,6 +467,14 @@
       "note": "2026-11-09 Gilliland 1998 europepmc 10342940 더함. mumsnet 796797 은 봇 확인 페이지라 못 씀. Lindemann 1944 원문 후보",
       "createdAt": "2026-11-09T03:16:41.779Z",
       "seq": 4252
+    },
+    {
+      "id": "461df973",
+      "title": "fear-of-dying-alone 관계: loneliness, 결과",
+      "priority": 40,
+      "note": "2026-11-09 보배드림 freeb/3435162 SNS 파편 더함. 남은 후보: Yahoo UK 전재 Guardian 2024-07-01 lonely-deaths 87세 'worried about dying alone', PMC7551571 혼자 자는 밤에 불안. loneliness 와 원인 간선 근거 파편 필요",
+      "createdAt": "2026-11-09T06:32:23.460Z",
+      "seq": 4270
     },
     {
       "id": "e8ba47a7",
