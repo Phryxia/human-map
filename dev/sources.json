@@ -2464,9 +2464,9 @@
   },
   "https://www.scipedia.com/public/Speisser_et_al_2018a": {
     "first": "2026-10-18",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://news.seoul.go.kr/traffic/archives/510853": {
     "first": "2026-10-18",
@@ -18887,15 +18887,15 @@
   },
   "https://www.easylaw.go.kr/CSP/SolomonRetrieve.laf?trialNo=2134&topMenu=serviceUl6": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.thenationalnews.com/uae/transport/long-wait-at-traffic-lights-increases-accident-risk-uae-study-finds-1.941357": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-09"
   },
   "https://www.lawtalk.co.kr/posts/141828": {
     "first": "2026-11-04",
@@ -22793,6 +22793,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://www.scientificamerican.com/blog/anthropology-in-practice/the-art-of-the-elevator-dodge/": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://news.ycombinator.com/item?id=30917628": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
