@@ -122,6 +122,7 @@
 - [남의 사적인 기록 몰래 보기](docs/reading-others-private-writing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 시선 의식하기](docs/minding-what-others-think.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [남의 자식과 내 자식 비교하기](docs/comparing-children-to-others.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [남의 장바구니 훔쳐보기](docs/peeking-at-others-shopping-carts.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [남의 집 약장 엿보기](docs/peeking-into-hosts-medicine-cabinet.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [낮잠](docs/daytime-napping.md) ([시간과 하루 습관](groups/daily-time.md))
