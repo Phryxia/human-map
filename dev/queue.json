@@ -1,112 +1,24 @@
 {
   "version": 1,
-  "savedAt": "2026-11-09T12:35:19.739Z",
-  "nextSeq": 4287,
-  "stops": 225,
+  "savedAt": "2026-11-09T15:37:51.840Z",
+  "nextSeq": 4327,
+  "stops": 226,
   "items": [
     {
-      "id": "dc47a978",
-      "title": "feeling-rushed 보강: 국가와 시대 폭",
+      "id": "7fe000f8",
+      "title": "mind-going-blank 보강: 학술 파편, 2000년 이전 파편, staircase-wit 결과 간선",
       "priority": 50,
-      "note": "이슈 #16. 시간에 쫓기는 느낌을 여러 나라, 여러 시대 파편으로 넓힌다. 현재 파편은 2010~2025 한국, 영국 위주",
-      "createdAt": "2026-11-09T12:09:03.054Z",
-      "seq": 4283
+      "note": "2026-11-09 추가(HN 23995662, crozetgazette 2020-08-08 두 파편 모두 2020). 후보: mentalfloss.com/article/544512 (2018-07-16) 내향·외향 차이, HN 7979144 (2014) 화면을 지켜보면 머리가 하얘짐. staircase-wit 와 원인 간선은 '때문에' 문장 필요",
+      "createdAt": "2026-11-09T15:32:00.048Z",
+      "seq": 4322
     },
     {
-      "id": "c4a59147",
-      "title": "feeling-ones-effort-makes-no-difference 보강: 소비자 밖의 장면",
+      "id": "8bbe76a4",
+      "title": "anger-rumination 보강: SNS 파편, holding-a-grudge 관계",
       "priority": 50,
-      "note": "이슈 #18. 제목은 그대로 두고 서술이 소비자 행동에 치우친 것을 넓힌다. 일, 학업, 재능과 노력 등 다른 장면의 파편",
-      "createdAt": "2026-11-09T12:09:03.154Z",
-      "seq": 4284
-    },
-    {
-      "id": "cff42eb9",
-      "title": "imaginary-arguments 관계: rumination",
-      "priority": 50,
-      "note": "2026-11-09 후보: letstalk.mindline.sg/t/skills-to-move-on-from-an-argument/16657 (2024-10-08) 받아치지 않고 참은 뒤 그 일을 되풀이하며 받아치는 장면을 그림. whisper7.substack.com/p/being-right (2026-05-13) 반박 연습과 지난 대화 되풀이가 흔들리지 않으려는 욕구에서 나온다. 자기상 원인 문서는 아직 없음",
-      "createdAt": "2026-11-09T12:24:26.126Z",
-      "seq": 4285
-    },
-    {
-      "id": "eb6d693e",
-      "title": "leaving-cooking-unattended 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-06 후보: The Railway Children(1906) gutenberg 1874 kettle 대목은 잠든 대목이 앞 문장이라 인용만으로 안 드러남. Anne of Green Gables(45) 4개 문서 사용. 2026-11-09 Little Women(514) 'The bread burned black; for the salad dressing so aggravated her' 는 다른 일에 정신이 팔린 장면이나 514 도 이미 4개 문서가 써서 WARN",
-      "createdAt": "2026-11-09T12:24:50.923Z",
-      "seq": 4286
-    },
-    {
-      "id": "97f301e0",
-      "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
-      "priority": 40,
-      "note": "2026-11-05 확인: 냄새 때문에 간직한다는 인과 문장 못 찾음. hercampus ?p=256401 Favorite Sweater (플래시 픽션, 발행일 미상) 'I don't want to wash it and risk removing your familiar scent' 는 빨지 않음이고 전 애인 물건이라는 말 없음. graphic.com.gh 2014-02-26 5 things get rid of after breakup 'how it still smells like him' 은 조언. 이전 확인: ebony, renews.co.nz, vice 2017-11-23, hercampus 756449, chelseajane substack, pdx.edu 2018-02-09, wwu.edu(실명), thestudentroom 403, yourtango 353701, theeagleonline, xtramagazine, huffpost ca, dazed 30155, bustle, autostraddle, theglobeandmail",
-      "createdAt": "2026-11-05T03:22:44.892Z",
-      "seq": 3815
-    },
-    {
-      "id": "efc05148",
-      "title": "faking-wealth 와 poverty-shame 원인 간선",
-      "priority": 40,
-      "note": "2026-11-06 재탐색. inesad 2013 (멸시 때문에 비싼 옷으로 출신 숨김)은 faking-wealth [^2] 로 씀, 수치심이 아니라 멸시라 간선 근거 아님. 후보: brunch @bexy00/450 (2026-03-28) '가난이 너무나 부끄럽던 시절' 뒤 해 본 척 거짓말(원인이 두 문장에 나뉨), strathprints 36504 Hamilton 2007 가난 낙인 대처로 가난을 덜 보이게 함(concealing-poverty 쪽), Tilburg Plantinga 수치심과 지위재 소비 연구(봇 확인 페이지로 못 엶)",
-      "createdAt": "2026-11-06T00:27:04.974Z",
-      "seq": 3918
-    },
-    {
-      "id": "5f9606d7",
-      "title": "fighting-fire-oneself 보강: SNS 파편, 2008 이전 공공",
-      "priority": 40,
-      "note": "2026-11-05 reddit 403, USFA 2007\\~2008 보도자료(webarchive.library.unt.edu) TLS 오류. 인천공단소방서 NE030401/2060617 은 업체 소재지가 원문에 있어 못 씀. 2026-11-06 HN Algolia 'grease fire tried to put out' 등 검색은 비유뿐, 지식iN 검색 결과 없음",
-      "createdAt": "2026-11-06T09:21:55.240Z",
-      "seq": 3946
-    },
-    {
-      "id": "09bda14f",
-      "title": "putting-off-friends 관계: loneliness, hesitating-to-contact-old-friends",
-      "priority": 40,
-      "note": "2026-11-05 feeling-rushed 원인 간선은 넣음. loneliness 결과 후보: teamblind 8nb87qth (2026-02-02), Dazed 64746 (2024-09-27) 'byproduct of having no time'. 묘사 보강 후보: wftv friendship-recession (2026-10-26) 'Dinner gets postponed, a busy week becomes a busy month' (2026-11-06 URL 못 찾음), brunch @0520with/21 (2019-01-09) '시간 없다는 핑계로 미루기만 했었다'",
-      "createdAt": "2026-11-06T09:32:40.901Z",
-      "seq": 3969
-    },
-    {
-      "id": "76e5b29a",
-      "title": "ignoring-dashboard-warning-lights 보강: 공공 파편 확인",
-      "priority": 40,
-      "note": "2026-11-06 MOTOR 2004, 클리앙 cm_car/19080501 더함. NHTSA 813617 은 여전히 타임아웃 미확인. 후보: tiresandparts.net 2017-07-25 ClickMechanic 영국 운전자 3분의 1 이상 2주 넘게 기다림, clien park/19232012 (2026-07-21) 공기압 경고등 그대로 탐. ignoring-vehicle-recalls 와 공통 상위 후보",
-      "createdAt": "2026-11-06T15:36:01.609Z",
-      "seq": 3996
-    },
-    {
-      "id": "b32212c2",
-      "title": "seat-belt-nonuse 보강: 사고 안 낸다는 믿음, 별칭",
-      "priority": 40,
-      "note": "2026-11-06 seoul.co.kr 2001-09-18 26.5% 불편 더함. 남은 후보: segye 20140404003768 시내버스 기사 숨이 막혀 풀었다 맸다, clien park/12446711 갑갑해서 안 맴(1980~90년대 회고), 별칭 근거 후보 ctr.utk.edu factors-influencing-seat-belt-non-use",
-      "createdAt": "2026-11-06T18:25:47.859Z",
-      "seq": 4010
-    },
-    {
-      "id": "09260d30",
-      "title": "rereading-old-letters 보강: SNS 파편, 공통 상위 옛 기록 다시 보기",
-      "priority": 40,
-      "note": "2026-11-06 Lindemann 2022 PMC9684218 학술 더함. 남은 것: SNS 파편 없음. looking-at-old-photos, rereading-old-diaries 와 공통 상위(옛 기록 다시 보기) 후보. 브런치 maumcollage/658 은 자기가 보낸 편지를 부모 사후에 다시 읽는 장면",
-      "createdAt": "2026-11-06T18:26:57.662Z",
-      "seq": 4011
-    },
-    {
-      "id": "07e3a816",
-      "title": "stepping-aside-for-oncoming-pedestrians 보강: 길을 내주는 쪽의 역할, 지위·굴욕감",
-      "priority": 40,
-      "note": "2026-11-07 Rapos 2021 나이 조건 더함. 남은 후보: Olivier 2013 inria.hal.science/hal-00821854v1 'the participant giving way contributes more than the one passing first' (문장 중간), Knorr 2016 portal.fis.tum.de 성별·키·성격 무관(이미 bps 기사 [^3] 와 같은 연구일 수 있음), Bourgaize 2024 hal-04681163v1 가상 보행자가 노인처럼 보이면 간격 큼. Dabbs & Stokes 1975 HTML 초록 여전히 없음",
-      "createdAt": "2026-11-07T09:23:01.940Z",
-      "seq": 4060
-    },
-    {
-      "id": "0e0acbcf",
-      "title": "feeding-pigeons 보강: SNS 파편",
-      "priority": 40,
-      "note": "2026-11-07 weekly.khan 201709041646221 매체로 더함. SNS 아직 없음. 이전 후보 straightdope 991045?page=2, Benavente Saturday Night 위키문헌 Tableau_2",
-      "createdAt": "2026-11-07T09:24:01.166Z",
-      "seq": 4061
+      "note": "2026-11-09 추가, displaced-aggression 결과 간선 넣음. SNS 후보 못 찾음: HN Algolia(still angry replaying 등) 없음, rickhanson.com/anger-rumination Cloudflare 403(별칭 근거 후보), supple.kr politics/93310809 은 곱씹기 아님, damoang free/4190774 403. 한국어 학술 후보 accesson.kr kpageneral v.30/2/397 (2011)",
+      "createdAt": "2026-11-09T15:33:50.527Z",
+      "seq": 4323
     },
     {
       "id": "b1e741b2",
@@ -115,14 +27,6 @@
       "note": "2026-11-07 공공 statcan dq130318b, SNS straightdope 1001604/18 더함. 관계 근거 원문 아직 없음. 후보: statcan 16-002-x/2008001/10539 (2008) 39% 일반 쓰레기·배수구, 클리앙 park/17379913 (2022-07-05) 팍스로비드 남은 약 쓰레기통 의향, mediahub 2004438 시민기자 55%",
       "createdAt": "2026-11-07T09:37:19.431Z",
       "seq": 4063
-    },
-    {
-      "id": "9be63128",
-      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
-      "priority": 40,
-      "note": "2026-11-07 Science Forums 48936 2010 댓글을 [^3] 으로 씀. 한국어 SNS 는 세 회차째 미발견. hankyung.com/article/202504278937i (2025-04-28) 주식·부동산 조건 후보(원문 '…' 포함)",
-      "createdAt": "2026-11-07T12:32:22.695Z",
-      "seq": 4065
     },
     {
       "id": "a26882c8",
@@ -189,22 +93,6 @@
       "seq": 4092
     },
     {
-      "id": "99cc89d8",
-      "title": "morbid-curiosity 보강: SNS, 한국어 병적 호기심",
-      "priority": 40,
-      "note": "2026-11-07 UCI 2019 매체 더함. SNS 와 한국어 파편 남음. georgeherald 2013-09-01 rubbernecking 후보, 머니투데이 2025-10-30 잔혹 실화 콘텐츠",
-      "createdAt": "2026-11-07T15:24:08.091Z",
-      "seq": 4094
-    },
-    {
-      "id": "bd2306a0",
-      "title": "skipping-follow-up-after-abnormal-screening 보강: SNS 파편, 미뤄서의 면",
-      "priority": 40,
-      "note": "2026-11-07 결과를 몰라서는 Cusumano 외 2020 PMC7168865 로 더함. SNS 본인 글 남음. 후보 PMC8834256 (2022) head-in-the-sand, cancer.gov 2022-05-05",
-      "createdAt": "2026-11-07T15:25:19.317Z",
-      "seq": 4095
-    },
-    {
       "id": "210cfd2c",
       "title": "discarding-mail-without-shredding 보강: privacy-paradox 관계, 한국 공공 설문",
       "priority": 40,
@@ -261,14 +149,6 @@
       "seq": 4134
     },
     {
-      "id": "e15f4f05",
-      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편",
-      "priority": 40,
-      "note": "2026-11-07 she-bagging 별칭과 Substack 2025 더함. Kim 2012 Symbolic Interaction 원문 못 엶. 후보: yalealumnimagazine.org/articles/3581-guarding-your-personal-bus-space (매체), 다른 학술 좌석 선택 연구",
-      "createdAt": "2026-11-07T21:15:02.321Z",
-      "seq": 4135
-    },
-    {
       "id": "dcdbc21e",
       "title": "counting-to-ten-when-angry 보강: SNS 파편, 조건",
       "priority": 40,
@@ -301,14 +181,6 @@
       "seq": 4139
     },
     {
-      "id": "e7bcb7b7",
-      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
-      "priority": 40,
-      "note": "2026-11-07 ACMA 홈부터 HTTP/2 INTERNAL_ERROR. 総務省 情報通信白書 令和7年版 nd111140 에 회피 수치 없음. 이전: Ofcom 403, kpf.or.kr 원문 HTML 미발견, 기자협회보 51706 (2022)",
-      "createdAt": "2026-11-07T21:23:12.989Z",
-      "seq": 4140
-    },
-    {
       "id": "12715e23",
       "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
       "priority": 40,
@@ -323,30 +195,6 @@
       "note": "2026-11-07 Straight Dope 44450 #17 (2000) 을 humming-while-working [^3] 에 더함. 같은 글을 earworm 에도 쓰면 같은 글 두 문서 WARN 이라 간선 근거로 못 씀. earworm 쪽에 쓸 다른 출처(귀벌레 때문에 흥얼거린다) 필요",
       "createdAt": "2026-11-07T21:32:08.767Z",
       "seq": 4146
-    },
-    {
-      "id": "e29bd14d",
-      "title": "fidgeting 보강: 나타나지 않는 조건",
-      "priority": 40,
-      "note": "2026-11-07 Son 외 2024 Front Psychiatry [^6] 정답 시행에서 더 꼼지락 더함. 남은 후보: Ricciardi 2019 iris.uniroma1.it 11573/1353277 덜 지루한 조건에서 더 꼼지락, SBS 2016-02-23 URL 못 찾음, Galton 1885 Nature 'Measure of Fidget' galton.org PDF 타임아웃",
-      "createdAt": "2026-11-07T21:36:10.818Z",
-      "seq": 4147
-    },
-    {
-      "id": "4171873e",
-      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
-      "priority": 40,
-      "note": "2026-11-07 PMC 'counting the steps' 81건 앞 10건은 보행 측정이 대부분. PMC12999046 'Compulsive tic‐like behaviors such as touching, counting the steps' 는 진단 맥락 학술 후보",
-      "createdAt": "2026-11-07T21:36:48.308Z",
-      "seq": 4148
-    },
-    {
-      "id": "14e1bb57",
-      "title": "setting-clocks-fast 보강: 학술·공공 파편",
-      "priority": 40,
-      "note": "2026-11-08 MEL 2018 매체 [^3] 더함(알아채고 빼고 읽음). 학술·공공은 아직 없음. 특허 US6411568 는 PDF, Houghton 학위논문은 PDF. 남은 후보: Yahoo '4 Tiny Changes Finally Made Me Quit Being Late' 전문가 인용, webmd help-chronically-late?page=2",
-      "createdAt": "2026-11-08T03:33:14.504Z",
-      "seq": 4171
     },
     {
       "id": "77882f91",
@@ -483,6 +331,110 @@
       "note": "2026-11-09 정책브리핑 2013 reporterView 148771140 시선 때문에 민망 파편 더함. 공공기관 HTML 에 인과 대목 없음. 후보: korea.kr reporterView 148707988 (2011-03-15) 배려석에 앉은 승객에게 아무 말 못함(실명 인터뷰 간접 인용이라 보류), mohw list_no 351117 (2019-10-10) 배려받지 못한 이유 배가 나오지 않아서 57.1%, 인구보건복지협회 2023\\~2025 조사는 PDF 뿐",
       "createdAt": "2026-11-09T09:37:40.600Z",
       "seq": 4282
+    },
+    {
+      "id": "996735b4",
+      "title": "leaving-cooking-unattended 보강: 문학 파편",
+      "priority": 40,
+      "note": "2026-11-09 Gutenberg 전문 grep(forgot/reading 과 burnt/scorched 가 한 문장): Story Girl 5342, Anne of Avonlea 47, Anne of the Island 51, House of Dreams 544, Rilla 3796, Rebecca 498, Cranford 394, Grimm 2591, Blithedale 2081 해당 없음. Child's History of England 699 의 Alfred 케이크 대목은 실존 인물 일화라 제외. 이전: Railway Children 1874, Little Women 514(4개 문서), Anne of Green Gables 45(4개 문서)",
+      "createdAt": "2026-11-09T15:13:23.653Z",
+      "seq": 4309
+    },
+    {
+      "id": "54a7bc21",
+      "title": "seat-belt-nonuse 보강: 사고 안 낸다는 믿음",
+      "priority": 40,
+      "note": "2026-11-09 segye 20140404003768 버스 기사 답답함, 별칭 Non-Use of Seat Belts 더함. 남은 후보: clien park/12446711 갑갑해서 안 맴(1980~90년대 회고). 사고가 나지 않으리라는 믿음을 이유로 든 설문 원문 없음. PMC7650188 Kuwait 2020 은 봇 확인 페이지",
+      "createdAt": "2026-11-09T15:16:08.560Z",
+      "seq": 4311
+    },
+    {
+      "id": "72bcefe7",
+      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
+      "priority": 40,
+      "note": "2026-11-09 SNS 는 straightdope 511582 (2009-09-25) 로 더함. 2008 이전 공공 후보: USFA 2007\\~2008 보도자료(webarchive.library.unt.edu) TLS 오류",
+      "createdAt": "2026-11-09T15:18:03.828Z",
+      "seq": 4312
+    },
+    {
+      "id": "913deaf8",
+      "title": "ignoring-dashboard-warning-lights 보강: HTML 공공 파편",
+      "priority": 40,
+      "note": "2026-11-09 NHTSA 813617 은 PDF 라 source-check 가 늘 UNREACHABLE. rosap 80057 은 403. tiresandparts 2017-07-25 매체로 더함. 남은 후보: clien park/19232012 (2026-07-21) 공기압 경고등 그대로 탐. ignoring-vehicle-recalls 와 공통 상위 후보",
+      "createdAt": "2026-11-09T15:22:37.833Z",
+      "seq": 4314
+    },
+    {
+      "id": "de9af177",
+      "title": "rereading-old-letters 보강: SNS 파편, 공통 상위 옛 기록 다시 보기",
+      "priority": 40,
+      "note": "2026-11-09 HN Algolia(reread letters, old letters reread) 와 한국어 커뮤니티 검색에서 본인이 옛 편지를 다시 읽는 글 못 찾음. daum 카페 yeyeduk/9sQ1/914 는 감성글 후보(공개 여부 미확인). looking-at-old-photos, rereading-old-diaries 와 공통 상위 후보. 브런치 maumcollage/658",
+      "createdAt": "2026-11-09T15:23:17.627Z",
+      "seq": 4315
+    },
+    {
+      "id": "b8a742a4",
+      "title": "stepping-aside-for-oncoming-pedestrians 보강: 지위·굴욕감",
+      "priority": 40,
+      "note": "2026-11-09 Olivier 2013 hal-00821854v1 (길을 내주는 쪽의 역할) 더함. 남은 후보: Bourgaize 2024 hal-04681163v1 가상 보행자가 노인처럼 보이면 간격 큼. Dabbs & Stokes 1975 HTML 초록 없음",
+      "createdAt": "2026-11-09T15:24:20.904Z",
+      "seq": 4316
+    },
+    {
+      "id": "8794f530",
+      "title": "morbid-curiosity 보강: SNS 파편",
+      "priority": 40,
+      "note": "2026-11-09 머니투데이 2025-10-30 한국어 매체 더함. SNS 남음. georgeherald 2013-09-01 rubbernecking 후보",
+      "createdAt": "2026-11-09T15:25:16.655Z",
+      "seq": 4317
+    },
+    {
+      "id": "e7e2513b",
+      "title": "skipping-follow-up-after-abnormal-screening 보강: SNS 파편",
+      "priority": 40,
+      "note": "2026-11-09 82cook(호스트가 프록시에서 막힘) 162632·102377 열리지 않음, HN Algolia(never followed up biopsy 등) 본인 글 없음. 후보 PMC8834256 (2022) head-in-the-sand, cancer.gov 2022-05-05",
+      "createdAt": "2026-11-09T15:26:22.776Z",
+      "seq": 4318
+    },
+    {
+      "id": "27cdd2a3",
+      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
+      "priority": 40,
+      "note": "2026-11-09 한국어 검색(계단 수를 세는 습관) 건강 기사뿐. 이전: PMC12999046 'Compulsive tic‐like behaviors such as touching, counting the steps' 진단 맥락 학술 후보",
+      "createdAt": "2026-11-09T15:26:46.411Z",
+      "seq": 4319
+    },
+    {
+      "id": "5b584da7",
+      "title": "setting-clocks-fast 보강: 학술·공공 파편",
+      "priority": 40,
+      "note": "2026-11-09 webmd help-chronically-late 1~4쪽에 시계 대목 없음(2005-06-22). 남은 후보: Yahoo '4 Tiny Changes Finally Made Me Quit Being Late'. 특허 US6411568·Houghton 학위논문은 PDF",
+      "createdAt": "2026-11-09T15:27:08.106Z",
+      "seq": 4320
+    },
+    {
+      "id": "5e121f6c",
+      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-09 좌석에 가방 두기를 잰 학술 원문 검색 결과 없음(Kim 2012 보도뿐: time.com healthland 65338, travelerstoday 2638). 후보: yalealumnimagazine 3581 (매체)",
+      "createdAt": "2026-11-09T15:27:22.975Z",
+      "seq": 4321
+    },
+    {
+      "id": "d66c842e",
+      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
+      "priority": 40,
+      "note": "2026-11-09 한국경제 202504278937i (2025-04-28) 를 [^7] 과 별칭 사후 과잉 확신 편향 근거로 씀. 한국어 SNS 는 네 회차째 미발견",
+      "createdAt": "2026-11-09T15:34:35.898Z",
+      "seq": 4324
+    },
+    {
+      "id": "bd942372",
+      "title": "news-avoidance 보강: 공공 파편, 원인 간선",
+      "priority": 40,
+      "note": "2026-11-09 korea.kr·kpf.or.kr 원문 HTML 여전히 없음, 기자협회보 56091·56602·51706 은 매체. 2026-11-07 ACMA 홈부터 HTTP/2 INTERNAL_ERROR, 総務省 情報通信白書 令和7年版 nd111140 에 회피 수치 없음. Ofcom 403",
+      "createdAt": "2026-11-09T15:37:30.364Z",
+      "seq": 4326
     },
     {
       "id": "e8ba47a7",
@@ -1141,6 +1093,30 @@
       "seq": 4260
     },
     {
+      "id": "f994b7da",
+      "title": "imaginary-arguments 관계: rumination",
+      "priority": 30,
+      "note": "2026-11-09 재확인: 인과나 상위 근거 문장 못 찾음. melmagazine rehearsing-an-argument (2022-02-15) 'the thin line between preparation and rumination' 는 경계만 말함. ToI 블로그 nonstop-rumination 403, encyclopedia.pub 34630 403. Honeycutt conflict-linkage 원문(학술, 상상 대화로 지난 다툼을 곱씹음)을 HTML 로 찾으면 상위 근거. 문서의 미래 다툼 연습 대목은 rumination 요약(지난 일)과 어긋남",
+      "createdAt": "2026-11-09T15:12:02.157Z",
+      "seq": 4308
+    },
+    {
+      "id": "01234e05",
+      "title": "putting-off-friends 관계: loneliness, hesitating-to-contact-old-friends",
+      "priority": 30,
+      "note": "2026-11-09 Dazed 64746 전체 URL은 /life-culture/article/64746/1/do-you-have-time-to-be-a-good-friend-career-relationships-work-loneliness (2024-09-27). 'byproduct of having no time' 문장은 241자라 쓸 수 없고 짧은 인과 문장 없음. 남은 후보: teamblind 8nb87qth (2026-02-02), brunch @0520with/21 (2019-01-09) '시간 없다는 핑계로 미루기만 했었다'",
+      "createdAt": "2026-11-09T15:19:18.904Z",
+      "seq": 4313
+    },
+    {
+      "id": "393069af",
+      "title": "fidgeting 보강: 나타나지 않는 조건, 한국어 SNS",
+      "priority": 30,
+      "note": "2026-11-09 Ricciardi 2019 iris.uniroma1.it 11573/1353277 더함. 남은 후보: SBS 2016-02-23 URL 못 찾음, Galton 1885 Nature 'Measure of Fidget' galton.org PDF 타임아웃",
+      "createdAt": "2026-11-09T15:37:06.414Z",
+      "seq": 4325
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1235,6 +1211,14 @@
       "note": "2026-11-07 waiting-for-a-reply 결과 간선은 이미 [^2] 로 있다. delaying-message-replies 와는 한쪽이 다른 쪽의 특수한 경우가 아니어서 상위 아님. 인과 원문 필요. 후보 fnnews 202610052218148674(2026-10-05) 안읽씹 답장 고민",
       "createdAt": "2026-11-07T15:19:16.113Z",
       "seq": 4088
+    },
+    {
+      "id": "942c1dfe",
+      "title": "smelling-absent-loved-ones-clothes 와 keeping-an-exs-belongings 관계",
+      "priority": 20,
+      "note": "2026-11-09 한국어 검색(헤어진 남자친구 옷 냄새 못 버림) 해당 글 없음. 2026-11-05 확인: hercampus 256401 은 빨지 않음, graphic.com.gh 2014-02-26 은 조언. 이전 확인: ebony, renews.co.nz, vice 2017-11-23, hercampus 756449, chelseajane substack, pdx.edu, wwu.edu(실명), thestudentroom 403, yourtango 353701, theeagleonline, xtramagazine, huffpost ca, dazed 30155, bustle, autostraddle, theglobeandmail",
+      "createdAt": "2026-11-09T15:13:41.909Z",
+      "seq": 4310
     },
     {
       "id": "870be3f4",
@@ -1405,28 +1389,12 @@
       "seq": 634
     },
     {
-      "id": "7075fd3f",
-      "title": "들어갈까 말까 머뭇거리기",
-      "priority": 10,
-      "note": "김유정 「소낙비」 ko.wikisource.org/wiki/소낙비 '섭섭한 낯으로 머뭇머뭇하다가 그냥 돌아갈 듯이 봉당 아래로 내려섰다'(발표 연도 페이지에 없음, 확인 필요). 나도향 「벙어리 삼룡이」 1925 '담에서서 주저주저하더니 담을 넘엇다'",
-      "createdAt": "2026-10-20T03:02:19.269Z",
-      "seq": 638
-    },
-    {
       "id": "90fd64b5",
       "title": "안전 장비 미착용 공통 상위 현상",
       "priority": 10,
       "note": "bicycle-helmet-nonuse 와 rear-seat-belt-nonuse 가 불편·잊음·위험 낮게 봄 이유를 공유. 두 현상을 함께 말하는 파편이 있으면 상위 간선 근거",
       "createdAt": "2026-10-20T03:41:41.581Z",
       "seq": 653
-    },
-    {
-      "id": "deefde3a",
-      "title": "heraldnet 2002 청소년 태닝 화상 감수",
-      "priority": 10,
-      "note": "heraldnet.com/?p=425837 (AP 2002-06-02) 'half with multiple sunburns said it was worth it to get the tan that followed.' 태닝을 위해 화상을 감수하기 신규 후보, sunscreen-nonuse 원인 후보. PMC2475461 Owen 2004 'Use of high factor sunscreen was inversely proportional to perceived importance of a suntan.'",
-      "createdAt": "2026-10-20T05:37:50.518Z",
-      "seq": 676
     },
     {
       "id": "82fe2460",
@@ -1451,30 +1419,6 @@
       "note": "2026-10-20 신설. 경증 응급실 이용과 구분됨(미룬 끝의 응급실은 상태가 나빠진 뒤). 비용 외 이유(두려움, 시간)로 미룬 사례와 한국어 파편 필요. wagner.nyu.edu Billings 2000 같은 글 'economic constraints cause many of the uninsured to delay seeking treatment until their medical condition has seriously worsened.'",
       "createdAt": "2026-10-20T08:58:03.077Z",
       "seq": 732
-    },
-    {
-      "id": "179bd440",
-      "title": "말문이 막힘(대화 중 얼어붙음)",
-      "priority": 10,
-      "note": "2026-10-21 crozetgazette.com/2020/08/08/staircase-mind-and-related-mental-states 'the brain freezes and we are rendered speechless' — staircase-wit 의 원인 후보. mentalfloss.com/article/544512 (2018-07-16) 내향·외향 차이 후보",
-      "createdAt": "2026-10-21T02:43:23.789Z",
-      "seq": 776
-    },
-    {
-      "id": "cb760e3b",
-      "title": "돈 걱정",
-      "priority": 10,
-      "note": "2026-10-21 leaving-mail-unopened 의 원인 후보(onefamily 2025 '5 million young adults avoid checking bills due to money anxiety'). moneyadvicetrust 2024 'unable to cope due to money worries'",
-      "createdAt": "2026-10-21T08:55:31.184Z",
-      "seq": 784
-    },
-    {
-      "id": "5bd13a89",
-      "title": "분노를 곱씹기 (분노 반추)",
-      "priority": 10,
-      "note": "displaced-aggression [^4] Bushman 2005 kar.kent.ac.uk/34963: 도발을 곱씹으면 전위된 공격이 커짐. displaced-aggression 원인 후보",
-      "createdAt": "2026-10-22T10:43:28.191Z",
-      "seq": 956
     },
     {
       "id": "7265100c",
