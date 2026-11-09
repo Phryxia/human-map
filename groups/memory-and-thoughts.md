@@ -39,3 +39,4 @@
   - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
   - [헤어진 연인의 물건 간직하기](../docs/keeping-an-exs-belongings.md)
+- [헌책 속 앞 주인의 흔적 반기기](../docs/traces-of-previous-owners-in-used-books.md) 헌책을 손에 넣은 사람이 책에 남은 앞 주인의 메모나 헌사, 끼워 둔 물건을 보며 그 사람을 떠올린다.
