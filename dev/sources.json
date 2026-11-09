@@ -1192,9 +1192,9 @@
   },
   "https://tidsskrift.dk/mef-journal/article/view/28781": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://ideas.repec.org/a/igg/jthi00/v16y2020i1p36-53.html": {
     "first": "2026-10-18",
@@ -4365,15 +4365,15 @@
   },
   "https://weekly.khan.co.kr/article/201208131748011": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://brunch.co.kr/@longvacation/112": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-09",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-09"
   },
   "https://www.solardaily.com/reports/Chinese_snap_up_salt_amid_Japan_nuclear_scare_999.html": {
     "first": "2026-10-20",
@@ -22799,6 +22799,12 @@
     "lastVerified": "2026-11-09"
   },
   "https://news.ycombinator.com/item?id=30917628": {
+    "first": "2026-11-09",
+    "last": "2026-11-09",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-09"
+  },
+  "https://news.ycombinator.com/item?id=34972963": {
     "first": "2026-11-09",
     "last": "2026-11-09",
     "result": "VERIFIED",
