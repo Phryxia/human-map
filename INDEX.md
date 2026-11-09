@@ -464,6 +464,7 @@
 - [원할 때 대화 끝내지 못하기](docs/not-ending-conversations.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
+- [유리창에 비친 제 모습 흘끗 보기](docs/glancing-at-own-reflection-in-windows.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [유산 다툼](docs/inheritance-disputes.md) ([돈과 소비](groups/money.md))
 - [유실물 찾아가지 않기](docs/leaving-lost-items-unclaimed.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [유언장 작성 미루기](docs/delaying-will-writing.md) ([걱정과 기분](groups/worry-and-mood.md))
