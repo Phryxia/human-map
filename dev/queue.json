@@ -1,41 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T12:39:52.178Z",
-  "nextSeq": 4443,
-  "stops": 233,
+  "savedAt": "2026-11-10T15:30:27.675Z",
+  "nextSeq": 4451,
+  "stops": 234,
   "items": [
-    {
-      "id": "e44b42db",
-      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
-      "priority": 50,
-      "note": "2026-11-10 Schulman 1987 (eutils 3696537) 더함. 후보: whyy.org 2021-10-17, aarp.org pandemic-fall-risk. 대립 간선은 두 현상이 한 사람 안에서 반대로 민다는 파편이 있어야 함",
-      "createdAt": "2026-11-10T09:07:53.958Z",
-      "seq": 4416
-    },
-    {
-      "id": "07759c2f",
-      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편, 영문 공공 파편",
-      "priority": 50,
-      "note": "2026-11-10 McMaster News 2018-03-15 (아껴 두는 면) 더함. 후보: ama.org 2025-04-01 JMR 요약, hec.edu stockpile 2017, boards.hellobee.com spend-lose-or-draw 2016 댓글",
-      "createdAt": "2026-11-10T09:08:59.431Z",
-      "seq": 4417
-    },
-    {
-      "id": "16a953fc",
-      "title": "not-using-air-conditioner 관계: energy-limiting-behavior, not-using-cooling-centers, 더위를 덜 느끼는 면",
-      "priority": 50,
-      "note": "2026-11-10 Hansen 2011, Lane 2013, AgingCare 2019 게시글, The Conversation 2023 으로 추가. 후보: agingcare 487059 (2024-05) 'Too hot! It's cold in here!', The Conversation 196218 의 'we tend to not feel the heat', Lane 2013 의 관절염·천식 악화 믿음, CDC mm6222a1 (2013)",
-      "createdAt": "2026-11-10T09:17:23.187Z",
-      "seq": 4422
-    },
-    {
-      "id": "23d67d65",
-      "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
-      "priority": 50,
-      "note": "2026-11-10 CBS 2013, Straight Dope 2009·2014 댓글, Pew 2020 으로 추가. 원인 후보: CBS 같은 글 'A voice mail, we assume, \"requires some sort of action,\"'",
-      "createdAt": "2026-11-10T09:25:13.130Z",
-      "seq": 4427
-    },
     {
       "id": "44b930b8",
       "title": "leaving-emails-unread 보강: 학술 파편, 한국어 파편, 안 읽는 이유",
@@ -67,6 +35,38 @@
       "note": "2026-11-10 Carroll 1871, Ideal Home 2022, 서울시 2023 으로 추가. 후보: npr.org/transcripts/105797372 (2009-06-23) RHS 토마토 실험, m.go.seoul.co.kr/news/2021/08/18/20210818022006",
       "createdAt": "2026-11-10T12:37:24.774Z",
       "seq": 4442
+    },
+    {
+      "id": "b3cd9c06",
+      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
+      "priority": 50,
+      "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
+      "createdAt": "2026-11-10T15:27:07.867Z",
+      "seq": 4447
+    },
+    {
+      "id": "a3264ecd",
+      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편, 영문 공공 파편",
+      "priority": 50,
+      "note": "2026-11-10 McMaster News 2018-03-15 더함. 후보: ama.org 2025-04-01 JMR 요약, hec.edu stockpile 2017, boards.hellobee.com spend-lose-or-draw 2016 댓글. 2026-11-10 시도: Offenberg 2007 JEP 초록은 미사용 언급 없음, ftc.gov 2006 보도자료 404, in.gov 2025 블로그 타임아웃",
+      "createdAt": "2026-11-10T15:29:22.650Z",
+      "seq": 4448
+    },
+    {
+      "id": "a11bff79",
+      "title": "not-using-air-conditioner 관계: energy-limiting-behavior, not-using-cooling-centers, 더위를 덜 느끼는 면",
+      "priority": 50,
+      "note": "2026-11-10 Hansen 2011, Lane 2013, AgingCare 2019 게시글, The Conversation 2023 으로 추가. 후보: agingcare 487059 (2024-05) 'Too hot! It's cold in here!', The Conversation 196218 의 'we tend to not feel the heat', Lane 2013 의 관절염·천식 악화 믿음, CDC mm6222a1 (2013). 2026-11-10 확인: energy-limiting-behavior 와는 요금 때문에 에어컨을 끈다는 파편이 있어야 상위나 원인 간선을 그을 수 있음",
+      "createdAt": "2026-11-10T15:29:39.429Z",
+      "seq": 4449
+    },
+    {
+      "id": "7e118436",
+      "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
+      "priority": 50,
+      "note": "2026-11-10 CBS 2013, Straight Dope 2009·2014 댓글, Pew 2020 으로 추가. 원인 후보: CBS 같은 글 'A voice mail, we assume, \"requires some sort of action,\"'. 2026-11-10 한국어 검색: clien 18935192 는 음성사서함 끄는 법 질문뿐이라 맞지 않음",
+      "createdAt": "2026-11-10T15:30:17.660Z",
+      "seq": 4450
     },
     {
       "id": "b1e741b2",
