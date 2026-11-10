@@ -26,6 +26,7 @@
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
 - [손님이 떠난 뒤의 허전함](../docs/after-visit-emptiness.md) 함께 지내던 가족이나 손님이 떠난 뒤 남은 사람이 집이 텅 비고 조용해진 것 같아 허전해한다.
+- [식물에게 말 걸기](../docs/talking-to-plants.md) 화초나 꽃을 기르거나 바라보는 사람이 식물에게 말을 건넨다.
 - [어린 시절 살던 집 찾아가기](../docs/revisiting-childhood-home.md) 어른이 된 사람이 어린 시절 살던 집이나 동네를 일부러 다시 찾아가 지금의 모습을 기억과 견주어 본다.
 - [예기 애도](../docs/anticipatory-grief.md) 가족이 죽어 가는 것을 지켜보는 사람이 그 가족이 죽기 전에 미리 슬퍼한다.
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
