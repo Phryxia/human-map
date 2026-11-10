@@ -22,7 +22,7 @@
 
 ## 상위
 
-없음.
+- [의인화](anthropomorphism.md)
 
 ## 하위
 

@@ -494,6 +494,7 @@
 - [의무 해제 뒤에도 마스크 쓰기](docs/keeping-mask-after-mandate.md) ([건강과 위험](groups/health-and-safety.md))
 - [의사에게 증상과 습관 줄여 말하기](docs/withholding-information-from-doctors.md) ([건강과 위험](groups/health-and-safety.md))
 - [의사에게 질문하지 못하기](docs/not-asking-doctors-questions.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [의인화](docs/anthropomorphism.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [이력서 부풀리기](docs/resume-embellishment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [이른 아침 혼자 있는 시간 누리기](docs/early-morning-solitude.md) ([시간과 하루 습관](groups/daily-time.md))
 - [이별 앞에서 눈물 참기](docs/holding-back-tears-at-breakup.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
