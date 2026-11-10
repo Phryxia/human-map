@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-11-10T12:06Z | 2026-11-10T12:32Z | judging-character-from-faces 보강 | judging-character-from-faces
+없음.
