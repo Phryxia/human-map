@@ -71,6 +71,7 @@
 - [태풍 앞두고 유리창에 테이프 붙이기](../docs/taping-windows-before-typhoons.md) 태풍이나 허리케인이 오기 전에 사람들이 유리창에 테이프를 X자로 붙이거나 젖은 신문지를 붙인다.
 - [텐트 안에서 난로 켜고 자기](../docs/heating-inside-tents.md) 추운 날 야영하는 사람이 몸을 데우려고 일산화탄소가 나오는 난로나 숯불을 텐트 안에 켜 두고 잠든다.
 - [폭염 속 바깥일 계속하기](../docs/working-through-heat.md) 폭염 속에서 밭일이나 바깥일을 하는 사람이 더위로 몸이 처지거나 쉬라는 말을 들어도 일을 멈추지 않는다.
+- [폭풍 때 파도 구경하기](../docs/storm-wave-watching.md) 태풍이나 폭풍이 올 때 사람들이 높은 파도를 보고 찍으려고 바닷가 물가까지 나간다.
 - [헌혈 꺼림](../docs/avoiding-blood-donation.md) 헌혈할 수 있는 나이의 사람이 헌혈을 무서워하거나 꺼려 헌혈하지 않는다.
   - [헌혈 뒤 다시 오지 않기](../docs/not-returning-to-donate-blood.md)
 - [화상에 집안 물건 바르기](../docs/applying-household-remedies-to-burns.md) 화상을 입은 사람이나 그 가족이 상처에 치약, 버터, 된장, 소주 같은 집안 물건을 바른다.
