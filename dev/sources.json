@@ -23443,7 +23443,8 @@
   "https://www.gutenberg.org/cache/epub/27200/pg27200-images.html": {
     "first": "2026-11-10",
     "last": "2026-11-10",
-    "result": "NOT_FOUND"
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   },
   "https://www.bangordailynews.com/2009/07/10/news/rangers-at-acadia-park-fight-removal-of-stones-as-souvenirs/": {
     "first": "2026-11-10",
@@ -23481,6 +23482,18 @@
     "lastVerified": "2026-11-10"
   },
   "https://www.segye.com/newsView/20210903513813": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://www.jstage.jst.go.jp/article/aijt/23/53/23_205/_article/-char/en": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://www.segye.com/newsView/20230203510390": {
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "VERIFIED",

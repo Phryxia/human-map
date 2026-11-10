@@ -16,7 +16,11 @@
 
 2016년 Yellow Springs News 블로그 글[^4]의 필자는 불 켜진 창 안에서 책을 읽던 여자의 얼굴을 언뜻 보았다. 그 얼굴을 생각에 잠긴 조금 슬픈 얼굴이라고 적었다.
 
-2024년 Globe and Mail 에세이[^5]의 필자는 어릴 때 춥고 배고픈 채로 창 안의 따뜻함을 들여다보았다고 썼다. 안의 사람들이 이미 저녁을 먹고 있으리라 여겼다. 같은 해 Harrisonburg Citizen 에세이[^6]의 필자는 밤 산책길에 지나치는 집 안의 사람들이 행복하다고 상상한다고 썼다.
+2017년 논문[^5]의 저자는 밤의 창이 집 안의 여러 정보를 바깥에 전하는 구실을 한다고 보았다.
+
+2023년 세계일보 칼럼[^6]의 필자는 밤에 서울 도심을 걸으며 주택의 창 틈으로 새어 나오는 불빛을 보면 그 안에서 편히 누울 수 있는 사람이 몇이나 될지 궁금해진다고 썼다.
+
+2024년 Globe and Mail 에세이[^7]의 필자는 어릴 때 춥고 배고픈 채로 창 안의 따뜻함을 들여다보았다고 썼다. 안의 사람들이 이미 저녁을 먹고 있으리라 여겼다. 같은 해 Harrisonburg Citizen 에세이[^8]의 필자는 밤 산책길에 지나치는 집 안의 사람들이 행복하다고 상상한다고 썼다.
 
 # 관계
 
@@ -46,5 +50,7 @@
 [^2]: [문학] "Out of her face, out of her dress, out of her attitude, out of nothing almost, I have made up the woman's story, and sometimes I say it over to myself with tears." (그 얼굴에서, 그 옷에서, 그 자세에서, 거의 아무것도 아닌 것에서 나는 그 여자의 이야기를 지어냈고, 이따금 눈물을 흘리며 그 이야기를 혼자 되뇐다.) — Charles Baudelaire, 「Windows」, Poems in Prose, Arthur Symons 옮김, Project Gutenberg, 1869, https://www.gutenberg.org/cache/epub/50489/pg50489-images.html, 2026-11-09 접속
 [^3]: [SNS] "I do it, not so much to see what kind of stuff they have, but because I enjoy looking in and imagining what their lives are like." (나는 그렇게 하는데, 그들이 어떤 물건을 가졌는지 보려는 것이라기보다 안을 들여다보며 그들의 삶이 어떨지 상상하는 것이 즐겁기 때문이다.) — Straight Dope Message Board 댓글, 2012-10-26, https://boards.straightdope.com/t/etiquette-for-looking-into-peoples-houses/638887?page=2, 2026-11-09 접속
 [^4]: [매체] "I pass a lit window. A woman is there, reading, or pausing in the midst of reading. I glimpse her face. It has a private look, thoughtful and a little sad." (나는 불 켜진 창을 지나친다. 한 여자가 거기서 책을 읽거나 읽다가 멈춰 있다. 나는 그 얼굴을 언뜻 본다. 남에게 보이지 않는 얼굴이고, 생각에 잠긴 듯 조금 슬프다.) — Audrey Hackett, 「Intimate strangers」, Yellow Springs News, 2016-09-20, https://ysnews.com/news/2016/09/blog-intimate-strangers, 2026-11-09 접속
-[^5]: [매체] "I was freezing and I was looking in at warmth. I was hungry and I was sure they had already tucked into their meatloaf and boiled carrots." (나는 얼어붙을 듯 추웠고 안의 따뜻함을 들여다보고 있었다. 배가 고팠고 그들은 이미 미트로프와 삶은 당근을 먹기 시작했으리라 확신했다.) — Judy Pollard Smith, 「I love looking into other people's lives on nighttime walks」, The Globe and Mail, 2024-02-05, https://www.theglobeandmail.com/life/first-person/article-i-love-looking-into-other-peoples-lives-on-nighttime-walks/, 2026-11-09 접속
-[^6]: [매체] "we imagine that the people inside are happy. Is this just our optimistic nature?" (우리는 안에 있는 사람들이 행복하다고 상상한다. 이것은 그저 우리의 낙천적인 성격 탓일까?) — Sofia Samatar, 「Night Walks」, The Harrisonburg Citizen, 2024-06-27, https://hburgcitizen.com/2024/06/27/night-walks/, 2026-11-09 접속
+[^5]: [학술] "It is considered that windows at night have the function to deliver internal various information to the outside." (밤의 창은 집 안의 여러 정보를 바깥에 전하는 기능을 지닌다고 여겨진다.) — 小林 茂雄, 「窓明かりの状態がつくる住宅外構まわりの安心感」, 日本建築学会技術報告集 23권 53호, 2017-02-20, https://www.jstage.jst.go.jp/article/aijt/23/53/23_205/_article/-char/en, 2026-11-10 접속
+[^6]: [매체] "별 하나 없는 서울의 밤 도심을 걸으면 주택의 창문 틈새로 반짝이는 수많은 빛이 보인다. 새어나오는 불빛을 보면 과연 서울 시내에서 몸 편히 누일 수 있는 자유인은 몇 명이나 될지 궁금해진다." — 김범수, 「[기자가만난세상] 서울서 전셋집 구하기, 시즌2」, 세계일보, 2023-02-03, https://www.segye.com/newsView/20230203510390, 2026-11-10 접속
+[^7]: [매체] "I was freezing and I was looking in at warmth. I was hungry and I was sure they had already tucked into their meatloaf and boiled carrots." (나는 얼어붙을 듯 추웠고 안의 따뜻함을 들여다보고 있었다. 배가 고팠고 그들은 이미 미트로프와 삶은 당근을 먹기 시작했으리라 확신했다.) — Judy Pollard Smith, 「I love looking into other people's lives on nighttime walks」, The Globe and Mail, 2024-02-05, https://www.theglobeandmail.com/life/first-person/article-i-love-looking-into-other-peoples-lives-on-nighttime-walks/, 2026-11-09 접속
+[^8]: [매체] "we imagine that the people inside are happy. Is this just our optimistic nature?" (우리는 안에 있는 사람들이 행복하다고 상상한다. 이것은 그저 우리의 낙천적인 성격 탓일까?) — Sofia Samatar, 「Night Walks」, The Harrisonburg Citizen, 2024-06-27, https://hburgcitizen.com/2024/06/27/night-walks/, 2026-11-09 접속
