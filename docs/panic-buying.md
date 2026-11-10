@@ -14,6 +14,8 @@
 
 2020년 연구[^3]의 22개국 온라인 설문(N=996)에서 코로나19 위협을 더 크게 느낀 사람이 화장지를 더 많이 쌓아 두었다.
 
+2023년 6월 파이낸셜뉴스 기사[^4]에 따르면 일본의 원전 오염수 방류를 앞두고 불안감이 커지자 천일염을 사재기하는 수요가 늘었다.
+
 # 관계
 
 ## 상위
@@ -41,3 +43,4 @@
 [^1]: [매체] "Chinese retailers on Thursday reported panic buying of salt, partly because shoppers believe it could help ward off the effects of potential radioactivity from Japan's crippled nuclear power plant." (중국 소매점들은 목요일 소금 사재기를 보고했다. 손님들이 소금이 고장 난 일본 원전에서 나올 수 있는 방사능의 영향을 막는 데 도움이 된다고 믿은 것이 한 이유다.) — AFP, "Chinese snap up salt amid Japan nuclear scare", SpaceMart, 2011-03-16, https://www.solardaily.com/reports/Chinese_snap_up_salt_amid_Japan_nuclear_scare_999.html, 2026-10-20 접속
 [^2]: [공공] "Additional analysis indicates monthly turnover doubled for products such as toilet and tissue paper, and rice and pasta." (추가 분석에서 화장지와 휴지, 쌀과 파스타 같은 품목의 월간 매출이 두 배가 됐다.) — Australian Bureau of Statistics, "Preliminary Retail turnover rises 8.2 per cent in March", 2020-04-22, https://www.abs.gov.au/articles/preliminary-retail-turnover-rises-82-cent-march, 2026-10-20 접속 (소멸, 2026-10-20 까지 확인)
 [^3]: [학술] "Results suggest that people who felt more threatened by Covid-19 stockpiled more toilet paper." (결과는 코로나19에 더 위협을 느낀 사람이 화장지를 더 많이 비축했음을 시사한다.) — Garbe L, Rau R, Toppe T, "Influence of perceived threat of Covid-19 and HEXACO personality traits on toilet paper stockpiling", PLoS ONE 15(6): e0234232, 2020-06-12, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234232, 2026-10-20 접속
+[^4]: [매체] "불안감이 커지면서 천일염을 사재기 하는 수요가 늘어 소금 대란이 일고 있다." — 김동규, 「오염수 방류 공포에 '소금 대란'… 주부도 식당도 아우성[현장르포]」, 파이낸셜뉴스, 2023-06-18, https://www.fnnews.com/news/202306181847022495, 2026-11-10 접속
