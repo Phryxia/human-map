@@ -20,7 +20,11 @@
 
 2020년 Bell 외의 개관 논문[^6]은 소비자가 장바구니의 전체 비용을 처음 마주하는 곳이 결제 단계여서 예상 후회가 결제 때 생긴다고 적는다.
 
-2021년 클리앙 게시글[^7]의 글쓴이는 위시리스트에 둔 물건을 장바구니에 넣었다가 결제 직전에 다시 위시리스트로 돌려놓고 나머지만 결제했다고 썼다. 2024년 해커뉴스 댓글[^8]의 글쓴이는 배송비를 보려면 결제 정보를 넣는 화면까지 가야 해서 그 화면에서 장바구니를 자주 버린다고 밝혔다.
+2021년 클리앙 게시글[^7]의 글쓴이는 위시리스트에 둔 물건을 장바구니에 넣었다가 결제 직전에 다시 위시리스트로 돌려놓고 나머지만 결제했다고 썼다.
+
+2022년 Wang 외의 연구[^8]에서 더 낮은 가격을 기다리는 마음은 결제 단계의 망설임을 키웠고 그 망설임은 장바구니 포기와 오프라인 매장 구매로 이어졌다.
+
+2024년 해커뉴스 댓글[^9]의 글쓴이는 배송비를 보려면 결제 정보를 넣는 화면까지 가야 해서 그 화면에서 장바구니를 자주 버린다고 밝혔다.
 
 # 관계
 
@@ -53,4 +57,5 @@
 [^5]: [학술] "결제단계 지연에는 시간압박성, 구매변경 가능성, 부정적 경험 및 후회회피가, 장바구니 포기에는 시간압박성과 부정적 경험, 후회회피가 정(+)의 영향을 미치고 있었다." — 김종욱, 서상혁, 「인터넷 소비자의 구매지연행동에 영향을 미치는 요인: 상황적 요인과 지각된 불확실성을 중심으로」, 한국콘텐츠학회논문지 14(7), 2014, https://koreascience.kr/article/JAKO201423261321562.page, 2026-11-10 접속
 [^6]: [학술] "Similarly, anticipated regret most likely occurs during checkout because checkout is likely to be the place where consumers first come face to face with the overall costs of their basket." (마찬가지로 예상 후회는 결제 단계에서 가장 생기기 쉽다. 결제 단계가 소비자가 장바구니의 전체 비용을 처음 마주하는 곳일 가능성이 크기 때문이다.) — Lynne Bell, Rachel McCloy, Laurie Butler, Julia Vogt, "Motivational and Affective Factors Underlying Consumer Dropout and Transactional Success in eCommerce: An Overview", Frontiers in Psychology, 2020-07-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC7351522/, 2026-11-10 접속
 [^7]: [SNS] "늘 그렇듯 위시에서 끄집어내어 장바구니에 넣고 모두 계산하려는 직전에 stop! 다시 위시에 감금하고 나머지 것만 결제했습니다." — 클리앙 게시글, 2021-09-25, https://www.clien.net/service/board/park/16529236, 2026-11-10 접속
-[^8]: [SNS] "I often "abandon" my cart once I hit the screen that requires payment details because I had to get there in order to see how much shipping I'm going to have to pay" (배송비가 얼마인지 보려면 그 화면까지 가야 했기 때문에 결제 정보를 요구하는 화면에 이르면 나는 장바구니를 자주 "버린다".) — Hacker News 댓글, 2024-04-08, https://news.ycombinator.com/item?id=39969833, 2026-11-10 접속
+[^8]: [학술] "The results show that waiting for lower prices positively influences hesitation at checkout, and subsequently, impacts both OSCA and DBLR." (결과는 더 낮은 가격을 기다리는 것이 결제 단계의 망설임에 정의 영향을 주고 이어서 온라인 장바구니 포기와 오프라인 매장 구매 모두에 영향을 준다는 것을 보여 준다.) — Siqi Wang, Ye Ye, Binyao Ning, Jun-Hwa Cheah, Xin-Jean Lim, "Why Do Some Consumers Still Prefer In-Store Shopping? An Exploration of Online Shopping Cart Abandonment Behavior", Frontiers in Psychology, 2022-01-20, https://pmc.ncbi.nlm.nih.gov/articles/PMC8811303/, 2026-11-10 접속
+[^9]: [SNS] "I often "abandon" my cart once I hit the screen that requires payment details because I had to get there in order to see how much shipping I'm going to have to pay" (배송비가 얼마인지 보려면 그 화면까지 가야 했기 때문에 결제 정보를 요구하는 화면에 이르면 나는 장바구니를 자주 "버린다".) — Hacker News 댓글, 2024-04-08, https://news.ycombinator.com/item?id=39969833, 2026-11-10 접속
