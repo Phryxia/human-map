@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T09:40:11.926Z",
-  "nextSeq": 4432,
-  "stops": 232,
+  "savedAt": "2026-11-10T12:39:52.178Z",
+  "nextSeq": 4443,
+  "stops": 233,
   "items": [
     {
       "id": "e44b42db",
@@ -43,6 +43,30 @@
       "note": "2026-11-10 YouGov 2015-06-04, Woot 2025-09-23 댓글로 추가. 후보: phys.org 2024-03 unread-emails-inbox-unwise (연구 소개), allaboutcookies.org digital-clutter (2024-12, 평균 1000통 넘음), 40tech.com 2012-05-28 댓글, forums.anandtech.com 319606",
       "createdAt": "2026-11-10T09:35:02.048Z",
       "seq": 4431
+    },
+    {
+      "id": "7434b83b",
+      "title": "talking-to-pets 보강: 속마음 털어놓는 면, 한국어 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-10 Jerome 1886, Ben-Aderet 2017, 브런치 2026 으로 추가. 후보: PMC5247504 의 나이 든 개에게도 쓰는 대목, David Copperfield 의 Dora 와 Jip (gutenberg 766 은 4개 문서 사용 중이라 피함). 검색어: 반려동물에게 고민 털어놓",
+      "createdAt": "2026-11-10T12:35:11.658Z",
+      "seq": 4440
+    },
+    {
+      "id": "da1fa351",
+      "title": "storm-wave-watching 보강: 학술 파편, 2000년대 파편",
+      "priority": 50,
+      "note": "2026-11-10 기상청 일본 안내문 더함. 후보: mdpi.com/2073-445X/12/2/360 Semeraro 2023 Nazaré 파도 구경꾼 (403), 김규한 2008 안목항 사고 (PDF)",
+      "createdAt": "2026-11-10T12:35:38.911Z",
+      "seq": 4441
+    },
+    {
+      "id": "904e8e51",
+      "title": "talking-to-plants 보강: 학술 파편, treating-objects-as-companions 와 talking-to-pets 관계",
+      "priority": 50,
+      "note": "2026-11-10 Carroll 1871, Ideal Home 2022, 서울시 2023 으로 추가. 후보: npr.org/transcripts/105797372 (2009-06-23) RHS 토마토 실험, m.go.seoul.co.kr/news/2021/08/18/20210818022006",
+      "createdAt": "2026-11-10T12:37:24.774Z",
+      "seq": 4442
     },
     {
       "id": "b1e741b2",
