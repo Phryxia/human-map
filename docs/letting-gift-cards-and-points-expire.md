@@ -10,17 +10,19 @@
 
 2010년 Miranda와 Kónya의 논문 초록[^1]은 상당수의 선불 기프트카드가 오랜 기간 쓰이지 않은 채 남는다고 적었다.
 
-2017년 아시아경제 기사[^2]가 전한 설문에서 응답자 260명(52.0%)은 유효기간이 끝날 때까지 모바일 상품권을 쓰지 못했다고 답했다. 그 가운데 117명은 유효기간 만료 통지를 따로 받지 못했다고 답했다.
+2014년 12월 영국 기업혁신기술부 보도자료[^2]는 소비자가 산 상품권의 6%가 지갑과 서랍 속에서 잊힌 채 해마다 쓰이지 않는다고 적었다.
 
-2018년 3월 McMaster News 기사[^3]에 따르면 Alina Nastasoiu 의 연구에서 쇼핑객은 돈을 쓰고 적립 포인트는 나중을 위해 아껴 두는 일이 잦았다. 그 포인트를 끝내 쓰지 않는 일도 많았다.
+2017년 아시아경제 기사[^3]가 전한 설문에서 응답자 260명(52.0%)은 유효기간이 끝날 때까지 모바일 상품권을 쓰지 못했다고 답했다. 그 가운데 117명은 유효기간 만료 통지를 따로 받지 못했다고 답했다.
 
-2021년 서울시 소식지가 옮긴 피해 사례에서 한 소비자는 2020년 11월 치킨 기프티콘을 17,500원에 샀다가 기한 안에 쓰지 못해 90% 환급을 요구했다.[^4]
+2018년 3월 McMaster News 기사[^4]에 따르면 Alina Nastasoiu 의 연구에서 쇼핑객은 돈을 쓰고 적립 포인트는 나중을 위해 아껴 두는 일이 잦았다. 그 포인트를 끝내 쓰지 않는 일도 많았다.
 
-2021년 9월 세계일보 기사[^5]의 사례에서 한 사람은 서랍 구석에 접혀 있던 10만 원짜리 상품권을 찾았는데 유효기간이 이미 8개월 지나 있었다.
+2021년 서울시 소식지가 옮긴 피해 사례에서 한 소비자는 2020년 11월 치킨 기프티콘을 17,500원에 샀다가 기한 안에 쓰지 못해 90% 환급을 요구했다.[^5]
 
-2023년 7월 WTOP 기사[^6]에서 업계 분석가는 사람들이 상품권을 잊어버리거나 눈에서 멀어져 마음에서도 멀어지거나 잃어버려 가치를 잃는다고 말했다.
+2021년 9월 세계일보 기사[^6]의 사례에서 한 사람은 서랍 구석에 접혀 있던 10만 원짜리 상품권을 찾았는데 유효기간이 이미 8개월 지나 있었다.
 
-2025년 11월 GeekNews 게시글의 글쓴이는 유효기간이 넉넉해서 방심했는데 집안에 일이 생기면서 기프티콘의 유효기간이 지나 버렸다고 썼다.[^7] 같은 달 금융감독원 자료[^8]는 소비자가 카드 포인트의 소멸 예정 사실을 알아차리고 소멸 전에 쓰도록 문자나 알림톡으로 소멸 예정 포인트를 더 안내하겠다고 적었다.
+2023년 7월 WTOP 기사[^7]에서 업계 분석가는 사람들이 상품권을 잊어버리거나 눈에서 멀어져 마음에서도 멀어지거나 잃어버려 가치를 잃는다고 말했다.
+
+2025년 11월 GeekNews 게시글의 글쓴이는 유효기간이 넉넉해서 방심했는데 집안에 일이 생기면서 기프티콘의 유효기간이 지나 버렸다고 썼다.[^8] 같은 달 금융감독원 자료[^9]는 소비자가 카드 포인트의 소멸 예정 사실을 알아차리고 소멸 전에 쓰도록 문자나 알림톡으로 소멸 예정 포인트를 더 안내하겠다고 적었다.
 
 # 관계
 
@@ -47,10 +49,11 @@
 #돈 #시간
 
 [^1]: [학술] "There is evidence, however, that a significant number of prepaid gift cards remain unredeemed for considerable periods." (그러나 상당수의 선불 기프트카드가 오랜 기간 사용되지 않은 채 남는다는 증거가 있다.) — Mario J Miranda, Laszló Kónya, "Early Gift Card Redemption Could Help Stores Grow Business Faster", Services Marketing Quarterly, 2010, https://findanexpert.unimelb.edu.au/scholarlywork/1425463-early-gift-card-redemption-could-help-stores-grow-business-faster, 2026-11-10 접속
-[^2]: [매체] "260명(52.0%)은 유효기간 만료 때까지 상품권을 이용하지 못했다고 답했고, 이 중 117명은 ‘유효기간 만료에 따른 통지를 따로 받지 못했다’고 답했다." — 김현정, "[소비자가 봉②]모바일 상품권 대세인데…환불안내 없고 할인도 '깜깜'", 아시아경제, 2017-04-24, https://view.asiae.co.kr/article/2017042406310752624, 2026-11-10 접속
-[^3]: [매체] "Shoppers often choose to spend money and save their retail points for later, Alina Nastasoiu finds. Quite often, they don't cash the points in at all." (쇼핑객은 돈을 쓰고 적립 포인트는 나중을 위해 아껴 두는 쪽을 자주 고른다고 Alina Nastasoiu 는 밝혔다. 그 포인트를 끝내 쓰지 않는 일도 꽤 잦다.) — McMaster News, "The power of points: Some consumers value loyalty points more than regular currency", 2018-03-15, https://news.mcmaster.ca/the-power-of-points-some-consumers-value-loyalty-points-more-than-regular-currency/, 2026-11-10 접속
-[^4]: [공공] "소비자: 2020. 11. 29. 치킨 기프티콘을 구매하고 17,500원을 결제함 기한 내 사용하지 못하여 90% 환급을 요구함" — 내 손안에 서울, "파손되고, 분실되고…설 명절 택배·상품권 피해 주의", 2021-02-09, https://mediahub.seoul.go.kr/archives/2000437, 2026-11-10 접속
-[^5]: [매체] "A씨는 어느 날 서랍 구석에 꾸깃꾸깃 접혀있는 10만 원짜리 상품권 한장을 발견했다. 상품권을 펼쳐 유효기간을 확인해보니 발행 일자 2020년 1월 3일, 유효기간 1년. 유효기간이 이미 8개월 지났다." — 이정한, 「“유효기간 지난 상품권 연장 요청하면 진상인가요?” [법잇슈]」, 세계일보, 2021-09-04, https://www.segye.com/newsView/20210903513813, 2026-11-10 접속
-[^6]: [매체] "We can be our own worst enemies, sometimes where we forget about it, it’s out of sight out of mind, we lose it, the store goes out of business, a lot of people lose value, unfortunately," (우리는 때로 스스로에게 가장 큰 적이 된다. 잊어버리고, 눈에서 멀어지면 마음에서도 멀어지고, 잃어버리고, 가게가 문을 닫아 많은 사람이 가치를 잃는다.) — Mike Murillo, "Nearly half of Americans are letting gift cards go unused, report finds", WTOP News, 2023-07-24, https://wtop.com/business-finance/2023/07/nearly-half-of-americans-are-letting-gift-cards-go-unused-report-finds/, 2026-11-10 접속
-[^7]: [SNS] "유효기간이 꽤 넉넉해서 방심 했는데, 갑자기 집안에 일이 터지면서, 어찌저찌 하다 유효기간이 지나버렸어요." — GeekNews 게시글, 2025-11-12, https://news.hada.io/topic?id=24299, 2026-11-10 접속
-[^8]: [공공] "소비자가 포인트 소멸 예정 사실을 더 정확히 인지하고 포인트 소멸 전에 놓치지 않고 포인트를 사용할 수 있도록, 기존 명세서 안내와 함께 포인트 소멸 문자 또는 알림톡 등을 통해 소멸 예정 포인트를 추가 안내할 계획임." — 금융감독원, "이제 포인트 자동사용 서비스로 잊지 말고 사용하세요!", KDI 경제정보센터, 2025-11-18, https://eiec.kdi.re.kr/policy/materialView.do?num=273482, 2026-11-10 접속
+[^2]: [공공] "Every year 6% of vouchers bought by consumers go unused as they lay forgotten in people’s wallets and drawers." (해마다 소비자가 산 상품권의 6%가 사람들의 지갑과 서랍 속에서 잊힌 채 쓰이지 않는다.) — Department for Business, Innovation & Skills, "Millions wasted as people don’t spend gift vouchers", GOV.UK, 2014-12-27, https://www.gov.uk/government/news/millions-wasted-as-people-dont-spend-gift-vouchers, 2026-11-10 접속
+[^3]: [매체] "260명(52.0%)은 유효기간 만료 때까지 상품권을 이용하지 못했다고 답했고, 이 중 117명은 ‘유효기간 만료에 따른 통지를 따로 받지 못했다’고 답했다." — 김현정, "[소비자가 봉②]모바일 상품권 대세인데…환불안내 없고 할인도 '깜깜'", 아시아경제, 2017-04-24, https://view.asiae.co.kr/article/2017042406310752624, 2026-11-10 접속
+[^4]: [매체] "Shoppers often choose to spend money and save their retail points for later, Alina Nastasoiu finds. Quite often, they don't cash the points in at all." (쇼핑객은 돈을 쓰고 적립 포인트는 나중을 위해 아껴 두는 쪽을 자주 고른다고 Alina Nastasoiu 는 밝혔다. 그 포인트를 끝내 쓰지 않는 일도 꽤 잦다.) — McMaster News, "The power of points: Some consumers value loyalty points more than regular currency", 2018-03-15, https://news.mcmaster.ca/the-power-of-points-some-consumers-value-loyalty-points-more-than-regular-currency/, 2026-11-10 접속
+[^5]: [공공] "소비자: 2020. 11. 29. 치킨 기프티콘을 구매하고 17,500원을 결제함 기한 내 사용하지 못하여 90% 환급을 요구함" — 내 손안에 서울, "파손되고, 분실되고…설 명절 택배·상품권 피해 주의", 2021-02-09, https://mediahub.seoul.go.kr/archives/2000437, 2026-11-10 접속
+[^6]: [매체] "A씨는 어느 날 서랍 구석에 꾸깃꾸깃 접혀있는 10만 원짜리 상품권 한장을 발견했다. 상품권을 펼쳐 유효기간을 확인해보니 발행 일자 2020년 1월 3일, 유효기간 1년. 유효기간이 이미 8개월 지났다." — 이정한, 「“유효기간 지난 상품권 연장 요청하면 진상인가요?” [법잇슈]」, 세계일보, 2021-09-04, https://www.segye.com/newsView/20210903513813, 2026-11-10 접속
+[^7]: [매체] "We can be our own worst enemies, sometimes where we forget about it, it’s out of sight out of mind, we lose it, the store goes out of business, a lot of people lose value, unfortunately," (우리는 때로 스스로에게 가장 큰 적이 된다. 잊어버리고, 눈에서 멀어지면 마음에서도 멀어지고, 잃어버리고, 가게가 문을 닫아 많은 사람이 가치를 잃는다.) — Mike Murillo, "Nearly half of Americans are letting gift cards go unused, report finds", WTOP News, 2023-07-24, https://wtop.com/business-finance/2023/07/nearly-half-of-americans-are-letting-gift-cards-go-unused-report-finds/, 2026-11-10 접속
+[^8]: [SNS] "유효기간이 꽤 넉넉해서 방심 했는데, 갑자기 집안에 일이 터지면서, 어찌저찌 하다 유효기간이 지나버렸어요." — GeekNews 게시글, 2025-11-12, https://news.hada.io/topic?id=24299, 2026-11-10 접속
+[^9]: [공공] "소비자가 포인트 소멸 예정 사실을 더 정확히 인지하고 포인트 소멸 전에 놓치지 않고 포인트를 사용할 수 있도록, 기존 명세서 안내와 함께 포인트 소멸 문자 또는 알림톡 등을 통해 소멸 예정 포인트를 추가 안내할 계획임." — 금융감독원, "이제 포인트 자동사용 서비스로 잊지 말고 사용하세요!", KDI 경제정보센터, 2025-11-18, https://eiec.kdi.re.kr/policy/materialView.do?num=273482, 2026-11-10 접속
