@@ -410,6 +410,7 @@
 - [약 먹는 걸 잊기](docs/forgetting-to-take-medication.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [약관 읽지 않고 동의하기](docs/agreeing-without-reading-terms.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [약속 취소 충동](docs/urge-to-cancel-plans.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [약속 취소당한 서운함](docs/being-cancelled-on.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [양 세기](docs/counting-sheep.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [어둠 공포](docs/fear-of-the-dark.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [어린 시절 살던 집 찾아가기](docs/revisiting-childhood-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))

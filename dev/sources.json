@@ -23618,5 +23618,17 @@
     "last": "2026-11-10",
     "result": "VERIFIED",
     "lastVerified": "2026-11-10"
+  },
+  "https://api.crossref.org/works/10.1525/collabra.57549": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://msutoday.msu.edu/news/2023/01/cancelling-plans-research": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   }
 }
