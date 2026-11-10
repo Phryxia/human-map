@@ -24146,5 +24146,11 @@
     "last": "2026-11-10",
     "result": "VERIFIED",
     "lastVerified": "2026-11-10"
+  },
+  "https://api.crossref.org/works/10.1075/is.5.1.06mit": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   }
 }
