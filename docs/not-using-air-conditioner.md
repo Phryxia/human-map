@@ -16,6 +16,8 @@
 
 2023년 1월 The Conversation 기사[^4]의 필자들은 여름에도 카디건을 고집하거나 그렇게 덥지 않다며 에어컨을 켜지 않으려는 사람이 주변에 흔히 있다고 적었다.
 
+2024년 5월 AgingCare 게시글[^5]의 글쓴이는 집이 너무 더워서 그렇다고 알려 주면 돌보는 노인이 "너무 덥다고! 여긴 추워!" 하고 맞선다고 썼다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^2]: [학술] "Reasons for not using AC during hot weather include disliking AC (29 %), not feeling hot (19 %), and a preference for fans (18 %)." (더운 날 에어컨을 쓰지 않는 이유로는 에어컨이 싫다(29%), 덥게 느끼지 않는다(19%), 선풍기를 더 좋아한다(18%)가 있다.) — K. Lane 외, "Extreme Heat Awareness and Protective Behaviors in New York City", Journal of Urban Health, 2013-12-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC4074319/, 2026-11-10 접속
 [^3]: [SNS] "I’ve suggested using the AC, but she says she doesn’t need it." (에어컨을 쓰자고 했지만 어머니는 필요 없다고 한다.) — AgingCare 게시글, 2019-07, https://www.agingcare.com/questions/my-mom-refuses-to-use-her-ac-and-its-too-hot-for-that-450525.htm, 2026-11-10 접속
 [^4]: [매체] "We all know someone who insists on wearing a cardigan in summer or refuses to turn on the air conditioning because “it’s not that hot”." (여름에도 카디건을 고집하거나 "그렇게 덥지 않다"며 에어컨을 켜지 않으려는 사람을 우리는 모두 알고 있다.) — Sarah Cunningham, Shannon Rutherford, "5 reasons to check on your elderly neighbour during a heatwave", The Conversation, 2023-01-24, https://theconversation.com/5-reasons-to-check-on-your-elderly-neighbour-during-a-heatwave-196218, 2026-11-10 접속
+[^5]: [SNS] "I try and let her know it's because it's too hot in the house, but she argues with me and says, "Too hot! It's cold in here!"" (집이 너무 더워서 그렇다고 알려 주려 하지만 그녀는 내게 맞서며 "너무 덥다고! 여긴 추워!" 하고 말한다.) — AgingCare 게시글, 2024-05, https://www.agingcare.com/questions/what-do-i-do-this-summer-if-the-elderly-person-im-caring-for-wont-allow-any-ac-turned-on-487059.htm, 2026-11-10 접속
