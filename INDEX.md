@@ -680,6 +680,7 @@
 - [형편을 넘는 손님 대접](docs/hosting-beyond-means.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [혹시 몰라 챙겨 두기](docs/just-in-case-keeping.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [혼자 먹는 식사의 감정](docs/eating-alone-feelings.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [혼자 살며 아플 때의 서러움](docs/sick-while-living-alone.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 생각만 하는 시간 꺼리기](docs/avoiding-being-alone-with-thoughts.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 여가 보내기](docs/solo-leisure.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 있기 선호](docs/preference-for-solitude.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
