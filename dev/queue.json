@@ -1,64 +1,48 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T06:30:40.144Z",
-  "nextSeq": 4392,
-  "stops": 231,
+  "savedAt": "2026-11-10T09:40:11.926Z",
+  "nextSeq": 4432,
+  "stops": 232,
   "items": [
     {
-      "id": "ec1daee7",
-      "title": "fear-of-falling-activity-restriction 보강: 문학 또는 1990년대 이전 파편, refusing-mobility-aids 관계",
+      "id": "e44b42db",
+      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
       "priority": 50,
-      "note": "2026-11-10 inews24 580088 (2011) 더함. 후보: whyy.org 2021-10-17 넘어진 뒤 외출을 두려워해 덜 움직이는 순환, aarp.org info-2021 pandemic-fall-risk 'syndrome of fear of falling'",
-      "createdAt": "2026-11-10T03:25:23.018Z",
-      "seq": 4382
+      "note": "2026-11-10 Schulman 1987 (eutils 3696537) 더함. 후보: whyy.org 2021-10-17, aarp.org pandemic-fall-risk. 대립 간선은 두 현상이 한 사람 안에서 반대로 민다는 파편이 있어야 함",
+      "createdAt": "2026-11-10T09:07:53.958Z",
+      "seq": 4416
     },
     {
-      "id": "2f09c6fb",
-      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편, 영문 공공 파편, 아껴 두다 못 쓰는 면",
+      "id": "07759c2f",
+      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편, 영문 공공 파편",
       "priority": 50,
-      "note": "2026-11-10 segye 20210903513813 (2021) 더함. 후보: ama.org 2025-04-01 JMR 요약, news.mcmaster.ca 2018-03-15 포인트를 현금보다 아껴 둠, boards.hellobee.com spend-lose-or-draw 2016 댓글",
-      "createdAt": "2026-11-10T03:26:12.965Z",
-      "seq": 4383
+      "note": "2026-11-10 McMaster News 2018-03-15 (아껴 두는 면) 더함. 후보: ama.org 2025-04-01 JMR 요약, hec.edu stockpile 2017, boards.hellobee.com spend-lose-or-draw 2016 댓글",
+      "createdAt": "2026-11-10T09:08:59.431Z",
+      "seq": 4417
     },
     {
-      "id": "36d515a3",
-      "title": "early-morning-solitude 보강: 학술 또는 공공 파편, 1853년 문학",
+      "id": "16a953fc",
+      "title": "not-using-air-conditioner 관계: energy-limiting-behavior, not-using-cooling-centers, 더위를 덜 느끼는 면",
       "priority": 50,
-      "note": "2026-11-10 학술 후보 현상과 어긋남: arxiv 2306.00919 (2023) 아침에 주로 혼자, jopy.12939 (2024) 혼자 있음이 아침에 많고 Wiley 봇 확인. 일찍 일어난다는 면 없음. KCI 새벽 기상 질적연구를 찾아볼 것",
-      "createdAt": "2026-11-10T03:34:27.299Z",
-      "seq": 4384
+      "note": "2026-11-10 Hansen 2011, Lane 2013, AgingCare 2019 게시글, The Conversation 2023 으로 추가. 후보: agingcare 487059 (2024-05) 'Too hot! It's cold in here!', The Conversation 196218 의 'we tend to not feel the heat', Lane 2013 의 관절염·천식 악화 믿음, CDC mm6222a1 (2013)",
+      "createdAt": "2026-11-10T09:17:23.187Z",
+      "seq": 4422
     },
     {
-      "id": "7f8bf84e",
-      "title": "saving-gift-wrap 보강: 공공 파편, 문학 파편",
+      "id": "23d67d65",
+      "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 50,
-      "note": "2026-11-10 Trias i Valls 2001 PDF(미확인) 더함. 공공 못 찾음: nlwa.gov.uk 2021-11-19 는 선물 가방 재사용 36%. Cranford(394) 는 꾸러미 끈을 한 겹씩 푸는 대목",
-      "createdAt": "2026-11-10T03:34:39.600Z",
-      "seq": 4385
+      "note": "2026-11-10 CBS 2013, Straight Dope 2009·2014 댓글, Pew 2020 으로 추가. 원인 후보: CBS 같은 글 'A voice mail, we assume, \"requires some sort of action,\"'",
+      "createdAt": "2026-11-10T09:25:13.130Z",
+      "seq": 4427
     },
     {
-      "id": "cf4ed2dc",
-      "title": "interrupting-others 보강: 한국어 파편, 원인 간선",
+      "id": "44b930b8",
+      "title": "leaving-emails-unread 보강: 학술 파편, 한국어 파편, 안 읽는 이유",
       "priority": 50,
-      "note": "2026-11-10 문학 1857, 학술 1984, 매체 2007, SNS 2023 으로 추가. 후보: Little Women(514) Jo 가 노부인 이야기 도중 끼어드는 대목, Jane Eyre(1260) 조바심에 끊는 대목, 들떠서 끊는다는 원인 근거 원문 있음(Blind 2023)",
-      "createdAt": "2026-11-10T06:14:44.887Z",
-      "seq": 4389
-    },
-    {
-      "id": "96fe3762",
-      "title": "keeping-found-property 보강: SNS 또는 매체 파편, returning-lost-wallets 관계",
-      "priority": 50,
-      "note": "2026-11-10 공공 3개, 학술 1개(Cohn 2019, returning-lost-wallets 와 같은 출처)로 추가. 주운 사람이 갖기로 한 경위를 적은 게시글 필요. 후보: Hung 2025 Sci Rep PMID 39881201, Yang 2023 PNAS PMID 37428923 중국 지갑 반환 실험",
-      "createdAt": "2026-11-10T06:26:05.469Z",
-      "seq": 4390
-    },
-    {
-      "id": "ea4e9c2a",
-      "title": "concealing-accidental-damage 보강: SNS·매체 파편, Tom Sawyer 외 문학, concealing-failure·hiding-mistakes-at-work 관계",
-      "priority": 50,
-      "note": "2026-11-10 문학 Little Men(1871), 학술 Bruer 2020 으로 추가. 후보: Rush 2017 PMID 28286409 장난감이 망가진 일을 아이들이 잘 털어놓지 않음, Heidi(1448) 휠체어를 망가뜨리고 숨긴 Peter 의 고백. Tom Sawyer(74) 는 이미 4개 문서가 씀",
-      "createdAt": "2026-11-10T06:27:36.209Z",
-      "seq": 4391
+      "note": "2026-11-10 YouGov 2015-06-04, Woot 2025-09-23 댓글로 추가. 후보: phys.org 2024-03 unread-emails-inbox-unwise (연구 소개), allaboutcookies.org digital-clutter (2024-12, 평균 1000통 넘음), 40tech.com 2012-05-28 댓글, forums.anandtech.com 319606",
+      "createdAt": "2026-11-10T09:35:02.048Z",
+      "seq": 4431
     },
     {
       "id": "b1e741b2",
@@ -83,22 +67,6 @@
       "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음. 2026-11-01 이미 1992 Seattle Times [^1] 있음. 두 현상을 한 사람 안에서 맞세우는 원문 필요",
       "createdAt": "2026-11-07T12:34:55.473Z",
       "seq": 4067
-    },
-    {
-      "id": "d8c386c3",
-      "title": "fear-of-losing-independence 관계: refusing-mobility-aids 원인",
-      "priority": 40,
-      "note": "2026-11-07 보행 보조기 거부와 독립 상실 두려움을 '때문에' 로 잇는 원문 못 찾음. 근접: brightstarcare.com 블로그(장치가 쇠퇴의 상징), mobilitymgmt.com embracing-change(스쿠터를 포기로 여김)",
-      "createdAt": "2026-11-07T15:12:31.163Z",
-      "seq": 4086
-    },
-    {
-      "id": "635f69e2",
-      "title": "underestimating-compliance 보강: help-seeking-avoidance 원인 간선",
-      "priority": 40,
-      "note": "2026-11-02 아시아경제 2023 한국어 파편 더함. 인과 원문은 여전히 없음. 근접: Newark·Bohns·Flynn 2016 ecommons, Zhao·Epley 2022 PubMed 36067802. 2026-11-07 Stanford GSB 2008 flynn_ask 기사의 'This means not only are people not asking for help' 는 앞 문장이 과대추정 얘기라 인과 근거 아님",
-      "createdAt": "2026-11-07T15:18:30.894Z",
-      "seq": 4087
     },
     {
       "id": "c360b236",
@@ -499,6 +467,70 @@
       "note": "2026-11-10 Straight Dope 213223/12 (2003) SNS 더함. 후보: mumsnet 5226728 (2024) 진열창에 뜻밖에 비친 모습에 실망, 상점 창을 피함(대립 면)",
       "createdAt": "2026-11-10T03:23:24.689Z",
       "seq": 4380
+    },
+    {
+      "id": "e55d48ff",
+      "title": "early-morning-solitude 보강: 학술 또는 공공 파편, 1853년 문학",
+      "priority": 40,
+      "note": "2026-11-10 학술 후보 현상과 어긋남: arxiv 2306.00919, jopy.12939. 2026-11-10 영문 'early risers solitude', 한국어 새벽 기상 질적연구 검색에서 학술·공공 못 찾음. 생활시간조사 원자료나 PubMed chronotype solitude 를 볼 것",
+      "createdAt": "2026-11-10T09:09:36.040Z",
+      "seq": 4418
+    },
+    {
+      "id": "ad9a9a94",
+      "title": "saving-gift-wrap 보강: 공공 파편, 문학 파편",
+      "priority": 40,
+      "note": "2026-11-10 공공 못 찾음: nlwa.gov.uk 2021-11-19 는 선물 가방 재사용 36%. Gutenberg 31편(514 45 394 1342 98 등)에서 wrapping paper 를 접어 두는 대목 못 찾음",
+      "createdAt": "2026-11-10T09:10:52.635Z",
+      "seq": 4419
+    },
+    {
+      "id": "8f4a9868",
+      "title": "improper-medicine-disposal 관계: keeping-leftover-medicines",
+      "priority": 40,
+      "note": "2026-11-07 관계 근거 원문 아직 없음. 후보: statcan 16-002-x/2008001/10539 (2008), 클리앙 park/17379913 (2022-07-05), mediahub 2004438. 2026-11-10 양쪽 문서 파편에 '남겨 둔 약을 나중에 아무렇게나 버린다' 인과 원문 없음 확인",
+      "createdAt": "2026-11-10T09:11:03.184Z",
+      "seq": 4420
+    },
+    {
+      "id": "c787def4",
+      "title": "interrupting-others 보강: 원인 간선, 한국어 SNS 파편",
+      "priority": 40,
+      "note": "2026-11-10 레이디경향 2026-02-05 더함. 후보: Little Women(514) Jo 가 노부인 이야기 도중 끼어드는 대목, Blind 2023 들떠서 끊는다는 원인 근거 원문 있음(상대 현상 문서 필요)",
+      "createdAt": "2026-11-10T09:18:22.698Z",
+      "seq": 4423
+    },
+    {
+      "id": "0a873b43",
+      "title": "forgetting-to-take-medication 보강: 한국어 SNS 파편, 2003년 이전 파편",
+      "priority": 40,
+      "note": "2026-11-10 HealthUnlocked 2018-05-16 (먹었는지 헷갈림) 더함. 후보: Einstein 외 1998 Psychological Science 초록(PubMed 에 없음), PMC10630004",
+      "createdAt": "2026-11-10T09:22:32.615Z",
+      "seq": 4426
+    },
+    {
+      "id": "000fa2fe",
+      "title": "being-cancelled-on 보강: 문학 파편, urge-to-cancel-plans 관계",
+      "priority": 40,
+      "note": "2026-11-10 Berkeley Parents Network 2005-03, 블라인드 2021-06-11 더함. 후보: Emma(158) 18장 Mrs. Weston 'exceedingly disappointed' (Frank 방문 연기), Straight Dope 7699 (1999-09-11) 생일 모임 30분 전 취소",
+      "createdAt": "2026-11-10T09:29:29.079Z",
+      "seq": 4428
+    },
+    {
+      "id": "148b5571",
+      "title": "concealing-accidental-damage 보강: SNS 파편, Tom Sawyer 외 문학, concealing-failure·hiding-mistakes-at-work 관계",
+      "priority": 40,
+      "note": "2026-11-10 MEL Magazine 2020-03-08 더함. 후보: boredpanda broken-couch-overweight-friend (손님이 소파가 부러진 걸 알고도 말하지 않음, 매체), forums.welltrainedmind.com 455647 아이들이 골프 카트 망가뜨린 걸 3주 숨김(Cloudflare 가능), Heidi(1448) 는 고의 파손이라 제외",
+      "createdAt": "2026-11-10T09:32:35.280Z",
+      "seq": 4429
+    },
+    {
+      "id": "b694cac7",
+      "title": "ordering-the-same-dish 보강: 학술 또는 공공 파편",
+      "priority": 40,
+      "note": "2026-11-10 AYTM, Straight Dope 2011, GQ 코리아 2023-05-28, Franchising.com 2023 으로 추가. 공공 후보: 농림축산식품부·aT 외식 소비행태 조사(mafra.go.kr/bbs/home/798/593021/download.do, 파일), 데일리안 1678615 가 인용. 학술 후보: Ha·Jang 2013 J Services Marketing",
+      "createdAt": "2026-11-10T09:33:36.445Z",
+      "seq": 4430
     },
     {
       "id": "e8ba47a7",
@@ -1373,14 +1405,6 @@
       "seq": 515
     },
     {
-      "id": "c3ac211f",
-      "title": "상사가 겪은 장시간 근무를 부하에게 되풀이하기",
-      "priority": 10,
-      "note": "president.jp/articles/-/28249 (2019-04-10, 中原淳) '残業は上司から部下へと“遺伝”する'. staying-late-for-boss 원인 간선 후보",
-      "createdAt": "2026-10-19T14:37:49.937Z",
-      "seq": 533
-    },
-    {
       "id": "9e5d1de0",
       "title": "아는 사람을 마주치고 못 본 척하기와 엘리베이터 같이 타기 피하기의 관계",
       "priority": 10,
@@ -1419,22 +1443,6 @@
       "note": "avoiding-read-receipts F3 브런치(brunch.co.kr/@longvacation/112, 2026-08-17) 같은 글 '그 의무를 피하려고 사람들은 결국 읽지 않은 척하는 기술을 익혔다' 는 빨리 답해야 한다는 압박(pressure-to-reply-quickly) → 이 현상의 원인 후보. 한 출처 한 파편이라 이 문서에는 못 씀. 다른 출처 필요. segye.com/newsView/20251005501605(카카오 몰래 읽기 기능 보도) 미열람",
       "createdAt": "2026-10-19T23:04:25.966Z",
       "seq": 587
-    },
-    {
-      "id": "383de2e6",
-      "title": "위협 지각과 사재기 (판매 제한에 줄서기)",
-      "priority": 10,
-      "note": "panic-buying F1(AFP 2011): 광저우 마트가 1인 2봉지 제한, 손님 줄서기. F3(Garbe 2020) 위협 지각이 비축을 늘림. 2023년 한국 천일염 품귀(fnnews 202306181847022495, 1인 1개 제한)로 다른 시기 파편 보강 가능",
-      "createdAt": "2026-10-20T00:34:23.737Z",
-      "seq": 602
-    },
-    {
-      "id": "ee15591a",
-      "title": "혼자 보내는 명절에 받는 시선 피하기",
-      "priority": 10,
-      "note": "매체 후보 확보: khan.co.kr/article/201509251857265 (정지은 2015-09-25) '마트에 뭐라도 사러 가면 혼자 온 자신을 불쌍하게 쳐다보는 것도 싫고'; bostonglobe.com/2019/11/23/lifestyle/how-embrace-solo-holiday-city/ 'The stigma is so significant that many won't admit they don't have plans.' 비매체 종류 필요. beyondblue, metafilter 는 Cloudflare. skipping-holiday-gatherings, eating-alone-feelings 관계 후보",
-      "createdAt": "2026-10-20T01:59:51.378Z",
-      "seq": 619
     },
     {
       "id": "5918acb8",
@@ -1485,36 +1493,12 @@
       "seq": 732
     },
     {
-      "id": "7265100c",
-      "title": "에어컨이 있어도 켜지 않기 (더위 위험 낮게 어림)",
-      "priority": 10,
-      "note": "2026-10-22 energy-limiting-behavior 와 겹쳐 아이뉴스24 2026-08-05 사연을 그 문서 [^8] 로 더함(같은 기사 '어머니가 아주 가난한 것도 아니신데' 는 같은 URL). 요금이 아닌 이유(더위를 못 느낌, 위험을 낮게 어림)를 말하는 파편이 있어야 별도 문서가 됨. CDC mm6222a1 (2013) 'In the homes of five persons who died, a functioning air conditioner was present but not turned on.' VERIFIED 가능, 이유 없음. 이전: energy-limiting-behavior F4 출처(NYC DOHMH heat data story): AC 가 있어도 더울 때 쓰지 않는 15%. 요금 외 이유. CDC mm6222a1(2013) 'a functioning air conditioner was present but not turned on'",
-      "createdAt": "2026-10-22T16:59:10.908Z",
-      "seq": 1076
-    },
-    {
       "id": "6fdc9d9c",
       "title": "남 탓의 전염",
       "priority": 10,
       "note": "2026-10-22 매체 후보 VERIFIED 가능: nbcnews.com/health/health-news/passing-buck-blaming-others-contagious-flna1c9441046 (2010-01-19, LiveScience) 'Participants who read about the governor blaming others for a mistake were twice as likely as the other group of participants to blame someone else for their own slip-ups.' 학술 초록 gsbpreserve.stanford.edu/view/61308 403. 두 번째 종류 필요. 이전: blaming-others F3(USC 2009, Fast&Tiedens): 남이 탓하는 것을 본 사람이 더 탓한다. 하위 또는 결과 후보. 같은 페이지 'Blaming becomes common when people are worried about their safety in an organization'",
       "createdAt": "2026-10-22T16:59:36.761Z",
       "seq": 1077
-    },
-    {
-      "id": "8f7c915d",
-      "title": "약속 취소를 받는 쪽의 반응",
-      "priority": 10,
-      "note": "msutoday.msu.edu/news/2023/01/cancelling-plans-research (Kim Ward 2023-01-24, VERIFIED 가능) 'Being canceled on by those we are close to may be more upsetting because it more clearly violates the norms of friendship and could resemble a form of social rejection.' 원 논문 Caron 외 2023 Collabra 10.1525/collabra.57549 는 ucpress 봇 확인. 82cook 3726220(2023-10-24) 댓글 '자주 그러면 날 무시하는 행동이죠' 는 fetch failed. 82cook 2059415(2016-01-27) 미확인. urge-to-cancel-plans 와 관련 / 2026-10-22 msutoday 같은 글 'Overall, people reported relatively low levels of distress when canceled on unless it was by a good friend.' 조건 후보(VERIFIED 가능). 82cook 3726220·2059415 둘 다 타임아웃. Straight Dope 검색('friend cancelled plans last minute hurt') 맞는 글 없음. 두 번째 종류 필요",
-      "createdAt": "2026-10-22T17:00:45.979Z",
-      "seq": 1078
-    },
-    {
-      "id": "2fca0911",
-      "title": "약 먹는 걸 잊기(복약 깜빡함)",
-      "priority": 10,
-      "note": "2026-10-22 prospective-memory-failure 하위 후보. psychologicalscience.org Einstein 1998 'Routine or habitual prospective memory tasks (e.g., taking medication) have the potential for creating confusions regarding whether or not an action has already been performed.' 이미 했는지 헷갈림, 두 번 먹기",
-      "createdAt": "2026-10-22T22:39:51.285Z",
-      "seq": 1110
     },
     {
       "id": "c41ddb0b",
@@ -2635,6 +2619,30 @@
       "note": "Straight Dope 스레드 276278 (2004) 'Ever glance at a reflection of yourself and not recognize it?'. glancing-at-own-reflection-in-windows 와 이웃",
       "createdAt": "2026-11-10T03:23:24.810Z",
       "seq": 4381
+    },
+    {
+      "id": "54bfc366",
+      "title": "상사가 겪은 장시간 근무를 부하에게 되풀이하기",
+      "priority": 10,
+      "note": "president.jp/articles/-/28249 (2019-04-10, 中原淳) '上司は、自分が若いころ体験した働き方を再生産して部下に強いるところがあります。' 확인. 2026-11-10 매체만 찾음(businessinsider.jp 162146, livedoor 17733967 도 매체). 학술·SNS 필요: パーソル総合研究所 원 보고서, CiNii '残業 世代間'. staying-late-for-boss 원인 간선 후보",
+      "createdAt": "2026-11-10T09:16:27.602Z",
+      "seq": 4421
+    },
+    {
+      "id": "3cf6a4f6",
+      "title": "혼자 보내는 명절에 받는 시선 피하기",
+      "priority": 10,
+      "note": "매체 후보 확보: khan.co.kr/article/201509251857265 (2015-09-25) '마트에 뭐라도 사러 가면 혼자 온 자신을 불쌍하게 쳐다보는 것도 싫고'; bostonglobe.com 2019-11-23 solo holiday 'The stigma is so significant that many won't admit they don't have plans.'; brunch @johnnieworker/27 (매체). 2026-11-10 SNS·학술 못 찾음. skipping-holiday-gatherings, eating-alone-feelings 관계 후보",
+      "createdAt": "2026-11-10T09:18:41.326Z",
+      "seq": 4424
+    },
+    {
+      "id": "834e1c6c",
+      "title": "panic-buying 하위: 판매 제한에 줄서기",
+      "priority": 10,
+      "note": "panic-buying F1(AFP 2011) 광저우 마트 1인 2봉지 제한, fnnews 202306181847022495 (2023-06-18) '천일염 구매를 1인당 1개로 제한' 대목(문서 [^4] 와 같은 기사, 다른 대목). 위협 지각 원인은 Garbe 2020 (panic-buying [^3])",
+      "createdAt": "2026-11-10T09:20:37.476Z",
+      "seq": 4425
     },
     {
       "id": "02b2f242",
