@@ -423,6 +423,7 @@
 - [얻어먹기 거절](docs/declining-free-meals-out-of-pride.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얼굴 붉어질까 두려워하기](docs/fear-of-blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [얼굴 붉어짐](docs/blushing.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [얼굴로 성격 짐작하기](docs/judging-character-from-faces.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [엄숙한 자리에서 터지는 웃음](docs/laughing-at-solemn-occasions.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [업무 실수 숨기기](docs/hiding-mistakes-at-work.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [엉뚱한 대상에게 화풀이하기](docs/displaced-aggression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -17,6 +17,7 @@
   - [막판에 찍을 후보 정하기](../docs/last-minute-vote-decision.md)
 - [소유 효과](../docs/endowment-effect.md) 자신이 가진 물건에 가지지 않은 사람보다 높은 값을 매기는 사람의 심리다.
 - [승낙 과소평가](../docs/underestimating-compliance.md) 남에게 직접 부탁하는 사람이 상대가 그 부탁을 들어줄 가능성을 실제보다 낮게 어림한다.
+- [얼굴로 성격 짐작하기](../docs/judging-character-from-faces.md) 처음 본 사람의 얼굴 생김새를 보고 사람이 그의 성품과 능력을 짐작한다.
 - [연락받는 사람의 감사 과소평가](../docs/underestimating-reach-out-appreciation.md) 안부를 전하려는 사람이 연락을 받는 사람이 그 연락을 얼마나 고마워할지 실제보다 낮게 어림한다.
 - [자기 이익을 위한 정당화](../docs/self-serving-justification.md) 사람이 자기에게 이로운 쪽으로 행동하면서 그 행동이 옳거나 의무를 다한 것이라는 이유를 스스로 만들어 낸다.
   - [회사 비품 가져가기](../docs/taking-office-supplies.md)
