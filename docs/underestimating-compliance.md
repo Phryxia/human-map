@@ -1,6 +1,6 @@
 # 승낙 과소평가
 
-별칭: Underestimation-of-Compliance Effect[^2], 규정 준수에 대한 과소평가[^4]
+별칭: Underestimation-of-Compliance Effect[^2], 규정 준수에 대한 과소평가[^5]
 
 남에게 직접 부탁하는 사람이 상대가 그 부탁을 들어줄 가능성을 실제보다 낮게 어림한다.
 
@@ -14,7 +14,9 @@
 
 2020년 2월 NPR 방송[^3]에서 연구자는 설문 참여를 부탁하러 나가기 전에 몇 명이 응할지 어림한 참가자들이 응할 사람 수를 크게 낮게 잡았다고 말했다.
 
-2023년 6월 기사[^4]는 사람들이 남이 규칙을 따르는 정도를 낮게 보는 편견 때문에 다른 사람이 자기 요청을 거절할 가능성을 실제보다 높게 생각한다고 적었다.
+2022년 9월 Zhao 와 Epley 의 논문[^4]은 사람들이 도움을 부탁받은 상대가 얼마나 기분 좋게 느낄지를 과소평가해 부탁을 지나치게 꺼릴 수 있다고 제안했다.
+
+2023년 6월 기사[^5]는 사람들이 남이 규칙을 따르는 정도를 낮게 보는 편견 때문에 다른 사람이 자기 요청을 거절할 가능성을 실제보다 높게 생각한다고 적었다.
 
 # 관계
 
@@ -32,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [도움 요청 회피](help-seeking-avoidance.md)[^4]
 
 ## 대립
 
@@ -43,4 +45,5 @@
 [^1]: [학술] "people underestimated by as much as 50% the likelihood that others would agree to a direct request for help" (사람들은 남이 직접적인 도움 요청에 응할 가능성을 많게는 50%까지 낮게 어림했다) — Flynn FJ, Lake VK, 「If you need help, just ask: underestimating compliance with direct requests for help」, Journal of Personality and Social Psychology 95(1), 2008-07, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18605856&rettype=abstract&retmode=text, 2026-10-30 접속
 [^2]: [학술] "We find that this error results from requesters’ failure to appreciate the awkwardness of saying “no” to a request." (이 오류는 요청하는 사람이 요청에 "아니요" 라고 말하는 일의 어색함을 헤아리지 못하는 데서 생긴다.) — Vanessa K. Bohns, "(Mis)Understanding Our Influence over Others: A Review of the Underestimation-of-Compliance Effect", Current Directions in Psychological Science, Cornell eCommons, 2016, https://ecommons.cornell.edu/entities/publication/2c50b460-fb5c-4490-9047-9bb02b9f6f25, 2026-10-30 접속
 [^3]: [매체] "And what we found was that they really underestimated the number of people who would agree to that request." (그리고 우리가 발견한 것은 그들이 그 요청에 응할 사람의 수를 크게 낮게 어림했다는 것이다.) — Shankar Vedantam, 「'Hidden Brain': How 'Egocentric Bias' Can Lead Us Astray」, NPR, 2020-02-26, https://www.npr.org/transcripts/809530189, 2026-10-30 접속
-[^4]: [매체] "한편 사람들이 타인이나 그룹의 규칙을 따르는 정도를 낮게 보는 ‘규정 준수에 대한 과소평가’ 같은 편견은 다른 사람들이 우리 요청을 거절할 가능성을 실제보다 더 높게 생각하게 만든다." — 서믿음, 「[책으로 만난 사람]"내 안의 편견에 속지 말고…내면의 영향력을 찾으세요"」, 아시아경제, 2023-06-16, https://www.asiae.co.kr/article/2023061316275444892, 2026-11-02 접속
+[^4]: [학술] "We suggest that people may be overly reluctant because of miscalibrated expectations about others' prosocial motivation, underestimating how positively others will feel when asked for help." (우리는 사람들이 남의 친사회적 동기를 잘못 어림해 도움을 부탁받은 상대가 얼마나 기분 좋게 느낄지를 과소평가하기 때문에 지나치게 부탁을 꺼릴 수 있다고 제안한다.) — X. Zhao, N. Epley, "Surprisingly Happy to Have Helped: Underestimating Prosociality Creates a Misplaced Barrier to Asking for Help", Psychological Science, 2022-09-06, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=36067802&rettype=abstract&retmode=text, 2026-11-10 접속
+[^5]: [매체] "한편 사람들이 타인이나 그룹의 규칙을 따르는 정도를 낮게 보는 ‘규정 준수에 대한 과소평가’ 같은 편견은 다른 사람들이 우리 요청을 거절할 가능성을 실제보다 더 높게 생각하게 만든다." — 서믿음, 「[책으로 만난 사람]"내 안의 편견에 속지 말고…내면의 영향력을 찾으세요"」, 아시아경제, 2023-06-16, https://www.asiae.co.kr/article/2023061316275444892, 2026-11-02 접속
