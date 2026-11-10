@@ -16,6 +16,8 @@
 
 2022년 칼럼[^4]의 필자는 사람들이 매일 보던 사람이 아니라 처음 보는 사람들의 처음 보는 표정과 행동거지를 대한 뒤에 구경했다고 말한다고 적었다.
 
+2026년 게시글[^5]의 글쓴이는 카페에서 공부하다 싸우는 커플을 실시간으로 본 일이 재미있었다고 적었다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^2]: [매체] "today’s people watcher is armed with a Moleskine and a latte. He holes up in a coffeeshop to look out the window and observe movements." (오늘날 사람 구경꾼은 몰스킨 수첩과 라테로 무장한다. 그는 커피숍에 틀어박혀 창밖을 내다보며 움직임을 지켜본다.) — Cody Delistraty, "The Art of People Watching", Matador Network, 2013-12-30, https://matadornetwork.com/notebook/the-art-of-people-watching, 2026-11-10 접속
 [^3]: [학술] "the brain’s capacity to understand other people’s interactions and relationships from limited visual information – also known as people-watching – has become a distinct topic of inquiry" (적은 시각 정보로 다른 사람들의 상호작용과 관계를 이해하는 뇌의 능력, 곧 people-watching 은 따로 떨어진 연구 주제가 되었다) — Susanne Quadflieg, Kami Koldewyn, "The neuroscience of people-watching: how the human brain makes sense of other people's encounters", Annals of the New York Academy of Sciences 1396(1), 2017-04-12, https://research-information.bris.ac.uk/en/publications/the-neuroscience-of-people-watching-how-the-human-brain-makes-sen/, 2026-11-10 접속
 [^4]: [매체] "매일 만나보던 사람이 아니고 처음 보는 사람들의 처음 보는 표정과 행동거지를 대하고 나서 구경했다고 말한다." — 안성남, "[삶의 뜨락에서] 사람 구경", 미주중앙일보, 2022-11-28, https://www.koreadaily.com/article/20221128203959207, 2026-11-10 접속
+[^5]: [SNS] "그리고 싸우는 커플도 보면 재밌다는 점. 오늘도 실시간으로 싸우는 거 봤는데 공부하는 나에게 도파민을 주심" — 링커리어 게시글, 2026-05-16, https://community.linkareer.com/jayuu/5976773, 2026-11-10 접속
