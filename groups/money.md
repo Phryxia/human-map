@@ -60,6 +60,7 @@
 - [자기 보상 소비](../docs/self-reward-purchase.md) 애써 무언가를 해낸 사람이 그 보상으로 자신에게 물건이나 경험을 사 준다.
 - [자녀 사교육 불안](../docs/private-tutoring-anxiety.md) 부모가 자녀가 다른 아이들에게 뒤처질까 불안해 자녀를 학원이나 과외에 보낸다.
 - [장 볼 때 필요보다 많이 사기](../docs/overbuying-groceries.md) 장을 보는 사람이 집에서 다 먹지 못할 만큼 식료품을 사고 남은 것을 버린다.
+- [장바구니에 담아 두고 결제하지 않기](../docs/online-cart-abandonment.md) 온라인 쇼핑몰에서 상품을 장바구니에 담은 사람이 결제하지 않고 떠나거나 장바구니를 사고 싶은 물건을 모아 두는 곳으로 쓴다.
 - [종이 영수증 바로 버리기](../docs/discarding-paper-receipts.md) 가게에서 계산한 손님이 종이 영수증을 받지 않고 버려 달라고 하거나 받자마자 버린다.
 - [좋은 물건 아껴 두기](../docs/saving-things-for-best.md) 좋은 옷이나 물건을 가진 사람이 그것을 특별한 날에 쓰려고 아껴 두고 평소에 쓰지 않는다.
 - [충동구매](../docs/impulse-buying.md) 살 계획이 없던 물건을 본 사람이 그 자리에서 사고 싶어져 산다.
