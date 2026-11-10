@@ -20,6 +20,8 @@
 
 2021년 Liu 외의 논문은 지역사회에 사는 노인의 20\~60%가 넘어질 두려움을 지니고 20\~55%가 그 두려움 때문에 일상 활동을 제한한다고 적었다.[^6] 2022년 미국 국립노화연구소 안내는 많은 노인이 넘어진 적이 없어도 넘어질까 두려워하고 그 두려움 때문에 걷기, 장보기, 사회 활동을 피할 수 있다고 썼다.[^7]
 
+2026년 11월 Euronews 기사[^8]는 넘어질 두려움이 위험할 수 있는 활동을 피하게 하는 한편 덜 움직이게 해 근력과 이동 능력을 줄이고 넘어질 위험을 높일 수 있다고 적었다.
+
 # 관계
 
 ## 상위
@@ -51,3 +53,4 @@
 [^5]: [공공] "또한 낙상을 경험한 노인들은 다시 넘어져 다칠까봐 잘 움직이려 하지 않아서 근력이 더 약해지고, 그 결과 낙상이 더 잘 생기게 됩니다." — 질병관리청 국가건강정보포털, "낙상", 2020-03-23, https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1743, 2026-11-10 접속
 [^6]: [학술] "About 20–60 % of community-dwelling older adults have fear of falling, and 20–55 % report limited daily activities due to fear of falling" (지역사회에 사는 노인의 약 20\~60%가 넘어질 두려움을 지니고 20\~55%가 그 두려움 때문에 일상 활동을 제한한다고 보고한다) — Minhui Liu 외, "Fear of falling is as important as multiple previous falls in terms of limiting daily activities: a longitudinal study", BMC Geriatrics, 2021-06-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC8185919/, 2026-11-10 접속
 [^7]: [공공] "Many older adults fear falling, even if they haven’t fallen before. This fear may lead them to avoid activities such as walking, shopping, or taking part in social activities." (많은 노인은 넘어진 적이 없어도 넘어질까 두려워한다. 이 두려움 때문에 걷기, 장보기, 사회 활동 참여 같은 활동을 피할 수 있다.) — National Institute on Aging, "Falls and Fractures in Older Adults: Causes and Prevention", 2022-09-12, https://www.nia.nih.gov/health/falls-and-falls-prevention/falls-and-fractures-older-adults-causes-and-prevention, 2026-11-10 접속
+[^8]: [매체] "while this fear may lead to avoiding potentially dangerous activities, it can also increase their risk of falling by making them less active and reducing their strength and mobility" (이 두려움은 위험할 수 있는 활동을 피하게 할 수 있지만 덜 움직이게 하고 근력과 이동 능력을 줄여 넘어질 위험을 높일 수도 있다) — Giedre Peseckyte, "'Scared to death of those stairs': Addressing the fear of falling among older adults", Euronews, 2026-11-10, https://www.euronews.com/2026/11/10/scared-to-death-of-those-stairs-addressing-the-fear-of-falling-among-older-adults, 2026-11-10 접속
