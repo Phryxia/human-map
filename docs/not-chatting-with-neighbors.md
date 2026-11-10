@@ -16,9 +16,11 @@
 
 2016년 서울신문 칼럼[^4]은 맞벌이가 늘면서 1년 내내 아파트 앞집과 옆집 주민을 한 번도 마주치지 못하는 경우가 있다고 적었다.
 
-2022년 클리앙 게시글[^5]의 글쓴이는 옆집 사람을 알고 싶지 않은 것이 아니라 퇴근하면 저녁이라 마주칠 일이 없다고 썼다. 건물에 같이 들어가면 여기 사는 사람이구나 하는 정도라고 덧붙였다.
+2020년 Liddle 외의 연구[^5]에서 참가자들은 동네에 어울릴 곳이 적고 이웃을 잘 모르고 지낼 때가 많으며 공동체 의식이 없다고 느꼈다.
 
-2025년 영국 문화미디어스포츠부의 지역생활조사[^6]에서 성인 69%가 한 달에 한 번 이상 이웃과 인사 이상의 대화를 나눴다고 답했다.
+2022년 클리앙 게시글[^6]의 글쓴이는 옆집 사람을 알고 싶지 않은 것이 아니라 퇴근하면 저녁이라 마주칠 일이 없다고 썼다. 건물에 같이 들어가면 여기 사는 사람이구나 하는 정도라고 덧붙였다.
+
+2025년 영국 문화미디어스포츠부의 지역생활조사[^7]에서 성인 69%가 한 달에 한 번 이상 이웃과 인사 이상의 대화를 나눴다고 답했다.
 
 # 관계
 
@@ -48,5 +50,6 @@
 [^2]: [SNS] "I don’t know my neighbors, and I’m just fine with that. If I see the woman who lives to the left of me, we’ll usually wave at each other, but that’s the extent of it." (나는 이웃을 모르고 그래도 괜찮다. 왼쪽 집에 사는 여자를 보면 대개 서로 손을 흔들지만 그게 전부다.) — Straight Dope Message Board 댓글, 2007-08, https://boards.straightdope.com/t/do-you-know-your-neighbors-do-you-want-to/416942, 2026-11-10 접속
 [^3]: [SNS] "I live in a large apartment building and I’ve literally never met any of the people in the other units, not even the ones directly beside mine." (나는 큰 아파트 건물에 사는데 다른 세대 사람을 말 그대로 한 번도 만난 적이 없다. 바로 옆 세대 사람들조차.) — Straight Dope Message Board 게시글, 2011-08-10, https://boards.straightdope.com/t/when-in-history-did-people-stop-knowing-their-neighbours/592248, 2026-11-10 접속
 [^4]: [매체] "맞벌이가 늘면서 1년 내내 아파트 앞집, 옆집 주민과 한번도 맞닥뜨리지 못하는 경우도 있다." — 김균미, 「[김균미의 빅! 아이디어] 이웃을 팝니다」, 서울신문, 2016-01-26, https://www.seoul.co.kr/news/2016/01/27/20160127031007, 2026-11-10 접속
-[^5]: [SNS] "요즘은 옆집 사람을 알고싶지 않은게 아니라, 그냥 퇴근하면 저녁 시간이라 굳이 마주칠 일도 없고 그렇네요. 어쩌다 건물에 같이 들어가면, '아, 여기 사는 사람이구나'하는 정도." — 클리앙 게시글, 2022-05-12, https://www.clien.net/service/board/park/17247049, 2026-11-10 접속
-[^6]: [공공] "69% of adults reported that they chatted to their neighbours, more than just to say hello, at least once a month, no significant change from 2023/24 (69%)." (성인 69%가 한 달에 한 번 이상 이웃과 인사 이상의 대화를 나눴다고 답했고 2023/24년(69%)과 유의한 차이가 없었다.) — Department for Culture, Media & Sport, "Community Life Survey 2024/25: Neighbourhood and community", GOV.UK, 2025-12-10, https://www.gov.uk/government/statistics/community-life-survey-202425-annual-publication/community-life-survey-202425-neighbourhood-and-community, 2026-11-10 접속
+[^5]: [학술] "Participants felt that: there were few local places to socialise; they often did not know their neighbours well; there was an absence of shared community feeling;" (참가자들은 동네에 어울릴 곳이 적고, 이웃을 잘 모를 때가 많으며, 함께하는 공동체 의식이 없다고 느꼈다.) — Jennifer Liddle 외, "Connecting at Local Level: Exploring Opportunities for Future Design of Technology to Support Social Connections in Age-friendly Communities", International Journal of Environmental Research and Public Health 17(15), 2020-07-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC7432362/, 2026-11-10 접속
+[^6]: [SNS] "요즘은 옆집 사람을 알고싶지 않은게 아니라, 그냥 퇴근하면 저녁 시간이라 굳이 마주칠 일도 없고 그렇네요. 어쩌다 건물에 같이 들어가면, '아, 여기 사는 사람이구나'하는 정도." — 클리앙 게시글, 2022-05-12, https://www.clien.net/service/board/park/17247049, 2026-11-10 접속
+[^7]: [공공] "69% of adults reported that they chatted to their neighbours, more than just to say hello, at least once a month, no significant change from 2023/24 (69%)." (성인 69%가 한 달에 한 번 이상 이웃과 인사 이상의 대화를 나눴다고 답했고 2023/24년(69%)과 유의한 차이가 없었다.) — Department for Culture, Media & Sport, "Community Life Survey 2024/25: Neighbourhood and community", GOV.UK, 2025-12-10, https://www.gov.uk/government/statistics/community-life-survey-202425-annual-publication/community-life-survey-202425-neighbourhood-and-community, 2026-11-10 접속
