@@ -23148,27 +23148,27 @@
   },
   "https://www.gutenberg.org/cache/epub/50489/pg50489-images.html": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://boards.straightdope.com/t/etiquette-for-looking-into-peoples-houses/638887?page=2": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://ysnews.com/news/2016/09/blog-intimate-strangers": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://www.theglobeandmail.com/life/first-person/article-i-love-looking-into-other-peoples-lives-on-nighttime-walks/": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://boards.straightdope.com/t/getting-up-early/55818": {
     "first": "2026-11-09",
@@ -23292,9 +23292,9 @@
   },
   "https://hburgcitizen.com/2024/06/27/night-walks/": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://creativenonfiction.org/writing/rock-hounds/": {
     "first": "2026-11-09",
@@ -23439,5 +23439,10 @@
     "last": "2026-11-10",
     "result": "VERIFIED",
     "lastVerified": "2026-11-10"
+  },
+  "https://www.gutenberg.org/cache/epub/27200/pg27200-images.html": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "NOT_FOUND"
   }
 }
