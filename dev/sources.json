@@ -14920,33 +14920,33 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/20160951/": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
-    "result": "NOT_FOUND",
+    "last": "2026-11-10",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-31"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7763066/": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-10"
   },
   "https://seasidemagazine.ca/the-golden-years-seniors-perception-of-mobility-aids-can-compromise-personal-safety/": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-10"
   },
   "https://www.agingcare.com/questions/amp/479579": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-10"
   },
   "https://www.youthassembly.kr/news/970124": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-10"
   },
   "https://pubmed.ncbi.nlm.nih.gov/25907375/": {
     "first": "2026-10-31",
@@ -14956,9 +14956,9 @@
   },
   "https://www.npr.org/2026/01/06/nx-s1-5640140/people-want-to-look-good-researcher-hopes-redesigned-walker-will-remove-stigma": {
     "first": "2026-10-31",
-    "last": "2026-11-01",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-10"
   },
   "https://www.newsis.com/view/NISX20241122_0002969681": {
     "first": "2026-10-31",
@@ -16736,9 +16736,9 @@
   },
   "https://www.darlington.gov.uk/adult-social-care/i-need-support/ageing-well/falls-prevention-guide/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-10"
   },
   "https://www.seoul.co.kr/news/newsView.php?id=20080909023002": {
     "first": "2026-11-01",
@@ -20948,9 +20948,9 @@
   },
   "https://nltimes.nl/2026/05/25/one-four-seniors-fell-last-year-due-age-related-issues-many-tell-families": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.nber.org/papers/w9140": {
     "first": "2026-11-07",
@@ -21368,21 +21368,21 @@
   },
   "https://www.agingcare.com/questions/amp/198534": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.nia.nih.gov/news/maintaining-mobility-and-preventing-disability-are-key-living-independently-we-age": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-025-06555-8": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-11-07"
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   },
   "https://www150.statcan.gc.ca/n1/daily-quotidien/130318/dq130318b-eng.htm": {
     "first": "2026-11-07",
@@ -21464,15 +21464,15 @@
   },
   "https://www.wowt.com/2026/06/09/why-older-adults-hide-struggles-family-how-spot-warning-signs/": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.aarp.org/caregiving/home-care/info-2018/overcoming-caregiving-concerns": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.theswaddle.com/are-spoilers-good-bad": {
     "first": "2026-11-07",
@@ -23734,6 +23734,12 @@
     "lastVerified": "2026-11-10"
   },
   "https://www.40tech.com/2012/05/28/how-many-unread-messages-are-in-your-inbox/": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://vocic.com/blogs/news-and-blogs/why-do-the-elderly-refuse-to-use-a-walker": {
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "VERIFIED",
