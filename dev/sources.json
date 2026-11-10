@@ -23720,5 +23720,17 @@
     "last": "2026-11-10",
     "result": "VERIFIED",
     "lastVerified": "2026-11-10"
+  },
+  "https://yougov.com/en-us/articles/12484-inbox-zero": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://forums.woot.com/t/how-many-emails-read-and-unread-are-in-your-inbox-right-now/2182224": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   }
 }

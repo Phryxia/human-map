@@ -506,6 +506,7 @@
 - [일하거나 씻으며 흥얼거리기](docs/humming-while-working.md) ([시간과 하루 습관](groups/daily-time.md))
 - [읽고 답하지 않기](docs/leaving-messages-on-read.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [읽음 표시를 피하려고 메시지 열지 않기](docs/avoiding-read-receipts.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [읽지 않은 메일 쌓아 두기](docs/leaving-emails-unread.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [읽지 않은 책을 읽은 척하기](docs/pretending-to-have-read-books.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [잃어버린 물건을 찾은 곳에서 또 찾기](docs/re-searching-for-lost-items.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [임금 체불 참기](docs/tolerating-unpaid-wages.md) ([일터와 일자리](groups/work.md))
