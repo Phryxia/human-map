@@ -486,6 +486,7 @@
 - [은퇴 자금 쓰지 않기](docs/retirees-not-spending-savings.md) ([돈과 소비](groups/money.md))
 - [음성 메시지 듣지 않기](docs/ignoring-voicemail.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [음식이 마음에 들지 않아도 괜찮다고 답하기](docs/saying-food-is-fine.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [음악 듣다 돋는 소름](docs/music-chills.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [음주 후 운전](docs/drink-driving.md) ([길과 운전](groups/roads-and-driving.md))
 - [의례적 사양](docs/ritual-refusal.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [의무 해제 뒤에도 마스크 쓰기](docs/keeping-mask-after-mandate.md) ([건강과 위험](groups/health-and-safety.md))
