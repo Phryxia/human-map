@@ -1,64 +1,40 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T00:29:16.016Z",
-  "nextSeq": 4373,
-  "stops": 229,
+  "savedAt": "2026-11-10T03:34:49.178Z",
+  "nextSeq": 4386,
+  "stops": 230,
   "items": [
     {
-      "id": "22e6c85f",
-      "title": "dancing-alone-at-home 보강: 학술 파편",
+      "id": "ec1daee7",
+      "title": "fear-of-falling-activity-restriction 보강: 문학 또는 1990년대 이전 파편, refusing-mobility-aids 관계",
       "priority": 50,
-      "note": "2026-11-09 brunch @hisflower/338 (2024) 더함. 학술 후보: link.springer.com s12662-023-00929-z (2023) 관객 유무 춤 수행, jyx 60204 (2018) 혼자와 짝 비교, colorado.edu asmagazine 2024-04-29 혼자 차·부엌에서 추는 춤(매체)",
-      "createdAt": "2026-11-09T21:31:39.919Z",
-      "seq": 4362
+      "note": "2026-11-10 inews24 580088 (2011) 더함. 후보: whyy.org 2021-10-17 넘어진 뒤 외출을 두려워해 덜 움직이는 순환, aarp.org info-2021 pandemic-fall-risk 'syndrome of fear of falling'",
+      "createdAt": "2026-11-10T03:25:23.018Z",
+      "seq": 4382
     },
     {
-      "id": "eaa43fde",
-      "title": "saving-gift-wrap 보강: 문학 파편, 공공 설문",
-      "priority": 50,
-      "note": "2026-11-09 CSM 1995-12-19, brunch @parksh1236/160 (2026) 더함. Gutenberg 70여 편에서 포장지를 펴 접는 대목 못 찾음. Cranford(394) 는 끈. ALPLA 2024 87% 보도자료 열지 못함",
-      "createdAt": "2026-11-09T21:35:20.943Z",
-      "seq": 4363
-    },
-    {
-      "id": "79264aab",
-      "title": "glancing-at-own-reflection-in-windows 보강: SNS 파편, body checking 관계",
-      "priority": 50,
-      "note": "2026-11-09 culturaldaily 2014, PMC7685126 (2020) 더함. SNS 못 찾음: MetaFilter 104741, bikeforums Cloudflare. 후보: PMC12671122 (2025) 반사면을 두려워함(대립 면), HN 43918279 (2025) 한 번의 일",
-      "createdAt": "2026-11-09T21:39:17.789Z",
-      "seq": 4364
-    },
-    {
-      "id": "8eaa0370",
-      "title": "fear-of-falling-activity-restriction 보강: 매체 또는 문학 파편, 1990년대 이전 파편, refusing-mobility-aids 와의 관계",
-      "priority": 50,
-      "note": "2026-11-10 추가(학술 2, 공공 2, SNS 1). 후보: agingcare 478734 2022-12 댓글 넘어진 뒤 산책 속도 늦춤, nth.nhs.uk falls 2026, wandsworth.gov.uk preventing-falls 2024. kdca 낙상 페이지가 움직임 줄임에서 근력 약화와 재낙상으로 가는 되먹임을 말함",
-      "createdAt": "2026-11-10T00:14:31.855Z",
-      "seq": 4369
-    },
-    {
-      "id": "e5c0a695",
+      "id": "2f09c6fb",
       "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편, 영문 공공 파편, 아껴 두다 못 쓰는 면",
       "priority": 50,
-      "note": "2026-11-10 추가. 후보: ama.org 2025-04-01 JMR 요약 가변 교환율 낙관이 포인트 사용을 줄임(원인), news.mcmaster.ca 2018-03-15 포인트를 현금보다 아껴 둠, segye.com/newsView/20210903513813 (2021) 서랍 속 상품권 발견, boards.hellobee.com spend-lose-or-draw 2016 댓글. Emerald Horne 2007, SAGE Shu Gneezy 2010 은 봇 확인 페이지",
-      "createdAt": "2026-11-10T00:25:01.851Z",
-      "seq": 4370
+      "note": "2026-11-10 segye 20210903513813 (2021) 더함. 후보: ama.org 2025-04-01 JMR 요약, news.mcmaster.ca 2018-03-15 포인트를 현금보다 아껴 둠, boards.hellobee.com spend-lose-or-draw 2016 댓글",
+      "createdAt": "2026-11-10T03:26:12.965Z",
+      "seq": 4383
     },
     {
-      "id": "7f5d652c",
-      "title": "looking-into-lit-windows 보강: 한국어 파편, 학술 또는 공공 파편",
-      "priority": 50,
-      "note": "2026-11-10 Gutenberg 27200 성냥팔이 소녀(1845) 더함. 종류는 문학 2, 매체 3, SNS 1. 학술·공공 없음. maily.so/jojal 2023-12-14 는 비행기에서 본 불빛이라 창이 아님",
-      "createdAt": "2026-11-10T00:26:49.129Z",
-      "seq": 4371
-    },
-    {
-      "id": "efc05beb",
+      "id": "36d515a3",
       "title": "early-morning-solitude 보강: 학술 또는 공공 파편, 1853년 문학",
       "priority": 50,
-      "note": "2026-11-09 brunch @betteryoon/113 (2026) 한국어 파편 더함. 학술·공공 못 찾음: PMC12783874, fpsyg.2021.714518, PMC8890469 에 이른 아침 대목 없음. 2026-11-10 부모 아침 혼자 시간 설문 검색은 상업 수면 업체 글뿐. 후보: Journal of Personality 2024 Durham 혼자 있고 싶은 정도 하루 변화, segye.com/newsView/20230107508504 (2023) 미라클모닝 43.7% 나에게 집중할 시간(매체)",
-      "createdAt": "2026-11-10T00:29:00.327Z",
-      "seq": 4372
+      "note": "2026-11-10 학술 후보 현상과 어긋남: arxiv 2306.00919 (2023) 아침에 주로 혼자, jopy.12939 (2024) 혼자 있음이 아침에 많고 Wiley 봇 확인. 일찍 일어난다는 면 없음. KCI 새벽 기상 질적연구를 찾아볼 것",
+      "createdAt": "2026-11-10T03:34:27.299Z",
+      "seq": 4384
+    },
+    {
+      "id": "7f8bf84e",
+      "title": "saving-gift-wrap 보강: 공공 파편, 문학 파편",
+      "priority": 50,
+      "note": "2026-11-10 Trias i Valls 2001 PDF(미확인) 더함. 공공 못 찾음: nlwa.gov.uk 2021-11-19 는 선물 가방 재사용 36%. Cranford(394) 는 꾸러미 끈을 한 겹씩 푸는 대목",
+      "createdAt": "2026-11-10T03:34:39.600Z",
+      "seq": 4385
     },
     {
       "id": "b1e741b2",
@@ -491,6 +467,14 @@
       "note": "2026-11-09 anger-rumination 에 Straight Dope 449694(2008), phdkim free/33770(2022) 더함. 근거 후보: psypost narcissism-to-grudge-holding (2024-01-06) 'hold onto grudges more because they ruminate' 문장은 231자, when 꼴 162자 인용은 쓸 수 있음. aarp how-to-let-go-of-a-grudge (2025-12-03) 'It stems from replaying' 은 주어 모호",
       "createdAt": "2026-11-09T21:15:44.097Z",
       "seq": 4359
+    },
+    {
+      "id": "e7b98ff3",
+      "title": "glancing-at-own-reflection-in-windows 관계: body checking",
+      "priority": 40,
+      "note": "2026-11-10 Straight Dope 213223/12 (2003) SNS 더함. 후보: mumsnet 5226728 (2024) 진열창에 뜻밖에 비친 모습에 실망, 상점 창을 피함(대립 면)",
+      "createdAt": "2026-11-10T03:23:24.689Z",
+      "seq": 4380
     },
     {
       "id": "e8ba47a7",
@@ -2619,6 +2603,14 @@
       "note": "2026-11-09 VTT 2004, 서울신문 2018 서평 더함. 후보: 82cook bn=35 num=594451 (2008-05-16) 댓글 '다른 집은 뭘로 반찬' (호스트 소켓 오류), fox5ny 2021-09-10 cart envy, iradio.ie shoppers-1666874 (2021) 67%",
       "createdAt": "2026-11-09T21:28:44.572Z",
       "seq": 4361
+    },
+    {
+      "id": "5b2c4b93",
+      "title": "비친 자기 모습을 알아보지 못함",
+      "priority": 10,
+      "note": "Straight Dope 스레드 276278 (2004) 'Ever glance at a reflection of yourself and not recognize it?'. glancing-at-own-reflection-in-windows 와 이웃",
+      "createdAt": "2026-11-10T03:23:24.810Z",
+      "seq": 4381
     },
     {
       "id": "02b2f242",
