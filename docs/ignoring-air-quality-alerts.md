@@ -10,13 +10,15 @@
 
 발행일이 적히지 않은 미국 환경보호청 연구 보고서[^1]에서 대기질이 코드 레드 단계인 날에도 아이들이 밖에서 보낸 시간은 줄지 않았다.
 
-2013년 기사[^2]에 따르면 대기질 경보가 나올 때 활동을 크게 바꾸거나 줄인다고 답한 켄터키 성인은 20%였다.
+2008년 Semenza 외의 연구[^2]에서 포틀랜드와 휴스턴 전화 조사 참가자의 3분의 1은 대기질 경보를 알았지만 경보가 나온 때 활동을 바꿨다고 답한 사람은 10\~15% 정도였다.
 
-2019년 1월 기사[^3]는 온라인 커뮤니티와 SNS 에 마스크를 썼다가 답답하기만 하고 효과를 못 봤다는 글이 올라온다고 전했다. 2019년 3월 기사[^4]에 실린 설문에서 미세먼지 나쁨 이상인 날 외출할 때 보건용 마스크를 쓴 사람은 48.7%였다.
+2013년 기사[^3]에 따르면 대기질 경보가 나올 때 활동을 크게 바꾸거나 줄인다고 답한 켄터키 성인은 20%였다.
 
-2020년 미국 연구[^5]에서 사는 곳의 공기가 나쁘다고 생각하거나 그런 말을 듣고 행동을 바꾼 응답자는 14.7%였다.
+2019년 1월 기사[^4]는 온라인 커뮤니티와 SNS 에 마스크를 썼다가 답답하기만 하고 효과를 못 봤다는 글이 올라온다고 전했다. 2019년 3월 기사[^5]에 실린 설문에서 미세먼지 나쁨 이상인 날 외출할 때 보건용 마스크를 쓴 사람은 48.7%였다.
 
-2026년 10월 McGill 대학 보도자료[^6]가 전한 연구에서 몬트리올에 산불 연기 대기질 경보가 내려진 27일 동안 보건 공지가 가장 직접 말린 여가 달리기는 통계적으로 유의한 변화를 보이지 않았다.
+2020년 미국 연구[^6]에서 사는 곳의 공기가 나쁘다고 생각하거나 그런 말을 듣고 행동을 바꾼 응답자는 14.7%였다.
+
+2026년 10월 McGill 대학 보도자료[^7]가 전한 연구에서 몬트리올에 산불 연기 대기질 경보가 내려진 27일 동안 보건 공지가 가장 직접 말린 여가 달리기는 통계적으로 유의한 변화를 보이지 않았다.
 
 # 관계
 
@@ -43,8 +45,9 @@
 #건강
 
 [^1]: [공공] "There is no reduction in hours outdoors on Code Red days." (코드 레드인 날에도 밖에서 보내는 시간이 줄지 않았다.) — Carol Mansfield 외, "Behavioral Reactions to Ozone Alerts: What Do They Tell Us About Willingness-to-Pay for Children's Health?", U.S. Environmental Protection Agency Research Project Database, 발행일 미상, https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/2385/report/F, 2026-11-02 접속
-[^2]: [매체] "just 20 percent of Kentucky adults said they change or limit their activities a lot when air quality alerts are issued" (대기질 경보가 나올 때 활동을 크게 바꾸거나 줄인다고 답한 켄터키 성인은 20%뿐이었다) — Kentucky Health News, "Kentuckians tell pollsters they are concerned about air quality, but don't seem to put their concern into action", 2013-03-29, https://kyhealthnews.net/?p=2205, 2026-11-01 접속
-[^3]: [매체] "온라인 커뮤니티와 SNS 등에는 '마스크 썼다가 답답하기만 하고 효과를 못 봤다', '사실상 방독면 쓰지 않는 이상 막기 힘들다'는 글이 게재되고 있다." — 연합뉴스, 「미세먼지 마스크 효용성 두고 '갑론을박'」, 매일신문, 2019-01-17, https://www.imaeil.com/page/view/2019011715554741753, 2026-11-01 접속
-[^4]: [매체] "보건당국은 미세먼지 농도가 나쁨 이상인 날 외출할 땐 황사나 미세먼지 차단 기능을 인정받은 의약외품 보건용 황사마스크 착용을 권고하고 있지만, 정작 이를 실천한 사람은 설문 전체 인원 중 48.7%로 절반에도 못 미치는 것으로 조사됐다." — 장유미, 「'미세먼지 공습' 속 올바른 황사 마스크 착용법은?」, 아이뉴스24, 2019-03-06, https://www.inews24.com/view/1162091, 2026-11-01 접속
-[^5]: [학술] "14.7% changed their behavior because they thought or were informed that air quality where they live was bad" (14.7%가 사는 곳의 대기질이 나쁘다고 생각했거나 그렇게 들어서 행동을 바꾸었다) — Maria C. Mirabelli, Stefanie Ebelt, Scott A. Damon, "Air Quality Index and air quality awareness among adults in the United States", Environmental Research 183, 2020-01-25, https://pmc.ncbi.nlm.nih.gov/articles/PMC7182097/, 2026-11-01 접속
-[^6]: [매체] "Recreational running - the activity that health bulletins caution against most directly - showed no statistically significant change at all, the researchers said." (보건 공지가 가장 직접 경고하는 활동인 여가 달리기는 통계적으로 유의한 변화를 전혀 보이지 않았다고 연구진은 말했다.) — McGill University, "Study finds air quality warnings had only a modest impact on Montrealers' movements", Education News Canada, 2026-10-23, https://educationnewscanada.com/article/education/level/university/1/1224418/study-finds-air-quality-warnings-had-only-a-modest-impact-on-montrealers-movements.html, 2026-11-07 접속
+[^2]: [학술] "One-third of study participants were aware of air quality advisories but only approximately 10-15% claimed to have changed activities during such an episode." (연구 참가자의 3분의 1은 대기질 경보를 알고 있었지만 그런 때 활동을 바꿨다고 답한 사람은 약 10-15%에 그쳤다.) — J. C. Semenza 외, "Public perception and behavior change in relationship to hot weather and air pollution", Environmental Research 107(3), 2008-07, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18466894&rettype=abstract&retmode=text, 2026-11-10 접속
+[^3]: [매체] "just 20 percent of Kentucky adults said they change or limit their activities a lot when air quality alerts are issued" (대기질 경보가 나올 때 활동을 크게 바꾸거나 줄인다고 답한 켄터키 성인은 20%뿐이었다) — Kentucky Health News, "Kentuckians tell pollsters they are concerned about air quality, but don't seem to put their concern into action", 2013-03-29, https://kyhealthnews.net/?p=2205, 2026-11-01 접속
+[^4]: [매체] "온라인 커뮤니티와 SNS 등에는 '마스크 썼다가 답답하기만 하고 효과를 못 봤다', '사실상 방독면 쓰지 않는 이상 막기 힘들다'는 글이 게재되고 있다." — 연합뉴스, 「미세먼지 마스크 효용성 두고 '갑론을박'」, 매일신문, 2019-01-17, https://www.imaeil.com/page/view/2019011715554741753, 2026-11-01 접속
+[^5]: [매체] "보건당국은 미세먼지 농도가 나쁨 이상인 날 외출할 땐 황사나 미세먼지 차단 기능을 인정받은 의약외품 보건용 황사마스크 착용을 권고하고 있지만, 정작 이를 실천한 사람은 설문 전체 인원 중 48.7%로 절반에도 못 미치는 것으로 조사됐다." — 장유미, 「'미세먼지 공습' 속 올바른 황사 마스크 착용법은?」, 아이뉴스24, 2019-03-06, https://www.inews24.com/view/1162091, 2026-11-01 접속
+[^6]: [학술] "14.7% changed their behavior because they thought or were informed that air quality where they live was bad" (14.7%가 사는 곳의 대기질이 나쁘다고 생각했거나 그렇게 들어서 행동을 바꾸었다) — Maria C. Mirabelli, Stefanie Ebelt, Scott A. Damon, "Air Quality Index and air quality awareness among adults in the United States", Environmental Research 183, 2020-01-25, https://pmc.ncbi.nlm.nih.gov/articles/PMC7182097/, 2026-11-01 접속
+[^7]: [매체] "Recreational running - the activity that health bulletins caution against most directly - showed no statistically significant change at all, the researchers said." (보건 공지가 가장 직접 경고하는 활동인 여가 달리기는 통계적으로 유의한 변화를 전혀 보이지 않았다고 연구진은 말했다.) — McGill University, "Study finds air quality warnings had only a modest impact on Montrealers' movements", Education News Canada, 2026-10-23, https://educationnewscanada.com/article/education/level/university/1/1224418/study-finds-air-quality-warnings-had-only-a-modest-impact-on-montrealers-movements.html, 2026-11-07 접속

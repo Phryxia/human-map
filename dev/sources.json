@@ -16400,33 +16400,33 @@
   },
   "https://kyhealthnews.net/?p=2205": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.imaeil.com/page/view/2019011715554741753": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.inews24.com/view/1162091": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7182097/": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/2385/report/F": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.gov.uk/government/news/report-012026-passenger-trapped-and-dragged-at-ealing-broadway": {
     "first": "2026-11-01",
@@ -21530,9 +21530,9 @@
   },
   "https://educationnewscanada.com/article/education/level/university/1/1224418/study-finds-air-quality-warnings-had-only-a-modest-impact-on-montrealers-movements.html": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://ko.wikisource.org/wiki/%EB%82%A8%EB%A7%A4": {
     "first": "2026-11-07",
@@ -24208,6 +24208,12 @@
     "lastVerified": "2026-11-10"
   },
   "https://koreascience.kr/article/JAKO202120462015915.page": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18466894&rettype=abstract&retmode=text": {
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "VERIFIED",
