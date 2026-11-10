@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-없음.
+- 2026-11-10T21:04Z | 2026-11-10T21:21Z | anthropomorphism 추가, 하위 3개 | anthropomorphism talking-to-plants treating-objects-as-companions talking-to-animals dev/groups.json
