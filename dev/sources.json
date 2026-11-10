@@ -23298,15 +23298,15 @@
   },
   "https://creativenonfiction.org/writing/rock-hounds/": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://news.ycombinator.com/item?id=45705125": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://www.gutenberg.org/cache/epub/16317/pg16317.txt": {
     "first": "2026-11-09",
@@ -23444,5 +23444,17 @@
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "NOT_FOUND"
+  },
+  "https://www.bangordailynews.com/2009/07/10/news/rangers-at-acadia-park-fight-removal-of-stones-as-souvenirs/": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://www.nps.gov/articles/000/idkt_lnt4.htm": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   }
 }
