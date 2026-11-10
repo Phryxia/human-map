@@ -28,6 +28,7 @@
 
 - [리베이트 받지 않기](rebate-slippage.md)
 - [복지 급여 미신청](not-claiming-benefits.md)
+- [상품권과 포인트 쓰지 않고 소멸시키기](letting-gift-cards-and-points-expire.md)
 
 ## 원인
 
