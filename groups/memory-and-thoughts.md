@@ -11,6 +11,7 @@
 - [끝내지 못한 일 계속 떠올리기](../docs/zeigarnik-effect.md) 일을 끝내지 못한 사람이 그 일을 끝낸 일보다 더 자주, 더 오래 떠올린다.
 - [낯선 곳에서 깨어 어디인지 모르기](../docs/waking-disoriented-in-unfamiliar-place.md) 낯선 방에서 자고 깬 사람이 잠깐 자기가 어디에 있는지 몰라 당황하다가 곧 지난 일을 떠올린다.
 - [냄새가 불러낸 옛 기억](../docs/smell-evoked-memory.md) 냄새나 맛을 느낀 사람에게 오래전 일의 기억이 갑자기 떠오른다.
+- [노래가 불러낸 옛 기억](../docs/music-evoked-memory.md) 오래전에 듣던 노래를 다시 들은 사람에게 그 노래를 듣던 무렵의 장면과 사정이 떠오른다.
 - [노스탤지어](../docs/nostalgia.md) 사람이 지나간 시절을 떠올리며 그때를 그리워하고 달콤함과 씁쓸함이 섞인 기분을 느낀다.
 - [높은 곳에서 뛰어내리고 싶은 충동](../docs/urge-to-jump-from-heights.md) 높은 곳의 가장자리에 선 사람이 뛰어내리고 싶은 충동을 순간 느낀다.
 - [누구에게 말했는지 잊기](../docs/destination-memory-failure.md) 이야기나 정보를 남에게 전한 사람이 그것을 누구에게 이미 말했는지 잊는다.
