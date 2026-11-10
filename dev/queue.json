@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T03:34:49.178Z",
-  "nextSeq": 4386,
-  "stops": 230,
+  "savedAt": "2026-11-10T06:30:40.144Z",
+  "nextSeq": 4392,
+  "stops": 231,
   "items": [
     {
       "id": "ec1daee7",
@@ -35,6 +35,30 @@
       "note": "2026-11-10 Trias i Valls 2001 PDF(미확인) 더함. 공공 못 찾음: nlwa.gov.uk 2021-11-19 는 선물 가방 재사용 36%. Cranford(394) 는 꾸러미 끈을 한 겹씩 푸는 대목",
       "createdAt": "2026-11-10T03:34:39.600Z",
       "seq": 4385
+    },
+    {
+      "id": "cf4ed2dc",
+      "title": "interrupting-others 보강: 한국어 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-11-10 문학 1857, 학술 1984, 매체 2007, SNS 2023 으로 추가. 후보: Little Women(514) Jo 가 노부인 이야기 도중 끼어드는 대목, Jane Eyre(1260) 조바심에 끊는 대목, 들떠서 끊는다는 원인 근거 원문 있음(Blind 2023)",
+      "createdAt": "2026-11-10T06:14:44.887Z",
+      "seq": 4389
+    },
+    {
+      "id": "96fe3762",
+      "title": "keeping-found-property 보강: SNS 또는 매체 파편, returning-lost-wallets 관계",
+      "priority": 50,
+      "note": "2026-11-10 공공 3개, 학술 1개(Cohn 2019, returning-lost-wallets 와 같은 출처)로 추가. 주운 사람이 갖기로 한 경위를 적은 게시글 필요. 후보: Hung 2025 Sci Rep PMID 39881201, Yang 2023 PNAS PMID 37428923 중국 지갑 반환 실험",
+      "createdAt": "2026-11-10T06:26:05.469Z",
+      "seq": 4390
+    },
+    {
+      "id": "ea4e9c2a",
+      "title": "concealing-accidental-damage 보강: SNS·매체 파편, Tom Sawyer 외 문학, concealing-failure·hiding-mistakes-at-work 관계",
+      "priority": 50,
+      "note": "2026-11-10 문학 Little Men(1871), 학술 Bruer 2020 으로 추가. 후보: Rush 2017 PMID 28286409 장난감이 망가진 일을 아이들이 잘 털어놓지 않음, Heidi(1448) 휠체어를 망가뜨리고 숨긴 Peter 의 고백. Tom Sawyer(74) 는 이미 4개 문서가 씀",
+      "createdAt": "2026-11-10T06:27:36.209Z",
+      "seq": 4391
     },
     {
       "id": "b1e741b2",
