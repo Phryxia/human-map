@@ -425,6 +425,7 @@
 - [엉뚱한 대상에게 화풀이하기](docs/displaced-aggression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [에너지 요금 때문에 식비 줄이기](docs/heat-or-eat.md) ([돈과 소비](groups/money.md))
 - [에스컬레이터 한 줄 서기](docs/escalator-one-line-standing.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [에어컨이 있어도 켜지 않기](docs/not-using-air-conditioner.md) ([건강과 위험](groups/health-and-safety.md))
 - [엘리베이터 안의 침묵](docs/elevator-silence.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [여러 병원 전전하기](docs/doctor-shopping.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [여행 기념품 사 오기](docs/buying-souvenirs-for-others.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))

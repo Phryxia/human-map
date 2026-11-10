@@ -15700,9 +15700,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3290974/": {
     "first": "2026-10-31",
-    "last": "2026-11-05",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-10"
   },
   "https://www.cdc.gov/mmwr/volumes/71/wr/mm7124a1.htm": {
     "first": "2026-10-31",
@@ -23590,6 +23590,24 @@
     "lastVerified": "2026-11-10"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21974735&rettype=abstract&retmode=text": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4074319/": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://www.agingcare.com/questions/my-mom-refuses-to-use-her-ac-and-its-too-hot-for-that-450525.htm": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://theconversation.com/5-reasons-to-check-on-your-elderly-neighbour-during-a-heatwave-196218": {
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "VERIFIED",
