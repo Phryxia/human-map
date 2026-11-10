@@ -25,6 +25,7 @@
 ## 하위
 
 - [차 안에 아이를 잊고 내리기](forgetting-child-in-car.md)
+- [약 먹는 걸 잊기](forgetting-to-take-medication.md)
 
 ## 원인
 

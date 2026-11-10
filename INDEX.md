@@ -407,6 +407,7 @@
 - [야반도주](docs/moonlight-flit.md) ([돈과 소비](groups/money.md))
 - [야생 버섯 따 먹기](docs/eating-foraged-wild-mushrooms.md) ([건강과 위험](groups/health-and-safety.md))
 - [야식 먹기](docs/late-night-eating.md) ([건강과 위험](groups/health-and-safety.md))
+- [약 먹는 걸 잊기](docs/forgetting-to-take-medication.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [약관 읽지 않고 동의하기](docs/agreeing-without-reading-terms.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [약속 취소 충동](docs/urge-to-cancel-plans.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [양 세기](docs/counting-sheep.md) ([걱정과 기분](groups/worry-and-mood.md))
