@@ -319,6 +319,7 @@
 - [사기 전에 온라인 후기 찾아 읽기](docs/reading-reviews-before-buying.md) ([돈과 소비](groups/money.md))
 - [사기 피해 뒤 자책](docs/self-blame-after-fraud.md) ([돈과 소비](groups/money.md))
 - [사기 피해를 부끄러워 숨기기](docs/scam-victim-silence.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [사람 구경하기](docs/people-watching.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [사별 뒤 후회](docs/bereavement-regret.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [사직 앞의 죄책감](docs/guilt-about-resigning.md) ([일터와 일자리](groups/work.md))
 - [사진 속 내 얼굴의 낯섦](docs/own-face-in-photos.md) ([남의 시선과 창피함](groups/others-gaze.md))

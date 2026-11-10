@@ -19,6 +19,7 @@
 - [말을 피하려고 자는 척하기](../docs/pretending-to-sleep-to-avoid-talk.md) 버스, 비행기, 미용실, 가게에서 옆 사람이나 미용사나 질문하는 사람이 말을 걸지 않게 하려고 자는 척하거나 이어폰을 끼거나 휴대폰을 보거나 바쁜 척한다.
 - [방관자 효과](../docs/bystander-effect.md) 위급한 상황을 여러 사람이 함께 볼 때 그 가운데 한 사람이 도울 가능성이 줄어든다.
 - [불 켜진 남의 창 들여다보기](../docs/looking-into-lit-windows.md) 밤에 바깥을 지나는 사람이 불 켜진 남의 집 창 안을 들여다보며 그 안의 삶을 지어내 본다.
+- [사람 구경하기](../docs/people-watching.md) 카페 창가 같은 자리에 앉은 사람이 지나가는 낯선 사람들의 차림, 걸음, 표정을 눈여겨본다.
 - [새치기를 보고도 말하지 않기](../docs/staying-silent-at-line-cutting.md) 줄을 선 사람이 다른 사람이 새치기하는 것을 보고도 따지지 않고 넘어간다.
 - [새치기에 항의하기](../docs/confronting-line-cutters.md) 줄을 선 사람이 끼어든 사람에게 따지거나 눈총을 주며 항의한다.
 - [서비스 받는 동안 잡담 피하기](../docs/avoiding-small-talk-during-service.md) 미용실이나 택시에서 서비스를 받는 손님이 직원이나 기사와 잡담하지 않으려고 대화 없는 서비스를 고르거나 미리 요청한다.
