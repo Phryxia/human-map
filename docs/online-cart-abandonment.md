@@ -26,6 +26,8 @@
 
 2024년 해커뉴스 댓글[^9]의 글쓴이는 배송비를 보려면 결제 정보를 넣는 화면까지 가야 해서 그 화면에서 장바구니를 자주 버린다고 밝혔다.
 
+2026년 8월 GQ Korea 기사[^10]의 필자는 사고 싶은 물건을 일단 장바구니에 넣어 두고 다음 날 아침 다시 보면서 충동적인 결제를 한 번 걸러 낸다고 적었다.
+
 # 관계
 
 ## 상위
@@ -38,7 +40,7 @@
 
 ## 원인
 
-없음.
+- [구매 결정 미루기](delaying-purchases.md)[^10]
 
 ## 결과
 
@@ -59,3 +61,4 @@
 [^7]: [SNS] "늘 그렇듯 위시에서 끄집어내어 장바구니에 넣고 모두 계산하려는 직전에 stop! 다시 위시에 감금하고 나머지 것만 결제했습니다." — 클리앙 게시글, 2021-09-25, https://www.clien.net/service/board/park/16529236, 2026-11-10 접속
 [^8]: [학술] "The results show that waiting for lower prices positively influences hesitation at checkout, and subsequently, impacts both OSCA and DBLR." (결과는 더 낮은 가격을 기다리는 것이 결제 단계의 망설임에 정의 영향을 주고 이어서 온라인 장바구니 포기와 오프라인 매장 구매 모두에 영향을 준다는 것을 보여 준다.) — Siqi Wang, Ye Ye, Binyao Ning, Jun-Hwa Cheah, Xin-Jean Lim, "Why Do Some Consumers Still Prefer In-Store Shopping? An Exploration of Online Shopping Cart Abandonment Behavior", Frontiers in Psychology, 2022-01-20, https://pmc.ncbi.nlm.nih.gov/articles/PMC8811303/, 2026-11-10 접속
 [^9]: [SNS] "I often "abandon" my cart once I hit the screen that requires payment details because I had to get there in order to see how much shipping I'm going to have to pay" (배송비가 얼마인지 보려면 그 화면까지 가야 했기 때문에 결제 정보를 요구하는 화면에 이르면 나는 장바구니를 자주 "버린다".) — Hacker News 댓글, 2024-04-08, https://news.ycombinator.com/item?id=39969833, 2026-11-10 접속
+[^10]: [매체] "그래서 일단 장바구니에 넣어둔다. 다음 날 아침 다시 보면 “내가 어제 왜 이걸 봤지?” 싶은 경우도 많다. 사고 싶은 마음과 실제 구매 사이에 시간을 두면서 충동적인 결제를 한 번 걸러낸다." — 주현욱, 「이걸 참네, 장바구니에 넣고도 사지 않는 사람들의 특징 6」, GQ Korea, 2026-08-15, https://www.gqkorea.co.kr/?p=394537, 2026-11-10 접속
