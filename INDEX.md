@@ -206,6 +206,7 @@
 - [말 안 하기로 화 드러내기](docs/silent-treatment.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [말을 피하려고 다른 일에 몰두한 척하기](docs/feigning-absorption-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [말을 피하려고 자는 척하기](docs/pretending-to-sleep-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [망가뜨린 일 숨기기](docs/concealing-accidental-damage.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [매몰비용 때문에 그만두지 못하기](docs/sunk-cost-persistence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [머리가 하얘짐](docs/mind-going-blank.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [머릿속 말다툼](docs/imaginary-arguments.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))

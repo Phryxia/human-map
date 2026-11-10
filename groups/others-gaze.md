@@ -12,6 +12,7 @@
 - [단체 사진과 신문에서 자기부터 찾기](../docs/looking-for-oneself-first.md) 자기가 함께 찍힌 단체 사진이나 자기 일이 실렸을 신문을 받아 든 사람이 다른 사람이나 기사보다 자기 얼굴이나 이름부터 찾아본다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
 - [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
+- [망가뜨린 일 숨기기](../docs/concealing-accidental-damage.md) 남의 물건을 실수로 망가뜨린 사람이 그 일을 말하지 않거나 하지 않았다고 한다.
 - [머리가 하얘짐](../docs/mind-going-blank.md) 남이 지켜보거나 몰아세우는 자리에서 사람의 머리가 굳어 할 말이나 생각이 떠오르지 않는다.
 - [모르는 것을 아는 체하기](../docs/feigning-knowledge.md) 사람이 모르는 지식이나 낱말, 개념을 남 앞에서 안다고 말한다.
   - [알아들은 척하기](../docs/pretending-to-understand.md)
