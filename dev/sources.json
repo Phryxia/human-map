@@ -23280,15 +23280,15 @@
   },
   "https://ko.wikisource.org/wiki/%EC%82%AC%EC%A7%84%EA%B3%BC_%ED%8E%B8%EC%A7%80": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://www.goodreads.com/author_blog_posts/18770645-428-seeing-your-reflection-as-you-walk-by-a-store-window-and-liking-wha?tab=book": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://hburgcitizen.com/2024/06/27/night-walks/": {
     "first": "2026-11-09",
@@ -23370,15 +23370,15 @@
   },
   "https://www.culturaldaily.com/city-stills-socializing-urban-reflections/": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7685126/": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-10"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3046411/": {
     "first": "2026-11-10",
@@ -23467,5 +23467,11 @@
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "UNREACHABLE"
+  },
+  "https://boards.straightdope.com/t/embarrassing-moments/213223/12": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   }
 }
