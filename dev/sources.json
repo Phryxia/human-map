@@ -2913,9 +2913,9 @@
   },
   "https://www.pewresearch.org/short-reads/2020/12/14/most-americans-dont-answer-cellphone-calls-from-unknown-numbers/": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-10"
   },
   "https://m.cafe.daum.net/ilovenba/34Xk/481960/comments": {
     "first": "2026-10-18",
@@ -23644,6 +23644,18 @@
     "lastVerified": "2026-11-10"
   },
   "https://healthunlocked.com/afassociation/posts/137988551/did-or-didnt-i-take-my-medication-this-morning": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://www.cbsnews.com/news/are-you-still-checking-voice-mail/": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://boards.straightdope.com/t/whats-the-deal-with-people-whose-voice-mail-box-is-always-full/708409": {
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "VERIFIED",
