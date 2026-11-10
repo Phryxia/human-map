@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T15:30:27.675Z",
-  "nextSeq": 4451,
-  "stops": 234,
+  "savedAt": "2026-11-10T18:34:47.844Z",
+  "nextSeq": 4466,
+  "stops": 235,
   "items": [
     {
       "id": "44b930b8",
@@ -11,14 +11,6 @@
       "note": "2026-11-10 YouGov 2015-06-04, Woot 2025-09-23 댓글로 추가. 후보: phys.org 2024-03 unread-emails-inbox-unwise (연구 소개), allaboutcookies.org digital-clutter (2024-12, 평균 1000통 넘음), 40tech.com 2012-05-28 댓글, forums.anandtech.com 319606",
       "createdAt": "2026-11-10T09:35:02.048Z",
       "seq": 4431
-    },
-    {
-      "id": "7434b83b",
-      "title": "talking-to-pets 보강: 속마음 털어놓는 면, 한국어 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-10 Jerome 1886, Ben-Aderet 2017, 브런치 2026 으로 추가. 후보: PMC5247504 의 나이 든 개에게도 쓰는 대목, David Copperfield 의 Dora 와 Jip (gutenberg 766 은 4개 문서 사용 중이라 피함). 검색어: 반려동물에게 고민 털어놓",
-      "createdAt": "2026-11-10T12:35:11.658Z",
-      "seq": 4440
     },
     {
       "id": "da1fa351",
@@ -67,6 +59,38 @@
       "note": "2026-11-10 CBS 2013, Straight Dope 2009·2014 댓글, Pew 2020 으로 추가. 원인 후보: CBS 같은 글 'A voice mail, we assume, \"requires some sort of action,\"'. 2026-11-10 한국어 검색: clien 18935192 는 음성사서함 끄는 법 질문뿐이라 맞지 않음",
       "createdAt": "2026-11-10T15:30:17.660Z",
       "seq": 4450
+    },
+    {
+      "id": "57eb3958",
+      "title": "online-cart-abandonment 관계: delaying-purchases, buyers-remorse",
+      "priority": 50,
+      "note": "2026-11-10 추가. 후보: GQ Korea 2026-08-15 gqkorea.co.kr/?p=394537 '쇼핑 메모장' (delaying-purchases [^5] 와 같은 글), PMC8811303 Wang 외 2022 'waiting for lower prices positively influences hesitation at checkout', internetretailing 2009 'the pleasure of browsing without the pain of buying'. 공공 파편 못 찾음(소비자원, KISDI, CMA, FTC). PayPal 2008-05-28 보도자료(comScore) 지갑 찾기 귀찮음 21%",
+      "createdAt": "2026-11-10T18:10:46.255Z",
+      "seq": 4461
+    },
+    {
+      "id": "c9393a59",
+      "title": "talking-to-pets 보강: 속마음 털어놓는 면, 학술 2000년대 파편",
+      "priority": 50,
+      "note": "2026-11-10 Tildes 2022-07-20, 다음 카페 2023-07-21 댓글로 한국어 SNS 채움. 후보: HN item?id=48581568 (2026-06-18) 개에게 문제를 설명하면 풀린다, HN 461418 (2009-02-01) 미대조, news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 취약계층 외로움 감소·대화증가. David Copperfield 의 Dora 와 Jip (gutenberg 766 4개 문서 사용 중)",
+      "createdAt": "2026-11-10T18:14:37.444Z",
+      "seq": 4462
+    },
+    {
+      "id": "d3f43c0e",
+      "title": "sick-while-living-alone 관계: fear-of-dying-alone, loneliness, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-10 서울신문 2008, 위키트리 2015, Straight Dope 2015, 서울시 2021, 주간경향 2022 로 추가. 학술 HTML 초록 못 찾음(koreascience, kihasa 는 PDF). 한국어 SNS 후보: 82cook 연결 끊김, damoang 봇 확인. 서울시 2021 실태조사 '몸이 아프거나 위급할 때의 대처' 35.9% 원문 미확인",
+      "createdAt": "2026-11-10T18:25:14.873Z",
+      "seq": 4463
+    },
+    {
+      "id": "49f6381c",
+      "title": "not-chatting-with-neighbors 관계: stopping-greeting-unresponsive-neighbor, avoiding-shared-elevator, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-10 Straight Dope 2007, 서울신문 2016, 클리앙 2022, DCMS 2025 로 추가. 후보: 매일신문 2007-02-12 imaeil.com/page/view/2007021210193835620 '이웃 간 소통의 단절', SD 592248 (2011-08-10) 옆 세대도 만난 적 없음, DCMS 같은 쪽 16~24세 45%",
+      "createdAt": "2026-11-10T18:27:48.255Z",
+      "seq": 4464
     },
     {
       "id": "b1e741b2",
@@ -555,6 +579,14 @@
       "note": "2026-11-10 AYTM, Straight Dope 2011, GQ 코리아 2023-05-28, Franchising.com 2023 으로 추가. 공공 후보: 농림축산식품부·aT 외식 소비행태 조사(mafra.go.kr/bbs/home/798/593021/download.do, 파일), 데일리안 1678615 가 인용. 학술 후보: Ha·Jang 2013 J Services Marketing",
       "createdAt": "2026-11-10T09:33:36.445Z",
       "seq": 4430
+    },
+    {
+      "id": "7c08edd6",
+      "title": "not-cycling-for-fear-of-traffic 관계: bicycle-helmet-nonuse, 한국어 SNS 파편",
+      "priority": 40,
+      "note": "2026-11-10 서울신문 2007 더함. 후보: clien use/17293411 (2022-05-31) 차로 위험해 인도로 탐, 주간경향 202009211221261 (2020-09-21) 자전거도로 끊긴 길목 위험. PMC6974276 Winters 2012 reCAPTCHA",
+      "createdAt": "2026-11-10T18:30:09.098Z",
+      "seq": 4465
     },
     {
       "id": "e8ba47a7",
