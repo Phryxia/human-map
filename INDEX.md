@@ -655,6 +655,7 @@
 - [편애받는 형제에 대한 질투](docs/sibling-jealousy-over-favoritism.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [평균 이상 효과](docs/better-than-average-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
+- [폭염에 취약하지 않다고 여기기](docs/not-seeing-oneself-as-heat-vulnerable.md) ([건강과 위험](groups/health-and-safety.md))
 - [폭풍 때 파도 구경하기](docs/storm-wave-watching.md) ([건강과 위험](groups/health-and-safety.md))
 - [푸드뱅크 이용 수치심](docs/food-bank-shame.md) ([돈과 소비](groups/money.md))
 - [프라이버시 역설](docs/privacy-paradox.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
