@@ -250,6 +250,7 @@ test('여러 낱말 플랫폼명은 SNS 서지의 실명 꼴로 잡지 않는다
   const bad = b => errs(loadAll(makeRepo({a: makeDoc({frags: mk(b)})}))).some(x => x.includes('SNS 서지'))
   assert.ok(!bad('Straight Dope Message Board 게시글'))
   assert.ok(!bad('Hacker News 댓글'))
+  assert.ok(!bad('Berkeley Parents Network 게시글'))
   assert.ok(bad('Straight Dope John Smith 게시글'))
   assert.ok(bad('Some Long Forum Name 게시글'))
 })

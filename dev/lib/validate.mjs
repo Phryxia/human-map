@@ -23,7 +23,7 @@ export const BLOG_PATTERNS = [
   ['blogspot', /^https?:\/\/([a-z0-9-]+)\.blogspot\.[a-z.]+(?:[/?#]|$)/i],
 ]
 // 여러 낱말로 된 플랫폼명. SNS 서지에서 한 낱말로 보고 실명 꼴 검사를 한다.
-export const MULTIWORD_PLATFORMS = ['Straight Dope Message Board', 'Straight Dope', 'Hacker News', 'Stack Exchange', 'Mumsnet Talk', 'MoneySavingExpert 포럼', '네이버 지식iN', '네이트 판', '다음 카페']
+export const MULTIWORD_PLATFORMS = ['Straight Dope Message Board', 'Straight Dope', 'Hacker News', 'Stack Exchange', 'Mumsnet Talk', 'Berkeley Parents Network', 'MoneySavingExpert 포럼', '네이버 지식iN', '네이트 판', '다음 카페']
 const platformToken = b => MULTIWORD_PLATFORMS.reduce((s, p) => s.startsWith(p + ' ') ? 'PLATFORM' + s.slice(p.length) : s, b)
 export const blogAccountOf = url => {
   for (const [name, re] of BLOG_PATTERNS) { const m = re.exec(url); if (m) return `${name}/${m[1].toLowerCase()}` }
