@@ -24182,5 +24182,23 @@
     "last": "2026-11-10",
     "result": "VERIFIED",
     "lastVerified": "2026-11-10"
+  },
+  "https://www.khan.co.kr/article/200208041601091/amp": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=2533a994c22c6316e9810257f7042666": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=cb04d238819674f0e9810257f7042666": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
   }
 }

@@ -49,6 +49,7 @@
 - [사칭 전화에 겁먹고 따르기](../docs/complying-with-impersonation-calls.md) 검찰, 금융기관, 가족을 사칭한 전화를 받은 사람이 겁이나 다급함에 상대가 시키는 대로 한다.
 - [서로 계산하겠다고 다투기](../docs/fighting-over-the-bill.md) 함께 먹은 사람들이 계산할 때가 되면 서로 자기가 내겠다고 실랑이한다.
 - [손실 추격](../docs/loss-chasing.md) 돈을 걸었다가 잃은 사람이 잃은 돈을 되찾으려고 더 건다.
+- [식사비 낼 사람 정하기](../docs/deciding-who-pays-for-meals.md) 다른 사람과 함께 밥을 먹은 사람이 상대의 나이, 성별, 친한 정도와 자리의 성격에 따라 누가 식사비를 낼지 정한다.
 - [쓰지 않는 구독 유지](../docs/unused-subscription.md) 정기 결제 서비스에 가입한 사람이 그 서비스를 거의 쓰지 않으면서 해지하지 않고 돈을 계속 낸다.
   - [헬스장 등록하고 안 가기](../docs/gym-membership-nonuse.md)
 - [압박에 못 이겨 팁 주기](../docs/guilt-tipping.md) 손님이 팁을 주지 않으면 받을 눈총이나 어색함이 싫어 내키는 것보다 팁을 주거나 더 많이 준다.
