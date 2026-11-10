@@ -16024,9 +16024,9 @@
   },
   "https://www.seoul.co.kr/news/2002/01/14/20020114017001": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://korea.kr/special/policyFocusView.do?newsId=148649134&pkgId=49500049": {
     "first": "2026-11-01",
@@ -16035,45 +16035,45 @@
   },
   "https://www.khan.co.kr/article/200903091724465/amp": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://korea.kr/news/policyBriefingView.do?newsId=156499109": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292275/": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://scholarworks.gnu.ac.kr/handle/sw.gnu/80965?mode=full": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.kdi.re.kr/eng/research/reportView?pub_no=19029": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://hangyo.com/news/article.html?no=106760": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.korea.kr/special/policyFocusView.do?newsId=148649134&pkgId=49500049": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://kormedi.com/1217639/": {
     "first": "2026-11-01",
@@ -21494,9 +21494,9 @@
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.800039/full": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-10"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148677149": {
     "first": "2026-11-07",
@@ -24202,6 +24202,12 @@
     "lastVerified": "2026-11-10"
   },
   "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156584761": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://koreascience.kr/article/JAKO202120462015915.page": {
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "VERIFIED",
