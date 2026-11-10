@@ -16,6 +16,8 @@
 
 2023년 11월 경찰청의 집중 단속 결과[^4]에서 점유이탈물횡령 사범으로 검거된 사람은 2752명이었다.
 
+2026년 3월 버스에서 주운 지갑을 어떻게 할지 묻는 게시글의 댓글[^5]은 처음 주운 사람이 현금만 가져가고 지갑을 버린 경우를 들었다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^2]: [공공] "자신은 오토바이를 절취할 의사가 없었고 단순히 누가 버린 것을 수리해서 청년회를 위해 재사용하려 하였으며, 오랜 기간 방치되어 있던 것을 주변 사람들도 봤다고 진술하였으나" — 법제처 국무총리행정심판위원회, 「주인 없이 오랜 기간 방치된 오토바이를 가져간 행위는」, 대한민국 정책브리핑, 2006-04-17, https://www.korea.kr/briefing/pressReleaseView.do?newsId=155084764, 2026-11-10 접속
 [^3]: [학술] "In virtually all countries, citizens were more likely to return wallets that contained more money." (거의 모든 나라에서 시민들은 돈이 더 많이 든 지갑을 더 자주 돌려주었다.) — A. Cohn, M. A. Maréchal, D. Tannenbaum, C. L. Zünd, 「Civic honesty around the globe」, Science 365(6448), 2019-07-05, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31221770&rettype=abstract&retmode=text, 2026-11-10 접속
 [^4]: [공공] "세부적으로는 강절도 사범 1만 7789명(구속 600명), 장물 사범 108명(구속 3명), 점유이탈물횡령 사범 2752명을 검거(구속 11명)했으며, 대면 또는 절취 수법의 전기통신금융사기 사범 830명을 검거(구속 66명)했다." — 경찰청, 「경찰, 강절도·서민생활침해 범죄 집중 단속…4만 2973명 검거」, 대한민국 정책브리핑, 2023-11-10, https://www.korea.kr/news/policyNewsView.do?newsId=148922484, 2026-11-10 접속
+[^5]: [SNS] "실제로 그럴 수도 있구요. (처음 주운 사람이 현금만 가져가고 버렸다가 두번째 주운 사람이 신고한 경우)" — 클리앙 댓글, 2026-03-30, https://www.clien.net/service/board/park/19170197, 2026-11-10 접속
