@@ -25,6 +25,7 @@
 - [남은 약 다시 먹기](../docs/reusing-leftover-medicine.md) 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.
 - [남을 따라 대피하기](../docs/following-others-to-evacuate.md) 위급한 신호를 접한 사람이 주변 사람이 움직이는지를 보고 그에 따라 대피하거나 머문다.
 - [넘어진 일 알리지 않기](../docs/not-telling-about-falls.md) 넘어진 노인이 짐이 되거나 독립을 잃을까 봐 또는 대수롭지 않게 여겨 넘어진 일을 가족이나 의료인에게 말하지 않는다.
+- [넘어질까 봐 활동 줄이기](../docs/fear-of-falling-activity-restriction.md) 나이 든 사람이 넘어질까 두려워 아직 할 수 있는 걷기, 외출, 일상 활동을 스스로 줄인다.
 - [논밭두렁과 영농부산물 태우기](../docs/burning-farm-waste.md) 농촌 주민이 산불 위험과 금지 안내를 알면서도 논밭두렁이나 영농부산물, 쓰레기를 태운다.
 - [늙어 보이는 보조기구 꺼림](../docs/avoiding-aids-that-look-old.md) 몸의 기능이 떨어진 사람이 늙어 보이는 것이 싫어 보청기나 지팡이 같은 보조기구를 쓰지 않거나 눈에 띄지 않게 한다.
   - [지팡이와 보행보조기 거부](../docs/refusing-mobility-aids.md)
