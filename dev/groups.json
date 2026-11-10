@@ -619,6 +619,7 @@
     "title": "시민 참여와 공공의 일",
     "summary": "사람이 투표, 기부, 신고, 봉사 같은 공공의 일에 참여하거나 참여하지 않는 일이다.",
     "roots": [
+      "keeping-found-property",
       "claiming-to-have-voted",
       "feeling-ones-effort-makes-no-difference",
       "climate-inaction",
