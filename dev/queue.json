@@ -1,201 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T18:34:47.844Z",
-  "nextSeq": 4466,
-  "stops": 235,
+  "savedAt": "2026-11-10T21:30:42.828Z",
+  "nextSeq": 4523,
+  "stops": 236,
   "items": [
-    {
-      "id": "44b930b8",
-      "title": "leaving-emails-unread 보강: 학술 파편, 한국어 파편, 안 읽는 이유",
-      "priority": 50,
-      "note": "2026-11-10 YouGov 2015-06-04, Woot 2025-09-23 댓글로 추가. 후보: phys.org 2024-03 unread-emails-inbox-unwise (연구 소개), allaboutcookies.org digital-clutter (2024-12, 평균 1000통 넘음), 40tech.com 2012-05-28 댓글, forums.anandtech.com 319606",
-      "createdAt": "2026-11-10T09:35:02.048Z",
-      "seq": 4431
-    },
-    {
-      "id": "da1fa351",
-      "title": "storm-wave-watching 보강: 학술 파편, 2000년대 파편",
-      "priority": 50,
-      "note": "2026-11-10 기상청 일본 안내문 더함. 후보: mdpi.com/2073-445X/12/2/360 Semeraro 2023 Nazaré 파도 구경꾼 (403), 김규한 2008 안목항 사고 (PDF)",
-      "createdAt": "2026-11-10T12:35:38.911Z",
-      "seq": 4441
-    },
-    {
-      "id": "904e8e51",
-      "title": "talking-to-plants 보강: 학술 파편, treating-objects-as-companions 와 talking-to-pets 관계",
-      "priority": 50,
-      "note": "2026-11-10 Carroll 1871, Ideal Home 2022, 서울시 2023 으로 추가. 후보: npr.org/transcripts/105797372 (2009-06-23) RHS 토마토 실험, m.go.seoul.co.kr/news/2021/08/18/20210818022006",
-      "createdAt": "2026-11-10T12:37:24.774Z",
-      "seq": 4442
-    },
-    {
-      "id": "b3cd9c06",
-      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
-      "priority": 50,
-      "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
-      "createdAt": "2026-11-10T15:27:07.867Z",
-      "seq": 4447
-    },
-    {
-      "id": "a3264ecd",
-      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편, 영문 공공 파편",
-      "priority": 50,
-      "note": "2026-11-10 McMaster News 2018-03-15 더함. 후보: ama.org 2025-04-01 JMR 요약, hec.edu stockpile 2017, boards.hellobee.com spend-lose-or-draw 2016 댓글. 2026-11-10 시도: Offenberg 2007 JEP 초록은 미사용 언급 없음, ftc.gov 2006 보도자료 404, in.gov 2025 블로그 타임아웃",
-      "createdAt": "2026-11-10T15:29:22.650Z",
-      "seq": 4448
-    },
-    {
-      "id": "a11bff79",
-      "title": "not-using-air-conditioner 관계: energy-limiting-behavior, not-using-cooling-centers, 더위를 덜 느끼는 면",
-      "priority": 50,
-      "note": "2026-11-10 Hansen 2011, Lane 2013, AgingCare 2019 게시글, The Conversation 2023 으로 추가. 후보: agingcare 487059 (2024-05) 'Too hot! It's cold in here!', The Conversation 196218 의 'we tend to not feel the heat', Lane 2013 의 관절염·천식 악화 믿음, CDC mm6222a1 (2013). 2026-11-10 확인: energy-limiting-behavior 와는 요금 때문에 에어컨을 끈다는 파편이 있어야 상위나 원인 간선을 그을 수 있음",
-      "createdAt": "2026-11-10T15:29:39.429Z",
-      "seq": 4449
-    },
-    {
-      "id": "7e118436",
-      "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
-      "priority": 50,
-      "note": "2026-11-10 CBS 2013, Straight Dope 2009·2014 댓글, Pew 2020 으로 추가. 원인 후보: CBS 같은 글 'A voice mail, we assume, \"requires some sort of action,\"'. 2026-11-10 한국어 검색: clien 18935192 는 음성사서함 끄는 법 질문뿐이라 맞지 않음",
-      "createdAt": "2026-11-10T15:30:17.660Z",
-      "seq": 4450
-    },
-    {
-      "id": "57eb3958",
-      "title": "online-cart-abandonment 관계: delaying-purchases, buyers-remorse",
-      "priority": 50,
-      "note": "2026-11-10 추가. 후보: GQ Korea 2026-08-15 gqkorea.co.kr/?p=394537 '쇼핑 메모장' (delaying-purchases [^5] 와 같은 글), PMC8811303 Wang 외 2022 'waiting for lower prices positively influences hesitation at checkout', internetretailing 2009 'the pleasure of browsing without the pain of buying'. 공공 파편 못 찾음(소비자원, KISDI, CMA, FTC). PayPal 2008-05-28 보도자료(comScore) 지갑 찾기 귀찮음 21%",
-      "createdAt": "2026-11-10T18:10:46.255Z",
-      "seq": 4461
-    },
-    {
-      "id": "c9393a59",
-      "title": "talking-to-pets 보강: 속마음 털어놓는 면, 학술 2000년대 파편",
-      "priority": 50,
-      "note": "2026-11-10 Tildes 2022-07-20, 다음 카페 2023-07-21 댓글로 한국어 SNS 채움. 후보: HN item?id=48581568 (2026-06-18) 개에게 문제를 설명하면 풀린다, HN 461418 (2009-02-01) 미대조, news.seoul.go.kr/welfare/archives/519574 (2020-06-11) 취약계층 외로움 감소·대화증가. David Copperfield 의 Dora 와 Jip (gutenberg 766 4개 문서 사용 중)",
-      "createdAt": "2026-11-10T18:14:37.444Z",
-      "seq": 4462
-    },
-    {
-      "id": "d3f43c0e",
-      "title": "sick-while-living-alone 관계: fear-of-dying-alone, loneliness, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-10 서울신문 2008, 위키트리 2015, Straight Dope 2015, 서울시 2021, 주간경향 2022 로 추가. 학술 HTML 초록 못 찾음(koreascience, kihasa 는 PDF). 한국어 SNS 후보: 82cook 연결 끊김, damoang 봇 확인. 서울시 2021 실태조사 '몸이 아프거나 위급할 때의 대처' 35.9% 원문 미확인",
-      "createdAt": "2026-11-10T18:25:14.873Z",
-      "seq": 4463
-    },
-    {
-      "id": "49f6381c",
-      "title": "not-chatting-with-neighbors 관계: stopping-greeting-unresponsive-neighbor, avoiding-shared-elevator, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-10 Straight Dope 2007, 서울신문 2016, 클리앙 2022, DCMS 2025 로 추가. 후보: 매일신문 2007-02-12 imaeil.com/page/view/2007021210193835620 '이웃 간 소통의 단절', SD 592248 (2011-08-10) 옆 세대도 만난 적 없음, DCMS 같은 쪽 16~24세 45%",
-      "createdAt": "2026-11-10T18:27:48.255Z",
-      "seq": 4464
-    },
-    {
-      "id": "b1e741b2",
-      "title": "improper-medicine-disposal 관계: keeping-leftover-medicines",
-      "priority": 40,
-      "note": "2026-11-07 공공 statcan dq130318b, SNS straightdope 1001604/18 더함. 관계 근거 원문 아직 없음. 후보: statcan 16-002-x/2008001/10539 (2008) 39% 일반 쓰레기·배수구, 클리앙 park/17379913 (2022-07-05) 팍스로비드 남은 약 쓰레기통 의향, mediahub 2004438 시민기자 55%",
-      "createdAt": "2026-11-07T09:37:19.431Z",
-      "seq": 4063
-    },
-    {
-      "id": "a26882c8",
-      "title": "faking-wealth 와 poverty-shame 원인 간선",
-      "priority": 40,
-      "note": "2026-11-07 재탐색. thefinancialdiet.com/?p=2717 (2015-04-03) 'I Have Been The Poor Friend All My Life, And I'm Ashamed' 의 'fighting the urge to buy things that make me appear richer' 는 인과를 직접 말하지 않음(보강 후보). brunch @nusik/48 (2026-09-21) '가난을 숨기기 위하여' 는 숨기기 동기. 'because ashamed' 꼴 원문 필요",
-      "createdAt": "2026-11-07T12:33:53.232Z",
-      "seq": 4066
-    },
-    {
-      "id": "da80c08d",
-      "title": "wishcycling 보강: not-sorting-recyclables 관계",
-      "priority": 40,
-      "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 1993-01-24 Seattle Times 'When in doubt, throw it out' 후보. 인과·대립 근거 원문 아직 없음. 2026-11-01 이미 1992 Seattle Times [^1] 있음. 두 현상을 한 사람 안에서 맞세우는 원문 필요",
-      "createdAt": "2026-11-07T12:34:55.473Z",
-      "seq": 4067
-    },
-    {
-      "id": "c360b236",
-      "title": "answering-unknown-calls-silently 보강: 학술·공공 파편, 보이스피싱 경계 원인",
-      "priority": 40,
-      "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 2026-11-01 clemson 2023 권고뿐, FCC 403. 실제 행동을 잰 학술 못 찾음. 2026-11-07 보이스피싱 경계에 해당하는 문서가 아직 없어 원인 간선 대상부터 만들어야 함",
-      "createdAt": "2026-11-07T15:19:31.627Z",
-      "seq": 4089
-    },
-    {
-      "id": "ef538365",
-      "title": "private-tutoring-anxiety 보강: 나타나지 않는 조건, 관계",
-      "priority": 40,
-      "note": "2026-11-07 별칭 Education Anxiety 는 Yu 외 2022 로 붙였다. 후보: 국회도서관 KINX2021194456 양육불안감이 사교육에 유의한 영향 없음(조건). bragging-about-children, fear-of-missing-out 관계 근거 필요",
-      "createdAt": "2026-11-07T15:20:41.614Z",
-      "seq": 4090
-    },
-    {
-      "id": "8444662c",
-      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
-      "priority": 40,
-      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02 ko.wikisource API 가 요청 과다로 막힘. 다른 판본이나 다른 작품",
-      "createdAt": "2026-11-07T15:20:57.227Z",
-      "seq": 4091
-    },
-    {
-      "id": "04d06ab0",
-      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
-      "priority": 40,
-      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은 동기가 달라 맞지 않음. crr.bc.edu 은 매체. retail-therapy 대립 원문 미발견",
-      "createdAt": "2026-11-07T15:21:29.178Z",
-      "seq": 4092
-    },
-    {
-      "id": "210cfd2c",
-      "title": "discarding-mail-without-shredding 보강: privacy-paradox 관계, 한국 공공 설문",
-      "priority": 40,
-      "note": "2026-11-02 privacy-paradox 요약이 '온라인에서는' 으로 좁아 하위로 둘 수 없음. 후보: Dynamic Business 2010-10-11 nidfaw-2074 85%, Irish Times 2008-10-07 82%, 인사이트 80934 (2018). 2026-11-07 택배 송장 미제거 비율의 한국 공공 조사 검색 실패, 개인정보위 2025 점검은 사업자 대상",
-      "createdAt": "2026-11-07T15:27:31.500Z",
-      "seq": 4096
-    },
-    {
-      "id": "d4917d96",
-      "title": "ignoring-air-quality-alerts 보강: 자기보고와 실제 행동의 어긋남",
-      "priority": 40,
-      "note": "2026-11-07 McGill 2026-10-23 Strava 달리기 변화 없음 더함(행동 자료). 자기보고와 행동을 함께 잰 출처 남음. 후보 PubMed 18466894 (2008) 포틀랜드·휴스턴 10-15% 행동 바꿨다고 답함",
-      "createdAt": "2026-11-07T15:28:23.459Z",
-      "seq": 4097
-    },
-    {
-      "id": "c8871aa8",
-      "title": "smoking-in-no-smoking-areas 보강: SNS 파편, 단속이 없을 때만 나타나는 조건",
-      "priority": 40,
-      "note": "2026-11-02 서울신문 20160902008012 는 이미 [^3]. kgnews 908058 [^6]. 2026-11-07 단속 조건은 [^3] 이 서술에서 이미 받침. straightdope 336840 (2005-12) 에 흡연자 본인의 금연구역 흡연 글 없음. cloudfront life-style/life/2016001 영국 설문 71% 후보",
-      "createdAt": "2026-11-07T15:29:00.008Z",
-      "seq": 4098
-    },
-    {
-      "id": "af09da89",
-      "title": "forgotten-fridge-leftovers 보강: 공공 파편, discarding-food-by-date-label 관계",
-      "priority": 40,
-      "note": "2026-11-03 재시도. EPA·USDA 에 남은 음식 잊기 조사 없음. 2026-11-07 OECD 2026-09 what-drives-household-food-waste 403, 인천시 IC010101 619 는 권고뿐. 매체 후보: Samsung UK newsroom fridge-fails 364개, geneonline Frigidaire 2026-06",
-      "createdAt": "2026-11-07T15:29:31.559Z",
-      "seq": 4099
-    },
-    {
-      "id": "b59c3d52",
-      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
-      "priority": 40,
-      "note": "2026-11-02 Tennyson 1850 은 이미 [^1]. 2026-11-07 ko.wikisource API 여전히 요청 과다로 막힘. 남은 후보: 서울아산병원 contentId=258306(발행일 미상), 충청신문 dailycc 737711 (2023-03-20)",
-      "createdAt": "2026-11-07T15:30:12.957Z",
-      "seq": 4100
-    },
-    {
-      "id": "1c96ad1b",
-      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 6698행 Edgar 는 마을을 피하나 아내 무덤은 찾아가 맞지 않고, 이 출처는 이미 4개 문서가 씀",
-      "createdAt": "2026-11-07T15:30:31.540Z",
-      "seq": 4101
-    },
     {
       "id": "8d46f9fe",
       "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편",
@@ -589,6 +397,70 @@
       "seq": 4465
     },
     {
+      "id": "b15bc537",
+      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편",
+      "priority": 40,
+      "note": "2026-11-10 GOV.UK BIS 2014-12-27 영문 공공 파편 더함. 후보: london.edu false-profits-and-the-folly-of-gift-card-expiry-dates, treasury.gov.au gift-cards-in-the-australian-market-report (2012)",
+      "createdAt": "2026-11-10T21:12:29.488Z",
+      "seq": 4498
+    },
+    {
+      "id": "c4f6ec7e",
+      "title": "online-cart-abandonment 관계: buyers-remorse",
+      "priority": 40,
+      "note": "2026-11-10 delaying-purchases 원인 간선 그음(GQ Korea 2026-08-15). buyers-remorse 와는 예상 후회(Bell 2020 [^6], 김종욱 2014 [^5] 후회 회피) 근거 검토 필요. 공공 파편 못 찾음(소비자원, KISDI, CMA, FTC)",
+      "createdAt": "2026-11-10T21:15:20.705Z",
+      "seq": 4499
+    },
+    {
+      "id": "0ed25c20",
+      "title": "sick-while-living-alone 관계: fear-of-dying-alone, loneliness",
+      "priority": 40,
+      "note": "2026-11-10 학술 파편은 Yu 2020 [^4] 이 이미 있음. 관계 근거 후보: kormedi.com/1642143 (1인 가구 45% 혼자 죽을까 걱정), v.daum.net/v/20251211140312588 '아플 때 너무 외롭다'. 원인 간선은 '아플 때 혼자라 ~ 걱정' 꼴의 원문 필요",
+      "createdAt": "2026-11-10T21:16:44.767Z",
+      "seq": 4501
+    },
+    {
+      "id": "b961052b",
+      "title": "not-chatting-with-neighbors 관계: stopping-greeting-unresponsive-neighbor, avoiding-shared-elevator",
+      "priority": 40,
+      "note": "2026-11-10 Liddle 2020 (PMC7432362) 학술 파편 더함. 다른 학술 후보: PMC12640803 (Akre 2025) 새 주거 단지 주민들이 이웃을 모름, PMC9062734 (Glover 2022) 캐나다인 절반이 이웃을 모름(Tim Hortons 2018 인용)",
+      "createdAt": "2026-11-10T21:20:19.739Z",
+      "seq": 4502
+    },
+    {
+      "id": "6fa109ae",
+      "title": "anthropomorphism 보강: 한국어 파편, SNS 파편, loneliness 원인 간선",
+      "priority": 40,
+      "note": "2026-11-10 Hume 1757, ScienceDaily 2010, Chicago Booth Review 2015 로 신설. 원인 후보: chicagobooth 같은 글 'lonely people were more likely than others to anthropomorphize objects', sciencedaily 같은 글 'lacking social connections with other people might motivate lonely individuals'. 하위 후보: talking-to-the-dead 는 맞지 않음, 차에 이름 붙이기는 treating-objects-as-companions",
+      "createdAt": "2026-11-10T21:21:58.470Z",
+      "seq": 4505
+    },
+    {
+      "id": "86b9f3c3",
+      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
+      "priority": 40,
+      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 Edgar 는 맞지 않고 이 출처는 이미 4개 문서가 씀",
+      "createdAt": "2026-11-10T21:30:26.621Z",
+      "seq": 4522
+    },
+    {
+      "id": "022dfb2f",
+      "title": "leaving-emails-unread 보강: 한국어 파편, 관계",
+      "priority": 35,
+      "note": "2026-11-10 Whittaker·Sidner 1996 CHI 학술 파편 더함(남겨 두는 이유). 후보: theconversation 225181 Balogh 2024 (받은편지함에 그대로 두는 사람 절반), informationr.net/infres/article/view/604, salon.com 2017-12-07 트위터 사용자 수천 통. 한국어 기사·게시글 검색 미발견",
+      "createdAt": "2026-11-10T21:20:24.345Z",
+      "seq": 4503
+    },
+    {
+      "id": "6ebd5af0",
+      "title": "storm-wave-watching 보강: 학술 파편",
+      "priority": 35,
+      "note": "2026-11-10 Honolulu Advertiser 2007 더함. Azevedo 2023 (api.crossref.org/works/10.3390/land12020360) 초록의 pull·push drivers 문장은 200자 넘어 못 씀. 후보: hakaimagazine.com/features/storm-coast/ (Canadian Geographic 2002-11 재게재) 'storm watchers seem to be drawn almost compulsively', 별칭 storm watching 근거",
+      "createdAt": "2026-11-10T21:20:39.005Z",
+      "seq": 4504
+    },
+    {
       "id": "e8ba47a7",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
       "priority": 30,
@@ -643,14 +515,6 @@
       "note": "2026-10-20 F2 Brewer 1894, F3 CBC 2017, F6 1News(Meehan 2026), F7 brunch 2026 추가. 후보: gerflint.fr/Base/Espagne5/romera.pdf (Romera 2012, PDF라 미확인 예상) 'quitter une réunion sans se faire remarquer pour ne pas offenser les hôtes' 17세기 기원. 1News 같은 글 'Leaving quietly can become a way to protect yourself from the discomfort of saying goodbye.' 작별의 불편 회피 원인 후보, 'because leaving loudly feels like shouting out' 주목받기 싫음(spotlight-effect 관계 후보). 경험 연구 미발견",
       "createdAt": "2026-10-20T12:35:30.872Z",
       "seq": 757
-    },
-    {
-      "id": "ad1c55d8",
-      "title": "reusing-leftover-medicine 보강: 남은 약 보관 비율과 재사용 의향",
-      "priority": 30,
-      "note": "2026-10-20 PIDS(2023-11-22) 원인 간선 추가. 후보: healio.com/news/infectious-disease/20231108/leftover-antibiotics-major-barrier-to-antimicrobial-stewardship 'For those who stopped antibiotics early, 74% kept the leftover antibiotics.', PMC10677768 (IDWeek 2023 초록, reCAPTCHA) '51% reported they intended to take leftover antibiotics without contacting a healthcare provider in the future.', f1000research.com/articles/12-304 (2023) '71.1% of patients did not complete their antibiotic treatment because they felt better.' → stopping-medication 보강",
-      "createdAt": "2026-10-20T12:48:26.057Z",
-      "seq": 760
     },
     {
       "id": "899fe59b",
@@ -803,14 +667,6 @@
       "note": "2026-10-22 abc7news.com/news/511813 (2015-02-10) [^4] 더함. 후보: nerdwallet.com/finance/learn/data-retail-therapy (2025-04-15) '15% of Americans frequently spend money on things they end up regretting'(기분 전환 구매 한정 아님). oak.jejunu.ac.kr/handle/2020.oak/23625 제주대 학위논문 스트레스·충동구매·죄책감(curl 실패). warc.com 37% guilt or shame 문장 추출 실패",
       "createdAt": "2026-10-22T13:07:15.513Z",
       "seq": 1006
-    },
-    {
-      "id": "cd650fe6",
-      "title": "life-jacket-nonuse 보강: 한국 공공 파편",
-      "priority": 30,
-      "note": "2026-10-20 문화일보 2026-06-12(남해해경청 110명 중 97명), 아주경제 2026-06-15 추가. 공공 HTML 페이지 여전히 미발견. ytn.co.kr/_ln/0103_202607221213478350 (2026-07-22) 행안부 실장 '구명조끼를 착용하지 않은 채 안타까운 사망 사고가 발생한 게 거의 90% 이상' (매체), 같은 글 '많은 국민들, 피서객들이 구명조끼를 직접 가지고 오시더라고요' 다른 시기 조건 후보 / 2026-10-21 korea.kr 원문 또 미발견. 해경청 낚시어선 단속 277건 중 구명조끼 미착용 80건(2023~2025, 보도로만 확인), 부산해경 2020-05 kukinews kuk202005260093 19명 중 18명 / 2026-10-22 '해양경찰청 보도자료 구명조끼 미착용 kcg.go.kr' 검색도 보도로만 나옴(segye 2026-07-29 연안사고 5년 사망자 미착용 91.9%, kbmaeil 2025-02-12 2023년 1008명 중 139명 착용)",
-      "createdAt": "2026-10-22T16:49:52.323Z",
-      "seq": 1069
     },
     {
       "id": "7a19e980",
@@ -1269,6 +1125,126 @@
       "seq": 4325
     },
     {
+      "id": "2b409fa8",
+      "title": "talking-to-pets 보강: 한국어 학술 또는 공공 파편",
+      "priority": 30,
+      "note": "2026-11-10 Mitchell 2004 (crossref 초록) 더하고 상위 talking-to-animals 로 이음. 속마음 털어놓는 면은 talking-to-animals 가 다룸(dvm360 2011). 후보: news.seoul.go.kr/welfare/archives/519574 (2020-06-11)",
+      "createdAt": "2026-11-10T21:16:26.081Z",
+      "seq": 4500
+    },
+    {
+      "id": "54d681d5",
+      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
+      "priority": 30,
+      "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
+      "createdAt": "2026-11-10T21:22:03.975Z",
+      "seq": 4506
+    },
+    {
+      "id": "8b9e8f19",
+      "title": "not-seeing-oneself-as-heat-vulnerable 보강: 한국어 파편",
+      "priority": 30,
+      "note": "2026-11-10 GMA 2011-07-15 (Kent State 2006 연구) 더함. 한국어 후보: khan.co.kr/article/202508071029011 (폭염에 쓰러진 80대가 '괜찮다'며 생활지원사를 돌려보냄), newsis NISX20260804_0003735549",
+      "createdAt": "2026-11-10T21:22:59.084Z",
+      "seq": 4508
+    },
+    {
+      "id": "49b71374",
+      "title": "deciding-who-pays-for-meals 관계: fighting-over-the-bill, dodging-the-bill, SNS 파편",
+      "priority": 30,
+      "note": "2026-11-10 경향 2002, 김은영·김우식 2006, 박영재 외 2024 로 신설. 후보: koreatimes.co.kr/lifestyle/trends/20260918 Gen Z 1/N, bizhankook.com/articles/11049 (2016) 20대 대학생 897명 5대5 58.4%, 같은 경향 2002 글의 '상사라고 더 내고 사원이라고 덜 내는 건 불공평'",
+      "createdAt": "2026-11-10T21:24:37.162Z",
+      "seq": 4511
+    },
+    {
+      "id": "06af69f7",
+      "title": "private-tutoring-anxiety 관계: bragging-about-children, fear-of-missing-out",
+      "priority": 30,
+      "note": "2026-11-10 Cho 외 2021 (koreascience JAKO202120462015915) 조건 파편 더함. 관계 근거 원문 아직 없음",
+      "createdAt": "2026-11-10T21:27:20.136Z",
+      "seq": 4515
+    },
+    {
+      "id": "6005d3ec",
+      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
+      "priority": 30,
+      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02, 2026-11-10 ko.wikisource API 가 요청 과다로 막힘(첫 검색 한 번 뒤 바로). 다른 판본이나 다른 작품, 검색은 웹 검색으로",
+      "createdAt": "2026-11-10T21:27:35.459Z",
+      "seq": 4516
+    },
+    {
+      "id": "e79a7c70",
+      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
+      "priority": 30,
+      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은 동기가 달라 맞지 않음. crr.bc.edu 은 매체. retail-therapy 대립 원문 미발견. 2026-11-10 [^5] Treasury 2020 은 PDF 라 미확인, 같은 문장의 HTML 판 검색 실패",
+      "createdAt": "2026-11-10T21:28:11.644Z",
+      "seq": 4517
+    },
+    {
+      "id": "5017fd03",
+      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
+      "priority": 30,
+      "note": "2026-11-02 Tennyson 1850 은 이미 [^1]. 2026-11-07, 2026-11-10 ko.wikisource API 요청 과다로 막힘. 2026-11-10 서울신문 1990·1993·1995·1996 아카이브 글은 기일 내용 아님. 남은 후보: 서울아산병원 contentId=258306(발행일 미상), 충청신문 dailycc 737711 (2023-03-20), imaeil 2020102900135959598 (2020 소설가 어머니 기일 글)",
+      "createdAt": "2026-11-10T21:30:21.828Z",
+      "seq": 4521
+    },
+    {
+      "id": "9634edf0",
+      "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
+      "priority": 25,
+      "note": "2026-11-10 CBS 2013, Straight Dope 2009·2014 댓글, Pew 2020 으로 추가. 원인 후보: CBS 같은 글 'A voice mail, we assume, \"requires some sort of action,\"'. 2026-11-10 한국어 검색 두 번, 학술 검색 한 번 실패. 매체 후보: npr.org 2014-10-23 358301467 Vonage 청취 감소",
+      "createdAt": "2026-11-10T21:23:02.994Z",
+      "seq": 4509
+    },
+    {
+      "id": "39f06cd1",
+      "title": "improper-medicine-disposal 관계: keeping-leftover-medicines",
+      "priority": 25,
+      "note": "2026-11-07 공공 statcan dq130318b, SNS straightdope 1001604/18 더함. 관계 근거 원문 아직 없음. 후보: statcan 16-002-x/2008001/10539 (2008) 39% 일반 쓰레기·배수구, 클리앙 park/17379913 (2022-07-05) 팍스로비드 남은 약 쓰레기통 의향, mediahub 2004438 시민기자 55%. 2026-11-10 대립은 한 사람 안에서 버릴지 둘지 갈린다는 원문 필요",
+      "createdAt": "2026-11-10T21:23:11.813Z",
+      "seq": 4510
+    },
+    {
+      "id": "b71fd2b4",
+      "title": "wishcycling 보강: not-sorting-recyclables 관계",
+      "priority": 25,
+      "note": "2026-10-30 WRAP 2022-07-19 87% 더함. 2026-11-10: 두 현상을 묶는 상위 '분리배출 실수' 후보. WRAP 2020 tracker 기사(letsrecycle wrap-data-highlights-scale-of-contamination, resourcemedia.eco half-uk-households-throw-recyclable-items-general-waste) 에 잘못 넣기와 재활용품 일반 쓰레기 버리기 수치가 함께 있음. not-sorting-recyclables 가 일부러 안 하는 경우를 포함해 상위로 묶을지 판단 필요",
+      "createdAt": "2026-11-10T21:26:07.254Z",
+      "seq": 4513
+    },
+    {
+      "id": "6fc620c3",
+      "title": "answering-unknown-calls-silently 보강: 학술·공공 파편, 보이스피싱 경계 원인",
+      "priority": 25,
+      "note": "2026-10-30 HN 33440263(2022), YouGov 2026-03-02, 위키트리 2026-09-24 로 추가. 2026-11-01 clemson 2023 권고뿐, FCC 403. 실제 행동을 잰 학술 못 찾음. 2026-11-07 보이스피싱 경계에 해당하는 문서가 아직 없어 원인 간선 대상부터 만들어야 함",
+      "createdAt": "2026-11-10T21:26:19.966Z",
+      "seq": 4514
+    },
+    {
+      "id": "4078562d",
+      "title": "discarding-mail-without-shredding 보강: privacy-paradox 관계, 한국 공공 설문",
+      "priority": 25,
+      "note": "2026-11-02 privacy-paradox 요약이 '온라인에서는' 으로 좁아 하위로 둘 수 없음. 후보: Dynamic Business 2010-10-11 nidfaw-2074 85%, Irish Times 2008-10-07 82%, 인사이트 80934 (2018). 2026-11-07, 2026-11-10 한국 공공 조사 검색 실패. korea.kr 148933968 (2024-09-13 개인정보위) 은 당부뿐, segye 20191101508216 (2019) 운송장 붙은 상자 관찰은 매체",
+      "createdAt": "2026-11-10T21:28:43.749Z",
+      "seq": 4518
+    },
+    {
+      "id": "d907a6d4",
+      "title": "smoking-in-no-smoking-areas 보강: SNS 파편",
+      "priority": 25,
+      "note": "2026-11-02 서울신문 20160902008012 는 이미 [^3]. kgnews 908058 [^6]. 2026-11-07 단속 조건은 [^3] 이 이미 받침. 2026-11-10 한국어 검색에서 흡연자 본인 SNS 글 못 찾음(다모앙 글은 비흡연자 쪽). 매체 후보 dailymedi 932108 병원 입구 흡연자 '마땅한 흡연 장소가 없다'",
+      "createdAt": "2026-11-10T21:29:40.714Z",
+      "seq": 4519
+    },
+    {
+      "id": "8830c562",
+      "title": "forgotten-fridge-leftovers 보강: 공공 파편, discarding-food-by-date-label 관계",
+      "priority": 25,
+      "note": "2026-11-03 재시도. EPA·USDA 에 남은 음식 잊기 조사 없음. 2026-11-07 OECD 403, 인천시 권고뿐. 2026-11-10 wrap.ngo/content/food-overview 는 'what to do with leftovers and forgotten foods' 를 동인 목록에만 둠. 매체 후보: Samsung UK newsroom fridge-fails 364개, geneonline Frigidaire 2026-06",
+      "createdAt": "2026-11-10T21:29:59.964Z",
+      "seq": 4520
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1373,12 +1349,20 @@
       "seq": 4310
     },
     {
-      "id": "870be3f4",
-      "title": "식사비를 누가 낼지 상대와 상황으로 정하기",
-      "priority": 10,
-      "note": "학술: 김은영·김우식 2006 사회과학연구논총 16 RISS control_no=2533a994c22c6316e9810257f7042666 '상대의 성, 연령, 친한 정도...누가 식사비를 부담할 것인가를 구별', 박영재 외 2024 한국식생활문화학회지 39(4) RISS cb04d238819674f0e9810257f7042666 젊은 층 균등 분담 선호. dodging-the-bill 상위/관련 후보",
-      "createdAt": "2026-10-18T08:50:11.092Z",
-      "seq": 248
+      "id": "be14e233",
+      "title": "not-seeing-oneself-as-heat-vulnerable 와 not-using-air-conditioner 원인 간선 근거",
+      "priority": 20,
+      "note": "2026-11-10 energy-limiting-behavior 와는 이유(요금 대 찬 바람 싫음)가 달라 간선 없음으로 판단. 원인 간선은 '취약하지 않다고 여겨 에어컨을 안 켠다' 꼴 원문 필요. NIHR evidence ?p=50117 'do not see themselves as vulnerable to heat, and do not take action' 은 인과 표현 아님",
+      "createdAt": "2026-11-10T21:22:17.452Z",
+      "seq": 4507
+    },
+    {
+      "id": "9a75f07e",
+      "title": "faking-wealth 와 poverty-shame 원인 간선",
+      "priority": 20,
+      "note": "2026-11-07 재탐색. thefinancialdiet.com/?p=2717 (2015-04-03), brunch @nusik/48 (2026-09-21). 2026-11-10: Plantinga (Tilburg) 연구는 상관에서만 재정 수치심과 지위 관심이 이어지고 실험에서는 효과 없음(tilburguniversity.edu press-release-shame-poverty-plantinga-emotion-psychology). 인과 근거로 쓰기 어려움",
+      "createdAt": "2026-11-10T21:24:59.826Z",
+      "seq": 4512
     },
     {
       "id": "a3f422fc",
