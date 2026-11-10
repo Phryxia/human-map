@@ -827,15 +827,15 @@
   },
   "https://ko.wikisource.org/wiki/%EB%A9%94%EB%B0%80%EA%BD%83_%ED%95%84_%EB%AC%B4%EB%A0%B5": {
     "first": "2026-10-17",
-    "last": "2026-10-30",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-10"
   },
   "https://www.livescience.com/8530-older-people-repeat-stories.html": {
     "first": "2026-10-17",
-    "last": "2026-10-30",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-10"
   },
   "https://news.seoul.go.kr/gov/archives/540969": {
     "first": "2026-10-17",
@@ -13649,15 +13649,15 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/20718537/": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
-    "result": "VERIFIED",
+    "last": "2026-11-10",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-30"
   },
   "https://pann.nate.com/talk/371783982": {
     "first": "2026-10-30",
-    "last": "2026-10-30",
+    "last": "2026-11-10",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-10"
   },
   "https://www.todaysgeriatricmedicine.com/archive/010508pd.shtml": {
     "first": "2026-10-30",
@@ -23674,6 +23674,12 @@
     "lastVerified": "2026-11-10"
   },
   "https://www.franchising.com/articles/new_survey_explores_fastfood_preferences.html": {
+    "first": "2026-11-10",
+    "last": "2026-11-10",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-10"
+  },
+  "https://brunch.co.kr/@philanthr/14": {
     "first": "2026-11-10",
     "last": "2026-11-10",
     "result": "VERIFIED",

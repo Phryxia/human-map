@@ -14,6 +14,8 @@
 
 2024년 네이트 판 게시글[^4]의 글쓴이는 상대가 자기 관심사만 이야기하고 중고등학교 때 있었던 일을 또 하고 또 해서 지겹다고 썼다.
 
+2026년 4월 브런치 글[^5]의 필자는 나이 든 사람이 되풀이하는 이야기가 듣는 사람에게는 지루할 수 있지만 말하는 사람에게는 아직 끝나지 않은 이야기라고 적었다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [매체] "This over-confidence presumably causes older adults to repeat information to people." (이 지나친 확신 때문에 노인이 사람들에게 정보를 되풀이하는 것으로 추정된다.) — Live Science Staff, "Why Older People Repeat Stories", Live Science, 2010-08-31, https://www.livescience.com/8530-older-people-repeat-stories.html, 2026-10-17 접속
 [^3]: [학술] "Older adults are assumed to have poor destination memory-knowing to whom they tell particular information-and anecdotes about them repeating stories to the same people are cited as informal evidence" (노인은 목적지 기억, 곧 특정 정보를 누구에게 말했는지 아는 기억이 약하다고 여겨지며 그들이 같은 사람에게 같은 이야기를 되풀이한다는 일화가 그 비공식 근거로 인용된다) — Nigel Gopie, Fergus I. M. Craik, Lynn Hasher, "Destination memory impairment in older people", Psychology and Aging 25(4), 2010-12, https://pubmed.ncbi.nlm.nih.gov/20718537/, 2026-10-30 접속
 [^4]: [SNS] "자기관심사만이야기하고 중딩고딩때있었던인 또하고또하는사람이거든요. 말도재밌게못해요.지겨워요" — 네이트 판 게시글, 2024-01-07, https://pann.nate.com/talk/371783982, 2026-10-30 접속
+[^5]: [매체] "듣는 사람은 지루하고 반복적으로 느껴질 수 있지만, 정작 말하는 사람에게는 그 이야기가 아직 끝나지 않은 상태입니다." — 「나이, 어떻게 들어야 할까?」, 브런치, 2026-04-08, https://brunch.co.kr/@philanthr/14, 2026-11-10 접속
