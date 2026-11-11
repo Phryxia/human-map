@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T15:35:56.728Z",
-  "nextSeq": 4610,
-  "stops": 242,
+  "savedAt": "2026-11-11T18:32:21.104Z",
+  "nextSeq": 4614,
+  "stops": 243,
   "items": [
+    {
+      "id": "fe17706c",
+      "title": "rehearsing-what-to-say 와 choking-up-mid-speech 관계",
+      "priority": 50,
+      "note": "2026-11-11 Straight Dope 439640 (2008) 추도사를 미리 소리 내 읽어 실제로 목이 덜 메었다. 원인 또는 대립 근거 후보",
+      "createdAt": "2026-11-11T18:18:13.521Z",
+      "seq": 4612
+    },
     {
       "id": "913deaf8",
       "title": "ignoring-dashboard-warning-lights 보강: HTML 공공 파편",
@@ -2683,6 +2691,14 @@
       "note": "2026-11-11 overloading-power-strips, sleeping-with-heater-on, charging-devices-on-bed, leaving-appliances-running-unattended, leaving-candles-unattended, leaving-hair-straighteners-on, charging-e-bikes-indoors, drying-laundry-on-heaters, leaving-cooking-unattended 의 공통 상위 후보. homebuilding.co.uk 2025-09-17 'drift off before putting out candles, switching off stoves, or safely storing heaters' 가 여럿을 묶음",
       "createdAt": "2026-11-11T06:37:07.959Z",
       "seq": 4576
+    },
+    {
+      "id": "bba6b03b",
+      "title": "glancing-at-others-screens 와 peeking-at-others-shopping-carts 공통 상위",
+      "priority": 10,
+      "note": "2026-11-11 둘 다 낯선 사람의 물건을 호기심으로 넘겨다봄. Mörsdorf 2025 ECIS 지루함과 호기심 동기",
+      "createdAt": "2026-11-11T18:31:39.389Z",
+      "seq": 4613
     },
     {
       "id": "02b2f242",
