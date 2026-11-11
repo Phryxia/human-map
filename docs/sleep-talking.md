@@ -14,7 +14,7 @@
 
 2013년 8월 게시판 게시글[^3]의 글쓴이는 새벽에 아내가 잠결에 한 말을 듣고 아침에 물었으나 아내는 아무것도 기억하지 못했다고 적었다. 2017년 Ideal Home 기사[^4]가 전한 영국 침대 회사의 설문에서 응답자의 55%는 함께 자는 사람의 잠꼬대에 잠이 깬 적이 있었다.
 
-2022년 연구[^5]는 잠꼬대를 잠자는 동안 본인이 알아채지 못하는 말소리를 내는 일로 적었다.
+2022년 연구[^5]는 잠꼬대를 잠자는 동안 본인이 알아채지 못하는 말소리를 내는 일로 적었다. 2026년 디시인사이드 게시글[^6]의 글쓴이는 쉬는 시간에 보안실에서 자고 일어나니 선배들이 잠꼬대를 심하게 했다고 알려 주었다고 적었다.
 
 # 관계
 
@@ -45,3 +45,4 @@
 [^3]: [SNS] "I just went back to sleep and asked her about it this morning. Of course she doesn’t remember a thing." (나는 그냥 다시 잠들었고 오늘 아침 아내에게 그 일을 물었다. 물론 아내는 아무것도 기억하지 못한다.) — Straight Dope Message Board 게시글, 2013-08-12, https://boards.straightdope.com/t/share-your-funny-sleep-talking-stories/665986/18, 2026-11-11 접속
 [^4]: [매체] "over half of us (55%) have been woken by our partner sleep talking" (우리 가운데 절반 넘게(55%)가 파트너의 잠꼬대에 잠이 깬 적이 있다) — Caroline Keenan, "Sleep talkin' Brits: new survey reveals what happens once the lights go out", Ideal Home, 2017-02-21, https://idealhome.co.uk/news/new-survey-reveals-our-strange-nocturnal-habits-42023, 2026-11-11 접속
 [^5]: [학술] "Sleep talking (ST) is characterized by the production of unaware verbal vocal activations (VBs) during sleep." (잠꼬대(ST)는 잠자는 동안 알아채지 못한 채 말소리를 내는 것이 특징이다.) — Milena Camaioni 외, "The Influence of Sleep Talking on Nocturnal Sleep and Sleep-Dependent Cognitive Processes", Journal of Clinical Medicine 11(21), 2022-11-01, https://pmc.ncbi.nlm.nih.gov/articles/PMC9658338/, 2026-11-11 접속
+[^6]: [SNS] "나 쉬는타임에 보안실에서 자고 일어나니까 선배들이 나보고 잠꼬대 ㅈㄴ했다고함 자꾸 휴게실에서 이상한 소리가 막 들린다고" — 디시인사이드 게시글, 2026-02-07, https://m.dcinside.com/board/projectmx/17562114, 2026-11-11 접속
