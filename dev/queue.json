@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T18:32:21.104Z",
-  "nextSeq": 4614,
-  "stops": 243,
+  "savedAt": "2026-11-11T21:35:40.742Z",
+  "nextSeq": 4630,
+  "stops": 244,
   "items": [
-    {
-      "id": "fe17706c",
-      "title": "rehearsing-what-to-say 와 choking-up-mid-speech 관계",
-      "priority": 50,
-      "note": "2026-11-11 Straight Dope 439640 (2008) 추도사를 미리 소리 내 읽어 실제로 목이 덜 메었다. 원인 또는 대립 근거 후보",
-      "createdAt": "2026-11-11T18:18:13.521Z",
-      "seq": 4612
-    },
-    {
-      "id": "913deaf8",
-      "title": "ignoring-dashboard-warning-lights 보강: HTML 공공 파편",
-      "priority": 40,
-      "note": "2026-11-09 NHTSA 813617 은 PDF 라 source-check 가 늘 UNREACHABLE. rosap 80057 은 403. tiresandparts 2017-07-25 매체로 더함. 남은 후보: clien park/19232012 (2026-07-21) 공기압 경고등 그대로 탐. ignoring-vehicle-recalls 와 공통 상위 후보",
-      "createdAt": "2026-11-09T15:22:37.833Z",
-      "seq": 4314
-    },
-    {
-      "id": "de9af177",
-      "title": "rereading-old-letters 보강: SNS 파편, 공통 상위 옛 기록 다시 보기",
-      "priority": 40,
-      "note": "2026-11-09 HN Algolia(reread letters, old letters reread) 와 한국어 커뮤니티 검색에서 본인이 옛 편지를 다시 읽는 글 못 찾음. daum 카페 yeyeduk/9sQ1/914 는 감성글 후보(공개 여부 미확인). looking-at-old-photos, rereading-old-diaries 와 공통 상위 후보. 브런치 maumcollage/658",
-      "createdAt": "2026-11-09T15:23:17.627Z",
-      "seq": 4315
-    },
-    {
-      "id": "b8a742a4",
-      "title": "stepping-aside-for-oncoming-pedestrians 보강: 지위·굴욕감",
-      "priority": 40,
-      "note": "2026-11-09 Olivier 2013 hal-00821854v1 (길을 내주는 쪽의 역할) 더함. 남은 후보: Bourgaize 2024 hal-04681163v1 가상 보행자가 노인처럼 보이면 간격 큼. Dabbs & Stokes 1975 HTML 초록 없음",
-      "createdAt": "2026-11-09T15:24:20.904Z",
-      "seq": 4316
-    },
-    {
-      "id": "e7e2513b",
-      "title": "skipping-follow-up-after-abnormal-screening 보강: SNS 파편",
-      "priority": 40,
-      "note": "2026-11-09 82cook(호스트가 프록시에서 막힘) 162632·102377 열리지 않음, HN Algolia(never followed up biopsy 등) 본인 글 없음. 후보 PMC8834256 (2022) head-in-the-sand, cancer.gov 2022-05-05",
-      "createdAt": "2026-11-09T15:26:22.776Z",
-      "seq": 4318
-    },
-    {
-      "id": "27cdd2a3",
-      "title": "counting-steps-and-stairs 보강: 학술 파편, 한국어 파편",
-      "priority": 40,
-      "note": "2026-11-09 한국어 검색(계단 수를 세는 습관) 건강 기사뿐. 이전: PMC12999046 'Compulsive tic‐like behaviors such as touching, counting the steps' 진단 맥락 학술 후보",
-      "createdAt": "2026-11-09T15:26:46.411Z",
-      "seq": 4319
-    },
-    {
-      "id": "5b584da7",
-      "title": "setting-clocks-fast 보강: 학술·공공 파편",
-      "priority": 40,
-      "note": "2026-11-09 webmd help-chronically-late 1~4쪽에 시계 대목 없음(2005-06-22). 남은 후보: Yahoo '4 Tiny Changes Finally Made Me Quit Being Late'. 특허 US6411568·Houghton 학위논문은 PDF",
-      "createdAt": "2026-11-09T15:27:08.106Z",
-      "seq": 4320
-    },
-    {
-      "id": "5e121f6c",
-      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편",
-      "priority": 40,
-      "note": "2026-11-09 좌석에 가방 두기를 잰 학술 원문 검색 결과 없음(Kim 2012 보도뿐: time.com healthland 65338, travelerstoday 2638). 후보: yalealumnimagazine 3581 (매체)",
-      "createdAt": "2026-11-09T15:27:22.975Z",
-      "seq": 4321
-    },
-    {
-      "id": "d66c842e",
-      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
-      "priority": 40,
-      "note": "2026-11-09 한국경제 202504278937i (2025-04-28) 를 [^7] 과 별칭 사후 과잉 확신 편향 근거로 씀. 한국어 SNS 는 네 회차째 미발견",
-      "createdAt": "2026-11-09T15:34:35.898Z",
-      "seq": 4324
-    },
     {
       "id": "bd942372",
       "title": "news-avoidance 보강: 공공 파편, 원인 간선",
@@ -315,6 +243,38 @@
       "note": "2026-11-09 SNS 는 straightdope 511582 (2009-09-25) 로 더함. 2008 이전 공공 후보: USFA 2007\\~2008 보도자료(webarchive.library.unt.edu) TLS 오류. 2026-11-11 CPSC 주거 화재 손실 추정과 NIST TN 2191 (2021) 은 PDF 뿐",
       "createdAt": "2026-11-11T15:35:45.407Z",
       "seq": 4609
+    },
+    {
+      "id": "7c935491",
+      "title": "stepping-aside-for-oncoming-pedestrians 보강: 지위·굴욕감",
+      "priority": 40,
+      "note": "2026-11-11 Bourgaize 2024 hal-04681163v1 (노인 외모에 간격 큼) 더함. 지위 차이에서 비키는 쪽의 굴욕감을 말하는 파편은 아직 없음. Dabbs & Stokes 1975 HTML 초록 없음",
+      "createdAt": "2026-11-11T21:17:02.930Z",
+      "seq": 4624
+    },
+    {
+      "id": "f101437f",
+      "title": "setting-clocks-fast 보강: 학술·공공 파편",
+      "priority": 40,
+      "note": "2026-11-11 cheaptalk 2010 (매체) 더함. 특허 US5051967 (1991, 출원인 미발표 조사로 시계를 빠르게 맞추는 사람 상당수) 은 patents.google 이 봇 차단, justia 403. Mele 1997 Real self-deception (BBS) 손목시계 예는 HTML 판 없음",
+      "createdAt": "2026-11-11T21:32:36.116Z",
+      "seq": 4626
+    },
+    {
+      "id": "1cbeda2f",
+      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-11 PMC·MDPI·Frontiers 에서 버스·지하철 가방 두기 학술 HTML 없음. Kim 2012 symb.21 은 wiley 봇 확인, Griffiths & Gilly Dibs! 는 SAGE 403. Rüger 2026 traffic2.fpz.hr 3091 은 짐칸 부족으로 좌석이 막힌다는 말이라 현상과 다름",
+      "createdAt": "2026-11-11T21:35:20.287Z",
+      "seq": 4627
+    },
+    {
+      "id": "847a88f4",
+      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
+      "priority": 40,
+      "note": "2026-11-09 한국경제 202504278937i (2025-04-28) 를 [^7] 과 별칭 사후 과잉 확신 편향 근거로 씀. 한국어 SNS 는 네 회차째 미발견. 2026-11-11 bereavement-regret, regret-aversion 문서에 간선 근거가 될 사후 과잉 확신 대목 없음",
+      "createdAt": "2026-11-11T21:35:31.781Z",
+      "seq": 4629
     },
     {
       "id": "022dfb2f",
@@ -2699,6 +2659,38 @@
       "note": "2026-11-11 둘 다 낯선 사람의 물건을 호기심으로 넘겨다봄. Mörsdorf 2025 ECIS 지루함과 호기심 동기",
       "createdAt": "2026-11-11T18:31:39.389Z",
       "seq": 4613
+    },
+    {
+      "id": "18f0bc44",
+      "title": "ignoring-dashboard-warning-lights 와 ignoring-vehicle-recalls 공통 상위",
+      "priority": 10,
+      "note": "2026-11-11 두 문서 모두 차의 경고·안전 알림을 받고 조치를 미루는 현상. 공통 상위 후보(차량 안전 경고 미루기)",
+      "createdAt": "2026-11-11T21:13:24.579Z",
+      "seq": 4622
+    },
+    {
+      "id": "e00acf4b",
+      "title": "looking-at-old-photos, rereading-old-diaries, rereading-old-letters 공통 상위: 옛 기록 다시 보기",
+      "priority": 10,
+      "note": "2026-11-11 rereading-old-letters 보강 때 남은 일. Straight Dope 307403/5 (2005) 다시 읽어도 감정이 거의 일지 않음, 397032/33 (2007) 이별의 아픔이 떠올라 버림. 대립 면 후보",
+      "createdAt": "2026-11-11T21:16:18.204Z",
+      "seq": 4623
+    },
+    {
+      "id": "56b17269",
+      "title": "counting-steps-and-stairs 와 avoiding-pavement-cracks 공통 상위",
+      "priority": 10,
+      "note": "2026-11-11 Brigo 2026 PMC13519271 이 Gelli 대화편의 타일 이음매 피하기와 마룻널 세기를 한 덩어리 의식 행동으로 다룬다. 공통 상위 후보(일상의 작은 의식 행동)",
+      "createdAt": "2026-11-11T21:27:06.410Z",
+      "seq": 4625
+    },
+    {
+      "id": "a20c790b",
+      "title": "소지품으로 자리 맡기",
+      "priority": 10,
+      "note": "2026-11-11 Shoham, Shemer-Shalman IASL 2005 journals.library.ualberta.ca iasl/article/view/7996: 학교 도서관에서 학생이 소지품으로 개인 영역을 표시. blocking-adjacent-seat-with-bag 의 상위 후보",
+      "createdAt": "2026-11-11T21:35:20.398Z",
+      "seq": 4628
     },
     {
       "id": "02b2f242",
