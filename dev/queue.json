@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-10T21:30:42.828Z",
-  "nextSeq": 4523,
-  "stops": 236,
+  "savedAt": "2026-11-11T00:40:26.866Z",
+  "nextSeq": 4531,
+  "stops": 237,
   "items": [
+    {
+      "id": "f45e57b5",
+      "title": "public-speaking-anxiety 와 anticipatory-social-anxiety, fear-of-negative-evaluation 관계",
+      "priority": 50,
+      "note": "2026-11-11 Behnke 1999 EJ581444 는 발표 직전 예기불안 정점만 말함. 인과 근거 필요. 후보: Bippus & Daly 1999 EJ579169 stage fright 원인 귀인 9가지, Stein 1996 PMID 8629892 (pubmed 쿠키 페이지)",
+      "createdAt": "2026-11-11T00:18:48.140Z",
+      "seq": 4527
+    },
+    {
+      "id": "6fe3221b",
+      "title": "public-speaking-anxiety 보강: 한국어 파편, 외운 말 잊기",
+      "priority": 50,
+      "note": "2026-11-11 Roughing It 3177 첫 강연 'quaking in every limb' 는 작가 자신 회고. Jo's Boys 3499 'going to have stage fright for the first time'. 한국어 SNS, 공공 없음",
+      "createdAt": "2026-11-11T00:18:48.245Z",
+      "seq": 4528
+    },
+    {
+      "id": "2ff7f7b1",
+      "title": "regretting-a-new-haircut 와 saying-food-is-fine 관계, 상위 후보",
+      "priority": 50,
+      "note": "2026-11-11 Stylist 2024 869557 와 디시 cs_new1/6834215 는 마음에 안 드는 결과에도 괜찮다고 답함. 인과 문장 근거 필요. 후보: Lee & Kim 2020 s40691-019-0191-3 no action 불평 차원",
+      "createdAt": "2026-11-11T00:24:25.997Z",
+      "seq": 4529
+    },
+    {
+      "id": "57a658c5",
+      "title": "cramming 보강: SNS 파편, 1897 Harvard Episodes",
+      "priority": 50,
+      "note": "2026-11-11 후보: Flandrau Harvard Episodes 1897 gutenberg 70671 'had done this sort of thing before every midyear and final examination period', HN 10268374 (2015) 문장이 214자라 못 씀, Romano 2005 EJ803737 last minute cramming",
+      "createdAt": "2026-11-11T00:28:47.543Z",
+      "seq": 4530
+    },
     {
       "id": "8d46f9fe",
       "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편",
