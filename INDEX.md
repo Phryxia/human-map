@@ -641,6 +641,7 @@
 - [추억이 담긴 물건 간직하기](docs/keeping-keepsakes.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [추운 아침 이불 속에 머물기](docs/lingering-in-bed-on-cold-mornings.md) ([시간과 하루 습관](groups/daily-time.md))
 - [축의금 액수 저울질](docs/weighing-gift-money.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [출산 앞둔 둥지 짓기](docs/nesting-instinct.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [출입 금지된 샛길 산행](docs/hiking-closed-trails.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [충동구매](docs/impulse-buying.md) ([돈과 소비](groups/money.md))
 - [층간소음 보복](docs/neighbor-noise-retaliation.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
