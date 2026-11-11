@@ -16328,27 +16328,27 @@
   },
   "https://koreascience.or.kr/article/JAKO200331462790769.page?lang=ko": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://pubmed.ncbi.nlm.nih.gov/27310983/": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://m.go.seoul.co.kr/news/2016/07/29/20160729014015": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://www.korea.kr/briefing/policyBriefingView.do?newsId=148881652": {
     "first": "2026-11-01",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://m.seoul.co.kr/news/plan/2006/08/01/20060801013004": {
     "first": "2026-11-01",
@@ -21518,9 +21518,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7168865/": {
     "first": "2026-11-07",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://v.daum.net/v/20250812194651553": {
     "first": "2026-11-07",
@@ -25156,6 +25156,12 @@
     "lastVerified": "2026-11-11"
   },
   "https://hal.science/hal-04681163v1": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://community.breastcancer.org/en/discussion/comment/3404543": {
     "first": "2026-11-11",
     "last": "2026-11-11",
     "result": "VERIFIED",
