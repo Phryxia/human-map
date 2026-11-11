@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T12:40:41.252Z",
-  "nextSeq": 4596,
-  "stops": 241,
+  "savedAt": "2026-11-11T15:35:56.728Z",
+  "nextSeq": 4610,
+  "stops": 242,
   "items": [
-    {
-      "id": "0490ed99",
-      "title": "nesting-instinct 보강: 한국어, 문학 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-11 SNS 2003·2018 Straight Dope 더함. 한국어 클리앙 검색(막달 청소, 둥지본능) 해당 없음. ScienceDaily 2013-09-17 130916090426 예비. rearranging-furniture, spring-cleaning 과 관계 후보",
-      "createdAt": "2026-11-11T12:37:13.961Z",
-      "seq": 4595
-    },
-    {
-      "id": "919a316b",
-      "title": "anticipatory-grief 보강: no-tears-at-funeral 결과 간선, relief-after-caregiving-death 관계",
-      "priority": 40,
-      "note": "2026-11-09 Gilliland 1998 europepmc 10342940 더함. mumsnet 796797 은 봇 확인 페이지라 못 씀. Lindemann 1944 원문 후보",
-      "createdAt": "2026-11-09T03:16:41.779Z",
-      "seq": 4252
-    },
-    {
-      "id": "461df973",
-      "title": "fear-of-dying-alone 관계: loneliness, 결과",
-      "priority": 40,
-      "note": "2026-11-09 보배드림 freeb/3435162 SNS 파편 더함. 남은 후보: Yahoo UK 전재 Guardian 2024-07-01 lonely-deaths 87세 'worried about dying alone', PMC7551571 혼자 자는 밤에 불안. loneliness 와 원인 간선 근거 파편 필요",
-      "createdAt": "2026-11-09T06:32:23.460Z",
-      "seq": 4270
-    },
-    {
-      "id": "66296a94",
-      "title": "lying-around-instead-of-planned-leisure 와 guilt-about-resting 원인 간선",
-      "priority": 40,
-      "note": "2026-11-09 SNS 파편 straightdope 499234/19 (2009) 더함. 죄책감 인과 SNS 대목 못 찾음. 후보: overclockers 18837593 (2018-11-19) 유튜브 보며 시간 낭비 느낌, pann 374192269 (2025-03-30) 누워 유튜브 보다 답답함, straightdope 577197 (2011-04-04) 소파에 누워 DVD 보면 부끄러울 것(가정). Reinecke 2014 guilty couch potato 본문 필요",
-      "createdAt": "2026-11-09T09:11:34.831Z",
-      "seq": 4279
-    },
-    {
-      "id": "fdb3259c",
-      "title": "self-blame-after-fraud 와 complying-with-impersonation-calls 원인 간선",
-      "priority": 40,
-      "note": "2026-11-09 msnbc 2008 할머니 사기 '바보 같은 기분' 파편 더함(사칭 전화를 따른 일과 자책의 인과 문장 아님). 후보: ljworld 2006-04-24 financial_abuse_elderly_grows 경품 전화 사기 뒤 'I'm so embarrassed. It was so stupid'(사칭 아님), asiatoday 20261109010003325 금감원 자책 때문에 피해 사실 말 못함, cbc 2024-03-13 grandparent scam too embarrassed to come forward",
-      "createdAt": "2026-11-09T09:29:36.322Z",
-      "seq": 4281
-    },
-    {
-      "id": "10b7f18b",
-      "title": "hesitating-to-use-maternity-seats 와 not-yielding-maternity-seats 원인 간선",
-      "priority": 40,
-      "note": "2026-11-09 정책브리핑 2013 reporterView 148771140 시선 때문에 민망 파편 더함. 공공기관 HTML 에 인과 대목 없음. 후보: korea.kr reporterView 148707988 (2011-03-15) 배려석에 앉은 승객에게 아무 말 못함(실명 인터뷰 간접 인용이라 보류), mohw list_no 351117 (2019-10-10) 배려받지 못한 이유 배가 나오지 않아서 57.1%, 인구보건복지협회 2023\\~2025 조사는 PDF 뿐",
-      "createdAt": "2026-11-09T09:37:40.600Z",
-      "seq": 4282
-    },
-    {
-      "id": "996735b4",
-      "title": "leaving-cooking-unattended 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-09 Gutenberg 전문 grep(forgot/reading 과 burnt/scorched 가 한 문장): Story Girl 5342, Anne of Avonlea 47, Anne of the Island 51, House of Dreams 544, Rilla 3796, Rebecca 498, Cranford 394, Grimm 2591, Blithedale 2081 해당 없음. Child's History of England 699 의 Alfred 케이크 대목은 실존 인물 일화라 제외. 이전: Railway Children 1874, Little Women 514(4개 문서), Anne of Green Gables 45(4개 문서)",
-      "createdAt": "2026-11-09T15:13:23.653Z",
-      "seq": 4309
-    },
-    {
-      "id": "54a7bc21",
-      "title": "seat-belt-nonuse 보강: 사고 안 낸다는 믿음",
-      "priority": 40,
-      "note": "2026-11-09 segye 20140404003768 버스 기사 답답함, 별칭 Non-Use of Seat Belts 더함. 남은 후보: clien park/12446711 갑갑해서 안 맴(1980~90년대 회고). 사고가 나지 않으리라는 믿음을 이유로 든 설문 원문 없음. PMC7650188 Kuwait 2020 은 봇 확인 페이지",
-      "createdAt": "2026-11-09T15:16:08.560Z",
-      "seq": 4311
-    },
-    {
-      "id": "72bcefe7",
-      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
-      "priority": 40,
-      "note": "2026-11-09 SNS 는 straightdope 511582 (2009-09-25) 로 더함. 2008 이전 공공 후보: USFA 2007\\~2008 보도자료(webarchive.library.unt.edu) TLS 오류",
-      "createdAt": "2026-11-09T15:18:03.828Z",
-      "seq": 4312
-    },
     {
       "id": "913deaf8",
       "title": "ignoring-dashboard-warning-lights 보강: HTML 공공 파편",
@@ -347,6 +275,38 @@
       "note": "2026-11-09 Lasry 1992 europepmc 1544117 더함. Perndorfer 2018 은 예측이라 간선 근거 약함. 2026-11-11 SNS 못 찾음: HN 43027887·48128460 은 가족, 47018946 'Scanxiety is real' 은 암 경험자 여부 불명, clien park/17942527 은 제3자 설명, use/15936447 은 진단 직후. 다음 검색어: 클리앙 '완치 판정 재발' '추적검사 날', HN 'I'm in remission'",
       "createdAt": "2026-11-11T12:33:24.014Z",
       "seq": 4594
+    },
+    {
+      "id": "37ef660a",
+      "title": "nesting-instinct 보강: 문학 파편, 관계",
+      "priority": 40,
+      "note": "2026-11-11 한국어 brunch chestnutrhee/62, sciencetimes 256483 더함. 문학 후보: Gutenberg 160 The Awakening 의 night-drawers 바느질(임신 서술은 다른 문장), 4276 North and South 의 Edith's expected baby 옷 수놓기(본인 아님), 1399 Anna Karenina 는 이미 4개 문서. Gaskell Ruth 4275 아기 옷 문장은 341자. 82cook entiz num=1228 (2004) 예정일 지나 대청소 댓글 예비",
+      "createdAt": "2026-11-11T15:12:15.138Z",
+      "seq": 4603
+    },
+    {
+      "id": "2b630a9f",
+      "title": "anticipatory-grief 보강: 한국어 파편",
+      "priority": 40,
+      "note": "2026-11-11 PMC6773340 (2019) 로 relief-after-caregiving-death 원인 간선 그음. 예비 후보: healthdirect.gov.au understanding-anticipatory-grief (2024-03 검토) 슬픔을 미리 처리해 죽은 뒤 안도, eap.wa.gov/node/115 죽음을 오래 예상하면 안도, whatsyourgrief ?p=7517 2016-05-04 댓글 이미 애도해서 안도. Lindemann 1944 원문 후보",
+      "createdAt": "2026-11-11T15:18:32.175Z",
+      "seq": 4604
+    },
+    {
+      "id": "480c8c81",
+      "title": "leaving-cooking-unattended 보강: 문학 파편",
+      "priority": 40,
+      "note": "2026-11-11 시간 부족으로 손대지 않음. 이전 note: Gutenberg 5342 47 51 544 3796 498 394 2591 2081 해당 없음, 699 Alfred 케이크는 실존 인물 일화라 제외",
+      "createdAt": "2026-11-11T15:35:32.653Z",
+      "seq": 4608
+    },
+    {
+      "id": "40ebb687",
+      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
+      "priority": 40,
+      "note": "2026-11-09 SNS 는 straightdope 511582 (2009-09-25) 로 더함. 2008 이전 공공 후보: USFA 2007\\~2008 보도자료(webarchive.library.unt.edu) TLS 오류. 2026-11-11 CPSC 주거 화재 손실 추정과 NIST TN 2191 (2021) 은 PDF 뿐",
+      "createdAt": "2026-11-11T15:35:45.407Z",
+      "seq": 4609
     },
     {
       "id": "022dfb2f",
@@ -1179,6 +1139,30 @@
       "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 못 찾음. 2026-11-08 Secret Agent 974, 蛋白石 15950, Pepys 4200, Ulysses 4300 등 31종도 없음. 2026-11-11 pepysdiary 1667-11-29(밤 소리에 문 열어 봄), 1666-07-07(소동) 도 확인 뒤 재확인 아님. Ulysses 'couldnt rest easy till I bolted all the doors' 근접",
       "createdAt": "2026-11-11T09:33:35.530Z",
       "seq": 4585
+    },
+    {
+      "id": "482f3e68",
+      "title": "fear-of-dying-alone 관계: loneliness, 결과",
+      "priority": 30,
+      "note": "2026-11-11 인과 문장 탐색 실패. 확인한 것: straightdope 830892 (2019-03-10) 첫 글 lonely people bummed out by prospect of dying alone(인과 아님, 연관), Voice of London westminster 2018-12-01 British Red Cross 외로운 성인 절반 넘게 아무도 모를까 두려움(죽음 언급 없음), PMC5990949 실존적 외로움 fear of dying alone 225자 초과, HuffPost UK 2018-11-26 두 문장 200자 초과, Guardian 2024-07-01 외로움 인과 없음. 한국어·일본어 HTML 해당 없음",
+      "createdAt": "2026-11-11T15:27:30.073Z",
+      "seq": 4605
+    },
+    {
+      "id": "0edefb85",
+      "title": "self-blame-after-fraud 와 complying-with-impersonation-calls 원인 간선",
+      "priority": 30,
+      "note": "2026-11-11 후보 더함: 중앙일보 다음 전재 v.daum.net/v/kSx1T9YTSf (목소리 사기 7000억 시대 ⑤, 2020년대) '보이스피싱 피해자들은 허무하게 당한 뒤 심한 자책감에 빠지게 된다'(당한 뒤라는 순서, 사칭 전화를 따른 일과의 인과 문장은 아님, 발행일 확인 필요). kbthink voice-phishing-cases 자책 말고 신고 안내뿐. 이전: msnbc 2008, ljworld 2006-04-24, asiatoday 20261109010003325, cbc 2024-03-13",
+      "createdAt": "2026-11-11T15:29:22.970Z",
+      "seq": 4606
+    },
+    {
+      "id": "bca4356f",
+      "title": "hesitating-to-use-maternity-seats 와 not-yielding-maternity-seats 원인 간선",
+      "priority": 30,
+      "note": "2026-11-11 brunch ojen1128/348 (2024-06-11) 자는 사람 깨워 양보 부탁 어려워 서서 감 파편 더함(비켜 주지 않음과의 인과 아님). 후보: seoul.co.kr 2026/04/23 20260423500135 배려석 괴롭힘, twig24 2026-06-12 양보 부탁 거부, supple.kr cml08bbp000fa4a7gqbwxy12n 욕설, 인구보건복지협회 2025 자리를 지켜주지 않아서 90.3%(PDF 여부 확인)",
+      "createdAt": "2026-11-11T15:30:50.754Z",
+      "seq": 4607
     },
     {
       "id": "9634edf0",
