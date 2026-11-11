@@ -39,6 +39,7 @@
 
 - [사회적 상황 앞의 예기불안](anticipatory-social-anxiety.md)[^4]
 - [생각 때문에 잠 못 이루기](lying-awake-thinking.md)[^6]
+- [발표 불안](public-speaking-anxiety.md)[^3]
 
 ## 대립
 

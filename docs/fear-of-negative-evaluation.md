@@ -40,6 +40,7 @@
 - [수줍은 방광](shy-bladder.md)
 - [거절하지 못하기](difficulty-saying-no.md)
 - [의사에게 증상과 습관 줄여 말하기](withholding-information-from-doctors.md)
+- [발표 불안](public-speaking-anxiety.md)[^3]
 
 ## 대립
 
