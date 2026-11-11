@@ -1,97 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T06:39:25.395Z",
-  "nextSeq": 4577,
-  "stops": 239,
+  "savedAt": "2026-11-11T09:42:19.825Z",
+  "nextSeq": 4587,
+  "stops": 240,
   "items": [
-    {
-      "id": "df0b78b3",
-      "title": "charging-devices-on-bed 보강: SNS, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-11 매체 3, 공공 2 로 씀. 후보: ddfire.gov.uk charging-habits-and-household-routines 'Lots of people charge their phones overnight'(발행일 표기 없음, 2026-02 추정), korea.kr 148931754 소방청 2024-07-23 수칙. 학술과 1인칭 SNS 글 못 찾음",
-      "createdAt": "2026-11-11T06:22:32.113Z",
-      "seq": 4569
-    },
-    {
-      "id": "9f8ad7ee",
-      "title": "sleeping-with-heater-on 보강: 학술 설문",
-      "priority": 50,
-      "note": "2026-11-11 Electrical Safety First 2014·2021 보도자료의 히터 밤새 켜 둠 21%, 10.68% 는 404. 클리앙 park/13014466 (2019-01-04) 전기장판 켜고 자면 아침 두통 후보. 학술은 증례 PMC9720553 뿐",
-      "createdAt": "2026-11-11T06:22:32.243Z",
-      "seq": 4570
-    },
-    {
-      "id": "b436c605",
-      "title": "leaving-appliances-running-unattended 보강: 공공 파편, 학술",
-      "priority": 50,
-      "note": "2026-11-11 후보: ddfire.gov.uk charging-habits 'leave their tumble dryer running when they go to bed'(발행일 표기 없음), hantsfire 2025-02-06, northwalesfire.gov.wales 2026-07. whitegoodshelp ?p=12004 식기세척기 소음 때문에 밤에 돌림(같은 블로그라 못 씀)",
-      "createdAt": "2026-11-11T06:25:24.037Z",
-      "seq": 4571
-    },
-    {
-      "id": "83d293ab",
-      "title": "leaving-candles-unattended 보강: SNS, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-11 후보: Fire Engineering 2005 같은 조사 '81% 잠든 적 없음' 대목, warwickshire.gov.uk news 3476 (2022-10-24) 초를 장식으로 여김, wikitree 937152 (2024-03-22), fnnews 202610080722351499 원주 향초. SNS 1인칭 글 못 찾음(reddit 403)",
-      "createdAt": "2026-11-11T06:28:16.345Z",
-      "seq": 4572
-    },
-    {
-      "id": "6b370f8b",
-      "title": "leaving-hair-straighteners-on 보강: SNS 파편, rechecking-door-and-stove 관계",
-      "priority": 50,
-      "note": "2026-11-11 humbersidefire 2016 '절반 가까이 켜 두었을까 봐 당황' 과 getsurrey 2020 가 걱정을 말함. rechecking-door-and-stove 와 원인 간선 근거는 아직 없음. 후보: personneltoday 2010 '67% 켜 두었다 생각, 5명 중 1명 돌아가 확인 안 함' 대목, kyeonggi 20230318580001 무인 사진관 고데기. unpa.me 는 JS 렌더링",
-      "createdAt": "2026-11-11T06:32:02.665Z",
-      "seq": 4573
-    },
-    {
-      "id": "23038e14",
-      "title": "charging-e-bikes-indoors 보강: 한국 공공, SNS, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-11 후보: ESF 같은 조사 공용 복도·계단 충전 44%, c2smart.engineering.nyu.edu 배달 노동자 아파트 밤새 충전(날짜 불명), heraldk 2025100118400023341 서울소방 실내 충전 실험, London Fire Brigade 2023-03 chargesafe, thecity.nyc 2022-11-21. 도난 때문에 집 안 충전한다는 진술 미확보",
-      "createdAt": "2026-11-11T06:34:29.324Z",
-      "seq": 4574
-    },
-    {
-      "id": "feb9a923",
-      "title": "drying-laundry-on-heaters 보강: SNS, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-11 후보: kfsi 같은 페이지 퀴즈 '젖은 옷과 수건은 난로 근처에 두면 잘 마르고 안전하다', fia.uk.com 2022-11-23 생활비 위기 히터로 옷 말림, ESF 2022-11 보도자료. brighouseecho 화재 사례는 봇 확인 페이지",
-      "createdAt": "2026-11-11T06:36:56.895Z",
-      "seq": 4575
-    },
-    {
-      "id": "5cfda3f0",
-      "title": "rechecking-door-and-stove 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 못 찾음. 2026-11-08 Secret Agent 974, 蛋白石 15950, Pepys 4200, Ulysses 4300 등 31종 다시 봐도 확인 뒤 재확인 대목 없음. Ulysses 'couldnt rest easy till I bolted all the doors' 는 근접. 남은 곳: pepysdiary.com 1667-11-29, 1666-07-07",
-      "createdAt": "2026-11-08T21:37:17.933Z",
-      "seq": 4223
-    },
-    {
-      "id": "e458fdd5",
-      "title": "rainy-day-gloom 보강: 원인과 결과 간선",
-      "priority": 40,
-      "note": "2026-11-09 상위 weather-mood-reactivity 추가함. 매일신문 2007061416073780768 '축축 늘어지는 몸을 가누지 못해 침대 위를' 는 weather-mood-reactivity 가 씀. 경향 lady.khan 202509040912001 비 오는 날 무기력 후보",
-      "createdAt": "2026-11-09T03:08:34.771Z",
-      "seq": 4247
-    },
-    {
-      "id": "a4b8d8e3",
-      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
-      "priority": 40,
-      "note": "2026-11-09 1950 野村胡堂, 2026 brunch 3rRd/27 더함. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 의 蚊帳 대목은 ruby 때문에 source-check 원문에 （かや）가 끼어 쓰지 못함",
-      "createdAt": "2026-11-09T03:10:03.849Z",
-      "seq": 4248
-    },
-    {
-      "id": "8964c5db",
-      "title": "fear-of-needles 보강: medical-care-avoidance 결과 간선",
-      "priority": 40,
-      "note": "2026-11-09 avoiding-blood-donation 결과 간선 더함(dovepress JBM 2016). 진료 회피 인과 출처 아직 없음, racgp 2009 는 associated 라 근거 약함",
-      "createdAt": "2026-11-09T03:11:30.454Z",
-      "seq": 4249
-    },
     {
       "id": "66caac59",
       "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, SNS 파편",
@@ -403,6 +315,38 @@
       "note": "2026-11-08 Tufts 2012 매체, OSU 2022 공공 더함. 2000년 이전 문학·매체 못 찾음. UF 소동물병원 Coping with Guilt 는 TLS 오류, MSU CVM 은 Incapsula",
       "createdAt": "2026-11-11T03:24:23.906Z",
       "seq": 4555
+    },
+    {
+      "id": "5e8d8fa7",
+      "title": "leaving-hair-straighteners-on 보강: rechecking-door-and-stove 관계",
+      "priority": 40,
+      "note": "2026-11-11 SNS 파편 2개 더함. 원인 간선 근거 없음. 후보: daangn 2023-02-16 '집에 고데기 안끄고 나온 거 같은데 어떡하죠', singletrackworld 2023-08-24 3인칭",
+      "createdAt": "2026-11-11T09:25:23.146Z",
+      "seq": 4582
+    },
+    {
+      "id": "133ac448",
+      "title": "charging-e-bikes-indoors 보강: 한국 공공 파편",
+      "priority": 40,
+      "note": "2026-11-11 학술 PMC11010761, SNS 2개 더함. 후보: heraldk 2025100118400023341 서울소방 실내 충전 실험, PMC13724771 (2026-08-27) 전동킥보드 화재 사망 3건 모두 집에서 충전 중",
+      "createdAt": "2026-11-11T09:29:32.548Z",
+      "seq": 4583
+    },
+    {
+      "id": "fdb86e7e",
+      "title": "drying-laundry-on-heaters 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-11 SNS 2개 더함. Glasgow PID 연구(strathprints 48329, radar.gsa.ac.uk 2765)는 라디에이터를 직접 말하지 않음. gsamediacentre.co.uk think-before-you-hang 보도자료에 라디에이터 비율, 매체 종류. MSE 6426864 (2023-02-24) 라디에이터 옆 건조대 후보",
+      "createdAt": "2026-11-11T09:33:21.891Z",
+      "seq": 4584
+    },
+    {
+      "id": "1a5bf088",
+      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
+      "priority": 40,
+      "note": "2026-11-11 후보: thesandtrap.com forums topic 22319-lightning 댓글 2009-04-02 'Scared out of my mind, I drove down the middle of the fairways'(잔디깎이로 밖에 있다 겁에 질려 피함). 대립은 양쪽에 다른 파편이 필요(같은 SNS 글 두 문서는 WARN). GMA 2025-07-09 골퍼 즉시 떠남은 공포 낱말 없음. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 蚊帳 대목은 ruby 때문에 못 씀",
+      "createdAt": "2026-11-11T09:38:25.452Z",
+      "seq": 4586
     },
     {
       "id": "022dfb2f",
@@ -1227,6 +1171,14 @@
       "note": "2026-11-11 웹 검색에 네이트판 글 대신 해몽 사이트만 나옴. 이전 후보: Wuthering Heights 768 9장, Collins Queen of Hearts, wgbh 2015-01-15 Morewedge 인터뷰",
       "createdAt": "2026-11-11T03:27:15.339Z",
       "seq": 4560
+    },
+    {
+      "id": "4f66f96a",
+      "title": "rechecking-door-and-stove 보강: 문학 파편",
+      "priority": 30,
+      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 못 찾음. 2026-11-08 Secret Agent 974, 蛋白石 15950, Pepys 4200, Ulysses 4300 등 31종도 없음. 2026-11-11 pepysdiary 1667-11-29(밤 소리에 문 열어 봄), 1666-07-07(소동) 도 확인 뒤 재확인 아님. Ulysses 'couldnt rest easy till I bolted all the doors' 근접",
+      "createdAt": "2026-11-11T09:33:35.530Z",
+      "seq": 4585
     },
     {
       "id": "9634edf0",
