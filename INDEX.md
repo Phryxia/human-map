@@ -131,6 +131,7 @@
 - [남의 장바구니 훔쳐보기](docs/peeking-at-others-shopping-carts.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [남의 집 약장 엿보기](docs/peeking-into-hosts-medicine-cabinet.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [남의 화면이나 신문 넘겨다보기](docs/glancing-at-others-screens.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [낮잠](docs/daytime-napping.md) ([시간과 하루 습관](groups/daily-time.md))
 - [낯선 곳에서 깨어 어디인지 모르기](docs/waking-disoriented-in-unfamiliar-place.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [낯선 사람에게 속내 털어놓기](docs/confiding-in-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
