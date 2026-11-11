@@ -29,6 +29,7 @@
 - [반품 포기](abandoning-returns.md)
 - [조용한 이탈](silent-exit.md)
 - [음식이 마음에 들지 않아도 괜찮다고 답하기](saying-food-is-fine.md)
+- [머리가 마음에 들지 않아도 미용사에게 괜찮다고 답하기](saying-haircut-is-fine.md)
 
 ## 원인
 

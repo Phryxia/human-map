@@ -74,6 +74,7 @@
   - [보내지 않는 편지 쓰기](../docs/unsent-letters.md)
   - [보상을 기다리며 불만 없이 일하기](../docs/silent-work-awaiting-reward.md)
   - [불만 제기 회피](../docs/non-complaining.md)
+    - [머리가 마음에 들지 않아도 미용사에게 괜찮다고 답하기](../docs/saying-haircut-is-fine.md)
     - [반품 포기](../docs/abandoning-returns.md)
     - [음식이 마음에 들지 않아도 괜찮다고 답하기](../docs/saying-food-is-fine.md)
     - [조용한 이탈](../docs/silent-exit.md)
