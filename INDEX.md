@@ -528,6 +528,7 @@
 - [임금 체불 참기](docs/tolerating-unpaid-wages.md) ([일터와 일자리](groups/work.md))
 - [임산부 배려석 비켜 주지 않기](docs/not-yielding-maternity-seats.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [임산부 배려석 앉기 눈치](docs/hesitating-to-use-maternity-seats.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [자거나 외출하며 세탁기와 건조기 돌려 두기](docs/leaving-appliances-running-unattended.md) ([건강과 위험](groups/health-and-safety.md))
 - [자기 보상 소비](docs/self-reward-purchase.md) ([돈과 소비](groups/money.md))
 - [자기 불구화](docs/self-handicapping.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
