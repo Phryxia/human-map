@@ -20350,20 +20350,20 @@
   },
   "https://www.motor1.com/news/490710/check-engine-light-survey/": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813617": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "UNREACHABLE"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12077779/": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://www.gutenberg.org/cache/epub/110/pg110.txt": {
     "first": "2026-11-06",
@@ -20708,15 +20708,15 @@
   },
   "https://www.motor.com/magazine-summary/trade-secrets-2-march-2004/": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://www.clien.net/service/board/cm_car/19080501": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5428a2.htm": {
     "first": "2026-11-06",
@@ -23052,9 +23052,9 @@
   },
   "https://tiresandparts.net/news/parts/ignoring-dashboard-warning-lights-can-serious-consequences/": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://inria.hal.science/hal-00821854v1": {
     "first": "2026-11-09",
@@ -25138,6 +25138,12 @@
     "lastVerified": "2026-11-11"
   },
   "https://www.funeralbasics.org/public-speaking-tips-delivering-a-eulogy/": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://movingon.blog.gov.uk/2022/09/20/managing-in-service-defects": {
     "first": "2026-11-11",
     "last": "2026-11-11",
     "result": "VERIFIED",
