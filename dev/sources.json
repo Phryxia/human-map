@@ -4581,15 +4581,15 @@
   },
   "https://news.ycombinator.com/item?id=1706096": {
     "first": "2026-10-20",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086170": {
     "first": "2026-10-20",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239327": {
     "first": "2026-10-20",
@@ -4659,9 +4659,9 @@
   },
   "https://news.ycombinator.com/item?id=32078718": {
     "first": "2026-10-20",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://www.jil.go.jp/institute/reports/2011/0128.html": {
     "first": "2026-10-20",
@@ -20636,9 +20636,9 @@
   },
   "https://www.gutenberg.org/cache/epub/3184/pg3184-images.html": {
     "first": "2026-11-06",
-    "last": "2026-11-07",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-11"
   },
   "https://trid.trb.org/View/66876": {
     "first": "2026-11-06",
@@ -24430,6 +24430,12 @@
     "lastVerified": "2026-11-11"
   },
   "https://yougov.com/en-gb/articles/2846": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://chemistryprod.elte.hu/en/node/305385": {
     "first": "2026-11-11",
     "last": "2026-11-11",
     "result": "VERIFIED",
