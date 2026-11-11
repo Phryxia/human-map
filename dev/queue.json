@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T03:27:17.844Z",
-  "nextSeq": 4561,
-  "stops": 238,
+  "savedAt": "2026-11-11T06:39:25.395Z",
+  "nextSeq": 4577,
+  "stops": 239,
   "items": [
+    {
+      "id": "df0b78b3",
+      "title": "charging-devices-on-bed 보강: SNS, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-11 매체 3, 공공 2 로 씀. 후보: ddfire.gov.uk charging-habits-and-household-routines 'Lots of people charge their phones overnight'(발행일 표기 없음, 2026-02 추정), korea.kr 148931754 소방청 2024-07-23 수칙. 학술과 1인칭 SNS 글 못 찾음",
+      "createdAt": "2026-11-11T06:22:32.113Z",
+      "seq": 4569
+    },
+    {
+      "id": "9f8ad7ee",
+      "title": "sleeping-with-heater-on 보강: 학술 설문",
+      "priority": 50,
+      "note": "2026-11-11 Electrical Safety First 2014·2021 보도자료의 히터 밤새 켜 둠 21%, 10.68% 는 404. 클리앙 park/13014466 (2019-01-04) 전기장판 켜고 자면 아침 두통 후보. 학술은 증례 PMC9720553 뿐",
+      "createdAt": "2026-11-11T06:22:32.243Z",
+      "seq": 4570
+    },
+    {
+      "id": "b436c605",
+      "title": "leaving-appliances-running-unattended 보강: 공공 파편, 학술",
+      "priority": 50,
+      "note": "2026-11-11 후보: ddfire.gov.uk charging-habits 'leave their tumble dryer running when they go to bed'(발행일 표기 없음), hantsfire 2025-02-06, northwalesfire.gov.wales 2026-07. whitegoodshelp ?p=12004 식기세척기 소음 때문에 밤에 돌림(같은 블로그라 못 씀)",
+      "createdAt": "2026-11-11T06:25:24.037Z",
+      "seq": 4571
+    },
+    {
+      "id": "83d293ab",
+      "title": "leaving-candles-unattended 보강: SNS, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-11 후보: Fire Engineering 2005 같은 조사 '81% 잠든 적 없음' 대목, warwickshire.gov.uk news 3476 (2022-10-24) 초를 장식으로 여김, wikitree 937152 (2024-03-22), fnnews 202610080722351499 원주 향초. SNS 1인칭 글 못 찾음(reddit 403)",
+      "createdAt": "2026-11-11T06:28:16.345Z",
+      "seq": 4572
+    },
+    {
+      "id": "6b370f8b",
+      "title": "leaving-hair-straighteners-on 보강: SNS 파편, rechecking-door-and-stove 관계",
+      "priority": 50,
+      "note": "2026-11-11 humbersidefire 2016 '절반 가까이 켜 두었을까 봐 당황' 과 getsurrey 2020 가 걱정을 말함. rechecking-door-and-stove 와 원인 간선 근거는 아직 없음. 후보: personneltoday 2010 '67% 켜 두었다 생각, 5명 중 1명 돌아가 확인 안 함' 대목, kyeonggi 20230318580001 무인 사진관 고데기. unpa.me 는 JS 렌더링",
+      "createdAt": "2026-11-11T06:32:02.665Z",
+      "seq": 4573
+    },
+    {
+      "id": "23038e14",
+      "title": "charging-e-bikes-indoors 보강: 한국 공공, SNS, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-11 후보: ESF 같은 조사 공용 복도·계단 충전 44%, c2smart.engineering.nyu.edu 배달 노동자 아파트 밤새 충전(날짜 불명), heraldk 2025100118400023341 서울소방 실내 충전 실험, London Fire Brigade 2023-03 chargesafe, thecity.nyc 2022-11-21. 도난 때문에 집 안 충전한다는 진술 미확보",
+      "createdAt": "2026-11-11T06:34:29.324Z",
+      "seq": 4574
+    },
+    {
+      "id": "feb9a923",
+      "title": "drying-laundry-on-heaters 보강: SNS, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-11 후보: kfsi 같은 페이지 퀴즈 '젖은 옷과 수건은 난로 근처에 두면 잘 마르고 안전하다', fia.uk.com 2022-11-23 생활비 위기 히터로 옷 말림, ESF 2022-11 보도자료. brighouseecho 화재 사례는 봇 확인 페이지",
+      "createdAt": "2026-11-11T06:36:56.895Z",
+      "seq": 4575
+    },
     {
       "id": "5cfda3f0",
       "title": "rechecking-door-and-stove 보강: 문학 파편",
@@ -2683,6 +2739,14 @@
       "note": "2026-11-11 peeking-into-hosts-medicine-cabinet 의 상위 후보. Litman & Pezzo 2007 Snooping 요인 초록, Jane Eyre 1260 rummaging the cupboard and the table-drawer, Vanity Fair 599 peeped into the huge wardrobes",
       "createdAt": "2026-11-11T03:21:58.214Z",
       "seq": 4551
+    },
+    {
+      "id": "f6573cef",
+      "title": "집 안 열원과 전기기기 지켜보지 않고 두기: 공통 상위",
+      "priority": 10,
+      "note": "2026-11-11 overloading-power-strips, sleeping-with-heater-on, charging-devices-on-bed, leaving-appliances-running-unattended, leaving-candles-unattended, leaving-hair-straighteners-on, charging-e-bikes-indoors, drying-laundry-on-heaters, leaving-cooking-unattended 의 공통 상위 후보. homebuilding.co.uk 2025-09-17 'drift off before putting out candles, switching off stoves, or safely storing heaters' 가 여럿을 묶음",
+      "createdAt": "2026-11-11T06:37:07.959Z",
+      "seq": 4576
     },
     {
       "id": "02b2f242",
