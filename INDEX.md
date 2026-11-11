@@ -545,6 +545,7 @@
 - [잔디밭 질러가기](docs/cutting-across-lawns.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [잔액 확인 피하기](docs/avoiding-checking-balance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠깐 세우는 불법 주정차](docs/brief-illegal-parking.md) ([길과 운전](groups/roads-and-driving.md))
+- [잠꼬대](docs/sleep-talking.md) ([시간과 하루 습관](groups/daily-time.md))
 - [잠든 사람 바라보기](docs/watching-a-loved-one-sleep.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [잠든 아기의 숨 확인하기](docs/checking-sleeping-babys-breathing.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠자리 미루기](docs/bedtime-procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
