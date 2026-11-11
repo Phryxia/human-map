@@ -1174,9 +1174,9 @@
   },
   "https://www.gutenberg.org/cache/epub/161/pg161-images.html": {
     "first": "2026-10-18",
-    "last": "2026-11-01",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-11"
   },
   "https://ko.wikisource.org/wiki/유정": {
     "first": "2026-10-18",
@@ -25060,6 +25060,30 @@
     "lastVerified": "2026-11-11"
   },
   "https://news.ycombinator.com/item?id=45600336": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://www.gutenberg.org/cache/epub/57634/pg57634-images.html": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://boards.straightdope.com/t/seeking-tips-on-delivering-a-eulogy-without-losing-it/439640": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://community.sueryder.org/t/funeral-fears/65611": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12946045/": {
     "first": "2026-11-11",
     "last": "2026-11-11",
     "result": "VERIFIED",
