@@ -12,6 +12,8 @@
 
 2022년 기사[^2]는 뉴욕의 배달 노동자 대부분이 전기자전거를 타지만 자전거를 안전하게 둘 시설이 없다고 전한다. 2023년 5월 기사[^3]는 소방 당국이 충전 영업을 단속하자 아파트 안에서 충전하는 노동자가 늘었다고 적었다. 2023년 8월 영국 조사[^4]에서 응답자의 27%는 집 안 복도에서, 13%는 침실에서 충전한다고 인정했다.
 
+2024년 연구[^5]는 중국의 배달 노동자와 임시직 노동자가 전기자전거를 주거 건물 1층의 좁은 공용 통로에 두고 충전하는 일이 흔하다고 적었다. 2025년 댓글[^6]의 글쓴이는 전기자전거를 집 현관의 220V 콘센트로 충전한다고 적었다. 2026년 게시글[^7]의 글쓴이는 배터리를 집 안에서 충전하던 중이라 도둑이 배터리 없는 자전거만 가져갔다고 썼다.
+
 # 관계
 
 ## 상위
@@ -40,3 +42,6 @@
 [^2]: [매체] "Most delivery workers in New York City use e-bikes, but “there’s no infrastructure in New York City to store your bike safely,”" (뉴욕시 배달 노동자 대부분은 전기자전거를 타지만 "뉴욕시에는 자전거를 안전하게 보관할 시설이 없다") — Marketplace, Samantha Fields, "NYC's delivery drivers depend on e-bikes, but charging and storing them isn't easy", 2022-09-20, https://www.marketplace.org/2022/09/20/nycs-delivery-drivers-depend-on-e-bikes-but-charging-and-storing-them-isnt-easy, 2026-11-11 접속
 [^3]: [매체] "The FDNY has cracked down on some of these operations in recent months, according to several delivery workers – leaving more workers to charge e-bikes inside their apartments." (여러 배달 노동자에 따르면 뉴욕 소방국이 최근 몇 달 사이 이런 영업 일부를 단속했고, 그 결과 더 많은 노동자가 자기 아파트 안에서 전기자전거를 충전하게 됐다.) — Gothamist, "'We don't feel safe': Battery fires a risk for workers as food delivery booms in NYC", 2023-05-17, https://api-prod.gothamist.com/news/we-dont-feel-safe-battery-fires-a-risk-for-workers-as-food-delivery-booms-in-nyc, 2026-11-11 접속
 [^4]: [매체] "Worryingly, more than a quarter (27%) admitted to charging their device in their hallway inside their home, whilst more than 1 in 10 (13%) said they charge it in their bedroom." (걱정스럽게도 4분의 1이 넘는 27%가 집 안 복도에서 기기를 충전한다고 인정했고, 10명 가운데 1명이 넘는 13%는 침실에서 충전한다고 말했다.) — Electrical Safety First, "E-bike riders urged to use compatible chargers only due to serious fire risk", Emergency Services Show, 2023-08-31, https://www.emergencytechshow.com/exhibitor-press-releases/e-bike-riders-urged-use-compatible-chargers-due-serious-fire-risk, 2026-11-11 접속
+[^5]: [학술] "these individuals often use electric bicycles, which are commonly left charging in narrow common passageways on the first floor of residential" (이들은 전기자전거를 자주 쓰고 그 자전거는 흔히 주거 건물 1층의 좁은 공용 통로에 충전되도록 놓인다) — Xiqiao Wang, Ming Tian, Liqiang Zheng, Liang Qiao 외, "Characterization and prevention of flame burns caused by electric bicycle battery chargers: results from a 7-year experience", The Journal of International Medical Research 52(4), 2024-04-08, https://pmc.ncbi.nlm.nih.gov/articles/PMC11010761/, 2026-11-11 접속
+[^6]: [SNS] "네 저희집 현관에서 충전합니다. 집 현관에 220v 콘센트가 있어요." — 클리앙 댓글, 2025-07-05, https://www.clien.net/service/board/use/19017631, 2026-11-11 접속
+[^7]: [SNS] "My battery was charging inside so he stole it without the battery." (배터리를 안에서 충전하고 있어서 그는 배터리 없이 자전거를 훔쳐 갔다.) — CycleChat 게시글, 2026-09-27, https://www.cyclechat.net/threads/black-tenways-stolen-fulham-london.312603/, 2026-11-11 접속
