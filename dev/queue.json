@@ -1,153 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T00:40:26.866Z",
-  "nextSeq": 4531,
-  "stops": 237,
+  "savedAt": "2026-11-11T03:27:17.844Z",
+  "nextSeq": 4561,
+  "stops": 238,
   "items": [
-    {
-      "id": "f45e57b5",
-      "title": "public-speaking-anxiety 와 anticipatory-social-anxiety, fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-11-11 Behnke 1999 EJ581444 는 발표 직전 예기불안 정점만 말함. 인과 근거 필요. 후보: Bippus & Daly 1999 EJ579169 stage fright 원인 귀인 9가지, Stein 1996 PMID 8629892 (pubmed 쿠키 페이지)",
-      "createdAt": "2026-11-11T00:18:48.140Z",
-      "seq": 4527
-    },
-    {
-      "id": "6fe3221b",
-      "title": "public-speaking-anxiety 보강: 한국어 파편, 외운 말 잊기",
-      "priority": 50,
-      "note": "2026-11-11 Roughing It 3177 첫 강연 'quaking in every limb' 는 작가 자신 회고. Jo's Boys 3499 'going to have stage fright for the first time'. 한국어 SNS, 공공 없음",
-      "createdAt": "2026-11-11T00:18:48.245Z",
-      "seq": 4528
-    },
-    {
-      "id": "2ff7f7b1",
-      "title": "regretting-a-new-haircut 와 saying-food-is-fine 관계, 상위 후보",
-      "priority": 50,
-      "note": "2026-11-11 Stylist 2024 869557 와 디시 cs_new1/6834215 는 마음에 안 드는 결과에도 괜찮다고 답함. 인과 문장 근거 필요. 후보: Lee & Kim 2020 s40691-019-0191-3 no action 불평 차원",
-      "createdAt": "2026-11-11T00:24:25.997Z",
-      "seq": 4529
-    },
-    {
-      "id": "57a658c5",
-      "title": "cramming 보강: SNS 파편, 1897 Harvard Episodes",
-      "priority": 50,
-      "note": "2026-11-11 후보: Flandrau Harvard Episodes 1897 gutenberg 70671 'had done this sort of thing before every midyear and final examination period', HN 10268374 (2015) 문장이 214자라 못 씀, Romano 2005 EJ803737 last minute cramming",
-      "createdAt": "2026-11-11T00:28:47.543Z",
-      "seq": 4530
-    },
-    {
-      "id": "8d46f9fe",
-      "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편",
-      "priority": 40,
-      "note": "2026-11-07 Ideal Home 2016 수치 더함. 남은 후보: NBC News 2013-06-10 flna6c10272036 은 질문만 있음, Washington Times 2021-12-13 33%, Moen 조사 22% marketscreener 403, AOL 2014 40% 404",
-      "createdAt": "2026-11-07T21:13:54.731Z",
-      "seq": 4134
-    },
-    {
-      "id": "dcdbc21e",
-      "title": "counting-to-ten-when-angry 보강: SNS 파편, 조건",
-      "priority": 40,
-      "note": "2026-11-07 PMC11740350 학술 더함. 후보: PMC13249016 집단 상담에서 배운 count to ten, PMC9879846 형제 지원 연구 'I take a deep breath and count to ten and walk away', Osgood & Muraven 2016 jasp.12334 초록은 Wiley 403",
-      "createdAt": "2026-11-07T21:16:23.853Z",
-      "seq": 4136
-    },
-    {
-      "id": "e493b362",
-      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편",
-      "priority": 40,
-      "note": "2026-11-07 재시도 실패. HN algolia 2010년 이전 댓글 검색어 4개 해당 없음. kukinews kuk201011030030, kuk201309120095 는 Cloudflare. 이전 후보: gizmodo 5115670 (2008-12-22, 실명 인물), lungevity 26110 (2007, 403)",
-      "createdAt": "2026-11-07T21:17:15.445Z",
-      "seq": 4137
-    },
-    {
-      "id": "e911a6df",
-      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공, 위험을 알면서 쓰기",
-      "priority": 40,
-      "note": "2026-11-07 재시도. 総務省 令和5年度 無線LAN利用者実態調査 는 PDF 뿐(000957254.pdf 등). 비공공 후보: NAB Consumer Cyber Security Survey 2024 PDF 25% 은행 업무, ourwatch.org.uk 2026, yougov.com/en-gb/articles/2846",
-      "createdAt": "2026-11-07T21:19:52.881Z",
-      "seq": 4138
-    },
-    {
-      "id": "2408698d",
-      "title": "forgotten-fridge-leftovers 와 discarding-food-by-date-label 관계",
-      "priority": 40,
-      "note": "2026-11-07 NSW EPA 공공 파편 더함. 관계 근거 파편은 아직 없음. 후보: NSW 추적조사 2019 PDF 'food being stored for too long in the fridge or freezer (11%)'",
-      "createdAt": "2026-11-07T21:21:33.805Z",
-      "seq": 4139
-    },
-    {
-      "id": "12715e23",
-      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
-      "priority": 40,
-      "note": "2026-11-07 PMC7304585 (Roodbeen 2020 PLoS One) 'conceal their limited skills and pretend to understand information' 와 PMC12840061 'pretend to understand the health-related document in front of their families to avoid shame' 은 건강 문해력이라 글 모르는 것과 다르고 인과 표현 아님. 2013년 경북대 문해 수기 원문 여전히 필요",
-      "createdAt": "2026-11-07T21:24:03.372Z",
-      "seq": 4141
-    },
-    {
-      "id": "f8b1014f",
-      "title": "humming-while-working 와 earworm 관계",
-      "priority": 40,
-      "note": "2026-11-07 Straight Dope 44450 #17 (2000) 을 humming-while-working [^3] 에 더함. 같은 글을 earworm 에도 쓰면 같은 글 두 문서 WARN 이라 간선 근거로 못 씀. earworm 쪽에 쓸 다른 출처(귀벌레 때문에 흥얼거린다) 필요",
-      "createdAt": "2026-11-07T21:32:08.767Z",
-      "seq": 4146
-    },
-    {
-      "id": "77882f91",
-      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
-      "priority": 40,
-      "note": "2026-11-08 Tufts 2012 매체, OSU 2022 공공 더함. 2000년 이전 문학·매체 못 찾음. UF 소동물병원 Coping with Guilt 는 TLS 오류, MSU CVM 은 Incapsula",
-      "createdAt": "2026-11-08T03:36:49.492Z",
-      "seq": 4172
-    },
-    {
-      "id": "5eacab86",
-      "title": "staying-late-for-boss 보강: 19세기 문학, 상사 빈정거림",
-      "priority": 40,
-      "note": "2026-11-08 후보: Trollope, The Three Clerks, 1858, gutenberg 7481 'young men, too, were observed to leave not much after four o'clock, without calling down on themselves Mr. Hardlines' usual sarcasm.' 실락원의 별 1956 더함",
-      "createdAt": "2026-11-08T06:34:28.464Z",
-      "seq": 4180
-    },
-    {
-      "id": "a192396f",
-      "title": "skipping-care-due-to-cost 와 money-worry 원인 간선",
-      "priority": 40,
-      "note": "2026-11-08 HN 31319884 SNS 파편 더함. 원인 간선 근거 후보: Straight Dope 993439/20 (2023-11-21) 'I’m afraid I’ll get billed 1 to 3 hundred dollars to talk to a doctor' 는 두려움만 있고 인과 문장 없음. lemmy.ca/comment/866536 'every trip to the doctors a huge worry' 는 JS 렌더. 한국어 SNS 후보 없음",
-      "createdAt": "2026-11-08T09:10:55.769Z",
-      "seq": 4188
-    },
-    {
-      "id": "781d0f9f",
-      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
-      "priority": 40,
-      "note": "2026-11-03 Straight Dope 429436 (2007 죄책감 때문에 한 끼 차림) 더함. 관계 근거 파편은 아직 없음. 2026-11-08 재시도: 신세감과 집안일이 한 대목에 든 출처 못 찾음. 근접: Catapult Samantha Paige Rosen 에세이 'I reciprocate by doing dishes'(발행일 미상, 보답). 남은 길: 위키문헌 더부살이 단편, Gutenberg The Wide, Wide World, '얹혀살며 밥값' 칼럼",
-      "createdAt": "2026-11-08T15:31:18.868Z",
-      "seq": 4205
-    },
-    {
-      "id": "3dee4fb9",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 40,
-      "note": "2026-11-08 재시도. 공공 HTML 출처 없음. Oregon 주의회 증언 58182 등은 PDF·실명, 영국 의회 committees.parliament.uk 는 봇 확인 403, CDC·NIOSH 페이지에 guilt 없음. 남은 길: 실명 없는 HTML 주의회 회의록 요약(leg.colorado.gov 등)",
-      "createdAt": "2026-11-08T15:33:58.793Z",
-      "seq": 4206
-    },
-    {
-      "id": "43a2cff9",
-      "title": "impostor-phenomenon 보강: perfectionism 관계 간선, 공공 파편",
-      "priority": 40,
-      "note": "2026-11-03 재시도. 인과 문장 후보: Benoit 오타와대 학위논문 ruor.uottawa.ca items/690e51ca 는 JS 렌더, bitstreams a59a6978 은 PDF. Cokley 2018 SUNY researchconnect 확인 필요. 2026-11-08 이미 쓰인 PMC7174434 리뷰는 완벽주의와 상관(associated, related)만 말하고 인과 문장 없음",
-      "createdAt": "2026-11-08T15:34:20.074Z",
-      "seq": 4207
-    },
-    {
-      "id": "fd0c1b39",
-      "title": "dreams-as-omens 보강: 한국어 SNS, dreams-of-the-deceased 관계",
-      "priority": 40,
-      "note": "2026-11-08 Sylvia's Lovers 1863 [^3] 더함. 남은 후보: Wuthering Heights 768 9장 Nelly 'superstitious about dreams', Collins Queen of Hearts 1917 Dream-Woman 되돌아감, wgbh 2015-01-15 Morewedge 인터뷰",
-      "createdAt": "2026-11-08T21:34:44.962Z",
-      "seq": 4222
-    },
     {
       "id": "5cfda3f0",
       "title": "rechecking-door-and-stove 보강: 문학 파편",
@@ -475,6 +331,22 @@
       "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 Edgar 는 맞지 않고 이 출처는 이미 4개 문서가 씀",
       "createdAt": "2026-11-10T21:30:26.621Z",
       "seq": 4522
+    },
+    {
+      "id": "0539f89b",
+      "title": "public-speaking-anxiety 보강: 한국어 공공 파편",
+      "priority": 40,
+      "note": "2026-11-11 WorkingUS 2017 댓글 더함. 후보: 광운대 학생상담센터 self_test/announcement.php '발표할 내용을 잊어버릴까 봐 두렵다' (발행일 미상), 네이트판 366552166 (2022-06-14) 목소리 떨림. 4문단이 4문장이라 새 문단 필요",
+      "createdAt": "2026-11-11T03:13:39.413Z",
+      "seq": 4547
+    },
+    {
+      "id": "d74a357c",
+      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
+      "priority": 40,
+      "note": "2026-11-08 Tufts 2012 매체, OSU 2022 공공 더함. 2000년 이전 문학·매체 못 찾음. UF 소동물병원 Coping with Guilt 는 TLS 오류, MSU CVM 은 Incapsula",
+      "createdAt": "2026-11-11T03:24:23.906Z",
+      "seq": 4555
     },
     {
       "id": "022dfb2f",
@@ -1221,6 +1093,86 @@
       "seq": 4521
     },
     {
+      "id": "81aee1dc",
+      "title": "public-speaking-anxiety 와 anticipatory-social-anxiety 관계",
+      "priority": 30,
+      "note": "2026-11-11 FNE, 되짚기 원인 간선은 박소원 2019 로 그음. 예기불안 쪽 인과 근거 없음. 후보: UiTM IJMAL 7480, Psychology Today stage-fright",
+      "createdAt": "2026-11-11T03:19:07.159Z",
+      "seq": 4548
+    },
+    {
+      "id": "2904cfad",
+      "title": "saying-haircut-is-fine 보강: 학술, SNS 파편",
+      "priority": 30,
+      "note": "2026-11-11 매체 2, SNS 1. 후보: HJi 2023-09-08 67% 원치 않은 머리로 나섬, Lee & Kim 2020 s40691-019-0191-3 은 머리 모양 불만이 사적 불평으로 감. silentbutdeadly substack 은 계정 이미 사용",
+      "createdAt": "2026-11-11T03:19:11.223Z",
+      "seq": 4549
+    },
+    {
+      "id": "88c4f466",
+      "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편",
+      "priority": 30,
+      "note": "2026-11-11 약장을 다룬 문학, 학술 못 찾음. Jane Eyre 1260 찬장과 서랍 뒤지기(손님), Northanger Abbey 121 객실 서랍. 상위 후보로 남의 물건 엿보기 신규 현상: Litman & Pezzo 2007 digital.stpetersburg.usf.edu fac_publications/1226 Snooping 요인",
+      "createdAt": "2026-11-11T03:21:58.110Z",
+      "seq": 4550
+    },
+    {
+      "id": "23ebd974",
+      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공",
+      "priority": 30,
+      "note": "2026-11-11 YouGov 2012 매체 더함. 総務省 令和5年度 조사는 PDF 뿐. 후보: ourwatch.org.uk 2026, NAB 2024 PDF",
+      "createdAt": "2026-11-11T03:23:58.645Z",
+      "seq": 4553
+    },
+    {
+      "id": "12caf0b6",
+      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
+      "priority": 30,
+      "note": "2026-11-07 PMC7304585 와 PMC12840061 은 건강 문해력이라 글 모르는 것과 다르고 인과 표현 아님. 2013년 경북대 문해 수기 원문 여전히 필요",
+      "createdAt": "2026-11-11T03:24:17.377Z",
+      "seq": 4554
+    },
+    {
+      "id": "c8b3395f",
+      "title": "skipping-care-due-to-cost 와 money-worry 원인 간선",
+      "priority": 30,
+      "note": "2026-11-11 West Health-Gallup 2025, KFF 조사는 걱정과 진료 미루기 비율을 따로 적을 뿐 인과 문장 없음. 이전 후보 Straight Dope 993439/20, lemmy.ca/comment/866536",
+      "createdAt": "2026-11-11T03:26:18.340Z",
+      "seq": 4556
+    },
+    {
+      "id": "8d7c872e",
+      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
+      "priority": 30,
+      "note": "2026-11-08 신세감과 집안일이 한 대목에 든 출처 못 찾음. 근접: Catapult 에세이 'I reciprocate by doing dishes'(발행일 미상). 남은 길: 위키문헌 더부살이 단편, Gutenberg The Wide, Wide World",
+      "createdAt": "2026-11-11T03:26:23.635Z",
+      "seq": 4557
+    },
+    {
+      "id": "73ba5a17",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-08 공공 HTML 출처 없음. Oregon 증언 PDF·실명, committees.parliament.uk 봇 확인 403, CDC·NIOSH 에 guilt 없음. 남은 길: leg.colorado.gov 회의록 요약",
+      "createdAt": "2026-11-11T03:26:30.464Z",
+      "seq": 4558
+    },
+    {
+      "id": "2058b1c1",
+      "title": "impostor-phenomenon 보강: perfectionism 관계 간선, 공공 파편",
+      "priority": 30,
+      "note": "2026-11-11 재시도. Pannhausen 2022, 2025 메타분석, PMC12692372 모두 상관·예측만 말함. 인과 문장 없음",
+      "createdAt": "2026-11-11T03:26:52.103Z",
+      "seq": 4559
+    },
+    {
+      "id": "56c040c2",
+      "title": "dreams-as-omens 보강: 한국어 SNS, dreams-of-the-deceased 관계",
+      "priority": 30,
+      "note": "2026-11-11 웹 검색에 네이트판 글 대신 해몽 사이트만 나옴. 이전 후보: Wuthering Heights 768 9장, Collins Queen of Hearts, wgbh 2015-01-15 Morewedge 인터뷰",
+      "createdAt": "2026-11-11T03:27:15.339Z",
+      "seq": 4560
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1395,6 +1347,14 @@
       "note": "2026-11-07 재탐색. thefinancialdiet.com/?p=2717 (2015-04-03), brunch @nusik/48 (2026-09-21). 2026-11-10: Plantinga (Tilburg) 연구는 상관에서만 재정 수치심과 지위 관심이 이어지고 실험에서는 효과 없음(tilburguniversity.edu press-release-shame-poverty-plantinga-emotion-psychology). 인과 근거로 쓰기 어려움",
       "createdAt": "2026-11-10T21:24:59.826Z",
       "seq": 4512
+    },
+    {
+      "id": "552ec57c",
+      "title": "keeping-deceaseds-phone-number 보강: 2010년 이전 파편",
+      "priority": 20,
+      "note": "2026-11-07 재시도 실패. HN algolia 2010년 이전 댓글 검색어 4개 해당 없음. kukinews 는 Cloudflare. 이전 후보: gizmodo 5115670 (2008-12-22, 실명 인물), lungevity 26110 (2007, 403)",
+      "createdAt": "2026-11-11T03:23:00.927Z",
+      "seq": 4552
     },
     {
       "id": "a3f422fc",
@@ -2715,6 +2675,14 @@
       "note": "panic-buying F1(AFP 2011) 광저우 마트 1인 2봉지 제한, fnnews 202306181847022495 (2023-06-18) '천일염 구매를 1인당 1개로 제한' 대목(문서 [^4] 와 같은 기사, 다른 대목). 위협 지각 원인은 Garbe 2020 (panic-buying [^3])",
       "createdAt": "2026-11-10T09:20:37.476Z",
       "seq": 4425
+    },
+    {
+      "id": "c9e4376a",
+      "title": "남의 물건 엿보기",
+      "priority": 10,
+      "note": "2026-11-11 peeking-into-hosts-medicine-cabinet 의 상위 후보. Litman & Pezzo 2007 Snooping 요인 초록, Jane Eyre 1260 rummaging the cupboard and the table-drawer, Vanity Fair 599 peeped into the huge wardrobes",
+      "createdAt": "2026-11-11T03:21:58.214Z",
+      "seq": 4551
     },
     {
       "id": "02b2f242",
