@@ -20642,45 +20642,45 @@
   },
   "https://trid.trb.org/View/66876": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
-    "result": "VERIFIED",
+    "last": "2026-11-11",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-09"
   },
   "https://trid.trb.org/View/87094": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
-    "result": "VERIFIED",
+    "last": "2026-11-11",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-09"
   },
   "https://www.seoul.co.kr/news/1990/11/12/19901112010001": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://rosap.ntl.bts.gov/view/dot/1848": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://www.clien.net/service/board/cm_car/4765005": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://www.imaeil.com/page/view/2018120319053264683": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://www.iihs.org/research-areas/bibliography/ref/2331": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://eric.ed.gov/?id=ED062828": {
     "first": "2026-11-06",
@@ -20828,9 +20828,9 @@
   },
   "https://www.seoul.co.kr/news/newsView.php?id=20010918013001": {
     "first": "2026-11-06",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9684218/": {
     "first": "2026-11-06",
@@ -23040,9 +23040,9 @@
   },
   "https://www.segye.com/newsView/20140404003768": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   "https://boards.straightdope.com/t/in-which-i-successfully-put-out-a-kitchen-fire-long/511582": {
     "first": "2026-11-09",
@@ -25006,6 +25006,12 @@
     "lastVerified": "2026-11-11"
   },
   "https://brunch.co.kr/@ojen1128/348": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://www.michigan.gov/msp/divisions/ohsp/safety-programs/seat-belts/myths-and-facts-about-seat-belts": {
     "first": "2026-11-11",
     "last": "2026-11-11",
     "result": "VERIFIED",
