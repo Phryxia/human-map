@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-없음.
+- 2026-11-11T06:05Z | 2026-11-11T06:27Z | leaving-candles-unattended 추가 | leaving-candles-unattended, dev/groups.json
