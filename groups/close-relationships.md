@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [가까운 사람의 발소리 알아듣기](../docs/recognizing-footsteps-of-close-people.md) 함께 사는 가족이나 기다리는 사람의 발소리를 들은 사람이 그 사람을 보지 않고도 누구인지 알아본다.
 - [같은 이야기 되풀이](../docs/retelling-same-story.md) 자기 지난 일을 이야기하는 사람이 이미 그 이야기를 들은 상대에게 같은 이야기를 다시 들려준다.
 - [결혼 재촉](../docs/pressuring-children-to-marry.md) 부모가 결혼하지 않은 성인 자녀에게 결혼하라고 거듭 재촉한다.
 - [결혼 전 불안](../docs/pre-wedding-doubts.md) 결혼을 앞둔 사람이 이 결혼을 해도 될지 의심하거나 두려워한다.
