@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T09:42:19.825Z",
-  "nextSeq": 4587,
-  "stops": 240,
+  "savedAt": "2026-11-11T12:40:41.252Z",
+  "nextSeq": 4596,
+  "stops": 241,
   "items": [
     {
-      "id": "66caac59",
-      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, SNS 파편",
-      "priority": 40,
-      "note": "2026-11-09 Lasry 1992 europepmc 1544117 더함. HN 43027887 2025 은 배우자의 재발 두려움이라 맞지 않음. Perndorfer 2018 은 예측이라 간선 근거 약함",
-      "createdAt": "2026-11-09T03:14:25.430Z",
-      "seq": 4251
+      "id": "0490ed99",
+      "title": "nesting-instinct 보강: 한국어, 문학 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-11 SNS 2003·2018 Straight Dope 더함. 한국어 클리앙 검색(막달 청소, 둥지본능) 해당 없음. ScienceDaily 2013-09-17 130916090426 예비. rearranging-furniture, spring-cleaning 과 관계 후보",
+      "createdAt": "2026-11-11T12:37:13.961Z",
+      "seq": 4595
     },
     {
       "id": "919a316b",
@@ -99,14 +99,6 @@
       "note": "2026-11-09 Olivier 2013 hal-00821854v1 (길을 내주는 쪽의 역할) 더함. 남은 후보: Bourgaize 2024 hal-04681163v1 가상 보행자가 노인처럼 보이면 간격 큼. Dabbs & Stokes 1975 HTML 초록 없음",
       "createdAt": "2026-11-09T15:24:20.904Z",
       "seq": 4316
-    },
-    {
-      "id": "8794f530",
-      "title": "morbid-curiosity 보강: SNS 파편",
-      "priority": 40,
-      "note": "2026-11-09 머니투데이 2025-10-30 한국어 매체 더함. SNS 남음. georgeherald 2013-09-01 rubbernecking 후보",
-      "createdAt": "2026-11-09T15:25:16.655Z",
-      "seq": 4317
     },
     {
       "id": "e7e2513b",
@@ -347,6 +339,14 @@
       "note": "2026-11-11 후보: thesandtrap.com forums topic 22319-lightning 댓글 2009-04-02 'Scared out of my mind, I drove down the middle of the fairways'(잔디깎이로 밖에 있다 겁에 질려 피함). 대립은 양쪽에 다른 파편이 필요(같은 SNS 글 두 문서는 WARN). GMA 2025-07-09 골퍼 즉시 떠남은 공포 낱말 없음. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 蚊帳 대목은 ruby 때문에 못 씀",
       "createdAt": "2026-11-11T09:38:25.452Z",
       "seq": 4586
+    },
+    {
+      "id": "488adb4c",
+      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, SNS 파편",
+      "priority": 40,
+      "note": "2026-11-09 Lasry 1992 europepmc 1544117 더함. Perndorfer 2018 은 예측이라 간선 근거 약함. 2026-11-11 SNS 못 찾음: HN 43027887·48128460 은 가족, 47018946 'Scanxiety is real' 은 암 경험자 여부 불명, clien park/17942527 은 제3자 설명, use/15936447 은 진단 직후. 다음 검색어: 클리앙 '완치 판정 재발' '추적검사 날', HN 'I'm in remission'",
+      "createdAt": "2026-11-11T12:33:24.014Z",
+      "seq": 4594
     },
     {
       "id": "022dfb2f",
