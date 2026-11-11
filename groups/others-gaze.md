@@ -34,6 +34,7 @@
 - [사회불안의 안전 행동](../docs/social-anxiety-safety-behaviors.md) 사회적 상황에서 불안한 사람이 남의 눈에 띄거나 부정적으로 보이지 않으려고 눈 맞춤을 피하거나 말수를 줄인다.
   - [되풀이 사과](../docs/over-apologizing.md)
 - [사회적 상황 앞의 예기불안](../docs/anticipatory-social-anxiety.md) 다가올 발표나 회의 같은 사회적 상황을 앞둔 사람이 그 장면을 미리 떠올리며 불안해한다.
+- [새 머리 모양 후회](../docs/regretting-a-new-haircut.md) 머리를 자르거나 모양을 바꾼 사람이 그 결과를 마음에 들어 하지 않고 후회한다.
 - [수줍은 방광](../docs/shy-bladder.md) 공중화장실에서 다른 사람이 가까이 있는 사람이 소변을 시작하지 못하거나 화장실 쓰기를 두려워한다.
 - [실패 사실 숨기기](../docs/concealing-failure.md) 시험이나 일에서 실패한 사람이 창피해서 그 사실을 가족이나 주변 사람에게 말하지 않거나 숨긴다.
   - [실직 사실 숨기기](../docs/concealing-job-loss.md)

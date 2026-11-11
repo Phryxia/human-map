@@ -335,6 +335,7 @@
 - [산재 신고 꺼리기](docs/not-reporting-workplace-injury.md) ([일터와 일자리](groups/work.md))
 - [상습 지각](docs/chronic-lateness.md) ([시간과 하루 습관](groups/daily-time.md))
 - [상품권과 포인트 쓰지 않고 소멸시키기](docs/letting-gift-cards-and-points-expire.md) ([돈과 소비](groups/money.md))
+- [새 머리 모양 후회](docs/regretting-a-new-haircut.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [새 일터나 새 학교 첫날의 떨림](docs/first-day-nerves.md) ([일터와 일자리](groups/work.md))
 - [새치기를 보고도 말하지 않기](docs/staying-silent-at-line-cutting.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [새치기에 항의하기](docs/confronting-line-cutters.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
