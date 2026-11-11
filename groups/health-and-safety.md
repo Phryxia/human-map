@@ -61,6 +61,7 @@
 - [자거나 외출하며 세탁기와 건조기 돌려 두기](../docs/leaving-appliances-running-unattended.md) 잠자리에 들거나 집을 나서는 사람이 세탁기, 건조기, 식기세척기를 돌려 둔 채 둔다.
 - [자기 전 양치 거르기](../docs/skipping-bedtime-toothbrushing.md) 밤에 잠자리에 드는 사람이 피곤하거나 귀찮아서 이를 닦지 않고 잔다.
 - [자외선 차단제 안 바르기](../docs/sunscreen-nonuse.md) 햇볕에 나가는 사람이 번거롭거나 필요 없다고 여겨 자외선 차단제를 바르지 않는다.
+- [전기자전거 배터리 집 안에서 충전하기](../docs/charging-e-bikes-indoors.md) 전기자전거를 타는 사람이 배터리를 집 안의 복도나 침실에서 충전한다.
 - [정상 집착](../docs/summit-fever.md) 산을 오르는 사람이 날씨가 나빠지거나 시간이 늦어져도 정상에 가겠다는 마음에 돌아서지 않고 계속 오른다.
 - [정전 때 발전기와 숯 그릴을 실내 가까이 쓰기](../docs/indoor-generator-and-grill-use.md) 정전을 겪는 사람이 휴대용 발전기를 집 안이나 창문 옆, 차고에서 돌리거나 숯 그릴을 집 안에 들인다.
 - [조리 중 자리 비우기](../docs/leaving-cooking-unattended.md) 사람이 레인지에 음식을 올려 둔 채 다른 일을 하러 자리를 비우거나 잠들어 조리 중인 것을 잊는다.

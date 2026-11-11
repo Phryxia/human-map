@@ -569,6 +569,7 @@
 - [재활용되기를 바라며 재활용함에 넣기](docs/wishcycling.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [저녁형 성향](docs/evening-chronotype.md) ([시간과 하루 습관](groups/daily-time.md))
 - [적막해서 TV 켜 두기](docs/leaving-tv-on-for-company.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [전기자전거 배터리 집 안에서 충전하기](docs/charging-e-bikes-indoors.md) ([건강과 위험](groups/health-and-safety.md))
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [점과 운세 보기](docs/consulting-fortune-tellers.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [점심 휴식 거르고 일하기](docs/skipping-lunch-break.md) ([일터와 일자리](groups/work.md))
