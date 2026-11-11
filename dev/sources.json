@@ -7520,9 +7520,9 @@
   },
   "https://www.gutenberg.org/cache/epub/6688/pg6688-images.html": {
     "first": "2026-10-22",
-    "last": "2026-11-03",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-11"
   },
   "https://ideas.repec.org/a/ucp/jacres/doi10.1086-714363.html": {
     "first": "2026-10-22",
@@ -18637,21 +18637,21 @@
   },
   "https://www.gutenberg.org/cache/epub/1715/pg1715-images.html": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-11"
   },
   "https://brunch.co.kr/@designdaeun/58": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-11"
   },
   "https://www.nber.org/papers/w23945": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-11"
   },
   "https://www.gutenberg.org/cache/epub/730/pg730-images.html": {
     "first": "2026-11-04",
@@ -24218,5 +24218,17 @@
     "last": "2026-11-10",
     "result": "VERIFIED",
     "lastVerified": "2026-11-10"
+  },
+  "https://www.savingadvice.com/forums/forum/financial-chit-chat/general-discussion/48796-": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://money.com/how-often-should-you-check-your-bank-account-app/": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
   }
 }
