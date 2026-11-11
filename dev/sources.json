@@ -16844,21 +16844,21 @@
   },
   "https://www.priv.gc.ca/en/blog/20110826/": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-11"
   },
   "https://www.usenix.org/conference/laser2017/presentation/maimon": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-11"
   },
   "https://news.ycombinator.com/item?id=18962989": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-11"
   },
   "https://news.ycombinator.com/item?id=1691338": {
     "first": "2026-11-02",
@@ -16934,9 +16934,9 @@
   },
   "https://www.soumu.go.jp/menu_news/s-news/01ryutsu03_02000091.html": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-11"
   },
   "https://news.ycombinator.com/item?id=41815594": {
     "first": "2026-11-02",
@@ -17995,9 +17995,9 @@
   },
   "https://nordvpn.com/nordvpn-research-americans-online-banking/": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-11",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-11"
   },
   "https://www.newsis.com/view/NISX20221007_0002041578": {
     "first": "2026-11-03",
@@ -24424,6 +24424,12 @@
     "lastVerified": "2026-11-11"
   },
   "https://news.ycombinator.com/item?id=45132469": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://yougov.com/en-gb/articles/2846": {
     "first": "2026-11-11",
     "last": "2026-11-11",
     "result": "VERIFIED",
