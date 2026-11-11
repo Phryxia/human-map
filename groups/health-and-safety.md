@@ -32,6 +32,7 @@
 - [논밭두렁과 영농부산물 태우기](../docs/burning-farm-waste.md) 농촌 주민이 산불 위험과 금지 안내를 알면서도 논밭두렁이나 영농부산물, 쓰레기를 태운다.
 - [늙어 보이는 보조기구 꺼림](../docs/avoiding-aids-that-look-old.md) 몸의 기능이 떨어진 사람이 늙어 보이는 것이 싫어 보청기나 지팡이 같은 보조기구를 쓰지 않거나 눈에 띄지 않게 한다.
   - [지팡이와 보행보조기 거부](../docs/refusing-mobility-aids.md)
+- [다리미 켜 둔 채 자리 뜨기](../docs/leaving-iron-on.md) 옷을 다리던 사람이 다리미를 끄지 않고 자리를 뜨거나 집을 나선다.
 - [대기오염 경보에도 바깥 활동 줄이지 않기](../docs/ignoring-air-quality-alerts.md) 대기오염 경보나 미세먼지 나쁨 예보가 나온 날 사람들이 마스크를 쓰지 않거나 바깥 활동을 줄이지 않는다.
 - [대피 미루기](../docs/delayed-evacuation.md) 화재나 해일의 경보나 징후를 접한 사람이 위험이 크지 않다고 여겨 대피하지 않거나 늦게 움직인다.
   - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)
