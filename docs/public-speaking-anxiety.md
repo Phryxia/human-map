@@ -14,7 +14,7 @@
 
 2015년 Hacker News 댓글[^4]의 글쓴이는 발표 30초쯤 전부터 심장이 뛰고 숨이 가빠진다고 적었다. 2018년 Hacker News 댓글[^5]의 글쓴이는 고등학교에서 평점 4.0 대신 3.0을 받은 까닭을 무대 공포로 들었다.
 
-2019년 메타분석[^6]은 발표 공포를 사회불안의 한 유형이자 사람들이 가장 흔히 두려워하는 상황으로 적었다. 2023년 오슬로 학생복지재단의 안내문[^7]은 무대에 설 때 겨드랑이에 땀이 나고 목소리가 떨리고 무릎이 흔들리는 일을 다뤘다.
+2019년 메타분석[^6]은 발표 공포를 사회불안의 한 유형이자 사람들이 가장 흔히 두려워하는 상황으로 적었다. 2023년 오슬로 학생복지재단의 안내문[^7]은 무대에 설 때 겨드랑이에 땀이 나고 목소리가 떨리고 무릎이 흔들리는 일을 다뤘다. 2025년 수단 의대생 연구[^8]에서 참가자의 45%는 중간 정도, 11.5%는 높은 정도의 발표 불안을 겪었다.
 
 # 관계
 
@@ -47,3 +47,4 @@
 [^5]: [SNS] "It's the main reason why I didn't get a 4.0 in high school and instead got a 3.0: entirely, 100% stage fright." (고등학교에서 4.0 대신 3.0을 받은 주된 이유다. 전적으로, 100% 무대 공포 때문이다.) — Hacker News 댓글, 2018-12-22, https://news.ycombinator.com/item?id=18738829, 2026-11-11 접속
 [^6]: [학술] "Fear of Public Speaking (FoPS) or public speaking anxiety is a type of social anxiety and the single most commonly feared situation in the population." (발표 공포(FoPS) 또는 발표 불안은 사회불안의 한 유형이며 인구에서 가장 흔히 두려워하는 단일 상황이다.) — Omid V. Ebrahimi, Ståle Pallesen, Robin M. F. Kenter, Tine Nordgreen, "Psychological Interventions for the Fear of Public Speaking: A Meta-Analysis", Frontiers in Psychology, 2019-03-15, https://pmc.ncbi.nlm.nih.gov/articles/PMC6428748/, 2026-11-11 접속
 [^7]: [공공] "this text is about how you can learn to tolerate sweaty armpits, a trembling voice, or shaky knees when you step onto the stage." (이 글은 무대에 설 때 땀 나는 겨드랑이, 떨리는 목소리, 흔들리는 무릎을 견디는 법을 배우는 것에 관한 것이다.) — SiO, "Fear of public speaking?", 2023-04-20, https://sio.no/en/health/mental-health-and-counselling/Articles/Fear-of-public-speaking, 2026-11-11 접속
+[^8]: [학술] "Nearly half of the participants (45%) experienced moderate PSA, while 11.5% exhibited high PSA." (참가자의 거의 절반(45%)이 중간 정도의 발표 불안을 겪었고 11.5%는 높은 발표 불안을 보였다.) — Weam Mohamed Meargni Ahmed 외, "Public speaking anxiety and self-efficacy among Sudanese medical students: a cross-sectional study", BMC Psychology, 2025-06-04, https://pmc.ncbi.nlm.nih.gov/articles/PMC12135526/, 2026-11-11 접속
