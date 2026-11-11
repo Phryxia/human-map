@@ -24890,5 +24890,23 @@
     "last": "2026-11-11",
     "result": "VERIFIED",
     "lastVerified": "2026-11-11"
+  },
+  "https://www.gutenberg.org/cache/epub/2619/pg2619-images.html": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11726612/": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://eopla.net/magazines/36987": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
   }
 }
