@@ -256,6 +256,7 @@
 - [받은 음식 남기기](docs/leaving-food-on-the-plate.md) ([시간과 하루 습관](groups/daily-time.md))
 - [받은 편지와 메시지 되풀이해 읽기](docs/rereading-received-messages.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [받을 돈 찾아가지 않기](docs/unclaimed-money.md) ([돈과 소비](groups/money.md))
+- [발표 불안](docs/public-speaking-anxiety.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [밤 소리를 침입자로 여기기](docs/imagining-intruders-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [밤길 혼자 걷기 두려움](docs/fear-of-walking-alone-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [방관자 효과](docs/bystander-effect.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
