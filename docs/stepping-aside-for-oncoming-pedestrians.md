@@ -22,6 +22,8 @@
 
 2021년 Rapos 등의 실험[^7]에서 노인과 젊은 성인이 마주 걸어 부딪힐 듯하면 누가 먼저 지나가든 젊은 성인이 피하는 움직임을 더 많이 맡았다.
 
+2024년 Bourgaize 등의 가상현실 실험[^8]에서 젊은 성인 참가자는 마주 오는 가상 보행자가 노인처럼 보이거나 노인처럼 걸을 때 젊은 사람처럼 보이거나 걸을 때보다 더 넓은 간격을 두고 비켜 지나갔다.
+
 # 관계
 
 ## 상위
@@ -53,3 +55,4 @@
 [^5]: [매체] "But crucially, neither personality traits, gender, age, height or weight were related to what kind of collision avoidance strategy the participants tended to use." (그런데 결정적으로 성격 특성, 성별, 나이, 키, 몸무게 가운데 어느 것도 참가자들이 즐겨 쓰는 충돌 회피 전략의 종류와 관계가 없었다.) — Christian Jarrett, "There are three kinds of pedestrian – which are you?", BPS Research Digest, 2016-06-24, https://bps.org.uk/research-digest/there-are-three-kinds-pedestrian-which-are-you, 2026-11-06 접속
 [^6]: [매체] "Women often complain about how they have to move out of the way for people walking on the street." (여성들은 길을 걷는 사람들을 위해 자기가 비켜 줘야 한다고 자주 불평한다.) — Sage Krishnamurthy McEneany, "Are women, people of color, and kids more likely to get bumped when walking on the street? (Guest post)", Fit Is a Feminist Issue, 2019-08-28, https://fitisafeministissue.com/2019/08/28/are-women-people-of-color-and-kids-more-likely-to-get-bumped-when-walking-on-the-street-guest-post/, 2026-11-06 접속
 [^7]: [학술] "Whenever an older adult was on a collision course with a young adult, the young adult contributed more to the avoidance regardless of passing order." (노인이 젊은 성인과 충돌 경로에 있을 때마다 지나가는 순서와 상관없이 젊은 성인이 회피에 더 많이 기여했다.) — Victoria Rapos, Michael Eric Cinelli, Robyn Grunberg, Sheryl Bourgaize, Armel Crétual, Anne-Hélène Olivier, "Collision avoidance behaviours between older adult and young adult walkers", Gait & Posture 88, 2021, https://hal.science/hal-03368055v1, 2026-11-07 접속
+[^8]: [학술] "Results indicate that clearance was larger when the appearance of VP resembled an OA, and when the VP walked like an OA compared to a YA." (결과는 가상 보행자의 외모가 노인을 닮았을 때, 그리고 가상 보행자가 젊은 성인보다 노인처럼 걸을 때 간격이 더 컸음을 보여 준다.) — Sheryl Bourgaize 외, "Collision avoidance behaviours of young adult walkers: Influence of a virtual pedestrian's age-related appearance and gait profile", HAL hal-04681163, 2024-08-30, https://hal.science/hal-04681163v1, 2026-11-11 접속
