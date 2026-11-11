@@ -8,11 +8,13 @@
 
 # 서술
 
-2014년 기사[^1]의 십대는 타는 냄새의 출처를 찾다가 자신이 충전 중인 휴대폰을 베개 밑에 끼워 두었다는 것을 알았다. 2017년 기사[^2]가 전하는 미국 소방서 자료에서 아이와 십대의 53%는 휴대폰과 아이패드를 베개 밑이나 침대에서 충전했다.
+2007년 게시글[^1]의 글쓴이는 침대맡에서 휴대폰을 충전기에 꽂아 두고 가끔 꽂힌 채로 썼고 케이블이 짧아 침대에서 돌아눕지도 못한다고 적었다.
 
-2020년 영국 조사[^3]에서 재택근무 중인 웨일스 응답자의 52%는 노트북이나 휴대폰을 충전하면서 침대 위에 두는 일이 자주 또는 가끔 있었다. 2023년 영국 지방정부 글[^4]은 침대 위에서 기기를 충전하던 충전기가 과열되어 불이 난 집을 전한다.
+2014년 기사[^2]의 십대는 타는 냄새의 출처를 찾다가 자신이 충전 중인 휴대폰을 베개 밑에 끼워 두었다는 것을 알았다. 2017년 기사[^3]가 전하는 미국 소방서 자료에서 아이와 십대의 53%는 휴대폰과 아이패드를 베개 밑이나 침대에서 충전했다.
 
-2024년 기사[^5]는 소방청 화재 사례를 들어 사람들이 비교적 편안한 공간에서 쉬면서 충전하던 사이 불이 났다고 적었다.
+2020년 영국 조사[^4]에서 재택근무 중인 웨일스 응답자의 52%는 노트북이나 휴대폰을 충전하면서 침대 위에 두는 일이 자주 또는 가끔 있었다. 2023년 댓글[^5]의 글쓴이는 새벽 4시에 집에 든 도둑이 잠든 자신의 몸 위로 손을 뻗어 베개 옆에서 충전 중이던 휴대폰을 집어 갔다고 적었다. 2023년 영국 지방정부 글[^6]은 침대 위에서 기기를 충전하던 충전기가 과열되어 불이 난 집을 전한다.
+
+2024년 기사[^7]는 소방청 화재 사례를 들어 사람들이 비교적 편안한 공간에서 쉬면서 충전하던 사이 불이 났다고 적었다. 2026년 증례 보고[^8]의 환자는 처음에 열원에 닿은 적이 없다고 답했고 다시 묻자 충전 중인 보조배터리를 다리 밑에 둔 채 잤다는 것을 떠올렸다.
 
 # 관계
 
@@ -38,8 +40,11 @@
 
 #건강 #온라인
 
-[^1]: [매체] "When she got up and searched around for the source of the stench, she realized that she had wedged her charging phone under her pillow." (일어나 냄새의 출처를 찾던 그는 자신이 충전 중인 휴대폰을 베개 밑에 끼워 두었다는 것을 알았다.) — Yahoo Tech, "Girl’s Galaxy S4 Smartphone Burns Under Her Pillow as She Sleeps", 2014-07-28, https://www.yahoo.com/tech/girls-galaxy-s4-smartphone-burns-under-her-pillow-as-93135039699.html, 2026-11-11 접속
-[^2]: [매체] "According to the Newton Fire Department, 53 percent of kids and teens charge their phones and iPads under their pillows or in bed." (뉴턴 소방서에 따르면 아이와 십대의 53%가 휴대폰과 아이패드를 베개 밑이나 침대에서 충전한다.) — KSAT, Mariah Medina, "Fire department warning parents to check where kids charge their phones", 2017-07-10, https://www.ksat.com/news/2017/07/11/fire-department-warning-parents-to-check-where-kids-charge-their-phones/, 2026-11-11 접속
-[^3]: [공공] "with 52 per cent of those surveyed in Wales either often or sometimes placing an electrical item such as a laptop or phone on their bed whilst it is charging" (웨일스 응답자의 52%가 노트북이나 휴대폰 같은 전기기기를 충전하는 동안 침대 위에 자주 또는 가끔 둔다) — South Wales Fire and Rescue Service, "How Safe is Your Work From Home Setup?", 2020-04, https://www.southwales-fire.gov.uk/newsroom/news/how-safe-is-your-work-from-home-setup/, 2026-11-11 접속
-[^4]: [공공] "the charger, which had been left plugged in and charging a device on a bed, overheated and caught fire." (침대 위에서 기기를 충전하도록 꽂아 둔 충전기가 과열되어 불이 붙었다.) — Warwickshire County Council, "Warwickshire residents warned of the dangers of charging devices on beds after house fire", 2023-05-02, https://warwickshire.gov.uk/news/article/4137/warwickshire-residents-warned-of-the-dangers-of-charging-devices-on-beds-after-house-fire, 2026-11-11 접속
-[^5]: [매체] "비교적 편안한 공간에서 쉬면서 충전하던 사이 불이 났다는 얘기다." — 서울신문, "침대서 스마트폰 충전하다 펑!… 리튬이온 배터리 화재 절반이 ‘과충전’", 2024-07-21, https://m.seoul.co.kr/news/2024/07/21/20240721500100, 2026-11-11 접속
+[^1]: [SNS] "I like to keep the phone in the usb cable/charger by my bedside and once in a while i may use it while connected to the charger and i can't even turn over on the bed without running out of cable." (휴대폰을 침대맡에서 USB 케이블과 충전기에 꽂아 두고 가끔 충전기에 연결된 채로 쓰는데 케이블이 모자라 침대에서 돌아눕지도 못한다.) — MacRumors Forums 게시글, 2007-08-16, https://forums.macrumors.com/threads/iphone-usb-cable-too-short-anyone-else-feel-the-same.342962/, 2026-11-11 접속
+[^2]: [매체] "When she got up and searched around for the source of the stench, she realized that she had wedged her charging phone under her pillow." (일어나 냄새의 출처를 찾던 그는 자신이 충전 중인 휴대폰을 베개 밑에 끼워 두었다는 것을 알았다.) — Yahoo Tech, "Girl’s Galaxy S4 Smartphone Burns Under Her Pillow as She Sleeps", 2014-07-28, https://www.yahoo.com/tech/girls-galaxy-s4-smartphone-burns-under-her-pillow-as-93135039699.html, 2026-11-11 접속
+[^3]: [매체] "According to the Newton Fire Department, 53 percent of kids and teens charge their phones and iPads under their pillows or in bed." (뉴턴 소방서에 따르면 아이와 십대의 53%가 휴대폰과 아이패드를 베개 밑이나 침대에서 충전한다.) — KSAT, Mariah Medina, "Fire department warning parents to check where kids charge their phones", 2017-07-10, https://www.ksat.com/news/2017/07/11/fire-department-warning-parents-to-check-where-kids-charge-their-phones/, 2026-11-11 접속
+[^4]: [공공] "with 52 per cent of those surveyed in Wales either often or sometimes placing an electrical item such as a laptop or phone on their bed whilst it is charging" (웨일스 응답자의 52%가 노트북이나 휴대폰 같은 전기기기를 충전하는 동안 침대 위에 자주 또는 가끔 둔다) — South Wales Fire and Rescue Service, "How Safe is Your Work From Home Setup?", 2020-04, https://www.southwales-fire.gov.uk/newsroom/news/how-safe-is-your-work-from-home-setup/, 2026-11-11 접속
+[^5]: [SNS] "a burglar entered my house at 4am and was cleaning out my room, reaching over my sleeping body to grab my phone charging next to my pillow." (새벽 4시에 도둑이 집에 들어와 내 방을 털면서 잠든 내 몸 위로 손을 뻗어 베개 옆에서 충전 중이던 내 휴대폰을 집어 갔다.) — Hacker News 댓글, 2023-02-28, https://news.ycombinator.com/item?id=34969241, 2026-11-11 접속
+[^6]: [공공] "the charger, which had been left plugged in and charging a device on a bed, overheated and caught fire." (침대 위에서 기기를 충전하도록 꽂아 둔 충전기가 과열되어 불이 붙었다.) — Warwickshire County Council, "Warwickshire residents warned of the dangers of charging devices on beds after house fire", 2023-05-02, https://warwickshire.gov.uk/news/article/4137/warwickshire-residents-warned-of-the-dangers-of-charging-devices-on-beds-after-house-fire, 2026-11-11 접속
+[^7]: [매체] "비교적 편안한 공간에서 쉬면서 충전하던 사이 불이 났다는 얘기다." — 서울신문, "침대서 스마트폰 충전하다 펑!… 리튬이온 배터리 화재 절반이 ‘과충전’", 2024-07-21, https://m.seoul.co.kr/news/2024/07/21/20240721500100, 2026-11-11 접속
+[^8]: [학술] "At the initial visit, he denied exposure to thermal sources; however, upon further questioning, he recalled that he had slept with a portable power bank beneath his leg while it was charging." (첫 방문에서 그는 열원에 노출된 적이 없다고 했으나 다시 묻자 충전 중인 휴대용 보조배터리를 다리 밑에 둔 채 잤다는 것을 떠올렸다.) — Sooyie Choi 외, "Clinical and Pathological Features of Cutaneous Burns Caused by Mobile Phone Charging Devices", Cureus, 2026-02-21, https://pmc.ncbi.nlm.nih.gov/articles/PMC13008570/, 2026-11-11 접속
