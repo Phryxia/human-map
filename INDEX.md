@@ -633,6 +633,7 @@
 - [천둥 번개 속 바깥 활동 계속하기](docs/staying-outdoors-in-thunderstorms.md) ([건강과 위험](groups/health-and-safety.md))
 - [첫날 밤 효과](docs/first-night-effect.md) ([시간과 하루 습관](groups/daily-time.md))
 - [첫눈 반기기](docs/welcoming-first-snow.md) ([시간과 하루 습관](groups/daily-time.md))
+- [첫인상으로 사람 판단하기](docs/judging-by-first-impressions.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [청력 보호구 미착용](docs/hearing-protection-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [청력 손실 숨기기](docs/hiding-hearing-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [촛불 켜 둔 채 자리 비우기](docs/leaving-candles-unattended.md) ([건강과 위험](groups/health-and-safety.md))
