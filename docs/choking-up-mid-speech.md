@@ -16,7 +16,9 @@
 
 2008년 댓글[^4]의 글쓴이는 추도사를 혼자 여러 번 소리 내어 읽어 둔 덕에 실제로 읽을 때 목이 크게 메지 않았다고 썼다. 2023년 댓글[^5]의 글쓴이는 고인을 위해 글을 써 두었지만 직접 읽으면 무너지지 않을 수 없다고 여겨 집전자에게 대신 읽게 했다.
 
-2026년 연구[^6]에서 감동한 기억을 떠올린 참가자는 목이 메는 느낌을 28.3%, 목에 덩어리가 걸린 느낌을 34.8%, 말하기 어려움을 28.3% 보고했다. 이 비율은 비교 조건의 6.6%, 12.6%, 4.4% 보다 높았다.
+2024년 장례 안내 글[^6]은 추도사를 거듭 연습하면 낭독하며 느끼는 감정이 누그러질 수 있다고 쓴다.
+
+2026년 연구[^7]에서 감동한 기억을 떠올린 참가자는 목이 메는 느낌을 28.3%, 목에 덩어리가 걸린 느낌을 34.8%, 말하기 어려움을 28.3% 보고했다. 이 비율은 비교 조건의 6.6%, 12.6%, 4.4% 보다 높았다.
 
 # 관계
 
@@ -38,7 +40,7 @@
 
 ## 대립
 
-없음.
+- [할 말 미리 연습하기](rehearsing-what-to-say.md)[^4][^6]
 
 #마음
 
@@ -47,4 +49,5 @@
 [^3]: [문학] "정선은 말없이 고개만 끄덕끄덕하였다. 목이 메어 말이 나오지를 아니하는 것이었다." — 이광수, 「흙」 제3장, 위키문헌, 1932, https://ko.wikisource.org/wiki/%ED%9D%99/%EC%A0%9C3%EC%9E%A5, 2026-11-11 접속
 [^4]: [SNS] "I read the thing out loud many times in private, that really helped me not choke up too much during the actual reading" (혼자 있을 때 그 글을 여러 번 소리 내어 읽었는데, 그 덕에 실제로 읽을 때 목이 그리 많이 메지 않았다) — Straight Dope Message Board 댓글, 2008-02-29, https://boards.straightdope.com/t/seeking-tips-on-delivering-a-eulogy-without-losing-it/439640, 2026-11-11 접속
 [^5]: [SNS] "I wrote some words for him but I know there’s absolutely no way I’d be able to speak without breaking down so the celebrant will speak for me." (그를 위해 몇 마디를 썼지만 무너지지 않고 말할 수는 절대 없다는 걸 알기에 집전자가 나 대신 말할 것이다.) — community.sueryder.org 댓글, 2023-04-20, https://community.sueryder.org/t/funeral-fears/65611, 2026-11-11 접속
-[^6]: [학술] "Intense expressions like feeling choked up (28.3% vs. 6.6%), a lump in the throat (34.8% vs. 12.6%), and difficulty speaking (28.3% vs. 4.4%) were also more common in memory-based experiences." (목이 메는 느낌(28.3% 대 6.6%), 목에 덩어리가 걸린 느낌(34.8% 대 12.6%), 말하기 어려움(28.3% 대 4.4%) 같은 강한 표현도 기억에 기반한 경험에서 더 흔했다.) — Xiaohan Zhou, Helmut Leder, 「Being moved by modern abstract art」, Frontiers in Psychology 17, 2026-02-13, https://pmc.ncbi.nlm.nih.gov/articles/PMC12946045/, 2026-11-11 접속
+[^6]: [매체] "Rehearsing the eulogy over and over can also soften the emotions you feel while reading." (추도사를 거듭 연습하면 낭독하며 느끼는 감정도 누그러질 수 있다.) — Courtney Cook, "5 Public Speaking Tips for Delivering a Eulogy", Funeral Basics, 2024-10-18, https://www.funeralbasics.org/public-speaking-tips-delivering-a-eulogy/, 2026-11-11 접속
+[^7]: [학술] "Intense expressions like feeling choked up (28.3% vs. 6.6%), a lump in the throat (34.8% vs. 12.6%), and difficulty speaking (28.3% vs. 4.4%) were also more common in memory-based experiences." (목이 메는 느낌(28.3% 대 6.6%), 목에 덩어리가 걸린 느낌(34.8% 대 12.6%), 말하기 어려움(28.3% 대 4.4%) 같은 강한 표현도 기억에 기반한 경험에서 더 흔했다.) — Xiaohan Zhou, Helmut Leder, 「Being moved by modern abstract art」, Frontiers in Psychology 17, 2026-02-13, https://pmc.ncbi.nlm.nih.gov/articles/PMC12946045/, 2026-11-11 접속

@@ -16,6 +16,8 @@
 
 2023년 YTN 이 보도한 조사에서 콜 포비아를 겪는 MZ세대 응답자는 대처 방법으로 통화 전 대본 작성(28.4%)을 꼽았다.[^4]
 
+2024년 장례 안내 글[^5]은 추도사를 거듭 연습하면 낭독하며 느끼는 감정이 누그러질 수 있다고 쓴다.
+
 # 관계
 
 ## 상위
@@ -36,7 +38,7 @@
 
 ## 대립
 
-없음.
+- [목이 메어 말을 잇지 못하기](choking-up-mid-speech.md)[^5]
 
 #관계
 
@@ -44,3 +46,4 @@
 [^2]: [문학] "He ran over the headings of his speech: Irish hospitality, sad memories, the Three Graces, Paris, the quotation from Browning." (그는 연설의 항목들을 훑어 되짚었다. 아일랜드의 환대, 슬픈 기억, 삼미신, 파리, 브라우닝 인용.) — James Joyce, "The Dead", Dubliners, 1914, https://www.gutenberg.org/cache/epub/2814/pg2814-images.html, 2026-10-18 접속
 [^3]: [학술] "Imagined interactions serve several functions including rehearsal for anticipated encounters." (상상된 상호작용은 예상되는 만남의 리허설을 포함한 여러 기능을 한다.) — Renee Edwards, James M. Honeycutt, Kenneth S. Zagacki, "Imagined interaction as an element of social cognition", Western Journal of Speech Communication 52(1), 1988, https://repository.lsu.edu/cmst_pubs/104, 2026-10-18 접속
 [^4]: [매체] "콜 포비아 증상을 겪는 MZ세대 10명 중 9명(90.4%)은 콜포비아에 대처하기 위한 방법으로 ‘모르는 번호의 전화는 받지 않기(39.2%)’가 가장 많이 꼽혔다. △전화 통화를 최소화하고 이메일, 문자 위주로 소통(28.8%) △전화 통화를 하기 전 미리 대본 작성(28.4%) 등이 뒤를 이었다." — 이유나, "'통화 대신 문자 하면 안 될까요?'...'콜 포비아' 늘어난 MZ세대", YTN, 2023-11-01, https://www.ytn.co.kr/_ln/0103_202311011050017994, 2026-10-18 접속
+[^5]: [매체] "Rehearsing the eulogy over and over can also soften the emotions you feel while reading." (추도사를 거듭 연습하면 낭독하며 느끼는 감정도 누그러질 수 있다.) — Courtney Cook, "5 Public Speaking Tips for Delivering a Eulogy", Funeral Basics, 2024-10-18, https://www.funeralbasics.org/public-speaking-tips-delivering-a-eulogy/, 2026-11-11 접속
