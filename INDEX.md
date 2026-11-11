@@ -103,6 +103,7 @@
 - [나아지면 약 끊기](docs/stopping-medication-when-feeling-better.md) ([건강과 위험](groups/health-and-safety.md))
 - [나이 줄여 말하기](docs/understating-age.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [낙관 편향](docs/unrealistic-optimism.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [난방기기 켜 둔 채 잠들기](docs/sleeping-with-heater-on.md) ([건강과 위험](groups/health-and-safety.md))
 - [날닭고기 씻기](docs/washing-raw-chicken.md) ([건강과 위험](groups/health-and-safety.md))
 - [날씨 이야기로 말문 열기](docs/weather-small-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [날씨 타기](docs/weather-mood-reactivity.md) ([걱정과 기분](groups/worry-and-mood.md))

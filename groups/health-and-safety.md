@@ -20,6 +20,7 @@
 - [금연 뒤 다시 피우기](../docs/smoking-relapse.md) 담배를 끊으려던 사람이 다시 담배를 피운다.
 - [기침할 때 가리지 않기](../docs/not-covering-coughs.md) 공공장소에서 기침이나 재채기를 하는 사람이 습관이 되지 않았거나 귀찮아서 입과 코를 가리지 않거나 맨손으로만 가린다.
 - [나아지면 약 끊기](../docs/stopping-medication-when-feeling-better.md) 처방약을 먹던 사람이 증상이 나아지면 다 나았다고 여겨 정해진 기간을 채우지 않고 스스로 약을 끊는다.
+- [난방기기 켜 둔 채 잠들기](../docs/sleeping-with-heater-on.md) 추운 밤에 사람이 전기장판, 전기담요, 전기난로 같은 난방기기를 켜 둔 채 잠든다.
 - [날닭고기 씻기](../docs/washing-raw-chicken.md) 집에서 닭고기를 요리하는 사람이 조리 전에 날닭고기를 물에 씻거나 헹군다.
 - [날짜 지난 음식 먹기의 찜찜함](../docs/uneasy-eating-past-date-food.md) 포장의 날짜가 지난 음식을 앞에 둔 사람이 냄새나 맛에 이상이 없어도 먹기를 찜찜하게 느낀다.
 - [남은 약 다시 먹기](../docs/reusing-leftover-medicine.md) 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.
