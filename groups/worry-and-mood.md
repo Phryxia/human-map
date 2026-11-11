@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- [가구 배치 바꾸기](../docs/rearranging-furniture.md) 기분이 가라앉거나 답답한 사람이 쓰던 방의 가구 자리를 옮긴다.
 - [거미와 벌레 무서움](../docs/fear-of-spiders-and-insects.md) 거미나 바퀴벌레 같은 작은 생물을 본 사람이 겁에 질려 움츠러들거나 그 자리를 피한다.
 - [건강 불안](../docs/health-anxiety.md) 사람이 뚜렷한 근거 없이 자기가 심각한 병에 걸렸거나 걸릴 것이라고 걱정한다.
   - [건강 안심 구하기](../docs/health-reassurance-seeking.md)

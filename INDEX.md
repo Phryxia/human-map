@@ -2,6 +2,7 @@
 
 전체 문서를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
+- [가구 배치 바꾸기](docs/rearranging-furniture.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
 - [가난을 숨기려는 또래 관계 회피](docs/poverty-peer-withdrawal.md) ([돈과 소비](groups/money.md))
