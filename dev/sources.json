@@ -24296,5 +24296,29 @@
     "last": "2026-11-11",
     "result": "VERIFIED",
     "lastVerified": "2026-11-11"
+  },
+  "https://www.gutenberg.org/cache/epub/26851/pg26851-images.html": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://eric.ed.gov/?id=EJ816376": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://news.jkn.co.kr/post/319960": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4958349/": {
+    "first": "2026-11-11",
+    "last": "2026-11-11",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-11"
   }
 }

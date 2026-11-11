@@ -40,6 +40,7 @@
 - [백업 미루기](putting-off-backups.md)
 - [재난 대비 미루기](not-preparing-for-disasters.md)
 - [글 막힘](writers-block.md)
+- [벼락치기](cramming.md)
 
 ## 원인
 
