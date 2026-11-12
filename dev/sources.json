@@ -10448,9 +10448,9 @@
   },
   "https://www.gutenberg.org/cache/epub/113/pg113-images.html": {
     "first": "2026-10-25",
-    "last": "2026-11-09",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-12"
   },
   "https://www.dvm360.com/view/survey-says-pets-more-reliable-people": {
     "first": "2026-10-25",
@@ -23172,15 +23172,15 @@
   },
   "https://boards.straightdope.com/t/getting-up-early/55818": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-12"
   },
   "https://boards.straightdope.com/t/early-bird-or-night-owl/258894": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-12"
   },
   "https://www.gutenberg.org/cache/epub/1463/pg1463-images.html": {
     "first": "2026-11-09",
@@ -23334,9 +23334,9 @@
   },
   "https://brunch.co.kr/@betteryoon/113": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-12"
   },
   "https://cris.vtt.fi/en/publications/impressions-of-functional-food-consumers/": {
     "first": "2026-11-09",
@@ -25384,6 +25384,12 @@
     "lastVerified": "2026-11-12"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690865/": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10604366/": {
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "VERIFIED",
