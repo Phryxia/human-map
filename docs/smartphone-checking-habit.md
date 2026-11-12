@@ -22,7 +22,7 @@
 
 ## 하위
 
-없음.
+- [틈날 때마다 휴대폰 집기](picking-up-phone-in-idle-moments.md)
 
 ## 원인
 

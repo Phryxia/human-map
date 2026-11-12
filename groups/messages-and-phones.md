@@ -25,6 +25,7 @@
 - [비밀번호 재사용](../docs/password-reuse.md) 여러 온라인 계정을 쓰는 사람이 사이트마다 다른 비밀번호를 만들지 않고 같은 비밀번호를 여러 곳에 쓴다.
 - [빨리 답해야 한다는 압박](../docs/pressure-to-reply-quickly.md) 메시지를 받은 사람이 되도록 빨리 답해야 한다는 압박을 느낀다.
 - [스마트폰 확인 습관](../docs/smartphone-checking-habit.md) 스마트폰 이용자가 화면을 짧게 자주 들여다보다가 다른 일로 넘어가 쓰는 시간이 늘고 그 시간을 조절하지 못한다.
+  - [틈날 때마다 휴대폰 집기](../docs/picking-up-phone-in-idle-moments.md)
 - [써 놓고 내보내지 않기](../docs/writing-without-sending.md) 메시지나 게시물을 쓴 사람이 보내거나 올리기 전에 그만두고 지우거나 남겨 둔다.
   - [게시 직전 자기검열](../docs/last-minute-self-censorship.md)
   - [보내지 않는 편지 쓰기](../docs/unsent-letters.md)

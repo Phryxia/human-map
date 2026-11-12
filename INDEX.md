@@ -697,6 +697,7 @@
 - [퇴직 뒤 허전함](docs/retirement-emptiness.md) ([일터와 일자리](groups/work.md))
 - [투표 불참](docs/not-voting.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [투표했다고 거짓으로 답하기](docs/claiming-to-have-voted.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [틈날 때마다 휴대폰 집기](docs/picking-up-phone-in-idle-moments.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [편애받는 형제에 대한 질투](docs/sibling-jealousy-over-favoritism.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [평균 이상 효과](docs/better-than-average-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
