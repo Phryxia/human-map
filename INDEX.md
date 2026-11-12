@@ -303,6 +303,7 @@
 - [보채는 아이에게 스마트기기 쥐여 주기](docs/handing-devices-to-fussy-children.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보청기 쓰지 않기](docs/not-wearing-hearing-aids.md) ([건강과 위험](groups/health-and-safety.md))
 - [복권 구매](docs/buying-lottery-tickets.md) ([돈과 소비](groups/money.md))
+- [복권에서 안 나온 번호에 걸기](docs/betting-on-overdue-lottery-numbers.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [복수심](docs/desire-for-revenge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [복지 급여 미신청](docs/not-claiming-benefits.md) ([돈과 소비](groups/money.md), [가까운 사이의 감정과 말](groups/close-relationships.md))
 - [봄 타기](docs/spring-fever.md) ([걱정과 기분](groups/worry-and-mood.md))

@@ -10,6 +10,7 @@
   - [손실 회피](../docs/loss-aversion.md)
 - [낙관 편향](../docs/unrealistic-optimism.md) 사람이 사고나 병 같은 나쁜 일이 남보다 자신에게 덜 일어난다고 믿는다.
 - [도박사의 오류](../docs/gamblers-fallacy.md) 같은 결과가 이어지는 것을 본 사람이 다음에는 다른 결과가 나올 차례라고 믿는다.
+  - [복권에서 안 나온 번호에 걸기](../docs/betting-on-overdue-lottery-numbers.md)
 - [매몰비용 때문에 그만두지 못하기](../docs/sunk-cost-persistence.md) 시간이나 돈, 노력을 이미 들인 사람이 더 얻을 것이 적은데도 들인 것이 아까워 그 일을 그만두지 못하고 계속한다.
 - [미어캣 효과](../docs/meerkat-effect.md) 주식 투자자가 시장이 오르거나 내린 뒤 자기 계좌를 더 자주 확인한다.
 - [사후 확신 편향](../docs/hindsight-bias.md) 일의 결과를 알게 된 사람이 그 결과를 처음부터 예측할 수 있었다고 느낀다.

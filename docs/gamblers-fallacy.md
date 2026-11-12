@@ -30,7 +30,7 @@
 
 ## 하위
 
-없음.
+- [복권에서 안 나온 번호에 걸기](betting-on-overdue-lottery-numbers.md)
 
 ## 원인
 
