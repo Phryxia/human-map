@@ -692,6 +692,14 @@
     ]
   },
   {
+    "id": "where-to-live",
+    "title": "사는 곳과 옮겨 살기",
+    "summary": "사람이 살 곳을 고르고 떠나고 옮겨 가는 일이다.",
+    "roots": [
+      "moving-to-the-countryside"
+    ]
+  },
+  {
     "id": "traits",
     "title": "성향과 기질",
     "summary": "사람마다 다르고 오래 이어지는 생각과 행동의 성향이다.",
