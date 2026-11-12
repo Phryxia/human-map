@@ -25435,5 +25435,11 @@
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "UNREACHABLE"
+  },
+  "https://pann.nate.com/talk/370767597": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
   }
 }
