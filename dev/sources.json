@@ -23579,21 +23579,21 @@
   },
   "https://www.merckmanuals.com/home/drugs/factors-affecting-response-to-medications/adherence-to-medication": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://v.daum.net/v/20250507162324901": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21974735&rettype=abstract&retmode=text": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4074319/": {
     "first": "2026-11-10",
@@ -23645,9 +23645,9 @@
   },
   "https://healthunlocked.com/afassociation/posts/137988551/did-or-didnt-i-take-my-medication-this-morning": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://www.cbsnews.com/news/are-you-still-checking-voice-mail/": {
     "first": "2026-11-10",
@@ -25282,6 +25282,12 @@
     "lastVerified": "2026-11-12"
   },
   "https://boards.straightdope.com/t/keep-your-dog-on-a-leash/136922/10": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.clien.net/service/board/cm_adhd/18738528": {
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "VERIFIED",
