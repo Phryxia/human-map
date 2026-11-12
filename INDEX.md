@@ -595,6 +595,7 @@
 - [정해진 길 벗어나 걷기](docs/walking-off-designated-paths.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [조리 중 자리 비우기](docs/leaving-cooking-unattended.md) ([건강과 위험](groups/health-and-safety.md))
 - [조명 효과](docs/spotlight-effect.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [조부모의 손주 돌봄](docs/grandparent-childcare.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [조용한 사직](docs/quiet-quitting.md) ([일터와 일자리](groups/work.md))
 - [조용한 이탈](docs/silent-exit.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [졸음운전](docs/driving-while-drowsy.md) ([길과 운전](groups/roads-and-driving.md))
