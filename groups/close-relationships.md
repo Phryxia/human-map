@@ -52,6 +52,7 @@
 - [사과 거부 뒤의 자존감 상승](../docs/self-esteem-after-refusing-apology.md) 사과하기를 거부한 사람이 그 뒤 자기 가치감과 힘, 통제감을 더 느낀다.
 - [사과하지 못하기](../docs/apology-reluctance.md) 자기 잘못을 아는 사람이 상대에게 사과의 말을 하지 않거나 늦게 한다.
 - [생일을 잊혀 서운해도 내색하지 않기](../docs/hiding-hurt-over-forgotten-birthday.md) 가족이나 친구가 자기 생일을 잊었을 때 서운함을 느끼면서 그 마음을 스스로 누르거나 낮춰 말한다.
+- [성관계 청을 거절당할 두려움](../docs/fear-of-sexual-rejection.md) 연인이나 배우자가 있는 사람이 먼저 성관계를 청했다가 거절당할까 봐 두려워 청하기를 망설이거나 그만둔다.
 - [소개팅 주선](../docs/matchmaking.md) 사람이 자기가 아는 두 사람을 연인으로 이어 주려고 서로 소개한다.
 - [시기심](../docs/envy.md) 자기와 비슷한 처지에서 출발한 사람이 자기에게 중요한 영역에서 앞선 것을 본 사람이 고통이나 분함을 느끼고 그 이점을 갖고 싶어 한다.
   - [승진에서 밀린 뒤의 분함](../docs/passed-over-for-promotion.md)
