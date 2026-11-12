@@ -438,6 +438,7 @@
 - [압박에 못 이겨 팁 주기](docs/guilt-tipping.md) ([돈과 소비](groups/money.md))
 - [애정을 거친 말이나 행동으로 드러내기](docs/rough-affection.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [애착 불안](docs/attachment-anxiety.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [애착 회피](docs/attachment-avoidance.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [야반도주](docs/moonlight-flit.md) ([돈과 소비](groups/money.md))
 - [야생 버섯 따 먹기](docs/eating-foraged-wild-mushrooms.md) ([건강과 위험](groups/health-and-safety.md))
 - [야식 먹기](docs/late-night-eating.md) ([건강과 위험](groups/health-and-safety.md))

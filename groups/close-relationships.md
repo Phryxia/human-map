@@ -61,6 +61,7 @@
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)
   - [좋아하는 상대 괴롭히기](../docs/teasing-someone-liked.md)
 - [애착 불안](../docs/attachment-anxiety.md) 사람이 연인이나 가까운 사람에게 거절당하거나 버림받을까 봐 늘 걱정하며 관계를 살핀다.
+- [애착 회피](../docs/attachment-avoidance.md) 사람이 연인이나 가까운 사람과 친밀해지는 것을 불편해하며 감정적으로 거리를 둔다.
 - [약속 취소당한 서운함](../docs/being-cancelled-on.md) 친구와 잡은 약속을 상대가 취소한 사람이 실망하거나 서운해하고 그 정도는 상대와 얼마나 가까운지에 따라 달라진다.
 - [엉뚱한 대상에게 화풀이하기](../docs/displaced-aggression.md) 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
 - [여행지에서 엽서 보내기](../docs/sending-travel-postcards.md) 여행 중인 사람이 여행지에서 고향의 가족이나 친구에게 그림엽서를 써서 부친다.
