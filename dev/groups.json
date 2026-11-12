@@ -51,8 +51,7 @@
       "self-blame-after-fraud",
       "early-pension-claiming",
       "replacing-instead-of-repairing",
-      "online-cart-abandonment",
-      "adult-children-living-with-parents"
+      "online-cart-abandonment"
     ]
   },
   {
@@ -698,7 +697,8 @@
     "title": "사는 곳과 옮겨 살기",
     "summary": "사람이 살 곳을 고르고 떠나고 옮겨 가는 일이다.",
     "roots": [
-      "moving-to-the-countryside"
+      "moving-to-the-countryside",
+      "adult-children-living-with-parents"
     ]
   },
   {
