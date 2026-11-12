@@ -23501,27 +23501,27 @@
   },
   "https://www.gutenberg.org/cache/epub/963/pg963-images.html": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=6486600&rettype=abstract&retmode=text": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://www.inquirer.com/philly/entertainment/20071111_Chick_Wit___Interrupting___excitement.html": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://www.teamblind.com/post/how-do-i-stop-cutting-people-off-in-conversations-ecorybnr": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://www.police.tas.gov.au/what-we-do/lost-and-found-property/": {
     "first": "2026-11-10",
@@ -23615,9 +23615,9 @@
   },
   "https://lady.khan.co.kr/issue/article/202602051030001": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://api.crossref.org/works/10.1525/collabra.57549": {
     "first": "2026-11-10",
@@ -25390,6 +25390,12 @@
     "lastVerified": "2026-11-12"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10604366/": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.clien.net/service/board/park/18835383": {
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "VERIFIED",
