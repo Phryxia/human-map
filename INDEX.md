@@ -377,6 +377,7 @@
 - [성묘](docs/visiting-graves.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [성인 자녀의 부모 집 거주](docs/adult-children-living-with-parents.md) ([돈과 소비](groups/money.md))
 - [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [셀프 계산대 고르기](docs/choosing-self-checkout.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [소개팅 주선](docs/matchmaking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [소득 상실 우려](docs/income-loss-worry.md) ([돈과 소비](groups/money.md))
 - [소원 빌며 동전 던지기](docs/wishing-coin-toss.md) ([걱정과 기분](groups/worry-and-mood.md))
