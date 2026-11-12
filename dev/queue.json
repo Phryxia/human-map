@@ -1,9 +1,25 @@
 {
   "version": 1,
-  "savedAt": "2026-11-12T03:33:00.770Z",
-  "nextSeq": 4641,
-  "stops": 246,
+  "savedAt": "2026-11-12T06:14:35.974Z",
+  "nextSeq": 4649,
+  "stops": 247,
   "items": [
+    {
+      "id": "e143bc37",
+      "title": "fear-of-mirrors-at-night 보강: 학술 또는 SNS 파편",
+      "priority": 50,
+      "note": "현재 문학 1853, 매체 2022. 후보 키워드 eisoptrophobia, 밤에 거울 무서워",
+      "createdAt": "2026-11-12T06:13:03.915Z",
+      "seq": 4647
+    },
+    {
+      "id": "23267890",
+      "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night, fear-of-the-dark",
+      "priority": 50,
+      "note": "Cranford(394) 같은 대목에 Miss Pole 집 습격 소문 뒤 두려움이 잦아졌다는 원인 근거 'especially since Miss Pole's house had been attacked'. 공 굴려 확인하는 행동도 있음",
+      "createdAt": "2026-11-12T06:14:05.398Z",
+      "seq": 4648
+    },
     {
       "id": "bd942372",
       "title": "news-avoidance 보강: 공공 파편, 원인 간선",
@@ -2675,6 +2691,14 @@
       "note": "2026-11-12 judging-character-from-handwriting 와 judging-character-from-faces 는 겉모습으로 성격을 짐작하는 공통 상위 현상(남의 겉모습으로 됨됨이 짐작하기) 후보. 학술 후보: Dazzi·Pedrabissi 2009 research.unipd.it/handle/11577/2377610, King·Koehler 2000 착각 상관(HTML 초록 막힘)",
       "createdAt": "2026-11-12T00:11:10.547Z",
       "seq": 4634
+    },
+    {
+      "id": "4befee39",
+      "title": "갖지 못할 물건을 진열창 너머로 바라보기",
+      "priority": 10,
+      "note": "문학 후보 Gift of the Magi(7256) 'her heart had simply craved and yearned over them without the least hope of possession' (Broadway window 의 빗). 두 번째 종류 못 찾음: mumsnet 5445506 은 Cloudflare 확인 페이지",
+      "createdAt": "2026-11-12T06:11:35.719Z",
+      "seq": 4646
     },
     {
       "id": "02b2f242",
