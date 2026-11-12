@@ -13,6 +13,7 @@
 - [냄새가 불러낸 옛 기억](../docs/smell-evoked-memory.md) 냄새나 맛을 느낀 사람에게 오래전 일의 기억이 갑자기 떠오른다.
 - [노래가 불러낸 옛 기억](../docs/music-evoked-memory.md) 오래전에 듣던 노래를 다시 들은 사람에게 그 노래를 듣던 무렵의 장면과 사정이 떠오른다.
 - [노스탤지어](../docs/nostalgia.md) 사람이 지나간 시절을 떠올리며 그때를 그리워하고 달콤함과 씁쓸함이 섞인 기분을 느낀다.
+  - [가난했던 시절 그리워하기](../docs/missing-leaner-times.md)
 - [높은 곳에서 뛰어내리고 싶은 충동](../docs/urge-to-jump-from-heights.md) 높은 곳의 가장자리에 선 사람이 뛰어내리고 싶은 충동을 순간 느낀다.
 - [누구에게 말했는지 잊기](../docs/destination-memory-failure.md) 이야기나 정보를 남에게 전한 사람이 그것을 누구에게 이미 말했는지 잊는다.
 - [뒤늦게 떠오른 대답](../docs/staircase-wit.md) 대화나 말다툼이 끝난 뒤에야 사람이 그 자리에서 했어야 할 대답을 떠올린다.
