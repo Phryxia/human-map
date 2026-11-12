@@ -1,88 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-11-12T18:41:25.604Z",
-  "nextSeq": 4707,
-  "stops": 251,
+  "savedAt": "2026-11-12T21:41:14.991Z",
+  "nextSeq": 4752,
+  "stops": 252,
   "items": [
     {
-      "id": "bdf2a370",
-      "title": "being-a-regular 보강: 문학 파편",
+      "id": "64f26df2",
+      "title": "love-at-first-sight 보강: 학술·한국어 파편, unrequited-love 관계",
       "priority": 50,
-      "note": "Gutenberg 883 Our Mutual Friend 'red curtains matching the noses of the regular customers' 대목, 발행일 표기 확인 필요. Guardian 칼럼 'learning to love being a regular' 미확인",
-      "createdAt": "2026-11-12T18:40:31.989Z",
-      "seq": 4706
+      "note": "2026-11-12 Romeo 1597, BPS Research Digest 2017-11-28 로 추가. BPS 같은 글 'At the speed dating events, none of the instances of love at first sight was reciprocal' 는 일방성, '5-point attraction scale ... nine-fold' 는 외모 끌림 원인 후보. Zsok 2017 Personal Relationships 원문 HTML 후보, psychologytoday 201711 experimentations",
+      "createdAt": "2026-11-12T21:18:00.454Z",
+      "seq": 4738
     },
     {
-      "id": "488adb4c",
-      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, SNS 파편",
-      "priority": 40,
-      "note": "2026-11-09 Lasry 1992 europepmc 1544117 더함. Perndorfer 2018 은 예측이라 간선 근거 약함. 2026-11-11 SNS 못 찾음: HN 43027887·48128460 은 가족, 47018946 'Scanxiety is real' 은 암 경험자 여부 불명, clien park/17942527 은 제3자 설명, use/15936447 은 진단 직후. 다음 검색어: 클리앙 '완치 판정 재발' '추적검사 날', HN 'I'm in remission'",
-      "createdAt": "2026-11-11T12:33:24.014Z",
-      "seq": 4594
+      "id": "66d65fb9",
+      "title": "attachment-anxiety 보강: SNS 파편, romantic-jealousy 관계",
+      "priority": 50,
+      "note": "2026-11-12 PMC3988242 (2014), W Korea ?p=452974 (2026-09-17) 로 추가. W Korea 같은 글은 애착 불안과 SNS 질투의 연관(인과 표지 없음). 같은 PMC 글 'I often worry that my partner doesn't really love me' 는 척도 문항. 후보: youngju.dev 2026-06-20 attachment-styles-dating, jobcannon anxious. 회피 애착(85e69d31) 과 대립 후보",
+      "createdAt": "2026-11-12T21:19:16.542Z",
+      "seq": 4739
     },
     {
-      "id": "37ef660a",
-      "title": "nesting-instinct 보강: 문학 파편, 관계",
-      "priority": 40,
-      "note": "2026-11-11 한국어 brunch chestnutrhee/62, sciencetimes 256483 더함. 문학 후보: Gutenberg 160 The Awakening 의 night-drawers 바느질(임신 서술은 다른 문장), 4276 North and South 의 Edith's expected baby 옷 수놓기(본인 아님), 1399 Anna Karenina 는 이미 4개 문서. Gaskell Ruth 4275 아기 옷 문장은 341자. 82cook entiz num=1228 (2004) 예정일 지나 대청소 댓글 예비",
-      "createdAt": "2026-11-11T15:12:15.138Z",
-      "seq": 4603
-    },
-    {
-      "id": "2b630a9f",
-      "title": "anticipatory-grief 보강: 한국어 파편",
-      "priority": 40,
-      "note": "2026-11-11 PMC6773340 (2019) 로 relief-after-caregiving-death 원인 간선 그음. 예비 후보: healthdirect.gov.au understanding-anticipatory-grief (2024-03 검토) 슬픔을 미리 처리해 죽은 뒤 안도, eap.wa.gov/node/115 죽음을 오래 예상하면 안도, whatsyourgrief ?p=7517 2016-05-04 댓글 이미 애도해서 안도. Lindemann 1944 원문 후보",
-      "createdAt": "2026-11-11T15:18:32.175Z",
-      "seq": 4604
-    },
-    {
-      "id": "480c8c81",
-      "title": "leaving-cooking-unattended 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-11 시간 부족으로 손대지 않음. 이전 note: Gutenberg 5342 47 51 544 3796 498 394 2591 2081 해당 없음, 699 Alfred 케이크는 실존 인물 일화라 제외",
-      "createdAt": "2026-11-11T15:35:32.653Z",
-      "seq": 4608
-    },
-    {
-      "id": "40ebb687",
-      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
-      "priority": 40,
-      "note": "2026-11-09 SNS 는 straightdope 511582 (2009-09-25) 로 더함. 2008 이전 공공 후보: USFA 2007\\~2008 보도자료(webarchive.library.unt.edu) TLS 오류. 2026-11-11 CPSC 주거 화재 손실 추정과 NIST TN 2191 (2021) 은 PDF 뿐",
-      "createdAt": "2026-11-11T15:35:45.407Z",
-      "seq": 4609
-    },
-    {
-      "id": "7c935491",
-      "title": "stepping-aside-for-oncoming-pedestrians 보강: 지위·굴욕감",
-      "priority": 40,
-      "note": "2026-11-11 Bourgaize 2024 hal-04681163v1 (노인 외모에 간격 큼) 더함. 지위 차이에서 비키는 쪽의 굴욕감을 말하는 파편은 아직 없음. Dabbs & Stokes 1975 HTML 초록 없음",
-      "createdAt": "2026-11-11T21:17:02.930Z",
-      "seq": 4624
-    },
-    {
-      "id": "f101437f",
-      "title": "setting-clocks-fast 보강: 학술·공공 파편",
-      "priority": 40,
-      "note": "2026-11-11 cheaptalk 2010 (매체) 더함. 특허 US5051967 (1991, 출원인 미발표 조사로 시계를 빠르게 맞추는 사람 상당수) 은 patents.google 이 봇 차단, justia 403. Mele 1997 Real self-deception (BBS) 손목시계 예는 HTML 판 없음",
-      "createdAt": "2026-11-11T21:32:36.116Z",
-      "seq": 4626
-    },
-    {
-      "id": "1cbeda2f",
-      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편",
-      "priority": 40,
-      "note": "2026-11-11 PMC·MDPI·Frontiers 에서 버스·지하철 가방 두기 학술 HTML 없음. Kim 2012 symb.21 은 wiley 봇 확인, Griffiths & Gilly Dibs! 는 SAGE 403. Rüger 2026 traffic2.fpz.hr 3091 은 짐칸 부족으로 좌석이 막힌다는 말이라 현상과 다름",
-      "createdAt": "2026-11-11T21:35:20.287Z",
-      "seq": 4627
-    },
-    {
-      "id": "847a88f4",
-      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
-      "priority": 40,
-      "note": "2026-11-09 한국경제 202504278937i (2025-04-28) 를 [^7] 과 별칭 사후 과잉 확신 편향 근거로 씀. 한국어 SNS 는 네 회차째 미발견. 2026-11-11 bereavement-regret, regret-aversion 문서에 간선 근거가 될 사후 과잉 확신 대목 없음",
-      "createdAt": "2026-11-11T21:35:31.781Z",
-      "seq": 4629
+      "id": "04af6b6b",
+      "title": "attachment-avoidance 보강: SNS·다른 시기 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-12 PMC3988242 (2014), GQ Korea ?p=335353 (2025-08-16) 로 추가. 후보: elle.co.kr/article/84299 (2024-02-19) 는 로그인 벽 문구가 있어 피함. gqkorea 2026-04-17 ?p=372115 '갈등 상황을 해결하려 하지 않고 회피로 일관하다 돌연 이별을 통보' 는 breaking-up 결과 간선 후보. Hazan & Shaver 1987 원문 후보",
+      "createdAt": "2026-11-12T21:20:26.468Z",
+      "seq": 4740
     },
     {
       "id": "1ce6b018",
@@ -187,6 +131,54 @@
       "note": "2026-11-11 후보: thesandtrap.com forums topic 22319-lightning 댓글 2009-04-02 'Scared out of my mind, I drove down the middle of the fairways'(잔디깎이로 밖에 있다 겁에 질려 피함). 대립은 양쪽에 다른 파편이 필요(같은 SNS 글 두 문서는 WARN). GMA 2025-07-09 골퍼 즉시 떠남은 공포 낱말 없음. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 蚊帳 대목은 ruby 때문에 못 씀",
       "createdAt": "2026-11-12T15:36:59.536Z",
       "seq": 4694
+    },
+    {
+      "id": "8b88f7d0",
+      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계",
+      "priority": 40,
+      "note": "2026-11-12 SNS 파편 straightdope 797018/238 (2018) 더함. 예비: straightdope 22355 (2000-06-14) 추적 CT 뒤 불안, 490518 (2009-03-23) 유방촬영 긴장, HN 40936193 (2024-07-11) 유전 요인으로 재발 걱정. hiding-illness-from-family 간선 근거는 아직 없음",
+      "createdAt": "2026-11-12T21:10:49.292Z",
+      "seq": 4731
+    },
+    {
+      "id": "a5af73e7",
+      "title": "anticipatory-grief 보강: 한국어 파편",
+      "priority": 40,
+      "note": "2026-11-12 한국어는 teamblind 2020 [^6] 이미 있음. 학술·공공 한국어 파편 찾음: '예기 애도' '예기적 애도' '예기애도' 검색에 HTML 본문 출처 없음. bravo.etoday 8489 20101 14200 6239 는 본문이 HTML 에 없음, msdmanuals 소아와-사망-및-임종 해당 문장 없음. 다음: koreascience JAKO202260762285362 등은 PDF. 이전 note: healthdirect understanding-anticipatory-grief, eap.wa.gov/node/115, whatsyourgrief ?p=7517, Lindemann 1944",
+      "createdAt": "2026-11-12T21:13:13.801Z",
+      "seq": 4732
+    },
+    {
+      "id": "5e9ba423",
+      "title": "leaving-cooking-unattended 보강: 문학 파편",
+      "priority": 40,
+      "note": "2026-11-12 Little Women 514 줄 5018 'The bread burned black; for the salad dressing so aggravated her' 가 맞으나 514 는 이미 4개 문서라 5번째가 됨. 해당 없음: Gutenberg 45(4개 문서) 47 51 507 550 6688 1260 158 4276 2701 1342 768 2788 145 730 766 10007. 이전: 5342 544 3796 498 394 2591 2081 해당 없음, 699 실존 인물 일화 제외",
+      "createdAt": "2026-11-12T21:14:22.735Z",
+      "seq": 4733
+    },
+    {
+      "id": "5d4fb826",
+      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
+      "priority": 40,
+      "note": "2026-11-12 taylorfrancis 9780203973714-13 (Home Office 의뢰 first aid firefighting 연구, BCS 1988 열에 아홉 미신고) 은 403. firedoc.nist.gov ZHcyXYQBWEcjUZEYLlfX (Crossman 1974) 은 서지만. 이전: USFA 2007~2008 webarchive TLS 오류, CPSC·NIST TN 2191 PDF 뿐",
+      "createdAt": "2026-11-12T21:15:01.123Z",
+      "seq": 4734
+    },
+    {
+      "id": "0be6db98",
+      "title": "setting-clocks-fast 보강: 학술·공공 파편",
+      "priority": 40,
+      "note": "2026-11-12 검색에 학술 HTML 없음. core.ac.uk 217156896 은 PDF. melmagazine ?p=3089, dailydot 2026-08 기사는 매체. 이전: US5051967 patents.google 봇 차단, justia 403, Mele 1997 HTML 판 없음",
+      "createdAt": "2026-11-12T21:15:45.093Z",
+      "seq": 4735
+    },
+    {
+      "id": "6a6dd599",
+      "title": "blocking-adjacent-seat-with-bag 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-12 Kim 2012 symb.21 초록은 api.crossref.org/works/10.1002/symb.21 에서 열림. 'The reasons nonsocial transient behavior emerges ... uncertainty about strangers, lack of privacy or absence of a personal space, and exhaustion' 는 거리 두기 일반이고 가방을 말하지 않음. 이전: PMC·MDPI·Frontiers 없음, SAGE Dibs! 403, Rüger 2026 해당 없음",
+      "createdAt": "2026-11-12T21:16:36.252Z",
+      "seq": 4736
     },
     {
       "id": "022dfb2f",
@@ -1077,6 +1069,78 @@
       "seq": 4674
     },
     {
+      "id": "828c9eef",
+      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
+      "priority": 30,
+      "note": "2026-11-12 다섯 회차째 한국어 SNS 미발견('그럴 줄 알았다', '사후확신 편향' 검색은 해설 글만). 이전: 한국경제 202504278937i [^7]. bereavement-regret, regret-aversion 에 간선 근거 대목 없음",
+      "createdAt": "2026-11-12T21:16:56.911Z",
+      "seq": 4737
+    },
+    {
+      "id": "22022933",
+      "title": "contacting-an-ex 관계: breaking-up 결과, 술과 충동",
+      "priority": 30,
+      "note": "2026-11-12 Belu 2016 (cambridge 초록) 은 이별 적응 어려움이 연락 시도를 예측한다고만 함(인과 표지 약함). 후보: PMC10359486 (2020) 'both men and women report attempting to contact their ex partners for sex', PMC7709927 이혼 뒤 월 55% 주 32% 연락(Masheter 1997 인용), Live Science 2015-04-08 Dunne & Katz 술 문자",
+      "createdAt": "2026-11-12T21:23:31.096Z",
+      "seq": 4741
+    },
+    {
+      "id": "671068f1",
+      "title": "idealizing-partner 관계: love-at-first-sight, attachment-anxiety",
+      "priority": 30,
+      "note": "2026-11-12 Tess 1891, 아시아경제 2015-05-19, PMC11367802 (2023) 로 추가. 예비: PMC8074860 Bode 2021 'idealization of the other in the relationship' 낭만적 사랑의 인지 요소(상위 '낭만적 사랑' 후보), 아시아경제 같은 글 미혼 90.2% 콩깍지 경험, Middlemarch 145 Dorothea 'He thinks with me' (교제 전)",
+      "createdAt": "2026-11-12T21:25:38.346Z",
+      "seq": 4743
+    },
+    {
+      "id": "1a4e2fb6",
+      "title": "sexual-desire-discrepancy 보강: 한국어 파편, partner-conflict 관계",
+      "priority": 30,
+      "note": "2026-11-12 straightdope 196359 (2003), PMC7058563 (2020), NZ Herald 2023-08-28 로 추가. straightdope 대목 'push each other away' 는 관계 거리 두기 결과 후보. PMC7058563 'If desire ebbs and flows naturally, then it is unlikely partners will always be in sync' 시기 변동. 한국어 기사·공공 미발견(segye 2002 주제 다름, kormedi 1188635 일반론)",
+      "createdAt": "2026-11-12T21:27:40.207Z",
+      "seq": 4744
+    },
+    {
+      "id": "75761619",
+      "title": "attraction-outside-relationship 보강: 다른 시기·한국어 파편",
+      "priority": 30,
+      "note": "2026-11-12 Boston.com Love Letters 2013-01-24, PMC4786456 (2015) 로 추가. 문학 후보 Age of Innocence 541 33장 'he thought with a sudden hunger of being for a moment alone with her' 는 541 이 이미 4개 문서라 못 씀. PMC4786456 같은 글 'these crushes improved their desire for their partner' 는 sexual-desire-discrepancy 관계 후보. SNS·한국어 미발견",
+      "createdAt": "2026-11-12T21:29:49.965Z",
+      "seq": 4745
+    },
+    {
+      "id": "b8b53b91",
+      "title": "picking-up-phone-in-idle-moments 보강: 원인 간선(지루함), SNS 파편",
+      "priority": 30,
+      "note": "2026-11-12 Kruger 2017, 경북매일 2026-04-16, brunch nodin/65 로 추가. PMC8261226 Dora 2021 'participants were more likely to interact with their smartphone the more fatigued or bored they were' 는 boredom 원인 간선 후보(인과 표지 약함). brunch 같은 글 제목 '가만히 있는 것에 대한 불안함' 은 avoiding-being-alone-with-thoughts 관계 후보",
+      "createdAt": "2026-11-12T21:32:33.993Z",
+      "seq": 4746
+    },
+    {
+      "id": "e8daa537",
+      "title": "fear-of-sexual-rejection 보강: 한국어·SNS 파편, sexual-desire-discrepancy 관계",
+      "priority": 30,
+      "note": "2026-11-12 Psychology Today 2016-11-23, PMC10148619 (2023), Cape Argus 2026-05-15 로 추가. Psychology Today 같은 글 'men often start to behave in ways that will help them avoid rejection, such as pulling back from sex' 는 회피 결과 후보. lady.khan.co.kr 2010 무렵 성 상담 기사 미확인. psypost 봇 차단",
+      "createdAt": "2026-11-12T21:34:38.927Z",
+      "seq": 4747
+    },
+    {
+      "id": "d40031e0",
+      "title": "betting-on-overdue-lottery-numbers 보강: 한국어 파편, hot hand 대립",
+      "priority": 30,
+      "note": "2026-11-12 NBER w3769 (1991), Philstar 2023-03-27, repec Dillon & Lybbert 2024 로 추가. repec 같은 초록 'A small subset of players in each country exhibit the hot hand fallacy, and bet recent winners' 는 뜨거운 손 오류 현상 후보. GQ Korea ?p=343790 (2025-11-01) '오래 안 나온 숫자는 이제 나올 차례다?' 는 봇 확인 페이지가 섞여 나옴",
+      "createdAt": "2026-11-12T21:36:55.651Z",
+      "seq": 4748
+    },
+    {
+      "id": "e360998d",
+      "title": "nomophobia 관계: low-battery-anxiety 원인 간선",
+      "priority": 30,
+      "note": "2026-11-12 insider.co.uk 10877982 (2017-07-27), PMC6510111 (2019) 로 추가. insider 같은 글 'It's this that can lead to us feeling anxious' 는 low-battery-anxiety 원인 근거 후보(업체 측 발언, 다른 출처 필요). bps research-digest nomophobia 2015-05-07 후보",
+      "createdAt": "2026-11-12T21:37:52.328Z",
+      "seq": 4749
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1269,6 +1333,14 @@
       "seq": 4667
     },
     {
+      "id": "141fe390",
+      "title": "nomophobia 관계: attachment-anxiety",
+      "priority": 20,
+      "note": "2026-11-12 BPS 2016-05-26 Konok 연구 소개 글은 'anxiously attached people did not report greater stress when they were separated from their phones' 라 원인 간선 근거가 못 됨. 같은 글 'people with an anxious attachment style said they tended to get more stressed than others if they couldn't reach someone on their phone' 는 attachment-anxiety 보강 후보. weforum 2015-10 후보",
+      "createdAt": "2026-11-12T21:40:32.741Z",
+      "seq": 4751
+    },
+    {
       "id": "a3f422fc",
       "title": "meerkat-effect 와 delaying-bad-news 긴장 근거",
       "priority": 10,
@@ -1453,52 +1525,12 @@
       "seq": 1117
     },
     {
-      "id": "81783713",
-      "title": "일하다 화장실에 숨어 쉬기",
-      "priority": 10,
-      "note": "2026-10-23 탐색. 매체만 찾음: cleanlink.com/news/article/Survey-Compares-Worker-Productivity-With-Restroom-Use--16544 (2014-01-08) 'Do you ever hide in the restroom during the working day?', 27 percent ... did', 71% time wasting, 14% avoid colleagues. initial.co.uk 2018 1/3 'break zone'(403), europeancleaningjournal SCA Hygiene Matters 2014 take time out 15%, jobplanet news-4537 월루 설문. 학술·SNS·공공 출처 필요",
-      "createdAt": "2026-10-23T00:50:58.166Z",
-      "seq": 1155
-    },
-    {
-      "id": "0020dbc7",
-      "title": "사직 의사 전하기 미루기",
-      "priority": 10,
-      "note": "2026-10-23 guilt-about-resigning 탐색 중. 그만두기로 정한 사람이 상사에게 말하기 두려워 통보를 미룬다. guilt-about-resigning 이 원인 후보. 당사자 SNS 글 미발견(82cook 연결 끊김, askamanager Cloudflare)",
-      "createdAt": "2026-10-23T06:37:59.621Z",
-      "seq": 1259
-    },
-    {
-      "id": "deddd02e",
-      "title": "연락 두절 두려움",
-      "priority": 10,
-      "note": "low-battery-anxiety 의 원인 후보. insider.co.uk/news/nearly-two-thirds-people-suffer-10877982 (2017-07-27) 'Many of us fear being uncontactable' 뒤 'It's this that can lead to us feeling anxious'(업체 측 발언). bps.org.uk research-digest nomophobia 2015-05-07 배터리 늘 채워 두는 경계. 노모포비아 별칭",
-      "createdAt": "2026-10-23T09:20:01.775Z",
-      "seq": 1276
-    },
-    {
       "id": "abc5ca45",
       "title": "감정 부조화로 인한 탈진",
       "priority": 10,
       "note": "2026-10-23 emotional-labor 작업 중. Headrick·Park 2022 PMID 34968117 표면 행위와 귀가 뒤 건강하지 않은 식사. 감정노동의 결과 후보(인과 문장 필요)",
       "createdAt": "2026-10-23T12:09:34.325Z",
       "seq": 1303
-    },
-    {
-      "id": "c5f3602e",
-      "title": "틈날 때마다 휴대폰 집기",
-      "priority": 10,
-      "note": "2026-10-23 brunch.co.kr/@nodin/65 (2026-06-04) '횡단보도를 건너기 전에 잠깐 기다릴 때도 스마트폰을 봅니다.', kbmaeil.com/article/20260416500024 (2026-04-16) '조금만 틈이 난다 싶으면 자동으로 휴대폰에 손이 간다.' avoiding-being-alone-with-thoughts·boredom 관계 후보",
-      "createdAt": "2026-10-23T21:09:57.286Z",
-      "seq": 1371
-    },
-    {
-      "id": "4f181236",
-      "title": "밀린 번호 믿음(로또 미출현 번호 고르기)",
-      "priority": 10,
-      "note": "2026-10-23 gedlingeye.co.uk/are-these-national-lottery-numbers-cursed-one-digit-hasnt-been-seen-for-five-months-and-is-overdue/ (2025-04-28) 'Topping the list of the most overdue numbers is ball 21, last appearing 145 days ago on 30th November 2024.' gamblers-fallacy 하위 후보",
-      "createdAt": "2026-10-23T21:17:58.618Z",
-      "seq": 1374
     },
     {
       "id": "fd9c1f5a",
@@ -1509,76 +1541,12 @@
       "seq": 1411
     },
     {
-      "id": "f733c9e9",
-      "title": "불안 애착",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:52.926Z",
-      "seq": 1458
-    },
-    {
-      "id": "85e69d31",
-      "title": "회피 애착",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:53.055Z",
-      "seq": 1459
-    },
-    {
       "id": "3930dd54",
       "title": "짝사랑",
       "priority": 10,
       "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
       "createdAt": "2026-10-24T06:06:53.205Z",
       "seq": 1460
-    },
-    {
-      "id": "645c7c36",
-      "title": "첫눈에 반함",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:53.328Z",
-      "seq": 1461
-    },
-    {
-      "id": "a4fdf364",
-      "title": "연인 이상화",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:53.576Z",
-      "seq": 1463
-    },
-    {
-      "id": "82c95cfe",
-      "title": "헤어진 연인에게 연락하기",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:53.691Z",
-      "seq": 1464
-    },
-    {
-      "id": "3cdc66a2",
-      "title": "커플 사이의 성욕 차이",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:53.804Z",
-      "seq": 1465
-    },
-    {
-      "id": "4f2a9a50",
-      "title": "성적 요구를 거절당할 두려움",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:53.925Z",
-      "seq": 1466
-    },
-    {
-      "id": "f44cc725",
-      "title": "다른 사람에게 끌리는 마음(기혼·연애 중)",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:54.074Z",
-      "seq": 1467
     },
     {
       "id": "81140b8e",
@@ -2723,6 +2691,22 @@
       "note": "choosing-self-checkout 탐색 중 Straight Dope 514105?page=2 (2009-10-17) 'So now I avoid them' 대목. choosing-self-checkout 과 대립 후보. 서울시 news.seoul.go.kr/gov/archives/540969 (2022) 키오스크 미이용 이유 '뒷사람 눈치'",
       "createdAt": "2026-11-12T18:38:01.078Z",
       "seq": 4705
+    },
+    {
+      "id": "f457d318",
+      "title": "일하다 화장실에 숨어 쉬기",
+      "priority": 10,
+      "note": "2026-11-12 매체 추가 후보: kormedi.com/1209709/ (2014-02-19) 직장인 10명 중 6명 아지트, 화장실 최다. hankyung.com/article/2025071469907 (2025-07-14) '화캉스' 신조어(별칭 근거). brunch hyuck116/15 육아 초기부터 화장실로 숨기. HN Algolia 'hide in the bathroom' work 검색에 본인 경험 없음(17593705 은 제3자). 이전: cleanlink 2014-01-08 27%, initial.co.uk 403. 학술·SNS·공공 출처 필요",
+      "createdAt": "2026-11-12T21:24:18.521Z",
+      "seq": 4742
+    },
+    {
+      "id": "d885507c",
+      "title": "사직 의사 전하기 미루기",
+      "priority": 10,
+      "note": "2026-11-12 미룬 경험 원문 미발견. 두려움 면 후보: hrdive.com/news/half-of-workers-left-previous-job-after-feeling-underappreciated-monster-turnover/701679 (2023-12-06) 51% 직속 상사에게 말하기 가장 긴장, 20% 통보 대화 걱정. HN item?id=2214545 (2011-02-13) 통보 직전 긴장 예상(곧바로 말하겠다는 글). Klotz & Bolino 2016 resignation styles avoidant 유형 원문 미확인. damoang 4822212 봇 확인. guilt-about-resigning 와 겹침 주의",
+      "createdAt": "2026-11-12T21:39:28.662Z",
+      "seq": 4750
     },
     {
       "id": "02b2f242",
