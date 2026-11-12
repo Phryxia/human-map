@@ -34,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [외로움](loneliness.md)[^7]
 
 ## 대립
 
@@ -48,3 +48,4 @@
 [^4]: [학술] "They felt it was sad and more anxiety-provoking to be sick than to die because if they were sick alone, they would have no one to accompany them to the hospital or to care for them when bedridden." (그들은 혼자 아프면 병원에 함께 갈 사람도, 몸져누웠을 때 돌봐 줄 사람도 없기 때문에 죽는 것보다 아픈 것이 더 슬프고 불안하다고 느꼈다.) — Jinna Yu, Kwisoon Choe, Youngmi Kang, "Anxiety of Older Persons Living Alone in the Community", Healthcare 8(3), 2020-08-22, https://pmc.ncbi.nlm.nih.gov/articles/PMC7551571/, 2026-11-10 접속
 [^5]: [공공] "혼자 살면서 가장 곤란한 점은 ▴위급할 때 대처의 어려움(32.5%), ▴외로움(23.3%), ▴경제적 불안감(20.3%) 순이었다." — 서울특별시, 「셋 중 하나는 1인가구…'위급상황 대처' 가장 힘들다」, 내 손안에 서울, 2021-04-30, https://mediahub.seoul.go.kr/archives/2001484, 2026-11-10 접속
 [^6]: [매체] "‘혼자 살면 아플 때 서러워.’ 돌볼 사람이 없으니 서럽다는 뜻이다. 결혼하지 않겠다고 공언해본 여성은 숱하게 들었을 말이다." — 주간경향, 「'혼자' 아프다는 것은」, 2022-08-26, https://weekly.khan.co.kr/article/202208261505081, 2026-11-10 접속
+[^7]: [매체] "젊은 사람도 아프면 외로움을 느낀다. 이마에 열이 있나 손을 대던 사람이 그립다. 자신을 걱정해주던 사람이 생각날 때가 바로 아플 때다." — 김용, 「“아플 때 너무 외롭다”…언제까지 혼자 살 수 있을까?」, 코메디닷컴, 2025-12-11, https://v.daum.net/v/20251211140312588, 2026-11-12 접속
