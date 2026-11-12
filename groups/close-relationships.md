@@ -47,6 +47,7 @@
 - [부모를 닮아 가는 자신 알아차리기](../docs/noticing-oneself-becoming-like-parents.md) 어른이 된 사람이 자기 말이나 표정, 행동에서 부모를 닮은 모습을 알아차린다.
 - [분노 억누르기](../docs/anger-suppression.md) 화가 난 사람이 그 분노를 겉으로 드러내지 않고 억누른다.
   - [화날 때 열까지 세기](../docs/counting-to-ten-when-angry.md)
+- [빌린 책 돌려주지 않기](../docs/not-returning-borrowed-books.md) 친구나 지인에게 책을 빌린 사람이 그 책을 오래 갖고 있거나 끝내 돌려주지 않는다.
 - [삐짐](../docs/sulking.md) 서운함을 느낀 사람이 말없이 토라져 상대가 먼저 알아차리고 마음을 풀어 주기를 기다린다.
 - [사과 거부 뒤의 자존감 상승](../docs/self-esteem-after-refusing-apology.md) 사과하기를 거부한 사람이 그 뒤 자기 가치감과 힘, 통제감을 더 느낀다.
 - [사과하지 못하기](../docs/apology-reluctance.md) 자기 잘못을 아는 사람이 상대에게 사과의 말을 하지 않거나 늦게 한다.

@@ -25406,5 +25406,34 @@
     "last": "2026-11-12",
     "result": "VERIFIED",
     "lastVerified": "2026-11-12"
+  },
+  "https://www.gutenberg.org/cache/epub/35698/pg35698-images.html": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.gutenberg.org/cache/epub/75216/pg75216-images.html": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://eprints.bournemouth.ac.uk/30864/": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://bravo.etoday.co.kr/view/atc_view/6075": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.82cook.com/entiz/read.php?bn=15&num=2484812": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "UNREACHABLE"
   }
 }
