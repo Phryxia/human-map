@@ -37,21 +37,21 @@
   },
   "https://ko.wikisource.org/wiki/운수_좋은_날": {
     "first": "2026-10-15",
-    "last": "2026-11-09",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-12"
   },
   "https://ideas.repec.org/a/aea/jeclit/v55y2017i1p96-135.html": {
     "first": "2026-10-15",
-    "last": "2026-10-21",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-12"
   },
   "https://brunch.co.kr/@holytree/518": {
     "first": "2026-10-15",
-    "last": "2026-10-21",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-12"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.987426/full": {
     "first": "2026-10-15",
@@ -83,9 +83,9 @@
   },
   "https://openaccess.city.ac.uk/3875/": {
     "first": "2026-10-16",
-    "last": "2026-10-21",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-12"
   },
   "https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84": {
     "first": "2026-10-16",
@@ -737,9 +737,9 @@
   },
   "https://www.asianefficiency.com/mindsets/conquering-inbox-fear-anxiety/": {
     "first": "2026-10-17",
-    "last": "2026-10-21",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-12"
   },
   "https://link.springer.com/article/10.1007/s12160-010-9210-8": {
     "first": "2026-10-17",
@@ -4875,9 +4875,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9434918/": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-12"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC1694659": {
     "first": "2026-10-20",
@@ -25234,6 +25234,12 @@
     "lastVerified": "2026-11-12"
   },
   "https://v.daum.net/v/WvHUBnSglQ": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.aeaweb.org/articles?id=10.1257/aer.103.2.804": {
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "VERIFIED",
