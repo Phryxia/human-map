@@ -1,97 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-12T12:29:20.422Z",
-  "nextSeq": 4678,
-  "stops": 249,
+  "savedAt": "2026-11-12T15:37:07.831Z",
+  "nextSeq": 4695,
+  "stops": 250,
   "items": [
-    {
-      "id": "2b3f9d54",
-      "title": "not-returning-borrowed-books 보강: 확인된 SNS 파편, 빌려주지 않게 되기 관계",
-      "priority": 50,
-      "note": "2026-11-12 82cook 2018 게시글은 ECONNRESET 으로 미확인. 후보: pann.nate.com/talk/370767597 댓글 '책 빌려주고 단 한 번도 돌려 받은 적 없어요'(2023-08-16). 같은 82cook 글에 '필요한 책은 사고 말지 남에게 절대 안빌리고, 자진해서 빌려주진 않아요' 결과 간선 후보. 서울신문 2000-03-10 외언내언 '돌아오지 않는 책'(지하철 독서마당 2만 권)",
-      "createdAt": "2026-11-12T12:13:43.785Z",
-      "seq": 4677
-    },
-    {
-      "id": "c4f6ec7e",
-      "title": "online-cart-abandonment 관계: buyers-remorse",
-      "priority": 40,
-      "note": "2026-11-10 delaying-purchases 원인 간선 그음(GQ Korea 2026-08-15). buyers-remorse 와는 예상 후회(Bell 2020 [^6], 김종욱 2014 [^5] 후회 회피) 근거 검토 필요. 공공 파편 못 찾음(소비자원, KISDI, CMA, FTC)",
-      "createdAt": "2026-11-10T21:15:20.705Z",
-      "seq": 4499
-    },
-    {
-      "id": "0ed25c20",
-      "title": "sick-while-living-alone 관계: fear-of-dying-alone, loneliness",
-      "priority": 40,
-      "note": "2026-11-10 학술 파편은 Yu 2020 [^4] 이 이미 있음. 관계 근거 후보: kormedi.com/1642143 (1인 가구 45% 혼자 죽을까 걱정), v.daum.net/v/20251211140312588 '아플 때 너무 외롭다'. 원인 간선은 '아플 때 혼자라 ~ 걱정' 꼴의 원문 필요",
-      "createdAt": "2026-11-10T21:16:44.767Z",
-      "seq": 4501
-    },
-    {
-      "id": "b961052b",
-      "title": "not-chatting-with-neighbors 관계: stopping-greeting-unresponsive-neighbor, avoiding-shared-elevator",
-      "priority": 40,
-      "note": "2026-11-10 Liddle 2020 (PMC7432362) 학술 파편 더함. 다른 학술 후보: PMC12640803 (Akre 2025) 새 주거 단지 주민들이 이웃을 모름, PMC9062734 (Glover 2022) 캐나다인 절반이 이웃을 모름(Tim Hortons 2018 인용)",
-      "createdAt": "2026-11-10T21:20:19.739Z",
-      "seq": 4502
-    },
-    {
-      "id": "6fa109ae",
-      "title": "anthropomorphism 보강: 한국어 파편, SNS 파편, loneliness 원인 간선",
-      "priority": 40,
-      "note": "2026-11-10 Hume 1757, ScienceDaily 2010, Chicago Booth Review 2015 로 신설. 원인 후보: chicagobooth 같은 글 'lonely people were more likely than others to anthropomorphize objects', sciencedaily 같은 글 'lacking social connections with other people might motivate lonely individuals'. 하위 후보: talking-to-the-dead 는 맞지 않음, 차에 이름 붙이기는 treating-objects-as-companions",
-      "createdAt": "2026-11-10T21:21:58.470Z",
-      "seq": 4505
-    },
-    {
-      "id": "86b9f3c3",
-      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 Edgar 는 맞지 않고 이 출처는 이미 4개 문서가 씀",
-      "createdAt": "2026-11-10T21:30:26.621Z",
-      "seq": 4522
-    },
-    {
-      "id": "0539f89b",
-      "title": "public-speaking-anxiety 보강: 한국어 공공 파편",
-      "priority": 40,
-      "note": "2026-11-11 WorkingUS 2017 댓글 더함. 후보: 광운대 학생상담센터 self_test/announcement.php '발표할 내용을 잊어버릴까 봐 두렵다' (발행일 미상), 네이트판 366552166 (2022-06-14) 목소리 떨림. 4문단이 4문장이라 새 문단 필요",
-      "createdAt": "2026-11-11T03:13:39.413Z",
-      "seq": 4547
-    },
-    {
-      "id": "d74a357c",
-      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
-      "priority": 40,
-      "note": "2026-11-08 Tufts 2012 매체, OSU 2022 공공 더함. 2000년 이전 문학·매체 못 찾음. UF 소동물병원 Coping with Guilt 는 TLS 오류, MSU CVM 은 Incapsula",
-      "createdAt": "2026-11-11T03:24:23.906Z",
-      "seq": 4555
-    },
-    {
-      "id": "5e8d8fa7",
-      "title": "leaving-hair-straighteners-on 보강: rechecking-door-and-stove 관계",
-      "priority": 40,
-      "note": "2026-11-11 SNS 파편 2개 더함. 원인 간선 근거 없음. 후보: daangn 2023-02-16 '집에 고데기 안끄고 나온 거 같은데 어떡하죠', singletrackworld 2023-08-24 3인칭",
-      "createdAt": "2026-11-11T09:25:23.146Z",
-      "seq": 4582
-    },
-    {
-      "id": "fdb86e7e",
-      "title": "drying-laundry-on-heaters 보강: 학술 파편",
-      "priority": 40,
-      "note": "2026-11-11 SNS 2개 더함. Glasgow PID 연구(strathprints 48329, radar.gsa.ac.uk 2765)는 라디에이터를 직접 말하지 않음. gsamediacentre.co.uk think-before-you-hang 보도자료에 라디에이터 비율, 매체 종류. MSE 6426864 (2023-02-24) 라디에이터 옆 건조대 후보",
-      "createdAt": "2026-11-11T09:33:21.891Z",
-      "seq": 4584
-    },
-    {
-      "id": "1a5bf088",
-      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
-      "priority": 40,
-      "note": "2026-11-11 후보: thesandtrap.com forums topic 22319-lightning 댓글 2009-04-02 'Scared out of my mind, I drove down the middle of the fairways'(잔디깎이로 밖에 있다 겁에 질려 피함). 대립은 양쪽에 다른 파편이 필요(같은 SNS 글 두 문서는 WARN). GMA 2025-07-09 골퍼 즉시 떠남은 공포 낱말 없음. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 蚊帳 대목은 ruby 때문에 못 씀",
-      "createdAt": "2026-11-11T09:38:25.452Z",
-      "seq": 4586
-    },
     {
       "id": "488adb4c",
       "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, SNS 파편",
@@ -227,6 +139,46 @@
       "note": "2026-11-10 서울신문 2007 더함. 후보: clien use/17293411 (2022-05-31) 차로 위험해 인도로 탐(2026-11-12 curl 3KB 응답, 다른 UA 로 확인 필요), 주간경향 202009211221261 (2020-09-21) 자전거도로 끊긴 길목 위험. PMC6974276 Winters 2012 reCAPTCHA",
       "createdAt": "2026-11-12T09:38:27.783Z",
       "seq": 4673
+    },
+    {
+      "id": "dcc1bfd7",
+      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
+      "priority": 40,
+      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 Edgar 는 맞지 않고 이 출처는 이미 4개 문서가 씀",
+      "createdAt": "2026-11-12T15:28:40.297Z",
+      "seq": 4689
+    },
+    {
+      "id": "0d35be4a",
+      "title": "public-speaking-anxiety 보강: 한국어 공공 파편",
+      "priority": 40,
+      "note": "2026-11-11 WorkingUS 2017 댓글 더함. 2026-11-12 광운대 학생상담센터 페이지 URL 못 찾음. 국가정신건강정보포털 검색 무소득. 후보: culture.kookmin.ac.kr gulmal 자가진단 문항 '발표를 앞두고 할 말을 잊어버릴까 봐 걱정된다'(첨부 파일, 형식 미확인). 네이트판 366552166 (2022-06-14) 목소리 떨림. 4문단이 4문장이라 새 문단 필요",
+      "createdAt": "2026-11-12T15:29:23.553Z",
+      "seq": 4690
+    },
+    {
+      "id": "c4585fbb",
+      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
+      "priority": 40,
+      "note": "2026-11-08 Tufts 2012 매체, OSU 2022 공공 더함. 2000년 이전 문학·매체 못 찾음. UF 소동물병원 Coping with Guilt 는 TLS 오류, MSU CVM 은 Incapsula. 2026-11-12 후보: discmaster.textfiles.com 의 1995 Amiga Plus CD 안 rec.pets-pet-loss FAQ(503 이라 못 읽음)",
+      "createdAt": "2026-11-12T15:30:12.714Z",
+      "seq": 4691
+    },
+    {
+      "id": "1a62d1af",
+      "title": "leaving-hair-straighteners-on 보강: rechecking-door-and-stove 관계",
+      "priority": 40,
+      "note": "2026-11-11 SNS 파편 2개 더함. 원인 간선 근거 없음. 후보: daangn 2023-02-16 '집에 고데기 안끄고 나온 거 같은데 어떡하죠', singletrackworld 2023-08-24 3인칭. 2026-11-12 elitedaily.com 8352418 (2018-02-28) 'go through a mental checklist before you leave your apartment to make sure you turned it off' 는 권고라 인과 아님",
+      "createdAt": "2026-11-12T15:30:31.746Z",
+      "seq": 4692
+    },
+    {
+      "id": "08c43cf6",
+      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
+      "priority": 40,
+      "note": "2026-11-11 후보: thesandtrap.com forums topic 22319-lightning 댓글 2009-04-02 'Scared out of my mind, I drove down the middle of the fairways'(잔디깎이로 밖에 있다 겁에 질려 피함). 대립은 양쪽에 다른 파편이 필요(같은 SNS 글 두 문서는 WARN). GMA 2025-07-09 골퍼 즉시 떠남은 공포 낱말 없음. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 蚊帳 대목은 ruby 때문에 못 씀",
+      "createdAt": "2026-11-12T15:36:59.536Z",
+      "seq": 4694
     },
     {
       "id": "022dfb2f",
@@ -2707,6 +2659,30 @@
       "note": "2026-11-12 letting-gift-cards-and-points-expire 탐색 중 발견. ideas.repec.org/p/cpr/ceprdp/5757.html Drago·Kadar 2006-07 'fail to provide the necessary effort when it comes to collect their money', 기한이 길수록 안 함. ideas.repec.org/a/inm/ormksc/v28y2009i2p229-238.html Gilpatric 2009 present-biased preferences 가 slippage 원인. letting-gift-cards-and-points-expire 와 공통 상위 후보",
       "createdAt": "2026-11-12T09:39:49.262Z",
       "seq": 4675
+    },
+    {
+      "id": "1d40d422",
+      "title": "sick-while-living-alone 관계: fear-of-dying-alone",
+      "priority": 10,
+      "note": "2026-11-12 loneliness 결과 간선 그음(코메디닷컴 2025-12-11). kormedi.com/1642143 (2023-12-04) 은 1인 가구 45% 고독사 걱정이지만 아플 때와 잇는 원문 없음",
+      "createdAt": "2026-11-12T15:15:58.726Z",
+      "seq": 4687
+    },
+    {
+      "id": "23afae25",
+      "title": "not-chatting-with-neighbors 관계: avoiding-shared-elevator",
+      "priority": 10,
+      "note": "2026-11-12 이웃을 몰라 엘리베이터 동승을 피한다는 원인 원문 못 찾음. 근접: berkeleybeacon.com no-one-wants-to-be-friends-with-their-neighbors-anymore (2025-04-17) 'It can be comfortable not knowing your neighbors: You avoid awkward conversations'. stopping-greeting 과는 인사 끊기가 대화 단절보다 좁아 간선 근거 없음",
+      "createdAt": "2026-11-12T15:24:56.314Z",
+      "seq": 4688
+    },
+    {
+      "id": "b4c6f7a5",
+      "title": "anticipatory-grief 보강: 한국어 학술 파편",
+      "priority": 10,
+      "note": "2026-11-12 블라인드 2020-11-14 댓글 더함. koreascience '예기애도' 검색은 JAKO201810256453331 하나뿐이고 해당 대목 없음. 다음: kci.go.kr landingArticle '예기 비탄', '예기적 비탄'",
+      "createdAt": "2026-11-12T15:33:57.376Z",
+      "seq": 4693
     },
     {
       "id": "02b2f242",
