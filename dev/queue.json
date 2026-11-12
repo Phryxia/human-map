@@ -1,9 +1,25 @@
 {
   "version": 1,
-  "savedAt": "2026-11-11T21:35:40.742Z",
-  "nextSeq": 4630,
-  "stops": 244,
+  "savedAt": "2026-11-12T00:25:49.040Z",
+  "nextSeq": 4637,
+  "stops": 245,
   "items": [
+    {
+      "id": "a04bfd95",
+      "title": "hair-twirling 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-12 Vanity Fair(599) 대목은 같은 출처 5개 문서 경고로 뺐다. Ulysses(4300) 도 4개 문서가 씀. 후보: David Copperfield(766) 'wind her bright curls round and round her finger', SNS 파편도 없음",
+      "createdAt": "2026-11-12T00:18:43.810Z",
+      "seq": 4635
+    },
+    {
+      "id": "c83f4b88",
+      "title": "leaving-mail-unopened 보강: 학술 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-12 후보: Straight Dope 2004-02-08 white-envelope-inspires-terror-in-local-woman/228093 'afraid to open an envelope because of what it might contain', Straight Dope 2018-06-15 anxiety-opening-mail-is-that-a-thing/816155 (독촉장 걱정에 우편함 확인 미룸). 학술 없음",
+      "createdAt": "2026-11-12T00:24:39.436Z",
+      "seq": 4636
+    },
     {
       "id": "bd942372",
       "title": "news-avoidance 보강: 공공 파편, 원인 간선",
@@ -2691,6 +2707,14 @@
       "note": "2026-11-11 Shoham, Shemer-Shalman IASL 2005 journals.library.ualberta.ca iasl/article/view/7996: 학교 도서관에서 학생이 소지품으로 개인 영역을 표시. blocking-adjacent-seat-with-bag 의 상위 후보",
       "createdAt": "2026-11-11T21:35:20.398Z",
       "seq": 4628
+    },
+    {
+      "id": "e719b863",
+      "title": "handwriting-and-personality 관계: judging-character-from-faces 와의 상위 검토",
+      "priority": 10,
+      "note": "2026-11-12 judging-character-from-handwriting 와 judging-character-from-faces 는 겉모습으로 성격을 짐작하는 공통 상위 현상(남의 겉모습으로 됨됨이 짐작하기) 후보. 학술 후보: Dazzi·Pedrabissi 2009 research.unipd.it/handle/11577/2377610, King·Koehler 2000 착각 상관(HTML 초록 막힘)",
+      "createdAt": "2026-11-12T00:11:10.547Z",
+      "seq": 4634
     },
     {
       "id": "02b2f242",
