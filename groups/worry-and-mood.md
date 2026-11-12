@@ -51,7 +51,6 @@
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
 - [밤 소리를 침입자로 여기기](../docs/imagining-intruders-at-night.md) 밤에 집에 있는 사람이 작은 소리를 듣고 누가 들어왔다고 여기며 겁을 먹는다.
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
-- [밤에 거울 보기 두려워하기](../docs/fear-of-mirrors-at-night.md) 밤이나 어둠 속에 있는 사람이 거울에 무언가 비쳐 보일까 두려워 거울을 피하거나 돌려 놓는다.
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
 - [빗소리에 마음 놓이기](../docs/rain-sounds-comfort.md) 실내에 있는 사람이 지붕이나 창에 떨어지는 빗소리를 들으며 편안함을 느끼고 잠들 때 빗소리를 일부러 틀기도 한다.
@@ -66,6 +65,8 @@
 - [실패에 대한 두려움](../docs/fear-of-failure.md) 어떤 일을 앞둔 사람이 실패해 창피를 당하거나 낮게 평가받을까 두려워한다.
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
 - [어둠 공포](../docs/fear-of-the-dark.md) 어두운 곳에 있는 사람이 보이지 않는 것을 무서워한다.
+  - [밤에 거울 보기 두려워하기](../docs/fear-of-mirrors-at-night.md)
+  - [침대 밑에 누가 숨어 있을까 두려워하기](../docs/fear-of-something-under-the-bed.md)
 - [울고 난 뒤 후련함](../docs/relief-after-crying.md) 한바탕 운 사람이 울고 난 뒤 마음이 가벼워졌다고 느낀다.
 - [음악 듣다 돋는 소름](../docs/music-chills.md) 음악을 듣던 사람이 곡의 어느 대목에서 등줄기나 목덜미에 소름이 돋는 전율을 느낀다.
 - [자기 불구화](../docs/self-handicapping.md) 실패할 수 있는 과제를 앞둔 사람이 준비를 덜 하거나 불리한 조건을 내세워 실패를 그 탓으로 돌릴 자리를 미리 만든다.
@@ -86,7 +87,6 @@
   - [소원 빌며 동전 던지기](../docs/wishing-coin-toss.md)
   - [행운의 물건 지니기](../docs/carrying-lucky-charms.md)
 - [천둥 번개 무서움](../docs/fear-of-thunderstorms.md) 천둥이 치고 번개가 번쩍이면 사람이 겁에 질려 몸을 떨거나 울거나 잠을 이루지 못한다.
-- [침대 밑에 누가 숨어 있을까 두려워하기](../docs/fear-of-something-under-the-bed.md) 잠자리에 드는 사람이 침대 밑에 누가 숨어 있을까 두려워하며 눕기 전에 그 밑을 살핀다.
 - [하품 전염](../docs/contagious-yawning.md) 남이 하품하는 것을 보거나 하품 이야기를 읽은 사람이 따라 하품한다.
 - [한숨 쉬기](../docs/sighing.md) 사람이 답답하거나 안도할 때 숨을 길게 내쉰다.
 - [혹시 몰라 챙겨 두기](../docs/just-in-case-keeping.md) 사람이 언젠가 필요할지 모른다는 생각에 당장 쓰지 않을 물건이나 돈을 챙기거나 쌓아 둔다.

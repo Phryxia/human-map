@@ -22,7 +22,8 @@
 
 ## 하위
 
-없음.
+- [밤에 거울 보기 두려워하기](fear-of-mirrors-at-night.md)
+- [침대 밑에 누가 숨어 있을까 두려워하기](fear-of-something-under-the-bed.md)
 
 ## 원인
 
