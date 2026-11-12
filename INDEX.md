@@ -718,6 +718,7 @@
 - [헌책 속 앞 주인의 흔적 반기기](docs/traces-of-previous-owners-in-used-books.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [헌혈 꺼림](docs/avoiding-blood-donation.md) ([건강과 위험](groups/health-and-safety.md))
 - [헌혈 뒤 다시 오지 않기](docs/not-returning-to-donate-blood.md) ([건강과 위험](groups/health-and-safety.md))
+- [헤어진 연인에게 연락하기](docs/contacting-an-ex.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [헤어진 연인의 물건 간직하기](docs/keeping-an-exs-belongings.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [헤어진 연인의 물건 없애기](docs/discarding-an-exs-belongings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [헬스장 등록하고 안 가기](docs/gym-membership-nonuse.md) ([돈과 소비](groups/money.md))
