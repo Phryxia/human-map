@@ -273,6 +273,7 @@
 - [발표 불안](docs/public-speaking-anxiety.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [밤 소리를 침입자로 여기기](docs/imagining-intruders-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [밤길 혼자 걷기 두려움](docs/fear-of-walking-alone-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [밤에 거울 보기 두려워하기](docs/fear-of-mirrors-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [방관자 효과](docs/bystander-effect.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [방향지시등 켜지 않기](docs/not-using-turn-signals.md) ([길과 운전](groups/roads-and-driving.md))
 - [배달 음식 시켜 먹기](docs/ordering-food-delivery.md) ([시간과 하루 습관](groups/daily-time.md))
