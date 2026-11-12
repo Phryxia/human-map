@@ -1055,7 +1055,7 @@
   },
   "https://www.82cook.com/entiz/read.php?bn=15&num=1572696": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-12",
     "result": "UNREACHABLE"
   },
   "https://www.audacy.com/987thespot/blogs/miles-morning/study-finds-majority-people-dont-want-talk-others-elevator": {
@@ -1066,9 +1066,9 @@
   },
   "https://v.daum.net/v/20251222050218552": {
     "first": "2026-10-18",
-    "last": "2026-11-09",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-12"
   },
   "https://community.rememberapp.co.kr/post/196730": {
     "first": "2026-10-18",
@@ -4173,9 +4173,9 @@
   },
   "https://www.instiz.net/name/49861851": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-10-19"
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
   },
   "https://letstalk.mindline.sg/t/social-anxiety-or-not/22898": {
     "first": "2026-10-19",
@@ -4293,9 +4293,9 @@
   },
   "https://m.go.seoul.co.kr/news/2012/08/02/20120802014008": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-12"
   },
   "https://wtop.com/national/2014/12/telepressure-could-be-making-you-sick/": {
     "first": "2026-10-19",
@@ -25497,6 +25497,18 @@
     "lastVerified": "2026-11-12"
   },
   "https://v.daum.net/v/20251211140312588": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.clien.net/service/board/park/12579657": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.kyeongin.com/article/1752665": {
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "VERIFIED",
