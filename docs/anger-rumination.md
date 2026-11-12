@@ -38,6 +38,7 @@
 
 ## 결과
 
+- [원한 품기](holding-a-grudge.md)[^8]
 - [엉뚱한 대상에게 화풀이하기](displaced-aggression.md)[^1]
 
 ## 대립
@@ -53,3 +54,4 @@
 [^5]: [학술] "ruminating about real world anger provocations, guilt-inducing events, and sad times in the last year made these past events feel as though they happened more recently." (지난 1년 동안 실제로 겪은 분노 유발 사건, 죄책감을 일으킨 사건, 슬펐던 때를 곱씹으면 이 지난 일들이 더 최근에 일어난 것처럼 느껴졌다.) — Ewa Siedlecka, Miriam M. Capper, Thomas F. Denson, "Negative Emotional Events that People Ruminate about Feel Closer in Time", PLoS One, 2015-02-25, https://pmc.ncbi.nlm.nih.gov/articles/PMC4351980/, 2026-11-09 접속
 [^6]: [학술] "reappraisal was associated with a decrease in anger, but rumination was associated with no change in anger." (재평가는 분노의 감소와 관련되었으나 반추는 분노의 변화가 없는 것과 관련되었다.) — Carmen Peuters, Elise K. Kalokerinos, Madeline Lee Pe, Peter Kuppens, "Sequential effects of reappraisal and rumination on anger during recall of an anger-provoking event", PLoS One, 2019-01-02, https://pmc.ncbi.nlm.nih.gov/articles/PMC6314601/, 2026-11-09 접속
 [^7]: [SNS] "10년도 더 지난 일임에도 그 때의 일이 하루라도 생각나지 않은 때가 없어요. 직장 괴롭힘으로 심한 모욕감을 느꼈고 내가 우연히라도 그 사람을 만나면 욕 한바가지 해주고 싶다는 생각만 마음 속에 남아있네요." — 김박사넷, 게시글, 2022-08-31, https://phdkim.net/board/free/33770, 2026-11-09 접속
+[^8]: [매체] "Most notably, the second study found that rumination played a mediating role in the relationship between narcissism and grudge holding." (무엇보다 두 번째 연구에서는 반추가 자기애와 원한 품기 사이의 관계를 매개하는 것으로 나타났다.) — Eric W. Dolan, "New psychology research connects narcissism to grudge holding", PsyPost, 2024-01-06, https://www.psypost.org/new-psychology-research-connects-narcissism-to-grudge-holding/, 2026-11-12 접속

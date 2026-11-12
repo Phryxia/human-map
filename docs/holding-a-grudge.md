@@ -18,7 +18,7 @@
 
 2023년 10월 기사[^7]가 전한 연구에서 어둠의 3요소 성향이 높은 사람들이 용서하기를 어려워하는 일은 분노반추로 더 나빠졌다.
 
-2024년 Hacker News 댓글[^8]의 글쓴이는 불합격을 알려 준 회사에는 잠시 실망하고 넘어갔지만 아무 말 없이 기다리게 둔 회사에는 아직 원한을 품고 있다고 썼다.
+2024년 Hacker News 댓글[^9]의 글쓴이는 불합격을 알려 준 회사에는 잠시 실망하고 넘어갔지만 아무 말 없이 기다리게 둔 회사에는 아직 원한을 품고 있다고 썼다.
 
 # 관계
 
@@ -33,6 +33,7 @@
 ## 원인
 
 - [반추](rumination.md)[^7]
+- [분노 반추](anger-rumination.md)[^8]
 
 ## 결과
 
@@ -51,4 +52,5 @@
 [^5]: [학술] "As expected, these aspects of holding a grudge were linked to less forgiveness and greater general unforgiveness, as well as revenge, avoidance, and rumination." (예상대로 원한 품기의 이 측면들은 더 적은 용서, 더 큰 일반적 비용서, 그리고 복수, 회피, 반추와 이어져 있었다.) — Elizabeth Marie Van Monsjou, "Holding Grudges: Developing Theory and Measurement", York University 박사학위논문, 2019-03-05, https://yorkspace.library.yorku.ca/items/5d6467d6-6fb9-42b2-a6b1-90f781b961ff/full, 2026-10-27 접속
 [^6]: [매체] "78 per cent have a lingering resentment of some sort, including not getting a job, being dumped and bad customer service experiences" (78퍼센트는 일자리를 얻지 못한 일, 차인 일, 나쁜 고객 서비스 경험을 비롯해 어떤 식으로든 남은 원망을 품고 있다) — Trustpilot, "Average adult holds seven grudges, trustpilot research finds", Trustpilot 보도자료, 2022-01-19, https://corporate.trustpilot.com/press/news/helping-hands, 2026-10-27 접속
 [^7]: [매체] "이들이 용서를 하는 데 어려움을 겪는 것은 분노반추를 함으로써 악화됐다." — 지해미, 「“출소 후 복수할 것”…그 범죄자 '보복심리' 강한 이유 있다」, 코메디닷컴, 2023-10-11, https://kormedi.com/1627194/, 2026-10-30 접속
-[^8]: [SNS] "The companies that told me I was a rejected applicant via email, I was disappointed for a short while, but moved on. The companies that left me hanging and never said a thing, I still hold a grudge." (불합격했다고 이메일로 알려 준 회사들에는 잠시 실망했지만 넘어갔다. 나를 기다리게 두고 아무 말도 하지 않은 회사들에는 아직도 원한을 품고 있다.) — Hacker News 댓글, 2024-01-19, https://news.ycombinator.com/item?id=39049995, 2026-10-27 접속
+[^8]: [매체] "Most notably, the second study found that rumination played a mediating role in the relationship between narcissism and grudge holding." (무엇보다 두 번째 연구에서는 반추가 자기애와 원한 품기 사이의 관계를 매개하는 것으로 나타났다.) — Eric W. Dolan, "New psychology research connects narcissism to grudge holding", PsyPost, 2024-01-06, https://www.psypost.org/new-psychology-research-connects-narcissism-to-grudge-holding/, 2026-11-12 접속
+[^9]: [SNS] "The companies that told me I was a rejected applicant via email, I was disappointed for a short while, but moved on. The companies that left me hanging and never said a thing, I still hold a grudge." (불합격했다고 이메일로 알려 준 회사들에는 잠시 실망했지만 넘어갔다. 나를 기다리게 두고 아무 말도 하지 않은 회사들에는 아직도 원한을 품고 있다.) — Hacker News 댓글, 2024-01-19, https://news.ycombinator.com/item?id=39049995, 2026-10-27 접속
