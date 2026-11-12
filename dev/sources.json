@@ -23543,15 +23543,15 @@
   },
   "https://www.gutenberg.org/cache/epub/2788/pg2788-images.html": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31682003&rettype=abstract&retmode=text": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://www.clien.net/service/board/park/19170197": {
     "first": "2026-11-10",
@@ -23561,9 +23561,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=28286409&rettype=abstract&retmode=text": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3696537&rettype=abstract&retmode=text": {
     "first": "2026-11-10",
@@ -23711,9 +23711,9 @@
   },
   "https://melmagazine.com/en-us/story/broke-something-in-airbnb-damage-vrbo": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-12"
   },
   "https://www.gqkorea.co.kr/2023/05/28/%ec%9d%b5%ec%88%99%ed%95%9c-%ea%b2%83%eb%a7%8c-%ec%a2%8b%ec%95%84%ed%95%98%eb%8a%94-%ec%82%ac%eb%9e%8c%ec%9d%98-%ed%8a%b9%ec%a7%95-5/": {
     "first": "2026-11-10",
@@ -25396,6 +25396,12 @@
     "lastVerified": "2026-11-12"
   },
   "https://www.clien.net/service/board/park/18835383": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://boards.straightdope.com/t/doper-parents-has-your-kid-ever-destroyed-a-prized-possession-of-yours/443432/35": {
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "VERIFIED",
