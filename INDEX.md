@@ -679,6 +679,7 @@
 - [칭찬 부정하기](docs/deflecting-compliments.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [카시트 없이 아이 태우기](docs/child-car-seat-nonuse.md) ([길과 운전](groups/roads-and-driving.md))
 - [카페에 오래 앉은 손님의 눈치](docs/lingering-in-cafe-guilt.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [커플 사이의 성욕 차이](docs/sexual-desire-discrepancy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [큰돈이 생기는 공상](docs/daydreaming-about-windfall.md) ([돈과 소비](groups/money.md))
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [타인의 표정을 부정적으로 읽기](docs/reading-faces-as-negative.md) ([남의 시선과 창피함](groups/others-gaze.md))
