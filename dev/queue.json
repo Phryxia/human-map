@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-12T09:40:08.396Z",
-  "nextSeq": 4676,
-  "stops": 248,
+  "savedAt": "2026-11-12T12:29:20.422Z",
+  "nextSeq": 4678,
+  "stops": 249,
   "items": [
+    {
+      "id": "2b3f9d54",
+      "title": "not-returning-borrowed-books 보강: 확인된 SNS 파편, 빌려주지 않게 되기 관계",
+      "priority": 50,
+      "note": "2026-11-12 82cook 2018 게시글은 ECONNRESET 으로 미확인. 후보: pann.nate.com/talk/370767597 댓글 '책 빌려주고 단 한 번도 돌려 받은 적 없어요'(2023-08-16). 같은 82cook 글에 '필요한 책은 사고 말지 남에게 절대 안빌리고, 자진해서 빌려주진 않아요' 결과 간선 후보. 서울신문 2000-03-10 외언내언 '돌아오지 않는 책'(지하철 독서마당 2만 권)",
+      "createdAt": "2026-11-12T12:13:43.785Z",
+      "seq": 4677
+    },
     {
       "id": "c4f6ec7e",
       "title": "online-cart-abandonment 관계: buyers-remorse",
