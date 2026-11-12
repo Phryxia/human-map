@@ -14980,9 +14980,9 @@
   },
   "https://www.gutenberg.org/cache/epub/110/pg110-images.html": {
     "first": "2026-10-31",
-    "last": "2026-11-02",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-12"
   },
   "https://repub.eur.nl/pub/20778": {
     "first": "2026-10-31",
@@ -25790,6 +25790,18 @@
     "lastVerified": "2026-11-12"
   },
   "https://www.standardmedia.co.ke/amp/m/article/2001248793/new-rules-don-t-text-your-ex-while-drunk": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://view.asiae.co.kr/article/2015051909223103235": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11367802/": {
     "first": "2026-11-12",
     "last": "2026-11-12",
     "result": "VERIFIED",
