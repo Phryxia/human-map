@@ -167,6 +167,7 @@
 - [다리미 켜 둔 채 자리 뜨기](docs/leaving-iron-on.md) ([건강과 위험](groups/health-and-safety.md))
 - [다원적 무지](docs/pluralistic-ignorance.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [다이어트 중 폭식](docs/diet-breaking-binge.md) ([시간과 하루 습관](groups/daily-time.md))
+- [단골 가게 두기](docs/being-a-regular.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [단속 카메라 앞에서만 속도 줄이기](docs/slowing-only-at-speed-cameras.md) ([길과 운전](groups/roads-and-driving.md))
 - [단체 사진과 신문에서 자기부터 찾기](docs/looking-for-oneself-first.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [단톡방 나가지 못하기](docs/staying-in-group-chats.md) ([메시지와 휴대전화](groups/messages-and-phones.md))

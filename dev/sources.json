@@ -25680,5 +25680,29 @@
     "last": "2026-11-12",
     "result": "VERIFIED",
     "lastVerified": "2026-11-12"
+  },
+  "https://news.ycombinator.com/item?id=18242410": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://news.ycombinator.com/item?id=20024394": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6645174/": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
+  },
+  "https://www.korea.kr/news/reporterView.do?newsId=148925811": {
+    "first": "2026-11-12",
+    "last": "2026-11-12",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-12"
   }
 }

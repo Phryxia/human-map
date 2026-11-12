@@ -14,6 +14,7 @@
 - [낯선 사람의 대화 엿듣기](../docs/eavesdropping-on-strangers.md) 공공장소에서 사람이 가까이 있는 낯선 사람들이 나누는 대화를 몰래 귀 기울여 듣는다.
 - [늘 앉던 자리에 앉기](../docs/sitting-in-the-usual-seat.md) 지정석이 없는 강의실이나 공원 같은 곳을 되풀이해 찾는 사람이 늘 앉던 자리에 다시 앉는다.
 - [다녀간 자리에 이름 새기기](../docs/carving-names-at-visited-places.md) 명소나 숲, 유적을 찾은 사람이 그 자리의 나무나 벽, 바위에 자기 이름이나 아는 사람의 이름을 새기거나 써서 남긴다.
+- [단골 가게 두기](../docs/being-a-regular.md) 사람이 식당, 카페, 동네 가게 가운데 한 곳을 정해 두고 되풀이해 찾아간다.
 - [닫히는 문으로 뛰어들어 타기](../docs/rushing-closing-doors.md) 승객이 열차나 지하철의 문이 닫히는 중에 뛰어들거나 팔을 넣어 타려 한다.
 - [도서관 책 훼손](../docs/defacing-library-books.md) 도서관 책을 빌린 이용자가 책에 밑줄을 긋고 메모하거나 필요한 쪽을 찢어 간다.
 - [말을 피하려고 다른 일에 몰두한 척하기](../docs/feigning-absorption-to-avoid-talk.md) 주변 사람과 말을 섞고 싶지 않은 사람이 신문이나 책, 휴대폰, 헤드폰에 몰두한 척해 말을 막는다.
