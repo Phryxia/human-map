@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-12T15:37:07.831Z",
-  "nextSeq": 4695,
-  "stops": 250,
+  "savedAt": "2026-11-12T18:41:25.604Z",
+  "nextSeq": 4707,
+  "stops": 251,
   "items": [
+    {
+      "id": "bdf2a370",
+      "title": "being-a-regular 보강: 문학 파편",
+      "priority": 50,
+      "note": "Gutenberg 883 Our Mutual Friend 'red curtains matching the noses of the regular customers' 대목, 발행일 표기 확인 필요. Guardian 칼럼 'learning to love being a regular' 미확인",
+      "createdAt": "2026-11-12T18:40:31.989Z",
+      "seq": 4706
+    },
     {
       "id": "488adb4c",
       "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계, SNS 파편",
@@ -2683,6 +2691,38 @@
       "note": "2026-11-12 블라인드 2020-11-14 댓글 더함. koreascience '예기애도' 검색은 JAKO201810256453331 하나뿐이고 해당 대목 없음. 다음: kci.go.kr landingArticle '예기 비탄', '예기적 비탄'",
       "createdAt": "2026-11-12T15:33:57.376Z",
       "seq": 4693
+    },
+    {
+      "id": "d15bbc66",
+      "title": "손주 돌봄을 거절하지 못하는 조부모",
+      "priority": 10,
+      "note": "grandparent-childcare 탐색 중 머니투데이 2026-05-08 mt.co.kr/policy/2026/05/08/2026050808303975631: 손자녀 돌보는 조부모 53.3% 원치 않지만 자녀 사정으로 거절 못함, 46.8% 그만두고 싶다고 생각",
+      "createdAt": "2026-11-12T18:18:56.672Z",
+      "seq": 4702
+    },
+    {
+      "id": "e21057c2",
+      "title": "부모 집에 사는 것을 부끄러워하기",
+      "priority": 10,
+      "note": "adult-children-living-with-parents 탐색 중 Straight Dope 833425 (2019) 'De-stigmatizing adults living at home' 스레드에 낙인 이야기. adult-children-living-with-parents 와 관계 후보",
+      "createdAt": "2026-11-12T18:23:26.898Z",
+      "seq": 4703
+    },
+    {
+      "id": "9e22e540",
+      "title": "귀농 뒤 도시로 돌아가기",
+      "priority": 10,
+      "note": "moving-to-the-countryside 탐색 중 역귀농 비율 공공 HTML 미발견. Мир России 4945 (2015) 'обратной миграции', HN 29961443 의 홈스테드 수익 어려움 대목",
+      "createdAt": "2026-11-12T18:30:28.316Z",
+      "seq": 4704
+    },
+    {
+      "id": "94ec105d",
+      "title": "셀프 계산대 피하기",
+      "priority": 10,
+      "note": "choosing-self-checkout 탐색 중 Straight Dope 514105?page=2 (2009-10-17) 'So now I avoid them' 대목. choosing-self-checkout 과 대립 후보. 서울시 news.seoul.go.kr/gov/archives/540969 (2022) 키오스크 미이용 이유 '뒷사람 눈치'",
+      "createdAt": "2026-11-12T18:38:01.078Z",
+      "seq": 4705
     },
     {
       "id": "02b2f242",
