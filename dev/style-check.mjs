@@ -3,6 +3,9 @@
 import {loadAll, listDocIds, paragraphs} from './lib/doc.mjs'
 import {GROUPS, countRules} from './lib/style-rules.mjs'
 
+// '~적 N' 개수에서 빼는 낱말. 접미사 -적 이 아니라 '적' 으로 끝나는 명사이고 낱말 전체가 같을 때만 뺀다(현실적, 주기적, 이성적은 센다).
+const JEOK_NOUNS = ['목적', '흔적', '필적', '실적', '업적', '기적', '성적', '추적', '족적', '궤적', '표적', '행적', '면적', '체적', '용적']
+
 // 한 줄에 금지 묶음을 적용한다. level 을 주면 그 단계로 낮춘다.
 function lineIssues(doc, ln, text, groups, level) {
   const out = []
@@ -33,7 +36,7 @@ export function styleIssues(doc) {
   const doc2 = all.map(p => p.text).join(' ')
   const contrast = (doc2.match(/[가이] 아니라/g) ?? []).length
   if (contrast > 1) out.push({id: doc.id, ln: 0, group: '개수 규칙', msg: `문서 전체에 'A 가 아니라 B' 가 ${contrast}개 (하나까지)`})
-  const jeok = (doc2.match(/[가-힣]+적 [가-힣]+/g) ?? []).length
+  const jeok = (doc2.match(/[가-힣]+적 [가-힣]+/g) ?? []).filter(m => !JEOK_NOUNS.includes(m.split(' ')[0])).length
   if (jeok > 2) out.push({id: doc.id, ln: 0, group: '개수 규칙', msg: `문서 전체에 '~적 N' 이 ${jeok}개 (둘까지)`})
   return out
 }

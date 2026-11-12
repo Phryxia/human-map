@@ -34,6 +34,12 @@ test('개수 규칙: 대구 둘, 적 N 셋, 같은 종결 네 번', () => {
   assert.ok(issues('구조적 문제와 심리적 요인과 사회적 압력이 있다.[^1][^2]').some(i => i.group === '개수 규칙'))
   assert.ok(issues('그가 갔다. 그녀가 갔다. 우리가 갔다. 모두 갔다.[^1][^2]').length > 0)
 })
+test('적 N 개수 규칙은 필적, 목적, 흔적 같은 -적 명사를 세지 않는다', () => {
+  assert.ok(!issues('필적 감식가가 보았다. 필적 분석을 했다. 필적 평가를 받았다.[^1][^2]').some(i => i.group === '개수 규칙' && i.msg.includes('적 N')))
+  assert.ok(!issues('목적 없이 걸었다. 흔적 없이 사라졌다. 실적 압박이 컸다.[^1][^2]').some(i => i.group === '개수 규칙' && i.msg.includes('적 N')))
+  assert.ok(issues('현실적 판단과 주기적 운동과 이성적 태도가 있다.[^1][^2]').some(i => i.group === '개수 규칙' && i.msg.includes('적 N')))
+  assert.ok(issues('필적 분석과 구조적 문제와 심리적 요인과 사회적 압력이 있다.[^1][^2]').some(i => i.group === '개수 규칙' && i.msg.includes('적 N')))
+})
 test('5문장 문단은 문단 길이로 잡는다', () => assert.ok(has('가 했다. 나 했다? 다는 안 했다. 라는 봤다. 마는 왔다.[^1][^2]', '문단 길이')))
 test('동사 어간+고, 는 연결어미 뒤 쉼표 ERROR 로 잡는다', () => {
   const w = issues('2024년 F1 은 바뀌고 있다고 적고, 2022년 F2 는 달랐다.[^1][^2]').filter(i => i.group === '연결어미 뒤 쉼표')
