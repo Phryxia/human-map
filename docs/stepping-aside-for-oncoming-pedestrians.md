@@ -8,7 +8,7 @@
 
 # 서술
 
-1864년 소설[^1]의 화자는 넵스키 거리를 걸으며 장군과 근위대 장교, 귀부인이 지나갈 때마다 옆으로 비켜 길을 내주었다.
+1864년 소설[^1]의 화자는 넵스키 거리에서 장군과 근위대 장교, 귀부인에게 길을 내주려고 끊임없이 옆으로 비켜섰고 그럴 때면 가슴이 경련하듯 저렸다.
 
 2006년 게시판 댓글[^2]에서 글쓴이 앞을 걷던 남편은 마주 오는 여자아이와 부딪히지 않으려고 인도에서 내려섰다.
 
@@ -48,7 +48,7 @@
 
 #공공 #관계
 
-[^1]: [문학] "I used to wriggle along in a most unseemly fashion, like an eel, continually moving aside to make way for generals, for officers of the guards and the hussars, or for ladies." (나는 장어처럼 몹시 볼품없이 몸을 비틀며 걸었고 장군, 근위대와 경기병 장교, 귀부인에게 길을 내주려고 끊임없이 옆으로 비켜섰다.) — Fyodor Dostoyevsky, Notes from Underground, 1864, https://www.gutenberg.org/cache/epub/600/pg600-images.html, 2026-11-06 접속
+[^1]: [문학] "continually moving aside to make way for generals, for officers of the guards and the hussars, or for ladies. At such minutes there used to be a convulsive twinge at my heart" (장군, 근위대와 경기병 장교, 귀부인에게 길을 내주려고 끊임없이 옆으로 비켜섰다. 그럴 때면 가슴이 경련하듯 저렸다) — Fyodor Dostoyevsky, Notes from Underground, 1864, https://www.gutenberg.org/cache/epub/600/pg600-images.html, 2026-11-12 접속
 [^2]: [SNS] "My husband, who was walking in front of me, got off the sidewalk so as to avoid walking into one of the girls (about 8-10 years old)." (앞서 걷던 남편은 8\~10살쯤 된 여자아이 하나와 부딪히지 않으려고 인도에서 내려섰다.) — Straight Dope Message Board 댓글, 2006-04-13, https://boards.straightdope.com/t/get-outta-my-goddamned-way/352541, 2026-11-06 접속
 [^3]: [매체] "Usually it was expected that blacks would step off the sidewalk when meeting whites or else walk on the outer street side of the walk thereby "giving whites the wall."" (대개 흑인은 백인과 마주치면 보도에서 내려서거나 보도의 바깥쪽 차도 쪽으로 걸어 "백인에게 벽 쪽을 내주리라" 기대되었다.) — Ronald L. F. Davis, "Question of the Month", Jim Crow Museum, Ferris State University, 2006-09, https://jimcrowmuseum.ferris.edu/question/2006/september.htm, 2026-11-09 접속
 [^4]: [학술] "the participant giving way contributes more than the one passing first to avoid the collision. Both walkers reorient their path but the participant giving way also adapts his speed." (길을 내주는 참가자가 먼저 지나가는 참가자보다 충돌을 피하는 데 더 많이 기여한다. 두 보행자 모두 경로를 틀지만 길을 내주는 참가자는 속도도 조절한다.) — Anne-Hélène Olivier, Antoine Marin, Armel Crétual, Alain Berthoz, Julien Pettré, "Collision avoidance between two walkers: Role-dependent strategies", Gait & Posture, 2013, https://inria.hal.science/hal-00821854v1, 2026-11-09 접속
