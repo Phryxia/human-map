@@ -58,6 +58,10 @@ test('명사 사고·원고·재고 등의 나열 쉼표는 연결어미 뒤 쉼
   assert.ok(has('화를 참고, 웃었다.[^1][^2]', '연결어미 뒤 쉼표'))
   assert.ok(has('밥을 먹고, 잤다.[^1][^2]', '연결어미 뒤 쉼표'))
 })
+test('명사 수고 의 나열 쉼표는 잡지 않고 부수고, 는 잡는다', () => {
+  assert.ok(!has('시스템을 익히는 수고, 스캔 오류를 든다.[^1][^2]', '연결어미 뒤 쉼표'))
+  assert.ok(has('문을 부수고, 들어갔다.[^1][^2]', '연결어미 뒤 쉼표'))
+})
 test('제목·별칭·요약 줄의 한자와 이모지도 잡는다', () => {
   const head = text => styleIssues(loadAll(makeRepo({a: text})).get('a')).filter(i => i.group === '이모지와 한자')
   const alias = makeDoc().replace('별칭: 없음', '별칭: 상사 눈치에 퇴근 못 하기, 付き合い残業')
