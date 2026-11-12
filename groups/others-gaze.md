@@ -17,6 +17,7 @@
 - [모르는 것을 아는 체하기](../docs/feigning-knowledge.md) 사람이 모르는 지식이나 낱말, 개념을 남 앞에서 안다고 말한다.
   - [알아들은 척하기](../docs/pretending-to-understand.md)
   - [읽지 않은 책을 읽은 척하기](../docs/pretending-to-have-read-books.md)
+- [몸 확인 행동](../docs/body-checking.md) 자기 몸의 생김새나 크기를 신경 쓰는 사람이 거울을 보거나 몸을 만지고 재며 몸을 되풀이해 확인한다.
 - [발표 불안](../docs/public-speaking-anxiety.md) 여러 사람 앞에서 말하거나 무대에 서야 하는 사람이 그 자리를 앞두고 또는 그 자리에서 두려움을 느끼고 몸이 떨리거나 말이 막힌다.
 - [보는 눈이 있을 때 행동 바꾸기](../docs/behaving-better-when-watched.md) 누군가 지켜본다고 느끼는 사람이 혼자일 때와 달리 남이 좋게 볼 만한 쪽으로 행동한다.
 - [부끄러워 사람 피하기](../docs/avoiding-people-out-of-shame.md) 부끄러운 처지나 일이 있는 사람이 그 일을 아는 사람이나 사람이 모인 자리를 피한다.

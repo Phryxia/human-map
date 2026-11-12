@@ -240,6 +240,7 @@
 - [모음 채우기](docs/completing-a-collection.md) ([돈과 소비](groups/money.md))
 - [모인 자리에서 말하지 않기](docs/staying-quiet-in-groups.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [목이 메어 말을 잇지 못하기](docs/choking-up-mid-speech.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [몸 확인 행동](docs/body-checking.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [몽유](docs/sleepwalking.md) ([시간과 하루 습관](groups/daily-time.md))
 - [무늬에서 얼굴과 모양 보기](docs/seeing-shapes-in-clouds.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [무단횡단](docs/jaywalking.md) ([길과 운전](groups/roads-and-driving.md))
