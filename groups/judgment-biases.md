@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [계획 오류](../docs/planning-fallacy.md) 일을 계획하는 사람이 그 일에 들 시간과 품을 실제보다 적게 어림한다.
+- [글씨로 성격 짐작하기](../docs/judging-character-from-handwriting.md) 남이 손으로 쓴 글씨의 모양을 보고 사람이 그 글쓴이의 성격과 됨됨이를 짐작한다.
 - [기준점 의존](../docs/reference-dependence.md) 결과를 받은 사람이 그 결과의 절대 크기보다 동료의 몫이나 자기 기대 같은 기준과 비교해 만족하거나 불만을 느낀다.
   - [손실 회피](../docs/loss-aversion.md)
 - [낙관 편향](../docs/unrealistic-optimism.md) 사람이 사고나 병 같은 나쁜 일이 남보다 자신에게 덜 일어난다고 믿는다.
