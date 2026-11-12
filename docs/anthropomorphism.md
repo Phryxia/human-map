@@ -14,6 +14,10 @@
 
 2015년 Chicago Booth Review 기사[^3]는 Epley 의 주장으로 사람에게는 주변 사람과 이어지려는 근본적인 욕구가 있어 사람 아닌 것과도 이어지려고 그것을 의인화할 수 있다고 전했다.
 
+2020년 신홍임의 연구[^4]에서 외로움을 강하게 느끼는 참가자일수록 컴퓨터와 동물을 더 뚜렷하게 의인화했다.
+
+2024년 해커뉴스 댓글[^5]의 글쓴이는 버그를 찾으면 자기를 기쁘게 하려고 최선을 다한 컴퓨터에게 말을 잘못 건넸다고 여기고 다음에는 더 잘 설명하겠다고 약속한 뒤 사과한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -28,7 +32,7 @@
 
 ## 원인
 
-- [외로움](loneliness.md)[^2]
+- [외로움](loneliness.md)[^2][^4]
 
 ## 결과
 
@@ -43,3 +47,5 @@
 [^1]: [학술] "There is an universal tendency among mankind to conceive all beings like themselves, and to transfer to every object, those qualities, with which they are familiarly acquainted" (인류에게는 모든 존재를 자기와 같은 것으로 생각하고, 자기가 친숙하게 아는 성질을 모든 대상에 옮기는 보편적인 경향이 있다) — David Hume, "The Natural History of Religion", 1757, https://davidhume.org/texts/n/full, 2026-11-10 접속
 [^2]: [매체] "For example, lacking social connections with other people might motivate lonely individuals to seek out connections from nonhuman items." (예를 들어 다른 사람과의 사회적 연결이 부족하면 외로운 사람은 사람이 아닌 것에서 연결을 찾게 될 수 있다.) — "Does the devil really wear Prada? The psychology of anthropomorphism and dehumanization", ScienceDaily, 2010-02-28, https://www.sciencedaily.com/releases/2010/02/100225140927.htm, 2026-11-10 접속
 [^3]: [매체] "We have a fundamental desire to connect with people around us, and we may anthropomorphize things that aren’t human to connect with them, too." (우리에게는 주변 사람과 이어지려는 근본적인 욕구가 있고, 사람이 아닌 것과도 이어지려고 그것을 의인화할 수 있다.) — "Are You Looking at Me?", Chicago Booth Review, 2015-08-27, https://www.chicagobooth.edu/review/are-you-looking-at-me, 2026-11-10 접속
+[^4]: [학술] "그 결과 참가자가 외로움을 강하게 느낄수록 컴퓨터와 동물에 대한 의인화의 경향이 더 뚜렷하게 나타났다." — 신홍임, 「세상에 내 고양이만 있으면: 외로움이 의인화 및 비인간화에 주는 영향」, 감성과학 23(2), 2020, https://koreascience.or.kr/article/JAKO202022663815636.page, 2026-11-12 접속
+[^5]: [SNS] "I realize that in my haste I had accidentally misspoken to the computer who was doing the best it could to please me, I correct it and promise to explain myself better next time, then apologize." (서두르다 나를 기쁘게 하려고 최선을 다하던 컴퓨터에게 실수로 말을 잘못 했다는 걸 깨닫고, 그걸 고친 다음 다음에는 더 잘 설명하겠다고 약속하고 사과한다.) — Hacker News 댓글, 2024-06-29, https://news.ycombinator.com/item?id=40832788, 2026-11-12 접속
