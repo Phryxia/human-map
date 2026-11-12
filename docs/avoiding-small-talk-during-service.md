@@ -32,7 +32,7 @@
 
 ## 결과
 
-없음.
+- [셀프 계산대 고르기](choosing-self-checkout.md)
 
 ## 대립
 

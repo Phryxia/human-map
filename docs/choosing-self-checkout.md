@@ -24,7 +24,7 @@
 
 ## 원인
 
-없음.
+- [서비스 받는 동안 잡담 피하기](avoiding-small-talk-during-service.md)[^1]
 
 ## 결과
 
