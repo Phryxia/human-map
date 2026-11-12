@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-12T00:25:49.040Z",
-  "nextSeq": 4637,
-  "stops": 245,
+  "savedAt": "2026-11-12T03:33:00.770Z",
+  "nextSeq": 4641,
+  "stops": 246,
   "items": [
-    {
-      "id": "a04bfd95",
-      "title": "hair-twirling 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-12 Vanity Fair(599) 대목은 같은 출처 5개 문서 경고로 뺐다. Ulysses(4300) 도 4개 문서가 씀. 후보: David Copperfield(766) 'wind her bright curls round and round her finger', SNS 파편도 없음",
-      "createdAt": "2026-11-12T00:18:43.810Z",
-      "seq": 4635
-    },
-    {
-      "id": "c83f4b88",
-      "title": "leaving-mail-unopened 보강: 학술 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-12 후보: Straight Dope 2004-02-08 white-envelope-inspires-terror-in-local-woman/228093 'afraid to open an envelope because of what it might contain', Straight Dope 2018-06-15 anxiety-opening-mail-is-that-a-thing/816155 (독촉장 걱정에 우편함 확인 미룸). 학술 없음",
-      "createdAt": "2026-11-12T00:24:39.436Z",
-      "seq": 4636
-    },
     {
       "id": "bd942372",
       "title": "news-avoidance 보강: 공공 파편, 원인 간선",
@@ -27,22 +11,6 @@
       "note": "2026-11-09 korea.kr·kpf.or.kr 원문 HTML 여전히 없음, 기자협회보 56091·56602·51706 은 매체. 2026-11-07 ACMA 홈부터 HTTP/2 INTERNAL_ERROR, 総務省 情報通信白書 令和7年版 nd111140 에 회피 수치 없음. Ofcom 403",
       "createdAt": "2026-11-09T15:37:30.364Z",
       "seq": 4326
-    },
-    {
-      "id": "5fc21511",
-      "title": "staircase-wit 와 mind-going-blank 원인 간선",
-      "priority": 40,
-      "note": "2026-11-09 mind-going-blank 에 1915 Esenwein, PMC12086906 더함. Diderot 1830 parce que 문장은 침묵의 이유라 간선 근거로 약함. 후보: ellenhendriksen.substack.com why-does-my-mind-go-blank-in-conversation (2024-05-10) 뒤늦은 대답 대목은 독자 이름이 섞임",
-      "createdAt": "2026-11-09T21:10:02.524Z",
-      "seq": 4358
-    },
-    {
-      "id": "c3b0696b",
-      "title": "holding-a-grudge 와 anger-rumination 원인 간선",
-      "priority": 40,
-      "note": "2026-11-09 anger-rumination 에 Straight Dope 449694(2008), phdkim free/33770(2022) 더함. 근거 후보: psypost narcissism-to-grudge-holding (2024-01-06) 'hold onto grudges more because they ruminate' 문장은 231자, when 꼴 162자 인용은 쓸 수 있음. aarp how-to-let-go-of-a-grudge (2025-12-03) 'It stems from replaying' 은 주어 모호",
-      "createdAt": "2026-11-09T21:15:44.097Z",
-      "seq": 4359
     },
     {
       "id": "e7b98ff3",
@@ -83,14 +51,6 @@
       "note": "2026-11-10 레이디경향 2026-02-05 더함. 후보: Little Women(514) Jo 가 노부인 이야기 도중 끼어드는 대목, Blind 2023 들떠서 끊는다는 원인 근거 원문 있음(상대 현상 문서 필요)",
       "createdAt": "2026-11-10T09:18:22.698Z",
       "seq": 4423
-    },
-    {
-      "id": "0a873b43",
-      "title": "forgetting-to-take-medication 보강: 한국어 SNS 파편, 2003년 이전 파편",
-      "priority": 40,
-      "note": "2026-11-10 HealthUnlocked 2018-05-16 (먹었는지 헷갈림) 더함. 후보: Einstein 외 1998 Psychological Science 초록(PubMed 에 없음), PMC10630004",
-      "createdAt": "2026-11-10T09:22:32.615Z",
-      "seq": 4426
     },
     {
       "id": "000fa2fe",
@@ -195,14 +155,6 @@
       "note": "2026-11-11 SNS 파편 2개 더함. 원인 간선 근거 없음. 후보: daangn 2023-02-16 '집에 고데기 안끄고 나온 거 같은데 어떡하죠', singletrackworld 2023-08-24 3인칭",
       "createdAt": "2026-11-11T09:25:23.146Z",
       "seq": 4582
-    },
-    {
-      "id": "133ac448",
-      "title": "charging-e-bikes-indoors 보강: 한국 공공 파편",
-      "priority": 40,
-      "note": "2026-11-11 학술 PMC11010761, SNS 2개 더함. 후보: heraldk 2025100118400023341 서울소방 실내 충전 실험, PMC13724771 (2026-08-27) 전동킥보드 화재 사망 3건 모두 집에서 충전 중",
-      "createdAt": "2026-11-11T09:29:32.548Z",
-      "seq": 4583
     },
     {
       "id": "fdb86e7e",
@@ -347,14 +299,6 @@
       "note": "2026-10-20 SNS 파편 F3(news.ycombinator.com/item?id=15590814, 2017) 추가. 공공 출처 미발견(연준, CFPB, 소비자원 검색). HN 후보: item?id=18243157 (2018-10-17) 'No Tip' 버튼을 직접 눌러야 하는 압박, 36215490 (2023-06-06) 'face to face to maximize the guilt factor'. weighing-gift-money 와 관계 후보",
       "createdAt": "2026-10-20T08:55:55.634Z",
       "seq": 729
-    },
-    {
-      "id": "1c8ee4cc",
-      "title": "walking-dog-off-leash 보강: 2015년 이전과 학술 파편(내 개는 순하다는 믿음)",
-      "priority": 30,
-      "note": "2026-10-20 heraldcorp 2016(F4), 노컷뉴스 2017(F5) 사용. 남은 후보: ytn.co.kr/_ln/0103_202206270524073776 (2022, '~로 보입니다' 추측), galvnews USA TODAY 2026-08-01 'my dog is friendly'. Nesbitt 2006 NCSU 학위논문 TLS 실패",
-      "createdAt": "2026-10-20T09:04:15.251Z",
-      "seq": 735
     },
     {
       "id": "22ecddab",
@@ -1147,6 +1091,22 @@
       "note": "2026-11-11 brunch ojen1128/348 (2024-06-11) 자는 사람 깨워 양보 부탁 어려워 서서 감 파편 더함(비켜 주지 않음과의 인과 아님). 후보: seoul.co.kr 2026/04/23 20260423500135 배려석 괴롭힘, twig24 2026-06-12 양보 부탁 거부, supple.kr cml08bbp000fa4a7gqbwxy12n 욕설, 인구보건복지협회 2025 자리를 지켜주지 않아서 90.3%(PDF 여부 확인)",
       "createdAt": "2026-11-11T15:30:50.754Z",
       "seq": 4607
+    },
+    {
+      "id": "55a7d475",
+      "title": "walking-dog-off-leash 보강: 내 개는 순하다는 믿음의 학술 파편",
+      "priority": 30,
+      "note": "2026-11-12 Straight Dope 136922/10 (2002-11-15) 더함. 학술 후보 못 찾음",
+      "createdAt": "2026-11-12T03:31:38.633Z",
+      "seq": 4639
+    },
+    {
+      "id": "edd38f49",
+      "title": "forgetting-to-take-medication 보강: 2003년 이전 파편",
+      "priority": 30,
+      "note": "2026-11-12 클리앙 cm_adhd 18738528 (2024-06-03) 더함. 이전 후보: Einstein 외 1998 Psychological Science 초록(PubMed 에 없음)",
+      "createdAt": "2026-11-12T03:32:29.025Z",
+      "seq": 4640
     },
     {
       "id": "9634edf0",
