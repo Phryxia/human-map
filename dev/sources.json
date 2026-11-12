@@ -12301,9 +12301,9 @@
   },
   "https://www.gutenberg.org/cache/epub/4200/pg4200-images.html": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-12"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11705526/fullTextXML": {
     "first": "2026-10-28",
@@ -13297,45 +13297,45 @@
   },
   "https://www.seoul.co.kr/news/1993/08/13/19930813009003": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-12"
   },
   "https://pubmed.ncbi.nlm.nih.gov/10770864/": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-12",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://pubmed.ncbi.nlm.nih.gov/19261121/": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-12",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://pubmed.ncbi.nlm.nih.gov/27318229/": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-12",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://pubmed.ncbi.nlm.nih.gov/27347727/": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-12",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://archive.cdc.gov/www_cdc_gov/niosh/work-hour-training-for-nurses/longhours/mod7/02.html": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-12"
   },
   "https://www.clien.net/service/board/park/19175742": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-12"
   },
   "https://pubmed.ncbi.nlm.nih.gov/16963194/": {
     "first": "2026-10-29",
@@ -13368,9 +13368,9 @@
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148850695": {
     "first": "2026-10-29",
-    "last": "2026-11-01",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-12"
   },
   "https://news.cancerresearchuk.org/2010/04/29/slapdash-slatherers-increase-risk-of-dangerous-sunburn/": {
     "first": "2026-10-29",
@@ -16256,21 +16256,21 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/8500187/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-12",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://v.daum.net/v/20210719150105219": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-12"
   },
   "https://brunch.co.kr/@skmikiko/588": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
+    "last": "2026-11-12",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-12"
   },
   "https://www.rogerdooley.com/tightwad-spendthrift-scott-rick/": {
     "first": "2026-11-01",
