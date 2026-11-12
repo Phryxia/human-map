@@ -25,6 +25,7 @@
 - [새치기를 보고도 말하지 않기](../docs/staying-silent-at-line-cutting.md) 줄을 선 사람이 다른 사람이 새치기하는 것을 보고도 따지지 않고 넘어간다.
 - [새치기에 항의하기](../docs/confronting-line-cutters.md) 줄을 선 사람이 끼어든 사람에게 따지거나 눈총을 주며 항의한다.
 - [서비스 받는 동안 잡담 피하기](../docs/avoiding-small-talk-during-service.md) 미용실이나 택시에서 서비스를 받는 손님이 직원이나 기사와 잡담하지 않으려고 대화 없는 서비스를 고르거나 미리 요청한다.
+- [셀프 계산대 피하기](../docs/avoiding-self-checkout.md) 가게에서 계산하는 사람이 셀프 계산대를 두고 직원이 있는 계산대에 줄을 선다.
 - [소지품으로 자리 맡기](../docs/saving-seats-with-belongings.md) 도서관 열람실 이용자가 자리를 비우면서 가방이나 책을 두어 그 자리를 오래 맡아 둔다.
 - [아는 사람을 마주치고 못 본 척하기](../docs/pretending-not-to-see-acquaintance.md) 밖에서 아는 사람을 발견한 사람이 인사를 나누지 않으려고 못 본 척하거나 고개를 숙인다.
 - [에스컬레이터 한 줄 서기](../docs/escalator-one-line-standing.md) 에스컬레이터를 탄 사람이 한쪽에 서서 다른 쪽을 걸어 올라가는 사람에게 비워 둔다.
