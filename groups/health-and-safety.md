@@ -38,6 +38,7 @@
   - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)
 - [독감 예방접종 거르기](../docs/skipping-flu-vaccine.md) 권고 대상인 사람이 필요 없다고 여기거나 부작용을 걱정하거나 시간이 없어 독감 예방접종을 받지 않는다.
 - [독립을 잃을 두려움](../docs/fear-of-losing-independence.md) 나이 든 사람이 혼자 일상을 꾸리거나 지금 사는 집에서 계속 지내는 능력을 잃게 될까 두려워한다.
+- [독초를 산나물로 알고 먹기](../docs/eating-poisonous-plants-as-wild-greens.md) 산이나 들에서 나물을 캐는 사람이 생김새가 비슷한 독초를 먹는 나물로 알고 캐서 먹는다.
 - [들어온 길로 대피하기](../docs/exiting-the-way-you-came.md) 불이 나거나 대피해야 할 때 건물 안의 사람이 가까운 비상구 대신 들어왔던 익숙한 출입구로 나가려 한다.
 - [렌즈 낀 채 잠들기](../docs/sleeping-in-contact-lenses.md) 콘택트렌즈를 끼는 사람이 렌즈를 빼지 않은 채 밤잠이나 낮잠을 잔다.
 - [렌즈를 수돗물로 헹구기](../docs/rinsing-lenses-with-tap-water.md) 콘택트렌즈 착용자가 렌즈 용액 대신 수돗물로 렌즈를 헹구거나 수돗물에 담가 둔다.

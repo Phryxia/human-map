@@ -191,6 +191,7 @@
 - [도움받을 때의 자존감 위협](docs/threat-in-receiving-help.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [독감 예방접종 거르기](docs/skipping-flu-vaccine.md) ([건강과 위험](groups/health-and-safety.md))
 - [독립을 잃을 두려움](docs/fear-of-losing-independence.md) ([건강과 위험](groups/health-and-safety.md))
+- [독초를 산나물로 알고 먹기](docs/eating-poisonous-plants-as-wild-greens.md) ([건강과 위험](groups/health-and-safety.md))
 - [돈 걱정](docs/money-worry.md) ([돈과 소비](groups/money.md))
 - [돈 빌려 달라는 말 꺼내기 부끄러워하기](docs/shame-asking-to-borrow-money.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [돈 쓰기 아까워하기](docs/tightwad-spending.md) ([돈과 소비](groups/money.md))
