@@ -1,121 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-13T18:34:39.285Z",
-  "nextSeq": 4901,
-  "stops": 259,
+  "savedAt": "2026-11-13T21:35:01.715Z",
+  "nextSeq": 4921,
+  "stops": 260,
   "items": [
-    {
-      "id": "3807fc0a",
-      "title": "safety-gear-nonuse 보강: 학술 파편, 둘 이상의 장비를 함께 말하는 파편",
-      "priority": 50,
-      "note": "2026-11-13 새 문서(HSE 발행일 미상, Safety+Health 2025). 후보: kyeonggi.com/article/201107070412730 (2011-07-07) 구명조끼 불편·과시욕·설마 하는 안전 불감증(구명조끼 하나), calawyers.org 2018 seatbelt and helmet 설문(이유 대목 못 뽑음). cdc.gov·NIOSH 403",
-      "createdAt": "2026-11-13T16:17:05.261Z",
-      "seq": 4889
-    },
-    {
-      "id": "cc6a79f1",
-      "title": "clean-plate-pressure 보강: 학술·공공 파편과 leaving-food-on-the-plate 대립",
-      "priority": 50,
-      "note": "2026-11-13 새 문서(TODAY 2014, HN 17960050 2018). 후보: HN 22994656 (2020-04-27) 남기면 죄책감, HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람, foxnews.com/health/almost-all-adults-are-in-the-clean-plate-club-study-finds (2014-07-28, 같은 연구). Robinson 외 plate clearing 연구(menshealth.com.au 는 봇 확인). Wansink 연구는 철회 이력이 있어 피함",
-      "createdAt": "2026-11-13T16:21:40.673Z",
-      "seq": 4891
-    },
-    {
-      "id": "8e56ba39",
-      "title": "tinnitus 원인 간선: hearing-protection-nonuse, 큰 소음 노출",
-      "priority": 50,
-      "note": "2026-11-13 새 문서(Irish News 2018, NIDCD 2023). hearing-protection-nonuse [^5] 클리앙 park/3072617 같은 글 댓글 '저 귀마개 안하고 해서 이명생겼습니다..ㅠ', [^8] HN 37856868 은 이미 그 문서에 쓰임. tinnitus 쪽 근거로 다른 출처 필요. 같은 NIDCD 페이지 'Many people experience tinnitus after being exposed to loud noise in a workplace setting or at a sporting event or concert.'",
-      "createdAt": "2026-11-13T16:23:14.382Z",
-      "seq": 4892
-    },
-    {
-      "id": "3f05f35d",
-      "title": "pretending-not-to-hear 보강과 관계: 못 본 척, 몰두한 척과 공통 상위",
-      "priority": 50,
-      "note": "2026-11-13 새 문서(Oliver Twist 1838, 검둥이 1938, HN 2490207 2011, OdishaTV 2011, Frontiers 2018). 후보: lady.khan.co.kr/finance/article/12006 (2009-01-01) 아내가 남편이 못 들은 척한다고 탓함, HN 31980136 (2022) 아이가 할 일을 듣고 못 들은 척, Pride and Prejudice 1342 Mary 'pretending not to hear' (1342 는 이미 4개 문서), Main Street 543. pretending-not-to-see-acquaintance, feigning-absorption-to-avoid-talk 와 회피용 시늉이라는 공통 상위 후보, 근거 문장 필요",
-      "createdAt": "2026-11-13T18:09:02.050Z",
-      "seq": 4897
-    },
-    {
-      "id": "2770ebe6",
-      "title": "keeping-quiet-for-sleepers 보강: 한국어 문학·매체 파편",
-      "priority": 50,
-      "note": "2026-11-13 새 문서(Adam Bede 1859, Straight Dope 2011, Scary Mommy 2016, PMC8262265 2020, 블라인드 2021). 후보: brunch.co.kr/@kareljo/313 (2026-10-18) 자는 가족 방문을 조용히 닫음, romper.com/p/10-small-things-...-1077 (2015-11-12) 삐걱이는 바닥 피해 걷기, officer.com 10249746 (2007-06-12), 위키문헌 사랑의_선물/한네레의_죽음 (1922) 발소리 없이 나감(의도 문장 없음), Daddy-Long-Legs 157 문을 살며시 닫음. 1600년대·1900년대 초 파편 없음",
-      "createdAt": "2026-11-13T18:22:44.480Z",
-      "seq": 4898
-    },
-    {
-      "id": "060a991b",
-      "title": "faking-phone-calls 보강: 학술 파편과 fear-of-walking-alone-at-night 관계",
-      "priority": 50,
-      "note": "2026-11-13 새 문서(CBS 2005, Straight Dope 2010, NBC 2011, GMA 2020). 후보: pewresearch.org/internet/2011/08/15/americans-and-their-cell-phones/ 13% 'pretended to be using their phone'(통화라는 말 없음), dazeddigital.com 48396 (2020-03-17) 택시에서 녹음 틀고 통화하는 척. GMA 'feel unsafe while walking home' 이 fear-of-walking-alone-at-night 원인 간선 후보",
-      "createdAt": "2026-11-13T18:28:11.953Z",
-      "seq": 4899
-    },
-    {
-      "id": "b9b5aee9",
-      "title": "secret-eating 보강: 매체·SNS 파편, 1900년대 파편",
-      "priority": 50,
-      "note": "2026-11-13 새 문서(Little Men 1871, PMC13438224 2026). 파편이 확인됨 2개뿐. 후보: David Copperfield 766 'secretly eating crumbs out of his coat pockets'(766 은 이미 4개 문서), PMC13438224 같은 글의 'fear of reprimand and embarrassment associated with eating in secret'. emotional-eating, late-night-eating 과 관계 후보",
-      "createdAt": "2026-11-13T18:32:24.293Z",
-      "seq": 4900
-    },
-    {
-      "id": "ac26ceb9",
-      "title": "confiding-in-strangers 와 keeping-hardship-to-oneself 대립 근거",
-      "priority": 30,
-      "note": "2026-10-21 후보(같은 사람 안 두 면): fox8.com/news/offering-hope-answering-the-national-suicide-prevention-lifeline/amp/ (2018-09-12) 'It’s easier to call a stranger, sadly, than it is may be to speak to your own loved ones' 매체. 82cook.com/entiz/read.php?bn=15&num=2588668 (2018-06-26 댓글) '힘든일 안좋은일은 가까운 사람한테일수록 얘기를 안하게 되요' curl 연결 끊김, 원문 미확인. 반대 방향으로 민다는 문장은 미발견. 서울신문 2019 F6 은 confiding-in-strangers 에 사용",
-      "createdAt": "2026-10-21T08:55:01.018Z",
-      "seq": 782
-    },
-    {
-      "id": "aeec58a0",
-      "title": "sibling-jealousy-over-favoritism 와 envy, romantic-jealousy 관계",
-      "priority": 30,
-      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: gutenberg 768 Wuthering Heights 4장 'Heathcliff as a usurper of his parent’s affections' (768 은 이미 1개 문서), gutenberg 1532 King Lear 1막 1장 'he always loved our sister most', PMC2810864 같은 출처 B 'Recollections of maternal favoritism in childhood were more important ... predicting tension among adult siblings', kormedi.com/1789590 (2025-01-18) 덜 선호되는 아이, lady.khan.co.kr 202502280931001 (2025-02-28). 질투가 시기심(envy)의 특수한 경우인지 근거 문장 필요",
-      "createdAt": "2026-10-21T20:51:04.887Z",
-      "seq": 872
-    },
-    {
-      "id": "49378ce7",
-      "title": "diet-breaking-binge 와 abandoning-resolutions 관계",
-      "priority": 30,
-      "note": "2026-10-21 diet-breaking-binge 에 1988 Weber 외 파편 추가로 시기 보강 끝. 남은 것: 작심삼일(abandoning-resolutions) 상위 후보, 근거 파편 필요. 후보 medicaldaily.co.kr/news/21189 (2026-07-17) 박탈감과 폭식",
-      "createdAt": "2026-10-21T22:41:54.890Z",
-      "seq": 894
-    },
-    {
-      "id": "2ea37ec6",
-      "title": "perfectionism 보강: 문학·공공 파편, 1989년 이전 시기 파편",
-      "priority": 30,
-      "note": "2026-10-21 파편 3개(HN 2010, Curran & Hill 2019, GQ Korea 2023). 후보: Hewitt & Flett 1991 척도 원 논문, brunch.co.kr/@yujipub/9. HN 1120875 같은 스레드의 답글 'The same hangup keeps me from trying many of my software ideas' 는 같은 URL. 묶음 traits 신설(성향과 기질), 다른 #특성 문서(evening-chronotype 등) 의 묶음 이동 검토",
-      "createdAt": "2026-10-21T22:50:02.090Z",
-      "seq": 897
-    },
-    {
-      "id": "d7ec9f05",
-      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
-      "priority": 30,
-      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: PMC8650558 같은 출처 'Social drinkers are commonly unaware of exceeding the legal driving limit when consuming alcohol.', 도로교통공단 2026 교육생 924명 설문 '술이 깼을 것으로 판단' 24.5%(원문 공단 페이지 미발견, segye·wikitree·mtn 보도), RSA Ireland 2025 45% believed fit to drive(403), samhsa ShortReport-2688 (2016-12-27) 11.1%, cdc impaired-driving/facts (2024-05-15) 1.5%, sports.khan.co.kr 200612052128343 몇 미터 이동은 운전 아님. 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요 / 2026-10-21 djsresearch.co.uk insights 01700 (Direct Line 2014) 'the most common reason given for drink driving is that the individual felt they were okay to safely drive' 는 drink-driving 자체의 이유. legalfutures print 같은 조사 'respondents felt they were personally able to drink more alcohol than the “average woman”' 는 평균 이상 효과 후보이나 운전과의 인과 표지 없음",
-      "createdAt": "2026-10-21T22:58:09.528Z",
-      "seq": 900
-    },
-    {
-      "id": "0273efe3",
-      "title": "hiding-hearing-loss 와 medical-care-avoidance 관계",
-      "priority": 30,
-      "note": "2026-10-22 후보: cambridgenetwork.co.uk/news/adults-take-time-seek-sound-advice (2013-09-13) 창피함 등으로 청력 도움 요청 지연. NIA hearing-loss-common-problem-older-adults (2017-05-17)",
-      "createdAt": "2026-10-22T06:42:12.979Z",
-      "seq": 932
-    },
-    {
-      "id": "d8a00799",
-      "title": "weather-small-talk 와 elevator-silence 관계",
-      "priority": 30,
-      "note": "2026-10-22 남김: allurekorea 엘리베이터 장면 '그리고 침묵.', asol.ling.utexas.edu sun.pdf 'defuse potential hostility of silence'(PDF 미확인)",
-      "createdAt": "2026-10-22T06:43:26.689Z",
-      "seq": 933
-    },
     {
       "id": "95fa4f51",
       "title": "non-complaining 조건: 무행동 소비자의 불만족 정도",
@@ -1179,6 +1067,78 @@
       "note": "2026-11-13 새 문서. hosting-beyond-means [^3] Rao 2001 '잔치에 더 쓴 가구가 더 높은 지위를 얻음' 은 지위 결과 쪽. 같은 사람이 형편을 넘어 잔치를 크게 벌이는 원인으로 지위 과시를 말하는 파편 필요. 2004 JHR 판 jhr.uwpress.org/content/39/3/675 는 같은 글의 다른 판",
       "createdAt": "2026-11-13T16:13:10.797Z",
       "seq": 4888
+    },
+    {
+      "id": "c640ea00",
+      "title": "clean-plate-pressure 와 leaving-food-on-the-plate 대립 근거",
+      "priority": 30,
+      "note": "2026-11-13 보강 때 근거 문장 못 찾음. 후보: PMC12627122 (2025-11-18) 'trade-off exists between food waste and weight gain due to PCB' 는 같은 사람 안에서 반대로 민다는 말이 아니라 맞바꿈. HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
+      "createdAt": "2026-11-13T21:13:11.916Z",
+      "seq": 4911
+    },
+    {
+      "id": "8b289cea",
+      "title": "pretending-not-to-hear, pretending-not-to-see-acquaintance, feigning-absorption-to-avoid-talk 의 공통 상위",
+      "priority": 30,
+      "note": "2026-11-13 회피용 시늉이라는 상위 후보. 상위 문서용 파편(응하지 않으려고 시늉한다는 일반 문장) 필요. Main Street 543 후보",
+      "createdAt": "2026-11-13T21:19:16.054Z",
+      "seq": 4912
+    },
+    {
+      "id": "4492e3c7",
+      "title": "faking-phone-calls 와 fear-of-walking-alone-at-night 원인 간선",
+      "priority": 30,
+      "note": "2026-11-13 보강 때 두려움 때문에 통화하는 척한다는 원인 문장을 못 찾음. 후보: PMC6098244 (2018-08) 'Given these concerns about safety' 문단의 'appearing to be busy with a mobile phone', GMA 2020 'feel unsafe while walking home'",
+      "createdAt": "2026-11-13T21:24:43.748Z",
+      "seq": 4914
+    },
+    {
+      "id": "0d16a90a",
+      "title": "sibling-jealousy-over-favoritism 와 envy, romantic-jealousy 관계",
+      "priority": 30,
+      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: gutenberg 768 Wuthering Heights 4장 'Heathcliff as a usurper of his parent’s affections' (768 은 이미 1개 문서), gutenberg 1532 King Lear 1막 1장 'he always loved our sister most', PMC2810864 같은 출처 B 'Recollections of maternal favoritism in childhood were more important ... predicting tension among adult siblings', kormedi.com/1789590 (2025-01-18) 덜 선호되는 아이, lady.khan.co.kr 202502280931001 (2025-02-28). 질투가 시기심(envy)의 특수한 경우인지 근거 문장 필요",
+      "createdAt": "2026-11-13T21:30:51.574Z",
+      "seq": 4915
+    },
+    {
+      "id": "4adcd5d1",
+      "title": "diet-breaking-binge 와 abandoning-resolutions 관계",
+      "priority": 30,
+      "note": "2026-10-21 diet-breaking-binge 에 1988 Weber 외 파편 추가로 시기 보강 끝. 남은 것: 작심삼일(abandoning-resolutions) 상위 후보, 근거 파편 필요. 후보 medicaldaily.co.kr/news/21189 (2026-07-17) 박탈감과 폭식",
+      "createdAt": "2026-11-13T21:30:51.692Z",
+      "seq": 4916
+    },
+    {
+      "id": "c70e5a0d",
+      "title": "perfectionism 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-13 1831년 Balzac 23060 추가. 공공 후보 못 찾음(healthdirect, betterhealth 404). 문학 후보 Hawthorne The Birth-Mark 512 'this one defect grow more and more intolerable' 는 남의 흠",
+      "createdAt": "2026-11-13T21:32:21.286Z",
+      "seq": 4917
+    },
+    {
+      "id": "97cb2aa9",
+      "title": "delaying-hearing-help 와 hiding-hearing-loss 관계",
+      "priority": 30,
+      "note": "2026-11-13 새 문서(Cambridge Network 2013, PMC5044768 2016). PMC5044768 'the perceived stigma of HL ... causes delay in almost half of cases (Kochkin, 2007 )' 218자라 못 씀. cambridgenetwork 같은 글 'Other factors included embarrassment'. 원인 간선 근거 필요",
+      "createdAt": "2026-11-13T21:33:43.021Z",
+      "seq": 4918
+    },
+    {
+      "id": "5cdd7e14",
+      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
+      "priority": 30,
+      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: PMC8650558 같은 출처 'Social drinkers are commonly unaware of exceeding the legal driving limit when consuming alcohol.', 도로교통공단 2026 교육생 924명 설문 '술이 깼을 것으로 판단' 24.5%(원문 공단 페이지 미발견, segye·wikitree·mtn 보도), RSA Ireland 2025 45% believed fit to drive(403), samhsa ShortReport-2688 (2016-12-27) 11.1%, cdc impaired-driving/facts (2024-05-15) 1.5%, sports.khan.co.kr 200612052128343 몇 미터 이동은 운전 아님. 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요 / 2026-10-21 djsresearch.co.uk insights 01700 (Direct Line 2014) 'the most common reason given for drink driving is that the individual felt they were okay to safely drive' 는 drink-driving 자체의 이유. legalfutures print 같은 조사 'respondents felt they were personally able to drink more alcohol than the “average woman”' 는 평균 이상 효과 후보이나 운전과의 인과 표지 없음",
+      "createdAt": "2026-11-13T21:33:57.528Z",
+      "seq": 4919
+    },
+    {
+      "id": "0ea94076",
+      "title": "weather-small-talk 와 elevator-silence 관계",
+      "priority": 30,
+      "note": "2026-10-22 남김: allurekorea 엘리베이터 장면 '그리고 침묵.', asol.ling.utexas.edu sun.pdf 'defuse potential hostility of silence'(PDF 미확인)",
+      "createdAt": "2026-11-13T21:34:50.596Z",
+      "seq": 4920
     },
     {
       "id": "9634edf0",
@@ -2787,6 +2747,14 @@
       "note": "2026-11-13 매체 후보 확인: psychologicalscience.org 보도자료(reading-the-ending-first 에 사용 중, 2011-08-10) 'Many of us go to extraordinary lengths to avoid learning the endings of stories we have yet to read or see' 원문 확인. weekly.khan.co.kr/article/202112241524391 (2021) 스파이더맨 관객이 스포 피하려 서둘러 관람, insight.co.kr/news/224474 엔드게임 앞두고 SNS·카톡 끊음. 학술·SNS 종류 미확보(straightdope 833638 은 seeking-spoilers 에 사용 중, 클리앙 13467634 등은 반대 의견). b585ef54(결말 먼저 읽기)는 reading-the-ending-first 가 있어 지움. 2026-10-26 APS 2011-08-10 보도자료 'Many of us go to extraordinary lengths to avoid learning the endings' 귀 막기, 비평가에게 요구. reading-the-ending-first 와 대립 후보(같은 사람 안 근거 필요)",
       "createdAt": "2026-11-13T16:20:19.521Z",
       "seq": 4890
+    },
+    {
+      "id": "a63c3d7f",
+      "title": "keeping-quiet-for-sleepers 대립 후보: 아기가 자도 평소대로 소리 내기",
+      "priority": 10,
+      "note": "HN 31980136 (2022-07-04) 'Don’t make a habit of being quiet because the baby is asleep.' 같은 댓글이 pretending-not-to-hear [^7] 에 쓰임. 다른 출처 필요",
+      "createdAt": "2026-11-13T21:19:16.156Z",
+      "seq": 4913
     },
     {
       "id": "02b2f242",
