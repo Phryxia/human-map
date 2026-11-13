@@ -3813,9 +3813,9 @@
   },
   "https://www.gutenberg.org/cache/epub/284/pg284-images.html": {
     "first": "2026-10-19",
-    "last": "2026-10-21",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-13"
   },
   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6151a1.htm": {
     "first": "2026-10-19",
@@ -12733,9 +12733,9 @@
   },
   "https://www.gutenberg.org/cache/epub/107/pg107-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-07",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-13"
   },
   "https://www.gutenberg.org/cache/epub/599/pg599-images.html": {
     "first": "2026-10-28",
@@ -26444,6 +26444,18 @@
     "lastVerified": "2026-11-13"
   },
   "https://www.ytn.co.kr/_ln/0103_202304141345145932": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://www.physicsforums.com/threads/how-do-you-think.318430/post-2226931": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://www.mentalfloss.com/article/64404/why-do-we-pace-when-were-thinking": {
     "first": "2026-11-13",
     "last": "2026-11-13",
     "result": "VERIFIED",

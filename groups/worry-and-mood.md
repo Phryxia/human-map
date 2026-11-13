@@ -51,6 +51,7 @@
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
 - [밤 소리를 침입자로 여기기](../docs/imagining-intruders-at-night.md) 밤에 집에 있는 사람이 작은 소리를 듣고 누가 들어왔다고 여기며 겁을 먹는다.
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
+- [방 안 서성이기](../docs/pacing-the-room.md) 고민하거나 마음이 어지러운 사람이 방이나 좁은 자리 안을 이리저리 왔다 갔다 하며 걷는다.
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
 - [빗소리에 마음 놓이기](../docs/rain-sounds-comfort.md) 실내에 있는 사람이 지붕이나 창에 떨어지는 빗소리를 들으며 편안함을 느끼고 잠들 때 빗소리를 일부러 틀기도 한다.
