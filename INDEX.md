@@ -659,6 +659,7 @@
 - [처분 효과](docs/disposition-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [천둥 번개 무서움](docs/fear-of-thunderstorms.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [천둥 번개 속 바깥 활동 계속하기](docs/staying-outdoors-in-thunderstorms.md) ([건강과 위험](groups/health-and-safety.md))
+- [첫 월급으로 부모 선물하기](docs/first-paycheck-gift-to-parents.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [첫날 밤 효과](docs/first-night-effect.md) ([시간과 하루 습관](groups/daily-time.md))
 - [첫눈 반기기](docs/welcoming-first-snow.md) ([시간과 하루 습관](groups/daily-time.md))
 - [첫눈에 반함](docs/love-at-first-sight.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
