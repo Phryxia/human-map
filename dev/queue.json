@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-11-13T12:38:22.287Z",
-  "nextSeq": 4873,
-  "stops": 257,
+  "savedAt": "2026-11-13T16:23:41.925Z",
+  "nextSeq": 4893,
+  "stops": 258,
   "items": [
     {
-      "id": "09067f84",
-      "title": "guilt-tipping 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-10-20 SNS 파편 F3(news.ycombinator.com/item?id=15590814, 2017) 추가. 공공 출처 미발견(연준, CFPB, 소비자원 검색). HN 후보: item?id=18243157 (2018-10-17) 'No Tip' 버튼을 직접 눌러야 하는 압박, 36215490 (2023-06-06) 'face to face to maximize the guilt factor'. weighing-gift-money 와 관계 후보",
-      "createdAt": "2026-10-20T08:55:55.634Z",
-      "seq": 729
+      "id": "3807fc0a",
+      "title": "safety-gear-nonuse 보강: 학술 파편, 둘 이상의 장비를 함께 말하는 파편",
+      "priority": 50,
+      "note": "2026-11-13 새 문서(HSE 발행일 미상, Safety+Health 2025). 후보: kyeonggi.com/article/201107070412730 (2011-07-07) 구명조끼 불편·과시욕·설마 하는 안전 불감증(구명조끼 하나), calawyers.org 2018 seatbelt and helmet 설문(이유 대목 못 뽑음). cdc.gov·NIOSH 403",
+      "createdAt": "2026-11-13T16:17:05.261Z",
+      "seq": 4889
     },
     {
-      "id": "22ecddab",
-      "title": "irish-goodbye 보강: 학술 파편과 원인 간선",
-      "priority": 30,
-      "note": "2026-10-20 F2 Brewer 1894, F3 CBC 2017, F6 1News(Meehan 2026), F7 brunch 2026 추가. 후보: gerflint.fr/Base/Espagne5/romera.pdf (Romera 2012, PDF라 미확인 예상) 'quitter une réunion sans se faire remarquer pour ne pas offenser les hôtes' 17세기 기원. 1News 같은 글 'Leaving quietly can become a way to protect yourself from the discomfort of saying goodbye.' 작별의 불편 회피 원인 후보, 'because leaving loudly feels like shouting out' 주목받기 싫음(spotlight-effect 관계 후보). 경험 연구 미발견",
-      "createdAt": "2026-10-20T12:35:30.872Z",
-      "seq": 757
+      "id": "cc6a79f1",
+      "title": "clean-plate-pressure 보강: 학술·공공 파편과 leaving-food-on-the-plate 대립",
+      "priority": 50,
+      "note": "2026-11-13 새 문서(TODAY 2014, HN 17960050 2018). 후보: HN 22994656 (2020-04-27) 남기면 죄책감, HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람, foxnews.com/health/almost-all-adults-are-in-the-clean-plate-club-study-finds (2014-07-28, 같은 연구). Robinson 외 plate clearing 연구(menshealth.com.au 는 봇 확인). Wansink 연구는 철회 이력이 있어 피함",
+      "createdAt": "2026-11-13T16:21:40.673Z",
+      "seq": 4891
     },
     {
-      "id": "899fe59b",
-      "title": "staircase-wit 관계: replaying-conversations-afterward 와 원인·결과 근거",
-      "priority": 30,
-      "note": "2026-10-21 thelocal.fr 2020-07-22(F4) 'all you can do is replay the conversation in your head' 는 되짚기를 말하지만 인과 표지 약함. springer s10608-011-9357-z (Makkar 2011) 'higher levels of social anxiety were associated with ... regret-based cognitions during PEP' 후보. gutenberg 1399 Anna Karenina 5부 30장 'How often afterwards she thought of words she might have said.' 문학 다른 변형(작별)",
-      "createdAt": "2026-10-21T02:43:23.667Z",
-      "seq": 775
+      "id": "8e56ba39",
+      "title": "tinnitus 원인 간선: hearing-protection-nonuse, 큰 소음 노출",
+      "priority": 50,
+      "note": "2026-11-13 새 문서(Irish News 2018, NIDCD 2023). hearing-protection-nonuse [^5] 클리앙 park/3072617 같은 글 댓글 '저 귀마개 안하고 해서 이명생겼습니다..ㅠ', [^8] HN 37856868 은 이미 그 문서에 쓰임. tinnitus 쪽 근거로 다른 출처 필요. 같은 NIDCD 페이지 'Many people experience tinnitus after being exposed to loud noise in a workplace setting or at a sporting event or concert.'",
+      "createdAt": "2026-11-13T16:23:14.382Z",
+      "seq": 4892
     },
     {
       "id": "ac26ceb9",
@@ -141,44 +141,12 @@
       "seq": 1002
     },
     {
-      "id": "029f79ab",
-      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, 회식 폭음 조건",
-      "priority": 30,
-      "note": "2026-10-22 클리앙 2026-01-07 [^5] 더함. 후보: talkingsober.com/t/newcomer-having-a-hard-time/24080 (2017-12-09) 'Got so drunk at my work Christmas party last night and blacked out. My mother had to bring me home.' 회사 행사 술자리 필름 끊김. '분위기·스트레스 때문에 마셨다' 인과 SNS 문장 미발견",
-      "createdAt": "2026-10-22T13:01:17.357Z",
-      "seq": 1003
-    },
-    {
-      "id": "859e7288",
-      "title": "smoking-relapse 원인 간선: heavy-drinking",
-      "priority": 30,
-      "note": "2026-10-22 Kahler 2010 PMC2893295 [^3] 조건으로 더함(같은 초록 과음일 재흡연 위험 두 배 문장은 270자). 과음 때문에 다시 피운다는 200자 이하 인과 문장 미발견. 후보: m.seoul.co.kr/news/2015/02/23/20150223024001 '술을 마시면 평소 습관대로 담배 생각이 나서 금연에 실패할 수 있다.'(음주 일반). 상대 문서는 heavy-drinking 이 있음. 스트레스 문서 없음",
-      "createdAt": "2026-10-22T13:03:46.994Z",
-      "seq": 1004
-    },
-    {
       "id": "779b8dd0",
       "title": "tip-of-the-tongue 보강: 한국어 매체·SNS 파편, 고유명사 조건",
       "priority": 30,
       "note": "2026-10-22 박지윤 외 2013 koreascience [^3] 더함. 후보: kormedi.com/1215756 (2015-08-01) '머릿속에 단어의 개념만 떠오르고, 글자와 발음으로 번역되는 과정이 실패했다는 의미다', kormedi.com/2757166 (2025-10-17) '저장되어 있는 것은 확실한데 떠오르지 않아'. scholar.kyobobook.co.kr/article/detail/4010024825343 노인·고유명사·저빈도 단어에서 많음(조건)",
       "createdAt": "2026-10-22T13:05:19.716Z",
       "seq": 1005
-    },
-    {
-      "id": "3366182d",
-      "title": "retail-therapy 보강: 산 뒤 죄책감 학술·한국어 파편",
-      "priority": 30,
-      "note": "2026-10-22 abc7news.com/news/511813 (2015-02-10) [^4] 더함. 후보: nerdwallet.com/finance/learn/data-retail-therapy (2025-04-15) '15% of Americans frequently spend money on things they end up regretting'(기분 전환 구매 한정 아님). oak.jejunu.ac.kr/handle/2020.oak/23625 제주대 학위논문 스트레스·충동구매·죄책감(curl 실패). warc.com 37% guilt or shame 문장 추출 실패",
-      "createdAt": "2026-10-22T13:07:15.513Z",
-      "seq": 1006
-    },
-    {
-      "id": "7a19e980",
-      "title": "superstitious-rituals 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-10-22 SNS Straight Dope 2010-03-15 하키 행운 양말 더함(같은 사이트 636665 'weird-little-superstitions-you-have' 2012 도 후보). 이전: 2026-10-21 dailybruin 2016-02-26 F3 로 사용(같은 글 'Following a pre-exam ritual can ease an overwhelmed student’s mind' 는 같은 URL). 이전 메모: 2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
-      "createdAt": "2026-10-22T16:50:54.823Z",
-      "seq": 1070
     },
     {
       "id": "af776979",
@@ -195,14 +163,6 @@
       "note": "2026-10-22 학술 NBER w9004 (2002-06) 더함. 한국어 검색('난방비 부담에 식비 줄여', '난방비 내느라 식비 줄였다') 결과 없음, jjan.kr/article/20230212580176 은 무료급식소 운영난(인과 아님). reap.fsi.stanford.edu 403. 이전: 2026-10-20 파편 3개(2012 Anderson repec, 2018 EIA, 2023 Scottish Housing News). 한국어 파편 없음(난방비 때문에 식비 줄여). ageuk.org.uk/cymru/latest-news/archive/welsh-pensioners-cut-back-on-heating-and-eating (2013-05-10) 난방과 식사를 함께 줄임(인과 아님). eia 같은 글 'Of the 25 million households that reported forgoing food and medicine to pay energy bills, 7 million faced that decision nearly every month.' energy-limiting-behavior(냉난방 참기) 와 긴장 근거 문장 필요 / 2026-10-21 etoday.co.kr/news/view/2227423 (2023-03-05) 저소득층 연료비 부담 증가와 식비 실질 감소를 함께 보도하나 식비 감소를 식료품 물가 탓으로 풀이해 맞바꿈 근거 아님. nbcnews heat-or-eat n18831 (2014) 영어 매체 후보",
       "createdAt": "2026-10-22T16:53:17.303Z",
       "seq": 1072
-    },
-    {
-      "id": "4d461f05",
-      "title": "pretending-not-to-be-home 보강: 학술 파편, 아기·택배 이유",
-      "priority": 30,
-      "note": "2026-10-22 brunch @efseo2/1675 (2025-04-23) 종교 방문 이유를 [^8] 로 더함(같은 글 '애기가 자고 있어서' 는 같은 URL). 학술은 여전히 없음. 이전: 2026-10-22 나이 조건(Ipsos 2026) 더함. 남은 후보: brunch.co.kr/@efseo2/1675 (2025-04-23) 아기 깰까 봐, 받을 게 없어서 무응답. 학술은 여전히 없음",
-      "createdAt": "2026-10-22T17:02:04.009Z",
-      "seq": 1079
     },
     {
       "id": "13a108b3",
@@ -1141,6 +1101,54 @@
       "seq": 4872
     },
     {
+      "id": "5152d0b6",
+      "title": "irish-goodbye 원인 간선",
+      "priority": 30,
+      "note": "2026-11-13 학술 파편 Беликова 2023(cyberleninka) [^6] 추가. 그 파편이 술을 지나치게 마셔 남몰래 떠날 수밖에 없었다고 말함(원인 표지 поэтому). 음주 관련 문서 생기면 원인 간선 후보. 1News Meehan 'protect yourself from the discomfort of saying goodbye' 후보는 그대로",
+      "createdAt": "2026-11-13T16:04:42.655Z",
+      "seq": 4883
+    },
+    {
+      "id": "17407ab4",
+      "title": "staircase-wit 관계: replaying-conversations-afterward 와 원인·결과 근거",
+      "priority": 30,
+      "note": "2026-10-21 thelocal.fr 2020-07-22(F4) 'all you can do is replay the conversation in your head' 는 되짚기를 말하지만 인과 표지 약함. springer s10608-011-9357-z (Makkar 2011) 'higher levels of social anxiety were associated with ... regret-based cognitions during PEP' 후보. gutenberg 1399 Anna Karenina 5부 30장 'How often afterwards she thought of words she might have said.' 문학 다른 변형(작별). 2026-11-13 esprit de l'escalier 와 replay 인과 문장 재검색, 사전·어원 페이지만 나옴",
+      "createdAt": "2026-11-13T16:04:57.060Z",
+      "seq": 4884
+    },
+    {
+      "id": "1e3b6623",
+      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, 회식 폭음 조건",
+      "priority": 30,
+      "note": "2026-10-22 클리앙 2026-01-07 [^5] 더함. 후보: talkingsober.com/t/newcomer-having-a-hard-time/24080 (2017-12-09) 'Got so drunk at my work Christmas party last night and blacked out. My mother had to bring me home.' 회사 행사 술자리 필름 끊김. '분위기·스트레스 때문에 마셨다' 인과 SNS 문장 미발견 2026-11-13 smoking-relapse 결과 간선과 Kahler 2012 파편 더함. drink-driving 간선 후보 cdc.gov/mmwr/preview/mmwrhtml/mm6039a4.htm 'Binge drinking was strongly associated with alcohol-impaired driving' 는 연관이지 인과 아님(그 URL 은 drink-driving [^2] 로 이미 쓰임)",
+      "createdAt": "2026-11-13T16:08:38.413Z",
+      "seq": 4885
+    },
+    {
+      "id": "0987aea4",
+      "title": "retail-therapy 보강: 산 뒤 죄책감 학술 파편",
+      "priority": 30,
+      "note": "2026-11-13 경향신문 2017-01-29 시발비용 [^5] 와 별칭 더함. 같은 기사의 '시발비용 지출이 늘고 ... 악순환' 은 실명 대목이라 못 씀. 이전: 2026-10-22 abc7news.com/news/511813 (2015-02-10) [^4] 더함. 후보: nerdwallet.com/finance/learn/data-retail-therapy (2025-04-15) '15% of Americans frequently spend money on things they end up regretting'(기분 전환 구매 한정 아님). oak.jejunu.ac.kr/handle/2020.oak/23625 제주대 학위논문 스트레스·충동구매·죄책감(curl 실패). warc.com 37% guilt or shame 문장 추출 실패",
+      "createdAt": "2026-11-13T16:10:37.857Z",
+      "seq": 4886
+    },
+    {
+      "id": "4c6096b1",
+      "title": "superstitious-rituals 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-13 korea.kr 정책브리핑 수능 기사 6건(m.korea.kr 148954091 등)에 징크스·미역국 언급 없음, loc.gov 검색 결과 없음. 2026-10-22 SNS Straight Dope 2010-03-15 하키 행운 양말 더함(같은 사이트 636665 'weird-little-superstitions-you-have' 2012 도 후보). 이전: 2026-10-21 dailybruin 2016-02-26 F3 로 사용(같은 글 'Following a pre-exam ritual can ease an overwhelmed student’s mind' 는 같은 URL). 이전 메모: 2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
+      "createdAt": "2026-11-13T16:11:40.874Z",
+      "seq": 4887
+    },
+    {
+      "id": "58ad94d8",
+      "title": "lavish-celebrations-for-status 와 hosting-beyond-means 관계",
+      "priority": 30,
+      "note": "2026-11-13 새 문서. hosting-beyond-means [^3] Rao 2001 '잔치에 더 쓴 가구가 더 높은 지위를 얻음' 은 지위 결과 쪽. 같은 사람이 형편을 넘어 잔치를 크게 벌이는 원인으로 지위 과시를 말하는 파편 필요. 2004 JHR 판 jhr.uwpress.org/content/39/3/675 는 같은 글의 다른 판",
+      "createdAt": "2026-11-13T16:13:10.797Z",
+      "seq": 4888
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1517,14 +1525,6 @@
       "seq": 567
     },
     {
-      "id": "f5183f41",
-      "title": "퇴근 뒤 일 생각 곱씹기와 생각 때문에 잠 못 이루기의 관계",
-      "priority": 10,
-      "note": "work-rumination-after-hours F3(브런치 2026-05-26) '잠들기 전에도, 심지어 꿈속에서도 같은 장면이 반복' 은 인과 표현 없음. PMC8626826(Kubo 외 2021) 'job‐related e‐mailing after working hours negatively affected the quality of sleep, rumination' 은 2026-10-19 PMC reCAPTCHA 로 미확인. 곱씹음 → 잠 못 이룸 인과 원문 필요",
-      "createdAt": "2026-10-19T22:44:08.613Z",
-      "seq": 581
-    },
-    {
       "id": "d887e966",
       "title": "서비스 받는 동안 잡담 피하기와 자는 척하기의 관계",
       "priority": 10,
@@ -1547,22 +1547,6 @@
       "note": "Scott, The Bride of Lammermoor 1819 11장 gutenberg epub/471 'if it’s my pleasure to hazard my soul in telling lees for the honour of the family' 집사가 손님 앞에서 없는 만찬을 벼락에 탔다고 꾸밈. concealing-poverty 하위 후보",
       "createdAt": "2026-10-20T02:37:34.110Z",
       "seq": 631
-    },
-    {
-      "id": "e448c306",
-      "title": "잔치 지출로 사회적 지위 얻기",
-      "priority": 10,
-      "note": "Rao 2001 JDS(hosting-beyond-means F2): 잔치에 더 쓴 가구가 지위와 식사 초대를 더 받음. showing-off-possessions 와 관련 후보",
-      "createdAt": "2026-10-20T02:51:30.053Z",
-      "seq": 634
-    },
-    {
-      "id": "90fd64b5",
-      "title": "안전 장비 미착용 공통 상위 현상",
-      "priority": 10,
-      "note": "bicycle-helmet-nonuse 와 rear-seat-belt-nonuse 가 불편·잊음·위험 낮게 봄 이유를 공유. 두 현상을 함께 말하는 파편이 있으면 상위 간선 근거",
-      "createdAt": "2026-10-20T03:41:41.581Z",
-      "seq": 653
     },
     {
       "id": "82fe2460",
@@ -1629,14 +1613,6 @@
       "seq": 1460
     },
     {
-      "id": "81140b8e",
-      "title": "tinnitus 신규: 이명",
-      "priority": 10,
-      "note": "클리앙 park/3072617 (2012-07-30) 댓글 '저 귀마개 안하고 해서 이명생겼습니다..ㅠ' 로 hearing-protection-nonuse 결과 간선. HN 37856868 도 이명을 귀마개 미착용 탓으로 돌림",
-      "createdAt": "2026-10-24T09:08:53.754Z",
-      "seq": 1501
-    },
-    {
       "id": "8b57bcb0",
       "title": "신을 탓한 뒤 종교 행위 끊기",
       "priority": 10,
@@ -1677,14 +1653,6 @@
       "seq": 1672
     },
     {
-      "id": "3abe2aeb",
-      "title": "분실한 우산 찾아가지 않기",
-      "priority": 10,
-      "note": "2026-10-25 매체 후보만 확보: vice.com/en/article/3knaek (2017-07-11 BVG 싼 우산, 새로 사는 편이 싸고 쉬워서), tokyofox.net/2006/07/23/too-honest-for-their-own-good (1% 만 찾아감, 출처 없음), kbmaeil.com/article/202403040386500. 공공 통계(경시청 遺失物 傘, TfL lost property) 필요",
-      "createdAt": "2026-10-25T00:33:32.145Z",
-      "seq": 1677
-    },
-    {
       "id": "60d8da6b",
       "title": "분노 곱씹기",
       "priority": 10,
@@ -1715,22 +1683,6 @@
       "note": "2026-10-26 휴가·휴직 제도가 있어도 동료 부담과 평가를 의식해 쓰지 않는 현상. 후보: csmonitor 1981/0727/072712 상사가 재고 요구, csmonitor 1994/0802/02182 아버지가 한두 주로 줄여 씀",
       "createdAt": "2026-10-26T09:26:19.178Z",
       "seq": 2187
-    },
-    {
-      "id": "b585ef54",
-      "title": "결말 먼저 읽기 (reading the last page first)",
-      "priority": 10,
-      "note": "2026-10-26 매체 후보만 확보: bookriot.com/lets-start-back-reading-last-lines-first/ (2016-07-26), blog.sonlight.com/?p=8225 (2012-04-19), fromearthtothestars.com/2024/10/24/reading-the-last-page-first/ (2024-10-24). 학술 Leavitt & Christenfeld 2011 은 PubMed 203, sagepub 403. Gutenberg 소설 26편에서 장면 못 찾음. 한국어 1인칭 글 필요",
-      "createdAt": "2026-10-26T12:36:18.369Z",
-      "seq": 2216
-    },
-    {
-      "id": "939c0c22",
-      "title": "스포일러 피하기",
-      "priority": 10,
-      "note": "2026-10-26 APS 2011-08-10 보도자료 'Many of us go to extraordinary lengths to avoid learning the endings' 귀 막기, 비평가에게 요구. reading-the-ending-first 와 대립 후보(같은 사람 안 근거 필요)",
-      "createdAt": "2026-10-26T18:25:04.016Z",
-      "seq": 2240
     },
     {
       "id": "5ed5de3e",
@@ -1797,14 +1749,6 @@
       "seq": 2409
     },
     {
-      "id": "761dd236",
-      "title": "바쁜 척하기",
-      "priority": 10,
-      "note": "HN 3970411 (2012-05-14) 'I open terminals, long files or emails - just so I can seem busy.' cyberloafing 과 관계 후보",
-      "createdAt": "2026-10-28T00:17:36.258Z",
-      "seq": 2481
-    },
-    {
       "id": "ecf5098d",
       "title": "은퇴 자금 쓰지 않기",
       "priority": 10,
@@ -1819,14 +1763,6 @@
       "note": "2026-10-28 sleeping-in-contact-lenses 작업 중 CDC MMWR mm6432a2 (2015-08-21) 착용자 35.5% 수돗물 헹굼. 데일리팜 337804 (2026-04-23) 교체주기 미준수 이유 '불편함이 없어서 57%'",
       "createdAt": "2026-10-28T06:24:49.162Z",
       "seq": 2513
-    },
-    {
-      "id": "2166306c",
-      "title": "접시 비우기 압박",
-      "priority": 10,
-      "note": "2026-10-28 leaving-food-on-the-plate 와 대립 후보. HN 17960050 (2018-09-11) 받은 것을 다 먹어야 한다는 압박, HN 22994656 (2020-04-27) 남기면 죄책감, HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
-      "createdAt": "2026-10-28T09:10:55.760Z",
-      "seq": 2529
     },
     {
       "id": "e1d21737",
@@ -2811,6 +2747,14 @@
       "note": "2026-11-13 BPS Research Digest 2011-05-14 what-does-your-handshake-say-about-you 'We all have our prejudices when reading personality into other people’s handshake style' (매체, 열림). Chaplin 외 2000 JPSP 79(1) pubmed 10909881 은 쿠키 확인 페이지로 못 엶. David Copperfield 766 축축한 손을 문질러 닦는 대목은 성격 짐작 아님. judging-character-from-handwriting 와 비슷한 묶음",
       "createdAt": "2026-11-13T06:39:06.244Z",
       "seq": 4793
+    },
+    {
+      "id": "7d411367",
+      "title": "스포일러 피하기",
+      "priority": 10,
+      "note": "2026-11-13 매체 후보 확인: psychologicalscience.org 보도자료(reading-the-ending-first 에 사용 중, 2011-08-10) 'Many of us go to extraordinary lengths to avoid learning the endings of stories we have yet to read or see' 원문 확인. weekly.khan.co.kr/article/202112241524391 (2021) 스파이더맨 관객이 스포 피하려 서둘러 관람, insight.co.kr/news/224474 엔드게임 앞두고 SNS·카톡 끊음. 학술·SNS 종류 미확보(straightdope 833638 은 seeking-spoilers 에 사용 중, 클리앙 13467634 등은 반대 의견). b585ef54(결말 먼저 읽기)는 reading-the-ending-first 가 있어 지움. 2026-10-26 APS 2011-08-10 보도자료 'Many of us go to extraordinary lengths to avoid learning the endings' 귀 막기, 비평가에게 요구. reading-the-ending-first 와 대립 후보(같은 사람 안 근거 필요)",
+      "createdAt": "2026-11-13T16:20:19.521Z",
+      "seq": 4890
     },
     {
       "id": "02b2f242",
