@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-13T03:31:39.938Z",
-  "nextSeq": 4780,
-  "stops": 254,
+  "savedAt": "2026-11-13T06:39:15.753Z",
+  "nextSeq": 4794,
+  "stops": 255,
   "items": [
     {
       "id": "0c746b83",
@@ -27,6 +27,46 @@
       "note": "2026-11-13 Science News 1997-08-09 SNData/10776 로 추가. 블라인드·네이트판 회피형 자기 경험 글 못 찾음. gqkorea ?p=372115 '회피로 일관하다 돌연 이별을 통보' 는 인과 표지 약함. 같은 Science News 글 'avoidant women tended to ignore their partners' 후보",
       "createdAt": "2026-11-13T03:18:04.201Z",
       "seq": 4775
+    },
+    {
+      "id": "2032adcb",
+      "title": "picking-up-others-accent 보강: 관계 상태와 말투 닮기",
+      "priority": 50,
+      "note": "2026-11-13 코메디닷컴 1199015 같은 기사에 연인 관계가 원만할 때 말투가 더 닮고 틀어지면 덜 닮는다는 대목. 브런치 @hisflower/147 (2023-09-10) '룸메가 달라지자 자연스럽게 본래의 나(?)로 돌아왔다' 는 함께 지내는 사람이 바뀌면 빠지는 면. 루리웹 300143/69525333 (2025-02-13) 남이 알아채고 잘 안 고쳐진다는 대목. hiding-regional-accent 대립 후보",
+      "createdAt": "2026-11-13T06:13:35.215Z",
+      "seq": 4787
+    },
+    {
+      "id": "cac5cddb",
+      "title": "drinking-alone 관계: drinking-to-cope, 문학 파편",
+      "priority": 50,
+      "note": "2026-11-13 PMC9316069 는 부정 감정을 다루려고 혼자 마신다(시름을 술로 달래기와 관계 후보). 보건복지부 2021-02-25 list_no=363775 혼자 또는 소규모 음주 46.5% 늘었다. 정책브리핑 148826548 혼술 장소 집 85.2%. 문학 파편 없음(John Barleycorn 은 자전이라 제외)",
+      "createdAt": "2026-11-13T06:17:37.148Z",
+      "seq": 4789
+    },
+    {
+      "id": "5c972e28",
+      "title": "caffeine-to-stay-awake 보강: 한국 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-13 정책브리핑 m.korea.kr reporterView 148975252 (2026-11-09) 시험 때 잠을 쫓는다는 이유로 고카페인 에너지음료를 수시로 마신다(정책기자단 글, 매체 쪽). 식약처 2026-10-20 고카페인 보도자료 못 엶. HSE 같은 페이지의 수면제·술로 잠들기는 다른 현상 후보. driving-while-drowsy 관계 후보",
+      "createdAt": "2026-11-13T06:23:12.229Z",
+      "seq": 4790
+    },
+    {
+      "id": "ebc4b345",
+      "title": "biting-lips-to-hold-back 보강: 한국어 파편, hiding-tears 관계",
+      "priority": 50,
+      "note": "2026-11-13 maily.so/7rolj/posts/d5ry2560z1w (2025-01-20) 추모 자리에서 울지 않으려고 입술을 깨문다. Vanity Fair 599·Little Women 514 는 이미 4개 문서가 써서 못 씀. Monte Cristo 1184 화를 참으려고 피가 날 만큼 깨문다. Anna Karenina 1399 'forcing herself to gulp down her tears, biting her lips'. PMC2898161 (2004) 아이 괴로움 표지로 입술 깨물기 코딩",
+      "createdAt": "2026-11-13T06:28:05.822Z",
+      "seq": 4791
+    },
+    {
+      "id": "1b241faa",
+      "title": "wedding-invitation-burden 보강: 원인, weighing-gift-money 관계",
+      "priority": 50,
+      "note": "2026-11-13 세계일보 20170526002460 같은 기사 '애매모호한 관계'(35%), '경제적 부담' 19% 이유. 정책브리핑 65032372 '주말 시간과 돈을 빼앗는 것'. 한국소비자원 kca.go.kr no=1000655869 (2007-06-12) 체면 때문에 참석, 축의금(weighing-gift-money 원인 후보). 매일신문 2006042207201961519 '반갑지만은 않다' 와 부조금 고민. 모바일 청첩장 하나만 온 경우 후보",
+      "createdAt": "2026-11-13T06:33:46.905Z",
+      "seq": 4792
     },
     {
       "id": "1ce6b018",
@@ -2739,6 +2779,22 @@
       "note": "2026-11-13 risky-selfies [^4] Network Rail 2021 'show off in front of friends' 를 위험 감수 동기로 듦. showing-off-possessions 와 다른 현상(행동 과시)",
       "createdAt": "2026-11-13T03:20:35.942Z",
       "seq": 4776
+    },
+    {
+      "id": "75850342",
+      "title": "무의식적 따라 하기(미러링)",
+      "priority": 10,
+      "note": "2026-11-13 더블유 코리아 2025-09-23 ?p=396011 '미러링은 상대방의 말투, 표정, 행동을 무의식적으로 따라 하는 현상'. picking-up-others-accent, contagious-yawning 상위 후보",
+      "createdAt": "2026-11-13T06:13:35.362Z",
+      "seq": 4788
+    },
+    {
+      "id": "853d0a01",
+      "title": "악수로 사람 됨됨이 짐작하기",
+      "priority": 10,
+      "note": "2026-11-13 BPS Research Digest 2011-05-14 what-does-your-handshake-say-about-you 'We all have our prejudices when reading personality into other people’s handshake style' (매체, 열림). Chaplin 외 2000 JPSP 79(1) pubmed 10909881 은 쿠키 확인 페이지로 못 엶. David Copperfield 766 축축한 손을 문질러 닦는 대목은 성격 짐작 아님. judging-character-from-handwriting 와 비슷한 묶음",
+      "createdAt": "2026-11-13T06:39:06.244Z",
+      "seq": 4793
     },
     {
       "id": "02b2f242",
