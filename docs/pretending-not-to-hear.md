@@ -20,6 +20,8 @@
 
 2018년 연구[^6]에서 자메이카 어머니들은 아이가 부탁을 드러내 놓고 거절하지 않고 무시하거나 못 들은 척하거나 확답 없이 집안일을 미룬다고 말했다.
 
+2022년 게시판 댓글[^7]의 글쓴이는 아이에게 할 일을 일렀는데 아이가 무시하거나 못 들은 척하면 셋을 세기 시작했다고 썼다.
+
 # 관계
 
 ## 상위
@@ -50,3 +52,4 @@
 [^4]: [SNS] "It has often bothered me that many people will simply ignore you or pretend not to hear you when they don't know the answer to a question rather than say "I don't know."" (많은 사람이 질문의 답을 모를 때 "모른다" 고 말하지 않고 그냥 무시하거나 못 들은 척하는 것이 자주 거슬렸다.) — Hacker News 댓글, 2011-04-27, https://news.ycombinator.com/item?id=2490207, 2026-11-13 접속
 [^5]: [매체] "Seventy per cent of British women in the survey admitted using this tactic as they believe their men simply pretend not to hear when asked to do chores, the survey says." (설문에 따르면 영국 여성 응답자의 70% 가 남성 배우자는 집안일을 부탁받으면 그냥 못 들은 척한다고 믿어 이 방법을 쓴다고 인정했다.) — Odishatv Bureau, "Women know when their men turn a deaf ear", OdishaTV, 2011-06-21, https://odishatv.in/news/women-know-when-their-men-turn-a-deaf-ear-9833, 2026-11-13 접속
 [^6]: [학술] "Instead, mothers reported that their children ignored their requests in an unassertive manner, pretended not to hear, or delayed completing chores with non-committal responses." (어머니들은 그 대신 아이들이 부탁을 드러내지 않는 방식으로 무시하거나 못 들은 척하거나 확답 없는 대답으로 집안일을 미뤘다고 보고했다.) — Taniesha Burke, Leon Kuczynski, "Jamaican Mothers' Perceptions of Children's Strategies for Resisting Parental Rules and Requests", Frontiers in Psychology, 2018-09-21, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01786/full, 2026-11-13 접속
+[^7]: [SNS] "I would tell them that they needed to do something, and if they ignored me, pretended not to hear me, or something else, I would begin the count." (나는 아이들에게 무언가를 해야 한다고 말했고, 아이들이 나를 무시하거나 내 말을 못 들은 척하거나 다른 무언가를 하면 숫자를 세기 시작했다.) — Hacker News, 댓글, 2022-07-04, https://news.ycombinator.com/item?id=31980136, 2026-11-13 접속
