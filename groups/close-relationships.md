@@ -19,6 +19,7 @@
 - [남 이야기하기](../docs/gossip.md) 사람이 그 자리에 없는 다른 사람에 대한 이야기를 주고받는다.
 - [남 탓하기](../docs/blaming-others.md) 잘못이나 실패를 겪은 사람이 그 원인을 자기가 아닌 다른 사람이나 주위 환경에 돌린다.
   - [운명이나 신을 탓하기](../docs/blaming-fate-or-god.md)
+- [남의 말투와 사투리가 옮기](../docs/picking-up-others-accent.md) 다른 지역 사람이나 가까운 사람과 지내거나 대화하는 사람에게 상대의 말투, 억양, 사투리가 저도 모르게 옮는다.
 - [남의 불행에 대한 기쁨](../docs/schadenfreude.md) 남의 불행이나 실패를 보거나 떠올린 사람이 기쁨을 느낀다.
   - [경쟁 집단의 불행에 대한 기쁨](../docs/intergroup-schadenfreude.md)
 - [남의 비위 맞추기](../docs/people-pleasing.md) 사람이 남에게 인정받으려고 자기의 바람보다 남의 바람을 앞세워 맞춘다.
