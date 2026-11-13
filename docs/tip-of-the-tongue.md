@@ -16,6 +16,8 @@
 
 2022년 게시글[^5]의 글쓴이는 단어가 혀끝에서 맴돌 때마다 표현하고 싶은 생각은 머릿속에 있는데 그 개념을 전할 단어가 도무지 기억나지 않는다고 적었다.
 
+2025년 칼럼[^6]의 필자는 두뇌 어딘가에 저장된 것이 확실한 일반명사나 고유명사가 떠오르지 않아 혀끝으로 이어지지 않는 상황을 설단 현상이라 적었다.
+
 # 관계
 
 ## 상위
@@ -45,3 +47,4 @@
 [^3]: [학술] "다섯째, 설단현상을 겪는 동안 표적단어에 대한 부분 정보는 글자 단위로 유지되는 경향을 보였다." — 박지윤, 이고은, 이혜원, 「한국어 음운 정보 산출에서 노화의 영향: 청년과 노인의 설단현상」, 인지과학 24(2), 한국인지과학회, 2013, https://www.koreascience.or.kr/article/JAKO201330951779645.page?&lang=ko, 2026-10-22 접속
 [^4]: [학술] "even if our subjects with SMCs obtained normal results in the objective neuropsychology test, they experienced a significantly higher frequency of the ToT phenomenon than those without SMCs." (주관적 기억 호소가 있는 참여자가 객관적 신경심리 검사에서 정상 결과를 얻었더라도 호소가 없는 참여자보다 설단 현상을 유의하게 더 자주 겪었다) — Kim J, Kim M, Yoon JH, "The tip-of-the-tongue phenomenon in older adults with subjective memory complaints", PLoS ONE 15(9): e0239327, 2020-09-18, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239327, 2026-10-20 접속
 [^5]: [SNS] "Every time that I have a word on the tip of my tongue I have an idea in mind that I wish to express, but I simply cannot remember the word to convey the concept." (단어가 혀끝에서 맴돌 때마다 나는 표현하고 싶은 생각이 머릿속에 있지만 그 개념을 전할 단어가 도무지 기억나지 않는다.) — Hacker News, 댓글, 2022-10-24, https://news.ycombinator.com/item?id=33313307, 2026-10-20 접속
+[^6]: [매체] "그 일반명사나 고유명사가 두뇌 어딘가에 저장되어 있는 것은 확실한데 떠오르지 않아 혀끝으로 연결되지 않는 상황이다." — 백우진, 「‘그 배우 이름이 뭐더라?’...이럴 때가 오히려 두뇌 운동시킬 찬스」, 코메디닷컴, 2025-10-17, https://kormedi.com/2757166, 2026-11-13 접속

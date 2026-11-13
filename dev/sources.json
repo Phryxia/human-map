@@ -4593,15 +4593,15 @@
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239327": {
     "first": "2026-10-20",
-    "last": "2026-10-22",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-13"
   },
   "https://news.ycombinator.com/item?id=33313307": {
     "first": "2026-10-20",
-    "last": "2026-10-22",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-13"
   },
   "https://www.recoveryourlife.com/forum/showthread.php?t=140073": {
     "first": "2026-10-20",
@@ -6818,9 +6818,9 @@
   },
   "https://www.gutenberg.org/cache/epub/967/pg967.txt": {
     "first": "2026-10-22",
-    "last": "2026-11-03",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-13"
   },
   "https://www.gutenberg.org/cache/epub/11339/pg11339.txt": {
     "first": "2026-10-22",
@@ -6836,9 +6836,9 @@
   },
   "https://www.gutenberg.org/cache/epub/12/pg12.txt": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-13"
   },
   "https://www.gutenberg.org/cache/epub/514/pg514.txt": {
     "first": "2026-10-22",
@@ -7088,9 +7088,9 @@
   },
   "https://www.koreascience.or.kr/article/JAKO201330951779645.page?&lang=ko": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-13"
   },
   "https://abc7news.com/news/511813/": {
     "first": "2026-10-22",
@@ -26816,6 +26816,12 @@
     "lastVerified": "2026-11-13"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5044768/": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://kormedi.com/2757166": {
     "first": "2026-11-13",
     "last": "2026-11-13",
     "result": "VERIFIED",
