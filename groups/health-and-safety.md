@@ -24,6 +24,7 @@
 - [난방기에 빨래 말리기](../docs/drying-laundry-on-heaters.md) 겨울에 집 안에서 빨래를 말리는 사람이 젖은 옷을 히터나 난로 위, 바로 앞에 널어 둔다.
 - [날닭고기 씻기](../docs/washing-raw-chicken.md) 집에서 닭고기를 요리하는 사람이 조리 전에 날닭고기를 물에 씻거나 헹군다.
 - [날짜 지난 음식 먹기의 찜찜함](../docs/uneasy-eating-past-date-food.md) 포장의 날짜가 지난 음식을 앞에 둔 사람이 냄새나 맛에 이상이 없어도 먹기를 찜찜하게 느낀다.
+- [남몰래 먹기](../docs/secret-eating.md) 먹는 모습을 남에게 들키고 싶지 않은 사람이 식구나 어른이 보지 않을 때 몰래 먹는다.
 - [남은 약 다시 먹기](../docs/reusing-leftover-medicine.md) 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.
 - [남을 따라 대피하기](../docs/following-others-to-evacuate.md) 위급한 신호를 접한 사람이 주변 사람이 움직이는지를 보고 그에 따라 대피하거나 머문다.
 - [넘어진 일 알리지 않기](../docs/not-telling-about-falls.md) 넘어진 노인이 짐이 되거나 독립을 잃을까 봐 또는 대수롭지 않게 여겨 넘어진 일을 가족이나 의료인에게 말하지 않는다.
