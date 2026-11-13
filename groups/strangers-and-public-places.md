@@ -45,4 +45,5 @@
   - [잔디밭 질러가기](../docs/cutting-across-lawns.md)
   - [출입 금지된 샛길 산행](../docs/hiking-closed-trails.md)
 - [중고 직거래 상대를 만나는 부담](../docs/wariness-meeting-secondhand-buyers.md) 온라인으로 중고 물건을 사고파는 사람이 처음 보는 거래 상대를 직접 만나는 일을 부담스러워하고 사람이 많은 곳에서 만나려 한다.
+- [통화하는 척하기](../docs/faking-phone-calls.md) 밖에서 낯선 사람과 말을 섞고 싶지 않거나 불안한 사람이 휴대전화를 귀에 대고 통화하는 척한다.
 - [한 사람이 나서면 따라 돕기](../docs/helping-after-first-helper.md) 도움이 필요한 사람을 보고도 지나치던 구경꾼들이 한 사람이 먼저 돕기 시작하면 따라 돕는다.

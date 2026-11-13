@@ -715,6 +715,7 @@
 - [통계 조사 응답 거부](docs/refusing-statistical-surveys.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [통근 피로](docs/commute-fatigue.md) ([일터와 일자리](groups/work.md))
 - [통제 착각](docs/illusion-of-control.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [통화하는 척하기](docs/faking-phone-calls.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [퇴근 뒤 업무 연락에 답하기](docs/after-hours-work-replies.md) ([일터와 일자리](groups/work.md))
 - [퇴근 뒤 일 생각 곱씹기](docs/work-rumination-after-hours.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [퇴근 시간 기다리며 시계 보기](docs/clock-watching-at-work.md) ([걱정과 기분](groups/worry-and-mood.md))
