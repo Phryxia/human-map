@@ -96,6 +96,7 @@
 - [자녀 사진을 소셜 미디어에 올리기](../docs/sharenting.md) 부모가 자녀의 사진과 일상을 소셜 미디어에 올린다.
 - [자식 자랑](../docs/bragging-about-children.md) 부모가 다른 사람 앞에서 자기 자녀의 외모나 대학, 직장을 자랑한다.
 - [잠든 사람 바라보기](../docs/watching-a-loved-one-sleep.md) 가까운 사람이 잠들어 있을 때 깨우지 않고 그 얼굴을 오래 바라본다.
+- [잠든 사람을 깨우지 않으려고 소리 죽이기](../docs/keeping-quiet-for-sleepers.md) 집 안에 잠든 식구가 있을 때 다른 사람이 그를 깨우지 않으려고 발소리와 말소리를 줄인다.
 - [조부모의 손주 돌봄](../docs/grandparent-childcare.md) 자녀 부부가 일하는 동안 조부모가 손주를 맡아 돌본다.
 - [좋아하는 사람 몰래 바라보기](../docs/glancing-at-a-crush.md) 어떤 사람을 좋아하는 사람이 상대에게 들키지 않게 상대를 흘끗흘끗 훔쳐본다.
 - [좋아하는 사람을 마주치려고 기다리기](../docs/hoping-to-run-into-a-crush.md) 좋아하는 사람을 한 번이라도 보려는 사람이 그 사람이 나타날 만한 곳에 일부러 가서 기다린다.
