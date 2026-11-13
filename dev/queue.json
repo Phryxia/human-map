@@ -1,273 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-13T06:39:15.753Z",
-  "nextSeq": 4794,
-  "stops": 255,
+  "savedAt": "2026-11-13T09:35:00.569Z",
+  "nextSeq": 4861,
+  "stops": 256,
   "items": [
-    {
-      "id": "0c746b83",
-      "title": "love-at-first-sight 관계: unrequited-love 결과 간선",
-      "priority": 50,
-      "note": "2026-11-13 Marlowe 18781, 이데일리 2013-05-30, Zsok 2017 rug.nl 로 보강. psychologytoday 201711 experimentations 'When LAFS is one-sided, and attraction is unrequited ... leading to distress, heartbreak' 는 짝사랑 쪽 결과라 첫눈에 반함→짝사랑 인과 표지 아님. 코메디닷컴 1225361 '육체적인 강한 이끌림 때문' 은 신체적 매력 원인 후보(문서 없음). As You Like It 1523 3막 5장 피비 대목 후보",
-      "createdAt": "2026-11-13T03:10:55.533Z",
-      "seq": 4773
-    },
-    {
-      "id": "4d099d1a",
-      "title": "attachment-anxiety 관계: snooping-on-partners-phone 원인 간선",
-      "priority": 50,
-      "note": "2026-11-13 PMC5380380 (2015-07) 'anxiously attached individuals are more likely to become jealous, snoop through a partner's belongings' 는 불신이 있을 때 불안 애착→뒤지기 후보. Science News 1997-08-09 SNData/10776 'Constant worry ... may impel ambivalent women to try to monitor and control them' 는 감시 원인 후보. attachment-avoidance 대립 후보는 PMC10484705 회피는 예측 안 함(대립 표지 아님)",
-      "createdAt": "2026-11-13T03:17:16.359Z",
-      "seq": 4774
-    },
-    {
-      "id": "faa02152",
-      "title": "attachment-avoidance 보강: SNS 파편, breaking-up 관계",
-      "priority": 50,
-      "note": "2026-11-13 Science News 1997-08-09 SNData/10776 로 추가. 블라인드·네이트판 회피형 자기 경험 글 못 찾음. gqkorea ?p=372115 '회피로 일관하다 돌연 이별을 통보' 는 인과 표지 약함. 같은 Science News 글 'avoidant women tended to ignore their partners' 후보",
-      "createdAt": "2026-11-13T03:18:04.201Z",
-      "seq": 4775
-    },
-    {
-      "id": "2032adcb",
-      "title": "picking-up-others-accent 보강: 관계 상태와 말투 닮기",
-      "priority": 50,
-      "note": "2026-11-13 코메디닷컴 1199015 같은 기사에 연인 관계가 원만할 때 말투가 더 닮고 틀어지면 덜 닮는다는 대목. 브런치 @hisflower/147 (2023-09-10) '룸메가 달라지자 자연스럽게 본래의 나(?)로 돌아왔다' 는 함께 지내는 사람이 바뀌면 빠지는 면. 루리웹 300143/69525333 (2025-02-13) 남이 알아채고 잘 안 고쳐진다는 대목. hiding-regional-accent 대립 후보",
-      "createdAt": "2026-11-13T06:13:35.215Z",
-      "seq": 4787
-    },
-    {
-      "id": "cac5cddb",
-      "title": "drinking-alone 관계: drinking-to-cope, 문학 파편",
-      "priority": 50,
-      "note": "2026-11-13 PMC9316069 는 부정 감정을 다루려고 혼자 마신다(시름을 술로 달래기와 관계 후보). 보건복지부 2021-02-25 list_no=363775 혼자 또는 소규모 음주 46.5% 늘었다. 정책브리핑 148826548 혼술 장소 집 85.2%. 문학 파편 없음(John Barleycorn 은 자전이라 제외)",
-      "createdAt": "2026-11-13T06:17:37.148Z",
-      "seq": 4789
-    },
-    {
-      "id": "5c972e28",
-      "title": "caffeine-to-stay-awake 보강: 한국 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-13 정책브리핑 m.korea.kr reporterView 148975252 (2026-11-09) 시험 때 잠을 쫓는다는 이유로 고카페인 에너지음료를 수시로 마신다(정책기자단 글, 매체 쪽). 식약처 2026-10-20 고카페인 보도자료 못 엶. HSE 같은 페이지의 수면제·술로 잠들기는 다른 현상 후보. driving-while-drowsy 관계 후보",
-      "createdAt": "2026-11-13T06:23:12.229Z",
-      "seq": 4790
-    },
-    {
-      "id": "ebc4b345",
-      "title": "biting-lips-to-hold-back 보강: 한국어 파편, hiding-tears 관계",
-      "priority": 50,
-      "note": "2026-11-13 maily.so/7rolj/posts/d5ry2560z1w (2025-01-20) 추모 자리에서 울지 않으려고 입술을 깨문다. Vanity Fair 599·Little Women 514 는 이미 4개 문서가 써서 못 씀. Monte Cristo 1184 화를 참으려고 피가 날 만큼 깨문다. Anna Karenina 1399 'forcing herself to gulp down her tears, biting her lips'. PMC2898161 (2004) 아이 괴로움 표지로 입술 깨물기 코딩",
-      "createdAt": "2026-11-13T06:28:05.822Z",
-      "seq": 4791
-    },
-    {
-      "id": "1b241faa",
-      "title": "wedding-invitation-burden 보강: 원인, weighing-gift-money 관계",
-      "priority": 50,
-      "note": "2026-11-13 세계일보 20170526002460 같은 기사 '애매모호한 관계'(35%), '경제적 부담' 19% 이유. 정책브리핑 65032372 '주말 시간과 돈을 빼앗는 것'. 한국소비자원 kca.go.kr no=1000655869 (2007-06-12) 체면 때문에 참석, 축의금(weighing-gift-money 원인 후보). 매일신문 2006042207201961519 '반갑지만은 않다' 와 부조금 고민. 모바일 청첩장 하나만 온 경우 후보",
-      "createdAt": "2026-11-13T06:33:46.905Z",
-      "seq": 4792
-    },
-    {
-      "id": "1ce6b018",
-      "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",
-      "priority": 40,
-      "note": "2026-11-12 fear-of-the-dark 상위는 그음. Cranford(394) 같은 대목 'especially since Miss Pole's house had been attacked' 는 습격 소문 원인 근거 후보이나 원인 쪽 문서 없음. 두 현상 공통 상위(밤에 집 안 위협 상상) 후보",
-      "createdAt": "2026-11-12T09:10:32.596Z",
-      "seq": 4663
-    },
-    {
-      "id": "c0fb2f2e",
-      "title": "news-avoidance 원인 간선: 정보에 압도됨",
-      "priority": 40,
-      "note": "2026-11-12 공공 파편 둘 더함([^3] 유럽의회 2023, [^6] 스웨덴 미디어청 2026 'för att de känner sig överväldigade av informationsflödet'). 원인 쪽 문서(정보 과부하에 압도됨) 없음. 같은 페이지 'nyheterna skapar en känsla av maktlöshet' 는 learned-helplessness 나 political-inefficacy 관계 후보. cnam.ie 2026-06-16 47% 회피, Medietilsynet NTB 2026-06-17 열에 넷",
-      "createdAt": "2026-11-12T09:14:23.081Z",
-      "seq": 4664
-    },
-    {
-      "id": "bb951fcf",
-      "title": "glancing-at-own-reflection-in-windows 관계: body-checking",
-      "priority": 40,
-      "note": "2026-11-12 body-checking 문서 추가. Hofschröer 2025 PMC12690865 는 반사면으로 몸 살피기를 몸 확인의 예로 든다. 상위 간선을 그으려면 진열창 흘끗 보기를 몸 확인으로 부르는 파편 필요. kormedi.com/1648708 (2023-12-26) '창문에 비친 자신의 모습' 권고문, Fashion Journal 2022-09-20 how-to-stop-body-checking, substack bodyacceptanceproject 2023-12-07 은 body-checking 보강 후보",
-      "createdAt": "2026-11-12T09:17:58.581Z",
-      "seq": 4665
-    },
-    {
-      "id": "f0b086bc",
-      "title": "improper-medicine-disposal 관계: keeping-leftover-medicines",
-      "priority": 40,
-      "note": "2026-11-07 관계 근거 원문 아직 없음. 후보: statcan 16-002-x/2008001/10539 (2008, 2026-11-12 curl 로 3KB 막힘 페이지), 클리앙 park/17379913 (2022-07-05), mediahub 2004438. 2026-11-10 양쪽 문서 파편에 '남겨 둔 약을 나중에 아무렇게나 버린다' 인과 원문 없음 확인",
-      "createdAt": "2026-11-12T09:31:38.887Z",
-      "seq": 4668
-    },
-    {
-      "id": "8aadc10c",
-      "title": "interrupting-others 보강: 원인 간선, 조건",
-      "priority": 40,
-      "note": "2026-11-12 클리앙 2024-11-07 park/18835383 게시글 [^5] 더함. 같은 글 댓글: 할 말을 놓칠까 봐 끊음, 친한 상대·편한 분위기에서 끊고 긴장한 자리에선 안 끊음(같은 URL 이라 못 씀). 네이트판 talk/316174302 (2012-07-03) 관찰 글. Blind 2023 들떠서 끊는다는 원인 근거는 상대 현상 문서 필요",
-      "createdAt": "2026-11-12T09:34:06.509Z",
-      "seq": 4669
-    },
-    {
-      "id": "fdfd541e",
-      "title": "being-cancelled-on 보강: 문학 파편, urge-to-cancel-plans 관계",
-      "priority": 40,
-      "note": "2026-11-10 Berkeley Parents Network 2005-03, 블라인드 2021-06-11 더함. Emma(158) 는 2026-11-12 기준 이미 4개 문서가 써서 5개째면 WARN, 다른 소설 필요. 후보: Straight Dope 7699 (1999-09-11) 생일 모임 30분 전 취소",
-      "createdAt": "2026-11-12T09:34:24.099Z",
-      "seq": 4670
-    },
-    {
-      "id": "98f4f12d",
-      "title": "concealing-accidental-damage 관계: concealing-failure, hiding-mistakes-at-work, Tom Sawyer 외 문학",
-      "priority": 40,
-      "note": "2026-11-12 Straight Dope 443432/35 (2008-04-01) SNS 더함. 같은 스레드 다른 글도 후보. welltrainedmind 455647 은 봇 확인 페이지. boredpanda broken-couch-overweight-friend 매체 후보",
-      "createdAt": "2026-11-12T09:36:41.210Z",
-      "seq": 4671
-    },
-    {
-      "id": "ba7b0a75",
-      "title": "not-cycling-for-fear-of-traffic 관계: bicycle-helmet-nonuse, 한국어 SNS 파편",
-      "priority": 40,
-      "note": "2026-11-10 서울신문 2007 더함. 후보: clien use/17293411 (2022-05-31) 차로 위험해 인도로 탐(2026-11-12 curl 3KB 응답, 다른 UA 로 확인 필요), 주간경향 202009211221261 (2020-09-21) 자전거도로 끊긴 길목 위험. PMC6974276 Winters 2012 reCAPTCHA",
-      "createdAt": "2026-11-12T09:38:27.783Z",
-      "seq": 4673
-    },
-    {
-      "id": "dcc1bfd7",
-      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-01 마리끌레르 코리아 2021-10-16 [^3] 더함. Gutenberg 23편 무소득. 2026-11-02 Hardy 1912-13 시편은 다시 찾아가는 쪽이라 맞지 않음. 2026-11-07 Wuthering Heights 768 Edgar 는 맞지 않고 이 출처는 이미 4개 문서가 씀",
-      "createdAt": "2026-11-12T15:28:40.297Z",
-      "seq": 4689
-    },
-    {
-      "id": "0d35be4a",
-      "title": "public-speaking-anxiety 보강: 한국어 공공 파편",
-      "priority": 40,
-      "note": "2026-11-11 WorkingUS 2017 댓글 더함. 2026-11-12 광운대 학생상담센터 페이지 URL 못 찾음. 국가정신건강정보포털 검색 무소득. 후보: culture.kookmin.ac.kr gulmal 자가진단 문항 '발표를 앞두고 할 말을 잊어버릴까 봐 걱정된다'(첨부 파일, 형식 미확인). 네이트판 366552166 (2022-06-14) 목소리 떨림. 4문단이 4문장이라 새 문단 필요",
-      "createdAt": "2026-11-12T15:29:23.553Z",
-      "seq": 4690
-    },
-    {
-      "id": "c4585fbb",
-      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
-      "priority": 40,
-      "note": "2026-11-08 Tufts 2012 매체, OSU 2022 공공 더함. 2000년 이전 문학·매체 못 찾음. UF 소동물병원 Coping with Guilt 는 TLS 오류, MSU CVM 은 Incapsula. 2026-11-12 후보: discmaster.textfiles.com 의 1995 Amiga Plus CD 안 rec.pets-pet-loss FAQ(503 이라 못 읽음)",
-      "createdAt": "2026-11-12T15:30:12.714Z",
-      "seq": 4691
-    },
-    {
-      "id": "1a62d1af",
-      "title": "leaving-hair-straighteners-on 보강: rechecking-door-and-stove 관계",
-      "priority": 40,
-      "note": "2026-11-11 SNS 파편 2개 더함. 원인 간선 근거 없음. 후보: daangn 2023-02-16 '집에 고데기 안끄고 나온 거 같은데 어떡하죠', singletrackworld 2023-08-24 3인칭. 2026-11-12 elitedaily.com 8352418 (2018-02-28) 'go through a mental checklist before you leave your apartment to make sure you turned it off' 는 권고라 인과 아님",
-      "createdAt": "2026-11-12T15:30:31.746Z",
-      "seq": 4692
-    },
-    {
-      "id": "08c43cf6",
-      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
-      "priority": 40,
-      "note": "2026-11-11 후보: thesandtrap.com forums topic 22319-lightning 댓글 2009-04-02 'Scared out of my mind, I drove down the middle of the fairways'(잔디깎이로 밖에 있다 겁에 질려 피함). 대립은 양쪽에 다른 파편이 필요(같은 SNS 글 두 문서는 WARN). GMA 2025-07-09 골퍼 즉시 떠남은 공포 낱말 없음. weather.gov/eax/stormanxiety 공공 후보. 夕立の女 蚊帳 대목은 ruby 때문에 못 씀",
-      "createdAt": "2026-11-12T15:36:59.536Z",
-      "seq": 4694
-    },
-    {
-      "id": "8b88f7d0",
-      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계",
-      "priority": 40,
-      "note": "2026-11-12 SNS 파편 straightdope 797018/238 (2018) 더함. 예비: straightdope 22355 (2000-06-14) 추적 CT 뒤 불안, 490518 (2009-03-23) 유방촬영 긴장, HN 40936193 (2024-07-11) 유전 요인으로 재발 걱정. hiding-illness-from-family 간선 근거는 아직 없음",
-      "createdAt": "2026-11-12T21:10:49.292Z",
-      "seq": 4731
-    },
-    {
-      "id": "a5af73e7",
-      "title": "anticipatory-grief 보강: 한국어 파편",
-      "priority": 40,
-      "note": "2026-11-12 한국어는 teamblind 2020 [^6] 이미 있음. 학술·공공 한국어 파편 찾음: '예기 애도' '예기적 애도' '예기애도' 검색에 HTML 본문 출처 없음. bravo.etoday 8489 20101 14200 6239 는 본문이 HTML 에 없음, msdmanuals 소아와-사망-및-임종 해당 문장 없음. 다음: koreascience JAKO202260762285362 등은 PDF. 이전 note: healthdirect understanding-anticipatory-grief, eap.wa.gov/node/115, whatsyourgrief ?p=7517, Lindemann 1944",
-      "createdAt": "2026-11-12T21:13:13.801Z",
-      "seq": 4732
-    },
-    {
-      "id": "5e9ba423",
-      "title": "leaving-cooking-unattended 보강: 문학 파편",
-      "priority": 40,
-      "note": "2026-11-12 Little Women 514 줄 5018 'The bread burned black; for the salad dressing so aggravated her' 가 맞으나 514 는 이미 4개 문서라 5번째가 됨. 해당 없음: Gutenberg 45(4개 문서) 47 51 507 550 6688 1260 158 4276 2701 1342 768 2788 145 730 766 10007. 이전: 5342 544 3796 498 394 2591 2081 해당 없음, 699 실존 인물 일화 제외",
-      "createdAt": "2026-11-12T21:14:22.735Z",
-      "seq": 4733
-    },
-    {
-      "id": "5d4fb826",
-      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
-      "priority": 40,
-      "note": "2026-11-12 taylorfrancis 9780203973714-13 (Home Office 의뢰 first aid firefighting 연구, BCS 1988 열에 아홉 미신고) 은 403. firedoc.nist.gov ZHcyXYQBWEcjUZEYLlfX (Crossman 1974) 은 서지만. 이전: USFA 2007~2008 webarchive TLS 오류, CPSC·NIST TN 2191 PDF 뿐",
-      "createdAt": "2026-11-12T21:15:01.123Z",
-      "seq": 4734
-    },
-    {
-      "id": "0be6db98",
-      "title": "setting-clocks-fast 보강: 학술·공공 파편",
-      "priority": 40,
-      "note": "2026-11-12 검색에 학술 HTML 없음. core.ac.uk 217156896 은 PDF. melmagazine ?p=3089, dailydot 2026-08 기사는 매체. 이전: US5051967 patents.google 봇 차단, justia 403, Mele 1997 HTML 판 없음",
-      "createdAt": "2026-11-12T21:15:45.093Z",
-      "seq": 4735
-    },
-    {
-      "id": "444fe8c8",
-      "title": "feeling-of-nothing-to-wear 관계: impulse-buying, trying-on-outfits-before-going-out",
-      "priority": 40,
-      "note": "2026-11-13 추가. FashionUnited 2026-03-10 '입을 게 없다 느낌이 새 구매로 이어진다(triggers)' 는 새 옷 구매 결과 간선 근거 후보이나 충동구매라 부르지 않음. YTN 2018-11-10 '옷이 없는 게 아니라 옷을 못 찾는 거' , straightdope 767795 2016 어울림 따지지 않고 산 결과. 지혜경 2019 복식 69(1) 초록 버리지 못한 옷",
-      "createdAt": "2026-11-13T00:19:11.566Z",
-      "seq": 4760
-    },
-    {
-      "id": "022dfb2f",
-      "title": "leaving-emails-unread 보강: 한국어 파편, 관계",
-      "priority": 35,
-      "note": "2026-11-10 Whittaker·Sidner 1996 CHI 학술 파편 더함(남겨 두는 이유). 후보: theconversation 225181 Balogh 2024 (받은편지함에 그대로 두는 사람 절반), informationr.net/infres/article/view/604, salon.com 2017-12-07 트위터 사용자 수천 통. 한국어 기사·게시글 검색 미발견",
-      "createdAt": "2026-11-10T21:20:24.345Z",
-      "seq": 4503
-    },
-    {
-      "id": "6ebd5af0",
-      "title": "storm-wave-watching 보강: 학술 파편",
-      "priority": 35,
-      "note": "2026-11-10 Honolulu Advertiser 2007 더함. Azevedo 2023 (api.crossref.org/works/10.3390/land12020360) 초록의 pull·push drivers 문장은 200자 넘어 못 씀. 후보: hakaimagazine.com/features/storm-coast/ (Canadian Geographic 2002-11 재게재) 'storm watchers seem to be drawn almost compulsively', 별칭 storm watching 근거",
-      "createdAt": "2026-11-10T21:20:39.005Z",
-      "seq": 4504
-    },
-    {
-      "id": "e8ba47a7",
-      "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
-      "priority": 30,
-      "note": "2026-10-20: 진료 미룸→응급실 인과 문장은 있으나 모두 상태가 나빠진 뒤의 응급실(경증 아님): healthcaredive.com/news/high-costs-narrow-networks-drive-insured-patients-to-ed/408071 (2015-10-28) 'because they delayed care due to high out-of-pocket costs', wagner.nyu.edu/impact/research/publications/emergency-department-use-new-york-story (Billings 2000, curl UA 403), ajmc.com 2026-03-12 Latino adults. 이전: kdvr 2013, ucla 2006, PMC1725740, PMC6612776. 경증 응급실과 잇는 문장 미발견. 대신 '진료를 미루다 응급실 가기' 신규 현상 후보(healthcaredive 를 근거로 medical-care-avoidance 결과)",
-      "createdAt": "2026-10-20T08:41:21.636Z",
-      "seq": 722
-    },
-    {
-      "id": "9014b250",
-      "title": "gift-choosing-anxiety 와 feigning-delight-at-gifts 관계 근거",
-      "priority": 30,
-      "note": "주는 쪽·받는 쪽 어긋남 F5(cmu.edu 2016), 한국 SNS F7(moyoplan) 추가. seoul.co.kr/news/2000/12/11/20001211014003 (2000-12-11), kormedi.com/1213118 (2014-12-22) 후보. 2026-10-20: psychologytoday happy-together/202412 은 인과 문장 없음(none). retailcustomerexperience Groupon 설문 73% 꾸민 반응, Galak 리뷰(source.washu.edu/2019/12/how-to-win-the-holidays...) 주는 쪽·받는 쪽 7가지 어긋남. 꾸민 반응 때문에 주는 쪽이 맞는 선물을 모른다는 문장 미발견",
-      "createdAt": "2026-10-20T08:46:49.854Z",
-      "seq": 724
-    },
-    {
-      "id": "8730bc72",
-      "title": "flattering-superiors 관계: 눈치 야근, 바쁜 척하기와 상사 눈치",
-      "priority": 30,
-      "note": "staying-late-for-boss, pretending-to-be-busy 와 상위 또는 긴장 후보. seoul.co.kr 2009-08-05(F2 와 같은 출처). gutenberg 1342 이미 3개 문서. 2026-10-20 검색: ajunews.com/view/20130313000094 (2013) 비효율 원인 '상사의 눈치' 22.5% 는 아부와 무관. 세 현상을 한 문장에서 '상사에게 잘 보이려는' 행동으로 묶는 출처 미발견. 공통 상위 '상사에게 잘 보이기(upward impression management)' 신규 문서 후보",
-      "createdAt": "2026-10-20T08:50:57.833Z",
-      "seq": 726
-    },
-    {
-      "id": "efea1dfd",
-      "title": "speeding 관계: 졸음운전·운전 중 휴대전화 사용과 공통 상위 '위험 운전'",
-      "priority": 30,
-      "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr/news/2018/12/05/20181205006001 '신호등이 없어 ... 맘껏 속도를 내고 있기 때문이다' 조건 후보. faac 같은 글 'people are generally bad at estimating how much time they save by speeding up' 시간 절약 과대 어림 후보",
-      "createdAt": "2026-10-20T08:52:20.641Z",
-      "seq": 727
-    },
     {
       "id": "09067f84",
       "title": "guilt-tipping 보강: 공공 파편",
@@ -1205,6 +941,158 @@
       "seq": 4779
     },
     {
+      "id": "370f54c1",
+      "title": "picking-up-others-accent 보강: 함께 지내는 사람이 바뀌면 말투가 돌아오는 면",
+      "priority": 30,
+      "note": "2026-11-13 hisflower 브런치는 dancing-alone-at-home 이 이미 씀. 루리웹 69525333 은 이미 [^7]. 클리앙 park 19194921·19225489·19217973 은 사투리 논쟁이라 무관. 다른 출처 필요",
+      "createdAt": "2026-11-13T09:22:02.118Z",
+      "seq": 4832
+    },
+    {
+      "id": "7f208ad2",
+      "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",
+      "priority": 30,
+      "note": "2026-11-12 fear-of-the-dark 상위는 그음. Cranford(394) 'especially since Miss Pole's house had been attacked' 는 습격 소문 원인 근거 후보이나 원인 쪽 문서 없음. 두 현상 공통 상위(밤에 집 안 위협 상상) 문서를 새로 써야 함",
+      "createdAt": "2026-11-13T09:23:20.222Z",
+      "seq": 4833
+    },
+    {
+      "id": "da698556",
+      "title": "glancing-at-own-reflection-in-windows 관계: body-checking",
+      "priority": 30,
+      "note": "2026-11-13 body-checking [^3] Symmetry Counseling 2021 은 창문 같은 반사면도 몸 확인에 쓰인다고만 함. 흘끗 보기 전체가 몸 확인의 특수한 경우라는 파편은 아직 없음. 상위 대신 원인/결과 표지를 찾을 것",
+      "createdAt": "2026-11-13T09:26:34.903Z",
+      "seq": 4834
+    },
+    {
+      "id": "053f3936",
+      "title": "interrupting-others 보강: 원인 간선, 조건",
+      "priority": 30,
+      "note": "2026-11-12 클리앙 park/18835383 [^5] 더함. 같은 글 댓글(할 말을 놓칠까 봐 끊음, 친한 상대에선 끊고 긴장한 자리에선 안 끊음)은 같은 URL 이라 못 씀. 네이트판 talk/316174302 (2012-07-03) 관찰 글. 원인 쪽 문서(할 말 잊을까 조급함, 들뜸) 없음. not-cutting-into-conversation 은 반대 행동이나 같은 사람 안 대립 근거 없음",
+      "createdAt": "2026-11-13T09:27:00.087Z",
+      "seq": 4836
+    },
+    {
+      "id": "813a8644",
+      "title": "being-cancelled-on 보강: 문학 파편, urge-to-cancel-plans 관계",
+      "priority": 30,
+      "note": "2026-11-13 Sense and Sensibility(161) 는 이미 4개 문서가 써서 못 씀. Northanger Abbey(121) 의 산책 취소는 비 때문이라 상대가 취소한 경우 아님. Emma(158) 4개 문서. Straight Dope 7699 (1999-09-11) 생일 모임 30분 전 취소 SNS 후보",
+      "createdAt": "2026-11-13T09:27:33.868Z",
+      "seq": 4837
+    },
+    {
+      "id": "123cc0ba",
+      "title": "concealing-accidental-damage 관계: concealing-failure, hiding-mistakes-at-work, Tom Sawyer 외 문학",
+      "priority": 30,
+      "note": "2026-11-12 Straight Dope 443432/35 (2008-04-01) 더함. 2026-11-13 concealing-failure 는 시험·일의 실패라 물건 망가뜨림을 하위로 두려면 그렇게 부르는 파편 필요. 두 현상 공통 상위(자기 잘못 숨기기) 문서 후보. boredpanda broken-couch-overweight-friend 매체 후보",
+      "createdAt": "2026-11-13T09:27:47.558Z",
+      "seq": 4838
+    },
+    {
+      "id": "1931cab0",
+      "title": "not-cycling-for-fear-of-traffic 관계: bicycle-helmet-nonuse",
+      "priority": 30,
+      "note": "2026-11-13 클리앙 use/17293411 [^6] 더함(iPhone UA 로 열림). 같은 글에 아내가 자전거 자체를 위험하게 여긴다는 대목. 헬멧 미착용과의 인과 원문 없음. 주간경향 202009211221261 후보",
+      "createdAt": "2026-11-13T09:28:36.784Z",
+      "seq": 4839
+    },
+    {
+      "id": "28100eb2",
+      "title": "public-speaking-anxiety 보강: 한국어 공공 파편",
+      "priority": 30,
+      "note": "2026-11-13 korea.kr 보도자료 검색 무소득(학술 논문만 나옴). 2026-11-12 광운대 상담센터 URL 못 찾음, 국가정신건강정보포털 무소득. culture.kookmin.ac.kr gulmal 자가진단 첨부 후보. 4문단이 4문장이라 새 문단 필요",
+      "createdAt": "2026-11-13T09:28:57.050Z",
+      "seq": 4841
+    },
+    {
+      "id": "c85201f1",
+      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
+      "priority": 30,
+      "note": "2026-11-13 nytimes 1990년대 기사 검색 무소득. dvm360 euthanasia-gift-suffering-animals-owners-say 는 2003. discmaster rec.pets-pet-loss FAQ(1995) 503. Science News 1990년대 SNData 후보",
+      "createdAt": "2026-11-13T09:29:09.834Z",
+      "seq": 4842
+    },
+    {
+      "id": "e8e59ded",
+      "title": "leaving-hair-straighteners-on 보강: rechecking-door-and-stove 관계",
+      "priority": 30,
+      "note": "2026-11-13 고데기 켜 두고 나온 경험 때문에 이제 확인한다는 인과 원문 검색 무소득(영국 소방 캠페인 기사만 나옴. syfire ?p=4079, portsmouth 1257320 은 12명 중 1명 켜 두고 나간 적 있다는 공공·매체 후보). daangn 2023-02-16 후보",
+      "createdAt": "2026-11-13T09:29:28.150Z",
+      "seq": 4843
+    },
+    {
+      "id": "fa919044",
+      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
+      "priority": 30,
+      "note": "2026-11-13 thesandtrap 22319-lightning 은 staying-outdoors-in-thunderstorms 가 이미 써서 fear-of-thunderstorms 쪽에 쓰면 같은 URL 두 문서. 양쪽에 서로 다른 출처의 대립 근거 필요. weather.gov/eax/stormanxiety 공공 후보",
+      "createdAt": "2026-11-13T09:29:41.277Z",
+      "seq": 4844
+    },
+    {
+      "id": "d9a5f8c8",
+      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계",
+      "priority": 30,
+      "note": "2026-11-13 brunch violet00ij/36, @@cNqB/14 에 가족에게 숨긴다는 대목 없음. Hackensack Meridian 2021-12-06 choosing-to-keep-cancer-a-secret 은 진단 숨기기 일반(재발 두려움 인과 아님). 예비 SNS: straightdope 22355, 490518, HN 40936193",
+      "createdAt": "2026-11-13T09:30:07.728Z",
+      "seq": 4845
+    },
+    {
+      "id": "4d1b9b70",
+      "title": "anticipatory-grief 보강: 한국어 파편",
+      "priority": 30,
+      "note": "2026-11-13 '예기 슬픔' '예기슬픔' '예기비탄' 검색도 무소득(영어 자료만). 이전: 예기 애도 계열 HTML 본문 출처 없음, bravo.etoday 본문 HTML 에 없음, koreascience PDF",
+      "createdAt": "2026-11-13T09:30:22.462Z",
+      "seq": 4846
+    },
+    {
+      "id": "2d1f6a0c",
+      "title": "leaving-cooking-unattended 보강: 문학 파편",
+      "priority": 30,
+      "note": "2026-11-12 Little Women 514 줄 5018 이 맞으나 514 는 이미 4개 문서. 해당 없음 목록: Gutenberg 45 47 51 507 550 6688 1260 158 4276 2701 1342 768 2788 145 730 766 10007 5342 544 3796 498 394 2591 2081. 699 실존 인물 일화 제외. 한국 근대 소설(위키문헌) 후보 탐색 필요",
+      "createdAt": "2026-11-13T09:30:29.415Z",
+      "seq": 4847
+    },
+    {
+      "id": "8fcae164",
+      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
+      "priority": 30,
+      "note": "2026-11-13 korea.kr 소방방재청 2005~2007 직접 진화 부상 검색 무소득(kfpa PDF 통계뿐). 이전: taylorfrancis 9780203973714-13 403, firedoc.nist.gov Crossman 1974 서지만, USFA webarchive TLS 오류",
+      "createdAt": "2026-11-13T09:30:43.211Z",
+      "seq": 4848
+    },
+    {
+      "id": "d8d63381",
+      "title": "setting-clocks-fast 보강: 학술·공공 파편",
+      "priority": 30,
+      "note": "2026-11-13 시계를 빠르게 맞추는 행동의 학술 HTML 없음. peerj.com/articles/1210 (2015) 은 손목시계 착용과 약속 시간이라 다른 현상. greaterwrong bxkAgvZypEfW66xgr 무작위 시계 실험 글(SNS/매체) 후보",
+      "createdAt": "2026-11-13T09:30:57.278Z",
+      "seq": 4849
+    },
+    {
+      "id": "eea0b23f",
+      "title": "feeling-of-nothing-to-wear 관계: impulse-buying, trying-on-outfits-before-going-out",
+      "priority": 30,
+      "note": "2026-11-13 trying-on-outfits 쪽 파편에 입을 게 없다 표현 없음. '입을 옷이 없어서 여러 번 갈아입' 검색 무소득(brunch lkhyun0807/17 은 느낌만). FashionUnited 2026-03-10 triggers a new purchase 는 [^6] 이나 충동구매라 부르지 않음",
+      "createdAt": "2026-11-13T09:31:18.239Z",
+      "seq": 4850
+    },
+    {
+      "id": "ad75cac2",
+      "title": "feeling-overwhelmed-by-information 보강: 학술 파편, choice-overload 관계",
+      "priority": 30,
+      "note": "2026-11-13 Rough Type 2011, Pew 2016, HN 14588362 2017, 스웨덴 미디어청 2026 넷. 학술 없음. choice-overload 와 공통 상위 또는 인과 근거 필요",
+      "createdAt": "2026-11-13T09:33:04.704Z",
+      "seq": 4853
+    },
+    {
+      "id": "18ed719c",
+      "title": "speeding 관계: 졸음운전·운전 중 휴대전화 사용과 공통 상위 '위험 운전'",
+      "priority": 30,
+      "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr 20181205006001 조건 후보. faac 같은 글 시간 절약 과대 어림 후보",
+      "createdAt": "2026-11-13T09:34:51.511Z",
+      "seq": 4860
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1259,6 +1147,30 @@
       "note": "2026-11-03 재시도. EPA·USDA 에 남은 음식 잊기 조사 없음. 2026-11-07 OECD 403, 인천시 권고뿐. 2026-11-10 wrap.ngo/content/food-overview 는 'what to do with leftovers and forgotten foods' 를 동인 목록에만 둠. 매체 후보: Samsung UK newsroom fridge-fails 364개, geneonline Frigidaire 2026-06",
       "createdAt": "2026-11-10T21:29:59.964Z",
       "seq": 4520
+    },
+    {
+      "id": "b1c0162e",
+      "title": "storm-wave-watching 보강: 학술 파편",
+      "priority": 25,
+      "note": "2026-11-13 mdpi.com 2073-445X/12/2/360 은 모든 UA 에 403(본문 못 읽음). 이전: Azevedo 2023 초록 pull·push 문장 200자 넘음. hakaimagazine storm-coast 매체 후보",
+      "createdAt": "2026-11-13T09:33:41.318Z",
+      "seq": 4855
+    },
+    {
+      "id": "1088fc1d",
+      "title": "leaving-emails-unread 보강: 한국어 파편, 관계",
+      "priority": 25,
+      "note": "2026-11-13 '안 읽은 메일' 한국어 검색에 정리법 칼럼만(gqkorea ?p=296569, itworld 3579008 은 본문 못 뽑음). 이전: theconversation 225181, informationr 604, salon 2017-12-07, digiday inbox execs 후보",
+      "createdAt": "2026-11-13T09:34:00.267Z",
+      "seq": 4856
+    },
+    {
+      "id": "06cb2199",
+      "title": "flattering-superiors 관계: 눈치 야근, 바쁜 척하기와 상사 눈치",
+      "priority": 25,
+      "note": "2026-11-13 '상사에게 잘 보이기 위해' 야근·아부 기사 검색 무소득(jobplanet news-7808 야근 대처 설문, newsis NISX20250316_0003100294 야근 서운하다 사례, segye 20141222000297). 공통 상위 '상사에게 잘 보이기(upward impression management)' 신규 문서 후보 그대로",
+      "createdAt": "2026-11-13T09:34:43.496Z",
+      "seq": 4859
     },
     {
       "id": "75b0ae75",
@@ -1403,6 +1315,62 @@
       "note": "2026-11-12 BPS 2016-05-26 Konok 연구 소개 글은 'anxiously attached people did not report greater stress when they were separated from their phones' 라 원인 간선 근거가 못 됨. 같은 글 'people with an anxious attachment style said they tended to get more stressed than others if they couldn't reach someone on their phone' 는 attachment-anxiety 보강 후보. weforum 2015-10 후보",
       "createdAt": "2026-11-12T21:40:32.741Z",
       "seq": 4751
+    },
+    {
+      "id": "9dada70d",
+      "title": "improper-medicine-disposal 관계: keeping-leftover-medicines",
+      "priority": 20,
+      "note": "2026-11-13 클리앙 park/17379913 은 수거처 변경 이야기라 인과 표지 없음. 2026-11-10 양쪽 문서 파편에 인과 원문 없음. statcan 16-002-x/2008001/10539 막힘. 남은 약을 모아 두다 유효기간이 지나 버린다는 조사 원문 필요",
+      "createdAt": "2026-11-13T09:26:48.357Z",
+      "seq": 4835
+    },
+    {
+      "id": "dd342ef5",
+      "title": "avoiding-places-of-the-lost 보강: 문학 파편",
+      "priority": 20,
+      "note": "2026-11-01 Gutenberg 23편 무소득. Hardy 1912-13 은 다시 찾아가는 쪽. Wuthering Heights 768 은 이미 4개 문서. 한국 근대 소설(위키문헌) 쪽 후보 탐색 필요",
+      "createdAt": "2026-11-13T09:28:44.367Z",
+      "seq": 4840
+    },
+    {
+      "id": "8425bee5",
+      "title": "caffeine-to-stay-awake 관계: driving-while-drowsy",
+      "priority": 20,
+      "note": "2026-11-13 aasm.org coffee-is-no-cure (2025, 졸며 운전한 사람 65% 커피) 는 Cloudflare 403. insurancejournal 2004/01/30/36299 Farmers 조사 'Drink caffeine (42.3 percent)' 는 앞 문장과 사이에 광고 스크립트가 끼어 연속 원문 안 됨. sleepreviewmag drivers-stay-awake-choose-ineffective-strategies, carriermanagement 2025/04/01/273666 (Erie 63%) 후보",
+      "createdAt": "2026-11-13T09:32:03.226Z",
+      "seq": 4851
+    },
+    {
+      "id": "eb22a0c5",
+      "title": "biting-lips-to-hold-back 관계: hiding-tears",
+      "priority": 20,
+      "note": "2026-11-13 Anna Karenina 1399 'forcing herself to gulp down her tears, biting her lips' 는 1399 를 이미 4개 문서가 써서 못 씀. maily 7rolj [^5] 는 인과 표지 없음. 눈물 감추려고 입술 깨문다는 다른 원문 필요",
+      "createdAt": "2026-11-13T09:32:24.223Z",
+      "seq": 4852
+    },
+    {
+      "id": "be71b24c",
+      "title": "wedding-invitation-burden 보강: 애매한 관계 원인, 모바일 청첩장",
+      "priority": 20,
+      "note": "2026-11-13 kca.go.kr no=1000655869 는 view.do?menukey=4002&boardId=00000013 꼴로 열어도 본문 없음, 정확한 URL 필요. 세계일보 [^3] 같은 기사 애매모호한 관계 35% 는 같은 출처라 못 씀",
+      "createdAt": "2026-11-13T09:33:19.782Z",
+      "seq": 4854
+    },
+    {
+      "id": "9c55db6a",
+      "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
+      "priority": 15,
+      "note": "2026-11-13 '진료를 미루다 응급실 가기' 는 delayed-care-emergency-visits 로 이미 있음. 경증 응급실과 진료 회피를 잇는 인과 문장은 여전히 미발견(healthcaredive 408071, Billings 2000, ajmc 2026-03-12, kdvr 2013, ucla 2006, PMC1725740, PMC6612776 확인)",
+      "createdAt": "2026-11-13T09:34:14.011Z",
+      "seq": 4857
+    },
+    {
+      "id": "ab508ee5",
+      "title": "gift-choosing-anxiety 와 feigning-delight-at-gifts 관계 근거",
+      "priority": 15,
+      "note": "2026-11-13 kormedi 1213118 (2014-12-22) 은 선물 오해 4가지(재선물, 가격)라 인과 없음. 이전: psychologytoday happy-together/202412 없음, Groupon 73% 꾸민 반응, Galak 리뷰 washu 2019-12. 꾸민 반응 때문에 주는 쪽이 맞는 선물을 모른다는 문장 필요. seoul.co.kr 20001211014003 남은 후보",
+      "createdAt": "2026-11-13T09:34:24.438Z",
+      "seq": 4858
     },
     {
       "id": "a3f422fc",
