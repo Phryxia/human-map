@@ -51,7 +51,7 @@
 - [유리창에 비친 제 모습 흘끗 보기](../docs/glancing-at-own-reflection-in-windows.md) 길을 걷는 사람이 상점 진열창 같은 유리에 비친 자기 모습을 걸음을 멈추지 않고 흘끗 확인한다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
-- [참으려고 입술 깨물기](../docs/biting-lips-to-hold-back.md) 웃음이나 눈물을 남 앞에서 참으려는 사람이 입술을 깨문다.
+- [참으려고 입술 깨물기](../docs/biting-lips-to-hold-back.md) 웃음, 눈물, 화를 남 앞에서 참으려는 사람이 입술을 깨문다.
 - [창피한 일을 꾸며 둘러대기](../docs/covering-up-embarrassment.md) 창피한 일을 겪은 사람이 그 일을 사실대로 말하지 않고 다른 이야기로 꾸며 남에게 둘러댄다.
 - [청력 손실 숨기기](../docs/hiding-hearing-loss.md) 청력이 떨어진 사람이 남에게 그 사실을 알리지 않거나 보청기를 보이지 않게 감춘다.
 - [카페에 오래 앉은 손님의 눈치](../docs/lingering-in-cafe-guilt.md) 카페에 오래 머무는 손님이 직원의 시선을 의식해 음료를 더 시키거나 자기가 거슬리는 손님인지 걱정한다.
