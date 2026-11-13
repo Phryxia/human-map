@@ -4,7 +4,7 @@
 
 자전거나 전동킥보드를 타는 사람이 짧은 거리, 불편함, 외모 따위를 이유로 헬멧을 쓰지 않는다.
 
-묶음: [길과 운전](../groups/roads-and-driving.md)
+묶음: [건강과 위험](../groups/health-and-safety.md)
 
 # 서술
 
@@ -20,7 +20,7 @@
 
 ## 상위
 
-없음.
+- [안전 장비 미착용](safety-gear-nonuse.md)
 
 ## 하위
 

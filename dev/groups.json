@@ -184,7 +184,6 @@
     "roots": [
       "leaving-car-unlocked",
       "not-yielding-to-emergency-vehicles",
-      "bicycle-helmet-nonuse",
       "drink-driving",
       "delaying-driving-cessation",
       "driving-while-drowsy",
@@ -204,7 +203,6 @@
       "not-using-turn-signals",
       "blocking-the-intersection",
       "ignoring-dashboard-warning-lights",
-      "seat-belt-nonuse",
       "not-cycling-for-fear-of-traffic"
     ]
   },
@@ -222,7 +220,6 @@
       "fighting-fire-oneself",
       "intentional-tanning",
       "keeping-mask-after-mandate",
-      "life-jacket-nonuse",
       "nonurgent-emergency-care-use",
       "not-covering-coughs",
       "reusing-leftover-medicine",
@@ -234,7 +231,6 @@
       "walking-dog-off-leash",
       "summit-fever",
       "working-through-heat",
-      "hearing-protection-nonuse",
       "burning-farm-waste",
       "savoring-ordinary-life-in-convalescence",
       "taking-escalator-over-stairs",
@@ -292,7 +288,8 @@
       "leaving-iron-on",
       "risky-selfies",
       "eating-poisonous-plants-as-wild-greens",
-      "descending-after-dark"
+      "descending-after-dark",
+      "safety-gear-nonuse"
     ]
   },
   {

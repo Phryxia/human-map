@@ -17,7 +17,6 @@
 - [고데기 켜 둔 채 외출하기](../docs/leaving-hair-straighteners-on.md) 머리를 손질하고 서둘러 집을 나서는 사람이 고데기를 켜 둔 채 나간다.
 - [공중화장실 변기에 앉지 않기](../docs/hovering-over-public-toilet-seats.md) 공중화장실을 쓰는 사람이 세균이나 오물이 옮을까 봐 변기에 앉지 않고 몸을 띄운 채 볼일을 본다.
 - [과음](../docs/heavy-drinking.md) 술을 마시는 사람이 한 번의 술자리에서 많은 양을 마신다.
-- [구명조끼 미착용](../docs/life-jacket-nonuse.md) 배를 타거나 물놀이, 낚시를 하는 사람이 구명조끼를 입지 않는다.
 - [금연 뒤 다시 피우기](../docs/smoking-relapse.md) 담배를 끊으려던 사람이 다시 담배를 피운다.
 - [기침할 때 가리지 않기](../docs/not-covering-coughs.md) 공공장소에서 기침이나 재채기를 하는 사람이 습관이 되지 않았거나 귀찮아서 입과 코를 가리지 않거나 맨손으로만 가린다.
 - [나아지면 약 끊기](../docs/stopping-medication-when-feeling-better.md) 처방약을 먹던 사람이 증상이 나아지면 다 나았다고 여겨 정해진 기간을 채우지 않고 스스로 약을 끊는다.
@@ -52,6 +51,13 @@
 - [수돗물 그대로 마시지 않기](../docs/not-drinking-tap-water.md) 수돗물을 마실 수 있는 곳에 사는 사람이 수돗물을 그대로 마시지 않고 정수기를 달거나 생수를 사서 마신다.
 - [술 마신 뒤 물놀이](../docs/swimming-after-drinking.md) 술을 마신 사람이 바다, 강, 계곡, 호수에 들어가 헤엄치거나 물놀이를 한다.
 - [쓰지 않는 약을 쓰레기통과 변기에 버리기](../docs/improper-medicine-disposal.md) 쓰지 않거나 유효기한이 지난 약을 가진 사람이 그 약을 수거함에 내지 않고 생활 쓰레기, 변기, 하수구에 버린다.
+- [안전 장비 미착용](../docs/safety-gear-nonuse.md) 다칠 위험이 있는 자리에 있는 사람이 위험을 줄이는 보호 장비를 쓸 수 있는데도 착용하지 않는다.
+  - [구명조끼 미착용](../docs/life-jacket-nonuse.md)
+  - [안전띠 미착용](../docs/seat-belt-nonuse.md)
+    - [뒷좌석 안전띠 미착용](../docs/rear-seat-belt-nonuse.md)
+    - [카시트 없이 아이 태우기](../docs/child-car-seat-nonuse.md)
+  - [자전거 헬멧 미착용](../docs/bicycle-helmet-nonuse.md)
+  - [청력 보호구 미착용](../docs/hearing-protection-nonuse.md)
 - [암 재발 두려움](../docs/fear-of-cancer-recurrence.md) 암 치료를 마친 사람이 암이 다시 생길까 봐 두려워한다.
 - [야생 버섯 따 먹기](../docs/eating-foraged-wild-mushrooms.md) 산이나 들에서 야생 버섯을 딴 사람이 생김새나 민간 속설로 먹을 수 있는 버섯을 가려 먹는다.
 - [야식 먹기](../docs/late-night-eating.md) 저녁 식사를 마친 사람이 잠들기 전 밤늦은 시간에 다시 음식을 먹는다.
@@ -73,7 +79,6 @@
 - [진단 없이 음식 피하기](../docs/self-diagnosed-food-avoidance.md) 어떤 음식을 먹은 뒤 몸이 불편했다고 여기는 사람이 의학적 진단 없이 그 음식을 먹지 않는다.
 - [진료를 미루다 응급실 가기](../docs/delayed-care-emergency-visits.md) 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
 - [천둥 번개 속 바깥 활동 계속하기](../docs/staying-outdoors-in-thunderstorms.md) 천둥이 치고 번개가 보이는데도 사람들이 골프, 낚시, 등산 같은 바깥 활동을 이어 가거나 나무 밑으로 피한다.
-- [청력 보호구 미착용](../docs/hearing-protection-nonuse.md) 시끄러운 작업장이나 공연장에 있는 사람이 귀마개나 귀덮개를 쓰지 않거나 꾸준히 쓰지 않는다.
 - [촛불 켜 둔 채 자리 비우기](../docs/leaving-candles-unattended.md) 초나 향초를 켠 사람이 불을 끄지 않고 방을 나가거나 잠든다.
 - [치료 부담감](../docs/treatment-burden.md) 오래 치료를 받는 환자가 약 먹기, 검사, 생활 바꾸기 같은 치료의 일을 짐으로 느낀다.
 - [치료비 걱정에 진료 미루기](../docs/skipping-care-due-to-cost.md) 아픈 사람이 진료비나 약값 부담 때문에 필요한 진료를 미루거나 받지 않거나 약을 줄인다.

@@ -4,7 +4,7 @@
 
 자동차 뒷좌석에 탄 사람이 불편하거나 잊거나 뒷좌석이 안전하다고 믿어서 안전띠를 매지 않는다.
 
-묶음: [길과 운전](../groups/roads-and-driving.md)
+묶음: [건강과 위험](../groups/health-and-safety.md)
 
 # 서술
 
