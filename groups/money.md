@@ -66,6 +66,7 @@
 - [장바구니에 담아 두고 결제하지 않기](../docs/online-cart-abandonment.md) 온라인 쇼핑몰에서 상품을 장바구니에 담은 사람이 결제하지 않고 떠나거나 장바구니를 사고 싶은 물건을 모아 두는 곳으로 쓴다.
 - [종이 영수증 바로 버리기](../docs/discarding-paper-receipts.md) 가게에서 계산한 손님이 종이 영수증을 받지 않고 버려 달라고 하거나 받자마자 버린다.
 - [좋은 물건 아껴 두기](../docs/saving-things-for-best.md) 좋은 옷이나 물건을 가진 사람이 그것을 특별한 날에 쓰려고 아껴 두고 평소에 쓰지 않는다.
+- [책 사 두고 읽지 않기](../docs/buying-books-without-reading.md) 책을 사는 사람이 산 책을 읽지 않은 채 쌓아 두고 또 책을 산다.
 - [충동구매](../docs/impulse-buying.md) 살 계획이 없던 물건을 본 사람이 그 자리에서 사고 싶어져 산다.
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
 - [큰돈이 생기는 공상](../docs/daydreaming-about-windfall.md) 아직 손에 없는 큰돈이 생기는 장면을 떠올린 사람이 그 돈으로 무엇을 사고 무엇을 할지 자세히 상상한다.

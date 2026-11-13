@@ -653,6 +653,7 @@
 - [창밖 바라보기](docs/gazing-out-the-window.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [창피한 일을 꾸며 둘러대기](docs/covering-up-embarrassment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [책 빌려주지 않기](docs/never-lending-books.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [책 사 두고 읽지 않기](docs/buying-books-without-reading.md) ([돈과 소비](groups/money.md))
 - [책 여백에 메모하기](docs/writing-in-book-margins.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [책 읽지 않기](docs/not-reading-books.md) ([시간과 하루 습관](groups/daily-time.md))
 - [처분 효과](docs/disposition-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
