@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-13T16:23:41.925Z",
-  "nextSeq": 4893,
-  "stops": 258,
+  "savedAt": "2026-11-13T18:34:39.285Z",
+  "nextSeq": 4901,
+  "stops": 259,
   "items": [
     {
       "id": "3807fc0a",
@@ -27,6 +27,38 @@
       "note": "2026-11-13 새 문서(Irish News 2018, NIDCD 2023). hearing-protection-nonuse [^5] 클리앙 park/3072617 같은 글 댓글 '저 귀마개 안하고 해서 이명생겼습니다..ㅠ', [^8] HN 37856868 은 이미 그 문서에 쓰임. tinnitus 쪽 근거로 다른 출처 필요. 같은 NIDCD 페이지 'Many people experience tinnitus after being exposed to loud noise in a workplace setting or at a sporting event or concert.'",
       "createdAt": "2026-11-13T16:23:14.382Z",
       "seq": 4892
+    },
+    {
+      "id": "3f05f35d",
+      "title": "pretending-not-to-hear 보강과 관계: 못 본 척, 몰두한 척과 공통 상위",
+      "priority": 50,
+      "note": "2026-11-13 새 문서(Oliver Twist 1838, 검둥이 1938, HN 2490207 2011, OdishaTV 2011, Frontiers 2018). 후보: lady.khan.co.kr/finance/article/12006 (2009-01-01) 아내가 남편이 못 들은 척한다고 탓함, HN 31980136 (2022) 아이가 할 일을 듣고 못 들은 척, Pride and Prejudice 1342 Mary 'pretending not to hear' (1342 는 이미 4개 문서), Main Street 543. pretending-not-to-see-acquaintance, feigning-absorption-to-avoid-talk 와 회피용 시늉이라는 공통 상위 후보, 근거 문장 필요",
+      "createdAt": "2026-11-13T18:09:02.050Z",
+      "seq": 4897
+    },
+    {
+      "id": "2770ebe6",
+      "title": "keeping-quiet-for-sleepers 보강: 한국어 문학·매체 파편",
+      "priority": 50,
+      "note": "2026-11-13 새 문서(Adam Bede 1859, Straight Dope 2011, Scary Mommy 2016, PMC8262265 2020, 블라인드 2021). 후보: brunch.co.kr/@kareljo/313 (2026-10-18) 자는 가족 방문을 조용히 닫음, romper.com/p/10-small-things-...-1077 (2015-11-12) 삐걱이는 바닥 피해 걷기, officer.com 10249746 (2007-06-12), 위키문헌 사랑의_선물/한네레의_죽음 (1922) 발소리 없이 나감(의도 문장 없음), Daddy-Long-Legs 157 문을 살며시 닫음. 1600년대·1900년대 초 파편 없음",
+      "createdAt": "2026-11-13T18:22:44.480Z",
+      "seq": 4898
+    },
+    {
+      "id": "060a991b",
+      "title": "faking-phone-calls 보강: 학술 파편과 fear-of-walking-alone-at-night 관계",
+      "priority": 50,
+      "note": "2026-11-13 새 문서(CBS 2005, Straight Dope 2010, NBC 2011, GMA 2020). 후보: pewresearch.org/internet/2011/08/15/americans-and-their-cell-phones/ 13% 'pretended to be using their phone'(통화라는 말 없음), dazeddigital.com 48396 (2020-03-17) 택시에서 녹음 틀고 통화하는 척. GMA 'feel unsafe while walking home' 이 fear-of-walking-alone-at-night 원인 간선 후보",
+      "createdAt": "2026-11-13T18:28:11.953Z",
+      "seq": 4899
+    },
+    {
+      "id": "b9b5aee9",
+      "title": "secret-eating 보강: 매체·SNS 파편, 1900년대 파편",
+      "priority": 50,
+      "note": "2026-11-13 새 문서(Little Men 1871, PMC13438224 2026). 파편이 확인됨 2개뿐. 후보: David Copperfield 766 'secretly eating crumbs out of his coat pockets'(766 은 이미 4개 문서), PMC13438224 같은 글의 'fear of reprimand and embarrassment associated with eating in secret'. emotional-eating, late-night-eating 과 관계 후보",
+      "createdAt": "2026-11-13T18:32:24.293Z",
+      "seq": 4900
     },
     {
       "id": "ac26ceb9",
