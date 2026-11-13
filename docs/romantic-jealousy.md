@@ -14,7 +14,7 @@
 
 2020년 Pollet 와 Saxton 의 메타분석에서 경쟁자의 매력이 일으키는 질투에는 작고 유의한 성별 효과가 있었고 경쟁자의 지배성에는 그런 반응이 없었다.[^6]
 
-2026년 PsyPost 기사가 전한 실험에서 남녀 모두 연인이 다른 사람에게 자원을 내주는 일을 심각한 관계 위협으로 여겼다.[^7] 2026년 let's talk 포럼 게시글의 글쓴이는 연인이 문자를 할 때나 혼자 떠난 해외여행에서 새 친구를 사귈 때 질투가 난다고 썼다.[^8]
+2026년 PsyPost 기사가 전한 실험에서 남녀 모두 연인이 다른 사람에게 자원을 내주는 일을 심각한 관계 위협으로 여겼다.[^8] 2026년 let's talk 포럼 게시글의 글쓴이는 연인이 문자를 할 때나 혼자 떠난 해외여행에서 새 친구를 사귈 때 질투가 난다고 썼다.[^9]
 
 # 관계
 
@@ -28,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [애착 불안](attachment-anxiety.md)[^7]
 
 ## 결과
 
@@ -46,5 +46,6 @@
 [^4]: [학술] "The intensity of romantic jealousy was related to the intensity of romantic happiness, which mainly correlated with ventral medial prefrontal cortex activation." (연애 질투의 강도는 연애 행복의 강도와 관련되었고, 연애 행복은 주로 복내측 전전두피질 활성과 상관되었다.) — Yan Sun, Hongbo Yu, Jie Chen, Jie Liang, Lin Lu, Xiaolin Zhou, "Neural substrates and behavioral profiles of romantic jealousy and its temporal dynamics", Scientific Reports, 2016-06-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC4895349/, 2026-10-20 접속
 [^5]: [SNS] "저는 지금까지 남차친구들을 사귀어보면서 남자친구가 다른 여사친들이랑 많은 대화를 나누거나 톡을 하면 적어도 기분이 나쁘더라구요." — 네이트 판, 게시글, 2017-08-02, https://pann.nate.com/talk/338184398, 2026-10-20 접속
 [^6]: [학술] "These meta-analyses showed a small, significant effect of gender on jealousy provoked by rival attractiveness, but no such response to rival dominance." (이 메타분석들은 경쟁자의 매력이 일으키는 질투에 성별의 작고 유의한 효과가 있지만 경쟁자의 지배성에는 그런 반응이 없음을 보여 주었다.) — Thomas V. Pollet, Tamsin K. Saxton, "Jealousy as a Function of Rival Characteristics: Two Large Replication Studies and Meta-Analyses Support Gender Differences in Reactions to Rival Attractiveness But Not Dominance", Personality and Social Psychology Bulletin, 2020-03-10, https://pmc.ncbi.nlm.nih.gov/articles/PMC7493204/, 2026-10-20 접속
-[^7]: [매체] "The findings provide evidence that giving away resources is viewed as a serious relationship threat by both men and women." (연구 결과는 자원을 내주는 일이 남녀 모두에게 심각한 관계 위협으로 여겨진다는 증거를 보여 준다.) — Eric W. Dolan, "Both men and women view a partner’s financial investment in a rival as a major relationship threat", PsyPost, 2026-05-03, https://www.psypost.org/both-men-and-women-view-a-partners-financial-investment-in-a-rival-as-a-major-relationship-threat/, 2026-10-20 접속
-[^8]: [SNS] "However, I still get jealous when he is texting. I get jealous when he make new friends during his solo overseas trip. He say just friends sharing daily lives w each other." (그런데도 그가 문자를 할 때면 여전히 질투가 난다. 그가 혼자 떠난 해외여행에서 새 친구를 사귀면 질투가 난다. 그는 그냥 서로 일상을 나누는 친구라고 한다.) — mindline 포럼 게시글, 2026-05-15, https://letstalk.mindline.sg/t/jealousy-over-boyfriend-social-circle/28683, 2026-10-20 접속
+[^7]: [학술] "attachment anxiety had a significant positive predictive effect on jealousy, but attachment avoidance had no significant positive predictive effect" (애착 불안은 질투에 유의한 정적 예측 효과가 있었으나 애착 회피는 유의한 정적 예측 효과가 없었다) — Min Deng, Endale Tadesse, Sabika Khalid, Weida Zhang 외, "The influence of insecure attachment on undergraduates' jealousy: the mediating effect of self-differentiation", Frontiers in Psychology, 2023-08-24, https://pmc.ncbi.nlm.nih.gov/articles/PMC10484705/, 2026-11-13 접속
+[^8]: [매체] "The findings provide evidence that giving away resources is viewed as a serious relationship threat by both men and women." (연구 결과는 자원을 내주는 일이 남녀 모두에게 심각한 관계 위협으로 여겨진다는 증거를 보여 준다.) — Eric W. Dolan, "Both men and women view a partner’s financial investment in a rival as a major relationship threat", PsyPost, 2026-05-03, https://www.psypost.org/both-men-and-women-view-a-partners-financial-investment-in-a-rival-as-a-major-relationship-threat/, 2026-10-20 접속
+[^9]: [SNS] "However, I still get jealous when he is texting. I get jealous when he make new friends during his solo overseas trip. He say just friends sharing daily lives w each other." (그런데도 그가 문자를 할 때면 여전히 질투가 난다. 그가 혼자 떠난 해외여행에서 새 친구를 사귀면 질투가 난다. 그는 그냥 서로 일상을 나누는 친구라고 한다.) — mindline 포럼 게시글, 2026-05-15, https://letstalk.mindline.sg/t/jealousy-over-boyfriend-social-circle/28683, 2026-10-20 접속
