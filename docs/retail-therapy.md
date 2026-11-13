@@ -1,6 +1,6 @@
 # 기분을 달래려는 소비
 
-별칭: Retail therapy[^3]
+별칭: Retail therapy[^3], 시발비용[^5]
 
 기분이 나쁘거나 스트레스를 받은 사람이 계획에 없던 물건이나 음식을 사서 자신에게 준다.
 
@@ -12,7 +12,9 @@
 
 2011년 Atalay 와 Meloy 는 나쁜 기분이 자신을 위한 계획에 없던 선물을 더 많이 사고 소비하게 한다고 보고한다.[^3] 2015년 방송 기사[^4]는 실망감을 달래려고 산 뒤의 들뜬 기분이 짧고 곧 후회로 바뀐다고 전한다.
 
-2026년 한 네이트판 게시글의 글쓴이는 스트레스를 받을 때마다 충동적으로 돈을 쓰는 버릇을 줄이려고 몇 가지를 시도했다고 쓴다.[^5]
+2017년 기사[^5]는 스트레스를 받고 홧김에 시킨 치킨 값과 짜증이 나서 대중교통 대신 탄 택시비를 누리꾼들이 시발비용의 예로 든다고 전한다.
+
+2026년 한 네이트판 게시글의 글쓴이는 스트레스를 받을 때마다 충동적으로 돈을 쓰는 버릇을 줄이려고 몇 가지를 시도했다고 쓴다.[^6]
 
 # 관계
 
@@ -43,4 +45,5 @@
 [^2]: [문학] "she had the experience of grief, with the certainty that it would not end. A woman who had laid on herself such sacrifices could well allow herself certain whims. She bought a Gothic prie-dieu," (그녀는 끝나지 않으리라는 확신과 함께 슬픔을 겪었다. 자신에게 그런 희생을 지운 여자라면 몇 가지 변덕쯤은 스스로 허락해도 되었다. 그녀는 고딕풍 기도대를 샀고) — Gustave Flaubert, Eleanor Marx-Aveling 옮김, Madame Bovary, Part II, Project Gutenberg, 1886, https://www.gutenberg.org/cache/epub/2413/pg2413.txt, 2026-10-22 접속
 [^3]: [학술] "The current work documents that a bad mood does lead to greater purchase and consumption of unplanned treats for the self." (이 연구는 나쁜 기분이 실제로 자신을 위한 계획에 없던 선물의 구매와 소비를 늘린다는 것을 기록한다.) — A. Selin Atalay, Margaret G. Meloy, "Retail therapy: A strategic effort to improve mood", Psychology and Marketing, 2011-06, https://pure.psu.edu/en/publications/retail-therapy-a-strategic-effort-to-improve-mood/, 2026-10-17 접속
 [^4]: [매체] "The problem then, however, is that the high from the purchase is brief and quickly turns to regret." (그런데 문제는 구매에서 얻는 들뜬 기분이 짧고 곧 후회로 바뀐다는 것이다.) — ABC7 News, "Study: Retail therapy can backfire, hurt in long run", 2015-02-10, https://abc7news.com/news/511813/, 2026-10-22 접속
-[^5]: [SNS] "스트레스받을때마다 충동적으로 돈쓰는 버릇 고치려고 몇가지 시도해봄" — 네이트판 게시글, 2026-09-08, https://pann.nate.com/talk/375614092, 2026-10-17 접속
+[^5]: [매체] "누리꾼들이 예로 든 시발비용에는 ‘스트레스를 받고 홧김에 시킨 치킨 값’과 ‘평소라면 대중교통을 이용했을텐데 짜증나서 탄 택시비’ 등이 있다." — 이유진, 「스트레스 사회, ‘시발비용’을 아십니까」, 경향신문, 2017-01-29, https://www.khan.co.kr/article/201701290925001, 2026-11-13 접속
+[^6]: [SNS] "스트레스받을때마다 충동적으로 돈쓰는 버릇 고치려고 몇가지 시도해봄" — 네이트판 게시글, 2026-09-08, https://pann.nate.com/talk/375614092, 2026-10-17 접속
