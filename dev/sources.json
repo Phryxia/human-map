@@ -18655,9 +18655,9 @@
   },
   "https://www.gutenberg.org/cache/epub/730/pg730-images.html": {
     "first": "2026-11-04",
-    "last": "2026-11-06",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-13"
   },
   "https://www.printmag.com/creative-prompts/im-wondering-do-you-display-dead-flowers": {
     "first": "2026-11-04",
@@ -26600,6 +26600,30 @@
     "lastVerified": "2026-11-13"
   },
   "https://www.nidcd.nih.gov/health/tinnitus": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://ko.wikisource.org/wiki/%EA%B2%80%EB%91%A5%EC%9D%B4": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://news.ycombinator.com/item?id=2490207": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://odishatv.in/news/women-know-when-their-men-turn-a-deaf-ear-9833": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01786/full": {
     "first": "2026-11-13",
     "last": "2026-11-13",
     "result": "VERIFIED",
