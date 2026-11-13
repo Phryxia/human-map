@@ -2,6 +2,7 @@
 
 전체 문서를 제목 순으로 적는다. 주제별 목록은 [문서 묶음](README.md#문서-묶음)에 있다.
 
+- [가계부 쓰기](docs/keeping-household-accounts.md) ([돈과 소비](groups/money.md))
 - [가구 배치 바꾸기](docs/rearranging-furniture.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [가까운 사람의 발소리 알아듣기](docs/recognizing-footsteps-of-close-people.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))

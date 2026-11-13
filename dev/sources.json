@@ -25914,5 +25914,40 @@
     "last": "2026-11-12",
     "result": "VERIFIED",
     "lastVerified": "2026-11-12"
+  },
+  "https://www.pepysdiary.com/diary/1663/10/31/": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://www.seoul.co.kr/news/1993/01/07/19930107016001": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://www.segye.com/newsView/20141202004195": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://scholar.kyobobook.co.kr/article/detail/4010025867681": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://v.daum.net/v/20250222090113392": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC13043641/": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "UNREACHABLE"
   }
 }
