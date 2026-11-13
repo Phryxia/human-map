@@ -59,6 +59,7 @@
 - [위기 때 생필품 사재기](../docs/panic-buying.md) 재난이나 감염병 소식을 들은 사람이 평소보다 많은 생필품을 한꺼번에 사 둔다.
 - [유산 다툼](../docs/inheritance-disputes.md) 가족이나 친족이 누군가 죽은 뒤 남은 재산을 두고 서로 의심하고 다툰다.
 - [은퇴 자금 쓰지 않기](../docs/retirees-not-spending-savings.md) 은퇴한 사람이 모아 둔 은퇴 자금을 거의 꺼내 쓰지 않고 그대로 둔다.
+- [입을 옷이 없다고 느끼기](../docs/feeling-of-nothing-to-wear.md) 옷이 많은 사람이 무엇을 입을지 고르려 할 때 입을 옷이 없다고 느끼거나 말한다.
 - [자기 보상 소비](../docs/self-reward-purchase.md) 애써 무언가를 해낸 사람이 그 보상으로 자신에게 물건이나 경험을 사 준다.
 - [자녀 사교육 불안](../docs/private-tutoring-anxiety.md) 부모가 자녀가 다른 아이들에게 뒤처질까 불안해 자녀를 학원이나 과외에 보낸다.
 - [장 볼 때 필요보다 많이 사기](../docs/overbuying-groceries.md) 장을 보는 사람이 집에서 다 먹지 못할 만큼 식료품을 사고 남은 것을 버린다.
