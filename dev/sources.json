@@ -26214,5 +26214,23 @@
     "last": "2026-11-13",
     "result": "VERIFIED",
     "lastVerified": "2026-11-13"
+  },
+  "https://www.korea.kr/briefing/policyBriefingView.do?newsId=148826548": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC9316069/": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
   }
 }

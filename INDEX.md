@@ -740,6 +740,7 @@
 - [혼자 먹는 식사의 감정](docs/eating-alone-feelings.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 살며 아플 때의 서러움](docs/sick-while-living-alone.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 생각만 하는 시간 꺼리기](docs/avoiding-being-alone-with-thoughts.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [혼자 술 마시기](docs/drinking-alone.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 여가 보내기](docs/solo-leisure.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 있기 선호](docs/preference-for-solitude.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [혼자 있을 때 춤추기](docs/dancing-alone-at-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
