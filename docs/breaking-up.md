@@ -12,7 +12,7 @@
 
 2013년 Live Science 기사[^2]가 전한 10대 커플 연구에서 연구가 끝날 때까지 함께인 커플은 아홉 쌍뿐이었고 관계는 대개 6, 7개월 이어졌다.
 
-2017년 영국 조사[^3]에서 결혼이나 동거를 끝낸 남녀의 약 3분의 2가 멀어짐, 다툼, 외도 가운데 하나 이상을 그 이유로 꼽았다. 2018년 게시글[^4]의 글쓴이는 같은 이유로 자주 싸우며 헤어졌다 다시 만나기를 되풀이하다가 차여서 헤어졌다고 썼다. 2019년 기사[^5]에서 연인의 휴대전화 엿보기를 조사한 연구의 저자는 엿보기 뒤 관계가 끝난 경우 휴대전화 주인이 신뢰를 배신당했다고 느꼈거나 관계가 이미 어려움을 겪고 있었다고 말했다.
+2017년 영국 조사[^3]에서 결혼이나 동거를 끝낸 남녀의 약 3분의 2가 멀어짐, 다툼, 외도 가운데 하나 이상을 그 이유로 꼽았다. 2018년 게시글[^4]의 글쓴이는 같은 이유로 자주 싸우며 헤어졌다 다시 만나기를 되풀이하다가 차여서 헤어졌다고 썼다. 2019년 기사[^6]에서 연인의 휴대전화 엿보기를 조사한 연구의 저자는 엿보기 뒤 관계가 끝난 경우 휴대전화 주인이 신뢰를 배신당했다고 느꼈거나 관계가 이미 어려움을 겪고 있었다고 말했다.
 
 # 관계
 
@@ -27,7 +27,8 @@
 ## 원인
 
 - [연인과의 다툼](partner-conflict.md)[^3][^4]
-- [연인의 휴대폰 몰래 보기](snooping-on-partners-phone.md)[^5]
+- [애착 회피](attachment-avoidance.md)[^5]
+- [연인의 휴대폰 몰래 보기](snooping-on-partners-phone.md)[^6]
 
 ## 결과
 
@@ -43,4 +44,5 @@
 [^2]: [매체] "At the end of the study, only nine couples were still together, with relationships usually lasting six or seven months." (연구가 끝날 때 함께인 커플은 아홉 쌍뿐이었고 관계는 대개 6, 7개월 이어졌다.) — Tia Ghose, "Teen Breakups an Enduring Mystery", Live Science, 2013-04-17, https://www.livescience.com/28814-teen-breakups-a-mystery.html, 2026-10-27 접속
 [^3]: [학술] "Roughly two-thirds of both men and women cited one or more of the three most prevalent reasons: grew apart, arguments, and unfaithfulness/adultery" (남녀 모두 약 3분의 2가 가장 흔한 세 이유인 멀어짐, 다툼, 외도 가운데 하나 이상을 꼽았다) — Kirsten Gravningen, Kirstin R Mitchell 외, "Reported reasons for breakdown of marriage and cohabitation in Britain: Findings from the third National Survey of Sexual Attitudes and Lifestyles (Natsal-3)", PLoS ONE, 2017-03-23, https://pmc.ncbi.nlm.nih.gov/articles/PMC5363851/, 2026-10-25 접속
 [^4]: [SNS] "잦은싸움에 같은이유로 항상 부딪히고 헤어지고 만나고를 반복하는게 너무 지치고 힘들고 더이상 감당할수 없어서 서로 밑바닥까지 보여가며 막장으로 싸우고 차여서 헤어졌지만" — 네이트판 게시글, 2018-02-12, https://pann.nate.com/talk/340824530, 2026-10-25 접속
-[^5]: [매체] "‘In cases where the relationship ended, it was either because the phone owner felt their trust was betrayed, or the relationship was also experiencing difficulties,’" (관계가 끝난 경우는 휴대전화 주인이 신뢰를 배신당했다고 느꼈거나 관계가 이미 어려움을 겪고 있었기 때문이었다.) — Rosie Mullender, "Is snooping on your partner's phone ever okay?", Marie Claire UK, 2019-11-02, https://www.marieclaire.co.uk/life/snooping-670110, 2026-10-26 접속
+[^5]: [매체] "avoidant attachers are more likely to instigate a breakup or engage in monkey branching, as they typically prefer to keep relationships on a surface level and avoid confrontations with their partners." (회피 애착인 사람은 대개 관계를 얕게 유지하고 상대와 맞부딪치기를 피하려 하므로 이별을 먼저 꺼내거나 다음 상대로 갈아탈 가능성이 더 높다.) — The Attachment Project, 「Attachment Style and Breakup - The Complete Guide」, 2022-07-05, https://www.attachmentproject.com/attachment-style-and-breakup, 2026-11-13 접속
+[^6]: [매체] "‘In cases where the relationship ended, it was either because the phone owner felt their trust was betrayed, or the relationship was also experiencing difficulties,’" (관계가 끝난 경우는 휴대전화 주인이 신뢰를 배신당했다고 느꼈거나 관계가 이미 어려움을 겪고 있었기 때문이었다.) — Rosie Mullender, "Is snooping on your partner's phone ever okay?", Marie Claire UK, 2019-11-02, https://www.marieclaire.co.uk/life/snooping-670110, 2026-10-26 접속
