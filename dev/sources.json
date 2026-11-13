@@ -14656,9 +14656,9 @@
   },
   "https://kormedi.com/1610925/": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-13"
   },
   "https://vrbib.rutgers.edu/full-record?entry=5410": {
     "first": "2026-10-30",
@@ -26552,6 +26552,12 @@
     "lastVerified": "2026-11-13"
   },
   "https://www.khan.co.kr/article/201701290925001": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://ideas.repec.org/p/ctl/louvir/1999022.html": {
     "first": "2026-11-13",
     "last": "2026-11-13",
     "result": "VERIFIED",

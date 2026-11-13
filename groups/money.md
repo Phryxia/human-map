@@ -10,6 +10,7 @@
 - [가난 수치심](../docs/poverty-shame.md) 가난한 사람이 남이 자기 형편을 보는 자리에서 부끄러움을 느낀다.
   - [푸드뱅크 이용 수치심](../docs/food-bank-shame.md)
 - [가진 것 과시하기](../docs/showing-off-possessions.md) 남의 눈을 의식하는 사람이 자기가 가진 물건, 돈, 지위를 다른 사람이 보도록 일부러 드러낸다.
+  - [잔치를 크게 벌여 지위 드러내기](../docs/lavish-celebrations-for-status.md)
 - [값 흥정](../docs/haggling.md) 물건값이나 삯을 두고 사는 사람과 파는 사람이 값을 깎거나 지키려고 말을 주고받는다.
 - [계산 피하기](../docs/dodging-the-bill.md) 여럿이 먹고 계산할 때가 되면 신발끈을 묶거나 화장실에 가거나 지갑을 두고 와서 다른 사람이 계산하게 둔다.
 - [고치지 않고 새로 사기](../docs/replacing-instead-of-repairing.md) 가전 같은 물건이 고장 난 사람이 고칠 수 있는데도 수리비가 비싸거나 수리를 맡기기 번거로워 고치지 않고 새것을 산다.

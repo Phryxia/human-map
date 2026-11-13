@@ -22,7 +22,7 @@
 
 ## 하위
 
-없음.
+- [잔치를 크게 벌여 지위 드러내기](lavish-celebrations-for-status.md)
 
 ## 원인
 
