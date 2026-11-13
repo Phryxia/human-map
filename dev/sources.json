@@ -26232,5 +26232,29 @@
     "last": "2026-11-13",
     "result": "VERIFIED",
     "lastVerified": "2026-11-13"
+  },
+  "https://www.gutenberg.org/cache/epub/2160/pg2160.txt": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2206048/": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7222305/": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://www.hse.gov.uk/humanfactors/topics/shift-workers.htm": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
   }
 }
