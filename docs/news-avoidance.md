@@ -32,7 +32,7 @@
 
 ## 원인
 
-없음.
+- [정보에 압도되기](feeling-overwhelmed-by-information.md)[^6]
 
 ## 결과
 

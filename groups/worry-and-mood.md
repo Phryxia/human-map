@@ -74,6 +74,7 @@
 - [잠자리에서 시계 보기](../docs/clock-watching-in-bed.md) 잠들지 못하고 누워 있는 사람이 시계를 자꾸 보며 몇 시인지와 남은 잠 시간을 확인한다.
 - [점과 운세 보기](../docs/consulting-fortune-tellers.md) 앞날을 알고 싶은 사람이 점쟁이를 찾아가거나 별자리 운세, 타로, 사주를 본다.
   - [꽃잎 뜯으며 사랑 점치기](../docs/petal-plucking-love-divination.md)
+- [정보에 압도되기](../docs/feeling-overwhelmed-by-information.md) 쏟아지는 뉴스와 정보를 접하는 사람이 그 양에 짓눌려 감당하기 어렵다고 느낀다.
 - [주머니 두드려 소지품 확인하기](../docs/pocket-patting.md) 외출하거나 길을 가는 사람이 주머니를 손으로 두드리거나 더듬어 지갑, 휴대폰, 집 열쇠 같은 소지품이 있는지 확인한다.
 - [죽음 이야기 피하기](../docs/avoiding-death-talk.md) 사람이 자기 죽음이나 생애 말기에 관해 생각하거나 가족과 이야기하기를 피한다.
 - [즐거운 일을 기다리는 즐거움](../docs/pleasure-of-anticipation.md) 즐거운 일을 앞둔 사람이 그 일이 오기 전 기다리는 동안 이미 들뜨고 즐거워한다.

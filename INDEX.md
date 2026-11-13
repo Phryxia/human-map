@@ -605,6 +605,7 @@
 - [점과 운세 보기](docs/consulting-fortune-tellers.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [점심 휴식 거르고 일하기](docs/skipping-lunch-break.md) ([일터와 일자리](groups/work.md))
 - [점잔 빼는 헛기침](docs/clearing-throat-to-show-dignity.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [정보에 압도되기](docs/feeling-overwhelmed-by-information.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [정상 집착](docs/summit-fever.md) ([건강과 위험](groups/health-and-safety.md))
 - [정전 때 발전기와 숯 그릴을 실내 가까이 쓰기](docs/indoor-generator-and-grill-use.md) ([건강과 위험](groups/health-and-safety.md))
 - [정차 중 공회전](docs/engine-idling.md) ([길과 운전](groups/roads-and-driving.md))
