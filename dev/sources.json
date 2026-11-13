@@ -6320,27 +6320,27 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2267650/": {
     "first": "2026-10-21",
-    "last": "2026-11-12",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-13"
   },
   "https://news.gallup.com/poll/116131/Worry-Money-Peaks-Forty-Somethings.aspx": {
     "first": "2026-10-21",
-    "last": "2026-11-12",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-13"
   },
   "https://sleepfoundation.org/sleep-news/77-percent-lose-sleep-to-financial-worries": {
     "first": "2026-10-21",
-    "last": "2026-11-12",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-13"
   },
   "https://theintermediary.co.uk/2025/12/five-million-young-adults-avoid-checking-bills-due-to-money-anxiety-study-finds/": {
     "first": "2026-10-21",
-    "last": "2026-11-12",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-13"
   },
   "https://www.info.gov.hk/gia/general/201407/10/P201407100694.htm": {
     "first": "2026-10-21",
@@ -12301,9 +12301,9 @@
   },
   "https://www.gutenberg.org/cache/epub/4200/pg4200-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-12",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-13"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11705526/fullTextXML": {
     "first": "2026-10-28",
@@ -15022,9 +15022,9 @@
   },
   "https://forums.moneysavingexpert.com/discussion/4847617/mortgage-problem-with-possible-redundancy": {
     "first": "2026-10-31",
-    "last": "2026-11-12",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-13"
   },
   "https://www.korea.kr/briefing/pressReleaseView.do?newsId=155282894": {
     "first": "2026-10-31",
@@ -25948,7 +25948,8 @@
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13043641/": {
     "first": "2026-11-13",
     "last": "2026-11-13",
-    "result": "UNREACHABLE"
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
   },
   "https://www.gutenberg.org/cache/epub/21196/pg21196-images.html": {
     "first": "2026-11-13",
@@ -26155,6 +26156,12 @@
     "lastVerified": "2026-11-13"
   },
   "https://www.math.ucdavis.edu/~saito/data/science-news/original%20CD/software/SNData/10776": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://www.mt.co.kr/article/2007112813412611216": {
     "first": "2026-11-13",
     "last": "2026-11-13",
     "result": "VERIFIED",
