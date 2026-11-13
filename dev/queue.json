@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-13T09:35:00.569Z",
-  "nextSeq": 4861,
-  "stops": 256,
+  "savedAt": "2026-11-13T12:38:22.287Z",
+  "nextSeq": 4873,
+  "stops": 257,
   "items": [
     {
       "id": "09067f84",
@@ -1091,6 +1091,54 @@
       "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr 20181205006001 조건 후보. faac 같은 글 시간 절약 과대 어림 후보",
       "createdAt": "2026-11-13T09:34:51.511Z",
       "seq": 4860
+    },
+    {
+      "id": "b937a4a6",
+      "title": "writing-a-crushs-name 관계: unrequited-love, doodling, writing-on-fogged-glass",
+      "priority": 30,
+      "note": "2026-11-13 문서 작성 시 관계 미정. 후보: umich deepblue Erickson 2017 박사논문(PDF) 'They doodled the celebrities’ names in their notebooks' 유명인 대상 낙서, gutenberg 768 Wuthering Heights 3장 Catherine Earnshaw/Heathcliff/Linton 이름 되풀이 쓰기(768 은 이미 4개 문서라 못 씀), gutenberg 1523 As You Like It 3막 2장 나무에 이름 새기기(carving-names-at-visited-places 에 사용)",
+      "createdAt": "2026-11-13T12:11:42.390Z",
+      "seq": 4867
+    },
+    {
+      "id": "f1c53706",
+      "title": "eating-poisonous-plants-as-wild-greens 와 eating-foraged-wild-mushrooms 관계, 원인 간선",
+      "priority": 30,
+      "note": "2026-11-13 문서 작성 시 관계 미정. 두 문서의 공통 상위(야생 먹거리 직접 채취해 먹기) 후보. 남은 후보: ekjm.org/journal/view.php?number=15851 (2006) 박새를 산마늘로 오인한 일가족 5예, extension.oregonstate.edu poison-hemlock (2018-06) 'roots of poison hemlock have been mistaken for wild parsnips', 서울신문 2021 같은 기사 '이른 봄 잎이나 꽃이 나기 전 뿌리만 보고 구별하기 쉽지 않기 때문', asiae 2020 같은 기사 'relying on materials such as photos is even more dangerous'",
+      "createdAt": "2026-11-13T12:17:16.589Z",
+      "seq": 4868
+    },
+    {
+      "id": "1cbfe3c5",
+      "title": "pacing-the-room 과 walking-to-think 관계, 불안과 원인 간선",
+      "priority": 30,
+      "note": "2026-11-13 문서 작성 시 관계 미정. walking-to-think 요약이 '밖으로 나가 걷는다' 라 상위로 두지 않음. 후보: mentalfloss.com/article/64404 같은 글 'Pacing may be a subconscious way of coping with anxiety' (저자 설명, 인과 표지), physicsforums 318430 같은 글 'It feels like I can think more clearly when doing this.', journals.plos.org pone.0347878 (2026-05-13) 실내외 걷기 효과 차이 없음, gutenberg 2600 War and Peace 5권 2장 Pierre 'paced up and down the room, pondering over his vicious past'(2600 은 이미 4개 문서), gutenberg 145 Middlemarch 75장(145 도 4개 문서)",
+      "createdAt": "2026-11-13T12:20:30.330Z",
+      "seq": 4869
+    },
+    {
+      "id": "d52d8dc5",
+      "title": "feeding-wildlife 와 feeding-pigeons, feeding-stray-cats, risky-selfies 관계",
+      "priority": 30,
+      "note": "2026-11-13 문서 작성 시 관계 미정. 공통 상위(동물에게 먹이 주기) 후보. 원인 후보: link.springer.com s10764-020-00148-5 (2020-04-20) 'People were driven to feed macaques by the desire to observe them closely, concern over decreasing food resources', PMC4494361 (Dubois & Fraser 2013) 'The perception that feeding benefits and assists wild animals motivates others', researchmatters.in (2018-03-16) '62% claimed that they fed the macaques because they either felt sorry for them or were frightened', nps.gov/articles/000/idkt_feedingwildlife.htm (2024-12-23) 귀여워서 길들여졌다고 여김, csmonitor 1998 같은 기사 'Getting too close to take a photo was the major problem.'(risky-selfies 후보)",
+      "createdAt": "2026-11-13T12:24:57.832Z",
+      "seq": 4870
+    },
+    {
+      "id": "1f24a60c",
+      "title": "glancing-at-a-crush 와 blushing, unrequited-love, hoping-to-run-into-a-crush 관계",
+      "priority": 30,
+      "note": "2026-11-13 문서 작성 시 관계 미정. 후보: insight.co.kr/news/472869 같은 기사 '그 사람과 눈이라도 마주칠 때면 얼굴이 새빨갛게 달아올라'(blushing 결과 후보), gqkorea 2026-06-27 '눈이 마주쳤을 때 괜히 웃거나 급하게 시선을 돌리는 행동', gutenberg 1611 Seventeen 2장 'his agitation was ruinous and must be perceptible', gutenberg 155 Moonstone 1기 10장 'stealing looks at Mr. Franklin'(155 는 3개 문서), PubMed 38379110 Hoffmann 2024 스피드 데이트 눈맞춤과 선택, frontiersin fpsyg.2019.01262 눈맞춤 각성",
+      "createdAt": "2026-11-13T12:34:37.580Z",
+      "seq": 4871
+    },
+    {
+      "id": "00c566a0",
+      "title": "descending-after-dark 와 summit-fever 원인 간선, 학술 파편",
+      "priority": 30,
+      "note": "2026-11-13 문서 작성 시 관계 미정. summit-fever 2026 기사(구조대원: 내려오는 시간을 적게 잡는다)가 늦은 하산의 원인을 말하는지 확인. 후보: wmrt.org.uk/?p=21938 같은 글 'Overestimating personal pace and capability', nps.gov/zion/blogs/late-start-for-the-subway.htm (2016-05-14) 늦은 출발로 협곡에서 밤샘, korea.kr 148934755 (2024-10-07 소방청) '일찍 산행을 시작하고 해지기 전 하산', PubMed 19737043 'Dead men walking' (미확인). 학술 파편 없음",
+      "createdAt": "2026-11-13T12:38:13.831Z",
+      "seq": 4872
     },
     {
       "id": "9634edf0",
