@@ -67,6 +67,7 @@
 - [유족의 장기기증 거부](../docs/families-refusing-organ-donation.md) 가족이 뇌사에 빠지거나 세상을 떠난 사람이 고인의 장기 기증에 동의하지 않는다.
 - [의무 해제 뒤에도 마스크 쓰기](../docs/keeping-mask-after-mandate.md) 마스크 착용 의무가 풀린 뒤에도 사람이 습관이나 불편한 느낌 때문에 마스크를 계속 쓴다.
 - [의사에게 증상과 습관 줄여 말하기](../docs/withholding-information-from-doctors.md) 진료받는 사람이 의사에게 증상이나 음주 같은 생활습관을 줄여 말하거나 숨긴다.
+- [이명](../docs/tinnitus.md) 바깥에 소리가 없는데도 사람이 귀나 머릿속에서 울리거나 윙윙거리는 소리를 듣는다.
 - [일부러 피부 태우기](../docs/intentional-tanning.md) 피부를 그을린 모습으로 만들고 싶은 사람이 햇볕이나 태닝 기계 아래에서 일부러 피부를 태운다.
 - [자거나 외출하며 세탁기와 건조기 돌려 두기](../docs/leaving-appliances-running-unattended.md) 잠자리에 들거나 집을 나서는 사람이 세탁기, 건조기, 식기세척기를 돌려 둔 채 둔다.
 - [자기 전 양치 거르기](../docs/skipping-bedtime-toothbrushing.md) 밤에 잠자리에 드는 사람이 피곤하거나 귀찮아서 이를 닦지 않고 잔다.
