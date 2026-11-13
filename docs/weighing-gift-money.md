@@ -34,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [청첩장 받는 부담](wedding-invitation-burden.md)
 
 ## 대립
 
