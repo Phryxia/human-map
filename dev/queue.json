@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-12T21:41:14.991Z",
-  "nextSeq": 4752,
-  "stops": 252,
+  "savedAt": "2026-11-13T00:42:15.434Z",
+  "nextSeq": 4766,
+  "stops": 253,
   "items": [
     {
       "id": "64f26df2",
@@ -27,6 +27,54 @@
       "note": "2026-11-12 PMC3988242 (2014), GQ Korea ?p=335353 (2025-08-16) 로 추가. 후보: elle.co.kr/article/84299 (2024-02-19) 는 로그인 벽 문구가 있어 피함. gqkorea 2026-04-17 ?p=372115 '갈등 상황을 해결하려 하지 않고 회피로 일관하다 돌연 이별을 통보' 는 breaking-up 결과 간선 후보. Hazan & Shaver 1987 원문 후보",
       "createdAt": "2026-11-12T21:20:26.468Z",
       "seq": 4740
+    },
+    {
+      "id": "748f1d03",
+      "title": "keeping-household-accounts 보강: 원인·결과 간선, 다른 Pepys 날짜",
+      "priority": 50,
+      "note": "2026-11-13 추가. Pepys 1664-12-31 연말 결산 밤 12시 넘김, 1666-12-31 지난해와 견줌. 서울신문 1993-01-07 정초 다짐은 making-new-years-resolutions 관계 후보(인과 표지 없음). 세계일보 2014 비작성 이유 귀찮다 58%. PMC13043641 은 봇 확인으로 미확인, 같은 글 '복잡함, 시간 부족' 이유. PMC12710084 질병 지출 스프레드시트 기록",
+      "createdAt": "2026-11-13T00:12:59.613Z",
+      "seq": 4759
+    },
+    {
+      "id": "424c6200",
+      "title": "risky-selfies 보강: 원인 간선, 학술 파편 재확인",
+      "priority": 50,
+      "note": "2026-11-13 추가. PMC10568398 봇 확인 403 으로 미확인. 같은 글 'instafame' 대목은 소셜 미디어 보상 원인 후보. UNSW 2023-03-06 혼자, 구조 어려운 곳. NSW NPWS 'tunnel vision'. Network Rail 2021 '친구 앞 과시' 는 showing-off 원인 후보. Al Jazeera 2015-07-07 러시아 100명 부상",
+      "createdAt": "2026-11-13T00:22:41.769Z",
+      "seq": 4761
+    },
+    {
+      "id": "f57a797c",
+      "title": "buying-books-without-reading 보강: 관계, 다른 대목",
+      "priority": 50,
+      "note": "2026-11-13 추가. Morley 1919 Gutenberg 172 '읽지 못한 채 죽을 책 수천 권', Disraeli 1791 Gutenberg 21615 Bibliomania 별칭 후보, languagehat 2008-02-07 사 들인 책이 곁에 있는 황홀, Seneca Gutenberg 64576. not-reading-books, difficulty-discarding 관계 후보",
+      "createdAt": "2026-11-13T00:31:55.729Z",
+      "seq": 4762
+    },
+    {
+      "id": "f08f9fbf",
+      "title": "first-paycheck-gift-to-parents 보강: 공공·학술·문학 파편",
+      "priority": 50,
+      "note": "2026-11-13 매체 4, SNS 1 로 추가. 공공 설문 없음. bizforms 매거진 articles/8281 '58.4% 첫 월급 부모님께' 는 열어 보지 않음. ko.wikisource 에 '첫 월급' 문학 없음",
+      "createdAt": "2026-11-13T00:35:20.692Z",
+      "seq": 4763
+    },
+    {
+      "id": "0ddf25ae",
+      "title": "watching-new-years-first-sunrise 보강: 문학·SNS·2000년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-13 공공 1, 매체 2 로 추가. 아오조라 初日の出 대목 미확인, 石井研堂 元日の釣 후보. 뉴시스 NISX20221230_0002142498 (354개 명소 126만 명 예상), 서울신문 2022-12-30 미열람. making-new-years-resolutions 관계 후보",
+      "createdAt": "2026-11-13T00:37:19.429Z",
+      "seq": 4764
+    },
+    {
+      "id": "89dc2742",
+      "title": "attraction-outside-relationship 보강: 한국어 SNS·공공 파편",
+      "priority": 50,
+      "note": "2026-11-13 Chopin 1899 추가. 같은 책 'under the spell of her infatuation' 잊으려 해도 떠오름. Anna Karenina Gutenberg 1399 는 이미 4개 문서가 써서 피함('to avoid meeting him')",
+      "createdAt": "2026-11-13T00:41:56.305Z",
+      "seq": 4765
     },
     {
       "id": "1ce6b018",
@@ -179,6 +227,14 @@
       "note": "2026-11-12 Kim 2012 symb.21 초록은 api.crossref.org/works/10.1002/symb.21 에서 열림. 'The reasons nonsocial transient behavior emerges ... uncertainty about strangers, lack of privacy or absence of a personal space, and exhaustion' 는 거리 두기 일반이고 가방을 말하지 않음. 이전: PMC·MDPI·Frontiers 없음, SAGE Dibs! 403, Rüger 2026 해당 없음",
       "createdAt": "2026-11-12T21:16:36.252Z",
       "seq": 4736
+    },
+    {
+      "id": "444fe8c8",
+      "title": "feeling-of-nothing-to-wear 관계: impulse-buying, trying-on-outfits-before-going-out",
+      "priority": 40,
+      "note": "2026-11-13 추가. FashionUnited 2026-03-10 '입을 게 없다 느낌이 새 구매로 이어진다(triggers)' 는 새 옷 구매 결과 간선 근거 후보이나 충동구매라 부르지 않음. YTN 2018-11-10 '옷이 없는 게 아니라 옷을 못 찾는 거' , straightdope 767795 2016 어울림 따지지 않고 산 결과. 지혜경 2019 복식 69(1) 초록 버리지 못한 옷",
+      "createdAt": "2026-11-13T00:19:11.566Z",
+      "seq": 4760
     },
     {
       "id": "022dfb2f",
