@@ -682,6 +682,7 @@
 - [첫눈 반기기](docs/welcoming-first-snow.md) ([시간과 하루 습관](groups/daily-time.md))
 - [첫눈에 반함](docs/love-at-first-sight.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [첫인상으로 사람 판단하기](docs/judging-by-first-impressions.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [청력 도움 요청 미루기](docs/delaying-hearing-help.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [청력 보호구 미착용](docs/hearing-protection-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [청력 손실 숨기기](docs/hiding-hearing-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [청첩장 받는 부담](docs/wedding-invitation-burden.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))

@@ -40,6 +40,7 @@
   - [진료 회피](../docs/medical-care-avoidance.md)
     - [건강검진 이상 소견 뒤 재검 미루기](../docs/skipping-follow-up-after-abnormal-screening.md)
     - [심장 증상에도 도움 청하기 미루기](../docs/delaying-help-for-heart-symptoms.md)
+    - [청력 도움 요청 미루기](../docs/delaying-hearing-help.md)
     - [치과 공포](../docs/dental-anxiety.md)
 - [날씨 타기](../docs/weather-mood-reactivity.md) 날씨가 바뀌면 사람의 기분이 그 날씨에 따라 밝아지거나 가라앉는다.
   - [비 오는 날의 울적함](../docs/rainy-day-gloom.md)
