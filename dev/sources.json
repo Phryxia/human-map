@@ -2428,27 +2428,27 @@
   },
   "https://ko.wikisource.org/wiki/%EB%B0%B0%EB%94%B0%EB%9D%BC%EA%B8%B0": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-13"
   },
   "https://wrap.warwick.ac.uk/65972": {
     "first": "2026-10-18",
-    "last": "2026-10-29",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-13"
   },
   "https://researchportalplus.anu.edu.au/en/publications/general-and-sleep-specific-worry-in-insomnia/": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-13"
   },
   "https://www.nhlbi.nih.gov/health/insomnia/causes": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-13"
   },
   "https://trid.trb.org/View/902986": {
     "first": "2026-10-18",
@@ -2590,7 +2590,7 @@
   },
   "https://doctornow.co.kr/content/qna/17e6718a5ed4427eac3e17cd1522fd61": {
     "first": "2026-10-18",
-    "last": "2026-10-28",
+    "last": "2026-11-13",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-27"
   },
@@ -2638,9 +2638,9 @@
   },
   "https://kormedi.com/2779574/": {
     "first": "2026-10-18",
-    "last": "2026-10-29",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-13"
   },
   "https://verdi.cs.ucl.ac.uk/constructDB/publications/ellen-role-1991.html": {
     "first": "2026-10-18",
@@ -4305,33 +4305,33 @@
   },
   "https://par.nsf.gov/biblio/10199879": {
     "first": "2026-10-19",
-    "last": "2026-10-24",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-13"
   },
   "https://www.newsweek.com/science-evening-ritual-cut-stress-unless-workaholic-2128888": {
     "first": "2026-10-19",
-    "last": "2026-10-24",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-13"
   },
   "https://brunch.co.kr/@bhy2078/40": {
     "first": "2026-10-19",
-    "last": "2026-10-24",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-13"
   },
   "https://www.plansponsor.com/workers-need-an-intervention/": {
     "first": "2026-10-19",
-    "last": "2026-10-24",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-10-21"
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
   },
   "https://m.dailian.co.kr/news/view/437070": {
     "first": "2026-10-19",
-    "last": "2026-10-28",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-13"
   },
   "https://www.segye.com/newsView/20260824515111": {
     "first": "2026-10-19",
@@ -11546,9 +11546,9 @@
   },
   "https://www.saatva.com/blog/does-counting-sheep-work/": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-13"
   },
   "https://www.seoul.co.kr/news/2000/03/15/20000315026001": {
     "first": "2026-10-27",
@@ -11900,9 +11900,9 @@
   },
   "https://www.cordis.europa.eu/article/id/436489-why-do-embarrassing-memories-seem-to-surface-at-night": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-13"
   },
   "https://www.aol.com/news/french-exit-christmas-party-season-060000286.html": {
     "first": "2026-10-27",
@@ -12739,9 +12739,9 @@
   },
   "https://www.gutenberg.org/cache/epub/599/pg599-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-12",
+    "last": "2026-11-13",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-13"
   },
   "https://www.gutenberg.org/cache/epub/155/pg155-images.html": {
     "first": "2026-10-28",
@@ -26570,6 +26570,12 @@
     "lastVerified": "2026-11-13"
   },
   "https://www.safetyandhealthmagazine.com/articles/26637-employers-weigh-in-on-why-workers-wont-wear-ppe": {
+    "first": "2026-11-13",
+    "last": "2026-11-13",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-13"
+  },
+  "https://sleepreviewmag.com/curated/is-work-ruining-sleep-habits-nearly-half-americans-stay-up-at-night-worrying-about-careers-study-claims/": {
     "first": "2026-11-13",
     "last": "2026-11-13",
     "result": "VERIFIED",
