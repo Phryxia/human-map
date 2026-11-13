@@ -35,6 +35,7 @@
 ## 결과
 
 - [연애 질투](romantic-jealousy.md)[^5]
+- [연인의 휴대폰 몰래 보기](snooping-on-partners-phone.md)
 
 ## 대립
 
