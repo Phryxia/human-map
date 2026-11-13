@@ -56,6 +56,7 @@
 - [야식 먹기](../docs/late-night-eating.md) 저녁 식사를 마친 사람이 잠들기 전 밤늦은 시간에 다시 음식을 먹는다.
 - [언 물 위에 들어가기](../docs/walking-on-frozen-water.md) 겨울에 사람들이 얼어붙은 강, 저수지, 호수, 연못의 얼음 위를 걷거나 그 위에서 낚시하고 논다.
 - [에어컨이 있어도 켜지 않기](../docs/not-using-air-conditioner.md) 작동하는 에어컨이 있는 사람이 더운 날에도 찬 바람이 싫거나 덥지 않다고 여겨 에어컨을 켜지 않는다.
+- [위험한 곳에서 셀카 찍기](../docs/risky-selfies.md) 사진을 찍는 사람이 선로, 절벽 끝, 야생동물 곁 같은 위험한 자리에 들어가 자기 사진을 찍는다.
 - [유족의 장기기증 거부](../docs/families-refusing-organ-donation.md) 가족이 뇌사에 빠지거나 세상을 떠난 사람이 고인의 장기 기증에 동의하지 않는다.
 - [의무 해제 뒤에도 마스크 쓰기](../docs/keeping-mask-after-mandate.md) 마스크 착용 의무가 풀린 뒤에도 사람이 습관이나 불편한 느낌 때문에 마스크를 계속 쓴다.
 - [의사에게 증상과 습관 줄여 말하기](../docs/withholding-information-from-doctors.md) 진료받는 사람이 의사에게 증상이나 음주 같은 생활습관을 줄여 말하거나 숨긴다.
