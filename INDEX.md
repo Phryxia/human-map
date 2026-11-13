@@ -620,6 +620,7 @@
 - [종이 영수증 바로 버리기](docs/discarding-paper-receipts.md) ([돈과 소비](groups/money.md))
 - [좋게 보이는 행동 부풀려 답하기](docs/overreporting-desirable-behavior.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [좋아하는 사람을 마주치려고 기다리기](docs/hoping-to-run-into-a-crush.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [좋아하는 사람의 이름 되풀이해 쓰기](docs/writing-a-crushs-name.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋아하는 책 다시 읽기](docs/rereading-favorite-books.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [좋은 물건 아껴 두기](docs/saving-things-for-best.md) ([돈과 소비](groups/money.md))
