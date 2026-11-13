@@ -670,6 +670,7 @@
 - [첫인상으로 사람 판단하기](docs/judging-by-first-impressions.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [청력 보호구 미착용](docs/hearing-protection-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [청력 손실 숨기기](docs/hiding-hearing-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [청첩장 받는 부담](docs/wedding-invitation-burden.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [촛불 켜 둔 채 자리 비우기](docs/leaving-candles-unattended.md) ([건강과 위험](groups/health-and-safety.md))
 - [추억이 담긴 물건 간직하기](docs/keeping-keepsakes.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [추운 아침 이불 속에 머물기](docs/lingering-in-bed-on-cold-mornings.md) ([시간과 하루 습관](groups/daily-time.md))
