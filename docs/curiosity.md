@@ -12,6 +12,8 @@
 
 2015년 Kidd 와 Hayden 의 논문[^2]은 Loewenstein 의 정보 공백 이론이 호기심을 배고픔처럼 행동을 이끄는 다른 욕구 상태와 같이 작동한다고 본다고 적었다.
 
+2019년 The Jakarta Post 기사[^3]에서 연구진은 받아들일 생각이 없는 좋은 일자리 제안이라도 그것을 받았는지 알고 싶어 하는 마음을 예로 들었다.
+
 # 관계
 
 ## 상위
@@ -39,3 +41,4 @@
 
 [^1]: [문학] "it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it" (조끼 주머니가 있거나 거기서 꺼낼 시계를 가진 토끼를 전에 본 적이 없다는 생각이 머리를 스쳤고 그녀는 호기심에 불타 토끼를 쫓아 들판을 가로질러 달렸다) — Lewis Carroll, Alice's Adventures in Wonderland, 1865, https://www.gutenberg.org/cache/epub/11/pg11.txt, 2026-11-14 접속
 [^2]: [학술] "Lowenstein’s information gap theory holds that curiosity functions like other drive states, such as hunger, which motivates eating." (Lowenstein 의 정보 공백 이론은 호기심이 먹기를 이끄는 배고픔 같은 다른 욕구 상태처럼 작동한다고 본다.) — Celeste Kidd, Benjamin Y Hayden, "The psychology and neuroscience of curiosity", Neuron, 2015-11-04, https://pmc.ncbi.nlm.nih.gov/articles/PMC4635443/, 2026-11-14 접속
+[^3]: [매체] "which the researchers claim is similar to “wanting to know whether we received a great job offer, even if we have no intention of taking it”" (연구진은 이것이 “받아들일 생각이 전혀 없어도 좋은 일자리 제안을 받았는지 알고 싶어 하는 것”과 비슷하다고 말한다) — The Jakarta Post, "Information triggers the pleasure centers in your brain", 2019-06-21, https://www.thejakartapost.com/life/2019/06/21/information-triggers-the-pleasure-centers-in-your-brain.html, 2026-11-14 접속
