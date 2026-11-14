@@ -12,7 +12,11 @@
 
 2017년 미국 국립노화연구소 글[^2]은 나이 들어 가는 사람 다수가 자기 집에 머물고 되도록 오래 독립을 지키며 필요할 때 가족과 친구에게 도움을 청하기를 바란다고 적었다.
 
-2019년 연구[^3]의 참가자들에게 집에 남는 일은 독립과 자유, 자기 가치와 정체성, 편안함, 지역사회 안에서 이어지는 역할을 주었다.
+2018년 기사[^3]가 전한 2017년 한국 노인실태조사에서 노인 88.6%는 건강할 때 지금 집에서 살기를 원했다. 57.6%는 거동이 불편해져도 재가서비스를 받으며 지금 집에 머물기를 바랐고 노인요양시설을 바란 비율은 31.9%였다.
+
+2019년 연구[^4]의 참가자들에게 집에 남는 일은 독립과 자유, 자기 가치와 정체성, 편안함, 지역사회 안에서 이어지는 역할을 주었다.
+
+2026년 기사[^5]가 전한 2023년 조사 분석에서 건강이 나빠져도 살던 곳에 살기를 바란 응답은 평균 47.2%였다. 받지 못한 돌봄이 있는 집단은 53.1%로 그렇지 않은 집단의 40.1%보다 높았다.
 
 # 관계
 
@@ -40,4 +44,6 @@
 
 [^1]: [SNS] "He has never agreed to an alternative living arrangement. He wants to live at home." (그는 다른 거처로 옮기는 데 한 번도 동의한 적이 없다. 집에서 살고 싶어 한다.) — Straight Dope Message Board 댓글, 2009-04, https://boards.straightdope.com/t/how-to-get-an-elderly-parent-out-of-the-house/492301, 2026-11-14 접속
 [^2]: [공공] "Many people want the same things as they get older: to stay in their own homes, to maintain independence for as long as possible, and to turn to family and friends for help when needed." (많은 사람이 나이 들며 같은 것을 바란다. 자기 집에 머물고, 되도록 오래 독립을 지키고, 필요할 때 가족과 친구에게 도움을 청하는 것이다.) — National Institute on Aging, "Aging in Place: Growing Older at Home", 2017-05-17, https://www.nia.nih.gov/health/aging-place/aging-place-growing-older-home, 2026-11-14 접속
-[^3]: [학술] "For the participants in this study remaining at home enabled a sense of independence and freedom, self-worth and identity, comfort, and an ongoing active role in the community." (이 연구의 참가자들에게 집에 남는 일은 독립과 자유, 자기 가치와 정체성, 편안함, 지역사회에서 이어지는 적극적 역할을 가능하게 했다.) — Deborah Hatcher, Esther Chang, Virginia Schmied, Sandra Garrido 외, "Exploring the Perspectives of Older People on the Concept of Home", Journal of Aging Research, 2019-06-18, https://pmc.ncbi.nlm.nih.gov/articles/PMC6604296/, 2026-11-14 접속
+[^3]: [매체] "그럼에도 88.6%는 건강할 때 현재 집에서 살기를 원했고 57.6%는 거동이 불편해져도 재가서비스를 받으며 현재 집에서 머물기를 희망했다. 돌봄, 식사, 생활서비스가 제공되는 노인요양시설 거주를 희망한 비율은 31.9%였다." — 임재희, "[노인실태조사]노인 5명중 1명 80세이상…30%가 아직 일해", 뉴시스, 2018-05-24, https://www.newsis.com/view/NISX20180524_0000316974, 2026-11-14 접속
+[^4]: [학술] "For the participants in this study remaining at home enabled a sense of independence and freedom, self-worth and identity, comfort, and an ongoing active role in the community." (이 연구의 참가자들에게 집에 남는 일은 독립과 자유, 자기 가치와 정체성, 편안함, 지역사회에서 이어지는 적극적 역할을 가능하게 했다.) — Deborah Hatcher, Esther Chang, Virginia Schmied, Sandra Garrido 외, "Exploring the Perspectives of Older People on the Concept of Home", Journal of Aging Research, 2019-06-18, https://pmc.ncbi.nlm.nih.gov/articles/PMC6604296/, 2026-11-14 접속
+[^5]: [매체] "건강이 악화됐을 경우에도 살던 곳에서 거주를 희망한다는 응답은 전체 평균 47.2%였는데 미충족 돌봄이 있는 집단이 53.1%로, 미충족 돌봄이 없는 집단(40.1%)보다 높게 나타났다." — 구무서, "\"아프면 요양원 가야지\"의 숨은 본심…돌봄 부족해도 집 선호", 뉴시스, 2026-07-05, https://www.newsis.com/view/NISX20260703_0003695258, 2026-11-14 접속
