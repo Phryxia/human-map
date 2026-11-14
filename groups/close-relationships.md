@@ -43,6 +43,7 @@
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
 - [목이 메어 말을 잇지 못하기](../docs/choking-up-mid-speech.md) 감정이 북받친 사람이 말을 하다가 목이 메어 목소리가 갈라지거나 말을 잇지 못한다.
 - [못 들은 척하기](../docs/pretending-not-to-hear.md) 부탁이나 질문, 핀잔을 들은 사람이 그것에 응하지 않으려고 듣지 못한 체한다.
+- [물려받은 옷 싫어하기](../docs/disliking-hand-me-downs.md) 손위 형제나 남이 입던 옷을 물려받아 입는 아이가 그 옷을 싫어하거나 원래 주인과 다른 아이들 앞에서 드러날까 봐 부끄러워한다.
 - [벅찬 감정에 압도되기](../docs/overwhelmed-by-positive-emotion.md) 아주 귀엽거나 기쁜 것을 마주한 사람이 감당하기 어려울 만큼 강한 긍정 감정에 휩싸인다.
 - [벌이 없는 식구의 미안함](../docs/dependent-family-member-guilt.md) 벌이가 없어 가족의 살림에 기대는 사람이 그 가족에게 미안해하며 하고 싶은 말이나 부탁을 삼간다.
 - [복수심](../docs/desire-for-revenge.md) 남에게 해를 입거나 모욕당한 사람이 상대에게 같은 고통을 되갚아 주고 싶어 한다.
