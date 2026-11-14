@@ -554,6 +554,7 @@
 - [인기척 내려고 헛기침하기](docs/clearing-throat-to-announce-presence.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [인사 안 받는 이웃에게 아는 체 그만두기](docs/stopping-greeting-unresponsive-neighbor.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [인사 없이 모임 자리 뜨기](docs/irish-goodbye.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [인색함](docs/miserliness.md) ([돈과 소비](groups/money.md))
 - [일 맡기지 못하기](docs/reluctance-to-delegate.md) ([일터와 일자리](groups/work.md))
 - [일 중독](docs/workaholism.md) ([일터와 일자리](groups/work.md))
 - [일기 쓰기](docs/keeping-a-diary.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
