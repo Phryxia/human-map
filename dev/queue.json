@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T00:39:40.017Z",
-  "nextSeq": 4931,
-  "stops": 261,
+  "savedAt": "2026-11-14T03:36:30.642Z",
+  "nextSeq": 4940,
+  "stops": 262,
   "items": [
-    {
-      "id": "b779d0e1",
-      "title": "return-to-work-worry 보강: 2015년 이전 학술 파편, 아이를 맡기는 죄책감",
-      "priority": 50,
-      "note": "2026-11-14 후보: PMC11869461 같은 글 'feelings of guilt and reluctance when putting their child into care' (한 출처 한 파편이라 다른 출처 필요). frontiersin fgwh.2024.1266162 (2024-04-04) RTW 스트레스 사건. PubMed 21545634 노르웨이 첫아이 엄마 복귀(쿠키 확인 페이지)",
-      "createdAt": "2026-11-14T00:11:04.244Z",
-      "seq": 4926
-    },
-    {
-      "id": "150cbef6",
-      "title": "parental-separation-anxiety-at-childcare 보강: 한국 공공 파편, 미리 걱정하는 면",
-      "priority": 50,
-      "note": "2026-11-14 후보: parentclub.scot/articles/top-tips-getting-ready-start-nursery (Scottish Government, 발행일 미상) 'worried about how you'll feel when you leave them for the first time'. family.kentcht.nhs.uk childcare-and-returning-to-work (2023-04-20) 'guilt or sadness' 맡길 때. ERIC ED387767 (1995-08) 분리불안이 취업 결정에 영향, return-to-work-worry 와 관계 후보. 한국 육아종합지원센터 HTML 은 못 찾음",
-      "createdAt": "2026-11-14T00:16:12.394Z",
-      "seq": 4927
-    },
-    {
-      "id": "6202045a",
-      "title": "post-election-distress 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-11-14 공공 미발견: NIH election stress kit, des.wa.gov 가이드는 PDF, icsew.wa.gov 404. 후보: khan.co.kr/article/201705041814001 (2017-05-04) 대선후보과몰입 증후군, 지지 후보 불운에 우울감(선거 전 과몰입이라 별도 현상 후보)",
-      "createdAt": "2026-11-14T00:23:58.995Z",
-      "seq": 4928
-    },
-    {
-      "id": "fb5b0335",
-      "title": "praying-outside-exam-hall 보강: 학술 파편, 1990년대 매체",
-      "priority": 50,
-      "note": "2026-11-14 후보: scholar.kyobobook.co.kr/article/detail/4010027179469 (김회권 2008-03) 입시 특별 기도회 열기(부모 언급 없음). hankyung.com/article/2025111309607 (2025-11-13) '수능 종일 기도회'. mt.co.kr 2025111215240048117 '해줄 수 있는 게 기도뿐'. 국가기록원 같은 글 사진 설명 1996년",
-      "createdAt": "2026-11-14T00:33:36.003Z",
-      "seq": 4929
-    },
-    {
-      "id": "ce4c3cfe",
-      "title": "first-phone-for-child-dilemma 보강: SNS 파편, 2010년 이전 매체",
-      "priority": 50,
-      "note": "2026-11-14 SNS 미발견. 후보: v.daum.net/v/20240123151910151 (파이낸셜뉴스 2024-01-23) 새학기 앞 휴대폰 사 달라는 요구에 학부모 고민. sgsg.hankyung.com 2006 봇 확인, pewresearch 2010 403",
-      "createdAt": "2026-11-14T00:38:44.518Z",
-      "seq": 4930
-    },
-    {
-      "id": "95fa4f51",
-      "title": "non-complaining 조건: 무행동 소비자의 불만족 정도",
-      "priority": 30,
-      "note": "2026-10-22 남김: accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저",
-      "createdAt": "2026-10-22T06:45:00.285Z",
-      "seq": 934
-    },
     {
       "id": "02f3593b",
       "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
@@ -1179,6 +1131,30 @@
       "note": "2026-10-22 남김: allurekorea 엘리베이터 장면 '그리고 침묵.', asol.ling.utexas.edu sun.pdf 'defuse potential hostility of silence'(PDF 미확인)",
       "createdAt": "2026-11-13T21:34:50.596Z",
       "seq": 4920
+    },
+    {
+      "id": "a349631d",
+      "title": "post-election-distress 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-11-14 UIC 2016 공공 더함. 한국 공공기관의 선거 뒤 정서 자료는 못 찾음. 남은 후보: health.osu.edu/health/mental-health/coping-with-election-outcomes (2024-10-10) 'you could be seriously disappointed'",
+      "createdAt": "2026-11-14T03:16:36.061Z",
+      "seq": 4936
+    },
+    {
+      "id": "a31a4a6d",
+      "title": "first-phone-for-child-dilemma 보강: 2010년 이전 매체",
+      "priority": 30,
+      "note": "2026-11-14 클리앙 2020 SNS 더함. 남은 후보: meeco.kr/free/41736973 (2026-07-26) 부부가 첫 폰 시기를 두고 의견 대립. sgsg.hankyung.com 2006 봇 확인",
+      "createdAt": "2026-11-14T03:34:51.006Z",
+      "seq": 4938
+    },
+    {
+      "id": "ae6f7833",
+      "title": "non-complaining 조건: 무행동 소비자의 불만족 정도",
+      "priority": 30,
+      "note": "2026-10-22 남김: accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저",
+      "createdAt": "2026-11-14T03:36:20.968Z",
+      "seq": 4939
     },
     {
       "id": "9634edf0",
@@ -2795,6 +2771,14 @@
       "note": "HN 31980136 (2022-07-04) 'Don’t make a habit of being quiet because the baby is asleep.' 같은 댓글이 pretending-not-to-hear [^7] 에 쓰임. 다른 출처 필요",
       "createdAt": "2026-11-13T21:19:16.156Z",
       "seq": 4913
+    },
+    {
+      "id": "00da1a68",
+      "title": "부적을 건네는 부모",
+      "priority": 10,
+      "note": "2026-11-14 praying-outside-exam-hall 탐색 중: jstage jssp/24/3/24_KJ00005381248 (村上·荒川 2009-02-27) 부모가 시험 운 부적을 자녀에게 주어 자신과 자녀의 불안을 줄임. praying-outside-exam-hall 과 형제 현상 후보",
+      "createdAt": "2026-11-14T03:31:33.041Z",
+      "seq": 4937
     },
     {
       "id": "02b2f242",
