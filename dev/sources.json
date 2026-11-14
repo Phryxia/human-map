@@ -15100,27 +15100,27 @@
   },
   "https://ideas.repec.org/a/bla/scandj/v110y2008i2p339-366.html": {
     "first": "2026-10-31",
-    "last": "2026-11-03",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-14"
   },
   "https://news.seoul.go.kr/traffic/?p=12665": {
     "first": "2026-10-31",
-    "last": "2026-11-03",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-14"
   },
   "https://www.hankyung.com/article/202512170330i": {
     "first": "2026-10-31",
-    "last": "2026-11-03",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-14"
   },
   "https://www.seoulfn.com/news/articleView.html?idxno=641349": {
     "first": "2026-10-31",
-    "last": "2026-11-03",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-14"
   },
   "https://www.gutenberg.org/cache/epub/2527/pg2527-images.html": {
     "first": "2026-10-31",
@@ -16766,9 +16766,9 @@
   },
   "https://meeco.kr/anonymous/40457150": {
     "first": "2026-11-01",
-    "last": "2026-11-03",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-14"
   },
   "https://news.ycombinator.com/item?id=5554518": {
     "first": "2026-11-01",
@@ -27715,6 +27715,12 @@
     "lastVerified": "2026-11-14"
   },
   "https://weekly.khan.co.kr/article/11385": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://magazine.hankyung.com/business/article/202508113829b": {
     "first": "2026-11-14",
     "last": "2026-11-14",
     "result": "VERIFIED",
