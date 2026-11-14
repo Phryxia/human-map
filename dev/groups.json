@@ -200,7 +200,6 @@
       "engine-idling",
       "impatience-at-red-light",
       "brief-illegal-parking",
-      "morbid-curiosity",
       "disabled-parking-misuse",
       "road-rage",
       "yellow-light-dilemma",
@@ -677,7 +676,6 @@
       "deja-vu",
       "zeigarnik-effect",
       "keeping-a-diary",
-      "forbidden-curiosity",
       "forgetting-acquaintances-names",
       "smell-evoked-memory",
       "rumination",
@@ -694,7 +692,8 @@
       "imaginary-arguments",
       "rereading-old-letters",
       "traces-of-previous-owners-in-used-books",
-      "music-evoked-memory"
+      "music-evoked-memory",
+      "curiosity"
     ]
   },
   {

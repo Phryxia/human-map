@@ -5,7 +5,6 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [귀벌레](../docs/earworm.md) 노래를 들은 사람의 머릿속에서 그 노래의 한 대목이 저절로 되풀이해 울린다.
-- [금지된 것에 대한 호기심](../docs/forbidden-curiosity.md) 하지 말라는 것이나 알면 손해가 날 수 있는 것 앞에서 사람이 궁금함을 이기지 못하고 끝내 열어 보거나 알아본다.
 - [기시감](../docs/deja-vu.md) 처음 겪는 상황에서 사람이 그 일을 전에 겪은 적이 있다고 느낀다.
 - [꿈을 징조로 여기기](../docs/dreams-as-omens.md) 사람이 간밤에 꾼 꿈을 앞일의 징조로 여겨 기대하거나 불안해하고 그에 따라 행동을 바꾼다.
 - [끝내지 못한 일 계속 떠올리기](../docs/zeigarnik-effect.md) 일을 끝내지 못한 사람이 그 일을 끝낸 일보다 더 자주, 더 오래 떠올린다.
@@ -43,3 +42,7 @@
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
   - [헤어진 연인의 물건 간직하기](../docs/keeping-an-exs-belongings.md)
 - [헌책 속 앞 주인의 흔적 반기기](../docs/traces-of-previous-owners-in-used-books.md) 헌책을 손에 넣은 사람이 책에 남은 앞 주인의 메모나 헌사, 끼워 둔 물건을 보며 그 사람을 떠올린다.
+- [호기심](../docs/curiosity.md) 사람이 처음 보는 것이나 모르는 것 앞에서 그것을 알고 싶어 하고 알아보려고 다가간다.
+  - [금지된 것에 대한 호기심](../docs/forbidden-curiosity.md)
+  - [병적 호기심](../docs/morbid-curiosity.md)
+    - [사고 현장 구경하기](../docs/rubbernecking.md)
