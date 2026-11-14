@@ -27156,5 +27156,23 @@
     "last": "2026-11-14",
     "result": "VERIFIED",
     "lastVerified": "2026-11-14"
+  },
+  "https://www.gutenberg.org/cache/epub/1079/pg1079.txt": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4903030/": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://www.imaeil.com/page/view/2020010614390331157": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
   }
 }

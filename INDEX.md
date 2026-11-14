@@ -57,6 +57,7 @@
 - [고인의 전화번호 지우지 못하기](docs/keeping-deceaseds-phone-number.md) ([돈과 소비](groups/money.md), [혼자 있음과 상실](groups/solitude-and-loss.md), [기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [고인의 존재를 느끼기](docs/sensing-presence-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [고자질](docs/tattling.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [고집](docs/stubbornness.md) ([성향과 기질](groups/traits.md))
 - [고치지 않고 새로 사기](docs/replacing-instead-of-repairing.md) ([돈과 소비](groups/money.md))
 - [공용 와이파이에서 민감한 일 하기](docs/sensitive-tasks-on-public-wifi.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [공용 우산 돌려주지 않기](docs/not-returning-shared-umbrellas.md) ([시민 참여와 공공의 일](groups/civic-life.md))
