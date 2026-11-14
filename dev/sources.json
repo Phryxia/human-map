@@ -935,9 +935,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%B9%88%EC%B2%98": {
     "first": "2026-10-17",
-    "last": "2026-11-06",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-14"
   },
   "https://www.sidae.com/article/2016102808278064569": {
     "first": "2026-10-17",
@@ -2272,27 +2272,27 @@
   },
   "https://www.gutenberg.org/files/599/599-h/599-h.htm": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-14"
   },
   "https://www.gutenberg.org/files/833/833-h/833-h.htm": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-14"
   },
   "https://www.nber.org/papers/w13392": {
     "first": "2026-10-18",
-    "last": "2026-10-21",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-14"
   },
   "https://v.daum.net/v/20180417142727710": {
     "first": "2026-10-18",
-    "last": "2026-11-01",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-14"
   },
   "https://www.gov.uk/government/publications/online-choice-architecture-how-digital-design-can-harm-competition-and-consumers/evidence-review-of-online-choice-architecture-and-consumer-and-competition-harm": {
     "first": "2026-10-18",
@@ -27644,6 +27644,17 @@
     "lastVerified": "2026-11-14"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6604296/": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://emerald.com/insight/content/doi/10.1108/JPBM-09-2017-1564": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "UNREACHABLE"
+  },
+  "https://www.mt.co.kr/living/2020/04/09/2020040811281971198": {
     "first": "2026-11-14",
     "last": "2026-11-14",
     "result": "VERIFIED",
