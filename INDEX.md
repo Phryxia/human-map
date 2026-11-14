@@ -545,6 +545,7 @@
 - [유족의 장기기증 거부](docs/families-refusing-organ-donation.md) ([건강과 위험](groups/health-and-safety.md))
 - [육아휴직 망설이기](docs/hesitating-to-take-parental-leave.md) ([일터와 일자리](groups/work.md))
 - [은둔형 외톨이](docs/social-withdrawal-at-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [은퇴 뒤 따뜻한 곳으로 옮겨 살기](docs/retirement-migration.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [은퇴 자금 쓰지 않기](docs/retirees-not-spending-savings.md) ([돈과 소비](groups/money.md))
 - [음성 메시지 듣지 않기](docs/ignoring-voicemail.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [음식이 마음에 들지 않아도 괜찮다고 답하기](docs/saying-food-is-fine.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

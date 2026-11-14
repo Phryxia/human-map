@@ -7,5 +7,6 @@
 - [다른 나라로 옮겨 살고 싶어 하기](../docs/wanting-to-emigrate.md) 자기 나라에 사는 사람이 기회가 있으면 다른 나라로 옮겨 살고 싶다고 바란다.
 - [도시를 떠나 시골로 옮겨 살기](../docs/moving-to-the-countryside.md) 도시에 살던 사람이 농사를 짓거나 자연 가까이 살려고 시골로 옮겨 간다.
 - [성인 자녀의 부모 집 거주](../docs/adult-children-living-with-parents.md) 학교를 마친 성인 자녀가 독립하지 않고 부모 집에 머물러 살거나 독립했다가 부모 집으로 돌아온다.
+- [은퇴 뒤 따뜻한 곳으로 옮겨 살기](../docs/retirement-migration.md) 일을 그만둔 사람이 은퇴한 뒤 날씨가 따뜻하거나 생활비가 싸거나 편의시설이 많은 지역으로 옮겨 산다.
 - [일자리와 학교를 찾아 대도시로 떠나기](../docs/leaving-hometown-for-city-jobs.md) 작은 도시나 지방에서 자란 젊은 사람이 대학이나 일자리를 찾아 고향을 떠나 수도나 대도시로 옮겨 산다.
 - [집값 때문에 외곽으로 옮겨 살기](../docs/moving-out-for-cheaper-housing.md) 도시에 살던 사람이 집값이나 집세가 비싸서 더 싼 외곽이나 이웃 지역으로 이사한다.
