@@ -679,6 +679,7 @@
 - [진료 회피](docs/medical-care-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [짐이 되기 싫은 마음](docs/self-perceived-burden.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [집값 때문에 외곽으로 옮겨 살기](docs/moving-out-for-cheaper-housing.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [집에 없는 척하기](docs/pretending-not-to-be-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [집에 현금 쌓아 두기](docs/keeping-cash-at-home.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [집이 부끄러워 손님 들이지 않기](docs/avoiding-inviting-people-home.md) ([남의 시선과 창피함](groups/others-gaze.md))

@@ -6,3 +6,4 @@
 
 - [도시를 떠나 시골로 옮겨 살기](../docs/moving-to-the-countryside.md) 도시에 살던 사람이 농사를 짓거나 자연 가까이 살려고 시골로 옮겨 간다.
 - [성인 자녀의 부모 집 거주](../docs/adult-children-living-with-parents.md) 학교를 마친 성인 자녀가 독립하지 않고 부모 집에 머물러 살거나 독립했다가 부모 집으로 돌아온다.
+- [집값 때문에 외곽으로 옮겨 살기](../docs/moving-out-for-cheaper-housing.md) 도시에 살던 사람이 집값이나 집세가 비싸서 더 싼 외곽이나 이웃 지역으로 이사한다.
