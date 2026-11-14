@@ -171,6 +171,7 @@
 - [늦는 사람을 기다리며 서성이기](docs/waiting-for-someone-late.md) ([시간과 하루 습관](groups/daily-time.md))
 - [늦잠에 대한 불안](docs/oversleeping-anxiety.md) ([시간과 하루 습관](groups/daily-time.md))
 - [다녀간 자리에 이름 새기기](docs/carving-names-at-visited-places.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [다른 나라로 옮겨 살고 싶어 하기](docs/wanting-to-emigrate.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [다른 일을 하며 휴대전화 보기](docs/phone-use-while-doing-other-things.md) ([길과 운전](groups/roads-and-driving.md))
 - [다리미 켜 둔 채 자리 뜨기](docs/leaving-iron-on.md) ([건강과 위험](groups/health-and-safety.md))
 - [다원적 무지](docs/pluralistic-ignorance.md) ([시민 참여와 공공의 일](groups/civic-life.md))
