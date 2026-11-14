@@ -1,9 +1,97 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T03:36:30.642Z",
-  "nextSeq": 4940,
-  "stops": 262,
+  "savedAt": "2026-11-14T06:38:20.011Z",
+  "nextSeq": 4962,
+  "stops": 263,
   "items": [
+    {
+      "id": "c2fb99a7",
+      "title": "self-pity 관계: 분노 반추, 외로움",
+      "priority": 50,
+      "note": "2026-11-14 kar.kent.ac.uk/4477 Stöber 2003 초록에 자기 연민과 anger-in, 분노 반추, 정서적 외로움의 연관(인과 아님). 인과 문장이 있는 출처를 찾으면 anger-rumination, loneliness 와 간선. 남은 후보: gutenberg 284 'Mrs. Trenor’s voice trembled with self-pity', brunch peanutjamjam/439 실직 상황에서 자기 연민이 쉬워짐(withdrawing-after-job-loss 관계 후보)",
+      "createdAt": "2026-11-14T06:09:41.918Z",
+      "seq": 4951
+    },
+    {
+      "id": "06e2d556",
+      "title": "vanity 관계: 가진 것 과시하기, 외모 꾸미기",
+      "priority": 50,
+      "note": "2026-11-14 Webster 2014 scholars.uky.edu 초록 연구 2 미용 시술 시나리오. showing-off-possessions 와 원인 간선이 될 인과 문장 필요. 후보: Persuasion 105 'Few women could think more of their personal appearance than he did'",
+      "createdAt": "2026-11-14T06:12:42.872Z",
+      "seq": 4952
+    },
+    {
+      "id": "18a991fb",
+      "title": "miserliness 관계: tightwad-spending 과의 관계, 인색한 선택의 결과",
+      "priority": 50,
+      "note": "2026-11-14 Dunn 외 2010 J Health Psychol PMID 20460419 'how does stinginess get under the skin?' 인색한 선택이 수치심과 코르티솔로 이어짐(PubMed·SAGE·europepmc 403). PMC12220072 척도 문항 'hoarding money for future catastrophes (Miserliness)'. tightwad-spending(자기 지출) 과 구분, 공통 상위 여부 판단",
+      "createdAt": "2026-11-14T06:17:48.472Z",
+      "seq": 4953
+    },
+    {
+      "id": "3ce8f20d",
+      "title": "stubbornness 보강: SNS 파편과 조건(나이, 자녀가 더 높게 봄)",
+      "priority": 50,
+      "note": "2026-11-14 PMC4903030 같은 초록 'Children reported higher levels of parental stubbornness than parents self-reported.' scholarworks.sookmyung.ac.kr 152797 조혜진 2022 아동 고집 인식 4유형. Bartleby gutenberg 11231 'persist in that mulish vagary' 후보. 한국어 SNS 파편 없음",
+      "createdAt": "2026-11-14T06:21:48.900Z",
+      "seq": 4954
+    },
+    {
+      "id": "f360681f",
+      "title": "arrogance 보강: SNS 파편, vanity 와의 관계",
+      "priority": 50,
+      "note": "2026-11-14 PMC5500344 Milyavsky 2017 Johnson 외 정의 'a set of behaviors that communicates a person’s exaggerated sense of superiority, which is often accomplished by disparaging others'. ppss.kr/archives/255439 같은 글 '자신이 그 기준을 충족하는 사람이라 좋은 대접을 받아야 하며'. SNS 파편 없음",
+      "createdAt": "2026-11-14T06:25:11.419Z",
+      "seq": 4955
+    },
+    {
+      "id": "bb84d86b",
+      "title": "greed 보강: 결과 간선(더 바라다 잃기), 실증 파편",
+      "priority": 50,
+      "note": "2026-11-14 gutenberg 11339 Aesop 황금알 거위 'Much wants more and loses all.' research.tilburguniversity.edu dispositional-greed Seuntjens 2015 독재자·최후통첩 게임 문장 229자(짧은 문장 필요). workingus ?p=3940402 첫 댓글 '계속 욕심만 느네요'",
+      "createdAt": "2026-11-14T06:26:33.111Z",
+      "seq": 4956
+    },
+    {
+      "id": "cdea6377",
+      "title": "laziness 관계: procrastination 과의 관계, 조건(돈벌이 노동만 피함)",
+      "priority": 50,
+      "note": "2026-11-14 gutenberg 2048 Rip Van Winkle 바로 뒤에 낚시와 이웃 일에는 끈기가 있었다는 대목(조건). PMC2970648 Kool 2010 'participants as a group displayed a clear bias toward the less demanding option.' Oblomov 54700 'he would spend his time in lying on his back.'",
+      "createdAt": "2026-11-14T06:29:09.365Z",
+      "seq": 4957
+    },
+    {
+      "id": "68187c88",
+      "title": "fickleness 보강: SNS 파편, 일반 성인 표본 학술 파편",
+      "priority": 50,
+      "note": "2026-11-14 PMC7196909 Kalokerinos 2020 'neuroticism was associated with experiencing more intense, but not more variable, negative emotions.' gutenberg 1079 Tristram Shandy 역마 규정 'through your _fickleness_'(1079 는 stubbornness 가 씀, 한 출처 2문서). maily.so/summer/posts/10z3kw6erlw 하루에도 몇 번씩 기분이 오르내림(발행일 미상)",
+      "createdAt": "2026-11-14T06:29:46.173Z",
+      "seq": 4958
+    },
+    {
+      "id": "cb7a73ce",
+      "title": "curiosity 보강: 매체·SNS 파편, 정보 포만 조건",
+      "priority": 50,
+      "note": "2026-11-14 PMC4635443 같은 글 'when enough information is consumed, satiation occurs and information serves to reduce further curiosity.' lady.khan.co.kr/education/article/202011011145001 (2020-11-01) 궁금증이 풀릴 때까지 왜를 묻는 학생, 같은 필자 글을 reading-the-ending-first 가 씀(한 사람 글 모으기 규칙)라 쓰지 않음. 한국어 SNS 파편 필요",
+      "createdAt": "2026-11-14T06:32:33.001Z",
+      "seq": 4959
+    },
+    {
+      "id": "ca6f1f1e",
+      "title": "self-deprecation 보강: 문학 파편, 원인(낮은 자존감) 간선",
+      "priority": 50,
+      "note": "2026-11-14 PMC4991046 같은 글 바로 뒤 'it is thought to reflect an underlying emotional neediness and low self-esteem (Martin et al., 2003)'. brunch daeheestory/283 '먼저 나를 깎아 안전지대를 만든 뒤에야 관계를 시작'. phys.org 한국 예능 자기비하 발화 연구 보도 봇 확인. deflecting-compliments 와 형제 관계 검토",
+      "createdAt": "2026-11-14T06:35:06.562Z",
+      "seq": 4960
+    },
+    {
+      "id": "31f5428b",
+      "title": "gratitude 관계: thank-you-gift 결과 간선, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-14 asiae 2024031817444611013 고마워서 보답(thank-you-gift 의 원인 간선 후보, 인과 문장 '고마워서'). PMC5501400 'because gratitude is directed toward a specific target'. damoang.net/free/6742878 낯선 사람 도움 글 봇 확인",
+      "createdAt": "2026-11-14T06:38:09.027Z",
+      "seq": 4961
+    },
     {
       "id": "02f3593b",
       "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
