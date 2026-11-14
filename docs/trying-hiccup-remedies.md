@@ -10,7 +10,9 @@
 
 플라톤의 대화편[^1]에서 연회 중 딸꾹질이 난 사람에게 의사는 숨을 한동안 참아 보고 그래도 낫지 않으면 물로 가글하라고 권했다.
 
-2023년 영국 국민보건서비스의 안내문[^2]은 딸꾹질을 멈추는 데 이런 방법이 도움이 된다고 여기는 사람이 많지만 모든 사람에게 듣는다는 근거는 없다고 적었다.
+2016년 게시판 댓글[^2]의 글쓴이는 컵의 반대쪽 가장자리로 물을 마시는 방법이 자기에게는 매번 듣지만 아내에게는 전혀 듣지 않는다고 적었다.
+
+2023년 영국 국민보건서비스의 안내문[^3]은 딸꾹질을 멈추는 데 이런 방법이 도움이 된다고 여기는 사람이 많지만 모든 사람에게 듣는다는 근거는 없다고 적었다.
 
 # 관계
 
@@ -37,4 +39,5 @@
 #건강
 
 [^1]: [문학] "let me recommend you to hold your breath, and if after you have done so for some time the hiccough is no better, then gargle with a little water" (숨을 참아 보라고 권하네. 한동안 그렇게 해도 딸꾹질이 낫지 않으면 물을 조금 머금고 가글하게) — Plato, "Symposium", Benjamin Jowett 옮김, Project Gutenberg, 발행일 미상, https://www.gutenberg.org/cache/epub/1600/pg1600-images.html, 2026-11-14 접속
-[^2]: [공공] "Although many people find these things helpful for stopping hiccups, there's no evidence that they work for everyone." (딸꾹질을 멈추는 데 이런 방법이 도움이 된다고 여기는 사람이 많지만 모든 사람에게 듣는다는 근거는 없다.) — NHS website, "Hiccups", 2023-06-23, https://www.nhs.uk/symptoms/hiccups/, 2026-11-14 접속
+[^2]: [SNS] "Drinking from the opposite side of the glass works for me every time (it involves tipping your head forward until it’s almost upside down). It doesn’t work at all for my wife, so who knows." (컵의 반대쪽으로 마시는 건 나한테는 매번 듣는다(머리를 거의 거꾸로 될 때까지 앞으로 숙여야 한다). 아내에게는 전혀 안 들으니 모를 일이다.) — Straight Dope Message Board 댓글, 2016-06-06, https://boards.straightdope.com/t/hiccups/756581, 2026-11-14 접속
+[^3]: [공공] "Although many people find these things helpful for stopping hiccups, there's no evidence that they work for everyone." (딸꾹질을 멈추는 데 이런 방법이 도움이 된다고 여기는 사람이 많지만 모든 사람에게 듣는다는 근거는 없다.) — NHS website, "Hiccups", 2023-06-23, https://www.nhs.uk/symptoms/hiccups/, 2026-11-14 접속
