@@ -27659,5 +27659,11 @@
     "last": "2026-11-14",
     "result": "VERIFIED",
     "lastVerified": "2026-11-14"
+  },
+  "https://www.gutenberg.org/cache/epub/600/pg600.txt": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
   }
 }
