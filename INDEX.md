@@ -405,6 +405,7 @@
 - [쇼핑카트 반납하지 않기](docs/not-returning-shopping-carts.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [수돗물 그대로 마시지 않기](docs/not-drinking-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
 - [수줍은 방광](docs/shy-bladder.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [수줍음](docs/shyness.md) ([성향과 기질](groups/traits.md))
 - [술 마신 뒤 물놀이](docs/swimming-after-drinking.md) ([건강과 위험](groups/health-and-safety.md))
 - [쉬는 데 죄책감 느끼기](docs/guilt-about-resting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [스마트폰 확인 습관](docs/smartphone-checking-habit.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
