@@ -443,6 +443,7 @@
 - [아는 것을 모르는 척하기](docs/feigning-ignorance.md) ([일터와 일자리](groups/work.md))
 - [아는 사람 이름 잊기](docs/forgetting-acquaintances-names.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [아는 사람을 마주치고 못 본 척하기](docs/pretending-not-to-see-acquaintance.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [아이 갖기 미루기](docs/delaying-childbearing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아이를 낳지 않기로 하기](docs/choosing-not-to-have-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아이를 보육시설에 처음 맡기는 부모의 불안](docs/parental-separation-anxiety-at-childcare.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아침 식사 거르기](docs/skipping-breakfast.md) ([시간과 하루 습관](groups/daily-time.md))
