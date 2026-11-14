@@ -17,6 +17,7 @@
 - [노년의 계속 일하기 희망](../docs/wanting-to-keep-working-in-old-age.md) 나이가 든 사람이 은퇴할 나이가 지나도 일을 이어 가기를 바란다.
 - [면접 불안](../docs/job-interview-anxiety.md) 채용 면접을 앞두거나 면접을 보는 구직자가 불안해하고 몸이 떨린다.
 - [문 열고 냉방 영업](../docs/open-door-air-conditioning.md) 가게 주인이 냉방을 켠 채 손님이 들어오기 쉽도록 출입문을 열어 두고 영업한다.
+- [복직 앞의 걱정](../docs/return-to-work-worry.md) 육아휴직이나 출산휴가를 마치고 직장에 돌아갈 사람이 아이 돌봄과 업무 적응, 동료의 시선을 걱정한다.
 - [사직 앞의 죄책감](../docs/guilt-about-resigning.md) 직장을 그만두려는 사람이 상사와 동료를 두고 떠나는 일에 죄책감과 불안을 느낀다.
 - [산재 신고 꺼리기](../docs/not-reporting-workplace-injury.md) 일하다 다친 노동자가 불이익이나 동료에게 돌아갈 피해를 걱정해 부상을 회사나 기관에 알리지 않거나 산재 신청을 하지 않는다.
 - [새 일터나 새 학교 첫날의 떨림](../docs/first-day-nerves.md) 새 일터나 새 학교에 처음 나가는 사람이 그날을 앞두거나 겪으며 겁나고 떨린다.
