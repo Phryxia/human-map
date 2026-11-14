@@ -26,6 +26,7 @@
 
 ## 하위
 
+- [기분이 처질 때 좋은 옷 차려입기](dressing-up-to-lift-mood.md)
 - [시름을 술로 달래기](drinking-to-cope.md)
 - [기분을 달래려는 소비](retail-therapy.md)
 - [미루기](procrastination.md)

@@ -18,6 +18,7 @@
   - [기분을 달래려고 먹기](../docs/emotional-eating.md)
     - [스트레스 받을 때 매운 음식 찾기](../docs/craving-spicy-food-under-stress.md)
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
+  - [기분이 처질 때 좋은 옷 차려입기](../docs/dressing-up-to-lift-mood.md)
   - [미루기](../docs/procrastination.md)
     - [글 막힘](../docs/writers-block.md)
     - [노후 준비 미루기](../docs/delaying-retirement-saving.md)
