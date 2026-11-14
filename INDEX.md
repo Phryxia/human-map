@@ -752,6 +752,7 @@
 - [해 진 뒤 하산하기](docs/descending-after-dark.md) ([건강과 위험](groups/health-and-safety.md))
 - [행운의 물건 지니기](docs/carrying-lucky-charms.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [향수](docs/homesickness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [허영심](docs/vanity.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [허위 합의 효과](docs/false-consensus-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [허풍 떨기](docs/exaggerating-own-stories.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [헌책 속 앞 주인의 흔적 반기기](docs/traces-of-previous-owners-in-used-books.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
