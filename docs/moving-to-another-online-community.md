@@ -1,6 +1,6 @@
 # 온라인 커뮤니티 옮겨 가기
 
-별칭: Platform migration[^1]
+별칭: Platform migration[^4], 사이버 망명[^2]
 
 온라인 커뮤니티나 플랫폼을 쓰던 사람이 그곳의 운영이나 분위기가 맞지 않게 되자 다른 곳으로 옮겨 간다.
 
@@ -8,9 +8,13 @@
 
 # 서술
 
-2023년 Zia 외의 연구[^1]는 마스토돈으로 옮겨 간 트위터 사용자 136,009명을 추적하고 플랫폼을 옮기는 데 사용자의 소셜 네트워크가 크게 작용했다고 적었다.
+2009년 주간경향 기사[^1]는 구글코리아가 유튜브 실명제를 거부한 뒤 누리꾼들이 사법망이 닿지 않는 구글로 주 사용처를 옮겼다고 적었다.
 
-2024년 클리앙 게시글[^2]의 글쓴이는 운영자 공지로 마음이 떠났고 다른 커뮤니티로 가려 했으나 아직 어색해서 지켜보는 중이라고 썼다. 2026년 클리앙 게시글[^3]의 글쓴이는 결혼하고 사회생활을 하면서 전에 쓰던 20대와 30대 중심 커뮤니티의 문화가 정서적으로 맞지 않게 되었다고 썼다.
+2014년 10월 머니투데이 기사[^2]는 검열 대상이 될지 모른다는 사용자들의 불안이 독일에 서버를 둔 텔레그램으로 옮겨 가는 사이버 망명으로 이어진다고 적었다. 2014년 12월 세계일보 기사[^3]에서 한 직장인은 텔레그램의 새 기능과 디자인에 끌렸지만 막상 그곳으로 소통하는 일이 드물어 얼마 안 가 카카오톡으로 돌아왔다고 말했다.
+
+2023년 Zia 외의 연구[^4]는 마스토돈으로 옮겨 간 트위터 사용자 136,009명을 추적하고 플랫폼을 옮기는 데 사용자의 소셜 네트워크가 크게 작용했다고 적었다.
+
+2024년 클리앙 게시글[^5]의 글쓴이는 운영자 공지로 마음이 떠났고 다른 커뮤니티로 가려 했으나 아직 어색해서 지켜보는 중이라고 썼다. 2026년 클리앙 게시글[^6]의 글쓴이는 결혼하고 사회생활을 하면서 전에 쓰던 20대와 30대 중심 커뮤니티의 문화가 정서적으로 맞지 않게 되었다고 썼다.
 
 # 관계
 
@@ -36,6 +40,9 @@
 
 #온라인
 
-[^1]: [학술] "Our analysis sheds light on the user-driven pressure towards centralization in a decentralized ecosystem and identifies the strong influence of the social network in platform migration." (우리 분석은 탈중앙화된 생태계 안에서 사용자가 만드는 중앙 집중의 압력을 밝히고 플랫폼 이주에 소셜 네트워크가 크게 작용함을 확인한다.) — Haris Bin Zia, Jiahui He, Aravindh Raman, Ignacio Castro, Nishanth Sastry, Gareth Tyson, "Flocking to Mastodon: Tracking the Great Twitter Migration", arXiv, 2023-02-28, https://arxiv.org/abs/2302.14294, 2026-11-14 접속
-[^2]: [SNS] "다모앙으로 가려고 했는데 아직 어색해서 좀 두고 보고 있습니다. 이미 운영자 공지로 제마음은 떠났고 이게 클량 마지막 글일 수도 있겠네요." — 클리앙 게시글, 2024-03-29, https://www.clien.net/service/board/park/18679340, 2026-11-14 접속
-[^3]: [SNS] "원래는 축구나 게임 커뮤니티처럼 2030 중심 커뮤를 많이 했는데 결혼을 하고 사회생활을 좀 하다보니 이제 그들의 문화가 정서적으로 안 맞는 느낌이 들더라고요." — 클리앙 게시글, 2026-07-05, https://www.clien.net/service/board/park/19221086, 2026-11-14 접속
+[^1]: [매체] "구글코리아가 유튜브 실명제 거부의사를 밝힌 뒤 누리꾼은 사법망이 닿지 않는 구글로 주 사용처를 옮겼다." — 정용인, 「유명 누리꾼 다 어디로 갔을까」, 주간경향, 2009-09-03, https://weekly.khan.co.kr/article/200909031356281, 2026-11-14 접속
+[^2]: [매체] "자칫 검열 대상이 될 지도 모른다는 사용자들의 불안감은 독일에 서버를 둔 텔레그램(Telegram)으로의 '사이버 망명'으로 이어지고 있다." — 테크앤비욘드 편집부, 「카톡 검열 논란 속 사이버 망명지로 부상한 '텔레그램'」, 머니투데이, 2014-10-30, https://www.mt.co.kr/tech/2014/10/30/2014102411097135130, 2026-11-14 접속
+[^3]: [매체] "초창기엔 텔레그램의 새로운 기능과 디자인에 끌렸지만, 얼마 안가서 다시 카카오톡으로 돌아왔다. 막상 이를 통해 소통을 하는 경우가 드물었기 때문." — 김현주, 「[김현주의 일상 톡톡] 텔레그램, '3달 천하'였나?」, 세계일보, 2014-12-05, https://www.segye.com/newsView/20141204001022, 2026-11-14 접속
+[^4]: [학술] "Our analysis sheds light on the user-driven pressure towards centralization in a decentralized ecosystem and identifies the strong influence of the social network in platform migration." (우리 분석은 탈중앙화된 생태계 안에서 사용자가 만드는 중앙 집중의 압력을 밝히고 플랫폼 이주에 소셜 네트워크가 크게 작용함을 확인한다.) — Haris Bin Zia, Jiahui He, Aravindh Raman, Ignacio Castro, Nishanth Sastry, Gareth Tyson, "Flocking to Mastodon: Tracking the Great Twitter Migration", arXiv, 2023-02-28, https://arxiv.org/abs/2302.14294, 2026-11-14 접속
+[^5]: [SNS] "다모앙으로 가려고 했는데 아직 어색해서 좀 두고 보고 있습니다. 이미 운영자 공지로 제마음은 떠났고 이게 클량 마지막 글일 수도 있겠네요." — 클리앙 게시글, 2024-03-29, https://www.clien.net/service/board/park/18679340, 2026-11-14 접속
+[^6]: [SNS] "원래는 축구나 게임 커뮤니티처럼 2030 중심 커뮤를 많이 했는데 결혼을 하고 사회생활을 좀 하다보니 이제 그들의 문화가 정서적으로 안 맞는 느낌이 들더라고요." — 클리앙 게시글, 2026-07-05, https://www.clien.net/service/board/park/19221086, 2026-11-14 접속
