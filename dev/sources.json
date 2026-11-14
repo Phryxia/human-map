@@ -27821,5 +27821,17 @@
     "last": "2026-11-14",
     "result": "VERIFIED",
     "lastVerified": "2026-11-14"
+  },
+  "https://www.gutenberg.org/cache/epub/1600/pg1600-images.html": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://www.nhs.uk/symptoms/hiccups/": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
   }
 }

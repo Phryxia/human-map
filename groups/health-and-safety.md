@@ -40,6 +40,7 @@
 - [독립을 잃을 두려움](../docs/fear-of-losing-independence.md) 나이 든 사람이 혼자 일상을 꾸리거나 지금 사는 집에서 계속 지내는 능력을 잃게 될까 두려워한다.
 - [독초를 산나물로 알고 먹기](../docs/eating-poisonous-plants-as-wild-greens.md) 산이나 들에서 나물을 캐는 사람이 생김새가 비슷한 독초를 먹는 나물로 알고 캐서 먹는다.
 - [들어온 길로 대피하기](../docs/exiting-the-way-you-came.md) 불이 나거나 대피해야 할 때 건물 안의 사람이 가까운 비상구 대신 들어왔던 익숙한 출입구로 나가려 한다.
+- [딸꾹질 멈추려고 민간요법 써 보기](../docs/trying-hiccup-remedies.md) 딸꾹질이 멎지 않는 사람이 숨 참기나 물 마시기처럼 주변에서 듣거나 전해 내려온 방법을 차례로 써 본다.
 - [렌즈 낀 채 잠들기](../docs/sleeping-in-contact-lenses.md) 콘택트렌즈를 끼는 사람이 렌즈를 빼지 않은 채 밤잠이나 낮잠을 잔다.
 - [렌즈를 수돗물로 헹구기](../docs/rinsing-lenses-with-tap-water.md) 콘택트렌즈 착용자가 렌즈 용액 대신 수돗물로 렌즈를 헹구거나 수돗물에 담가 둔다.
 - [멀티탭에 기기 몰아 꽂기](../docs/overloading-power-strips.md) 콘센트가 모자란 집이나 일터의 사람이 멀티탭 하나에 여러 전기기기를 꽂거나 멀티탭을 연달아 이어 쓴다.
