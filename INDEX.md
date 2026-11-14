@@ -163,6 +163,7 @@
 - [놓칠까 두려운 마음](docs/fear-of-missing-out.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [누구에게 말했는지 잊기](docs/destination-memory-failure.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [눈치 야근](docs/staying-late-for-boss.md) ([일터와 일자리](groups/work.md))
+- [눈팅](docs/lurking.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [뉴스 회피](docs/news-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [늘 앉던 자리에 앉기](docs/sitting-in-the-usual-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [늙어 보이는 보조기구 꺼림](docs/avoiding-aids-that-look-old.md) ([건강과 위험](groups/health-and-safety.md))
