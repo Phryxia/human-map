@@ -4,7 +4,7 @@
 
 사고 현장이나 참혹한 장면 곁을 지나는 사람이 걸음이나 차의 속도를 늦추고 그 장면을 구경한다.
 
-묶음: [길과 운전](../groups/roads-and-driving.md)
+묶음: [기억과 떠오르는 생각](../groups/memory-and-thoughts.md)
 
 # 서술
 
