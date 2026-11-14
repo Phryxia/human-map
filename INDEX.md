@@ -559,6 +559,7 @@
 - [이력서 부풀리기](docs/resume-embellishment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [이른 아침 혼자 있는 시간 누리기](docs/early-morning-solitude.md) ([시간과 하루 습관](groups/daily-time.md))
 - [이명](docs/tinnitus.md) ([건강과 위험](groups/health-and-safety.md))
+- [이민 갔다 고국으로 돌아오기](docs/return-migration.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [이별 앞에서 눈물 참기](docs/holding-back-tears-at-breakup.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [이별을 아쉬워하기](docs/reluctant-parting.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [이삿날 빈집 둘러보기](docs/last-look-at-empty-house.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
