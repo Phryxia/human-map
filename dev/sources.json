@@ -5192,9 +5192,9 @@
   },
   "https://www.gutenberg.org/cache/epub/76/pg76-images.html": {
     "first": "2026-10-20",
-    "last": "2026-11-06",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-14"
   },
   "https://journals.lib.uth.gr/index.php/inquiries/article/view/1391": {
     "first": "2026-10-20",
@@ -27853,6 +27853,12 @@
     "lastVerified": "2026-11-14"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5339152/": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://www.theswaddle.com/why-do-we-instinctively-stretch-when-we-wake-up": {
     "first": "2026-11-14",
     "last": "2026-11-14",
     "result": "VERIFIED",
