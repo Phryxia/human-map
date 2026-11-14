@@ -14,6 +14,8 @@
 
 2021년 유럽연합 집행위원회의 도로안전 자료[^5]는 젊은 남성이 특히 자기 운전 실력을 과신하는 일이 잦다고 쓴다. 2022년 서호주 RAC 의 17\~21세 운전자 조사 보도자료[^6]에서 젊은 운전자 73%가 자기 운전 실력을 같은 나이대의 다른 운전자보다 낫거나 훨씬 낫다고 평가했다. 2023년 Koppel 등의 재현 연구에서도 참가자 다수가 자기 운전 실력과 안전성을 평균보다 높게 매겼다.[^7]
 
+2025년 클리앙 게시글[^8]의 글쓴이는 어릴 때 무조건 빨리 가고 잘 끼어드는 운전이 잘하는 운전인 줄 알았으나 운전을 계속하다 보니 위험한 행동이었다고 썼다.
+
 # 관계
 
 ## 상위
@@ -45,3 +47,4 @@
 [^5]: [공공] "Young men in particular are often over-confident about their driving skills." (특히 젊은 남성은 자기 운전 실력을 과신하는 일이 잦다.) — European Commission, European Road Safety Observatory, "Novice drivers", 2021-07-25, https://road-safety.transport.ec.europa.eu/european-road-safety-observatory/statistics-and-analysis-archive/young-people/novice-drivers_en, 2026-10-20 접속
 [^6]: [매체] "73 per cent of young drivers rate their driving ability as better or much better than other drivers in their age group." (젊은 운전자의 73%가 자기 운전 실력을 같은 나이대의 다른 운전자보다 낫거나 훨씬 낫다고 평가한다.) — RAC WA, 「Survey reveals risk-taking among overconfident young drivers」, 2022-02-17, https://rac.com.au/about-rac/media/media-releases/february-2022/survey-reveals-risk-taking-among-overconfident-young-drivers, 2026-10-22 접속
 [^7]: [학술] "Our results indicate that the majority of participants rated their driving skill and safety as above average." (참가자 다수가 자기 운전 실력과 안전성을 평균 이상으로 평가했다.) — Lina Koppel, David Andersson, Gustav Tinghög, Daniel Västfjäll, Gilad Feldman, "We are all less risky and more skillful than our fellow drivers: Successful replication and extension of Svenson (1981)", Meta-Psychology 7, 2023-05-10, https://open.lnu.se/index.php/metapsychology/article/view/2932, 2026-10-20 접속
+[^8]: [SNS] "어릴때는 무조건 빨리가고, 잘 껴들들고 하는 운전이 잘하는 것 인줄 알았는데, 다니다 보니 위험한 행동이였네요." — 클리앙 게시글, 2025-07-10, https://www.clien.net/service/board/park/19021500, 2026-11-14 접속
