@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T09:38:50.087Z",
-  "nextSeq": 5001,
-  "stops": 264,
+  "savedAt": "2026-11-14T12:41:15.951Z",
+  "nextSeq": 5021,
+  "stops": 265,
   "items": [
     {
       "id": "cd0f9e51",
@@ -43,6 +43,78 @@
       "note": "2026-11-14 arXiv 2302.14294 초록과 clien 18679340, 19221086 로 작성. 한국어 매체 파편과 옮긴 뒤 어색함(새 커뮤니티 적응) 대목 필요",
       "createdAt": "2026-11-14T09:37:49.309Z",
       "seq": 5000
+    },
+    {
+      "id": "b7632310",
+      "title": "choosing-not-to-have-children 보강: 문학 파편, 부모 앞에서 얼버무리기 관계",
+      "priority": 50,
+      "note": "2026-11-14 후보: Baum 1983 cambridge 46330728410DF5C5EC638C5DB5BC048D 네 지향, guttmacher node/15204 1982-2002 비율, ksl.com/article/133792 (2005) 미래 불안 때문에, Straight Dope 같은 스레드 경제적 이유",
+      "createdAt": "2026-11-14T12:13:54.575Z",
+      "seq": 5012
+    },
+    {
+      "id": "36ed02af",
+      "title": "choosing-not-to-marry 보강: 매체·문학 파편, pressuring-children-to-marry 관계",
+      "priority": 50,
+      "note": "2026-11-14 후보: frontiersin fpsyg.2021.756090 (Tan 외 2021-11-19) 자율과 재정 걱정이 독신을 고르는 이유(연애 기준이라 조건 명시 필요). Straight Dope staying-single-into-old-age/584381 같은 스레드 'I like being able to make my own choices'. 결혼 재촉과 원인·결과 인과 문장 필요",
+      "createdAt": "2026-11-14T12:18:48.258Z",
+      "seq": 5013
+    },
+    {
+      "id": "33bac231",
+      "title": "delaying-childbearing 보강: 한국어 매체 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-11-14 후보: ONS 2019 같은 글 이유 목록(delaying marriage, longer working career, labour market uncertainty, may include 라 추정). clien park/19258434 (2026-09 무렵) 집값과 월급 부담. kihasa journal-41-3-298 주택 비용과 출산 연기(PDF). choosing-not-to-have-children 과 관계 검토",
+      "createdAt": "2026-11-14T12:22:30.308Z",
+      "seq": 5014
+    },
+    {
+      "id": "adb47410",
+      "title": "moving-out-for-cheaper-housing 관계: accepting-long-commute 결과 간선, 한국 공공 파편",
+      "priority": 50,
+      "note": "2026-11-14 Census cb14-109 같은 글 'If they mainly want cheaper housing, they may have to deal with a longer commute.'(같은 출처라 원문 교체 또는 다른 출처 필요). GLA Domestic_Migration_briefing_int_May23.html (2023-05-09, 9.6MB) 'high cost of housing in London' push factor. clien park/19210331 (2026-06-16) 댓글 서울 집 전세 놓고 경기도 전세. 서울연구원 2022 분석 seoul.co.kr 20220513009017 신규 주택 공급이 핵심 요인(조건)",
+      "createdAt": "2026-11-14T12:26:51.464Z",
+      "seq": 5015
+    },
+    {
+      "id": "efe44c90",
+      "title": "leaving-hometown-for-city-jobs 관계: 향수, 돌아온 고향의 낯섦, moving-to-the-countryside",
+      "priority": 50,
+      "note": "2026-11-14 KDI pub_no=17435 같은 글 '수도권 거주 비중은 진학과 취업 단계를 거치면서 10%p 정도 상승'. 떠난 뒤 향수를 느낀다는 인과 파편 필요. 학술·문학 파편 없음",
+      "createdAt": "2026-11-14T12:29:11.737Z",
+      "seq": 5016
+    },
+    {
+      "id": "a4e78934",
+      "title": "wanting-to-emigrate 보강: 한국어 공공·SNS 파편, 바람과 실제 이주의 차이",
+      "priority": 50,
+      "note": "2026-11-14 후보: news.gallup.com/poll/124028 (2009-11-02) 16% 영구 이주 희망, 실제 이주 규모와 구분. boards.straightdope.com/t/leaving-usa-for-someplace-saner-easier-said-than-done/1009810 (2024-11-06) 선거 뒤 떠날 생각, 나이 때문에 어려움. emnbelgium.be gallup-world-poll-many-faces-global-migration (2012-02-01) 바람·계획·준비 단계. 한국 공공 HTML 미발견",
+      "createdAt": "2026-11-14T12:32:34.462Z",
+      "seq": 5017
+    },
+    {
+      "id": "2cb463b0",
+      "title": "retirement-migration 보강: 한국어 파편(제주, 동남아), 가족 없는 곳을 꺼리는 조건",
+      "priority": 50,
+      "note": "2026-11-14 Straight Dope warmer-climates-over-rated-for-retirement/662977 같은 스레드 댓글 'If I move somewhere warmer, I have no family or friends'(같은 출처라 다른 스레드 필요). ERS charts-of-note/76291 'low crime rate, low housing costs, social cohesion'. Census 2022 'Florida gained more older adults from net migration'",
+      "createdAt": "2026-11-14T12:34:49.960Z",
+      "seq": 5018
+    },
+    {
+      "id": "867076b0",
+      "title": "return-migration 보강: 공공 파편, 다른 시기 파편, returning-home-feels-strange 관계",
+      "priority": 50,
+      "note": "2026-11-14 후보: www150.statcan.gc.ca/pub/91-528-x/2026001/chap9-eng.htm Returning emigrants 정의. econpapers RePEc:cup:bpubpo:v:3:y:2019 Stark 2019 귀환 이유 12가지. 2008 BMC 1472-698X-8-8 난민 귀환(비자발). 발행일 모두 2019 이후라 이른 시기 파편 필요",
+      "createdAt": "2026-11-14T12:37:17.009Z",
+      "seq": 5019
+    },
+    {
+      "id": "d0e986d9",
+      "title": "aging-in-place 보강: 한국 노인실태조사 파편, fear-of-losing-independence·wanting-to-live-apart-from-children 관계",
+      "priority": 50,
+      "note": "2026-11-14 노인실태조사 2017 거동 불편해도 살던 집에서 88.6%(서울신문·뉴시스 보도, korea.kr 프록시 리셋). PMC6065259 Lindquist 집에 머무는 능력을 흔드는 사건 다섯(입원, 낙상, 치매, 배우자 사별, 집 관리). Straight Dope dealing-with-a-parent-who-is-in-denial/731054?page=3 (2015-09-23) 자녀 쪽 장면",
+      "createdAt": "2026-11-14T12:41:04.043Z",
+      "seq": 5020
     },
     {
       "id": "02f3593b",
