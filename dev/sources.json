@@ -27845,5 +27845,17 @@
     "last": "2026-11-14",
     "result": "VERIFIED",
     "lastVerified": "2026-11-14"
+  },
+  "https://www.gutenberg.org/cache/epub/13409/pg13409-images.html": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC5339152/": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
   }
 }

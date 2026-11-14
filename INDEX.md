@@ -411,6 +411,7 @@
 - [소유 효과](docs/endowment-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [소지품으로 자리 맡기](docs/saving-seats-with-belongings.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [소프트웨어 업데이트 미루기](docs/delaying-software-updates.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [손가락 마디 꺾기](docs/knuckle-cracking.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [손님 오기 전에 집 치우기](docs/tidying-before-guests.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [손님으로 너무 오래 머물까 걱정하기](docs/fear-of-overstaying-welcome.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [손님의 폭언](docs/customer-verbal-abuse.md) ([일터와 일자리](groups/work.md))
