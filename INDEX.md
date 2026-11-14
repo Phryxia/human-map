@@ -504,6 +504,7 @@
 - [옛 일기 다시 읽기](docs/rereading-old-diaries.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [옛 친구에게 연락하기 망설이기](docs/hesitating-to-contact-old-friends.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [옛 편지 다시 읽기](docs/rereading-old-letters.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [오만](docs/arrogance.md) ([성향과 기질](groups/traits.md))
 - [온라인 자기 노출](docs/online-self-disclosure.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [온화한 시기](docs/benign-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [올린 글의 반응 자꾸 확인하기](docs/checking-likes-after-posting.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
