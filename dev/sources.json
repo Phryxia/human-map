@@ -27270,5 +27270,17 @@
     "last": "2026-11-14",
     "result": "VERIFIED",
     "lastVerified": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC5501400/": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://www.asiae.co.kr/article/2024031817444611013": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
   }
 }

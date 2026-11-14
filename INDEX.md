@@ -51,6 +51,7 @@
 - [계절 타기](docs/seasonal-mood-change.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [고데기 켜 둔 채 외출하기](docs/leaving-hair-straighteners-on.md) ([건강과 위험](groups/health-and-safety.md))
+- [고마움](docs/gratitude.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [고부 갈등](docs/mother-in-law-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [고용 불안](docs/job-insecurity.md) ([일터와 일자리](groups/work.md))
 - [고인과의 유대 이어 가기](docs/continuing-bonds.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
