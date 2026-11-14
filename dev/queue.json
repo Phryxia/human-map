@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T18:37:45.991Z",
-  "nextSeq": 5043,
-  "stops": 267,
+  "savedAt": "2026-11-14T21:37:08.908Z",
+  "nextSeq": 5061,
+  "stops": 268,
   "items": [
-    {
-      "id": "d0e986d9",
-      "title": "aging-in-place 보강: 한국 노인실태조사 파편, fear-of-losing-independence·wanting-to-live-apart-from-children 관계",
-      "priority": 50,
-      "note": "2026-11-14 노인실태조사 2017 거동 불편해도 살던 집에서 88.6%(서울신문·뉴시스 보도, korea.kr 프록시 리셋). PMC6065259 Lindquist 집에 머무는 능력을 흔드는 사건 다섯(입원, 낙상, 치매, 배우자 사별, 집 관리). Straight Dope dealing-with-a-parent-who-is-in-denial/731054?page=3 (2015-09-23) 자녀 쪽 장면",
-      "createdAt": "2026-11-14T12:41:04.043Z",
-      "seq": 5020
-    },
-    {
-      "id": "d0c649bc",
-      "title": "eating-lunch-apart-from-coworkers 관계: company-dinner-pressure·eating-alone-feelings",
-      "priority": 50,
-      "note": "2026-11-14 인과 문장 아직 없음. segye.com/newsView/20180803003606 잡코리아 아웃사이더 이유 '점심식사나 회식 등 인간관계 유지에 들어가는 비용이 부담스러워서'. asiae 2023062215011338448 상사가 '왜 밥을 같이 먹지 않냐' 압박",
-      "createdAt": "2026-11-14T15:18:37.820Z",
-      "seq": 5030
-    },
-    {
-      "id": "fccf149d",
-      "title": "choosing-not-to-marry 보강: 매체 파편, pressuring-children-to-marry 관계",
-      "priority": 50,
-      "note": "2026-11-14 문학 Gissing 1893 추가함. 매체 파편과 결혼 재촉과의 인과 문장 아직 없음. 후보 frontiersin fpsyg.2021.756090 Tan 외 2021-11-19",
-      "createdAt": "2026-11-14T15:27:20.930Z",
-      "seq": 5032
-    },
-    {
-      "id": "b7ac6b14",
-      "title": "delaying-childbearing 원인 간선",
-      "priority": 50,
-      "note": "2026-11-14 biz.sbs.co.kr/amp/article/20000151219 (2024-01-03) 국토연구원 '첫째 자녀 출산에는 집값·전셋값 상승이 결정적인 원인'. moving-out-for-cheaper-housing 등 주거비 현상과 관계 검토",
-      "createdAt": "2026-11-14T15:30:48.070Z",
-      "seq": 5033
-    },
-    {
-      "id": "e30a8472",
-      "title": "leaving-hometown-for-city-jobs 관계: 향수, 돌아온 고향의 낯섦, moving-to-the-countryside",
-      "priority": 50,
-      "note": "2026-11-14 Sister Carrie 1900 문학 파편 추가함. 학술 파편과 떠난 뒤 향수를 느낀다는 인과 파편 아직 없음. KDI pub_no=17435 '수도권 거주 비중은 진학과 취업 단계를 거치면서 10%p 정도 상승'",
-      "createdAt": "2026-11-14T15:34:04.702Z",
-      "seq": 5034
-    },
-    {
-      "id": "3edcc581",
-      "title": "wanting-to-emigrate 보강: 한국어 공공·SNS 파편",
-      "priority": 50,
-      "note": "2026-11-14 Gallup 2009 추가함. 한국어 파편 아직 없음. boards.straightdope.com/t/leaving-usa-for-someplace-saner-easier-said-than-done/1009810 (2024-11-06) 나이 때문에 어려움",
-      "createdAt": "2026-11-14T15:34:52.155Z",
-      "seq": 5035
-    },
-    {
-      "id": "11461c59",
-      "title": "return-migration 보강: 공공 파편, returning-home-feels-strange 관계",
-      "priority": 50,
-      "note": "2026-11-14 sidae 2014 추가함. 후보 www150.statcan.gc.ca/pub/91-528-x/2026001/chap9-eng.htm Returning emigrants 정의. m.seoul.co.kr/news/2009/02/07/20090207021003 '집이 팔릴 것 같지도 않아 1억원을 포기하고 돌아오기로 했다'",
-      "createdAt": "2026-11-14T15:38:11.821Z",
-      "seq": 5036
-    },
-    {
-      "id": "8d4574db",
-      "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
-      "priority": 50,
-      "note": "2026-11-14 lady.khan.co.kr 202610270700001 '나만 뒤처져 보이는 것은 아닐까' 동창회 전 불안. Chekhov Fat and Thin 은 flattering-superiors 장면과도 겹침",
-      "createdAt": "2026-11-14T18:27:57.515Z",
-      "seq": 5042
-    },
     {
       "id": "02f3593b",
       "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
@@ -1301,6 +1237,54 @@
       "seq": 4997
     },
     {
+      "id": "bc7434b3",
+      "title": "eating-lunch-apart-from-coworkers 원인 간선: 함께 먹는 자리의 부담",
+      "priority": 30,
+      "note": "2026-11-14 eating-alone-feelings 결과 간선 넣음. company-dinner-pressure 와 점심 혼밥을 인과로 묶는 문장 미발견. 후보 권혜진·주영아 2018 koreascience JAKO201819360817369 PDF '불편한 사람과의 식사를 피하기 위해서 혼자 밥을 먹기 시작하였다'(PDF 라 UNREACHABLE 가능). stomp.sg 2025-09-13 'not keen as they often just complain about office politics'. upworthy eating-lunch-in-car-real-reason 2024-11-01",
+      "createdAt": "2026-11-14T21:13:31.393Z",
+      "seq": 5053
+    },
+    {
+      "id": "68521b5b",
+      "title": "choosing-not-to-marry 관계: pressuring-children-to-marry",
+      "priority": 30,
+      "note": "2026-11-14 데일리안 2021 매체 파편 더함. 재촉과 비혼의 인과 문장 미발견. jamaicaobserver 2016-11-19 Pressured to wed 'My family wants me to get married, but I don't want to.'(인과 아님). shethepeople pushing-children-towards-marriage 2022 재촉 때문에 가족을 피함. e.vnexpress 4570622 2023 재촉의 이유",
+      "createdAt": "2026-11-14T21:17:28.137Z",
+      "seq": 5054
+    },
+    {
+      "id": "92d61934",
+      "title": "delaying-childbearing 원인 간선: 집값·주거비",
+      "priority": 30,
+      "note": "2026-11-14 money-worry 원인 간선 넣음. biz.sbs.co.kr/amp/article/20000151219 (2024-01-03) 국토연구원 '첫째 자녀 출산에는 집값·전셋값 상승이 결정적인 원인'. 상대 문서(주거비 부담) 없음",
+      "createdAt": "2026-11-14T21:19:09.197Z",
+      "seq": 5055
+    },
+    {
+      "id": "15b48dd3",
+      "title": "wanting-to-emigrate 보강: 한국어 SNS 파편과 공공 파편",
+      "priority": 30,
+      "note": "2026-11-14 주간경향 2004 매체 파편 더함. 공공·한국어 SNS 아직 없음. 한국청소년정책연구원 고3 58% 해외 거주 희망(hancinema 보도). kormedi.com/2762951 APA 2025 18~34세 63% 해외 이주 고려",
+      "createdAt": "2026-11-14T21:20:40.098Z",
+      "seq": 5056
+    },
+    {
+      "id": "08b32bce",
+      "title": "return-migration 보강: 공공 파편, returning-home-feels-strange 관계",
+      "priority": 30,
+      "note": "2026-11-14 서울신문 2009 매체 파편 더함. 공공 후보: oecd.org return-reintegration-and-re-migration_625fb5e6-en component-3·7 (2024) 'The main driver for return migration to origin countries is family related'(curl 봇 페이지). oka.go.kr 재외동포청 PDF '귀환 이주 증가'. statcan 91-528-x chap9 (점검 페이지)",
+      "createdAt": "2026-11-14T21:22:07.519Z",
+      "seq": 5057
+    },
+    {
+      "id": "8d82229b",
+      "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
+      "priority": 30,
+      "note": "2026-11-14 인과 문장 미발견. lady.khan 202610270700001 '예전의 열등감이나 불편한 인간관계가 되살아나기도 한다'(인과 아님). v.daum.net/v/YsTvkSPK9M 비교로 인생이 초라하게 느껴짐(미확인). wkorea 2025-11-01 질투는 처지 비슷한 사람에게. psychologytoday 199203 fear-and-loathing-high-school-reunions",
+      "createdAt": "2026-11-14T21:22:47.078Z",
+      "seq": 5058
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1563,6 +1547,22 @@
       "note": "2026-11-13 kca.go.kr no=1000655869 는 view.do?menukey=4002&boardId=00000013 꼴로 열어도 본문 없음, 정확한 URL 필요. 세계일보 [^3] 같은 기사 애매모호한 관계 35% 는 같은 출처라 못 씀",
       "createdAt": "2026-11-13T09:33:19.782Z",
       "seq": 4854
+    },
+    {
+      "id": "56cf4bbf",
+      "title": "aging-in-place 관계: fear-of-losing-independence·wanting-to-live-apart-from-children",
+      "priority": 20,
+      "note": "2026-11-14 한국 조사 파편 둘 더함. 인과 문장 두 번 찾았으나 없음. 후보 PMC6065259 Lindquist 2016 'I want to be independent and live on my own.'(인과 아님). m.seoul.co.kr/news/2018/05/24/20180524800062. newsis NISX20260703_0003695258 연구진 해석: 돌봄 제공자에 대한 죄책감 가능성(self-perceived-burden 후보)",
+      "createdAt": "2026-11-14T21:22:56.692Z",
+      "seq": 5059
+    },
+    {
+      "id": "b84259a7",
+      "title": "leaving-hometown-for-city-jobs 관계: 향수, 돌아온 고향의 낯섦, moving-to-the-countryside",
+      "priority": 20,
+      "note": "}",
+      "createdAt": "2026-11-14T21:23:02.771Z",
+      "seq": 5060
     },
     {
       "id": "9c55db6a",
