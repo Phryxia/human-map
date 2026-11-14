@@ -18,6 +18,8 @@
 
 2019년 영국 통계청 자료[^5]는 잉글랜드와 웨일스 여성이 아이를 갖지 않는 것이 아니라 출산을 늦추고 있다고 적었다.
 
+2024년 Royal London 보도자료[^6]가 전한 조사에서 18세에서 34세 응답자의 8%는 지금 돈이 없어서 아이 갖기를 미루고 있다고 답했다.
+
 # 관계
 
 ## 상위
@@ -30,7 +32,7 @@
 
 ## 원인
 
-없음.
+- [돈 걱정](money-worry.md)[^6]
 
 ## 결과
 
@@ -47,3 +49,4 @@
 [^3]: [공공] "The average age of first-time mothers increased 3.6 years from 1970 to 2006, from 21.4 to 25.0 years." (첫 아이를 낳는 어머니의 평균 나이는 1970년부터 2006년까지 21.4세에서 25.0세로 3.6년 올랐다.) — T. J. Mathews, B. E. Hamilton, "Delayed childbearing: More women are having their first child later in life", NCHS Data Brief No. 21, 2009-08, https://www.cdc.gov/nchs/products/databriefs/db21.htm, 2026-11-14 접속
 [^4]: [학술] "Massive postponement is attributed to the clash between the optimal biological period for women to have children with obtaining additional education and building a career." (대규모 연기는 여성이 아이를 갖기에 생물학적으로 가장 좋은 시기와 추가 교육을 받고 경력을 쌓는 일이 부딪치는 데 기인한다.) — Melinda Mills, Ronald R. Rindfuss, Peter McDonald, Egbert te Velde, "Why do people postpone parenthood? Reasons and social policy incentives", Human Reproduction Update, 2011-11, https://pmc.ncbi.nlm.nih.gov/articles/PMC3529638/, 2026-11-14 접속
 [^5]: [공공] "This suggests that women are delaying childbearing rather than not having children." (이는 여성이 아이를 갖지 않는 것이 아니라 출산을 늦추고 있음을 시사한다.) — Office for National Statistics, "Childbearing for women born in different years, England and Wales: 2018", 2019-12-04, https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/bulletins/childbearingforwomenbornindifferentyearsenglandandwales/2018, 2026-11-14 접속
+[^6]: [매체] "This figure rises to more than 1 in 5 (22%) of those aged 18-34, and almost 1 in 10 (8%) people in this age group said they were delaying having children because they didn’t have the money right now." (이 수치는 18세에서 34세에서 5명 중 1명 이상(22%)으로 오르고, 이 나이대의 10명 중 1명 가까이(8%)는 지금 돈이 없어서 아이 갖기를 미루고 있다고 말했다.) — Royal London, "A generation on ‘pause’ as cost of living concerns lead to delays in starting a family", 2024-05-29, https://www.royallondon.com/about-us/media/Media-Centre/press-releases/press-releases-2024/may/A-generation-on-pause-as-cost-of-living-concerns-lead-to-delays-in-starting-a-family/, 2026-11-14 접속
