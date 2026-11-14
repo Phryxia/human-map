@@ -60,6 +60,7 @@
   - [승진에서 밀린 뒤의 분함](../docs/passed-over-for-promotion.md)
   - [악의적 시기](../docs/malicious-envy.md)
   - [온화한 시기](../docs/benign-envy.md)
+- [아이를 낳지 않기로 하기](../docs/choosing-not-to-have-children.md) 결혼했거나 결혼할 사람이 아이를 낳지 않기로 스스로 정한다.
 - [아이를 보육시설에 처음 맡기는 부모의 불안](../docs/parental-separation-anxiety-at-childcare.md) 아이를 처음 어린이집이나 보육시설에 맡기는 부모가 아이와 떨어지는 일을 앞두거나 겪으며 불안과 슬픔, 죄책감을 느낀다.
 - [애정을 거친 말이나 행동으로 드러내기](../docs/rough-affection.md) 가까운 사람을 아끼는 사람이 그 마음을 다정한 말 대신 퉁명스러운 말이나 놀림으로 드러낸다.
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)
