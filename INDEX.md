@@ -580,6 +580,7 @@
 - [자녀 사교육 불안](docs/private-tutoring-anxiety.md) ([돈과 소비](groups/money.md))
 - [자녀 사진을 소셜 미디어에 올리기](docs/sharenting.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자녀 시험 날 시험장 밖에서 빌기](docs/praying-outside-exam-hall.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [자녀의 첫 휴대폰을 두고 망설이기](docs/first-phone-for-child-dilemma.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [자리 양보 망설임](docs/hesitating-to-offer-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자리를 양보받고 늙었다고 느끼기](docs/feeling-old-when-offered-a-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자살 유족의 자책](docs/suicide-bereavement-self-blame.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
