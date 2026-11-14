@@ -10,7 +10,9 @@
 
 1886년 수필집[^1]의 저자는 언짢은 일을 겪고 짓눌린 기분이 들 때 가장 좋은 옷을 모두 차려입고 나갔고 그러면 사라져 가던 자존감이 돌아왔다고 적었다.
 
-2017년 기사[^2]의 필자는 잘 차려입으면 실제로 기분도 좋아진다고 적었다.
+2012년 ScienceDaily 기사[^2]가 전한 조사에서 여성들이 좋아하는 드레스를 입겠다고 답한 비율은 기분이 좋을 때 62%, 우울할 때 6%였다.
+
+2017년 기사[^3]의 필자는 잘 차려입으면 실제로 기분도 좋아진다고 적었다.
 
 # 관계
 
@@ -37,4 +39,5 @@
 #마음
 
 [^1]: [문학] "when these unpleasant sort of things happened and I felt crushed, I put on all my best clothes and went out. It brought back my vanishing self-esteem." (이런 언짢은 일이 생겨 짓눌린 기분이 들면 나는 가장 좋은 옷을 모두 차려입고 나갔다. 그러면 사라져 가던 자존감이 돌아왔다.) — Jerome K. Jerome, "The Idle Thoughts of an Idle Fellow", Project Gutenberg, 1886, https://www.gutenberg.org/cache/epub/849/pg849-images.html, 2026-11-14 접속
-[^2]: [매체] "Lookin’ good does mean feelin’ good." (잘 차려입으면 정말로 기분도 좋아진다.) — Andrew Fiouzi, "Can You Make Your Mood Better by Dressing Up?", MEL Magazine, 2017-10-24, https://melmagazine.com/en-us/story/can-you-make-your-mood-better-by-dressing-up-2, 2026-11-14 접속
+[^2]: [매체] "Women also revealed they would be ten times more likely to put on a favorite dress when happy (62%) than when depressed (6%)." (여성들은 우울할 때(6%)보다 행복할 때(62%) 좋아하는 드레스를 입을 가능성이 열 배 높다고 밝혔다.) — ScienceDaily, "Happiness: it's not in the jeans", 2012-03-08, https://www.sciencedaily.com/releases/2012/03/120308062537.htm, 2026-11-14 접속
+[^3]: [매체] "Lookin’ good does mean feelin’ good." (잘 차려입으면 정말로 기분도 좋아진다.) — Andrew Fiouzi, "Can You Make Your Mood Better by Dressing Up?", MEL Magazine, 2017-10-24, https://melmagazine.com/en-us/story/can-you-make-your-mood-better-by-dressing-up-2, 2026-11-14 접속
