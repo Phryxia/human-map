@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T12:41:15.951Z",
-  "nextSeq": 5021,
-  "stops": 265,
+  "savedAt": "2026-11-14T15:38:22.519Z",
+  "nextSeq": 5037,
+  "stops": 266,
   "items": [
-    {
-      "id": "cd0f9e51",
-      "title": "vanity 관계: 가진 것 과시하기, 외모 꾸미기",
-      "priority": 50,
-      "note": "2026-11-14 Webster 2014 scholars.uky.edu 초록 연구 2 미용 시술 시나리오. showing-off-possessions 와 원인 간선이 될 인과 문장 필요. 후보: Persuasion 105 'Few women could think more of their personal appearance than he did'",
-      "createdAt": "2026-11-14T09:07:30.960Z",
-      "seq": 4983
-    },
-    {
-      "id": "7ee7e101",
-      "title": "self-deprecation 보강: 문학 파편, 원인(낮은 자존감) 간선",
-      "priority": 50,
-      "note": "2026-11-14 PMC4991046 같은 글 바로 뒤 'it is thought to reflect an underlying emotional neediness and low self-esteem (Martin et al., 2003)'. brunch daeheestory/283 '먼저 나를 깎아 안전지대를 만든 뒤에야 관계를 시작'. phys.org 한국 예능 자기비하 발화 연구 보도 봇 확인. deflecting-compliments 와 형제 관계 검토",
-      "createdAt": "2026-11-14T09:14:27.997Z",
-      "seq": 4990
-    },
-    {
-      "id": "191aa08c",
-      "title": "eating-lunch-apart-from-coworkers 보강: 학술 파편, company-dinner-pressure·eating-alone-feelings 관계",
-      "priority": 50,
-      "note": "2026-11-14 clien park/17911073 (2023-02-16) 팀장과 같이 먹어야 하고 폰 보는 것도 지적받음. view.asiae.co.kr 2025120213435070394 엠브레인 2025 혼밥 20대 57.2% 50대 42.4%. gqkorea 2026-02-19 '전 따로 먹을게요'. brunch notepod/142",
-      "createdAt": "2026-11-14T09:29:21.553Z",
-      "seq": 4998
-    },
-    {
-      "id": "6a55b16f",
-      "title": "online-political-argument-fatigue 보강: 학술 파편, 반박 안 하면 진 것 같은 느낌",
-      "priority": 50,
-      "note": "2026-11-14 clien park/19228807 같은 글 '거기에 제가 반응 안해주면 ... 설득된 것처럼 보이게 되는거같고'(같은 출처라 원문 교체로만). clien park/19063034 (2025-09-17) 말이 안 통하는 사람과는 논쟁도 키배도 아깝다. lurking 과 관계 후보: clien park/19241265 (2026-08-04) '직접 글을 쓰고 댓글을 남기는 분들은 전체 사용자의 5~10% 정도'",
-      "createdAt": "2026-11-14T09:33:03.443Z",
-      "seq": 4999
-    },
-    {
-      "id": "c025feba",
-      "title": "moving-to-another-online-community 보강: 매체 파편, lurking 관계",
-      "priority": 50,
-      "note": "2026-11-14 arXiv 2302.14294 초록과 clien 18679340, 19221086 로 작성. 한국어 매체 파편과 옮긴 뒤 어색함(새 커뮤니티 적응) 대목 필요",
-      "createdAt": "2026-11-14T09:37:49.309Z",
-      "seq": 5000
-    },
-    {
-      "id": "b7632310",
-      "title": "choosing-not-to-have-children 보강: 문학 파편, 부모 앞에서 얼버무리기 관계",
-      "priority": 50,
-      "note": "2026-11-14 후보: Baum 1983 cambridge 46330728410DF5C5EC638C5DB5BC048D 네 지향, guttmacher node/15204 1982-2002 비율, ksl.com/article/133792 (2005) 미래 불안 때문에, Straight Dope 같은 스레드 경제적 이유",
-      "createdAt": "2026-11-14T12:13:54.575Z",
-      "seq": 5012
-    },
-    {
-      "id": "36ed02af",
-      "title": "choosing-not-to-marry 보강: 매체·문학 파편, pressuring-children-to-marry 관계",
-      "priority": 50,
-      "note": "2026-11-14 후보: frontiersin fpsyg.2021.756090 (Tan 외 2021-11-19) 자율과 재정 걱정이 독신을 고르는 이유(연애 기준이라 조건 명시 필요). Straight Dope staying-single-into-old-age/584381 같은 스레드 'I like being able to make my own choices'. 결혼 재촉과 원인·결과 인과 문장 필요",
-      "createdAt": "2026-11-14T12:18:48.258Z",
-      "seq": 5013
-    },
-    {
-      "id": "33bac231",
-      "title": "delaying-childbearing 보강: 한국어 매체 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-11-14 후보: ONS 2019 같은 글 이유 목록(delaying marriage, longer working career, labour market uncertainty, may include 라 추정). clien park/19258434 (2026-09 무렵) 집값과 월급 부담. kihasa journal-41-3-298 주택 비용과 출산 연기(PDF). choosing-not-to-have-children 과 관계 검토",
-      "createdAt": "2026-11-14T12:22:30.308Z",
-      "seq": 5014
-    },
-    {
-      "id": "adb47410",
-      "title": "moving-out-for-cheaper-housing 관계: accepting-long-commute 결과 간선, 한국 공공 파편",
-      "priority": 50,
-      "note": "2026-11-14 Census cb14-109 같은 글 'If they mainly want cheaper housing, they may have to deal with a longer commute.'(같은 출처라 원문 교체 또는 다른 출처 필요). GLA Domestic_Migration_briefing_int_May23.html (2023-05-09, 9.6MB) 'high cost of housing in London' push factor. clien park/19210331 (2026-06-16) 댓글 서울 집 전세 놓고 경기도 전세. 서울연구원 2022 분석 seoul.co.kr 20220513009017 신규 주택 공급이 핵심 요인(조건)",
-      "createdAt": "2026-11-14T12:26:51.464Z",
-      "seq": 5015
-    },
-    {
-      "id": "efe44c90",
-      "title": "leaving-hometown-for-city-jobs 관계: 향수, 돌아온 고향의 낯섦, moving-to-the-countryside",
-      "priority": 50,
-      "note": "2026-11-14 KDI pub_no=17435 같은 글 '수도권 거주 비중은 진학과 취업 단계를 거치면서 10%p 정도 상승'. 떠난 뒤 향수를 느낀다는 인과 파편 필요. 학술·문학 파편 없음",
-      "createdAt": "2026-11-14T12:29:11.737Z",
-      "seq": 5016
-    },
-    {
-      "id": "a4e78934",
-      "title": "wanting-to-emigrate 보강: 한국어 공공·SNS 파편, 바람과 실제 이주의 차이",
-      "priority": 50,
-      "note": "2026-11-14 후보: news.gallup.com/poll/124028 (2009-11-02) 16% 영구 이주 희망, 실제 이주 규모와 구분. boards.straightdope.com/t/leaving-usa-for-someplace-saner-easier-said-than-done/1009810 (2024-11-06) 선거 뒤 떠날 생각, 나이 때문에 어려움. emnbelgium.be gallup-world-poll-many-faces-global-migration (2012-02-01) 바람·계획·준비 단계. 한국 공공 HTML 미발견",
-      "createdAt": "2026-11-14T12:32:34.462Z",
-      "seq": 5017
-    },
-    {
-      "id": "2cb463b0",
-      "title": "retirement-migration 보강: 한국어 파편(제주, 동남아), 가족 없는 곳을 꺼리는 조건",
-      "priority": 50,
-      "note": "2026-11-14 Straight Dope warmer-climates-over-rated-for-retirement/662977 같은 스레드 댓글 'If I move somewhere warmer, I have no family or friends'(같은 출처라 다른 스레드 필요). ERS charts-of-note/76291 'low crime rate, low housing costs, social cohesion'. Census 2022 'Florida gained more older adults from net migration'",
-      "createdAt": "2026-11-14T12:34:49.960Z",
-      "seq": 5018
-    },
-    {
-      "id": "867076b0",
-      "title": "return-migration 보강: 공공 파편, 다른 시기 파편, returning-home-feels-strange 관계",
-      "priority": 50,
-      "note": "2026-11-14 후보: www150.statcan.gc.ca/pub/91-528-x/2026001/chap9-eng.htm Returning emigrants 정의. econpapers RePEc:cup:bpubpo:v:3:y:2019 Stark 2019 귀환 이유 12가지. 2008 BMC 1472-698X-8-8 난민 귀환(비자발). 발행일 모두 2019 이후라 이른 시기 파편 필요",
-      "createdAt": "2026-11-14T12:37:17.009Z",
-      "seq": 5019
-    },
     {
       "id": "d0e986d9",
       "title": "aging-in-place 보강: 한국 노인실태조사 파편, fear-of-losing-independence·wanting-to-live-apart-from-children 관계",
@@ -115,6 +11,54 @@
       "note": "2026-11-14 노인실태조사 2017 거동 불편해도 살던 집에서 88.6%(서울신문·뉴시스 보도, korea.kr 프록시 리셋). PMC6065259 Lindquist 집에 머무는 능력을 흔드는 사건 다섯(입원, 낙상, 치매, 배우자 사별, 집 관리). Straight Dope dealing-with-a-parent-who-is-in-denial/731054?page=3 (2015-09-23) 자녀 쪽 장면",
       "createdAt": "2026-11-14T12:41:04.043Z",
       "seq": 5020
+    },
+    {
+      "id": "d0c649bc",
+      "title": "eating-lunch-apart-from-coworkers 관계: company-dinner-pressure·eating-alone-feelings",
+      "priority": 50,
+      "note": "2026-11-14 인과 문장 아직 없음. segye.com/newsView/20180803003606 잡코리아 아웃사이더 이유 '점심식사나 회식 등 인간관계 유지에 들어가는 비용이 부담스러워서'. asiae 2023062215011338448 상사가 '왜 밥을 같이 먹지 않냐' 압박",
+      "createdAt": "2026-11-14T15:18:37.820Z",
+      "seq": 5030
+    },
+    {
+      "id": "fccf149d",
+      "title": "choosing-not-to-marry 보강: 매체 파편, pressuring-children-to-marry 관계",
+      "priority": 50,
+      "note": "2026-11-14 문학 Gissing 1893 추가함. 매체 파편과 결혼 재촉과의 인과 문장 아직 없음. 후보 frontiersin fpsyg.2021.756090 Tan 외 2021-11-19",
+      "createdAt": "2026-11-14T15:27:20.930Z",
+      "seq": 5032
+    },
+    {
+      "id": "b7ac6b14",
+      "title": "delaying-childbearing 원인 간선",
+      "priority": 50,
+      "note": "2026-11-14 biz.sbs.co.kr/amp/article/20000151219 (2024-01-03) 국토연구원 '첫째 자녀 출산에는 집값·전셋값 상승이 결정적인 원인'. moving-out-for-cheaper-housing 등 주거비 현상과 관계 검토",
+      "createdAt": "2026-11-14T15:30:48.070Z",
+      "seq": 5033
+    },
+    {
+      "id": "e30a8472",
+      "title": "leaving-hometown-for-city-jobs 관계: 향수, 돌아온 고향의 낯섦, moving-to-the-countryside",
+      "priority": 50,
+      "note": "2026-11-14 Sister Carrie 1900 문학 파편 추가함. 학술 파편과 떠난 뒤 향수를 느낀다는 인과 파편 아직 없음. KDI pub_no=17435 '수도권 거주 비중은 진학과 취업 단계를 거치면서 10%p 정도 상승'",
+      "createdAt": "2026-11-14T15:34:04.702Z",
+      "seq": 5034
+    },
+    {
+      "id": "3edcc581",
+      "title": "wanting-to-emigrate 보강: 한국어 공공·SNS 파편",
+      "priority": 50,
+      "note": "2026-11-14 Gallup 2009 추가함. 한국어 파편 아직 없음. boards.straightdope.com/t/leaving-usa-for-someplace-saner-easier-said-than-done/1009810 (2024-11-06) 나이 때문에 어려움",
+      "createdAt": "2026-11-14T15:34:52.155Z",
+      "seq": 5035
+    },
+    {
+      "id": "11461c59",
+      "title": "return-migration 보강: 공공 파편, returning-home-feels-strange 관계",
+      "priority": 50,
+      "note": "2026-11-14 sidae 2014 추가함. 후보 www150.statcan.gc.ca/pub/91-528-x/2026001/chap9-eng.htm Returning emigrants 정의. m.seoul.co.kr/news/2009/02/07/20090207021003 '집이 팔릴 것 같지도 않아 1억원을 포기하고 돌아오기로 했다'",
+      "createdAt": "2026-11-14T15:38:11.821Z",
+      "seq": 5036
     },
     {
       "id": "02f3593b",
@@ -2979,6 +2923,22 @@
       "note": "2026-11-14 pewresearch.org/internet/2007/12/16/digital-footprints/ (2007-12-16) 'Nearly half of all internet users (47%) have searched for information about themselves online, up from just 22%' 열림(매체). 같은 사이트 2007-12-21 Vitak 'Have you googled yourself today?' 1인칭. 다른 종류 파편 필요: microsoft.com research ?p=166094 'Searching for Myself' 403/502, nbcnews 2013 most-not-all-us-google-ourselves 미확인. 상위 후보 looking-for-oneself-first 와 관계 검토",
       "createdAt": "2026-11-14T09:22:34.138Z",
       "seq": 4993
+    },
+    {
+      "id": "10afcd2f",
+      "title": "낮은 자존감",
+      "priority": 10,
+      "note": "2026-11-14 PMC4991046 Fox 2016 'it is thought to reflect an underlying emotional neediness and low self-esteem (Martin et al., 2003)' 자기 패배적 유머의 원인. self-deprecation 원인 간선 후보",
+      "createdAt": "2026-11-14T15:13:49.982Z",
+      "seq": 5029
+    },
+    {
+      "id": "5916b5f1",
+      "title": "정치적 의견 차이로 언팔로우하기",
+      "priority": 10,
+      "note": "2026-11-14 cogitatiopress.com mediaandcommunication/article/view/8483 Zhang·Shoenberger 2024-12-05 'Perceived political disagreement was significantly related to anger, which was further positively associated with both unfollowing and unfriending'. online-political-argument-fatigue 와 관계 후보",
+      "createdAt": "2026-11-14T15:22:11.301Z",
+      "seq": 5031
     },
     {
       "id": "02b2f242",
