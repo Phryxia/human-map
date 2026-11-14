@@ -26,6 +26,7 @@
 - [남의 비위 맞추기](../docs/people-pleasing.md) 사람이 남에게 인정받으려고 자기의 바람보다 남의 바람을 앞세워 맞춘다.
 - [남의 사적인 기록 몰래 보기](../docs/reading-others-private-writing.md) 가족이나 연인처럼 가까이 지내는 사람의 일기, 편지, 메시지 같은 사적인 기록을 그 사람 몰래 읽는다.
   - [연인의 휴대폰 몰래 보기](../docs/snooping-on-partners-phone.md)
+- [남의 아기 안아 보기 꺼리기](../docs/reluctance-to-hold-others-babies.md) 아기를 키워 보지 않은 어른이 남의 아기를 보러 가거나 안아 보라는 권유를 받으면 어색해하고 안기를 피한다.
 - [남의 자식과 내 자식 비교하기](../docs/comparing-children-to-others.md) 부모가 남의 집 아이나 친척 아이를 본보기로 삼아 자기 자녀와 견준다.
 - [내가 죽으면 다들 미안해하리라는 상상](../docs/imagining-others-sorry-at-own-death.md) 서운하거나 억울한 사람이 자기가 죽은 뒤 주변 사람들이 놀라고 슬퍼하고 미안해하는 모습을 상상한다.
 - [노후에 자녀와 따로 살기 바라기](../docs/wanting-to-live-apart-from-children.md) 나이 든 사람이 자녀와 한집에 살기보다 따로 살기를 바란다.
