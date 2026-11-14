@@ -10,7 +10,9 @@
 
 1921년 단편[^1]의 화자는 기차 맞은편 여인의 눈길을 받으며 그의 비밀을 읽어 냈다고 여기고 시누이의 이름을 힐다라고 정했다.
 
-2021년 에세이[^2]의 필자는 지하철 승객들에게 지난 사연을 지어 주고 한 사람이 다른 사람의 사랑을 알았을지를 상상한다고 적었다.
+2005년 에세이[^2]의 필자는 상상 속에서 에나멜 백구두를 아끼는 백발 노신사가 닳은 구두 앞코를 내려다보며 밤무대 가수 시절을 떠올린다고 적었다.
+
+2021년 에세이[^3]의 필자는 지하철 승객들에게 지난 사연을 지어 주고 한 사람이 다른 사람의 사랑을 알았을지를 상상한다고 적었다.
 
 # 관계
 
@@ -37,4 +39,5 @@
 #공공 #마음
 
 [^1]: [문학] "I read her message, deciphered her secret, reading it beneath her gaze. Hilda's the sister-in-law." (나는 그녀의 전언을 읽었고 그녀의 눈길 아래서 비밀을 풀어냈다. 힐다가 시누이다.) — Virginia Woolf, "An Unwritten Novel", Monday or Tuesday, 1921, https://www.gutenberg.org/cache/epub/29220/pg29220-images.html, 2026-11-14 접속
-[^2]: [매체] "I create a backstory for them. Did this person know that the other person loved them?" (나는 그들에게 지난 사연을 지어 준다. 이 사람은 저 사람이 자기를 사랑했다는 걸 알았을까?) — Nora Zelevansky, "The Benefits of People-Watching: How My Weird Subway Ritual Became a Storytelling Device", Literary Hub, 2021-07-27, https://lithub.com/the-benefits-of-people-watching-how-my-weird-subway-ritual-became-a-storytelling-device, 2026-11-14 접속
+[^2]: [매체] "상상 속에서 유독 에나멜 백구두에 애착을 갖는 백발 노신사는 얄팍하게 닳은 구두 앞코를 내려다보며 화려한 조명 아래 밤무대 가수 시절을 떠올린다." — 권정현, 「[프런트 에세이]작가 권정현의 상상 예찬」, 레이디경향, 2005-07-01, https://lady.khan.co.kr/finance/article/6520, 2026-11-14 접속
+[^3]: [매체] "I create a backstory for them. Did this person know that the other person loved them?" (나는 그들에게 지난 사연을 지어 준다. 이 사람은 저 사람이 자기를 사랑했다는 걸 알았을까?) — Nora Zelevansky, "The Benefits of People-Watching: How My Weird Subway Ritual Became a Storytelling Device", Literary Hub, 2021-07-27, https://lithub.com/the-benefits-of-people-watching-how-my-weird-subway-ritual-became-a-storytelling-device, 2026-11-14 접속
