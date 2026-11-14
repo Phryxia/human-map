@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T15:38:22.519Z",
-  "nextSeq": 5037,
-  "stops": 266,
+  "savedAt": "2026-11-14T18:37:45.991Z",
+  "nextSeq": 5043,
+  "stops": 267,
   "items": [
     {
       "id": "d0e986d9",
@@ -59,6 +59,14 @@
       "note": "2026-11-14 sidae 2014 추가함. 후보 www150.statcan.gc.ca/pub/91-528-x/2026001/chap9-eng.htm Returning emigrants 정의. m.seoul.co.kr/news/2009/02/07/20090207021003 '집이 팔릴 것 같지도 않아 1억원을 포기하고 돌아오기로 했다'",
       "createdAt": "2026-11-14T15:38:11.821Z",
       "seq": 5036
+    },
+    {
+      "id": "8d4574db",
+      "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
+      "priority": 50,
+      "note": "2026-11-14 lady.khan.co.kr 202610270700001 '나만 뒤처져 보이는 것은 아닐까' 동창회 전 불안. Chekhov Fat and Thin 은 flattering-superiors 장면과도 겹침",
+      "createdAt": "2026-11-14T18:27:57.515Z",
+      "seq": 5042
     },
     {
       "id": "02f3593b",
