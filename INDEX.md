@@ -38,6 +38,7 @@
 - [결말 먼저 읽기](docs/reading-the-ending-first.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [결혼 재촉](docs/pressuring-children-to-marry.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [결혼 전 불안](docs/pre-wedding-doubts.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [결혼하지 않기로 하기](docs/choosing-not-to-marry.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [경보 피로](docs/alarm-fatigue.md) ([건강과 위험](groups/health-and-safety.md))
 - [경쟁 집단의 불행에 대한 기쁨](docs/intergroup-schadenfreude.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [경증 구급차 호출](docs/nonurgent-ambulance-calls.md) ([건강과 위험](groups/health-and-safety.md))

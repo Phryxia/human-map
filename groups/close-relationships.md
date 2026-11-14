@@ -8,6 +8,7 @@
 - [같은 이야기 되풀이](../docs/retelling-same-story.md) 자기 지난 일을 이야기하는 사람이 이미 그 이야기를 들은 상대에게 같은 이야기를 다시 들려준다.
 - [결혼 재촉](../docs/pressuring-children-to-marry.md) 부모가 결혼하지 않은 성인 자녀에게 결혼하라고 거듭 재촉한다.
 - [결혼 전 불안](../docs/pre-wedding-doubts.md) 결혼을 앞둔 사람이 이 결혼을 해도 될지 의심하거나 두려워한다.
+- [결혼하지 않기로 하기](../docs/choosing-not-to-marry.md) 결혼하지 않은 성인이 결혼하지 않기로 스스로 정하거나 결혼할 생각이 없다고 여긴다.
 - [고부 갈등](../docs/mother-in-law-conflict.md) 시어머니와 며느리가 서로에게 불만을 품고 미워하거나 다툰다.
 - [고자질](../docs/tattling.md) 아이가 형제나 또래의 잘못을 부모나 교사 같은 어른에게 일러바친다.
 - [귀가 늦추기](../docs/delaying-going-home.md) 집에 있는 가족과 마주치거나 집안일을 맡기 싫은 사람이 일부러 집에 늦게 들어간다.
