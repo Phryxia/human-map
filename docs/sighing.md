@@ -16,6 +16,8 @@
 
 2024년 기사[^5]의 기자는 한숨을 쉬면 어른에게 무슨 걱정이 그렇게 많으냐는 꾸지람을 듣거나 복이 달아난다는 말을 들었던 기억이 있다고 썼다. 2025년 게시글[^6]의 글쓴이는 한숨을 쉬지 않으면 가슴이 답답하고 주변에서 무슨 일이 있냐고 물을 만큼 한숨이 잦다고 썼다.
 
+2026년 브런치 글[^7]은 Teigen 의 연구를 옮겨 사람들이 자기 한숨은 주로 문제를 푼 뒤의 안도나 휴식으로 느끼고 남의 한숨은 좌절이나 체념의 신호로 읽는 경향이 뚜렷했다고 적었다.
+
 # 관계
 
 ## 상위
@@ -46,3 +48,4 @@
 [^4]: [매체] "Reported relief increased in the five seconds following sighs, but not after breath holding or without instructions." (보고된 안도는 한숨 뒤 5초 동안 커졌으나 숨 참기 뒤나 지시가 없을 때는 커지지 않았다.) — Steven Pace, "Sighing reduces physiological tension in anxiety-sensitive individuals, study finds", PsyPost, 2016-08-04, https://www.psypost.org/sighing-reduces-physiological-tension-anxiety-sensitive-individuals-study-finds, 2026-10-21 접속
 [^5]: [매체] "한숨을 쉬면 어른한테 꼭 한 소리 들었던 기억이 있어요. ‘무슨 걱정이 그렇게 많냐?’는 식의 꾸지람으로 이어지기도 하고, 복이 달아난다는 이야기도 빠지지 않았죠." — 김민, 「땅 꺼지도록 한숨 쉬면 안 되나요?」, W Korea, 2024-05-27, https://www.wkorea.com/?p=302277, 2026-10-22 접속
 [^6]: [SNS] "한숨을 안 쉬면 뭔가 가슴이 답답한 느낌이 들어요 왜이러는거죠 주변에서 무슨일 잇냐고 물어 볼 정도인데요" — 닥터나우, 게시글, 2025-04-27, https://doctornow.co.kr/content/qna/d8f2b495201d4baabb7f8f4b0bd0da9d, 2026-10-21 접속
+[^7]: [매체] "그의 연구에 따르면, 사람들은 자신의 한숨은 주로 ‘문제를 해결한 후의 안도’나 ‘휴식’으로 느끼는 반면, 타인의 한숨은 ‘좌절’이나 ‘체념’의 신호로 해석하는 경향이 뚜렷했습니다." — IGM세계경영연구원, 「무심코 뱉은 '이것', 집중력 깨고 불안함 높인다」, 브런치, 2026-03-16, https://brunch.co.kr/@igmigm/529, 2026-11-14 접속
