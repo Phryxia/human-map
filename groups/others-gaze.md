@@ -49,6 +49,7 @@
 - [원할 때 대화 끝내지 못하기](../docs/not-ending-conversations.md) 대화를 끝내고 싶은 사람이 먼저 끝내자고 말하지 못하고 대화를 이어 간다.
   - [손님이 가 주기를 바라기](../docs/wishing-guests-would-leave.md)
 - [유리창에 비친 제 모습 흘끗 보기](../docs/glancing-at-own-reflection-in-windows.md) 길을 걷는 사람이 상점 진열창 같은 유리에 비친 자기 모습을 걸음을 멈추지 않고 흘끗 확인한다.
+- [자기 비하](../docs/self-deprecation.md) 사람이 남 앞에서 먼저 자기 약점이나 실수를 꺼내 자기를 깎아내리거나 우스개로 낮추어 말한다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
 - [참으려고 입술 깨물기](../docs/biting-lips-to-hold-back.md) 웃음, 눈물, 화를 남 앞에서 참으려는 사람이 입술을 깨문다.

@@ -578,6 +578,7 @@
 - [자거나 외출하며 세탁기와 건조기 돌려 두기](docs/leaving-appliances-running-unattended.md) ([건강과 위험](groups/health-and-safety.md))
 - [자기 보상 소비](docs/self-reward-purchase.md) ([돈과 소비](groups/money.md))
 - [자기 불구화](docs/self-handicapping.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [자기 비하](docs/self-deprecation.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [자기 연민](docs/self-pity.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 전 양치 거르기](docs/skipping-bedtime-toothbrushing.md) ([건강과 위험](groups/health-and-safety.md))
