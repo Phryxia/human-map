@@ -34,6 +34,7 @@
 - [온라인 자기 노출](../docs/online-self-disclosure.md) 사람이 소셜 미디어 같은 온라인 공간에서 자기 사생활과 개인적인 일을 스스로 드러낸다.
   - [프라이버시 역설](../docs/privacy-paradox.md)
 - [온라인 정치 논쟁의 피로](../docs/online-political-argument-fatigue.md) 소셜 미디어나 커뮤니티에서 의견이 다른 사람과 정치 이야기를 주고받는 사람이 스트레스와 지침을 느낀다.
+- [온라인 커뮤니티 옮겨 가기](../docs/moving-to-another-online-community.md) 온라인 커뮤니티나 플랫폼을 쓰던 사람이 그곳의 운영이나 분위기가 맞지 않게 되자 다른 곳으로 옮겨 간다.
 - [올린 글의 반응 자꾸 확인하기](../docs/checking-likes-after-posting.md) 소셜 미디어에 글이나 사진을 올린 사람이 좋아요나 점수가 얼마나 늘었는지 보려고 자꾸 다시 확인한다.
 - [울리지 않은 휴대전화 진동 느끼기](../docs/phantom-phone-vibration.md) 휴대전화를 가지고 다니는 사람이 전화가 울리지 않았는데도 진동이 왔다고 느낀다.
 - [음성 메시지 듣지 않기](../docs/ignoring-voicemail.md) 받지 못한 전화에 음성 메시지가 남은 사람이 그 메시지를 듣지 않고 두거나 듣지 않은 채 전화를 되건다.

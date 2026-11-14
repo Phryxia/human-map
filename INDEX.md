@@ -511,6 +511,7 @@
 - [오만](docs/arrogance.md) ([성향과 기질](groups/traits.md))
 - [온라인 자기 노출](docs/online-self-disclosure.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [온라인 정치 논쟁의 피로](docs/online-political-argument-fatigue.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [온라인 커뮤니티 옮겨 가기](docs/moving-to-another-online-community.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [온화한 시기](docs/benign-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [올린 글의 반응 자꾸 확인하기](docs/checking-likes-after-posting.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
