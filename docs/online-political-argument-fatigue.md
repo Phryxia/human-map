@@ -10,7 +10,9 @@
 
 2016년 퓨 리서치 센터 보고서[^1]에서 미국 소셜 미디어 이용자의 59% 가 정치 성향이 반대인 사람과 소셜 미디어에서 주고받는 일을 스트레스와 좌절로 느꼈고 35% 는 흥미롭고 유익하다고 답했다.
 
-2026년 클리앙 게시글[^2]의 글쓴이는 유튜브, 인스타그램, 커뮤니티에서 정치글을 보면 참다못해 가끔 댓글을 썼지만 점점 지쳐서 쓰지 않게 된다고 썼다.
+2020년 퓨 리서치 센터 글[^2]에서 미국 성인 소셜 미디어 이용자의 55% 가 소셜 미디어에서 보는 정치 게시물과 토론이 너무 많아 지쳤다고 답했다.
+
+2026년 클리앙 게시글[^3]의 글쓴이는 유튜브, 인스타그램, 커뮤니티에서 정치글을 보면 참다못해 가끔 댓글을 썼지만 점점 지쳐서 쓰지 않게 된다고 썼다.
 
 # 관계
 
@@ -37,4 +39,5 @@
 #온라인 #공공
 
 [^1]: [매체] "59% say their social media interactions with those with opposing political views are stressful and frustrating – although 35% find them interesting and informative." (59% 는 정치 성향이 반대인 사람과의 소셜 미디어 상호작용이 스트레스를 주고 좌절스럽다고 답했다. 35% 는 그것이 흥미롭고 유익하다고 여겼다.) — Maeve Duggan, Aaron Smith, "The Political Environment on Social Media", Pew Research Center, 2016-10-25, https://www.pewresearch.org/internet/2016/10/25/the-political-environment-on-social-media/, 2026-11-14 접속
-[^2]: [SNS] "유튜브나 인스타나 커뮤니티 사이트나 되도 않는 정치글, 특정 세력 비판글 이런거 보고 있으면 참다 못해 한번씩 댓글을 쓰는데 요새는 점점 지쳐서 안쓰게 되네요." — 클리앙 게시글, 2026-07-16, https://www.clien.net/service/board/park/19228807, 2026-11-14 접속
+[^2]: [매체] "Some 55% of adult social media users say they feel “worn out” by how many political posts and discussions they see on social media," (성인 소셜 미디어 이용자의 55% 가량이 소셜 미디어에서 보는 정치 게시물과 토론이 너무 많아 '지쳤다'고 말한다,) — Monica Anderson, Brooke Auxier, "55% of U.S. social media users say they are 'worn out' by political posts and discussions", Pew Research Center, 2020-08-19, https://www.pewresearch.org/short-reads/2020/08/19/55-of-u-s-social-media-users-say-they-are-worn-out-by-political-posts-and-discussions/, 2026-11-14 접속
+[^3]: [SNS] "유튜브나 인스타나 커뮤니티 사이트나 되도 않는 정치글, 특정 세력 비판글 이런거 보고 있으면 참다 못해 한번씩 댓글을 쓰는데 요새는 점점 지쳐서 안쓰게 되네요." — 클리앙 게시글, 2026-07-16, https://www.clien.net/service/board/park/19228807, 2026-11-14 접속
