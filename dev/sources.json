@@ -61,15 +61,15 @@
   },
   "https://www.jjan.kr/article/20180904648824": {
     "first": "2026-10-15",
-    "last": "2026-10-21",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-14"
   },
   "https://mediahub.seoul.go.kr/archives/2004224": {
     "first": "2026-10-15",
-    "last": "2026-10-21",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-14"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11323640/": {
     "first": "2026-10-15",
@@ -131,9 +131,9 @@
   },
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8682511/": {
     "first": "2026-10-16",
-    "last": "2026-10-21",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-14"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3057069/": {
     "first": "2026-10-16",
@@ -557,9 +557,9 @@
   },
   "https://kormedi.com/2707535/": {
     "first": "2026-10-17",
-    "last": "2026-11-12",
+    "last": "2026-11-14",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-14"
   },
   "https://www.kihasa.re.kr/hswr/v.45/3/383/%EA%B3%A0%EB%A6%BD%EC%9D%80%EB%91%94+%EC%B2%AD%EB%85%84%EC%9D%98+%EC%84%B1%EC%9D%B8%EA%B8%B0+%ED%9B%84+%EB%B6%80%EC%A0%95%EC%A0%81+%EC%83%9D%EC%95%A0%EA%B2%BD%ED%97%98+%EC%9C%A0%ED%98%95%ED%99%94": {
     "first": "2026-10-17",
@@ -27871,6 +27871,12 @@
     "lastVerified": "2026-11-14"
   },
   "https://www.newsis.com/view/NISX20260703_0003695258": {
+    "first": "2026-11-14",
+    "last": "2026-11-14",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-14"
+  },
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002906074": {
     "first": "2026-11-14",
     "last": "2026-11-14",
     "result": "VERIFIED",
