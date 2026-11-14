@@ -1,96 +1,48 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T06:38:20.011Z",
-  "nextSeq": 4962,
-  "stops": 263,
+  "savedAt": "2026-11-14T09:38:50.087Z",
+  "nextSeq": 5001,
+  "stops": 264,
   "items": [
     {
-      "id": "c2fb99a7",
-      "title": "self-pity 관계: 분노 반추, 외로움",
-      "priority": 50,
-      "note": "2026-11-14 kar.kent.ac.uk/4477 Stöber 2003 초록에 자기 연민과 anger-in, 분노 반추, 정서적 외로움의 연관(인과 아님). 인과 문장이 있는 출처를 찾으면 anger-rumination, loneliness 와 간선. 남은 후보: gutenberg 284 'Mrs. Trenor’s voice trembled with self-pity', brunch peanutjamjam/439 실직 상황에서 자기 연민이 쉬워짐(withdrawing-after-job-loss 관계 후보)",
-      "createdAt": "2026-11-14T06:09:41.918Z",
-      "seq": 4951
-    },
-    {
-      "id": "06e2d556",
+      "id": "cd0f9e51",
       "title": "vanity 관계: 가진 것 과시하기, 외모 꾸미기",
       "priority": 50,
       "note": "2026-11-14 Webster 2014 scholars.uky.edu 초록 연구 2 미용 시술 시나리오. showing-off-possessions 와 원인 간선이 될 인과 문장 필요. 후보: Persuasion 105 'Few women could think more of their personal appearance than he did'",
-      "createdAt": "2026-11-14T06:12:42.872Z",
-      "seq": 4952
+      "createdAt": "2026-11-14T09:07:30.960Z",
+      "seq": 4983
     },
     {
-      "id": "18a991fb",
-      "title": "miserliness 관계: tightwad-spending 과의 관계, 인색한 선택의 결과",
-      "priority": 50,
-      "note": "2026-11-14 Dunn 외 2010 J Health Psychol PMID 20460419 'how does stinginess get under the skin?' 인색한 선택이 수치심과 코르티솔로 이어짐(PubMed·SAGE·europepmc 403). PMC12220072 척도 문항 'hoarding money for future catastrophes (Miserliness)'. tightwad-spending(자기 지출) 과 구분, 공통 상위 여부 판단",
-      "createdAt": "2026-11-14T06:17:48.472Z",
-      "seq": 4953
-    },
-    {
-      "id": "3ce8f20d",
-      "title": "stubbornness 보강: SNS 파편과 조건(나이, 자녀가 더 높게 봄)",
-      "priority": 50,
-      "note": "2026-11-14 PMC4903030 같은 초록 'Children reported higher levels of parental stubbornness than parents self-reported.' scholarworks.sookmyung.ac.kr 152797 조혜진 2022 아동 고집 인식 4유형. Bartleby gutenberg 11231 'persist in that mulish vagary' 후보. 한국어 SNS 파편 없음",
-      "createdAt": "2026-11-14T06:21:48.900Z",
-      "seq": 4954
-    },
-    {
-      "id": "f360681f",
-      "title": "arrogance 보강: SNS 파편, vanity 와의 관계",
-      "priority": 50,
-      "note": "2026-11-14 PMC5500344 Milyavsky 2017 Johnson 외 정의 'a set of behaviors that communicates a person’s exaggerated sense of superiority, which is often accomplished by disparaging others'. ppss.kr/archives/255439 같은 글 '자신이 그 기준을 충족하는 사람이라 좋은 대접을 받아야 하며'. SNS 파편 없음",
-      "createdAt": "2026-11-14T06:25:11.419Z",
-      "seq": 4955
-    },
-    {
-      "id": "bb84d86b",
-      "title": "greed 보강: 결과 간선(더 바라다 잃기), 실증 파편",
-      "priority": 50,
-      "note": "2026-11-14 gutenberg 11339 Aesop 황금알 거위 'Much wants more and loses all.' research.tilburguniversity.edu dispositional-greed Seuntjens 2015 독재자·최후통첩 게임 문장 229자(짧은 문장 필요). workingus ?p=3940402 첫 댓글 '계속 욕심만 느네요'",
-      "createdAt": "2026-11-14T06:26:33.111Z",
-      "seq": 4956
-    },
-    {
-      "id": "cdea6377",
-      "title": "laziness 관계: procrastination 과의 관계, 조건(돈벌이 노동만 피함)",
-      "priority": 50,
-      "note": "2026-11-14 gutenberg 2048 Rip Van Winkle 바로 뒤에 낚시와 이웃 일에는 끈기가 있었다는 대목(조건). PMC2970648 Kool 2010 'participants as a group displayed a clear bias toward the less demanding option.' Oblomov 54700 'he would spend his time in lying on his back.'",
-      "createdAt": "2026-11-14T06:29:09.365Z",
-      "seq": 4957
-    },
-    {
-      "id": "68187c88",
-      "title": "fickleness 보강: SNS 파편, 일반 성인 표본 학술 파편",
-      "priority": 50,
-      "note": "2026-11-14 PMC7196909 Kalokerinos 2020 'neuroticism was associated with experiencing more intense, but not more variable, negative emotions.' gutenberg 1079 Tristram Shandy 역마 규정 'through your _fickleness_'(1079 는 stubbornness 가 씀, 한 출처 2문서). maily.so/summer/posts/10z3kw6erlw 하루에도 몇 번씩 기분이 오르내림(발행일 미상)",
-      "createdAt": "2026-11-14T06:29:46.173Z",
-      "seq": 4958
-    },
-    {
-      "id": "cb7a73ce",
-      "title": "curiosity 보강: 매체·SNS 파편, 정보 포만 조건",
-      "priority": 50,
-      "note": "2026-11-14 PMC4635443 같은 글 'when enough information is consumed, satiation occurs and information serves to reduce further curiosity.' lady.khan.co.kr/education/article/202011011145001 (2020-11-01) 궁금증이 풀릴 때까지 왜를 묻는 학생, 같은 필자 글을 reading-the-ending-first 가 씀(한 사람 글 모으기 규칙)라 쓰지 않음. 한국어 SNS 파편 필요",
-      "createdAt": "2026-11-14T06:32:33.001Z",
-      "seq": 4959
-    },
-    {
-      "id": "ca6f1f1e",
+      "id": "7ee7e101",
       "title": "self-deprecation 보강: 문학 파편, 원인(낮은 자존감) 간선",
       "priority": 50,
       "note": "2026-11-14 PMC4991046 같은 글 바로 뒤 'it is thought to reflect an underlying emotional neediness and low self-esteem (Martin et al., 2003)'. brunch daeheestory/283 '먼저 나를 깎아 안전지대를 만든 뒤에야 관계를 시작'. phys.org 한국 예능 자기비하 발화 연구 보도 봇 확인. deflecting-compliments 와 형제 관계 검토",
-      "createdAt": "2026-11-14T06:35:06.562Z",
-      "seq": 4960
+      "createdAt": "2026-11-14T09:14:27.997Z",
+      "seq": 4990
     },
     {
-      "id": "31f5428b",
-      "title": "gratitude 관계: thank-you-gift 결과 간선, SNS 파편",
+      "id": "191aa08c",
+      "title": "eating-lunch-apart-from-coworkers 보강: 학술 파편, company-dinner-pressure·eating-alone-feelings 관계",
       "priority": 50,
-      "note": "2026-11-14 asiae 2024031817444611013 고마워서 보답(thank-you-gift 의 원인 간선 후보, 인과 문장 '고마워서'). PMC5501400 'because gratitude is directed toward a specific target'. damoang.net/free/6742878 낯선 사람 도움 글 봇 확인",
-      "createdAt": "2026-11-14T06:38:09.027Z",
-      "seq": 4961
+      "note": "2026-11-14 clien park/17911073 (2023-02-16) 팀장과 같이 먹어야 하고 폰 보는 것도 지적받음. view.asiae.co.kr 2025120213435070394 엠브레인 2025 혼밥 20대 57.2% 50대 42.4%. gqkorea 2026-02-19 '전 따로 먹을게요'. brunch notepod/142",
+      "createdAt": "2026-11-14T09:29:21.553Z",
+      "seq": 4998
+    },
+    {
+      "id": "6a55b16f",
+      "title": "online-political-argument-fatigue 보강: 학술 파편, 반박 안 하면 진 것 같은 느낌",
+      "priority": 50,
+      "note": "2026-11-14 clien park/19228807 같은 글 '거기에 제가 반응 안해주면 ... 설득된 것처럼 보이게 되는거같고'(같은 출처라 원문 교체로만). clien park/19063034 (2025-09-17) 말이 안 통하는 사람과는 논쟁도 키배도 아깝다. lurking 과 관계 후보: clien park/19241265 (2026-08-04) '직접 글을 쓰고 댓글을 남기는 분들은 전체 사용자의 5~10% 정도'",
+      "createdAt": "2026-11-14T09:33:03.443Z",
+      "seq": 4999
+    },
+    {
+      "id": "c025feba",
+      "title": "moving-to-another-online-community 보강: 매체 파편, lurking 관계",
+      "priority": 50,
+      "note": "2026-11-14 arXiv 2302.14294 초록과 clien 18679340, 19221086 로 작성. 한국어 매체 파편과 옮긴 뒤 어색함(새 커뮤니티 적응) 대목 필요",
+      "createdAt": "2026-11-14T09:37:49.309Z",
+      "seq": 5000
     },
     {
       "id": "02f3593b",
@@ -99,30 +51,6 @@
       "note": "2026-10-22 gohighbrow 2017 '상황을 아예 피함' 파편 더함(상대 문서 없음: 일반 상황 회피 문서가 생기면 결과 간선). blushing 후보 psych-your-mind.blogspot.com/2011/08/spotlight-effect-youre-only-one-who.html 은 인과 문장 아님. brunch.co.kr/@humanfreshnk/1712 (2026-06-18) '그래서 도전하지 못하고...'",
       "createdAt": "2026-10-22T06:48:57.968Z",
       "seq": 936
-    },
-    {
-      "id": "f2a8d614",
-      "title": "driving-overconfidence 보강: 한국 공공 파편과 SNS",
-      "priority": 30,
-      "note": "2026-10-22 RAC WA 2022 파편 더함. 한국 공공·SNS 는 여전히 없음",
-      "createdAt": "2026-10-22T06:53:49.516Z",
-      "seq": 938
-    },
-    {
-      "id": "d2330bda",
-      "title": "sighing 보강: 자기 한숨과 남의 한숨을 다르게 읽기",
-      "priority": 30,
-      "note": "2026-10-22 W Korea 2024 꾸지람 대목 더함. 남은 후보: brunch.co.kr/@igmigm/529 (2026-03-16) Teigen 연구, 자기 한숨은 안도·휴식, 타인 한숨은 좌절·체념으로 해석. snuh.org 화병 의학정보(진단명이라 출처 밝혀 쓸 것)",
-      "createdAt": "2026-10-22T06:56:30.322Z",
-      "seq": 939
-    },
-    {
-      "id": "f01ecab8",
-      "title": "driving-into-floodwater 보강: 공공 파편과 다른 운전자 따라 건너기의 원인 간선",
-      "priority": 30,
-      "note": "2026-10-22 TCU 2019 [^6], 세계일보 2022 [^8], AMS 2007 [^3] 추가. 남은 후보: climate.gov/news-features/featured-images/better-information-and-more-it-can-improve-driver-safety-flooded (NOAA 2020-07-30) 'environmental cues such as observing other vehicles safely crossing the water' 공공. wdef.com/?p=2137533 (2025-05-04) 'I followed them, but my car shut down.' mprnews.org/story/2014/06/17/why-we-drive-through-standing-water 'there's a \"pull\" for us to get where we're going.' 상대가 될 '남 따라 하기(사회적 증거)' 문서 있으면 원인 간선",
-      "createdAt": "2026-10-22T12:50:28.920Z",
-      "seq": 1000
     },
     {
       "id": "bc5c35d6",
@@ -1243,6 +1171,110 @@
       "note": "2026-10-22 남김: accesson.kr/kscap/v.9/1/87/15103 (손영화 2008) 무행동 소비자 불만족 정도 최저",
       "createdAt": "2026-11-14T03:36:20.968Z",
       "seq": 4939
+    },
+    {
+      "id": "af4c6874",
+      "title": "self-pity 관계: 분노 반추, 외로움",
+      "priority": 30,
+      "note": "2026-11-14 회차 263: self-pity→loneliness·rumination 인과 문장 검색 실패(영문 연구는 상관뿐, albertellis.org Poor Me Syndrome 은 'Chronic depression and unremitting rage flourish within this frame of mind.' 이나 Mod_Security 로 curl 406, wikitree 1146025 는 외로움 언급 없음). 기존 후보: gutenberg 284, brunch peanutjamjam/439",
+      "createdAt": "2026-11-14T09:07:22.779Z",
+      "seq": 4982
+    },
+    {
+      "id": "aa733ed7",
+      "title": "stubbornness 보강: 조건(나이, 자녀가 더 높게 봄)",
+      "priority": 30,
+      "note": "2026-11-14 clien 11117711 SNS 파편 추가. 남은 후보: scholarworks.sookmyung.ac.kr 152797 조혜진 2022 아동 고집 인식 4유형, gutenberg 11231 'persist in that mulish vagary'. PMC4903030 은 이미 [^2] 라 같은 출처 둘째 파편 불가",
+      "createdAt": "2026-11-14T09:09:36.657Z",
+      "seq": 4984
+    },
+    {
+      "id": "3fa9d2e8",
+      "title": "arrogance 관계: vanity 와의 관계",
+      "priority": 30,
+      "note": "2026-11-14 clien 19191222 SNS 파편 추가. 남은 후보: PMC5500344 Milyavsky 2017 Johnson 외 정의 'exaggerated sense of superiority, which is often accomplished by disparaging others'",
+      "createdAt": "2026-11-14T09:11:12.142Z",
+      "seq": 4985
+    },
+    {
+      "id": "6ec41006",
+      "title": "greed 보강: 실증 파편(독재자·최후통첩 게임)",
+      "priority": 30,
+      "note": "2026-11-14 gutenberg 11339 황금알 거위 [^2] 추가. 남은 후보: research.tilburguniversity.edu dispositional-greed Seuntjens 2015 (200자 이하 문장 필요)",
+      "createdAt": "2026-11-14T09:12:25.028Z",
+      "seq": 4986
+    },
+    {
+      "id": "1c633850",
+      "title": "laziness 관계: procrastination 과의 관계, 조건(돈벌이 노동만 피함)",
+      "priority": 30,
+      "note": "2026-11-14 회차 263: 조건 대목(gutenberg 2048 낚시)은 [^1] 과 같은 출처라 둘째 파편 불가, [^1] 원문 교체로만 가능. Oblomov 54700 'he would spend his time in lying on his back.' procrastination 과 간선이 될 인과 문장 못 찾음",
+      "createdAt": "2026-11-14T09:12:36.967Z",
+      "seq": 4987
+    },
+    {
+      "id": "dd3178e6",
+      "title": "fickleness 보강: 일반 성인 표본 학술 파편",
+      "priority": 30,
+      "note": "2026-11-14 clien 18292658 SNS 파편 추가. 남은 후보: PMC7196909 Kalokerinos 2020 'neuroticism was associated with experiencing more intense, but not more variable, negative emotions.'",
+      "createdAt": "2026-11-14T09:13:37.999Z",
+      "seq": 4988
+    },
+    {
+      "id": "1624fe3f",
+      "title": "curiosity 보강: 매체·SNS 파편, 정보 포만 조건",
+      "priority": 30,
+      "note": "2026-11-14 회차 263: 클리앙 검색으로 호기심 1인칭 글 못 찾음. 정보 포만 문장 PMC4635443 은 [^2] 와 같은 출처라 둘째 파편 불가. lady.khan.co.kr 202011011145001 은 같은 필자 규칙으로 불가",
+      "createdAt": "2026-11-14T09:14:06.157Z",
+      "seq": 4989
+    },
+    {
+      "id": "a81b995c",
+      "title": "gratitude 관계: thank-you-gift 결과 간선, SNS 파편",
+      "priority": 30,
+      "note": "2026-11-14 indebtedness 결과 간선 추가. asiae 2024031817444611013 은 이웃돕기 기부라 thank-you-gift 근거 아님. clien kin/18125020 (2023-06-09) '크게 신세진 분이 있어서 감사의 인사로 선물을' 은 thank-you-gift SNS 후보(신세→선물)",
+      "createdAt": "2026-11-14T09:16:26.857Z",
+      "seq": 4991
+    },
+    {
+      "id": "b295aede",
+      "title": "lurking 보강: 눈팅을 끝내고 첫 글을 쓰는 계기, 관계",
+      "priority": 30,
+      "note": "2026-11-14 clien park/19190921 (2026-05-14) '3년동안 눈팅만 쭉하다가 커뮤니티에서 저의 생각을 공유하고 싶다는 욕구가 생겨서'. clien park/19221086 (2026-07-05) '클리앙 눈팅만 5년'. uoguelph Nonnecke 'just reading/browsing is enough' 53.9% 는 PDF",
+      "createdAt": "2026-11-14T09:19:09.874Z",
+      "seq": 4992
+    },
+    {
+      "id": "0db71ff6",
+      "title": "driving-into-floodwater 원인 간선: 남 따라 하기 상위 문서",
+      "priority": 30,
+      "note": "2026-11-14 [^7] 투손 설문 앞차가 건넌 것, [^8] NOAA 2020, [^10] 2022 체험기가 남을 따라 건너기. '남 따라 하기(사회적 증거)' 문서가 없음. 만들면 following-others-to-evacuate, following-peer-fashion, helping-after-first-helper 의 상위 후보",
+      "createdAt": "2026-11-14T09:22:47.828Z",
+      "seq": 4994
+    },
+    {
+      "id": "73efb0d2",
+      "title": "miserliness 관계: tightwad-spending 과의 관계, 인색한 선택의 결과",
+      "priority": 30,
+      "note": "2026-11-14 회차 263: 두 문서 모두 19세기 소설(1833 Eugénie Grandet, 1861 Silas Marner)로 돈 아끼기를 보임. 공통 상위(돈 아끼기·절약) 문서 없음. 이전 note: Dunn 외 2010 PMID 20460419 403, PMC12220072 척도 문항 'hoarding money for future catastrophes (Miserliness)'",
+      "createdAt": "2026-11-14T09:23:22.702Z",
+      "seq": 4995
+    },
+    {
+      "id": "1945d3c4",
+      "title": "self-deprecation 보강: 문학 파편, 원인(낮은 자존감) 간선",
+      "priority": 30,
+      "note": "2026-11-14 회차 263: 후보 gutenberg 1342 Darcy 'the appearance of humility ... an indirect boast', gutenberg 766 Uriah Heep 'I am well aware that I am the umblest person going' 는 두 출처 모두 이미 4문서가 써서 다섯째면 WARN. 이전 note: PMC4991046 'low self-esteem (Martin et al., 2003)', brunch daeheestory/283. 낮은 자존감 문서 없음",
+      "createdAt": "2026-11-14T09:23:55.190Z",
+      "seq": 4996
+    },
+    {
+      "id": "b5dcc48f",
+      "title": "driving-overconfidence 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-11-14 clien park/19021500 SNS 파편 추가. 같은 글 댓글 '어린시절 내가 운전을 잘해서 사고가 안난줄 알았는데, 사실 주위 운전자들이 방어운전으로' (같은 출처라 둘째 파편 불가). 한국 공공 파편 없음",
+      "createdAt": "2026-11-14T09:26:47.882Z",
+      "seq": 4997
     },
     {
       "id": "9634edf0",
@@ -2867,6 +2899,14 @@
       "note": "2026-11-14 praying-outside-exam-hall 탐색 중: jstage jssp/24/3/24_KJ00005381248 (村上·荒川 2009-02-27) 부모가 시험 운 부적을 자녀에게 주어 자신과 자녀의 불안을 줄임. praying-outside-exam-hall 과 형제 현상 후보",
       "createdAt": "2026-11-14T03:31:33.041Z",
       "seq": 4937
+    },
+    {
+      "id": "66da145c",
+      "title": "자기 이름 검색하기 (egosurfing)",
+      "priority": 10,
+      "note": "2026-11-14 pewresearch.org/internet/2007/12/16/digital-footprints/ (2007-12-16) 'Nearly half of all internet users (47%) have searched for information about themselves online, up from just 22%' 열림(매체). 같은 사이트 2007-12-21 Vitak 'Have you googled yourself today?' 1인칭. 다른 종류 파편 필요: microsoft.com research ?p=166094 'Searching for Myself' 403/502, nbcnews 2013 most-not-all-us-google-ourselves 미확인. 상위 후보 looking-for-oneself-first 와 관계 검토",
+      "createdAt": "2026-11-14T09:22:34.138Z",
+      "seq": 4993
     },
     {
       "id": "02b2f242",
