@@ -95,6 +95,7 @@
     - [아픈 것을 가족에게 숨기기](../docs/hiding-illness-from-family.md)
 - [자기에 대한 말 엿듣기](../docs/overhearing-talk-about-oneself.md) 자기 이야기를 하는 다른 사람들의 대화를 그 자리에 없는 줄 아는 상태에서 사람이 몰래 듣는다.
 - [자녀 사진을 소셜 미디어에 올리기](../docs/sharenting.md) 부모가 자녀의 사진과 일상을 소셜 미디어에 올린다.
+- [자녀 시험 날 시험장 밖에서 빌기](../docs/praying-outside-exam-hall.md) 대입 시험을 치르는 자녀를 둔 부모가 시험 날 시험장 밖이나 교회와 절에서 시험이 끝날 때까지 기다리며 합격을 빈다.
 - [자식 자랑](../docs/bragging-about-children.md) 부모가 다른 사람 앞에서 자기 자녀의 외모나 대학, 직장을 자랑한다.
 - [잠든 사람 바라보기](../docs/watching-a-loved-one-sleep.md) 가까운 사람이 잠들어 있을 때 깨우지 않고 그 얼굴을 오래 바라본다.
 - [잠든 사람을 깨우지 않으려고 소리 죽이기](../docs/keeping-quiet-for-sleepers.md) 집 안에 잠든 식구가 있을 때 다른 사람이 그를 깨우지 않으려고 발소리와 말소리를 줄인다.
