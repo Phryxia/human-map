@@ -669,6 +669,7 @@
 - [지팡이와 보행보조기 거부](docs/refusing-mobility-aids.md) ([건강과 위험](groups/health-and-safety.md))
 - [직장 내 괴롭힘 참고 넘기기](docs/enduring-workplace-harassment.md) ([일터와 일자리](groups/work.md))
 - [직장 문제를 윗사람에게 말하지 않기](docs/employee-silence.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [직장 점심 따로 먹기](docs/eating-lunch-apart-from-coworkers.md) ([일터와 일자리](groups/work.md))
 - [진단 없이 음식 피하기](docs/self-diagnosed-food-avoidance.md) ([건강과 위험](groups/health-and-safety.md))
 - [진료 회피](docs/medical-care-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))
