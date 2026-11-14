@@ -42,6 +42,7 @@
     - [심장 증상에도 도움 청하기 미루기](../docs/delaying-help-for-heart-symptoms.md)
     - [청력 도움 요청 미루기](../docs/delaying-hearing-help.md)
     - [치과 공포](../docs/dental-anxiety.md)
+- [나쁜 일에서 기뻐할 거리 찾기](../docs/benefit-finding.md) 원치 않던 일이나 힘든 일을 겪은 사람이 그 일 안에서 기뻐하거나 좋게 여길 점을 찾는다.
 - [날씨 타기](../docs/weather-mood-reactivity.md) 날씨가 바뀌면 사람의 기분이 그 날씨에 따라 밝아지거나 가라앉는다.
   - [비 오는 날의 울적함](../docs/rainy-day-gloom.md)
 - [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
