@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-15T15:35:03.853Z",
-  "nextSeq": 5203,
-  "stops": 274,
+  "savedAt": "2026-11-15T18:40:46.513Z",
+  "nextSeq": 5221,
+  "stops": 275,
   "items": [
-    {
-      "id": "ed45c6ad",
-      "title": "taking-bags-during-evacuation 보강: 원인 간선과 1990년대 공공 파편",
-      "priority": 50,
-      "note": "2026-11-15 The Gate 2018-02-18 분실 수하물 추측 파편 추가함. 원인 간선 근거 못 찾음. NTSB SS-00/01 은 PDF",
-      "createdAt": "2026-11-15T15:16:48.947Z",
-      "seq": 5185
-    },
     {
       "id": "79c8ba4a",
       "title": "using-resignation-agency 보강: 공공 파편과 guilt-about-resigning 관계",
@@ -139,6 +131,78 @@
       "note": "2026-11-15 별칭과 USC Today 2009-11-19 파편 추가함. HN Algolia 'blame contagious', 'blame culture' 에서 자기 경험 댓글 못 찾음",
       "createdAt": "2026-11-15T15:34:54.438Z",
       "seq": 5202
+    },
+    {
+      "id": "9a449947",
+      "title": "talking-back 보강: 원인 간선, 말대꾸 참기",
+      "priority": 50,
+      "note": "서울신문 2006-08-09 seoul.co.kr/news/2006/08/09/20060809029018 '부모보다 체격이 커져 부모에 대한 위압감이 줄어든 것도 이유' 는 반항 대목. 이무영 「사위」 위키문헌 '말대꾸 한마디 않고' 는 참는 쪽. 나도향 「어머니」 위키문헌 말대꾸 대목은 발행일 미상",
+      "createdAt": "2026-11-15T18:11:01.568Z",
+      "seq": 5212
+    },
+    {
+      "id": "4a4e0900",
+      "title": "taking-bags-during-evacuation 보강: 원인 간선과 1990년대 공공 파편",
+      "priority": 50,
+      "note": "2026-11-15 The Gate 2018-02-18 분실 수하물 추측 파편 추가함. 원인 간선 근거 못 찾음. NTSB SS-00/01 은 PDF",
+      "createdAt": "2026-11-15T18:11:18.604Z",
+      "seq": 5213
+    },
+    {
+      "id": "81c270be",
+      "title": "picky-eating 보강: 원인 간선, 쓴맛과 새 음식 거부",
+      "priority": 50,
+      "note": "Lam 2015 PMC4422022 정의와 쓴맛 대목, Alarcon 2026 PMC13118670 유전 대목. 이광수 「난제오」 1940 위키문헌 편식 대목. kormedi 1210592 '부모나 가족이 편식을 하면 어린이가 이를 모방하여 편식하게 된다' 원인 대목",
+      "createdAt": "2026-11-15T18:16:05.267Z",
+      "seq": 5214
+    },
+    {
+      "id": "8c82b55c",
+      "title": "exaggerating-pain 보강: 원인 간선, 보는 사람 유무 조건",
+      "priority": 50,
+      "note": "kormedi 1191397 '신경증 증상이 높게 나타나지만 우울증은 없으면 별로 엄살을 떨지 않는' 조건 대목. 채만식 「탁류」 제3장 1937 위키문헌 정주사 엄살 대목. 아이뉴스24 1981904 2026 엄살 남편 사연은 건강 불안 쪽",
+      "createdAt": "2026-11-15T18:20:31.102Z",
+      "seq": 5215
+    },
+    {
+      "id": "d408c13c",
+      "title": "making-a-show-of-favors 보강: 2000년대 이후 비학술 파편, 받는 쪽 반감",
+      "priority": 50,
+      "note": "한용운 「박명」 2장 1938 공치사 대목, 심훈 「직녀성」 제6장 생색 서운함 대목(발행일 미상). Gleason 2008 PMC3898885 갚지 못하는 부담. 블라인드 게시글은 로그인 커뮤니티라 안 씀",
+      "createdAt": "2026-11-15T18:24:46.428Z",
+      "seq": 5216
+    },
+    {
+      "id": "333c62b3",
+      "title": "nitpicking 보강: 원인 간선, 2000년대 이전 비문학 파편",
+      "priority": 50,
+      "note": "김동인 「잡초」 위키문헌 '트집을 잡을 만한 일이 없으면 트집을 만들어 내었다'(발행일 미상), 김동인 「딸의 업을 이으려」 누명 트집 대목. PMC8474672 갈등 중 criticizing each other 와 코르티솔",
+      "createdAt": "2026-11-15T18:29:28.856Z",
+      "seq": 5217
+    },
+    {
+      "id": "7d8ccedd",
+      "title": "lamenting-ones-lot 보강: 매체 파편, keeping-hardship-to-oneself 대립",
+      "priority": 50,
+      "note": "이광수 『무정』 1장~20장 위키문헌 '친구들이 모여앉아서 신세 타령을 할 때에 여러 가지 못할 말 없이 다 하면서도 지금 형식에게 말하려는 말은 아직 하여 본 적이 없다'. 현진건 「발」 1924 신세타령 대목. PMC11757728 venting 정의 대목",
+      "createdAt": "2026-11-15T18:33:15.542Z",
+      "seq": 5218
+    },
+    {
+      "id": "85ccb1c6",
+      "title": "pretending-to-know 보강: 원인 간선, 매체 또는 SNS 파편",
+      "priority": 50,
+      "note": "PLOS ONE 10.1371/journal.pone.0255207 'feeling of knowledge [7] or self-perceived expertise [62]' 추측 대목. 방정환 「은파리」 개벽 17호 1921-11 교제상 아는 체 대목은 실존 인물 풍자 연재라 보류",
+      "createdAt": "2026-11-15T18:36:29.878Z",
+      "seq": 5219
+    },
+    {
+      "id": "218fa584",
+      "title": "making-excuses-for-mistakes 보강: 비학술 파편, blaming-others 관계",
+      "priority": 50,
+      "note": "김동인 「대수양」 24 위키문헌 '땀을 뻘뻘 흘려 가면서 변명하였다'(발행일 미상). PLOS 10.1371/journal.pone.0336599 'restore their self-esteem and avoid a negative self-view' 기능 대목. 파편 2개뿐",
+      "createdAt": "2026-11-15T18:40:33.395Z",
+      "seq": 5220
     },
     {
       "id": "f86fcff9",
