@@ -694,6 +694,7 @@
 - [주사 공포](docs/fear-of-needles.md) ([건강과 위험](groups/health-and-safety.md))
 - [주운 물건 갖기](docs/keeping-found-property.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [주운 지갑 돌려주기](docs/returning-lost-wallets.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [주차 자리 찾아 맴돌기](docs/cruising-for-parking.md) ([길과 운전](groups/roads-and-driving.md))
 - [죽은 이에게 말 걸기](docs/talking-to-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [중고 직거래 상대를 만나는 부담](docs/wariness-meeting-secondhand-buyers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
