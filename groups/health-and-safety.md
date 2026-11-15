@@ -86,6 +86,7 @@
 - [주사 공포](../docs/fear-of-needles.md) 주사나 채혈을 앞둔 사람이 바늘을 무서워해 겁을 내거나 주사 맞는 일을 피한다.
 - [진단 없이 음식 피하기](../docs/self-diagnosed-food-avoidance.md) 어떤 음식을 먹은 뒤 몸이 불편했다고 여기는 사람이 의학적 진단 없이 그 음식을 먹지 않는다.
 - [진드기 예방 조치 하지 않기](../docs/skipping-tick-precautions.md) 풀밭이나 숲에서 시간을 보내는 사람이 기피제를 바르거나 돌아와 몸에 진드기가 붙었는지 살피는 일을 하지 않는다.
+- [진료 예약 부도](../docs/missing-medical-appointments.md) 병원이나 의원에 진료를 예약한 환자가 취소 연락 없이 예약한 때에 나타나지 않는다.
 - [진료를 미루다 응급실 가기](../docs/delayed-care-emergency-visits.md) 진료비 부담 때문에 진료를 미룬 사람이 상태가 나빠진 뒤 응급실을 찾는다.
 - [처방약 나눠 먹기](../docs/sharing-prescription-medicine.md) 자기에게 처방된 약을 가족이나 친구에게 나눠 주거나 남이 처방받은 약을 얻어 먹는다.
 - [천둥 번개 속 바깥 활동 계속하기](../docs/staying-outdoors-in-thunderstorms.md) 천둥이 치고 번개가 보이는데도 사람들이 골프, 낚시, 등산 같은 바깥 활동을 이어 가거나 나무 밑으로 피한다.
