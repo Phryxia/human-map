@@ -81,6 +81,7 @@
 - [연인 아닌 사람에게 끌리기](../docs/attraction-outside-relationship.md) 연애 중이거나 결혼한 사람이 연인이나 배우자가 아닌 사람에게 끌림을 느낀다.
 - [연인 이상화](../docs/idealizing-partner.md) 사랑에 빠진 사람이 연인과 그 관계를 실제보다 좋게 본다.
 - [연인과 헤어지기](../docs/breaking-up.md) 연애하거나 함께 사는 두 사람 가운데 한쪽 또는 양쪽이 관계를 끝내고 헤어진다.
+  - [고스팅](../docs/ghosting.md)
 - [연인과의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 - [옛 친구를 다시 만나 처지 견주기](../docs/comparing-lives-with-old-friends.md) 오랜만에 옛 친구나 동창을 만난 사람이 상대의 직업, 지위, 형편을 듣고 자기 처지와 견주며 기분이나 태도가 바뀐다.
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.
