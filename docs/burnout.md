@@ -14,6 +14,8 @@
 
 2023년 중국 농촌 가정의 연구[^5]의 저자들은 표면 행위가 정서적 소진으로 이어지고 그것이 다시 이직 의도를 낳는다고 썼다.
 
+2026년 서울시 매체의 칼럼[^6]은 책임감이 강하고 성실한 사람들이 번아웃에 더 취약한 경우가 많다고 썼다.
+
 # 관계
 
 ## 상위
@@ -43,3 +45,4 @@
 [^3]: [매체] "어떤 직무를 맡는 도중 극심한 육체적·정신적 피로를 느끼고 직무에서 오는 열정과 성취감을 잃어버리는 증상을 번아웃증후군이라고 말한다." — 이범수, 「직장인 3명 중 2명 '번아웃' … 무기력에 불면증, 혹시 나도?」, 서울신문, 2021-08-24, https://www.seoul.co.kr/news/newsView.php?id=20210825017006, 2026-11-15 접속
 [^4]: [SNS] "When you do way too much and feel exhausted and demoralized at the end of every day." (너무 많은 일을 하고 매일 하루가 끝날 때 지치고 의욕이 꺾일 때.) — Hacker News, 댓글, 2022-06-13, https://news.ycombinator.com/item?id=31726302, 2026-11-15 접속
 [^5]: [학술] "surface acting leads to emotional exhaustion, which in turn causes turnover intention" (표면 행위는 정서적 소진으로 이어지고 이는 다시 이직 의도를 낳는다) — A. Wang 외, "How surface acting affects turnover intention among family doctors in rural China: the mediating role of emotional exhaustion and the moderating role of occupational commitment", Human Resources for Health, 2023-01-26, https://pmc.ncbi.nlm.nih.gov/articles/PMC9878490/, 2026-11-15 접속
+[^6]: [공공] "책임감이 강하고 성실한 사람들이 번아웃에 더 취약한 경우가 많다." — 서울시 내 손안에 서울, "우리는 왜 쉬면서도 지칠까…우리에게 필요한 '진짜 휴식'", 2026-08-21, https://mediahub.seoul.go.kr/archives/2019128, 2026-11-15 접속
