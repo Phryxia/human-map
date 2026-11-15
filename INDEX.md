@@ -542,6 +542,7 @@
 - [온화한 시기](docs/benign-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [올린 글의 반응 자꾸 확인하기](docs/checking-likes-after-posting.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
+- [외국어 말하기 불안](docs/foreign-language-speaking-anxiety.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [외출 전 옷 여러 번 갈아입기](docs/trying-on-outfits-before-going-out.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [용서하기](docs/forgiveness.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -46,6 +46,7 @@
 - [억양 편견](../docs/accent-prejudice.md) 말을 듣는 사람이 말하는 사람의 지역 억양이나 계층 억양을 듣고 그 사람의 지위나 능력을 낮게 여긴다.
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.
 - [엄숙한 자리에서 터지는 웃음](../docs/laughing-at-solemn-occasions.md) 장례식이나 예배처럼 엄숙한 자리에 있는 사람에게 웃음이 치밀어 그 사람이 웃음을 참으려 애쓰거나 끝내 웃는다.
+- [외국어 말하기 불안](../docs/foreign-language-speaking-anxiety.md) 외국어를 배운 사람이 그 말로 말해야 하는 자리에서 긴장하고 실수와 남의 평가를 두려워한다.
 - [외출 전 옷 여러 번 갈아입기](../docs/trying-on-outfits-before-going-out.md) 외출을 앞둔 사람이 입을 옷을 정하지 못해 여러 벌을 입어 보고 갈아입는다.
 - [원할 때 대화 끝내지 못하기](../docs/not-ending-conversations.md) 대화를 끝내고 싶은 사람이 먼저 끝내자고 말하지 못하고 대화를 이어 간다.
   - [손님이 가 주기를 바라기](../docs/wishing-guests-would-leave.md)
