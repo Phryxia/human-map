@@ -14,6 +14,8 @@
 
 2025년 게시판 댓글[^3]의 글쓴이는 이 말이 보통 일에서 빠져나가는 것과 관련된다고 적었다.
 
+2026년 10월 여성 당뇨 관리 연구[^4]는 대중 담론에서 이 말이 남자가 일을 서툴게 하거나 몰라서 못한다고 하며 집안일과 돌봄을 피하는 상황을 가리키는 데 점점 더 쓰인다고 적는다.
+
 # 관계
 
 ## 상위
@@ -41,3 +43,4 @@
 [^1]: [매체] "One of the most common applications of strategic incompetence is, of course, men employing it to get out of the equitable distribution of household labor." (전략적 무능이 가장 흔히 쓰이는 경우는 물론 남자가 집안일의 공평한 분담에서 빠지려고 그것을 쓰는 것이다.) — Devrupa Rakshit, "How Some People Pretend To Be Unskilled at Certain Tasks To Avoid Doing Them", The Swaddle, 2021-11-05, https://www.theswaddle.com/how-some-people-pretend-to-be-unskilled-at-certain-tasks-to-avoid-doing-them, 2026-11-15 접속
 [^2]: [매체] "No matter how it plays out, the goal of weaponized incompetence is to get one’s partner to throw up their hands and just do the job themselves." (어떤 모양으로 나타나든 무기화된 무능의 목적은 상대가 손을 들고 그 일을 직접 하게 만드는 것이다.) — Ashley Abramson, "Are You Guilty Of “Weaponized Incompetence”? Here's How To Fight It", Fatherly, 2023-12-15, https://www.fatherly.com/life/what-is-weaponized-incompetence, 2026-11-15 접속
 [^3]: [SNS] "See also “weaponized incompetence”, which usually has to do with getting out of work but in this case could easily be used to get away with “bad” work for longer." (“무기화된 무능” 도 보라. 이 말은 보통 일에서 빠져나가는 것과 관련되지만 이 경우에는 “나쁜” 일을 더 오래 하고도 넘어가는 데 쉽게 쓰일 수 있다.) — Hacker News 댓글, 2025-12-25, https://news.ycombinator.com/item?id=46384420, 2026-11-15 접속
+[^4]: [학술] "popular discourse increasingly employs the term to describe situations in which men avoid domestic or caregiving labor by performing tasks poorly or claiming inability due to lack of knowledge" (대중 담론은 남자가 일을 서툴게 하거나 지식이 없어 할 수 없다고 주장함으로써 가사나 돌봄 노동을 피하는 상황을 묘사하는 데 이 용어를 점점 더 쓴다) — Kylie B Lovett 외, "Invisible Labor: Gendered Responsibilities and Women's Diabetes Management", Chronic Diseases and Translational Medicine, 2026-10-05, https://pmc.ncbi.nlm.nih.gov/articles/PMC13639403/, 2026-11-15 접속
