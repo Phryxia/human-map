@@ -20,6 +20,8 @@
 
 2022년 중국 콜센터 상담원 연구[^10]에서 손님의 폭언과 부당한 불만 제기는 상담원의 표면 행위를 늘렸다.
 
+2023년 중국 농촌 가정의 연구[^11]의 저자들은 표면 행위가 정서적 소진으로 이어지고 그것이 다시 이직 의도를 낳는다고 썼다.
+
 # 관계
 
 ## 상위
@@ -37,6 +39,7 @@
 ## 결과
 
 - [과음](heavy-drinking.md)[^8]
+- [번아웃](burnout.md)[^11]
 
 ## 대립
 
@@ -54,3 +57,4 @@
 [^8]: [학술] "Study 2 demonstrated that surface acting directly increased subsequent drinking only for those with high emotional demands, but not through depletion." (연구 2는 표면 행위가 감정 요구가 높은 사람에게서만 그 뒤의 음주를 직접 늘렸고 고갈을 거친 경로는 아니었음을 보였다.) — Gordon M. Sayre, Alicia A. Grandey, Nai-Wen Chi, "From cheery to 'cheers'? Regulating emotions at work and alcohol consumption after work", Journal of Applied Psychology 105(6), 597-618, 2020-06, https://pubmed.ncbi.nlm.nih.gov/31556628/, 2026-10-29 접속
 [^9]: [SNS] "뭐라도 할 수 있다면 고객님들께 당당히 말씀을 드릴 수 있을텐데 그것도 아니니 그저 빌고, 사과드리고, 욕먹고, 소리지르는거 듣는 역할밖에 없게 됩니다" — 네이트판 게시글, 2020-08-22, https://pann.nate.com/talk/353662108, 2026-10-25 접속
 [^10]: [학술] "The results indicated that verbal abuse and illegitimate complaint exerted positive effects on surface acting." (결과는 폭언과 부당한 불만 제기가 표면 행위에 정적 효과를 냈음을 보여 주었다.) — Pengfei Cheng, Jingxuan Jiang, Sanbin Xie, Zhuangzi Liu, "Dysfunctional customer behavior influences on employees’ emotional labor: The moderating roles of customer orientation and perceived organizational support", Frontiers in Psychology, 2022-10-10, https://pmc.ncbi.nlm.nih.gov/articles/PMC9588981/, 2026-11-05 접속
+[^11]: [학술] "surface acting leads to emotional exhaustion, which in turn causes turnover intention" (표면 행위는 정서적 소진으로 이어지고 이는 다시 이직 의도를 낳는다) — A. Wang 외, "How surface acting affects turnover intention among family doctors in rural China: the mediating role of emotional exhaustion and the moderating role of occupational commitment", Human Resources for Health, 2023-01-26, https://pmc.ncbi.nlm.nih.gov/articles/PMC9878490/, 2026-11-15 접속
