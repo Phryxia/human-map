@@ -633,6 +633,7 @@
 - [자리를 양보받고 늙었다고 느끼기](docs/feeling-old-when-offered-a-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자살 유족의 자책](docs/suicide-bereavement-self-blame.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [자식 자랑](docs/bragging-about-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [자식에게 해 주지 못하는 미안함](docs/guilt-over-not-providing-for-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자외선 차단제 안 바르기](docs/sunscreen-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [자원봉사 하지 않기](docs/not-volunteering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [자전거 헬멧 미착용](docs/bicycle-helmet-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
