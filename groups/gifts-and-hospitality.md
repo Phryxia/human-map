@@ -22,6 +22,7 @@
 - [선물 포장지 모아 두기](../docs/saving-gift-wrap.md) 선물을 받은 사람이 포장지를 찢지 않고 벗겨 접어 두었다가 다음 선물에 다시 쓰려 한다.
 - [손님 오기 전에 집 치우기](../docs/tidying-before-guests.md) 손님이 집에 온다는 것을 안 사람이 손님이 오기 직전에 집을 서둘러 치운다.
 - [손님으로 너무 오래 머물까 걱정하기](../docs/fear-of-overstaying-welcome.md) 남의 집에 묵는 손님이 머문 날이 길어지면 집주인에게 폐가 되거나 불편을 준다고 여겨 떠날 때를 걱정한다.
+- [식대를 의식해 결혼식 참석 가리기](../docs/choosing-weddings-to-attend-over-meal-costs.md) 결혼식에 초대받은 사람이 오른 식대와 축의금 부담을 의식해 참석할지를 가리거나 축의금만 보내고 식사를 하지 않는다.
 - [약속 취소 충동](../docs/urge-to-cancel-plans.md) 약속 직전에 나가기 싫어진 사람이 약속을 취소할 방법을 찾고 취소하면 안도를 느낀다.
 - [얹혀사는 대가로 집안일 거들기](../docs/doing-chores-while-staying.md) 남의 집에 얹혀 지내는 사람이 집세나 신세를 갚는 몫으로 그 집의 집안일을 맡아 한다.
 - [얹혀사는 집에서 몸 낮추기](../docs/shrinking-in-hosts-home.md) 남의 집에 얹혀사는 사람이 집주인 앞에서 자리를 비키고 말과 몸짓을 줄인다.
