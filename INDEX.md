@@ -378,6 +378,7 @@
 - [사직 앞의 죄책감](docs/guilt-about-resigning.md) ([일터와 일자리](groups/work.md))
 - [사진 속 내 얼굴의 낯섦](docs/own-face-in-photos.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [사진 찍히기 피하기](docs/avoiding-being-photographed.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [사칭 문자 링크 누르기](docs/clicking-impersonation-message-links.md) ([돈과 소비](groups/money.md))
 - [사칭 전화에 겁먹고 따르기](docs/complying-with-impersonation-calls.md) ([돈과 소비](groups/money.md))
 - [사투리 숨기기](docs/hiding-regional-accent.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [사회불안의 안전 행동](docs/social-anxiety-safety-behaviors.md) ([남의 시선과 창피함](groups/others-gaze.md))
