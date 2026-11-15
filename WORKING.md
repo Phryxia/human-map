@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-11-15T18:04Z | 2026-11-15T19:20Z | nitpicking 추가 | WORKING.md nitpicking dev/groups.json
+없음.

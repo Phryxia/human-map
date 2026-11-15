@@ -796,6 +796,7 @@
 - [퇴직 뒤 허전함](docs/retirement-emptiness.md) ([일터와 일자리](groups/work.md))
 - [투표 불참](docs/not-voting.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [투표했다고 거짓으로 답하기](docs/claiming-to-have-voted.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [트집 잡기](docs/nitpicking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [틈날 때마다 휴대폰 집기](docs/picking-up-phone-in-idle-moments.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [편식](docs/picky-eating.md) ([시간과 하루 습관](groups/daily-time.md))
 - [편애받는 형제에 대한 질투](docs/sibling-jealousy-over-favoritism.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
