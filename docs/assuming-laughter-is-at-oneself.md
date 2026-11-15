@@ -14,6 +14,8 @@
 
 2019년 게시글[^4]의 글쓴이는 사람들이 웃거나 미소 지으면 그것이 자기를 향한 것이라고 느낀다고 썼다.
 
+2026년 4월 블로그 글[^5]은 비웃음을 두려워하는 사람이 남의 호의적인 미소조차 자기를 비웃는 속셈이 숨어 있지 않은지 의심하며 넘겨짚는다고 썼다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [매체] "People in Finland were the least likely to believe that people laughing in their presence were making fun of them." (핀란드 사람들은 자기 앞에서 웃는 사람들이 자기를 놀리는 것이라고 믿을 가능성이 가장 낮았다.) — VOA Learning English, "Worried That People Are Laughing at You?", 2012-05-08, https://learningenglish.voanews.com/a/worried-that-people-are-laughing-at-you--150686245/609498.html, 2026-11-15 접속
 [^3]: [학술] "A sample item is “When others laugh in my presence I get suspicious”." (예시 문항은 "다른 사람들이 내 앞에서 웃으면 나는 의심이 든다" 이다.) — Weiss EM, Schulter G, Freudenthaler HH 외, "Potential Markers of Aggressive Behavior: The Fear of Other Persons' Laughter and Its Overlaps with Mental Disorders", PLoS ONE 7(5), 2012-05-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC3364988/, 2026-11-15 접속
 [^4]: [SNS] "I feel like everyone's face or how they act is about me. If people are laughing or smiling it's at me." (모든 사람의 표정이나 행동이 나에 관한 것처럼 느껴진다. 사람들이 웃거나 미소 지으면 그건 나를 향한 것이다.) — HealthUnlocked 게시글, 2019-03-31, https://healthunlocked.com/anxiety-depression-support/posts/140404956/feel-like-everything-is-about-me, 2026-11-15 접속
+[^5]: [매체] "타인의 호의적인 미소조차 '저 웃음 뒤에 나를 비웃는 꿍꿍이가 숨겨져 있는 것은 아닐까?' 하고 의심하며 제멋대로 넘겨짚는다는 것이다." — 김경훈, 「억지웃음의 미학」, 브런치, 2026-04-28, https://brunch.co.kr/@hoonius/1316, 2026-11-15 접속
