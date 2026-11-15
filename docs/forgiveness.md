@@ -16,6 +16,8 @@
 
 2020년 연구[^6]에서 회피 동기와 복수 동기는 용서 경향과 음의 관계를 보였고 선의의 동기는 용서 경향과 양의 관계를 보였다.
 
+2022년 12월 리뷰[^7]는 명예 맥락에서 피해자의 평판을 위협하는 잘못이나 사과가 가해자를 약하거나 명예롭지 못하게 보이게 할 때 용서가 모자랄 수 있다고 썼다.
+
 # 관계
 
 ## 상위
@@ -38,6 +40,7 @@
 
 - [복수심](desire-for-revenge.md)[^6]
 - [원한 품기](holding-a-grudge.md)[^3]
+- [명예 문화의 평판 걱정](honor-culture-reputation-concern.md)[^7]
 
 #관계 #마음
 
@@ -47,3 +50,4 @@
 [^4]: [학술] "trait forgivingness was negatively correlated with trait anger, hostility, neuroticism, fear, and vengeful rumination" (용서하는 성향은 특성 분노, 적대감, 신경증 성향, 두려움, 보복 반추와 음의 상관을 보였다) — J. W. Berry, E. L. Worthington Jr., L. E. O'Connor, L. Parrott III, N. G. Wade, "Forgivingness, vengeful rumination, and affective traits", Journal of Personality 73(1), 2005-02, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15660677&rettype=abstract&retmode=text, 2026-11-08 접속
 [^5]: [SNS] "After we finally forgave each other, I caught up with my now greying, stressed, sick, tired, overworked and underpaid cofounder/former best friend and I feel sorry for him." (마침내 서로 용서한 뒤 나는 이제 머리가 세고 스트레스에 시달리고 아프고 지치고 과로하고 박봉인 공동 창업자이자 옛 가장 친한 친구를 다시 만났고 그가 안쓰럽다.) — Hacker News 댓글, 2014-04-13, https://news.ycombinator.com/item?id=7580828, 2026-11-08 접속
 [^6]: [학술] "The results found a negative relationship between avoidance and revenge motivation and forgiveness tendency and a positive association between benevolent motivation and forgiveness tendency." (결과는 회피·복수 동기와 용서 경향 사이에 음의 관계를, 선의의 동기와 용서 경향 사이에 양의 관계를 보였다.) — Lin Ma, Yingjie Jiang, "Empathy Mediates the Relationship Between Motivations After Transgression and Forgiveness", Frontiers in Psychology 11, 2020-07-08, https://pmc.ncbi.nlm.nih.gov/articles/PMC7360792/, 2026-11-08 접속
+[^7]: [학술] "In short, in honor contexts, forgiveness may be in short supply for offenses that threaten the victim's reputation or when the apology makes the offender appear weak or dishonorable." (요컨대 명예 맥락에서는 피해자의 평판을 위협하는 잘못에 대해, 또는 사과가 가해자를 약하거나 명예롭지 못하게 보이게 할 때 용서가 모자랄 수 있다.) — A. K. Uskul, S. E. Cross, C. Günsoy, "The role of honour in interpersonal, intrapersonal and intergroup processes", Social and Personality Psychology Compass 17(1), 2022-12-11, https://pmc.ncbi.nlm.nih.gov/articles/PMC10078545/, 2026-11-15 접속
