@@ -12,7 +12,9 @@
 
 2003년 경향신문 기사[^2]는 결혼식을 올리는 사람 일부가 상류사회를 흉내 내려고 고급 호텔에서 친하지도 않은 사람에게까지 청첩장을 보내거나 유명 인사가 보낸 듯한 화환을 내걸어 신분을 과시한다고 적었다.
 
-2023년 기사[^3]는 결혼식에서 하객이 많은 것을 과시하려고 친하지 않은 사람에게까지 청첩장을 돌리는 경우를 전한다.
+2017년 2월 신화통신 기사[^3]는 중국 농촌 가정이 혼례로 빚을 지는 뿌리를 체면 차리기에서 찾고 아무도 혼례가 수수했다는 이유로 구두쇠 소리를 듣고 싶어 하지 않는다고 적었다.
+
+2023년 기사[^4]는 결혼식에서 하객이 많은 것을 과시하려고 친하지 않은 사람에게까지 청첩장을 돌리는 경우를 전한다.
 
 # 관계
 
@@ -26,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [체면 지키기](saving-face.md)[^3]
 
 ## 결과
 
@@ -40,4 +42,5 @@
 
 [^1]: [학술] "using open-ended interviews and focus group discussions in two villages in Karnataka State in Southern India, suggests that wedding celebrations are to a large extent a signal of social status." (남인도 카르나타카주 두 마을에서 열린 질문 면담과 포커스 그룹 토론을 쓴 현장 조사는 혼례 잔치가 상당 부분 사회적 지위의 신호임을 시사한다.) — Francis Bloch, Vijayendra Rao, Sonalde Desai, "Wedding Celebrations as Conspicuous Consumption: Signaling Social Status in Rural India", CORE Discussion Paper 1999022, Université catholique de Louvain, 1999, https://ideas.repec.org/p/ctl/louvir/1999022.html, 2026-11-13 접속
 [^2]: [매체] "상류사회를 흉내내기 위해 고급호텔에서 친하지도 않은 이들에게까지 청첩장을 보내거나 유명인사가 보낸 듯 화환을 내거는 ‘자작극’을 연출해 신분을 과시하려 하는 것이다." — 유인경, 「“허례허식 거품빼면 사랑과 믿음은 두배”」, 경향신문, 2003-10-13, https://www.khan.co.kr/article/200310131852061, 2026-11-14 접속
-[^3]: [매체] "결혼식에서 많은 하객들을 과시하는 경우가 있다. 이를 위해 친하지 않은 사람에게도 청첩장을 남발한다." — 김용, 「한 번 봤는데 청첩장이.. 남의 시선을 어떻게?」, 코메디닷컴, 2023-08-05, https://kormedi.com/1610925/, 2026-11-13 접속
+[^3]: [매체] "The root of the problem, however, is in the concept of “saving face,” nobody wants to be labeled a miser because his wedding was plain." (그러나 문제의 뿌리는 “체면 차리기”라는 관념에 있다. 아무도 혼례가 수수했다는 이유로 구두쇠 소리를 듣고 싶어 하지 않는다.) — "Marriage plunges rural families into debt", Macau Daily Times(Xinhua), 2017-02-06, https://macaudailytimes.com.mo/?p=68328, 2026-11-15 접속
+[^4]: [매체] "결혼식에서 많은 하객들을 과시하는 경우가 있다. 이를 위해 친하지 않은 사람에게도 청첩장을 남발한다." — 김용, 「한 번 봤는데 청첩장이.. 남의 시선을 어떻게?」, 코메디닷컴, 2023-08-05, https://kormedi.com/1610925/, 2026-11-13 접속
