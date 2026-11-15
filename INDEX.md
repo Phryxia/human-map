@@ -321,6 +321,7 @@
 - [범죄 피해 신고하지 않기](docs/not-reporting-crime.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [벼락치기](docs/cramming.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [변덕](docs/fickleness.md) ([성향과 기질](groups/traits.md))
+- [변명](docs/making-excuses-for-mistakes.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [병적 호기심](docs/morbid-curiosity.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [보내기 전 메시지 다시 읽기](docs/rereading-messages-before-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보내지 않는 편지 쓰기](docs/unsent-letters.md) ([메시지와 휴대전화](groups/messages-and-phones.md), [가까운 사이의 감정과 말](groups/close-relationships.md))

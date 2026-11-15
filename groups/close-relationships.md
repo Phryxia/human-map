@@ -50,6 +50,7 @@
 - [물려받은 옷 싫어하기](../docs/disliking-hand-me-downs.md) 손위 형제나 남이 입던 옷을 물려받아 입는 아이가 그 옷을 싫어하거나 원래 주인과 다른 아이들 앞에서 드러날까 봐 부끄러워한다.
 - [벅찬 감정에 압도되기](../docs/overwhelmed-by-positive-emotion.md) 아주 귀엽거나 기쁜 것을 마주한 사람이 감당하기 어려울 만큼 강한 긍정 감정에 휩싸인다.
 - [벌이 없는 식구의 미안함](../docs/dependent-family-member-guilt.md) 벌이가 없어 가족의 살림에 기대는 사람이 그 가족에게 미안해하며 하고 싶은 말이나 부탁을 삼간다.
+- [변명](../docs/making-excuses-for-mistakes.md) 잘못이나 실수를 지적받은 사람이 책임을 덜려고 그렇게 된 사정을 늘어놓는다.
 - [복수심](../docs/desire-for-revenge.md) 남에게 해를 입거나 모욕당한 사람이 상대에게 같은 고통을 되갚아 주고 싶어 한다.
   - [층간소음 보복](../docs/neighbor-noise-retaliation.md)
 - [부모를 닮아 가는 자신 알아차리기](../docs/noticing-oneself-becoming-like-parents.md) 어른이 된 사람이 자기 말이나 표정, 행동에서 부모를 닮은 모습을 알아차린다.
