@@ -1,24 +1,48 @@
 {
   "version": 1,
-  "savedAt": "2026-11-15T00:38:08.989Z",
-  "nextSeq": 5067,
-  "stops": 269,
+  "savedAt": "2026-11-15T03:38:26.269Z",
+  "nextSeq": 5086,
+  "stops": 270,
   "items": [
     {
-      "id": "02f3593b",
-      "title": "spotlight-effect 관계: blushing 결과, 회피 결과 간선",
-      "priority": 30,
-      "note": "2026-10-22 gohighbrow 2017 '상황을 아예 피함' 파편 더함(상대 문서 없음: 일반 상황 회피 문서가 생기면 결과 간선). blushing 후보 psych-your-mind.blogspot.com/2011/08/spotlight-effect-youre-only-one-who.html 은 인과 문장 아님. brunch.co.kr/@humanfreshnk/1712 (2026-06-18) '그래서 도전하지 못하고...'",
-      "createdAt": "2026-10-22T06:48:57.968Z",
-      "seq": 936
+      "id": "d57fdacc",
+      "title": "using-resignation-agency 보강: 공공 파편과 guilt-about-resigning 관계",
+      "priority": 50,
+      "note": "2026-11-15 공공 HTML 출처 못 찾음(愛媛県労働委員会 「退職代行について」 PDF 뿐). 후보: nippon.com/en/japan-topics/g02566/ (2025-12-26) 'Confrontation with the supervisor could be risky', japantoday 2019-05-19 기사는 403. persol 2025 [^4] 는 미안함을 말하나 인과 문장 아님. guilt-about-resigning [^8] webtan 2025 조사가 원인 간선 후보",
+      "createdAt": "2026-11-15T03:18:07.327Z",
+      "seq": 5079
     },
     {
-      "id": "bc5c35d6",
-      "title": "rereading-received-messages 관계: 원인·결과 간선과 사별 학술 파편",
-      "priority": 30,
-      "note": "2026-10-22 Carter 2018 PMC5858224 [^4] 사용(같은 글 'It may be that re-reading letters does not directly impact relationship satisfaction, but instead helps with individual coping, stress, and mental health' 저자 추측, 같은 URL). 후보: PMC8669216 (Holtzman 2021-11-14) 'by allowing them to reminisce about a partner by re-reading texts'. frontiersin fpsyg.2016.00870 (Thomas 2016) 're-experienced when re-reading posts' 문장 260자. 사별 학술 문장 미발견(Herron 2016, Odom 2010 PDF). keeping-belongings-of-the-dead 관계 후보",
-      "createdAt": "2026-10-22T12:58:53.202Z",
-      "seq": 1001
+      "id": "635c4094",
+      "title": "burnout 보강: 한국 공공 파편과 1970년대 시기",
+      "priority": 50,
+      "note": "2026-11-15 공공은 WHO 2019 하나. Freudenberger 1974 HTML 못 찾음. Maslach 2016 'When the construct of burnout was first proposed in the 1970s,' 서울신문 2021 '직장인 3명 중 2명' 조사 원 출처 찾기",
+      "createdAt": "2026-11-15T03:21:58.060Z",
+      "seq": 5080
+    },
+    {
+      "id": "8acb0fea",
+      "title": "quitting-religious-practice-after-blaming-god 보강: 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-15 한국어 교회·가톨릭 신문 기사 검색 결과 없음. 대체 후보: taps.org/articles/19-3/reclaimmyfaith (2013-09-21) 'My usual spiritual practices were fading fast.' 분노는 다른 대목이라 인과 약함",
+      "createdAt": "2026-11-15T03:29:53.542Z",
+      "seq": 5081
+    },
+    {
+      "id": "912d6380",
+      "title": "blame-contagion 보강: 공공 또는 SNS 파편, 별칭 blame contagion",
+      "priority": 50,
+      "note": "2026-11-15 Lozano 2019 PMC6405044 같은 글 'ruled out as causes of blame contagion.' 은 이미 쓴 출처라 별칭 근거로 쓰려면 [^3] 대목을 바꿔야 함. psychologytoday.com/blog/work-matters/201003/blame-is-contagious-except-when-people-have-high-self-worth (2010-03-27) 매체 후보. 공공·SNS 미발견(metafilter 86848 403)",
+      "createdAt": "2026-11-15T03:32:58.713Z",
+      "seq": 5082
+    },
+    {
+      "id": "da4e0f3b",
+      "title": "honor-culture-reputation-concern 보강: SNS 파편과 용서 꺼림 관계",
+      "priority": 50,
+      "note": "2026-11-15 Uskul 2022 PMC10078545 같은 글 'Latinx Americans were less likely to forgive offenses that had harmed their reputation' 용서 관련 문서가 생기면 결과 간선 후보. SNS 미발견",
+      "createdAt": "2026-11-15T03:38:14.791Z",
+      "seq": 5085
     },
     {
       "id": "f86fcff9",
@@ -27,14 +51,6 @@
       "note": "2026-10-22: 결과 상대 문서 없음(지시를 잘못 따름, 복약 오류 등). 후보: superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨, hearinghealthmatters 2013 'bluffing, which is a powerful recipe for trouble'. '의사 지시를 잘못 이해한 채 따르기' 신규 문서와 함께 처리",
       "createdAt": "2026-10-22T12:59:09.839Z",
       "seq": 1002
-    },
-    {
-      "id": "779b8dd0",
-      "title": "tip-of-the-tongue 보강: 한국어 매체·SNS 파편, 고유명사 조건",
-      "priority": 30,
-      "note": "2026-10-22 박지윤 외 2013 koreascience [^3] 더함. 후보: kormedi.com/1215756 (2015-08-01) '머릿속에 단어의 개념만 떠오르고, 글자와 발음으로 번역되는 과정이 실패했다는 의미다', kormedi.com/2757166 (2025-10-17) '저장되어 있는 것은 확실한데 떠오르지 않아'. scholar.kyobobook.co.kr/article/detail/4010024825343 노인·고유명사·저빈도 단어에서 많음(조건)",
-      "createdAt": "2026-10-22T13:05:19.716Z",
-      "seq": 1005
     },
     {
       "id": "af776979",
@@ -1285,6 +1301,30 @@
       "seq": 5058
     },
     {
+      "id": "1b081fc6",
+      "title": "spotlight-effect 관계: 결과 간선(춤 피하기, 혼자 외출 불안)",
+      "priority": 30,
+      "note": "2026-11-15 Scientific American 2023 [^5] 더함(화상 통화 불안, video-call-self-view-discomfort 와는 인과가 다름). 후보: creators.yahoo.com/lifestyle/story/the-spotlight-illusion-we-think-everyones-watching-theyre-not-123000342.html (2026-03-05) 'The spotlight effect doesn't just keep us from dancing' 남 앞에서 춤 피하기 문서가 생기면 결과 간선. thedecisionlab.com/biases/spotlight-effect (2019-08-16) 혼자 외출 불안 'this cognitive bias causes them to believe'. blushing·사진 회피·헬멧과 잇는 인과 출처는 못 찾음",
+      "createdAt": "2026-11-15T03:10:35.337Z",
+      "seq": 5077
+    },
+    {
+      "id": "4fb0a3f0",
+      "title": "rereading-received-messages 관계: 원인·결과 간선과 사별 학술 파편",
+      "priority": 30,
+      "note": "2026-10-22 Carter 2018 PMC5858224 [^4] 사용(같은 글 'It may be that re-reading letters does not directly impact relationship satisfaction, but instead helps with individual coping, stress, and mental health' 저자 추측, 같은 URL). 후보: PMC8669216 (Holtzman 2021-11-14) 'by allowing them to reminisce about a partner by re-reading texts'. frontiersin fpsyg.2016.00870 (Thomas 2016) 're-experienced when re-reading posts' 문장 260자. 사별 학술 문장 미발견(Herron 2016, Odom 2010 PDF). keeping-belongings-of-the-dead 관계 후보",
+      "createdAt": "2026-11-15T03:10:53.794Z",
+      "seq": 5078
+    },
+    {
+      "id": "383417b4",
+      "title": "using-resignation-agency 관계: 상사 괴롭힘과의 원인 간선",
+      "priority": 30,
+      "note": "2026-11-15 persol 2025 칼럼(이미 [^4]) '退職代行サービス運営企業は、退職代行サービスの利用理由として、上司のハラスメントが最も多いことを指摘している' 이유 문장. 상대가 될 '직장 상사 괴롭힘 받기' 문서 없음(enduring-workplace-harassment 는 참고 넘기기라 다름)",
+      "createdAt": "2026-11-15T03:33:33.476Z",
+      "seq": 5083
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1605,14 +1645,6 @@
       "seq": 320
     },
     {
-      "id": "d354c6f0",
-      "title": "명예 문화의 평판 걱정",
-      "priority": 10,
-      "note": "apology-reluctance F6(Lin 외 2022 PNAS PMC9564922): 평판 걱정이 사과 꺼림을 이끈다. 원인 간선 후보",
-      "createdAt": "2026-10-19T02:47:07.985Z",
-      "seq": 448
-    },
-    {
       "id": "cb03f0aa",
       "title": "학습된 무력감이 일반화된 뒤의 우울한 기분",
       "priority": 10,
@@ -1685,14 +1717,6 @@
       "seq": 585
     },
     {
-      "id": "1023c86d",
-      "title": "읽음 표시를 피하려고 메시지 열지 않기와 답장 미루기의 관계",
-      "priority": 10,
-      "note": "avoiding-read-receipts F3 브런치(brunch.co.kr/@longvacation/112, 2026-08-17) 같은 글 '그 의무를 피하려고 사람들은 결국 읽지 않은 척하는 기술을 익혔다' 는 빨리 답해야 한다는 압박(pressure-to-reply-quickly) → 이 현상의 원인 후보. 한 출처 한 파편이라 이 문서에는 못 씀. 다른 출처 필요. segye.com/newsView/20251005501605(카카오 몰래 읽기 기능 보도) 미열람",
-      "createdAt": "2026-10-19T23:04:25.966Z",
-      "seq": 587
-    },
-    {
       "id": "5918acb8",
       "title": "꾸며낸 핑계로 집안 체면 지키기",
       "priority": 10,
@@ -1725,52 +1749,12 @@
       "seq": 732
     },
     {
-      "id": "6fdc9d9c",
-      "title": "남 탓의 전염",
-      "priority": 10,
-      "note": "2026-10-22 매체 후보 VERIFIED 가능: nbcnews.com/health/health-news/passing-buck-blaming-others-contagious-flna1c9441046 (2010-01-19, LiveScience) 'Participants who read about the governor blaming others for a mistake were twice as likely as the other group of participants to blame someone else for their own slip-ups.' 학술 초록 gsbpreserve.stanford.edu/view/61308 403. 두 번째 종류 필요. 이전: blaming-others F3(USC 2009, Fast&Tiedens): 남이 탓하는 것을 본 사람이 더 탓한다. 하위 또는 결과 후보. 같은 페이지 'Blaming becomes common when people are worried about their safety in an organization'",
-      "createdAt": "2026-10-22T16:59:36.761Z",
-      "seq": 1077
-    },
-    {
       "id": "c41ddb0b",
       "title": "연인과의 다툼(관계 갈등)",
       "priority": 10,
       "note": "2026-10-22 snooping-on-partners-phone 결과 간선 상대 후보. psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate (2025-09-02, Cortney S. Warren) 'Violating their boundaries through snooping is very likely to cause conflict with your partner, no matter what you find.' marieclaire.co.uk/life/snooping-670110 (2019-11-02) 'In cases where the relationship ended, it was either because the phone owner felt their trust was betrayed, or the relationship was also experiencing difficulties' 이별 인과",
       "createdAt": "2026-10-22T22:56:23.218Z",
       "seq": 1117
-    },
-    {
-      "id": "abc5ca45",
-      "title": "감정 부조화로 인한 탈진",
-      "priority": 10,
-      "note": "2026-10-23 emotional-labor 작업 중. Headrick·Park 2022 PMID 34968117 표면 행위와 귀가 뒤 건강하지 않은 식사. 감정노동의 결과 후보(인과 문장 필요)",
-      "createdAt": "2026-10-23T12:09:34.325Z",
-      "seq": 1303
-    },
-    {
-      "id": "fd9c1f5a",
-      "title": "퇴직 대행 맡기기",
-      "priority": 10,
-      "note": "2026-10-24 HN 26525398 (2021-03-20) 'it's preferable to pay someone to resign for you so that they can't bully you into staying'. guilt-about-resigning 과 원인 관계 후보",
-      "createdAt": "2026-10-24T03:26:04.237Z",
-      "seq": 1411
-    },
-    {
-      "id": "3930dd54",
-      "title": "짝사랑",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 주제 제안. romantic-jealousy, partner-conflict 와 관계 후보",
-      "createdAt": "2026-10-24T06:06:53.205Z",
-      "seq": 1460
-    },
-    {
-      "id": "8b57bcb0",
-      "title": "신을 탓한 뒤 종교 행위 끊기",
-      "priority": 10,
-      "note": "2026-10-24 blaming-fate-or-god 의 결과 간선 후보. PMC7201637 (2020-05-06) 'Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices.' earticle.net/Article/A275113 (2016-05) 하나님께 분노",
-      "createdAt": "2026-10-24T15:06:00.128Z",
-      "seq": 1591
     },
     {
       "id": "bd50d1b5",
@@ -2971,6 +2955,14 @@
       "note": "2026-11-15 학술 후보만: experts.arizona.edu Jones 2002 'only 54% always checked their bodies for ticks', PMC7053299 Hook 2015 'did not routinely take any personal prevention steps', PMC10948045 Niesobecki 2019 tick check 58%. 공공·매체·SNS 파편 미발견(kdca 보도자료는 안내뿐). 다음 후보: phwr.org 인식도 조사, BMC Public Health 2022 에스트리 연구",
       "createdAt": "2026-11-15T00:35:26.685Z",
       "seq": 5066
+    },
+    {
+      "id": "1a0c9c92",
+      "title": "읽음 표시를 피하려고 메시지 열지 않기와 답장 미루기의 관계",
+      "priority": 10,
+      "note": "avoiding-read-receipts F3 브런치(brunch.co.kr/@longvacation/112, 2026-08-17) 같은 글 '그 의무를 피하려고 사람들은 결국 읽지 않은 척하는 기술을 익혔다' 는 빨리 답해야 한다는 압박(pressure-to-reply-quickly) → 이 현상의 원인 후보. 한 출처 한 파편이라 이 문서에는 못 씀. 다른 출처 필요. 2026-11-15 segye.com/newsView/20251005501605 (2025-10-05, 「“답장 안 해도 돼요?”…카카오톡, 논란의 새 기능 내놓는다」) 열림, 본문 문장 추출은 못 함(curl 로는 머리말만 보임)",
+      "createdAt": "2026-11-15T03:34:12.033Z",
+      "seq": 5084
     },
     {
       "id": "02b2f242",
