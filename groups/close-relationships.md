@@ -39,6 +39,7 @@
 - [마중 나가 기다리기](../docs/meeting-arrivals.md) 가족이나 가까운 사람이 기차나 비행기로 도착할 때 사람이 역이나 공항까지 마중을 나가 그 사람이 나오기를 기다린다.
 - [말 끊기](../docs/interrupting-others.md) 대화하는 사람이 상대가 말을 마치기 전에 그 말을 끊고 자기 말을 한다.
 - [말 안 하기로 화 드러내기](../docs/silent-treatment.md) 다툰 뒤 화가 난 사람이 상대에게 일부러 말을 하지 않는다.
+- [말대꾸](../docs/talking-back.md) 꾸중이나 지시를 받은 아이나 아랫사람이 부모나 윗사람에게 맞서는 말로 대답한다.
 - [명절 귀성 포기](../docs/skipping-holiday-homecoming.md) 명절에 고향이나 부모 집에 갈 수 있는 사람이 가지 않고 지내던 곳에 남기로 한다.
   - [부끄러워 귀향 피하기](../docs/skipping-homecoming-out-of-shame.md)
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
