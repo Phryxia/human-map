@@ -751,6 +751,7 @@
 - [커플 사이의 성욕 차이](docs/sexual-desire-discrepancy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [큰돈이 생기는 공상](docs/daydreaming-about-windfall.md) ([돈과 소비](groups/money.md))
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [타이어 공기압 점검하지 않기](docs/not-checking-tire-pressure.md) ([길과 운전](groups/roads-and-driving.md))
 - [타인의 표정을 부정적으로 읽기](docs/reading-faces-as-negative.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [탐욕](docs/greed.md) ([돈과 소비](groups/money.md))
 - [태풍 앞두고 유리창에 테이프 붙이기](docs/taping-windows-before-typhoons.md) ([건강과 위험](groups/health-and-safety.md))
