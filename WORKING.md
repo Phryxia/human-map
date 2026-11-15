@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-없음.
+- 2026-11-15T06:04Z | 2026-11-15T06:23Z | hesitating-to-perform-cpr 추가 | hesitating-to-perform-cpr dev/groups.json
