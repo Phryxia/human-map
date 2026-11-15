@@ -1,6 +1,6 @@
 # 고용 불안
 
-별칭: job insecurity[^10]
+별칭: job insecurity[^11]
 
 일하는 사람이 지금의 일자리를 잃을지 모른다고 걱정한다.
 
@@ -12,13 +12,15 @@
 
 1995년 Whitehall II 연구[^3]에서 민영화를 앞둔 직원들의 자기 보고 건강은 나머지 참가자보다 나빠지는 쪽으로 기울었다. 2002년 같은 연구의 후속 분석[^4]에서 고용 안정을 잃은 참가자들의 자기 보고 이환이 더 높았다.
 
-2008년 4월 기사[^5]가 전한 잡코리아 조사에서 정규직 직장인 응답자의 53.2%는 현재의 고용 상태에 불안감을 느낀다고 답했다. 2018년 5월 기사[^6]가 전한 호주 노동자 조사에서 열 명 가운데 한 명은 일자리를 잃을까 두려워 안전 위반을 신고하기를 꺼렸다. 2020년 Hacker News 댓글[^7]의 글쓴이는 코로나19의 경제 여파로 다음 두 분기 안에 감원이 있을까 걱정한다고 썼다. 2024년 연구[^10]는 Greenhalgh 와 Rosenblatt 가 1984년에 고용 불안을 위협받는 일자리에서 바라는 연속성을 지킬 힘이 없다는 지각으로 처음 정의했다고 적는다.
+2008년 4월 기사[^5]가 전한 잡코리아 조사에서 정규직 직장인 응답자의 53.2%는 현재의 고용 상태에 불안감을 느낀다고 답했다. 2018년 5월 기사[^7]가 전한 호주 노동자 조사에서 열 명 가운데 한 명은 일자리를 잃을까 두려워 안전 위반을 신고하기를 꺼렸다. 2020년 Hacker News 댓글[^8]의 글쓴이는 코로나19의 경제 여파로 다음 두 분기 안에 감원이 있을까 걱정한다고 썼다. 2024년 연구[^11]는 Greenhalgh 와 Rosenblatt 가 1984년에 고용 불안을 위협받는 일자리에서 바라는 연속성을 지킬 힘이 없다는 지각으로 처음 정의했다고 적는다.
 
-2021년 Basyouni 와 El Keshky 의 사우디아라비아 직장인 1,195명 연구[^8]는 고용 불안 때문에 여러 사람이 돈 걱정을 겪는다고 적었다.
+2014년 2월 샌프란시스코 연방준비은행 글[^6]에 따르면 개혁 뒤 실업 위험이 높아진 중국 국유기업 노동자들은 만일에 대비해 저축을 늘렸다.
 
-2022년 보건복지부 보도자료[^9]는 아픈 근로자의 약 30%가 제때 충분한 치료를 받지 못하고 그 이유로 실직과 폐업 우려 등을 꼽았다고 적었다.
+2021년 Basyouni 와 El Keshky 의 사우디아라비아 직장인 1,195명 연구[^9]는 고용 불안 때문에 여러 사람이 돈 걱정을 겪는다고 적었다.
 
-2026년 Hacker News 게시글[^11]의 글쓴이는 AI 가 이 일을 할 수 없다고 말할 수 없어 일자리를 잃을까 두렵다고 썼다.
+2022년 보건복지부 보도자료[^10]는 아픈 근로자의 약 30%가 제때 충분한 치료를 받지 못하고 그 이유로 실직과 폐업 우려 등을 꼽았다고 적었다.
+
+2026년 Hacker News 게시글[^12]의 글쓴이는 AI 가 이 일을 할 수 없다고 말할 수 없어 일자리를 잃을까 두렵다고 썼다.
 
 # 관계
 
@@ -36,9 +38,10 @@
 
 ## 결과
 
-- [아파도 출근하기](sickness-presenteeism.md)[^9]
-- [직장 문제를 윗사람에게 말하지 않기](employee-silence.md)[^6]
-- [돈 걱정](money-worry.md)[^8]
+- [예비적 저축](precautionary-saving.md)[^6]
+- [아파도 출근하기](sickness-presenteeism.md)[^10]
+- [직장 문제를 윗사람에게 말하지 않기](employee-silence.md)[^7]
+- [돈 걱정](money-worry.md)[^9]
 
 ## 대립
 
@@ -51,9 +54,10 @@
 [^3]: [학술] "Self reported health status, however, tended to deteriorate among employees anticipating privatisation when compared with that of the rest of the cohort." (그러나 자기 보고 건강 상태는 민영화를 앞둔 직원들에게서 코호트의 나머지와 견주어 나빠지는 경향이 있었다.) — J E Ferrie, M J Shipley, M G Marmot, S Stansfeld, "Health effects of anticipation of job change and non-employment: longitudinal data from the Whitehall II study", BMJ, 1995-11-11, https://pmc.ncbi.nlm.nih.gov/articles/PMC2551182/, 2026-10-26 접속
 [^4]: [학술] "Self reported morbidity was higher among participants who lost job security." (고용 안정을 잃은 참가자들의 자기 보고 이환이 더 높았다.) — J Ferrie, M Shipley, S Stansfeld, M Marmot, "Effects of chronic job insecurity and change in job security on self reported health, minor psychiatric morbidity, physiological measures, and health related behaviours in British civil servants: the Whitehall II study", Journal of Epidemiology and Community Health, 2002-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC1732160/, 2026-10-26 접속
 [^5]: [매체] "정규직 직장인1,289명을 대상으로 실시한 ‘2008년 직장인 고용안정성 만족도’조사 결과, 응답자 중 절반을 넘는 53.2%(686명)가 ‘현재의 고용상태에 불안감을 느낀다’고 밝혔다." — 손봉석, 「정규직 직장인도 ‘고용불안감’ 해마다 높아져」, 경향신문, 2008-04-23, https://www.khan.co.kr/article/200804231550212, 2026-10-27 접속
-[^6]: [매체] "A recent survey of Australian workers found one in ten are afraid to report a safety breach over fears it will cost them their job" (최근 호주 노동자 조사에서 열 명 가운데 한 명은 일자리를 잃을까 두려워 안전 위반을 신고하기를 꺼렸다) — 「Workers Not Reporting Safety Breaches Over Fears They'll be Sacked」, myosh, 2018-05-07, https://www.myosh.com/news/workers-not-reporting-safety-breaches-over-fears-theyll-be-sacked, 2026-10-30 접속
-[^7]: [SNS] "I'm concerned about layoffs occurring within the next two quarters due to the economic effects of coronavirus." (코로나바이러스의 경제 여파로 다음 두 분기 안에 감원이 있을까 걱정이다.) — Hacker News 댓글, 2020-04-20, https://news.ycombinator.com/item?id=22921685, 2026-10-26 접속
-[^8]: [학술] "Due to job insecurity, various individuals experience financial anxiety and have deep concerns because of COVID1-19's impacts." (고용 불안 때문에 여러 사람이 코로나19의 영향으로 돈 걱정을 겪고 깊이 근심한다.) — Sawzan Sadaqa Basyouni, Mogeda El Sayed El Keshky, "Job Insecurity, Work-Related Flow, and Financial Anxiety in the Midst of COVID-19 Pandemic and Economic Downturn", Frontiers in Psychology 12, 2021-07-15, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.632265/full, 2026-11-01 접속
-[^9]: [공공] "조사에 따르면 현재 우리나라에서 아픈 근로자들의 약 30%는 제때 충분한 치료를 받지 못하는 상황이며, 그 이유로 직장 분위기, 소득 상실 우려, 실직·폐업 우려* 등을 꼽았다." — 보건복지부, 「아픈 근로자의 쉼과 소득보장을 위한 상병수당 시범사업 추진한다」, 보도자료, 2022-01-19, https://mohw.go.kr/board.es?act=view&bid=0027&list_no=369826&mid=a10503010100&nPage=172&tag=, 2026-11-03 접속
-[^10]: [학술] "initially defined job insecurity as “the perceived powerlessness to maintain desired continuity in a threatened job situation” (p. 438)" (고용 불안을 “위협받는 일자리 상황에서 바라는 연속성을 지킬 힘이 없다는 지각”으로 처음 정의했다 (438쪽)) — Giulia Bacci, Sara Viotti, Lara Bertola, Daniela Converso, "All that glitters is not gold! Job insecurity and well-being in STEM research fellows: a latent profile analysis", Frontiers in Psychology, 2024-05-30, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1347966/full, 2026-10-26 접속
-[^11]: [SNS] "And still, I am afraid of losing my job because I can't say: AI can't do this." (그래도 나는 일자리를 잃을까 두렵다. AI 는 이 일을 못 한다고 말할 수 없으니까.) — Hacker News 게시글, 2026-01-26, https://news.ycombinator.com/item?id=46773296, 2026-10-26 접속
+[^6]: [공공] "Facing higher unemployment risks after the reforms, workers in state-owned enterprises have tended to save more as a precaution." (개혁 뒤 더 높은 실업 위험에 맞닥뜨린 국유기업 노동자들은 만일에 대비해 더 많이 저축하는 경향을 보였다.) — Zheng Liu, "Job Uncertainty and Chinese Household Savings", FRBSF Economic Letter 2014-03, Federal Reserve Bank of San Francisco, 2014-02-03, https://www.frbsf.org/research-and-insights/publications/economic-letter/job-uncertainty-china-household-savings-state-owned-enterprises-iron-rice-bowl, 2026-11-15 접속
+[^7]: [매체] "A recent survey of Australian workers found one in ten are afraid to report a safety breach over fears it will cost them their job" (최근 호주 노동자 조사에서 열 명 가운데 한 명은 일자리를 잃을까 두려워 안전 위반을 신고하기를 꺼렸다) — 「Workers Not Reporting Safety Breaches Over Fears They'll be Sacked」, myosh, 2018-05-07, https://www.myosh.com/news/workers-not-reporting-safety-breaches-over-fears-theyll-be-sacked, 2026-10-30 접속
+[^8]: [SNS] "I'm concerned about layoffs occurring within the next two quarters due to the economic effects of coronavirus." (코로나바이러스의 경제 여파로 다음 두 분기 안에 감원이 있을까 걱정이다.) — Hacker News 댓글, 2020-04-20, https://news.ycombinator.com/item?id=22921685, 2026-10-26 접속
+[^9]: [학술] "Due to job insecurity, various individuals experience financial anxiety and have deep concerns because of COVID1-19's impacts." (고용 불안 때문에 여러 사람이 코로나19의 영향으로 돈 걱정을 겪고 깊이 근심한다.) — Sawzan Sadaqa Basyouni, Mogeda El Sayed El Keshky, "Job Insecurity, Work-Related Flow, and Financial Anxiety in the Midst of COVID-19 Pandemic and Economic Downturn", Frontiers in Psychology 12, 2021-07-15, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.632265/full, 2026-11-01 접속
+[^10]: [공공] "조사에 따르면 현재 우리나라에서 아픈 근로자들의 약 30%는 제때 충분한 치료를 받지 못하는 상황이며, 그 이유로 직장 분위기, 소득 상실 우려, 실직·폐업 우려* 등을 꼽았다." — 보건복지부, 「아픈 근로자의 쉼과 소득보장을 위한 상병수당 시범사업 추진한다」, 보도자료, 2022-01-19, https://mohw.go.kr/board.es?act=view&bid=0027&list_no=369826&mid=a10503010100&nPage=172&tag=, 2026-11-03 접속
+[^11]: [학술] "initially defined job insecurity as “the perceived powerlessness to maintain desired continuity in a threatened job situation” (p. 438)" (고용 불안을 “위협받는 일자리 상황에서 바라는 연속성을 지킬 힘이 없다는 지각”으로 처음 정의했다 (438쪽)) — Giulia Bacci, Sara Viotti, Lara Bertola, Daniela Converso, "All that glitters is not gold! Job insecurity and well-being in STEM research fellows: a latent profile analysis", Frontiers in Psychology, 2024-05-30, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1347966/full, 2026-10-26 접속
+[^12]: [SNS] "And still, I am afraid of losing my job because I can't say: AI can't do this." (그래도 나는 일자리를 잃을까 두렵다. AI 는 이 일을 못 한다고 말할 수 없으니까.) — Hacker News 게시글, 2026-01-26, https://news.ycombinator.com/item?id=46773296, 2026-10-26 접속
