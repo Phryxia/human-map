@@ -325,6 +325,7 @@
 - [보도블록 금 밟지 않기](docs/avoiding-pavement-cracks.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [보복이 두려워 신고하지 않기](docs/not-reporting-for-fear-of-reprisal.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [보상을 기다리며 불만 없이 일하기](docs/silent-work-awaiting-reward.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [보안 피로](docs/security-fatigue.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보이지 않을 때까지 배웅하기](docs/watching-until-out-of-sight.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [보채는 아이에게 스마트기기 쥐여 주기](docs/handing-devices-to-fussy-children.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [보청기 쓰지 않기](docs/not-wearing-hearing-aids.md) ([건강과 위험](groups/health-and-safety.md))
