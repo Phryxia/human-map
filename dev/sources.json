@@ -27989,5 +27989,47 @@
     "last": "2026-11-14",
     "result": "VERIFIED",
     "lastVerified": "2026-11-14"
+  },
+  "https://weather.gov/safety/ripcurrent-survivor-intl": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://nhess.copernicus.org/articles/12/1201/2012/": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://whyy.org/articles/how-we-almost-drowned-last-summer/": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://www.outsideonline.com/outdoor-adventure/water-activities/everything-you-know-about-surviving-rip-currents-wrong/": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://link.springer.com/article/10.1007/s11069-021-04740-7": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://www.unsw.edu.au/news/2023/08/_your-first-emotion-is-panic--rips-cause-many-beach-drownings--b": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://www.ytn.co.kr/_ln/0104_202607110011150930": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
   }
 }
