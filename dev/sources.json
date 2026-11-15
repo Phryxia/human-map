@@ -28445,5 +28445,11 @@
     "last": "2026-11-15",
     "result": "VERIFIED",
     "lastVerified": "2026-11-15"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7274040/": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
   }
 }
