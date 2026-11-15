@@ -18,6 +18,8 @@
 
 2015년 파키스탄의 원형 탈모 청소년 연구[^5]에서 여성 참가자는 화를 내며 자기 처지를 신 탓으로 돌렸고 남성 참가자는 운명과 운을 함께 탓했다.
 
+2020년 이란 지진 피해 농촌 여성 연구[^6]에서 자기에게 닥친 일로 신을 탓한 여성 가운데 일부는 신을 피하고 종교 행위를 끊었다.
+
 # 관계
 
 ## 상위
@@ -34,7 +36,7 @@
 
 ## 결과
 
-없음.
+- [신을 원망한 뒤 종교 행위 끊기](quitting-religious-practice-after-blaming-god.md)[^6]
 
 ## 대립
 
@@ -47,3 +49,4 @@
 [^3]: [매체] "또 누구나 할 것 없이 신세한탄을 할 때면 “내 팔자에…”로 시작하는 팔자타령을 늘어놓는다." — 엄민용, "한국인 삶속의 팔자 타고난다? 따로없다?", 스포츠경향, 2008-04-02, https://sports.khan.co.kr/article/200804022103006, 2026-10-24 접속
 [^4]: [매체] "And many get angry because they believe that God is responsible for the negative events in their lives." (그리고 많은 사람이 신이 자기 삶의 부정적인 일에 책임이 있다고 믿기 때문에 화를 낸다.) — Serena Gordon, "Anger at God common during times of crisis, study finds", HealthDay, 2011-01-03, https://www.healthday.com/health-news/general-health/anger-at-god-common-during-times-of-crisis-study-finds-647935.html, 2026-10-22 접속
 [^5]: [학술] "Females felt angry and blamed God for their fate; males blamed both their fate and luck." (여성은 화를 내며 자기 처지를 신 탓으로 돌렸고 남성은 운명과 운을 함께 탓했다.) — Rafia Rafique, Nigel Hunt, "Experiences and coping behaviours of adolescents in Pakistan with alopecia areata: An interpretative phenomenological analysis", International Journal of Qualitative Studies on Health and Well-being 10, 2015-01-29, https://pmc.ncbi.nlm.nih.gov/articles/PMC4312360/, 2026-10-23 접속
+[^6]: [학술] "Since rural women blamed God for what was happening to them, some of them reacted to this by avoiding God and cutting off religious practices." (농촌 여성들은 자기에게 일어나는 일로 신을 탓했기에 그 가운데 일부는 신을 피하고 종교 행위를 끊는 것으로 반응했다.) — J. Yoosefi Lebni 외, "Experiences of rural women with damages resulting from an earthquake in Iran: a qualitative study", BMC Public Health 20, 2020-05-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC7201637/, 2026-11-15 접속
