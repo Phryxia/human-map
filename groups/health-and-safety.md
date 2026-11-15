@@ -50,6 +50,7 @@
 - [발이 저려 절룩이기](../docs/foot-falling-asleep.md) 한 자세로 오래 앉아 있던 사람이 발이나 다리가 저려 감각이 둔해지고 일어선 뒤 한동안 절룩이며 걷는다.
 - [보청기 쓰지 않기](../docs/not-wearing-hearing-aids.md) 청력이 떨어진 사람이 보청기가 도움이 될 만한데도 보청기를 쓰지 않는다.
 - [불이 나면 직접 끄려 하기](../docs/fighting-fire-oneself.md) 집이나 일터에서 불이 난 것을 본 사람이 신고나 대피보다 먼저 스스로 불을 끄려 한다.
+  - [기름 불에 물 붓기](../docs/pouring-water-on-oil-fire.md)
 - [선풍기 틀고 자기 꺼리기](../docs/fear-of-fan-death.md) 사람이 닫힌 방에서 선풍기를 틀어 둔 채 자면 죽을 수 있다고 여겨 문을 열어 두거나 타이머를 맞추거나 잠든 가족의 선풍기를 끈다.
 - [수돗물 그대로 마시지 않기](../docs/not-drinking-tap-water.md) 수돗물을 마실 수 있는 곳에 사는 사람이 수돗물을 그대로 마시지 않고 정수기를 달거나 생수를 사서 마신다.
 - [술 마신 뒤 물놀이](../docs/swimming-after-drinking.md) 술을 마신 사람이 바다, 강, 계곡, 호수에 들어가 헤엄치거나 물놀이를 한다.
