@@ -20,7 +20,7 @@
 - [배송 조회 되풀이하기](../docs/checking-parcel-tracking.md) 온라인으로 주문한 물건을 기다리는 사람이 배송 조회 페이지를 되풀이해 확인한다.
 - [배터리 부족 불안](../docs/low-battery-anxiety.md) 휴대전화를 가진 사람이 배터리 잔량이 줄어드는 것을 보고 불안해하며 충전할 곳을 찾거나 쓰임을 줄인다.
 - [보내기 전 메시지 다시 읽기](../docs/rereading-messages-before-sending.md) 이메일이나 메시지를 쓴 사람이 보내기 전에 초안을 여러 번 다시 읽거나 고쳐 쓴다.
-- [보낸 메시지 후회](../docs/senders-remorse.md) 메시지나 이메일을 보낸 사람이 보낸 뒤에 그 내용을 후회하거나 창피해한다.
+- [보낸 메시지 후회](../docs/senders-remorse.md) 편지나 메시지, 이메일을 보낸 사람이 보낸 뒤에 그 내용을 후회하거나 창피해한다.
 - [보안 피로](../docs/security-fatigue.md) 컴퓨터 보안 요구를 거듭 받은 사람이 보안을 챙기는 일에 지쳐 그 일을 꺼린다.
 - [보채는 아이에게 스마트기기 쥐여 주기](../docs/handing-devices-to-fussy-children.md) 부모가 밖에서 아이가 보채거나 지루해할 때 스마트폰이나 태블릿을 건네 아이를 달랜다.
 - [브라우저 탭 쌓아 두기](../docs/keeping-browser-tabs-open.md) 컴퓨터 사용자가 열어 둔 웹 브라우저 탭을 닫지 못하고 여러 개 쌓아 둔다.
