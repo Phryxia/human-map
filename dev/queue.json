@@ -1,176 +1,144 @@
 {
   "version": 1,
-  "savedAt": "2026-11-15T12:35:25.649Z",
-  "nextSeq": 5166,
-  "stops": 273,
+  "savedAt": "2026-11-15T15:35:03.853Z",
+  "nextSeq": 5203,
+  "stops": 274,
   "items": [
     {
-      "id": "a85944d6",
-      "title": "quitting-religious-practice-after-blaming-god 보강: 한국어 파편",
-      "priority": 50,
-      "note": "2026-11-15 한국어 교회·가톨릭 신문 기사 검색 결과 없음. 대체 후보: taps.org/articles/19-3/reclaimmyfaith (2013-09-21) 'My usual spiritual practices were fading fast.' 분노는 다른 대목이라 인과 약함",
-      "createdAt": "2026-11-15T09:08:45.689Z",
-      "seq": 5134
-    },
-    {
-      "id": "805a9745",
-      "title": "honor-culture-reputation-concern 보강: SNS 파편과 용서 꺼림 관계",
-      "priority": 50,
-      "note": "2026-11-15 Uskul 2022 PMC10078545 같은 글 'Latinx Americans were less likely to forgive offenses that had harmed their reputation' 용서 관련 문서가 생기면 결과 간선 후보. SNS 미발견",
-      "createdAt": "2026-11-15T09:08:45.812Z",
-      "seq": 5135
-    },
-    {
-      "id": "eb2e3e96",
-      "title": "blame-contagion 보강: 공공 또는 SNS 파편, 별칭 blame contagion",
-      "priority": 50,
-      "note": "2026-11-15 Psychology Today 2010-03-27 자기 가치 조건 파편 추가함. 그 글의 'The article is called “Blame Contagion: ...”' 대목은 223자라 못 씀. Fast & Tiedens 2010 원 논문 HTML 찾기. 공공·SNS 미발견(metafilter 86848 403)",
-      "createdAt": "2026-11-15T09:09:35.456Z",
-      "seq": 5136
-    },
-    {
-      "id": "6bd75a74",
+      "id": "ed45c6ad",
       "title": "taking-bags-during-evacuation 보강: 원인 간선과 1990년대 공공 파편",
       "priority": 50,
-      "note": "2026-11-15 TC CASA 2018-04 같은 글 'particularly when the danger to life is not immediately evident to them' 은 위험이 안 보일 때의 조건. Hodgson 2023 의 NTSB 2000 조사 'nearly 50% of passengers with carry-on luggage' 대목. TSB, ATSB, faa.gov 는 403/503",
-      "createdAt": "2026-11-15T09:09:50.401Z",
-      "seq": 5137
+      "note": "2026-11-15 The Gate 2018-02-18 분실 수하물 추측 파편 추가함. 원인 간선 근거 못 찾음. NTSB SS-00/01 은 PDF",
+      "createdAt": "2026-11-15T15:16:48.947Z",
+      "seq": 5185
     },
     {
-      "id": "b9c2a006",
-      "title": "missing-medical-appointments 보강: reservation-no-show 와 상위 관계, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-15 reservation-no-show 요약이 가게 예약에 한정돼 상위로 두지 않음. Lacy 2004 같은 글 'Issues of respect could explain why patients do not telephone to cancel.' Neal 2005 'Forgetfulness was another important cause.'",
-      "createdAt": "2026-11-15T09:09:50.514Z",
-      "seq": 5138
-    },
-    {
-      "id": "1cb84cab",
+      "id": "79c8ba4a",
       "title": "using-resignation-agency 보강: 공공 파편과 guilt-about-resigning 관계",
       "priority": 50,
-      "note": "2026-11-15 공공 HTML 출처 못 찾음(愛媛県労働委員会 「退職代行について」 PDF 뿐, 国民生活センター·厚労省·JILPT 검색 결과 없음). 후보: nippon.com/en/japan-topics/g02566/ (2025-12-26) 'Confrontation with the supervisor could be risky'. guilt-about-resigning [^8] webtan 2025 조사가 원인 간선 후보",
-      "createdAt": "2026-11-15T09:09:50.660Z",
-      "seq": 5139
+      "note": "2026-11-15 webtan 49972 는 이 환경에서 Just a moment 403. 문서의 [^4] 미안함 파편은 동반이지 인과가 아니라 원인 간선 못 그음. 이전 note: nippon.com/en/japan-topics/g02566/ (2025-12-26) 'Confrontation with the supervisor could be risky'",
+      "createdAt": "2026-11-15T15:18:44.292Z",
+      "seq": 5186
     },
     {
-      "id": "bb6d6c9d",
-      "title": "burnout 보강: 한국 공공 파편과 1970년대 시기",
+      "id": "ce7c4931",
+      "title": "burnout 보강: 1970년대 시기",
       "priority": 50,
-      "note": "2026-11-15 공공은 WHO 2019 하나. Freudenberger 1974 HTML 못 찾음. Maslach 2016 'When the construct of burnout was first proposed in the 1970s,' 서울신문 2021 '직장인 3명 중 2명' 조사 원 출처 찾기",
-      "createdAt": "2026-11-15T09:09:50.784Z",
-      "seq": 5140
+      "note": "2026-11-15 서울시 mediahub 2019128 공공 파편 추가함. Freudenberger 1974 HTML 아직 못 찾음",
+      "createdAt": "2026-11-15T15:21:55.198Z",
+      "seq": 5187
     },
     {
-      "id": "0a816616",
+      "id": "deb3d355",
       "title": "hesitating-to-perform-cpr 보강: SNS 파편, bystander-effect 관계",
       "priority": 50,
-      "note": "2026-11-15 IOM 2015 공공 파편 추가함. 같은 글 'Fear of harming the unresponsive individual or performing CPR improperly are also commonly cited barriers.' Hadadi 2025 PMC12754685 감염 걱정 73% 법적 49.1%",
-      "createdAt": "2026-11-15T09:10:57.708Z",
-      "seq": 5141
+      "note": "2026-11-15 HealthyWomen 2022-02-08 에세이 추가함. allnurses 는 Cloudflare 차단. beyondblue 포럼 near-death-resuscitate 스레드 후보",
+      "createdAt": "2026-11-15T15:23:23.478Z",
+      "seq": 5188
     },
     {
-      "id": "b84a2915",
-      "title": "security-fatigue 보강: SNS 파편, alarm-fatigue 와 관계",
+      "id": "dd62cc15",
+      "title": "security-fatigue 보강: alarm-fatigue 와 관계",
       "priority": 50,
-      "note": "2026-11-15 security-fatigue 를 NIST 2016, Mizrak 2025, ITWorld 2025 로 만듦. NIST 같은 글 'Researchers found that the result of weariness leads to feelings of resignation and loss of control.' Mizrak 같은 글 alert fatigue 는 알림에 둔감해지는 면. 2016년 이전 시기 파편 없음",
-      "createdAt": "2026-11-15T09:16:50.947Z",
-      "seq": 5145
+      "note": "2026-11-15 HN 5673498 2013 SNS 파편 추가함. HN 33810312 (2022-12-01) 'password manager space is the result of security fatigue' 대목은 password-reuse 원인 간선 후보",
+      "createdAt": "2026-11-15T15:24:06.132Z",
+      "seq": 5189
     },
     {
-      "id": "2d8dad3d",
-      "title": "precautionary-saving 보강: 학술 파편, tightwad-spending 관계",
+      "id": "5f3d4bc1",
+      "title": "precautionary-saving 보강: tightwad-spending 관계, 고용 불안 원인 간선",
       "priority": 50,
-      "note": "2026-11-15 시대일보 2014, ECB 2026 로 만듦. ECB 같은 글 'uncertain households spend around €100 less per month on non-durables'. 한국경제 sgsg 2020121826801 과 hankyung amp 2007032770431 은 403 봇 확인. 원인 간선 후보: 고용 불안",
-      "createdAt": "2026-11-15T09:19:35.696Z",
-      "seq": 5146
+      "note": "2026-11-15 Bonilla 2022 PMC8720555 학술 파편 추가함. 한국경제 sgsg 와 hankyung amp 는 403 봇 확인",
+      "createdAt": "2026-11-15T15:24:51.186Z",
+      "seq": 5190
     },
     {
-      "id": "357bba83",
-      "title": "saving-face 보강: 10년 떨어진 시기 파편, fighting-over-the-bill·lavish-celebrations-for-status 관계",
+      "id": "3a4d434d",
+      "title": "saving-face 보강: fighting-over-the-bill·lavish-celebrations-for-status 관계",
       "priority": 50,
-      "note": "2026-11-15 Frontiers 2021, Korea Herald 2024 로 만듦. 같은 Korea Herald 글 'They worried that they would lose face in front of their relatives and acquaintances if she married him.' brunch.co.kr/@hongkim1013/15 (2026-05-28) '체면은 살리고 싶은 욕심' 후보. 꾸며낸 핑계로 집안 체면 지키기 항목이 하위 후보",
-      "createdAt": "2026-11-15T09:20:58.935Z",
-      "seq": 5147
+      "note": "2026-11-15 Smith 1899 Gutenberg 33485 장례 파편 추가함. 같은 글 'To discontinue altogether the visits thither is to some extent a loss of face, which every Chinese feels keenly.' lavish-celebrations-for-status 요약이 혼례·잔치라 장례 간선은 안 그음. 장례 과시 현상 신규 후보",
+      "createdAt": "2026-11-15T15:26:42.715Z",
+      "seq": 5191
     },
     {
-      "id": "9fc5b9c5",
-      "title": "foreign-language-speaking-anxiety 보강: 어른 학습자 파편, fear-of-failure·fear-of-negative-evaluation 관계",
+      "id": "0c0babeb",
+      "title": "foreign-language-speaking-anxiety 보강: fear-of-failure·fear-of-negative-evaluation 관계",
       "priority": 50,
-      "note": "2026-11-15 코메디닷컴 2008, Frontiers in Education 2024 로 만듦. HN 7491745 (2014-03-29) 성인이 실패 공포와 사회적 창피 때문에 외국어를 어려워한다는 문장은 230자라 못 씀. Horwitz 1986 foreign language anxiety 원 논문 HTML 찾기",
-      "createdAt": "2026-11-15T09:22:52.729Z",
-      "seq": 5148
+      "note": "2026-11-15 HN 15512969 2017 어른 학습자 파편 추가함. PMC12602425 2025 'commonly linked to fear of making mistakes ... concerns about peer evaluation' 는 연관이지 인과 아님. Horwitz 1986 HTML 아직",
+      "createdAt": "2026-11-15T15:27:58.946Z",
+      "seq": 5193
     },
     {
-      "id": "da2841aa",
+      "id": "0e2cbd67",
       "title": "weaponized-incompetence 보강: 학술 또는 공공 파편, 한국어 파편, feigning-ignorance 관계",
       "priority": 50,
-      "note": "2026-11-15 Swaddle 2021, Fatherly 2023, HN 46384420 로 만듦. Villette 8장 'alleged incapacity and impracticability as a pretext to escape action' 은 gutenberg 9182 가 이미 4개 문서에 쓰여 못 씀. Daminger 2019 ASR, Aviv 2024 는 동기를 재지 않음. Fatherly 같은 글 'Continued weaponized incompetence contributes to burnout, distrust, and eventually, resentment.'",
-      "createdAt": "2026-11-15T09:24:42.811Z",
-      "seq": 5149
+      "note": "2026-11-15 '전략적 무능', '무기화된 무능' 한국어 검색 결과 없음. brunch @seminimom/67 은 며느리 설거지 글이라 이 현상 아님. 이전 note: Fatherly 2023 'Continued weaponized incompetence contributes to burnout, distrust, and eventually, resentment.'",
+      "createdAt": "2026-11-15T15:28:41.196Z",
+      "seq": 5194
     },
     {
-      "id": "9b564a8a",
-      "title": "borrowing-to-avoid-asking-family 와 shame-asking-to-borrow-money 원인 간선",
-      "priority": 50,
-      "note": "2026-11-15 borrowing-to-avoid-asking-family 를 LendingTree 2020, Amorim 2026 PMC13246145 로 만듦. shame-asking-to-borrow-money [^5] 도 같은 PMC13246145 인데 다른 대목이라 간선 근거로 못 씀. 수치심 때문에 대출을 고른다는 다른 출처 필요. LendingTree 같은 글 '71% felt guilty asking for the loan'",
-      "createdAt": "2026-11-15T09:25:43.104Z",
-      "seq": 5150
-    },
-    {
-      "id": "8a9c96df",
+      "id": "47404504",
       "title": "choosing-weddings-to-attend-over-meal-costs 보강: 공공 또는 학술 파편, 10년 떨어진 시기, weighing-gift-money 관계",
       "priority": 50,
-      "note": "2026-11-15 클리앙 park/18914024 댓글 2025-02-10, 스포츠경향 202603261408003 로 만듦. 세계일보 20260829500854 (2026-08-29) 한국소비자원 참가격 서울 예식장 1인 식대 중간값 8만원, 부부 동반 16만원 대목. 같은 클리앙 글 '축의금도 요새는 불참5 참10이 공식이더라구요'",
-      "createdAt": "2026-11-15T09:27:36.162Z",
-      "seq": 5152
+      "note": "2026-11-15 서울신문 20241008500176 파편 추가함. 같은 글이 신한은행 2024 보통사람 금융생활 보고서 '가지 않는다면 축의금 5만원 52.4%' 인용, 원 보고서 HTML 찾기. 2013~2015 기사 검색 결과 없음",
+      "createdAt": "2026-11-15T15:30:39.638Z",
+      "seq": 5195
     },
     {
-      "id": "1fa2efef",
-      "title": "ghosting 보강: 학술 파편과 한국어 파편, 친구 사이 고스팅",
+      "id": "a8c50fb4",
+      "title": "ghosting 보강: 한국어 파편, 친구 사이 고스팅",
       "priority": 50,
-      "note": "2026-11-15 Psychology Today 2018-03-08, HN 39371448 로 만듦. 같은 PT 글: 친구를 고스팅한 31.7%, 고스팅당한 38.6%, 한 번 데이트 뒤 고스팅을 받아들일 만하다 28%. Freedman 2018 JSPR, Koessler 2019 원문 HTML 찾기. phys.org 2022-06 texts-suddenly-people-ghost-social",
-      "createdAt": "2026-11-15T09:29:05.638Z",
-      "seq": 5153
+      "note": "2026-11-15 Langlais 2026 PMC12886356 학술 파편 추가함. 같은 글 'Ghosting is a dissolution strategy in which one partner abruptly ceases all communication' 정의. PT 2018 친구 고스팅 31.7%",
+      "createdAt": "2026-11-15T15:31:35.450Z",
+      "seq": 5196
     },
     {
-      "id": "6314ff75",
-      "title": "cruising-for-parking 와 brief-illegal-parking 원인 간선, SNS 파편",
+      "id": "358945a2",
+      "title": "cruising-for-parking 와 brief-illegal-parking 원인 간선",
       "priority": 50,
-      "note": "2026-11-15 cruising-for-parking 를 Hampshire·Shoup 2018 econpapers, 머니투데이 2022-06-01 로 만듦. 머니투데이 같은 글 '길바닥에서 주차장을 찾아 헤매느라 받는 스트레스와 시간낭비'. dspace.rpi.edu Marquis 2016 주차 자리 부족 때문에 이중 주차. Yahoo UK BPA 조사 운전자 1년 4일",
-      "createdAt": "2026-11-15T09:30:25.618Z",
-      "seq": 5154
+      "note": "2026-11-15 HN 43027898 2025 SNS 파편 추가함. 머니투데이 2022-06-01 '배회하는 차량이 빚는 도로 혼잡과 그에 따른 불법 주정차' 대목을 brief-illegal-parking 에도 쓸 수 있는지 볼 것. HN 43027420 'eight minutes looking for parking, I would rather not go' 회피 현상 후보",
+      "createdAt": "2026-11-15T15:32:19.711Z",
+      "seq": 5197
     },
     {
-      "id": "7f23fda6",
-      "title": "hesitating-at-the-door 보강: 1909년 문학 파편",
+      "id": "df770849",
+      "title": "hesitating-at-the-door 보강: 1900년대 문학 파편",
       "priority": 50,
-      "note": "2026-11-15 夏目漱石 「それから」 aozora cards/000148/files/56143_50921.html '気が咎（とが）めて行（い）かれなかった。' 찾아가려다 마음이 걸려 집으로 돌아옴",
-      "createdAt": "2026-11-15T12:10:14.259Z",
-      "seq": 5162
+      "note": "2026-11-15 それから 56143_50921 '気が咎めて行かれなかった' 대목은 찾아가기를 그만두는 장면이고 문 앞이 아니라 이 문서에 맞지 않음",
+      "createdAt": "2026-11-15T15:32:55.864Z",
+      "seq": 5198
     },
     {
-      "id": "e5c4a75e",
+      "id": "a8f64d13",
       "title": "startled-by-doorbell 보강: SNS 파편과 pretending-not-to-be-home 관계",
       "priority": 50,
-      "note": "2026-11-15 SNS 후보 모두 봇 차단(autism.org.uk 커뮤니티, Beyond Blue, 더쿠). abc7chicago.com 2019-06-05 'Others say they hide when someone rings their bell.' 은 사이드바가 끼어 확인 필요. MMH 2017 'Anytime there was a knock on the door I hid' 는 숨기 결과 간선 후보",
-      "createdAt": "2026-11-15T12:18:38.785Z",
-      "seq": 5163
+      "note": "2026-11-15 HN Algolia 'doorbell anxiety' 검색 결과 없음. 이전 note: autism.org.uk, Beyond Blue, 더쿠 봇 차단. abc7chicago 2019-06-05 'Others say they hide when someone rings their bell.' 확인 필요",
+      "createdAt": "2026-11-15T15:32:55.968Z",
+      "seq": 5199
     },
     {
-      "id": "f908342e",
+      "id": "c53be847",
       "title": "guilt-over-not-providing-for-children 보강: 문학 파편과 SNS 파편",
       "priority": 50,
-      "note": "2026-11-15 현진건 「운수 좋은 날」 '못 사주는 마음이 시원치는 않았다' 와 「빈처」 '내가 제게 신 한 켤레를 사주지 못하여' 는 각각 이미 4개 문서가 써서 못 씀. ppss.kr/archives/265131 (2024-02-27) '엄마가 많이 못 해줘서 미안해' 와 별칭 양육 죄책감(parenting guilt) 후보. ora.ox.ac.uk Ali 2019 수치심 대목",
-      "createdAt": "2026-11-15T12:24:54.961Z",
-      "seq": 5164
+      "note": "2026-11-15 최서해 「탈출기」 위키문헌 '어린것의 장래를 생각할 때면 애잡짤한 감정과 분함' 은 미안함이 아니라 맞지 않음. HN Algolia guilty·afford·kids 검색 결과 없음. 이전 note: 현진건 두 편은 이미 4개 문서 사용",
+      "createdAt": "2026-11-15T15:33:24.768Z",
+      "seq": 5200
     },
     {
-      "id": "0d5ebb99",
-      "title": "assuming-laughter-is-at-oneself 보강: 한국어 파편, spotlight-effect 관계",
+      "id": "e47db438",
+      "title": "assuming-laughter-is-at-oneself 보강: spotlight-effect 관계",
       "priority": 50,
-      "note": "2026-11-15 한국어 출처 미발견(brunch @moakey/457 로그인 안내). Weiss 2012 PMC3364988 의 gelotophobia 정의문은 210자. VOA 2012 'They may have a disorder called gelotophobia.' 는 이미 쓴 출처",
-      "createdAt": "2026-11-15T12:32:23.472Z",
-      "seq": 5165
+      "note": "2026-11-15 brunch @hoonius/1316 한국어 파편 추가함. 같은 글이 '비웃음 공포증' 이라는 이름을 씀, 별칭 근거로 쓸 대목 찾기",
+      "createdAt": "2026-11-15T15:34:28.388Z",
+      "seq": 5201
+    },
+    {
+      "id": "2de3bf06",
+      "title": "blame-contagion 보강: 공공 또는 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-15 별칭과 USC Today 2009-11-19 파편 추가함. HN Algolia 'blame contagious', 'blame culture' 에서 자기 경험 댓글 못 찾음",
+      "createdAt": "2026-11-15T15:34:54.438Z",
+      "seq": 5202
     },
     {
       "id": "f86fcff9",
@@ -3035,6 +3003,14 @@
       "note": "2026-11-15 宇野浩二 「質屋の小僧」 aozora cards/001533/files/52193_46250.html '玄関の明くベルの音に対する恐怖は、その後長い間私の記憶に止まつて' 初出 미상. avoiding-creditors 의 결과 간선 후보",
       "createdAt": "2026-11-15T12:10:14.126Z",
       "seq": 5161
+    },
+    {
+      "id": "1244ac78",
+      "title": "장례를 크게 치르기",
+      "priority": 10,
+      "note": "2026-11-15 Smith 1899 Gutenberg 33485 'Many a family will sell all their land ... funeral of a parent' saving-face 원인 후보, lavish-celebrations-for-status 형제",
+      "createdAt": "2026-11-15T15:26:42.835Z",
+      "seq": 5192
     },
     {
       "id": "02b2f242",
