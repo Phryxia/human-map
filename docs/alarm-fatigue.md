@@ -16,6 +16,8 @@
 
 2025년 기사[^7]는 알람 피로 때문에 의료진이 장비의 알람을 끄거나 빨리 반응하지 않는다고 전한다. 2025년 문헌 검토[^8]는 경보 체계를 믿지 않고 늦게 반응하는 일과 함께 경보 음량을 줄이거나 경보를 아예 끄는 대처를 든다.
 
+2026년 9월 보안 교육 업체의 글[^9]은 거짓 경보로 드러나곤 하는 보안 경고를 거듭 받아 무뎌지는 일을 보안 피로의 원인 하나로 든다.
+
 # 관계
 
 ## 상위
@@ -34,7 +36,7 @@
 
 ## 결과
 
-없음.
+- [보안 피로](security-fatigue.md)[^9]
 
 ## 대립
 
@@ -50,3 +52,4 @@
 [^6]: [공공] "The problem is that clinicians then ignore both the bothersome, clinically meaningless alarms and the critical alerts that warn of impending serious patient harm." (그러면 의료진은 성가시고 임상적으로 의미 없는 경보와 환자에게 닥칠 심각한 위해를 알리는 중대한 경보를 모두 무시한다.) — AHRQ PSNet, "Alert Fatigue", Patient Safety Primer, 2024, https://psnet.ahrq.gov/primer/alert-fatigue, 2026-10-26 접속
 [^7]: [매체] "이 알람 피로는 의료진이 장비의 알람을 끄거나 신속하게 반응하지 않아 의료사고로 이어지기도 한다." — 정동훈, 「환자-간호사 '알람 피로' 확 준다…대웅제약, 국내 최초 심전도 보험수가 획득」, 아시아경제, 2025-02-04, https://view.asiae.co.kr/article/2025020318041679109, 2026-10-26 접속
 [^8]: [학술] "These included mistrust of alarm systems and delayed responses [1, 7], as well as coping strategies such as reducing alarm volumes or disabling alarms altogether [40, 48]." (여기에는 경보 체계에 대한 불신과 늦은 반응, 그리고 경보 음량을 줄이거나 경보를 아예 끄는 대처 전략이 들었다.) — Elizabeth Anna Mathilde Michels, Stephen Gilbert, Iulia Koval, Magdalena Katharina Wekenborg, "Alarm fatigue in healthcare: a scoping review of definitions, influencing factors, and mitigation strategies", BMC Nursing 24, 2025-06-20, https://pmc.ncbi.nlm.nih.gov/articles/PMC12181921/, 2026-10-26 접속
+[^9]: [매체] "What causes security fatigue? NIST’s research identifies decision fatigue from too many security choices, desensitization from repeated warnings that often turn out to be false alarms" (보안 피로의 원인은 무엇인가. NIST 의 연구는 너무 많은 보안 선택에서 오는 결정 피로, 자주 거짓 경보로 드러나는 경고를 거듭 받으며 생기는 둔감화를 꼽는다) — "Security Fatigue: What It Is and Why More Training Backfires", Threatcop, 2026-09-24, https://threatcop.com/blog/security-fatigue/, 2026-11-15 접속

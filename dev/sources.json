@@ -10886,39 +10886,39 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3771202/": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4206416/": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://news.ycombinator.com/item?id=33664953": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://psnet.ahrq.gov/primer/alert-fatigue": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://view.asiae.co.kr/article/2025020318041679109": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12181921/": {
     "first": "2026-10-26",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://digital.lib.ku.edu/islandora/object/ku-udk%3A136794/datastream/OCR/download": {
     "first": "2026-10-26",
@@ -11834,9 +11834,9 @@
   },
   "https://news.ycombinator.com/item?id=8479528": {
     "first": "2026-10-27",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://www.livescience.com/28814-teen-breakups-a-mystery.html": {
     "first": "2026-10-27",
@@ -12769,9 +12769,9 @@
   },
   "https://www.gutenberg.org/cache/epub/21/pg21-images.html": {
     "first": "2026-10-28",
-    "last": "2026-10-28",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-28"
+    "lastVerified": "2026-11-15"
   },
   "https://literacytrust.org.uk/research-services/research-reports/childrens-and-young-peoples-diary-writing-2015": {
     "first": "2026-10-28",
@@ -28969,6 +28969,12 @@
     "lastVerified": "2026-11-15"
   },
   "https://www.jstage.jst.go.jp/article/circrep/7/6/7_CR-24-0166/_html/-char/en": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://threatcop.com/blog/security-fatigue/": {
     "first": "2026-11-15",
     "last": "2026-11-15",
     "result": "VERIFIED",
