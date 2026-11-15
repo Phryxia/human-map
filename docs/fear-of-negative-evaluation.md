@@ -14,7 +14,9 @@
 
 2021년 12월 상담 칼럼에 실린 독자 편지[^4]의 글쓴이는 낯선 사람이 많은 자리에서 자기 말이 어떻게 받아들여질지를 너무 따지다가 거의 아무 말도 못 한다고 적었다.
 
-2024년 글[^5]의 기사는 청소년이 거절당하거나 나쁜 인상을 남기기를 두려워해 얼굴이 더 자주 붉어진다고 적었다. 2026년 브런치 연재 글은 타인의 비판을 받을 가능성이 있는 상황에서 극도의 불안과 긴장을 느끼는 사람을 적었다.[^6]
+2024년 글[^5]의 기사는 청소년이 거절당하거나 나쁜 인상을 남기기를 두려워해 얼굴이 더 자주 붉어진다고 적었다. 2026년 브런치 연재 글은 타인의 비판을 받을 가능성이 있는 상황에서 극도의 불안과 긴장을 느끼는 사람을 적었다.[^7]
+
+2025년 모로코 예비 초등 교사 연구[^6]는 외국어 수업의 불안이 남에게 나쁘게 평가받을까 하는 두려움, 자신감 부족, 말하기 연습 기회의 부족에서 생긴다고 보고했다.
 
 # 관계
 
@@ -32,6 +34,7 @@
 
 ## 결과
 
+- [외국어 말하기 불안](foreign-language-speaking-anxiety.md)[^6]
 - [알아들은 척하기](pretending-to-understand.md)
 - [새 일터나 새 학교 첫날의 떨림](first-day-nerves.md)
 - [대화 뒤 되짚기](replaying-conversations-afterward.md)[^3]
@@ -53,4 +56,5 @@
 [^3]: [학술] "셋째, 부정적 평가에 대한 두려움이 사후반추사고를 통해 발표불안에 영향을 미치는 경로에서 경험회피가 조절된 매개효과를 가지는 것으로 나타났다." — 박소원, 이아라, 「부정적 평가에 대한 두려움 및 사후반추사고가 대학생의 발표불안에 미치는 영향: 경험회피의 조절된 매개효과」, 상담학연구 20(2), 2019, https://scholarworks.gnu.ac.kr/handle/sw.gnu/10417, 2026-10-18 접속
 [^4]: [매체] "When there are too many new faces around, I freeze up and I overthink what I could say and how it might be received so much that I end up saying practically nothing" (낯선 얼굴이 너무 많으면 나는 얼어붙고 무슨 말을 할지, 그 말이 어떻게 받아들여질지 너무 깊이 생각하다가 결국 거의 아무 말도 못 하게 된다) — Vincenzo Ligresti, "I'm Sociable, But I Hate Hanging Out in Groups. How Do I Loosen Up?", VICE, 2021-12-03, https://www.vice.com/en/article/how-to-be-less-shy-in-groups/, 2026-10-31 접속
 [^5]: [매체] "It is known that blushing increases during this life stage, since adolescents are very sensitive to other people’s opinions and can be afraid of rejection or leaving wrong impression" (청소년기에 얼굴 붉어짐이 늘어난다고 알려져 있는데, 청소년은 다른 사람의 의견에 매우 민감하고 거절당하거나 나쁜 인상을 남기는 것을 두려워할 수 있기 때문이다) — "Blushing May Be Automatic Emotional Response, Not Cognitive", Neuroscience News, 2024-07-18, https://neurosciencenews.com/blushing-neuroimaging-cerebellum-26463/, 2026-10-19 접속
-[^6]: [매체] "따라서 타인의 비판을 받을 가능성이 있는 상황에서 극도의 불안과 긴장을 느끼게 됩니다." — 강은미, "타인의 시선을 지나치게 의식하는 이유", 브런치, 2026-04-26, https://brunch.co.kr/@minotebook/57, 2026-10-18 접속
+[^6]: [학술] "The findings reveal that anxiety arises from diverse factors, including fear of negative evaluation, lack of confidence, and insufficient opportunities for oral practice." (결과는 불안이 부정적 평가에 대한 두려움, 자신감 부족, 말하기 연습 기회의 부족 같은 여러 요인에서 생긴다는 것을 보여 준다.) — Haroud, Ouchaouka, Saqri, "Investigating the causes of language anxiety among future primary school teachers in foreign language classes", Frontiers in Education, 2025-03-20, https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1510765/full, 2026-11-15 접속
+[^7]: [매체] "따라서 타인의 비판을 받을 가능성이 있는 상황에서 극도의 불안과 긴장을 느끼게 됩니다." — 강은미, "타인의 시선을 지나치게 의식하는 이유", 브런치, 2026-04-26, https://brunch.co.kr/@minotebook/57, 2026-10-18 접속

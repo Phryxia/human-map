@@ -1696,15 +1696,15 @@
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29409146&resultType=core&format=json": {
     "first": "2026-10-18",
-    "last": "2026-10-31",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-15"
   },
   "https://brunch.co.kr/@minotebook/57": {
     "first": "2026-10-18",
-    "last": "2026-10-31",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-15"
   },
   "https://pure.psu.edu/en/publications/reasons-for-reporting-and-not-reporting-domestic-violence-to-the-/": {
     "first": "2026-10-18",
@@ -1864,15 +1864,15 @@
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15738853&resultType=core&format=json": {
     "first": "2026-10-18",
-    "last": "2026-10-31",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-15"
   },
   "https://scholarworks.gnu.ac.kr/handle/sw.gnu/10417": {
     "first": "2026-10-18",
-    "last": "2026-11-11",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-11"
+    "lastVerified": "2026-11-15"
   },
   "https://m.dcinside.com/board/bjd/118699": {
     "first": "2026-10-18",
@@ -3927,9 +3927,9 @@
   },
   "https://neurosciencenews.com/blushing-neuroimaging-cerebellum-26463/": {
     "first": "2026-10-19",
-    "last": "2026-11-03",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-15"
   },
   "https://www.gutenberg.org/cache/epub/3608/pg3608-images.html": {
     "first": "2026-10-19",
@@ -15004,9 +15004,9 @@
   },
   "https://www.vice.com/en/article/how-to-be-less-shy-in-groups/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-15"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7153968&rettype=abstract&retmode=text": {
     "first": "2026-10-31",
@@ -28987,6 +28987,12 @@
     "lastVerified": "2026-11-15"
   },
   "https://macaudailytimes.com.mo/?p=68328": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1510765/full": {
     "first": "2026-11-15",
     "last": "2026-11-15",
     "result": "VERIFIED",
