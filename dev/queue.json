@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-15T09:31:34.545Z",
-  "nextSeq": 5156,
-  "stops": 272,
+  "savedAt": "2026-11-15T12:35:25.649Z",
+  "nextSeq": 5166,
+  "stops": 273,
   "items": [
     {
       "id": "a85944d6",
@@ -139,6 +139,38 @@
       "note": "2026-11-15 cruising-for-parking 를 Hampshire·Shoup 2018 econpapers, 머니투데이 2022-06-01 로 만듦. 머니투데이 같은 글 '길바닥에서 주차장을 찾아 헤매느라 받는 스트레스와 시간낭비'. dspace.rpi.edu Marquis 2016 주차 자리 부족 때문에 이중 주차. Yahoo UK BPA 조사 운전자 1년 4일",
       "createdAt": "2026-11-15T09:30:25.618Z",
       "seq": 5154
+    },
+    {
+      "id": "7f23fda6",
+      "title": "hesitating-at-the-door 보강: 1909년 문학 파편",
+      "priority": 50,
+      "note": "2026-11-15 夏目漱石 「それから」 aozora cards/000148/files/56143_50921.html '気が咎（とが）めて行（い）かれなかった。' 찾아가려다 마음이 걸려 집으로 돌아옴",
+      "createdAt": "2026-11-15T12:10:14.259Z",
+      "seq": 5162
+    },
+    {
+      "id": "e5c4a75e",
+      "title": "startled-by-doorbell 보강: SNS 파편과 pretending-not-to-be-home 관계",
+      "priority": 50,
+      "note": "2026-11-15 SNS 후보 모두 봇 차단(autism.org.uk 커뮤니티, Beyond Blue, 더쿠). abc7chicago.com 2019-06-05 'Others say they hide when someone rings their bell.' 은 사이드바가 끼어 확인 필요. MMH 2017 'Anytime there was a knock on the door I hid' 는 숨기 결과 간선 후보",
+      "createdAt": "2026-11-15T12:18:38.785Z",
+      "seq": 5163
+    },
+    {
+      "id": "f908342e",
+      "title": "guilt-over-not-providing-for-children 보강: 문학 파편과 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-15 현진건 「운수 좋은 날」 '못 사주는 마음이 시원치는 않았다' 와 「빈처」 '내가 제게 신 한 켤레를 사주지 못하여' 는 각각 이미 4개 문서가 써서 못 씀. ppss.kr/archives/265131 (2024-02-27) '엄마가 많이 못 해줘서 미안해' 와 별칭 양육 죄책감(parenting guilt) 후보. ora.ox.ac.uk Ali 2019 수치심 대목",
+      "createdAt": "2026-11-15T12:24:54.961Z",
+      "seq": 5164
+    },
+    {
+      "id": "0d5ebb99",
+      "title": "assuming-laughter-is-at-oneself 보강: 한국어 파편, spotlight-effect 관계",
+      "priority": 50,
+      "note": "2026-11-15 한국어 출처 미발견(brunch @moakey/457 로그인 안내). Weiss 2012 PMC3364988 의 gelotophobia 정의문은 210자. VOA 2012 'They may have a disorder called gelotophobia.' 는 이미 쓴 출처",
+      "createdAt": "2026-11-15T12:32:23.472Z",
+      "seq": 5165
     },
     {
       "id": "f86fcff9",
@@ -2995,6 +3027,14 @@
       "note": "2026-11-15 공공 후보: CDC MMWR mm6432a2 (2015-08-21) 'Poor contact lens hygiene behaviors such as exposing contact lenses to water and topping off storage cases with disinfection solution put contact lens wearers at risk for eye infections.' (UA 없이 받아야 200). 같은 글 덧붓기 55.1% 대목은 문장이 200자 넘음. Joslin 2007 PMC2692658 의 topping off 58.6% 문장도 230자. 다른 종류(SNS, 매체) 파편 필요. rinsing-lenses-with-tap-water 와 같은 렌즈 위생 묶음",
       "createdAt": "2026-11-15T09:31:16.661Z",
       "seq": 5155
+    },
+    {
+      "id": "806a18e1",
+      "title": "독촉을 겪은 뒤 벨 소리에 놀라기",
+      "priority": 10,
+      "note": "2026-11-15 宇野浩二 「質屋の小僧」 aozora cards/001533/files/52193_46250.html '玄関の明くベルの音に対する恐怖は、その後長い間私の記憶に止まつて' 初出 미상. avoiding-creditors 의 결과 간선 후보",
+      "createdAt": "2026-11-15T12:10:14.126Z",
+      "seq": 5161
     },
     {
       "id": "02b2f242",
