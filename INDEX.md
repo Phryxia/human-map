@@ -358,6 +358,7 @@
 - [비둘기에게 먹이 주기](docs/feeding-pigeons.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [비밀번호 재사용](docs/password-reuse.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [비밀에 대한 생각에 사로잡히기](docs/thinking-about-secrets.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [비상 탈출 때 짐 챙기기](docs/taking-bags-during-evacuation.md) ([건강과 위험](groups/health-and-safety.md))
 - [빈대 생긴 일 숨기기](docs/hiding-bedbug-infestation.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [빈말 약속](docs/empty-invitations.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [빌려준 돈 돌려 달라고 못 하기](docs/not-asking-for-loan-back.md) ([돈과 소비](groups/money.md))
