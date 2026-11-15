@@ -12,7 +12,7 @@
 
 2023년 AP 기사[^2]는 일본 노동자들이 말썽꾼으로 보이기 싫어하고 윗사람에게 이의를 달기 꺼리며 말을 꺼내기를 두려워할 수 있다고 전했다. 2024년 기사[^3]의 인물은 고민을 거듭하다 퇴직대행업자를 찾았다.
 
-2025년 칼럼[^4]의 필자는 퇴직 대행 이용자가 일반 이직자보다 그만둔 회사에 더 미안함을 느꼈고 자신을 배신자로 여겼다고 썼다. 2026년 산업보건법학회지 글[^5]은 직장 내 괴롭힘과 함께 퇴직 대행 서비스 이용을 포함한 퇴직을 과제로 다뤘다.
+2025년 칼럼[^4]의 필자는 퇴직 대행 이용자가 일반 이직자보다 그만둔 회사에 더 미안함을 느꼈고 자신을 배신자로 여겼다고 썼다. 2025년 12월 기사[^5]가 전한 2024년 조사에서 퇴직 대행을 쓴 이유로 가장 많이 꼽힌 답은 회사가 사직을 막았거나 막았을 것이라는 것(40.7%)이었다. 2026년 산업보건법학회지 글[^6]은 직장 내 괴롭힘과 함께 퇴직 대행 서비스 이용을 포함한 퇴직을 과제로 다뤘다.
 
 # 관계
 
@@ -42,4 +42,5 @@
 [^2]: [매체] "Workers don't want to be seen as troublemakers, are reluctant to question authority and may be afraid to speak up." (노동자들은 말썽꾼으로 보이기 싫어하고 윗사람에게 이의를 달기 꺼리며 말을 꺼내기를 두려워할 수 있다.) — "In Workaholic Japan, 'Job Leaving Agents' Help People Escape Awkwardness of Quitting", Asharq Al-Awsat(AP), 2023-06-30, https://english.aawsat.com/culture/4408611-workaholic-japan-%E2%80%98job-leaving-agents%E2%80%99-help-people-escape-awkwardness-quitting, 2026-11-15 접속
 [^3]: [매체] "고민을 거듭하던 A씨는 결국 퇴직대행업자를 찾았다." — 강구열, 「"싸진 않지만 가치가 있다"…퇴직에도 돈 쓰는 日 직장인의 속내는」, 세계일보, 2024-05-13, https://www.segye.com/newsView/20240513508596, 2026-11-15 접속
 [^4]: [매체] "退職代行利用者は一般離職者以上に辞めた会社に対して「申し訳なさ」を感じており、自身を「裏切り者」と感じていた。" (퇴직 대행 이용자는 일반 이직자보다 더 그만둔 회사에 '미안함' 을 느꼈고 자신을 '배신자' 로 느꼈다.) — 児島功和, 「誰が、なぜ退職代行を利用するのか」, パーソル総合研究所, 2025-12-25, https://rc.persol-group.co.jp/thinktank/thinktank-column/202512250001/, 2026-11-15 접속
-[^5]: [학술] "社労士の役割と産業医との連携の概要説明後に、妊娠・出産期のキャリアマネジメント、男性の育児参加、職場のハラスメント、退職（退職代行サービス利用を含む）についての課題の現状と共創の提案を紹介した。" (노무사의 역할과 산업의와의 연계를 개관한 뒤 임신·출산기의 경력 관리, 남성의 육아 참여, 직장 내 괴롭힘, 퇴직(퇴직 대행 서비스 이용 포함)에 관한 과제의 현황과 공동 대응 제안을 소개했다.) — 森本英樹 외, 「働きやすさの新時代 社労士と産業保健職の共創」, 産業保健法学会誌 5(1), 2026-05-31, https://www.jstage.jst.go.jp/article/jaohl/5/1/5_conf-feat.26-032/_article/-char/ja, 2026-11-15 접속
+[^5]: [매체] "the leading reasons for using a resignation agency were “They tried to stop me from resigning” or “They would have tried to stop me from resigning” (40.7%)," (퇴직 대행을 쓴 가장 큰 이유는 "회사가 내 사직을 막으려 했다" 또는 "막으려 했을 것이다"(40.7%)였다) — Naka Tanpei, "“I Can’t Do This Anymore!”: Why Japanese Workers are Turning to Resignation Agency Services", nippon.com, 2025-12-26, https://www.nippon.com/en/japan-topics/g02566/, 2026-11-15 접속
+[^6]: [학술] "社労士の役割と産業医との連携の概要説明後に、妊娠・出産期のキャリアマネジメント、男性の育児参加、職場のハラスメント、退職（退職代行サービス利用を含む）についての課題の現状と共創の提案を紹介した。" (노무사의 역할과 산업의와의 연계를 개관한 뒤 임신·출산기의 경력 관리, 남성의 육아 참여, 직장 내 괴롭힘, 퇴직(퇴직 대행 서비스 이용 포함)에 관한 과제의 현황과 공동 대응 제안을 소개했다.) — 森本英樹 외, 「働きやすさの新時代 社労士と産業保健職の共創」, 産業保健法学会誌 5(1), 2026-05-31, https://www.jstage.jst.go.jp/article/jaohl/5/1/5_conf-feat.26-032/_article/-char/ja, 2026-11-15 접속
