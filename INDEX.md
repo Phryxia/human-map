@@ -528,6 +528,7 @@
 - [옆 빈자리에 가방 두기](docs/blocking-adjacent-seat-with-bag.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [옆 사람 통화에 신경 쓰이기](docs/overheard-phone-calls.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [예기 애도](docs/anticipatory-grief.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [예비적 저축](docs/precautionary-saving.md) ([돈과 소비](groups/money.md))
 - [예약 부도](docs/reservation-no-show.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [옛 사진 들여다보기](docs/looking-at-old-photos.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [옛 일기 다시 읽기](docs/rereading-old-diaries.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
