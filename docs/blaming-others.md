@@ -22,6 +22,7 @@
 
 ## 하위
 
+- [남 탓의 전염](blame-contagion.md)
 - [운명이나 신을 탓하기](blaming-fate-or-god.md)
 
 ## 원인
