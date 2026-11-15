@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-14T21:37:08.908Z",
-  "nextSeq": 5061,
-  "stops": 268,
+  "savedAt": "2026-11-15T00:38:08.989Z",
+  "nextSeq": 5067,
+  "stops": 269,
   "items": [
     {
       "id": "02f3593b",
@@ -2947,6 +2947,30 @@
       "note": "2026-11-14 cogitatiopress.com mediaandcommunication/article/view/8483 Zhang·Shoenberger 2024-12-05 'Perceived political disagreement was significantly related to anger, which was further positively associated with both unfollowing and unfriending'. online-political-argument-fatigue 와 관계 후보",
       "createdAt": "2026-11-14T15:22:11.301Z",
       "seq": 5031
+    },
+    {
+      "id": "77b64ad9",
+      "title": "물에 빠졌을 때 공황",
+      "priority": 10,
+      "note": "swimming-against-rip-current 원인 후보. Drozdzewski 2012 nhess 12/1201 공황이 수칙 실행을 막음, UNSW 2023 'panic was a very common response, leading to a mental fog'. 공황 → 거슬러 헤엄치기 원인 간선 후보",
+      "createdAt": "2026-11-15T00:11:00.565Z",
+      "seq": 5064
+    },
+    {
+      "id": "7fbad0e5",
+      "title": "타이어 펑크 뒤 계속 달리기",
+      "priority": 10,
+      "note": "not-checking-tire-pressure 결과 후보. NBC 2001 wbna3072627 'ignored by owners and low on air pressure, and without warning those tires may shred or blow out'",
+      "createdAt": "2026-11-15T00:25:49.751Z",
+      "seq": 5065
+    },
+    {
+      "id": "43686256",
+      "title": "야외 활동 뒤 진드기 확인하지 않기",
+      "priority": 10,
+      "note": "2026-11-15 학술 후보만: experts.arizona.edu Jones 2002 'only 54% always checked their bodies for ticks', PMC7053299 Hook 2015 'did not routinely take any personal prevention steps', PMC10948045 Niesobecki 2019 tick check 58%. 공공·매체·SNS 파편 미발견(kdca 보도자료는 안내뿐). 다음 후보: phwr.org 인식도 조사, BMC Public Health 2022 에스트리 연구",
+      "createdAt": "2026-11-15T00:35:26.685Z",
+      "seq": 5066
     },
     {
       "id": "02b2f242",
