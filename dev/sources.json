@@ -11474,9 +11474,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13246145/": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-15"
   },
   "https://oee.nrcan.gc.ca/transportation/idling/facts.cfm": {
     "first": "2026-10-27",
@@ -28537,6 +28537,12 @@
     "lastVerified": "2026-11-15"
   },
   "https://news.ycombinator.com/item?id=46384420": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://www.lendingtree.com/personal/lending-between-friends-and-family-survey/": {
     "first": "2026-11-15",
     "last": "2026-11-15",
     "result": "VERIFIED",
