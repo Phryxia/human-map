@@ -43,6 +43,7 @@
 - [실패 사실 숨기기](../docs/concealing-failure.md) 시험이나 일에서 실패한 사람이 창피해서 그 사실을 가족이나 주변 사람에게 말하지 않거나 숨긴다.
   - [실직 사실 숨기기](../docs/concealing-job-loss.md)
   - [업무 실수 숨기기](../docs/hiding-mistakes-at-work.md)
+- [아는 척하기](../docs/pretending-to-know.md) 잘 모르는 것을 앞에 둔 사람이 모른다고 말하지 않고 아는 것처럼 말하거나 행동한다.
 - [아픈 신발 참고 신기](../docs/wearing-painful-shoes.md) 굽 높은 구두나 꽉 끼는 신발이 발을 아프게 하는 줄 아는 사람이 보기 좋다는 이유로 그 신발을 계속 신는다.
 - [억양 편견](../docs/accent-prejudice.md) 말을 듣는 사람이 말하는 사람의 지역 억양이나 계층 억양을 듣고 그 사람의 지위나 능력을 낮게 여긴다.
 - [얼굴 붉어짐](../docs/blushing.md) 사람이 남의 시선이나 칭찬이나 창피한 일 앞에서 얼굴이 붉어진다.

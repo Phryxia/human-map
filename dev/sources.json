@@ -20075,9 +20075,9 @@
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255207": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-15",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-15"
   },
   "https://vuir.vu.edu.au/1987/": {
     "first": "2026-11-05",
@@ -28909,6 +28909,18 @@
     "lastVerified": "2026-11-15"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11757728/": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://ko.wikisource.org/wiki/양초_귀신": {
+    "first": "2026-11-15",
+    "last": "2026-11-15",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-15"
+  },
+  "https://ko.wikisource.org/wiki/어머니와_딸_(나혜석)": {
     "first": "2026-11-15",
     "last": "2026-11-15",
     "result": "VERIFIED",
