@@ -1,73 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-15T18:40:46.513Z",
-  "nextSeq": 5221,
-  "stops": 275,
+  "savedAt": "2026-11-15T21:42:43.458Z",
+  "nextSeq": 5231,
+  "stops": 276,
   "items": [
-    {
-      "id": "79c8ba4a",
-      "title": "using-resignation-agency 보강: 공공 파편과 guilt-about-resigning 관계",
-      "priority": 50,
-      "note": "2026-11-15 webtan 49972 는 이 환경에서 Just a moment 403. 문서의 [^4] 미안함 파편은 동반이지 인과가 아니라 원인 간선 못 그음. 이전 note: nippon.com/en/japan-topics/g02566/ (2025-12-26) 'Confrontation with the supervisor could be risky'",
-      "createdAt": "2026-11-15T15:18:44.292Z",
-      "seq": 5186
-    },
-    {
-      "id": "ce7c4931",
-      "title": "burnout 보강: 1970년대 시기",
-      "priority": 50,
-      "note": "2026-11-15 서울시 mediahub 2019128 공공 파편 추가함. Freudenberger 1974 HTML 아직 못 찾음",
-      "createdAt": "2026-11-15T15:21:55.198Z",
-      "seq": 5187
-    },
-    {
-      "id": "deb3d355",
-      "title": "hesitating-to-perform-cpr 보강: SNS 파편, bystander-effect 관계",
-      "priority": 50,
-      "note": "2026-11-15 HealthyWomen 2022-02-08 에세이 추가함. allnurses 는 Cloudflare 차단. beyondblue 포럼 near-death-resuscitate 스레드 후보",
-      "createdAt": "2026-11-15T15:23:23.478Z",
-      "seq": 5188
-    },
-    {
-      "id": "dd62cc15",
-      "title": "security-fatigue 보강: alarm-fatigue 와 관계",
-      "priority": 50,
-      "note": "2026-11-15 HN 5673498 2013 SNS 파편 추가함. HN 33810312 (2022-12-01) 'password manager space is the result of security fatigue' 대목은 password-reuse 원인 간선 후보",
-      "createdAt": "2026-11-15T15:24:06.132Z",
-      "seq": 5189
-    },
-    {
-      "id": "5f3d4bc1",
-      "title": "precautionary-saving 보강: tightwad-spending 관계, 고용 불안 원인 간선",
-      "priority": 50,
-      "note": "2026-11-15 Bonilla 2022 PMC8720555 학술 파편 추가함. 한국경제 sgsg 와 hankyung amp 는 403 봇 확인",
-      "createdAt": "2026-11-15T15:24:51.186Z",
-      "seq": 5190
-    },
-    {
-      "id": "3a4d434d",
-      "title": "saving-face 보강: fighting-over-the-bill·lavish-celebrations-for-status 관계",
-      "priority": 50,
-      "note": "2026-11-15 Smith 1899 Gutenberg 33485 장례 파편 추가함. 같은 글 'To discontinue altogether the visits thither is to some extent a loss of face, which every Chinese feels keenly.' lavish-celebrations-for-status 요약이 혼례·잔치라 장례 간선은 안 그음. 장례 과시 현상 신규 후보",
-      "createdAt": "2026-11-15T15:26:42.715Z",
-      "seq": 5191
-    },
-    {
-      "id": "0c0babeb",
-      "title": "foreign-language-speaking-anxiety 보강: fear-of-failure·fear-of-negative-evaluation 관계",
-      "priority": 50,
-      "note": "2026-11-15 HN 15512969 2017 어른 학습자 파편 추가함. PMC12602425 2025 'commonly linked to fear of making mistakes ... concerns about peer evaluation' 는 연관이지 인과 아님. Horwitz 1986 HTML 아직",
-      "createdAt": "2026-11-15T15:27:58.946Z",
-      "seq": 5193
-    },
-    {
-      "id": "0e2cbd67",
-      "title": "weaponized-incompetence 보강: 학술 또는 공공 파편, 한국어 파편, feigning-ignorance 관계",
-      "priority": 50,
-      "note": "2026-11-15 '전략적 무능', '무기화된 무능' 한국어 검색 결과 없음. brunch @seminimom/67 은 며느리 설거지 글이라 이 현상 아님. 이전 note: Fatherly 2023 'Continued weaponized incompetence contributes to burnout, distrust, and eventually, resentment.'",
-      "createdAt": "2026-11-15T15:28:41.196Z",
-      "seq": 5194
-    },
     {
       "id": "47404504",
       "title": "choosing-weddings-to-attend-over-meal-costs 보강: 공공 또는 학술 파편, 10년 떨어진 시기, weighing-gift-money 관계",
@@ -203,6 +139,46 @@
       "note": "김동인 「대수양」 24 위키문헌 '땀을 뻘뻘 흘려 가면서 변명하였다'(발행일 미상). PLOS 10.1371/journal.pone.0336599 'restore their self-esteem and avoid a negative self-view' 기능 대목. 파편 2개뿐",
       "createdAt": "2026-11-15T18:40:33.395Z",
       "seq": 5220
+    },
+    {
+      "id": "9446159e",
+      "title": "alert-fatigue 와 security-fatigue 상위 관계 검토",
+      "priority": 50,
+      "note": "threatcop.com/blog/security-fatigue 'Security fatigue is the broader condition, including alert fatigue', jumpcloud it-index 'Alert Fatigue: This is a specific type of security fatigue'. alarm-fatigue 와의 상하 관계 판단 필요",
+      "createdAt": "2026-11-15T21:29:47.540Z",
+      "seq": 5226
+    },
+    {
+      "id": "6487bae0",
+      "title": "precautionary-saving 보강: tightwad-spending 관계",
+      "priority": 50,
+      "note": "2026-11-15 FRBSF 2014-03 Economic Letter 로 job-insecurity 원인 간선 그음. tightwad-spending 과의 관계 근거 아직",
+      "createdAt": "2026-11-15T21:33:14.431Z",
+      "seq": 5227
+    },
+    {
+      "id": "a5aa98ef",
+      "title": "saving-face 보강: fighting-over-the-bill 관계",
+      "priority": 50,
+      "note": "2026-11-15 lavish-celebrations-for-status 간선은 macaudailytimes 68328 로 그음. 계산 다툼 쪽 후보 mabelkwong.com 2016-02-18 'pride and face thing that drives' 는 개인 블로그라 두 문서에 걸쳐 쓰기 곤란. commisceo-global 2019 'Fighting for face: Arguing over who pays the bill' 는 인과 아님",
+      "createdAt": "2026-11-15T21:36:42.595Z",
+      "seq": 5228
+    },
+    {
+      "id": "b71330ea",
+      "title": "foreign-language-speaking-anxiety 보강: fear-of-failure 관계",
+      "priority": 50,
+      "note": "2026-11-15 Frontiers feduc.2025.1510765 로 fear-of-negative-evaluation 원인 간선 그음. 같은 글 'This anxiety stems from various factors, including the fear of making mistakes' 는 같은 출처라 fear-of-failure 쪽은 다른 출처 필요. old.hltmag.co.uk/dec16/sart04.htm 발행일 미확인",
+      "createdAt": "2026-11-15T21:40:08.974Z",
+      "seq": 5229
+    },
+    {
+      "id": "587c187a",
+      "title": "weaponized-incompetence 보강: 한국어 파편, feigning-ignorance 관계",
+      "priority": 50,
+      "note": "2026-11-15 PMC13639403 2026 학술 파편 추가함. PMC13462502 2026 인터뷰 'weaponized incompetence a lot of people have to deal with, with spouses' 후보. 2007 WSJ Sandberg 칼럼이 용어 첫 사용이라는 검색 요약, 미확인",
+      "createdAt": "2026-11-15T21:42:34.020Z",
+      "seq": 5230
     },
     {
       "id": "f86fcff9",
