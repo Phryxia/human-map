@@ -67,6 +67,7 @@
   - [결말 먼저 읽기](../docs/reading-the-ending-first.md)
 - [슬픈 이야기를 보며 울기](../docs/crying-at-sad-stories.md) 슬픈 영화나 소설을 보는 사람이 지어낸 이야기에 눈물을 흘린다.
 - [시험 불안](../docs/test-anxiety.md) 시험을 앞두거나 시험을 치르는 학생이 불안해하고 머리가 잘 돌아가지 않는다.
+- [신세타령](../docs/lamenting-ones-lot.md) 자기 처지가 고단하다고 여기는 사람이 그 사정을 남에게 늘어놓거나 혼자 한탄한다.
 - [실패에 대한 두려움](../docs/fear-of-failure.md) 어떤 일을 앞둔 사람이 실패해 창피를 당하거나 낮게 평가받을까 두려워한다.
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
 - [어둠 공포](../docs/fear-of-the-dark.md) 어두운 곳에 있는 사람이 보이지 않는 것을 무서워한다.
