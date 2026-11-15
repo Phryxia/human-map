@@ -26,6 +26,7 @@
 
 ## 원인
 
+- [분노 반추](anger-rumination.md)[^9]
 - [원한 품기](holding-a-grudge.md)[^1]
 - [반추](rumination.md)[^9][^10]
 

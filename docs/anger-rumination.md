@@ -22,7 +22,9 @@
 
 2019년 연구[^7]에서 화가 났던 일을 떠올린 뒤 재평가를 한 참가자의 분노는 줄었고 그 일을 곱씹은 참가자의 분노는 변하지 않았다.
 
-2022년 8월 게시글[^8]의 글쓴이는 10년도 더 지난 직장 괴롭힘의 일이 하루도 빠짐없이 생각나고 그 사람을 만나면 욕을 해 주고 싶다는 생각만 남았다고 적었다.
+2021년 8월 대학 소식[^8]이 전한 연구에서 지난 도발을 곱씹으라는 지시를 받은 참가자들은 당장의 작은 복수보다 늦더라도 큰 복수를 고르기 시작했다.
+
+2022년 8월 게시글[^9]의 글쓴이는 10년도 더 지난 직장 괴롭힘의 일이 하루도 빠짐없이 생각나고 그 사람을 만나면 욕을 해 주고 싶다는 생각만 남았다고 적었다.
 
 # 관계
 
@@ -40,7 +42,8 @@
 
 ## 결과
 
-- [원한 품기](holding-a-grudge.md)[^9]
+- [복수심](desire-for-revenge.md)[^8]
+- [원한 품기](holding-a-grudge.md)[^10]
 - [엉뚱한 대상에게 화풀이하기](displaced-aggression.md)[^2]
 
 ## 대립
@@ -56,5 +59,6 @@
 [^5]: [학술] "집단비교 결과, 원인반추가 높은 집단은 낮은 집단보다 분노기분이 높았고 분노경험도 높았다." — 이근배, 조현춘, 「반추초점과 분노의 관계」, 한국심리학회지: 일반 30(2), 397-418, 2011-06, https://www.accesson.kr/kpageneral/v.30/2/397/15774?lang=ko, 2026-11-09 접속
 [^6]: [학술] "ruminating about real world anger provocations, guilt-inducing events, and sad times in the last year made these past events feel as though they happened more recently." (지난 1년 동안 실제로 겪은 분노 유발 사건, 죄책감을 일으킨 사건, 슬펐던 때를 곱씹으면 이 지난 일들이 더 최근에 일어난 것처럼 느껴졌다.) — Ewa Siedlecka, Miriam M. Capper, Thomas F. Denson, "Negative Emotional Events that People Ruminate about Feel Closer in Time", PLoS One, 2015-02-25, https://pmc.ncbi.nlm.nih.gov/articles/PMC4351980/, 2026-11-09 접속
 [^7]: [학술] "reappraisal was associated with a decrease in anger, but rumination was associated with no change in anger." (재평가는 분노의 감소와 관련되었으나 반추는 분노의 변화가 없는 것과 관련되었다.) — Carmen Peuters, Elise K. Kalokerinos, Madeline Lee Pe, Peter Kuppens, "Sequential effects of reappraisal and rumination on anger during recall of an anger-provoking event", PLoS One, 2019-01-02, https://pmc.ncbi.nlm.nih.gov/articles/PMC6314601/, 2026-11-09 접속
-[^8]: [SNS] "10년도 더 지난 일임에도 그 때의 일이 하루라도 생각나지 않은 때가 없어요. 직장 괴롭힘으로 심한 모욕감을 느꼈고 내가 우연히라도 그 사람을 만나면 욕 한바가지 해주고 싶다는 생각만 마음 속에 남아있네요." — 김박사넷, 게시글, 2022-08-31, https://phdkim.net/board/free/33770, 2026-11-09 접속
-[^9]: [매체] "Most notably, the second study found that rumination played a mediating role in the relationship between narcissism and grudge holding." (무엇보다 두 번째 연구에서는 반추가 자기애와 원한 품기 사이의 관계를 매개하는 것으로 나타났다.) — Eric W. Dolan, "New psychology research connects narcissism to grudge holding", PsyPost, 2024-01-06, https://www.psypost.org/new-psychology-research-connects-narcissism-to-grudge-holding/, 2026-11-12 접속
+[^8]: [매체] "When the participants were instructed to ruminate on a past provocation, they began to prefer delayed-but-greater revenge over immediate-but-lesser revenge." (참가자들이 지난 도발을 곱씹으라는 지시를 받자 즉각적이지만 작은 복수보다 늦지만 큰 복수를 선호하기 시작했다.) — Brian McNeill, "Is revenge a dish best served cold? For most, 'hot and ready' is preferable, VCU study finds", VCU News, 2021-08, https://news.vcu.edu/article/2021/08/is-revenge-a-dish-best-served-cold-for-most-hot-and-ready-is-preferable-vcu-study-finds, 2026-11-15 접속
+[^9]: [SNS] "10년도 더 지난 일임에도 그 때의 일이 하루라도 생각나지 않은 때가 없어요. 직장 괴롭힘으로 심한 모욕감을 느꼈고 내가 우연히라도 그 사람을 만나면 욕 한바가지 해주고 싶다는 생각만 마음 속에 남아있네요." — 김박사넷, 게시글, 2022-08-31, https://phdkim.net/board/free/33770, 2026-11-09 접속
+[^10]: [매체] "Most notably, the second study found that rumination played a mediating role in the relationship between narcissism and grudge holding." (무엇보다 두 번째 연구에서는 반추가 자기애와 원한 품기 사이의 관계를 매개하는 것으로 나타났다.) — Eric W. Dolan, "New psychology research connects narcissism to grudge holding", PsyPost, 2024-01-06, https://www.psypost.org/new-psychology-research-connects-narcissism-to-grudge-holding/, 2026-11-12 접속
