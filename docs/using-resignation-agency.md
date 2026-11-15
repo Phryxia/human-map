@@ -1,6 +1,6 @@
 # 퇴직 대행 맡기기
 
-별칭: Job Leaving Agents[^2], 퇴직대행[^3]
+별칭: Job Leaving Agents[^4], 퇴직대행[^5]
 
 직장을 그만두려는 사람이 회사에 직접 말하지 않고 돈을 내 대행 업체에 사직 통보를 맡긴다.
 
@@ -8,11 +8,11 @@
 
 # 서술
 
-2018년 일본 기사[^1]는 많은 사람이 3만에서 5만 엔의 비용을 들여 퇴직 대행을 쓰는 배경으로 괴롭힘, 인수인계, 인력 부족처럼 혼자 힘으로는 그만두기 어려운 노동 환경을 들었다.
+2018년 일본 기사[^1]는 많은 사람이 3만에서 5만 엔의 비용을 들여 퇴직 대행을 쓰는 배경으로 괴롭힘, 인수인계, 인력 부족처럼 혼자 힘으로는 그만두기 어려운 노동 환경을 들었다. 같은 해 12월 참의원 법무위원회 회의록[^2]에서 한 의원은 퇴직 대행이 퍼진 것을 사용자에게 퇴직을 꺼내기 어렵고 괴롭다고 느끼는 노동자가 많다는 뜻으로 본다고 말했다.
 
-2023년 AP 기사[^2]는 일본 노동자들이 말썽꾼으로 보이기 싫어하고 윗사람에게 이의를 달기 꺼리며 말을 꺼내기를 두려워할 수 있다고 전했다. 2024년 기사[^3]의 인물은 고민을 거듭하다 퇴직대행업자를 찾았다.
+2023년 6월 알자지라 기사[^3]에서 대행 업체 쪽 사람은 이용의 두 큰 이유로 상사가 무서워 그만두겠다는 말을 못 하는 것과 그만두고 싶어 하는 데 대한 죄책감을 꼽았다. 같은 달 AP 기사[^4]는 일본 노동자들이 말썽꾼으로 보이기 싫어하고 윗사람에게 이의를 달기 꺼리며 말을 꺼내기를 두려워할 수 있다고 전했다. 2024년 기사[^5]의 인물은 고민을 거듭하다 퇴직대행업자를 찾았다.
 
-2025년 칼럼[^4]의 필자는 퇴직 대행 이용자가 일반 이직자보다 그만둔 회사에 더 미안함을 느꼈고 자신을 배신자로 여겼다고 썼다. 2025년 12월 기사[^5]가 전한 2024년 조사에서 퇴직 대행을 쓴 이유로 가장 많이 꼽힌 답은 회사가 사직을 막았거나 막았을 것이라는 것(40.7%)이었다. 2026년 산업보건법학회지 글[^6]은 직장 내 괴롭힘과 함께 퇴직 대행 서비스 이용을 포함한 퇴직을 과제로 다뤘다.
+2025년 칼럼[^6]의 필자는 퇴직 대행 이용자가 일반 이직자보다 그만둔 회사에 더 미안함을 느꼈고 자신을 배신자로 여겼다고 썼다. 2025년 12월 기사[^7]가 전한 2024년 조사에서 퇴직 대행을 쓴 이유로 가장 많이 꼽힌 답은 회사가 사직을 막았거나 막았을 것이라는 것(40.7%)이었다. 2026년 산업보건법학회지 글[^8]은 직장 내 괴롭힘과 함께 퇴직 대행 서비스 이용을 포함한 퇴직을 과제로 다뤘다.
 
 # 관계
 
@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [사직 앞의 죄책감](guilt-about-resigning.md)[^3]
 
 ## 결과
 
@@ -39,8 +39,10 @@
 #일
 
 [^1]: [매체] "なぜ今、多くの人が3万～5万円もの費用をかけてまで利用するのでしょうか。背景にはパワハラや引き継ぎ、人員不足など、自力では辞めにくい労働環境の変化が潜んでいます。" (왜 지금 많은 사람이 3만에서 5만 엔이나 되는 비용을 들여서까지 이용하는 걸까. 배경에는 괴롭힘, 인수인계, 인력 부족처럼 혼자 힘으로는 그만두기 어려운 노동 환경의 변화가 있다.) — 川畑翔太郎, 「｢退職代行サービス｣が続々生まれる深刻理由」, 東洋経済オンライン, 2018-11-21, https://toyokeizai.net/articles/-/250560, 2026-11-15 접속
-[^2]: [매체] "Workers don't want to be seen as troublemakers, are reluctant to question authority and may be afraid to speak up." (노동자들은 말썽꾼으로 보이기 싫어하고 윗사람에게 이의를 달기 꺼리며 말을 꺼내기를 두려워할 수 있다.) — "In Workaholic Japan, 'Job Leaving Agents' Help People Escape Awkwardness of Quitting", Asharq Al-Awsat(AP), 2023-06-30, https://english.aawsat.com/culture/4408611-workaholic-japan-%E2%80%98job-leaving-agents%E2%80%99-help-people-escape-awkwardness-quitting, 2026-11-15 접속
-[^3]: [매체] "고민을 거듭하던 A씨는 결국 퇴직대행업자를 찾았다." — 강구열, 「"싸진 않지만 가치가 있다"…퇴직에도 돈 쓰는 日 직장인의 속내는」, 세계일보, 2024-05-13, https://www.segye.com/newsView/20240513508596, 2026-11-15 접속
-[^4]: [매체] "退職代行利用者は一般離職者以上に辞めた会社に対して「申し訳なさ」を感じており、自身を「裏切り者」と感じていた。" (퇴직 대행 이용자는 일반 이직자보다 더 그만둔 회사에 '미안함' 을 느꼈고 자신을 '배신자' 로 느꼈다.) — 児島功和, 「誰が、なぜ退職代行を利用するのか」, パーソル総合研究所, 2025-12-25, https://rc.persol-group.co.jp/thinktank/thinktank-column/202512250001/, 2026-11-15 접속
-[^5]: [매체] "the leading reasons for using a resignation agency were “They tried to stop me from resigning” or “They would have tried to stop me from resigning” (40.7%)," (퇴직 대행을 쓴 가장 큰 이유는 "회사가 내 사직을 막으려 했다" 또는 "막으려 했을 것이다"(40.7%)였다) — Naka Tanpei, "“I Can’t Do This Anymore!”: Why Japanese Workers are Turning to Resignation Agency Services", nippon.com, 2025-12-26, https://www.nippon.com/en/japan-topics/g02566/, 2026-11-15 접속
-[^6]: [학술] "社労士の役割と産業医との連携の概要説明後に、妊娠・出産期のキャリアマネジメント、男性の育児参加、職場のハラスメント、退職（退職代行サービス利用を含む）についての課題の現状と共創の提案を紹介した。" (노무사의 역할과 산업의와의 연계를 개관한 뒤 임신·출산기의 경력 관리, 남성의 육아 참여, 직장 내 괴롭힘, 퇴직(퇴직 대행 서비스 이용 포함)에 관한 과제의 현황과 공동 대응 제안을 소개했다.) — 森本英樹 외, 「働きやすさの新時代 社労士と産業保健職の共創」, 産業保健法学会誌 5(1), 2026-05-31, https://www.jstage.jst.go.jp/article/jaohl/5/1/5_conf-feat.26-032/_article/-char/ja, 2026-11-15 접속
+[^2]: [공공] "それだけ使用者に対して退職を切り出すことを困難である、苦痛であると感じている労働者が多いということだと思います。" (그만큼 사용자에게 퇴직을 꺼내기가 어렵고 괴롭다고 느끼는 노동자가 많다는 것이라고 생각합니다.) — 第197回国会 参議院 法務委員会 第6号 会議録, 国立国会図書館 国会会議録検索システム, 2018-12-04, https://kokkai.ndl.go.jp/simple/detail?minId=119715206X00620181204&spkNum=419, 2026-11-15 접속
+[^3]: [매체] "The two major reasons I see are they are scared of their boss so they cannot say that they want to quit, and also the guilty feeling they have for wanting to quit," (내가 보는 두 가지 큰 이유는 상사가 무서워 그만두고 싶다는 말을 못 한다는 것, 그리고 그만두고 싶어 하는 데 대한 죄책감이다) — John Power, "In Japan, embarrassed employees pay agencies to quit for them", Al Jazeera, 2023-06-07, https://www.aljazeera.com/economy/2023/6/7/in-japan-embarrassed-employees-pay-agencies-to-quit-for-them, 2026-11-15 접속
+[^4]: [매체] "Workers don't want to be seen as troublemakers, are reluctant to question authority and may be afraid to speak up." (노동자들은 말썽꾼으로 보이기 싫어하고 윗사람에게 이의를 달기 꺼리며 말을 꺼내기를 두려워할 수 있다.) — "In Workaholic Japan, 'Job Leaving Agents' Help People Escape Awkwardness of Quitting", Asharq Al-Awsat(AP), 2023-06-30, https://english.aawsat.com/culture/4408611-workaholic-japan-%E2%80%98job-leaving-agents%E2%80%99-help-people-escape-awkwardness-quitting, 2026-11-15 접속
+[^5]: [매체] "고민을 거듭하던 A씨는 결국 퇴직대행업자를 찾았다." — 강구열, 「"싸진 않지만 가치가 있다"…퇴직에도 돈 쓰는 日 직장인의 속내는」, 세계일보, 2024-05-13, https://www.segye.com/newsView/20240513508596, 2026-11-15 접속
+[^6]: [매체] "退職代行利用者は一般離職者以上に辞めた会社に対して「申し訳なさ」を感じており、自身を「裏切り者」と感じていた。" (퇴직 대행 이용자는 일반 이직자보다 더 그만둔 회사에 '미안함' 을 느꼈고 자신을 '배신자' 로 느꼈다.) — 児島功和, 「誰が、なぜ退職代行を利用するのか」, パーソル総合研究所, 2025-12-25, https://rc.persol-group.co.jp/thinktank/thinktank-column/202512250001/, 2026-11-15 접속
+[^7]: [매체] "the leading reasons for using a resignation agency were “They tried to stop me from resigning” or “They would have tried to stop me from resigning” (40.7%)," (퇴직 대행을 쓴 가장 큰 이유는 "회사가 내 사직을 막으려 했다" 또는 "막으려 했을 것이다"(40.7%)였다) — Naka Tanpei, "“I Can’t Do This Anymore!”: Why Japanese Workers are Turning to Resignation Agency Services", nippon.com, 2025-12-26, https://www.nippon.com/en/japan-topics/g02566/, 2026-11-15 접속
+[^8]: [학술] "社労士の役割と産業医との連携の概要説明後に、妊娠・出産期のキャリアマネジメント、男性の育児参加、職場のハラスメント、退職（退職代行サービス利用を含む）についての課題の現状と共創の提案を紹介した。" (노무사의 역할과 산업의와의 연계를 개관한 뒤 임신·출산기의 경력 관리, 남성의 육아 참여, 직장 내 괴롭힘, 퇴직(퇴직 대행 서비스 이용 포함)에 관한 과제의 현황과 공동 대응 제안을 소개했다.) — 森本英樹 외, 「働きやすさの新時代 社労士と産業保健職の共創」, 産業保健法学会誌 5(1), 2026-05-31, https://www.jstage.jst.go.jp/article/jaohl/5/1/5_conf-feat.26-032/_article/-char/ja, 2026-11-15 접속
