@@ -8,6 +8,7 @@
 - [나이 줄여 말하기](../docs/understating-age.md) 사람이 남에게 자기 나이를 실제보다 적게 말한다.
 - [남은 음식 포장 요청 부끄러워하기](../docs/embarrassment-asking-for-doggy-bag.md) 식당에서 음식을 남긴 손님이 남은 음식을 싸 달라고 하기를 부끄러워해 요청하지 않는다.
 - [남의 시선 의식하기](../docs/minding-what-others-think.md) 사람이 무엇을 할지 정할 때 다른 사람이 자기를 어떻게 볼지를 의식한다.
+- [남의 웃음을 비웃음으로 여기기](../docs/assuming-laughter-is-at-oneself.md) 근처에서 남들이 웃으면 사람이 그 웃음이 자기를 향한 비웃음이라고 여기거나 의심한다.
 - [녹음된 자기 목소리 싫어하기](../docs/disliking-recorded-own-voice.md) 녹음된 자기 목소리를 듣는 사람이 그 소리를 낯설고 불편하게 느끼거나 싫어한다.
 - [단체 사진과 신문에서 자기부터 찾기](../docs/looking-for-oneself-first.md) 자기가 함께 찍힌 단체 사진이나 자기 일이 실렸을 신문을 받아 든 사람이 다른 사람이나 기사보다 자기 얼굴이나 이름부터 찾아본다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
