@@ -68,6 +68,7 @@
 - [야생 버섯 따 먹기](../docs/eating-foraged-wild-mushrooms.md) 산이나 들에서 야생 버섯을 딴 사람이 생김새나 민간 속설로 먹을 수 있는 버섯을 가려 먹는다.
 - [야식 먹기](../docs/late-night-eating.md) 저녁 식사를 마친 사람이 잠들기 전 밤늦은 시간에 다시 음식을 먹는다.
 - [언 물 위에 들어가기](../docs/walking-on-frozen-water.md) 겨울에 사람들이 얼어붙은 강, 저수지, 호수, 연못의 얼음 위를 걷거나 그 위에서 낚시하고 논다.
+- [엄살](../docs/exaggerating-pain.md) 아프거나 힘든 사람이 그 아픔을 실제보다 크게 소리 내거나 말한다.
 - [에어컨이 있어도 켜지 않기](../docs/not-using-air-conditioner.md) 작동하는 에어컨이 있는 사람이 더운 날에도 찬 바람이 싫거나 덥지 않다고 여겨 에어컨을 켜지 않는다.
 - [위험한 곳에서 셀카 찍기](../docs/risky-selfies.md) 사진을 찍는 사람이 선로, 절벽 끝, 야생동물 곁 같은 위험한 자리에 들어가 자기 사진을 찍는다.
 - [유족의 장기기증 거부](../docs/families-refusing-organ-donation.md) 가족이 뇌사에 빠지거나 세상을 떠난 사람이 고인의 장기 기증에 동의하지 않는다.
