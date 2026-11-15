@@ -16,7 +16,7 @@
 
 2018년 영국 조사를 전한 기사[^4]에서 응답자의 62%는 정말 필요할 때도 친구와 가족에게 돈을 청하기 부끄럽다고 답했다.
 
-2026년 연구[^5]는 미국에서 자립이 깊이 존중되는 문화 특성이어서 친구나 가족에게 돈을 빌리는 일이 거의 언제나 수치와 부족감을 불렀다고 쓴다.
+2026년 연구[^5]의 저자들은 급전 대출이 수치심과 남의 판단, 관계의 부담을 막는 방패로 쓰인다고 적었다.
 
 # 관계
 
@@ -34,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [지인 대신 대출로 돈 구하기](borrowing-to-avoid-asking-family.md)[^5]
 
 ## 대립
 
@@ -46,4 +46,4 @@
 [^2]: [매체] "I just couldn't go and ask them, and that was just me," he says. "It was just embarrassment." ("그냥 가서 부탁할 수가 없었어요. 저는 그런 사람이에요." 그가 말한다. "그저 창피했던 거죠.") — Sarah Boesveld, "Canadians would rather take on debt than take a handout", The Globe and Mail, 2009-11-16, https://www.theglobeandmail.com/amp/life/canadians-would-rather-take-on-debt-than-take-a-handout/article4293348/, 2026-10-27 접속
 [^3]: [SNS] "but I was also too proud to ask for help from friends or family. During that time my car broke down, and it would cost $3000 to fix it." (하지만 나는 친구나 가족에게 도움을 청하기에는 자존심도 너무 셌다. 그 무렵 차가 고장 났고 고치는 데 3000달러가 들 판이었다.) — Hacker News 댓글, 2015-05-20, https://news.ycombinator.com/item?id=9577999, 2026-10-27 접속
 [^4]: [매체] "New research shows that borrowing money is still a tricky topic, with 62 per cent of us embarrassed to ask for money from friends and family, even when we really need it." (새 조사에 따르면 돈을 빌리는 일은 여전히 까다로운 화제이고 62%가 정말 필요할 때도 친구와 가족에게 돈을 청하기 부끄러워한다.) — Business Matters, "Money struggles are still seen as a taboo in UK putting strain on relationships", 2018-07-29, https://www.bmmagazine.co.uk/in-business/money-struggles-still-taboo-putting-strain-on-relationships/, 2026-10-27 접속
-[^5]: [학술] "Because self-sufficiency is a deeply valued cultural trait in the United States, borrowing from friends or family almost always triggered feelings of shame and inadequacy." (미국에서 자립은 깊이 존중되는 문화 특성이기 때문에 친구나 가족에게 돈을 빌리는 일은 거의 언제나 수치와 부족감을 불러일으켰다.) — M. Amorim, M. D. Bea, A. Aydagul, "'It's a Last Resort. But It's a First Resort': A Relational Perspective of Payday Loan Use", The Sociological Quarterly, 2026-02-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC13246145/, 2026-10-27 접속
+[^5]: [학술] "We find, in fact, that payday loans are used as a shield against shame, judgment, and relational strain, allowing borrowers to maintain independence in the eyes of others." (실제로 급전 대출은 수치심, 판단, 관계의 부담을 막는 방패로 쓰여 대출자가 남들 눈에 자립을 지킬 수 있게 한다.) — Mariana Amorim, Megan Doherty Bea, "“It’s a Last Resort. But It’s a First Resort”: A Relational Perspective of Payday Loan Use", The Sociological Quarterly, 2026-02-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC13246145/, 2026-11-15 접속
