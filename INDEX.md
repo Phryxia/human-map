@@ -250,6 +250,7 @@
 - [메시징 의존](docs/messaging-dependency.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [메신저 알림 꺼 두기](docs/muting-chat-notifications.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [면접 불안](docs/job-interview-anxiety.md) ([일터와 일자리](groups/work.md))
+- [명예 문화의 평판 걱정](docs/honor-culture-reputation-concern.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [명절 귀성 포기](docs/skipping-holiday-homecoming.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [명절 잔소리를 웃음으로 넘기기](docs/laughing-off-holiday-nagging.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [명절 친지 모임 피하기](docs/skipping-holiday-gatherings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -14,6 +14,7 @@
 - [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
 - [망가뜨린 일 숨기기](../docs/concealing-accidental-damage.md) 남의 물건을 실수로 망가뜨린 사람이 그 일을 말하지 않거나 하지 않았다고 한다.
 - [머리가 하얘짐](../docs/mind-going-blank.md) 남이 지켜보거나 몰아세우는 자리에서 사람의 머리가 굳어 할 말이나 생각이 떠오르지 않는다.
+- [명예 문화의 평판 걱정](../docs/honor-culture-reputation-concern.md) 명예를 중시하는 문화에 사는 사람이 어떤 일이 자기 평판에 어떤 영향을 줄지를 걱정한다.
 - [모르는 것을 아는 체하기](../docs/feigning-knowledge.md) 사람이 모르는 지식이나 낱말, 개념을 남 앞에서 안다고 말한다.
   - [알아들은 척하기](../docs/pretending-to-understand.md)
   - [읽지 않은 책을 읽은 척하기](../docs/pretending-to-have-read-books.md)

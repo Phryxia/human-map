@@ -30,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [명예 문화의 평판 걱정](honor-culture-reputation-concern.md)[^7]
 
 ## 결과
 
