@@ -1,6 +1,6 @@
 # 방관자 효과
 
-별칭: 책임 분산[^9], Bystander effect[^4]
+별칭: 책임 분산[^10], Bystander effect[^4]
 
 위급한 상황을 여러 사람이 함께 볼 때 그 가운데 한 사람이 도울 가능성이 줄어든다.
 
@@ -16,7 +16,9 @@
 
 CCTV 기록을 본 두 연구는 결과가 갈린다.[^6][^7] 2019년 Liebst 외는 폭력 사건에서 구경꾼이 많을수록 개입이 줄었다고 보고했다.[^6] 2020년 Philpot 외는 여러 나라의 공공장소 다툼에서 구경꾼이 많을수록 누군가 개입할 가능성이 컸다고 보고했다.[^7]
 
-2026년 한국교육신문 칼럼은 '누군가 하겠지' 하는 책임 분산 때문에 움직이지 않거나 '아무도 심각하게 생각하지 않네' 하는 다원적 무지 때문에 상황 자체를 잘못 판단할 수 있다고 적었다.[^9]
+2025년 일본 일반인 설문 논문[^8]의 저자들은 다른 사람이 있는 응급 상황에서 일부 일반인이 다른 누군가가 하리라 여겨 아무 구조 행동도 하지 않았다고 추측한다.
+
+2026년 한국교육신문 칼럼은 '누군가 하겠지' 하는 책임 분산 때문에 움직이지 않거나 '아무도 심각하게 생각하지 않네' 하는 다원적 무지 때문에 상황 자체를 잘못 판단할 수 있다고 적었다.[^10]
 
 # 관계
 
@@ -30,16 +32,16 @@ CCTV 기록을 본 두 연구는 결과가 갈린다.[^6][^7] 2019년 Liebst 외
 
 ## 원인
 
-- [다원적 무지](pluralistic-ignorance.md)[^9]
+- [다원적 무지](pluralistic-ignorance.md)[^10]
 
 ## 결과
 
-없음.
+- [심폐소생술 망설이기](hesitating-to-perform-cpr.md)[^8]
 
 ## 대립
 
 - [보는 눈이 있을 때 행동 바꾸기](behaving-better-when-watched.md)[^1]
-- [한 사람이 나서면 따라 돕기](helping-after-first-helper.md)[^8]
+- [한 사람이 나서면 따라 돕기](helping-after-first-helper.md)[^9]
 
 #공공
 
@@ -50,5 +52,6 @@ CCTV 기록을 본 두 연구는 결과가 갈린다.[^6][^7] 2019년 Liebst 외
 [^5]: [SNS] "근데 다들 쳐다만 보고 있길래 저도 모르게 달려가서 어르신 의식 확인하고 구경하던 시민 한 명 집어서 119 불러달라고 했습니다" — 클리앙 모두공원 게시글, 2017-09-23, https://www.clien.net/service/board/park/11233632, 2026-10-18 접속
 [^6]: [학술] "However, rather than the expected reversed bystander effect, we found a classical bystander effect, as bystanders were less likely to intervene with increasing bystander presence." (그러나 예상한 역방관자 효과가 아니라 고전적 방관자 효과가 나타났다. 구경꾼이 많을수록 구경꾼이 개입할 가능성이 낮았다.) — Lasse Suonperä Liebst, Richard Philpot, Wim Bernasco 외, "Social relations and presence of others predict bystander intervention: Evidence from violent incidents captured on CCTV", Aggressive Behavior 45(6), 2019-07-29, https://pmc.ncbi.nlm.nih.gov/articles/PMC6790599/, 2026-10-18 접속
 [^7]: [학술] "Finally, we find that increased bystander presence is related to a greater likelihood that someone will intervene." (끝으로 구경꾼이 많을수록 누군가 개입할 가능성이 크다는 것을 확인했다.) — Richard Philpot, Lasse Suonperä Liebst, Mark Levine, Wim Bernasco, Marie Rosenkrantz Lindegaard, "Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts", American Psychologist 75(1), 2020-01, https://research.vu.nl/en/publications/would-i-be-helped-cross-national-cctv-footage-shows-that-interven, 2026-10-18 접속
-[^8]: [매체] "The bystander effect ends the moment someone decides to act." (방관자 효과는 누군가 행동하기로 마음먹는 순간 끝난다.) — Sahanshi, "The bystander effect", The Tribune, 2026-07-08, https://www.tribuneindia.com/news/schools/the-bystander-effect/, 2026-10-27 접속
-[^9]: [매체] "때로는 ‘누군가 하겠지’라는 책임 분산 때문에 움직이지 않을 수 있고, 때로는 ‘아무도 심각하게 생각하지 않네’라는 다원적 무지 때문에 상황 자체를 잘못 판단할 수도 있다." — "[알쓸심 15화] 방관자 효과와 행동의 전염 '누군가 하겠지'", 한국교육신문, 2026-10-07, https://hangyo.com/news/article.html?no=109529, 2026-10-18 접속
+[^8]: [학술] "It is likely that a certain number of laypersons did not perform any rescue action because they thought that someone else would do it." (일정 수의 일반인은 다른 누군가가 하리라 생각해서 아무 구조 행동도 하지 않았을 가능성이 있다.) — Shida H, Nishiyama C, Okabayashi S 외, "Influence of the Presence of Other People on Performing Rescue Actions in Emergency Situations ― A Questionnaire Survey ―", Circulation Reports 7(6), 2025-06-10, https://www.jstage.jst.go.jp/article/circrep/7/6/7_CR-24-0166/_html/-char/en, 2026-11-15 접속
+[^9]: [매체] "The bystander effect ends the moment someone decides to act." (방관자 효과는 누군가 행동하기로 마음먹는 순간 끝난다.) — Sahanshi, "The bystander effect", The Tribune, 2026-07-08, https://www.tribuneindia.com/news/schools/the-bystander-effect/, 2026-10-27 접속
+[^10]: [매체] "때로는 ‘누군가 하겠지’라는 책임 분산 때문에 움직이지 않을 수 있고, 때로는 ‘아무도 심각하게 생각하지 않네’라는 다원적 무지 때문에 상황 자체를 잘못 판단할 수도 있다." — "[알쓸심 15화] 방관자 효과와 행동의 전염 '누군가 하겠지'", 한국교육신문, 2026-10-07, https://hangyo.com/news/article.html?no=109529, 2026-10-18 접속
