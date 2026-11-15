@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-15T03:38:26.269Z",
-  "nextSeq": 5086,
-  "stops": 270,
+  "savedAt": "2026-11-15T06:34:16.919Z",
+  "nextSeq": 5098,
+  "stops": 271,
   "items": [
     {
       "id": "d57fdacc",
@@ -43,6 +43,46 @@
       "note": "2026-11-15 Uskul 2022 PMC10078545 같은 글 'Latinx Americans were less likely to forgive offenses that had harmed their reputation' 용서 관련 문서가 생기면 결과 간선 후보. SNS 미발견",
       "createdAt": "2026-11-15T03:38:14.791Z",
       "seq": 5085
+    },
+    {
+      "id": "27a5d8ff",
+      "title": "taking-bags-during-evacuation 보강: 원인 간선과 1990년대 공공 파편",
+      "priority": 50,
+      "note": "2026-11-15 TC CASA 2018-04 같은 글 'particularly when the danger to life is not immediately evident to them' 은 위험이 안 보일 때의 조건. Hodgson 2023 의 NTSB 2000 조사 'nearly 50% of passengers with carry-on luggage' 대목. TSB, ATSB, faa.gov 는 403/503",
+      "createdAt": "2026-11-15T06:17:00.351Z",
+      "seq": 5092
+    },
+    {
+      "id": "92511648",
+      "title": "hesitating-to-perform-cpr 보강: 2016년 이전 공공 파편, SNS 파편, bystander-effect 관계",
+      "priority": 50,
+      "note": "2026-11-15 Hansard 2013-03-25 Sudden Adult Death Syndrome 토론 'worried or frightened that if they attempt cardiopulmonary resuscitation, they will cause more damage' 미확인(403). Hadadi 2025 PMC12754685 감염 걱정 73% 법적 49.1%. KDCA 2026-01-29 같은 글 여성 환자 AED 적용률 낮음 대목",
+      "createdAt": "2026-11-15T06:23:47.063Z",
+      "seq": 5094
+    },
+    {
+      "id": "0491dc39",
+      "title": "clicking-impersonation-message-links 보강: 학술 파편과 complying-with-impersonation-calls 관계",
+      "priority": 50,
+      "note": "2026-11-15 PMC7274040 Lin 외 2019 권위 4.4% 희소성 5.3% 클릭 대목 문장 전체 미확보. pnnl.gov stressed-bit-then-dont-click-it 2023-07-05 'Urgency. 49 percent of recipients clicked on the links.' SBS Biz 2025-11-26 50대 이상 80~90%",
+      "createdAt": "2026-11-15T06:26:46.694Z",
+      "seq": 5095
+    },
+    {
+      "id": "025bd6a0",
+      "title": "sharing-prescription-medicine 보강: 한국어 파편과 reusing-leftover-medicine 관계",
+      "priority": 50,
+      "note": "2026-11-15 Goldsworthy 2008 PMC2377306 빌려준 22.9% 빌린 26.9%, 증상이 비슷해 스스로 진단 대목 문장 전체 미확보. NHS Lincolnshire ICB medication-safety 발행일 미상 'taking someone else’s medicine can be deadly'",
+      "createdAt": "2026-11-15T06:29:55.184Z",
+      "seq": 5096
+    },
+    {
+      "id": "e9b75cab",
+      "title": "missing-medical-appointments 보강: reservation-no-show 와 상위 관계, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-15 reservation-no-show 요약이 가게 예약에 한정돼 상위로 두지 않음. Lacy 2004 같은 글 'Issues of respect could explain why patients do not telephone to cancel.' Neal 2005 'Forgetfulness was another important cause.'",
+      "createdAt": "2026-11-15T06:33:53.801Z",
+      "seq": 5097
     },
     {
       "id": "f86fcff9",
@@ -2963,6 +3003,14 @@
       "note": "avoiding-read-receipts F3 브런치(brunch.co.kr/@longvacation/112, 2026-08-17) 같은 글 '그 의무를 피하려고 사람들은 결국 읽지 않은 척하는 기술을 익혔다' 는 빨리 답해야 한다는 압박(pressure-to-reply-quickly) → 이 현상의 원인 후보. 한 출처 한 파편이라 이 문서에는 못 씀. 다른 출처 필요. 2026-11-15 segye.com/newsView/20251005501605 (2025-10-05, 「“답장 안 해도 돼요?”…카카오톡, 논란의 새 기능 내놓는다」) 열림, 본문 문장 추출은 못 함(curl 로는 머리말만 보임)",
       "createdAt": "2026-11-15T03:34:12.033Z",
       "seq": 5084
+    },
+    {
+      "id": "e4cfa006",
+      "title": "비상 탈출에 남은 시간 길게 어림하기",
+      "priority": 10,
+      "note": "flightsafetyaustralia 2026-07 '4 in 10 thinking they have 3 minutes or more', taking-bags-during-evacuation 원인 후보",
+      "createdAt": "2026-11-15T06:17:00.442Z",
+      "seq": 5093
     },
     {
       "id": "02b2f242",
