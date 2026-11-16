@@ -79,4 +79,5 @@
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
 - [큰돈이 생기는 공상](../docs/daydreaming-about-windfall.md) 아직 손에 없는 큰돈이 생기는 장면을 떠올린 사람이 그 돈으로 무엇을 사고 무엇을 할지 자세히 상상한다.
 - [탐욕](../docs/greed.md) 이미 가진 것이 있는 사람이 그것에 만족하지 못하고 더 많은 돈이나 것을 바란다.
+- [할부로 사기](../docs/buying-in-installments.md) 물건값을 한 번에 치르지 않고 여러 달에 나눠 내기로 하고 산다.
 - [흥정 회피](../docs/avoiding-haggling.md) 값을 깎을 수 있는 자리에서 어떤 사람은 흥정을 부담스러워해 하지 않거나 돈을 더 내더라도 피한다.
