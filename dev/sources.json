@@ -29397,5 +29397,23 @@
     "last": "2026-11-16",
     "result": "VERIFIED",
     "lastVerified": "2026-11-16"
+  },
+  "https://ko.wikisource.org/wiki/거목이_넘어질_때": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://ideas.repec.org/p/hal/journl/hal-00653241.html": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
   }
 }
