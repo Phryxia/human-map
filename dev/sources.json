@@ -29068,5 +29068,29 @@
     "last": "2026-11-16",
     "result": "VERIFIED",
     "lastVerified": "2026-11-16"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC80821": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://alertdiver.eu/en_US/articles/the-malaria-threat": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.cdc.gov/mmwr/volumes/70/ss/ss7002a1.htm": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10198432/": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
   }
 }

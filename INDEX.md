@@ -239,6 +239,7 @@
 - [말 끊기](docs/interrupting-others.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [말 안 하기로 화 드러내기](docs/silent-treatment.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [말대꾸](docs/talking-back.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [말라리아 예방약 거르기](docs/skipping-malaria-prophylaxis.md) ([건강과 위험](groups/health-and-safety.md))
 - [말을 피하려고 다른 일에 몰두한 척하기](docs/feigning-absorption-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [말을 피하려고 자는 척하기](docs/pretending-to-sleep-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [망가뜨린 일 숨기기](docs/concealing-accidental-damage.md) ([남의 시선과 창피함](groups/others-gaze.md))

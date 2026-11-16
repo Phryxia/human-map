@@ -43,6 +43,7 @@
 - [딸꾹질 멈추려고 민간요법 써 보기](../docs/trying-hiccup-remedies.md) 딸꾹질이 멎지 않는 사람이 숨 참기나 물 마시기처럼 주변에서 듣거나 전해 내려온 방법을 차례로 써 본다.
 - [렌즈 낀 채 잠들기](../docs/sleeping-in-contact-lenses.md) 콘택트렌즈를 끼는 사람이 렌즈를 빼지 않은 채 밤잠이나 낮잠을 잔다.
 - [렌즈를 수돗물로 헹구기](../docs/rinsing-lenses-with-tap-water.md) 콘택트렌즈 착용자가 렌즈 용액 대신 수돗물로 렌즈를 헹구거나 수돗물에 담가 둔다.
+- [말라리아 예방약 거르기](../docs/skipping-malaria-prophylaxis.md) 말라리아가 도는 지역으로 가는 여행자가 예방약을 먹지 않거나 먹다가 일찍 그만둔다.
 - [멀티탭에 기기 몰아 꽂기](../docs/overloading-power-strips.md) 콘센트가 모자란 집이나 일터의 사람이 멀티탭 하나에 여러 전기기기를 꽂거나 멀티탭을 연달아 이어 쓴다.
 - [무더위 쉼터 가지 않기](../docs/not-using-cooling-centers.md) 폭염 때 노인이 지자체가 연 무더위 쉼터에 가지 않고 집이나 다른 곳에서 더위를 보낸다.
 - [물에 빠진 이를 구하러 뛰어들기](../docs/jumping-in-to-rescue-drowning.md) 물에 빠진 아이, 가족, 반려견을 본 사람이 구조 장비 없이 직접 물에 뛰어든다.
