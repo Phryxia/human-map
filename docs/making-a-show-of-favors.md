@@ -16,6 +16,8 @@
 
 2019년 연구[^4]는 베푼 사람의 보답 기대를 조작한 실험에서 그 기대가 클수록 받은 사람의 고마움이 줄었고 부채감은 줄지 않았다고 적었다.
 
+2026년 6월 기사[^5]는 밥을 산 사실을 굳이 상기시키는 공치사가 상대에게 부담을 주거나 불쾌감을 줄 수 있다고 적었다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^2]: [문학] "하고 생색 있는 큰소리를 하고는 제가 준 것을 남이 알면은 큰일날 테니 여기서 얼른 먹어 버리란다." — 김유정, 「동백꽃」, 위키문헌, 1936, https://ko.wikisource.org/wiki/동백꽃, 2026-11-15 접속
 [^3]: [문학] "먹다가 먹기가 싫으닝게 남을 주고 생색을 낸다! 그런 일을 해선 못쓰는 게여. 남 주고도 죄 받는 일이어든." — 이광수, 「무명」, 위키문헌, 1939, https://ko.wikisource.org/wiki/무명, 2026-11-15 접속
 [^4]: [학술] "when the benefactor’s expectation for repayment was manipulated, gratitude and sumanai, but not indebtedness, decreased with increasing benefactor expectations" (베푼 사람의 보답 기대를 조작했을 때 그 기대가 커질수록 고마움과 스마나이는 줄었고 부채감은 줄지 않았다) — Ana Bernabé-Valero, Carmen Moret-Tatay, Alba Iborra-Marmolejo, José Salvador Blasco-Magraner, "Psychometric Properties of the Indebtedness Scale (IS-R) in Spanish University Students", Frontiers in Psychology, 2019-07-17, https://pmc.ncbi.nlm.nih.gov/articles/PMC6650596/, 2026-11-15 접속
+[^5]: [매체] "이처럼 밥을 산 사실을 굳이 상기시키는 행위, 소위 '공치사'는 상대에게 부담을 주거나 오히려 불쾌감을 주는 일이 될 수 있다." — 「계산대 앞에서 '이 말' 무심코라도 꺼내지 마세요…나이들수록 관계 망치는 '결정적 한마디'」, 위키트리, 2026-06-29, https://www.wikitree.co.kr/articles/1143437, 2026-11-16 접속
