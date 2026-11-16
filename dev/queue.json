@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-16T03:32:47.101Z",
-  "nextSeq": 5304,
-  "stops": 278,
+  "savedAt": "2026-11-16T06:33:24.642Z",
+  "nextSeq": 5314,
+  "stops": 279,
   "items": [
     {
       "id": "37ac73fe",
@@ -211,6 +211,38 @@
       "note": "2026-11-16 인천소방본부 보도자료 NE030401/2065074, 2082280 은 화재경보기 홍보 목표만 있고 설치율 실측치 없음. 경기도 소식지 vol189/3_3 텍스트 없음. 이전 note: go.seoul.co.kr prnewsView id=320052 '설치율 35.4%' 발행일 미상, 소방청 원문 찾기",
       "createdAt": "2026-11-16T03:32:43.328Z",
       "seq": 5303
+    },
+    {
+      "id": "c54dea4e",
+      "title": "keeping-loose-change-in-jars 보강: 불황 때 꺼내 쓰는 조건",
+      "priority": 50,
+      "note": "스포츠경향 2017-05-01 sports.khan.co.kr/article/201705011624003 '저금통 파먹기' 동전 환수 19년 만에 최대, 경기일보 2015-03-12 b 대목 '경기가 나쁘다 보니 저금통이나 책상 서랍 속에서 잠자는 동전에까지 털어 사용' 는 같은 출처라 못 씀. 데일리안 2017-05-29 636255 매년 6억개 새로 제조",
+      "createdAt": "2026-11-16T06:12:30.388Z",
+      "seq": 5309
+    },
+    {
+      "id": "8e2d83a0",
+      "title": "morning-drink-for-hangover 보강: 원인 간선, 숙취를 금단으로 여기는 믿음",
+      "priority": 50,
+      "note": "Monash Lens 2018-11-06 1363946 counter-beer/repair beer 대목과 'hair of the dog temporarily gets rid of the (withdrawal) symptoms'. HN 34213234 2023 'Hangovers are mild withdrawal effects'. Piasecki 2010 PMC4264051 'hair-of-the-dog drinking need not be synonymous with morning drinking' 는 같은 출처라 못 씀. 머니투데이 2016-12-31 2016122819595644477",
+      "createdAt": "2026-11-16T06:17:30.815Z",
+      "seq": 5311
+    },
+    {
+      "id": "59f77f94",
+      "title": "knitting-to-calm-down 보강: 2000년 이전 비문학 파편과 문학 파편",
+      "priority": 50,
+      "note": "Anna Karenina 1399 'She always set to work on it at depressed moments', War and Peace 2600 'something soothing in the knitting of stockings', Little Women 514, Cranford 394 는 각각 이미 4개 문서가 써서 5번째가 되면 WARN. Riley 2013 BJOT 는 sagepub 403, stitchlinks.com/research2_2024.html 이 초록 문구를 옮김. yourcareeverywhere 2023-07-21 대기실 대목",
+      "createdAt": "2026-11-16T06:29:03.235Z",
+      "seq": 5312
+    },
+    {
+      "id": "d082c25f",
+      "title": "not-reading-nutrition-labels 보강: 1990년대 공공 파편과 SNS 파편, 젊은 층 감소",
+      "priority": 50,
+      "note": "USDA ERS Amber Waves 2008 같은 페이지 20대 62%→52% 대목과 저자 추측 'limited shopping time'. FSAI 2009 기사 'larger text size' 대목. HN 38176912 2023 은 남에 대한 짐작. 질병관리청 국민건강영양조사와 식약처 자료는 PDF 뿐",
+      "createdAt": "2026-11-16T06:33:07.718Z",
+      "seq": 5313
     },
     {
       "id": "f86fcff9",
@@ -3091,6 +3123,14 @@
       "note": "2026-11-16 매체 후보 셋 확보: green.start-up.ro/en/rd30090 2023-01-13 Beko 설문 'Leaving the fridge door open when deciding what to eat (29%)', weightwatchers.com/uk/article/lack-inspiration-nation 2021-02-10, uk.news.yahoo.com indecisive-brits-spend-37-hours-125045946 2024-04-10 '42 per cent of indecisive Brits find themselves staring into the fridge'. 공공·학술·SNS 파편 필요. HN 42730965 는 가게 냉장고 장면이라 맞지 않음",
       "createdAt": "2026-11-16T00:32:44.155Z",
       "seq": 5243
+    },
+    {
+      "id": "e86760bb",
+      "title": "1센트 동전 거스름돈으로 받지 않기",
+      "priority": 10,
+      "note": "Canada Budget 2012 theme2-info-eng 'refuse them as change', 'throw them away in water fountains'. keeping-loose-change-in-jars 와 같은 출처",
+      "createdAt": "2026-11-16T06:12:30.497Z",
+      "seq": 5310
     },
     {
       "id": "02b2f242",
