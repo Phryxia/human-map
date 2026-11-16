@@ -18,6 +18,8 @@
 
 2019년 아동 면담 연구[^5]에서 여러 아이가 동의하지 않는 요청에 부모와 말다툼하는 방법으로 의견을 말하거나 요청에 맞선다고 답했다.
 
+2022년 기사[^6]는 아이가 같은 말을 해도 듣는 부모의 기분이 좋으면 의견이 되고 기분이 나쁘면 말대꾸가 된다고 적었다.
+
 # 관계
 
 ## 상위
@@ -47,3 +49,4 @@
 [^3]: [매체] "말대꾸를 하는 일도 많아진다. 부모 입장에서는 화가 날 수 있지만 그 전에 아이의 행동이 단순히 반항하기 위한 것인지, 다른 의견을 주장하기 위한 것인지 구분 지어야 한다." — 정성민, 「초등 고학년 사춘기 자녀와의 대화 트러블 솔루션」, 레이디경향, 2014-10-01, https://lady.khan.co.kr/education/article/201410071952541, 2026-11-15 접속
 [^4]: [매체] "분명 몇 개월 전만 해도 마냥 어린아이 같았는데, 갑자기 말대꾸를 시작하고, 방문을 잠그고, 심지어 큰소리로 대들기까지 하면 여간 속상한 것이 아닙니다." — 김선호, 「초등 사춘기, 지혜롭게 건너는 법」, 프레시안, 2018-03-04, https://pressian.com/pages/articles/186357, 2026-11-15 접속
 [^5]: [학술] "Many children said that they used the tactic of arguing with their parents as a way to express opinions or challenge requests with which they did not agree." (많은 아이가 동의하지 않는 요청에 의견을 말하거나 맞서는 방법으로 부모와 말다툼하는 전술을 쓴다고 말했다.) — Leon Kuczynski, Robyn Pitman, Kate Twigger, "Flirting with resistance: children's expressions of autonomy during middle childhood", International Journal of Qualitative Studies on Health and Well-being 13, 2019-01-29, https://pmc.ncbi.nlm.nih.gov/articles/PMC6366431/, 2026-11-15 접속
+[^6]: [매체] "그런데 '말대꾸'는 양면적이다. 듣는 부모의 기분이 좋으면 '의견'이 된다. 하지만 듣는 부모의 기분이 나쁘면 말대꾸다." — 이정희, 「"우리 아빠는 개같다" 아이들이 이렇게 답한 이유」, 오마이뉴스(다음뉴스), 2022-05-19, https://v.daum.net/v/E858QblKXa, 2026-11-16 접속
