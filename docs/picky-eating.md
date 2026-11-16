@@ -16,7 +16,9 @@
 
 2014년 건강 기사[^4]는 억지로 먹도록 강요당한 경험, 구토나 복통 같은 불쾌한 경험, 동물에 대한 동정심 같은 심리 요인으로도 편식이 생길 수 있다고 적었다.
 
-2024년 서울시 보도자료[^5]는 유아기에 편식하는 식습관이 생기면 성인이 되어서도 바꾸기 쉽지 않다고 적었다.
+2015년 Lam 의 리뷰 논문[^5]은 한 연구의 자료를 들어 편식이 대개 한동안 나타났다가 지나가는 행동이고 미취학 아동 발달의 한 부분이라고 적는다.
+
+2024년 서울시 보도자료[^6]는 유아기에 편식하는 식습관이 생기면 성인이 되어서도 바꾸기 쉽지 않다고 적었다.
 
 # 관계
 
@@ -46,4 +48,5 @@
 [^2]: [문학] "『저도 어렸을 때는 편식이 심했어요. 그렇지만 나이 자라니까 차차 나아 가더군요.』" — 김내성, 『실락원의 별』, 위키문헌, 1956, https://ko.wikisource.org/wiki/실락원의_별, 2026-11-15 접속
 [^3]: [학술] "At any given age between 13% and 22% of the children were reported to be picky eaters." (어느 나이에서든 아이의 13%에서 22%가 편식하는 아이로 보고됐다.) — Anthony J. Mascola, Susan W. Bryson, W. Stewart Agras, "Picky eating during childhood: a longitudinal study to age 11 years", Eating Behaviors 11(4), 2010-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC2943861/, 2026-11-15 접속
 [^4]: [매체] "편식은 어떤 음식을 억지로 먹도록 강요당한 적이 있거나 구토, 복통 등 불쾌한 경험을 하거나, 동물에 대한 동정심으로 육식을 피하는 등 심리적인 요인에 의해서도 생길 수 있다." — 김민국, 「키 성격 학습까지 영향....어린이 편식 교정법」, 코메디닷컴, 2014-05-04, https://kormedi.com/1210592/, 2026-11-15 접속
-[^5]: [공공] "‘유아기’는 식사 섭취량이 적은 데다 자칫 편식하는 식습관을 갖게 되면 성인이 되어서도 바꾸기 쉽지 않은 만큼 식생활 조사와 개선 교육을 병행하여 제공할 예정이다." — 서울특별시 시민건강국 식품정책과, 「여든까지 가져갈 '우리아이 건강 식습관', 서울시가 만들어 드립니다」, 서울특별시, 2024-03-06, https://news.seoul.go.kr/welfare/archives/560307, 2026-11-15 접속
+[^5]: [학술] "The data from the study suggest that picky eating is usually a temporary behavior and is a part of normal development in preschool children." (이 연구의 자료는 편식이 대개 일시적인 행동이고 미취학 아동의 정상적인 발달의 일부임을 시사한다.) — Jason Lam, "Picky Eating in Children", Frontiers in Pediatrics, 2015, https://pmc.ncbi.nlm.nih.gov/articles/PMC4422022/, 2026-11-16 접속
+[^6]: [공공] "‘유아기’는 식사 섭취량이 적은 데다 자칫 편식하는 식습관을 갖게 되면 성인이 되어서도 바꾸기 쉽지 않은 만큼 식생활 조사와 개선 교육을 병행하여 제공할 예정이다." — 서울특별시 시민건강국 식품정책과, 「여든까지 가져갈 '우리아이 건강 식습관', 서울시가 만들어 드립니다」, 서울특별시, 2024-03-06, https://news.seoul.go.kr/welfare/archives/560307, 2026-11-15 접속
