@@ -43,6 +43,7 @@
 - [복권 구매](../docs/buying-lottery-tickets.md) 사람이 당첨을 바라며 복권을 산다.
 - [부유한 척하기](../docs/faking-wealth.md) 남에게 가난해 보이기 싫은 사람이 빌린 물건이나 연출한 사진으로 실제보다 부유해 보이게 꾸민다.
 - [뷔페 접시 넘치게 담기](../docs/overfilling-buffet-plates.md) 뷔페에서 손님이 먹을 수 있는 양보다 많이 접시에 담고 남긴다.
+- [빈 방에 불 켜 두기](../docs/leaving-lights-on-in-empty-rooms.md) 방을 나서거나 집을 비우는 사람이 불을 끄지 않고 켜 둔 채 둔다.
 - [빌려준 돈 돌려 달라고 못 하기](../docs/not-asking-for-loan-back.md) 친구나 가족에게 돈을 빌려준 사람이 관계가 상하거나 어색해질까 봐 돌려 달라는 말을 꺼내지 못한다.
 - [빚 독촉 피하기](../docs/avoiding-creditors.md) 빚을 진 사람이 채권자의 전화, 편지, 방문을 받지 않거나 채권자와 마주치지 않으려고 피하는 행동이다.
   - [야반도주](../docs/moonlight-flit.md)
