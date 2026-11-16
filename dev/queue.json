@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-16T12:39:33.823Z",
-  "nextSeq": 5328,
-  "stops": 281,
+  "savedAt": "2026-11-16T15:32:34.497Z",
+  "nextSeq": 5348,
+  "stops": 282,
   "items": [
-    {
-      "id": "5b744231",
-      "title": "taking-bags-during-evacuation 보강: 원인 간선과 1990년대 공공 파편",
-      "priority": 50,
-      "note": "2026-11-15 The Gate 2018-02-18 분실 수하물 추측 파편 추가함. 원인 간선 근거 못 찾음. NTSB SS-00/01 은 PDF",
-      "createdAt": "2026-11-16T03:22:34.074Z",
-      "seq": 5280
-    },
-    {
-      "id": "8e516c7e",
-      "title": "picky-eating 보강: 원인 간선, 쓴맛과 새 음식 거부",
-      "priority": 50,
-      "note": "Lam 2015 PMC4422022 정의와 쓴맛 대목, Alarcon 2026 PMC13118670 유전 대목. 이광수 「난제오」 1940 위키문헌 편식 대목. kormedi 1210592 '부모나 가족이 편식을 하면 어린이가 이를 모방하여 편식하게 된다' 원인 대목",
-      "createdAt": "2026-11-16T03:22:34.219Z",
-      "seq": 5281
-    },
-    {
-      "id": "054a2545",
-      "title": "exaggerating-pain 보강: 원인 간선, 보는 사람 유무 조건",
-      "priority": 50,
-      "note": "kormedi 1191397 '신경증 증상이 높게 나타나지만 우울증은 없으면 별로 엄살을 떨지 않는' 조건 대목. 채만식 「탁류」 제3장 1937 위키문헌 정주사 엄살 대목. 아이뉴스24 1981904 2026 엄살 남편 사연은 건강 불안 쪽",
-      "createdAt": "2026-11-16T03:22:34.358Z",
-      "seq": 5282
-    },
-    {
-      "id": "1b2ce4c4",
-      "title": "nitpicking 보강: 원인 간선, 2000년대 이전 비문학 파편",
-      "priority": 50,
-      "note": "김동인 「잡초」 위키문헌 '트집을 잡을 만한 일이 없으면 트집을 만들어 내었다'(발행일 미상), 김동인 「딸의 업을 이으려」 누명 트집 대목. PMC8474672 갈등 중 criticizing each other 와 코르티솔",
-      "createdAt": "2026-11-16T03:22:34.494Z",
-      "seq": 5283
-    },
-    {
-      "id": "fb183d3d",
-      "title": "making-a-show-of-favors 보강: SNS 파편, 받는 쪽 반감",
-      "priority": 50,
-      "note": "2026-11-16 위키트리 2026-06-29 1143437 공치사 파편 추가함. 2000~2010년대 비학술 파편과 SNS 파편 없음. 이전 note: 한용운 「박명」 1938 공치사 대목, 심훈 「직녀성」 발행일 미상, 블라인드는 로그인 커뮤니티",
-      "createdAt": "2026-11-16T03:23:23.526Z",
-      "seq": 5284
-    },
     {
       "id": "c3871ce4",
       "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
@@ -275,6 +235,62 @@
       "note": "The Jungle pg140 할부 광고 대목(이미 1문서 사용), CFPB BNPL 보고서 HTML 은 인용문 못 뽑음, Which? BNPL policy paper 미열람",
       "createdAt": "2026-11-16T12:39:19.892Z",
       "seq": 5327
+    },
+    {
+      "id": "8930e8c4",
+      "title": "taking-bags-during-evacuation 보강: 1990년대 공공 파편",
+      "priority": 50,
+      "note": "2026-11-16 Scroll.in 2016-08-06 낙관 편향 원인 간선 그음. NTSB SS-00/01 은 PDF. insideflyer IATA 2026 39% 후보",
+      "createdAt": "2026-11-16T15:09:39.898Z",
+      "seq": 5338
+    },
+    {
+      "id": "31f22bf4",
+      "title": "picky-eating 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-11-16 Lam 2015 일시적 행동 파편 추가함. 원인 후보 문서 없음. 부모 강요 쪽은 clean-plate-pressure 와 결이 다름. kormedi 1210592 모방 대목",
+      "createdAt": "2026-11-16T15:10:41.090Z",
+      "seq": 5339
+    },
+    {
+      "id": "cb56aecf",
+      "title": "checking-an-exs-social-media 보강: 원인 간선(이별 괴로움, 관계 몰입), attachment-anxiety 관계",
+      "priority": 50,
+      "note": "PsyPost 2015-09-27 같은 글 'emotional distress ... which in turn predicted surveillance' 는 이미 [^3] 출처. kormedi 1217399 (2016-01-08) '불안정한 애착 관계를 형성한 사람일수록 다른 사람의 SNS를 몰래 훔쳐볼 가능성이 높은' 후보. McMaster news 2026-02-13 애착 불안 조절",
+      "createdAt": "2026-11-16T15:16:49.582Z",
+      "seq": 5341
+    },
+    {
+      "id": "a5625632",
+      "title": "nitpicking 보강: 원인 간선, 2000년대 이전 비문학 파편",
+      "priority": 50,
+      "note": "김동인 「잡초」 위키문헌 '트집을 잡을 만한 일이 없으면 트집을 만들어 내었다'(발행일 미상), 김동인 「딸의 업을 이으려」 누명 트집 대목. PMC8474672 갈등 중 criticizing each other 와 코르티솔",
+      "createdAt": "2026-11-16T15:16:58.221Z",
+      "seq": 5343
+    },
+    {
+      "id": "530ec56c",
+      "title": "hostile-attribution-bias 와 road-rage 원인 간선",
+      "priority": 50,
+      "note": "brunch.co.kr/@ihmin/857 (2026-10-18) '깜빡이도 켜지 않고 끼어든 차를 보고 일부러 그랬다고 짐작하는 순간 ... 갚아 주고 싶어진다'. Dodge 2006 PMC2745254 'hostile attributional tendency contributes to the growth of aggressive behavior' 는 공격 행동 문서가 생기면 결과 간선. Yagil 2001 cris.haifa.ac.il 은 인과 문장 없음",
+      "createdAt": "2026-11-16T15:25:03.856Z",
+      "seq": 5344
+    },
+    {
+      "id": "4c7f726d",
+      "title": "hostile-attribution-bias 와 road-rage 원인 간선",
+      "priority": 50,
+      "note": "2026-11-16 brunch.co.kr/@ihmin/857 (2026-10-18) '끼어든 차를 보고 일부러 그랬다고 짐작하는 순간 ... 갚아 주고 싶어진다' 는 블로그 계정 규칙 때문에 두 문서 모두에 못 씀. 한 문서에만 근거를 둘 수 없음. 다른 출처 필요. Dodge 2006 PMC2745254 공격 행동 결과 후보",
+      "createdAt": "2026-11-16T15:25:22.180Z",
+      "seq": 5345
+    },
+    {
+      "id": "155ac9fc",
+      "title": "exaggerating-pain 보강: 원인 간선",
+      "priority": 40,
+      "note": "2026-11-16 kormedi 1191397 은 이미 [^4] 의 출처라 조건 대목을 따로 못 씀. 파국화 문서 없음. 이전 note: 채만식 「탁류」 1937 정주사 엄살 대목",
+      "createdAt": "2026-11-16T15:11:05.724Z",
+      "seq": 5340
     },
     {
       "id": "f86fcff9",
@@ -1869,6 +1885,14 @@
       "seq": 4858
     },
     {
+      "id": "6fa93046",
+      "title": "사랑한다는 말을 먼저 하기 망설임",
+      "priority": 15,
+      "note": "2026-11-16 후보: insight.co.kr/news/447287 (2023-08-15) '실제 사랑한다는 말을 입 밖으로 꺼내는 데는 평균 107일(3.5개월)이 걸렸다.', sevendaysvt.com ...39034581 (2023-09-06) 'every time I try, I lose my nerve', PT 201609 who-says-i-love-you-first 'Yet studies show that it’s actually men most of the time'. 학술 파편 없음: dspace.mit.edu 1721.1/65923 Ackerman 2011 초록 문장 200자 넘음. weddingwire 포럼 Access Denied",
+      "createdAt": "2026-11-16T15:32:25.838Z",
+      "seq": 5347
+    },
+    {
       "id": "a3f422fc",
       "title": "meerkat-effect 와 delaying-bad-news 긴장 근거",
       "priority": 10,
@@ -2197,14 +2221,6 @@
       "seq": 2659
     },
     {
-      "id": "8438142a",
-      "title": "사랑한다는 말을 먼저 하기 망설임",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:15.467Z",
-      "seq": 2660
-    },
-    {
       "id": "10395267",
       "title": "성적 끌림을 느끼지 않음(무성애)",
       "priority": 10,
@@ -2219,14 +2235,6 @@
       "note": "#12 사랑·애착·성 요청",
       "createdAt": "2026-10-29T09:07:15.787Z",
       "seq": 2662
-    },
-    {
-      "id": "c214438d",
-      "title": "헤어진 연인의 SNS 들여다보기",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:16.161Z",
-      "seq": 2664
     },
     {
       "id": "7c1bd356",
@@ -2275,14 +2283,6 @@
       "note": "#12 사랑·애착·성 요청",
       "createdAt": "2026-10-29T09:07:17.238Z",
       "seq": 2670
-    },
-    {
-      "id": "e89d6cd8",
-      "title": "적대적 귀인 편향",
-      "priority": 10,
-      "note": "2026-10-29 desire-for-revenge 의 Zhao·Zheng 2024 frontiersin fpsyg.2023.1255880: 또래 피해가 적대적 귀인 편향을 키워 복수를 부른다. desire-for-revenge 의 원인 간선 후보(같은 URL)",
-      "createdAt": "2026-10-29T09:30:56.670Z",
-      "seq": 2678
     },
     {
       "id": "1046999e",
@@ -2405,22 +2405,6 @@
       "seq": 2988
     },
     {
-      "id": "777fe8d7",
-      "title": "좋아하는 드라마와 영화 다시 보기",
-      "priority": 10,
-      "note": "2026-10-31 rereading-favorite-books 작업 중. Salon 2020-09-20 comfort reading 기사, 경인일보 1725535 (2025-01-08) 다시 보기 대목, Russell & Levy 2012 rewatching. rereading-favorite-books 와 공통 상위(익숙한 것 되풀이해 즐기기) 후보",
-      "createdAt": "2026-10-31T12:22:40.563Z",
-      "seq": 2989
-    },
-    {
-      "id": "7d01b192",
-      "title": "임신부가 배려석 양보를 청하지 못하기",
-      "priority": 10,
-      "note": "2026-10-31 not-yielding-maternity-seats 작업 중. 2019 mohw 보도자료 '배가 나오지 않아서' 57.1%, 2026 서울신문 '임산부 맞아?' 괴롭힘. 상위 후보 hesitating-to-offer-seat 또는 help-seeking-avoidance",
-      "createdAt": "2026-10-31T18:24:24.060Z",
-      "seq": 3021
-    },
-    {
       "id": "d1ee0228",
       "title": "걷기여행",
       "priority": 10,
@@ -2435,14 +2419,6 @@
       "note": "2026-11-01 Futurity ?p=2863122 (2023-01-25) Chopik 연구: 참가자 80%가 취소 이유가 거짓이면 속상하다. making-excuses-to-skip-plans 결과 후보. Global News 2807021, Ipsos en-ca/node/1031526 (2024-10-03) 48% 핑계 지어냄 도 후보",
       "createdAt": "2026-11-01T09:11:14.107Z",
       "seq": 3101
-    },
-    {
-      "id": "04b36f1a",
-      "title": "멍때리기",
-      "priority": 10,
-      "note": "2026-11-01 mind-wandering 에서 분리한 후보: 아무 생각 없이 멍하니 있기. 서울신문 20160509500196 (2016-05-09) 한강 대회, 경향 202504180941011, 세계일보 20210804510416 정의, mediahub 2008049. doodling 과 mind-wandering 관계 근거는 여전히 미발견",
-      "createdAt": "2026-11-01T09:22:58.878Z",
-      "seq": 3103
     },
     {
       "id": "5af5949c",
@@ -3171,6 +3147,22 @@
       "note": "talking-back 원인 후보. 뉴스토마토 2015 554490 청소년 스트레스 원인 부모 잔소리, 오마이뉴스 2022 daum E858QblKXa",
       "createdAt": "2026-11-16T09:23:28.298Z",
       "seq": 5319
+    },
+    {
+      "id": "c92f004b",
+      "title": "이별 뒤의 괴로움",
+      "priority": 10,
+      "note": "checking-an-exs-social-media [^5] Marshall 2026 breakup distress. 생기면 결과 간선. contacting-an-ex 의 Difficulty adjusting 대목과도 연결",
+      "createdAt": "2026-11-16T15:16:49.691Z",
+      "seq": 5342
+    },
+    {
+      "id": "b2f34ad7",
+      "title": "rewatching-favorite-shows 와 rereading-favorite-books 공통 상위(좋아하는 것을 거듭 즐기기)",
+      "priority": 10,
+      "note": "Russell & Levy 2012 ideas.repec.org/a/oup/jconrs/doi10.1086-662996.html 'Volitional reconsumption refers to experiences that consumers actively and consciously seek to experience again.' rereading-favorite-books 는 같은 논문을 econpapers URL 로 씀. KOCCA vol36 s31 'N회차 시청' 별칭 후보(발행일 미상)",
+      "createdAt": "2026-11-16T15:30:00.667Z",
+      "seq": 5346
     },
     {
       "id": "02b2f242",
