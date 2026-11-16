@@ -503,6 +503,7 @@
 - [약속 취소 충동](docs/urge-to-cancel-plans.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [약속 취소당한 서운함](docs/being-cancelled-on.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [양 세기](docs/counting-sheep.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [양치하며 물 틀어 두기](docs/leaving-tap-running-while-brushing.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [어둠 공포](docs/fear-of-the-dark.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [어린 시절 살던 집 찾아가기](docs/revisiting-childhood-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [억양 편견](docs/accent-prejudice.md) ([남의 시선과 창피함](groups/others-gaze.md))
