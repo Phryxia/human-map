@@ -16,6 +16,8 @@
 
 2025년 모로코 예비 초등 교사 연구[^4]는 외국어 수업의 불안이 부정적 평가에 대한 두려움, 자신감 부족, 말하기 연습 기회의 부족에서 생긴다고 보고했다.
 
+2026년 사우디 대학생 연구[^5]의 저자들은 학생들이 실수하거나 교수자와 또래에게 낮게 평가받을까 두려워 즉석에서 말하기를 망설일 수 있다고 썼다.
+
 # 관계
 
 ## 상위
@@ -28,6 +30,7 @@
 
 ## 원인
 
+- [실패에 대한 두려움](fear-of-failure.md)[^5]
 - [부정적 평가에 대한 두려움](fear-of-negative-evaluation.md)[^4]
 
 ## 결과
@@ -44,3 +47,4 @@
 [^2]: [SNS] "Everyone feels embarrassed and weird when learning a second language. They feel embarrassed that they are bad." (제2 언어를 배울 때는 누구나 부끄럽고 어색하다. 자기가 서툴다는 것을 부끄러워한다.) — Hacker News 댓글, 2017-10-20, https://news.ycombinator.com/item?id=15512969, 2026-11-15 접속
 [^3]: [학술] "The first of these was learners’ beliefs, such as the need to speak perfect English, or that mistakes would lead to negative evaluations and even possible rejection by peers." (그 첫째는 완벽한 영어로 말해야 한다는 것, 또는 실수가 부정적 평가와 또래의 거부로까지 이어질 수 있다는 학습자의 믿음이었다.) — Larry J. Xethakis, Michael Rupp, Brendan R. B. Plummer 외, "Why students feel anxious in group work: an investigation into students’ perspectives on the sources of their anxious experience", Frontiers in Education 9, 2024-10-28, https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1461747/full, 2026-11-15 접속
 [^4]: [학술] "The findings reveal that anxiety arises from diverse factors, including fear of negative evaluation, lack of confidence, and insufficient opportunities for oral practice." (결과는 불안이 부정적 평가에 대한 두려움, 자신감 부족, 말하기 연습 기회의 부족 같은 여러 요인에서 생긴다는 것을 보여 준다.) — Haroud, Ouchaouka, Saqri, "Investigating the causes of language anxiety among future primary school teachers in foreign language classes", Frontiers in Education, 2025-03-20, https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1510765/full, 2026-11-15 접속
+[^5]: [학술] "In such contexts, students may hesitate to speak spontaneously due to fear of making mistakes or receiving negative evaluation from instructors or peers." (그런 환경에서 학생들은 실수하거나 교수자나 또래에게 부정적 평가를 받을까 두려워 즉석에서 말하기를 망설일 수 있다.) — Oqab Alrashidi, Fahd Saud Alenezy, "Foreign language anxiety among Saudi university students: sources, gender variation, and perceived proficiency", Frontiers in Education, 2026-05-07, https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1797618/full, 2026-11-16 접속

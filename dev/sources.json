@@ -1013,8 +1013,8 @@
   },
   "https://www.gutenberg.org/cache/epub/9182/pg9182-images.html": {
     "first": "2026-10-18",
-    "last": "2026-11-06",
-    "result": "VERIFIED",
+    "last": "2026-11-16",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-06"
   },
   "https://www.gutenberg.org/cache/epub/1399/pg1399-images.html": {
@@ -9722,33 +9722,33 @@
   },
   "https://pure.psu.edu/en/publications/the-unique-psychological-meanings-of-multidimensional-fears-of-fa/": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-16"
   },
   "https://news.ycombinator.com/item?id=3429807": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-16"
   },
   "https://news.ycombinator.com/item?id=17187260": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-16"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.794700/full": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-16"
   },
   "https://www.mt.co.kr/future/2026/06/23/2026061715152311408": {
     "first": "2026-10-24",
-    "last": "2026-10-24",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-24"
+    "lastVerified": "2026-11-16"
   },
   "https://www.gutenberg.org/cache/epub/2151/pg2151-images.html": {
     "first": "2026-10-24",
@@ -28514,15 +28514,15 @@
   },
   "https://kormedi.com/1187463/": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-16"
   },
   "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1461747/full": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-16"
   },
   "https://www.theswaddle.com/how-some-people-pretend-to-be-unskilled-at-certain-tasks-to-avoid-doing-them": {
     "first": "2026-11-15",
@@ -28736,9 +28736,9 @@
   },
   "https://news.ycombinator.com/item?id=15512969": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-16"
   },
   "https://www.seoul.co.kr/news/newsView.php?id=20241008500176": {
     "first": "2026-11-15",
@@ -28994,9 +28994,9 @@
   },
   "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1510765/full": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-16"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13639403/": {
     "first": "2026-11-15",
@@ -29741,6 +29741,12 @@
     "lastVerified": "2026-11-16"
   },
   "https://news.ycombinator.com/item?id=38000993": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1797618/full": {
     "first": "2026-11-16",
     "last": "2026-11-16",
     "result": "VERIFIED",
