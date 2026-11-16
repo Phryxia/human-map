@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-11-16T21:04Z | 2026-11-16T21:47Z | weighing-gift-money 결과 choosing-weddings-to-attend-over-meal-costs | weighing-gift-money choosing-weddings-to-attend-over-meal-costs
+없음.
