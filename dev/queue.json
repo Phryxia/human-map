@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-16T09:24:19.165Z",
-  "nextSeq": 5320,
-  "stops": 280,
+  "savedAt": "2026-11-16T12:39:33.823Z",
+  "nextSeq": 5328,
+  "stops": 281,
   "items": [
     {
       "id": "5b744231",
@@ -243,6 +243,38 @@
       "note": "2026-11-16 오마이뉴스 2022-05-19 daum E858QblKXa '잔소리를 듣다 듣다 자신을 방어하려고 말했는데 말대꾸란다' 는 잔소리 문서가 생기면 원인 근거. 잔소리 문서 없음. 매일신문 2013062714310080331 잔소리에 딸 공격적 반응 후보. 이전 note: 서울신문 2006-08-09 위압감 대목, 이무영 「사위」",
       "createdAt": "2026-11-16T09:23:28.178Z",
       "seq": 5318
+    },
+    {
+      "id": "4686c315",
+      "title": "pressing-food-on-others 와 ritual-refusal 관계",
+      "priority": 50,
+      "note": "ritual-refusal 의 1935 망부석 파편이 사양 뒤 다시 권하는 장면. 권유와 사양이 서로 부르는 인과 대목 찾기. Chen & Hu 2020 End-of-Dinner Food Offering(Brill) 은 403",
+      "createdAt": "2026-11-16T12:12:05.417Z",
+      "seq": 5324
+    },
+    {
+      "id": "0dae3e98",
+      "title": "passing-on-rumors 보강: 매체·SNS 파편, gossip 관계",
+      "priority": 50,
+      "note": "Silas Marner pg550 귀고리 소문 대목, Frontiers fpsyg.2022.830002 'due to herd mentality' 원인 대목, Cranford 는 이미 4문서",
+      "createdAt": "2026-11-16T12:17:14.458Z",
+      "seq": 5325
+    },
+    {
+      "id": "4ce9f8ce",
+      "title": "drunken-confession 보강: 술 깬 뒤 부인하거나 후회, 원인 간선",
+      "priority": 50,
+      "note": "SD 284135 'I say weird things when I’m drunk' 블랙아웃 주장, livescience 2024-09-02 'blurt out something they don't really mean and will regret', PMC4153408 Fairbairn 2014 조건 대목(협력 상황에서만). 술 권하는 사회는 이미 4문서",
+      "createdAt": "2026-11-16T12:22:35.569Z",
+      "seq": 5326
+    },
+    {
+      "id": "760f7d92",
+      "title": "buying-in-installments 와 buying-on-credit-at-local-shops 관계, 공공 파편",
+      "priority": 50,
+      "note": "The Jungle pg140 할부 광고 대목(이미 1문서 사용), CFPB BNPL 보고서 HTML 은 인용문 못 뽑음, Which? BNPL policy paper 미열람",
+      "createdAt": "2026-11-16T12:39:19.892Z",
+      "seq": 5327
     },
     {
       "id": "f86fcff9",
