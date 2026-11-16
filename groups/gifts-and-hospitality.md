@@ -28,6 +28,7 @@
 - [얹혀사는 대가로 집안일 거들기](../docs/doing-chores-while-staying.md) 남의 집에 얹혀 지내는 사람이 집세나 신세를 갚는 몫으로 그 집의 집안일을 맡아 한다.
 - [얹혀사는 집에서 몸 낮추기](../docs/shrinking-in-hosts-home.md) 남의 집에 얹혀사는 사람이 집주인 앞에서 자리를 비키고 말과 몸짓을 줄인다.
 - [여행 기념품 사 오기](../docs/buying-souvenirs-for-others.md) 여행이나 출장에서 돌아오는 사람이 직장 동료나 가족에게 줄 기념품을 사 온다.
+- [음식을 거듭 권하기](../docs/pressing-food-on-others.md) 식탁에서 함께 먹는 사람이 사양하거나 그만 먹으려 해도 음식을 더 먹으라고 거듭 권한다.
 - [의례적 사양](../docs/ritual-refusal.md) 음식이나 선물, 초대를 권받은 사람이 받을 생각이 있으면서도 처음에는 예의로 사양한다.
 - [이별을 아쉬워하기](../docs/reluctant-parting.md) 헤어지는 사람이 헤어짐을 아쉬워해 작별을 늦추거나 떠나는 상대를 오래 지켜본다.
   - [보이지 않을 때까지 배웅하기](../docs/watching-until-out-of-sight.md)
