@@ -29313,5 +29313,29 @@
     "last": "2026-11-16",
     "result": "VERIFIED",
     "lastVerified": "2026-11-16"
+  },
+  "https://www.gutenberg.org/cache/epub/3796/pg3796.txt": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/19367130?resultType=core&format=json": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.gu.se/en/news/knitting-brings-calmness-and-structure-to-the-lives-of-people-with-mental-illness": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://news.ycombinator.com/item?id=40312736": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
   }
 }
