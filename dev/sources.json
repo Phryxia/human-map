@@ -29003,5 +29003,41 @@
     "last": "2026-11-15",
     "result": "VERIFIED",
     "lastVerified": "2026-11-15"
+  },
+  "https://abcnews.com/Primetime/story?id=132270": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14234/hl-fs-eng.htm": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://koreascience.kr/article/JAKO201503264233177.page?lang=en": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.valuepenguin.com/consumers-putting-themselves-in-danger-of-electrical-fires": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://www.mercuryinsurance.com/resources/fire/fire-safety-report-card.html": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
   }
 }
