@@ -35,6 +35,7 @@
 - [겁날 때 노래하거나 휘파람 불기](docs/singing-to-keep-up-courage.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [게시 직전 자기검열](docs/last-minute-self-censorship.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [게으름](docs/laziness.md) ([성향과 기질](groups/traits.md))
+- [겨울에 환기하지 않기](docs/not-ventilating-in-winter.md) ([건강과 위험](groups/health-and-safety.md))
 - [격식 차린 자리에서 예절 실수 걱정하기](docs/worrying-about-etiquette-mistakes.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [결말 먼저 읽기](docs/reading-the-ending-first.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [결혼 재촉](docs/pressuring-children-to-marry.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
