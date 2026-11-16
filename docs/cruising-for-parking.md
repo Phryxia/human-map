@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [잠깐 세우는 불법 주정차](brief-illegal-parking.md)
 
 ## 대립
 

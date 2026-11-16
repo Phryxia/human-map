@@ -18,6 +18,8 @@
 
 2022년 댓글[^6]의 글쓴이는 빈자리가 나기를 기다리며 1분쯤 서는 일을 괜찮게 여기는 쪽에 동의하면서 규칙에는 예외가 없다고 썼다. 2023년 연구[^7]는 세워 둘 시간을 운전자가 이중 주차를 하는 성향의 주된 요인으로 꼽는다.
 
+2025년 6월 댓글[^8]의 글쓴이는 트럭이 몇 시간씩 블록을 도는 것보다 이따금 떼이는 딱지가 싸서 불법 주차를 한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -30,7 +32,7 @@
 
 ## 원인
 
-없음.
+- [주차 자리 찾아 맴돌기](cruising-for-parking.md)[^8]
 
 ## 결과
 
@@ -49,3 +51,4 @@
 [^5]: [공공] "바쁜 마음에 학교 앞 소방전 앞에 3분 정도 잠깐 주차를 했는데, 그 사이에 사진이 찍혀 과태료를 물었다" — 박하나, 「불법 주정차 주민신고제 시행 1년, 어떻게 달라졌나」, 대한민국 정책브리핑 정책기자마당, 2020-05-08, https://www.korea.kr/news/reporterView.do?newsId=148872136, 2026-10-28 접속
 [^6]: [SNS] "So yes while a normal person would say this is acceptable to stop for a minute while waiting for the space to clear (and I agree), the rules are black/white." (그러니 보통 사람이라면 자리가 비기를 기다리며 1분쯤 서는 건 괜찮다고 하겠지만(나도 동의한다) 규칙은 흑백이다.) — OzBargain 포럼 댓글, 2022-09-17, https://www.ozbargain.com.au/node/725278, 2026-10-28 접속
 [^7]: [학술] "The results indicated that parking duration is the main factor affecting drivers' propensity to perpetrate a double parking violation." (결과는 주차 시간이 운전자가 이중 주차 위반을 저지르는 성향에 영향을 주는 주된 요인임을 보여 주었다.) — Masoud Kadkhodaei, Rouzbeh Shad, Seyed Ali Ziaee, Mohsen Kadkhodaei, "Prediction model for drivers' tendency to perpetrate a double parking violation on urban trips", Transport Policy 141, 2023, https://ideas.repec.org/a/eee/trapol/v141y2023icp331-339.html, 2026-10-28 접속
+[^8]: [SNS] "Trucks park illegally, because the risk of the occasional ticket is cheaper than circling the block for hours." (트럭은 불법 주차를 한다. 이따금 딱지를 떼일 위험이 몇 시간씩 블록을 도는 것보다 싸기 때문이다.) — Hacker News 댓글, 2025-06-20, https://news.ycombinator.com/item?id=44330523, 2026-11-16 접속
