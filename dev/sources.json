@@ -29763,5 +29763,17 @@
     "last": "2026-11-16",
     "result": "VERIFIED",
     "lastVerified": "2026-11-16"
+  },
+  "https://www.cdc.gov/mmwr/preview/mmwrhtml/00044294.htm": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
+  },
+  "https://news.ycombinator.com/item?id=5601132": {
+    "first": "2026-11-16",
+    "last": "2026-11-16",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-16"
   }
 }
