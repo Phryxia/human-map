@@ -1,224 +1,216 @@
 {
   "version": 1,
-  "savedAt": "2026-11-16T00:32:53.651Z",
-  "nextSeq": 5244,
-  "stops": 277,
+  "savedAt": "2026-11-16T03:32:47.101Z",
+  "nextSeq": 5304,
+  "stops": 278,
   "items": [
     {
-      "id": "47404504",
-      "title": "choosing-weddings-to-attend-over-meal-costs 보강: 공공 또는 학술 파편, 10년 떨어진 시기, weighing-gift-money 관계",
+      "id": "37ac73fe",
+      "title": "blame-contagion 보강: 공공 파편",
       "priority": 50,
-      "note": "2026-11-15 서울신문 20241008500176 파편 추가함. 같은 글이 신한은행 2024 보통사람 금융생활 보고서 '가지 않는다면 축의금 5만원 52.4%' 인용, 원 보고서 HTML 찾기. 2013~2015 기사 검색 결과 없음",
-      "createdAt": "2026-11-15T15:30:39.638Z",
-      "seq": 5195
+      "note": "2026-11-16 HN 16005007 2017 SNS 파편 추가함. gov.uk DHSC 2022-06-08 leadership review 'blame cultures and responsibility avoidance has almost become normalised' 는 퍼짐만 있고 전염 방향 없음. HN 18130354 'once senior leadership gets involved, the finger pointing gets exacerbated' 후보",
+      "createdAt": "2026-11-16T03:21:46.012Z",
+      "seq": 5278
     },
     {
-      "id": "a8c50fb4",
-      "title": "ghosting 보강: 한국어 파편, 친구 사이 고스팅",
-      "priority": 50,
-      "note": "2026-11-15 Langlais 2026 PMC12886356 학술 파편 추가함. 같은 글 'Ghosting is a dissolution strategy in which one partner abruptly ceases all communication' 정의. PT 2018 친구 고스팅 31.7%",
-      "createdAt": "2026-11-15T15:31:35.450Z",
-      "seq": 5196
-    },
-    {
-      "id": "358945a2",
-      "title": "cruising-for-parking 와 brief-illegal-parking 원인 간선",
-      "priority": 50,
-      "note": "2026-11-15 HN 43027898 2025 SNS 파편 추가함. 머니투데이 2022-06-01 '배회하는 차량이 빚는 도로 혼잡과 그에 따른 불법 주정차' 대목을 brief-illegal-parking 에도 쓸 수 있는지 볼 것. HN 43027420 'eight minutes looking for parking, I would rather not go' 회피 현상 후보",
-      "createdAt": "2026-11-15T15:32:19.711Z",
-      "seq": 5197
-    },
-    {
-      "id": "df770849",
-      "title": "hesitating-at-the-door 보강: 1900년대 문학 파편",
-      "priority": 50,
-      "note": "2026-11-15 それから 56143_50921 '気が咎めて行かれなかった' 대목은 찾아가기를 그만두는 장면이고 문 앞이 아니라 이 문서에 맞지 않음",
-      "createdAt": "2026-11-15T15:32:55.864Z",
-      "seq": 5198
-    },
-    {
-      "id": "a8f64d13",
-      "title": "startled-by-doorbell 보강: SNS 파편과 pretending-not-to-be-home 관계",
-      "priority": 50,
-      "note": "2026-11-15 HN Algolia 'doorbell anxiety' 검색 결과 없음. 이전 note: autism.org.uk, Beyond Blue, 더쿠 봇 차단. abc7chicago 2019-06-05 'Others say they hide when someone rings their bell.' 확인 필요",
-      "createdAt": "2026-11-15T15:32:55.968Z",
-      "seq": 5199
-    },
-    {
-      "id": "c53be847",
-      "title": "guilt-over-not-providing-for-children 보강: 문학 파편과 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-15 최서해 「탈출기」 위키문헌 '어린것의 장래를 생각할 때면 애잡짤한 감정과 분함' 은 미안함이 아니라 맞지 않음. HN Algolia guilty·afford·kids 검색 결과 없음. 이전 note: 현진건 두 편은 이미 4개 문서 사용",
-      "createdAt": "2026-11-15T15:33:24.768Z",
-      "seq": 5200
-    },
-    {
-      "id": "e47db438",
-      "title": "assuming-laughter-is-at-oneself 보강: spotlight-effect 관계",
-      "priority": 50,
-      "note": "2026-11-15 brunch @hoonius/1316 한국어 파편 추가함. 같은 글이 '비웃음 공포증' 이라는 이름을 씀, 별칭 근거로 쓸 대목 찾기",
-      "createdAt": "2026-11-15T15:34:28.388Z",
-      "seq": 5201
-    },
-    {
-      "id": "2de3bf06",
-      "title": "blame-contagion 보강: 공공 또는 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-15 별칭과 USC Today 2009-11-19 파편 추가함. HN Algolia 'blame contagious', 'blame culture' 에서 자기 경험 댓글 못 찾음",
-      "createdAt": "2026-11-15T15:34:54.438Z",
-      "seq": 5202
-    },
-    {
-      "id": "9a449947",
+      "id": "47ad2e6c",
       "title": "talking-back 보강: 원인 간선, 말대꾸 참기",
       "priority": 50,
-      "note": "서울신문 2006-08-09 seoul.co.kr/news/2006/08/09/20060809029018 '부모보다 체격이 커져 부모에 대한 위압감이 줄어든 것도 이유' 는 반항 대목. 이무영 「사위」 위키문헌 '말대꾸 한마디 않고' 는 참는 쪽. 나도향 「어머니」 위키문헌 말대꾸 대목은 발행일 미상",
-      "createdAt": "2026-11-15T18:11:01.568Z",
-      "seq": 5212
+      "note": "2026-11-16 명절 잔소리 대처 기사들(GQ ?p=401046 등)은 조언글이고 laughing-off-holiday-nagging 와의 대립 근거 아님. 서울신문 2006-08-09 20060809029018 '부모보다 체격이 커져 부모에 대한 위압감이 줄어든 것도 이유' 는 반항 대목. 이무영 「사위」 '말대꾸 한마디 않고' 는 참는 쪽. 나도향 「어머니」 말대꾸 대목은 발행일 미상",
+      "createdAt": "2026-11-16T03:22:27.628Z",
+      "seq": 5279
     },
     {
-      "id": "4a4e0900",
+      "id": "5b744231",
       "title": "taking-bags-during-evacuation 보강: 원인 간선과 1990년대 공공 파편",
       "priority": 50,
       "note": "2026-11-15 The Gate 2018-02-18 분실 수하물 추측 파편 추가함. 원인 간선 근거 못 찾음. NTSB SS-00/01 은 PDF",
-      "createdAt": "2026-11-15T18:11:18.604Z",
-      "seq": 5213
+      "createdAt": "2026-11-16T03:22:34.074Z",
+      "seq": 5280
     },
     {
-      "id": "81c270be",
+      "id": "8e516c7e",
       "title": "picky-eating 보강: 원인 간선, 쓴맛과 새 음식 거부",
       "priority": 50,
       "note": "Lam 2015 PMC4422022 정의와 쓴맛 대목, Alarcon 2026 PMC13118670 유전 대목. 이광수 「난제오」 1940 위키문헌 편식 대목. kormedi 1210592 '부모나 가족이 편식을 하면 어린이가 이를 모방하여 편식하게 된다' 원인 대목",
-      "createdAt": "2026-11-15T18:16:05.267Z",
-      "seq": 5214
+      "createdAt": "2026-11-16T03:22:34.219Z",
+      "seq": 5281
     },
     {
-      "id": "8c82b55c",
+      "id": "054a2545",
       "title": "exaggerating-pain 보강: 원인 간선, 보는 사람 유무 조건",
       "priority": 50,
       "note": "kormedi 1191397 '신경증 증상이 높게 나타나지만 우울증은 없으면 별로 엄살을 떨지 않는' 조건 대목. 채만식 「탁류」 제3장 1937 위키문헌 정주사 엄살 대목. 아이뉴스24 1981904 2026 엄살 남편 사연은 건강 불안 쪽",
-      "createdAt": "2026-11-15T18:20:31.102Z",
-      "seq": 5215
+      "createdAt": "2026-11-16T03:22:34.358Z",
+      "seq": 5282
     },
     {
-      "id": "d408c13c",
-      "title": "making-a-show-of-favors 보강: 2000년대 이후 비학술 파편, 받는 쪽 반감",
-      "priority": 50,
-      "note": "한용운 「박명」 2장 1938 공치사 대목, 심훈 「직녀성」 제6장 생색 서운함 대목(발행일 미상). Gleason 2008 PMC3898885 갚지 못하는 부담. 블라인드 게시글은 로그인 커뮤니티라 안 씀",
-      "createdAt": "2026-11-15T18:24:46.428Z",
-      "seq": 5216
-    },
-    {
-      "id": "333c62b3",
+      "id": "1b2ce4c4",
       "title": "nitpicking 보강: 원인 간선, 2000년대 이전 비문학 파편",
       "priority": 50,
       "note": "김동인 「잡초」 위키문헌 '트집을 잡을 만한 일이 없으면 트집을 만들어 내었다'(발행일 미상), 김동인 「딸의 업을 이으려」 누명 트집 대목. PMC8474672 갈등 중 criticizing each other 와 코르티솔",
-      "createdAt": "2026-11-15T18:29:28.856Z",
-      "seq": 5217
+      "createdAt": "2026-11-16T03:22:34.494Z",
+      "seq": 5283
     },
     {
-      "id": "7d8ccedd",
-      "title": "lamenting-ones-lot 보강: 매체 파편, keeping-hardship-to-oneself 대립",
+      "id": "fb183d3d",
+      "title": "making-a-show-of-favors 보강: SNS 파편, 받는 쪽 반감",
       "priority": 50,
-      "note": "이광수 『무정』 1장~20장 위키문헌 '친구들이 모여앉아서 신세 타령을 할 때에 여러 가지 못할 말 없이 다 하면서도 지금 형식에게 말하려는 말은 아직 하여 본 적이 없다'. 현진건 「발」 1924 신세타령 대목. PMC11757728 venting 정의 대목",
-      "createdAt": "2026-11-15T18:33:15.542Z",
-      "seq": 5218
+      "note": "2026-11-16 위키트리 2026-06-29 1143437 공치사 파편 추가함. 2000~2010년대 비학술 파편과 SNS 파편 없음. 이전 note: 한용운 「박명」 1938 공치사 대목, 심훈 「직녀성」 발행일 미상, 블라인드는 로그인 커뮤니티",
+      "createdAt": "2026-11-16T03:23:23.526Z",
+      "seq": 5284
     },
     {
-      "id": "85ccb1c6",
+      "id": "c3871ce4",
+      "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
+      "priority": 50,
+      "note": "2026-11-16 매일신문 2001-01-06, 위키트리 1143236 2026 매체 파편 추가함. 대립 근거 못 찾음. Daily Princetonian 2015-03 on-complaining 'Forcing ourselves to disguise and conceal our problems does not make them disappear' 는 약한 후보",
+      "createdAt": "2026-11-16T03:28:05.226Z",
+      "seq": 5285
+    },
+    {
+      "id": "5b441240",
       "title": "pretending-to-know 보강: 원인 간선, 매체 또는 SNS 파편",
       "priority": 50,
-      "note": "PLOS ONE 10.1371/journal.pone.0255207 'feeling of knowledge [7] or self-perceived expertise [62]' 추측 대목. 방정환 「은파리」 개벽 17호 1921-11 교제상 아는 체 대목은 실존 인물 풍자 연재라 보류",
-      "createdAt": "2026-11-15T18:36:29.878Z",
-      "seq": 5219
+      "note": "2026-11-16 HN Algolia 'pretended to know' 1인칭 댓글 없음. HN 30977240, brunch @smallwave5 는 pretending-to-understand 가 이미 씀. 이전 note: PLOS ONE pone.0255207 feeling of knowledge 추측 대목, 방정환 「은파리」 실존 인물 풍자라 보류",
+      "createdAt": "2026-11-16T03:29:09.571Z",
+      "seq": 5286
     },
     {
-      "id": "218fa584",
-      "title": "making-excuses-for-mistakes 보강: 비학술 파편, blaming-others 관계",
+      "id": "9b4cac74",
+      "title": "making-excuses-for-mistakes 보강: SNS 파편, blaming-others 관계",
       "priority": 50,
-      "note": "김동인 「대수양」 24 위키문헌 '땀을 뻘뻘 흘려 가면서 변명하였다'(발행일 미상). PLOS 10.1371/journal.pone.0336599 'restore their self-esteem and avoid a negative self-view' 기능 대목. 파편 2개뿐",
-      "createdAt": "2026-11-15T18:40:33.395Z",
-      "seq": 5220
+      "note": "2026-11-16 WTOP 2016-01-28 CareerBuilder 지각 변명 설문 파편 추가함. CBS Philadelphia 2018-03-25 strange-excuses-late-work 도 같은 조사 후보. 이전 note: PLOS pone.0336599 'restore their self-esteem' 기능 대목",
+      "createdAt": "2026-11-16T03:30:03.789Z",
+      "seq": 5287
     },
     {
-      "id": "9446159e",
-      "title": "alert-fatigue 와 security-fatigue 상위 관계 검토",
-      "priority": 50,
-      "note": "threatcop.com/blog/security-fatigue 'Security fatigue is the broader condition, including alert fatigue', jumpcloud it-index 'Alert Fatigue: This is a specific type of security fatigue'. alarm-fatigue 와의 상하 관계 판단 필요",
-      "createdAt": "2026-11-15T21:29:47.540Z",
-      "seq": 5226
-    },
-    {
-      "id": "6487bae0",
+      "id": "5453da97",
       "title": "precautionary-saving 보강: tightwad-spending 관계",
       "priority": 50,
-      "note": "2026-11-15 FRBSF 2014-03 Economic Letter 로 job-insecurity 원인 간선 그음. tightwad-spending 과의 관계 근거 아직",
-      "createdAt": "2026-11-15T21:33:14.431Z",
-      "seq": 5227
+      "note": "2026-11-16 기존 파편 4개 어디에도 지불의 괴로움이나 tightwad 를 저축과 잇는 대목 없음. 이전 note: FRBSF 2014-03 Economic Letter 로 job-insecurity 원인 간선 그음",
+      "createdAt": "2026-11-16T03:30:34.783Z",
+      "seq": 5288
     },
     {
-      "id": "a5aa98ef",
+      "id": "4febe12c",
       "title": "saving-face 보강: fighting-over-the-bill 관계",
       "priority": 50,
       "note": "2026-11-15 lavish-celebrations-for-status 간선은 macaudailytimes 68328 로 그음. 계산 다툼 쪽 후보 mabelkwong.com 2016-02-18 'pride and face thing that drives' 는 개인 블로그라 두 문서에 걸쳐 쓰기 곤란. commisceo-global 2019 'Fighting for face: Arguing over who pays the bill' 는 인과 아님",
-      "createdAt": "2026-11-15T21:36:42.595Z",
-      "seq": 5228
+      "createdAt": "2026-11-16T03:30:36.114Z",
+      "seq": 5289
     },
     {
-      "id": "b71330ea",
+      "id": "3c661b59",
       "title": "foreign-language-speaking-anxiety 보강: fear-of-failure 관계",
       "priority": 50,
       "note": "2026-11-15 Frontiers feduc.2025.1510765 로 fear-of-negative-evaluation 원인 간선 그음. 같은 글 'This anxiety stems from various factors, including the fear of making mistakes' 는 같은 출처라 fear-of-failure 쪽은 다른 출처 필요. old.hltmag.co.uk/dec16/sart04.htm 발행일 미확인",
-      "createdAt": "2026-11-15T21:40:08.974Z",
-      "seq": 5229
+      "createdAt": "2026-11-16T03:30:36.254Z",
+      "seq": 5290
     },
     {
-      "id": "587c187a",
+      "id": "5af89d3f",
       "title": "weaponized-incompetence 보강: 한국어 파편, feigning-ignorance 관계",
       "priority": 50,
       "note": "2026-11-15 PMC13639403 2026 학술 파편 추가함. PMC13462502 2026 인터뷰 'weaponized incompetence a lot of people have to deal with, with spouses' 후보. 2007 WSJ Sandberg 칼럼이 용어 첫 사용이라는 검색 요약, 미확인",
-      "createdAt": "2026-11-15T21:42:34.020Z",
-      "seq": 5230
+      "createdAt": "2026-11-16T03:30:36.406Z",
+      "seq": 5291
     },
     {
-      "id": "8a8f4575",
-      "title": "not-keeping-fire-extinguishers 보강: 한국 공공 파편, 주택용 소방시설 설치율",
-      "priority": 50,
-      "note": "2026-11-16 go.seoul.co.kr prnewsView id=320052 소방청 보도자료 '2020년 인구주택 총조사 주택용 소방시설 설치율 35.4%' 발행일 미상, 소방청 원문 찾기. 소화기 점검 안 하기 출처는 못 찾음",
-      "createdAt": "2026-11-16T00:10:17.911Z",
-      "seq": 5238
-    },
-    {
-      "id": "28ba9dfc",
+      "id": "ad2f75fd",
       "title": "not-reading-instruction-manuals 보강: SNS 파편, 학술 파편 하나 더",
       "priority": 50,
       "note": "2026-11-16 Blackler 2014 Interacting with Computers 'manuals are not read by the majority of people' 는 OUP 봇 확인 페이지로 빠짐, 다른 판 찾기. 약관 읽지 않기(agreeing-without-reading-terms)와 같은 상위 후보",
-      "createdAt": "2026-11-16T00:18:02.721Z",
-      "seq": 5239
+      "createdAt": "2026-11-16T03:30:36.803Z",
+      "seq": 5292
     },
     {
-      "id": "b93ee7a7",
+      "id": "6e528914",
       "title": "skipping-malaria-prophylaxis 보강: SNS 파편, 1990년대 공공 파편",
       "priority": 50,
       "note": "2026-11-16 MMWR 00044294 'Of the three civilians who did not use prophylaxis, two were unaware of the need' 발행일 페이지에 없음, 1995 MMWR 판 날짜 찾기. alongdustyroads 2017 블로그 'nah mate, you only need meds in the jungle'. stopping-medication-when-feeling-better 와 상위 관계 볼 것",
-      "createdAt": "2026-11-16T00:22:32.380Z",
-      "seq": 5240
+      "createdAt": "2026-11-16T03:30:36.946Z",
+      "seq": 5293
     },
     {
-      "id": "442f17e8",
-      "title": "leaving-tap-running-while-brushing 보강: 공공 또는 학술 파편, 한국어 파편",
+      "id": "a9c5159b",
+      "title": "leaving-tap-running-while-brushing 보강: 학술 파편, 한국어 SNS 파편",
       "priority": 50,
-      "note": "2026-11-16 서울시 news.seoul.go.kr/env/archives/514374 에는 틀어 두기 문장 없음. UEA eprint 70798 Seger 2019 양치 중 수도꼭지 메시지 실험은 초록 PDF. Straight Dope 355214 의 다른 댓글은 물소리를 좋아한다, 찬물이 싫다는 이유를 듦",
-      "createdAt": "2026-11-16T00:25:58.569Z",
-      "seq": 5241
+      "note": "2026-11-16 정책브리핑 148927148 2024-03-22 공공 파편 추가함. 군산시 첨부파일은 다운로드 링크라 안 씀. 구리시 물사랑 안내 페이지는 텍스트 없음. 이전 note: UEA eprint 70798 Seger 2019 초록 PDF",
+      "createdAt": "2026-11-16T03:31:52.378Z",
+      "seq": 5294
     },
     {
-      "id": "78fb6c63",
+      "id": "663552e1",
       "title": "leaving-lights-on-in-empty-rooms 보강: 학술 또는 공공 파편, 2000년대 파편",
       "priority": 50,
       "note": "2026-11-16 Mumsnet 706649(2009) 는 봇 확인 페이지. ACEEE 2002 Figueiro Rea 현장 연구는 PDF. Smart Energy GB 2018 은 '잊어버림 29%' 도 있음, 잊기 현상과 관계 볼 것",
-      "createdAt": "2026-11-16T00:30:11.281Z",
-      "seq": 5242
+      "createdAt": "2026-11-16T03:32:03.238Z",
+      "seq": 5295
+    },
+    {
+      "id": "8c41de5c",
+      "title": "choosing-weddings-to-attend-over-meal-costs 와 weighing-gift-money 관계",
+      "priority": 50,
+      "note": "2026-11-16 K-공감 2024-05-23 공공, 오마이뉴스 2013-09-27 파편 추가함. 원인 간선 근거가 될 대목 찾기. 오마이뉴스 A0002903898 2023 '5만 원을 내고 예식장에서 밥을 먹는 게 민폐가 될 수 있다는 글이 계속 머리에 맴돌아' 1인칭 사례 후보. 학술 초록은 KCI·DBpia 에서 못 찾음",
+      "createdAt": "2026-11-16T03:32:03.407Z",
+      "seq": 5296
+    },
+    {
+      "id": "40be6032",
+      "title": "ghosting 보강: 친구 사이 고스팅, 페트먼 『고스팅』 서평",
+      "priority": 50,
+      "note": "2026-11-16 경향신문 202606120600061 잠수이별 파편과 별칭 추가함. 같은 기사에 페트먼이 고스팅을 '가족이나 친구들로부터 완전히 물러나버리는 것' 이라 본다는 대목. 코메디닷컴 1379459 2022 '잠수타기' 대목도 후보",
+      "createdAt": "2026-11-16T03:32:03.574Z",
+      "seq": 5297
+    },
+    {
+      "id": "5466f244",
+      "title": "cruising-for-parking 와 brief-illegal-parking 원인 간선",
+      "priority": 50,
+      "note": "2026-11-16 머니투데이 2022-06-01 대목의 '그에 따른' 은 주차난을 가리켜 맴돌기 때문에 불법 주정차를 한다는 말이 아님. Urban Freight Lab ?p=5855 는 이중 주차가 드물다는 내용. YTN 0103_202310240616076736 은 관광버스 주차난이고 맴돌기 없음. 이전 note: HN 43027420 'eight minutes looking for parking, I would rather not go' 회피 현상 후보",
+      "createdAt": "2026-11-16T03:32:03.717Z",
+      "seq": 5298
+    },
+    {
+      "id": "2d4046d1",
+      "title": "hesitating-at-the-door 보강: 1900년대 문학 파편",
+      "priority": 50,
+      "note": "2026-11-16 Gutenberg 284 House of Mirth, 2641, 2946, 974, 4517, 5230 에서 courage to knock, stood at the door 류 grep 결과 맞는 대목 없음. 이전 note: それから 56143_50921 는 문 앞 장면 아님",
+      "createdAt": "2026-11-16T03:32:03.861Z",
+      "seq": 5299
+    },
+    {
+      "id": "cc1d8cce",
+      "title": "guilt-over-not-providing-for-children 보강: 문학 파편과 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-15 최서해 「탈출기」 위키문헌 '어린것의 장래를 생각할 때면 애잡짤한 감정과 분함' 은 미안함이 아니라 맞지 않음. HN Algolia guilty·afford·kids 검색 결과 없음. 이전 note: 현진건 두 편은 이미 4개 문서 사용",
+      "createdAt": "2026-11-16T03:32:03.994Z",
+      "seq": 5300
+    },
+    {
+      "id": "46ab143d",
+      "title": "startled-by-doorbell 보강: SNS 파편과 pretending-not-to-be-home 관계",
+      "priority": 50,
+      "note": "2026-11-16 HN Algolia 'doorbell rings', 'doorbell heart racing' 검색, meeco·damoang(봇 확인) 결과 맞는 글 없음. 이전 note: autism.org.uk, Beyond Blue, 더쿠 봇 차단. abc7chicago 2019-06-05 'Others say they hide when someone rings their bell.' 확인 필요",
+      "createdAt": "2026-11-16T03:32:04.132Z",
+      "seq": 5301
+    },
+    {
+      "id": "70c1a252",
+      "title": "assuming-laughter-is-at-oneself 와 spotlight-effect 관계",
+      "priority": 50,
+      "note": "2026-11-16 PsyPost 2021-01-05 파편과 별칭 Fear of being laughed at 추가함. 두 현상을 잇는 원인 근거 대목 찾기. PMC5682340 gelotophobia 시선 연구는 reCAPTCHA. brunch @hoonius/1316 의 '비웃음 공포증' 은 그 파편 원문에 없어 별칭 근거로 못 씀",
+      "createdAt": "2026-11-16T03:32:04.288Z",
+      "seq": 5302
+    },
+    {
+      "id": "9986615e",
+      "title": "not-keeping-fire-extinguishers 보강: 한국 공공 파편, 주택용 소방시설 설치율",
+      "priority": 50,
+      "note": "2026-11-16 인천소방본부 보도자료 NE030401/2065074, 2082280 은 화재경보기 홍보 목표만 있고 설치율 실측치 없음. 경기도 소식지 vol189/3_3 텍스트 없음. 이전 note: go.seoul.co.kr prnewsView id=320052 '설치율 35.4%' 발행일 미상, 소방청 원문 찾기",
+      "createdAt": "2026-11-16T03:32:43.328Z",
+      "seq": 5303
     },
     {
       "id": "f86fcff9",
