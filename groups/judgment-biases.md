@@ -24,6 +24,7 @@
 - [자기 이익을 위한 정당화](../docs/self-serving-justification.md) 사람이 자기에게 이로운 쪽으로 행동하면서 그 행동이 옳거나 의무를 다한 것이라는 이유를 스스로 만들어 낸다.
   - [회사 비품 가져가기](../docs/taking-office-supplies.md)
 - [자기 지식 과대평가](../docs/knowledge-overestimation.md) 사람이 어떤 분야나 사물에 대해 자기가 아는 정도를 실제보다 높게 여긴다.
+- [적대적 귀인 편향](../docs/hostile-attribution-bias.md) 사람이 의도가 애매한 남의 행동을 자기를 해치려고 일부러 한 것으로 받아들인다.
 - [처분 효과](../docs/disposition-effect.md) 이익이 난 투자 자산은 일찍 팔고 손실이 난 투자 자산은 오래 쥐고 있는 투자자의 행동이다.
 - [첫인상으로 사람 판단하기](../docs/judging-by-first-impressions.md) 처음 만난 사람의 얼굴이나 짧은 첫 모습을 보고 그 사람의 성격과 됨됨이를 판단한다.
 - [통제 착각](../docs/illusion-of-control.md) 결과가 운에 달린 일을 앞둔 사람이 자기가 고르거나 손을 쓰면 결과를 좌우할 수 있다고 느낀다.

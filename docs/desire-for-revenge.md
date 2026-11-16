@@ -28,6 +28,7 @@
 
 - [분노 반추](anger-rumination.md)[^9]
 - [원한 품기](holding-a-grudge.md)[^1]
+- [적대적 귀인 편향](hostile-attribution-bias.md)[^10]
 - [반추](rumination.md)[^9][^10]
 
 ## 결과
