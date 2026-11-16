@@ -112,5 +112,6 @@
 - [화상에 집안 물건 바르기](../docs/applying-household-remedies-to-burns.md) 화상을 입은 사람이나 그 가족이 상처에 치약, 버터, 된장, 소주 같은 집안 물건을 바른다.
 - [화장실 갈까 봐 물 덜 마시기](../docs/drinking-less-to-avoid-toilet.md) 화장실에 가기 어렵거나 자주 갈까 걱정하는 사람이 일부러 물이나 음료를 덜 마신다.
 - [화장실 뒤 손 안 씻기](../docs/skipping-handwashing.md) 공중화장실을 쓴 사람이 손을 씻지 않거나 비누 없이 물만 묻히고 나간다.
+- [화학제품을 음료병에 옮겨 담기](../docs/decanting-chemicals-into-drink-bottles.md) 농약, 등유, 세제 같은 화학제품을 쓰는 사람이 그 일부를 빈 음료병이나 물병에 옮겨 담아 둔다.
 - [회복기에 일상을 새롭게 느끼기](../docs/savoring-ordinary-life-in-convalescence.md) 병에서 회복하는 사람이 숨쉬기, 바깥 풍경, 살아 있음 같은 평범한 것에서 즐거움과 고마움을 크게 느낀다.
 - [휴일에 나타나는 몸의 증상](../docs/leisure-sickness.md) 평일에 일하는 사람이 주말이나 휴가 같은 쉬는 날에 두통, 피로, 메스꺼움 같은 몸의 증상을 겪는다.
