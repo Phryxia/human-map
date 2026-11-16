@@ -14,7 +14,11 @@
 
 1937년 소설[^3]의 초봉이는 동생의 얼굴을 건너다보다가 누구에게 하는 말이라기보다 스스로 탄식하는 넋두리를 흘린다.
 
-2025년 연구[^4]에서 참여자들은 혼자 곱씹는 정도가 평소보다 높은 날에 다른 사람과 문제를 곱씹듯 이야기하는 일이 더 많았다고 보고했다.
+2001년 민요 해설 기사[^4]는 나무꾼들이 가쁜 숨을 몰아쉬며 잠깐 허리를 펴고 신세타령하듯 토해 내는 노래에 그들의 심정이 잘 드러난다고 적었다.
+
+2025년 연구[^5]에서 참여자들은 혼자 곱씹는 정도가 평소보다 높은 날에 다른 사람과 문제를 곱씹듯 이야기하는 일이 더 많았다고 보고했다.
+
+노년기 외로움을 다룬 2026년 6월 기사[^6]는 모임에 나올 때마다 자기 신세 한탄과 몸 아픈 데에 대한 불평, 가족 원망을 되풀이해 늘어놓으면 주변 사람들이 지친다고 썼다.
 
 # 관계
 
@@ -43,4 +47,6 @@
 [^1]: [문학] "한번 실컷 신세 타령을 하고 나면 얼마큼 몸이 가뜬하여지려니 하였다." — 이광수, 『무정』 1장\~20장, 위키문헌, 1918, https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/1%EC%9E%A5~20%EC%9E%A5, 2026-11-15 접속
 [^2]: [문학] ""흥, 고향에서 오누마." 하고 그는 휘 한숨을 쉬었다. 그러자 그의 신세타령의 실마리는 풀려 나왔다." — 현진건, 「고향」, 위키문헌, 1926, https://ko.wikisource.org/wiki/%EA%B3%A0%ED%96%A5_(%ED%98%84%EC%A7%84%EA%B1%B4), 2026-11-15 접속
 [^3]: [문학] "우두커니 동생의 얼굴을 건너다보고 앉았던 초봉이의 입에서, 그것은 누구더러 하는 말이라기보다도, 자탄에 겨운 넋두리가 흘러져 나온다." — 채만식, 『탁류』 제19장, 위키문헌, 1937, https://ko.wikisource.org/wiki/%ED%83%81%EB%A5%98/%EC%A0%9C19%EC%9E%A5, 2026-11-15 접속
-[^4]: [학술] "Furthermore, participants reported engaging in more ruminative problem discussions with others on days when their intrapersonal rumination exceeded their personal average." (또 참여자들은 혼자 하는 반추가 자기 평균을 넘은 날에 다른 사람과 반추하는 문제 이야기를 더 많이 했다고 보고했다.) — L. N. Kovács, N. Kocsel, Z. Tóth 외, "The daily relations of co-rumination and perseverative cognition", Scientific Reports, 2025-01-24, https://pmc.ncbi.nlm.nih.gov/articles/PMC11757728/, 2026-11-15 접속
+[^4]: [매체] "가쁜 숨을 몰아쉬며 잠깐 허리를 펴고 신세타령하듯 토해 내는 까닭에, 다른 민요에 비하여 사설과 가락이 자유롭고 나무꾼들의 심정을 잘 드러낸다." — 임재해, 「임재해교수가 새로본 신명과 해방의 노래 '우리민요' (2)신세타령 나무꾼들의 '어사용'」, 매일신문, 2001-01-06, https://www.imaeil.com/page/view/2001010600422407814, 2026-11-16 접속
+[^5]: [학술] "Furthermore, participants reported engaging in more ruminative problem discussions with others on days when their intrapersonal rumination exceeded their personal average." (또 참여자들은 혼자 하는 반추가 자기 평균을 넘은 날에 다른 사람과 반추하는 문제 이야기를 더 많이 했다고 보고했다.) — L. N. Kovács, N. Kocsel, Z. Tóth 외, "The daily relations of co-rumination and perseverative cognition", Scientific Reports, 2025-01-24, https://pmc.ncbi.nlm.nih.gov/articles/PMC11757728/, 2026-11-15 접속
+[^6]: [매체] "모임에 나올 때마다 자신의 신세 한탄, 신체적 통증에 대한 불평, 가족에 대한 원망을 반복적으로 늘어놓는 행동은 주변 사람들을 지치게 만든다." — 배민지, 「매일 전화하는 자식보다 낫다…노년기 외로움 지울 수 있는 현실적인 '방법'」, 위키트리, 2026-06-25, https://www.wikitree.co.kr/articles/1143236, 2026-11-16 접속
