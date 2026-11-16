@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-16T15:32:34.497Z",
-  "nextSeq": 5348,
-  "stops": 282,
+  "savedAt": "2026-11-16T18:35:08.654Z",
+  "nextSeq": 5358,
+  "stops": 283,
   "items": [
     {
       "id": "c3871ce4",
@@ -283,6 +283,46 @@
       "note": "2026-11-16 brunch.co.kr/@ihmin/857 (2026-10-18) '끼어든 차를 보고 일부러 그랬다고 짐작하는 순간 ... 갚아 주고 싶어진다' 는 블로그 계정 규칙 때문에 두 문서 모두에 못 씀. 한 문서에만 근거를 둘 수 없음. 다른 출처 필요. Dodge 2006 PMC2745254 공격 행동 결과 후보",
       "createdAt": "2026-11-16T15:25:22.180Z",
       "seq": 5345
+    },
+    {
+      "id": "bd153df5",
+      "title": "decanting-chemicals-into-drink-bottles 보강: 1990년대 이전 파편, SNS 파편, 옮겨 담는 이유",
+      "priority": 50,
+      "note": "2026-11-16 MMWR 00000698 1986 은 약을 컵이나 청량음료병에 담지 말라는 대목뿐(curl UA 로 열림). 인사이트 113369 모텔 직원이 생수병에 락스를 덜어 둔 사례는 발행일 메타가 어긋남. 코메디닷컴 1201664 2011 소비자원 락스 오음 대목 후보",
+      "createdAt": "2026-11-16T18:12:18.916Z",
+      "seq": 5353
+    },
+    {
+      "id": "cd572cae",
+      "title": "not-ventilating-in-winter 보강: SNS 파편, energy-limiting-behavior 관계",
+      "priority": 50,
+      "note": "2026-11-16 Mumsnet 896453, 4452641 은 Cloudflare 봇 확인. Grist 2016-12-15 독자 편지 'My husband goes ballistic and states that our bill will soar.' 는 창문 열기를 두고 부부가 부딪는 장면. STV 2022-12-13 Opinium 92% 창문 닫아 둘 계획. 삼성 뉴스룸 2016-12-28 미세먼지 때문에 환기 망설임",
+      "createdAt": "2026-11-16T18:20:13.902Z",
+      "seq": 5354
+    },
+    {
+      "id": "7d4efe82",
+      "title": "resenting-late-mergers 와 confronting-line-cutters, road-rage 관계",
+      "priority": 50,
+      "note": "2026-11-16 UK Parliament petition 105931(2016) 'drivers in flowing lanes will not permit drivers in closing lanes to merge', 'object of road rage' 대목. TxDOT San Antonio blogspot 2016-10-11 'get irritated at those who use the lane'. MnDOT zippermerge 'Minnesota nice' 대목, 발행일 미상",
+      "createdAt": "2026-11-16T18:27:09.314Z",
+      "seq": 5355
+    },
+    {
+      "id": "3f7dd233",
+      "title": "not-ventilating-in-winter 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-16 Gutenberg 전체 503 점검이라 확인 못 함. 후보 New Grub Street 1709, The Odd Women 4313, Poor Folk 2302 를 window shut stuffy coal 로 grep. 위키문헌 날개, 빈처, 운수 좋은 날, 화수분 등에는 장면 없음. 牧野信一「悪筆」 部屋を閉めきつて 대목은 이유가 건조라 맞지 않음",
+      "createdAt": "2026-11-16T18:29:51.889Z",
+      "seq": 5356
+    },
+    {
+      "id": "29d0e94c",
+      "title": "not-wearing-glasses 보강: 외모 이유 파편, 성인 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-16 김창식 2001 초록에 '45.8% answerer is uncomfortable appearance' 대목. Michigan Medicine 청소년 외모 장벽, opticianonline ABDO 조사(성인 13% 창피), PubMed 16505025 멕시코 2006 은 봇 확인 페이지. avoiding-aids-that-look-old 와 관계 볼 것",
+      "createdAt": "2026-11-16T18:33:45.770Z",
+      "seq": 5357
     },
     {
       "id": "155ac9fc",
