@@ -105,6 +105,7 @@
 - [폭염에 취약하지 않다고 여기기](../docs/not-seeing-oneself-as-heat-vulnerable.md) 나이 든 사람이 폭염이 와도 자신은 더위에 취약하지 않다고 여긴다.
 - [폭풍 때 파도 구경하기](../docs/storm-wave-watching.md) 태풍이나 폭풍이 올 때 사람들이 높은 파도를 보고 찍으려고 바닷가 물가까지 나간다.
 - [해 진 뒤 하산하기](../docs/descending-after-dark.md) 산에 오른 사람이 해 지는 시각 안에 산행을 끝내지 못하고 어두워진 산에서 내려오거나 갇힌다.
+- [해장술](../docs/morning-drink-for-hangover.md) 전날 술을 마신 사람이 숙취를 덜려고 다음 날 아침이나 술이 깨기 전에 다시 술을 마신다.
 - [헌혈 꺼림](../docs/avoiding-blood-donation.md) 헌혈할 수 있는 나이의 사람이 헌혈을 무서워하거나 꺼려 헌혈하지 않는다.
   - [헌혈 뒤 다시 오지 않기](../docs/not-returning-to-donate-blood.md)
 - [화상에 집안 물건 바르기](../docs/applying-household-remedies-to-burns.md) 화상을 입은 사람이나 그 가족이 상처에 치약, 버터, 된장, 소주 같은 집안 물건을 바른다.
