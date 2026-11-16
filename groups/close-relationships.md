@@ -130,3 +130,4 @@
 - [할 말을 몰라 아픈 사람과 유족 피하기](../docs/avoiding-the-grieving-and-ill.md) 중병에 걸린 사람이나 가족을 잃은 사람의 주변 사람이 무슨 말을 할지 몰라 그 사람을 찾아가거나 연락하기를 피한다.
 - [헤어진 연인에게 연락하기](../docs/contacting-an-ex.md) 연인과 헤어진 사람이 헤어진 상대에게 먼저 문자나 전화로 연락한다.
 - [헤어진 연인의 물건 없애기](../docs/discarding-an-exs-belongings.md) 연인과 헤어진 사람이 상대에게 받은 편지, 사진, 선물을 태우거나 버린다.
+- [헤어진 연인의 SNS 들여다보기](../docs/checking-an-exs-social-media.md) 연인과 헤어진 사람이 헤어진 상대의 SNS 에 찾아 들어가 근황을 살펴본다.

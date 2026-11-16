@@ -845,6 +845,7 @@
 - [헤어진 연인에게 연락하기](docs/contacting-an-ex.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [헤어진 연인의 물건 간직하기](docs/keeping-an-exs-belongings.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [헤어진 연인의 물건 없애기](docs/discarding-an-exs-belongings.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [헤어진 연인의 SNS 들여다보기](docs/checking-an-exs-social-media.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [헬스장 등록하고 안 가기](docs/gym-membership-nonuse.md) ([돈과 소비](groups/money.md))
 - [형편을 넘는 손님 대접](docs/hosting-beyond-means.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [호기심](docs/curiosity.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
