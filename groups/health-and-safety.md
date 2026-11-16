@@ -60,6 +60,7 @@
 - [술 마신 뒤 물놀이](../docs/swimming-after-drinking.md) 술을 마신 사람이 바다, 강, 계곡, 호수에 들어가 헤엄치거나 물놀이를 한다.
 - [심폐소생술 망설이기](../docs/hesitating-to-perform-cpr.md) 누군가 심정지로 쓰러진 자리에 있던 일반인이 두려움이나 걱정 때문에 심폐소생술을 하지 않거나 늦게 시작한다.
 - [쓰지 않는 약을 쓰레기통과 변기에 버리기](../docs/improper-medicine-disposal.md) 쓰지 않거나 유효기한이 지난 약을 가진 사람이 그 약을 수거함에 내지 않고 생활 쓰레기, 변기, 하수구에 버린다.
+- [안경을 쓰지 않고 지내기](../docs/not-wearing-glasses.md) 안경이 필요한 사람이 불편함이나 놀림을 이유로 안경을 쓰지 않고 지낸다.
 - [안전 장비 미착용](../docs/safety-gear-nonuse.md) 다칠 위험이 있는 자리에 있는 사람이 위험을 줄이는 보호 장비를 쓸 수 있는데도 착용하지 않는다.
   - [구명조끼 미착용](../docs/life-jacket-nonuse.md)
   - [안전띠 미착용](../docs/seat-belt-nonuse.md)
