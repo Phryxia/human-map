@@ -5192,8 +5192,8 @@
   },
   "https://www.gutenberg.org/cache/epub/76/pg76-images.html": {
     "first": "2026-10-20",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-16",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://journals.lib.uth.gr/index.php/inquiries/article/view/1391": {
@@ -20051,33 +20051,33 @@
   },
   "https://www.gutenberg.org/cache/epub/2992/pg2992-images.html": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
-    "result": "VERIFIED",
+    "last": "2026-11-16",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-06"
   },
   "https://sports.khan.co.kr/article/200707102135403": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-16"
   },
   "https://news.cornell.edu/node/284532": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-16"
   },
   "https://www.iza.org/publications/dp/12282": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-16"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255207": {
     "first": "2026-11-05",
-    "last": "2026-11-15",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-16"
   },
   "https://vuir.vu.edu.au/1987/": {
     "first": "2026-11-05",
@@ -20570,9 +20570,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26174782&rettype=abstract&retmode=text": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-16"
   },
   "https://www.sciencedaily.com/releases/2015/07/150720092303.htm": {
     "first": "2026-11-06",
@@ -20582,9 +20582,9 @@
   },
   "https://news.ycombinator.com/item?id=6345382": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-16"
   },
   "https://news.ycombinator.com/item?id=30977240": {
     "first": "2026-11-06",
@@ -28916,15 +28916,15 @@
   },
   "https://ko.wikisource.org/wiki/양초_귀신": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-16"
   },
   "https://ko.wikisource.org/wiki/어머니와_딸_(나혜석)": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-16",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-16"
   },
   "https://ko.wikisource.org/wiki/청춘극장/1권/49장": {
     "first": "2026-11-15",
