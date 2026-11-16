@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-16T06:33:24.642Z",
-  "nextSeq": 5314,
-  "stops": 279,
+  "savedAt": "2026-11-16T09:24:19.165Z",
+  "nextSeq": 5320,
+  "stops": 280,
   "items": [
-    {
-      "id": "37ac73fe",
-      "title": "blame-contagion 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-11-16 HN 16005007 2017 SNS 파편 추가함. gov.uk DHSC 2022-06-08 leadership review 'blame cultures and responsibility avoidance has almost become normalised' 는 퍼짐만 있고 전염 방향 없음. HN 18130354 'once senior leadership gets involved, the finger pointing gets exacerbated' 후보",
-      "createdAt": "2026-11-16T03:21:46.012Z",
-      "seq": 5278
-    },
-    {
-      "id": "47ad2e6c",
-      "title": "talking-back 보강: 원인 간선, 말대꾸 참기",
-      "priority": 50,
-      "note": "2026-11-16 명절 잔소리 대처 기사들(GQ ?p=401046 등)은 조언글이고 laughing-off-holiday-nagging 와의 대립 근거 아님. 서울신문 2006-08-09 20060809029018 '부모보다 체격이 커져 부모에 대한 위압감이 줄어든 것도 이유' 는 반항 대목. 이무영 「사위」 '말대꾸 한마디 않고' 는 참는 쪽. 나도향 「어머니」 말대꾸 대목은 발행일 미상",
-      "createdAt": "2026-11-16T03:22:27.628Z",
-      "seq": 5279
-    },
     {
       "id": "5b744231",
       "title": "taking-bags-during-evacuation 보강: 원인 간선과 1990년대 공공 파편",
@@ -243,6 +227,22 @@
       "note": "USDA ERS Amber Waves 2008 같은 페이지 20대 62%→52% 대목과 저자 추측 'limited shopping time'. FSAI 2009 기사 'larger text size' 대목. HN 38176912 2023 은 남에 대한 짐작. 질병관리청 국민건강영양조사와 식약처 자료는 PDF 뿐",
       "createdAt": "2026-11-16T06:33:07.718Z",
       "seq": 5313
+    },
+    {
+      "id": "9e0dfac6",
+      "title": "blame-contagion 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-11-16 gov.uk 검색 API 약 150건, gov.scot 41건, PSNet 에서 전염·하향 방향 공공 대목 없음. Bedford 검사 보고서 2026-10-15 3.26항은 지도층 상호 남 탓만. 남은 후보: committees.parliament.uk, 호주 왕립위원회 HTML, 국회입법조사처. 이전: HN 18130354 후보",
+      "createdAt": "2026-11-16T09:21:55.373Z",
+      "seq": 5317
+    },
+    {
+      "id": "706778f1",
+      "title": "talking-back 보강: 원인 간선, 잔소리",
+      "priority": 50,
+      "note": "2026-11-16 오마이뉴스 2022-05-19 daum E858QblKXa '잔소리를 듣다 듣다 자신을 방어하려고 말했는데 말대꾸란다' 는 잔소리 문서가 생기면 원인 근거. 잔소리 문서 없음. 매일신문 2013062714310080331 잔소리에 딸 공격적 반응 후보. 이전 note: 서울신문 2006-08-09 위압감 대목, 이무영 「사위」",
+      "createdAt": "2026-11-16T09:23:28.178Z",
+      "seq": 5318
     },
     {
       "id": "f86fcff9",
@@ -3131,6 +3131,14 @@
       "note": "Canada Budget 2012 theme2-info-eng 'refuse them as change', 'throw them away in water fountains'. keeping-loose-change-in-jars 와 같은 출처",
       "createdAt": "2026-11-16T06:12:30.497Z",
       "seq": 5310
+    },
+    {
+      "id": "66876182",
+      "title": "부모의 잔소리",
+      "priority": 10,
+      "note": "talking-back 원인 후보. 뉴스토마토 2015 554490 청소년 스트레스 원인 부모 잔소리, 오마이뉴스 2022 daum E858QblKXa",
+      "createdAt": "2026-11-16T09:23:28.298Z",
+      "seq": 5319
     },
     {
       "id": "02b2f242",
