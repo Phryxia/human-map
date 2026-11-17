@@ -12,9 +12,11 @@
 
 2015년 글[^2]에서 저자는 많은 부모가 체벌한 것을 후회한다고 썼다.
 
-2017년 12월 상담 기사에 실린 부모의 사연은 분이 풀릴 때까지 아이를 때리고 나면 너무 후회가 되어 일주일쯤은 안간힘을 써서 참는다고 적었다.[^3]
+2016년 12월 Hacker News 댓글의 글쓴이는 자기가 한 매질이 효과가 거의 없었고 아이들의 행동보다 스트레스 속에서 자신을 다스리지 못한 것을 드러낸다고 적었다.[^3]
 
-2025년 1월 질적 연구[^4]에서 부모 대다수는 체벌한 뒤 강한 죄책감과 후회를 느꼈다고 말했다.
+2017년 12월 상담 기사에 실린 부모의 사연은 분이 풀릴 때까지 아이를 때리고 나면 너무 후회가 되어 일주일쯤은 안간힘을 써서 참는다고 적었다.[^4]
+
+2025년 1월 질적 연구[^5]에서 부모 대다수는 체벌한 뒤 강한 죄책감과 후회를 느꼈다고 말했다.
 
 # 관계
 
@@ -42,5 +44,6 @@
 
 [^1]: [문학] "뒷생각은 못하고 뺨 한 개를 딱 때려놓고는 장인님은 무색해서 덤덤히 쓴 침만 삼킨다. 난 그속을 퍽 잘 안다." — 김유정, 「봄봄」, 1935, https://ko.wikisource.org/wiki/%EB%B4%84%EB%B4%84, 2026-11-17 접속
 [^2]: [매체] "We also know that many parents regret using corporal punishment." (많은 부모가 체벌한 것을 후회한다는 것도 우리는 안다.) — Jennifer E. Lansford, "'I Slapped My Kid': Why Hitting a Child Causes Damage", Child & Family Blog, 2015-01-12, https://childandfamilyblog.com/?p=935, 2026-11-17 접속
-[^3]: [매체] "애를 이불 위에 넘어뜨리고 엉덩이나 발바닥을 사정 없이 때려요. 제 분이 풀릴 때까지요. 그러고 나면 너무 후회가 돼 일주일 정도는 안간힘을 써서 참습니다." — 오은영, "맞고 자란 기억 끔찍한데, 내가 37개월 딸을 때리고 있네요", 한국일보, 2017-12-11, https://v.daum.net/v/20171211040207787, 2026-11-17 접속
-[^4]: [학술] "A majority of parents described intense feelings of guilt and regret after administering physical punishment." (부모 대다수가 체벌한 뒤 강한 죄책감과 후회를 느꼈다고 말했다.) — Clarissa Choo, Hoi Shan Cheung, Elinor Lim, Kelly M. Y. Chan, Charlene S. L. Fu, "The Pain is on All of Us: A Qualitative Study of Parents' Experiences Using Physical Punishment on Children", Journal of Child and Family Studies 34, 2025-01-27, https://link.springer.com/article/10.1007/s10826-025-03014-1, 2026-11-17 접속
+[^3]: [SNS] "Those spankings yielded almost zero result and reflects more on my inability to maintain control of myself under the stress they put me under than their behaviour." (그 매질은 거의 아무 효과가 없었고 아이들의 행동보다 그들이 주는 스트레스 속에서 나 자신을 다스리지 못한 내 무능을 더 드러낸다.) — Hacker News 댓글, 2016-12-05, https://news.ycombinator.com/item?id=13105959, 2026-11-17 접속
+[^4]: [매체] "애를 이불 위에 넘어뜨리고 엉덩이나 발바닥을 사정 없이 때려요. 제 분이 풀릴 때까지요. 그러고 나면 너무 후회가 돼 일주일 정도는 안간힘을 써서 참습니다." — 오은영, "맞고 자란 기억 끔찍한데, 내가 37개월 딸을 때리고 있네요", 한국일보, 2017-12-11, https://v.daum.net/v/20171211040207787, 2026-11-17 접속
+[^5]: [학술] "A majority of parents described intense feelings of guilt and regret after administering physical punishment." (부모 대다수가 체벌한 뒤 강한 죄책감과 후회를 느꼈다고 말했다.) — Clarissa Choo, Hoi Shan Cheung, Elinor Lim, Kelly M. Y. Chan, Charlene S. L. Fu, "The Pain is on All of Us: A Qualitative Study of Parents' Experiences Using Physical Punishment on Children", Journal of Child and Family Studies 34, 2025-01-27, https://link.springer.com/article/10.1007/s10826-025-03014-1, 2026-11-17 접속
