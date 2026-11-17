@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-없음.
+- 2026-11-17T09:04Z | 2026-11-17T09:15Z | pressing-food-on-others 와 ritual-refusal 원인 간선 | pressing-food-on-others ritual-refusal
