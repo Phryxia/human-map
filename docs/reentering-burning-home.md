@@ -12,7 +12,9 @@
 
 2018년 기사[^2]는 해마다 무언가를 가지러 불붙은 집으로 다시 뛰어들었다가 숨지는 사람이 몇 명씩 있다고 적었다. 2021년 화상 사례 연구[^3]의 저자들은 성인 환자가 소지품을 구하거나 불을 끄려고 건물이나 집에 다시 들어갔다는 이야기가 자주 나온다고 썼다.
 
-2025년 영국 소방 당국의 안내[^4]는 불을 직접 끄려 하거나 귀중품을 가지러 돌아가지 말라고 적었다.
+2022년 영국 내무부의 화재 사상자 심층 검토[^4]가 살핀 주택 화재 조사 보고서에서 탈출 행동이 기록되고 무언가 행동을 한 피해자 40명 가운데 9명은 건물이나 불이 난 방에 다시 들어가거나 불을 끄려 했고 3명은 다른 사람이나 물건을 찾느라 탈출이 늦었다.
+
+2025년 영국 소방 당국의 안내[^5]는 불을 직접 끄려 하거나 귀중품을 가지러 돌아가지 말라고 적었다.
 
 # 관계
 
@@ -41,4 +43,5 @@
 [^1]: [매체] "Fifty-seven per cent had returned inside either to fight the fire (47 per cent), retrieve possessions (7 per cent) or save someone (3 per cent)." (57%는 불을 끄려고(47%), 물건을 챙기려고(7%), 누군가를 구하려고(3%) 다시 안으로 들어갔다.) — Alanah May Eriksen, "Get out and stay out - fire figures reveal risks", NZ Herald, 2010-04-15, https://nzherald.co.nz/nz/get-out-and-stay-out-fire-figures-reveal-risks/CBFXONN7YS3XFBJ72SKRDZM3EE, 2026-11-17 접속
 [^2]: [매체] "Unfortunately, there are a few would-be survivors every year who perish because they ran back into a burning home to retrieve something." (안타깝게도 해마다 살아남을 수 있었던 몇 사람이 무언가를 가지러 불타는 집으로 다시 뛰어들었다가 숨진다.) — Staff Report, "Don't run back into a burning house", Picayune Item, 2018-02-10, https://picayuneitem.com/?p=97244, 2026-11-17 접속
 [^3]: [학술] "It is frequently reported that the adult patients would re-enter the building or residence to rescue belongings in an attempt to extinguish the fire." (성인 환자가 소지품을 구하거나 불을 끄려고 건물이나 집에 다시 들어갔다는 보고가 자주 나온다.) — M. K. H. Hsieh 외, "Electric Scooter Battery Detonation: A Case Series And Review Of Literature", Annals of Burns and Fire Disasters, 2021-09-30, https://pmc.ncbi.nlm.nih.gov/articles/PMC8534310/, 2026-11-17 접속
-[^4]: [공공] "Do not attempt to tackle the fire yourself or return for valuables." (불을 직접 끄려 하거나 귀중품을 가지러 돌아가지 말라.) — Staffordshire Fire & Rescue Service, "Reminder to Get Out, Stay Out following bungalow fire", 2025-12-08, https://www.staffordshirefire.gov.uk/news/posts/reminder-to-get-out-stay-out-following-bungalow-fire, 2026-11-17 접속
+[^4]: [공공] "A few re-entered the building or room of origin or attempted to tackle the fire (9)." (몇몇은 건물이나 불이 시작된 방에 다시 들어가거나 불을 끄려 했다(9명).) — Home Office, 「An in-depth review of fire-related fatalities and severe casualties in England, 2010/11 to 2018/19」, GOV.UK, 2022-11-24, https://www.gov.uk/government/publications/an-in-depth-review-of-fire-related-fatalities-and-severe-casualties-in-england-2010-to-201819/an-in-depth-review-of-fire-related-fatalities-and-severe-casualties-in-england-201011-to-201819, 2026-11-17 접속
+[^5]: [공공] "Do not attempt to tackle the fire yourself or return for valuables." (불을 직접 끄려 하거나 귀중품을 가지러 돌아가지 말라.) — Staffordshire Fire & Rescue Service, "Reminder to Get Out, Stay Out following bungalow fire", 2025-12-08, https://www.staffordshirefire.gov.uk/news/posts/reminder-to-get-out-stay-out-following-bungalow-fire, 2026-11-17 접속
