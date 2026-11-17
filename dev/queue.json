@@ -1,121 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-17T06:33:23.042Z",
-  "nextSeq": 5425,
-  "stops": 287,
+  "savedAt": "2026-11-17T09:35:58.976Z",
+  "nextSeq": 5447,
+  "stops": 288,
   "items": [
-    {
-      "id": "9e0dfac6",
-      "title": "blame-contagion 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-11-16 gov.uk 검색 API 약 150건, gov.scot 41건, PSNet 에서 전염·하향 방향 공공 대목 없음. Bedford 검사 보고서 2026-10-15 3.26항은 지도층 상호 남 탓만. 남은 후보: committees.parliament.uk, 호주 왕립위원회 HTML, 국회입법조사처. 이전: HN 18130354 후보",
-      "createdAt": "2026-11-16T09:21:55.373Z",
-      "seq": 5317
-    },
-    {
-      "id": "706778f1",
-      "title": "talking-back 보강: 원인 간선, 잔소리",
-      "priority": 50,
-      "note": "2026-11-16 오마이뉴스 2022-05-19 daum E858QblKXa '잔소리를 듣다 듣다 자신을 방어하려고 말했는데 말대꾸란다' 는 잔소리 문서가 생기면 원인 근거. 잔소리 문서 없음. 매일신문 2013062714310080331 잔소리에 딸 공격적 반응 후보. 이전 note: 서울신문 2006-08-09 위압감 대목, 이무영 「사위」",
-      "createdAt": "2026-11-16T09:23:28.178Z",
-      "seq": 5318
-    },
-    {
-      "id": "4686c315",
-      "title": "pressing-food-on-others 와 ritual-refusal 관계",
-      "priority": 50,
-      "note": "ritual-refusal 의 1935 망부석 파편이 사양 뒤 다시 권하는 장면. 권유와 사양이 서로 부르는 인과 대목 찾기. Chen & Hu 2020 End-of-Dinner Food Offering(Brill) 은 403",
-      "createdAt": "2026-11-16T12:12:05.417Z",
-      "seq": 5324
-    },
-    {
-      "id": "0dae3e98",
-      "title": "passing-on-rumors 보강: 매체·SNS 파편, gossip 관계",
-      "priority": 50,
-      "note": "Silas Marner pg550 귀고리 소문 대목, Frontiers fpsyg.2022.830002 'due to herd mentality' 원인 대목, Cranford 는 이미 4문서",
-      "createdAt": "2026-11-16T12:17:14.458Z",
-      "seq": 5325
-    },
-    {
-      "id": "4ce9f8ce",
-      "title": "drunken-confession 보강: 술 깬 뒤 부인하거나 후회, 원인 간선",
-      "priority": 50,
-      "note": "SD 284135 'I say weird things when I’m drunk' 블랙아웃 주장, livescience 2024-09-02 'blurt out something they don't really mean and will regret', PMC4153408 Fairbairn 2014 조건 대목(협력 상황에서만). 술 권하는 사회는 이미 4문서",
-      "createdAt": "2026-11-16T12:22:35.569Z",
-      "seq": 5326
-    },
-    {
-      "id": "760f7d92",
-      "title": "buying-in-installments 와 buying-on-credit-at-local-shops 관계, 공공 파편",
-      "priority": 50,
-      "note": "The Jungle pg140 할부 광고 대목(이미 1문서 사용), CFPB BNPL 보고서 HTML 은 인용문 못 뽑음, Which? BNPL policy paper 미열람",
-      "createdAt": "2026-11-16T12:39:19.892Z",
-      "seq": 5327
-    },
-    {
-      "id": "8930e8c4",
-      "title": "taking-bags-during-evacuation 보강: 1990년대 공공 파편",
-      "priority": 50,
-      "note": "2026-11-16 Scroll.in 2016-08-06 낙관 편향 원인 간선 그음. NTSB SS-00/01 은 PDF. insideflyer IATA 2026 39% 후보",
-      "createdAt": "2026-11-16T15:09:39.898Z",
-      "seq": 5338
-    },
-    {
-      "id": "31f22bf4",
-      "title": "picky-eating 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-11-16 Lam 2015 일시적 행동 파편 추가함. 원인 후보 문서 없음. 부모 강요 쪽은 clean-plate-pressure 와 결이 다름. kormedi 1210592 모방 대목",
-      "createdAt": "2026-11-16T15:10:41.090Z",
-      "seq": 5339
-    },
-    {
-      "id": "a5625632",
-      "title": "nitpicking 보강: 원인 간선, 2000년대 이전 비문학 파편",
-      "priority": 50,
-      "note": "김동인 「잡초」 위키문헌 '트집을 잡을 만한 일이 없으면 트집을 만들어 내었다'(발행일 미상), 김동인 「딸의 업을 이으려」 누명 트집 대목. PMC8474672 갈등 중 criticizing each other 와 코르티솔",
-      "createdAt": "2026-11-16T15:16:58.221Z",
-      "seq": 5343
-    },
-    {
-      "id": "bd153df5",
-      "title": "decanting-chemicals-into-drink-bottles 보강: 1990년대 이전 파편, SNS 파편, 옮겨 담는 이유",
-      "priority": 50,
-      "note": "2026-11-16 MMWR 00000698 1986 은 약을 컵이나 청량음료병에 담지 말라는 대목뿐(curl UA 로 열림). 인사이트 113369 모텔 직원이 생수병에 락스를 덜어 둔 사례는 발행일 메타가 어긋남. 코메디닷컴 1201664 2011 소비자원 락스 오음 대목 후보",
-      "createdAt": "2026-11-16T18:12:18.916Z",
-      "seq": 5353
-    },
-    {
-      "id": "cd572cae",
-      "title": "not-ventilating-in-winter 보강: SNS 파편, energy-limiting-behavior 관계",
-      "priority": 50,
-      "note": "2026-11-16 Mumsnet 896453, 4452641 은 Cloudflare 봇 확인. Grist 2016-12-15 독자 편지 'My husband goes ballistic and states that our bill will soar.' 는 창문 열기를 두고 부부가 부딪는 장면. STV 2022-12-13 Opinium 92% 창문 닫아 둘 계획. 삼성 뉴스룸 2016-12-28 미세먼지 때문에 환기 망설임",
-      "createdAt": "2026-11-16T18:20:13.902Z",
-      "seq": 5354
-    },
-    {
-      "id": "7d4efe82",
-      "title": "resenting-late-mergers 와 confronting-line-cutters, road-rage 관계",
-      "priority": 50,
-      "note": "2026-11-16 UK Parliament petition 105931(2016) 'drivers in flowing lanes will not permit drivers in closing lanes to merge', 'object of road rage' 대목. TxDOT San Antonio blogspot 2016-10-11 'get irritated at those who use the lane'. MnDOT zippermerge 'Minnesota nice' 대목, 발행일 미상",
-      "createdAt": "2026-11-16T18:27:09.314Z",
-      "seq": 5355
-    },
-    {
-      "id": "3f7dd233",
-      "title": "not-ventilating-in-winter 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-16 Gutenberg 전체 503 점검이라 확인 못 함. 후보 New Grub Street 1709, The Odd Women 4313, Poor Folk 2302 를 window shut stuffy coal 로 grep. 위키문헌 날개, 빈처, 운수 좋은 날, 화수분 등에는 장면 없음. 牧野信一「悪筆」 部屋を閉めきつて 대목은 이유가 건조라 맞지 않음",
-      "createdAt": "2026-11-16T18:29:51.889Z",
-      "seq": 5356
-    },
-    {
-      "id": "9fb7a62c",
-      "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
-      "priority": 50,
-      "note": "2026-11-16 매일신문 2001-01-06, 위키트리 1143236 2026 매체 파편 추가함. 대립 근거 못 찾음. Daily Princetonian 2015-03 on-complaining 'Forcing ourselves to disguise and conceal our problems does not make them disappear' 는 약한 후보",
-      "createdAt": "2026-11-16T21:05:22.041Z",
-      "seq": 5371
-    },
     {
       "id": "10a7a95b",
       "title": "precautionary-saving 보강: tightwad-spending 관계",
@@ -251,6 +139,86 @@
       "note": "2026-11-17 USFA Topical Report 재진입 항목은 PDF, fireandemergency.nz 는 Incapsula 차단. NZ Herald 2010-06-15 5IQQQHX55CSCVCDZOW3BK46U2Y 다치거나 숨진 사람 절반 넘게 재진입 추정 대목 후보. Lancashire FRS 'If you have a fire' 동기 대목",
       "createdAt": "2026-11-17T06:26:31.700Z",
       "seq": 5424
+    },
+    {
+      "id": "e0a7469e",
+      "title": "nagging 과 laughing-off-holiday-nagging 관계",
+      "priority": 50,
+      "note": "2026-11-17 명절 잔소리를 웃어넘기는 쪽이 잔소리의 결과라는 인과 대목 찾기. 한국일보 1998-04-28 IMF시대 싫은말 부부설문 미열람. Boxer 2002 Journal of Pragmatics 초록은 봇 확인과 403",
+      "createdAt": "2026-11-17T09:14:00.739Z",
+      "seq": 5437
+    },
+    {
+      "id": "eb8dcf8e",
+      "title": "passing-on-rumors 보강: SNS 파편, gossip 관계",
+      "priority": 50,
+      "note": "2026-11-17 세계일보 2014 지라시 파편 추가함. WebMD health-rumors-gossip 'Gossip is when you take rumors -- those unconfirmed pieces of information -- and pass them along' 는 포함 관계 후보(발행일 미상). livescience 912 2006 소문 정의. 주간경향 201703281700291 받은 글 퍼온 글 대목. SNS 후보 못 찾음",
+      "createdAt": "2026-11-17T09:19:24.629Z",
+      "seq": 5438
+    },
+    {
+      "id": "206b6561",
+      "title": "drunken-confession 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-11-17 후회 파편 추가함. heavy-drinking 이 원인이 되려면 많이 마신 뒤 털어놓는다는 인과 대목 필요. PMC4153408 Fairbairn 2014 조건 대목(협력 상황에서만). 링커리어 jayuu/6091658 2026-06-13 다음 날 기억 안 난다며 부인하는 게시글 후보",
+      "createdAt": "2026-11-17T09:21:31.233Z",
+      "seq": 5439
+    },
+    {
+      "id": "d1f25584",
+      "title": "buying-in-installments 와 buying-on-credit-at-local-shops 관계",
+      "priority": 50,
+      "note": "2026-11-17 CFPB 2023 공공 파편 추가함. 두 문서의 공통 상위(나중에 갚기로 하고 사기) 후보. 연준 SHED 2025 credit 절 'only way to afford the purchase' 이유 대목, CFPB 2023 낮은 신용점수 때문에 무이자 BNPL 을 찾는다는 원인 대목",
+      "createdAt": "2026-11-17T09:23:06.335Z",
+      "seq": 5440
+    },
+    {
+      "id": "6948027f",
+      "title": "nitpicking 보강: 원인 간선",
+      "priority": 50,
+      "note": "2026-11-17 Spokesman 1996 Ann Landers 파편 추가함. 싫은 상대라 흠을 잡는다는 원인 대목 못 찾음. 서울신문 1990-10-26 19901026003003 트집 칼럼, Spokesman 1997-05-12 immaturity-adds-to-marital-problems 보복성 비판 대목, PMC8474672 갈등 중 criticizing each other",
+      "createdAt": "2026-11-17T09:31:26.327Z",
+      "seq": 5441
+    },
+    {
+      "id": "66316f67",
+      "title": "decanting-chemicals-into-drink-bottles 보강: 1990년대 이전 파편, SNS 파편, 옮겨 담는 이유",
+      "priority": 50,
+      "note": "2026-11-17 MMWR 00055332 1998 은 연료를 램프로 옮겨 담는 대목이라 음료병 아님. 00051666 은 음료 오염. extoxnet n92_89, n151_95 대목 없음. 남은 후보: 서울신문 199x 아카이브 음료수병 농약, MMWR 1980~90년대 Paraquat·lye 색인. 이전: 코메디닷컴 1201664 2011 소비자원 락스 오음 대목",
+      "createdAt": "2026-11-17T09:33:12.077Z",
+      "seq": 5442
+    },
+    {
+      "id": "43e6d313",
+      "title": "not-ventilating-in-winter 보강: SNS 파편, energy-limiting-behavior 관계",
+      "priority": 50,
+      "note": "2026-11-17 Grist 2016-12-15 독자 편지 파편 추가함. Mumsnet 은 Cloudflare 봇 확인. SNS 후보: boards.straightdope.com 679334 page=4 창문 여는 사람 불평 스레드, ask.metafilter 250243 Fresh air in the winter. 삼성 뉴스룸 2016-12-28 미세먼지 환기 망설임",
+      "createdAt": "2026-11-17T09:34:11.808Z",
+      "seq": 5443
+    },
+    {
+      "id": "f722eee8",
+      "title": "resenting-late-mergers 와 confronting-line-cutters 관계",
+      "priority": 50,
+      "note": "2026-11-17 road-rage 결과 간선 그음. confronting-line-cutters 와는 새치기로 여기는 마음이 항의로 이어진다는 인과 대목 필요. MnDOT zippermerge 'Minnesota nice' 대목(발행일 미상)",
+      "createdAt": "2026-11-17T09:35:44.199Z",
+      "seq": 5444
+    },
+    {
+      "id": "f026a4d2",
+      "title": "not-ventilating-in-winter 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-17 Gutenberg 여전히 호스트 전체 503. 후보 New Grub Street 1709, The Odd Women 4313, Poor Folk 2302 를 window shut stuffy coal 로 grep. 위키문헌 날개, 빈처, 운수 좋은 날, 화수분 등에는 장면 없음",
+      "createdAt": "2026-11-17T09:35:49.969Z",
+      "seq": 5445
+    },
+    {
+      "id": "a2fcd388",
+      "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
+      "priority": 50,
+      "note": "2026-11-16 매일신문 2001-01-06, 위키트리 1143236 2026 매체 파편 추가함. 대립 근거 못 찾음. Daily Princetonian 2015-03 on-complaining 'Forcing ourselves to disguise and conceal our problems does not make them disappear' 는 약한 후보",
+      "createdAt": "2026-11-17T09:35:56.172Z",
+      "seq": 5446
     },
     {
       "id": "155ac9fc",
@@ -1595,6 +1563,14 @@
       "note": "2026-11-17 웹 검색에서 2000년대 한국어 기사 못 찾음. dailian 1311340 은 이미 씀. 이전: gqkorea ?p=398896 (2026-09-05), PMC3683617 Orgaz 2013 도박 문제, 하위 후보 buying-lottery-tickets, gamblers-fallacy",
       "createdAt": "2026-11-17T03:16:23.202Z",
       "seq": 5414
+    },
+    {
+      "id": "3f92f439",
+      "title": "blame-contagion 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-17 문서는 최소 조건 충족, 공공 출처 탐색이 여러 회차 실패해 priority 낮춤. 2026-11-16 gov.uk 검색 API 약 150건, gov.scot 41건, PSNet 에서 전염·하향 방향 공공 대목 없음. 남은 후보: committees.parliament.uk, 호주 왕립위원회 HTML, 국회입법조사처",
+      "createdAt": "2026-11-17T09:05:25.784Z",
+      "seq": 5436
     },
     {
       "id": "9634edf0",
