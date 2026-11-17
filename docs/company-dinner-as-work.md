@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [회식 참석 부담](company-dinner-pressure.md)[^2]
 
 ## 대립
 
