@@ -51,6 +51,7 @@
 - [반려견 목줄 풀어 두기](../docs/walking-dog-off-leash.md) 반려견과 산책하는 사람이 개에게 운동이 필요하다고 여기거나 자기 개가 순하다고 여기거나 지키기 귀찮아서 목줄을 풀어 두거나 채우지 않는다.
 - [발이 저려 절룩이기](../docs/foot-falling-asleep.md) 한 자세로 오래 앉아 있던 사람이 발이나 다리가 저려 감각이 둔해지고 일어선 뒤 한동안 절룩이며 걷는다.
 - [보청기 쓰지 않기](../docs/not-wearing-hearing-aids.md) 청력이 떨어진 사람이 보청기가 도움이 될 만한데도 보청기를 쓰지 않는다.
+- [불난 집에 다시 들어가기](../docs/reentering-burning-home.md) 불난 집에서 빠져나온 사람이 불을 끄거나 물건을 챙기거나 사람을 구하려고 다시 안으로 들어간다.
 - [불이 나면 직접 끄려 하기](../docs/fighting-fire-oneself.md) 집이나 일터에서 불이 난 것을 본 사람이 신고나 대피보다 먼저 스스로 불을 끄려 한다.
   - [기름 불에 물 붓기](../docs/pouring-water-on-oil-fire.md)
 - [비상 탈출 때 짐 챙기기](../docs/taking-bags-during-evacuation.md) 항공기에서 비상 탈출하는 승객이 승무원의 지시에도 기내 가방과 소지품을 챙겨 나가려 한다.
