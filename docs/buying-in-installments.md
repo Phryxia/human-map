@@ -20,7 +20,7 @@
 
 ## 상위
 
-없음.
+- [나중에 갚기로 하고 사기](buying-now-paying-later.md)
 
 ## 하위
 

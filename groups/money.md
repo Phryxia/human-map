@@ -16,6 +16,9 @@
 - [고치지 않고 새로 사기](../docs/replacing-instead-of-repairing.md) 가전 같은 물건이 고장 난 사람이 고칠 수 있는데도 수리비가 비싸거나 수리를 맡기기 번거로워 고치지 않고 새것을 산다.
 - [구매 결정 미루기](../docs/delaying-purchases.md) 사고 싶은 물건이 생긴 사람이 충동 구매를 피하려고 바로 사지 않고 시간을 둔 뒤 다시 판단한다.
 - [구매 후 후회](../docs/buyers-remorse.md) 물건을 산 사람이 산 뒤에 그 구매를 후회한다.
+- [나중에 갚기로 하고 사기](../docs/buying-now-paying-later.md) 사람이 물건값을 그 자리에서 치르지 않고 나중에 내기로 하고 산다.
+  - [외상으로 사기](../docs/buying-on-credit-at-local-shops.md)
+  - [할부로 사기](../docs/buying-in-installments.md)
 - [날짜 표시만 보고 음식 버리기](../docs/discarding-food-by-date-label.md) 집에서 음식을 다루는 사람이 포장의 날짜 표시가 지났거나 가까워졌다는 이유로 아직 먹을 수 있는 음식을 버린다.
 - [남의 메뉴 부러워하기](../docs/order-envy.md) 식당에서 음식을 받은 사람이 일행이나 옆자리 사람이 시킨 메뉴가 더 좋아 보여 자기 주문을 후회한다.
 - [냉난방 참기](../docs/energy-limiting-behavior.md) 전기요금이나 연료비를 부담스러워하는 사람이 더위나 추위 속에서도 냉방이나 난방을 켜지 않거나 줄이고 버틴다.
@@ -62,7 +65,6 @@
 - [에너지 요금 때문에 식비 줄이기](../docs/heat-or-eat.md) 에너지 요금을 내기 어려운 가구가 그 요금을 내려고 식비나 약값 같은 다른 필수 지출을 줄이거나 포기한다.
 - [연금 조기 수령](../docs/early-pension-claiming.md) 공적 연금을 받을 나이가 다가온 사람이 늦게 받을수록 액수가 커지는데도 생활비가 필요하거나 오래 살지 못할까 봐 깎인 액수로 일찍 받기 시작한다.
 - [예비적 저축](../docs/precautionary-saving.md) 앞날의 소득과 경제를 불안하게 여기는 가계가 지금 쓰는 돈을 줄이고 만일에 대비해 저축을 늘린다.
-- [외상으로 사기](../docs/buying-on-credit-at-local-shops.md) 단골 가게나 술집에서 돈을 나중에 내기로 하고 물건이나 술을 가져간다.
 - [위기 때 생필품 사재기](../docs/panic-buying.md) 재난이나 감염병 소식을 들은 사람이 평소보다 많은 생필품을 한꺼번에 사 둔다.
 - [유산 다툼](../docs/inheritance-disputes.md) 가족이나 친족이 누군가 죽은 뒤 남은 재산을 두고 서로 의심하고 다툰다.
 - [은퇴 자금 쓰지 않기](../docs/retirees-not-spending-savings.md) 은퇴한 사람이 모아 둔 은퇴 자금을 거의 꺼내 쓰지 않고 그대로 둔다.
@@ -80,5 +82,4 @@
   - [기분을 달래려는 소비](../docs/retail-therapy.md)
 - [큰돈이 생기는 공상](../docs/daydreaming-about-windfall.md) 아직 손에 없는 큰돈이 생기는 장면을 떠올린 사람이 그 돈으로 무엇을 사고 무엇을 할지 자세히 상상한다.
 - [탐욕](../docs/greed.md) 이미 가진 것이 있는 사람이 그것에 만족하지 못하고 더 많은 돈이나 것을 바란다.
-- [할부로 사기](../docs/buying-in-installments.md) 물건값을 한 번에 치르지 않고 여러 달에 나눠 내기로 하고 산다.
 - [흥정 회피](../docs/avoiding-haggling.md) 값을 깎을 수 있는 자리에서 어떤 사람은 흥정을 부담스러워해 하지 않거나 돈을 더 내더라도 피한다.
