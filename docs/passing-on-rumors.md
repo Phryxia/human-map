@@ -18,7 +18,9 @@
 
 2011년 연구[^5]에서 소비자들은 서로 이야기할 때 믿음의 내용은 전했으나 그 믿음이 얼마나 확실한지는 흔히 전하지 않았다.
 
-2022년 연구[^6]의 저자들은 부정적인 브랜드 소문을 믿지 않는 소비자도 그 소문을 퍼뜨릴 가능성이 있다고 보고했다.
+2014년 기사[^6]는 증권사 종사자와 기자들이 쓰는 메신저에서 자기가 퍼뜨린 지라시가 자기에게 돌아오기까지 2분이면 된다는 농담이 돈다고 전했다.
+
+2022년 연구[^7]의 저자들은 부정적인 브랜드 소문을 믿지 않는 소비자도 그 소문을 퍼뜨릴 가능성이 있다고 보고했다.
 
 # 관계
 
@@ -49,4 +51,5 @@
 [^3]: [매체] "only 9 percent of workers ages 18 to 24 say they keep company news quiet, compared to 48 percent of workers ages 55 to 64." (18\~24세 직장인 가운데 회사 소식을 입 밖에 내지 않는다는 사람은 9%뿐이고 55\~64세 직장인은 48%다.) — Inc.com, "Did She Really Say That?!?!", Fox News, 2007-08-22, https://www.foxnews.com/story/did-she-really-say-that, 2026-11-16 접속
 [^4]: [SNS] "If the sender didn't bother to check it out before disseminating it, they probably wouldn't bother to send out a correction, and they probably won't remember who they sent it to." (보낸 사람이 퍼뜨리기 전에 확인하는 수고를 하지 않았다면 정정을 보내는 수고도 하지 않을 테고 누구에게 보냈는지도 기억하지 못할 것이다.) — Straight Dope Message Board 댓글, 2008-12-17, https://boards.straightdope.com/t/replying-to-co-workers-with-a-snopes-link/477633, 2026-11-16 접속
 [^5]: [학술] "the current studies reveal that though consumers transmit their core beliefs when they communicate with one another, they often fail to transmit their certainty or uncertainty about those beliefs." (이번 연구들은 소비자들이 서로 소통할 때 핵심 믿음은 전하지만 그 믿음에 대한 확신이나 불확실성은 흔히 전하지 못한다는 것을 보여 준다.) — David Dubois, Derek D. Rucker, Zakary L. Tormala, "From Rumors to Facts, and Facts to Rumors: The Role of Certainty Decay in Consumer Communications", Journal of Marketing Research, 2011, https://ideas.repec.org/p/hal/journl/hal-00653241.html, 2026-11-16 접속
-[^6]: [학술] "Thirdly, in the context of negative brand rumors, this study’s findings also demonstrate that consumers are likely to spread negative brand rumors even if they do not believe in them." (셋째, 부정적인 브랜드 소문의 맥락에서 이 연구의 결과는 소비자가 부정적인 브랜드 소문을 믿지 않더라도 퍼뜨릴 가능성이 있음을 보여 준다.) — Zhang 외, "Sharing or Not: Psychological Motivations of Brand Rumors Spread and the Stop Solutions", Frontiers in Psychology 13, 2022-04-04, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full, 2026-11-16 접속
+[^6]: [매체] "증권사 종사자나 기자들이 많이 쓰는 한 온라인 메신저에선 "내가 퍼뜨린 지라시가 나에게 돌아오기까지 2분이면 된다"는 농담이 나돌 정도이다." — 김현주, 「[김현주의 일상 톡톡] '몸통 흔드는 꼬리' 지라시를 아시나요?」, 세계일보, 2014-12-11, https://www.segye.com/newsView/20141210003188, 2026-11-17 접속
+[^7]: [학술] "Thirdly, in the context of negative brand rumors, this study’s findings also demonstrate that consumers are likely to spread negative brand rumors even if they do not believe in them." (셋째, 부정적인 브랜드 소문의 맥락에서 이 연구의 결과는 소비자가 부정적인 브랜드 소문을 믿지 않더라도 퍼뜨릴 가능성이 있음을 보여 준다.) — Zhang 외, "Sharing or Not: Psychological Motivations of Brand Rumors Spread and the Stop Solutions", Frontiers in Psychology 13, 2022-04-04, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full, 2026-11-16 접속
