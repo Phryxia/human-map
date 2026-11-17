@@ -12,7 +12,9 @@
 
 2013년 연구[^2]에서 응답한 입원 환자 1,218명 가운데 18.8%는 약의 환자용 설명서를 읽은 적이 없었고 6.5%는 예상하지 못한 일이 생겼을 때만 읽었다.
 
-2018년 기사[^3]가 전하는 영국 설문에서 응답자의 19%는 크리스마스에 새 기기를 받은 뒤 설명서를 거의 읽지 않았다. 2023년 댓글[^4]의 글쓴이는 매일 쓰는 명령어 도구들의 설명서를 한 번도 읽지 않았고 줄과 낱말이라는 같은 개념으로 움직여 직관적이라고 적었다. 2024년 일본 기관 발표[^5]는 손을 덜 들이고 싶은 마음에 주의사항을 확인하지 않고 조리가전을 잘못 쓰는 경우를 들었다.
+2016년 연구[^3]는 소비자 제품의 설명서를 대다수 사람이 읽지 않고 대부분은 자기가 늘 쓰는 제품의 기능을 다 쓰지 않는다고 적었다.
+
+2018년 기사[^4]가 전하는 영국 설문에서 응답자의 19%는 크리스마스에 새 기기를 받은 뒤 설명서를 거의 읽지 않았다. 2023년 댓글[^5]의 글쓴이는 매일 쓰는 명령어 도구들의 설명서를 한 번도 읽지 않았고 줄과 낱말이라는 같은 개념으로 움직여 직관적이라고 적었다. 2024년 일본 기관 발표[^6]는 손을 덜 들이고 싶은 마음에 주의사항을 확인하지 않고 조리가전을 잘못 쓰는 경우를 들었다.
 
 # 관계
 
@@ -40,6 +42,7 @@
 
 [^1]: [매체] "그리고 무심코 포장지를 뜯고 제품을 사용한다. 포장지 안에 첨부된 사용설명서는 읽어보지도 않고 버린다." — 경향신문, "‘주의사항’ 홍수시대를 사는 법", 2006-04-06, https://www.khan.co.kr/article/200604061504291/amp, 2026-11-16 접속
 [^2]: [학술] "Of the 1,218 respondents to the survey, 18.8 % never read the PIL, whilst 6.5 % only do so if something unexpected happens." (설문 응답자 1,218명 가운데 18.8%는 환자용 설명서를 전혀 읽지 않고, 6.5%는 예상하지 못한 일이 생겼을 때만 읽는다.) — Janet Krska, Charles W. Morecroft, "Patients' Use of Information about Medicine Side Effects in Relation to Experiences of Suspected Adverse Drug Reactions: A Cross-Sectional Survey in Medical In-Patients", Drug Safety, 2013-08, https://www.springermedicine.com/patients-use-of-information-about-medicine-side-effects-in-relat/24694476, 2026-11-16 접속
-[^3]: [매체] "Nearly one in five people (19%) rarely bother to read the instruction manual after getting a new gadget for Christmas" (다섯 명에 한 명꼴인 19%는 크리스마스에 새 기기를 받은 뒤 설명서를 거의 읽으려 하지 않는다) — Ellen Manning, Yahoo News UK, "It's official - Brits really do hate reading instruction manuals", 2018-12-14, https://uk.news.yahoo.com/official-brits-really-hate-reading-instruction-manuals-105952571.html, 2026-11-16 접속
-[^4]: [SNS] "I've never read the manual for any of these. They all work on the same concept of lines and words, which is intuitive and easy to interact with on the terminal." (나는 이것들 가운데 어느 것의 설명서도 읽은 적이 없다. 모두 줄과 낱말이라는 같은 개념으로 움직이고, 그건 직관적이고 터미널에서 다루기 쉽다.) — Hacker News 댓글, 2023-10-24, https://news.ycombinator.com/item?id=38000993, 2026-11-16 접속
-[^5]: [공공] "『できるだけ手間をかけたくない。』『ちょっと温めるくらいなら大丈夫。』といったずぼらな気持ちから、注意事項を確認せずに誤った使用方法をしてしまうと大きな事故につながるおそれがあります。" (「되도록 손을 들이고 싶지 않다.」「잠깐 데우는 정도면 괜찮다.」 같은 귀찮아하는 마음에서 주의사항을 확인하지 않고 잘못된 방법으로 쓰면 큰 사고로 이어질 우려가 있습니다.) — 製品評価技術基盤機構, "“ずぼら調理”が招く危険 \~トリセツをよく読んで「調理家電の事故」を防ぎましょう\~", 2024-09-26, https://www.nite.go.jp/jiko/chuikanki/press/2024fy/prs240926.html, 2026-11-16 접속
+[^3]: [학술] "We found that manuals are not read by the majority of people, and most do not use all the features of the products that they own and use regularly." (우리는 대다수 사람이 설명서를 읽지 않고, 대부분은 자기가 가지고 늘 쓰는 제품의 기능을 다 쓰지 않는다는 것을 발견했다.) — Alethea Blackler, Rafael Gomez, Vesna Popovic, Helen Thompson, 「Life is too short to RTFM: How users relate to documentation and excess features in consumer products」, Interacting with Computers 28(1), 2016, https://eprints.qut.edu.au/80826/, 2026-11-17 접속
+[^4]: [매체] "Nearly one in five people (19%) rarely bother to read the instruction manual after getting a new gadget for Christmas" (다섯 명에 한 명꼴인 19%는 크리스마스에 새 기기를 받은 뒤 설명서를 거의 읽으려 하지 않는다) — Ellen Manning, Yahoo News UK, "It's official - Brits really do hate reading instruction manuals", 2018-12-14, https://uk.news.yahoo.com/official-brits-really-hate-reading-instruction-manuals-105952571.html, 2026-11-16 접속
+[^5]: [SNS] "I've never read the manual for any of these. They all work on the same concept of lines and words, which is intuitive and easy to interact with on the terminal." (나는 이것들 가운데 어느 것의 설명서도 읽은 적이 없다. 모두 줄과 낱말이라는 같은 개념으로 움직이고, 그건 직관적이고 터미널에서 다루기 쉽다.) — Hacker News 댓글, 2023-10-24, https://news.ycombinator.com/item?id=38000993, 2026-11-16 접속
+[^6]: [공공] "『できるだけ手間をかけたくない。』『ちょっと温めるくらいなら大丈夫。』といったずぼらな気持ちから、注意事項を確認せずに誤った使用方法をしてしまうと大きな事故につながるおそれがあります。" (「되도록 손을 들이고 싶지 않다.」「잠깐 데우는 정도면 괜찮다.」 같은 귀찮아하는 마음에서 주의사항을 확인하지 않고 잘못된 방법으로 쓰면 큰 사고로 이어질 우려가 있습니다.) — 製品評価技術基盤機構, "“ずぼら調理”が招く危険 \~トリセツをよく読んで「調理家電の事故」を防ぎましょう\~", 2024-09-26, https://www.nite.go.jp/jiko/chuikanki/press/2024fy/prs240926.html, 2026-11-16 접속
