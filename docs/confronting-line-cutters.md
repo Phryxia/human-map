@@ -26,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [차로 끝까지 와서 합류하는 차를 새치기로 여기기](resenting-late-mergers.md)[^4]
 
 ## 결과
 
@@ -41,3 +41,4 @@
 [^1]: [학술] "Greater commitment to the goal led to more severe reactions to norm violations, whether the commitment was proximal (having waited in the line for awhile) or distal (being a committed fan)." (목표에 대한 몰입이 클수록 규범 위반에 더 심하게 반응했고, 이는 몰입이 가까운 것(줄에서 한동안 기다린 것)이든 먼 것(열성 팬인 것)이든 마찬가지였다.) — Marie Helweg-Larsen, Barbara L. LoMonaco, "Queuing Among U2 Fans: Reactions to Social Norm Violations", Journal of Applied Social Psychology 38(9), 2008, https://dickinson.hykucommons.org/concern/generic_works/fe9eb96b-d137-4a10-adcb-82350fe781f5?locale=en, 2026-11-04 접속
 [^2]: [매체] "Milgram found that doubling the number of jumpers almost doubled the rate of objections, which then rocketed up to 91%." (밀그램은 새치기하는 사람 수를 두 배로 늘리면 항의 비율이 거의 두 배가 되어 91%까지 치솟는다는 것을 발견했다.) — PsyBlog, "Do You Challenge Queue-Jumpers and Line-Cutters?", 2008-09, https://www.spring.org.uk/2008/09/do-you-challenge-queue-jumpers-and-line.php, 2026-11-04 접속
 [^3]: [매체] "people were far more likely to react to a line pusher right in front of them than one who pushed in several places ahead" (사람들은 몇 자리 앞에 끼어든 사람보다 바로 앞에 끼어든 사람에게 훨씬 더 반응하는 경향을 보였다) — Christian Jarrett, "What U2 fans think about queue jumpers", BPS Research Digest, 2008-10-24, https://www.bps.org.uk/research-digest/what-u2-fans-think-about-queue-jumpers, 2026-11-04 접속
+[^4]: [매체] "the driver you cursed for 'cheating' by driving by you in the empty lane after you politely merged to the through-lane a half-mile before the construction zone" (공사 구간 반 마일 전에 점잖게 직진 차로로 합류한 뒤 빈 차로로 당신을 지나쳐 갔다고 '반칙' 이라며 당신이 욕했던 운전자) — Ben Mace, "Passing the 'lane closed ahead' sign and cutting in line later may be best merge strategy", Delaware News Journal, Yahoo News, 2024-07-20, https://news.yahoo.com/news/passing-lane-closed-ahead-sign-151613523.html, 2026-11-17 접속

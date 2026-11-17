@@ -36,6 +36,7 @@
 
 ## 결과
 
+- [새치기에 항의하기](confronting-line-cutters.md)[^9]
 - [운전 중 분노](road-rage.md)[^3]
 
 ## 대립
@@ -52,3 +53,4 @@
 [^6]: [공공] "Most motorists start to merge as soon as they see warning signs and learn which lane ahead is closed." (운전자 대부분은 경고 표지를 보고 앞의 어느 차로가 닫히는지 알자마자 합류를 시작한다.) — Missouri Department of Transportation, "Wait to Merge, Take Turns in Work Zones: Merge Like a Zipper", 2018-06-01, https://www.modot.org/node/12005, 2026-11-16 접속
 [^7]: [매체] "You want to be courteous, but you don't want 20 people to skip in front of you." (예의를 지키고 싶지만 20명이 내 앞으로 새치기하게 두고 싶지는 않다.) — CBS Pittsburgh, "PennDOT: Drivers Make Merging Into Construction Zones Worse Than It Needs To Be", 2019-05-22, https://www.cbsnews.com/pittsburgh/news/penndot-construction-zone-failing-zippers, 2026-11-16 접속
 [^8]: [SNS] "줄어드는 도로 끝까지 달려서 끼어드는 사람들이 많죠 누구는 몰라서 밀리는 줄에 있는게 아닌데 말이죠" — 미코 댓글, 2023-03-09, https://meeco.kr/free/36922399, 2026-11-16 접속
+[^9]: [매체] "the driver you cursed for 'cheating' by driving by you in the empty lane after you politely merged to the through-lane a half-mile before the construction zone" (공사 구간 반 마일 전에 점잖게 직진 차로로 합류한 뒤 빈 차로로 당신을 지나쳐 갔다고 '반칙' 이라며 당신이 욕했던 운전자) — Ben Mace, "Passing the 'lane closed ahead' sign and cutting in line later may be best merge strategy", Delaware News Journal, Yahoo News, 2024-07-20, https://news.yahoo.com/news/passing-lane-closed-ahead-sign-151613523.html, 2026-11-17 접속
