@@ -696,6 +696,7 @@
 - [적막해서 TV 켜 두기](docs/leaving-tv-on-for-company.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [전기자전거 배터리 집 안에서 충전하기](docs/charging-e-bikes-indoors.md) ([건강과 위험](groups/health-and-safety.md))
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [젊은 사람 부러워하기](docs/youth-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [점과 운세 보기](docs/consulting-fortune-tellers.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [점심 휴식 거르고 일하기](docs/skipping-lunch-break.md) ([일터와 일자리](groups/work.md))
 - [점잔 빼는 헛기침](docs/clearing-throat-to-show-dignity.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))

@@ -27,6 +27,7 @@
 - [온화한 시기](benign-envy.md)
 - [승진에서 밀린 뒤의 분함](passed-over-for-promotion.md)
 - [악의적 시기](malicious-envy.md)
+- [젊은 사람 부러워하기](youth-envy.md)
 
 ## 원인
 
