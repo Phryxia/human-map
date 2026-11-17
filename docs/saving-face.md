@@ -33,6 +33,7 @@
 ## 결과
 
 - [잔치를 크게 벌여 지위 드러내기](lavish-celebrations-for-status.md)[^2]
+- [서로 계산하겠다고 다투기](fighting-over-the-bill.md)
 
 ## 대립
 
