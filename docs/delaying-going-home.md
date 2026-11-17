@@ -28,7 +28,7 @@
 
 ## 하위
 
-없음.
+- [나쁜 성적 뒤 집에 들어가기 미루기](delaying-going-home-after-bad-grades.md)
 
 ## 원인
 

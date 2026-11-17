@@ -12,6 +12,7 @@
 - [고부 갈등](../docs/mother-in-law-conflict.md) 시어머니와 며느리가 서로에게 불만을 품고 미워하거나 다툰다.
 - [고자질](../docs/tattling.md) 아이가 형제나 또래의 잘못을 부모나 교사 같은 어른에게 일러바친다.
 - [귀가 늦추기](../docs/delaying-going-home.md) 집에 있는 가족과 마주치거나 집안일을 맡기 싫은 사람이 일부러 집에 늦게 들어간다.
+  - [나쁜 성적 뒤 집에 들어가기 미루기](../docs/delaying-going-home-after-bad-grades.md)
 - [귀가하는 가족을 자지 않고 기다리기](../docs/waiting-up-for-family.md) 밤늦게 나간 가족이 있는 사람이 그 가족이 집에 돌아올 때까지 잠자리에 들지 않고 깨어 기다린다.
 - [귀여운 공격성](../docs/cute-aggression.md) 귀엽다고 느끼는 대상을 본 사람이 해칠 뜻 없이 그것을 꽉 쥐거나 깨물고 싶은 충동을 느낀다.
 - [남 앞에서 눈물 감추기](../docs/hiding-tears.md) 남 앞에서 눈물이 나려는 사람이 바쁜 척하거나 다른 핑계를 대어 우는 것을 남에게 감춘다.
