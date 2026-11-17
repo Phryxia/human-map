@@ -1,41 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-17T00:33:49.432Z",
-  "nextSeq": 5391,
-  "stops": 285,
+  "savedAt": "2026-11-17T03:34:07.645Z",
+  "nextSeq": 5421,
+  "stops": 286,
   "items": [
-    {
-      "id": "c54dea4e",
-      "title": "keeping-loose-change-in-jars 보강: 불황 때 꺼내 쓰는 조건",
-      "priority": 50,
-      "note": "스포츠경향 2017-05-01 sports.khan.co.kr/article/201705011624003 '저금통 파먹기' 동전 환수 19년 만에 최대, 경기일보 2015-03-12 b 대목 '경기가 나쁘다 보니 저금통이나 책상 서랍 속에서 잠자는 동전에까지 털어 사용' 는 같은 출처라 못 씀. 데일리안 2017-05-29 636255 매년 6억개 새로 제조",
-      "createdAt": "2026-11-16T06:12:30.388Z",
-      "seq": 5309
-    },
-    {
-      "id": "8e2d83a0",
-      "title": "morning-drink-for-hangover 보강: 원인 간선, 숙취를 금단으로 여기는 믿음",
-      "priority": 50,
-      "note": "Monash Lens 2018-11-06 1363946 counter-beer/repair beer 대목과 'hair of the dog temporarily gets rid of the (withdrawal) symptoms'. HN 34213234 2023 'Hangovers are mild withdrawal effects'. Piasecki 2010 PMC4264051 'hair-of-the-dog drinking need not be synonymous with morning drinking' 는 같은 출처라 못 씀. 머니투데이 2016-12-31 2016122819595644477",
-      "createdAt": "2026-11-16T06:17:30.815Z",
-      "seq": 5311
-    },
-    {
-      "id": "59f77f94",
-      "title": "knitting-to-calm-down 보강: 2000년 이전 비문학 파편과 문학 파편",
-      "priority": 50,
-      "note": "Anna Karenina 1399 'She always set to work on it at depressed moments', War and Peace 2600 'something soothing in the knitting of stockings', Little Women 514, Cranford 394 는 각각 이미 4개 문서가 써서 5번째가 되면 WARN. Riley 2013 BJOT 는 sagepub 403, stitchlinks.com/research2_2024.html 이 초록 문구를 옮김. yourcareeverywhere 2023-07-21 대기실 대목",
-      "createdAt": "2026-11-16T06:29:03.235Z",
-      "seq": 5312
-    },
-    {
-      "id": "d082c25f",
-      "title": "not-reading-nutrition-labels 보강: 1990년대 공공 파편과 SNS 파편, 젊은 층 감소",
-      "priority": 50,
-      "note": "USDA ERS Amber Waves 2008 같은 페이지 20대 62%→52% 대목과 저자 추측 'limited shopping time'. FSAI 2009 기사 'larger text size' 대목. HN 38176912 2023 은 남에 대한 짐작. 질병관리청 국민건강영양조사와 식약처 자료는 PDF 뿐",
-      "createdAt": "2026-11-16T06:33:07.718Z",
-      "seq": 5313
-    },
     {
       "id": "9e0dfac6",
       "title": "blame-contagion 보강: 공공 파편",
@@ -101,36 +69,12 @@
       "seq": 5339
     },
     {
-      "id": "cb56aecf",
-      "title": "checking-an-exs-social-media 보강: 원인 간선(이별 괴로움, 관계 몰입), attachment-anxiety 관계",
-      "priority": 50,
-      "note": "PsyPost 2015-09-27 같은 글 'emotional distress ... which in turn predicted surveillance' 는 이미 [^3] 출처. kormedi 1217399 (2016-01-08) '불안정한 애착 관계를 형성한 사람일수록 다른 사람의 SNS를 몰래 훔쳐볼 가능성이 높은' 후보. McMaster news 2026-02-13 애착 불안 조절",
-      "createdAt": "2026-11-16T15:16:49.582Z",
-      "seq": 5341
-    },
-    {
       "id": "a5625632",
       "title": "nitpicking 보강: 원인 간선, 2000년대 이전 비문학 파편",
       "priority": 50,
       "note": "김동인 「잡초」 위키문헌 '트집을 잡을 만한 일이 없으면 트집을 만들어 내었다'(발행일 미상), 김동인 「딸의 업을 이으려」 누명 트집 대목. PMC8474672 갈등 중 criticizing each other 와 코르티솔",
       "createdAt": "2026-11-16T15:16:58.221Z",
       "seq": 5343
-    },
-    {
-      "id": "530ec56c",
-      "title": "hostile-attribution-bias 와 road-rage 원인 간선",
-      "priority": 50,
-      "note": "brunch.co.kr/@ihmin/857 (2026-10-18) '깜빡이도 켜지 않고 끼어든 차를 보고 일부러 그랬다고 짐작하는 순간 ... 갚아 주고 싶어진다'. Dodge 2006 PMC2745254 'hostile attributional tendency contributes to the growth of aggressive behavior' 는 공격 행동 문서가 생기면 결과 간선. Yagil 2001 cris.haifa.ac.il 은 인과 문장 없음",
-      "createdAt": "2026-11-16T15:25:03.856Z",
-      "seq": 5344
-    },
-    {
-      "id": "4c7f726d",
-      "title": "hostile-attribution-bias 와 road-rage 원인 간선",
-      "priority": 50,
-      "note": "2026-11-16 brunch.co.kr/@ihmin/857 (2026-10-18) '끼어든 차를 보고 일부러 그랬다고 짐작하는 순간 ... 갚아 주고 싶어진다' 는 블로그 계정 규칙 때문에 두 문서 모두에 못 씀. 한 문서에만 근거를 둘 수 없음. 다른 출처 필요. Dodge 2006 PMC2745254 공격 행동 결과 후보",
-      "createdAt": "2026-11-16T15:25:22.180Z",
-      "seq": 5345
     },
     {
       "id": "bd153df5",
@@ -165,14 +109,6 @@
       "seq": 5356
     },
     {
-      "id": "29d0e94c",
-      "title": "not-wearing-glasses 보강: 외모 이유 파편, 성인 파편, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-16 김창식 2001 초록에 '45.8% answerer is uncomfortable appearance' 대목. Michigan Medicine 청소년 외모 장벽, opticianonline ABDO 조사(성인 13% 창피), PubMed 16505025 멕시코 2006 은 봇 확인 페이지. avoiding-aids-that-look-old 와 관계 볼 것",
-      "createdAt": "2026-11-16T18:33:45.770Z",
-      "seq": 5357
-    },
-    {
       "id": "9fb7a62c",
       "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
       "priority": 50,
@@ -181,36 +117,12 @@
       "seq": 5371
     },
     {
-      "id": "9e5f98f3",
-      "title": "making-excuses-for-mistakes 보강: SNS 파편, blaming-others 관계",
-      "priority": 50,
-      "note": "2026-11-16 WTOP 2016-01-28 CareerBuilder 지각 변명 설문 파편 추가함. CBS Philadelphia 2018-03-25 strange-excuses-late-work 도 같은 조사 후보. 이전 note: PLOS pone.0336599 'restore their self-esteem' 기능 대목",
-      "createdAt": "2026-11-16T21:05:26.132Z",
-      "seq": 5372
-    },
-    {
       "id": "10a7a95b",
       "title": "precautionary-saving 보강: tightwad-spending 관계",
       "priority": 50,
       "note": "2026-11-16 기존 파편 4개 어디에도 지불의 괴로움이나 tightwad 를 저축과 잇는 대목 없음. 이전 note: FRBSF 2014-03 Economic Letter 로 job-insecurity 원인 간선 그음",
       "createdAt": "2026-11-16T21:05:26.298Z",
       "seq": 5373
-    },
-    {
-      "id": "16314c37",
-      "title": "saving-face 보강: fighting-over-the-bill 관계",
-      "priority": 50,
-      "note": "2026-11-15 lavish-celebrations-for-status 간선은 macaudailytimes 68328 로 그음. 계산 다툼 쪽 후보 mabelkwong.com 2016-02-18 'pride and face thing that drives' 는 개인 블로그라 두 문서에 걸쳐 쓰기 곤란. commisceo-global 2019 'Fighting for face: Arguing over who pays the bill' 는 인과 아님",
-      "createdAt": "2026-11-16T21:07:15.077Z",
-      "seq": 5374
-    },
-    {
-      "id": "9238cc9c",
-      "title": "not-reading-instruction-manuals 보강: 학술 파편 하나 더",
-      "priority": 50,
-      "note": "2026-11-16 HN 38000993 2023 SNS 파편 추가함. Blackler 2014 Interacting with Computers 'manuals are not read by the majority of people' 는 OUP 봇 확인 페이지로 빠짐, 다른 판 찾기. agreeing-without-reading-terms 와 같은 상위 후보",
-      "createdAt": "2026-11-16T21:12:40.060Z",
-      "seq": 5375
     },
     {
       "id": "cff92326",
@@ -235,6 +147,102 @@
       "note": "현진건 빈처 1921 ko.wikisource '나도 이런 것을 하나 가졌으면' 양산 대목은 빈처를 이미 4개 문서가 써서 5번째가 되어 WARN. 다른 작품에서 찾기",
       "createdAt": "2026-11-17T00:28:40.668Z",
       "seq": 5390
+    },
+    {
+      "id": "14e5f78c",
+      "title": "not-reading-nutrition-labels 보강: 1990년대 공공 파편과 SNS 파편, 젊은 층 감소",
+      "priority": 50,
+      "note": "2026-11-17 HN Algolia 'don't read/look at nutrition labels' 검색: 39322615 2024 'They just don’t look at the nutrition label. Or they don’t care.' 은 남 짐작, 27329781 2021 'Reasonable people don't have infinite time' 은 일반론. 이전: USDA ERS Amber Waves 2008 같은 페이지 20대 62%→52% 대목과 저자 추측 'limited shopping time'. FSAI 2009 기사 'larger text size' 대목. 질병관리청·식약처 자료는 PDF 뿐",
+      "createdAt": "2026-11-17T03:08:26.184Z",
+      "seq": 5406
+    },
+    {
+      "id": "3d662c3d",
+      "title": "making-excuses-for-mistakes 보강: SNS 파편, blaming-others 관계",
+      "priority": 50,
+      "note": "2026-11-17 HN Algolia 'make excuses mistake' 검색에서 1인칭 변명 대목 없음. 이전: CBS Philadelphia 2018-03-25 strange-excuses-late-work 같은 조사 후보, PLOS pone.0336599 'restore their self-esteem' 기능 대목",
+      "createdAt": "2026-11-17T03:09:44.636Z",
+      "seq": 5407
+    },
+    {
+      "id": "2cbf670b",
+      "title": "unfollowing-over-politics 보강: SNS 파편, online-political-argument-fatigue 관계",
+      "priority": 50,
+      "note": "2026-11-17 Pew 2016-10-25 the-tone-of-social-media-discussions-around-politics '27% have blocked or unfriended someone for that reason', 'posted too much political content' 이유 대목(피로와 원인 간선 후보). hesitating-to-unfriend 와 관계 후보",
+      "createdAt": "2026-11-17T03:11:16.369Z",
+      "seq": 5408
+    },
+    {
+      "id": "7f69c28c",
+      "title": "searching-ones-own-name 보강: 학술 파편, looking-for-oneself-first 관계",
+      "priority": 50,
+      "note": "2026-11-17 HN 36803512 2023-07-20 'Every few years I go and do some ego surfing' 개인정보 확인 목적 후보. microsoft research 'Searching for Myself' 403/502",
+      "createdAt": "2026-11-17T03:12:15.401Z",
+      "seq": 5409
+    },
+    {
+      "id": "dbe386a3",
+      "title": "browsing-the-open-fridge 보강: 학술·공공 파편, 2000년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-17 weightwatchers.com/uk/article/lack-inspiration-nation 2021-02-10, uk.news.yahoo.com indecisive-brits-spend-37-hours-125045946 2024-04-10 '42 per cent of indecisive Brits find themselves staring into the fridge' 매체 후보. energy-limiting-behavior 관계 검토",
+      "createdAt": "2026-11-17T03:13:28.633Z",
+      "seq": 5410
+    },
+    {
+      "id": "f44ba9ca",
+      "title": "reaching-to-call-the-dead 보강: 학술·문학 파편, continuing-bonds 관계",
+      "priority": 50,
+      "note": "2026-11-17 bromka.substack.com/p/i-call-dead-people 2023-05-14 녹음 앱으로 어머니에게 '전화' 하는 글(continuing-bonds 쪽). thecaregiverspace 2022-07-06 음성사서함에 말하기. nextavenue why-i-tried-call-my-mom 은 PBS 홈으로 리다이렉트, griefshare 403",
+      "createdAt": "2026-11-17T03:15:15.596Z",
+      "seq": 5412
+    },
+    {
+      "id": "4c0f06f6",
+      "title": "avoiding-spoilers 보강: 학술 파편, seeking-spoilers 대립",
+      "priority": 50,
+      "note": "2026-11-17 Leavitt & Christenfeld 2011 Psychological Science 원 논문 초록 필요(sagepub 403 예상). insight.co.kr/news/224474 엔드게임 앞두고 SNS·카톡 끊음 매체 후보",
+      "createdAt": "2026-11-17T03:18:04.430Z",
+      "seq": 5415
+    },
+    {
+      "id": "285c7728",
+      "title": "company-dinner-as-work 와 company-dinner-pressure 원인 간선",
+      "priority": 50,
+      "note": "2026-11-17 레이디경향 2021-09-30 은 부정적 감정의 이유로 업무의 연장 같다는 생각(48.2%)을 들어 인과 근거가 되나 company-dinner-pressure 가 같은 URL 을 이미 다른 대목([^3])으로 씀. 다른 출처의 인과 문장 필요. insight.co.kr 468874 (2026-07) 사연 후보",
+      "createdAt": "2026-11-17T03:20:19.768Z",
+      "seq": 5416
+    },
+    {
+      "id": "5ebc5c92",
+      "title": "pressure-to-get-likes 와 deleting-posts-with-few-reactions, checking-likes-after-posting 관계",
+      "priority": 50,
+      "note": "2026-11-17 PMC12351196 같은 글 앞 문장 'the number of reactions they received on posts would influence their posting behaviour in the future'. HN 18583879 2018-12-02 'you start planning and posting stuff that gets most likes' 후보",
+      "createdAt": "2026-11-17T03:25:25.474Z",
+      "seq": 5417
+    },
+    {
+      "id": "4ad7c78d",
+      "title": "not-wearing-glasses 보강: 외모 이유 파편, avoiding-aids-that-look-old 관계",
+      "priority": 50,
+      "note": "2026-11-17 HN 23842312 2020 SNS 파편 추가함. HN 11622589 2016 'For the longest time I refused to wear glasses' 후보. 이전: Michigan Medicine 청소년 외모 장벽, opticianonline ABDO 조사(성인 13% 창피), PubMed 16505025 봇 확인",
+      "createdAt": "2026-11-17T03:27:02.839Z",
+      "seq": 5418
+    },
+    {
+      "id": "0adaed89",
+      "title": "knitting-to-calm-down 보강: 전시 소식 기다림 파편",
+      "priority": 50,
+      "note": "2026-11-17 archive.org orchfarm30sanf_djvu.txt (Orchard and Farm 1918) 'Knitting for Nerves' 'Knitting is a nerve soother, provid- ing a pleasant and untaxing occupa- tion while doing some soldier a kind- ness' OCR 하이픈 그대로, christianherald28unse 1905 'knitting is a sedative. It soothes rather than excites.', cric_006789 Richmond Record-Herald 1935-08-28 후보. Chronicling America·Trove·Papers Past 는 curl 차단",
+      "createdAt": "2026-11-17T03:29:25.700Z",
+      "seq": 5419
+    },
+    {
+      "id": "d6e5b0ca",
+      "title": "leaving-after-hitting-parked-car 보강: SNS·학술 파편, 목격자 조건",
+      "priority": 50,
+      "note": "2026-11-17 prnewswire.co.uk nextbase 2023-11-20 목격자 없을 때 14%, dt.co.kr/article/11124481 (2017-10-24) 물피 도주 정의, teamblind kr 주차된-차량-파손시-대처-방법-문의-7y5rycho 피해자 쪽 글 후보",
+      "createdAt": "2026-11-17T03:30:36.668Z",
+      "seq": 5420
     },
     {
       "id": "155ac9fc",
@@ -501,14 +509,6 @@
       "seq": 3964
     },
     {
-      "id": "8e463c05",
-      "title": "hot-hand-belief 보강: 1985 원 논문",
-      "priority": 30,
-      "note": "2026-11-06 gamblers-fallacy 대립은 Ayton & Fischer 2004 PMID 15900930 으로 그음. Gilovich 외 1985 초록 HTML 판(ScienceDirect 막힘) 남음. HN 13255569 후보",
-      "createdAt": "2026-11-06T09:32:07.605Z",
-      "seq": 3965
-    },
-    {
       "id": "b4801ca5",
       "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
       "priority": 30,
@@ -547,14 +547,6 @@
       "note": "2026-11-06 다음 카페 dubai4u 4413 뷔페 본전 댓글 더함. pre-wedding-doubts 원인 근거(들인 돈과 시간이 아까워 결혼을 밀고 감)는 여전히 없음. overeating 관계 후보도 같은 댓글",
       "createdAt": "2026-11-06T15:25:44.992Z",
       "seq": 3994
-    },
-    {
-      "id": "bf03e8cc",
-      "title": "illusion-of-control 보강: 2000년대 한국어 파편, 하위 후보",
-      "priority": 30,
-      "note": "2026-11-06 Langer 1982 Cambridge 요약 더함. 후보: gqkorea ?p=398896 (2026-09-05) 통제의 착각, PMC3683617 (2013) Orgaz 외 도박 문제 있는 사람이 통제 착각에 더 취약. 하위 후보 buying-lottery-tickets, gamblers-fallacy",
-      "createdAt": "2026-11-06T15:28:54.573Z",
-      "seq": 3995
     },
     {
       "id": "ed388b31",
@@ -1581,6 +1573,22 @@
       "seq": 5382
     },
     {
+      "id": "1d1a765a",
+      "title": "hot-hand-belief 보강: 1985 원 논문",
+      "priority": 30,
+      "note": "2026-11-17 sciencedirect pii/0010028585900106(abs 포함), psycnet 1986-08279-001 모두 curl/브라우저 UA 403. HN 13255569 (2016-12-25) 은 초록 문장을 인용한 댓글이라 원 논문 파편이 아님. 다른 판(저자 기관 저장소, 강의 자료 HTML) 찾기",
+      "createdAt": "2026-11-17T03:15:51.865Z",
+      "seq": 5413
+    },
+    {
+      "id": "6a958b71",
+      "title": "illusion-of-control 보강: 2000년대 한국어 파편, 하위 후보",
+      "priority": 30,
+      "note": "2026-11-17 웹 검색에서 2000년대 한국어 기사 못 찾음. dailian 1311340 은 이미 씀. 이전: gqkorea ?p=398896 (2026-09-05), PMC3683617 Orgaz 2013 도박 문제, 하위 후보 buying-lottery-tickets, gamblers-fallacy",
+      "createdAt": "2026-11-17T03:16:23.202Z",
+      "seq": 5414
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -2077,14 +2085,6 @@
       "seq": 2304
     },
     {
-      "id": "9bf88303",
-      "title": "회식을 업무의 연장으로 느끼기",
-      "priority": 10,
-      "note": "레이디경향 2021-09-30 lady.khan.co.kr/culture/article/202109301729001: 회식에 부정적인 이유 '업무의 연장 같다는 생각 때문(48.2%)'. company-dinner-pressure 원인 간선 후보(같은 URL). 2026-10-27 damoang free/5452436 봇 확인 403, insight.co.kr 468874 (2026-07) 상사 '회식도 업무의 연장이다' 사연, tsisalaw.com 30222 회식 근로시간 논쟁 후보",
-      "createdAt": "2026-10-27T03:38:24.229Z",
-      "seq": 2308
-    },
-    {
       "id": "735954ec",
       "title": "무료급식 이용을 꺼리는 노인",
       "priority": 10,
@@ -2333,14 +2333,6 @@
       "seq": 2760
     },
     {
-      "id": "4a3228d2",
-      "title": "고인에게 습관처럼 전화하려다 멈추기",
-      "priority": 10,
-      "note": "2026-10-30 탐색. SNS 하나 확보: singletrackworld.com forum how-do-you-deal-with-your-mothers-death page 3 (2018-01-23 댓글) 'I do sometimes go to ring mum up and ask her something then realise I can't.' 매체 보조: thecaregiverspace.org how-talking-to-the-dead-dislodged-some-of-my-sorrow (2022-07-06). 학술, 문학 없음. keeping-deceaseds-phone-number 와 관계 후보",
-      "createdAt": "2026-10-30T06:40:45.312Z",
-      "seq": 2767
-    },
-    {
       "id": "97e5ebfd",
       "title": "imagining-others-sorry-at-own-death 와 sulking 관계",
       "priority": 10,
@@ -2387,14 +2379,6 @@
       "note": "2026-10-31 completing-a-collection [^2] Bonnard 1881 'our collection will soon be complete. And then what are we going to do?', straightdope 484352 첫 글의 what next? 대목. completing-a-collection 의 결과 후보",
       "createdAt": "2026-10-31T06:20:43.061Z",
       "seq": 2958
-    },
-    {
-      "id": "ba50b46d",
-      "title": "좋아요를 받아야 한다는 압박",
-      "priority": 10,
-      "note": "pewresearch.org/internet/2018/11/28/teens-social-media-habits-and-experiences 확인(2026-10-31): 'Around four-in-ten say they feel pressure to only post content ... (43%) or share things that will get a lot of likes or comments (37%).' 두 번째 종류 못 찾음(HN algolia, 한국어 기사 검색 무소득). utexas 2020 Lee 외 는 적은 좋아요의 고통이라 다른 현상. deleting-posts-with-few-reactions 원인 후보",
-      "createdAt": "2026-10-31T09:24:09.971Z",
-      "seq": 2981
     },
     {
       "id": "dbe16c9f",
@@ -2475,14 +2459,6 @@
       "note": "2026-11-02 overreporting-desirable-behavior 보강 중. boards.straightdope.com/t/lying-with-statistics/627453/33 (2012-07-09) 부모 옆 신입생 건강 설문 흡연 0%. overreporting-desirable-behavior [^4] Poltavski 2018 이 underreport 도 말함. 대립 또는 형제 현상",
       "createdAt": "2026-11-02T09:19:51.186Z",
       "seq": 3250
-    },
-    {
-      "id": "c3a0a3c6",
-      "title": "주차 차량 파손 뒤 연락처 없이 떠나기",
-      "priority": 10,
-      "note": "2026-11-02 매체 후보만 확보: claimsjournal 2013-05-30 amp.claimsjournal.com/news/west/2013/05/30/229820.htm 47% 메모 없이 떠남, prnewswire.co.uk nextbase 2023-11-20 목격자 없을 때 14%, dt.co.kr/article/11124481 (2017-10-24) '물피 도주' 정의, metroseoul 2014121200117 민원. 공공·학술 못 찾음. 다음: 국회 의안정보시스템 도로교통법 개정안 검토보고서 HTML, 경찰청 2017 범칙금 신설 korea.kr 판, UK written questions failing to stop damage-only",
-      "createdAt": "2026-11-02T18:54:02.716Z",
-      "seq": 3367
     },
     {
       "id": "e995004b",
@@ -2683,14 +2659,6 @@
       "note": "2026-11-07 자기상 문서가 없어 보류. samwoolfe 와 다른 출처 필요. replaying-conversations-afterward 와 관계 후보",
       "createdAt": "2026-11-07T03:21:28.878Z",
       "seq": 4044
-    },
-    {
-      "id": "ed3d77d5",
-      "title": "대화 중인 두 사람 사이로 지나가지 않고 돌아가기",
-      "priority": 10,
-      "note": "2026-11-07 Bouska & Beatty 1978-04 Bulletin of the Psychonomic Society 11(4) 'dyads with a member dressed as a priest or businessman (higher status ratings) detoured significantly more shoppers' link.springer.com/article/10.3758/BF03336817 VERIFIED 가능(curl UA). Knowles 1973 집단 크기",
-      "createdAt": "2026-11-07T03:31:30.601Z",
-      "seq": 4046
     },
     {
       "id": "b554ef2f",
@@ -3013,14 +2981,6 @@
       "seq": 4793
     },
     {
-      "id": "7d411367",
-      "title": "스포일러 피하기",
-      "priority": 10,
-      "note": "2026-11-13 매체 후보 확인: psychologicalscience.org 보도자료(reading-the-ending-first 에 사용 중, 2011-08-10) 'Many of us go to extraordinary lengths to avoid learning the endings of stories we have yet to read or see' 원문 확인. weekly.khan.co.kr/article/202112241524391 (2021) 스파이더맨 관객이 스포 피하려 서둘러 관람, insight.co.kr/news/224474 엔드게임 앞두고 SNS·카톡 끊음. 학술·SNS 종류 미확보(straightdope 833638 은 seeking-spoilers 에 사용 중, 클리앙 13467634 등은 반대 의견). b585ef54(결말 먼저 읽기)는 reading-the-ending-first 가 있어 지움. 2026-10-26 APS 2011-08-10 보도자료 'Many of us go to extraordinary lengths to avoid learning the endings' 귀 막기, 비평가에게 요구. reading-the-ending-first 와 대립 후보(같은 사람 안 근거 필요)",
-      "createdAt": "2026-11-13T16:20:19.521Z",
-      "seq": 4890
-    },
-    {
       "id": "a63c3d7f",
       "title": "keeping-quiet-for-sleepers 대립 후보: 아기가 자도 평소대로 소리 내기",
       "priority": 10,
@@ -3037,28 +2997,12 @@
       "seq": 4937
     },
     {
-      "id": "66da145c",
-      "title": "자기 이름 검색하기 (egosurfing)",
-      "priority": 10,
-      "note": "2026-11-14 pewresearch.org/internet/2007/12/16/digital-footprints/ (2007-12-16) 'Nearly half of all internet users (47%) have searched for information about themselves online, up from just 22%' 열림(매체). 같은 사이트 2007-12-21 Vitak 'Have you googled yourself today?' 1인칭. 다른 종류 파편 필요: microsoft.com research ?p=166094 'Searching for Myself' 403/502, nbcnews 2013 most-not-all-us-google-ourselves 미확인. 상위 후보 looking-for-oneself-first 와 관계 검토",
-      "createdAt": "2026-11-14T09:22:34.138Z",
-      "seq": 4993
-    },
-    {
       "id": "10afcd2f",
       "title": "낮은 자존감",
       "priority": 10,
       "note": "2026-11-14 PMC4991046 Fox 2016 'it is thought to reflect an underlying emotional neediness and low self-esteem (Martin et al., 2003)' 자기 패배적 유머의 원인. self-deprecation 원인 간선 후보",
       "createdAt": "2026-11-14T15:13:49.982Z",
       "seq": 5029
-    },
-    {
-      "id": "5916b5f1",
-      "title": "정치적 의견 차이로 언팔로우하기",
-      "priority": 10,
-      "note": "2026-11-14 cogitatiopress.com mediaandcommunication/article/view/8483 Zhang·Shoenberger 2024-12-05 'Perceived political disagreement was significantly related to anger, which was further positively associated with both unfollowing and unfriending'. online-political-argument-fatigue 와 관계 후보",
-      "createdAt": "2026-11-14T15:22:11.301Z",
-      "seq": 5031
     },
     {
       "id": "77b64ad9",
@@ -3133,14 +3077,6 @@
       "seq": 5192
     },
     {
-      "id": "e932faef",
-      "title": "냉장고 문 열어 두고 먹을 것 고르기",
-      "priority": 10,
-      "note": "2026-11-16 매체 후보 셋 확보: green.start-up.ro/en/rd30090 2023-01-13 Beko 설문 'Leaving the fridge door open when deciding what to eat (29%)', weightwatchers.com/uk/article/lack-inspiration-nation 2021-02-10, uk.news.yahoo.com indecisive-brits-spend-37-hours-125045946 2024-04-10 '42 per cent of indecisive Brits find themselves staring into the fridge'. 공공·학술·SNS 파편 필요. HN 42730965 는 가게 냉장고 장면이라 맞지 않음",
-      "createdAt": "2026-11-16T00:32:44.155Z",
-      "seq": 5243
-    },
-    {
       "id": "e86760bb",
       "title": "1센트 동전 거스름돈으로 받지 않기",
       "priority": 10,
@@ -3171,6 +3107,14 @@
       "note": "Russell & Levy 2012 ideas.repec.org/a/oup/jconrs/doi10.1086-662996.html 'Volitional reconsumption refers to experiences that consumers actively and consciously seek to experience again.' rereading-favorite-books 는 같은 논문을 econpapers URL 로 씀. KOCCA vol36 s31 'N회차 시청' 별칭 후보(발행일 미상)",
       "createdAt": "2026-11-16T15:30:00.667Z",
       "seq": 5346
+    },
+    {
+      "id": "a5d4156d",
+      "title": "대화 중인 두 사람 사이로 지나가지 않고 돌아가기",
+      "priority": 10,
+      "note": "2026-11-17 HN Algolia 'walk between two people talking' 와 한국어 웹 검색에서 1인칭 대목 없음. 이전: Bouska & Beatty 1978-04 Bulletin of the Psychonomic Society 11(4) 'dyads with a member dressed as a priest or businessman (higher status ratings) detoured significantly more shoppers' link.springer.com/article/10.3758/BF03336817 VERIFIED 가능(curl UA). Knowles 1973 집단 크기",
+      "createdAt": "2026-11-17T03:14:00.127Z",
+      "seq": 5411
     },
     {
       "id": "02b2f242",
