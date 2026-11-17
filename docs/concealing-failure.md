@@ -24,6 +24,7 @@
 
 ## 하위
 
+- [나쁜 성적표 숨기기](hiding-bad-report-cards.md)
 - [실직 사실 숨기기](concealing-job-loss.md)
 - [업무 실수 숨기기](hiding-mistakes-at-work.md)
 

@@ -41,6 +41,7 @@
 - [셀프 계산대 고르기](../docs/choosing-self-checkout.md) 가게에서 계산하는 사람이 직원이 있는 계산대 대신 손님이 직접 찍는 셀프 계산대를 고른다.
 - [수줍은 방광](../docs/shy-bladder.md) 공중화장실에서 다른 사람이 가까이 있는 사람이 소변을 시작하지 못하거나 화장실 쓰기를 두려워한다.
 - [실패 사실 숨기기](../docs/concealing-failure.md) 시험이나 일에서 실패한 사람이 창피해서 그 사실을 가족이나 주변 사람에게 말하지 않거나 숨긴다.
+  - [나쁜 성적표 숨기기](../docs/hiding-bad-report-cards.md)
   - [실직 사실 숨기기](../docs/concealing-job-loss.md)
   - [업무 실수 숨기기](../docs/hiding-mistakes-at-work.md)
 - [아픈 신발 참고 신기](../docs/wearing-painful-shoes.md) 굽 높은 구두나 꽉 끼는 신발이 발을 아프게 하는 줄 아는 사람이 보기 좋다는 이유로 그 신발을 계속 신는다.

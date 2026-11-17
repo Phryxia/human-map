@@ -114,6 +114,7 @@
 - [꿈에 나타나는 고인](docs/dreams-of-the-deceased.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [꿈을 징조로 여기기](docs/dreams-as-omens.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [끝내지 못한 일 계속 떠올리기](docs/zeigarnik-effect.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [나쁜 성적표 숨기기](docs/hiding-bad-report-cards.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [나쁜 소식 확인 미루기](docs/delaying-bad-news.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [나쁜 일에서 기뻐할 거리 찾기](docs/benefit-finding.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [나아지면 약 끊기](docs/stopping-medication-when-feeling-better.md) ([건강과 위험](groups/health-and-safety.md))
