@@ -3021,8 +3021,8 @@
   },
   "https://www.gutenberg.org/cache/epub/4276/pg4276-images.html": {
     "first": "2026-10-18",
-    "last": "2026-10-31",
-    "result": "VERIFIED",
+    "last": "2026-11-17",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-31"
   },
   "https://www.gutenberg.org/cache/epub/2600/pg2600-images.html": {
@@ -4239,15 +4239,15 @@
   },
   "https://talkerresearch.com/is-keeping-your-home-tidy-harder-than-your-9-to-5/": {
     "first": "2026-10-19",
-    "last": "2026-10-29",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-17"
   },
   "https://lady.khan.co.kr/living/article/202601151046001": {
     "first": "2026-10-19",
-    "last": "2026-10-29",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-17"
   },
   "https://www.idealhome.co.uk/news/home-clutter-214357": {
     "first": "2026-10-19",
@@ -13440,9 +13440,9 @@
   },
   "https://www.homesandgardens.com/solved/persian-nowruz-spring-clean": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-17"
   },
   "https://ijoc.org/index.php/ijoc/article/view/19466": {
     "first": "2026-10-29",
@@ -30299,6 +30299,12 @@
     "lastVerified": "2026-11-17"
   },
   "https://ko.wikisource.org/wiki/금_따는_콩밭": {
+    "first": "2026-11-17",
+    "last": "2026-11-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-17"
+  },
+  "https://ko.wikisource.org/wiki/기우": {
     "first": "2026-11-17",
     "last": "2026-11-17",
     "result": "VERIFIED",
