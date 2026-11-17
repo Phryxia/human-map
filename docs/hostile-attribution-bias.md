@@ -35,6 +35,7 @@
 ## 결과
 
 - [복수심](desire-for-revenge.md)[^4]
+- [운전 중 분노](road-rage.md)
 
 ## 대립
 

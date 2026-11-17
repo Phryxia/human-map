@@ -18,6 +18,8 @@
 
 2026년 경찰청 카드뉴스는 보복운전의 예로 뒤에 바짝 따라붙어 경음기를 누르고 전조등을 깜박이고 차 옆으로 다가와 욕하는 행위를 들었다.[^9]
 
+2026년 10월 블로그 글[^10]의 필자는 깜빡이 없이 끼어든 차를 보고 일부러 그랬다고 짐작하는 순간 운전자가 그 차를 쫓아가 앞을 막고 급정거로 갚아 주고 싶어진다고 적었다.
+
 # 관계
 
 ## 상위
@@ -32,6 +34,7 @@
 
 - [분노 억누르기](anger-suppression.md)[^4]
 - [참아 온 불만의 폭발](suppressed-anger-outburst.md)[^5]
+- [적대적 귀인 편향](hostile-attribution-bias.md)[^10]
 
 ## 결과
 
@@ -52,3 +55,4 @@
 [^7]: [SNS] "저도 운전하면서 가끔 끼어들고 신호 넣지도 않고 차선에 들어오는 차량들 보면 화가 날때가 많았습니다." — 오토뷰 게시판 게시글, 2015-08-07, https://www.autoview.co.kr/ko-kr/boards/1/61528, 2026-10-31 접속
 [^8]: [매체] "Honking to show annoyance or anger: 45 percent (91 million drivers)" (짜증이나 분노를 드러내려고 경적 울리기: 45%(운전자 9천1백만 명)) — AAA, "Nearly 80 Percent of Drivers Express Significant Anger, Aggression or Road Rage", AAA NewsRoom, 2016-07-14, https://newsroom.aaa.com/2016/07/nearly-80-percent-of-drivers-express-significant-anger-aggression-or-road-rage/, 2026-10-31 접속
 [^9]: [공공] "뒤에 바짝 따라붙어 경음기를 누르고 라이트를 깜박거리고 차량 옆으로 다가와 욕설하는 행위" — 경찰청, "매년 늘어나는 '보복운전', 이렇게 대응하세요!", 대한민국 정책브리핑, 2026-01-07, https://www.korea.kr/news/policyNewsView.do?newsId=148957606, 2026-10-31 접속
+[^10]: [매체] "깜빡이도 켜지 않고 끼어든 차를 보고 '일부러 그랬다'고 짐작하는 순간, 운전자는 그 차를 쫓아가 앞을 가로막고 급정거로 갚아 주고 싶어진다." — 좌충우돌 메그레즈의 팀장 노트, 「빈 배에 사람을 태우는 순간」, 브런치, 2026-10-18, https://brunch.co.kr/@ihmin/857, 2026-11-17 접속
