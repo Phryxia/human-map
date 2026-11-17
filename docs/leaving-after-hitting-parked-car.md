@@ -12,6 +12,8 @@
 
 2021년 국민권익위원회 보도자료[^2]는 아파트 주차장에 세워 둔 차를 파손하고 달아난 이른바 물피도주도 교통사고에 해당한다며 경찰에 협조를 요청해 하루 만에 가해 차량을 찾은 민원 사례를 소개했다.
 
+2023년 11월 블랙박스 회사 보도자료[^3]가 전한 영국 운전자 2,000명 설문에서 주차된 차를 파손했는데 본 사람이 없을 때 14%는 그냥 떠나겠다고 답했고 34%는 시간과 종이가 있을 때만 연락처를 남기겠다고 답했다.
+
 # 관계
 
 ## 상위
@@ -38,3 +40,4 @@
 
 [^1]: [매체] "53 percent of drivers in Portland who hit parked cars say they always leave contact information, while 47 percent admit to leaving the scene without leaving a note." (주차된 차를 친 포틀랜드 운전자의 53%는 늘 연락처를 남긴다고 답했고, 47%는 메모를 남기지 않고 자리를 떠났다고 인정했다.) — 「Poll: Nearly Half of All Drivers Who Hit Parked Cars Don’t Always Leave Notes」, Claims Journal, 2013-05-30, https://amp.claimsjournal.com/news/west/2013/05/30/229820.htm, 2026-11-17 접속
 [^2]: [공공] "국민권익위는 주차된 차량을 파손하고 도주(소위 물피도주)한 경우도 교통사고에 해당하므로 관할 경찰서에 협조를 요청했고, 경찰서는 즉시 해당 아파트 주차장 CCTV와 주변 주차차량의 블랙박스 영상을 수집해 단 하루 만에 가해차량을 찾아 민원을 적극 해결했다." — 국민권익위원회, 「국민권익위 경찰옴부즈만, “알아두면 쓸모있는 경찰분야 생활민원 해결 사례” 공개」, 정책브리핑, 2021-08-04, https://m.korea.kr/news/pressReleaseView.do?newsId=156464747, 2026-11-17 접속
+[^3]: [매체] "New survey reveals 14% of drivers would drive away if they hit a parked car and no one was around to witness it." (새 설문에서 운전자의 14%가 주차된 차를 쳤는데 그것을 본 사람이 아무도 없으면 차를 몰고 떠나겠다고 답했다.) — Nextbase, 「Nextbase survey reveals that one in seven UK drivers would commit hit and run」, PR Newswire, 2023-11-20, https://prnewswire.co.uk/news-releases/nextbase-survey-reveals-that-one-in-seven-uk-drivers-would-commit-hit-and-run-301992464.html, 2026-11-17 접속
