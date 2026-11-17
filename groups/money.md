@@ -41,6 +41,7 @@
   - [상품권과 포인트 쓰지 않고 소멸시키기](../docs/letting-gift-cards-and-points-expire.md)
 - [배우자에게 재정 정보 숨기기](../docs/spouse-financial-concealment.md) 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨긴다.
   - [배우자 몰래 비상금 모으기](../docs/secret-stash-from-spouse.md)
+- [벌금 내지 않기](../docs/not-paying-fines.md) 벌금이나 범칙금을 받은 사람이 그 돈을 기한 안에 내지 않거나 내지 않을까 생각한다.
 - [복권 구매](../docs/buying-lottery-tickets.md) 사람이 당첨을 바라며 복권을 산다.
 - [부유한 척하기](../docs/faking-wealth.md) 남에게 가난해 보이기 싫은 사람이 빌린 물건이나 연출한 사진으로 실제보다 부유해 보이게 꾸민다.
 - [뷔페 접시 넘치게 담기](../docs/overfilling-buffet-plates.md) 뷔페에서 손님이 먹을 수 있는 양보다 많이 접시에 담고 남긴다.
