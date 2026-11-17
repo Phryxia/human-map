@@ -697,6 +697,7 @@
 - [정전 때 발전기와 숯 그릴을 실내 가까이 쓰기](docs/indoor-generator-and-grill-use.md) ([건강과 위험](groups/health-and-safety.md))
 - [정차 중 공회전](docs/engine-idling.md) ([길과 운전](groups/roads-and-driving.md))
 - [정치 무력감](docs/political-inefficacy.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [정치적 의견 차이로 언팔로우하기](docs/unfollowing-over-politics.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [정해진 길 벗어나 걷기](docs/walking-off-designated-paths.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [조리 중 자리 비우기](docs/leaving-cooking-unattended.md) ([건강과 위험](groups/health-and-safety.md))
 - [조명 효과](docs/spotlight-effect.md) ([남의 시선과 창피함](groups/others-gaze.md))
