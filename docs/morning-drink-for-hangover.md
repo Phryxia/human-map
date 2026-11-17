@@ -18,7 +18,7 @@
 
 2019년 스웨덴 연구[^6]에서 숙취를 덜려고 술을 마신다고 답한 남성은 중증 간 질환 위험이 높았고 보정 위험비는 1.47 이었다.
 
-2021년 Hacker News 댓글[^7]의 글쓴이는 아침 식사에 맥주를 곁들이는 요법의 바탕에 조금 다시 취하면 숙취를 덜 느낀다는 생각이 있다고 추측했다. 2023년 건강 기사[^8]는 해장술이 숙취를 늦출 뿐이고 일어나자마자 마시는 습관은 중독으로 이어질 수 있다고 적었다.
+2021년 Hacker News 댓글[^7]의 글쓴이는 아침 식사에 맥주를 곁들이는 요법의 바탕에 조금 다시 취하면 숙취를 덜 느낀다는 생각이 있다고 추측했다. 2023년 1월 Hacker News 댓글[^8]의 글쓴이는 숙취를 가벼운 금단 증상으로 여겨 다시 마시거나 디아제팜 같은 GABA 계열 약을 쓰지 않으면 없앨 수 없다고 썼다. 2023년 12월 건강 기사[^9]는 해장술이 숙취를 늦출 뿐이고 일어나자마자 마시는 습관은 중독으로 이어질 수 있다고 적었다.
 
 # 관계
 
@@ -51,4 +51,5 @@
 [^5]: [학술] "Because alcohol relieves its own after-effects, hangover symptoms may set the occasion for negative reinforcement from drinking" (술은 스스로 남긴 뒤탈을 덜어 주기 때문에, 숙취 증상은 음주로부터 부적 강화를 받는 계기가 될 수 있다) — Thomas M. Piasecki, Brandi M. Robertson, Amee J. Epler, 「Hangover and risk for alcohol use disorders: existing evidence and potential mechanisms」, Current Drug Abuse Reviews 3(2), 2010-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC4264051/, 2026-11-16 접속
 [^6]: [학술] "an increased risk for severe liver disease was found in men who reported drinking alcohol to alleviate a hangover (“eye-opener”; aHR 1.47, 95% CI 1.02–2.11)" (숙취를 덜려고 술을 마신다고 답한 남성에게서 중증 간 질환 위험 증가가 나타났다("eye-opener", 보정 위험비 1.47, 95% 신뢰구간 1.02–2.11)) — Hannes Hagström, Tomas Hemmingsson, Andrea Discacciati, Anna Andreasson, 「Risk Behaviors Associated with Alcohol Consumption Predict Future Severe Liver Disease」, Digestive Diseases and Sciences 64(7), 2019-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC6584217/, 2026-11-16 접속
 [^7]: [SNS] "I think the thought behind "hair of the dog" remedies like a beer with breakfast is either A) getting a little drunk again helps you ignore the hangover" (아침 식사에 맥주를 곁들이는 식의 "hair of the dog" 요법의 바탕에 있는 생각은 A) 조금 다시 취하면 숙취를 무시하기 쉬워진다는 것이거나) — Hacker News 댓글, 2021-06-24, https://news.ycombinator.com/item?id=27618006, 2026-11-16 접속
-[^8]: [매체] "해장술 = 술이 깨기도 전에 다시 술을 마시는 것은 숙취를 늦추는 것일 뿐이다. 게다가 일어나자마자 술을 마시는 것은 중독으로 이어질 수 있는 위험한 습관이다." — 권순일, 「운동으로 땀 빼면...어젯밤 먹은 술 다 빠질까?」, 코메디닷컴, 2023-12-13, https://kormedi.com/1644920/, 2026-11-16 접속
+[^8]: [SNS] "Hair of the dog, i.e. start drinking again. Hangovers are mild withdrawal effects so you can’t get rid of them without drinking or using a GABA drug like diazepam." (해장술, 곧 다시 마시기 시작하는 것. 숙취는 가벼운 금단 증상이라서 술을 마시거나 디아제팜 같은 GABA 계열 약을 쓰지 않고는 없앨 수 없다.) — Hacker News 댓글, 2023-01-02, https://news.ycombinator.com/item?id=34213234, 2026-11-17 접속
+[^9]: [매체] "해장술 = 술이 깨기도 전에 다시 술을 마시는 것은 숙취를 늦추는 것일 뿐이다. 게다가 일어나자마자 술을 마시는 것은 중독으로 이어질 수 있는 위험한 습관이다." — 권순일, 「운동으로 땀 빼면...어젯밤 먹은 술 다 빠질까?」, 코메디닷컴, 2023-12-13, https://kormedi.com/1644920/, 2026-11-16 접속
