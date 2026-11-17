@@ -739,6 +739,7 @@
 - [지어낸 핑계로 약속 빠지기](docs/making-excuses-to-skip-plans.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [지인 대신 대출로 돈 구하기](docs/borrowing-to-avoid-asking-family.md) ([돈과 소비](groups/money.md))
 - [지지 후보 낙선 뒤의 낙담](docs/post-election-distress.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [지체 높은 지인 내세우기](docs/name-dropping.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [지팡이와 보행보조기 거부](docs/refusing-mobility-aids.md) ([건강과 위험](groups/health-and-safety.md))
 - [직장 내 괴롭힘 참고 넘기기](docs/enduring-workplace-harassment.md) ([일터와 일자리](groups/work.md))
 - [직장 문제를 윗사람에게 말하지 않기](docs/employee-silence.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
