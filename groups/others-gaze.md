@@ -8,7 +8,6 @@
 - [나이 줄여 말하기](../docs/understating-age.md) 사람이 남에게 자기 나이를 실제보다 적게 말한다.
 - [남은 음식 포장 요청 부끄러워하기](../docs/embarrassment-asking-for-doggy-bag.md) 식당에서 음식을 남긴 손님이 남은 음식을 싸 달라고 하기를 부끄러워해 요청하지 않는다.
 - [남의 시선 의식하기](../docs/minding-what-others-think.md) 사람이 무엇을 할지 정할 때 다른 사람이 자기를 어떻게 볼지를 의식한다.
-- [남의 웃음을 비웃음으로 여기기](../docs/assuming-laughter-is-at-oneself.md) 근처에서 남들이 웃으면 사람이 그 웃음이 자기를 향한 비웃음이라고 여기거나 의심한다.
 - [녹음된 자기 목소리 싫어하기](../docs/disliking-recorded-own-voice.md) 녹음된 자기 목소리를 듣는 사람이 그 소리를 낯설고 불편하게 느끼거나 싫어한다.
 - [단체 사진과 신문에서 자기부터 찾기](../docs/looking-for-oneself-first.md) 자기가 함께 찍힌 단체 사진이나 자기 일이 실렸을 신문을 받아 든 사람이 다른 사람이나 기사보다 자기 얼굴이나 이름부터 찾아본다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
@@ -55,6 +54,7 @@
 - [유리창에 비친 제 모습 흘끗 보기](../docs/glancing-at-own-reflection-in-windows.md) 길을 걷는 사람이 상점 진열창 같은 유리에 비친 자기 모습을 걸음을 멈추지 않고 흘끗 확인한다.
 - [자기 비하](../docs/self-deprecation.md) 사람이 남 앞에서 먼저 자기 약점이나 실수를 꺼내 자기를 깎아내리거나 우스개로 낮추어 말한다.
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
+  - [남의 웃음을 비웃음으로 여기기](../docs/assuming-laughter-is-at-oneself.md)
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
 - [지체 높은 지인 내세우기](../docs/name-dropping.md) 사람이 남에게 좋게 보이려고 이름난 사람이나 지위 높은 사람과 아는 사이라는 말을 대화에 끼워 넣는다.
 - [참으려고 입술 깨물기](../docs/biting-lips-to-hold-back.md) 웃음, 눈물, 화를 남 앞에서 참으려는 사람이 입술을 깨문다.

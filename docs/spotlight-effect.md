@@ -32,7 +32,7 @@
 
 ## 하위
 
-없음.
+- [남의 웃음을 비웃음으로 여기기](assuming-laughter-is-at-oneself.md)
 
 ## 원인
 

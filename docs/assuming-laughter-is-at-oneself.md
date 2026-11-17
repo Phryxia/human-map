@@ -16,13 +16,15 @@
 
 2021년 1월 기사[^5]는 비웃음을 받을까 두려워하는 사람들이 웃음에 지나치게 민감하고 지나가는 웃음소리를 자기를 향한 조롱으로 자주 오해한다고 전했다.
 
-2026년 4월 블로그 글[^6]은 비웃음을 두려워하는 사람이 남의 호의적인 미소조차 자기를 비웃는 속셈이 숨어 있지 않은지 의심하며 넘겨짚는다고 썼다.
+2022년 10월 에세이[^6]의 글쓴이는 건물 아래 거리를 지나던 십대 무리의 웃음소리를 듣자마자 그들이 자기를 비웃는다고 생각했고 이 일화를 조명 효과의 예로 들었다.
+
+2026년 4월 블로그 글[^7]은 비웃음을 두려워하는 사람이 남의 호의적인 미소조차 자기를 비웃는 속셈이 숨어 있지 않은지 의심하며 넘겨짚는다고 썼다.
 
 # 관계
 
 ## 상위
 
-없음.
+- [조명 효과](spotlight-effect.md)
 
 ## 하위
 
@@ -47,4 +49,5 @@
 [^3]: [학술] "A sample item is “When others laugh in my presence I get suspicious”." (예시 문항은 "다른 사람들이 내 앞에서 웃으면 나는 의심이 든다" 이다.) — Weiss EM, Schulter G, Freudenthaler HH 외, "Potential Markers of Aggressive Behavior: The Fear of Other Persons' Laughter and Its Overlaps with Mental Disorders", PLoS ONE 7(5), 2012-05-31, https://pmc.ncbi.nlm.nih.gov/articles/PMC3364988/, 2026-11-15 접속
 [^4]: [SNS] "I feel like everyone's face or how they act is about me. If people are laughing or smiling it's at me." (모든 사람의 표정이나 행동이 나에 관한 것처럼 느껴진다. 사람들이 웃거나 미소 지으면 그건 나를 향한 것이다.) — HealthUnlocked 게시글, 2019-03-31, https://healthunlocked.com/anxiety-depression-support/posts/140404956/feel-like-everything-is-about-me, 2026-11-15 접속
 [^5]: [매체] "People with these tendencies are oversensitive to laughter and often misconstrue passing sounds of laughter as ridicule directed at themselves." (이런 경향이 있는 사람들은 웃음에 지나치게 민감하고 지나가는 웃음소리를 자기를 향한 조롱으로 자주 오해한다.) — Beth Ellwood, "New psychology research shows how the fear of being laughed at impedes success in romantic relationships", PsyPost, 2021-01-05, https://www.psypost.org/2021/01/new-psychology-research-shows-how-the-fear-of-being-laughed-at-impedes-success-in-romantic-relationships-59047, 2026-11-16 접속
-[^6]: [매체] "타인의 호의적인 미소조차 '저 웃음 뒤에 나를 비웃는 꿍꿍이가 숨겨져 있는 것은 아닐까?' 하고 의심하며 제멋대로 넘겨짚는다는 것이다." — 김경훈, 「억지웃음의 미학」, 브런치, 2026-04-28, https://brunch.co.kr/@hoonius/1316, 2026-11-15 접속
+[^6]: [매체] "Instantly, for no reason, I thought, ‘They’re laughing at me’." (그 순간 아무 이유 없이 '저들이 나를 비웃고 있다'고 생각했다.) — Shaeden Berry, 「What is the spotlight effect and is it making us all anxious?」, Fashion Journal, 2022-10-18, https://fashionjournal.com.au/life/spotlight-effect-anxious/, 2026-11-17 접속
+[^7]: [매체] "타인의 호의적인 미소조차 '저 웃음 뒤에 나를 비웃는 꿍꿍이가 숨겨져 있는 것은 아닐까?' 하고 의심하며 제멋대로 넘겨짚는다는 것이다." — 김경훈, 「억지웃음의 미학」, 브런치, 2026-04-28, https://brunch.co.kr/@hoonius/1316, 2026-11-15 접속
