@@ -2386,25 +2386,25 @@
   },
   "https://www.imaeil.com/page/view/2011100808015150700": {
     "first": "2026-10-18",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://ideas.repec.org/a/iab/iabjlr/v46i4p321-333.html": {
     "first": "2026-10-18",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://ora.ox.ac.uk/objects/uuid:287a38d8-48cd-42d3-bb6a-b3509bb2db30": {
     "first": "2026-10-18",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://futurechosun.com/archives/119175": {
     "first": "2026-10-18",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
@@ -9026,9 +9026,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10374038/": {
     "first": "2026-10-24",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10916340/": {
     "first": "2026-10-24",
@@ -11630,8 +11630,8 @@
   },
   "https://www.gutenberg.org/cache/epub/600/pg600-images.html": {
     "first": "2026-10-27",
-    "last": "2026-11-15",
-    "result": "VERIFIED",
+    "last": "2026-11-17",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-15"
   },
   "https://www.greenpeace.org/korea/update/12888/blog-etc-earth-day-every-day/": {
