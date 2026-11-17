@@ -1,145 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-17T12:30:55.385Z",
-  "nextSeq": 5454,
-  "stops": 289,
+  "savedAt": "2026-11-17T15:33:48.572Z",
+  "nextSeq": 5474,
+  "stops": 290,
   "items": [
-    {
-      "id": "10a7a95b",
-      "title": "precautionary-saving 보강: tightwad-spending 관계",
-      "priority": 50,
-      "note": "2026-11-16 기존 파편 4개 어디에도 지불의 괴로움이나 tightwad 를 저축과 잇는 대목 없음. 이전 note: FRBSF 2014-03 Economic Letter 로 job-insecurity 원인 간선 그음",
-      "createdAt": "2026-11-16T21:05:26.298Z",
-      "seq": 5373
-    },
-    {
-      "id": "cff92326",
-      "title": "assuming-laughter-is-at-oneself 와 spotlight-effect 관계",
-      "priority": 50,
-      "note": "2026-11-16 PsyPost 2021-01-05 파편과 별칭 Fear of being laughed at 추가함. 두 현상을 잇는 원인 근거 대목 찾기. PMC5682340 gelotophobia 시선 연구는 reCAPTCHA. brunch @hoonius/1316 의 '비웃음 공포증' 은 그 파편 원문에 없어 별칭 근거로 못 씀",
-      "createdAt": "2026-11-16T21:40:48.603Z",
-      "seq": 5383
-    },
-    {
-      "id": "1af1b513",
-      "title": "not-keeping-fire-extinguishers 보강: 한국 공공 파편, 주택용 소방시설 설치율",
-      "priority": 50,
-      "note": "2026-11-16 인천소방본부 보도자료 NE030401/2065074, 2082280 은 화재경보기 홍보 목표만 있고 설치율 실측치 없음. 경기도 소식지 vol189/3_3 텍스트 없음. 이전 note: go.seoul.co.kr prnewsView id=320052 '설치율 35.4%' 발행일 미상, 소방청 원문 찾기",
-      "createdAt": "2026-11-17T00:23:27.496Z",
-      "seq": 5389
-    },
-    {
-      "id": "14e5f78c",
-      "title": "not-reading-nutrition-labels 보강: 1990년대 공공 파편과 SNS 파편, 젊은 층 감소",
-      "priority": 50,
-      "note": "2026-11-17 HN Algolia 'don't read/look at nutrition labels' 검색: 39322615 2024 'They just don’t look at the nutrition label. Or they don’t care.' 은 남 짐작, 27329781 2021 'Reasonable people don't have infinite time' 은 일반론. 이전: USDA ERS Amber Waves 2008 같은 페이지 20대 62%→52% 대목과 저자 추측 'limited shopping time'. FSAI 2009 기사 'larger text size' 대목. 질병관리청·식약처 자료는 PDF 뿐",
-      "createdAt": "2026-11-17T03:08:26.184Z",
-      "seq": 5406
-    },
-    {
-      "id": "3d662c3d",
-      "title": "making-excuses-for-mistakes 보강: SNS 파편, blaming-others 관계",
-      "priority": 50,
-      "note": "2026-11-17 HN Algolia 'make excuses mistake' 검색에서 1인칭 변명 대목 없음. 이전: CBS Philadelphia 2018-03-25 strange-excuses-late-work 같은 조사 후보, PLOS pone.0336599 'restore their self-esteem' 기능 대목",
-      "createdAt": "2026-11-17T03:09:44.636Z",
-      "seq": 5407
-    },
-    {
-      "id": "2cbf670b",
-      "title": "unfollowing-over-politics 보강: SNS 파편, online-political-argument-fatigue 관계",
-      "priority": 50,
-      "note": "2026-11-17 Pew 2016-10-25 the-tone-of-social-media-discussions-around-politics '27% have blocked or unfriended someone for that reason', 'posted too much political content' 이유 대목(피로와 원인 간선 후보). hesitating-to-unfriend 와 관계 후보",
-      "createdAt": "2026-11-17T03:11:16.369Z",
-      "seq": 5408
-    },
-    {
-      "id": "7f69c28c",
-      "title": "searching-ones-own-name 보강: 학술 파편, looking-for-oneself-first 관계",
-      "priority": 50,
-      "note": "2026-11-17 HN 36803512 2023-07-20 'Every few years I go and do some ego surfing' 개인정보 확인 목적 후보. microsoft research 'Searching for Myself' 403/502",
-      "createdAt": "2026-11-17T03:12:15.401Z",
-      "seq": 5409
-    },
-    {
-      "id": "dbe386a3",
-      "title": "browsing-the-open-fridge 보강: 학술·공공 파편, 2000년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-17 weightwatchers.com/uk/article/lack-inspiration-nation 2021-02-10, uk.news.yahoo.com indecisive-brits-spend-37-hours-125045946 2024-04-10 '42 per cent of indecisive Brits find themselves staring into the fridge' 매체 후보. energy-limiting-behavior 관계 검토",
-      "createdAt": "2026-11-17T03:13:28.633Z",
-      "seq": 5410
-    },
-    {
-      "id": "f44ba9ca",
-      "title": "reaching-to-call-the-dead 보강: 학술·문학 파편, continuing-bonds 관계",
-      "priority": 50,
-      "note": "2026-11-17 bromka.substack.com/p/i-call-dead-people 2023-05-14 녹음 앱으로 어머니에게 '전화' 하는 글(continuing-bonds 쪽). thecaregiverspace 2022-07-06 음성사서함에 말하기. nextavenue why-i-tried-call-my-mom 은 PBS 홈으로 리다이렉트, griefshare 403",
-      "createdAt": "2026-11-17T03:15:15.596Z",
-      "seq": 5412
-    },
-    {
-      "id": "4c0f06f6",
-      "title": "avoiding-spoilers 보강: 학술 파편, seeking-spoilers 대립",
-      "priority": 50,
-      "note": "2026-11-17 Leavitt & Christenfeld 2011 Psychological Science 원 논문 초록 필요(sagepub 403 예상). insight.co.kr/news/224474 엔드게임 앞두고 SNS·카톡 끊음 매체 후보",
-      "createdAt": "2026-11-17T03:18:04.430Z",
-      "seq": 5415
-    },
-    {
-      "id": "285c7728",
-      "title": "company-dinner-as-work 와 company-dinner-pressure 원인 간선",
-      "priority": 50,
-      "note": "2026-11-17 레이디경향 2021-09-30 은 부정적 감정의 이유로 업무의 연장 같다는 생각(48.2%)을 들어 인과 근거가 되나 company-dinner-pressure 가 같은 URL 을 이미 다른 대목([^3])으로 씀. 다른 출처의 인과 문장 필요. insight.co.kr 468874 (2026-07) 사연 후보",
-      "createdAt": "2026-11-17T03:20:19.768Z",
-      "seq": 5416
-    },
-    {
-      "id": "5ebc5c92",
-      "title": "pressure-to-get-likes 와 deleting-posts-with-few-reactions, checking-likes-after-posting 관계",
-      "priority": 50,
-      "note": "2026-11-17 PMC12351196 같은 글 앞 문장 'the number of reactions they received on posts would influence their posting behaviour in the future'. HN 18583879 2018-12-02 'you start planning and posting stuff that gets most likes' 후보",
-      "createdAt": "2026-11-17T03:25:25.474Z",
-      "seq": 5417
-    },
-    {
-      "id": "4ad7c78d",
-      "title": "not-wearing-glasses 보강: 외모 이유 파편, avoiding-aids-that-look-old 관계",
-      "priority": 50,
-      "note": "2026-11-17 HN 23842312 2020 SNS 파편 추가함. HN 11622589 2016 'For the longest time I refused to wear glasses' 후보. 이전: Michigan Medicine 청소년 외모 장벽, opticianonline ABDO 조사(성인 13% 창피), PubMed 16505025 봇 확인",
-      "createdAt": "2026-11-17T03:27:02.839Z",
-      "seq": 5418
-    },
-    {
-      "id": "0adaed89",
-      "title": "knitting-to-calm-down 보강: 전시 소식 기다림 파편",
-      "priority": 50,
-      "note": "2026-11-17 archive.org orchfarm30sanf_djvu.txt (Orchard and Farm 1918) 'Knitting for Nerves' 'Knitting is a nerve soother, provid- ing a pleasant and untaxing occupa- tion while doing some soldier a kind- ness' OCR 하이픈 그대로, christianherald28unse 1905 'knitting is a sedative. It soothes rather than excites.', cric_006789 Richmond Record-Herald 1935-08-28 후보. Chronicling America·Trove·Papers Past 는 curl 차단",
-      "createdAt": "2026-11-17T03:29:25.700Z",
-      "seq": 5419
-    },
-    {
-      "id": "d6e5b0ca",
-      "title": "leaving-after-hitting-parked-car 보강: SNS·학술 파편, 목격자 조건",
-      "priority": 50,
-      "note": "2026-11-17 prnewswire.co.uk nextbase 2023-11-20 목격자 없을 때 14%, dt.co.kr/article/11124481 (2017-10-24) 물피 도주 정의, teamblind kr 주차된-차량-파손시-대처-방법-문의-7y5rycho 피해자 쪽 글 후보",
-      "createdAt": "2026-11-17T03:30:36.668Z",
-      "seq": 5420
-    },
-    {
-      "id": "6804c447",
-      "title": "reentering-burning-home 보강: 공공 통계 파편",
-      "priority": 50,
-      "note": "2026-11-17 USFA Topical Report 재진입 항목은 PDF, fireandemergency.nz 는 Incapsula 차단. NZ Herald 2010-06-15 5IQQQHX55CSCVCDZOW3BK46U2Y 다치거나 숨진 사람 절반 넘게 재진입 추정 대목 후보. Lancashire FRS 'If you have a fire' 동기 대목",
-      "createdAt": "2026-11-17T06:26:31.700Z",
-      "seq": 5424
-    },
-    {
-      "id": "e0a7469e",
-      "title": "nagging 과 laughing-off-holiday-nagging 관계",
-      "priority": 50,
-      "note": "2026-11-17 명절 잔소리를 웃어넘기는 쪽이 잔소리의 결과라는 인과 대목 찾기. 한국일보 1998-04-28 IMF시대 싫은말 부부설문 미열람. Boxer 2002 Journal of Pragmatics 초록은 봇 확인과 403",
-      "createdAt": "2026-11-17T09:14:00.739Z",
-      "seq": 5437
-    },
     {
       "id": "eb8dcf8e",
       "title": "passing-on-rumors 보강: SNS 파편, gossip 관계",
@@ -211,6 +75,86 @@
       "note": "2026-11-16 매일신문 2001-01-06, 위키트리 1143236 2026 매체 파편 추가함. 대립 근거 못 찾음. Daily Princetonian 2015-03 on-complaining 'Forcing ourselves to disguise and conceal our problems does not make them disappear' 는 약한 후보",
       "createdAt": "2026-11-17T09:35:56.172Z",
       "seq": 5446
+    },
+    {
+      "id": "c3567abf",
+      "title": "not-reading-nutrition-labels 보강: 1990년대 공공 파편, 젊은 층 감소",
+      "priority": 50,
+      "note": "2026-11-17 SNS 파편(HN 34258332) 추가함. 1990년대 HTML 공공 자료 못 찾음: USDA FSIS 1992 'less than 2 percent say they never read labels' 는 ageconsearch PDF, 일본 국민영양조사 평성 11년 영양성분표시 이용상황은 2001-03 발표. 1990년대 조건을 풀거나 학술로 바꾸는 길",
+      "createdAt": "2026-11-17T15:20:45.040Z",
+      "seq": 5464
+    },
+    {
+      "id": "46dce68d",
+      "title": "making-excuses-for-mistakes 보강: SNS 파편, blaming-others 관계",
+      "priority": 50,
+      "note": "2026-11-17 blaming-others 는 운명이나 신 탓(하위 blaming-fate-or-god)도 포함해 변명의 하위로 둘 수 없음. 원인 간선 근거 대목 필요. comento.kr 640465 는 답변자의 일반 조언, eopla.net/magazines/20254 는 본문이 HTML 에 없음. 이전: HN 'make excuses mistake' 1인칭 없음",
+      "createdAt": "2026-11-17T15:21:37.999Z",
+      "seq": 5465
+    },
+    {
+      "id": "3bb2d451",
+      "title": "unfollowing-over-politics 보강: SNS 파편, online-political-argument-fatigue 관계",
+      "priority": 50,
+      "note": "2026-11-17 GWI 2024-10-02 보도자료 파편 추가함. 같은 글의 'As such' 대목은 정치 콘텐츠가 벅차다는 이유와 음소거를 잇지만 피로 문서는 논쟁을 주고받는 피로라 간선은 보류. HN Algolia 'unfollowed tired political' 1인칭 없음",
+      "createdAt": "2026-11-17T15:22:48.847Z",
+      "seq": 5466
+    },
+    {
+      "id": "4bae39d2",
+      "title": "browsing-the-open-fridge 보강: 학술·공공 파편, 2000년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-17 공공 에너지 절약 안내(gea.gov.gy ?p=1733 'Decide what you want before opening the refrigerator door.', energyrating.gov.au, emsd.gov.hk)는 권고뿐 행동 서술 아님. 문 열림 현장 연구(NIST nbsir79-1781 등)는 횟수만 있고 PDF. 이전: weightwatchers 2021-02-10, yahoo 2024-04-10 매체 후보",
+      "createdAt": "2026-11-17T15:23:17.981Z",
+      "seq": 5467
+    },
+    {
+      "id": "aa585d01",
+      "title": "reaching-to-call-the-dead 보강: 학술·문학 파편, continuing-bonds 관계",
+      "priority": 50,
+      "note": "2026-11-17 Europe PMC 'pick up the phone' 사별 검색에 해당 대목 없음. stacker.com 2026-08 continuing bonds 기사는 음성사서함 저장과 바람의 전화만. newstatesman 2017-04 고인에게 문자 보내기는 본문 추출 안 됨. 이전: bromka.substack 2023-05-14, thecaregiverspace 2022-07-06",
+      "createdAt": "2026-11-17T15:23:56.937Z",
+      "seq": 5468
+    },
+    {
+      "id": "26fca284",
+      "title": "seeking-spoilers 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-17 PMC13369140 2026 'some audiences actively seek spoilers to avoid negative emotions without significantly reducing overall enjoyment or perceived suspense' 후보. PMC10725759 2024 'other readers strongly dislike and avoid spoilers' 는 서로 다른 사람의 선호라 avoiding-spoilers 대립 근거 아님",
+      "createdAt": "2026-11-17T15:26:04.961Z",
+      "seq": 5469
+    },
+    {
+      "id": "02fb292f",
+      "title": "pressure-to-get-likes 와 checking-likes-after-posting 관계",
+      "priority": 50,
+      "note": "2026-11-17 PMC12351196 은 반응 수가 게시 행동에 영향을 준다고만 하고 압박과 지우기의 인과 문장은 없음. deleting-posts-with-few-reactions 에 같은 글의 지우기 대목을 학술 파편으로 넣음. HN 18583879 2018-12-02 후보",
+      "createdAt": "2026-11-17T15:28:03.852Z",
+      "seq": 5470
+    },
+    {
+      "id": "61aa1efb",
+      "title": "not-wearing-glasses 와 avoiding-aids-that-look-old 관계",
+      "priority": 50,
+      "note": "2026-11-17 HN 3083304 2011 허영심 파편 추가함. opticianonline 25-of-brits 기사 403, abdo.org.uk ?p=104793 404. 두 현상을 잇는 인과 대목 필요",
+      "createdAt": "2026-11-17T15:29:09.412Z",
+      "seq": 5471
+    },
+    {
+      "id": "08e58701",
+      "title": "leaving-after-hitting-parked-car 보강: SNS·학술 파편",
+      "priority": 50,
+      "note": "2026-11-17 Nextbase 2023-11-20 목격자 없을 때 14% 파편 추가함. valuepenguin parked-car-damage-survey, insurancebusinessmag au 562374 '절반이 신고 안 함', 1stcentralinsurance 14.3% 후보. dt.co.kr 11124481 물피 도주 정의",
+      "createdAt": "2026-11-17T15:31:33.714Z",
+      "seq": 5472
+    },
+    {
+      "id": "eabb479f",
+      "title": "nagging 과 laughing-off-holiday-nagging 관계",
+      "priority": 50,
+      "note": "2026-11-17 laughing-off 의 [^2] K-공감 2020-01 '명절 잔소리를 들었을 때의 대처로 웃음으로 대충 넘긴다' 가 잔소리에 대한 대처를 말하므로 결과 간선 근거 후보. 간선을 그으려면 nagging 문서에도 같은 출처 파편을 더하고 번호를 다시 매겨야 함. 이전: 한국일보 1998-04-28 미열람, Boxer 2002 403",
+      "createdAt": "2026-11-17T15:33:40.126Z",
+      "seq": 5473
     },
     {
       "id": "155ac9fc",
