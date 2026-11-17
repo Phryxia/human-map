@@ -29484,27 +29484,27 @@
   },
   "https://www.gutenberg.org/cache/epub/5267/pg5267.txt": {
     "first": "2026-11-16",
-    "last": "2026-11-16",
-    "result": "VERIFIED",
+    "last": "2026-11-17",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-16"
   },
   "https://news.jkn.co.kr/post/734830": {
     "first": "2026-11-16",
-    "last": "2026-11-16",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-16"
+    "lastVerified": "2026-11-17"
   },
   "https://news.tf.co.kr/read/economy/2311767.htm": {
     "first": "2026-11-16",
-    "last": "2026-11-16",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-16"
+    "lastVerified": "2026-11-17"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1950938/full": {
     "first": "2026-11-16",
-    "last": "2026-11-16",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-16"
+    "lastVerified": "2026-11-17"
   },
   "https://scroll.in/article/813265/scroll_in": {
     "first": "2026-11-16",
@@ -30251,6 +30251,12 @@
     "lastVerified": "2026-11-17"
   },
   "https://www.livescience.com/health/alcohol/are-people-more-honest-when-they-re-drunk": {
+    "first": "2026-11-17",
+    "last": "2026-11-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-17"
+  },
+  "https://www.consumerfinance.gov/about-us/newsroom/cfpb-publishes-new-findings-on-financial-profiles-of-buy-now-pay-later-borrowers/": {
     "first": "2026-11-17",
     "last": "2026-11-17",
     "result": "VERIFIED",
