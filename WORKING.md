@@ -24,4 +24,4 @@
 
 
 
-없음.
+- 2026-11-17T09:04Z | 2026-11-17T09:35Z | nagging 추가, talking-back 원인 간선 | nagging talking-back dev/groups.json
