@@ -12,6 +12,8 @@
 
 2009년 Hacker News 댓글[^2]의 글쓴이는 사람들이 인터넷에 자기에 관해 무엇을 올리는지 보려고 가끔 자기 이름을 검색한다고 썼다.
 
+2023년 Hacker News 댓글[^3]의 글쓴이는 자기가 검색 엔진에 잡히지 않는다며 그 상태가 이어지는지 보려고 몇 년마다 자기 이름을 검색한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -38,3 +40,4 @@
 
 [^1]: [매체] "Nearly half of all internet users (47%) have searched for information about themselves online, up from just 22%, as reported by the Pew Internet Project in 2002." (인터넷 이용자의 절반 가까이(47%)가 온라인에서 자기에 관한 정보를 검색해 본 적이 있다. 2002년 퓨 인터넷 프로젝트가 보고한 22%에서 늘었다.) — Mary Madden, Susannah Fox, Aaron Smith, Jessica Vitak, 「Digital Footprints」, Pew Research Center, 2007-12-16, https://www.pewresearch.org/internet/2007/12/16/digital-footprints/, 2026-11-17 접속
 [^2]: [SNS] "I definitely know that in the case of my own name, which I check by ego-surfing once in a while to see what people are putting up on the Internet about me." (내 이름의 경우에는 확실히 안다. 사람들이 인터넷에 나에 관해 무엇을 올리는지 보려고 가끔 에고서핑으로 확인하기 때문이다.) — Hacker News 댓글, 2009-11-17, https://news.ycombinator.com/item?id=946464, 2026-11-17 접속
+[^3]: [SNS] "I'm not googleable (or bing/ddg-able). Every few years I go and do some ego surfing[0] to make sure things stay that way." (나는 구글로 (빙이나 덕덕고로도) 찾아지지 않는다. 몇 년마다 에고서핑을 해서 그 상태가 그대로인지 확인한다.) — Hacker News 댓글, 2023-07-20, https://news.ycombinator.com/item?id=36803512, 2026-11-17 접속
