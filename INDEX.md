@@ -767,6 +767,7 @@
 - [참으려고 입술 깨물기](docs/biting-lips-to-hold-back.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [창밖 바라보기](docs/gazing-out-the-window.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [창피한 일을 꾸며 둘러대기](docs/covering-up-embarrassment.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [책 냄새 맡기](docs/smelling-books.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [책 빌려주지 않기](docs/never-lending-books.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [책 사 두고 읽지 않기](docs/buying-books-without-reading.md) ([돈과 소비](groups/money.md))
 - [책 여백에 메모하기](docs/writing-in-book-margins.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
