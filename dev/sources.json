@@ -11222,9 +11222,9 @@
   },
   "https://www.psychologicalscience.org/news/releases/spoiler-alert-stories-are-not-spoiled-byspoilers.html": {
     "first": "2026-10-26",
-    "last": "2026-10-29",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-17"
   },
   "https://www.goodreads.com/topic/show/1583296-do-you-read-the-ending-of-books-first?page=1": {
     "first": "2026-10-26",
@@ -29975,6 +29975,18 @@
     "lastVerified": "2026-11-17"
   },
   "https://www.pewresearch.org/internet/2016/10/25/the-tone-of-social-media-discussions-around-politics/": {
+    "first": "2026-11-17",
+    "last": "2026-11-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-17"
+  },
+  "https://news.ycombinator.com/item?id=8305218": {
+    "first": "2026-11-17",
+    "last": "2026-11-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-17"
+  },
+  "https://weekly.khan.co.kr/article/202112241524391": {
     "first": "2026-11-17",
     "last": "2026-11-17",
     "result": "VERIFIED",
