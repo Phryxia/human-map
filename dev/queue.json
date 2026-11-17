@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-17T15:33:48.572Z",
-  "nextSeq": 5474,
-  "stops": 290,
+  "savedAt": "2026-11-17T18:35:06.582Z",
+  "nextSeq": 5482,
+  "stops": 291,
   "items": [
     {
       "id": "eb8dcf8e",
@@ -155,6 +155,38 @@
       "note": "2026-11-17 laughing-off 의 [^2] K-공감 2020-01 '명절 잔소리를 들었을 때의 대처로 웃음으로 대충 넘긴다' 가 잔소리에 대한 대처를 말하므로 결과 간선 근거 후보. 간선을 그으려면 nagging 문서에도 같은 출처 파편을 더하고 번호를 다시 매겨야 함. 이전: 한국일보 1998-04-28 미열람, Boxer 2002 403",
       "createdAt": "2026-11-17T15:33:40.126Z",
       "seq": 5473
+    },
+    {
+      "id": "b01ecd04",
+      "title": "not-paying-fines 보강: SNS 파편, 학술 파편, 고지서를 받지 못해 미납이 되는 대목",
+      "priority": 50,
+      "note": "2026-11-17 공공 둘, 매체 하나로 추가함. ALRC Report 133 12장 12.29 우편이 불안정해 집행 고지서를 못 받는다는 대목(2018-02-05). J-PAL Haynes 외 2013 문자 알림 납부 증가. Mumsnet 4685664 2022-11-26 주차 위반금 고지서를 못 받았다는 게시글",
+      "createdAt": "2026-11-17T18:12:02.306Z",
+      "seq": 5478
+    },
+    {
+      "id": "3d1913bc",
+      "title": "not-paying-fines 와 leaving-mail-unopened 관계",
+      "priority": 50,
+      "note": "고지서를 열지 않아 벌금을 내지 않는다는 인과 대목 필요. Russell Webster 2024 Centre for Justice Innovation 보고서 소개 글",
+      "createdAt": "2026-11-17T18:12:02.443Z",
+      "seq": 5479
+    },
+    {
+      "id": "f15bda78",
+      "title": "borrowing-to-avoid-asking-family 보강: 공공 파편, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-17 1997 CUHK Varsity 전당포 파편 추가함. 공공 HTML 못 찾음. FCA 2014 esro 보고서는 PDF. regulationtomorrow 2014-04-24 요약 'because they cannot or do not want to ask family or close friends for money'. Globe and Mail 2009-11-16 article4293348 'It was just embarrassment.' 대목",
+      "createdAt": "2026-11-17T18:20:06.606Z",
+      "seq": 5480
+    },
+    {
+      "id": "cedb7188",
+      "title": "reaching-to-call-the-dead 보강: 문학 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-11-17 PMC8858332 2021 학술 파편 추가함. Next Big Idea Club 2022-03-01 O'Connor 발췌 'two conflicting streams of information' 원인 대목(같은 저자). eccalifornian ?p=22016 2018-05-23, communityedition.ca ?p=46025 2026-06-10, griefincommon 1101 2019-06-11 문자 대목",
+      "createdAt": "2026-11-17T18:25:43.929Z",
+      "seq": 5481
     },
     {
       "id": "155ac9fc",
