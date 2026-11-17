@@ -12,6 +12,7 @@
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
   - [성묘](../docs/visiting-graves.md)
   - [죽은 이에게 말 걸기](../docs/talking-to-the-dead.md)
+- [고인에게 습관처럼 전화하려다 멈추기](../docs/reaching-to-call-the-dead.md) 가까운 사람을 잃은 사람이 무언가 묻거나 알리고 싶을 때 습관처럼 고인에게 전화하려다가 그 사람이 없다는 것을 깨닫고 멈춘다.
 - [고인의 존재를 느끼기](../docs/sensing-presence-of-the-dead.md) 가까운 사람을 잃은 사람이 세상을 떠난 그가 곁에 있다고 느끼거나 그 목소리를 듣는다.
 - [기일 무렵 되살아나는 슬픔](../docs/anniversary-grief.md) 가까운 사람을 잃은 사람이 해마다 그 사람이 죽은 날이 돌아오면 그 무렵 슬픔이 다시 짙어진다.
 - [꿈에 나타나는 고인](../docs/dreams-of-the-deceased.md) 가까운 사람을 잃은 사람이 꿈에서 고인을 만나고 깨어나 그 꿈을 위안이나 슬픔으로 받아들인다.

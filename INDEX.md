@@ -59,6 +59,7 @@
 - [고스팅](docs/ghosting.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [고용 불안](docs/job-insecurity.md) ([일터와 일자리](groups/work.md))
 - [고인과의 유대 이어 가기](docs/continuing-bonds.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [고인에게 습관처럼 전화하려다 멈추기](docs/reaching-to-call-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [고인의 물건 간직하기](docs/keeping-belongings-of-the-dead.md) ([돈과 소비](groups/money.md), [혼자 있음과 상실](groups/solitude-and-loss.md), [기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [고인의 전화번호 지우지 못하기](docs/keeping-deceaseds-phone-number.md) ([돈과 소비](groups/money.md), [혼자 있음과 상실](groups/solitude-and-loss.md), [기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [고인의 존재를 느끼기](docs/sensing-presence-of-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
