@@ -22,4 +22,4 @@
 
 
 
-없음.
+- 2026-11-17T03:05Z | 2026-11-17T03:40Z | avoiding-spoilers 2019년 매체 파편 보강 | avoiding-spoilers
