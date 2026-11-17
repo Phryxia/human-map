@@ -28868,27 +28868,27 @@
   },
   "https://ko.wikisource.org/wiki/%ED%83%9C%ED%8F%89%EC%B2%9C%ED%95%98/%EC%A0%9C6%EC%9E%A5": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://www.ytn.co.kr/_ln/0485_201710300157559677": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10637691/": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11908083/": {
     "first": "2026-11-15",
-    "last": "2026-11-15",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-17"
   },
   "https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/1%EC%9E%A5~20%EC%9E%A5": {
     "first": "2026-11-15",
@@ -30269,6 +30269,12 @@
     "lastVerified": "2026-11-17"
   },
   "https://kormedi.com/1201010/": {
+    "first": "2026-11-17",
+    "last": "2026-11-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-17"
+  },
+  "https://www.spokesman.com/stories/1996/apr/01/hypercritical-moms-take-note/": {
     "first": "2026-11-17",
     "last": "2026-11-17",
     "result": "VERIFIED",
