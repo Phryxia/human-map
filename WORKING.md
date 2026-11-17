@@ -10,4 +10,4 @@
 
 
 
-없음.
+- 2026-11-17T03:05Z | 2026-11-17T03:40Z | company-dinner-as-work 추가 | company-dinner-as-work, dev/groups.json
