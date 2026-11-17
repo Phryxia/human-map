@@ -132,3 +132,4 @@
 - [헤어진 연인에게 연락하기](../docs/contacting-an-ex.md) 연인과 헤어진 사람이 헤어진 상대에게 먼저 문자나 전화로 연락한다.
 - [헤어진 연인의 물건 없애기](../docs/discarding-an-exs-belongings.md) 연인과 헤어진 사람이 상대에게 받은 편지, 사진, 선물을 태우거나 버린다.
 - [헤어진 연인의 SNS 들여다보기](../docs/checking-an-exs-social-media.md) 연인과 헤어진 사람이 헤어진 상대의 SNS 에 찾아 들어가 근황을 살펴본다.
+- [홧김에 때린 뒤의 후회](../docs/remorse-after-hitting-in-anger.md) 화가 나서 가족을 때린 사람이 곧이어 무안해하거나 후회한다.
