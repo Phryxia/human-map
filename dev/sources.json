@@ -30459,5 +30459,11 @@
     "last": "2026-11-17",
     "result": "VERIFIED",
     "lastVerified": "2026-11-17"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9917731&rettype=abstract&retmode=text": {
+    "first": "2026-11-17",
+    "last": "2026-11-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-17"
   }
 }
