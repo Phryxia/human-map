@@ -12745,8 +12745,8 @@
   },
   "https://www.gutenberg.org/cache/epub/155/pg155-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-09",
-    "result": "VERIFIED",
+    "last": "2026-11-17",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-09"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30443237&rettype=abstract&retmode=text": {
@@ -15922,21 +15922,21 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/9880251/": {
     "first": "2026-11-01",
-    "last": "2026-11-09",
+    "last": "2026-11-17",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-03"
   },
   "https://pubmed.ncbi.nlm.nih.gov/23458548/": {
     "first": "2026-11-01",
-    "last": "2026-11-09",
+    "last": "2026-11-17",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-03"
   },
   "https://www.gqkorea.co.kr/?p=309432": {
     "first": "2026-11-01",
-    "last": "2026-11-09",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-17"
   },
   "https://www.korean.go.kr/nkview/onletter/20060501/10.html": {
     "first": "2026-11-01",
@@ -17438,8 +17438,8 @@
   },
   "https://www.gutenberg.org/cache/epub/78669/pg78669-images.html": {
     "first": "2026-11-02",
-    "last": "2026-11-09",
-    "result": "VERIFIED",
+    "last": "2026-11-17",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-09"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642213/": {
@@ -18343,9 +18343,9 @@
   },
   "https://www.sciencefocus.com/the-human-body/why-do-we-fidget": {
     "first": "2026-11-03",
-    "last": "2026-11-09",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-17"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11295400/": {
     "first": "2026-11-03",
@@ -21786,9 +21786,9 @@
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39011341%20AND%20SRC:MED&resultType=core&format=json": {
     "first": "2026-11-07",
-    "last": "2026-11-09",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-17"
   },
   "https://www.etoday.co.kr/news/view/139963": {
     "first": "2026-11-08",
@@ -23112,9 +23112,9 @@
   },
   "https://iris.uniroma1.it/handle/11573/1353277": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-17",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-17"
   },
   "https://www.gutenberg.org/cache/epub/135/pg135-images.html": {
     "first": "2026-11-09",
@@ -30287,6 +30287,12 @@
     "lastVerified": "2026-11-17"
   },
   "https://petition.parliament.uk/archived/petitions/105931": {
+    "first": "2026-11-17",
+    "last": "2026-11-17",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-17"
+  },
+  "https://ko.wikisource.org/wiki/타락자": {
     "first": "2026-11-17",
     "last": "2026-11-17",
     "result": "VERIFIED",
