@@ -18,6 +18,8 @@
 
 2025년 글[^5]의 필자는 한국에서는 예의상 몇 번 사양하고 권하는 쪽도 그 말을 거절로 받아들이지 않았지만 독일에서는 두 번째 권유가 거의 오가지 않았다고 적었다.
 
+2025년 7월 글[^6]은 중국에서 주인이 손님의 첫 사양이 폐를 끼치기 싫거나 너무 바라는 것처럼 보이기 싫은 데서 나올 수 있다는 것을 알고 한 번 더 권한다고 적었다.
+
 # 관계
 
 ## 상위
@@ -34,7 +36,7 @@
 
 ## 결과
 
-없음.
+- [음식을 거듭 권하기](pressing-food-on-others.md)[^6]
 
 ## 대립
 
@@ -47,3 +49,4 @@
 [^3]: [문학] "Chia Lien and lady Feng promptly pressed her to have a glass of wine, and bade her sit on the stove-couch, but dame Chao was obstinate in her refusal." (가련과 봉저는 곧바로 그녀에게 술 한 잔을 권하고 구들 위에 앉으라고 했지만 조 유모는 한사코 사양했다.) — Cao Xueqin, Hung Lou Meng, or, the Dream of the Red Chamber, Book I, H. Bencraft Joly 옮김, Project Gutenberg, 2006-01-01, https://www.gutenberg.org/cache/epub/9603/pg9603-images.html, 2026-10-18 접속
 [^4]: [학술] "the verbal refusal in reacting to people’s offerings (especially gifts) does not literally mean “No, I don’t want it.”" (사람들이 건네는 것(특히 선물)에 반응하며 하는 말로 된 거절은 글자 그대로 "아니요, 원하지 않아요" 라는 뜻이 아니다.) — Yawei Li, "A Polite and Respectful Acceptance: Implicit Function of Refusal in Chinese from Pedagogical Perspective", Chinese Language Teaching Methodology and Technology 3(2), 2020, https://engagedscholarship.csuohio.edu/cltmt/vol3/iss2/3, 2026-10-18 접속
 [^5]: [매체] "예의상 몇 번은 거절을 하고, 그 말을 거절로 받아들이지 않는 그 접대 방식이 익숙했던 한국과 달리 독일에서는 두 번째 권하는 말이 거의 오가지 않았다." — 메이, 「거절하는 연습, 거절을 받아들이는 연습」, 다음 세상의 모든 문화, 2025-05-09, https://v.daum.net/v/Fa0lMeDxRv, 2026-10-18 접속
+[^6]: [매체] "The guest may also refuse initially because they do not want to inconvenience the host or appear too eager. The host knows that possibility and offers once more." (손님은 주인에게 폐를 끼치기 싫거나 너무 바라는 것처럼 보이기 싫어서 처음에 사양할 수도 있다. 주인은 그럴 수 있다는 것을 알고 한 번 더 권한다.) — Polyglottist Language Academy, "8 Unspoken Rules of Chinese Hospitality Every Visitor Should Know", 2025-07-18, https://www.polyglottistlanguageacademy.com/language-culture-travelling-blog/2025/7/18/8-unspoken-rules-of-chinese-hospitality, 2026-11-17 접속
