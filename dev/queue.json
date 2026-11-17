@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-16T21:40:55.784Z",
-  "nextSeq": 5384,
-  "stops": 284,
+  "savedAt": "2026-11-17T00:33:49.432Z",
+  "nextSeq": 5391,
+  "stops": 285,
   "items": [
-    {
-      "id": "9986615e",
-      "title": "not-keeping-fire-extinguishers 보강: 한국 공공 파편, 주택용 소방시설 설치율",
-      "priority": 50,
-      "note": "2026-11-16 인천소방본부 보도자료 NE030401/2065074, 2082280 은 화재경보기 홍보 목표만 있고 설치율 실측치 없음. 경기도 소식지 vol189/3_3 텍스트 없음. 이전 note: go.seoul.co.kr prnewsView id=320052 '설치율 35.4%' 발행일 미상, 소방청 원문 찾기",
-      "createdAt": "2026-11-16T03:32:43.328Z",
-      "seq": 5303
-    },
     {
       "id": "c54dea4e",
       "title": "keeping-loose-change-in-jars 보강: 불황 때 꺼내 쓰는 조건",
@@ -227,6 +219,22 @@
       "note": "2026-11-16 PsyPost 2021-01-05 파편과 별칭 Fear of being laughed at 추가함. 두 현상을 잇는 원인 근거 대목 찾기. PMC5682340 gelotophobia 시선 연구는 reCAPTCHA. brunch @hoonius/1316 의 '비웃음 공포증' 은 그 파편 원문에 없어 별칭 근거로 못 씀",
       "createdAt": "2026-11-16T21:40:48.603Z",
       "seq": 5383
+    },
+    {
+      "id": "1af1b513",
+      "title": "not-keeping-fire-extinguishers 보강: 한국 공공 파편, 주택용 소방시설 설치율",
+      "priority": 50,
+      "note": "2026-11-16 인천소방본부 보도자료 NE030401/2065074, 2082280 은 화재경보기 홍보 목표만 있고 설치율 실측치 없음. 경기도 소식지 vol189/3_3 텍스트 없음. 이전 note: go.seoul.co.kr prnewsView id=320052 '설치율 35.4%' 발행일 미상, 소방청 원문 찾기",
+      "createdAt": "2026-11-17T00:23:27.496Z",
+      "seq": 5389
+    },
+    {
+      "id": "fd957b23",
+      "title": "envy 보강: 1900년대 전반 문학 파편",
+      "priority": 50,
+      "note": "현진건 빈처 1921 ko.wikisource '나도 이런 것을 하나 가졌으면' 양산 대목은 빈처를 이미 4개 문서가 써서 5번째가 되어 WARN. 다른 작품에서 찾기",
+      "createdAt": "2026-11-17T00:28:40.668Z",
+      "seq": 5390
     },
     {
       "id": "155ac9fc",
