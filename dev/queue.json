@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-17T03:34:07.645Z",
-  "nextSeq": 5421,
-  "stops": 286,
+  "savedAt": "2026-11-17T06:33:23.042Z",
+  "nextSeq": 5425,
+  "stops": 287,
   "items": [
     {
       "id": "9e0dfac6",
@@ -243,6 +243,14 @@
       "note": "2026-11-17 prnewswire.co.uk nextbase 2023-11-20 목격자 없을 때 14%, dt.co.kr/article/11124481 (2017-10-24) 물피 도주 정의, teamblind kr 주차된-차량-파손시-대처-방법-문의-7y5rycho 피해자 쪽 글 후보",
       "createdAt": "2026-11-17T03:30:36.668Z",
       "seq": 5420
+    },
+    {
+      "id": "6804c447",
+      "title": "reentering-burning-home 보강: 공공 통계 파편",
+      "priority": 50,
+      "note": "2026-11-17 USFA Topical Report 재진입 항목은 PDF, fireandemergency.nz 는 Incapsula 차단. NZ Herald 2010-06-15 5IQQQHX55CSCVCDZOW3BK46U2Y 다치거나 숨진 사람 절반 넘게 재진입 추정 대목 후보. Lancashire FRS 'If you have a fire' 동기 대목",
+      "createdAt": "2026-11-17T06:26:31.700Z",
+      "seq": 5424
     },
     {
       "id": "155ac9fc",
@@ -3115,6 +3123,14 @@
       "note": "2026-11-17 HN Algolia 'walk between two people talking' 와 한국어 웹 검색에서 1인칭 대목 없음. 이전: Bouska & Beatty 1978-04 Bulletin of the Psychonomic Society 11(4) 'dyads with a member dressed as a priest or businessman (higher status ratings) detoured significantly more shoppers' link.springer.com/article/10.3758/BF03336817 VERIFIED 가능(curl UA). Knowles 1973 집단 크기",
       "createdAt": "2026-11-17T03:14:00.127Z",
       "seq": 5411
+    },
+    {
+      "id": "0f3747cf",
+      "title": "인상 관리",
+      "priority": 10,
+      "note": "name-dropping 의 2024 PMC11591133 파편에서 거짓 수행의 여러 전술로 나옴. name-dropping 과 exaggerating-own-stories 의 상위 후보",
+      "createdAt": "2026-11-17T06:20:03.861Z",
+      "seq": 5423
     },
     {
       "id": "02b2f242",
