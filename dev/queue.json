@@ -1,192 +1,72 @@
 {
   "version": 1,
-  "savedAt": "2026-11-17T18:35:06.582Z",
-  "nextSeq": 5482,
-  "stops": 291,
+  "savedAt": "2026-11-17T21:36:22.740Z",
+  "nextSeq": 5516,
+  "stops": 292,
   "items": [
     {
-      "id": "eb8dcf8e",
-      "title": "passing-on-rumors 보강: SNS 파편, gossip 관계",
-      "priority": 50,
-      "note": "2026-11-17 세계일보 2014 지라시 파편 추가함. WebMD health-rumors-gossip 'Gossip is when you take rumors -- those unconfirmed pieces of information -- and pass them along' 는 포함 관계 후보(발행일 미상). livescience 912 2006 소문 정의. 주간경향 201703281700291 받은 글 퍼온 글 대목. SNS 후보 못 찾음",
-      "createdAt": "2026-11-17T09:19:24.629Z",
-      "seq": 5438
-    },
-    {
-      "id": "206b6561",
-      "title": "drunken-confession 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-11-17 후회 파편 추가함. heavy-drinking 이 원인이 되려면 많이 마신 뒤 털어놓는다는 인과 대목 필요. PMC4153408 Fairbairn 2014 조건 대목(협력 상황에서만). 링커리어 jayuu/6091658 2026-06-13 다음 날 기억 안 난다며 부인하는 게시글 후보",
-      "createdAt": "2026-11-17T09:21:31.233Z",
-      "seq": 5439
-    },
-    {
-      "id": "d1f25584",
-      "title": "buying-in-installments 와 buying-on-credit-at-local-shops 관계",
-      "priority": 50,
-      "note": "2026-11-17 CFPB 2023 공공 파편 추가함. 두 문서의 공통 상위(나중에 갚기로 하고 사기) 후보. 연준 SHED 2025 credit 절 'only way to afford the purchase' 이유 대목, CFPB 2023 낮은 신용점수 때문에 무이자 BNPL 을 찾는다는 원인 대목",
-      "createdAt": "2026-11-17T09:23:06.335Z",
-      "seq": 5440
-    },
-    {
-      "id": "6948027f",
-      "title": "nitpicking 보강: 원인 간선",
-      "priority": 50,
-      "note": "2026-11-17 Spokesman 1996 Ann Landers 파편 추가함. 싫은 상대라 흠을 잡는다는 원인 대목 못 찾음. 서울신문 1990-10-26 19901026003003 트집 칼럼, Spokesman 1997-05-12 immaturity-adds-to-marital-problems 보복성 비판 대목, PMC8474672 갈등 중 criticizing each other",
-      "createdAt": "2026-11-17T09:31:26.327Z",
-      "seq": 5441
-    },
-    {
-      "id": "66316f67",
-      "title": "decanting-chemicals-into-drink-bottles 보강: 1990년대 이전 파편, SNS 파편, 옮겨 담는 이유",
-      "priority": 50,
-      "note": "2026-11-17 MMWR 00055332 1998 은 연료를 램프로 옮겨 담는 대목이라 음료병 아님. 00051666 은 음료 오염. extoxnet n92_89, n151_95 대목 없음. 남은 후보: 서울신문 199x 아카이브 음료수병 농약, MMWR 1980~90년대 Paraquat·lye 색인. 이전: 코메디닷컴 1201664 2011 소비자원 락스 오음 대목",
-      "createdAt": "2026-11-17T09:33:12.077Z",
-      "seq": 5442
-    },
-    {
-      "id": "43e6d313",
-      "title": "not-ventilating-in-winter 보강: SNS 파편, energy-limiting-behavior 관계",
-      "priority": 50,
-      "note": "2026-11-17 Grist 2016-12-15 독자 편지 파편 추가함. Mumsnet 은 Cloudflare 봇 확인. SNS 후보: boards.straightdope.com 679334 page=4 창문 여는 사람 불평 스레드, ask.metafilter 250243 Fresh air in the winter. 삼성 뉴스룸 2016-12-28 미세먼지 환기 망설임",
-      "createdAt": "2026-11-17T09:34:11.808Z",
-      "seq": 5443
-    },
-    {
-      "id": "f722eee8",
-      "title": "resenting-late-mergers 와 confronting-line-cutters 관계",
-      "priority": 50,
-      "note": "2026-11-17 road-rage 결과 간선 그음. confronting-line-cutters 와는 새치기로 여기는 마음이 항의로 이어진다는 인과 대목 필요. MnDOT zippermerge 'Minnesota nice' 대목(발행일 미상)",
-      "createdAt": "2026-11-17T09:35:44.199Z",
-      "seq": 5444
-    },
-    {
-      "id": "f026a4d2",
+      "id": "d943962f",
       "title": "not-ventilating-in-winter 보강: 문학 파편",
       "priority": 50,
-      "note": "2026-11-17 Gutenberg 여전히 호스트 전체 503. 후보 New Grub Street 1709, The Odd Women 4313, Poor Folk 2302 를 window shut stuffy coal 로 grep. 위키문헌 날개, 빈처, 운수 좋은 날, 화수분 등에는 장면 없음",
-      "createdAt": "2026-11-17T09:35:49.969Z",
-      "seq": 5445
+      "note": "2026-11-17 Gutenberg 계속 503. en.wikisource 검색 API 가 몇 번 뒤 JSON 대신 오류(요청 제한). 후보: Ragged Trousered Philanthropists(en.wikisource, 1914) 가난한 집 창문, Lectures on Ventilation Lecture III 'as cold weather approaches, we must keep the windows shut' 는 강연(매체). 이전: New Grub Street 1709, The Odd Women 4313, Poor Folk 2302",
+      "createdAt": "2026-11-17T21:25:27.914Z",
+      "seq": 5503
     },
     {
-      "id": "a2fcd388",
-      "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
-      "priority": 50,
-      "note": "2026-11-16 매일신문 2001-01-06, 위키트리 1143236 2026 매체 파편 추가함. 대립 근거 못 찾음. Daily Princetonian 2015-03 on-complaining 'Forcing ourselves to disguise and conceal our problems does not make them disappear' 는 약한 후보",
-      "createdAt": "2026-11-17T09:35:56.172Z",
-      "seq": 5446
-    },
-    {
-      "id": "c3567abf",
-      "title": "not-reading-nutrition-labels 보강: 1990년대 공공 파편, 젊은 층 감소",
-      "priority": 50,
-      "note": "2026-11-17 SNS 파편(HN 34258332) 추가함. 1990년대 HTML 공공 자료 못 찾음: USDA FSIS 1992 'less than 2 percent say they never read labels' 는 ageconsearch PDF, 일본 국민영양조사 평성 11년 영양성분표시 이용상황은 2001-03 발표. 1990년대 조건을 풀거나 학술로 바꾸는 길",
-      "createdAt": "2026-11-17T15:20:45.040Z",
-      "seq": 5464
-    },
-    {
-      "id": "46dce68d",
+      "id": "c453009c",
       "title": "making-excuses-for-mistakes 보강: SNS 파편, blaming-others 관계",
       "priority": 50,
-      "note": "2026-11-17 blaming-others 는 운명이나 신 탓(하위 blaming-fate-or-god)도 포함해 변명의 하위로 둘 수 없음. 원인 간선 근거 대목 필요. comento.kr 640465 는 답변자의 일반 조언, eopla.net/magazines/20254 는 본문이 HTML 에 없음. 이전: HN 'make excuses mistake' 1인칭 없음",
-      "createdAt": "2026-11-17T15:21:37.999Z",
-      "seq": 5465
+      "note": "2026-11-17 Straight Dope search.json 으로 'excuse after excuse', 'I made excuses', 'always an excuse' 검색. 1인칭으로 자기 실수를 변명한 글 없음. 662315 #558 2013-07-26 'every fucking thing that goes wrong in her life is someone else’s fault, never hers' 는 blaming-others 후보. 737287 #1 2015-11-11 은 실명 들어 제외. 이전: comento.kr 640465, eopla.net 20254, HN",
+      "createdAt": "2026-11-17T21:29:21.773Z",
+      "seq": 5505
     },
     {
-      "id": "3bb2d451",
-      "title": "unfollowing-over-politics 보강: SNS 파편, online-political-argument-fatigue 관계",
-      "priority": 50,
-      "note": "2026-11-17 GWI 2024-10-02 보도자료 파편 추가함. 같은 글의 'As such' 대목은 정치 콘텐츠가 벅차다는 이유와 음소거를 잇지만 피로 문서는 논쟁을 주고받는 피로라 간선은 보류. HN Algolia 'unfollowed tired political' 1인칭 없음",
-      "createdAt": "2026-11-17T15:22:48.847Z",
-      "seq": 5466
-    },
-    {
-      "id": "4bae39d2",
+      "id": "eb8ce36b",
       "title": "browsing-the-open-fridge 보강: 학술·공공 파편, 2000년 이전 파편",
       "priority": 50,
-      "note": "2026-11-17 공공 에너지 절약 안내(gea.gov.gy ?p=1733 'Decide what you want before opening the refrigerator door.', energyrating.gov.au, emsd.gov.hk)는 권고뿐 행동 서술 아님. 문 열림 현장 연구(NIST nbsir79-1781 등)는 횟수만 있고 PDF. 이전: weightwatchers 2021-02-10, yahoo 2024-04-10 매체 후보",
-      "createdAt": "2026-11-17T15:23:17.981Z",
-      "seq": 5467
+      "note": "2026-11-17 Straight Dope 368235 page=3 2006 SNS 파편 추가함. 학술·공공은 여전히 없음. 이전: gea.gov.gy ?p=1733 권고뿐, NIST nbsir79-1781 PDF, weightwatchers 2021-02-10",
+      "createdAt": "2026-11-17T21:31:03.726Z",
+      "seq": 5507
     },
     {
-      "id": "aa585d01",
-      "title": "reaching-to-call-the-dead 보강: 학술·문학 파편, continuing-bonds 관계",
+      "id": "ec20c746",
+      "title": "reaching-to-call-the-dead 보강: 문학 파편, continuing-bonds 관계",
       "priority": 50,
-      "note": "2026-11-17 Europe PMC 'pick up the phone' 사별 검색에 해당 대목 없음. stacker.com 2026-08 continuing bonds 기사는 음성사서함 저장과 바람의 전화만. newstatesman 2017-04 고인에게 문자 보내기는 본문 추출 안 됨. 이전: bromka.substack 2023-05-14, thecaregiverspace 2022-07-06",
-      "createdAt": "2026-11-17T15:23:56.937Z",
-      "seq": 5468
+      "note": "2026-11-17 Straight Dope 522760 2009 SNS 파편 추가함. 문학과 continuing-bonds 근거 대목은 아직. Straight Dope 657508 #39 2013 'wanted to pick up the phone to call her and share some news' 도 있음",
+      "createdAt": "2026-11-17T21:31:55.102Z",
+      "seq": 5508
     },
     {
-      "id": "26fca284",
-      "title": "seeking-spoilers 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-17 PMC13369140 2026 'some audiences actively seek spoilers to avoid negative emotions without significantly reducing overall enjoyment or perceived suspense' 후보. PMC10725759 2024 'other readers strongly dislike and avoid spoilers' 는 서로 다른 사람의 선호라 avoiding-spoilers 대립 근거 아님",
-      "createdAt": "2026-11-17T15:26:04.961Z",
-      "seq": 5469
-    },
-    {
-      "id": "02fb292f",
-      "title": "pressure-to-get-likes 와 checking-likes-after-posting 관계",
-      "priority": 50,
-      "note": "2026-11-17 PMC12351196 은 반응 수가 게시 행동에 영향을 준다고만 하고 압박과 지우기의 인과 문장은 없음. deleting-posts-with-few-reactions 에 같은 글의 지우기 대목을 학술 파편으로 넣음. HN 18583879 2018-12-02 후보",
-      "createdAt": "2026-11-17T15:28:03.852Z",
-      "seq": 5470
-    },
-    {
-      "id": "61aa1efb",
-      "title": "not-wearing-glasses 와 avoiding-aids-that-look-old 관계",
-      "priority": 50,
-      "note": "2026-11-17 HN 3083304 2011 허영심 파편 추가함. opticianonline 25-of-brits 기사 403, abdo.org.uk ?p=104793 404. 두 현상을 잇는 인과 대목 필요",
-      "createdAt": "2026-11-17T15:29:09.412Z",
-      "seq": 5471
-    },
-    {
-      "id": "08e58701",
+      "id": "023b1bbc",
       "title": "leaving-after-hitting-parked-car 보강: SNS·학술 파편",
       "priority": 50,
-      "note": "2026-11-17 Nextbase 2023-11-20 목격자 없을 때 14% 파편 추가함. valuepenguin parked-car-damage-survey, insurancebusinessmag au 562374 '절반이 신고 안 함', 1stcentralinsurance 14.3% 후보. dt.co.kr 11124481 물피 도주 정의",
-      "createdAt": "2026-11-17T15:31:33.714Z",
-      "seq": 5472
+      "note": "2026-11-17 Straight Dope search.json 검색: 194407 #1 2003-08-11 주차 차량을 받고 쪽지를 남겼으나 'Ideally I would just fix my own car, let them worry about theirs' 라는 대목(떠나지는 않음). 337010 #30 2005 쪽지 관행 대목. 이전: valuepenguin parked-car-damage-survey, insurancebusinessmag au 562374, 1stcentralinsurance, dt.co.kr 11124481",
+      "createdAt": "2026-11-17T21:33:50.902Z",
+      "seq": 5511
     },
     {
-      "id": "eabb479f",
-      "title": "nagging 과 laughing-off-holiday-nagging 관계",
+      "id": "c0542a0e",
+      "title": "not-paying-fines 보강: 학술 파편",
       "priority": 50,
-      "note": "2026-11-17 laughing-off 의 [^2] K-공감 2020-01 '명절 잔소리를 들었을 때의 대처로 웃음으로 대충 넘긴다' 가 잔소리에 대한 대처를 말하므로 결과 간선 근거 후보. 간선을 그으려면 nagging 문서에도 같은 출처 파편을 더하고 번호를 다시 매겨야 함. 이전: 한국일보 1998-04-28 미열람, Boxer 2002 403",
-      "createdAt": "2026-11-17T15:33:40.126Z",
-      "seq": 5473
+      "note": "2026-11-17 Straight Dope 333599 2005 고지서를 못 봐 미납 SNS 파편 추가함. 학술 후보: J-PAL Haynes 외 2013 문자 알림 납부 증가. Straight Dope 130526 #8 2002 독촉장을 받고도 안 낸 대목도 있음",
+      "createdAt": "2026-11-17T21:35:23.781Z",
+      "seq": 5512
     },
     {
-      "id": "b01ecd04",
-      "title": "not-paying-fines 보강: SNS 파편, 학술 파편, 고지서를 받지 못해 미납이 되는 대목",
-      "priority": 50,
-      "note": "2026-11-17 공공 둘, 매체 하나로 추가함. ALRC Report 133 12장 12.29 우편이 불안정해 집행 고지서를 못 받는다는 대목(2018-02-05). J-PAL Haynes 외 2013 문자 알림 납부 증가. Mumsnet 4685664 2022-11-26 주차 위반금 고지서를 못 받았다는 게시글",
-      "createdAt": "2026-11-17T18:12:02.306Z",
-      "seq": 5478
-    },
-    {
-      "id": "3d1913bc",
-      "title": "not-paying-fines 와 leaving-mail-unopened 관계",
-      "priority": 50,
-      "note": "고지서를 열지 않아 벌금을 내지 않는다는 인과 대목 필요. Russell Webster 2024 Centre for Justice Innovation 보고서 소개 글",
-      "createdAt": "2026-11-17T18:12:02.443Z",
-      "seq": 5479
-    },
-    {
-      "id": "f15bda78",
+      "id": "a517befa",
       "title": "borrowing-to-avoid-asking-family 보강: 공공 파편, SNS 파편",
       "priority": 50,
-      "note": "2026-11-17 1997 CUHK Varsity 전당포 파편 추가함. 공공 HTML 못 찾음. FCA 2014 esro 보고서는 PDF. regulationtomorrow 2014-04-24 요약 'because they cannot or do not want to ask family or close friends for money'. Globe and Mail 2009-11-16 article4293348 'It was just embarrassment.' 대목",
-      "createdAt": "2026-11-17T18:20:06.606Z",
-      "seq": 5480
+      "note": "2026-11-17 Straight Dope search.json 'loan rather than ask family' 등에 1인칭 대목 없음. 이전: FCA 2014 esro PDF, regulationtomorrow 2014-04-24 요약, Globe and Mail 2009-11-16 article4293348",
+      "createdAt": "2026-11-17T21:36:05.583Z",
+      "seq": 5514
     },
     {
-      "id": "cedb7188",
+      "id": "e6dbc379",
       "title": "reaching-to-call-the-dead 보강: 문학 파편, 원인 간선",
       "priority": 50,
-      "note": "2026-11-17 PMC8858332 2021 학술 파편 추가함. Next Big Idea Club 2022-03-01 O'Connor 발췌 'two conflicting streams of information' 원인 대목(같은 저자). eccalifornian ?p=22016 2018-05-23, communityedition.ca ?p=46025 2026-06-10, griefincommon 1101 2019-06-11 문자 대목",
-      "createdAt": "2026-11-17T18:25:43.929Z",
-      "seq": 5481
+      "note": "2026-11-17 PMC8858332 2021 학술 파편 추가함. Straight Dope 522760 2009 SNS 파편 추가함. Next Big Idea Club 2022-03-01 O'Connor 발췌 'two conflicting streams of information' 원인 대목(같은 저자). eccalifornian ?p=22016 2018-05-23, communityedition.ca ?p=46025 2026-06-10, griefincommon 1101 2019-06-11 문자 대목",
+      "createdAt": "2026-11-17T21:36:13.652Z",
+      "seq": 5515
     },
     {
       "id": "155ac9fc",
@@ -1539,6 +1419,78 @@
       "note": "2026-11-17 문서는 최소 조건 충족, 공공 출처 탐색이 여러 회차 실패해 priority 낮춤. 2026-11-16 gov.uk 검색 API 약 150건, gov.scot 41건, PSNet 에서 전염·하향 방향 공공 대목 없음. 남은 후보: committees.parliament.uk, 호주 왕립위원회 HTML, 국회입법조사처",
       "createdAt": "2026-11-17T09:05:25.784Z",
       "seq": 5436
+    },
+    {
+      "id": "548e868b",
+      "title": "drunken-confession 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-17 과음→털어놓기 인과 대목 재검색. 찾은 것은 모두 '많이 마시고 털어놓았다' 꼴의 순차 서술이라 원인 근거 아님: aol.com 41-people-reveal-drunken-confession-020059548 2024-12-14, aol.com purposely-baby-trapped-60-dark-063126841 2025-01-20, factinate when-the-dark-truth-finally-comes-out. 학술 후보 Ingham 외 1977 Alcohol Consumption and Self-disclosure(British Journal of Addiction 72(4), 'self-disclosure increases with consumption') 는 UWE, Wiley 403. 반대 결과: Schippers 1997",
+      "createdAt": "2026-11-17T21:12:49.918Z",
+      "seq": 5499
+    },
+    {
+      "id": "67e0f084",
+      "title": "nitpicking 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-17 원한·화풀이→트집 인과 대목 재검색 실패. 가까운 것: marriage.com displaced-anger 2023-08-14 목록 'Becoming impatient or critical over small things'(인과가 목록으로 떨어짐), fnnews 202604061436166299 짜증. 남은 길: 판결문 '앙심을 품고' '트집', Gutenberg 'out of spite' 'found fault'. 이전: Spokesman 1997-05-12 immaturity-adds-to-marital-problems, PMC8474672",
+      "createdAt": "2026-11-17T21:19:20.697Z",
+      "seq": 5500
+    },
+    {
+      "id": "a3f898a4",
+      "title": "decanting-chemicals-into-drink-bottles 보강: 옮겨 담는 이유",
+      "priority": 30,
+      "note": "2026-11-17 Straight Dope 309305 2005 우유통 파편 추가함. 같은 스레드 첫 글은 가진 용기가 빈 세제통뿐이라 휘발유를 담으려 했다는 이유 대목(한 출처 한 파편이라 못 씀). reddit 은 검색 도구가 막음, ask.metafilter 봇 확인",
+      "createdAt": "2026-11-17T21:21:27.505Z",
+      "seq": 5501
+    },
+    {
+      "id": "c9bfedce",
+      "title": "not-ventilating-in-winter 와 energy-limiting-behavior 관계",
+      "priority": 30,
+      "note": "2026-11-17 SNS 파편(Straight Dope 679334 2014) 추가함. 관계는 미검토. 2026 가격비교 업체 발표의 '에너지 비용 때문에 창문을 닫아 두었다' 대목이 원인 간선 후보",
+      "createdAt": "2026-11-17T21:22:25.839Z",
+      "seq": 5502
+    },
+    {
+      "id": "9e1521cc",
+      "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
+      "priority": 30,
+      "note": "2026-11-17 후보 healthunlocked anxiety-depression-support posts/140724204 2019-05-12 'I thought about coming on here earlier and pouring my heart out because ... I didn’t want to be a burden' 는 두 마음이 맞서지만 SNS 라 두 문서에 쓰면 같은 글 경고. 비SNS 근거 필요. brunch warmsmallroom/145 2026-06-12 '목젖까지 올라왔던 감정들을 다시 억누르고 말을 삼키게' 는 감정 일반",
+      "createdAt": "2026-11-17T21:27:32.860Z",
+      "seq": 5504
+    },
+    {
+      "id": "30241e68",
+      "title": "unfollowing-over-politics 와 online-political-argument-fatigue 관계",
+      "priority": 30,
+      "note": "2026-11-17 SNS 파편(Straight Dope 822154 2018) 추가함. 피로 문서는 논쟁을 주고받는 피로라 간선 근거 대목 필요. GWI 2024-10-02 'As such' 대목은 콘텐츠가 벅차다는 이유",
+      "createdAt": "2026-11-17T21:30:05.011Z",
+      "seq": 5506
+    },
+    {
+      "id": "275743ae",
+      "title": "pressure-to-get-likes 와 checking-likes-after-posting 관계",
+      "priority": 30,
+      "note": "2026-11-17 HN 18583879 2018-12-02 는 좋아요에 매달려 많이 받을 글을 올린다는 대목으로 확인 행동과의 인과는 없음(pressure-to-get-likes 자체의 SNS 후보). HN Algolia 'keep checking likes pressure', 'obsessively check likes' 결과 없음. 이전: PMC12351196",
+      "createdAt": "2026-11-17T21:32:51.085Z",
+      "seq": 5509
+    },
+    {
+      "id": "471519d1",
+      "title": "not-wearing-glasses 와 avoiding-aids-that-look-old 관계",
+      "priority": 30,
+      "note": "2026-11-17 Straight Dope 'reading glasses' 'look old' 검색: 666865 #8 2013 목걸이 줄에 달아 늙어 보였다는 대목, 545955 #51 2010 돋보기가 필요해 늙은 느낌이라는 대목, 673633 #249 2013 돋보기를 안 사지만 허영은 아니라는 대목. 늙어 보여 안 쓴다는 인과 대목 없음. 이전: HN 3083304, opticianonline 403",
+      "createdAt": "2026-11-17T21:33:14.639Z",
+      "seq": 5510
+    },
+    {
+      "id": "9150b97e",
+      "title": "not-paying-fines 와 leaving-mail-unopened 관계",
+      "priority": 30,
+      "note": "2026-11-17 Straight Dope 'didn't open the letters fine', 'never opened letters fine court', 'unopened mail fine' 검색에 인과 대목 없음. 이전: Russell Webster 2024 Centre for Justice Innovation 보고서 소개 글",
+      "createdAt": "2026-11-17T21:35:39.193Z",
+      "seq": 5513
     },
     {
       "id": "9634edf0",
