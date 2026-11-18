@@ -14,6 +14,8 @@
 
 2020년 캐나다 연구[^3]의 저자들은 이주민 성노동자가 폭력적인 강도를 당한 뒤에도 체포, 기소, 경찰의 괴롭힘과 차별이 두려워 당국에 연락하지 않았다고 적었다.
 
+2025년 인천일보 기사[^4]는 임금체불로는 추방이 유예되지 않아 미등록자가 강제 추방을 우려해 노동청 신고를 꺼리고 사업주가 이를 악용한다고 적었다.
+
 # 관계
 
 ## 상위
@@ -41,3 +43,4 @@
 [^1]: [매체] "임금체불을 신고하려 해도 불법체류자라는 사실부터 밝혀야 하기 때문에 강제추방될 것이 두려워 신고를 꺼린다." — 조현석, 「외국인노동자 실태」, 서울신문, 2000-05-01, https://www.seoul.co.kr/news/2000/05/01/20000501003002, 2026-11-18 접속
 [^2]: [매체] "단둘이 있는 방에서 손님이 돌변해 폭행이나 협박을 해도 처벌이 두려워 신고할 수도 없고 피해를 보상받을 수 있는 길도 없다." — 김태훈, 「법은 바뀌었지만…성매매女의 삶은 그대로」, 경향신문, 2013-01-19, https://www.khan.co.kr/article/201301191345431/amp, 2026-11-18 접속
 [^3]: [학술] "Concerningly, im/migrant sex workers have avoided contacting authorities even after violent robberies due to fear of arrest, charges, police harassment, and discrimination." (우려스럽게도 이주민 성노동자들은 폭력적인 강도를 당한 뒤에도 체포, 기소, 경찰의 괴롭힘과 차별이 두려워 당국에 연락하지 않았다.) — Bronwyn McBride, Kate Shannon, Brittany Bingham, Melissa Braschel, Steffanie Strathdee, Shira M. Goldenberg, "Underreporting of Violence to Police among Women Sex Workers in Canada: Amplified Inequities for Im/migrant and In-Call Workers Prior to and Following End-Demand Legislation", Health and Human Rights 22(2), 2020-12, https://www.hhrjournal.org/2020/12/08/underreporting-of-violence-to-police-among-women-sex-workers-in-canada-amplified-inequities-for-im-migrant-and-in-call-workers-prior-to-and-following-end-demand-legislation/, 2026-11-18 접속
+[^4]: [매체] "범죄 피해나 인권침해를 당하면 피해가 구제될 때까지 추방이 유예되지만 임금체불로는 추방을 유예해주지 않는 탓에 미등록자는 강제 추방을 우려해 노동청 신고를 꺼리고, 사업주는 이를 악용하는 사례가 끊이지 않고 있는 게 현실이다." — 김혜진, 「"임금 체불 당한 미등록 외국인 구제책을"」, 인천일보, 2025-04-21, https://v.daum.net/v/20250421203002068?f=p, 2026-11-18 접속
