@@ -460,6 +460,7 @@
 - [술김에 속마음 털어놓기](docs/drunken-confession.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [쉬는 데 죄책감 느끼기](docs/guilt-about-resting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [스마트폰 확인 습관](docs/smartphone-checking-habit.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [스톱앤고 기능 끄기](docs/disabling-auto-stop-start.md) ([길과 운전](groups/roads-and-driving.md))
 - [스트레스 받을 때 매운 음식 찾기](docs/craving-spicy-food-under-stress.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [스포일러 찾아보기](docs/seeking-spoilers.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [스포일러 피하기](docs/avoiding-spoilers.md) ([걱정과 기분](groups/worry-and-mood.md))
