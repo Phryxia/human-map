@@ -31,6 +31,7 @@
 - [비닐봉지 모아 두기](hoarding-plastic-bags.md)
 - [남은 약 버리지 않고 두기](keeping-leftover-medicines.md)
 - [시든 꽃 버리지 않기](keeping-withered-flowers.md)
+- [전자제품 상자 버리지 않고 두기](keeping-electronics-boxes.md)
 
 ## 원인
 

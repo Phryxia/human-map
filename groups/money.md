@@ -38,6 +38,7 @@
   - [비닐봉지 모아 두기](../docs/hoarding-plastic-bags.md)
   - [시든 꽃 버리지 않기](../docs/keeping-withered-flowers.md)
   - [안 쓰는 휴대폰 집에 두기](../docs/keeping-old-phones.md)
+  - [전자제품 상자 버리지 않고 두기](../docs/keeping-electronics-boxes.md)
 - [물려받을 재산 기대하기](../docs/counting-on-inheritance.md) 사람이 부모나 친척에게서 물려받을 재산을 자기 살림 계산에 넣고 기대한다.
 - [받을 돈 찾아가지 않기](../docs/unclaimed-money.md) 사람이 자기가 받을 수 있는 환급금, 예금, 보험금을 찾아가지 않고 내버려 둔다.
   - [리베이트 받지 않기](../docs/rebate-slippage.md)
