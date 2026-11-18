@@ -123,6 +123,7 @@
 - [좋아하는 사람의 이름 되풀이해 쓰기](../docs/writing-a-crushs-name.md) 어떤 사람을 좋아하는 사람이 상대의 이름을 모래나 칠판, 공책 따위에 거듭 써 본다.
 - [짐이 되기 싫은 마음](../docs/self-perceived-burden.md) 나이 들거나 아픈 사람이 가족과 돌보는 사람에게 짐이 된다고 느끼고 그 짐을 덜려고 도움을 줄이거나 따로 살거나 치료를 그만두기를 바란다.
 - [짝사랑](../docs/unrequited-love.md) 어떤 사람을 사랑하는 사람이 상대가 같은 마음을 주지 않거나 그 마음을 모르는 채로 혼자 마음을 품는다.
+  - [사랑 고백 망설이기](../docs/hesitating-to-confess-love.md)
 - [참아 온 불만의 폭발](../docs/suppressed-anger-outburst.md) 오래 불만이나 분노를 드러내지 않던 사람이 사소한 계기에 쌓인 감정을 한꺼번에 쏟아 낸다.
 - [책 빌려주지 않기](../docs/never-lending-books.md) 빌려준 책을 돌려받지 못한 적이 있는 사람이 그 뒤로 남에게 책을 빌려주지 않는다.
 - [첫눈에 반함](../docs/love-at-first-sight.md) 사람이 처음 본 상대에게 그 자리에서 사랑에 빠졌다고 느낀다.
