@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-18T03:33:53.330Z",
-  "nextSeq": 5557,
-  "stops": 294,
+  "savedAt": "2026-11-18T06:40:23.500Z",
+  "nextSeq": 5567,
+  "stops": 295,
   "items": [
     {
       "id": "09dfd34b",
@@ -11,6 +11,38 @@
       "note": "2026-11-18 파편 둘(SAE 2018-01-0609, Torque News 2023-10-26). 후보: Direct Line 2024 영국 운전자 27% 'actively annoying'(carscoops, 원 보도 확인 필요), mobil.com automakers-adopt-start-stop-systems 약 40% 끔. gmauthority 2018-10 댓글 글은 봇 차단. 큐의 '스톱앤고 기능 끄기' p10 항목은 이 문서로 처리함",
       "createdAt": "2026-11-18T03:33:33.560Z",
       "seq": 5556
+    },
+    {
+      "id": "cf31ed6d",
+      "title": "ignoring-boil-water-advisories 보강: SNS 파편, 원인(번거로움)",
+      "priority": 50,
+      "note": "2026-11-18 후보: HN item?id=1312574 (2010-05-02 보스턴, 권고를 늦게 앎), straightdope 537994 (2010-05-03 수돗물로 양치, HTML 403·json 경로만 열림), CCW 같은 글 'major inconvenience ... boiling and then cooling water' 는 같은 출처라 못 씀, DWI 사례 연구(발행일 미상) 'not universally followed', PMC6716804 노르웨이 준수 연구 미확인. 한국어 출처 없음(국내는 음용 자제 권고)",
+      "createdAt": "2026-11-18T06:14:47.702Z",
+      "seq": 5562
+    },
+    {
+      "id": "6e98e7fa",
+      "title": "thawing-meat-at-room-temperature 보강: 미확인 파편 대체, 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-18 Mumsnet 3103958 봇 확인, PMC7597454 403(europepmc 도 봇 확인, fullTextXML API 에는 원문 있음). 후보: Jay 1999 호주 전화조사 40% 실온 해동(문장 259자), advertiser.ie athlone 100838 (2018-05-24 EIQA 56%), safefood.net 403. 식약처 해동 조사 미탐색. washing-raw-chicken 과 공통 상위(가정 식품 위생 권고 따르지 않기) 후보",
+      "createdAt": "2026-11-18T06:22:31.545Z",
+      "seq": 5563
+    },
+    {
+      "id": "500d2fac",
+      "title": "present-peeking 보강: 학술 파편, 엿본 뒤 후회",
+      "priority": 50,
+      "note": "2026-11-18 후보: Croom·Zhou·Firestone 2023 PNAS 10.1073/pnas.2303162120 상자 흔들기(pnas 403, PDF 만), eurekalert 1008059 (2023-11-20) 보도자료, globalnews 3138453 (2016-12-20) 'most regret peeking', historicunioncounty present-peeking (2020-12-16) 'To give my mind some rest, I was going to have to peek under the wrapping paper.' Hawthorne A Wonder Book 1851 상자 들었다 놓기(선물 아님)",
+      "createdAt": "2026-11-18T06:27:51.474Z",
+      "seq": 5564
+    },
+    {
+      "id": "36a22969",
+      "title": "pouring-cooking-oil-down-the-sink 보강: 학술·SNS 파편, 2010년 이전 출처",
+      "priority": 50,
+      "note": "2026-11-18 파편 둘(water.ie 발행일 미상, Envirotec 2022-10-26). 후보: thameswater 2025/nov/avoid-festive-fatbergs 26% 문장 214자, dcist 2019-08-01 44% 문장 200자 넘음, djsresearch 'Nearly half UK adults pour oil and fats down the sink', carync.gov 2010 25.3%(문서 형식 미확인), Water UK 403. flushing-wet-wipes 와 공통 상위(하수구에 넣으면 안 되는 것 흘려보내기) 후보",
+      "createdAt": "2026-11-18T06:31:36.525Z",
+      "seq": 5565
     },
     {
       "id": "5c0f78bc",
@@ -3075,6 +3107,14 @@
       "note": "2026-11-18 레이디경향 2026-11-13 lady.khan.co.kr/issue/article/202611130600081 '다른 사람이 자신의 택배를 잘못 가져간 뒤 상자까지 개봉하고도 돌려주지 않았다는 사연'. keeping-misdelivered-packages 와 가까움. 문학 후보: Fielding Tom Jones(standardebooks) 'these things must have been delivered by mistake', Christie Seven Dials 'I realised it wasn’t for me, so I put it back in the envelope without reading it.'",
       "createdAt": "2026-11-18T00:30:35.913Z",
       "seq": 5521
+    },
+    {
+      "id": "8c785d2a",
+      "title": "계단 마지막 칸 헛디디기",
+      "priority": 10,
+      "note": "2026-11-18 문학 후보: en.wikisource While_the_Billy_Boils/Across_the_Straits (Lawson, 발행일 확인 필요) 'stepping down a last step that wasn't there'(세 조각 이음, source-check 필요). 비문학 출처 없음. 멈춘 에스컬레이터 phantom step 연구 Fukui 2009 PLoS ONE PMC2686154 는 가까운 변형. find 계단·stair·step·헛 결과 같은 현상 없음",
+      "createdAt": "2026-11-18T06:34:45.967Z",
+      "seq": 5566
     },
     {
       "id": "02b2f242",
