@@ -904,6 +904,7 @@
 - [화재감지기 꺼 두기](docs/disabling-smoke-alarms.md) ([건강과 위험](groups/health-and-safety.md))
 - [화재경보를 오작동으로 여기기](docs/dismissing-fire-alarms.md) ([건강과 위험](groups/health-and-safety.md))
 - [화학제품을 음료병에 옮겨 담기](docs/decanting-chemicals-into-drink-bottles.md) ([건강과 위험](groups/health-and-safety.md))
+- [환자에게 나쁜 진단 숨기기](docs/withholding-diagnosis-from-patient.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [홧김에 때린 뒤의 후회](docs/remorse-after-hitting-in-anger.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [황색 신호 앞의 망설임](docs/yellow-light-dilemma.md) ([길과 운전](groups/roads-and-driving.md))
 - [회복기에 일상을 새롭게 느끼기](docs/savoring-ordinary-life-in-convalescence.md) ([건강과 위험](groups/health-and-safety.md))

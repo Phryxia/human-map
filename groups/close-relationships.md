@@ -136,4 +136,5 @@
 - [헤어진 연인에게 연락하기](../docs/contacting-an-ex.md) 연인과 헤어진 사람이 헤어진 상대에게 먼저 문자나 전화로 연락한다.
 - [헤어진 연인의 물건 없애기](../docs/discarding-an-exs-belongings.md) 연인과 헤어진 사람이 상대에게 받은 편지, 사진, 선물을 태우거나 버린다.
 - [헤어진 연인의 SNS 들여다보기](../docs/checking-an-exs-social-media.md) 연인과 헤어진 사람이 헤어진 상대의 SNS 에 찾아 들어가 근황을 살펴본다.
+- [환자에게 나쁜 진단 숨기기](../docs/withholding-diagnosis-from-patient.md) 가족이 중병에 걸린 사람에게 진단이나 죽음이 가깝다는 사실을 알리지 않고 숨기거나 곧 나을 거라고 말한다.
 - [홧김에 때린 뒤의 후회](../docs/remorse-after-hitting-in-anger.md) 화가 나서 가족을 때린 사람이 곧이어 무안해하거나 후회한다.
