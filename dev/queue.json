@@ -1,9 +1,33 @@
 {
   "version": 1,
-  "savedAt": "2026-11-18T15:37:58.040Z",
-  "nextSeq": 5602,
-  "stops": 298,
+  "savedAt": "2026-11-18T18:33:20.471Z",
+  "nextSeq": 5608,
+  "stops": 299,
   "items": [
+    {
+      "id": "88e4ec52",
+      "title": "withholding-diagnosis-from-patient 와 hiding-illness-from-family, avoiding-death-talk 관계",
+      "priority": 50,
+      "note": "2026-11-18 신설. 가족이 숨기는 쪽과 환자가 숨기는 쪽. Rajasooriyar 2016 PMC5493221 '환자가 동요할까 두려워' 원문 후보, McCabe 2010 PMC2835490 'give up' 사례",
+      "createdAt": "2026-11-18T18:11:04.610Z",
+      "seq": 5605
+    },
+    {
+      "id": "5b4b1fa6",
+      "title": "infant-directed-speech 와 talking-to-pets 관계",
+      "priority": 50,
+      "note": "2026-11-18 신설. 반려동물에게 아기 말투로 말하기는 pet-directed speech. 두 말투를 잇는 학술 원문 찾기",
+      "createdAt": "2026-11-18T18:27:46.905Z",
+      "seq": 5606
+    },
+    {
+      "id": "8b8f9dff",
+      "title": "gazing-at-a-sleeping-face 보강: 학술 파편, 1947 과 2014 사이 시기",
+      "priority": 50,
+      "note": "2026-11-18 신설. 위키문헌 검색 API 429. 그믐달(이익상) 은 잠든 장면 아님. 세계일보 20190508504585 상담 기사 '곤히 잠든 아이를 보며 미소' 후보",
+      "createdAt": "2026-11-18T18:32:03.121Z",
+      "seq": 5607
+    },
     {
       "id": "253176fb",
       "title": "not-calling-for-help-at-overdose 보강: 한국어 파편, 신고 꺼리기 상위",
