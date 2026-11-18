@@ -10,7 +10,7 @@
 
 1914년 나쓰메 소세키의 소설[^1]에서 화자는 마음을 털어놓으려다 문득 멈췄고 이야기의 방향을 일부러 조금 돌렸다. 1923년 현진건의 소설[^2]에서 인물은 상대가 자기를 어떻게 생각할까 하는 염려로 편지를 한참 망설이다가 어느 저녁 그 편지를 우체통에 넣었다.
 
-2025년 1월 기사[^3]에서 전문가들은 고백을 망설이는 주된 이유로 거절당할지 모른다는 불안, 거절 뒤의 창피함, 관계가 어색해질까 하는 두려움을 들었다. 2025년 연구[^4]의 저자들은 수치심이나 거절에 대한 두려움, 집단의 압력이 청소년이 이성에 대한 관심을 드러내지 못하게 막을 수 있다고 썼다.
+2023년 설문 기사[^3]에서 짝사랑 상대에게 고백한 적 없는 사람들은 그 이유로 마음을 표현하기가 부끄러워서(40.0%)를 가장 많이 꼽았다. 2025년 1월 기사[^4]에서 전문가들은 고백을 망설이는 주된 이유로 거절당할지 모른다는 불안, 거절 뒤의 창피함, 관계가 어색해질까 하는 두려움을 들었다. 2025년 연구[^5]의 저자들은 수치심이나 거절에 대한 두려움, 집단의 압력이 청소년이 이성에 대한 관심을 드러내지 못하게 막을 수 있다고 썼다.
 
 # 관계
 
@@ -38,5 +38,6 @@
 
 [^1]: [문학] "私は打ち明けようとして、ひょいと留（と）まりました。そうして話の角度を故意に少し外（そ）らしました。" (나는 털어놓으려다 문득 멈췄습니다. 그리고 이야기의 방향을 일부러 조금 돌렸습니다.) — 夏目漱石, 「こころ」, 朝日新聞, 1914, https://www.aozora.gr.jp/cards/000148/files/773_14560.html, 2026-11-18 접속
 [^2]: [문학] "(이것을 보면 그가 나를 어떻게 생각할까?)하는 염려로 얼마를 망설이다가, 어느날 저녁 몹시 열이 띤 그는 이것저것 불계하고 그 편지를 우체통 속에 들이치고 말았다." — 현진건, 「지새는 안개」 제2장, 개벽, 위키문헌, 1923, https://ko.wikisource.org/wiki/%EC%A7%80%EC%83%88%EB%8A%94_%EC%95%88%EA%B0%9C/%EC%A0%9C2%EC%9E%A5, 2026-11-18 접속
-[^3]: [매체] "거절당할지도 모른다는 불안감, 거절 후에 느껴질 창피함, 고백 후 관계가 어색해질까봐 두려운 마음 등이 주된 이유" — 권순일, 「짝사랑, 고백할까 말까 고민이라면?....“차여도 하는게 낫다”」, 코메디닷컴, 2025-01-23, https://kormedi.com/1790706/, 2026-11-18 접속
-[^4]: [학술] "individual characteristics such as shame or fear of rejection, and even group pressure can act as factors which prevent adolescents from showing their romantic interest" (수치심이나 거절에 대한 두려움 같은 개인 특성, 나아가 집단의 압력이 청소년이 연애 관심을 드러내지 못하게 막는 요인이 될 수 있다) — Toledano N, Viejo C, Ortega-Ruiz R, "Romantic Competence and Courtship Skills: From the First Romantic Impulse to the Management of Mutuality", Journal of Adolescence 97(4), 2025-02-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC12128907/, 2026-11-18 접속
+[^3]: [매체] "반면 짝사랑 상대에게 고백한 경험이 없는 이들(남성 20.0%·여성 46.7%)은 이유로 ‘마음을 표현하기가 부끄러워서’(40.0%)를 가장 많이 꼽았다." — 최승우, 「"짝사랑 상대와 맺어졌다고 다 좋진 않더라" 이유는?」, 아시아경제, 2023-10-07, https://view.asiae.co.kr/article/2023100714484233925, 2026-11-18 접속
+[^4]: [매체] "거절당할지도 모른다는 불안감, 거절 후에 느껴질 창피함, 고백 후 관계가 어색해질까봐 두려운 마음 등이 주된 이유" — 권순일, 「짝사랑, 고백할까 말까 고민이라면?....“차여도 하는게 낫다”」, 코메디닷컴, 2025-01-23, https://kormedi.com/1790706/, 2026-11-18 접속
+[^5]: [학술] "individual characteristics such as shame or fear of rejection, and even group pressure can act as factors which prevent adolescents from showing their romantic interest" (수치심이나 거절에 대한 두려움 같은 개인 특성, 나아가 집단의 압력이 청소년이 연애 관심을 드러내지 못하게 막는 요인이 될 수 있다) — Toledano N, Viejo C, Ortega-Ruiz R, "Romantic Competence and Courtship Skills: From the First Romantic Impulse to the Management of Mutuality", Journal of Adolescence 97(4), 2025-02-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC12128907/, 2026-11-18 접속
