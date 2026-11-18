@@ -208,6 +208,7 @@
 - [대피 미루기](docs/delayed-evacuation.md) ([건강과 위험](groups/health-and-safety.md))
 - [대화 뒤 되짚기](docs/replaying-conversations-afterward.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [대화에 끼어들지 못하기](docs/not-cutting-into-conversation.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [더 받은 거스름돈 돌려주지 않기](docs/keeping-excess-change.md) ([돈과 소비](groups/money.md))
 - [도박사의 오류](docs/gamblers-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [도서관 책 훼손](docs/defacing-library-books.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [도시를 떠나 시골로 옮겨 살기](docs/moving-to-the-countryside.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
