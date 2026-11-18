@@ -30720,7 +30720,7 @@
   "https://www.wired-gov.net/wg/news.nsf/print/Latest+Food+and+You+survey+report+published+for+Northern+Ireland+21042017081500": {
     "first": "2026-11-18",
     "last": "2026-11-18",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-18"
   },
   "https://www.mumsnet.com/talk/food_and_recipes/3103958-How-and-where-should-you-defrost-meat": {
@@ -30831,6 +30831,12 @@
     "lastVerified": "2026-11-18"
   },
   "https://www.talkofthevillages.com/forums/archive/index.php/t-160344.html": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://koreascience.kr/article/JAKO201218553924963.page": {
     "first": "2026-11-18",
     "last": "2026-11-18",
     "result": "VERIFIED",
