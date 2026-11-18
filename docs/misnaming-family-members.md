@@ -14,6 +14,8 @@
 
 2016년 보도자료[^4]에 따르면 연구 참가자들은 형제끼리, 딸과 아들 사이에서 이름을 바꿔 불렀고 가족을 반려동물 이름으로도 불렀다. 반려동물 이름은 그 동물이 개일 때만 섞였다. 같은 해 연구[^5]에서 가족은 다른 가족의 이름으로, 친구는 다른 친구의 이름으로 잘못 불렸다.
 
+2017년 방송[^6]은 사람이 고양이 이름보다 개 이름으로 불릴 가능성이 훨씬 크다고 전했다.
+
 # 관계
 
 ## 상위
@@ -43,3 +45,4 @@
 [^3]: [학술] "Almost all other name substitutions by parents involved other family members and over 5% of respondents reported a parent substituting the name of a pet," (부모가 이름을 바꿔 부른 그 밖의 경우는 거의 모두 다른 가족의 이름이었고 응답자의 5% 넘게는 부모가 반려동물의 이름으로 바꿔 불렀다고 보고했다,) — Z. M. Griffin, T. Wangerman, "Parents Accidentally Substitute Similar Sounding Sibling Names More Often than Dissimilar Names", PLoS ONE 8(12): e84444, 2013-12-31, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0084444, 2026-11-18 접속
 [^4]: [매체] "In addition to mixing up sibling for sibling and daughter for son, study participants frequently called other family members by the name of the family pet -- but only when the pet was a dog." (연구 참가자들은 형제를 형제로, 딸을 아들로 헷갈리는 것 말고도 다른 가족을 집에서 기르는 동물의 이름으로 자주 불렀다. 다만 그 동물이 개일 때만 그랬다.) — Alison Jones, "Slips of the Lip Stay All in the Family", Duke Today, 2016-04-28, https://today.duke.edu/2016/04/misnaming-study, 2026-11-18 접속
 [^5]: [학술] "family members are misnamed with another family member's name and friends are misnamed with another friend's name." (가족은 다른 가족의 이름으로, 친구는 다른 친구의 이름으로 잘못 불린다.) — S. A. Deffler, C. Fox, C. M. Ogle, D. C. Rubin, "All my children: The roles of semantic category and phonetic similarity in the misnaming of familiar individuals", Memory & Cognition 44(7), 2016-10, https://scholars.duke.edu/display/pub1129726, 2026-11-18 접속
+[^6]: [매체] "You are much more likely to be called the dog's name than you are to be called the cat's name." (고양이 이름으로 불릴 가능성보다 개 이름으로 불릴 가능성이 훨씬 크다.) — Michelle Trudeau, "When The Brain Scrambles Names, It's Because You Love Them", NPR Morning Edition, 2017-01-16, https://www.npr.org/transcripts/509353565, 2026-11-18 접속
