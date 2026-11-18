@@ -20,6 +20,7 @@
 - [과음](../docs/heavy-drinking.md) 술을 마시는 사람이 한 번의 술자리에서 많은 양을 마신다.
 - [금연 뒤 다시 피우기](../docs/smoking-relapse.md) 담배를 끊으려던 사람이 다시 담배를 피운다.
 - [기침할 때 가리지 않기](../docs/not-covering-coughs.md) 공공장소에서 기침이나 재채기를 하는 사람이 습관이 되지 않았거나 귀찮아서 입과 코를 가리지 않거나 맨손으로만 가린다.
+- [끓여 마시라는 권고 따르지 않기](../docs/ignoring-boil-water-advisories.md) 수돗물을 끓여 마시라는 권고가 내려진 동안 주민이 끓이지 않은 수돗물을 마시거나 양치에 쓴다.
 - [나아지면 약 끊기](../docs/stopping-medication-when-feeling-better.md) 처방약을 먹던 사람이 증상이 나아지면 다 나았다고 여겨 정해진 기간을 채우지 않고 스스로 약을 끊는다.
 - [난방기기 켜 둔 채 잠들기](../docs/sleeping-with-heater-on.md) 추운 밤에 사람이 전기장판, 전기담요, 전기난로 같은 난방기기를 켜 둔 채 잠든다.
 - [난방기에 빨래 말리기](../docs/drying-laundry-on-heaters.md) 겨울에 집 안에서 빨래를 말리는 사람이 젖은 옷을 히터나 난로 위, 바로 앞에 널어 둔다.

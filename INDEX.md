@@ -114,6 +114,7 @@
 - [꾀병 부리기](docs/feigning-illness.md) ([일터와 일자리](groups/work.md))
 - [꿈에 나타나는 고인](docs/dreams-of-the-deceased.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [꿈을 징조로 여기기](docs/dreams-as-omens.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [끓여 마시라는 권고 따르지 않기](docs/ignoring-boil-water-advisories.md) ([건강과 위험](groups/health-and-safety.md))
 - [끝내지 못한 일 계속 떠올리기](docs/zeigarnik-effect.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [나쁜 성적 뒤 집에 들어가기 미루기](docs/delaying-going-home-after-bad-grades.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [나쁜 성적표 숨기기](docs/hiding-bad-report-cards.md) ([남의 시선과 창피함](groups/others-gaze.md))

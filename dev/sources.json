@@ -30675,5 +30675,40 @@
     "last": "2026-11-18",
     "result": "VERIFIED",
     "lastVerified": "2026-11-18"
+  },
+  "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6006a1.htm": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://www.mynorthnow.com/5210/news/yellowknife-news/yellowknifers-bored-disobedient-as-boil-water-advisory-continues": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4702353/": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "UNREACHABLE"
+  },
+  "https://www.ccw.org.uk/news/ccw-and-ofwat-joint-research-into-anglian-water-incident-response/": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://www.rnz.co.nz/news/top/574030/residents-push-back-on-patea-boil-water-notice": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-015-2688-z": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
   }
 }
