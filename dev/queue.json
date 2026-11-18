@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-18T18:33:20.471Z",
-  "nextSeq": 5608,
-  "stops": 299,
+  "savedAt": "2026-11-18T21:36:32.364Z",
+  "nextSeq": 5630,
+  "stops": 300,
   "items": [
-    {
-      "id": "88e4ec52",
-      "title": "withholding-diagnosis-from-patient 와 hiding-illness-from-family, avoiding-death-talk 관계",
-      "priority": 50,
-      "note": "2026-11-18 신설. 가족이 숨기는 쪽과 환자가 숨기는 쪽. Rajasooriyar 2016 PMC5493221 '환자가 동요할까 두려워' 원문 후보, McCabe 2010 PMC2835490 'give up' 사례",
-      "createdAt": "2026-11-18T18:11:04.610Z",
-      "seq": 5605
-    },
-    {
-      "id": "5b4b1fa6",
-      "title": "infant-directed-speech 와 talking-to-pets 관계",
-      "priority": 50,
-      "note": "2026-11-18 신설. 반려동물에게 아기 말투로 말하기는 pet-directed speech. 두 말투를 잇는 학술 원문 찾기",
-      "createdAt": "2026-11-18T18:27:46.905Z",
-      "seq": 5606
-    },
-    {
-      "id": "8b8f9dff",
-      "title": "gazing-at-a-sleeping-face 보강: 학술 파편, 1947 과 2014 사이 시기",
-      "priority": 50,
-      "note": "2026-11-18 신설. 위키문헌 검색 API 429. 그믐달(이익상) 은 잠든 장면 아님. 세계일보 20190508504585 상담 기사 '곤히 잠든 아이를 보며 미소' 후보",
-      "createdAt": "2026-11-18T18:32:03.121Z",
-      "seq": 5607
-    },
-    {
-      "id": "253176fb",
-      "title": "not-calling-for-help-at-overdose 보강: 한국어 파편, 신고 꺼리기 상위",
-      "priority": 30,
-      "note": "2026-10-23 한국어 탐색 실패: kormedi 1310269, radiokorea 398825, ncapda.org 한국어 번역 모두 대목 없음. 한국어 공공 자료는 PDF 뿐(LA 카운티 Good-Samaritan-card-KOREAN, health.ny.gov 19818). 영어 후보(미확인): jurist.org 2007-04 뉴멕시코 면책법, universe.byu.edu 2006-08-09, cpr.org 2016-05. 남은 후보: news.ycombinator.com/item?id=9923457 은 이미 [^4]. 상위 '경찰 개입이 두려워 신고하지 않기' 후보",
-      "createdAt": "2026-10-23T09:39:13.394Z",
-      "seq": 1285
-    },
-    {
-      "id": "c712f5f7",
-      "title": "working-through-heat 보강: sickness-presenteeism 과 관계, SNS 파편, 원인(성과급·일손)",
-      "priority": 30,
-      "note": "2026-10-23 PMC4199019 Bethel 2014 를 다시 받아 봄: 200자 이하로 성과급과 쉬기 불편을 잇는 문장 없음(성과급 노동자의 열 지식 점수만). 2026-10-22: nocutnews.co.kr/news/4452272 (2015-07-31) 밭일 중 열사병 사망. 한국어 게시판·HN 1인칭 글 없음. kdca, rda 연결 리셋. 택배 기사 폭염 물량 뉴스(byline.network, newstapa) 미확인",
-      "createdAt": "2026-10-23T09:39:32.272Z",
-      "seq": 1286
-    },
-    {
-      "id": "e4c38c66",
-      "title": "choice-overload 와 kiosk-order-abandonment·gift-choosing-anxiety 관계",
-      "priority": 30,
-      "note": "2026-10-24 재탐색. Accenture 홀리데이 조사(mexc.com/it-IT/news/110779 재게시) 77% 'struggle with too many options', 80% 넘게 선물 구매 포기, 원 보도자료 미확인. 키오스크 쪽 i-boss ab-6141-71733 업계 조언 '한 화면에 너무 많은 메뉴가 나오면 ... 결정하는 데 더 많은 시간' 은 포기 인과 아님",
-      "createdAt": "2026-10-24T09:29:23.697Z",
-      "seq": 1516
-    },
-    {
-      "id": "26882b31",
-      "title": "empty-invitations 보강: ritual-refusal 관계",
-      "priority": 30,
-      "note": "2026-11-01 국립국어원 소식지 2006 공공 파편 더함. ritual-refusal 과 묶는 원문 못 찾음. 2026-11-02 두 문서 모두 관계 없음, 상위 현상(예의로 하는 빈말) 신설 검토. 후보: 문금현 2009, 국립국어원 『남에서는 이런 말』 2018 PDF",
-      "createdAt": "2026-11-02T15:32:37.485Z",
-      "seq": 3316
-    },
-    {
-      "id": "76c00bdc",
-      "title": "isolation-after-driving-cessation 보강: delaying-driving-cessation 관계",
-      "priority": 30,
-      "note": "2026-11-01 Chihuri 2016 메타분석 우울 증상 더함. 2026-11-02 브라보마이라이프 15646 13631 18486 13142 12797 에 고립 때문에 반납을 미룬다는 문장 없음. 이동권 상실 부담만 있음",
-      "createdAt": "2026-11-02T15:41:21.768Z",
-      "seq": 3321
-    },
-    {
-      "id": "5c537419",
-      "title": "silent-treatment 와 apology-reluctance 관계",
-      "priority": 30,
-      "note": "2026-11-02 경향 200310130829541 은 '누가 먼저 사과하나 줄다리기' 만 있고 침묵과 잇는 인과 문장 없음. 후보: heartfeltcounselingmn.com 2024-04-18, Psychology Today 202209 'To avoid taking responsibility'",
-      "createdAt": "2026-11-02T15:49:45.101Z",
-      "seq": 3327
-    },
     {
       "id": "55afe813",
       "title": "minding-what-others-think 와 fear-of-negative-evaluation, spotlight-effect 관계",
@@ -1517,6 +1445,62 @@
       "seq": 5601
     },
     {
+      "id": "4550c575",
+      "title": "withholding-diagnosis-from-patient 와 hiding-illness-from-family 관계",
+      "priority": 30,
+      "note": "2026-11-18 원인 간선 avoiding-death-talk 는 그음(hkcfp 2004). 두 숨기기를 잇는 원문 없음. Glaser·Strauss 의 mutual pretense(서로 아는 척 안 하기) 를 공통 상위 후보로. 후보: psychologytoday 202002 death-and-the-conspiracy-of-silence",
+      "createdAt": "2026-11-18T21:12:31.619Z",
+      "seq": 5620
+    },
+    {
+      "id": "d4f0e68e",
+      "title": "gazing-at-a-sleeping-face 보강: 1950~2013 시기 파편, 잠든 연인을 바라보는 학술 원문",
+      "priority": 30,
+      "note": "2026-11-18 PMC5862195(2017) 더함. 미확인 후보: socresonline.org.uk 12/5/2 Hislop 2007 부부 수면, 15/2/5 2010 동성 커플 수면(둘 다 403, core.ac.uk 미러 시도), PMC4840086",
+      "createdAt": "2026-11-18T21:15:56.657Z",
+      "seq": 5623
+    },
+    {
+      "id": "69f55458",
+      "title": "working-through-heat 보강: 학술 인과 파편, 일자리 잃을까 봐 쉬지 못함",
+      "priority": 30,
+      "note": "2026-11-18 income-loss-worry 원인 간선 그음(asiae 2026-08-12). 미사용 후보: PMC4015616 Lam 2013 Table 3 'Inadequate hydration due to lost wages from taking breaks among piece rate workers', newsis NISX20230801_0002398373 '나오지 말라고 할까 봐 못 쉬지'(job-insecurity 원인 후보), segye 20240807518194 건설노조. PMC8562852 Pan 2021 은 성과급 노동자가 고온에서 강도를 낮춘다(반대 방향)",
+      "createdAt": "2026-11-18T21:25:15.770Z",
+      "seq": 5624
+    },
+    {
+      "id": "fa370069",
+      "title": "not-reporting-for-fear-of-punishment 보강: 공공 파편, not-reporting-crime 관계",
+      "priority": 30,
+      "note": "2026-11-18 2025 인천일보 더함. 국가인권위 권고는 PDF 뿐. 미사용 후보: khan.co.kr/article/202004192156025 2020 성매매 피해 신고 못함, hhrjournal 같은 논문의 홍콩 추방 우려 문장",
+      "createdAt": "2026-11-18T21:25:45.537Z",
+      "seq": 5625
+    },
+    {
+      "id": "2607dbc9",
+      "title": "empty-invitations 보강: ritual-refusal 관계",
+      "priority": 30,
+      "note": "2026-11-01 국립국어원 소식지 2006 공공 파편 더함. ritual-refusal 과 묶는 원문 못 찾음. 2026-11-02 두 문서 모두 관계 없음, 상위 현상(예의로 하는 빈말) 신설 검토. 후보: 문금현 2009, 국립국어원 『남에서는 이런 말』 2018 PDF",
+      "createdAt": "2026-11-18T21:32:43.704Z",
+      "seq": 5627
+    },
+    {
+      "id": "a4c50ec9",
+      "title": "isolation-after-driving-cessation 보강: delaying-driving-cessation 관계",
+      "priority": 30,
+      "note": "2026-11-18 '고립될까 봐 운전을 계속한다' 인과 한 문장 못 찾음. delaying 에 원인 fear-of-losing-independence(tpr.org 2026-03-24) 그음. 미확인 후보: politicshome 88877 Independent Age 2017 고립 예상(인과 없음), newsinhealth.nih.gov/node/4586 403, bravo.etoday.co.kr 15645 15646 15647 15679",
+      "createdAt": "2026-11-18T21:35:59.853Z",
+      "seq": 5628
+    },
+    {
+      "id": "2740be13",
+      "title": "silent-treatment 와 apology-reluctance 관계",
+      "priority": 30,
+      "note": "2026-11-02 경향 200310130829541 은 '누가 먼저 사과하나 줄다리기' 만 있고 침묵과 잇는 인과 문장 없음. 2026-11-18 psychologytoday why-bad-looks-good 202207 과 health.clevelandclinic.org/silent-treatment 본문에 apolog 대목 없음. 남은 후보: positivepsychology.com ?p=189934(Gupta & Gupta 2023 인용), heartfeltcounselingmn.com 2024-04-18",
+      "createdAt": "2026-11-18T21:36:31.562Z",
+      "seq": 5629
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1827,6 +1811,22 @@
       "note": "2026-11-18 nagging 은 같은 요구나 지적의 되풀이라 조언이 아닌 경우도 있어 상위로 보기 어렵다. 두 현상을 잇는 파편 필요. Ingram 2025 PMID 40176959 'blaming and shaming' 은 결과 간선 후보",
       "createdAt": "2026-11-18T03:31:14.171Z",
       "seq": 5553
+    },
+    {
+      "id": "6b8cd282",
+      "title": "infant-directed-speech 와 talking-to-pets 의 공통 상위(아기 말투로 말하기) 신설 검토",
+      "priority": 20,
+      "note": "2026-11-18 두 문서 사이에 상위·원인·대립 어느 간선도 맞지 않음. pet-directed speech 를 infant-directed speech 의 변형이라 부르는 학술 원문(Burnham 2002 Science 'What's new, pussycat?')이 공통 상위의 근거 후보",
+      "createdAt": "2026-11-18T21:12:44.535Z",
+      "seq": 5622
+    },
+    {
+      "id": "1b7f9b84",
+      "title": "choice-overload 와 kiosk-order-abandonment·gift-choosing-anxiety 관계",
+      "priority": 20,
+      "note": "2026-11-18 세 번째 탐색도 '선택지 수 때문에 포기' 한 문장 없음. 근접: enewstoday 1145275 2018 '메뉴가 너무 복잡해 한참을 헤매다 줄 맨 끝으로', foodtoday 171702 2022 복잡한 스크린 때문에 중간 포기, hankyung 2022051694181 '메뉴 선택 항목이 너무 많아 결국 포기'(Cloudflare 403). 선물: chaindrugreview 2025-10-20 Accenture 84% 245자 초과, retailtouchpoints 617406 curl 403",
+      "createdAt": "2026-11-18T21:30:51.201Z",
+      "seq": 5626
     },
     {
       "id": "9c55db6a",
@@ -3131,6 +3131,14 @@
       "note": "2026-11-18 not-protecting-pipes-from-freezing 작업 중. Straight Dope 570766/56 2011-02-10 'the residents turn the heat down pretty low if they are going to be out of town', mediahub.seoul.go.kr 154211 2006 동파 62.4% 가 집을 비웠을 때. Straight Dope 481592/1 2009 'we’ve had worse freezes before' 는 지난 경험을 믿고 대비를 건너뜀",
       "createdAt": "2026-11-18T15:17:00.394Z",
       "seq": 5594
+    },
+    {
+      "id": "27190726",
+      "title": "의사가 말기 환자에게 죽음이 가깝다고 알리지 않기",
+      "priority": 10,
+      "note": "medicaltimes.com view.html?ID=1118910 2018-05-30 '먼저 물어볼 수도 없고 이별할 시간도 갖지 못한다'. withholding-diagnosis-from-patient 와 가족 대신 의사 쪽",
+      "createdAt": "2026-11-18T21:12:31.682Z",
+      "seq": 5621
     },
     {
       "id": "02b2f242",
