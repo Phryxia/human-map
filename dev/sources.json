@@ -30731,7 +30731,8 @@
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597454/": {
     "first": "2026-11-18",
     "last": "2026-11-18",
-    "result": "UNREACHABLE"
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
   },
   "https://www.foodstandards.gov.scot/science-and-evidence/food-and-you-2-survey-scotland-wave-11-key-findings/section-2": {
     "first": "2026-11-18",
@@ -30794,6 +30795,12 @@
     "lastVerified": "2026-11-18"
   },
   "https://www.djsresearch.co.uk/UtilitiesMarketResearchInsightsAndFindings/article/Nearly-half-UK-adults-pour-oil-and-fats-down-the-sink-reveals-survey-04450": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://advertiser.ie/athlone/article/100838/survey-reveals-truth-of-our-food-safety-behaviours": {
     "first": "2026-11-18",
     "last": "2026-11-18",
     "result": "VERIFIED",
