@@ -29,6 +29,7 @@
 - [쇼핑카트 반납하지 않기](../docs/not-returning-shopping-carts.md) 마트에서 쇼핑카트를 다 쓴 사람이 카트를 반납 장소에 돌려놓지 않고 주차장에 두거나 집까지 끌고 가 둔다.
 - [야생동물에게 먹이 주기](../docs/feeding-wildlife.md) 공원이나 관광지를 찾은 사람이 그곳에 사는 야생동물에게 먹이를 준다.
 - [양치하며 물 틀어 두기](../docs/leaving-tap-running-while-brushing.md) 이를 닦거나 설거지를 하는 사람이 그동안 수도꼭지를 잠그지 않고 물을 계속 틀어 둔다.
+- [요리 기름 싱크대에 붓기](../docs/pouring-cooking-oil-down-the-sink.md) 요리하고 남은 기름을 버리는 사람이 기름을 쓰레기통 대신 부엌 싱크대에 부어 흘려보낸다.
 - [자원봉사 하지 않기](../docs/not-volunteering.md) 자원봉사를 떠올린 사람이 시간이 없다는 이유로 봉사하지 않는다.
 - [장바구니와 텀블러 챙기지 않기](../docs/forgetting-reusable-bags.md) 장바구니나 텀블러를 가진 사람이 집을 나설 때 그것을 챙기지 않아 일회용 봉투나 컵을 쓴다.
 - [재활용되기를 바라며 재활용함에 넣기](../docs/wishcycling.md) 재활용될지 확실하지 않은 물건을 사람이 재활용되기를 바라며 재활용함에 넣는다.
