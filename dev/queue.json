@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-18T09:33:13.893Z",
-  "nextSeq": 5575,
-  "stops": 296,
+  "savedAt": "2026-11-18T12:37:22.570Z",
+  "nextSeq": 5584,
+  "stops": 297,
   "items": [
     {
       "id": "051cf360",
@@ -11,6 +11,30 @@
       "note": "2026-11-18 Croom·Zhou·Firestone 2023 PNAS 는 PMC10710017(curl·Safari UA 모두 reCAPTCHA), pubmed 37983484 쿠키 확인 페이지. 다른 학술 후보 없음: Bilkent 2019 'Who peeks'·JoVE 57189 는 금지된 장난감(선물 아님), Chung 2025 'Who Peeked?' 는 사탕 뽑기 부정행위. 남은 후보: Kochanska Lab-TAB 'gift wrap' 과제(아이가 선물 포장 중 엿보지 않기) 공개 논문, eurekalert 1008059, globalnews 3138453",
       "createdAt": "2026-11-18T09:27:46.279Z",
       "seq": 5574
+    },
+    {
+      "id": "53fdeb70",
+      "title": "late-passport-expiry-check 보강: procrastination 상위 간선과 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-18 gov.uk 2013-07-10 passport-renewal-be-travel-savvy 보도자료에 'leaving their passport applications to the last minute' (문장 230자). 공항에서 직접 겪은 SNS 글 미발견",
+      "createdAt": "2026-11-18T12:28:59.070Z",
+      "seq": 5580
+    },
+    {
+      "id": "f04afc34",
+      "title": "not-protecting-pipes-from-freezing 보강: 다른 시기 파편과 SNS",
+      "priority": 50,
+      "note": "2026-11-18 파편 2개(2021 서울시, 2025 WTXL). khan.co.kr/article/200401251006111 (2004) 은 당부만, 관찰 없음. 2000년대 '보온 소홀' 기사나 SNS 경험 글 필요",
+      "createdAt": "2026-11-18T12:32:04.488Z",
+      "seq": 5582
+    },
+    {
+      "id": "00b0998d",
+      "title": "not-clearing-snow-in-front-of-home 보강: SNS 파편과 남에게 미루기",
+      "priority": 50,
+      "note": "2026-11-18 mediahub.seoul.go.kr/archives/2013303 (2025-02-03) '누군가 먼저 하다 보면' 대목 NOT_FOUND(전사 재확인 필요). CTV 밴쿠버 '908 complaints' 기사 ld+json 확인 후보. 세계일보 2024 '강제성이 없는 탓에 시민의식에 기대야 하는 실정이다.'",
+      "createdAt": "2026-11-18T12:34:58.369Z",
+      "seq": 5583
     },
     {
       "id": "5c0f78bc",
@@ -3107,6 +3131,14 @@
       "note": "2026-11-18 문학 후보: en.wikisource While_the_Billy_Boils/Across_the_Straits (Lawson, 발행일 확인 필요) 'stepping down a last step that wasn't there'(세 조각 이음, source-check 필요). 비문학 출처 없음. 멈춘 에스컬레이터 phantom step 연구 Fukui 2009 PLoS ONE PMC2686154 는 가까운 변형. find 계단·stair·step·헛 결과 같은 현상 없음",
       "createdAt": "2026-11-18T06:34:45.967Z",
       "seq": 5566
+    },
+    {
+      "id": "30190665",
+      "title": "옛 이름으로 부르기(개명한 가족)",
+      "priority": 10,
+      "note": "2026-11-18 standardebooks Faulkner The Sound and the Fury 'Get up, Mau⁠—I mean Benjy' (U+2060 포함), 'His name’s Benjy now, Caddy said.' misnaming-family-members 와 상위 관계 후보",
+      "createdAt": "2026-11-18T12:28:59.152Z",
+      "seq": 5581
     },
     {
       "id": "02b2f242",
