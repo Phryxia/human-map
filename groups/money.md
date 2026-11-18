@@ -73,6 +73,7 @@
 - [입을 옷이 없다고 느끼기](../docs/feeling-of-nothing-to-wear.md) 옷이 많은 사람이 무엇을 입을지 고르려 할 때 입을 옷이 없다고 느끼거나 말한다.
 - [자기 보상 소비](../docs/self-reward-purchase.md) 애써 무언가를 해낸 사람이 그 보상으로 자신에게 물건이나 경험을 사 준다.
 - [자녀 사교육 불안](../docs/private-tutoring-anxiety.md) 부모가 자녀가 다른 아이들에게 뒤처질까 불안해 자녀를 학원이나 과외에 보낸다.
+- [잘못 배달된 물건 돌려주지 않기](../docs/keeping-misdelivered-packages.md) 자기가 주문하지 않은 물건이 잘못 배달된 사람이 그것을 보낸 곳에 알리거나 돌려주지 않고 갖는다.
 - [장 볼 때 필요보다 많이 사기](../docs/overbuying-groceries.md) 장을 보는 사람이 집에서 다 먹지 못할 만큼 식료품을 사고 남은 것을 버린다.
 - [장바구니에 담아 두고 결제하지 않기](../docs/online-cart-abandonment.md) 온라인 쇼핑몰에서 상품을 장바구니에 담은 사람이 결제하지 않고 떠나거나 장바구니를 사고 싶은 물건을 모아 두는 곳으로 쓴다.
 - [종이 영수증 바로 버리기](../docs/discarding-paper-receipts.md) 가게에서 계산한 손님이 종이 영수증을 받지 않고 버려 달라고 하거나 받자마자 버린다.
