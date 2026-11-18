@@ -690,6 +690,7 @@
 - [잠든 사람 바라보기](docs/watching-a-loved-one-sleep.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [잠든 사람을 깨우지 않으려고 소리 죽이기](docs/keeping-quiet-for-sleepers.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [잠든 아기의 숨 확인하기](docs/checking-sleeping-babys-breathing.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [잠든 얼굴 바라보기](docs/gazing-at-a-sleeping-face.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [잠에서 깨어 기지개 켜기](docs/stretching-on-waking.md) ([시간과 하루 습관](groups/daily-time.md))
 - [잠을 쫓으려고 카페인 마시기](docs/caffeine-to-stay-awake.md) ([시간과 하루 습관](groups/daily-time.md))
 - [잠자리 미루기](docs/bedtime-procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
