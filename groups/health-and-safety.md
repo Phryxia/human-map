@@ -59,6 +59,7 @@
 - [비상 탈출 때 짐 챙기기](../docs/taking-bags-during-evacuation.md) 항공기에서 비상 탈출하는 승객이 승무원의 지시에도 기내 가방과 소지품을 챙겨 나가려 한다.
 - [사용설명서 읽지 않기](../docs/not-reading-instruction-manuals.md) 새 제품이나 약을 산 사람이 함께 든 사용설명서를 읽지 않고 바로 쓴다.
 - [선풍기 틀고 자기 꺼리기](../docs/fear-of-fan-death.md) 사람이 닫힌 방에서 선풍기를 틀어 둔 채 자면 죽을 수 있다고 여겨 문을 열어 두거나 타이머를 맞추거나 잠든 가족의 선풍기를 끈다.
+- [수도 동파 대비하지 않기](../docs/not-protecting-pipes-from-freezing.md) 한파가 오는 동안 집에 사는 사람이 수도계량기함을 보온하지 않거나 수도꼭지를 조금 틀어 두지 않아 계량기나 배관이 언다.
 - [수돗물 그대로 마시지 않기](../docs/not-drinking-tap-water.md) 수돗물을 마실 수 있는 곳에 사는 사람이 수돗물을 그대로 마시지 않고 정수기를 달거나 생수를 사서 마신다.
 - [술 마신 뒤 물놀이](../docs/swimming-after-drinking.md) 술을 마신 사람이 바다, 강, 계곡, 호수에 들어가 헤엄치거나 물놀이를 한다.
 - [심폐소생술 망설이기](../docs/hesitating-to-perform-cpr.md) 누군가 심정지로 쓰러진 자리에 있던 일반인이 두려움이나 걱정 때문에 심폐소생술을 하지 않거나 늦게 시작한다.

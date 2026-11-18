@@ -457,6 +457,7 @@
 - [손실 회피](docs/loss-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [손톱 물어뜯기](docs/nail-biting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [쇼핑카트 반납하지 않기](docs/not-returning-shopping-carts.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [수도 동파 대비하지 않기](docs/not-protecting-pipes-from-freezing.md) ([건강과 위험](groups/health-and-safety.md))
 - [수돗물 그대로 마시지 않기](docs/not-drinking-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
 - [수줍은 방광](docs/shy-bladder.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [수줍음](docs/shyness.md) ([성향과 기질](groups/traits.md))
