@@ -3,4 +3,4 @@
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
 
-- 2026-11-18T06:04Z | 2026-11-18T06:30Z | 잠금 목록 고치기 | WORKING.md
+- 2026-11-18T06:04Z | 2026-11-18T06:30Z | pouring-cooking-oil-down-the-sink 추가 | pouring-cooking-oil-down-the-sink dev/groups.json
