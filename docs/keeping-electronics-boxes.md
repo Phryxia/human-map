@@ -36,6 +36,6 @@
 
 #돈 #마음
 
-[^1]: [매체] "My basement is overrun with cardboard boxes. Boxes for computers and televisions long ago donated or recycled, boxes for just about every camera I’ve ever owned, and, yes, boxes for electronics I’m still using." (우리 집 지하실은 판지 상자로 넘쳐 난다. 오래전에 기부하거나 재활용한 컴퓨터와 텔레비전의 상자, 내가 가졌던 거의 모든 카메라의 상자, 그리고 그렇다, 아직 쓰는 전자제품의 상자도 있다.) — Melanie Pinola, "What to do with your mess of electronics boxes", Computerworld, 2013-09-16, https://www.computerworld.com/article/1394328/what-to-do-with-your-mess-of-electronics-boxes.html, 2026-11-18 접속
+[^1]: [매체] "My basement is overrun with cardboard boxes. Boxes for computers and televisions long ago donated or recycled, boxes for just about every camera I’ve ever owned," (우리 집 지하실은 판지 상자로 넘쳐 난다. 오래전에 기부하거나 재활용한 컴퓨터와 텔레비전의 상자, 내가 가졌던 거의 모든 카메라의 상자,) — Melanie Pinola, "What to do with your mess of electronics boxes", Computerworld, 2013-09-16, https://www.computerworld.com/article/1394328/what-to-do-with-your-mess-of-electronics-boxes.html, 2026-11-18 접속
 [^2]: [매체] "It turns out that a lot of people save the packaging that Apple products come in. Not just the old iPhones, MacBooks, and Apple Watches, but all their boxes too." (알고 보니 많은 사람이 애플 제품이 담겨 온 포장을 모아 둔다. 예전 아이폰, 맥북, 애플 워치만이 아니라 그 상자들까지 모두.) — "Why Do People Keep Their Empty Apple Boxes?", VICE, 2021-01-07, https://www.vice.com/en/article/why-people-keep-empty-apple-iphone-macbook-boxes, 2026-11-18 접속
 [^3]: [SNS] "저도 뭔가 전자제품 박스들은 못버리게 되더라구요" — 클리앙 댓글, 2026-07-24, https://www.clien.net/service/board/park/19234200, 2026-11-18 접속
