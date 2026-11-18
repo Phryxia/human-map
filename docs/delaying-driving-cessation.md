@@ -14,6 +14,8 @@
 
 2023년 글[^5]의 기사는 농어촌 고령자의 면허 반납률이 특히 낮은 까닭으로 차 없이는 생활하기 어렵다는 점을 든다. 2024년 3월 Savoie 외는 운전 중단을 독립, 자유, 자율의 상실과 이어진 어려운 전환으로 적었다.[^6] 2024년 12월 퀸즐랜드 정부의 안내는 운전 독립성의 상실을 고령자 상담 전화가 돕는 일로 든다.[^7]
 
+2026년 3월 NPR 기사[^8]는 노인들이 이동성과 독립을 잃을까 두려워 운전을 그만두기를 자주 꺼린다고 적었다.
+
 # 관계
 
 ## 상위
@@ -26,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [독립을 잃을 두려움](fear-of-losing-independence.md)[^8]
 
 ## 결과
 
@@ -45,3 +47,4 @@
 [^5]: [매체] "농·어촌 지역에서 고령자의 운전면허 반납률이 특히 낮은 이유는 "차 없인 사실상 생활이 불가능하다"는 점이 꼽힌다." — 정세진, 김지은, 유예림, 「"차 없인 밭일도 병원도 못가"…도시사람은 모르는 노인 운전의 현실」, 머니투데이, 2023-03-14, https://www.mt.co.kr/society/2023/03/14/2023031313291166621, 2026-10-18 접속
 [^6]: [학술] "Driving-cessation is a difficult transition that is associated with loss of independence, freedom, spontaneity, and autonomy." (운전 중단은 독립, 자유, 즉흥성, 자율의 상실과 이어진 어려운 전환이다.) — Camille Savoie, Philippe Voyer, Martin Lavallière, Suzanne Bouchard, "Transition from driving to driving-cessation: experience of older persons and caregivers: a descriptive qualitative design", BMC Geriatrics 24, 2024-03-04, https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-024-04835-3, 2026-10-18 접속
 [^7]: [공공] "The Seniors Enquiry Line assists Queenslanders, including with the loss of driving independence." (고령자 상담 전화는 운전 독립성의 상실을 포함해 퀸즐랜드 주민을 돕는다.) — Queensland Government, "Support when you can no longer drive", 2024-12-05, https://www.qld.gov.au/transport/licensing/healthy-to-drive/age-and-driving/support, 2026-10-18 접속
+[^8]: [매체] "Older adults are often reluctant to give up driving because they're afraid of losing their mobility and independence." (노인들은 이동성과 독립을 잃을까 두려워 운전을 그만두기를 자주 꺼린다.) — Joel Rose, "As parents age, their children face hard choices about when to take the car keys", NPR, Texas Public Radio, 2026-03-24, https://www.tpr.org/news/2026-03-24/as-parents-age-their-children-face-hard-choices-about-when-to-take-the-car-keys, 2026-11-18 접속
