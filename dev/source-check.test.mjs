@@ -360,3 +360,12 @@ test('judge: VERIFIED 였던 파편이 봇 확인 페이지만 받으면 소멸�
   assert.match(j.note, /봇 확인/)
   assert.equal(judge(f, 'UNREACHABLE', rec, {challenged: false}).exit, 1)
 })
+
+// www.gov.scot 은 2026-11-17 VERIFIED 였던 ventilation 연구 글과 / 를 2026-11-18 에 x-amzn-waf-action: challenge 헤더와 함께
+// AWS WAF 의 JavaScript 확인 페이지(202)로 줬다. 원문이 없는 글이 아니라 봇 확인 페이지다.
+test('fetchText: AWS WAF 확인 페이지는 봇 확인 페이지다', async () => {
+  const body = '<!DOCTYPE html><html><head><title></title><script src="https://b89eb34fdb9a.6b3632c8.us-east-1.token.awswaf.com/b89eb34fdb9a/c739fa3c312f/94b04516f256/challenge.js"></script></head><body><div id="challenge-container"></div><script>AwsWafIntegration.saveReferrer();</script><noscript>In order to continue, we need to verify that you\'re not a robot.</noscript></body></html>'
+  const waf = async () => ({ok: true, status: 202, headers: new Map([['content-type', 'text/html; charset=UTF-8']]), text: async () => body})
+  const page = await fetchText('https://www.gov.scot/publications/x/pages/5/', {quote: 'heat loss', fetchImpl: waf, fallbackImpl: waf, challengeDelay: 0})
+  assert.deepEqual(page, {ok: false, reason: '봇 확인 페이지'})
+})
