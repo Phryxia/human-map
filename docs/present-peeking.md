@@ -20,6 +20,8 @@
 
 2023년 에세이[^7]의 글쓴이는 상자 속 물건이 움직이거나 달그락거리거나 깨지는 소리로 내용물이 무엇인지 알게 되는 일이 많다고 썼다.
 
+2024년 연구[^8]는 미취학 아이가 엿보는 모양을 몸을 돌리기, 몸을 조금 돌리기, 어깨 너머로 보기, 고개만 살짝 돌리기, 엿보지 않기의 다섯 단계로 나눠 쟀다.
+
 # 관계
 
 ## 상위
@@ -51,3 +53,4 @@
 [^5]: [매체] "Some students there confess to snooping too, but most regret peeking." (그곳의 학생 몇몇도 몰래 찾아봤다고 털어놓지만 다수는 엿본 일을 후회한다.) — Laurel Gregory, "Christmas present snoopers confess: 'We thought we were getting away with something'", Global News, 2016-12-20, https://globalnews.ca/news/3138453/christmas-present-snoopers-confess-we-thought-we-were-getting-away-with-something/, 2026-11-18 접속
 [^6]: [매체] "To give my mind some rest, I was going to have to peek under the wrapping paper." (마음을 좀 쉬게 하려면 포장지 아래를 엿봐야 했다.) — Brooke Cox, "Present Peeking", Historic Union County, 2020-12-16, https://www.historicunioncounty.com/article/present-peeking, 2026-11-18 접속
 [^7]: [매체] "Often, the sound of the contents of the box shifting, rattling, or shattering will reveal their identity." (상자 속 물건이 움직이거나 달그락거리거나 깨지는 소리가 그것이 무엇인지 드러내는 일이 많다.) — Gary Shelton, "The Old Broke Rancher On the Perils of Present Peeking", Distinctly Montana, 2023-12-19, https://www.distinctlymontana.com/comment/34507, 2026-11-18 접속
+[^8]: [학술] "First, the extent of peeking was assessed using a five-point scale (1 = turns around, 2 = turns around slightly, 3 = peeks over shoulder, 4 = turns head only slightly to peek, 5 = does not peek)." (먼저 엿보는 정도를 5점 척도로 평가했다(1 = 몸을 돌린다, 2 = 몸을 조금 돌린다, 3 = 어깨 너머로 엿본다, 4 = 엿보려고 고개만 살짝 돌린다, 5 = 엿보지 않는다).) — L. Grüneisen, L. Dörrenbächer-Ulrich, E. Kapsali, F. Perels, "Assessing knowledge about self-regulated learning: validation of a measurement tool for preschoolers", Frontiers in Education 9, 2024-02-26, https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1332170/full, 2026-11-18 접속
