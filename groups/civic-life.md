@@ -5,7 +5,6 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [공용 우산 돌려주지 않기](../docs/not-returning-shared-umbrellas.md) 역이나 관공서에서 무료로 빌린 공용 우산을 빌린 사람이 제자리에 돌려놓지 않는다.
-- [과다복용 현장에서 신고 꺼리기](../docs/not-calling-for-help-at-overdose.md) 약물 과다복용을 목격한 사람이 경찰이 오거나 체포될까 두려워 구급 신고를 하지 않거나 미룬다.
 - [기부 단체 불신](../docs/distrust-of-charities.md) 기부하지 않는 사람이 모금 단체를 믿지 못해 기부하지 않는다.
 - [기부하지 않기](../docs/not-donating.md) 기부를 요청받거나 기부를 떠올린 사람이 형편이 안 된다거나 단체를 믿을 수 없다는 이유로 돈을 내지 않거나 더 내지 않는다.
 - [기후 행동 하지 않기](../docs/climate-inaction.md) 기후변화를 아는 사람이 기후를 위해 생활을 바꾸거나 다른 사람과 함께 행동하지 않는다.
@@ -38,6 +37,8 @@
 - [주운 지갑 돌려주기](../docs/returning-lost-wallets.md) 돈이 든 남의 지갑이나 분실물을 주운 사람이 그것을 경찰이나 주인에게 돌려준다.
 - [지지 후보 낙선 뒤의 낙담](../docs/post-election-distress.md) 지지한 후보가 선거에서 진 뒤 유권자가 상실감과 절망, 우울감을 느끼고 잠과 일상이 흐트러진다.
 - [집 앞 눈 치우지 않기](../docs/not-clearing-snow-in-front-of-home.md) 눈이 온 뒤 건물에 사는 사람이나 주인이 자기 집이나 건물 앞 보도와 골목의 눈을 치우지 않고 둔다.
+- [처벌이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-punishment.md) 자기 신분이나 행위가 드러날 처지에 있는 사람이 체포나 처벌, 추방이 두려워 피해나 위급 상황을 당국에 알리지 않는다.
+  - [과다복용 현장에서 신고 꺼리기](../docs/not-calling-for-help-at-overdose.md)
 - [통계 조사 응답 거부](../docs/refusing-statistical-surveys.md) 사람이 정부 통계 조사나 인구조사의 조사원이나 설문을 받고 사생활 걱정, 바쁨, 불신 따위를 이유로 응답하지 않는다.
 - [투표 불참](../docs/not-voting.md) 투표권이 있는 사람이 선거일에 투표하지 않는다.
 - [투표했다고 거짓으로 답하기](../docs/claiming-to-have-voted.md) 투표하지 않은 사람이 설문이나 면접에서 투표했다고 답한다.
