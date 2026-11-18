@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [상대가 먼저 사과하기를 기다리기](waiting-for-the-other-to-apologize-first.md)
 
 ## 원인
 
