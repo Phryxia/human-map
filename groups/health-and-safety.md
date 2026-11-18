@@ -105,6 +105,7 @@
 - [침대 위에서 기기 충전하기](../docs/charging-devices-on-bed.md) 누워 쉬거나 잠드는 사람이 휴대폰이나 노트북을 침대 위나 베개 밑에 둔 채 충전한다.
 - [태풍 앞두고 유리창에 테이프 붙이기](../docs/taping-windows-before-typhoons.md) 태풍이나 허리케인이 오기 전에 사람들이 유리창에 테이프를 X자로 붙이거나 젖은 신문지를 붙인다.
 - [텐트 안에서 난로 켜고 자기](../docs/heating-inside-tents.md) 추운 날 야영하는 사람이 몸을 데우려고 일산화탄소가 나오는 난로나 숯불을 텐트 안에 켜 두고 잠든다.
+- [통증 파국화](../docs/pain-catastrophizing.md) 통증을 겪는 사람이 그 아픔을 곱씹고 실제보다 크게 여기며 어찌할 수 없다고 느낀다.
 - [폭염 속 바깥일 계속하기](../docs/working-through-heat.md) 폭염 속에서 밭일이나 바깥일을 하는 사람이 더위로 몸이 처지거나 쉬라는 말을 들어도 일을 멈추지 않는다.
 - [폭염에 취약하지 않다고 여기기](../docs/not-seeing-oneself-as-heat-vulnerable.md) 나이 든 사람이 폭염이 와도 자신은 더위에 취약하지 않다고 여긴다.
 - [폭풍 때 파도 구경하기](../docs/storm-wave-watching.md) 태풍이나 폭풍이 올 때 사람들이 높은 파도를 보고 찍으려고 바닷가 물가까지 나간다.

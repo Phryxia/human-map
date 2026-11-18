@@ -30,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [통증 파국화](pain-catastrophizing.md)[^5]
 
 ## 결과
 
