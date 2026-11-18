@@ -15,6 +15,7 @@
   - [경증 구급차 호출](../docs/nonurgent-ambulance-calls.md)
   - [경증 응급실 이용](../docs/nonurgent-emergency-room-visits.md)
 - [계단 대신 에스컬레이터와 엘리베이터 타기](../docs/taking-escalator-over-stairs.md) 계단과 에스컬레이터나 엘리베이터가 함께 있는 곳에서 사람이 계단을 두고 에스컬레이터나 엘리베이터를 탄다.
+- [고기 실온 해동](../docs/thawing-meat-at-room-temperature.md) 냉동한 고기나 생선을 녹이는 사람이 냉장고 대신 조리대 같은 실온에 꺼내 둔다.
 - [고데기 켜 둔 채 외출하기](../docs/leaving-hair-straighteners-on.md) 머리를 손질하고 서둘러 집을 나서는 사람이 고데기를 켜 둔 채 나간다.
 - [공중화장실 변기에 앉지 않기](../docs/hovering-over-public-toilet-seats.md) 공중화장실을 쓰는 사람이 세균이나 오물이 옮을까 봐 변기에 앉지 않고 몸을 띄운 채 볼일을 본다.
 - [과음](../docs/heavy-drinking.md) 술을 마시는 사람이 한 번의 술자리에서 많은 양을 마신다.

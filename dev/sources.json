@@ -30710,5 +30710,33 @@
     "last": "2026-11-18",
     "result": "VERIFIED",
     "lastVerified": "2026-11-18"
+  },
+  "https://agris.fao.org/search/en/records/65df06af4c5aef494fdf1fea": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://www.wired-gov.net/wg/news.nsf/print/Latest+Food+and+You+survey+report+published+for+Northern+Ireland+21042017081500": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
+  },
+  "https://www.mumsnet.com/talk/food_and_recipes/3103958-How-and-where-should-you-defrost-meat": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "UNREACHABLE"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597454/": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "UNREACHABLE"
+  },
+  "https://www.foodstandards.gov.scot/science-and-evidence/food-and-you-2-survey-scotland-wave-11-key-findings/section-2": {
+    "first": "2026-11-18",
+    "last": "2026-11-18",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-18"
   }
 }
