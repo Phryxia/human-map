@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-17T21:36:22.740Z",
-  "nextSeq": 5516,
-  "stops": 292,
+  "savedAt": "2026-11-18T00:36:26.523Z",
+  "nextSeq": 5524,
+  "stops": 293,
   "items": [
     {
       "id": "d943962f",
@@ -67,6 +67,22 @@
       "note": "2026-11-17 PMC8858332 2021 학술 파편 추가함. Straight Dope 522760 2009 SNS 파편 추가함. Next Big Idea Club 2022-03-01 O'Connor 발췌 'two conflicting streams of information' 원인 대목(같은 저자). eccalifornian ?p=22016 2018-05-23, communityedition.ca ?p=46025 2026-06-10, griefincommon 1101 2019-06-11 문자 대목",
       "createdAt": "2026-11-17T21:36:13.652Z",
       "seq": 5515
+    },
+    {
+      "id": "e7697030",
+      "title": "keeping-misdelivered-packages 보강: 한국어 파편, 매체·공공 파편",
+      "priority": 50,
+      "note": "2026-11-18 SNS 둘(Straight Dope 2008, 2011)과 학술 Tobol 2025 뿐. professionalsecurity.co.uk 영국 설문 31% 는 봇 확인 페이지. Proust Sweet Cheat Gone 전보 대목은 자기 앞 전보라 맞지 않음",
+      "createdAt": "2026-11-18T00:30:35.971Z",
+      "seq": 5522
+    },
+    {
+      "id": "186877e1",
+      "title": "unsolicited-advice 보강: SNS 파편, nagging 관계",
+      "priority": 50,
+      "note": "2026-11-18 공개 게시판 파편 못 찾음. Ingram 2025 PMID 40176959 'unsolicited advice acts as a method of blaming and shaming' 는 결과 간선 후보(수치심 문서가 생기면). Schaerer 2018 초록의 권력 추구 성향 대목은 원인 후보",
+      "createdAt": "2026-11-18T00:36:25.678Z",
+      "seq": 5523
     },
     {
       "id": "155ac9fc",
@@ -3051,6 +3067,22 @@
       "note": "채만식 「레디메이드 인생」 ko.wikisource.org/wiki/레디메이드_인생 '남의 집 아이들이 학교에 다니는 것을 부러워하는 꼴' 대목. envy 하위 후보",
       "createdAt": "2026-11-17T12:30:49.433Z",
       "seq": 5453
+    },
+    {
+      "id": "78704ccb",
+      "title": "말을 내뱉자마자 후회하고도 자존심 때문에 드러내지 못하기",
+      "priority": 10,
+      "note": "2026-11-18 Trollope He Knew He Was Right 1장 standardebooks single-page 'many a man and many a woman who has spoken a word at once regretted, are far too proud to express that regret'. 같은 출처가 waiting-for-the-other-to-apologize-first [^1] 이라 한 출처 한 문서 규칙 주의. apology-reluctance 와 가까움",
+      "createdAt": "2026-11-18T00:14:21.202Z",
+      "seq": 5520
+    },
+    {
+      "id": "c1200d7a",
+      "title": "남의 택배를 자기 것으로 알고 뜯기",
+      "priority": 10,
+      "note": "2026-11-18 레이디경향 2026-11-13 lady.khan.co.kr/issue/article/202611130600081 '다른 사람이 자신의 택배를 잘못 가져간 뒤 상자까지 개봉하고도 돌려주지 않았다는 사연'. keeping-misdelivered-packages 와 가까움. 문학 후보: Fielding Tom Jones(standardebooks) 'these things must have been delivered by mistake', Christie Seven Dials 'I realised it wasn’t for me, so I put it back in the envelope without reading it.'",
+      "createdAt": "2026-11-18T00:30:35.913Z",
+      "seq": 5521
     },
     {
       "id": "02b2f242",
