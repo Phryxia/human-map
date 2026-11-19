@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T15:40:24.501Z",
-  "nextSeq": 5744,
-  "stops": 306,
+  "savedAt": "2026-11-19T18:30:23.827Z",
+  "nextSeq": 5757,
+  "stops": 307,
   "items": [
-    {
-      "id": "efd606b6",
-      "title": "avoiding-unlucky-numbers 보강: 2000년 이전 파편, 시기별 변화",
-      "priority": 50,
-      "note": "2026-11-19 Gallup 2007, 위키트리 2026 추가. 후보 Scanlon 외 1993 BMJ PMC1697765 13일의 금요일 M25 차량 감소(결과 문장 전문 미확인), medicaltimes 2014-03 ID=1088559 개원가 4층 기피 감소(503), superstitious-rituals 관계",
-      "createdAt": "2026-11-19T15:33:45.248Z",
-      "seq": 5740
-    },
     {
       "id": "1bb0a9f9",
       "title": "pawning-belongings 보강: buying-on-credit-at-local-shops 관계",
@@ -35,6 +27,22 @@
       "note": "2026-11-19 코메디닷컴 2026-02-02, PHSO 2026-09-01 추가. 같은 코메디닷컴 글에 무연고 말기 환자가 염치가 없다며 가족 찾기를 망설이는 대목(대립 후보). Al Jazeera 2026-07-04 why-closure-matters-at-the-end-of-life 'That reconciliation, she said, is the truest comfort' 후보",
       "createdAt": "2026-11-19T15:40:19.814Z",
       "seq": 5743
+    },
+    {
+      "id": "93b18380",
+      "title": "avoiding-unlucky-numbers 보강: 2000년 이전 파편, 시기별 변화",
+      "priority": 50,
+      "note": "2026-11-19 Gallup 2007, 위키트리 2026 추가. 요약은 집 주소만 말하나 서술은 호텔 13층, 건물 4층까지 다룬다. 요약을 넓힐지 정할 것. medicaltimes 2014-03 ID=1088559 개원가 4층 기피 감소(503), superstitious-rituals 관계",
+      "createdAt": "2026-11-19T18:28:23.609Z",
+      "seq": 5754
+    },
+    {
+      "id": "20e670dd",
+      "title": "avoiding-unlucky-numbers 에 2009년 TripAdvisor 파편: 13번 좌석·호텔 방 피하기",
+      "priority": 50,
+      "note": "tripadvisor.mediaroom.com 2009-03-12 'Over one in ten (11%) travellers always avoid sitting in seats or rows carrying the number 13' 확인함. avoiding-friday-the-13th 와 관계 후보",
+      "createdAt": "2026-11-19T18:29:19.812Z",
+      "seq": 5756
     },
     {
       "id": "54d681d5",
@@ -3139,6 +3147,38 @@
       "note": "2026-11-19 계모임. 후보 서울신문 2008-11-25 m.seoul.co.kr/news/2008/11/25/20081125023001, 머니투데이 2009-01-15 mt.co.kr/article/2009011513471010333, 학술 PMC7003940 (ROSCA 와 고령자 기능, 2019)",
       "createdAt": "2026-11-19T12:32:57.131Z",
       "seq": 5733
+    },
+    {
+      "id": "67568581",
+      "title": "carrying-letters-on-person 후보: 받은 편지를 몸에 지니고 읽고 또 읽기",
+      "priority": 10,
+      "note": "Little Women 1868 pglaf 514-h '...carried about in their sister's pockets, read and reread diligently' (514 는 이미 4개 문서), David Copperfield 766 'placed it tenderly in his breast again'. rereading-old-letters 와 겹치는지 find 먼저",
+      "createdAt": "2026-11-19T18:17:32.620Z",
+      "seq": 5751
+    },
+    {
+      "id": "a64a30dc",
+      "title": "feigning-composure 후보: 당황을 감추려 태연한 척하기",
+      "priority": 10,
+      "note": "David Copperfield 1850 pglaf 766-h 'Mr. Micawber, humming a tune, to show that he was quite at ease' (766 은 이미 4개 문서라 다른 출처 필요). hiding-tears 와 관계 후보",
+      "createdAt": "2026-11-19T18:17:32.689Z",
+      "seq": 5752
+    },
+    {
+      "id": "dafd1328",
+      "title": "embarrassed-laughter 후보: 창피함이나 수줍음을 웃음으로 감추기",
+      "priority": 10,
+      "note": "Darwin 1872 Expression of the Emotions 8장 pglaf 1/2/2/1227/1227-h 'We often see persons laughing in order to conceal their shame or shyness.' feigning-nonchalance-after-embarrassment, laughing-off-holiday-nagging 과 관계 후보",
+      "createdAt": "2026-11-19T18:27:37.237Z",
+      "seq": 5753
+    },
+    {
+      "id": "5e1a3fe1",
+      "title": "avoiding-friday-the-13th 후보: 13일의 금요일에 운전이나 외출 줄이기",
+      "priority": 10,
+      "note": "Scanlon 외 1993 BMJ PMC1697765 초록 'There were consistently and significantly fewer vehicles on the southern section of the M25 on Friday the 13th compared with Friday the 6th.' 확인함. avoiding-unlucky-numbers 와 관계 후보",
+      "createdAt": "2026-11-19T18:28:23.691Z",
+      "seq": 5755
     },
     {
       "id": "02b2f242",
