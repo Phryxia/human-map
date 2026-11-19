@@ -36,6 +36,7 @@
 
 - [손가락 마디 꺾기](knuckle-cracking.md)
 - [머리카락 배배 꼬기](hair-twirling.md)
+- [무심코 얼굴 만지기](touching-own-face.md)
 
 ## 원인
 
