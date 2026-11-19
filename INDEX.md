@@ -10,6 +10,7 @@
 - [가까운 사람의 발소리 알아듣기](docs/recognizing-footsteps-of-close-people.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
+- [가난을 감추려 핑계 지어내기](docs/making-up-excuses-to-hide-poverty.md) ([돈과 소비](groups/money.md))
 - [가난을 숨기려는 또래 관계 회피](docs/poverty-peer-withdrawal.md) ([돈과 소비](groups/money.md))
 - [가난했던 시절 그리워하기](docs/missing-leaner-times.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [가면 증후군](docs/impostor-phenomenon.md) ([일터와 일자리](groups/work.md))

@@ -6,6 +6,7 @@
 
 - [가계부 쓰기](../docs/keeping-household-accounts.md) 사람이 자기 집의 수입과 지출을 장부나 앱에 적어 두고 남은 돈을 셈한다.
 - [가난 감추기](../docs/concealing-poverty.md) 가난한 사람이 자신의 가난이나 굶주림, 도움이 필요한 형편을 남이나 식구에게 숨긴다.
+  - [가난을 감추려 핑계 지어내기](../docs/making-up-excuses-to-hide-poverty.md)
   - [가난을 숨기려는 또래 관계 회피](../docs/poverty-peer-withdrawal.md)
 - [가난 수치심](../docs/poverty-shame.md) 가난한 사람이 남이 자기 형편을 보는 자리에서 부끄러움을 느낀다.
   - [푸드뱅크 이용 수치심](../docs/food-bank-shame.md)

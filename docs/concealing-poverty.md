@@ -23,6 +23,7 @@
 ## 하위
 
 - [가난을 숨기려는 또래 관계 회피](poverty-peer-withdrawal.md)
+- [가난을 감추려 핑계 지어내기](making-up-excuses-to-hide-poverty.md)
 
 ## 원인
 
