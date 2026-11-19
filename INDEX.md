@@ -592,6 +592,7 @@
 - [올린 글의 반응 자꾸 확인하기](docs/checking-likes-after-posting.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [완벽주의](docs/perfectionism.md) ([성향과 기질](groups/traits.md))
 - [외국어 말하기 불안](docs/foreign-language-speaking-anxiety.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [외국인에게 반말하기](docs/banmal-to-foreigners.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [외국인에게 크고 느리게 말하기](docs/foreigner-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [외로움](docs/loneliness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [외상으로 사기](docs/buying-on-credit-at-local-shops.md) ([돈과 소비](groups/money.md))
