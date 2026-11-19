@@ -417,6 +417,7 @@
 - [사회불안의 안전 행동](docs/social-anxiety-safety-behaviors.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [사회적 상황 앞의 예기불안](docs/anticipatory-social-anxiety.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [사후 확신 편향](docs/hindsight-bias.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [산 채로 묻힐까 두려워하기](docs/fear-of-premature-burial.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [산재 신고 꺼리기](docs/not-reporting-workplace-injury.md) ([일터와 일자리](groups/work.md))
 - [살던 집에서 늙기](docs/aging-in-place.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [상대가 먼저 사과하기를 기다리기](docs/waiting-for-the-other-to-apologize-first.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
