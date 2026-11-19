@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T03:39:00.486Z",
-  "nextSeq": 5683,
-  "stops": 302,
+  "savedAt": "2026-11-19T06:33:50.493Z",
+  "nextSeq": 5692,
+  "stops": 303,
   "items": [
     {
-      "id": "10151d6b",
-      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
-      "priority": 30,
-      "note": "2026-11-04 'ahem' 학술 검색은 사전 항목뿐. Wharton 2003 Pragmatics & Cognition ResearchGate 403. Nicholas Nickleby pg967 문학 후보",
-      "createdAt": "2026-11-06T09:30:37.097Z",
-      "seq": 3964
-    },
-    {
-      "id": "b4801ca5",
-      "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
-      "priority": 30,
-      "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. 어둠 때문에 소리를 침입자로 여긴다는 인과 문장 필요. 공공 후보 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html (curl 403)",
-      "createdAt": "2026-11-06T09:32:22.306Z",
-      "seq": 3968
+      "id": "d6f601e4",
+      "title": "foreigner-talk 보강: 한국어 화자가 외국인에게 반말이나 쉬운 말 쓰기",
+      "priority": 50,
+      "note": "2026-11-19 후보: 세계일보 2024-07-24 segye.com/view/20240724513997 외국인에게 반말 칼럼, gobillykorean.com 한국어 학습자에게 반말. 반말은 별개 현상일 수 있어 find 후 판단",
+      "createdAt": "2026-11-19T06:33:37.655Z",
+      "seq": 5691
     },
     {
       "id": "8ecb4f0a",
@@ -1411,6 +1403,22 @@
       "note": "2026-11-19 workplaceinsight 2022-10-04 76% 더함. 같은 기사 'Over half (57 percent) admit to turning off their screens so they can play on their phones' 는 목적 표현이라 multitasking-in-meetings 원인 간선 근거로는 약함. 후보: hrmorning virtual-meetings-camera (2022-05-12), 한국 비대면 수업 카메라 끄기 기사. 관계 후보: video-call-self-view-discomfort, spotlight-effect",
       "createdAt": "2026-11-19T03:22:02.865Z",
       "seq": 5675
+    },
+    {
+      "id": "68633af8",
+      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-04 'ahem' 학술 검색은 사전 항목뿐. Wharton 2003 Pragmatics & Cognition ResearchGate 403. Nicholas Nickleby pg967 문학 후보",
+      "createdAt": "2026-11-19T06:16:29.804Z",
+      "seq": 5689
+    },
+    {
+      "id": "65c33a60",
+      "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
+      "priority": 30,
+      "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. 어둠 때문에 소리를 침입자로 여긴다는 인과 문장 필요. 공공 후보 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html (curl 403)",
+      "createdAt": "2026-11-19T06:30:53.237Z",
+      "seq": 5690
     },
     {
       "id": "9634edf0",
@@ -3147,6 +3155,14 @@
       "note": "medicaltimes.com view.html?ID=1118910 2018-05-30 '먼저 물어볼 수도 없고 이별할 시간도 갖지 못한다'. withholding-diagnosis-from-patient 와 가족 대신 의사 쪽",
       "createdAt": "2026-11-18T21:12:31.682Z",
       "seq": 5621
+    },
+    {
+      "id": "e1ec19d3",
+      "title": "생각에 잠기거나 곤란할 때 수염이나 얼굴 만지기",
+      "priority": 10,
+      "note": "2026-11-19 후보: Washington Square standardebooks 'Morris stood stroking his beard, with a clouded eye.', Ward No. 6 standardebooks 체호프 단편집 'nervously pulling at his beard', advancedsciencenews.com 2024-11-26 얼굴 만지기 기사. fidgeting 하위 후보",
+      "createdAt": "2026-11-19T06:15:35.343Z",
+      "seq": 5688
     },
     {
       "id": "02b2f242",
