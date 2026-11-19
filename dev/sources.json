@@ -2656,9 +2656,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10851658/": {
     "first": "2026-10-18",
-    "last": "2026-11-09",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-19"
   },
   "https://boards.straightdope.com/t/at-what-point-do-you-alert-the-authorities-when-you-cant-reach-someone/417139": {
     "first": "2026-10-18",
@@ -11636,9 +11636,9 @@
   },
   "https://www.greenpeace.org/korea/update/12888/blog-etc-earth-day-every-day/": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-19"
   },
   "https://www.dt.co.kr/article/10417526": {
     "first": "2026-10-27",
@@ -11864,9 +11864,9 @@
   },
   "https://news.ycombinator.com/item?id=954573": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-19"
   },
   "https://news.ycombinator.com/item?id=31734484": {
     "first": "2026-10-27",
@@ -31575,6 +31575,12 @@
     "lastVerified": "2026-11-19"
   },
   "https://ohioline.osu.edu/factsheet/aede-0029": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-summer-2025/desnz-public-attitudes-tracker-net-zero-and-climate-change-summer-2025-uk": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
