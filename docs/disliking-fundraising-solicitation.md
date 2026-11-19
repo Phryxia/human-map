@@ -14,7 +14,9 @@
 
 2009년 캐나다 통계청 조사 요약[^3]에서 상당수의 기부자는 기부를 요청하는 방식이 마음에 들지 않았다고 답했다.
 
-2015년 댓글[^4]의 글쓴이는 영국의 거리 모금원이 이름난 자선단체를 위해 일하면서 집 앞과 번화가에서 사람들을 괴롭히고 공격적으로 가입을 권한다고 썼다.
+2014년 게시판 댓글[^4]의 글쓴이는 상대가 돈을 받아 내려고 말을 건다는 것을 알면 그 대화 전체의 값어치가 떨어진다고 썼다.
+
+2015년 댓글[^5]의 글쓴이는 영국의 거리 모금원이 이름난 자선단체를 위해 일하면서 집 앞과 번화가에서 사람들을 괴롭히고 공격적으로 가입을 권한다고 썼다.
 
 # 관계
 
@@ -43,4 +45,5 @@
 [^1]: [문학] "그러자 대문 밖에 중이 와서 동냥을 청한다. “동냥 안 내!” 강부인은 순간에 얼굴이 험악하여지면서 버럭 쏘아버린다." — 채만식, 「아름다운 새벽」, 매일신보, 1942, https://ko.wikisource.org/wiki/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4_%EC%83%88%EB%B2%BD, 2026-11-06 접속
 [^2]: [매체] "Their reasons: "no longer feeling connected to the organization," (57.7 percent); "deciding to support other causes," (51.3 percent); and "feeling they were being solicited too often," (42.3 percent)." (그들이 든 이유는 "단체와 더는 이어져 있다고 느끼지 않아서"(57.7%), "다른 대의를 지원하기로 해서"(51.3%), "기부 요청을 너무 자주 받는다고 느껴서"(42.3%)였다.) — Indianapolis Business Journal, "Givers get strategic", 2008-12-15, https://www.ibj.com/articles/334-givers-get-strategic, 2026-11-19 접속
 [^3]: [공공] "significant numbers of donors also indicated that they did not like the ways in which requests for donations were made, they did not think that the money would be used efficiently" (상당수의 기부자는 기부 요청 방식이 마음에 들지 않았고 돈이 효율적으로 쓰일 것이라고 생각하지 않았다고도 답했다) — Statistics Canada, Caring Canadians, Involved Canadians: Highlights from the 2007 Canada Survey of Giving, Volunteering and Participating, Summary, 2009, https://www.statcan.gc.ca/pub/71-542-x/2009001/summary-sommaire-eng.htm, 2026-11-06 접속
-[^4]: [SNS] "Essentially doorstep and high street salesmen, these professionals work on behalf of many well loved charities but they harass and aggressively try to make sales." (말하자면 집 앞과 번화가의 판매원인 이 전문가들은 사랑받는 여러 자선단체를 위해 일하지만 사람들을 괴롭히고 공격적으로 판매하려 든다.) — Hacker News 댓글, 2015-05-07, https://news.ycombinator.com/item?id=9505956, 2026-11-06 접속
+[^4]: [SNS] "It devalues the whole exchange when you know it's only being conducted because the other person wants to relieve you of your money." (상대가 당신의 돈을 덜어 가려고 대화를 나눈다는 것을 알면 그 대화 전체의 값어치가 떨어진다.) — Hacker News 댓글, 2014-04-27, https://news.ycombinator.com/item?id=7657133, 2026-11-19 접속
+[^5]: [SNS] "Essentially doorstep and high street salesmen, these professionals work on behalf of many well loved charities but they harass and aggressively try to make sales." (말하자면 집 앞과 번화가의 판매원인 이 전문가들은 사랑받는 여러 자선단체를 위해 일하지만 사람들을 괴롭히고 공격적으로 판매하려 든다.) — Hacker News 댓글, 2015-05-07, https://news.ycombinator.com/item?id=9505956, 2026-11-06 접속
