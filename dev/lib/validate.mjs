@@ -37,6 +37,8 @@ export const accountOf = url => {
 // 같은 글의 다른 판(HTML, txt 등)을 같은 출처로 잰다. [이름, 정규식(1번 묶음이 글 번호)]
 export const SOURCE_PATTERNS = [
   ['gutenberg', /^https?:\/\/(?:www\.)?gutenberg\.org\/(?:cache\/epub|ebooks|files)\/(\d+)(?:[/.?#]|$)/i],
+  // 공식 미러는 글 번호를 한 자리씩 나눈 디렉터리 아래 둔다: gutenberg.pglaf.org/7/3/730/730-h/730-h.htm
+  ['gutenberg', /^https?:\/\/(?:gutenberg\.pglaf|aleph\.gutenberg)\.org\/(?:\d\/)*(\d+)\/(?:\1[-./]|$)/i],
 ]
 // 퍼센트 인코딩한 URL 과 안 한 URL(위키문헌의 한글 제목 등)은 같은 글이므로 풀어서 잰다
 const decoded = url => { try { return decodeURI(url) } catch { return url } }

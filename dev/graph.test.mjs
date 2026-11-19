@@ -1,7 +1,7 @@
 import {test} from 'node:test'
 import assert from 'node:assert/strict'
 import {loadAll, parseFragment} from './lib/doc.mjs'
-import {validateAll, validateDoc, accountOf} from './lib/validate.mjs'
+import {validateAll, validateDoc, accountOf, sourceKey} from './lib/validate.mjs'
 import {findCycles, wouldCycle, edgeMap} from './lib/graph-lib.mjs'
 import {makeDoc, makeRepo, frag} from './lib/fixture.mjs'
 
@@ -218,6 +218,14 @@ test('같은 Gutenberg 책의 HTML 판과 txt 판은 같은 출처로 센다', (
   assert.ok(errs(loadAll(makeRepo({a: two}))).some(x => x.includes('한 출처에서 한 파편만') && x.includes('[^3]')))
   const other = makeDoc({body: '문단.[^1][^2][^3]', frags: [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '문학', '1850', urls[0]), frag(3, '문학', '1850', 'https://www.gutenberg.org/cache/epub/76/pg76.txt')]})
   assert.ok(!errs(loadAll(makeRepo({a: other}))).some(x => x.includes('한 출처에서 한 파편만')))
+})
+
+test('Gutenberg 미러(gutenberg.pglaf.org) URL 은 글 번호로 www.gutenberg.org 와 같은 출처로 센다', () => {
+  // 2026-11-19 www.gutenberg.org 가 503 이라 snooping-in-hosts-home 이 pglaf 미러의 730-h.htm 을 썼다
+  assert.equal(sourceKey('https://gutenberg.pglaf.org/7/3/730/730-h/730-h.htm'), 'gutenberg:730')
+  assert.equal(sourceKey('https://gutenberg.pglaf.org/4/46/46-h/46-h.htm'), 'gutenberg:46')
+  assert.equal(sourceKey('https://aleph.gutenberg.org/5/1/514/514-h/514-h.htm'), 'gutenberg:514')
+  assert.equal(sourceKey('https://www.gutenberg.org/cache/epub/730/pg730-images.html'), 'gutenberg:730')
 })
 
 test('퍼센트 인코딩한 URL 과 안 한 URL 은 같은 출처로 센다', () => {
