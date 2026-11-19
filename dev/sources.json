@@ -24131,21 +24131,21 @@
   },
   "https://news.stv.tv/scotland/over-half-of-over-75s-think-theyre-not-vulnerable-to-heatwaves": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://evidence.nihr.ac.uk/?p=50117": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9980346/": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://api.crossref.org/works/10.1075/is.5.1.06mit": {
     "first": "2026-11-10",
@@ -24179,9 +24179,9 @@
   },
   "https://www.goodmorningamerica.com/news/story/elderly-ignore-heat-warnings-14082326": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://www.khan.co.kr/article/200208041601091/amp": {
     "first": "2026-11-10",
@@ -31947,6 +31947,12 @@
     "lastVerified": "2026-11-19"
   },
   "https://en.wikisource.org/wiki/Ghost_Stories_of_an_Antiquary/Number_13": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.segye.com/newsView/20260805504873": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
