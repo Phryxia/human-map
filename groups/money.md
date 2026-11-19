@@ -83,6 +83,7 @@
 - [전당포에 물건 맡기기](../docs/pawning-belongings.md) 돈이 모자란 사람이 옷이나 장신구 같은 제 물건을 전당포에 맡기고 돈을 빌렸다가 돈이 생기면 되찾는다.
 - [종이 영수증 바로 버리기](../docs/discarding-paper-receipts.md) 가게에서 계산한 손님이 종이 영수증을 받지 않고 버려 달라고 하거나 받자마자 버린다.
 - [좋은 물건 아껴 두기](../docs/saving-things-for-best.md) 좋은 옷이나 물건을 가진 사람이 그것을 특별한 날에 쓰려고 아껴 두고 평소에 쓰지 않는다.
+  - [가장 좋은 옷을 일요일에만 입기](../docs/wearing-sunday-best.md)
 - [지인 대신 대출로 돈 구하기](../docs/borrowing-to-avoid-asking-family.md) 돈이 급한 사람이 가족이나 친구에게 부탁하는 대신 빚을 지거나 이자가 높은 대출을 받는다.
 - [책 사 두고 읽지 않기](../docs/buying-books-without-reading.md) 책을 사는 사람이 산 책을 읽지 않은 채 쌓아 두고 또 책을 산다.
 - [충동구매](../docs/impulse-buying.md) 살 계획이 없던 물건을 본 사람이 그 자리에서 사고 싶어져 산다.
