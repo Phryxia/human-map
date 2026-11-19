@@ -28,6 +28,7 @@
 - [죽은 이에게 말 걸기](talking-to-the-dead.md)
 - [고인의 물건 간직하기](keeping-belongings-of-the-dead.md)
 - [꿈에 나타나는 고인](dreams-of-the-deceased.md)
+- [고인의 존재를 느끼기](sensing-presence-of-the-dead.md)
 
 ## 원인
 

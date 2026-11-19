@@ -7856,15 +7856,15 @@
   },
   "https://www.gutenberg.org/cache/epub/2863/pg2863-images.html": {
     "first": "2026-10-23",
-    "last": "2026-11-04",
-    "result": "VERIFIED",
+    "last": "2026-11-19",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-04"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=1182377&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-11-04",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-19"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26135362&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -7976,9 +7976,9 @@
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34866489&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
-    "last": "2026-11-04",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-19"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35787636&rettype=abstract&retmode=text": {
     "first": "2026-10-23",
@@ -8744,21 +8744,21 @@
   },
   "https://www.tcd.ie/news_events/articles/sensing-the-dead-is-perfectly-normal--and-often-helpful/": {
     "first": "2026-10-23",
-    "last": "2026-11-04",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-19"
   },
   "https://v.daum.net/v/20221117102849728": {
     "first": "2026-10-23",
-    "last": "2026-11-04",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-19"
   },
   "https://www.psypost.org/most-bereaved-people-dream-of-or-sense-the-deceased-study-finds-and-the-two-may-be-linked/": {
     "first": "2026-10-23",
-    "last": "2026-11-04",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-19"
   },
   "https://dlab.sauder.ubc.ca/sjdm/journal/06001/jdm06001.htm": {
     "first": "2026-10-23",
@@ -19205,9 +19205,9 @@
   },
   "https://willed.com.au/guides/talking-to-a-loved-one-who-has-died": {
     "first": "2026-11-04",
-    "last": "2026-11-06",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-19"
   },
   "https://boards.straightdope.com/t/when-were-you-first-offered-a-seat-in-a-bus-and-how-did-you-feel/294167": {
     "first": "2026-11-04",
@@ -31407,6 +31407,12 @@
     "lastVerified": "2026-11-19"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31822206&resultType=core&format=json": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:24517520&resultType=core&format=json": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
