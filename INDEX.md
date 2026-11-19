@@ -732,6 +732,7 @@
 - [적대적 귀인 편향](docs/hostile-attribution-bias.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [적막해서 TV 켜 두기](docs/leaving-tv-on-for-company.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [전기자전거 배터리 집 안에서 충전하기](docs/charging-e-bikes-indoors.md) ([건강과 위험](groups/health-and-safety.md))
+- [전당포에 물건 맡기기](docs/pawning-belongings.md) ([돈과 소비](groups/money.md))
 - [전자제품 상자 버리지 않고 두기](docs/keeping-electronics-boxes.md) ([돈과 소비](groups/money.md))
 - [전화 통화 두려움](docs/phone-call-fear.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [젊은 사람 부러워하기](docs/youth-envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -31753,5 +31753,23 @@
     "last": "2026-11-19",
     "result": "VERIFIED",
     "lastVerified": "2026-11-19"
+  },
+  "https://www.londonmuseum.org.uk/collections/v/object-738460/ticket-pawnbrokers-ticket": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://1900s.org.uk/1900s-pawnbroker.htm": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://api.parliament.uk/historic-hansard/commons/1959/nov/27/pawnbrokers-bill": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
   }
 }
