@@ -26,6 +26,7 @@
 - [난방기기 켜 둔 채 잠들기](../docs/sleeping-with-heater-on.md) 추운 밤에 사람이 전기장판, 전기담요, 전기난로 같은 난방기기를 켜 둔 채 잠든다.
 - [난방기에 빨래 말리기](../docs/drying-laundry-on-heaters.md) 겨울에 집 안에서 빨래를 말리는 사람이 젖은 옷을 히터나 난로 위, 바로 앞에 널어 둔다.
 - [날닭고기 씻기](../docs/washing-raw-chicken.md) 집에서 닭고기를 요리하는 사람이 조리 전에 날닭고기를 물에 씻거나 헹군다.
+- [날반죽 맛보기](../docs/tasting-raw-dough.md) 과자나 케이크를 만드는 사람이 굽기 전의 날반죽을 맛보거나 먹는다.
 - [날짜 지난 음식 먹기의 찜찜함](../docs/uneasy-eating-past-date-food.md) 포장의 날짜가 지난 음식을 앞에 둔 사람이 냄새나 맛에 이상이 없어도 먹기를 찜찜하게 느낀다.
 - [남몰래 먹기](../docs/secret-eating.md) 먹는 모습을 남에게 들키고 싶지 않은 사람이 식구나 어른이 보지 않을 때 몰래 먹는다.
 - [남은 약 다시 먹기](../docs/reusing-leftover-medicine.md) 예전에 처방받고 남은 약을 집에 두었던 사람이 비슷한 증상이 나타나면 진료 없이 그 약을 먹는다.

@@ -129,6 +129,7 @@
 - [난방기기 켜 둔 채 잠들기](docs/sleeping-with-heater-on.md) ([건강과 위험](groups/health-and-safety.md))
 - [난방기에 빨래 말리기](docs/drying-laundry-on-heaters.md) ([건강과 위험](groups/health-and-safety.md))
 - [날닭고기 씻기](docs/washing-raw-chicken.md) ([건강과 위험](groups/health-and-safety.md))
+- [날반죽 맛보기](docs/tasting-raw-dough.md) ([건강과 위험](groups/health-and-safety.md))
 - [날씨 이야기로 말문 열기](docs/weather-small-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [날씨 타기](docs/weather-mood-reactivity.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [날짜 지난 음식 먹기의 찜찜함](docs/uneasy-eating-past-date-food.md) ([건강과 위험](groups/health-and-safety.md))
