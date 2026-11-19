@@ -167,6 +167,7 @@
 - [내키지 않는 초대에 응하기](docs/accepting-unwanted-invitations.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [냄새가 불러낸 옛 기억](docs/smell-evoked-memory.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [냉난방 참기](docs/energy-limiting-behavior.md) ([돈과 소비](groups/money.md))
+- [냉방 사무실에서 추위 타기](docs/feeling-cold-in-air-conditioned-office.md) ([일터와 일자리](groups/work.md))
 - [냉장고 문 열어 두고 먹을 것 고르기](docs/browsing-the-open-fridge.md) ([시간과 하루 습관](groups/daily-time.md))
 - [냉장고 속 남은 음식 잊고 버리기](docs/forgotten-fridge-leftovers.md) ([돈과 소비](groups/money.md))
 - [넘어진 일 알리지 않기](docs/not-telling-about-falls.md) ([건강과 위험](groups/health-and-safety.md))
