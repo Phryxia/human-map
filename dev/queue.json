@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T18:30:23.827Z",
-  "nextSeq": 5757,
-  "stops": 307,
+  "savedAt": "2026-11-19T21:28:15.365Z",
+  "nextSeq": 5783,
+  "stops": 308,
   "items": [
-    {
-      "id": "1bb0a9f9",
-      "title": "pawning-belongings 보강: buying-on-credit-at-local-shops 관계",
-      "priority": 50,
-      "note": "2026-11-19 Caskey 1991 IDEAS, YTN 2023 추가. 쿠키뉴스 2023-06-10 v.daum.net/v/BpkLY57A3Y 청년이 신용점수에 막혀 노트북·카메라를 맡기는 대목(원인 후보). 관계 근거 대목은 아직",
-      "createdAt": "2026-11-19T15:40:00.691Z",
-      "seq": 5741
-    },
-    {
-      "id": "35739a87",
-      "title": "outsourcing-grave-mowing 보강: visiting-graves 관계",
-      "priority": 50,
-      "note": "2026-11-19 공공 파편 둘(공정위 2013, 경기도 2020) 추가. 경기도 2020 기사에 성묘를 못 가 벌초 대행과 온라인 성묘를 신청한 대목. 둘 사이 원인·대립을 말하는 파편은 아직. 2020-09-06 정책브리핑 newsId=148877097 정부가 벌초 대행 이용 권고, 전북 2025-08-26 dataSid=627495 이용 건수 증가",
-      "createdAt": "2026-11-19T15:40:08.697Z",
-      "seq": 5742
-    },
-    {
-      "id": "4983ee01",
-      "title": "deathbed-reconciliation 보강: 대립 간선, 2000년 이전 비문학 파편",
-      "priority": 50,
-      "note": "2026-11-19 코메디닷컴 2026-02-02, PHSO 2026-09-01 추가. 같은 코메디닷컴 글에 무연고 말기 환자가 염치가 없다며 가족 찾기를 망설이는 대목(대립 후보). Al Jazeera 2026-07-04 why-closure-matters-at-the-end-of-life 'That reconciliation, she said, is the truest comfort' 후보",
-      "createdAt": "2026-11-19T15:40:19.814Z",
-      "seq": 5743
-    },
-    {
-      "id": "93b18380",
-      "title": "avoiding-unlucky-numbers 보강: 2000년 이전 파편, 시기별 변화",
-      "priority": 50,
-      "note": "2026-11-19 Gallup 2007, 위키트리 2026 추가. 요약은 집 주소만 말하나 서술은 호텔 13층, 건물 4층까지 다룬다. 요약을 넓힐지 정할 것. medicaltimes 2014-03 ID=1088559 개원가 4층 기피 감소(503), superstitious-rituals 관계",
-      "createdAt": "2026-11-19T18:28:23.609Z",
-      "seq": 5754
-    },
-    {
-      "id": "20e670dd",
-      "title": "avoiding-unlucky-numbers 에 2009년 TripAdvisor 파편: 13번 좌석·호텔 방 피하기",
-      "priority": 50,
-      "note": "tripadvisor.mediaroom.com 2009-03-12 'Over one in ten (11%) travellers always avoid sitting in seats or rows carrying the number 13' 확인함. avoiding-friday-the-13th 와 관계 후보",
-      "createdAt": "2026-11-19T18:29:19.812Z",
-      "seq": 5756
-    },
-    {
-      "id": "54d681d5",
-      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
-      "priority": 30,
-      "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
-      "createdAt": "2026-11-10T21:22:03.975Z",
-      "seq": 4506
-    },
-    {
-      "id": "8b9e8f19",
-      "title": "not-seeing-oneself-as-heat-vulnerable 보강: 한국어 파편",
-      "priority": 30,
-      "note": "2026-11-10 GMA 2011-07-15 (Kent State 2006 연구) 더함. 한국어 후보: khan.co.kr/article/202508071029011 (폭염에 쓰러진 80대가 '괜찮다'며 생활지원사를 돌려보냄), newsis NISX20260804_0003735549",
-      "createdAt": "2026-11-10T21:22:59.084Z",
-      "seq": 4508
-    },
-    {
-      "id": "49b71374",
-      "title": "deciding-who-pays-for-meals 관계: fighting-over-the-bill, dodging-the-bill, SNS 파편",
-      "priority": 30,
-      "note": "2026-11-10 경향 2002, 김은영·김우식 2006, 박영재 외 2024 로 신설. 후보: koreatimes.co.kr/lifestyle/trends/20260918 Gen Z 1/N, bizhankook.com/articles/11049 (2016) 20대 대학생 897명 5대5 58.4%, 같은 경향 2002 글의 '상사라고 더 내고 사원이라고 덜 내는 건 불공평'",
-      "createdAt": "2026-11-10T21:24:37.162Z",
-      "seq": 4511
-    },
-    {
-      "id": "06af69f7",
-      "title": "private-tutoring-anxiety 관계: bragging-about-children, fear-of-missing-out",
-      "priority": 30,
-      "note": "2026-11-10 Cho 외 2021 (koreascience JAKO202120462015915) 조건 파편 더함. 관계 근거 원문 아직 없음",
-      "createdAt": "2026-11-10T21:27:20.136Z",
-      "seq": 4515
-    },
-    {
-      "id": "6005d3ec",
-      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
-      "priority": 30,
-      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02, 2026-11-10 ko.wikisource API 가 요청 과다로 막힘(첫 검색 한 번 뒤 바로). 다른 판본이나 다른 작품, 검색은 웹 검색으로",
-      "createdAt": "2026-11-10T21:27:35.459Z",
-      "seq": 4516
-    },
-    {
-      "id": "e79a7c70",
-      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
-      "priority": 30,
-      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은 동기가 달라 맞지 않음. crr.bc.edu 은 매체. retail-therapy 대립 원문 미발견. 2026-11-10 [^5] Treasury 2020 은 PDF 라 미확인, 같은 문장의 HTML 판 검색 실패",
-      "createdAt": "2026-11-10T21:28:11.644Z",
-      "seq": 4517
-    },
-    {
-      "id": "5017fd03",
-      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
-      "priority": 30,
-      "note": "2026-11-02 Tennyson 1850 은 이미 [^1]. 2026-11-07, 2026-11-10 ko.wikisource API 요청 과다로 막힘. 2026-11-10 서울신문 1990·1993·1995·1996 아카이브 글은 기일 내용 아님. 남은 후보: 서울아산병원 contentId=258306(발행일 미상), 충청신문 dailycc 737711 (2023-03-20), imaeil 2020102900135959598 (2020 소설가 어머니 기일 글)",
-      "createdAt": "2026-11-10T21:30:21.828Z",
-      "seq": 4521
-    },
-    {
-      "id": "81aee1dc",
-      "title": "public-speaking-anxiety 와 anticipatory-social-anxiety 관계",
-      "priority": 30,
-      "note": "2026-11-11 FNE, 되짚기 원인 간선은 박소원 2019 로 그음. 예기불안 쪽 인과 근거 없음. 후보: UiTM IJMAL 7480, Psychology Today stage-fright",
-      "createdAt": "2026-11-11T03:19:07.159Z",
-      "seq": 4548
-    },
     {
       "id": "2904cfad",
       "title": "saying-haircut-is-fine 보강: 학술, SNS 파편",
@@ -1301,6 +1197,86 @@
       "seq": 5690
     },
     {
+      "id": "4965d78e",
+      "title": "outsourcing-grave-mowing 보강: visiting-graves 관계",
+      "priority": 30,
+      "note": "2026-11-19 다시 봄: 둘 사이 원인·대립을 한 문장으로 말하는 파편 없음. 경기도 2020(F3)은 성묘를 못 가 죄책감을 느끼다 대행 신청(성묘 '못 함' 이지 성묘 현상의 원인 아님). 정책브리핑 newsId=148877097, 전북 dataSid=627495",
+      "createdAt": "2026-11-19T21:11:43.204Z",
+      "seq": 5771
+    },
+    {
+      "id": "0793ba3f",
+      "title": "deathbed-reconciliation 보강: 대립 간선",
+      "priority": 30,
+      "note": "2026-11-19 SFGate 1996 추가로 2000년 이전 비문학 채움. 대립 후보: 코메디닷컴 2026-02-02 무연고 말기 환자가 염치가 없다며 가족 찾기를 망설임. Christian Century 1987 religion-online.org/?p=7173 호스피스 환자가 17년 틀어진 가족에게 용서하라고 함(실명 Jack 앞 문장 제외)",
+      "createdAt": "2026-11-19T21:18:35.658Z",
+      "seq": 5772
+    },
+    {
+      "id": "32367dfa",
+      "title": "avoiding-unlucky-numbers 보강: 4 기피의 2000년 이전 파편, superstitious-rituals 관계",
+      "priority": 30,
+      "note": "2026-11-19 Popular Science Monthly 1895 파리 13번지→12 B 추가. 4층·끝자리 4 기피의 1990년대 한국 기사 못 찾음. M.R. James 1904 Number 13 (en.wikisource Ghost_Stories_of_an_Antiquary/Number_13) 호텔 객실 목록에서 13 빼기, 문학 후보. medicaltimes 2014 ID=1088559",
+      "createdAt": "2026-11-19T21:22:58.513Z",
+      "seq": 5773
+    },
+    {
+      "id": "09cf7821",
+      "title": "pawning-belongings 관계: borrowing-to-avoid-asking-family 또는 buying-on-credit-at-local-shops",
+      "priority": 30,
+      "note": "2026-11-19 Reuters 2016 (lincolndailynews 전재) '가족은 캐물으니 전당포가 끌린다' 추가. 부끄러움 원인 대목은 FinanceBuzz pawn shop myths 가 404. 쿠키뉴스 2023-06-10 v.daum.net/v/BpkLY57A3Y 신용점수에 막혀 전당포 대목. 한 문장 인과 파편 필요",
+      "createdAt": "2026-11-19T21:23:11.270Z",
+      "seq": 5774
+    },
+    {
+      "id": "bf25ace2",
+      "title": "making-up-excuses-to-hide-poverty 보강: 학술·SNS 파편, making-excuses-to-skip-plans 관계",
+      "priority": 30,
+      "note": "2026-11-19 Zikoko 2026-01 추가. 학술 후보 Hamilton·Catterall 2007 strathprints eprint/36504 (가난 가리기 일반, concealing-poverty 와 같은 출처). Chalkbeat 2020-11-25 hiding-my-poverty-from-friends 다친 손가락 핑계",
+      "createdAt": "2026-11-19T21:23:51.073Z",
+      "seq": 5775
+    },
+    {
+      "id": "a1f01ef2",
+      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
+      "priority": 30,
+      "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
+      "createdAt": "2026-11-19T21:24:32.438Z",
+      "seq": 5776
+    },
+    {
+      "id": "451a3a51",
+      "title": "deciding-who-pays-for-meals 보강: SNS 파편",
+      "priority": 30,
+      "note": "2026-11-19 fighting-over-the-bill, dodging-the-bill 을 하위로 연결. 후보: koreatimes.co.kr/lifestyle/trends/20260918 Gen Z 1/N, bizhankook.com/articles/11049 (2016) 대학생 897명 5대5 58.4%",
+      "createdAt": "2026-11-19T21:26:13.570Z",
+      "seq": 5777
+    },
+    {
+      "id": "ba1137b2",
+      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
+      "priority": 30,
+      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02, 2026-11-10 ko.wikisource API 가 요청 과다로 막힘(첫 검색 한 번 뒤 바로). 다른 판본이나 다른 작품, 검색은 웹 검색으로",
+      "createdAt": "2026-11-19T21:26:36.661Z",
+      "seq": 5779
+    },
+    {
+      "id": "cb3684d7",
+      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
+      "priority": 30,
+      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은 동기가 달라 맞지 않음. crr.bc.edu 은 매체. retail-therapy 대립 원문 미발견. 2026-11-10 [^5] Treasury 2020 은 PDF 라 미확인, 같은 문장의 HTML 판 검색 실패",
+      "createdAt": "2026-11-19T21:26:36.751Z",
+      "seq": 5780
+    },
+    {
+      "id": "f5043ce7",
+      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
+      "priority": 30,
+      "note": "2026-11-02 Tennyson 1850 은 이미 [^1]. 2026-11-07, 2026-11-10 ko.wikisource API 요청 과다로 막힘. 2026-11-10 서울신문 1990·1993·1995·1996 아카이브 글은 기일 내용 아님. 2026-11-19 imaeil 2020102900135959598 '해마다 어머님 기일이 다가오면 생각나는 것들이 있다.' 확인(2020이라 시기 조건 못 채움). 남은 후보: 서울아산병원 contentId=258306(발행일 미상), 충청신문 dailycc 737711",
+      "createdAt": "2026-11-19T21:26:54.169Z",
+      "seq": 5781
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1707,6 +1683,22 @@
       "note": "2026-11-19 상대가 될 정체 문서 없음. 후보 HN 49796762 2026-09-22, CSM 1986-12-17 gridlock. 정체 관련 현상 문서가 생기면 다시",
       "createdAt": "2026-11-19T09:30:50.361Z",
       "seq": 5707
+    },
+    {
+      "id": "1c57151b",
+      "title": "private-tutoring-anxiety 관계: bragging-about-children, fear-of-missing-out",
+      "priority": 20,
+      "note": "2026-11-10 Cho 외 2021 (koreascience JAKO202120462015915) 조건 파편 더함. 2026-11-19 다시 봄: fear-of-missing-out 은 남이 겪는 좋은 일을 놓칠까 불안이라 결이 다름. 인과 원문 없음",
+      "createdAt": "2026-11-19T21:26:26.105Z",
+      "seq": 5778
+    },
+    {
+      "id": "90f896f9",
+      "title": "public-speaking-anxiety 와 anticipatory-social-anxiety 관계",
+      "priority": 20,
+      "note": "2026-11-11 FNE, 되짚기 원인 간선은 박소원 2019 로 그음. 예기불안 쪽 인과 근거 없음. 후보: UiTM IJMAL 7480, Psychology Today stage-fright. 2026-11-19 다시 봄: 발표 불안 요약이 '앞두고' 를 포함해 겹침, 상하위 근거 원문 필요",
+      "createdAt": "2026-11-19T21:27:34.724Z",
+      "seq": 5782
     },
     {
       "id": "9c55db6a",
