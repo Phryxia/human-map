@@ -19235,15 +19235,15 @@
   },
   "https://boards.straightdope.com/t/bad-blood-donating-experiences/13551?page=2": {
     "first": "2026-11-04",
-    "last": "2026-11-05",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-19"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8665004/": {
     "first": "2026-11-04",
-    "last": "2026-11-05",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-19"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC61246/": {
     "first": "2026-11-04",
@@ -20206,15 +20206,15 @@
   },
   "https://www.healthday.com/health-news/public-health/blood-donation-surge-after-9-11-waned-fast-513060.html": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-19"
   },
   "https://www.redcross.org/about-us/news-and-events/news/2025/red-cross-honors-lifesaving-impact-of-first-time-donors.html": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-19"
   },
   "https://www.gutenberg.org/cache/epub/1732/pg1732-images.html": {
     "first": "2026-11-05",
@@ -31431,6 +31431,12 @@
     "lastVerified": "2026-11-19"
   },
   "https://news.ycombinator.com/item?id=33000531": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC11863295&resultType=core&format=json": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
