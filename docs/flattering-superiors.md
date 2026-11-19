@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [윗사람의 농담에 따라 웃기](laughing-at-the-bosss-jokes.md)
 
 ## 원인
 

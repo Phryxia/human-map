@@ -32,6 +32,7 @@
 - [연봉 협상하지 않기](../docs/not-negotiating-salary.md) 일자리 제안을 받은 사람이 돈을 더 달라고 하기가 불편하거나 제안이 철회될까 걱정해 연봉을 협상하지 않고 처음 제시된 금액을 받아들인다.
 - [연차휴가 남기기](../docs/unused-annual-leave.md) 유급휴가를 받은 직장인이 직장 분위기와 상사의 눈치, 일의 양 때문에 휴가를 다 쓰지 않고 남긴다.
 - [윗사람에게 아첨하기](../docs/flattering-superiors.md) 아랫사람이 상사나 힘 있는 사람의 호감을 사려고 그를 추어올리거나 낮은 자세를 보인다.
+  - [윗사람의 농담에 따라 웃기](../docs/laughing-at-the-bosss-jokes.md)
 - [육아휴직 망설이기](../docs/hesitating-to-take-parental-leave.md) 육아휴직을 쓸 수 있는 직장인이 동료의 업무 부담과 직장 분위기, 경력 불이익을 걱정해 휴직 신청을 미루거나 하지 않는다.
 - [일 맡기지 못하기](../docs/reluctance-to-delegate.md) 관리자나 직장인이 남에게 맡길 수 있는 일을 맡기지 않고 직접 한다.
 - [일 중독](../docs/workaholism.md) 일하는 사람이 일을 멈추지 못하고 일에서 떨어지면 일을 생각하거나 일하지 않는 데 죄책감을 느낀다.
