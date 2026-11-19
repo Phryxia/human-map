@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [화상 회의에서 카메라 끄기](keeping-camera-off-in-video-calls.md)
 
 ## 대립
 
