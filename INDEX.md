@@ -509,6 +509,7 @@
 - [아이 갖기 미루기](docs/delaying-childbearing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아이를 낳지 않기로 하기](docs/choosing-not-to-have-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아이를 보육시설에 처음 맡기는 부모의 불안](docs/parental-separation-anxiety-at-childcare.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [아주 좋거나 아주 나쁠 때 후기 쓰기](docs/reviewing-after-extreme-experiences.md) ([돈과 소비](groups/money.md))
 - [아침 식사 거르기](docs/skipping-breakfast.md) ([시간과 하루 습관](groups/daily-time.md))
 - [아파도 출근하기](docs/sickness-presenteeism.md) ([일터와 일자리](groups/work.md))
 - [아픈 것을 가족에게 숨기기](docs/hiding-illness-from-family.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
