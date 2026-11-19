@@ -472,6 +472,7 @@
 - [쇼핑카트 반납하지 않기](docs/not-returning-shopping-carts.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [수도 동파 대비하지 않기](docs/not-protecting-pipes-from-freezing.md) ([건강과 위험](groups/health-and-safety.md))
 - [수돗물 그대로 마시지 않기](docs/not-drinking-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
+- [수의 미리 장만하기](docs/preparing-burial-shroud-in-advance.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [수줍은 방광](docs/shy-bladder.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [수줍음](docs/shyness.md) ([성향과 기질](groups/traits.md))
 - [술 마신 뒤 물놀이](docs/swimming-after-drinking.md) ([건강과 위험](groups/health-and-safety.md))
