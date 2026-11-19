@@ -28,6 +28,7 @@
 - [손님이 떠난 뒤의 허전함](../docs/after-visit-emptiness.md) 함께 지내던 가족이나 손님이 떠난 뒤 남은 사람이 집이 텅 비고 조용해진 것 같아 허전해한다.
 - [신을 원망한 뒤 종교 행위 끊기](../docs/quitting-religious-practice-after-blaming-god.md) 불행을 겪고 신을 원망하게 된 사람이 기도, 미사, 예배 같은 종교 행위를 그만둔다.
 - [어린 시절 살던 집 찾아가기](../docs/revisiting-childhood-home.md) 어른이 된 사람이 어린 시절 살던 집이나 동네를 일부러 다시 찾아가 지금의 모습을 기억과 견주어 본다.
+- [영정 사진 미리 찍기](../docs/taking-funeral-portraits-in-advance.md) 나이 든 사람이 자기 장례에 쓸 영정 사진을 살아 있을 때 미리 찍어 둔다.
 - [예기 애도](../docs/anticipatory-grief.md) 가족이 죽어 가는 것을 지켜보는 사람이 그 가족이 죽기 전에 미리 슬퍼한다.
 - [외로움](../docs/loneliness.md) 사람이 일상생활에서 외롭다고 느낀다.
 - [운전을 그만둔 뒤의 고립](../docs/isolation-after-driving-cessation.md) 운전을 그만둔 노인이 밖에 나가는 일을 줄이고 남과 떨어져 고립감을 느낀다.
