@@ -8,9 +8,11 @@
 
 # 서술
 
-1853년 소설[^1]에서 마티 양은 소녀 시절부터 침대에 오르는 순간 침대 밑에 숨은 누군가에게 마지막 다리를 붙잡힐까 두려워했다고 털어놓는다.
+1843년 소설[^1]에서 혼자 사는 노인은 잠자리에 들기 전 방을 돌며 침대 밑과 벽장에 아무도 없는지 살폈고 벽에 걸린 실내복까지 수상쩍게 여겼다.
 
-2017년 기사[^2]가 전한 조사에서 응답한 성인 일부는 잠자리에 들기 전 침대 밑에 괴물이 숨어 있는지 자주 확인하고 벽장과 옷장 문을 닫는다고 답했다. 2019년 기사[^3]가 전한 조사에서는 응답자의 8%가 침대 밑의 괴물을 확인한다고 답했다.
+1853년 소설[^2]에서 마티 양은 소녀 시절부터 침대에 오르는 순간 침대 밑에 숨은 누군가에게 마지막 다리를 붙잡힐까 두려워했다고 털어놓는다.
+
+2017년 기사[^3]가 전한 조사에서 응답한 성인 일부는 잠자리에 들기 전 침대 밑에 괴물이 숨어 있는지 자주 확인하고 벽장과 옷장 문을 닫는다고 답했다. 2019년 기사[^4]가 전한 조사에서는 응답자의 8%가 침대 밑의 괴물을 확인한다고 답했다.
 
 # 관계
 
@@ -36,6 +38,7 @@
 
 #마음
 
-[^1]: [문학] "she had dreaded being caught by her last leg, just as she was getting into bed, by some one concealed under it." (그녀는 침대에 들어가려는 바로 그 순간 침대 밑에 숨은 누군가에게 마지막 다리를 붙잡힐까 두려워해 왔다.) — Elizabeth Gaskell, Cranford, Project Gutenberg, 1853, https://www.gutenberg.org/cache/epub/394/pg394.txt, 2026-11-12 접속
-[^2]: [매체] "said they regularly check under the bed for lurking mosters and close the cupboard and wardrobe doors before getting into bed." (침대 밑에 숨어 있는 괴물을 자주 확인하고 잠자리에 들기 전에 벽장과 옷장 문을 닫는다고 답했다.) — "This is the percentage of adults who are still afraid of the dark", New Idea, 2017-11-16, https://www.newidea.com.au/this-is-the-percentage-of-adults-who-are-still-afraid-of-the-dark, 2026-11-12 접속
-[^3]: [매체] "Perhaps more unusually 8 percent would even check for 'monsters' under the bed." (더 드물게는 8%가 침대 밑의 '괴물'까지 확인한다고 답했다.) — "Do YOU sleep with the light on? The number of Brits who still do might surprise you", Ideal Home, 2019-02-26, https://idealhome.co.uk/news/sleep-light-number-brits-still-might-surprise-221683, 2026-11-12 접속
+[^1]: [문학] "Nobody under the bed; nobody in the closet; nobody in his dressing-gown, which was hanging up in a suspicious attitude against the wall." (침대 밑에도 아무도 없고 벽장에도 아무도 없고 벽에 수상쩍은 자세로 걸린 실내복 안에도 아무도 없었다.) — Charles Dickens, 『A Christmas Carol』, 1843, https://gutenberg.pglaf.org/4/46/46-h/46-h.htm, 2026-11-19 접속
+[^2]: [문학] "she had dreaded being caught by her last leg, just as she was getting into bed, by some one concealed under it." (그녀는 침대에 들어가려는 바로 그 순간 침대 밑에 숨은 누군가에게 마지막 다리를 붙잡힐까 두려워해 왔다.) — Elizabeth Gaskell, Cranford, Project Gutenberg, 1853, https://www.gutenberg.org/cache/epub/394/pg394.txt, 2026-11-12 접속
+[^3]: [매체] "said they regularly check under the bed for lurking mosters and close the cupboard and wardrobe doors before getting into bed." (침대 밑에 숨어 있는 괴물을 자주 확인하고 잠자리에 들기 전에 벽장과 옷장 문을 닫는다고 답했다.) — "This is the percentage of adults who are still afraid of the dark", New Idea, 2017-11-16, https://www.newidea.com.au/this-is-the-percentage-of-adults-who-are-still-afraid-of-the-dark, 2026-11-12 접속
+[^4]: [매체] "Perhaps more unusually 8 percent would even check for 'monsters' under the bed." (더 드물게는 8%가 침대 밑의 '괴물'까지 확인한다고 답했다.) — "Do YOU sleep with the light on? The number of Brits who still do might surprise you", Ideal Home, 2019-02-26, https://idealhome.co.uk/news/sleep-light-number-brits-still-might-surprise-221683, 2026-11-12 접속

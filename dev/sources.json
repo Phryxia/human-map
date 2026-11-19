@@ -25295,21 +25295,21 @@
   },
   "https://www.gutenberg.org/cache/epub/394/pg394.txt": {
     "first": "2026-11-12",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-19",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://www.newidea.com.au/this-is-the-percentage-of-adults-who-are-still-afraid-of-the-dark": {
     "first": "2026-11-12",
-    "last": "2026-11-12",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-19"
   },
   "https://idealhome.co.uk/news/sleep-light-number-brits-still-might-surprise-221683": {
     "first": "2026-11-12",
-    "last": "2026-11-12",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-12"
+    "lastVerified": "2026-11-19"
   },
   "https://www.gutenberg.org/cache/epub/10343/pg10343.txt": {
     "first": "2026-11-12",
@@ -31863,6 +31863,12 @@
     "lastVerified": "2026-11-19"
   },
   "https://gutenberg.pglaf.org/7/3/730/730-h/730-h.htm": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://gutenberg.pglaf.org/4/46/46-h/46-h.htm": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
