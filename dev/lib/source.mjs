@@ -80,7 +80,7 @@ async function fetchOnce(url, ua, {timeout, fetchImpl}) {
       // sgsg.hankyung.com 은 글 경로에 403 과 Cloudflare 봇 확인을 준다(2026-11-07). 4xx 본문이 봇 확인이면 그렇게 본다.
       const errBody = res.status >= 400 && res.status < 500 && res.text ? await res.text().catch(() => '') : ''
       if (CHALLENGE_PATTERNS.some(re => re.test(errBody.slice(0, 5000)))) return {ok: false, reason: '봇 확인 페이지'}
-      return {ok: false, reason: `HTTP ${res.status}`}
+      return {ok: false, reason: `HTTP ${res.status}`, ...(res.url && res.url !== url ? {url: res.url} : {})}
     }
     const ct = res.headers.get('content-type') ?? ''
     const body = res.arrayBuffer ? decodeBody(new Uint8Array(await res.arrayBuffer()), ct) : await res.text()
@@ -160,11 +160,16 @@ export function failureKind(reason = '') {
   return null
 }
 
-export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 20000} = {}) {
+// 리다이렉트로 다른 호스트에 가서 실패했으면 그 호스트의 / 도 본다(www.statcan.gc.ca 가 www150.statcan.gc.ca 로 보내고 그 호스트가 / 부터 403, 2026-11-19).
+export async function hostBlocked(url, reason, {fetchImpl = fetch, timeout = 20000, finalUrl} = {}) {
   const kind = failureKind(reason ?? '')
   if (!kind) return false
-  const home = await fetchOnce(new URL('/', url).href, USER_AGENTS.at(-1), {timeout, fetchImpl})
-  return kind === '4xx' ? !home.ok : !home.ok && failureKind(home.reason) === kind
+  const hosts = [url, ...(finalUrl && new URL(finalUrl).host !== new URL(url).host ? [finalUrl] : [])]
+  for (const u of hosts) {
+    const home = await fetchOnce(new URL('/', u).href, USER_AGENTS.at(-1), {timeout, fetchImpl})
+    if (kind === '4xx' ? !home.ok : !home.ok && failureKind(home.reason) === kind) return true
+  }
+  return false
 }
 
 // 결과를 기록과 줄 표시에 맞춰 판정한다. 돌려주는 값: {exit: 0|1, note}

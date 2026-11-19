@@ -369,3 +369,14 @@ test('fetchText: AWS WAF 확인 페이지는 봇 확인 페이지다', async () 
   const page = await fetchText('https://www.gov.scot/publications/x/pages/5/', {quote: 'heat loss', fetchImpl: waf, fallbackImpl: waf, challengeDelay: 0})
   assert.deepEqual(page, {ok: false, reason: '봇 확인 페이지'})
 })
+
+// www.statcan.gc.ca/pub/71-542-x/... 는 2026-11-19 에 301 로 www150.statcan.gc.ca 로 갔고 그 글과 www150 의 / 가 모두 403 이었다.
+// 원래 호스트 www.statcan.gc.ca 의 / 는 200 이라 리다이렉트된 호스트의 / 로 판정해야 한다.
+test('hostBlocked: 리다이렉트된 호스트의 / 도 막혔으면 true', async () => {
+  const mk = map => async url => { const u = new URL(url); const s = map[u.host + u.pathname] ?? 200; return {ok: s < 300, status: s, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>x</html>'} }
+  const url = 'https://www.statcan.gc.ca/pub/71-542-x/2009001/summary-sommaire-eng.htm'
+  const finalUrl = 'https://www150.statcan.gc.ca/n1/pub/71-542-x/2009001/summary-sommaire-eng.htm'
+  assert.equal(await hostBlocked(url, 'HTTP 403', {fetchImpl: mk({'www150.statcan.gc.ca/': 403}), finalUrl}), true)
+  assert.equal(await hostBlocked(url, 'HTTP 403', {fetchImpl: mk({}), finalUrl}), false)
+  assert.equal(await hostBlocked(url, 'HTTP 403', {fetchImpl: mk({'www150.statcan.gc.ca/': 403})}), false)
+})
