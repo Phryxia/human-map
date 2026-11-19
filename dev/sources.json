@@ -23909,21 +23909,21 @@
   },
   "https://www.gutenberg.org/cache/epub/12/pg12-images.html": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
-    "result": "VERIFIED",
+    "last": "2026-11-19",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-10"
   },
   "https://www.idealhome.co.uk/news/talking-to-plants-255159": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://mediahub.seoul.go.kr/archives/2007750": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://www.clien.net/service/board/park/9381481": {
     "first": "2026-11-10",
@@ -24119,9 +24119,9 @@
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1533128/full": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://www.gov.uk/government/news/millions-wasted-as-people-dont-spend-gift-vouchers": {
     "first": "2026-11-10",
@@ -31293,6 +31293,24 @@
     "lastVerified": "2026-11-19"
   },
   "https://www.udel.edu/academics/colleges/canr/news/2024/march/dont-even-think-about-eating-that-cookie-dough": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.gardenstew.com/posts/131900": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.fox9.com/news/survey-americans-admit-talking-to-plants-might-make-them-happier": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://bravo.etoday.co.kr/view/atc_view/14381": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
