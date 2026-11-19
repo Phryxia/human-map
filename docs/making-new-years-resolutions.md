@@ -20,6 +20,8 @@
 
 2018년 기사[^6]가 전한 설문에서 성인 71.7%가 그해의 새해계획을 세웠다고 답했다.
 
+
+2023년 YTN 기사[^7]는 새해 결심으로 새로운 정보가 더해지면 뇌에 과부하가 일어나 결심을 포기할 가능성이 크다고 전했다.
 # 관계
 
 ## 상위
@@ -36,7 +38,7 @@
 
 ## 결과
 
-없음.
+- [작심삼일](abandoning-resolutions.md)[^7]
 
 ## 대립
 
@@ -50,3 +52,4 @@
 [^4]: [학술] "behavioral goals (weight loss, exercise program, and smoking cessation being the most prevalent)." (행동 목표(체중 감량, 운동 계획, 금연이 가장 많았다).) — John C. Norcross, Marci S. Mrykalo, Matthew D. Blagys, "Auld lang syne: success predictors, change processes, and self-reported outcomes of New Year's resolvers and nonresolvers", Journal of Clinical Psychology 58(4), 2002-04, https://pubmed.ncbi.nlm.nih.gov/11920693/, 2026-11-01 접속
 [^5]: [SNS] "Some years ago I told a bunch of friends that my new year's resolution was quitting smoking and if they were to see me smoke they were allowed to call me an idiot. It worked pretty well for me." (몇 해 전 친구들에게 새해 결심이 금연이라고 말하고 내가 담배 피우는 것을 보면 바보라고 불러도 된다고 했다. 꽤 효과가 있었다.) — Hacker News 댓글, 2014-08-05, https://news.ycombinator.com/item?id=8137424, 2026-11-09 접속
 [^6]: [매체] "이에 따르면 2018년 새해계획을 세웠는지를 물은 결과 71.7%가 ‘세웠다’고 답했다." — 강인귀, 「성인남녀 84% "단골 새해계획 있다…번번이 실패하는 것은 다이어트"」, 시대, 2018-01-01, https://www.sidae.com/article/2017122913268023099, 2026-11-01 접속
+[^7]: [매체] "뇌가 한 번에 다룰 수 있는 정보는 다섯 개에서 아홉 개 정도인데 새해 결심으로 새로운 정보가 추가되면 뇌에 과부하가 일어날 수 있어 포기로 이어질 가능성이 크다는 것입니다." — 김평정, 「'작심삼일'은 인간의 본능...새해 계획 잘 지키려면?」, YTN, 2023-01-21, https://www.ytn.co.kr/_ln/0103_202301210600161938, 2026-11-19 접속
