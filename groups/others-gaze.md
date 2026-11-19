@@ -59,6 +59,7 @@
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.
 - [지체 높은 지인 내세우기](../docs/name-dropping.md) 사람이 남에게 좋게 보이려고 이름난 사람이나 지위 높은 사람과 아는 사이라는 말을 대화에 끼워 넣는다.
 - [참으려고 입술 깨물기](../docs/biting-lips-to-hold-back.md) 웃음, 눈물, 화를 남 앞에서 참으려는 사람이 입술을 깨문다.
+- [창피한 순간에 아무렇지 않은 척하기](../docs/feigning-nonchalance-after-embarrassment.md) 남 앞에서 넘어지거나 실수한 사람이 당황한 것을 감추려고 아무 일 없었다는 듯이 행동한다.
 - [창피한 일을 꾸며 둘러대기](../docs/covering-up-embarrassment.md) 창피한 일을 겪은 사람이 그 일을 사실대로 말하지 않고 다른 이야기로 꾸며 남에게 둘러댄다.
 - [청력 손실 숨기기](../docs/hiding-hearing-loss.md) 청력이 떨어진 사람이 남에게 그 사실을 알리지 않거나 보청기를 보이지 않게 감춘다.
 - [체면 지키기](../docs/saving-face.md) 남 앞에서 위신을 잃지 않으려는 사람이 손해를 보더라도 사회 규범과 겉으로 보이는 모양새를 지킨다.
