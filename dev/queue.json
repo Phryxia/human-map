@@ -1,169 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T06:33:50.493Z",
-  "nextSeq": 5692,
-  "stops": 303,
+  "savedAt": "2026-11-19T09:39:17.651Z",
+  "nextSeq": 5713,
+  "stops": 304,
   "items": [
-    {
-      "id": "d6f601e4",
-      "title": "foreigner-talk 보강: 한국어 화자가 외국인에게 반말이나 쉬운 말 쓰기",
-      "priority": 50,
-      "note": "2026-11-19 후보: 세계일보 2024-07-24 segye.com/view/20240724513997 외국인에게 반말 칼럼, gobillykorean.com 한국어 학습자에게 반말. 반말은 별개 현상일 수 있어 find 후 판단",
-      "createdAt": "2026-11-19T06:33:37.655Z",
-      "seq": 5691
-    },
-    {
-      "id": "8ecb4f0a",
-      "title": "rereading-old-diaries 와 keeping-a-diary 관계",
-      "priority": 30,
-      "note": "2026-11-06 미룸. 필요한 근거: 일기를 써 두었기 때문에 다시 읽게 되었다(결과), 또는 다시 읽으려고 일기를 쓴다는 대목. 상위 관계는 맞지 않음. 이전 note: stylist.co.uk 837264, brunch @notepen/16, npr transcripts/11989043",
-      "createdAt": "2026-11-06T15:13:22.642Z",
-      "seq": 3991
-    },
-    {
-      "id": "097ded84",
-      "title": "accent-prejudice 보강: 한국 표준어 대 사투리 화자 평가 실험",
-      "priority": 30,
-      "note": "2026-11-06 ERIC ED062828 (1972) 더함. 한국 매치드 가이즈 HTML 초록 못 찾음. 후보: doi 10.1515/applirev-2023-0058 (부산 화자 서울 말투일 때 더 좋게 평가, 405), riss 조재형·백승현 2022 방언 언어 태도 설문, eric ED088619 (1974) 표준 영어 대 억양 영어",
-      "createdAt": "2026-11-06T15:20:24.931Z",
-      "seq": 3992
-    },
-    {
-      "id": "a4da5272",
-      "title": "confronting-line-cutters 와 staying-silent-at-line-cutting 대립 근거",
-      "priority": 30,
-      "note": "2026-11-06 staying-silent 에 네이트판 328562892 더함. 대립 근거 후보(미확인): 82cook bn=15 num=1162538 (2012-01-09) 적반하장 걱정에 돌아섬, 이 환경에서 SSL 오류. clien park/18136502 (2023-06-16) 예전엔 에휴 하고 말았는데 요즘엔 대놓고 이야기",
-      "createdAt": "2026-11-06T15:24:59.392Z",
-      "seq": 3993
-    },
-    {
-      "id": "cfded205",
-      "title": "sunk-cost-persistence 와 pre-wedding-doubts 관계",
-      "priority": 30,
-      "note": "2026-11-06 다음 카페 dubai4u 4413 뷔페 본전 댓글 더함. pre-wedding-doubts 원인 근거(들인 돈과 시간이 아까워 결혼을 밀고 감)는 여전히 없음. overeating 관계 후보도 같은 댓글",
-      "createdAt": "2026-11-06T15:25:44.992Z",
-      "seq": 3994
-    },
-    {
-      "id": "ed388b31",
-      "title": "feeding-pigeons 보강: 1인칭 외로움 동기 파편",
-      "priority": 30,
-      "note": "2026-11-07 Straight Dope 427529/34 2007 댓글(제3자 추측)을 [^4] 로 씀. 남은 후보: 클리앙 park/18596385 2024-02-20 '밥주는 즐거움을 누리던 사람들'. Harringay Online 2017 은 특정인을 다룬 스레드라 쓰지 않음. 1인칭 글 미발견",
-      "createdAt": "2026-11-07T12:25:04.587Z",
-      "seq": 4064
-    },
-    {
-      "id": "4fddfb06",
-      "title": "skipping-flossing 와 withholding-information-from-doctors 관계",
-      "priority": 30,
-      "note": "2026-11-03 뉴스토마토 2020 이유 파편 더함. NPR 2015 [^2] 는 성인 27% 가 치과의사에게 치실 빈도를 거짓말. 2026-11-07 NPR 본문에 인과 문장 없음. 치실 사용 부풀려 말하기는 습관을 줄여 말하기와 방향이 반대라 하위로 두기 어렵다",
-      "createdAt": "2026-11-07T15:21:53.942Z",
-      "seq": 4093
-    },
-    {
-      "id": "cbc757c2",
-      "title": "making-new-years-resolutions 와 abandoning-resolutions 관계 근거",
-      "priority": 30,
-      "note": "2026-11-09 Okura 1950 54481 과 HN 8137424 2014 더함. 두 현상 사이 인과를 말하는 파편 아직 없음. 결심을 많이 세울수록 포기가 잦다는 연구 찾기",
-      "createdAt": "2026-11-09T03:13:27.968Z",
-      "seq": 4250
-    },
-    {
-      "id": "f983aaf2",
-      "title": "relief-after-caregiving-death 보강: 관계",
-      "priority": 30,
-      "note": "2026-11-09 anticipatory-grief 원인 간선 근거 탐색. Schulz 2003 72% 는 이미 [^4]. 늦은 단계 치매 간병인이 더 안도하고 준비된 경우 안도가 컸다는 전향 연구(검색 요약, 출처 미확인) 후보",
-      "createdAt": "2026-11-09T03:17:08.964Z",
-      "seq": 4253
-    },
-    {
-      "id": "faa606c7",
-      "title": "slowing-only-at-speed-cameras 보강: 원인 간선",
-      "priority": 30,
-      "note": "2026-11-09 HN 41929953 2024 더함. 원인 후보: 2004 examiner 잃은 시간 만회, LSE 2017-10-25 kangaroo effect, SBS Biz 2023-09-30 후면 단속",
-      "createdAt": "2026-11-09T03:17:46.475Z",
-      "seq": 4254
-    },
-    {
-      "id": "b36534bd",
-      "title": "mother-in-law-conflict 보강: 결과 간선",
-      "priority": 30,
-      "note": "2026-11-09 skipping-holiday-gatherings 결과 후보 검색, 다음 2017-01-27 v.daum 20170127173532421 친정 향하는 며느리 기사는 인과가 약함. PMC9726850 산모 우울 후보",
-      "createdAt": "2026-11-09T03:18:08.261Z",
-      "seq": 4255
-    },
-    {
-      "id": "85026fb5",
-      "title": "blocking-the-intersection 보강: 결과 간선",
-      "priority": 30,
-      "note": "2026-11-09 HN 49637420 2026 더함. HN 49796762 2026-09-22 'block the box and cause everything to grind to a halt' 정체 결과 후보, CSM 1986-12-17 gridlock 후보. 정체 문서 없음",
-      "createdAt": "2026-11-09T03:18:53.002Z",
-      "seq": 4256
-    },
-    {
-      "id": "e1f63e25",
-      "title": "tolerating-unpaid-wages 보강: 관계",
-      "priority": 30,
-      "note": "2026-11-09 HN 17849677 2018 더함. not-reporting-workplace-injury, enduring-workplace-harassment 와 공통 상위 검토 남음. HN 18011960 2018 CEO 가 돈이 묶였다고 약속하며 임금 미지급",
-      "createdAt": "2026-11-09T03:19:56.772Z",
-      "seq": 4257
-    },
-    {
-      "id": "932689c3",
-      "title": "hiding-mistakes-at-work 보강: 원인 간선",
-      "priority": 30,
-      "note": "2026-11-09 perfectionism 원인 후보 검색, 직접 근거 없음. hhs.se 2021 Dahl, Werr 컨설팅 회사 문화가 실수를 숨기게 한다(긍정 문화). 원인 문서 후보: 비난 두려움",
-      "createdAt": "2026-11-09T03:20:25.693Z",
-      "seq": 4258
-    },
-    {
-      "id": "b8112d68",
-      "title": "reluctance-to-delegate 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-09 Hansard 와 business.gov.au 에서 찾지 못함. ANZ business hub, Airtasker 2026-06 은 매체",
-      "createdAt": "2026-11-09T03:20:45.314Z",
-      "seq": 4259
-    },
-    {
-      "id": "ed3e56b1",
-      "title": "climate-inaction 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-09 DESNZ Public Attitudes Tracker Summer 2026 gov.uk 페이지에서 개인 행동이 소용없다는 대목 못 찾음. Winter 2025 'Attitudes to action on climate change' 절 후보",
-      "createdAt": "2026-11-09T03:25:48.610Z",
-      "seq": 4260
-    },
-    {
-      "id": "f994b7da",
-      "title": "imaginary-arguments 관계: rumination",
-      "priority": 30,
-      "note": "2026-11-09 재확인: 인과나 상위 근거 문장 못 찾음. melmagazine rehearsing-an-argument (2022-02-15) 'the thin line between preparation and rumination' 는 경계만 말함. ToI 블로그 nonstop-rumination 403, encyclopedia.pub 34630 403. Honeycutt conflict-linkage 원문(학술, 상상 대화로 지난 다툼을 곱씹음)을 HTML 로 찾으면 상위 근거. 문서의 미래 다툼 연습 대목은 rumination 요약(지난 일)과 어긋남",
-      "createdAt": "2026-11-09T15:12:02.157Z",
-      "seq": 4308
-    },
-    {
-      "id": "01234e05",
-      "title": "putting-off-friends 관계: loneliness, hesitating-to-contact-old-friends",
-      "priority": 30,
-      "note": "2026-11-09 Dazed 64746 전체 URL은 /life-culture/article/64746/1/do-you-have-time-to-be-a-good-friend-career-relationships-work-loneliness (2024-09-27). 'byproduct of having no time' 문장은 241자라 쓸 수 없고 짧은 인과 문장 없음. 남은 후보: teamblind 8nb87qth (2026-02-02), brunch @0520with/21 (2019-01-09) '시간 없다는 핑계로 미루기만 했었다'",
-      "createdAt": "2026-11-09T15:19:18.904Z",
-      "seq": 4313
-    },
-    {
-      "id": "393069af",
-      "title": "fidgeting 보강: 나타나지 않는 조건, 한국어 SNS",
-      "priority": 30,
-      "note": "2026-11-09 Ricciardi 2019 iris.uniroma1.it 11573/1353277 더함. 남은 후보: SBS 2016-02-23 URL 못 찾음, Galton 1885 Nature 'Measure of Fidget' galton.org PDF 타임아웃",
-      "createdAt": "2026-11-09T15:37:06.414Z",
-      "seq": 4325
-    },
-    {
-      "id": "2b409fa8",
-      "title": "talking-to-pets 보강: 한국어 학술 또는 공공 파편",
-      "priority": 30,
-      "note": "2026-11-10 Mitchell 2004 (crossref 초록) 더하고 상위 talking-to-animals 로 이음. 속마음 털어놓는 면은 talking-to-animals 가 다룸(dvm360 2011). 후보: news.seoul.go.kr/welfare/archives/519574 (2020-06-11)",
-      "createdAt": "2026-11-10T21:16:26.081Z",
-      "seq": 4500
-    },
     {
       "id": "54d681d5",
       "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
@@ -1501,6 +1341,54 @@
       "seq": 4859
     },
     {
+      "id": "4f46e619",
+      "title": "confronting-line-cutters 와 staying-silent-at-line-cutting 대립 근거",
+      "priority": 25,
+      "note": "2026-11-19 clien park/18136502 다시 봄: 예전엔 참다 요즘 말한다는 시기 변화일 뿐 한 사람 안에서 맞서 미는 대목 아님. 같은 글 댓글 #142852997 은 트러블 싫어 모른척(staying-silent 쪽 근거). 82cook 1162538 은 SSL 오류 지속",
+      "createdAt": "2026-11-19T09:14:12.571Z",
+      "seq": 5704
+    },
+    {
+      "id": "dd57ed51",
+      "title": "tolerating-unpaid-wages 보강: 관계",
+      "priority": 25,
+      "note": "2026-11-09 HN 17849677 2018 더함. not-reporting-workplace-injury, enduring-workplace-harassment 와 공통 상위 검토 남음(새 상위 문서 필요). HN 18011960 2018 CEO 가 돈이 묶였다고 약속하며 임금 미지급",
+      "createdAt": "2026-11-19T09:30:54.166Z",
+      "seq": 5708
+    },
+    {
+      "id": "b7a306e9",
+      "title": "hiding-mistakes-at-work 보강: 원인 간선",
+      "priority": 25,
+      "note": "2026-11-19 fear-of-negative-evaluation 후보 검토: [^2] 가혹한 대우, [^3] 보복 두려움, [^4] 혼날까 봐 는 평가 불안보다 처벌 두려움. 처벌 두려움 문서 없음. 이전: hhs.se 2021 Dahl, Werr",
+      "createdAt": "2026-11-19T09:31:08.039Z",
+      "seq": 5709
+    },
+    {
+      "id": "b9acb75e",
+      "title": "imaginary-arguments 관계: rumination",
+      "priority": 25,
+      "note": "2026-11-19 상위 근거 후보: scholarworks.uni.edu/csbsresearchconf/2021/all/14 McCoy 2021-04-12 포스터 초록 'rumination of conflict'(지난 다툼 상상), en.wikipedia James_Honeycutt conflict-linkage 절 'ruminate about conflicts through recalling prior arguments'. Honeycutt HTML 초록 여전히 없음(tandfonline 10.1080/10417940903006057 403)",
+      "createdAt": "2026-11-19T09:35:00.005Z",
+      "seq": 5710
+    },
+    {
+      "id": "4555a8f7",
+      "title": "putting-off-friends 관계: loneliness, hesitating-to-contact-old-friends",
+      "priority": 25,
+      "note": "2026-11-19 brunch @0520with/21 (2019-01-10) 확인: '항상 먼저 연락이 와도 시간 없다는 핑계로 미루기만 했었다' 는 putting-off-friends 자체 보강 거리이고 관계 근거 아님. 남은 후보 teamblind 8nb87qth (2026-02-02). Dazed 64746 241자 문장 못 씀",
+      "createdAt": "2026-11-19T09:35:12.614Z",
+      "seq": 5711
+    },
+    {
+      "id": "6c87cb6e",
+      "title": "talking-to-pets 보강: 한국어 학술 또는 공공 파편",
+      "priority": 25,
+      "note": "2026-11-19 news.seoul.go.kr/welfare/archives/519574 확인: '대화증가' 만 있고 반려동물에게 말을 건다는 대목 아님. 쓰지 않음. 다른 한국어 학술·공공 출처 필요",
+      "createdAt": "2026-11-19T09:38:34.721Z",
+      "seq": 5712
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1755,6 +1643,30 @@
       "note": "2026-11-19 공공 HTML 출처 두 차례 못 찾음. 후보 tyojyu.or.jp 는 이미 [^5]. 원인 간선 후보: 경향 201603282048125 남편 간섭 때문에 스트레스 배가",
       "createdAt": "2026-11-19T03:05:33.713Z",
       "seq": 5663
+    },
+    {
+      "id": "064bfe96",
+      "title": "skipping-flossing 와 withholding-information-from-doctors 관계",
+      "priority": 20,
+      "note": "2026-11-19 후보(인과 문장 아님): spectator.com/article/real-life-pain-and-floss 2013-03-14 'second least likely to do after telling the truth about not flossing', hercampus ucla my-revelation-about-flossing 2023-02-04 치과의사에게 거짓말. talkerresearch.com 33% 낮게 보이기 싫어서. 안 써서 거짓말한다는 한 문장 근거는 여전히 없음",
+      "createdAt": "2026-11-19T09:18:34.076Z",
+      "seq": 5705
+    },
+    {
+      "id": "da692b3e",
+      "title": "slowing-only-at-speed-cameras 보강: 원인 간선",
+      "priority": 20,
+      "note": "2026-11-19 원인 후보 [^2] 잃은 시간 만회, [^6] 속도 제한이 답답함. 맞는 상대 문서 없음(find 서두르·만회·답답). 상대 현상 문서가 생기면 다시",
+      "createdAt": "2026-11-19T09:22:23.683Z",
+      "seq": 5706
+    },
+    {
+      "id": "9b89e396",
+      "title": "blocking-the-intersection 보강: 결과 간선",
+      "priority": 20,
+      "note": "2026-11-19 상대가 될 정체 문서 없음. 후보 HN 49796762 2026-09-22, CSM 1986-12-17 gridlock. 정체 관련 현상 문서가 생기면 다시",
+      "createdAt": "2026-11-19T09:30:50.361Z",
+      "seq": 5707
     },
     {
       "id": "9c55db6a",
@@ -3163,6 +3075,14 @@
       "note": "2026-11-19 후보: Washington Square standardebooks 'Morris stood stroking his beard, with a clouded eye.', Ward No. 6 standardebooks 체호프 단편집 'nervously pulling at his beard', advancedsciencenews.com 2024-11-26 얼굴 만지기 기사. fidgeting 하위 후보",
       "createdAt": "2026-11-19T06:15:35.343Z",
       "seq": 5688
+    },
+    {
+      "id": "dfb3f525",
+      "title": "외국인에게 반말하기",
+      "priority": 10,
+      "note": "2026-11-19 foreigner-talk 보강에서 분리. 크고 느리게 말하기와 다른 현상. 후보: 세계일보 2024-07-24 segye.com/view/20240724513997, gobillykorean.com 한국어 학습자에게 반말. 관계 후보: foreigner-talk",
+      "createdAt": "2026-11-19T09:05:32.807Z",
+      "seq": 5703
     },
     {
       "id": "02b2f242",
