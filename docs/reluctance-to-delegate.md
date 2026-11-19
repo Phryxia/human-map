@@ -14,6 +14,8 @@
 
 2021년 팀장을 위한 책의 소개[^4]는 업무를 지시하는 것보다 자기가 하는 게 빠르다는 말을 팀장의 고민으로 든다.
 
+2025년 오하이오 주립대 확장교육 팩트시트[^5]는 관리자 다수가 아무도 자기만큼 일을 잘하지 못하리라 믿어서 위임을 힘들어한다고 적었다.
+
 # 관계
 
 ## 상위
@@ -42,3 +44,4 @@
 [^2]: [학술] "managers’ sense of insecurity, and unwillingness of managers to delegate authority were not the main obstacles to devolutionby managers in Mazandran Province Gas Company" (마잔다란 주 가스회사에서 관리자의 불안감과 관리자가 권한을 위임하지 않으려는 마음은 관리자의 권한 이양을 막는 주된 장애가 아니었다) — Hamed Mohammadi, Fatemeh Habibi, Mohammad Babaei, Zohreh Afzali, "The Analysis of Administrators and Staffs Attitude from the Obstacles of Delegation of Authority", Journal of Management and Sustainability 6(2), 108-119, 2016, https://www.ccsenet.org/journal/index.php/jms/article/view/59396, 2026-11-02 접속
 [^3]: [매체] "They avoided delegating to subordinates because they believed they would still bear responsibility and blame if the choice turned out poorly." (그들은 선택이 잘못되면 여전히 자기가 책임과 비난을 지리라 믿었기 때문에 부하에게 맡기기를 피했다.) — Mary Steffel, Elanor Williams, Jaclyn Perrmann-Graham, "Research gives insight into why delegation occurs", The Irish Times, 2016-09-09, https://www.irishtimes.com/business/work/research-gives-insight-into-why-delegation-occurs-1.2781810, 2026-11-02 접속
 [^4]: [매체] "업무를 지시하는 것보다 내가 하는 게 빠르다." — 김정현, 『팀장 리더십 수업』 책 소개, 센시오, 2021-03-10, https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002957358, 2026-11-03 접속
+[^5]: [공공] "Many managers struggle to delegate because they believe no one can do the job as well as they can." (관리자 다수는 아무도 자기만큼 일을 잘하지 못한다고 믿기 때문에 위임을 힘들어한다.) — Trey Malone, Jay Akridge, John Foltz, "The Art (and Science) of Letting Go: Mastering Delegation for Better Results", Ohioline AEDE-0029, Ohio State University Extension, 2025-05-06, https://ohioline.osu.edu/factsheet/aede-0029, 2026-11-19 접속

@@ -17720,21 +17720,21 @@
   },
   "https://managementblog.org/2004/11/15/delegation-my-mother-taught-me/": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-19"
   },
   "https://www.ccsenet.org/journal/index.php/jms/article/view/59396": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-19"
   },
   "https://www.irishtimes.com/business/work/research-gives-insight-into-why-delegation-occurs-1.2781810": {
     "first": "2026-11-02",
-    "last": "2026-11-03",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-19"
   },
   "https://news.ycombinator.com/item?id=7481288": {
     "first": "2026-11-02",
@@ -18385,9 +18385,9 @@
   },
   "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002957358": {
     "first": "2026-11-03",
-    "last": "2026-11-03",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-03"
+    "lastVerified": "2026-11-19"
   },
   "https://koreascience.kr/article/JAKO200411922314423.page?lang=ko": {
     "first": "2026-11-03",
@@ -31569,6 +31569,12 @@
     "lastVerified": "2026-11-19"
   },
   "https://www.lawtalk.co.kr/posts/125441": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://ohioline.osu.edu/factsheet/aede-0029": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
