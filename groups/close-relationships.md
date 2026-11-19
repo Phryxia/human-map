@@ -4,6 +4,7 @@
 
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
+- ["내가 뭐랬어" 하기](../docs/saying-i-told-you-so.md) 미리 경고했던 일이 일어나자 경고했던 사람이 당사자에게 자기가 진작 말했다고 짚거나 그 말을 하고 싶어 한다.
 - [가까운 사람의 발소리 알아듣기](../docs/recognizing-footsteps-of-close-people.md) 함께 사는 가족이나 기다리는 사람의 발소리를 들은 사람이 그 사람을 보지 않고도 누구인지 알아본다.
 - [같은 이야기 되풀이](../docs/retelling-same-story.md) 자기 지난 일을 이야기하는 사람이 이미 그 이야기를 들은 상대에게 같은 이야기를 다시 들려준다.
 - [결혼 재촉](../docs/pressuring-children-to-marry.md) 부모가 결혼하지 않은 성인 자녀에게 결혼하라고 거듭 재촉한다.
