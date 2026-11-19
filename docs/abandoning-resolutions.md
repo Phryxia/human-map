@@ -14,11 +14,13 @@
 
 1988년 연구[^4]의 저자들은 결심을 어기는 일이 대개 자기 통제의 부족, 지나친 스트레스, 부정적 감정에 앞서 일어났다고 보고했다.
 
-2008년 2월 경향신문 기사가 전한 직장인 설문에서 새해 다짐을 포기한 사람이 포기하기까지 걸린 날은 평균 약 11.1일이었다.[^5] 2020년 연구[^6]의 저자들은 선행 연구를 인용해 새해 결심을 지킨 참가자가 77% 에서 한 달 뒤 55%, 3개월 뒤 43%, 6개월 뒤 40%, 2년 뒤 19% 로 줄었다고 적었다.
+2001년 Polivy 의 논문[^5]은 이룰 수 있는 자기 변화 목표와 이룰 수 없는 목표를 가려야 지나친 자신감과 헛된 기대가 끝내 실패와 괴로움으로 이어지는 것을 피할 수 있다고 썼다.
 
-2023년 YTN 기사[^7]는 새해 결심으로 새로운 정보가 더해지면 뇌에 과부하가 일어나 결심을 포기할 가능성이 크다고 전했다.
+2008년 2월 경향신문 기사가 전한 직장인 설문에서 새해 다짐을 포기한 사람이 포기하기까지 걸린 날은 평균 약 11.1일이었다.[^6] 2020년 연구[^7]의 저자들은 선행 연구를 인용해 새해 결심을 지킨 참가자가 77% 에서 한 달 뒤 55%, 3개월 뒤 43%, 6개월 뒤 40%, 2년 뒤 19% 로 줄었다고 적었다.
 
-2026년 1월 네이버 지식iN 게시글의 글쓴이는 해마다 새해 목표를 세우지만 작심삼일로 끝나는 경우가 많다고 적었다.[^8] 2026년 2월 네이버 지식iN 게시글의 글쓴이는 다이어트를 시작할 때마다 사흘 만에 그만두고 굳게 결심해도 같은 일이 되풀이되는 자신이 답답하다고 적었다.[^9]
+2023년 YTN 기사[^8]는 새해 결심으로 새로운 정보가 더해지면 뇌에 과부하가 일어나 결심을 포기할 가능성이 크다고 전했다.
+
+2026년 1월 네이버 지식iN 게시글의 글쓴이는 해마다 새해 목표를 세우지만 작심삼일로 끝나는 경우가 많다고 적었다.[^9] 2026년 2월 네이버 지식iN 게시글의 글쓴이는 다이어트를 시작할 때마다 사흘 만에 그만두고 굳게 결심해도 같은 일이 되풀이되는 자신이 답답하다고 적었다.[^10]
 
 # 관계
 
@@ -32,7 +34,7 @@
 
 ## 원인
 
-- [새해 결심 세우기](making-new-years-resolutions.md)[^7]
+- [새해 결심 세우기](making-new-years-resolutions.md)[^8]
 
 ## 결과
 
@@ -48,8 +50,9 @@
 [^2]: [매체] "Thirty days from now, we shall have cast our reformation to the winds and gone to cutting our ancient short comings considerably shorter than ever." (지금부터 30일 뒤면 우리는 개심을 바람에 날려 버리고 옛 결점을 어느 때보다 훨씬 더 짧게 끊어 내러 나섰을 것이다.) — Mark Twain, "New Year's Day", Territorial Enterprise, 1863-01-01, https://twainquotes.com/18630101bt.html, 2026-10-18 접속
 [^3]: [매체] "最初の意気込みが、二月、三月、ともなればそろそろ引込みかけ、四月頃にはすっかりしぼんでしまい、六月の声をきくともう半分は自暴自棄になって、また来年のことだ、と、あとの下半期は無茶苦茶に過してしまうのが常だった" (처음의 의욕이 2월, 3월이 되면 슬슬 수그러들기 시작해 4월쯤에는 완전히 시들어 버리고 6월 소리를 들으면 벌써 반쯤 자포자기해 또 내년 일이다 하고 남은 하반기를 엉망으로 보내 버리는 것이 늘 그랬다) — Okura Teruko, 「今年の抱負」, 宝石 5(1), 青空文庫, 1950-01, https://www.aozora.gr.jp/cards/001669/files/54481_49241.html, 2026-11-07 접속
 [^4]: [학술] "Slips were typically precipitated by a lack of personal control, excessive stress, and negative emotion." (실패는 대개 자기 통제의 부족, 지나친 스트레스, 부정적 감정에 앞서 일어났다.) — John C. Norcross, Dominic J. Vangarelli, "The resolution solution: longitudinal examination of New Year's change attempts", Journal of Substance Abuse 1(2), 1988, https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2980864%20AND%20SRC:MED&resultType=core&format=xml, 2026-10-18 접속
-[^5]: [매체] "새해 다짐을 포기했다는 직장인들에게 그 시점이 목표를 세운 날로부터 몇 일만이었는지를 물었다. 응답치를 평균해 본 결과는 약 11.1일." — 손봉석, 「직장인 새해 다짐 '작심 11일'로 포기」, 경향신문, 2008-02-05, https://www.khan.co.kr/article/200802050856362, 2026-10-18 접속
-[^6]: [학술] "77% of participants had maintained their resolutions; the number decreased to 55% after one month, 43% after three months, 40% after six months, and 19% at the two-year follow-up." (참가자의 77% 가 결심을 지키고 있었고 그 수는 한 달 뒤 55%, 3개월 뒤 43%, 6개월 뒤 40%, 2년 추적 시점에 19% 로 줄었다.) — Martin Oscarsson, Per Carlbring, Gerhard Andersson, Alexander Rozental, "A large-scale experiment on New Year's resolutions: Approach-oriented goals are more successful than avoidance-oriented goals", PLOS ONE 15(12), 2020-12-09, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234097, 2026-10-18 접속
-[^7]: [매체] "뇌가 한 번에 다룰 수 있는 정보는 다섯 개에서 아홉 개 정도인데 새해 결심으로 새로운 정보가 추가되면 뇌에 과부하가 일어날 수 있어 포기로 이어질 가능성이 크다는 것입니다." — 김평정, 「'작심삼일'은 인간의 본능...새해 계획 잘 지키려면?」, YTN, 2023-01-21, https://www.ytn.co.kr/_ln/0103_202301210600161938, 2026-11-19 접속
-[^8]: [SNS] "매번 새해 목표를 세우지만 작심삼일로 끝나버리는 경우가 많아요. 올해는 정말 꾸준히 해내고 싶은데, 어떻게 하면 습관을 잘 만들 수 있을까요?" — 네이버 지식iN 게시글, 2026-01-30, https://kin.naver.com/qna/detail.naver?dirId=70109&docId=491664420, 2026-10-18 접속
-[^9]: [SNS] "다이어트만 시작하면 삼일 만에 무너지는 제가 너무 답답해요. 매번 굳게 결심해도 작심삼일인데, 이 고리를 끊고 꾸준히 다이어트 이어갈 방법이 없을까요?" — 네이버 지식iN 게시글, 2026-02-09, https://kin.naver.com/qna/detail.naver?dirId=50803&docId=491857604, 2026-10-18 접속
+[^5]: [학술] "It is thus important to learn to distinguish between potentially feasible and impossible self-change goals in order to avoid overconfidence and false hopes leading to eventual failure and distress." (그래서 실패와 괴로움으로 끝내 이어지는 지나친 자신감과 헛된 기대를 피하려면 이룰 수 있을 법한 자기 변화 목표와 불가능한 목표를 가려내는 법을 배우는 것이 중요하다.) — J. Polivy, "The false hope syndrome: unrealistic expectations of self-change", International Journal of Obesity 25 Suppl 1, 2001-05, https://www.nature.com/articles/0801705, 2026-11-19 접속
+[^6]: [매체] "새해 다짐을 포기했다는 직장인들에게 그 시점이 목표를 세운 날로부터 몇 일만이었는지를 물었다. 응답치를 평균해 본 결과는 약 11.1일." — 손봉석, 「직장인 새해 다짐 '작심 11일'로 포기」, 경향신문, 2008-02-05, https://www.khan.co.kr/article/200802050856362, 2026-10-18 접속
+[^7]: [학술] "77% of participants had maintained their resolutions; the number decreased to 55% after one month, 43% after three months, 40% after six months, and 19% at the two-year follow-up." (참가자의 77% 가 결심을 지키고 있었고 그 수는 한 달 뒤 55%, 3개월 뒤 43%, 6개월 뒤 40%, 2년 추적 시점에 19% 로 줄었다.) — Martin Oscarsson, Per Carlbring, Gerhard Andersson, Alexander Rozental, "A large-scale experiment on New Year's resolutions: Approach-oriented goals are more successful than avoidance-oriented goals", PLOS ONE 15(12), 2020-12-09, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234097, 2026-10-18 접속
+[^8]: [매체] "뇌가 한 번에 다룰 수 있는 정보는 다섯 개에서 아홉 개 정도인데 새해 결심으로 새로운 정보가 추가되면 뇌에 과부하가 일어날 수 있어 포기로 이어질 가능성이 크다는 것입니다." — 김평정, 「'작심삼일'은 인간의 본능...새해 계획 잘 지키려면?」, YTN, 2023-01-21, https://www.ytn.co.kr/_ln/0103_202301210600161938, 2026-11-19 접속
+[^9]: [SNS] "매번 새해 목표를 세우지만 작심삼일로 끝나버리는 경우가 많아요. 올해는 정말 꾸준히 해내고 싶은데, 어떻게 하면 습관을 잘 만들 수 있을까요?" — 네이버 지식iN 게시글, 2026-01-30, https://kin.naver.com/qna/detail.naver?dirId=70109&docId=491664420, 2026-10-18 접속
+[^10]: [SNS] "다이어트만 시작하면 삼일 만에 무너지는 제가 너무 답답해요. 매번 굳게 결심해도 작심삼일인데, 이 고리를 끊고 꾸준히 다이어트 이어갈 방법이 없을까요?" — 네이버 지식iN 게시글, 2026-02-09, https://kin.naver.com/qna/detail.naver?dirId=50803&docId=491857604, 2026-10-18 접속
