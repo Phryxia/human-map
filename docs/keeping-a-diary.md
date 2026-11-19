@@ -16,6 +16,8 @@
 
 2020년 Hacker News 댓글[^7]의 글쓴이는 10대 때부터 40년 동안 일기를 써 왔고 여러 방식을 시도했다고 썼다. 2021년 연구[^8]에 따르면 1차 세계대전 뒤 일기 형식의 자전 문학이 널리 퍼진 것이 청소년이 일기에 끌린 이유 가운데 하나였다. 2023년 독일 조사[^9]에서 독일인 8%가 적어도 한 주에 한 번 일기를 썼고 3%는 날마다 썼다.
 
+2024년 Evening Standard 칼럼[^10]의 필자는 머리맡의 일기장 덕분에 20대의 여러 날을 다시 돌아볼 수 있다고 썼다.
+
 # 관계
 
 ## 상위
@@ -32,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [옛 일기 다시 읽기](rereading-old-diaries.md)[^10]
 
 ## 대립
 
@@ -49,3 +51,4 @@
 [^7]: [SNS] "I've kept a diary for 40 years since I was a teenager, and tried a number of ways." (나는 10대 때부터 40년 동안 일기를 써 왔고 여러 방식을 시도해 봤다.) — Hacker News 댓글, 2020-11-30, https://news.ycombinator.com/item?id=25251560, 2026-10-27 접속
 [^8]: [학술] "Another reason why young people became attracted to diaries was their dissemination through the exploding genre of autobiographic literature—often written in diary form—after the First World War." (젊은이들이 일기에 끌린 또 다른 이유는 1차 세계대전 뒤 흔히 일기 형식으로 쓰인 자전 문학 장르가 폭발적으로 퍼지며 일기가 보급된 것이었다.) — Carla Seemann, "Diaries as “Soul Portraits”? Interpretation and Theorization of Adolescents’ Self-Descriptions in the German-Speaking Youth Psychology of the 1920s and 1930s", NTM 29, 2021-09-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC8440253/, 2026-10-26 접속
 [^9]: [매체] "Eight per cent of Germans write a diary regularly - i.e. at least once a week. As many as three per cent even put their thoughts on paper every day." (독일인의 8%가 정기적으로, 곧 적어도 한 주에 한 번 일기를 쓴다. 3%는 날마다 생각을 종이에 적기까지 한다.) — Stiftung für Zukunftsfragen, 「The appeal of writing: Why keeping a diary increases our well-being」, Chart of the week 2023-KW15, 2023-04-13, https://www.stiftungfuerzukunftsfragen.de/en/the-appeal-of-writing-why-keeping-a-diary-increases-our-well-being/, 2026-10-23 접속
+[^10]: [매체] "Thanks to my trusty bedside journal, I don’t just have the one One Day to look back on." (믿음직한 머리맡 일기장 덕분에 나에게는 돌아볼 원 데이가 하루만 있는 것이 아니다.) — Katie Strick, "It's like One Day, 365 days a year: how keeping a diary helped me chart the rollercoaster of my 20s", Evening Standard, Yahoo News UK, 2024-07-15, https://uk.news.yahoo.com/opinion-one-day-365-days-123053885.html, 2026-11-19 접속
