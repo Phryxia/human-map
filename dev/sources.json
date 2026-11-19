@@ -5540,9 +5540,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057329/": {
     "first": "2026-10-20",
-    "last": "2026-11-15",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-19"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11961986/": {
     "first": "2026-10-20",
@@ -31389,6 +31389,12 @@
     "lastVerified": "2026-11-19"
   },
   "https://news.ycombinator.com/item?id=19681153": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.kornferry.com/about-us/press/cameras-on-or-off": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
