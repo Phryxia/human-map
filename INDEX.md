@@ -160,6 +160,7 @@
 - [남의 자식과 내 자식 비교하기](docs/comparing-children-to-others.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [남의 장바구니 훔쳐보기](docs/peeking-at-others-shopping-carts.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [남의 집 문 앞에서 망설이기](docs/hesitating-at-the-door.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [남의 집 살림 엿보기](docs/snooping-in-hosts-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [남의 집 약장 엿보기](docs/peeking-into-hosts-medicine-cabinet.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [남의 책장 훑어보기](docs/browsing-others-bookshelves.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [남의 화면이나 신문 넘겨다보기](docs/glancing-at-others-screens.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

@@ -9,7 +9,8 @@
 - [격식 차린 자리에서 예절 실수 걱정하기](../docs/worrying-about-etiquette-mistakes.md) 익숙하지 않은 격식 차린 식사 자리에 가게 된 사람이 예절을 틀려 남 앞에서 드러날까 봐 미리 걱정하고 위축된다.
 - [고마움](../docs/gratitude.md) 남에게서 도움이나 친절을 받은 사람이 고맙다고 느끼고 그것을 드러내거나 갚으려 한다.
 - [김장 품앗이](../docs/kimjang-together.md) 늦가을에 가족과 이웃이 한자리에 모여 겨울에 먹을 김치를 함께 담그고 나눠 가진다.
-- [남의 집 약장 엿보기](../docs/peeking-into-hosts-medicine-cabinet.md) 남의 집에 손님으로 간 사람이 그 집 욕실의 약장을 몰래 열어 본다.
+- [남의 집 살림 엿보기](../docs/snooping-in-hosts-home.md) 남의 집에 손님으로 간 사람이 주인이 보지 않는 사이 그 집의 찬장이나 수납장을 열어 살림을 살펴본다.
+  - [남의 집 약장 엿보기](../docs/peeking-into-hosts-medicine-cabinet.md)
 - [남의 책장 훑어보기](../docs/browsing-others-bookshelves.md) 남의 집이나 방에 들어간 사람이 그곳 책장의 책을 훑어보며 주인이 어떤 사람인지 가늠한다.
 - [도움받을 때의 자존감 위협](../docs/threat-in-receiving-help.md) 자기보다 가진 것이 많은 사람에게 도움을 받는 사람이 자신을 낮게 느끼고 그 도움을 밀어내거나 스스로 해결하려 한다.
   - [얻어먹기 거절](../docs/declining-free-meals-out-of-pride.md)
