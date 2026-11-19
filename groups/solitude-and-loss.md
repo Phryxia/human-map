@@ -22,6 +22,7 @@
 - [반려동물 양육 포기](../docs/pet-relinquishment.md) 반려동물을 기르는 사람이 그 동물을 더 기르지 않기로 하고 남에게 넘기거나 보호소에 맡기거나 그렇게 하기를 고려한다.
 - [반려동물을 잃은 슬픔](../docs/pet-loss-grief.md) 반려동물이 죽거나 사라진 뒤 그 동물과 함께 살던 사람이 상실감과 슬픔을 겪는다.
   - [반려동물 안락사 뒤 죄책감](../docs/pet-euthanasia-guilt.md)
+- [벌초 대행 맡기기](../docs/outsourcing-grave-mowing.md) 조상의 묘를 둔 사람이 벌초를 직접 하지 않고 조합이나 업체에 돈을 주고 맡긴다.
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
 - [손님이 떠난 뒤의 허전함](../docs/after-visit-emptiness.md) 함께 지내던 가족이나 손님이 떠난 뒤 남은 사람이 집이 텅 비고 조용해진 것 같아 허전해한다.

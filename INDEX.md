@@ -339,6 +339,7 @@
 - [번아웃](docs/burnout.md) ([일터와 일자리](groups/work.md))
 - [벌금 내지 않기](docs/not-paying-fines.md) ([돈과 소비](groups/money.md))
 - [벌이 없는 식구의 미안함](docs/dependent-family-member-guilt.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [벌초 대행 맡기기](docs/outsourcing-grave-mowing.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [범죄 피해 신고하지 않기](docs/not-reporting-crime.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [벼락치기](docs/cramming.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [변덕](docs/fickleness.md) ([성향과 기질](groups/traits.md))
