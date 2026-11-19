@@ -1,64 +1,40 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T15:05:48.399Z",
-  "nextSeq": 5734,
-  "stops": 305,
+  "savedAt": "2026-11-19T15:40:24.501Z",
+  "nextSeq": 5744,
+  "stops": 306,
   "items": [
     {
-      "id": "76ee641a",
-      "title": "retroactive-jealousy 보강: 학술 파편",
+      "id": "efd606b6",
+      "title": "avoiding-unlucky-numbers 보강: 2000년 이전 파편, 시기별 변화",
       "priority": 50,
-      "note": "2026-11-19 문학 Tolstoy 1878, 매체 Refinery29 2018 로 신설. 후보 Frampton & Fox 2018 Social Media + Society 10.1177/2056305118800317 (sagepub 봇 확인으로 막힘)",
-      "createdAt": "2026-11-19T12:12:26.575Z",
-      "seq": 5725
+      "note": "2026-11-19 Gallup 2007, 위키트리 2026 추가. 후보 Scanlon 외 1993 BMJ PMC1697765 13일의 금요일 M25 차량 감소(결과 문장 전문 미확인), medicaltimes 2014-03 ID=1088559 개원가 4층 기피 감소(503), superstitious-rituals 관계",
+      "createdAt": "2026-11-19T15:33:45.248Z",
+      "seq": 5740
     },
     {
-      "id": "f838a3c9",
-      "title": "saving-for-funerals 보강: 한국어 파편, 학술 파편",
+      "id": "1bb0a9f9",
+      "title": "pawning-belongings 보강: buying-on-credit-at-local-shops 관계",
       "priority": 50,
-      "note": "2026-11-19 1900s.org.uk(미상), Hansard 1982 로 신설. 상조 가입, 고독사 노인의 장례비 봉투 기사 후보. 1982 Hansard 의 Gilbert 인용(friendly society 동기)",
-      "createdAt": "2026-11-19T12:16:24.551Z",
-      "seq": 5726
+      "note": "2026-11-19 Caskey 1991 IDEAS, YTN 2023 추가. 쿠키뉴스 2023-06-10 v.daum.net/v/BpkLY57A3Y 청년이 신용점수에 막혀 노트북·카메라를 맡기는 대목(원인 후보). 관계 근거 대목은 아직",
+      "createdAt": "2026-11-19T15:40:00.691Z",
+      "seq": 5741
     },
     {
-      "id": "d0efbe12",
-      "title": "outsourcing-grave-mowing 보강: 공공 파편, visiting-graves 관계",
+      "id": "35739a87",
+      "title": "outsourcing-grave-mowing 보강: visiting-graves 관계",
       "priority": 50,
-      "note": "2026-11-19 Chang 외 2017, KNN 2026 로 신설. 공공 후보 mafra.go.kr bbs/mafra/68/324822 (2020-09-29 벌초대행 36.3% 증가, 이 환경에서 타임아웃)",
-      "createdAt": "2026-11-19T12:18:57.300Z",
-      "seq": 5727
+      "note": "2026-11-19 공공 파편 둘(공정위 2013, 경기도 2020) 추가. 경기도 2020 기사에 성묘를 못 가 벌초 대행과 온라인 성묘를 신청한 대목. 둘 사이 원인·대립을 말하는 파편은 아직. 2020-09-06 정책브리핑 newsId=148877097 정부가 벌초 대행 이용 권고, 전북 2025-08-26 dataSid=627495 이용 건수 증가",
+      "createdAt": "2026-11-19T15:40:08.697Z",
+      "seq": 5742
     },
     {
-      "id": "a740e9c1",
-      "title": "deathbed-reconciliation 보강: 매체, 공공 파편",
+      "id": "4983ee01",
+      "title": "deathbed-reconciliation 보강: 대립 간선, 2000년 이전 비문학 파편",
       "priority": 50,
-      "note": "2026-11-19 Jane Eyre 1847, AFP 2000 사례로 신설. 후보 sagepub 10.1177/1049909119867675 (스위스 50명 혼합연구, 봇 확인), Mayo 2024 hospice estrangement",
-      "createdAt": "2026-11-19T12:22:12.285Z",
-      "seq": 5729
-    },
-    {
-      "id": "7cae4059",
-      "title": "avoiding-unlucky-numbers 보강: 한국어 파편, 13 기피",
-      "priority": 50,
-      "note": "2026-11-19 CTV 2010, Fortin 외 2013 IZA 로 신설. 후보 psmag 2014-04-14, 한국 병원·승강기 4층 F 표기 기사, superstitious-rituals 와의 관계",
-      "createdAt": "2026-11-19T12:24:23.964Z",
-      "seq": 5730
-    },
-    {
-      "id": "af702975",
-      "title": "wishing-to-be-buried-together 보강: 한국어 부부 합장, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-19 Wuthering Heights 1847, DNAinfo 2016 으로 신설. 후보 wbfo.org 2016-09-29 뉴욕주 법, 한국 부부 합장 선호 조사",
-      "createdAt": "2026-11-19T12:25:53.236Z",
-      "seq": 5731
-    },
-    {
-      "id": "7cd6b2c6",
-      "title": "pawning-belongings 보강: 한국어 파편, 학술 파편, buying-on-credit-at-local-shops 관계",
-      "priority": 50,
-      "note": "2026-11-19 London Museum, 1900s.org.uk, Hansard 1959 로 신설. 후보 visitvictorianengland.blogspot.com 2014-01 (Living London 1901 토요일 2,000 꾸러미)",
-      "createdAt": "2026-11-19T12:30:55.557Z",
-      "seq": 5732
+      "note": "2026-11-19 코메디닷컴 2026-02-02, PHSO 2026-09-01 추가. 같은 코메디닷컴 글에 무연고 말기 환자가 염치가 없다며 가족 찾기를 망설이는 대목(대립 후보). Al Jazeera 2026-07-04 why-closure-matters-at-the-end-of-life 'That reconciliation, she said, is the truest comfort' 후보",
+      "createdAt": "2026-11-19T15:40:19.814Z",
+      "seq": 5743
     },
     {
       "id": "54d681d5",
