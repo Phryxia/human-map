@@ -12,9 +12,11 @@
 
 2012년 연구[^4]에서 남편 47% 와 아내 38% 가 결혼을 두고 확신이 없거나 망설였다고 답했다. 같은 연구를 전한 2012년 보도[^5]에서 결혼 전 의심을 보고한 아내의 19%가 4년 뒤 이혼했고 의심을 보고하지 않은 아내는 8%가 이혼했다. 2013년 영화 리뷰[^6]는 결혼식을 코앞에 두고 초조함과 우울에 시달리는 심리를 메리지 블루라고 불렀다.
 
-2025년 대학 보도 글[^7]에 따르면 Reddit 에 결혼 전 의심을 올린 사람들은 상대에게 상처를 줄까 두려울 때 결혼을 이어 가도록 스스로를 설득하는 일이 많았다. 2026년 게시글[^8]의 글쓴이는 식장을 계약하려니 잘 살 수 있을지, 독립해 본 적 없이 가정을 꾸릴 수 있을지 불안하다고 썼다.
+2014년 The Billfold 기사[^7]의 필자는 약혼이 맞지 않는다고 느끼면서도 마음을 들인 매몰 비용 때문에 약혼을 이어 가는 커플이 많다고 썼다.
 
-2026년 기사[^9]가 전한 사연의 글쓴이는 결혼을 약속한 상대와의 미래가 보이지 않는데도 이미 청첩장을 돌리고 하객을 초대한 상황이라 파혼을 정하지 못했다.
+2025년 대학 보도 글[^8]에 따르면 Reddit 에 결혼 전 의심을 올린 사람들은 상대에게 상처를 줄까 두려울 때 결혼을 이어 가도록 스스로를 설득하는 일이 많았다. 2026년 게시글[^9]의 글쓴이는 식장을 계약하려니 잘 살 수 있을지, 독립해 본 적 없이 가정을 꾸릴 수 있을지 불안하다고 썼다.
+
+2026년 기사[^10]가 전한 사연의 글쓴이는 결혼을 약속한 상대와의 미래가 보이지 않는데도 이미 청첩장을 돌리고 하객을 초대한 상황이라 파혼을 정하지 못했다.
 
 # 관계
 
@@ -36,7 +38,7 @@
 
 ## 대립
 
-없음.
+- [매몰비용 때문에 그만두지 못하기](sunk-cost-persistence.md)[^7]
 
 #관계
 
@@ -46,6 +48,7 @@
 [^4]: [학술] "Forty-seven percent of husbands (n = 108) and 38% of wives (n = 87) reported being uncertain about getting married." (남편의 47%(n = 108)와 아내의 38%(n = 87)가 결혼하는 것에 대해 확신이 없었다고 보고했다.) — Justin A. Lavner, Benjamin R. Karney, Thomas N. Bradbury, "Do Cold Feet Warn of Trouble Ahead? Premarital Uncertainty and Four-Year Marital Outcomes", Journal of Family Psychology 26(6), 2012-09-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC3525794/, 2026-10-21 접속
 [^5]: [매체] "Among women, 19 percent of those who reported pre-wedding doubts were divorced four years later, compared with 8 percent of those who did not report having doubts." (여성 가운데 결혼 전 의심을 보고한 사람의 19%가 4년 뒤 이혼했고 의심을 보고하지 않은 사람은 8%였다.) — University of California - Los Angeles, "Should I marry him? If you're having doubts, don't ignore them, psychology study suggests", ScienceDaily, 2012-09-13, https://www.sciencedaily.com/releases/2012/09/120913173324.htm, 2026-10-22 접속
 [^6]: [매체] "이들은 우여곡절 끝에 백년가약을 맺기로 결심했지만 결혼식을 코앞에 두고 초조함과 우울증에 시달린다. 영화는 이런 심리적 불안을 일컫는 ‘메리지 블루’(marriage blue)를 보여준다." — 경향신문, "[리뷰]'결혼전야'", 2013-11-13, https://www.khan.co.kr/article/201311132212365, 2026-10-21 접속
-[^7]: [매체] "Researchers also found that people on Reddit often tried to talk themselves into staying, especially if they were afraid of hurting their partner." (연구자들은 또한 Reddit 의 사람들이 특히 상대에게 상처를 줄까 두려울 때 남아 있도록 스스로를 설득하려는 일이 많다는 것을 발견했다.) — Eric Stann, "Study explores how Reddit is used to work through pre-wedding doubts", University of Missouri Show Me Mizzou, 2025-05-06, https://showme.missouri.edu/2025/study-explores-how-reddit-is-used-to-work-through-pre-wedding-doubts, 2026-10-21 접속
-[^8]: [SNS] "막상 식장 계약하려고 하니 불안한 마음이 너무 들어요 잘 살 수 있을까, 독립 한번 안 해봤는데 출가해서 내 가정을 잘 꾸릴 수 있을까" — 블라인드 게시글, 2026-04-28, https://www.teamblind.com/kr/post/결혼-전-불안함-wh4nscks, 2026-10-21 접속
-[^9]: [매체] "결혼을 약속한 여자친구와의 미래가 보이지 않지만 이미 청첩장을 돌리고 하객들을 초대한 상황이라 파혼 결정을 내리지 못하고 있다는 사연이 16일 직장인 익명 커뮤니티 블라인드에 올라왔다." — 채석원, 「"결혼식 한 달 남았는데 파혼할까요?"... 직장인들 한목소리도 "네, 파혼하세요"」, 위키트리, 2026-06-17, https://www.wikitree.co.kr/articles/1141915, 2026-10-22 접속
+[^7]: [매체] "Many couples continue to go along with an engagement even when it doesn’t feel right because of the “sunk costs” associated with what is arguably the biggest investment of your life: your heart." (많은 커플은 맞지 않는다고 느낄 때도 아마 인생에서 가장 큰 투자일 마음에 얽힌 "매몰 비용" 때문에 약혼을 이어 간다.) — Lauren Bowling, "The Cost of Calling Off an Engagement", The Billfold, 2014-10-10, https://www.thebillfold.com/2014/10/the-cost-of-calling-off-an-engagement/, 2026-11-19 접속
+[^8]: [매체] "Researchers also found that people on Reddit often tried to talk themselves into staying, especially if they were afraid of hurting their partner." (연구자들은 또한 Reddit 의 사람들이 특히 상대에게 상처를 줄까 두려울 때 남아 있도록 스스로를 설득하려는 일이 많다는 것을 발견했다.) — Eric Stann, "Study explores how Reddit is used to work through pre-wedding doubts", University of Missouri Show Me Mizzou, 2025-05-06, https://showme.missouri.edu/2025/study-explores-how-reddit-is-used-to-work-through-pre-wedding-doubts, 2026-10-21 접속
+[^9]: [SNS] "막상 식장 계약하려고 하니 불안한 마음이 너무 들어요 잘 살 수 있을까, 독립 한번 안 해봤는데 출가해서 내 가정을 잘 꾸릴 수 있을까" — 블라인드 게시글, 2026-04-28, https://www.teamblind.com/kr/post/결혼-전-불안함-wh4nscks, 2026-10-21 접속
+[^10]: [매체] "결혼을 약속한 여자친구와의 미래가 보이지 않지만 이미 청첩장을 돌리고 하객들을 초대한 상황이라 파혼 결정을 내리지 못하고 있다는 사연이 16일 직장인 익명 커뮤니티 블라인드에 올라왔다." — 채석원, 「"결혼식 한 달 남았는데 파혼할까요?"... 직장인들 한목소리도 "네, 파혼하세요"」, 위키트리, 2026-06-17, https://www.wikitree.co.kr/articles/1141915, 2026-10-22 접속
