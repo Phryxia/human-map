@@ -31441,5 +31441,17 @@
     "last": "2026-11-19",
     "result": "VERIFIED",
     "lastVerified": "2026-11-19"
+  },
+  "https://standardebooks.org/ebooks/charles-dickens/little-dorrit/text/single-page": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/abs/foreigner-talk-through-word-reduction-in-nativenonnative-spoken-interactions/FF27B501A6C229E952657423D5144C58": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
   }
 }
