@@ -1,169 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T00:35:21.893Z",
-  "nextSeq": 5638,
-  "stops": 301,
+  "savedAt": "2026-11-19T03:39:00.486Z",
+  "nextSeq": 5683,
+  "stops": 302,
   "items": [
-    {
-      "id": "97a92cda",
-      "title": "retired-husband-syndrome 보강: 공공 파편, 別名 主人在宅ストレス症候群",
-      "priority": 50,
-      "note": "2026-11-19 공공 HTML 출처 못 찾음. 후보 tyojyu.or.jp essay oiomirumanazashi tsumatomusumenikakomarete (2018-05-28, 매체 성격). 원인 간선 후보: 경향 201603282048125 남편 간섭 때문에 스트레스 배가",
-      "createdAt": "2026-11-19T00:11:17.690Z",
-      "seq": 5634
-    },
-    {
-      "id": "3dd5c68b",
-      "title": "office-thermostat-conflict 보강: 원인 간선, 추위 체감의 성별 차이",
-      "priority": 50,
-      "note": "2026-11-19 bchydro 2019 보도자료 원 문장 'The increase in A/C usage has resulted in' 다툼 인과(224자라 잘라 씀). nextgov 2018/05 148453 여성 22% 남성 7% 동료와 맞섬. achrnews 89834 (2003) 1991년엔 too hot 1위, 2003년 too cold 1위. 신규 후보: 냉방 사무실에서 담요 덮기(bchydro 여성 60%)",
-      "createdAt": "2026-11-19T00:15:28.075Z",
-      "seq": 5635
-    },
-    {
-      "id": "b762d34d",
-      "title": "exam-cheating 보강: 원인 간선과 한국 파편",
-      "priority": 50,
-      "note": "2026-11-19 원인 후보: challengesuccess 2019 'pressure on students to cheat just to get a good grade' (성적 압박). gov.uk Ofqual summer-2025 malpractice 4,735명(2025-12-11) 시기 비교 후보. 한국 공공 출처 못 찾음",
-      "createdAt": "2026-11-19T00:18:49.232Z",
-      "seq": 5636
-    },
-    {
-      "id": "b1673b8e",
-      "title": "tasting-raw-dough 보강: 학술 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-11-19 학술 후보 JFP-21-256 (2022, PMID 34469535) 35% 날밀가루, HTML 판 403. 2005 UPI 'Uh-oh, watch out for cookie dough' TNS 1,000명 중 400명 403. 관계 후보 washing-raw-chicken",
-      "createdAt": "2026-11-19T00:25:53.027Z",
-      "seq": 5637
-    },
-    {
-      "id": "55afe813",
-      "title": "minding-what-others-think 와 fear-of-negative-evaluation, spotlight-effect 관계",
-      "priority": 30,
-      "note": "2026-11-01 Nezlek 2019 학술 파편 추가. 관계 근거 미발견. 후보 Gilovich 2000 PMID 10707330, kormedi 1610925",
-      "createdAt": "2026-11-02T15:54:20.937Z",
-      "seq": 3332
-    },
-    {
-      "id": "19157dd1",
-      "title": "regifting 과 feigning-delight-at-gifts 관계",
-      "priority": 30,
-      "note": "2026-10-28 responsesource 94440 (2017-11-21) 두 문서에 더함. 공통 상위(선물이 싫다고 말하지 않기) 후보. casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
-      "createdAt": "2026-11-02T15:54:24.336Z",
-      "seq": 3333
-    },
-    {
-      "id": "1b0745ff",
-      "title": "not-returning-shared-umbrellas 보강: 학술 파편",
-      "priority": 30,
-      "note": "2026-11-03 영문 검색 다시 보도뿐(Sharing E Umbrella 2017 foxnews·engadget·gigazine, Joo Chiat 2024 mothership). 공공재·공유경제 무임승차 현장실험 논문에서 우산 사례를 찾을 것. 이전: MDPI Sustainability 9/9/1504 403",
-      "createdAt": "2026-11-03T09:27:50.247Z",
-      "seq": 3473
-    },
-    {
-      "id": "53e6678f",
-      "title": "comparing-children-to-others 보강: bragging-about-children 관계",
-      "priority": 30,
-      "note": "2026-11-04 두 번째 시도도 원인 문장 없음: 매일신문 2009-12-04 서정오 칼럼은 언론의 영재 이야기로 자기 아들을 째려본다(매체 보도가 계기), lillydoo comparison-among-parents, yugacrew crewtalk/2576 자랑 문장 없음. Burton Mail 2022 baby brags 32% 실패 걱정은 다른 판 필요. 이전: clien park/2329693, HN 37452946, workingus ?p=3351161",
-      "createdAt": "2026-11-04T21:09:40.201Z",
-      "seq": 3782
-    },
-    {
-      "id": "172471b2",
-      "title": "counting-down-the-days 보강: 관계 간선",
-      "priority": 30,
-      "note": "2026-11-04 두 번째 시도: 영국 TUI 조사 기사 thestar, scotsman 판도 403. psnews.com.au merry-mouthful (Nawijn 휴가 기대 행복) 남은 날 세기 문장 없음. 강림절 달력 연구 못 찾음. 이전: PLOS ONE 0304660 상관만, cas.au.dk 2017-04-19 미확인",
-      "createdAt": "2026-11-04T21:15:08.352Z",
-      "seq": 3784
-    },
-    {
-      "id": "acf95d5c",
-      "title": "continuing-bonds 하위 후보: sensing-presence-of-the-dead, dreams-of-the-deceased",
-      "priority": 30,
-      "note": "2026-11-04 keeping-belongings-of-the-dead 를 continuing-bonds 하위로 더함(근거 Gibson 류 2014 [^5] 옷이 산 사람과 죽은 사람의 관계를 이어 감). 고인의 존재를 느끼거나 꿈꾸는 것은 겪는 일이라 관계를 이어 가는 행동인지 출처 필요",
-      "createdAt": "2026-11-04T21:15:36.031Z",
-      "seq": 3785
-    },
-    {
-      "id": "814a7bd0",
-      "title": "working-longer-at-home 와 after-hours-work-replies 관계",
-      "priority": 30,
-      "note": "2026-11-04 후보: eurofound 블로그 does-new-telework-generation-need-right-disconnect, blog/2022/do-we-really-have-right-disconnect 에 telework 가 always on 문화를 낳아 근무 뒤 이메일, 전화에 답하게 한다는 문장이 있다고 검색 요약이 전함. 이 환경에서 eurofound 429. 이전: utexas 2013, SHRM 2020 인과 문장 없음",
-      "createdAt": "2026-11-04T21:16:05.369Z",
-      "seq": 3786
-    },
-    {
-      "id": "4ef3132e",
-      "title": "resume-embellishment 보강: 공공 파편, 원인",
-      "priority": 30,
-      "note": "2026-11-04 두 번째 시도: korea.kr 보도자료 못 찾음. GAO-04-771T, 04-1096T 는 연방 공무원의 학위공장 학위 조사라 이력서 거짓 문장 아님. HEDD(Prospects) 고용주 확인 조사는 매체 보도만 있음(hrreview 48858, thehrdirector). 이전: Cifas application-fraud-by-middle-aged-job-seekers",
-      "createdAt": "2026-11-04T21:16:42.117Z",
-      "seq": 3787
-    },
-    {
-      "id": "68782baf",
-      "title": "saying-food-is-fine 원인 간선: 어색함·갈등 회피",
-      "priority": 30,
-      "note": "2026-11-06 확인: 상대 문서 conflict-avoidance 없음(find 회피·다툼·불만). bi.no 2018 의 동기 문장 'Often these lies where told to benefit yourself with the motive of gaining some reward, presenting your self in a more flattering way or avoid awkward situations or interactions with service employees.' 는 거짓말 일반이라 음식 답변에 대한 인과로 약함. 갈등 회피 문서를 먼저 세울 출처(학술 정의 + 비학술)를 찾아야 함",
-      "createdAt": "2026-11-06T09:15:37.892Z",
-      "seq": 3941
-    },
-    {
-      "id": "857dfaa2",
-      "title": "not-using-cooling-centers 보강: 국내 공공 파편",
-      "priority": 30,
-      "note": "2026-11-05 earticle A261747 2015 학술 추가. 공공 원문 HTML 못 찾음: 서울시 쪽방 실태조사, 감사원 지적, 행안부 의뢰 보고서. eiec.kdi.re.kr num=285114 간접 근거. 2026-11-06 mediahub 2005076 은 안내뿐. m.go.seoul.co.kr 20260807500167 (경기도의원, 비회원 오해로 발길 돌림) 은 매체",
-      "createdAt": "2026-11-06T09:23:46.787Z",
-      "seq": 3950
-    },
-    {
-      "id": "eb5a4aa1",
-      "title": "disliking-fundraising-solicitation 와 not-donating 원인 간선",
-      "priority": 30,
-      "note": "2026-11-06 문서 추가. StatCan 2009 대목은 '더 기부하지 않은 이유' 맥락이나 원문에 인과 표현 없음. 요청 방식이 싫어 기부를 그만뒀다는 파편 필요. HN 7657133 (2014-04-27) 'It devalues the whole exchange when you know it's only being conducted because the other person wants to relieve you of your money.' 은 보강 후보",
-      "createdAt": "2026-11-06T09:25:03.032Z",
-      "seq": 3951
-    },
-    {
-      "id": "435d9c27",
-      "title": "feeling-old-when-offered-a-seat 보강: 학술 파편",
-      "priority": 30,
-      "note": "2026-11-05 학술 없음. 2026-11-06 PubMed benevolent ageism help 검색: Chasteen 2021 PMID 34291962(관찰자 인상), Ma 36845210(돕는 쪽) 은 받는 사람의 느낌이 아니라 부적합. 받는 쪽 자기 지각(self-perception of aging) 연구를 찾아볼 것",
-      "createdAt": "2026-11-06T09:25:52.294Z",
-      "seq": 3954
-    },
-    {
-      "id": "6f7297a8",
-      "title": "dependent-family-member-guilt 와 self-perceived-burden 관계",
-      "priority": 30,
-      "note": "2026-11-06 문서 추가. self-perceived-burden 은 나이 들거나 아픈 사람에 한정된 요약이라 상하위로 두지 않음. 두 현상을 함께 묶는 공통 상위(식구에게 짐이 된다는 느낌) 파편 필요",
-      "createdAt": "2026-11-06T09:27:38.460Z",
-      "seq": 3955
-    },
-    {
-      "id": "60ddd370",
-      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
-      "priority": 30,
-      "note": "2026-11-05 aashe 15184 2016 추가. 학술 없음, 2005년 이전 출처 없음. 2026-11-06 PubMed 'paper receipts consumers' 무관, koreascience JAKO201821464987902(전자영수증 파급효과) 에 버림 대목 없음. RISS·KCI 에서 '영수증 폐기' 로 찾아볼 것",
-      "createdAt": "2026-11-06T09:28:20.415Z",
-      "seq": 3959
-    },
-    {
-      "id": "7418d626",
-      "title": "not-returning-to-donate-blood 보강: 국내 파편, 다시 오지 않는 이유",
-      "priority": 30,
-      "note": "2026-11-05 대한적십자사 재헌혈률 자료 없음. 후보 maitlandmercury 6237070 2019. 2026-11-06 korea.kr 148900260 은 다회 헌혈자 이야기라 빗나감. koreascience JAKO201725150299112 (간호대생 헌혈 의도) PDF 확인 필요",
-      "createdAt": "2026-11-06T09:28:44.333Z",
-      "seq": 3960
-    },
-    {
-      "id": "454dda95",
-      "title": "not-asking-doctors-questions 와 withholding-information-from-doctors 관계",
-      "priority": 30,
-      "note": "2026-11-06 상위 help-seeking-avoidance 로 둠. withholding 쪽과의 관계는 파편 필요. PMC61246 표 2 바보처럼 보일까 봐 24%. dailian 1671044 는 hiding-illness-from-family 관계 후보",
-      "createdAt": "2026-11-06T09:29:11.164Z",
-      "seq": 3961
-    },
     {
       "id": "10151d6b",
       "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
@@ -1533,6 +1373,46 @@
       "seq": 5629
     },
     {
+      "id": "84be5b33",
+      "title": "office-thermostat-conflict 보강: 원인 간선, 추위 체감의 성별 차이",
+      "priority": 30,
+      "note": "2026-11-19 재탐색. bchydro 첫 문장 'increased use of A/C in B.C. workplaces is leading to worker discomfort and conflict' 는 냉방 사용이 원인이라 추위 체감 간선 근거로 약하고 [^5] 와 같은 출처. achrnews 130364 (2015-08-17) 'differences in temperature preference between men and women also compounds the problem' 후보. uk.news.yahoo bit-hot-under-collar 인과 없음",
+      "createdAt": "2026-11-19T03:07:00.737Z",
+      "seq": 5664
+    },
+    {
+      "id": "39bb7d95",
+      "title": "exam-cheating 보강: 원인 간선(성적 압박)",
+      "priority": 30,
+      "note": "2026-11-19 원인 간선 상대 문서(학업 성적 압박)가 없음. challengesuccess 2019 'pressure on students to cheat just to get a good grade', weekly.khan 8677 (2004-12-09) 교사 '하루에 결판난다는 중압감이 이런 범죄로 이어졌다'. 신규 현상 후보: 시험 성적 압박",
+      "createdAt": "2026-11-19T03:10:15.042Z",
+      "seq": 5665
+    },
+    {
+      "id": "1a1a91a1",
+      "title": "declining-free-meals-out-of-pride 보강: 한국 노인 무료급식 파편",
+      "priority": 30,
+      "note": "2026-11-19 검색어 무료급식소 노인 체면·경로식당: 직접 대목 없음. koreascience JAKO201374652240697 (2013 침묵의 밥) 초록은 무료라서 불만을 말하지 않음이라 non-complaining 에 씀. jjan.kr 20210524732823 자녀가 낯부끄러워함 대목 확인 필요",
+      "createdAt": "2026-11-19T03:16:34.707Z",
+      "seq": 5670
+    },
+    {
+      "id": "9a301072",
+      "title": "reviewing-after-extreme-experiences 보강: 2010년 이전 출처, 관계",
+      "priority": 30,
+      "note": "2026-11-19 SNS 파편 HN 19681153 (2019) 더함. 2010년 이전 후보: Hu·Pavlou·Zhang 2009 CACM (scholar.xjtu 초록은 편향 설명뿐), Anderson 1998 Journal of Service Research 'dissatisfied customers do engage in greater word of mouth' (deepblue.lib.umich.edu 2027.42/68654, 입소문이라 온라인 후기와 범위 확인 필요). 관계 후보: non-complaining 과 대립",
+      "createdAt": "2026-11-19T03:18:16.119Z",
+      "seq": 5671
+    },
+    {
+      "id": "3620d072",
+      "title": "keeping-camera-off-in-video-calls 보강: 한국 파편, 관계",
+      "priority": 30,
+      "note": "2026-11-19 workplaceinsight 2022-10-04 76% 더함. 같은 기사 'Over half (57 percent) admit to turning off their screens so they can play on their phones' 는 목적 표현이라 multitasking-in-meetings 원인 간선 근거로는 약함. 후보: hrmorning virtual-meetings-camera (2022-05-12), 한국 비대면 수업 카메라 끄기 기사. 관계 후보: video-call-self-view-discomfort, spotlight-effect",
+      "createdAt": "2026-11-19T03:22:02.865Z",
+      "seq": 5675
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1861,6 +1741,14 @@
       "seq": 5626
     },
     {
+      "id": "dd07b641",
+      "title": "retired-husband-syndrome 보강: 공공 파편, 別名 主人在宅ストレス症候群",
+      "priority": 20,
+      "note": "2026-11-19 공공 HTML 출처 두 차례 못 찾음. 후보 tyojyu.or.jp 는 이미 [^5]. 원인 간선 후보: 경향 201603282048125 남편 간섭 때문에 스트레스 배가",
+      "createdAt": "2026-11-19T03:05:33.713Z",
+      "seq": 5663
+    },
+    {
       "id": "9c55db6a",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
       "priority": 15,
@@ -1883,6 +1771,118 @@
       "note": "2026-11-16 후보: insight.co.kr/news/447287 (2023-08-15) '실제 사랑한다는 말을 입 밖으로 꺼내는 데는 평균 107일(3.5개월)이 걸렸다.', sevendaysvt.com ...39034581 (2023-09-06) 'every time I try, I lose my nerve', PT 201609 who-says-i-love-you-first 'Yet studies show that it’s actually men most of the time'. 학술 파편 없음: dspace.mit.edu 1721.1/65923 Ackerman 2011 초록 문장 200자 넘음. weddingwire 포럼 Access Denied",
       "createdAt": "2026-11-16T15:32:25.838Z",
       "seq": 5347
+    },
+    {
+      "id": "58bc07aa",
+      "title": "minding-what-others-think 와 fear-of-negative-evaluation, spotlight-effect 관계",
+      "priority": 15,
+      "note": "2026-11-19 다시 미룸. 관계 근거 미발견. 후보 Gilovich 2000 PMID 10707330(europepmc REST 로 초록 열림), kormedi 1610925",
+      "createdAt": "2026-11-19T03:11:59.746Z",
+      "seq": 5666
+    },
+    {
+      "id": "151577fa",
+      "title": "regifting 과 feigning-delight-at-gifts 관계",
+      "priority": 15,
+      "note": "2026-11-19 다시 미룸. 인과 근거 필요. responsesource 94440 (2017-11-21) 두 문서에 있음. casino.org regifting-trends-us (2023-11-29) 감정 지키려 간직 70%",
+      "createdAt": "2026-11-19T03:12:06.806Z",
+      "seq": 5667
+    },
+    {
+      "id": "8a79529f",
+      "title": "working-longer-at-home 와 after-hours-work-replies 관계",
+      "priority": 15,
+      "note": "2026-11-19 eurofound 블로그 두 글 모두 fetch·WebFetch 429. 다른 출처 필요(ILO, Eurostat 등)",
+      "createdAt": "2026-11-19T03:12:33.054Z",
+      "seq": 5668
+    },
+    {
+      "id": "bac6dc74",
+      "title": "saying-food-is-fine 원인 간선: 어색함·갈등 회피",
+      "priority": 15,
+      "note": "2026-11-19 갈등 회피 현상은 self-silencing(관계를 지키거나 갈등을 피하려 말하지 않음) 이 이미 다룸. 새 문서 대신 self-silencing 과의 관계 근거(갈등을 피하려 음식이 괜찮다고 말함) 파편을 찾을 것. bi.no 2018 은 거짓말 일반이라 약함",
+      "createdAt": "2026-11-19T03:12:49.200Z",
+      "seq": 5669
+    },
+    {
+      "id": "a3162178",
+      "title": "not-returning-shared-umbrellas 보강: 학술 파편",
+      "priority": 15,
+      "note": "2026-11-19 europepmc, crossref 'umbrella sharing' 검색에 해당 논문 없음. 공유 자전거·공공재 반납 연구로 넓히거나 일본·대만 공공 보고서를 찾을 것. 이전: MDPI Sustainability 9/9/1504 403",
+      "createdAt": "2026-11-19T03:18:50.453Z",
+      "seq": 5672
+    },
+    {
+      "id": "6a8db411",
+      "title": "comparing-children-to-others 보강: bragging-about-children 관계",
+      "priority": 15,
+      "note": "2026-11-19 세 번째 시도. weekly.khan 201302051539421 (2013-02-05, 최효찬) '대부분의 부모는 자식 이야기만 나오면 괜히 새가슴이 된다. 비교하면 더 주눅 든다.' 는 자랑과 비교를 나란히 말할 뿐 인과 아님. 이전: 매일신문 2009-12-04, Burton Mail 2022 baby brags",
+      "createdAt": "2026-11-19T03:19:19.960Z",
+      "seq": 5673
+    },
+    {
+      "id": "de5c90f4",
+      "title": "counting-down-the-days 보강: 관계 간선",
+      "priority": 15,
+      "note": "2026-11-19 세 번째로 미룸. 이전: TUI 조사 기사 thestar·scotsman 403, psnews merry-mouthful 남은 날 세기 문장 없음, PLOS ONE 0304660 상관만, cas.au.dk 2017-04-19 미확인",
+      "createdAt": "2026-11-19T03:19:26.277Z",
+      "seq": 5674
+    },
+    {
+      "id": "9965ddde",
+      "title": "resume-embellishment 보강: 공공 파편, 원인",
+      "priority": 15,
+      "note": "2026-11-19 세 번째로 미룸. 이전: korea.kr 보도자료 없음, GAO-04-771T·04-1096T 학위공장, HEDD 는 매체 보도만, Cifas application-fraud",
+      "createdAt": "2026-11-19T03:28:18.181Z",
+      "seq": 5676
+    },
+    {
+      "id": "5f2129fa",
+      "title": "not-using-cooling-centers 보강: 국내 공공 파편",
+      "priority": 15,
+      "note": "2026-11-19 mediahub 2011418 (2024-06-12) 기후동행쉼터 안내뿐. newsis 20260730 행안부 의뢰 연세대 보고서 '쉼터 지정·운영 개선방안' 은 이미 씀, 보고서 원문(행안부·prism) HTML 을 찾을 것",
+      "createdAt": "2026-11-19T03:28:39.834Z",
+      "seq": 5677
+    },
+    {
+      "id": "094d6193",
+      "title": "feeling-old-when-offered-a-seat 보강: 학술 파편",
+      "priority": 15,
+      "note": "2026-11-19 europepmc 'offered a seat/priority seating' 검색: 받는 쪽 느낌 연구 없음. 42569959 (2026) 은 자리를 양보받지 못하는 소외감이라 반대 방향, 41184421 Batman effect 는 양보하는 쪽",
+      "createdAt": "2026-11-19T03:33:56.357Z",
+      "seq": 5678
+    },
+    {
+      "id": "5526fc72",
+      "title": "dependent-family-member-guilt 와 self-perceived-burden 관계",
+      "priority": 15,
+      "note": "2026-11-19 미룸. 공통 상위(식구에게 짐이 된다는 느낌) 파편 필요",
+      "createdAt": "2026-11-19T03:34:35.288Z",
+      "seq": 5679
+    },
+    {
+      "id": "23f9d7ee",
+      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
+      "priority": 15,
+      "note": "2026-11-19 europepmc 'receipt AND discard/throw AND consumer' 초록에 버림 대목 없음. RISS·KCI '영수증 폐기', 감열지 BPA 노출 연구에서 영수증을 버리는 비율을 찾을 것",
+      "createdAt": "2026-11-19T03:34:53.782Z",
+      "seq": 5680
+    },
+    {
+      "id": "9e3faeb6",
+      "title": "not-returning-to-donate-blood 보강: 국내 파편, 다시 오지 않는 이유",
+      "priority": 15,
+      "note": "2026-11-19 damoang.net free/1047375 (전혈 뒤 며칠 어지러워 헌혈을 쉰다는 댓글) 403. PMC11863295 (2025 터키, VVR 겪은 헌혈자 헌혈 횟수 중앙값 2회 대 4회) 학술 후보. koreascience JAKO201725150299112 프록시 연결 끊김",
+      "createdAt": "2026-11-19T03:36:20.778Z",
+      "seq": 5681
+    },
+    {
+      "id": "962852a0",
+      "title": "not-asking-doctors-questions 와 withholding-information-from-doctors 관계",
+      "priority": 15,
+      "note": "2026-11-19 미룸. 두 현상을 함께 말하는 파편 필요(예: Levy 2018 JAMA Netw Open 의사에게 숨기기 조사의 질문하지 않음 항목). PMC61246 표 2 바보처럼 보일까 봐 24%",
+      "createdAt": "2026-11-19T03:37:41.687Z",
+      "seq": 5682
     },
     {
       "id": "a3f422fc",
@@ -2013,14 +2013,6 @@
       "seq": 732
     },
     {
-      "id": "c41ddb0b",
-      "title": "연인과의 다툼(관계 갈등)",
-      "priority": 10,
-      "note": "2026-10-22 snooping-on-partners-phone 결과 간선 상대 후보. psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate (2025-09-02, Cortney S. Warren) 'Violating their boundaries through snooping is very likely to cause conflict with your partner, no matter what you find.' marieclaire.co.uk/life/snooping-670110 (2019-11-02) 'In cases where the relationship ended, it was either because the phone owner felt their trust was betrayed, or the relationship was also experiencing difficulties' 이별 인과",
-      "createdAt": "2026-10-22T22:56:23.218Z",
-      "seq": 1117
-    },
-    {
       "id": "bd50d1b5",
       "title": "남을 불편하게 할까 봐 말 꺼내지 않기",
       "priority": 10,
@@ -2059,14 +2051,6 @@
       "note": "2026-10-27 Notes from the Underground 'I had been preparing for them ever since the previous day' 는 rehearsing-what-to-say [^1] 로 씀. 별도 문서에는 다른 출처 필요. rehearsing-what-to-say 결과 후보",
       "createdAt": "2026-10-27T03:34:16.290Z",
       "seq": 2304
-    },
-    {
-      "id": "735954ec",
-      "title": "무료급식 이용을 꺼리는 노인",
-      "priority": 10,
-      "note": "declining-free-meals-out-of-pride 보강 후보. 2026-10-27 한국어 매체 파편 미발견. 검색어: 무료급식 노인 체면, 경로식당 이용 기피. jjan.kr 20210524732823 에 자녀들이 부모가 밥을 얻어먹으러 다니는 것을 낯부끄러워했다는 대목",
-      "createdAt": "2026-10-27T15:14:22.179Z",
-      "seq": 2409
     },
     {
       "id": "ecf5098d",
@@ -2267,14 +2251,6 @@
       "note": "#12 사랑·애착·성 요청",
       "createdAt": "2026-10-29T09:07:17.238Z",
       "seq": 2670
-    },
-    {
-      "id": "1046999e",
-      "title": "분실물 사례금 요구",
-      "priority": 10,
-      "note": "2026-10-29 returning-lost-wallets 보강 중. 세계일보 2021-11-26 segye.com/view/20211126503414 습득자가 휴대폰 돌려주며 사례금 10만원 요구(3만원 제안), YTN 2026-02-09 거마비 2천원(returning-lost-wallets 에 씀). returning-lost-wallets 와 하위 또는 결과 관계 후보",
-      "createdAt": "2026-10-29T15:20:05.068Z",
-      "seq": 2696
     },
     {
       "id": "d18f07d6",
