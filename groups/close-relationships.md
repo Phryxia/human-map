@@ -141,6 +141,7 @@
 - [트집 잡기](../docs/nitpicking.md) 마음에 들지 않는 상대를 둔 사람이 그 상대에게서 작은 흠을 굳이 찾아내 따진다.
 - [편애받는 형제에 대한 질투](../docs/sibling-jealousy-over-favoritism.md) 부모가 다른 형제를 더 아낀다고 느끼는 자식이 그 형제를 질투하거나 부모에게 서운해한다.
 - [할 말을 몰라 아픈 사람과 유족 피하기](../docs/avoiding-the-grieving-and-ill.md) 중병에 걸린 사람이나 가족을 잃은 사람의 주변 사람이 무슨 말을 할지 몰라 그 사람을 찾아가거나 연락하기를 피한다.
+- [함께 묻히기를 바라기](../docs/wishing-to-be-buried-together.md) 어떤 사람은 죽은 뒤 사랑하는 사람이나 반려동물과 한자리에 묻히기를 바라고 그렇게 되도록 미리 손을 쓴다.
 - [헤어진 연인에게 연락하기](../docs/contacting-an-ex.md) 연인과 헤어진 사람이 헤어진 상대에게 먼저 문자나 전화로 연락한다.
 - [헤어진 연인의 물건 없애기](../docs/discarding-an-exs-belongings.md) 연인과 헤어진 사람이 상대에게 받은 편지, 사진, 선물을 태우거나 버린다.
 - [헤어진 연인의 SNS 들여다보기](../docs/checking-an-exs-social-media.md) 연인과 헤어진 사람이 헤어진 상대의 SNS 에 찾아 들어가 근황을 살펴본다.
