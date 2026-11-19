@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-18T21:36:32.364Z",
-  "nextSeq": 5630,
-  "stops": 300,
+  "savedAt": "2026-11-19T00:35:21.893Z",
+  "nextSeq": 5638,
+  "stops": 301,
   "items": [
+    {
+      "id": "97a92cda",
+      "title": "retired-husband-syndrome 보강: 공공 파편, 別名 主人在宅ストレス症候群",
+      "priority": 50,
+      "note": "2026-11-19 공공 HTML 출처 못 찾음. 후보 tyojyu.or.jp essay oiomirumanazashi tsumatomusumenikakomarete (2018-05-28, 매체 성격). 원인 간선 후보: 경향 201603282048125 남편 간섭 때문에 스트레스 배가",
+      "createdAt": "2026-11-19T00:11:17.690Z",
+      "seq": 5634
+    },
+    {
+      "id": "3dd5c68b",
+      "title": "office-thermostat-conflict 보강: 원인 간선, 추위 체감의 성별 차이",
+      "priority": 50,
+      "note": "2026-11-19 bchydro 2019 보도자료 원 문장 'The increase in A/C usage has resulted in' 다툼 인과(224자라 잘라 씀). nextgov 2018/05 148453 여성 22% 남성 7% 동료와 맞섬. achrnews 89834 (2003) 1991년엔 too hot 1위, 2003년 too cold 1위. 신규 후보: 냉방 사무실에서 담요 덮기(bchydro 여성 60%)",
+      "createdAt": "2026-11-19T00:15:28.075Z",
+      "seq": 5635
+    },
+    {
+      "id": "b762d34d",
+      "title": "exam-cheating 보강: 원인 간선과 한국 파편",
+      "priority": 50,
+      "note": "2026-11-19 원인 후보: challengesuccess 2019 'pressure on students to cheat just to get a good grade' (성적 압박). gov.uk Ofqual summer-2025 malpractice 4,735명(2025-12-11) 시기 비교 후보. 한국 공공 출처 못 찾음",
+      "createdAt": "2026-11-19T00:18:49.232Z",
+      "seq": 5636
+    },
+    {
+      "id": "b1673b8e",
+      "title": "tasting-raw-dough 보강: 학술 파편, 다른 시기",
+      "priority": 50,
+      "note": "2026-11-19 학술 후보 JFP-21-256 (2022, PMID 34469535) 35% 날밀가루, HTML 판 403. 2005 UPI 'Uh-oh, watch out for cookie dough' TNS 1,000명 중 400명 403. 관계 후보 washing-raw-chicken",
+      "createdAt": "2026-11-19T00:25:53.027Z",
+      "seq": 5637
+    },
     {
       "id": "55afe813",
       "title": "minding-what-others-think 와 fear-of-negative-evaluation, spotlight-effect 관계",
