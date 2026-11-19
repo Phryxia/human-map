@@ -767,6 +767,7 @@
 - [주차 자리 찾아 맴돌기](docs/cruising-for-parking.md) ([길과 운전](groups/roads-and-driving.md))
 - [주차 차량 파손 뒤 연락처 없이 떠나기](docs/leaving-after-hitting-parked-car.md) ([길과 운전](groups/roads-and-driving.md))
 - [죽은 이에게 말 걸기](docs/talking-to-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [죽음 앞의 화해](docs/deathbed-reconciliation.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [중고 직거래 상대를 만나는 부담](docs/wariness-meeting-secondhand-buyers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [중요한 말을 추신에 적기](docs/saving-the-point-for-the-postscript.md) ([메시지와 휴대전화](groups/messages-and-phones.md))

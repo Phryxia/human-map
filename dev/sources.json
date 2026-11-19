@@ -31687,5 +31687,17 @@
     "last": "2026-11-19",
     "result": "VERIFIED",
     "lastVerified": "2026-11-19"
+  },
+  "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre/text/single-page": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.aafp.org/afp/2000/1201/p2543": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
   }
 }
