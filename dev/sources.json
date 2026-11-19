@@ -31801,5 +31801,17 @@
     "last": "2026-11-19",
     "result": "VERIFIED",
     "lastVerified": "2026-11-19"
+  },
+  "https://www.korea.kr/briefing/policyBriefingView.do?newsId=148766638": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://gnews.gg.go.kr/news/news_detail.do?number=202009231013324208C048&s_code=C048": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
   }
 }
