@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T09:39:17.651Z",
-  "nextSeq": 5713,
-  "stops": 304,
+  "savedAt": "2026-11-19T12:33:26.232Z",
+  "nextSeq": 5734,
+  "stops": 305,
   "items": [
+    {
+      "id": "76ee641a",
+      "title": "retroactive-jealousy 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-19 문학 Tolstoy 1878, 매체 Refinery29 2018 로 신설. 후보 Frampton & Fox 2018 Social Media + Society 10.1177/2056305118800317 (sagepub 봇 확인으로 막힘)",
+      "createdAt": "2026-11-19T12:12:26.575Z",
+      "seq": 5725
+    },
+    {
+      "id": "f838a3c9",
+      "title": "saving-for-funerals 보강: 한국어 파편, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-19 1900s.org.uk(미상), Hansard 1982 로 신설. 상조 가입, 고독사 노인의 장례비 봉투 기사 후보. 1982 Hansard 의 Gilbert 인용(friendly society 동기)",
+      "createdAt": "2026-11-19T12:16:24.551Z",
+      "seq": 5726
+    },
+    {
+      "id": "d0efbe12",
+      "title": "outsourcing-grave-mowing 보강: 공공 파편, visiting-graves 관계",
+      "priority": 50,
+      "note": "2026-11-19 Chang 외 2017, KNN 2026 로 신설. 공공 후보 mafra.go.kr bbs/mafra/68/324822 (2020-09-29 벌초대행 36.3% 증가, 이 환경에서 타임아웃)",
+      "createdAt": "2026-11-19T12:18:57.300Z",
+      "seq": 5727
+    },
+    {
+      "id": "a740e9c1",
+      "title": "deathbed-reconciliation 보강: 매체, 공공 파편",
+      "priority": 50,
+      "note": "2026-11-19 Jane Eyre 1847, AFP 2000 사례로 신설. 후보 sagepub 10.1177/1049909119867675 (스위스 50명 혼합연구, 봇 확인), Mayo 2024 hospice estrangement",
+      "createdAt": "2026-11-19T12:22:12.285Z",
+      "seq": 5729
+    },
+    {
+      "id": "7cae4059",
+      "title": "avoiding-unlucky-numbers 보강: 한국어 파편, 13 기피",
+      "priority": 50,
+      "note": "2026-11-19 CTV 2010, Fortin 외 2013 IZA 로 신설. 후보 psmag 2014-04-14, 한국 병원·승강기 4층 F 표기 기사, superstitious-rituals 와의 관계",
+      "createdAt": "2026-11-19T12:24:23.964Z",
+      "seq": 5730
+    },
+    {
+      "id": "af702975",
+      "title": "wishing-to-be-buried-together 보강: 한국어 부부 합장, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-19 Wuthering Heights 1847, DNAinfo 2016 으로 신설. 후보 wbfo.org 2016-09-29 뉴욕주 법, 한국 부부 합장 선호 조사",
+      "createdAt": "2026-11-19T12:25:53.236Z",
+      "seq": 5731
+    },
+    {
+      "id": "7cd6b2c6",
+      "title": "pawning-belongings 보강: 한국어 파편, 학술 파편, buying-on-credit-at-local-shops 관계",
+      "priority": 50,
+      "note": "2026-11-19 London Museum, 1900s.org.uk, Hansard 1959 로 신설. 후보 visitvictorianengland.blogspot.com 2014-01 (Living London 1901 토요일 2,000 꾸러미)",
+      "createdAt": "2026-11-19T12:30:55.557Z",
+      "seq": 5732
+    },
     {
       "id": "54d681d5",
       "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
@@ -3083,6 +3139,30 @@
       "note": "2026-11-19 foreigner-talk 보강에서 분리. 크고 느리게 말하기와 다른 현상. 후보: 세계일보 2024-07-24 segye.com/view/20240724513997, gobillykorean.com 한국어 학습자에게 반말. 관계 후보: foreigner-talk",
       "createdAt": "2026-11-19T09:05:32.807Z",
       "seq": 5703
+    },
+    {
+      "id": "00b7bae5",
+      "title": "죽음 불안",
+      "priority": 10,
+      "note": "2026-11-19 fear-of-premature-burial 의 상위 후보. 문서 없음",
+      "createdAt": "2026-11-19T12:08:58.221Z",
+      "seq": 5724
+    },
+    {
+      "id": "282e71ef",
+      "title": "우울",
+      "priority": 10,
+      "note": "2026-11-19 nursing-home-placement-guilt 의 결과 후보. 유선영·탁영란 2014 에서 죄책감이 우울을 예측(β=.39). 문서 없음",
+      "createdAt": "2026-11-19T12:20:55.436Z",
+      "seq": 5728
+    },
+    {
+      "id": "894264cf",
+      "title": "곗돈 붓기",
+      "priority": 10,
+      "note": "2026-11-19 계모임. 후보 서울신문 2008-11-25 m.seoul.co.kr/news/2008/11/25/20081125023001, 머니투데이 2009-01-15 mt.co.kr/article/2009011513471010333, 학술 PMC7003940 (ROSCA 와 고령자 기능, 2019)",
+      "createdAt": "2026-11-19T12:32:57.131Z",
+      "seq": 5733
     },
     {
       "id": "02b2f242",
