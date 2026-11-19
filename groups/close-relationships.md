@@ -95,6 +95,7 @@
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.
 - [용서하기](../docs/forgiveness.md) 자기에게 잘못한 사람을 두고 잘못을 당한 사람이 원한과 앙갚음하려는 마음을 내려놓는다.
 - [원한 품기](../docs/holding-a-grudge.md) 언짢은 일을 겪은 사람이 오랜 시간이 지나도 그 일과 상대에 대한 원망을 놓지 않고 품고 있다.
+- [은퇴남편 증후군](../docs/retired-husband-syndrome.md) 남편이 은퇴해 집에 머무는 시간이 늘자 아내가 스트레스를 받고 마음이 무거워진다.
 - [자기 침묵](../docs/self-silencing.md) 관계를 지키거나 갈등을 피하려는 사람이 자기 생각과 불만을 말하지 않고 누른다.
   - [거절하지 못하기](../docs/difficulty-saying-no.md)
     - [내키지 않는 초대에 응하기](../docs/accepting-unwanted-invitations.md)
