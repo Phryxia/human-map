@@ -35,6 +35,7 @@
 - [정치 무력감](../docs/political-inefficacy.md) 유권자가 정부와 정치인이 자기 같은 사람의 생각에 관심이 없고 자기 표가 결정을 바꾸지 못한다고 믿는다.
 - [주운 물건 갖기](../docs/keeping-found-property.md) 남이 잃어버리거나 놓아둔 물건을 주운 사람이 그것을 주인이나 경찰에 돌려주지 않고 자기가 갖는다.
 - [주운 지갑 돌려주기](../docs/returning-lost-wallets.md) 돈이 든 남의 지갑이나 분실물을 주운 사람이 그것을 경찰이나 주인에게 돌려준다.
+  - [분실물 사례금 요구](../docs/finders-reward-demand.md)
 - [지지 후보 낙선 뒤의 낙담](../docs/post-election-distress.md) 지지한 후보가 선거에서 진 뒤 유권자가 상실감과 절망, 우울감을 느끼고 잠과 일상이 흐트러진다.
 - [집 앞 눈 치우지 않기](../docs/not-clearing-snow-in-front-of-home.md) 눈이 온 뒤 건물에 사는 사람이나 주인이 자기 집이나 건물 앞 보도와 골목의 눈을 치우지 않고 둔다.
 - [처벌이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-punishment.md) 자기 신분이나 행위가 드러날 처지에 있는 사람이 체포나 처벌, 추방이 두려워 피해나 위급 상황을 당국에 알리지 않는다.

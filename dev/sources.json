@@ -11258,9 +11258,9 @@
   },
   "https://view.asiae.co.kr/article/2023071410351761289": {
     "first": "2026-10-26",
-    "last": "2026-11-10",
+    "last": "2026-11-19",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-19"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39881201&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
@@ -31341,6 +31341,18 @@
     "lastVerified": "2026-11-19"
   },
   "https://www.foodnavigator.com/Article/2011/12/13/Scientists-urge-manufacturers-to-make-raw-cookie-dough-ready-to-eat-amid-e-coli-fears/": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/en/index.html": {
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-19"
+  },
+  "https://www.segye.com/view/20211126503414": {
     "first": "2026-11-19",
     "last": "2026-11-19",
     "result": "VERIFIED",
