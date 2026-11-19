@@ -18,7 +18,7 @@
 
 ## 상위
 
-없음.
+- [식사비 낼 사람 정하기](deciding-who-pays-for-meals.md)
 
 ## 하위
 

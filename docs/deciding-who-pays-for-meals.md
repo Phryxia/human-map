@@ -22,7 +22,8 @@
 
 ## 하위
 
-없음.
+- [계산 피하기](dodging-the-bill.md)
+- [서로 계산하겠다고 다투기](fighting-over-the-bill.md)
 
 ## 원인
 

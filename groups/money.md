@@ -13,7 +13,6 @@
 - [가진 것 과시하기](../docs/showing-off-possessions.md) 남의 눈을 의식하는 사람이 자기가 가진 물건, 돈, 지위를 다른 사람이 보도록 일부러 드러낸다.
   - [잔치를 크게 벌여 지위 드러내기](../docs/lavish-celebrations-for-status.md)
 - [값 흥정](../docs/haggling.md) 물건값이나 삯을 두고 사는 사람과 파는 사람이 값을 깎거나 지키려고 말을 주고받는다.
-- [계산 피하기](../docs/dodging-the-bill.md) 여럿이 먹고 계산할 때가 되면 신발끈을 묶거나 화장실에 가거나 지갑을 두고 와서 다른 사람이 계산하게 둔다.
 - [고치지 않고 새로 사기](../docs/replacing-instead-of-repairing.md) 가전 같은 물건이 고장 난 사람이 고칠 수 있는데도 수리비가 비싸거나 수리를 맡기기 번거로워 고치지 않고 새것을 산다.
 - [구매 결정 미루기](../docs/delaying-purchases.md) 사고 싶은 물건이 생긴 사람이 충동 구매를 피하려고 바로 사지 않고 시간을 둔 뒤 다시 판단한다.
 - [구매 후 후회](../docs/buyers-remorse.md) 물건을 산 사람이 산 뒤에 그 구매를 후회한다.
@@ -60,9 +59,10 @@
 - [사기 피해 뒤 자책](../docs/self-blame-after-fraud.md) 사기를 당한 사람이 속아 넘어간 자신을 부끄러워하고 탓한다.
 - [사칭 문자 링크 누르기](../docs/clicking-impersonation-message-links.md) 지인, 택배 회사, 기관을 사칭한 문자나 이메일을 받은 사람이 그 안의 링크를 누른다.
 - [사칭 전화에 겁먹고 따르기](../docs/complying-with-impersonation-calls.md) 검찰, 금융기관, 가족을 사칭한 전화를 받은 사람이 겁이나 다급함에 상대가 시키는 대로 한다.
-- [서로 계산하겠다고 다투기](../docs/fighting-over-the-bill.md) 함께 먹은 사람들이 계산할 때가 되면 서로 자기가 내겠다고 실랑이한다.
 - [손실 추격](../docs/loss-chasing.md) 돈을 걸었다가 잃은 사람이 잃은 돈을 되찾으려고 더 건다.
 - [식사비 낼 사람 정하기](../docs/deciding-who-pays-for-meals.md) 다른 사람과 함께 밥을 먹은 사람이 상대의 나이, 성별, 친한 정도와 자리의 성격에 따라 누가 식사비를 낼지 정한다.
+  - [계산 피하기](../docs/dodging-the-bill.md)
+  - [서로 계산하겠다고 다투기](../docs/fighting-over-the-bill.md)
 - [쓰지 않는 구독 유지](../docs/unused-subscription.md) 정기 결제 서비스에 가입한 사람이 그 서비스를 거의 쓰지 않으면서 해지하지 않고 돈을 계속 낸다.
   - [헬스장 등록하고 안 가기](../docs/gym-membership-nonuse.md)
 - [아주 좋거나 아주 나쁠 때 후기 쓰기](../docs/reviewing-after-extreme-experiences.md) 물건이나 가게를 이용한 사람이 아주 만족했거나 아주 불만스러울 때 온라인 후기를 쓴다.
