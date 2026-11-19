@@ -16,7 +16,9 @@
 
 2016년 사설[^4]은 남편의 갑작스러운 은퇴로 생활환경이 바뀌는 데다 남편이 집안일에 간섭하면 아내의 스트레스가 더 커진다고 썼다.
 
-2021년 일본 중년 부부 연구[^5]에서 아내가 사회 활동에 활발히 참여했거나 남편과 자주 어울렸거나 남편의 은퇴 전에 돈 버는 일을 하지 않았으면 아내의 정신 건강은 나빠지지 않았다.
+2018년 일본 의사의 에세이[^5]에 옮겨진 한 아내는 남편이 아침부터 밤까지 집에 있으면 성가시니 점심만이라도 어디든 나가 줬으면 한다고 말했다.
+
+2021년 일본 중년 부부 연구[^6]에서 아내가 사회 활동에 활발히 참여했거나 남편과 자주 어울렸거나 남편의 은퇴 전에 돈 버는 일을 하지 않았으면 아내의 정신 건강은 나빠지지 않았다.
 
 # 관계
 
@@ -46,4 +48,5 @@
 [^2]: [매체] "남편이 정년퇴직을 하고 집에만 있게 되면 아내가 몸과 마음의 병을 얻고 불화를 겪으며 심지어는 이혼까지 하는 현상을 ‘은퇴남편 증후군(RHS:Retired Husband Syndrome)’이라고 부른다." — 서울신문, "[5080] 은퇴남편 증후군…괴로운 부부들", 2009-02-21, https://www.seoul.co.kr/news/2009/02/21/20090221021003, 2026-11-19 접속
 [^3]: [학술] "adding one year to the time spent in retirement by Japanese husbands increases the probability that their wives develop the syndrome by 5.8 to 13.7 percentage points" (일본 남편이 은퇴해 지낸 기간이 1년 늘면 아내가 이 증후군을 겪을 확률이 5.8에서 13.7 퍼센트포인트 높아진다) — Marco Bertoni, Giorgio Brunello, "Pappa Ante Portas: The Retired Husband Syndrome in Japan", IZA Discussion Papers 8350, 2014-07, https://econpapers.repec.org/paper/izaizadps/dp8350.htm, 2026-11-19 접속
 [^4]: [매체] "남편의 갑작스러운 은퇴로 인한 생활환경 변화에 적응도 쉽지 않은데 남편이 집안일에 시시콜콜 간섭이라도 하게 되면 아내의 스트레스는 배가된다." — 경향신문, "[사설] 은퇴 남편 때문에 우울증에 시달리는 아내와 고령화 사회", 2016-03-28, https://www.khan.co.kr/article/201603282048125, 2026-11-19 접속
-[^5]: [학술] "However, the wife’s active social participation, intense interactions with her husband, and absence of paid employment before her husband’s retirement prevented her mental health from deteriorating." (그러나 아내의 활발한 사회 참여, 남편과의 잦은 교류, 남편 은퇴 전 유급 노동이 없었던 것은 아내의 정신 건강이 나빠지는 것을 막았다.) — Takashi Oshio, "Impact of a husband's retirement on wife's mental health", Journal of Epidemiology 31(5), 2021-05-05, https://www.jstage.jst.go.jp/article/jea/31/5/31_JE20200071/_article, 2026-11-19 접속
+[^5]: [매체] "「お昼だけでもどこかへ行って欲しいわ。朝から晩まで家の中に居られたらうっとうしいの。なんでもいいから外で食べていらっしゃいって言うんですけどね。私の作ったものが美味しいなんて言われると気が狂いそう。」" (점심만이라도 어디 좀 가 줬으면 좋겠어요. 아침부터 밤까지 집 안에 있으면 성가셔요. 아무거나 좋으니 밖에서 먹고 오라고 말하는데요. 내가 만든 게 맛있다는 말을 들으면 미칠 것 같아요.) — 井口昭久, 「老いをみるまなざし 第9回 妻と娘に囲まれて―幸せな老人―」, 健康長寿ネット, 2018-05-28, https://www.tyojyu.or.jp/net/essay/oiomirumanazashi/tsumatomusumenikakomarete.html, 2026-11-19 접속
+[^6]: [학술] "However, the wife’s active social participation, intense interactions with her husband, and absence of paid employment before her husband’s retirement prevented her mental health from deteriorating." (그러나 아내의 활발한 사회 참여, 남편과의 잦은 교류, 남편 은퇴 전 유급 노동이 없었던 것은 아내의 정신 건강이 나빠지는 것을 막았다.) — Takashi Oshio, "Impact of a husband's retirement on wife's mental health", Journal of Epidemiology 31(5), 2021-05-05, https://www.jstage.jst.go.jp/article/jea/31/5/31_JE20200071/_article, 2026-11-19 접속
