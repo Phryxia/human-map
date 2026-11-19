@@ -305,6 +305,7 @@
 - [미래 불안](docs/future-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [미루기](docs/procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [미어캣 효과](docs/meerkat-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [미칠까 두려워하기](docs/fear-of-going-mad.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [반가운 편지 뜯기 미루기](docs/saving-a-letter-to-open-later.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [반려견 목줄 풀어 두기](docs/walking-dog-off-leash.md) ([건강과 위험](groups/health-and-safety.md))
 - [반려견 배설물 치우지 않기](docs/not-picking-up-dog-waste.md) ([시민 참여와 공공의 일](groups/civic-life.md))
