@@ -218,6 +218,7 @@
 - [답하지 않은 뒤의 수치감](docs/shame-after-unanswered-message.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [대기오염 경보에도 바깥 활동 줄이지 않기](docs/ignoring-air-quality-alerts.md) ([건강과 위험](groups/health-and-safety.md))
 - [대중교통 무임승차](docs/fare-evasion.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [대중문화 속 이름으로 아이 이름 짓기](docs/naming-children-after-pop-culture.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [대피 미루기](docs/delayed-evacuation.md) ([건강과 위험](groups/health-and-safety.md))
 - [대화 뒤 되짚기](docs/replaying-conversations-afterward.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [대화에 끼어들지 못하기](docs/not-cutting-into-conversation.md) ([남의 시선과 창피함](groups/others-gaze.md))
