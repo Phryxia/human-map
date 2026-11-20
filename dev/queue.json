@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T03:38:28.556Z",
-  "nextSeq": 5813,
-  "stops": 310,
+  "savedAt": "2026-11-20T06:34:43.444Z",
+  "nextSeq": 5825,
+  "stops": 311,
   "items": [
+    {
+      "id": "d2125acd",
+      "title": "keeping-locks-of-hair 보강: 연인끼리 머리카락 주고받기, 시기 변화",
+      "priority": 50,
+      "note": "후보: Hardy Far from the Madding Crowd 107 회중시계 속 머리카락, Little Women 514 locks of hair 유품, Lutz 2011 VLC S1060150310000306 유해 간직 관행 쇠퇴, scarymommy bereaved-parents-remember-child 2020 머리카락 못 남긴 후회",
+      "createdAt": "2026-11-20T06:20:33.378Z",
+      "seq": 5821
+    },
+    {
+      "id": "3c1ff246",
+      "title": "dog-earing-pages 보강: 접힌 책에 대한 불쾌, 학술 파편",
+      "priority": 50,
+      "note": "후보: cool.culturalheritage.org/don/dt/dt1045.html dog eared 정의(발행일 미상), brunch brunchjmef/41 2026-06-20 내 책은 안 접음, straightdope 378004 답글 Dog-earring a book damages it, Lamb Detached Thoughts 10343 txt",
+      "createdAt": "2026-11-20T06:27:25.296Z",
+      "seq": 5822
+    },
+    {
+      "id": "f72fda6c",
+      "title": "boasting-about-lineage 보강: 문학 파편, 시기 변화",
+      "priority": 50,
+      "note": "후보: Tess of the d'Urbervilles 110(Gutenberg 4개 문서 사용 중, 쓰면 5개 WARN) skillentons 대목, Times Higher Education 411471 2010-05-06 학문 계보의 가우스·괴테 조상 위신",
+      "createdAt": "2026-11-20T06:30:08.975Z",
+      "seq": 5823
+    },
+    {
+      "id": "0a7ea830",
+      "title": "covering-mirrors-after-death 보강: 문학 파편, 시계 멈추기",
+      "priority": 50,
+      "note": "Gutenberg 507 143 550 122 2148 1661 4217 txt 에 covered the looking-glass/stopped the clock 없음. 후보 미확인: chabad.org aid=2969340, forward.com Five shiva traditions, Mental Floss 2026-06-06 덮지 않은 거울에 영이 갇힌다는 중국 믿음",
+      "createdAt": "2026-11-20T06:34:02.064Z",
+      "seq": 5824
+    },
     {
       "id": "73ba5a17",
       "title": "guilt-about-resigning 보강: 공공 파편",
@@ -3195,6 +3227,22 @@
       "note": "2026-11-20 공공 korea.kr healthView newsId=148693988 2010 혼자 참는다 34.3%. 매체 후보 nj1015.com 2018 OfficeTeam 46% suffer in silence 는 실명 든 문장이라 못 씀. SHRM odors-fragrances-not-welcome-work 39% 불쾌 대목 있음. plansponsor 403",
       "createdAt": "2026-11-20T00:30:05.572Z",
       "seq": 5798
+    },
+    {
+      "id": "8609ba42",
+      "title": "흰머리 염색 그만두기",
+      "priority": 10,
+      "note": "dyeing-gray-hair 작업 중 Ageing & Society 2010 Shades of grey(염색 안 하기로 한 여성), 보그 코리아 2019 GRAY DILEMMA 에서 봄. dyeing-gray-hair 와 대립 후보",
+      "createdAt": "2026-11-20T06:11:05.223Z",
+      "seq": 5819
+    },
+    {
+      "id": "793b86b4",
+      "title": "흰 상복 입기",
+      "priority": 10,
+      "note": "wearing-mourning-clothes 작업 중 문화일보 2020-11-03 흰 상복 칼럼(munhwa.com/article/11210972)에서 봄. 검은 상복 대신 전통 흰 상복을 고르는 일. 하위 후보",
+      "createdAt": "2026-11-20T06:16:55.641Z",
+      "seq": 5820
     },
     {
       "id": "02b2f242",
