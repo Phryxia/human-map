@@ -28,6 +28,7 @@ Merriam-Webster 사전은 French leave 의 어원을 손님이 주인에게 인�
 
 ## 원인
 
+- [과음](heavy-drinking.md)[^6]
 - [작별 인사 길게 끌기](lingering-goodbye.md)[^9]
 
 ## 결과

@@ -36,6 +36,7 @@
 ## 결과
 
 - [금연 뒤 다시 피우기](smoking-relapse.md)[^2]
+- [인사 없이 모임 자리 뜨기](irish-goodbye.md)
 
 ## 대립
 
