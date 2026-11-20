@@ -20,6 +20,8 @@
 
 2025년 칼럼[^6]의 필자는 모서리가 접힌 책장이나 갈라진 책등을 보면 책이 아파하는 것처럼 느낀다고 썼다.
 
+2026년 블로그 글[^7]의 필자는 읽다가 책장을 접는 일을 자기 책에서는 하지 않는다고 적었다.
+
 # 관계
 
 ## 상위
@@ -50,3 +52,4 @@
 [^4]: [매체] "A dog ear is a colloquial term for the folded down corner of a book page — the way some of us, when we don't have a bookmark at hand might keep our place." (도그 이어는 책장의 접힌 모서리를 이르는 구어로, 우리 가운데 몇몇이 책갈피가 손에 없을 때 읽던 자리를 남겨 두는 방법이다.) — Torsten Landsberg, "The history of the 'dog ear' bookmark", Deutsche Welle, 2021-04-23, https://www.dw.com/en/world-book-day-history-of-the-dog-ear-bookmark/a-57311160, 2026-11-20 접속
 [^5]: [학술] "This was one that I used at university and I’ve got over half the pages turned down at the corners." (이건 대학 때 쓰던 책인데 절반 넘는 쪽의 모서리를 접어 두었어요.) — Laura Dietz, "Reading Lives and Reading Identities", E-books and 'Real Books', Cambridge University Press, 2024-12-07, https://www.cambridge.org/core/books/ebooks-and-real-books/reading-lives-and-reading-identities/D808D3811C21D2709B90DD8D58F8C9DA, 2026-11-20 접속
 [^6]: [매체] "That being said, when I see a dog-eared page, cracked spine or a ripped corner, I feel the book's pain." (그렇긴 해도, 모서리가 접힌 책장이나 갈라진 책등, 찢어진 귀퉁이를 보면 나는 책의 아픔을 느낀다.) — Ayla Kruse Lawson, "HATER FRIDAY | Bent Pages and Broken Hearts", The Cornell Daily Sun, 2025-05-02, https://www.cornellsun.com/article/2025/05/hater-friday-bent-pages-and-broken-hearts, 2026-11-20 접속
+[^7]: [매체] "읽다가 접는 거 내 책에선 불가하다." — 브런치, "독서 결벽 도구들", 2026-06-20, https://brunch.co.kr/@brunchjmef/41, 2026-11-20 접속
