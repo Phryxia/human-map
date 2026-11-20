@@ -506,6 +506,7 @@
 - [시름을 술로 달래기](docs/drinking-to-cope.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [시험 부정행위](docs/exam-cheating.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [시험 불안](docs/test-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [식기세척기에 넣기 전 그릇 헹구기](docs/pre-rinsing-dishes.md) ([시간과 하루 습관](groups/daily-time.md))
 - [식대를 의식해 결혼식 참석 가리기](docs/choosing-weddings-to-attend-over-meal-costs.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [식물에게 말 걸기](docs/talking-to-plants.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [식사비 낼 사람 정하기](docs/deciding-who-pays-for-meals.md) ([돈과 소비](groups/money.md))
