@@ -14,6 +14,8 @@
 
 2015년 7월 연구[^3]에서 응답한 여성 229명 가운데 160명(69.9%)이 오래 이어진 관계 동안 다른 사람에게 반한 적이 있다고 답했다.
 
+2019년 게시판 댓글[^4]의 글쓴이는 행복하게 결혼해 살면서도 한 해에 한 번쯤 갑자기 여성 직장 동료에게 반한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -41,3 +43,4 @@
 [^1]: [문학] "She did not mean her husband; she was thinking of Robert Lebrun. Her husband seemed to her now like a person whom she had married without love as an excuse." (남편을 말한 것이 아니었다. 그녀는 로베르 르브룅을 생각하고 있었다. 이제 남편은 그녀에게 사랑 없이 핑계로 결혼한 사람처럼 보였다.) — Kate Chopin, The Awakening, 1899, https://www.gutenberg.org/cache/epub/160/pg160-images.html, 2026-11-13 접속
 [^2]: [매체] "I feel guilty, but the feelings are also very pleasurable. They remind me that I can actually feel something after all." (죄책감이 들지만 그 감정은 무척 즐겁기도 하다. 내가 결국 무언가를 정말로 느낄 수 있다는 걸 일깨워 준다.) — 「I Have A Crush On A Coworker And I’m Married」, Love Letters, Boston.com, 2013-01-24, https://www.boston.com/love-letters/relationships/i-have-a-crush-on-a-coworker-and-im-married/, 2026-11-12 접속
 [^3]: [학술] "Of the total 229 participants, 160 (69.9%) women said they had experienced a crush during their long-term relationship." (전체 참가자 229명 가운데 160명(69.9%)의 여성이 오래 이어진 관계 동안 다른 사람에게 반한 적이 있다고 말했다.) — Margo Mullinax 외, 「Women’s Experiences With Feelings and Attractions for Someone Outside their Primary Relationship」, Journal of Sex & Marital Therapy, 2015-07-16, https://pmc.ncbi.nlm.nih.gov/articles/PMC4786456/, 2026-11-12 접속
+[^4]: [SNS] "But IME crushes don’t result from loneliness – I’m happily married yet, once a year or so, find myself suddenly crushing on a female coworker." (하지만 내 경험으로는 짝사랑은 외로움에서 오지 않는다. 나는 행복하게 결혼했는데도 한 해에 한 번쯤은 여성 동료에게 갑자기 빠진다.) — Straight Dope 댓글, 2019-07-24, https://boards.straightdope.com/t/crush-on-co-worker-how-to-cope/837369?page=3, 2026-11-20 접속
