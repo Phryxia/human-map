@@ -50,6 +50,7 @@
 
 ## 결과
 
+- [틈날 때마다 휴대폰 집기](picking-up-phone-in-idle-moments.md)
 - [근무 중 사적인 인터넷 사용](cyberloafing.md)[^9]
 - [딴생각](mind-wandering.md)[^8]
 - [무심코 낙서하기](doodling.md)[^14]

@@ -8,9 +8,11 @@
 
 # 서술
 
-2017년 2월 연구[^1]에서 줄이나 정류장 같은 대기 장소에 도착한 뒤 휴대폰을 쓰기 시작한 사람 가운데 55%는 도착 10초 안에, 80%는 20초 안에 썼다.
+2007년 게시판 댓글[^1]의 글쓴이는 공공장소에 혼자 있을 때 지루해서 휴대폰을 자주 확인한다고 썼다.
 
-2026년 4월 칼럼[^2]의 필자는 조금만 틈이 나면 자동으로 휴대폰에 손이 간다고 썼다. 2026년 6월 에세이[^3]의 필자는 횡단보도를 건너기 전에 잠깐 기다릴 때도 스마트폰을 본다고 적었다.
+2017년 2월 연구[^2]에서 줄이나 정류장 같은 대기 장소에 도착한 뒤 휴대폰을 쓰기 시작한 사람 가운데 55%는 도착 10초 안에, 80%는 20초 안에 썼다.
+
+2026년 4월 칼럼[^3]의 필자는 조금만 틈이 나면 자동으로 휴대폰에 손이 간다고 썼다. 2026년 6월 에세이[^4]의 필자는 횡단보도를 건너기 전에 잠깐 기다릴 때도 스마트폰을 본다고 적었다.
 
 # 관계
 
@@ -24,7 +26,7 @@
 
 ## 원인
 
-없음.
+- [지루함](boredom.md)[^1]
 
 ## 결과
 
@@ -36,6 +38,7 @@
 
 #온라인 #시간
 
-[^1]: [학술] "The majority (55%) of the latter group initiated use within 10 s of arrival and 80% initiated use within 20 s of arrival." (뒤의 무리 가운데 대다수(55%)가 도착 10초 안에, 80%가 20초 안에 사용을 시작했다.) — Daniel J. Kruger 외, 「Cell Phone Use Latency in a Midwestern USA University Population」, Journal of Technology in Behavioral Science, 2017-02-06, https://link.springer.com/article/10.1007/s41347-017-0012-8, 2026-11-12 접속
-[^2]: [매체] "조금만 틈이 난다 싶으면 자동으로 휴대폰에 손이 간다." — 경북매일, 「따분함이 결핍된 시대」, 경북매일, 2026-04-16, https://www.kbmaeil.com/article/20260416500024, 2026-11-12 접속
-[^3]: [매체] "횡단보도를 건너기 전에 잠깐 기다릴 때도 스마트폰을 봅니다." — 노딘, 「21화 가만히 있는 것에 대한 불안함」, 브런치, 2026-06-04, https://brunch.co.kr/@nodin/65, 2026-11-12 접속
+[^1]: [SNS] "To be totally honest, when I’m alone in public I check my phone often because I’m bored." (솔직히 말하면 공공장소에 혼자 있을 때 나는 지루해서 휴대폰을 자주 확인한다.) — Straight Dope 댓글, 2007-12-05, https://boards.straightdope.com/t/cellphone-texting-practices/428938, 2026-11-20 접속
+[^2]: [학술] "The majority (55%) of the latter group initiated use within 10 s of arrival and 80% initiated use within 20 s of arrival." (뒤의 무리 가운데 대다수(55%)가 도착 10초 안에, 80%가 20초 안에 사용을 시작했다.) — Daniel J. Kruger 외, 「Cell Phone Use Latency in a Midwestern USA University Population」, Journal of Technology in Behavioral Science, 2017-02-06, https://link.springer.com/article/10.1007/s41347-017-0012-8, 2026-11-12 접속
+[^3]: [매체] "조금만 틈이 난다 싶으면 자동으로 휴대폰에 손이 간다." — 경북매일, 「따분함이 결핍된 시대」, 경북매일, 2026-04-16, https://www.kbmaeil.com/article/20260416500024, 2026-11-12 접속
+[^4]: [매체] "횡단보도를 건너기 전에 잠깐 기다릴 때도 스마트폰을 봅니다." — 노딘, 「21화 가만히 있는 것에 대한 불안함」, 브런치, 2026-06-04, https://brunch.co.kr/@nodin/65, 2026-11-12 접속
