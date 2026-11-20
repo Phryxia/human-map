@@ -55,6 +55,7 @@
 - [경증 응급 의료 이용](docs/nonurgent-emergency-care-use.md) ([건강과 위험](groups/health-and-safety.md))
 - [경증 응급실 이용](docs/nonurgent-emergency-room-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [곁에 없는 사람의 옷 냄새 맡기](docs/smelling-absent-loved-ones-clothes.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [곁에 없는 사람의 편지와 사진에 입 맞추기](docs/kissing-absent-loved-ones-letters.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [계기판 경고등 무시하고 운전하기](docs/ignoring-dashboard-warning-lights.md) ([길과 운전](groups/roads-and-driving.md))
 - [계단 대신 에스컬레이터와 엘리베이터 타기](docs/taking-escalator-over-stairs.md) ([건강과 위험](groups/health-and-safety.md))
 - [계단과 걸음 세기](docs/counting-steps-and-stairs.md) ([성향과 기질](groups/traits.md))

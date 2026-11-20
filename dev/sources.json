@@ -32651,5 +32651,35 @@
     "last": "2026-11-20",
     "result": "VERIFIED",
     "lastVerified": "2026-11-20"
+  },
+  "https://gutenberg.pglaf.org/cache/epub/4085/pg4085.txt": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://ko.wikisource.org/wiki/%EC%9C%A4%EA%B4%91%ED%98%B8": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://blogs.loc.gov/folklife/2015/02/moments-with-you-correspondence-in-vhp-collections/": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://whatsyourgrief.com/photos-of-deceased/": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC13761019/": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
   }
 }
