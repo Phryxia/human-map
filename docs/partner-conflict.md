@@ -1,6 +1,6 @@
 # 연인과의 다툼
 
-별칭: 부부싸움[^6]
+별칭: 부부싸움[^7]
 
 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 
@@ -12,9 +12,9 @@
 
 2014년 기사[^3]가 전한 조사에서 재혼을 바라는 돌싱 여성 응답자 37.6%가 부부싸움 뒤 의사소통 방법으로 대화 단절을 꼽았다.
 
-2017년 영국 조사[^4]에서 결혼이나 동거를 끝낸 남녀의 약 3분의 2가 멀어짐, 다툼, 외도 가운데 하나 이상을 헤어진 이유로 꼽았다. 2021년 게시글[^5]의 글쓴이는 아픈 연인에게 옆에서 자꾸 병원에 가 보자고 했다가 그 일로 싸운 적이 있다고 썼다. 2024년 게시글[^6]의 글쓴이는 자기 부부싸움의 9할이 남편이 술을 마시고 집에 들어오지 않는 일 때문이라고 썼다.
+2017년 영국 조사[^4]에서 결혼이나 동거를 끝낸 남녀의 약 3분의 2가 멀어짐, 다툼, 외도 가운데 하나 이상을 헤어진 이유로 꼽았다. 2021년 게시글[^5]의 글쓴이는 아픈 연인에게 옆에서 자꾸 병원에 가 보자고 했다가 그 일로 싸운 적이 있다고 썼다. 2022년 5월 칼럼[^6]의 필자는 여러 조사에서 오래 사귄 커플들이 성욕 차이를 성을 둘러싼 다툼의 첫째 원인으로 꼽는다고 적었다. 2024년 게시글[^7]의 글쓴이는 자기 부부싸움의 9할이 남편이 술을 마시고 집에 들어오지 않는 일 때문이라고 썼다.
 
-2025년 칼럼[^7]의 필자는 연인의 휴대전화를 엿보는 일이 무엇을 찾든 상대와의 다툼을 일으킬 가능성이 매우 크다고 적는다.
+2025년 칼럼[^8]의 필자는 연인의 휴대전화를 엿보는 일이 무엇을 찾든 상대와의 다툼을 일으킬 가능성이 매우 크다고 적는다.
 
 # 관계
 
@@ -28,7 +28,8 @@
 
 ## 원인
 
-- [연인의 휴대폰 몰래 보기](snooping-on-partners-phone.md)[^7]
+- [커플 사이의 성욕 차이](sexual-desire-discrepancy.md)[^6]
+- [연인의 휴대폰 몰래 보기](snooping-on-partners-phone.md)[^8]
 
 ## 결과
 
@@ -46,5 +47,6 @@
 [^3]: [매체] "남성은 응답자의 32.1%가 ‘카톡 혹은 문자’로 의사소통을 시도한다고 답한 반면, 여성은 37.6%가 ‘대화단절’로 답해 각각 가장 높은 비중을 차지했다." — 권순일, 「부부싸움 뒤 대화 남자는 카톡, 여자는 아예...」, 코메디닷컴, 2014-01-23, https://kormedi.com/1209403/, 2026-11-01 접속
 [^4]: [학술] "Roughly two-thirds of both men and women cited one or more of the three most prevalent reasons: grew apart, arguments, and unfaithfulness/adultery" (남녀 모두 약 3분의 2가 가장 흔한 세 이유인 멀어짐, 다툼, 외도 가운데 하나 이상을 꼽았다) — Kirsten Gravningen, Kirstin R Mitchell 외, "Reported reasons for breakdown of marriage and cohabitation in Britain: Findings from the third National Survey of Sexual Attitudes and Lifestyles (Natsal-3)", PLoS ONE, 2017-03-23, https://pmc.ncbi.nlm.nih.gov/articles/PMC5363851/, 2026-10-25 접속
 [^5]: [SNS] "저번에 한번 아파서 저한테 얘기 했을때 제가 옆에서 자꾸 병원 가보자고 한적이 있었는데 그걸로 싸운적이 있습니다." — 네이트판 게시글, 2021-04-17, https://pann.nate.com/talk/359133930, 2026-10-24 접속
-[^6]: [SNS] "우리 부부싸움의 9할은 남편이 술먹고 안들어오는거 때문에 싸워." — 네이트판 게시글, 2024-07-20, https://pann.nate.com/talk/372878304, 2026-10-23 접속
-[^7]: [매체] "Violating their boundaries through snooping is very likely to cause conflict with your partner, no matter what you find." (엿보기로 상대의 경계를 침범하는 일은 무엇을 찾든 상대와의 다툼을 일으킬 가능성이 매우 크다.) — Cortney S. Warren, "Snooping to Catch a Cheating Mate", Psychology Today, 2025-09-02, https://www.psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate, 2026-10-23 접속
+[^6]: [매체] "In surveys, long-term couples call desire differences their number one cause of sexual conflict." (여러 조사에서 오래 사귄 커플들은 성욕 차이를 성을 둘러싼 다툼의 첫째 원인으로 꼽는다.) — Michael Castleman, "How to Deal With Couples' Most Common Sexual Concern", Psychology Today, 2022-05-01, https://www.psychologytoday.com/us/blog/all-about-sex/202205/help-couples-number-one-sex-problem, 2026-11-20 접속
+[^7]: [SNS] "우리 부부싸움의 9할은 남편이 술먹고 안들어오는거 때문에 싸워." — 네이트판 게시글, 2024-07-20, https://pann.nate.com/talk/372878304, 2026-10-23 접속
+[^8]: [매체] "Violating their boundaries through snooping is very likely to cause conflict with your partner, no matter what you find." (엿보기로 상대의 경계를 침범하는 일은 무엇을 찾든 상대와의 다툼을 일으킬 가능성이 매우 크다.) — Cortney S. Warren, "Snooping to Catch a Cheating Mate", Psychology Today, 2025-09-02, https://www.psychologytoday.com/us/blog/naked-truth/202508/snooping-to-catch-a-cheating-mate, 2026-10-23 접속
