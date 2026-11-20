@@ -1,193 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T12:40:19.967Z",
-  "nextSeq": 5897,
-  "stops": 313,
+  "savedAt": "2026-11-20T15:35:55.363Z",
+  "nextSeq": 5939,
+  "stops": 314,
   "items": [
-    {
-      "id": "8e1521e3",
-      "title": "taking-long-showers 보강: 학술, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-20 Morizet 외 Journal of Environmental Management 2026 DOI 10.1016/j.jenvman.2026.130596 초록(학술 후보). old.reddit 403. avoiding-being-alone-with-thoughts 와 혼자 있는 시간 관계 후보(MEL 2018)",
-      "createdAt": "2026-11-20T12:21:17.456Z",
-      "seq": 5886
-    },
-    {
-      "id": "d07c2f84",
-      "title": "overfilling-the-kettle: [^1] Yahoo Finance UK 429 재확인",
-      "priority": 50,
-      "note": "2026-11-20 uk.finance.yahoo.com why-overfilling-kettle-costs-68m-060958202 가 두 번 429. 열리면 (미확인) 떼기. DESNZ 2026 조사는 leaving-lights-on 59% 도 담음(보강 후보)",
-      "createdAt": "2026-11-20T12:24:45.980Z",
-      "seq": 5889
-    },
-    {
-      "id": "cc87d522",
-      "title": "washing-partial-loads 보강: 공공 관찰 파편, 냄새 원인",
-      "priority": 50,
-      "note": "2026-11-20 NISRA Water Usage in NI 2024/25 (27% 매일 세탁), NI Water 2024-10-17 (22% 매일) 후보. Electrolux 2024-06-04 같은 페이지 50% musty 냄새 때문에 빤다. YouGov 2022-11-07 25% 가득 찰 때까지 기다림",
-      "createdAt": "2026-11-20T12:33:14.545Z",
-      "seq": 5892
-    },
-    {
-      "id": "47494a10",
-      "title": "peeking-into-the-oven 보강: SNS, 한국어 파편",
-      "priority": 50,
-      "note": "2026-11-20 Chowhound 2025-08-19 같은 글 'wondering if the food is rising' 궁금함 이유. impatience-at-red-light 등 조급함 문서와 관계 후보. miso.kr 블로그 미확인",
-      "createdAt": "2026-11-20T12:36:08.133Z",
-      "seq": 5894
-    },
-    {
-      "id": "5643b77d",
-      "title": "running-water-until-it-warms 보강: 학술, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-20 Lutz LBNL 2011-09 Water and Energy Wasted During Residential Shower Events 초록은 PDF 뿐. NRDC 2014 같은 글 '20 seconds, 30 seconds' 대기 시간. taking-long-showers 와 관계 후보",
-      "createdAt": "2026-11-20T12:38:28.432Z",
-      "seq": 5896
-    },
-    {
-      "id": "7f208ad2",
-      "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",
-      "priority": 30,
-      "note": "2026-11-12 fear-of-the-dark 상위는 그음. Cranford(394) 'especially since Miss Pole's house had been attacked' 는 습격 소문 원인 근거 후보이나 원인 쪽 문서 없음. 두 현상 공통 상위(밤에 집 안 위협 상상) 문서를 새로 써야 함",
-      "createdAt": "2026-11-13T09:23:20.222Z",
-      "seq": 4833
-    },
-    {
-      "id": "da698556",
-      "title": "glancing-at-own-reflection-in-windows 관계: body-checking",
-      "priority": 30,
-      "note": "2026-11-13 body-checking [^3] Symmetry Counseling 2021 은 창문 같은 반사면도 몸 확인에 쓰인다고만 함. 흘끗 보기 전체가 몸 확인의 특수한 경우라는 파편은 아직 없음. 상위 대신 원인/결과 표지를 찾을 것",
-      "createdAt": "2026-11-13T09:26:34.903Z",
-      "seq": 4834
-    },
-    {
-      "id": "053f3936",
-      "title": "interrupting-others 보강: 원인 간선, 조건",
-      "priority": 30,
-      "note": "2026-11-12 클리앙 park/18835383 [^5] 더함. 같은 글 댓글(할 말을 놓칠까 봐 끊음, 친한 상대에선 끊고 긴장한 자리에선 안 끊음)은 같은 URL 이라 못 씀. 네이트판 talk/316174302 (2012-07-03) 관찰 글. 원인 쪽 문서(할 말 잊을까 조급함, 들뜸) 없음. not-cutting-into-conversation 은 반대 행동이나 같은 사람 안 대립 근거 없음",
-      "createdAt": "2026-11-13T09:27:00.087Z",
-      "seq": 4836
-    },
-    {
-      "id": "813a8644",
-      "title": "being-cancelled-on 보강: 문학 파편, urge-to-cancel-plans 관계",
-      "priority": 30,
-      "note": "2026-11-13 Sense and Sensibility(161) 는 이미 4개 문서가 써서 못 씀. Northanger Abbey(121) 의 산책 취소는 비 때문이라 상대가 취소한 경우 아님. Emma(158) 4개 문서. Straight Dope 7699 (1999-09-11) 생일 모임 30분 전 취소 SNS 후보",
-      "createdAt": "2026-11-13T09:27:33.868Z",
-      "seq": 4837
-    },
-    {
-      "id": "123cc0ba",
-      "title": "concealing-accidental-damage 관계: concealing-failure, hiding-mistakes-at-work, Tom Sawyer 외 문학",
-      "priority": 30,
-      "note": "2026-11-12 Straight Dope 443432/35 (2008-04-01) 더함. 2026-11-13 concealing-failure 는 시험·일의 실패라 물건 망가뜨림을 하위로 두려면 그렇게 부르는 파편 필요. 두 현상 공통 상위(자기 잘못 숨기기) 문서 후보. boredpanda broken-couch-overweight-friend 매체 후보",
-      "createdAt": "2026-11-13T09:27:47.558Z",
-      "seq": 4838
-    },
-    {
-      "id": "1931cab0",
-      "title": "not-cycling-for-fear-of-traffic 관계: bicycle-helmet-nonuse",
-      "priority": 30,
-      "note": "2026-11-13 클리앙 use/17293411 [^6] 더함(iPhone UA 로 열림). 같은 글에 아내가 자전거 자체를 위험하게 여긴다는 대목. 헬멧 미착용과의 인과 원문 없음. 주간경향 202009211221261 후보",
-      "createdAt": "2026-11-13T09:28:36.784Z",
-      "seq": 4839
-    },
-    {
-      "id": "28100eb2",
-      "title": "public-speaking-anxiety 보강: 한국어 공공 파편",
-      "priority": 30,
-      "note": "2026-11-13 korea.kr 보도자료 검색 무소득(학술 논문만 나옴). 2026-11-12 광운대 상담센터 URL 못 찾음, 국가정신건강정보포털 무소득. culture.kookmin.ac.kr gulmal 자가진단 첨부 후보. 4문단이 4문장이라 새 문단 필요",
-      "createdAt": "2026-11-13T09:28:57.050Z",
-      "seq": 4841
-    },
-    {
-      "id": "c85201f1",
-      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
-      "priority": 30,
-      "note": "2026-11-13 nytimes 1990년대 기사 검색 무소득. dvm360 euthanasia-gift-suffering-animals-owners-say 는 2003. discmaster rec.pets-pet-loss FAQ(1995) 503. Science News 1990년대 SNData 후보",
-      "createdAt": "2026-11-13T09:29:09.834Z",
-      "seq": 4842
-    },
-    {
-      "id": "e8e59ded",
-      "title": "leaving-hair-straighteners-on 보강: rechecking-door-and-stove 관계",
-      "priority": 30,
-      "note": "2026-11-13 고데기 켜 두고 나온 경험 때문에 이제 확인한다는 인과 원문 검색 무소득(영국 소방 캠페인 기사만 나옴. syfire ?p=4079, portsmouth 1257320 은 12명 중 1명 켜 두고 나간 적 있다는 공공·매체 후보). daangn 2023-02-16 후보",
-      "createdAt": "2026-11-13T09:29:28.150Z",
-      "seq": 4843
-    },
-    {
-      "id": "fa919044",
-      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
-      "priority": 30,
-      "note": "2026-11-13 thesandtrap 22319-lightning 은 staying-outdoors-in-thunderstorms 가 이미 써서 fear-of-thunderstorms 쪽에 쓰면 같은 URL 두 문서. 양쪽에 서로 다른 출처의 대립 근거 필요. weather.gov/eax/stormanxiety 공공 후보",
-      "createdAt": "2026-11-13T09:29:41.277Z",
-      "seq": 4844
-    },
-    {
-      "id": "d9a5f8c8",
-      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계",
-      "priority": 30,
-      "note": "2026-11-13 brunch violet00ij/36, @@cNqB/14 에 가족에게 숨긴다는 대목 없음. Hackensack Meridian 2021-12-06 choosing-to-keep-cancer-a-secret 은 진단 숨기기 일반(재발 두려움 인과 아님). 예비 SNS: straightdope 22355, 490518, HN 40936193",
-      "createdAt": "2026-11-13T09:30:07.728Z",
-      "seq": 4845
-    },
-    {
-      "id": "4d1b9b70",
-      "title": "anticipatory-grief 보강: 한국어 파편",
-      "priority": 30,
-      "note": "2026-11-13 '예기 슬픔' '예기슬픔' '예기비탄' 검색도 무소득(영어 자료만). 이전: 예기 애도 계열 HTML 본문 출처 없음, bravo.etoday 본문 HTML 에 없음, koreascience PDF",
-      "createdAt": "2026-11-13T09:30:22.462Z",
-      "seq": 4846
-    },
-    {
-      "id": "2d1f6a0c",
-      "title": "leaving-cooking-unattended 보강: 문학 파편",
-      "priority": 30,
-      "note": "2026-11-12 Little Women 514 줄 5018 이 맞으나 514 는 이미 4개 문서. 해당 없음 목록: Gutenberg 45 47 51 507 550 6688 1260 158 4276 2701 1342 768 2788 145 730 766 10007 5342 544 3796 498 394 2591 2081. 699 실존 인물 일화 제외. 한국 근대 소설(위키문헌) 후보 탐색 필요",
-      "createdAt": "2026-11-13T09:30:29.415Z",
-      "seq": 4847
-    },
-    {
-      "id": "8fcae164",
-      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
-      "priority": 30,
-      "note": "2026-11-13 korea.kr 소방방재청 2005~2007 직접 진화 부상 검색 무소득(kfpa PDF 통계뿐). 이전: taylorfrancis 9780203973714-13 403, firedoc.nist.gov Crossman 1974 서지만, USFA webarchive TLS 오류",
-      "createdAt": "2026-11-13T09:30:43.211Z",
-      "seq": 4848
-    },
-    {
-      "id": "d8d63381",
-      "title": "setting-clocks-fast 보강: 학술·공공 파편",
-      "priority": 30,
-      "note": "2026-11-13 시계를 빠르게 맞추는 행동의 학술 HTML 없음. peerj.com/articles/1210 (2015) 은 손목시계 착용과 약속 시간이라 다른 현상. greaterwrong bxkAgvZypEfW66xgr 무작위 시계 실험 글(SNS/매체) 후보",
-      "createdAt": "2026-11-13T09:30:57.278Z",
-      "seq": 4849
-    },
-    {
-      "id": "eea0b23f",
-      "title": "feeling-of-nothing-to-wear 관계: impulse-buying, trying-on-outfits-before-going-out",
-      "priority": 30,
-      "note": "2026-11-13 trying-on-outfits 쪽 파편에 입을 게 없다 표현 없음. '입을 옷이 없어서 여러 번 갈아입' 검색 무소득(brunch lkhyun0807/17 은 느낌만). FashionUnited 2026-03-10 triggers a new purchase 는 [^6] 이나 충동구매라 부르지 않음",
-      "createdAt": "2026-11-13T09:31:18.239Z",
-      "seq": 4850
-    },
-    {
-      "id": "ad75cac2",
-      "title": "feeling-overwhelmed-by-information 보강: 학술 파편, choice-overload 관계",
-      "priority": 30,
-      "note": "2026-11-13 Rough Type 2011, Pew 2016, HN 14588362 2017, 스웨덴 미디어청 2026 넷. 학술 없음. choice-overload 와 공통 상위 또는 인과 근거 필요",
-      "createdAt": "2026-11-13T09:33:04.704Z",
-      "seq": 4853
-    },
-    {
-      "id": "18ed719c",
-      "title": "speeding 관계: 졸음운전·운전 중 휴대전화 사용과 공통 상위 '위험 운전'",
-      "priority": 30,
-      "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr 20181205006001 조건 후보. faac 같은 글 시간 절약 과대 어림 후보",
-      "createdAt": "2026-11-13T09:34:51.511Z",
-      "seq": 4860
-    },
     {
       "id": "b937a4a6",
       "title": "writing-a-crushs-name 관계: unrequited-love, doodling, writing-on-fogged-glass",
@@ -1221,6 +1037,94 @@
       "seq": 5885
     },
     {
+      "id": "cbde31cb",
+      "title": "taking-long-showers 관계: avoiding-being-alone-with-thoughts",
+      "priority": 30,
+      "note": "2026-11-20 MEL 2018 [^3] 은 샤워를 방해 없는 혼자 시간으로 씀. Straight Dope 949905 page=2 의 25번 글은 긴장이 풀릴 때까지 물을 맞는다고 함(같은 스레드라 이 문서엔 더 못 씀)",
+      "createdAt": "2026-11-20T15:08:58.211Z",
+      "seq": 5919
+    },
+    {
+      "id": "a554a4f5",
+      "title": "washing-partial-loads 보강: 공공 관찰 파편, 냄새 원인",
+      "priority": 30,
+      "note": "2026-11-20 NISRA 2024/25(27% 매일), NI Water 2024-10-17(22% 매일)은 빈도만 말하고 덜 채움은 말하지 않아 못 씀. gov.uk DECC electricity survey 2 는 PDF. Samsung 아일랜드 조사 20% 덜 채움(nova.ie, 매체) 후보. YouGov 2022-11-07 25% 가득 찰 때까지 기다림",
+      "createdAt": "2026-11-20T15:12:18.331Z",
+      "seq": 5920
+    },
+    {
+      "id": "e2951199",
+      "title": "running-water-until-it-warms 관계: taking-long-showers",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope 345236 page=2 (2006-02-20) 물 틀어 두고 옷 벗기, 207231 (2003-10-13) 데워지는 동안 비누 챙기기 후보. 두 현상 공통 상위(샤워 물 흘려보내기) 후보",
+      "createdAt": "2026-11-20T15:23:40.065Z",
+      "seq": 5921
+    },
+    {
+      "id": "7f6769c3",
+      "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",
+      "priority": 30,
+      "note": "2026-11-12 fear-of-the-dark 상위는 그음. Cranford(394) 'especially since Miss Pole's house had been attacked' 는 습격 소문 원인 근거 후보이나 원인 쪽 문서 없음. 두 현상 공통 상위(밤에 집 안 위협 상상) 문서를 새로 써야 함",
+      "createdAt": "2026-11-20T15:23:53.623Z",
+      "seq": 5923
+    },
+    {
+      "id": "e4cee6ae",
+      "title": "interrupting-others 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-20 네이트판 316174302 [^4] 더함. 같은 글에 '좀 급한성격' 언급. 원인 쪽 문서(할 말 잊을까 조급함, 들뜸) 없음. not-cutting-into-conversation 은 반대 행동이나 같은 사람 안 대립 근거 없음",
+      "createdAt": "2026-11-20T15:24:58.204Z",
+      "seq": 5925
+    },
+    {
+      "id": "572e679a",
+      "title": "being-cancelled-on 보강: 문학 파편, urge-to-cancel-plans 관계",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope 7699 [^1] 1999 더함. 같은 스레드 2번 댓글 30번째 생일 직전 친한 친구 취소(같은 URL 이라 못 씀). Sense and Sensibility, Emma 는 4개 문서 사용. Northanger Abbey 산책 취소는 비 때문",
+      "createdAt": "2026-11-20T15:25:35.613Z",
+      "seq": 5926
+    },
+    {
+      "id": "436696cc",
+      "title": "concealing-wrongdoing 관계: 하위 후보와 원인 간선",
+      "priority": 30,
+      "note": "2026-11-20 hiding-mistakes-at-work, hiding-bad-report-cards 는 concealing-failure 아래. 잘못 숨기기의 특수한 경우인지 볼 것. Talwar & Lee 2011 [^2] 끝 문장 'a punitive environment not only fosters increased dishonesty' 는 체벌 환경 원인 근거(원인 쪽 문서 없음). Silas Marner(550) Eppie 가위 대목, Godfrey 고백 계산 대목 후보",
+      "createdAt": "2026-11-20T15:28:02.564Z",
+      "seq": 5927
+    },
+    {
+      "id": "7d84b8ed",
+      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope 검색 search.json?q=...%20before%3A2000-06-01 로 1999-2000 글 찾음. 6999/28(1999-08-17) 슬픔보다 안도, 12215/6(1999-12-21) 그리움, 20510/12 울음. 죄책감 직접 말한 대목은 아직 없음. 2026-11-13 nytimes 무소득, dvm360 2003, discmaster 503",
+      "createdAt": "2026-11-20T15:29:15.942Z",
+      "seq": 5930
+    },
+    {
+      "id": "9708569c",
+      "title": "feeling-overwhelmed-by-information 보강: 학술 파편, choice-overload 관계",
+      "priority": 30,
+      "note": "2026-11-13 Rough Type 2011, Pew 2016, HN 14588362 2017, 스웨덴 미디어청 2026 넷. 학술 없음. choice-overload 와 공통 상위 또는 인과 근거 필요",
+      "createdAt": "2026-11-20T15:34:31.452Z",
+      "seq": 5936
+    },
+    {
+      "id": "7d190816",
+      "title": "feeling-of-nothing-to-wear 관계: trying-on-outfits-before-going-out",
+      "priority": 30,
+      "note": "2026-11-20 impulse-buying 결과 간선은 그음(Ethos 2026 [^5]). 2026-11-13 trying-on-outfits 쪽 파편에 입을 게 없다 표현 없음. '입을 옷이 없어서 여러 번 갈아입' 검색 무소득(brunch lkhyun0807/17 은 느낌만)",
+      "createdAt": "2026-11-20T15:35:41.622Z",
+      "seq": 5937
+    },
+    {
+      "id": "b2f4e962",
+      "title": "speeding 관계: 졸음운전·운전 중 휴대전화 사용과 공통 상위 '위험 운전'",
+      "priority": 30,
+      "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr 20181205006001 조건 후보. faac 같은 글 시간 절약 과대 어림 후보",
+      "createdAt": "2026-11-20T15:35:46.210Z",
+      "seq": 5938
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1731,6 +1635,78 @@
       "note": "2026-11-20 레이디경향 2004-11-01 article/5388 본문에서 끌림 대목 못 찾음(표). 이전: 블라인드 글 연도 없음, 마리끌레르 2018-06-08 실명. 공공 없음",
       "createdAt": "2026-11-20T09:39:06.191Z",
       "seq": 5880
+    },
+    {
+      "id": "1ef9a100",
+      "title": "overfilling-the-kettle: [^1] Yahoo Finance UK 429 재확인",
+      "priority": 20,
+      "note": "2026-11-20 uk.finance.yahoo.com why-overfilling-kettle-costs-68m-060958202 가 네 번 429. 다음 날 이후 다시. 열리면 (미확인) 떼기. DESNZ 2026 조사는 leaving-lights-on 59% 도 담음(보강 후보)",
+      "createdAt": "2026-11-20T15:23:49.615Z",
+      "seq": 5922
+    },
+    {
+      "id": "95e1f168",
+      "title": "glancing-at-own-reflection-in-windows 관계: body-checking",
+      "priority": 20,
+      "note": "2026-11-13 body-checking [^3] Symmetry Counseling 2021 은 창문 같은 반사면도 몸 확인에 쓰인다고만 함. 2026-11-20 이 문서의 1934 소설, 2003 댓글은 몸 크기 걱정이 아닌 흘끗 보기라 상위 부적합. 몸 걱정 때문에 진열창을 본다는 원인 표지 파편을 찾을 것",
+      "createdAt": "2026-11-20T15:24:08.073Z",
+      "seq": 5924
+    },
+    {
+      "id": "68e42cfb",
+      "title": "not-cycling-for-fear-of-traffic 관계: bicycle-helmet-nonuse",
+      "priority": 20,
+      "note": "2026-11-13 클리앙 use/17293411 [^6] 더함. 2026-11-20 주간경향 202009211221261 은 한강 밖 자전거도로 없는 길이 위험하다는 말뿐이고 헬멧 언급 없음. 헬멧 의무화가 자전거 타기를 줄인다는 같은 사람 안 인과 원문을 찾을 것",
+      "createdAt": "2026-11-20T15:28:17.791Z",
+      "seq": 5928
+    },
+    {
+      "id": "cc268527",
+      "title": "public-speaking-anxiety 보강: 한국어 공공 파편",
+      "priority": 20,
+      "note": "2026-11-13 korea.kr 보도자료 검색 무소득. 2026-11-12 광운대 상담센터 URL 못 찾음, 국가정신건강정보포털 무소득. 2026-11-20 웹 검색도 학술 논문(accesson 한국심리학회지 2025, 성인 20%)뿐. culture.kookmin.ac.kr gulmal 자가진단 첨부 후보. 4문단이 4문장이라 새 문단 필요",
+      "createdAt": "2026-11-20T15:28:29.023Z",
+      "seq": 5929
+    },
+    {
+      "id": "cf1032ff",
+      "title": "leaving-hair-straighteners-on 보강: rechecking-door-and-stove 관계",
+      "priority": 20,
+      "note": "2026-11-13 인과 원문 검색 무소득. 2026-11-20 Personnel Today 2010 [^1] 같은 글 '67% have experienced a worrying moment', '17% have returned home to find the appliance was indeed left on'(같은 출처라 이 문서엔 못 씀, rechecking-door-and-stove 보강 후보). r1.community.samsung.com 7974911 불안해서 되돌아감(스크립트 렌더링)",
+      "createdAt": "2026-11-20T15:29:44.323Z",
+      "seq": 5931
+    },
+    {
+      "id": "cd20a9cc",
+      "title": "fear-of-thunderstorms 보강: staying-outdoors-in-thunderstorms 대립 근거",
+      "priority": 20,
+      "note": "2026-11-13 thesandtrap 22319-lightning 은 staying-outdoors 가 이미 씀. 2026-11-20 weather.gov/eax/stormanxiety 는 불안 대처 안내뿐이고 바깥 활동과 맞서는 대목 없음. 'Many people who are afraid of storms want all the information' 은 정보 찾기 관계 후보",
+      "createdAt": "2026-11-20T15:29:59.283Z",
+      "seq": 5932
+    },
+    {
+      "id": "0d3beafb",
+      "title": "fear-of-cancer-recurrence 보강: hiding-illness-from-family 관계",
+      "priority": 20,
+      "note": "2026-11-13 brunch violet00ij/36, @@cNqB/14 대목 없음. Hackensack 2021-12-06 진단 숨기기 일반. 2026-11-20 NZ Herald how-to-deal-with-life-after-cancer-and-the-fear-it-might-return 'hesitate to burden loved ones with their feelings' 는 두려움을 말하지 않음(병 숨기기 아님, 유료 기사지만 본문 열림). 예비 SNS: straightdope 22355, 490518, HN 40936193",
+      "createdAt": "2026-11-20T15:30:19.732Z",
+      "seq": 5933
+    },
+    {
+      "id": "bfc15139",
+      "title": "fighting-fire-oneself 보강: 2008 이전 공공",
+      "priority": 20,
+      "note": "2026-11-13 korea.kr 소방방재청 2005~2007 무소득(kfpa PDF 뿐). taylorfrancis 403, firedoc.nist.gov Crossman 1974 서지만, USFA webarchive TLS 오류. 2026-11-20 다른 큐 항목 처리로 미룸",
+      "createdAt": "2026-11-20T15:33:34.459Z",
+      "seq": 5934
+    },
+    {
+      "id": "0db3cfc3",
+      "title": "setting-clocks-fast 보강: 학술·공공 파편",
+      "priority": 20,
+      "note": "2026-11-13 학술 HTML 없음. peerj 1210 다른 현상. greaterwrong bxkAgvZypEfW66xgr 후보. 2026-11-20 lindenwood psych_journals vol1/iss18/12 (2016) 은 시간 지각과 시간 엄수라 시계 맞추기 아님. USPTO 9720381 특허 배경은 PDF. metafilter 157715 (SNS) 후보",
+      "createdAt": "2026-11-20T15:33:50.506Z",
+      "seq": 5935
     },
     {
       "id": "9c55db6a",
