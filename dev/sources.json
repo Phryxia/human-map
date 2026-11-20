@@ -32406,5 +32406,28 @@
     "last": "2026-11-20",
     "result": "VERIFIED",
     "lastVerified": "2026-11-20"
+  },
+  "https://uk.finance.yahoo.com/news/why-overfilling-kettle-costs-68m-060958202.html": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "UNREACHABLE"
+  },
+  "https://forums.moneysavingexpert.com/discussion/4686665/overfilling-kettles-wastes-68m-a-year/p2": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://agris.fao.org/search/en/records/65def77eb766d82b18ff8408": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-spring-2026/desnz-public-attitudes-tracker-energy-bills-and-tariffs-spring-2026-uk": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
   }
 }
