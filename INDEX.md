@@ -236,6 +236,7 @@
 - [돈 쓰기 아까워하기](docs/tightwad-spending.md) ([돈과 소비](groups/money.md))
 - [돌멩이 주워 오기](docs/pocketing-pebbles.md) ([시간과 하루 습관](groups/daily-time.md))
 - [돌아온 고향의 낯섦](docs/returning-home-feels-strange.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [동료의 냄새 거슬려 하기](docs/coworker-odor-annoyance.md) ([일터와 일자리](groups/work.md))
 - [동물에게 말 걸기](docs/talking-to-animals.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [동전을 저금통에 쌓아 두기](docs/keeping-loose-change-in-jars.md) ([돈과 소비](groups/money.md))
 - [되풀이 사과](docs/over-apologizing.md) ([남의 시선과 창피함](groups/others-gaze.md))
