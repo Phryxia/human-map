@@ -40,6 +40,7 @@
 - [접시 비우기 압박](../docs/clean-plate-pressure.md) 음식을 받은 사람이 배가 불러도 남기면 안 된다는 마음에 접시에 담긴 것을 다 먹는다.
 - [주말 몰아 자기](../docs/weekend-catch-up-sleep.md) 평일에 잠을 덜 잔 사람이 주말이나 연휴에 평소보다 오래 자서 모자란 잠을 메운다.
 - [지나치게 일찍 도착하기](../docs/arriving-too-early.md) 늦을까 마음 쓰는 사람이 정해진 시간보다 한참 앞서 나가거나 깨어 기다린다.
+- [집에서 새 구경하기](../docs/watching-birds-from-home.md) 사람이 자기 집 마당이나 집 안에서 찾아오는 새를 지켜본다.
 - [책 읽지 않기](../docs/not-reading-books.md) 성인이 한 해 동안 종이책, 전자책, 오디오북 가운데 어느 것도 읽지 않고 지낸다.
 - [첫날 밤 효과](../docs/first-night-effect.md) 낯선 곳에서 처음 자는 사람이 그 밤에 쉽게 잠들지 못하거나 잠을 자주 깬다.
 - [첫눈 반기기](../docs/welcoming-first-snow.md) 그해 처음 내리는 눈을 본 사람이 들떠 걸음을 멈추거나 밖으로 나가 눈을 보고 사진을 찍는다.

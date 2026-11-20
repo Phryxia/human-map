@@ -805,6 +805,7 @@
 - [집에 소화기 두지 않기](docs/not-keeping-fire-extinguishers.md) ([건강과 위험](groups/health-and-safety.md))
 - [집에 없는 척하기](docs/pretending-not-to-be-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [집에 현금 쌓아 두기](docs/keeping-cash-at-home.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [집에서 새 구경하기](docs/watching-birds-from-home.md) ([시간과 하루 습관](groups/daily-time.md))
 - [집이 부끄러워 손님 들이지 않기](docs/avoiding-inviting-people-home.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [징크스 지키기](docs/superstitious-rituals.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [짝사랑](docs/unrequited-love.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
