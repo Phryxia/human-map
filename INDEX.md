@@ -847,6 +847,7 @@
 - [청첩장 받는 부담](docs/wedding-invitation-burden.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [청하지 않은 조언](docs/unsolicited-advice.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [체면 지키기](docs/saving-face.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [초상집 거울 가리기](docs/covering-mirrors-after-death.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [초인종 소리에 겁먹기](docs/startled-by-doorbell.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [촛불 켜 둔 채 자리 비우기](docs/leaving-candles-unattended.md) ([건강과 위험](groups/health-and-safety.md))
 - [추억이 담긴 물건 간직하기](docs/keeping-keepsakes.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
