@@ -14,6 +14,7 @@
 - [가난을 숨기려는 또래 관계 회피](docs/poverty-peer-withdrawal.md) ([돈과 소비](groups/money.md))
 - [가난했던 시절 그리워하기](docs/missing-leaner-times.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [가면 증후군](docs/impostor-phenomenon.md) ([일터와 일자리](groups/work.md))
+- [가문 자랑](docs/boasting-about-lineage.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [가을 타기](docs/autumn-melancholy.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [가장 좋은 옷을 일요일에만 입기](docs/wearing-sunday-best.md) ([돈과 소비](groups/money.md))
 - [가족을 요양시설에 들인 죄책감](docs/nursing-home-placement-guilt.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
