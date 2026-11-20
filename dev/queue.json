@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T12:36:08.213Z",
-  "nextSeq": 5895,
+  "savedAt": "2026-11-20T12:38:28.495Z",
+  "nextSeq": 5897,
   "stops": 312,
   "items": [
     {
@@ -35,6 +35,14 @@
       "note": "2026-11-20 Chowhound 2025-08-19 같은 글 'wondering if the food is rising' 궁금함 이유. impatience-at-red-light 등 조급함 문서와 관계 후보. miso.kr 블로그 미확인",
       "createdAt": "2026-11-20T12:36:08.133Z",
       "seq": 5894
+    },
+    {
+      "id": "5643b77d",
+      "title": "running-water-until-it-warms 보강: 학술, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-20 Lutz LBNL 2011-09 Water and Energy Wasted During Residential Shower Events 초록은 PDF 뿐. NRDC 2014 같은 글 '20 seconds, 30 seconds' 대기 시간. taking-long-showers 와 관계 후보",
+      "createdAt": "2026-11-20T12:38:28.432Z",
+      "seq": 5896
     },
     {
       "id": "7f208ad2",

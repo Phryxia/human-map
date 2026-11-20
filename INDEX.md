@@ -248,6 +248,7 @@
 - [들어온 길로 대피하기](docs/exiting-the-way-you-came.md) ([건강과 위험](groups/health-and-safety.md))
 - [들킬까 두려워하기](docs/fear-of-being-found-out.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [등교 거부](docs/school-refusal.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [따뜻한 물 나올 때까지 물 틀어 두기](docs/running-water-until-it-warms.md) ([시간과 하루 습관](groups/daily-time.md))
 - [딴생각](docs/mind-wandering.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [딸꾹질 멈추려고 민간요법 써 보기](docs/trying-hiccup-remedies.md) ([건강과 위험](groups/health-and-safety.md))
 - [떠난 사람과 다니던 장소 피하기](docs/avoiding-places-of-the-lost.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
