@@ -20,6 +20,8 @@
 
 2021년 3월 NordVPN 조사[^6]에서 미국인 응답자의 36.1% 가 공용 와이파이에 연결한 채 온라인으로 물건을 산 적이 있다고 답했다.
 
+2021년 7월 영국 Neighbourhood Watch Network 글[^7]이 전한 조사에서 공공장소 와이파이에 접속하는 사람 가운데 4분의 1 가까이가 온라인 쇼핑을 할 때 접속했고 5분의 1은 온라인 뱅킹에 들어갔다.
+
 # 관계
 
 ## 상위
@@ -50,3 +52,4 @@
 [^4]: [학술] "they still use these networks to access social networks, email, and other websites that handle sensitive information" (그들은 여전히 이 망으로 소셜 네트워크, 이메일, 민감한 정보를 다루는 다른 웹사이트에 접속한다) — David Maimon, Michael Becker, Sushant Patil, Jonathan Katz, "Self-Protective Behaviors Over Public WiFi Networks", LASER Workshop 2017, USENIX, 2017-10, https://www.usenix.org/conference/laser2017/presentation/maimon, 2026-11-02 접속
 [^5]: [SNS] "I do banking and I read my email on public, untrusted networks like airport and hotel wifi, Starbucks and the internet. I see not problem with that." (나는 공항과 호텔 와이파이, 스타벅스, 인터넷 같은 믿을 수 없는 공용 망에서 은행 업무를 보고 이메일을 읽는다. 나는 거기서 문제를 보지 못한다.) — Hacker News 댓글, 2019-01-21, https://news.ycombinator.com/item?id=18962989, 2026-11-02 접속
 [^6]: [매체] "Nearly four in 10 Americans (36.1%) said they have purchased something online while connected to public Wi-Fi" (미국인 열 명 가운데 네 명 가까이(36.1%)가 공용 와이파이에 연결한 채 온라인으로 물건을 산 적이 있다고 답했다) — NordVPN, "NordVPN Research: Americans Online Banking Usage Reaches 85%, But Trust Is Lagging Behind", 2021-03-02, https://nordvpn.com/nordvpn-research-americans-online-banking/, 2026-11-03 접속
+[^7]: [매체] "Of those who connect in these locations, nearly a quarter have done so when online shopping, with one in five connecting to access their online banking." (이런 장소에서 접속하는 사람 가운데 4분의 1 가까이가 온라인 쇼핑을 할 때 접속했고 5분의 1은 온라인 뱅킹에 들어가려고 접속했다.) — Neighbourhood Watch Network, "New Cyberhood Watch Research Addresses Public Wi-Fi And Fake Hotspot Risks This Summer", 2021-07-19, https://ourwatch.org.uk/news/new-cyberhood-watch-research-addresses-public-wi-fi-and-fake-hotspot-risks-summer, 2026-11-20 접속
