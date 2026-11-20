@@ -37,7 +37,7 @@ const USER_AGENTS = ['Mozilla/5.0 (compatible; human-map-source-check)', 'Mozill
 
 // 200 으로 오지만 본문 대신 봇 확인을 띄우는 페이지. PMC 는 간헐적으로 reCAPTCHA 확인 페이지를, Springer/BMC 는 Client Challenge 페이지를 준다.
 // www.gov.scot 은 AWS WAF 의 JavaScript 확인 페이지를 202 로 준다(2026-11-18).
-export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i, /<title>\s*Client Challenge\s*<\/title>/i, /token\.awswaf\.com\/[^"']*\/challenge\.js/i]
+export const CHALLENGE_PATTERNS = [/recaptcha\/challengepage/i, /<title>Just a moment\.\.\.<\/title>/i, /<title>\s*One moment, please\.\.\.\s*<\/title>/i, /<title>\s*Client Challenge\s*<\/title>/i, /token\.awswaf\.com\/[^"']*\/challenge\.js/i]
 
 // 200 으로 오지만 본문 대신 사이트 점검 안내를 띄우는 페이지. Statistics Canada 는 VERIFIED 였던 글 자리에 점검 페이지를 줬다(2026-10-21).
 // OneFamily 는 "OneFamily - Maintenance" 제목의 점검 페이지를 줬다(2026-10-21). 제목 중간의 maintenance 는 글 제목일 수 있어 끝에 올 때만 본다.

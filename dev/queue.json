@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T09:41:16.990Z",
+  "savedAt": "2026-11-20T12:09:02.677Z",
   "nextSeq": 5883,
   "stops": 312,
   "items": [
-    {
-      "id": "011cc162",
-      "title": "dev: source-check 가 gutenberg.net.au 의 VERIFIED 파편을 한 번 NOT_FOUND 로 판정",
-      "priority": 60,
-      "note": "2026-11-20 picking-up-others-accent [^2] https://gutenberg.net.au/ebooks05/0500961h.html (ISO-8859 HTML, 492KB) 첫 실행 NOT_FOUND·소멸 안내, 바로 다시 돌리니 VERIFIED. 재시도 뒤에도 원문이 없던 원인(잘린 응답 또는 charset) 재현 필요",
-      "createdAt": "2026-11-20T09:41:10.694Z",
-      "seq": 5882
-    },
     {
       "id": "7f208ad2",
       "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",

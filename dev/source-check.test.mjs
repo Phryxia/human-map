@@ -380,3 +380,11 @@ test('hostBlocked: 리다이렉트된 호스트의 / 도 막혔으면 true', asy
   assert.equal(await hostBlocked(url, 'HTTP 403', {fetchImpl: mk({}), finalUrl}), false)
   assert.equal(await hostBlocked(url, 'HTTP 403', {fetchImpl: mk({'www150.statcan.gc.ca/': 403})}), false)
 })
+
+// gutenberg.net.au 는 2026-11-20 에 VERIFIED 였던 ebooks05/0500961h.html 을 요청마다 번갈아 492KB 본문과
+// 5초 뒤 새로고침하는 "One moment, please..." 확인 페이지(12KB)로 줬다. 원문이 없는 글이 아니라 봇 확인 페이지다.
+test('fetchText: "One moment, please..." 새로고침 페이지는 봇 확인 페이지다', async () => {
+  const body = '<!DOCTYPE html><html lang="en"><head><meta charset="utf8"><script>setTimeout(function(){window.location.reload();}, 5000);</script><title>One moment, please...</title></head><body>Please wait while your request is being verified...</body></html>'
+  const f = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body})
+  assert.deepEqual(await fetchText('https://gutenberg.net.au/ebooks05/0500961h.html', {quote: 'x', fetchImpl: f, fallbackImpl: f, challengeDelay: 0}), {ok: false, reason: '봇 확인 페이지'})
+})
