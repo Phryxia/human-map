@@ -14,7 +14,7 @@
 
 2012년 기사[^3]가 전한 조사에서 여성들은 평생 옷에 수만 달러를 쓰고도 대부분 입을 옷이 없다고 말했다. 2015년 노컷뉴스 기사[^4]는 옷장 상태를 점검하는 항목에 옷을 때마다 사는데도 늘 입을 옷이 없다는 문장을 넣었다.
 
-2026년 Vestiaire Collective 조사를 전한 기사[^5]에서 응답자의 84% 가 입을 옷이 없다는 느낌을 겪었고 Z세대 참가자 가운데서는 그 비율이 94% 였다. 같은 조사를 전한 다른 기사[^6]에서 응답자의 90% 는 옷장이 이미 차 있어도 이 느낌 때문에 옷을 새로 샀다. 응답자들은 자기 옷장의 양을 40% 적게 어림했다.[^6]
+2026년 Vestiaire Collective 조사를 전한 기사[^5]는 입을 옷이 없다는 느낌이 잦아질수록 옷장에 대한 애착이 줄고 충동구매가 는다고 썼다. 같은 조사를 전한 다른 기사[^6]에서 응답자의 90% 는 옷장이 이미 차 있어도 이 느낌 때문에 옷을 새로 샀다. 응답자들은 자기 옷장의 양을 40% 적게 어림했다.[^6]
 
 # 관계
 
@@ -32,7 +32,7 @@
 
 ## 결과
 
-없음.
+- [충동구매](impulse-buying.md)[^5]
 
 ## 대립
 
@@ -44,5 +44,5 @@
 [^2]: [SNS] "My closet is overflowing with clothes, and yet I still often feel like I have absolutely nothing to wear" (내 옷장은 옷으로 넘치는데도 나는 여전히 입을 것이 전혀 없다고 자주 느낀다) — Straight Dope Message Board 댓글, 2008-09-29, https://boards.straightdope.com/t/confess-your-sins-or-shortcomings/465708, 2026-11-13 접속
 [^3]: [매체] "A new study is revealing women spend tens of thousands of dollars on clothing in a lifetime, and most of them still claim to have nothing to wear." (새 연구는 여성들이 평생 옷에 수만 달러를 쓰고도 대부분 여전히 입을 옷이 없다고 말한다는 것을 보여 준다.) — David Jeannot, "Women like to shop, but most still claim they have 'nothing to wear'", KSL.com, 2012-07-10, https://www.ksl.com/article/21202335, 2026-11-13 접속
 [^4]: [매체] "때마다 옷을 사는데도 늘 입을 옷이 없다." — 길소연, "남자들도 하기 쉬운 '옷장 정리'법?", CBS노컷뉴스, 2015-10-17, https://www.nocutnews.co.kr/news/4489644, 2026-11-13 접속
-[^5]: [매체] "Eighty-four percent of respondents said they have experienced the "got nothing to wear" feeling. Among Gen Z participants, that figure reached 94 percent." (응답자의 84%가 "입을 게 없다" 는 느낌을 겪었다고 답했다. Z세대 참가자에서는 그 수치가 94%에 이르렀다.) — "Nothing In Your Closet to Wear? Vestiaire Collective Study Says Look Again", Ethos, 2026-03-02, https://the-ethos.co/nothing-to-wear-vestiaire-collective-study-says-look-again/, 2026-11-13 접속
+[^5]: [매체] "As “nothing to wear” episodes increase, emotional attachment to a wardrobe declines, and impulse purchasing rises." (“입을 게 없다” 는 순간이 잦아질수록 옷장에 대한 정서적 애착은 줄고 충동구매는 는다.) — "Nothing In Your Closet to Wear? Vestiaire Collective Study Says Look Again", Ethos, 2026-03-02, https://the-ethos.co/nothing-to-wear-vestiaire-collective-study-says-look-again/, 2026-11-20 접속
 [^6]: [매체] "for 90 percent of respondents, the feeling of 'having nothing to wear' triggers a new purchase, even when their wardrobes are already full. Consumers underestimate their wardrobe volume by 40 percent." (응답자의 90%에게 '입을 게 없다' 는 느낌은 옷장이 이미 차 있을 때에도 새 구매로 이어진다. 소비자들은 자기 옷장의 양을 40% 적게 어림한다.) — Julia Garel, "Understanding ‘motional disconnect’ to build customer loyalty", FashionUnited, 2026-03-10, https://fashionunited.uk/news/retail/understanding-motional-disconnect-to-build-customer-loyalty/2026031086752, 2026-11-13 접속

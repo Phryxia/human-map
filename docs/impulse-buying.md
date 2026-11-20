@@ -20,6 +20,8 @@
 
 2025년 논문[^6]의 저자들은 충동구매가 흔히 구매 후 후회로 이어진다고 쓴다.
 
+2026년 Vestiaire Collective 조사를 전한 기사[^7]는 입을 옷이 없다는 느낌이 잦아질수록 충동구매가 는다고 썼다.
+
 # 관계
 
 ## 상위
@@ -32,6 +34,7 @@
 
 ## 원인
 
+- [입을 옷이 없다고 느끼기](feeling-of-nothing-to-wear.md)[^7]
 - [자기 보상 소비](self-reward-purchase.md)[^3]
 
 ## 결과
@@ -50,3 +53,4 @@
 [^4]: [매체] "10대 응답자 중 즉흥적 구매 경험이 있다고 응답한 비율은 57%에 불과했지만 20대는 84%, 30대는 89%, 40대는 90%, 50대는 91%에 달했다." — 이학선, 「온라인 쇼핑객 87% "충동구매 경험있다"」, 비즈워치, 2016-12-23, https://news.bizwatch.co.kr/article/consumer/2016/12/23/0026, 2026-10-27 접속
 [^5]: [SNS] "I've got a Kobo Elipsa, it was an impulse buy at a book store and I regret it because for just a little bit more you can get a Remarkable 2." (나는 Kobo Elipsa 를 가지고 있는데 서점에서 충동적으로 산 것이고 후회한다. 조금만 더 내면 Remarkable 2 를 살 수 있기 때문이다.) — Hacker News 댓글, 2022-08-11, https://news.ycombinator.com/item?id=32422933, 2026-10-28 접속
 [^6]: [학술] "Impulsive purchases often lead to post-purchase regret, lowering consumer satisfaction and raising business risks." (충동구매는 흔히 구매 후 후회로 이어져 소비자 만족을 낮추고 사업 위험을 높인다.) — Chengmin Wang, Baohua Chen, Shoufeng Hu, Jiahui Li, 「Streamer interaction and consumer impulsive buying in live-stream commerce: the mediating roles of trust and emotional arousal with anticipated regret as boundary condition」, Frontiers in Communication, 2025-08-05, https://www.frontiersin.org/articles/10.3389/fcomm.2025.1547639/full, 2026-10-31 접속
+[^7]: [매체] "As “nothing to wear” episodes increase, emotional attachment to a wardrobe declines, and impulse purchasing rises." (“입을 게 없다” 는 순간이 잦아질수록 옷장에 대한 정서적 애착은 줄고 충동구매는 는다.) — "Nothing In Your Closet to Wear? Vestiaire Collective Study Says Look Again", Ethos, 2026-03-02, https://the-ethos.co/nothing-to-wear-vestiaire-collective-study-says-look-again/, 2026-11-20 접속
