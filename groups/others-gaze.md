@@ -38,6 +38,7 @@
 - [사회적 상황 앞의 예기불안](../docs/anticipatory-social-anxiety.md) 다가올 발표나 회의 같은 사회적 상황을 앞둔 사람이 그 장면을 미리 떠올리며 불안해한다.
 - [새 머리 모양 후회](../docs/regretting-a-new-haircut.md) 머리를 자르거나 모양을 바꾼 사람이 그 결과를 마음에 들어 하지 않고 후회한다.
 - [셀프 계산대 고르기](../docs/choosing-self-checkout.md) 가게에서 계산하는 사람이 직원이 있는 계산대 대신 손님이 직접 찍는 셀프 계산대를 고른다.
+- [소셜 미디어 속 남과 자기 견주기](../docs/comparing-oneself-on-social-media.md) 소셜 미디어에서 남의 게시물을 보는 사람이 자기 삶이나 모습을 그들과 견준다.
 - [수줍은 방광](../docs/shy-bladder.md) 공중화장실에서 다른 사람이 가까이 있는 사람이 소변을 시작하지 못하거나 화장실 쓰기를 두려워한다.
 - [시험 부정행위](../docs/exam-cheating.md) 학생이 시험이나 과제에서 허락되지 않은 방법으로 점수를 얻으려 한다.
 - [신조어 몰라 뒤처졌다고 느끼기](../docs/feeling-behind-on-slang.md) 남들이 쓰는 신조어나 밈을 모르는 사람이 유행에 뒤처졌다고 느낀다.

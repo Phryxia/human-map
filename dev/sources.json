@@ -32047,5 +32047,11 @@
     "last": "2026-11-20",
     "result": "VERIFIED",
     "lastVerified": "2026-11-20"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC9295248&resultType=core&format=json": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
   }
 }
