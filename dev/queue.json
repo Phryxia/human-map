@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T12:33:14.615Z",
+  "savedAt": "2026-11-20T12:34:09.810Z",
   "nextSeq": 5893,
   "stops": 312,
   "items": [
@@ -19,14 +19,6 @@
       "note": "2026-11-20 uk.finance.yahoo.com why-overfilling-kettle-costs-68m-060958202 가 두 번 429. 열리면 (미확인) 떼기. DESNZ 2026 조사는 leaving-lights-on 59% 도 담음(보강 후보)",
       "createdAt": "2026-11-20T12:24:45.980Z",
       "seq": 5889
-    },
-    {
-      "id": "395312f3",
-      "title": "leaving-lights-on 보강: DESNZ Public Attitudes Tracker 2026",
-      "priority": 50,
-      "note": "2026-11-20 gov.uk desnz-public-attitudes-tracker-spring-2026 energy bills: 59% 가 쓰지 않는 방 불을 켜 둠. overfilling-the-kettle [^4] 가 같은 URL 사용",
-      "createdAt": "2026-11-20T12:24:46.055Z",
-      "seq": 5890
     },
     {
       "id": "cc87d522",

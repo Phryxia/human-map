@@ -22,6 +22,8 @@
 
 2019년 Hacker News 댓글[^7]의 글쓴이는 나갈 때 불 끄는 것을 자주 잊어서 원격으로 불을 끌 수 있는 것이 좋다고 썼다.
 
+2026년 영국 에너지안보·넷제로부 조사[^8]에서 응답자의 59%는 쓰지 않는 방의 불을 켜 두었다고 답했다.
+
 # 관계
 
 ## 상위
@@ -53,3 +55,4 @@
 [^5]: [매체] "Four in ten consumers (41%) say they do not see the point of doing so if they will use them again, one in ten (11%) can't be bothered to switch devices off, and 13% simply forget." (소비자 열에 넷(41%)은 다시 쓸 거라면 끌 까닭이 없다고 말하고, 열에 하나(11%)는 기기를 끄기가 귀찮다고 하며, 13%는 그냥 잊는다.) — 「Households Waste £227 Million a Year Leaving Appliances on Standby」, Community.Caithness.Org, 2014-08-21, https://community.caithness.org/article/4681, 2026-10-25 접속
 [^6]: [공공] "A new survey has today revealed the top reasons why we leave the lights on in empty rooms - with around one in eight (12 per cent) saying they leave it on as nighlight while they sleep." (오늘 나온 새 조사는 빈 방에 불을 켜 두는 주된 이유를 보여 주었다. 약 8명 가운데 1명(12%)은 잘 때 수면등 삼아 켜 둔다고 답했다.) — Smart Energy GB, 「New survey reveals 'watt' the top reasons are for leaving the lights on」, 2018-09-20, https://www.smartenergygb.org/en/resources/press-centre/press-releases-folder/lightbulb-moment, 2026-10-25 접속
 [^7]: [SNS] "I often forget to turn off my light before I leave, and I like that I can turn it off remotely or say "turn off the lights" while I'm getting dressed." (나는 나가기 전에 불 끄는 것을 자주 잊는다. 그래서 원격으로 끄거나 옷을 입으면서 "불 꺼" 라고 말할 수 있는 것이 좋다.) — Hacker News, 댓글, 2019-03-01, https://news.ycombinator.com/item?id=19284278, 2026-10-25 접속
+[^8]: [공공] "In Spring 2026, 68% said that they at least occasionally boiled a kettle with more water than needed and 59% said that they left lights on in rooms not being used." (2026년 봄 응답자의 68%는 적어도 가끔 필요한 양보다 많은 물로 주전자를 끓였다고 답했고 59%는 쓰지 않는 방의 불을 켜 두었다고 답했다.) — Department for Energy Security and Net Zero, "DESNZ Public Attitudes Tracker: Energy bills and tariffs, Spring 2026, UK", 2026-07-02, https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-spring-2026/desnz-public-attitudes-tracker-energy-bills-and-tariffs-spring-2026-uk, 2026-11-20 접속
