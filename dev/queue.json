@@ -1,89 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T00:33:41.795Z",
-  "nextSeq": 5801,
-  "stops": 309,
+  "savedAt": "2026-11-20T03:38:28.556Z",
+  "nextSeq": 5813,
+  "stops": 310,
   "items": [
-    {
-      "id": "672a80d8",
-      "title": "pressing-flowers-in-books 보강: 학술 파편, 다른 시기 문학",
-      "priority": 50,
-      "note": "2026-11-20 학술 후보 Scandinavian Journal of History 2016 doi 10.1080/03468755.2016.1179825 18세기 스웨덴 편지 속 압화, Emily Dickinson Journal 2025 Pressed Flowers as Lyric Subject 모두 봇 확인. 문학 후보 Tolstoy Youth 37장(wikisource), Alcott Under the Lilacs",
-      "createdAt": "2026-11-20T00:15:05.961Z",
-      "seq": 5792
-    },
-    {
-      "id": "6ed6dcb1",
-      "title": "buying-on-influencer-recommendation 보강: 학술, SNS 파편, 2010년대 이전 출처",
-      "priority": 50,
-      "note": "2026-11-20 공공 2024, 매체 2026 뿐. 후보 PYMNTS 2025 influencers-may-not-be-so-influential, 같은 K-공감 글의 자존감 28.2% 는 소셜 미디어 비교 문서 후보",
-      "createdAt": "2026-11-20T00:25:55.687Z",
-      "seq": 5797
-    },
-    {
-      "id": "d7504b21",
-      "title": "comparing-oneself-on-social-media 와 buying-on-influencer-recommendation, fear-of-missing-out 관계",
-      "priority": 50,
-      "note": "2026-11-20 두 문서가 같은 K-공감 2024-04-04 인플루언서 글에서 나옴. 인과 문장 있는 출처 필요",
-      "createdAt": "2026-11-20T00:33:33.444Z",
-      "seq": 5799
-    },
-    {
-      "id": "ef0ae999",
-      "title": "coworker-odor-annoyance 보강: 말 못 하고 참는 면, SNS·학술 파편",
-      "priority": 50,
-      "note": "2026-11-20 korea.kr 2010 같은 글에 혼자 참는다 34.3%. nj1015 2018 OfficeTeam 46% suffer in silence 는 실명 문장",
-      "createdAt": "2026-11-20T00:33:33.504Z",
-      "seq": 5800
-    },
-    {
-      "id": "2904cfad",
-      "title": "saying-haircut-is-fine 보강: 학술, SNS 파편",
-      "priority": 30,
-      "note": "2026-11-11 매체 2, SNS 1. 후보: HJi 2023-09-08 67% 원치 않은 머리로 나섬, Lee & Kim 2020 s40691-019-0191-3 은 머리 모양 불만이 사적 불평으로 감. silentbutdeadly substack 은 계정 이미 사용",
-      "createdAt": "2026-11-11T03:19:11.223Z",
-      "seq": 4549
-    },
-    {
-      "id": "88c4f466",
-      "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편",
-      "priority": 30,
-      "note": "2026-11-11 약장을 다룬 문학, 학술 못 찾음. Jane Eyre 1260 찬장과 서랍 뒤지기(손님), Northanger Abbey 121 객실 서랍. 상위 후보로 남의 물건 엿보기 신규 현상: Litman & Pezzo 2007 digital.stpetersburg.usf.edu fac_publications/1226 Snooping 요인",
-      "createdAt": "2026-11-11T03:21:58.110Z",
-      "seq": 4550
-    },
-    {
-      "id": "23ebd974",
-      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공",
-      "priority": 30,
-      "note": "2026-11-11 YouGov 2012 매체 더함. 総務省 令和5年度 조사는 PDF 뿐. 후보: ourwatch.org.uk 2026, NAB 2024 PDF",
-      "createdAt": "2026-11-11T03:23:58.645Z",
-      "seq": 4553
-    },
-    {
-      "id": "12caf0b6",
-      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
-      "priority": 30,
-      "note": "2026-11-07 PMC7304585 와 PMC12840061 은 건강 문해력이라 글 모르는 것과 다르고 인과 표현 아님. 2013년 경북대 문해 수기 원문 여전히 필요",
-      "createdAt": "2026-11-11T03:24:17.377Z",
-      "seq": 4554
-    },
-    {
-      "id": "c8b3395f",
-      "title": "skipping-care-due-to-cost 와 money-worry 원인 간선",
-      "priority": 30,
-      "note": "2026-11-11 West Health-Gallup 2025, KFF 조사는 걱정과 진료 미루기 비율을 따로 적을 뿐 인과 문장 없음. 이전 후보 Straight Dope 993439/20, lemmy.ca/comment/866536",
-      "createdAt": "2026-11-11T03:26:18.340Z",
-      "seq": 4556
-    },
-    {
-      "id": "8d7c872e",
-      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
-      "priority": 30,
-      "note": "2026-11-08 신세감과 집안일이 한 대목에 든 출처 못 찾음. 근접: Catapult 에세이 'I reciprocate by doing dishes'(발행일 미상). 남은 길: 위키문헌 더부살이 단편, Gutenberg The Wide, Wide World",
-      "createdAt": "2026-11-11T03:26:23.635Z",
-      "seq": 4557
-    },
     {
       "id": "73ba5a17",
       "title": "guilt-about-resigning 보강: 공공 파편",
@@ -147,14 +67,6 @@
       "note": "2026-11-12 Straight Dope 136922/10 (2002-11-15) 더함. 학술 후보 못 찾음",
       "createdAt": "2026-11-12T03:31:38.633Z",
       "seq": 4639
-    },
-    {
-      "id": "edd38f49",
-      "title": "forgetting-to-take-medication 보강: 2003년 이전 파편",
-      "priority": 30,
-      "note": "2026-11-12 클리앙 cm_adhd 18738528 (2024-06-03) 더함. 이전 후보: Einstein 외 1998 Psychological Science 초록(PubMed 에 없음)",
-      "createdAt": "2026-11-12T03:32:29.025Z",
-      "seq": 4640
     },
     {
       "id": "79fdff81",
@@ -1309,6 +1221,38 @@
       "seq": 5781
     },
     {
+      "id": "2ae59d46",
+      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공",
+      "priority": 30,
+      "note": "2026-11-20 ourwatch 2021 은 자선단체라 매체로 더함. actionfraud.police.uk 는 Cloudflare 403. 한국 정책브리핑, 과기정통부는 구축 현황뿐",
+      "createdAt": "2026-11-20T03:35:58.005Z",
+      "seq": 5809
+    },
+    {
+      "id": "ec8bcc73",
+      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
+      "priority": 30,
+      "note": "2026-11-07 PMC7304585 와 PMC12840061 은 건강 문해력이라 글 모르는 것과 다르고 인과 표현 아님. 2013년 경북대 문해 수기 원문 여전히 필요. 2026-11-20 상위 후보 문서 없음: hiding-hearing-loss, concealing-failure 도 상위 없음. 부끄러운 사실 숨기기 같은 상위 신규 현상 후보",
+      "createdAt": "2026-11-20T03:36:14.006Z",
+      "seq": 5810
+    },
+    {
+      "id": "1148c48d",
+      "title": "skipping-care-due-to-cost 와 money-worry 원인 간선",
+      "priority": 30,
+      "note": "2026-11-11 West Health-Gallup 2025, KFF 조사는 걱정과 진료 미루기 비율을 따로 적을 뿐 인과 문장 없음. 이전 후보 Straight Dope 993439/20, lemmy.ca/comment/866536",
+      "createdAt": "2026-11-20T03:36:46.495Z",
+      "seq": 5811
+    },
+    {
+      "id": "42e24072",
+      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
+      "priority": 30,
+      "note": "2026-11-08 신세감과 집안일이 한 대목에 든 출처 못 찾음. 근접: Catapult 에세이 'I reciprocate by doing dishes'(발행일 미상). 남은 길: 위키문헌 더부살이 단편, Gutenberg The Wide, Wide World",
+      "createdAt": "2026-11-20T03:37:00.302Z",
+      "seq": 5812
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1731,6 +1675,14 @@
       "note": "2026-11-11 FNE, 되짚기 원인 간선은 박소원 2019 로 그음. 예기불안 쪽 인과 근거 없음. 후보: UiTM IJMAL 7480, Psychology Today stage-fright. 2026-11-19 다시 봄: 발표 불안 요약이 '앞두고' 를 포함해 겹침, 상하위 근거 원문 필요",
       "createdAt": "2026-11-19T21:27:34.724Z",
       "seq": 5782
+    },
+    {
+      "id": "90f4f03c",
+      "title": "peeking-into-hosts-medicine-cabinet 보강: 문학, 학술 파편",
+      "priority": 20,
+      "note": "2026-11-20 다시 못 찾음. Gutenberg 17종 grep 에 손님이 약장 여는 장면 없음. MDPI Pharmacy 6(3):74 가정 약장 연구는 MDPI 403. 이전: Litman & Pezzo 2007 digital.stpetersburg.usf.edu fac_publications/1226 Snooping 요인",
+      "createdAt": "2026-11-20T03:34:02.754Z",
+      "seq": 5808
     },
     {
       "id": "9c55db6a",
