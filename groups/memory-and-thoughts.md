@@ -43,6 +43,7 @@
 - [추억이 담긴 물건 간직하기](../docs/keeping-keepsakes.md) 사람이 쓸모와 상관없이 추억이 담긴 물건을 버리지 않고 간직한다.
   - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
+  - [꽃 눌러 말려 책에 끼워 두기](../docs/pressing-flowers-in-books.md)
   - [헤어진 연인의 물건 간직하기](../docs/keeping-an-exs-belongings.md)
 - [헌책 속 앞 주인의 흔적 반기기](../docs/traces-of-previous-owners-in-used-books.md) 헌책을 손에 넣은 사람이 책에 남은 앞 주인의 메모나 헌사, 끼워 둔 물건을 보며 그 사람을 떠올린다.
 - [호기심](../docs/curiosity.md) 사람이 처음 보는 것이나 모르는 것 앞에서 그것을 알고 싶어 하고 알아보려고 다가간다.
