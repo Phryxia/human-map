@@ -25,6 +25,7 @@
 - [벌초 대행 맡기기](../docs/outsourcing-grave-mowing.md) 조상의 묘를 둔 사람이 벌초를 직접 하지 않고 조합이나 업체에 돈을 주고 맡긴다.
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
+- [상복 입기](../docs/wearing-mourning-clothes.md) 사람이 가까운 이가 죽으면 한동안 검은 옷이나 상복을 입어 애도를 드러낸다.
 - [손님이 떠난 뒤의 허전함](../docs/after-visit-emptiness.md) 함께 지내던 가족이나 손님이 떠난 뒤 남은 사람이 집이 텅 비고 조용해진 것 같아 허전해한다.
 - [수의 미리 장만하기](../docs/preparing-burial-shroud-in-advance.md) 어떤 사람은 자기나 부모가 장례 때 입을 수의를 살아 있을 때 미리 장만해 둔다.
 - [신을 원망한 뒤 종교 행위 끊기](../docs/quitting-religious-practice-after-blaming-god.md) 불행을 겪고 신을 원망하게 된 사람이 기도, 미사, 예배 같은 종교 행위를 그만둔다.

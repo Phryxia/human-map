@@ -432,6 +432,7 @@
 - [산재 신고 꺼리기](docs/not-reporting-workplace-injury.md) ([일터와 일자리](groups/work.md))
 - [살던 집에서 늙기](docs/aging-in-place.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [상대가 먼저 사과하기를 기다리기](docs/waiting-for-the-other-to-apologize-first.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [상복 입기](docs/wearing-mourning-clothes.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [상습 지각](docs/chronic-lateness.md) ([시간과 하루 습관](groups/daily-time.md))
 - [상품권과 포인트 쓰지 않고 소멸시키기](docs/letting-gift-cards-and-points-expire.md) ([돈과 소비](groups/money.md))
 - [새 머리 모양 후회](docs/regretting-a-new-haircut.md) ([남의 시선과 창피함](groups/others-gaze.md))
