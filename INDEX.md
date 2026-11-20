@@ -462,6 +462,7 @@
 - [성묘](docs/visiting-graves.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [성인 자녀의 부모 집 거주](docs/adult-children-living-with-parents.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [세금 신고 마감 직전까지 미루기](docs/last-minute-tax-filing.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [세탁기 덜 채워 돌리기](docs/washing-partial-loads.md) ([시간과 하루 습관](groups/daily-time.md))
 - [셀프 계산대 고르기](docs/choosing-self-checkout.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [셀프 계산대 피하기](docs/avoiding-self-checkout.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [소개팅 주선](docs/matchmaking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
