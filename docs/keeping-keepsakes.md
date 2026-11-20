@@ -27,6 +27,7 @@
 - [꽃 눌러 말려 책에 끼워 두기](pressing-flowers-in-books.md)
 - [고인의 물건 간직하기](keeping-belongings-of-the-dead.md)
 - [헤어진 연인의 물건 간직하기](keeping-an-exs-belongings.md)
+- [머리카락 한 타래 간직하기](keeping-locks-of-hair.md)
 
 ## 원인
 

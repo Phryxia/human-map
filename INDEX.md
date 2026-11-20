@@ -272,6 +272,7 @@
 - [머리가 마음에 들지 않아도 미용사에게 괜찮다고 답하기](docs/saying-haircut-is-fine.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [머리가 하얘짐](docs/mind-going-blank.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [머리카락 배배 꼬기](docs/hair-twirling.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [머리카락 한 타래 간직하기](docs/keeping-locks-of-hair.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [머릿속 말다툼](docs/imaginary-arguments.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [먹기 전에 음식 사진 찍기](docs/photographing-food-before-eating.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [멀티탭에 기기 몰아 꽂기](docs/overloading-power-strips.md) ([건강과 위험](groups/health-and-safety.md))
