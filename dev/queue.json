@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T18:36:19.538Z",
-  "nextSeq": 5943,
-  "stops": 315,
+  "savedAt": "2026-11-20T21:33:30.554Z",
+  "nextSeq": 5963,
+  "stops": 316,
   "items": [
-    {
-      "id": "78803a53",
-      "title": "reading-without-taking-in 보강: 한국어 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-11-20 작성. 남은 문학 후보: gutenberg 1184 Monte Cristo 'tried to read, but his eye glanced over the page without understanding a word', 1438 No Name 'Books failed to fix her attention.', 7265 Pendennis 편지를 'mechanically, hardly knowing what was before his eyes' 읽음, APS 2010 보도자료 psychologicalscience.org eye-movements-reveal-readers-wandering-minds. 한국어 파편 없음",
-      "createdAt": "2026-11-20T18:17:16.988Z",
-      "seq": 5941
-    },
-    {
-      "id": "b937a4a6",
-      "title": "writing-a-crushs-name 관계: unrequited-love, doodling, writing-on-fogged-glass",
-      "priority": 30,
-      "note": "2026-11-13 문서 작성 시 관계 미정. 후보: umich deepblue Erickson 2017 박사논문(PDF) 'They doodled the celebrities’ names in their notebooks' 유명인 대상 낙서, gutenberg 768 Wuthering Heights 3장 Catherine Earnshaw/Heathcliff/Linton 이름 되풀이 쓰기(768 은 이미 4개 문서라 못 씀), gutenberg 1523 As You Like It 3막 2장 나무에 이름 새기기(carving-names-at-visited-places 에 사용)",
-      "createdAt": "2026-11-13T12:11:42.390Z",
-      "seq": 4867
-    },
-    {
-      "id": "f1c53706",
-      "title": "eating-poisonous-plants-as-wild-greens 와 eating-foraged-wild-mushrooms 관계, 원인 간선",
-      "priority": 30,
-      "note": "2026-11-13 문서 작성 시 관계 미정. 두 문서의 공통 상위(야생 먹거리 직접 채취해 먹기) 후보. 남은 후보: ekjm.org/journal/view.php?number=15851 (2006) 박새를 산마늘로 오인한 일가족 5예, extension.oregonstate.edu poison-hemlock (2018-06) 'roots of poison hemlock have been mistaken for wild parsnips', 서울신문 2021 같은 기사 '이른 봄 잎이나 꽃이 나기 전 뿌리만 보고 구별하기 쉽지 않기 때문', asiae 2020 같은 기사 'relying on materials such as photos is even more dangerous'",
-      "createdAt": "2026-11-13T12:17:16.589Z",
-      "seq": 4868
-    },
-    {
-      "id": "1cbfe3c5",
-      "title": "pacing-the-room 과 walking-to-think 관계, 불안과 원인 간선",
-      "priority": 30,
-      "note": "2026-11-13 문서 작성 시 관계 미정. walking-to-think 요약이 '밖으로 나가 걷는다' 라 상위로 두지 않음. 후보: mentalfloss.com/article/64404 같은 글 'Pacing may be a subconscious way of coping with anxiety' (저자 설명, 인과 표지), physicsforums 318430 같은 글 'It feels like I can think more clearly when doing this.', journals.plos.org pone.0347878 (2026-05-13) 실내외 걷기 효과 차이 없음, gutenberg 2600 War and Peace 5권 2장 Pierre 'paced up and down the room, pondering over his vicious past'(2600 은 이미 4개 문서), gutenberg 145 Middlemarch 75장(145 도 4개 문서)",
-      "createdAt": "2026-11-13T12:20:30.330Z",
-      "seq": 4869
-    },
-    {
-      "id": "d52d8dc5",
-      "title": "feeding-wildlife 와 feeding-pigeons, feeding-stray-cats, risky-selfies 관계",
-      "priority": 30,
-      "note": "2026-11-13 문서 작성 시 관계 미정. 공통 상위(동물에게 먹이 주기) 후보. 원인 후보: link.springer.com s10764-020-00148-5 (2020-04-20) 'People were driven to feed macaques by the desire to observe them closely, concern over decreasing food resources', PMC4494361 (Dubois & Fraser 2013) 'The perception that feeding benefits and assists wild animals motivates others', researchmatters.in (2018-03-16) '62% claimed that they fed the macaques because they either felt sorry for them or were frightened', nps.gov/articles/000/idkt_feedingwildlife.htm (2024-12-23) 귀여워서 길들여졌다고 여김, csmonitor 1998 같은 기사 'Getting too close to take a photo was the major problem.'(risky-selfies 후보)",
-      "createdAt": "2026-11-13T12:24:57.832Z",
-      "seq": 4870
-    },
-    {
-      "id": "1f24a60c",
-      "title": "glancing-at-a-crush 와 blushing, unrequited-love, hoping-to-run-into-a-crush 관계",
-      "priority": 30,
-      "note": "2026-11-13 문서 작성 시 관계 미정. 후보: insight.co.kr/news/472869 같은 기사 '그 사람과 눈이라도 마주칠 때면 얼굴이 새빨갛게 달아올라'(blushing 결과 후보), gqkorea 2026-06-27 '눈이 마주쳤을 때 괜히 웃거나 급하게 시선을 돌리는 행동', gutenberg 1611 Seventeen 2장 'his agitation was ruinous and must be perceptible', gutenberg 155 Moonstone 1기 10장 'stealing looks at Mr. Franklin'(155 는 3개 문서), PubMed 38379110 Hoffmann 2024 스피드 데이트 눈맞춤과 선택, frontiersin fpsyg.2019.01262 눈맞춤 각성",
-      "createdAt": "2026-11-13T12:34:37.580Z",
-      "seq": 4871
-    },
-    {
-      "id": "00c566a0",
-      "title": "descending-after-dark 와 summit-fever 원인 간선, 학술 파편",
-      "priority": 30,
-      "note": "2026-11-13 문서 작성 시 관계 미정. summit-fever 2026 기사(구조대원: 내려오는 시간을 적게 잡는다)가 늦은 하산의 원인을 말하는지 확인. 후보: wmrt.org.uk/?p=21938 같은 글 'Overestimating personal pace and capability', nps.gov/zion/blogs/late-start-for-the-subway.htm (2016-05-14) 늦은 출발로 협곡에서 밤샘, korea.kr 148934755 (2024-10-07 소방청) '일찍 산행을 시작하고 해지기 전 하산', PubMed 19737043 'Dead men walking' (미확인). 학술 파편 없음",
-      "createdAt": "2026-11-13T12:38:13.831Z",
-      "seq": 4872
-    },
-    {
-      "id": "5152d0b6",
-      "title": "irish-goodbye 원인 간선",
-      "priority": 30,
-      "note": "2026-11-13 학술 파편 Беликова 2023(cyberleninka) [^6] 추가. 그 파편이 술을 지나치게 마셔 남몰래 떠날 수밖에 없었다고 말함(원인 표지 поэтому). 음주 관련 문서 생기면 원인 간선 후보. 1News Meehan 'protect yourself from the discomfort of saying goodbye' 후보는 그대로",
-      "createdAt": "2026-11-13T16:04:42.655Z",
-      "seq": 4883
-    },
-    {
-      "id": "17407ab4",
-      "title": "staircase-wit 관계: replaying-conversations-afterward 와 원인·결과 근거",
-      "priority": 30,
-      "note": "2026-10-21 thelocal.fr 2020-07-22(F4) 'all you can do is replay the conversation in your head' 는 되짚기를 말하지만 인과 표지 약함. springer s10608-011-9357-z (Makkar 2011) 'higher levels of social anxiety were associated with ... regret-based cognitions during PEP' 후보. gutenberg 1399 Anna Karenina 5부 30장 'How often afterwards she thought of words she might have said.' 문학 다른 변형(작별). 2026-11-13 esprit de l'escalier 와 replay 인과 문장 재검색, 사전·어원 페이지만 나옴",
-      "createdAt": "2026-11-13T16:04:57.060Z",
-      "seq": 4884
-    },
-    {
-      "id": "1e3b6623",
-      "title": "heavy-drinking 보강: drink-driving·drinking-to-cope 관계, 회식 폭음 조건",
-      "priority": 30,
-      "note": "2026-10-22 클리앙 2026-01-07 [^5] 더함. 후보: talkingsober.com/t/newcomer-having-a-hard-time/24080 (2017-12-09) 'Got so drunk at my work Christmas party last night and blacked out. My mother had to bring me home.' 회사 행사 술자리 필름 끊김. '분위기·스트레스 때문에 마셨다' 인과 SNS 문장 미발견 2026-11-13 smoking-relapse 결과 간선과 Kahler 2012 파편 더함. drink-driving 간선 후보 cdc.gov/mmwr/preview/mmwrhtml/mm6039a4.htm 'Binge drinking was strongly associated with alcohol-impaired driving' 는 연관이지 인과 아님(그 URL 은 drink-driving [^2] 로 이미 쓰임)",
-      "createdAt": "2026-11-13T16:08:38.413Z",
-      "seq": 4885
-    },
-    {
-      "id": "0987aea4",
-      "title": "retail-therapy 보강: 산 뒤 죄책감 학술 파편",
-      "priority": 30,
-      "note": "2026-11-13 경향신문 2017-01-29 시발비용 [^5] 와 별칭 더함. 같은 기사의 '시발비용 지출이 늘고 ... 악순환' 은 실명 대목이라 못 씀. 이전: 2026-10-22 abc7news.com/news/511813 (2015-02-10) [^4] 더함. 후보: nerdwallet.com/finance/learn/data-retail-therapy (2025-04-15) '15% of Americans frequently spend money on things they end up regretting'(기분 전환 구매 한정 아님). oak.jejunu.ac.kr/handle/2020.oak/23625 제주대 학위논문 스트레스·충동구매·죄책감(curl 실패). warc.com 37% guilt or shame 문장 추출 실패",
-      "createdAt": "2026-11-13T16:10:37.857Z",
-      "seq": 4886
-    },
-    {
-      "id": "4c6096b1",
-      "title": "superstitious-rituals 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-13 korea.kr 정책브리핑 수능 기사 6건(m.korea.kr 148954091 등)에 징크스·미역국 언급 없음, loc.gov 검색 결과 없음. 2026-10-22 SNS Straight Dope 2010-03-15 하키 행운 양말 더함(같은 사이트 636665 'weird-little-superstitions-you-have' 2012 도 후보). 이전: 2026-10-21 dailybruin 2016-02-26 F3 로 사용(같은 글 'Following a pre-exam ritual can ease an overwhelmed student’s mind' 는 같은 URL). 이전 메모: 2026-10-20 cherwell.org/2025/05/20/exam-superstitions F4 로 사용(같은 글 'They are there to absorb our stress and calm our nerves.'). 후보: dailybruin.com/2016/02/26/superstition-may-be-the-way-for-ucla-students-to-ace-that-exam 'Following a pre-exam ritual can ease an overwhelmed student’s mind', brunch.co.kr/@hasin153/312 (2026-01-15) 인형 방향 징크스. PMC5452956 Hobson 2017. reddit 403, 지식iN·네이트판 검색 안 됨. 국립민속박물관 시험 금기 항목 미발견",
-      "createdAt": "2026-11-13T16:11:40.874Z",
-      "seq": 4887
-    },
-    {
-      "id": "58ad94d8",
-      "title": "lavish-celebrations-for-status 와 hosting-beyond-means 관계",
-      "priority": 30,
-      "note": "2026-11-13 새 문서. hosting-beyond-means [^3] Rao 2001 '잔치에 더 쓴 가구가 더 높은 지위를 얻음' 은 지위 결과 쪽. 같은 사람이 형편을 넘어 잔치를 크게 벌이는 원인으로 지위 과시를 말하는 파편 필요. 2004 JHR 판 jhr.uwpress.org/content/39/3/675 는 같은 글의 다른 판",
-      "createdAt": "2026-11-13T16:13:10.797Z",
-      "seq": 4888
-    },
     {
       "id": "c640ea00",
       "title": "clean-plate-pressure 와 leaving-food-on-the-plate 대립 근거",
@@ -155,14 +51,6 @@
       "note": "2026-11-13 1831년 Balzac 23060 추가. 공공 후보 못 찾음(healthdirect, betterhealth 404). 문학 후보 Hawthorne The Birth-Mark 512 'this one defect grow more and more intolerable' 는 남의 흠",
       "createdAt": "2026-11-13T21:32:21.286Z",
       "seq": 4917
-    },
-    {
-      "id": "97cb2aa9",
-      "title": "delaying-hearing-help 와 hiding-hearing-loss 관계",
-      "priority": 30,
-      "note": "2026-11-13 새 문서(Cambridge Network 2013, PMC5044768 2016). PMC5044768 'the perceived stigma of HL ... causes delay in almost half of cases (Kochkin, 2007 )' 218자라 못 씀. cambridgenetwork 같은 글 'Other factors included embarrassment'. 원인 간선 근거 필요",
-      "createdAt": "2026-11-13T21:33:43.021Z",
-      "seq": 4918
     },
     {
       "id": "5cdd7e14",
@@ -1141,6 +1029,30 @@
       "seq": 5942
     },
     {
+      "id": "f1b2eab8",
+      "title": "eating-poisonous-plants-as-wild-greens 원인 간선",
+      "priority": 30,
+      "note": "2026-11-20 foraging-wild-food 를 상위로 이음. 원인 후보: 서울신문 2021 '이른 봄 잎이나 꽃이 나기 전 뿌리만 보고 구별하기 쉽지 않기 때문', oregonstate poison-hemlock 2018-06 'roots of poison hemlock have been mistaken for wild parsnips'. 원인 상대 문서(생김새로 가려내기 과신 등) 없음. 채취 후보: research.fs.usda.gov/treesearch/55353 Synk 2017 Baltimore foragers 105명",
+      "createdAt": "2026-11-20T21:13:23.153Z",
+      "seq": 5954
+    },
+    {
+      "id": "eb500335",
+      "title": "feeding-wildlife 원인 간선, 동물에게 먹이 주기 공통 상위",
+      "priority": 30,
+      "note": "2026-11-20 feeding-pigeons 를 하위로 이음. feeding-stray-cats 는 야생동물이 아니라 상위로 두지 않음. 공통 상위 '동물에게 먹이 주기' 후보. 원인 후보: researchmatters.in 2018-03-16 '62% claimed that they fed the macaques because they either felt sorry for them or were frightened', springer s10764-020-00148-5 2020-04-20, PMC4494361 Dubois & Fraser 2013. csmonitor 1998 'Getting too close to take a photo' 는 risky-selfies 후보",
+      "createdAt": "2026-11-20T21:14:03.241Z",
+      "seq": 5955
+    },
+    {
+      "id": "067e8151",
+      "title": "heavy-drinking 원인 간선: drinking-to-cope, 회식 폭음 조건",
+      "priority": 30,
+      "note": "2026-11-20 PMC3161131 로 drink-driving 결과 간선 그음. drinking-to-cope 원인 후보: khan.co.kr 201611161247002 2016-11-16 '스트레스 상황에서의 반복적인 음주는 오히려 스트레스를 취약하게 만들고 알코올 섭취량을 늘려'(섭취량이지 폭음 아님), PMC7117979, MDPI 2076-328X/14/5/402 미확인. talkingsober 24080 2017-12-09 회사 파티 필름 끊김",
+      "createdAt": "2026-11-20T21:26:00.890Z",
+      "seq": 5960
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1723,6 +1635,54 @@
       "note": "2026-11-13 학술 HTML 없음. peerj 1210 다른 현상. greaterwrong bxkAgvZypEfW66xgr 후보. 2026-11-20 lindenwood psych_journals vol1/iss18/12 (2016) 은 시간 지각과 시간 엄수라 시계 맞추기 아님. USPTO 9720381 특허 배경은 PDF. metafilter 157715 (SNS) 후보",
       "createdAt": "2026-11-20T15:33:50.506Z",
       "seq": 5935
+    },
+    {
+      "id": "b78548f6",
+      "title": "writing-a-crushs-name 원인 간선: unrequited-love",
+      "priority": 20,
+      "note": "2026-11-20 doodling 과 writing-on-fogged-glass 는 상위가 아님(무심코 그리기, 김 서린 유리라는 다른 조건). 기존 [^3] 은 'when you had a crush' 라 때의 말이지 인과가 아님. 짝사랑 때문에 이름을 썼다는 대목이 있어야 원인 간선",
+      "createdAt": "2026-11-20T21:10:16.827Z",
+      "seq": 5953
+    },
+    {
+      "id": "9a778a92",
+      "title": "glancing-at-a-crush 결과 간선: blushing",
+      "priority": 20,
+      "note": "2026-11-20 상위 후보 없음(unrequited-love 는 마음, 이 문서는 행동이라 특수한 경우 아님). insight 472869 는 이미 [^4] 이고 '눈이라도 마주칠 때면 얼굴이 새빨갛게 달아올라' 는 눈맞춤 때문이지 훔쳐보기 때문이 아님. 훔쳐보다 들켜 얼굴이 붉어졌다는 대목이 있어야 결과 간선. gutenberg 1611 Seventeen 2장 후보",
+      "createdAt": "2026-11-20T21:14:24.522Z",
+      "seq": 5956
+    },
+    {
+      "id": "42c5954c",
+      "title": "delaying-hearing-help 와 hiding-hearing-loss 원인 간선",
+      "priority": 20,
+      "note": "2026-11-20 racgp newsGP 2025-09-03 을 [^4] 로 더함(낙인이 도움 구하기를 막음). 숨기려고 미룬다는 한 문장 대목은 못 찾음. 후보: 같은 기사 'one third of adults over 50 keep their condition secret out of fear of judgement'(같은 URL 이라 hiding-hearing-loss 쪽에만), bravo.etoday.co.kr atc_view/8742 2018-06-29 '주변 사람들의 시선을 의식하게 되기 때문이다'(not-wearing-hearing-aids 원인 후보), frontiersin fdgth.2023.1075502 'Some also oppose hearing intervention with hearing aids due to social stigma.'",
+      "createdAt": "2026-11-20T21:19:39.230Z",
+      "seq": 5957
+    },
+    {
+      "id": "e39707d4",
+      "title": "descending-after-dark 와 summit-fever 원인 간선, 학술 파편",
+      "priority": 20,
+      "note": "2026-11-20 summit-fever [^10] 은 시간을 적게 잡는다는 말뿐이라 어둠 속 하산과 인과 아님. 정상 욕심 때문에 어두워진 뒤 내려왔다는 한 대목 못 찾음. globalsummitguide.com/?p=10476 'that extension is exactly how climbers end up descending in the dark or in a storm'(발행일 미상, 돌아설 시각 연장이 원인). 학술: Heggie 2009 PMID 19737043 쿠키 페이지·europepmc 403. AAC publications 에서 'summit fever' 'benighted' 검색 후보",
+      "createdAt": "2026-11-20T21:21:47.586Z",
+      "seq": 5958
+    },
+    {
+      "id": "8f286dfa",
+      "title": "retail-therapy 보강: 산 뒤 죄책감 학술 파편",
+      "priority": 20,
+      "note": "2026-11-20 Kang & Johnson 2010 repec [^3] 더함(대체로 후회 안 함, 후회하면 합리화). 죄책감 학술 후보: frontiersin fpsyt.2025.1665182 Eliyahu 2025 강박 구매 'followed by regret and guilt'(강박 구매라 compulsive-buying 문서 후보), Rocha 2023 fpsyt.2023.1157710 미확인",
+      "createdAt": "2026-11-20T21:29:20.469Z",
+      "seq": 5961
+    },
+    {
+      "id": "027c1eec",
+      "title": "lavish-celebrations-for-status 와 hosting-beyond-means 관계",
+      "priority": 20,
+      "note": "2026-11-20 상위 관계 아님(형편을 넘는 대접과 지위를 보이려는 잔치는 서로 특수한 경우가 아님). 지위를 보이려고 형편을 넘겨 잔치를 벌였다는 인과 대목이 있어야 원인 간선. 이전: hosting-beyond-means [^3] Rao 2001, jhr.uwpress.org/content/39/3/675 는 같은 글의 다른 판",
+      "createdAt": "2026-11-20T21:33:22.961Z",
+      "seq": 5962
     },
     {
       "id": "9c55db6a",
@@ -3267,6 +3227,14 @@
       "note": "2026-11-12 까지 다섯 회차 한국어 SNS 미발견, 간선 근거 없음. 이전: 한국경제 202504278937i [^7]",
       "createdAt": "2026-11-20T09:31:44.122Z",
       "seq": 5871
+    },
+    {
+      "id": "670fdf90",
+      "title": "staircase-wit 관계: replaying-conversations-afterward 와 원인·결과 근거",
+      "priority": 10,
+      "note": "2026-11-20 [^4] 'replay the conversation in your head' 는 반박을 끼워 넣는 상상이라 imaginary-arguments 쪽(이미 결과 간선). 남에게 어떻게 비쳤는지 되짚는 replaying-conversations-afterward 와 인과 문장 없음. 이전 note: springer s10608-011-9357-z Makkar 2011, gutenberg 1399 Anna Karenina 5부 30장",
+      "createdAt": "2026-11-20T21:22:34.689Z",
+      "seq": 5959
     },
     {
       "id": "02b2f242",
