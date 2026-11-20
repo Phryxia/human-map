@@ -8,15 +8,17 @@
 
 # 서술
 
-2003년 Wroe 와 Thomas 의 연구[^1]에서 항HIV 약을 처방받은 참가자 117명 가운데 59명(50%)은 약 먹는 걸 잊은 때가 전체의 5% 이상이라고 답했다.
+1998년 ScienceDaily 보도자료[^1]는 미시간 대학교 연구를 들어 바쁜 베이비붐 세대가 노년층보다 처방받은 약 먹는 것을 더 자주 잊는다고 적었다.
 
-2018년 5월 HealthUnlocked 게시글[^2]의 글쓴이는 그날 아침 생각할 일이 많아 약을 먹었는지 안 먹었는지 기억하지 못했다고 썼다.
+2003년 Wroe 와 Thomas 의 연구[^2]에서 항HIV 약을 처방받은 참가자 117명 가운데 59명(50%)은 약 먹는 걸 잊은 때가 전체의 5% 이상이라고 답했다.
 
-2024년 6월 클리앙 게시글[^3]의 글쓴이는 안전 약병을 열고 약을 먹고 물을 마시는 사이에도 유튜브를 보다가 약을 먹었는지 아닌지 기억나지 않는 때가 생긴다고 적었다.
+2018년 5월 HealthUnlocked 게시글[^3]의 글쓴이는 그날 아침 생각할 일이 많아 약을 먹었는지 안 먹었는지 기억하지 못했다고 썼다.
 
-2025년 3월 Merck 매뉴얼 가정판[^4]은 사람들이 약을 지시대로 먹지 않는 여러 이유 가운데 잊어버림을 가장 흔한 것으로 꼽았다.
+2024년 6월 클리앙 게시글[^4]의 글쓴이는 안전 약병을 열고 약을 먹고 물을 마시는 사이에도 유튜브를 보다가 약을 먹었는지 아닌지 기억나지 않는 때가 생긴다고 적었다.
 
-2025년 5월 부산일보 기사[^5]는 회사 업무나 외출, 또는 그저 깜빡한 탓에 약 복용을 건너뛰는 일이 많다고 적었다.
+2025년 3월 Merck 매뉴얼 가정판[^5]은 사람들이 약을 지시대로 먹지 않는 여러 이유 가운데 잊어버림을 가장 흔한 것으로 꼽았다.
+
+2025년 5월 부산일보 기사[^6]는 회사 업무나 외출, 또는 그저 깜빡한 탓에 약 복용을 건너뛰는 일이 많다고 적었다.
 
 # 관계
 
@@ -42,8 +44,9 @@
 
 #건강 #마음
 
-[^1]: [학술] "59 participants (50%) reported forgetting to take medication at least 5% of the time." (참가자 59명(50%)은 약 먹는 것을 잊은 때가 적어도 5% 이상이라고 답했다.) — A. Wroe, M. Thomas, "Intentional and unintentional nonadherence in patients prescribed HAART treatment regimens", Psychology, Health & Medicine, 2003-11, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21974735&rettype=abstract&retmode=text, 2026-11-10 접속
-[^2]: [SNS] "this morning had a lot on my mind and couldn't remember if I took it or not" (오늘 아침 생각할 일이 많아서 약을 먹었는지 안 먹었는지 기억나지 않았다) — HealthUnlocked 게시글, 2018-05-16, https://healthunlocked.com/afassociation/posts/137988551/did-or-didnt-i-take-my-medication-this-morning, 2026-11-10 접속
-[^3]: [SNS] "힘을 아래로 주어서 열어야 하는 안전 약병을 열고 먹고 물마시고 이 짧은 과정을 하는 중에도 유튜브를 본다던가 하는 경우가 많거든요 그러다 이게 약을 먹었는지 아닌지가 기억 안나는 경우가 생겨요." — 클리앙 게시글, 2024-06-03, https://www.clien.net/service/board/cm_adhd/18738528, 2026-11-12 접속
-[^4]: [학술] "Among the many reasons people give for not adhering to medications, forgetfulness is the most common." (사람들이 약을 지시대로 먹지 않는 이유로 드는 여러 가지 가운데 잊어버림이 가장 흔하다.) — Shalini S. Lynch, "Adherence to Medication", Merck Manual Consumer Version, 2025-03-06, https://www.merckmanuals.com/home/drugs/factors-affecting-response-to-medications/adherence-to-medication, 2026-11-10 접속
-[^5]: [매체] "회사 업무나 외출, 혹은 단순히 깜빡 잊은 탓에 약 복용을 건너뛰는 경우가 많은데요." — 김주희, 「"앗, 깜빡하고 약 안 먹었네" 하루 3번 복용 약, 놓쳤으면 어떡하지? [궁물받는다]」, 부산일보, 2025-05-07, https://v.daum.net/v/20250507162324901, 2026-11-10 접속
+[^1]: [매체] "Busy boomers are more likely than older people to forget to take the pills their doctors prescribe, according to a University of Michigan study that suggests older really is wiser." (바쁜 베이비붐 세대가 노년층보다 의사가 처방한 약을 먹는 것을 더 잘 잊는다고, 나이 든 쪽이 정말 더 현명하다고 시사하는 미시간 대학교 연구가 밝혔다.) — "Remembering Your Medications: Older Are Wiser", ScienceDaily, 1998-08-19, https://www.sciencedaily.com/releases/1998/08/980819080455.htm, 2026-11-20 접속
+[^2]: [학술] "59 participants (50%) reported forgetting to take medication at least 5% of the time." (참가자 59명(50%)은 약 먹는 것을 잊은 때가 적어도 5% 이상이라고 답했다.) — A. Wroe, M. Thomas, "Intentional and unintentional nonadherence in patients prescribed HAART treatment regimens", Psychology, Health & Medicine, 2003-11, https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21974735&rettype=abstract&retmode=text, 2026-11-10 접속
+[^3]: [SNS] "this morning had a lot on my mind and couldn't remember if I took it or not" (오늘 아침 생각할 일이 많아서 약을 먹었는지 안 먹었는지 기억나지 않았다) — HealthUnlocked 게시글, 2018-05-16, https://healthunlocked.com/afassociation/posts/137988551/did-or-didnt-i-take-my-medication-this-morning, 2026-11-10 접속
+[^4]: [SNS] "힘을 아래로 주어서 열어야 하는 안전 약병을 열고 먹고 물마시고 이 짧은 과정을 하는 중에도 유튜브를 본다던가 하는 경우가 많거든요 그러다 이게 약을 먹었는지 아닌지가 기억 안나는 경우가 생겨요." — 클리앙 게시글, 2024-06-03, https://www.clien.net/service/board/cm_adhd/18738528, 2026-11-12 접속
+[^5]: [학술] "Among the many reasons people give for not adhering to medications, forgetfulness is the most common." (사람들이 약을 지시대로 먹지 않는 이유로 드는 여러 가지 가운데 잊어버림이 가장 흔하다.) — Shalini S. Lynch, "Adherence to Medication", Merck Manual Consumer Version, 2025-03-06, https://www.merckmanuals.com/home/drugs/factors-affecting-response-to-medications/adherence-to-medication, 2026-11-10 접속
+[^6]: [매체] "회사 업무나 외출, 혹은 단순히 깜빡 잊은 탓에 약 복용을 건너뛰는 경우가 많은데요." — 김주희, 「"앗, 깜빡하고 약 안 먹었네" 하루 3번 복용 약, 놓쳤으면 어떡하지? [궁물받는다]」, 부산일보, 2025-05-07, https://v.daum.net/v/20250507162324901, 2026-11-10 접속
