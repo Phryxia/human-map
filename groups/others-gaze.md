@@ -13,7 +13,6 @@
 - [단체 사진과 신문에서 자기부터 찾기](../docs/looking-for-oneself-first.md) 자기가 함께 찍힌 단체 사진이나 자기 일이 실렸을 신문을 받아 든 사람이 다른 사람이나 기사보다 자기 얼굴이나 이름부터 찾아본다.
 - [대화 뒤 되짚기](../docs/replaying-conversations-afterward.md) 사람이 사회적 상호작용이 끝난 뒤 그 장면을 되풀이해 떠올리며 자기가 남에게 어떻게 비쳤는지 걱정한다.
 - [대화에 끼어들지 못하기](../docs/not-cutting-into-conversation.md) 대화 자리에 있는 사람이 말할 차례를 잡지 못해 끼어들지 않고 듣기만 한다.
-- [망가뜨린 일 숨기기](../docs/concealing-accidental-damage.md) 남의 물건을 실수로 망가뜨린 사람이 그 일을 말하지 않거나 하지 않았다고 한다.
 - [머리가 하얘짐](../docs/mind-going-blank.md) 남이 지켜보거나 몰아세우는 자리에서 사람의 머리가 굳어 할 말이나 생각이 떠오르지 않는다.
 - [명예 문화의 평판 걱정](../docs/honor-culture-reputation-concern.md) 명예를 중시하는 문화에 사는 사람이 어떤 일이 자기 평판에 어떤 영향을 줄지를 걱정한다.
 - [모르는 것을 아는 체하기](../docs/feigning-knowledge.md) 사람이 모르는 지식이나 낱말, 개념을 남 앞에서 안다고 말한다.
@@ -57,6 +56,8 @@
   - [손님이 가 주기를 바라기](../docs/wishing-guests-would-leave.md)
 - [유리창에 비친 제 모습 흘끗 보기](../docs/glancing-at-own-reflection-in-windows.md) 길을 걷는 사람이 상점 진열창 같은 유리에 비친 자기 모습을 걸음을 멈추지 않고 흘끗 확인한다.
 - [자기 비하](../docs/self-deprecation.md) 사람이 남 앞에서 먼저 자기 약점이나 실수를 꺼내 자기를 깎아내리거나 우스개로 낮추어 말한다.
+- [잘못 숨기기](../docs/concealing-wrongdoing.md) 금지된 일을 하거나 잘못을 저지른 사람이 그 일이 드러나지 않게 숨기거나 하지 않았다고 한다.
+  - [망가뜨린 일 숨기기](../docs/concealing-accidental-damage.md)
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
   - [남의 웃음을 비웃음으로 여기기](../docs/assuming-laughter-is-at-oneself.md)
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.

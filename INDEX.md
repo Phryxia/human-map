@@ -726,6 +726,7 @@
 - [잔액 확인 피하기](docs/avoiding-checking-balance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잔치를 크게 벌여 지위 드러내기](docs/lavish-celebrations-for-status.md) ([돈과 소비](groups/money.md))
 - [잘못 배달된 물건 돌려주지 않기](docs/keeping-misdelivered-packages.md) ([돈과 소비](groups/money.md))
+- [잘못 숨기기](docs/concealing-wrongdoing.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [잠깐 세우는 불법 주정차](docs/brief-illegal-parking.md) ([길과 운전](groups/roads-and-driving.md))
 - [잠꼬대](docs/sleep-talking.md) ([시간과 하루 습관](groups/daily-time.md))
 - [잠든 사람 바라보기](docs/watching-a-loved-one-sleep.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

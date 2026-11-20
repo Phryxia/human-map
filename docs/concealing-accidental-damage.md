@@ -22,7 +22,7 @@
 
 ## 상위
 
-없음.
+- [잘못 숨기기](concealing-wrongdoing.md)
 
 ## 하위
 
