@@ -556,6 +556,7 @@
 - [애착 불안](docs/attachment-anxiety.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [애착 회피](docs/attachment-avoidance.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [야반도주](docs/moonlight-flit.md) ([돈과 소비](groups/money.md))
+- [야생 먹거리 채취](docs/foraging-wild-food.md) ([건강과 위험](groups/health-and-safety.md))
 - [야생 버섯 따 먹기](docs/eating-foraged-wild-mushrooms.md) ([건강과 위험](groups/health-and-safety.md))
 - [야생동물에게 먹이 주기](docs/feeding-wildlife.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [야식 먹기](docs/late-night-eating.md) ([건강과 위험](groups/health-and-safety.md))

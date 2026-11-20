@@ -43,7 +43,6 @@
   - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)
 - [독감 예방접종 거르기](../docs/skipping-flu-vaccine.md) 권고 대상인 사람이 필요 없다고 여기거나 부작용을 걱정하거나 시간이 없어 독감 예방접종을 받지 않는다.
 - [독립을 잃을 두려움](../docs/fear-of-losing-independence.md) 나이 든 사람이 혼자 일상을 꾸리거나 지금 사는 집에서 계속 지내는 능력을 잃게 될까 두려워한다.
-- [독초를 산나물로 알고 먹기](../docs/eating-poisonous-plants-as-wild-greens.md) 산이나 들에서 나물을 캐는 사람이 생김새가 비슷한 독초를 먹는 나물로 알고 캐서 먹는다.
 - [들어온 길로 대피하기](../docs/exiting-the-way-you-came.md) 불이 나거나 대피해야 할 때 건물 안의 사람이 가까운 비상구 대신 들어왔던 익숙한 출입구로 나가려 한다.
 - [딸꾹질 멈추려고 민간요법 써 보기](../docs/trying-hiccup-remedies.md) 딸꾹질이 멎지 않는 사람이 숨 참기나 물 마시기처럼 주변에서 듣거나 전해 내려온 방법을 차례로 써 본다.
 - [뜨거운 음식 식힌 뒤 냉장고에 넣기](../docs/cooling-food-before-refrigerating.md) 남은 음식을 보관하려는 사람이 뜨거운 음식을 냉장고에 바로 넣지 않고 상온에 두어 식힌다.
@@ -76,7 +75,9 @@
   - [자전거 헬멧 미착용](../docs/bicycle-helmet-nonuse.md)
   - [청력 보호구 미착용](../docs/hearing-protection-nonuse.md)
 - [암 재발 두려움](../docs/fear-of-cancer-recurrence.md) 암 치료를 마친 사람이 암이 다시 생길까 봐 두려워한다.
-- [야생 버섯 따 먹기](../docs/eating-foraged-wild-mushrooms.md) 산이나 들에서 야생 버섯을 딴 사람이 생김새나 민간 속설로 먹을 수 있는 버섯을 가려 먹는다.
+- [야생 먹거리 채취](../docs/foraging-wild-food.md) 산이나 들, 동네 숲에 간 사람이 나물, 버섯, 열매 같은 야생 먹거리를 직접 캐거나 따서 먹는다.
+  - [독초를 산나물로 알고 먹기](../docs/eating-poisonous-plants-as-wild-greens.md)
+  - [야생 버섯 따 먹기](../docs/eating-foraged-wild-mushrooms.md)
 - [야식 먹기](../docs/late-night-eating.md) 저녁 식사를 마친 사람이 잠들기 전 밤늦은 시간에 다시 음식을 먹는다.
 - [언 물 위에 들어가기](../docs/walking-on-frozen-water.md) 겨울에 사람들이 얼어붙은 강, 저수지, 호수, 연못의 얼음 위를 걷거나 그 위에서 낚시하고 논다.
 - [엄살](../docs/exaggerating-pain.md) 아프거나 힘든 사람이 그 아픔을 실제보다 크게 소리 내거나 말한다.
