@@ -12,7 +12,9 @@
 
 유대교 상가 관습을 다룬 해설[^2]은 애도하는 사람이 그동안 자기 외모에 마음 쓰지 않아야 하므로 거울을 덮는다는 설명을 든다.
 
-2026년 기사[^3]는 여러 나라와 문화에서 장례나 밤샘, 애도 기간에 집 안의 거울을 모두 덮는 전통이 생겼다고 전했다.
+1892년 소설[^3]에서 모제스는 아들이 숨을 거두자 겉옷을 찢고 아들의 눈을 감긴 뒤 화장대의 거울을 벽 쪽으로 돌려 놓았다.
+
+2026년 기사[^4]는 여러 나라와 문화에서 장례나 밤샘, 애도 기간에 집 안의 거울을 모두 덮는 전통이 생겼다고 전했다.
 
 # 관계
 
@@ -40,4 +42,5 @@
 
 [^1]: [공공] "Other rituals were designed to keep out malicious spirits, including stopping clocks at the time of death and covering mirrors." (다른 의례들은 악한 영을 막으려는 것이었는데, 죽은 시각에 시계를 멈추는 일과 거울을 덮는 일이 그에 들었다.) — Royal College of Physicians of Edinburgh, "Rest in Peace: Mourning Rituals", 발행일 미상, https://www.rcpe.ac.uk/heritage/rest-peace-mourning-rituals, 2026-11-20 접속
 [^2]: [매체] "One explanation is that the mirrors are covered because the mourners are not supposed to be concerned with their appearance at this time." (한 가지 설명은 애도하는 이들이 이 기간에 자기 외모에 마음을 쓰지 않아야 하므로 거울을 덮는다는 것이다.) — "Customs Observed in the Shiva House", OU Torah, 발행일 미상, https://outorah.org/p/36028, 2026-11-20 접속
-[^3]: [매체] "And in a number of countries and cultures around the world, a tradition has emerged that sees any mirrors around a person’s house covered during a funeral, a wake, or a period of mourning." (그리고 세계 여러 나라와 문화에서, 장례식이나 밤샘, 애도 기간 동안 집 안의 거울을 모두 덮는 전통이 생겨났다.) — Paul Anthony Jones, "Why Mirrors Are Covered After Death in Some Cultures", Mental Floss, 2026-06-06, https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death, 2026-11-20 접속
+[^3]: [문학] "Then he went to the toilet table and turned the looking-glass to the wall, and opened the window and emptied the jug of water upon the green sunlit grass." (그러고 나서 그는 화장대로 가 거울을 벽 쪽으로 돌려 놓고, 창을 열어 물주전자의 물을 햇살 비친 푸른 풀밭에 쏟았다.) — Israel Zangwill, Children of the Ghetto, Project Gutenberg, 1892, https://gutenberg.pglaf.org/1/2/6/8/12680/12680-0.txt, 2026-11-20 접속
+[^4]: [매체] "And in a number of countries and cultures around the world, a tradition has emerged that sees any mirrors around a person’s house covered during a funeral, a wake, or a period of mourning." (그리고 세계 여러 나라와 문화에서, 장례식이나 밤샘, 애도 기간 동안 집 안의 거울을 모두 덮는 전통이 생겨났다.) — Paul Anthony Jones, "Why Mirrors Are Covered After Death in Some Cultures", Mental Floss, 2026-06-06, https://www.mentalfloss.com/culture/folklore-mythology/why-cover-mirrors-after-death, 2026-11-20 접속
