@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T12:34:09.810Z",
-  "nextSeq": 5893,
+  "savedAt": "2026-11-20T12:36:08.213Z",
+  "nextSeq": 5895,
   "stops": 312,
   "items": [
     {
@@ -27,6 +27,14 @@
       "note": "2026-11-20 NISRA Water Usage in NI 2024/25 (27% 매일 세탁), NI Water 2024-10-17 (22% 매일) 후보. Electrolux 2024-06-04 같은 페이지 50% musty 냄새 때문에 빤다. YouGov 2022-11-07 25% 가득 찰 때까지 기다림",
       "createdAt": "2026-11-20T12:33:14.545Z",
       "seq": 5892
+    },
+    {
+      "id": "47494a10",
+      "title": "peeking-into-the-oven 보강: SNS, 한국어 파편",
+      "priority": 50,
+      "note": "2026-11-20 Chowhound 2025-08-19 같은 글 'wondering if the food is rising' 궁금함 이유. impatience-at-red-light 등 조급함 문서와 관계 후보. miso.kr 블로그 미확인",
+      "createdAt": "2026-11-20T12:36:08.133Z",
+      "seq": 5894
     },
     {
       "id": "7f208ad2",

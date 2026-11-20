@@ -86,6 +86,7 @@
 - [구매 후 후회](docs/buyers-remorse.md) ([돈과 소비](groups/money.md))
 - [구명조끼 미착용](docs/life-jacket-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [구직 단념](docs/giving-up-job-search.md) ([일터와 일자리](groups/work.md))
+- [굽는 중에 오븐 문 열어 보기](docs/peeking-into-the-oven.md) ([시간과 하루 습관](groups/daily-time.md))
 - [귀가 늦추기](docs/delaying-going-home.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [귀가하는 가족을 자지 않고 기다리기](docs/waiting-up-for-family.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [귀벌레](docs/earworm.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
