@@ -16,7 +16,9 @@
 
 2021년 수필[^4]의 글쓴이는 꽃이 만개했을 때 딴 꽃을 티슈페이퍼 사이에 넣어 두꺼운 책 속에 한동안 둔다고 썼다.
 
-2024년 호니먼 박물관 블로그 글[^5]의 글쓴이는 꽃을 꺾어 간직하려고 책에 넣었다가 잊어버리고 한참 뒤에 다시 발견하는 일을 독자도 겪었을 수 있다고 적었다.
+2022년 대서양 양쪽의 기념 앨범을 다룬 전시 논고[^5]에서 저자들은 앨범 한 쪽 위에 꽃에 관한 손글씨 시, 꽃 그림, 눌러 말린 꽃 표본이 함께 놓인 경우가 많았다고 썼다.
+
+2024년 호니먼 박물관 블로그 글[^6]의 글쓴이는 꽃을 꺾어 간직하려고 책에 넣었다가 잊어버리고 한참 뒤에 다시 발견하는 일을 독자도 겪었을 수 있다고 적었다.
 
 # 관계
 
@@ -46,4 +48,5 @@
 [^2]: [문학] "At it again! What a sentimental generation yours was, Mother. Pressed flowers! They went out with the attic, didn’t they?" (또 그러시네요! 어머니 세대는 정말 감상적이었어요. 눌러 말린 꽃이라니! 그건 다락방이랑 같이 사라지지 않았어요?) — Edna Ferber, So Big, Chapter 12, Wikisource, 1924, https://en.wikisource.org/wiki/So_Big/Chapter_12, 2026-11-20 접속
 [^3]: [매체] "벤치 아래에서 사진 속에서나 보아왔던 낯선 꽃을 발견해서 한참이나 들여다보았다. 그리고 한 송이를 꺾어 책갈피에 끼워두었다." — 김소연, "p.100", 프레시안, 2012-07-20, https://pressian.com/pages/articles/67916, 2026-11-20 접속
 [^4]: [매체] "꽃이 만개했을 때, 따온 꽃들은 티슈페이퍼를 깔고 덮고 두꺼운 책 속에서 한동안 잠을 잔다." — 배문경, "압화를 풀다", 경북매일, 2021-05-12, https://kbmaeil.com/article/202105120306661, 2026-11-20 접속
-[^5]: [매체] "If you are anything like me you may have plucked a flower and placed it in a book for safekeeping, forgotten about it and then rediscovered it much later down the line." (당신도 나와 비슷하다면 꽃을 꺾어 간직하려고 책에 넣었다가 잊어버리고 한참 뒤에 다시 발견한 적이 있을 것이다.) — Chris Hughes, "Specimens caught between the pages", Horniman Museum and Gardens, 2024-02-27, https://www.horniman.ac.uk/story/specimens-caught-between-the-pages, 2026-11-20 접속
+[^5]: [학술] "Often atop a single album page one can encounter a handwritten poem about flowers, a painting representing flowers, and pressed specimens of flowers." (앨범 한 쪽 위에서 꽃에 관한 손글씨 시, 꽃을 그린 그림, 눌러 말린 꽃 표본을 함께 마주치는 일이 많다.) — Deidre Lynch, Faith Pak, Norah Murphy, "Forget-me-not: Souvenirs of Girlhood in the Transatlantic Album", Romantic Circles Gallery, 2022-03, https://www.romantic-circles.org/gallery/exhibit/forget-me-not-souvenirs-girlhood-transatlantic-album, 2026-11-20 접속
+[^6]: [매체] "If you are anything like me you may have plucked a flower and placed it in a book for safekeeping, forgotten about it and then rediscovered it much later down the line." (당신도 나와 비슷하다면 꽃을 꺾어 간직하려고 책에 넣었다가 잊어버리고 한참 뒤에 다시 발견한 적이 있을 것이다.) — Chris Hughes, "Specimens caught between the pages", Horniman Museum and Gardens, 2024-02-27, https://www.horniman.ac.uk/story/specimens-caught-between-the-pages, 2026-11-20 접속
