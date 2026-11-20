@@ -63,6 +63,7 @@
 - [식사비 낼 사람 정하기](../docs/deciding-who-pays-for-meals.md) 다른 사람과 함께 밥을 먹은 사람이 상대의 나이, 성별, 친한 정도와 자리의 성격에 따라 누가 식사비를 낼지 정한다.
   - [계산 피하기](../docs/dodging-the-bill.md)
   - [서로 계산하겠다고 다투기](../docs/fighting-over-the-bill.md)
+- [쓰지 않는 가전 플러그 꽂아 두기](../docs/leaving-appliances-plugged-in.md) 집에 있는 사람이 쓰지 않는 가전제품의 플러그를 콘센트에서 뽑지 않고 꽂아 둔다.
 - [쓰지 않는 구독 유지](../docs/unused-subscription.md) 정기 결제 서비스에 가입한 사람이 그 서비스를 거의 쓰지 않으면서 해지하지 않고 돈을 계속 낸다.
   - [헬스장 등록하고 안 가기](../docs/gym-membership-nonuse.md)
 - [아주 좋거나 아주 나쁠 때 후기 쓰기](../docs/reviewing-after-extreme-experiences.md) 물건이나 가게를 이용한 사람이 아주 만족했거나 아주 불만스러울 때 온라인 후기를 쓴다.
