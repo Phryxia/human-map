@@ -506,6 +506,7 @@
 - [신고해도 소용없다는 믿음](docs/believing-reporting-is-futile.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [신세타령](docs/lamenting-ones-lot.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [신을 원망한 뒤 종교 행위 끊기](docs/quitting-religious-practice-after-blaming-god.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [신조어 몰라 뒤처졌다고 느끼기](docs/feeling-behind-on-slang.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [신호 대기 중의 답답함](docs/impatience-at-red-light.md) ([길과 운전](groups/roads-and-driving.md))
 - [실직 뒤 사람 만남 피하기](docs/withdrawing-after-job-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [실직 사실 숨기기](docs/concealing-job-loss.md) ([남의 시선과 창피함](groups/others-gaze.md))
