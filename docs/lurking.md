@@ -12,7 +12,9 @@
 
 2013년 Han 외의 연구[^2]에서 유방암 환자의 온라인 지원 모임에 글을 읽기만 한 참여자는 기준 시점 3개월 뒤 지각된 기능적 안녕이 글을 올린 참여자보다 높았다.
 
-2026년 5월 클리앙 게시글[^3]의 글쓴이는 3년 동안 눈팅만 하다가 커뮤니티에서 자기 생각을 나누고 싶은 마음이 생겨 가입했다고 썼다. 2026년 7월 클리앙 게시글[^4]의 글쓴이는 오래전에 가입했지만 눈팅만 하다 보니 이제야 처음 글을 올린다고 썼다. 2026년 8월 클리앙 게시글[^5]의 글쓴이는 어느 커뮤니티든 직접 글과 댓글을 쓰는 사람이 전체 사용자의 5\~10% 정도라고 적었다.
+2024년 정책주간지 기사[^3]가 전한 설문에서 응답자의 55.2%가 음악에 맞춰 춤을 추는 챌린지와 쇼트폼 영상을 보기만 한다고 답했고 이미 참여했거나 참여하고 싶다는 응답은 1.6%였다.
+
+2026년 5월 클리앙 게시글[^4]의 글쓴이는 3년 동안 눈팅만 하다가 커뮤니티에서 자기 생각을 나누고 싶은 마음이 생겨 가입했다고 썼다. 2026년 7월 클리앙 게시글[^5]의 글쓴이는 오래전에 가입했지만 눈팅만 하다 보니 이제야 처음 글을 올린다고 썼다. 2026년 8월 클리앙 게시글[^6]의 글쓴이는 어느 커뮤니티든 직접 글과 댓글을 쓰는 사람이 전체 사용자의 5\~10% 정도라고 적었다.
 
 # 관계
 
@@ -40,6 +42,7 @@
 
 [^1]: [매체] "In most online communities, 90% of users are lurkers who never contribute, 9% of users contribute a little, and 1% of users account for almost all the action." (대부분의 온라인 커뮤니티에서 사용자의 90% 는 전혀 기여하지 않고 지켜보기만 하는 사람이고, 9% 는 조금 기여하며, 1% 가 거의 모든 활동을 차지한다.) — Jakob Nielsen, "Participation Inequality: The 90-9-1 Rule for Social Features", Nielsen Norman Group, 2006-10-08, https://www.nngroup.com/articles/participation-inequality/, 2026-11-14 접속
 [^2]: [학술] "In addition, we found that lurkers have a higher level of perceived functional well-being than posters at 3 months post-baseline." (또한 글을 읽기만 하는 사람은 기준 시점 3개월 뒤 지각된 기능적 안녕 수준이 글을 올리는 사람보다 높았다.) — Jeong Yeob Han, Jiran Hou, Eunkyung Kim, David H Gustafson, "Lurking as an Active Participation Process: A Longitudinal Investigation of Engagement with an Online Cancer Support Group", Health Communication, 2013-12-17, https://pmc.ncbi.nlm.nih.gov/articles/PMC4469645/, 2026-11-14 접속
-[^3]: [SNS] "그동안 3년동안 눈팅만 쭉하다가 커뮤니티에서 저의 생각을 공유하고 싶다는 욕구가 생겨서 1년전에 가입한 이래로" — 클리앙 게시글, 2026-05-14, https://www.clien.net/service/board/park/19190921, 2026-11-14 접속
-[^4]: [SNS] "가입은 오래 전에 했었는데 눈팅만 하다보니 글은 처음 올리네요." — 클리앙 게시글, 2026-07-28, https://www.clien.net/service/board/park/19235940, 2026-11-14 접속
-[^5]: [SNS] "어느 커뮤니티나 직접 글을 쓰고 댓글을 남기는 분들은 전체 사용자의 5\~10% 정도밖에 안 됩니다" — 클리앙 게시글, 2026-08-04, https://www.clien.net/service/board/park/19241265, 2026-11-14 접속
+[^3]: [공공] "하지만 이런 챌린지나 쇼트폼 영상 문화에 대해 55.2%가 ‘보기만 한다’고 답했고 ‘관심 없다(18.7%)’와 ‘인기 있는 이유를 모르겠다(13.7%)’는 응답도 적지 않았어요. ‘이미 참여했거나 참여하고 싶다’는 응답은 1.6%에 그쳤죠." — K-공감, "새로운 음악을 만나는 방법? 1위는 ‘알고리즘 추천’ K-팝의 숙제? ‘팬 대상 상업화’", 대한민국 정책브리핑, 2024-11-21, https://gonggam.korea.kr/newsContentView.es?mid=a12603000000&section_id=NCCD_PUBLISH&content=NC002&code_cd=&news_id=0b985322-7aa3-45a0-83a3-9c0a6b88d9b0, 2026-11-20 접속
+[^4]: [SNS] "그동안 3년동안 눈팅만 쭉하다가 커뮤니티에서 저의 생각을 공유하고 싶다는 욕구가 생겨서 1년전에 가입한 이래로" — 클리앙 게시글, 2026-05-14, https://www.clien.net/service/board/park/19190921, 2026-11-14 접속
+[^5]: [SNS] "가입은 오래 전에 했었는데 눈팅만 하다보니 글은 처음 올리네요." — 클리앙 게시글, 2026-07-28, https://www.clien.net/service/board/park/19235940, 2026-11-14 접속
+[^6]: [SNS] "어느 커뮤니티나 직접 글을 쓰고 댓글을 남기는 분들은 전체 사용자의 5\~10% 정도밖에 안 됩니다" — 클리앙 게시글, 2026-08-04, https://www.clien.net/service/board/park/19241265, 2026-11-14 접속
