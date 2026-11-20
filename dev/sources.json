@@ -32125,5 +32125,34 @@
     "last": "2026-11-20",
     "result": "VERIFIED",
     "lastVerified": "2026-11-20"
+  },
+  "https://www.gutenberg.org/cache/epub/66073/pg66073-images.html": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "UNREACHABLE"
+  },
+  "https://www.seoul.co.kr/news/1994/04/27/19940427004002": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://www.cambridge.org/core/journals/ageing-and-society/article/shades-of-grey-to-dye-or-not-to-dye-ones-hair-in-later-life/79879BEEBF7A984E0AD87F394465C9B7": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://www.vogue.co.kr/2019/04/02/gray-dilemma": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://gutenberg.pglaf.org/6/6/0/7/66073/66073-h/66073-h.htm": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
   }
 }

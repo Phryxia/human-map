@@ -75,3 +75,4 @@
   - [이력서 부풀리기](../docs/resume-embellishment.md)
 - [화상 회의에서 자기 얼굴 보기의 불편함](../docs/video-call-self-view-discomfort.md) 화상 회의를 하는 사람이 화면에 비친 자기 모습을 보며 불편하거나 부정적인 감정을 느낀다.
 - [흰머리 뽑기](../docs/plucking-gray-hairs.md) 사람이 자기나 가까운 사람의 머리에서 흰머리를 보면 늙어 보이지 않게 하려고 뽑는다.
+- [흰머리 염색하기](../docs/dyeing-gray-hair.md) 사람이 흰머리가 나면 늙어 보이지 않게 하려고 머리를 검게 물들인다.
