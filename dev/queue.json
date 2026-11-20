@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T12:09:02.677Z",
-  "nextSeq": 5883,
+  "savedAt": "2026-11-20T12:21:17.539Z",
+  "nextSeq": 5887,
   "stops": 312,
   "items": [
+    {
+      "id": "8e1521e3",
+      "title": "taking-long-showers 보강: 학술, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-20 Morizet 외 Journal of Environmental Management 2026 DOI 10.1016/j.jenvman.2026.130596 초록(학술 후보). old.reddit 403. avoiding-being-alone-with-thoughts 와 혼자 있는 시간 관계 후보(MEL 2018)",
+      "createdAt": "2026-11-20T12:21:17.456Z",
+      "seq": 5886
+    },
     {
       "id": "7f208ad2",
       "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",
@@ -1171,6 +1179,14 @@
       "note": "2026-11-20 Straight Dope 652174 #10 2013-03-08 남부 억양이 이사 때마다 돌아옴(문장이 200자 초과). 531985 #6 2010-03-10 'within three months of moving back to the US my American accent came back completely' 후보(미확인). 이전: hisflower 브런치 사용 중, 루리웹 69525333 은 [^7]",
       "createdAt": "2026-11-20T09:39:28.541Z",
       "seq": 5881
+    },
+    {
+      "id": "e6ba02ef",
+      "title": "leaving-appliances-plugged-in 관계: leaving-lights-on",
+      "priority": 30,
+      "note": "2026-11-20 둘 다 귀찮음(Straight Dope 692507 2쪽, 영국 2014 조사 11%)을 이유로 듦. 공통 상위(쓰지 않는 전기 기기 그대로 두기) 또는 대립 근거 파편 없음. Straight Dope 692507 2쪽 셋톱박스 재부팅 1시간 댓글은 원인 후보",
+      "createdAt": "2026-11-20T12:17:44.228Z",
+      "seq": 5885
     },
     {
       "id": "9634edf0",

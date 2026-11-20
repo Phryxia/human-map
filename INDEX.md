@@ -447,6 +447,7 @@
 - [생각하려고 걷기](docs/walking-to-think.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [생색내기](docs/making-a-show-of-favors.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [생일을 잊혀 서운해도 내색하지 않기](docs/hiding-hurt-over-forgotten-birthday.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [샤워 오래 하기](docs/taking-long-showers.md) ([시간과 하루 습관](groups/daily-time.md))
 - [서로 계산하겠다고 다투기](docs/fighting-over-the-bill.md) ([돈과 소비](groups/money.md))
 - [서비스 받는 동안 잡담 피하기](docs/avoiding-small-talk-during-service.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [선물 고르기 고민](docs/gift-choosing-anxiety.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
