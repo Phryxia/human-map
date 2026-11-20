@@ -255,6 +255,7 @@
 - [또래 유행 따라 사기](docs/following-peer-fashion.md) ([돈과 소비](groups/money.md))
 - [또래 음주량 과대 추정](docs/overestimating-peer-drinking.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [뜨개질로 마음 가라앉히기](docs/knitting-to-calm-down.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [뜨거운 음식 식힌 뒤 냉장고에 넣기](docs/cooling-food-before-refrigerating.md) ([건강과 위험](groups/health-and-safety.md))
 - [렌즈 낀 채 잠들기](docs/sleeping-in-contact-lenses.md) ([건강과 위험](groups/health-and-safety.md))
 - [렌즈를 수돗물로 헹구기](docs/rinsing-lenses-with-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
 - [리베이트 받지 않기](docs/rebate-slippage.md) ([돈과 소비](groups/money.md))
