@@ -688,6 +688,7 @@
 - [일터에서 바쁜 척하기](docs/pretending-to-be-busy.md) ([일터와 일자리](groups/work.md))
 - [일하거나 씻으며 흥얼거리기](docs/humming-while-working.md) ([시간과 하루 습관](groups/daily-time.md))
 - [읽고 답하지 않기](docs/leaving-messages-on-read.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [읽어도 머리에 들어오지 않는 글](docs/reading-without-taking-in.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [읽음 표시를 피하려고 메시지 열지 않기](docs/avoiding-read-receipts.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [읽지 않은 메일 쌓아 두기](docs/leaving-emails-unread.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [읽지 않은 책을 읽은 척하기](docs/pretending-to-have-read-books.md) ([남의 시선과 창피함](groups/others-gaze.md))

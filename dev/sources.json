@@ -32621,5 +32621,35 @@
     "last": "2026-11-20",
     "result": "VERIFIED",
     "lastVerified": "2026-11-20"
+  },
+  "https://gutenberg.pglaf.org/cache/epub/969/pg969.txt": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://gutenberg.pglaf.org/cache/epub/4599/pg4599.txt": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://link.springer.com/article/10.3758/MC.36.6.1144": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://researchers.mq.edu.au/en/publications/eye-movements-during-mindless-reading/": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
+  },
+  "https://tildes.net/~books/2r2/help_cant_concentrate_while_reading": {
+    "first": "2026-11-20",
+    "last": "2026-11-20",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-20"
   }
 }

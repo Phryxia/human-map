@@ -30,6 +30,7 @@
 
 - [비밀에 대한 생각에 사로잡히기](thinking-about-secrets.md)
 - [창밖 바라보기](gazing-out-the-window.md)
+- [읽어도 머리에 들어오지 않는 글](reading-without-taking-in.md)
 
 ## 원인
 
