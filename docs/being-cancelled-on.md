@@ -8,13 +8,15 @@
 
 # 서술
 
-2005년 3월 Berkeley Parents Network 게시글의 글쓴이는 친한 친구인 다른 엄마가 아이들 놀이 약속에 늦거나 약속을 취소하는 일이 되풀이되자 짜증스럽고 조금 상처받는다고 썼다. 두 아들은 낙담하고 글쓴이도 실망한다고 덧붙였다.[^1]
+1999년 9월 Straight Dope 게시글[^1]의 글쓴이는 자기 집에서 열기로 한 모임을 친구들이 취소된 줄 알고 오지 않자 담배 네 대를 연달아 피웠다. 글쓴이는 누군가의 목을 조르고 싶어야 할 때 왜 울고 싶은지 의아했다고 썼다.
 
-2021년 6월 블라인드 게시글[^2]의 글쓴이는 출발했다던 친구가 갑자기 돌아가며 약속을 취소하자 "가지가지하네" 하고 짜증을 냈다.
+2005년 3월 Berkeley Parents Network 게시글의 글쓴이는 친한 친구인 다른 엄마가 아이들 놀이 약속에 늦거나 약속을 취소하는 일이 되풀이되자 짜증스럽고 조금 상처받는다고 썼다. 두 아들은 낙담하고 글쓴이도 실망한다고 덧붙였다.[^2]
 
-2023년 1월 Caron 외의 연구[^3]에서 1,192명 가운데 80% 넘게는 약속을 취소한 핑계가 거짓말이었음을 알았을 때 짜증이 났다고 답했다.
+2021년 6월 블라인드 게시글[^3]의 글쓴이는 출발했다던 친구가 갑자기 돌아가며 약속을 취소하자 "가지가지하네" 하고 짜증을 냈다.
 
-2023년 1월 미시간주립대 기사[^4]가 전한 같은 연구의 결과에서 약속을 취소당한 참가자들이 느낀 괴로움은 대체로 낮았다. 취소한 사람이 좋은 친구일 때는 달랐다.
+2023년 1월 Caron 외의 연구[^4]에서 1,192명 가운데 80% 넘게는 약속을 취소한 핑계가 거짓말이었음을 알았을 때 짜증이 났다고 답했다.
+
+2023년 1월 미시간주립대 기사[^5]가 전한 같은 연구의 결과에서 약속을 취소당한 참가자들이 느낀 괴로움은 대체로 낮았다. 취소한 사람이 좋은 친구일 때는 달랐다.
 
 # 관계
 
@@ -40,7 +42,8 @@
 
 #관계 #마음
 
-[^1]: [SNS] "It is annoying - and a little hurtful - as this happens on a regular basis. My two sons end up feeling letdown and I am disappointed too, as the other mother is a good friend." (이런 일이 자주 일어나서 짜증스럽고 조금 상처가 된다. 두 아들은 결국 낙담하고 나도 실망한다. 그 엄마는 좋은 친구이기 때문이다.) — Berkeley Parents Network 게시글, 2005-03, https://www.berkeleyparentsnetwork.org/advice/parents/flakeyfriends, 2026-11-10 접속
-[^2]: [SNS] "출발도 했다고 하더니 갑자기 돌아가는건 뭔데? 취소하니^^ 가지가지하네" — 블라인드 게시글, 2021-06-11, https://www.teamblind.com/kr/post/약속-30분-전에-취소하는-개매너-xmW6pExw, 2026-11-10 접속
-[^3]: [학술] "Over 80% of the sample reported feeling annoyed when they found out that an excuse to cancel was a lie." (표본의 80% 넘게는 취소 핑계가 거짓말이었음을 알았을 때 짜증이 났다고 답했다.) — Sophia Caron, Jacqueline Thomas, Alaina Torres, Jeewon Oh, William Chopik, "How to Cancel Plans With Friends: A Mixed Methods Study of Strategy and Experience", Collabra: Psychology, 2023-01-19, https://api.crossref.org/works/10.1525/collabra.57549, 2026-11-10 접속
-[^4]: [매체] "Overall, people reported relatively low levels of distress when canceled on unless it was by a good friend." (전체적으로 사람들은 약속을 취소당했을 때 비교적 낮은 수준의 괴로움을 보고했다. 취소한 사람이 좋은 친구일 때는 예외였다.) — MSUToday, "Canceling plans with a friend? MSU research says don’t lie", 2023-01-24, https://msutoday.msu.edu/news/2023/01/cancelling-plans-research, 2026-11-10 접속
+[^1]: [SNS] "Chain-smoked about four cigarettes, sucked down the rest of my Coca-cola, and wondered why I felt like crying when I knew I should feel like strangling someone." (담배 네 대쯤을 줄담배로 피우고 남은 콜라를 들이켜고는 누군가의 목을 조르고 싶어야 마땅한데 왜 울고 싶은지 의아했다.) — Straight Dope Message Board 게시글, 1999-09-11, https://boards.straightdope.com/t/is-it-possible-for-a-dipshit-to-become-well-not-a-dipshit/7699, 2026-11-20 접속
+[^2]: [SNS] "It is annoying - and a little hurtful - as this happens on a regular basis. My two sons end up feeling letdown and I am disappointed too, as the other mother is a good friend." (이런 일이 자주 일어나서 짜증스럽고 조금 상처가 된다. 두 아들은 결국 낙담하고 나도 실망한다. 그 엄마는 좋은 친구이기 때문이다.) — Berkeley Parents Network 게시글, 2005-03, https://www.berkeleyparentsnetwork.org/advice/parents/flakeyfriends, 2026-11-10 접속
+[^3]: [SNS] "출발도 했다고 하더니 갑자기 돌아가는건 뭔데? 취소하니^^ 가지가지하네" — 블라인드 게시글, 2021-06-11, https://www.teamblind.com/kr/post/약속-30분-전에-취소하는-개매너-xmW6pExw, 2026-11-10 접속
+[^4]: [학술] "Over 80% of the sample reported feeling annoyed when they found out that an excuse to cancel was a lie." (표본의 80% 넘게는 취소 핑계가 거짓말이었음을 알았을 때 짜증이 났다고 답했다.) — Sophia Caron, Jacqueline Thomas, Alaina Torres, Jeewon Oh, William Chopik, "How to Cancel Plans With Friends: A Mixed Methods Study of Strategy and Experience", Collabra: Psychology, 2023-01-19, https://api.crossref.org/works/10.1525/collabra.57549, 2026-11-10 접속
+[^5]: [매체] "Overall, people reported relatively low levels of distress when canceled on unless it was by a good friend." (전체적으로 사람들은 약속을 취소당했을 때 비교적 낮은 수준의 괴로움을 보고했다. 취소한 사람이 좋은 친구일 때는 예외였다.) — MSUToday, "Canceling plans with a friend? MSU research says don’t lie", 2023-01-24, https://msutoday.msu.edu/news/2023/01/cancelling-plans-research, 2026-11-10 접속
