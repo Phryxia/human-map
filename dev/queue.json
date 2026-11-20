@@ -1,232 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T09:05:50.471Z",
-  "nextSeq": 5825,
-  "stops": 311,
+  "savedAt": "2026-11-20T09:41:16.990Z",
+  "nextSeq": 5883,
+  "stops": 312,
   "items": [
     {
-      "id": "d2125acd",
-      "title": "keeping-locks-of-hair 보강: 연인끼리 머리카락 주고받기, 시기 변화",
-      "priority": 50,
-      "note": "후보: Hardy Far from the Madding Crowd 107 회중시계 속 머리카락, Little Women 514 locks of hair 유품, Lutz 2011 VLC S1060150310000306 유해 간직 관행 쇠퇴, scarymommy bereaved-parents-remember-child 2020 머리카락 못 남긴 후회",
-      "createdAt": "2026-11-20T06:20:33.378Z",
-      "seq": 5821
-    },
-    {
-      "id": "3c1ff246",
-      "title": "dog-earing-pages 보강: 접힌 책에 대한 불쾌, 학술 파편",
-      "priority": 50,
-      "note": "후보: cool.culturalheritage.org/don/dt/dt1045.html dog eared 정의(발행일 미상), brunch brunchjmef/41 2026-06-20 내 책은 안 접음, straightdope 378004 답글 Dog-earring a book damages it, Lamb Detached Thoughts 10343 txt",
-      "createdAt": "2026-11-20T06:27:25.296Z",
-      "seq": 5822
-    },
-    {
-      "id": "f72fda6c",
-      "title": "boasting-about-lineage 보강: 문학 파편, 시기 변화",
-      "priority": 50,
-      "note": "후보: Tess of the d'Urbervilles 110(Gutenberg 4개 문서 사용 중, 쓰면 5개 WARN) skillentons 대목, Times Higher Education 411471 2010-05-06 학문 계보의 가우스·괴테 조상 위신",
-      "createdAt": "2026-11-20T06:30:08.975Z",
-      "seq": 5823
-    },
-    {
-      "id": "0a7ea830",
-      "title": "covering-mirrors-after-death 보강: 문학 파편, 시계 멈추기",
-      "priority": 50,
-      "note": "Gutenberg 507 143 550 122 2148 1661 4217 txt 에 covered the looking-glass/stopped the clock 없음. 후보 미확인: chabad.org aid=2969340, forward.com Five shiva traditions, Mental Floss 2026-06-06 덮지 않은 거울에 영이 갇힌다는 중국 믿음",
-      "createdAt": "2026-11-20T06:34:02.064Z",
-      "seq": 5824
-    },
-    {
-      "id": "73ba5a17",
-      "title": "guilt-about-resigning 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-08 공공 HTML 출처 없음. Oregon 증언 PDF·실명, committees.parliament.uk 봇 확인 403, CDC·NIOSH 에 guilt 없음. 남은 길: leg.colorado.gov 회의록 요약",
-      "createdAt": "2026-11-11T03:26:30.464Z",
-      "seq": 4558
-    },
-    {
-      "id": "2058b1c1",
-      "title": "impostor-phenomenon 보강: perfectionism 관계 간선, 공공 파편",
-      "priority": 30,
-      "note": "2026-11-11 재시도. Pannhausen 2022, 2025 메타분석, PMC12692372 모두 상관·예측만 말함. 인과 문장 없음",
-      "createdAt": "2026-11-11T03:26:52.103Z",
-      "seq": 4559
-    },
-    {
-      "id": "56c040c2",
-      "title": "dreams-as-omens 보강: 한국어 SNS, dreams-of-the-deceased 관계",
-      "priority": 30,
-      "note": "2026-11-11 웹 검색에 네이트판 글 대신 해몽 사이트만 나옴. 이전 후보: Wuthering Heights 768 9장, Collins Queen of Hearts, wgbh 2015-01-15 Morewedge 인터뷰",
-      "createdAt": "2026-11-11T03:27:15.339Z",
-      "seq": 4560
-    },
-    {
-      "id": "4f66f96a",
-      "title": "rechecking-door-and-stove 보강: 문학 파편",
-      "priority": 30,
-      "note": "2026-10-31 青空文庫 덤프와 Gutenberg 130종에서 못 찾음. 2026-11-08 Secret Agent 974, 蛋白石 15950, Pepys 4200, Ulysses 4300 등 31종도 없음. 2026-11-11 pepysdiary 1667-11-29(밤 소리에 문 열어 봄), 1666-07-07(소동) 도 확인 뒤 재확인 아님. Ulysses 'couldnt rest easy till I bolted all the doors' 근접",
-      "createdAt": "2026-11-11T09:33:35.530Z",
-      "seq": 4585
-    },
-    {
-      "id": "482f3e68",
-      "title": "fear-of-dying-alone 관계: loneliness, 결과",
-      "priority": 30,
-      "note": "2026-11-11 인과 문장 탐색 실패. 확인한 것: straightdope 830892 (2019-03-10) 첫 글 lonely people bummed out by prospect of dying alone(인과 아님, 연관), Voice of London westminster 2018-12-01 British Red Cross 외로운 성인 절반 넘게 아무도 모를까 두려움(죽음 언급 없음), PMC5990949 실존적 외로움 fear of dying alone 225자 초과, HuffPost UK 2018-11-26 두 문장 200자 초과, Guardian 2024-07-01 외로움 인과 없음. 한국어·일본어 HTML 해당 없음",
-      "createdAt": "2026-11-11T15:27:30.073Z",
-      "seq": 4605
-    },
-    {
-      "id": "0edefb85",
-      "title": "self-blame-after-fraud 와 complying-with-impersonation-calls 원인 간선",
-      "priority": 30,
-      "note": "2026-11-11 후보 더함: 중앙일보 다음 전재 v.daum.net/v/kSx1T9YTSf (목소리 사기 7000억 시대 ⑤, 2020년대) '보이스피싱 피해자들은 허무하게 당한 뒤 심한 자책감에 빠지게 된다'(당한 뒤라는 순서, 사칭 전화를 따른 일과의 인과 문장은 아님, 발행일 확인 필요). kbthink voice-phishing-cases 자책 말고 신고 안내뿐. 이전: msnbc 2008, ljworld 2006-04-24, asiatoday 20261109010003325, cbc 2024-03-13",
-      "createdAt": "2026-11-11T15:29:22.970Z",
-      "seq": 4606
-    },
-    {
-      "id": "bca4356f",
-      "title": "hesitating-to-use-maternity-seats 와 not-yielding-maternity-seats 원인 간선",
-      "priority": 30,
-      "note": "2026-11-11 brunch ojen1128/348 (2024-06-11) 자는 사람 깨워 양보 부탁 어려워 서서 감 파편 더함(비켜 주지 않음과의 인과 아님). 후보: seoul.co.kr 2026/04/23 20260423500135 배려석 괴롭힘, twig24 2026-06-12 양보 부탁 거부, supple.kr cml08bbp000fa4a7gqbwxy12n 욕설, 인구보건복지협회 2025 자리를 지켜주지 않아서 90.3%(PDF 여부 확인)",
-      "createdAt": "2026-11-11T15:30:50.754Z",
-      "seq": 4607
-    },
-    {
-      "id": "55a7d475",
-      "title": "walking-dog-off-leash 보강: 내 개는 순하다는 믿음의 학술 파편",
-      "priority": 30,
-      "note": "2026-11-12 Straight Dope 136922/10 (2002-11-15) 더함. 학술 후보 못 찾음",
-      "createdAt": "2026-11-12T03:31:38.633Z",
-      "seq": 4639
-    },
-    {
-      "id": "79fdff81",
-      "title": "early-morning-solitude 보강: 공공 파편, 1853년 문학",
-      "priority": 30,
-      "note": "2026-11-12 학술 Fichten 2023 PMC10604366 더함. 남은 후보: Neville 2024 PMC13294714 자폐 성인 혼자 시간 'I would get up before everyone else', Gaskell Ruth(1853) gutenberg 4275 'She rose while the hedge-sparrow was yet singing' (목적이 공부). 생활시간조사 HTML 미발견",
-      "createdAt": "2026-11-12T09:23:52.582Z",
-      "seq": 4666
-    },
-    {
-      "id": "0374069b",
-      "title": "ordering-the-same-dish 보강: 학술 또는 공공 파편",
-      "priority": 30,
-      "note": "2026-11-12 재탐색. Ha 2011 Purdue 박사논문 docs.lib.purdue.edu/dissertations/AAI3479490 은 식당 선택이지 메뉴가 아님. emerald Ha·Jang 2013 403. 세계일보 2026-05-02 segye 20260502502217 은 만족한 메뉴 재선택(매체, 미확인). 다음: Ha·Jang 2013 IJHM ScienceDirect 초록, mafra.go.kr view.do 보도자료",
-      "createdAt": "2026-11-12T09:38:14.388Z",
-      "seq": 4672
-    },
-    {
-      "id": "9afb8145",
-      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편",
-      "priority": 30,
-      "note": "2026-11-12 재탐색. emerald Horne 2007 Unredeemed gift cards 는 Cloudflare. 리베이트 slippage 연구는 다른 현상",
-      "createdAt": "2026-11-12T09:39:49.158Z",
-      "seq": 4674
-    },
-    {
-      "id": "828c9eef",
-      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
-      "priority": 30,
-      "note": "2026-11-12 다섯 회차째 한국어 SNS 미발견('그럴 줄 알았다', '사후확신 편향' 검색은 해설 글만). 이전: 한국경제 202504278937i [^7]. bereavement-regret, regret-aversion 에 간선 근거 대목 없음",
-      "createdAt": "2026-11-12T21:16:56.911Z",
-      "seq": 4737
-    },
-    {
-      "id": "22022933",
-      "title": "contacting-an-ex 관계: breaking-up 결과, 술과 충동",
-      "priority": 30,
-      "note": "2026-11-12 Belu 2016 (cambridge 초록) 은 이별 적응 어려움이 연락 시도를 예측한다고만 함(인과 표지 약함). 후보: PMC10359486 (2020) 'both men and women report attempting to contact their ex partners for sex', PMC7709927 이혼 뒤 월 55% 주 32% 연락(Masheter 1997 인용), Live Science 2015-04-08 Dunne & Katz 술 문자",
-      "createdAt": "2026-11-12T21:23:31.096Z",
-      "seq": 4741
-    },
-    {
-      "id": "671068f1",
-      "title": "idealizing-partner 관계: love-at-first-sight, attachment-anxiety",
-      "priority": 30,
-      "note": "2026-11-12 Tess 1891, 아시아경제 2015-05-19, PMC11367802 (2023) 로 추가. 예비: PMC8074860 Bode 2021 'idealization of the other in the relationship' 낭만적 사랑의 인지 요소(상위 '낭만적 사랑' 후보), 아시아경제 같은 글 미혼 90.2% 콩깍지 경험, Middlemarch 145 Dorothea 'He thinks with me' (교제 전)",
-      "createdAt": "2026-11-12T21:25:38.346Z",
-      "seq": 4743
-    },
-    {
-      "id": "1a4e2fb6",
-      "title": "sexual-desire-discrepancy 보강: 한국어 파편, partner-conflict 관계",
-      "priority": 30,
-      "note": "2026-11-12 straightdope 196359 (2003), PMC7058563 (2020), NZ Herald 2023-08-28 로 추가. straightdope 대목 'push each other away' 는 관계 거리 두기 결과 후보. PMC7058563 'If desire ebbs and flows naturally, then it is unlikely partners will always be in sync' 시기 변동. 한국어 기사·공공 미발견(segye 2002 주제 다름, kormedi 1188635 일반론)",
-      "createdAt": "2026-11-12T21:27:40.207Z",
-      "seq": 4744
-    },
-    {
-      "id": "75761619",
-      "title": "attraction-outside-relationship 보강: 다른 시기·한국어 파편",
-      "priority": 30,
-      "note": "2026-11-12 Boston.com Love Letters 2013-01-24, PMC4786456 (2015) 로 추가. 문학 후보 Age of Innocence 541 33장 'he thought with a sudden hunger of being for a moment alone with her' 는 541 이 이미 4개 문서라 못 씀. PMC4786456 같은 글 'these crushes improved their desire for their partner' 는 sexual-desire-discrepancy 관계 후보. SNS·한국어 미발견",
-      "createdAt": "2026-11-12T21:29:49.965Z",
-      "seq": 4745
-    },
-    {
-      "id": "b8b53b91",
-      "title": "picking-up-phone-in-idle-moments 보강: 원인 간선(지루함), SNS 파편",
-      "priority": 30,
-      "note": "2026-11-12 Kruger 2017, 경북매일 2026-04-16, brunch nodin/65 로 추가. PMC8261226 Dora 2021 'participants were more likely to interact with their smartphone the more fatigued or bored they were' 는 boredom 원인 간선 후보(인과 표지 약함). brunch 같은 글 제목 '가만히 있는 것에 대한 불안함' 은 avoiding-being-alone-with-thoughts 관계 후보",
-      "createdAt": "2026-11-12T21:32:33.993Z",
-      "seq": 4746
-    },
-    {
-      "id": "e8daa537",
-      "title": "fear-of-sexual-rejection 보강: 한국어·SNS 파편, sexual-desire-discrepancy 관계",
-      "priority": 30,
-      "note": "2026-11-12 Psychology Today 2016-11-23, PMC10148619 (2023), Cape Argus 2026-05-15 로 추가. Psychology Today 같은 글 'men often start to behave in ways that will help them avoid rejection, such as pulling back from sex' 는 회피 결과 후보. lady.khan.co.kr 2010 무렵 성 상담 기사 미확인. psypost 봇 차단",
-      "createdAt": "2026-11-12T21:34:38.927Z",
-      "seq": 4747
-    },
-    {
-      "id": "d40031e0",
-      "title": "betting-on-overdue-lottery-numbers 보강: 한국어 파편, hot hand 대립",
-      "priority": 30,
-      "note": "2026-11-12 NBER w3769 (1991), Philstar 2023-03-27, repec Dillon & Lybbert 2024 로 추가. repec 같은 초록 'A small subset of players in each country exhibit the hot hand fallacy, and bet recent winners' 는 뜨거운 손 오류 현상 후보. GQ Korea ?p=343790 (2025-11-01) '오래 안 나온 숫자는 이제 나올 차례다?' 는 봇 확인 페이지가 섞여 나옴",
-      "createdAt": "2026-11-12T21:36:55.651Z",
-      "seq": 4748
-    },
-    {
-      "id": "e360998d",
-      "title": "nomophobia 관계: low-battery-anxiety 원인 간선",
-      "priority": 30,
-      "note": "2026-11-12 insider.co.uk 10877982 (2017-07-27), PMC6510111 (2019) 로 추가. insider 같은 글 'It's this that can lead to us feeling anxious' 는 low-battery-anxiety 원인 근거 후보(업체 측 발언, 다른 출처 필요). bps research-digest nomophobia 2015-05-07 후보",
-      "createdAt": "2026-11-12T21:37:52.328Z",
-      "seq": 4749
-    },
-    {
-      "id": "6396d422",
-      "title": "buying-books-without-reading 관계: not-reading-books, difficulty-discarding",
-      "priority": 30,
-      "note": "2026-11-13 확인: 별칭 Bibliomania 는 이미 있음. 남은 것은 관계뿐이고 인과 표지 파편이 필요. 서울신문 2021 칼럼 '읽고 싶었기 때문' 은 같은 현상 안의 이유. Morley 1919 Gutenberg 172 후보",
-      "createdAt": "2026-11-13T03:20:57.366Z",
-      "seq": 4777
-    },
-    {
-      "id": "9a6239cc",
-      "title": "first-paycheck-gift-to-parents 보강: 공공·학술·문학 파편",
-      "priority": 30,
-      "note": "2026-11-13 재시도. bizforms magazine/articles/8281 은 열리나 매체이고 '취업전문 사이트의 설문조사' 58.4% 재인용. 공공·학술 출처 못 찾음",
-      "createdAt": "2026-11-13T03:21:11.963Z",
-      "seq": 4778
-    },
-    {
-      "id": "12a8b631",
-      "title": "attraction-outside-relationship 보강: 한국어 SNS·공공 파편",
-      "priority": 30,
-      "note": "2026-11-13 재시도. 공공 없음. 블라인드 '다른-사람을-사랑하는데-남자친구가-있어도-괜찮나요' 는 연도 없고 지난 상대. 마리끌레르 2018-06-08 '바람 남녀' 대목은 앞 문장에 실명. 레이디경향 2004-11-01 article/5388 '마음은 있지만 한 적은 없다' 남 29% 여 34% 는 표라 원문 고르기 어려움",
-      "createdAt": "2026-11-13T03:29:42.539Z",
-      "seq": 4779
-    },
-    {
-      "id": "370f54c1",
-      "title": "picking-up-others-accent 보강: 함께 지내는 사람이 바뀌면 말투가 돌아오는 면",
-      "priority": 30,
-      "note": "2026-11-13 hisflower 브런치는 dancing-alone-at-home 이 이미 씀. 루리웹 69525333 은 이미 [^7]. 클리앙 park 19194921·19225489·19217973 은 사투리 논쟁이라 무관. 다른 출처 필요",
-      "createdAt": "2026-11-13T09:22:02.118Z",
-      "seq": 4832
+      "id": "011cc162",
+      "title": "dev: source-check 가 gutenberg.net.au 의 VERIFIED 파편을 한 번 NOT_FOUND 로 판정",
+      "priority": 60,
+      "note": "2026-11-20 picking-up-others-accent [^2] https://gutenberg.net.au/ebooks05/0500961h.html (ISO-8859 HTML, 492KB) 첫 실행 NOT_FOUND·소멸 안내, 바로 다시 돌리니 VERIFIED. 재시도 뒤에도 원문이 없던 원인(잘린 응답 또는 charset) 재현 필요",
+      "createdAt": "2026-11-20T09:41:10.694Z",
+      "seq": 5882
     },
     {
       "id": "7f208ad2",
@@ -1285,6 +1069,118 @@
       "seq": 5812
     },
     {
+      "id": "5ce726bf",
+      "title": "keeping-locks-of-hair 보강: 시기 변화",
+      "priority": 30,
+      "note": "2026-11-20 Lutz 2010 VLC doi 10.1017/s1060150310000306 는 Cambridge 초록 페이지에 본문·초록 없음. Little Women 514 는 이미 4개 문서 사용 중. 남은 후보: 2000년 이후 매체에서 연인끼리 머리카락 주고받기",
+      "createdAt": "2026-11-20T09:22:48.346Z",
+      "seq": 5856
+    },
+    {
+      "id": "4486e9d7",
+      "title": "boasting-about-lineage 보강: 시기 변화",
+      "priority": 30,
+      "note": "2026-11-20 THE 411471 'A trace of greatness' 2010-05-06 은 학문 계보(가우스 조상) 위신이라 가문 자랑과 다른 현상(학문 계보 자랑 신규 후보). Martin Chuzzlewit 968 은 inheritance-disputes 가 사용 중, 200자 안 완결 문장 없음. 필요: 1950~2000년 매체나 한국어 SNS 족보 자랑",
+      "createdAt": "2026-11-20T09:24:01.647Z",
+      "seq": 5857
+    },
+    {
+      "id": "1d327f62",
+      "title": "covering-mirrors-after-death 보강: 시계 멈추기",
+      "priority": 30,
+      "note": "2026-11-20 Chekhov 1887, Zangwill 1892 문학 파편 추가함. 시계 멈추기 문학 대목은 Gutenberg 약 100권 grep 에 없음. 후보: Ulysses 4300 'The sheeted mirror.', thevictorianbookofthedead.wordpress.com(매체)",
+      "createdAt": "2026-11-20T09:24:54.973Z",
+      "seq": 5859
+    },
+    {
+      "id": "7489e6a2",
+      "title": "dreams-as-omens 보강: 한국어 SNS, dreams-of-the-deceased 관계",
+      "priority": 30,
+      "note": "2026-11-20 '꿈자리가 사나워서' 검색: damoang.net/free/5483338 (2025-12 흉몽 뒤 운전 조심), damoang.net/free/743998 (계약할 집 꿈자리) 둘 다 이 환경에서 403. 이전: 네이트판 대신 해몽 사이트만, Wuthering Heights 768 9장, wgbh 2015-01-15 Morewedge",
+      "createdAt": "2026-11-20T09:25:53.452Z",
+      "seq": 5862
+    },
+    {
+      "id": "782008ba",
+      "title": "early-morning-solitude 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-20 Gaskell Ruth 1853 문학 파편 추가함. 생활시간조사 HTML 미발견. 후보: Neville 2024 PMC13294714 자폐 성인 'I would get up before everyone else'(학술)",
+      "createdAt": "2026-11-20T09:30:34.218Z",
+      "seq": 5867
+    },
+    {
+      "id": "8b4f9b89",
+      "title": "contacting-an-ex 관계: breaking-up 결과, 술과 충동",
+      "priority": 30,
+      "note": "2026-11-12 Belu 2016 인과 표지 약함. 후보: PMC10359486 (2020) 성관계 목적 연락, PMC7709927 이혼 뒤 월 55% 주 32% 연락(Masheter 1997 인용), Live Science 2015-04-08 Dunne & Katz 술 문자",
+      "createdAt": "2026-11-20T09:31:50.747Z",
+      "seq": 5872
+    },
+    {
+      "id": "a00a2f85",
+      "title": "picking-up-phone-in-idle-moments 보강: 원인 간선(지루함), SNS 파편",
+      "priority": 30,
+      "note": "2026-11-20 bps research-digest looking-your-phone-work-might-make-you-even-more-bored: 'a ten-point increase in boredom ... resulted in a 40% higher likelihood someone would reach for their phone' 는 인과 표지 있으나 괄호 포함 200자 초과. 같은 글 'As participants’ fatigue and boredom increased, so too did the frequency with which they looked at their phones.' 는 상관. essex.ac.uk 2026-05-27 hatred-of-boredom 은 연결 실패. 이전: PMC8261226 Dora 2021",
+      "createdAt": "2026-11-20T09:32:14.754Z",
+      "seq": 5873
+    },
+    {
+      "id": "d3bd021a",
+      "title": "idealizing-partner 관계: love-at-first-sight, attachment-anxiety",
+      "priority": 30,
+      "note": "2026-11-20 love at first sight idealization 검색: Psychology Today 2021-08 why-the-most-perceptive-people 'rose-colored glasses' 대목(인과 아님), Psychological Science 2020 Blind at First Sight 후보(본문 미확인). 이전: PMC8074860 Bode 2021, 아시아경제 2015-05-19 90.2%, Middlemarch 145",
+      "createdAt": "2026-11-20T09:32:30.409Z",
+      "seq": 5874
+    },
+    {
+      "id": "347e1bd3",
+      "title": "sexual-desire-discrepancy 보강: 한국어 파편",
+      "priority": 30,
+      "note": "2026-11-20 Psychology Today 2022-05-01 Castleman 으로 partner-conflict 결과 간선 그음. 한국어 기사·공공 미발견. straightdope 196359 'push each other away' 는 관계 거리 두기 결과 후보",
+      "createdAt": "2026-11-20T09:34:02.135Z",
+      "seq": 5875
+    },
+    {
+      "id": "909a236f",
+      "title": "attraction-outside-relationship 보강: 한국어 파편, 지나가는 끌림",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope 837369 #52 2019 SNS 추가함. 같은 댓글 'It eventually passes.' 는 시간이 지나 사라지는 면. 633553 #103 2012-12-10 'I have developed a huge crush on my coworker' 후보. 한국어 미발견",
+      "createdAt": "2026-11-20T09:35:04.451Z",
+      "seq": 5876
+    },
+    {
+      "id": "755fdd0b",
+      "title": "fear-of-sexual-rejection 보강: 한국어·SNS 파편, sexual-desire-discrepancy 관계",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope search 'fear of rejection' initiate 는 데이트 신청 거절(43686, 408105, 840387 등)이라 다른 현상(데이트 신청 거절 두려움 후보). 이전: Psychology Today 2016-11-23 'pulling back from sex' 회피 결과 후보, psypost 봇 차단",
+      "createdAt": "2026-11-20T09:37:18.913Z",
+      "seq": 5877
+    },
+    {
+      "id": "9117928b",
+      "title": "buying-books-without-reading 관계: not-reading-books, difficulty-discarding",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope search 로 '안 읽은 책을 못 버림' 대목 못 찾음. 이전: 서울신문 2021 '읽고 싶었기 때문'(같은 현상 안의 이유), Morley 1919 Gutenberg 172 후보",
+      "createdAt": "2026-11-20T09:37:47.753Z",
+      "seq": 5878
+    },
+    {
+      "id": "aabdd289",
+      "title": "first-paycheck-gift-to-parents 보강: 학술·문학 파편",
+      "priority": 30,
+      "note": "2026-11-20 정책브리핑 2009-11-29 148682323 공공 파편 추가함. 후보: ko.wikisource 이무영 「월급날」(1934) 은 선물이 중심 아님, brunch @8728/46 첫 월급",
+      "createdAt": "2026-11-20T09:38:50.537Z",
+      "seq": 5879
+    },
+    {
+      "id": "fe74bae5",
+      "title": "picking-up-others-accent 보강: 함께 지내는 사람이 바뀌면 말투가 돌아오는 면",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope 652174 #10 2013-03-08 남부 억양이 이사 때마다 돌아옴(문장이 200자 초과). 531985 #6 2010-03-10 'within three months of moving back to the US my American accent came back completely' 후보(미확인). 이전: hisflower 브런치 사용 중, 루리웹 69525333 은 [^7]",
+      "createdAt": "2026-11-20T09:39:28.541Z",
+      "seq": 5881
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1715,6 +1611,86 @@
       "note": "2026-11-20 다시 못 찾음. Gutenberg 17종 grep 에 손님이 약장 여는 장면 없음. MDPI Pharmacy 6(3):74 가정 약장 연구는 MDPI 403. 이전: Litman & Pezzo 2007 digital.stpetersburg.usf.edu fac_publications/1226 Snooping 요인",
       "createdAt": "2026-11-20T03:34:02.754Z",
       "seq": 5808
+    },
+    {
+      "id": "9bdbf2e3",
+      "title": "guilt-about-resigning 보강: 공공 파편",
+      "priority": 20,
+      "note": "2026-11-20 nurses leaving guilt 검색에 공공 HTML 없음(house.mn.gov PDF 는 노조 보고서). 이전: Oregon 증언 PDF·실명, committees.parliament.uk 봇 확인 403, CDC·NIOSH 에 guilt 없음. 남은 길: leg.colorado.gov 회의록 요약, 한국 공공기관 이직 조사",
+      "createdAt": "2026-11-20T09:25:14.491Z",
+      "seq": 5860
+    },
+    {
+      "id": "42885429",
+      "title": "impostor-phenomenon 보강: perfectionism 관계 간선, 공공 파편",
+      "priority": 20,
+      "note": "2026-11-20 .gov 검색은 PMC 학술 논문만(PMC9055705 MD-PhD 2022, PMC12615355 2025 번아웃 상관). 공공 HTML 없음. 이전: Pannhausen 2022, 2025 메타분석, PMC12692372 모두 상관·예측만",
+      "createdAt": "2026-11-20T09:25:29.950Z",
+      "seq": 5861
+    },
+    {
+      "id": "dfca3257",
+      "title": "rechecking-door-and-stove 보강: 문학 파편",
+      "priority": 20,
+      "note": "2026-10-31~11-11 青空文庫, Gutenberg 160여 종, pepysdiary 에서 못 찾음. Ulysses 4300 'couldnt rest easy till I bolted all the doors' 근접(재확인 아님)",
+      "createdAt": "2026-11-20T09:25:58.495Z",
+      "seq": 5863
+    },
+    {
+      "id": "0bb10dee",
+      "title": "fear-of-dying-alone 관계: loneliness, 결과",
+      "priority": 20,
+      "note": "2026-11-11 인과 문장 탐색 실패(straightdope 830892, Voice of London 2018-12-01, PMC5990949 225자, HuffPost UK 2018-11-26, Guardian 2024-07-01). 한국어·일본어 HTML 해당 없음",
+      "createdAt": "2026-11-20T09:27:20.903Z",
+      "seq": 5864
+    },
+    {
+      "id": "c94d971c",
+      "title": "self-blame-after-fraud 와 complying-with-impersonation-calls 원인 간선",
+      "priority": 20,
+      "note": "2026-11-20 v.daum.net/v/kSx1T9YTSf 발행 2021-12-13 확인, '허무하게 당한 뒤 심한 자책감에 빠지게 된다' 는 순서일 뿐 인과 표지 없음. brunch.co.kr/@@iIsL/23 '왜 하필 나였을까요?' 피해자들이 자신을 탓함 후보(미확인). 이전: kbthink, msnbc 2008, ljworld 2006-04-24, asiatoday 20261109010003325, cbc 2024-03-13",
+      "createdAt": "2026-11-20T09:27:49.148Z",
+      "seq": 5865
+    },
+    {
+      "id": "169c1d07",
+      "title": "hesitating-to-use-maternity-seats 와 not-yielding-maternity-seats 원인 간선",
+      "priority": 20,
+      "note": "2026-11-20 인구보건복지협회 2025 조사 보도 twig24 20251224008008 (2025-12-23) '불편의 이유로는 ‘자리를 비켜주지 않아서’가 90.3%' 확인. 불편이지 망설임이 아니라 원인 간선 근거로 약함. 배려석 이용 불편 신규 현상 후보. newsis NISX20240208_0002622636 비켜주지 않음 대목뿐",
+      "createdAt": "2026-11-20T09:28:22.994Z",
+      "seq": 5866
+    },
+    {
+      "id": "88294959",
+      "title": "ordering-the-same-dish 보강: 학술 또는 공공 파편",
+      "priority": 20,
+      "note": "2026-11-20 ageconsearch.umn.edu/record/150266 영수증 연구는 202 봇 확인. Quester·Steyer 2009 JCR(sciencedaily 090921162238)은 일행 주문 다양성이지 같은 메뉴 반복 아님. 이전: Ha 2011 Purdue, emerald Ha·Jang 2013 403, segye 20260502502217",
+      "createdAt": "2026-11-20T09:31:00.599Z",
+      "seq": 5868
+    },
+    {
+      "id": "3e6fcba3",
+      "title": "letting-gift-cards-and-points-expire 보강: 2000년대 학술 파편",
+      "priority": 20,
+      "note": "2026-11-20 웹 검색에 2008~2009 공개 학술 없음(paymentsjournal, gcn, pbs 2023~2026 매체뿐). 다음: SSRN, RePEc 'gift card breakage'. 이전: emerald Horne 2007 Cloudflare",
+      "createdAt": "2026-11-20T09:31:14.160Z",
+      "seq": 5869
+    },
+    {
+      "id": "e7b61f5b",
+      "title": "betting-on-overdue-lottery-numbers 보강: 한국어 파편, hot hand 대립",
+      "priority": 20,
+      "note": "2026-11-20 GQ Korea ?p=343790 (2025-11-01) 본문이 받아지지 않고 소제목 '오래 안 나온 숫자는 이제 나올 차례다?' 만 있음. maily.so lottospecial 8mo5e3l1o9p 는 제외수(반대 방향). 이전: repec Dillon & Lybbert 2024 hot hand 대목",
+      "createdAt": "2026-11-20T09:31:36.986Z",
+      "seq": 5870
+    },
+    {
+      "id": "682a00b5",
+      "title": "attraction-outside-relationship 보강: 한국어 SNS·공공 파편",
+      "priority": 20,
+      "note": "2026-11-20 레이디경향 2004-11-01 article/5388 본문에서 끌림 대목 못 찾음(표). 이전: 블라인드 글 연도 없음, 마리끌레르 2018-06-08 실명. 공공 없음",
+      "createdAt": "2026-11-20T09:39:06.191Z",
+      "seq": 5880
     },
     {
       "id": "9c55db6a",
@@ -3243,6 +3219,22 @@
       "note": "wearing-mourning-clothes 작업 중 문화일보 2020-11-03 흰 상복 칼럼(munhwa.com/article/11210972)에서 봄. 검은 상복 대신 전통 흰 상복을 고르는 일. 하위 후보",
       "createdAt": "2026-11-20T06:16:55.641Z",
       "seq": 5820
+    },
+    {
+      "id": "410b605d",
+      "title": "학문 계보 자랑",
+      "priority": 10,
+      "note": "THE 2010-05-06 timeshighereducation.com/411471.article: 가우스나 괴테를 학문 조상으로 내세워 위신을 얻음. boasting-about-lineage 의 하위 또는 형제 후보",
+      "createdAt": "2026-11-20T09:24:01.710Z",
+      "seq": 5858
+    },
+    {
+      "id": "a0d26b1f",
+      "title": "hindsight-bias 보강: 한국어 SNS 파편, regret-aversion·bereavement-regret 관계",
+      "priority": 10,
+      "note": "2026-11-12 까지 다섯 회차 한국어 SNS 미발견, 간선 근거 없음. 이전: 한국경제 202504278937i [^7]",
+      "createdAt": "2026-11-20T09:31:44.122Z",
+      "seq": 5871
     },
     {
       "id": "02b2f242",
