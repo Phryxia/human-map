@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-19T21:28:15.365Z",
-  "nextSeq": 5783,
-  "stops": 308,
+  "savedAt": "2026-11-20T00:33:41.795Z",
+  "nextSeq": 5801,
+  "stops": 309,
   "items": [
+    {
+      "id": "672a80d8",
+      "title": "pressing-flowers-in-books 보강: 학술 파편, 다른 시기 문학",
+      "priority": 50,
+      "note": "2026-11-20 학술 후보 Scandinavian Journal of History 2016 doi 10.1080/03468755.2016.1179825 18세기 스웨덴 편지 속 압화, Emily Dickinson Journal 2025 Pressed Flowers as Lyric Subject 모두 봇 확인. 문학 후보 Tolstoy Youth 37장(wikisource), Alcott Under the Lilacs",
+      "createdAt": "2026-11-20T00:15:05.961Z",
+      "seq": 5792
+    },
+    {
+      "id": "6ed6dcb1",
+      "title": "buying-on-influencer-recommendation 보강: 학술, SNS 파편, 2010년대 이전 출처",
+      "priority": 50,
+      "note": "2026-11-20 공공 2024, 매체 2026 뿐. 후보 PYMNTS 2025 influencers-may-not-be-so-influential, 같은 K-공감 글의 자존감 28.2% 는 소셜 미디어 비교 문서 후보",
+      "createdAt": "2026-11-20T00:25:55.687Z",
+      "seq": 5797
+    },
+    {
+      "id": "d7504b21",
+      "title": "comparing-oneself-on-social-media 와 buying-on-influencer-recommendation, fear-of-missing-out 관계",
+      "priority": 50,
+      "note": "2026-11-20 두 문서가 같은 K-공감 2024-04-04 인플루언서 글에서 나옴. 인과 문장 있는 출처 필요",
+      "createdAt": "2026-11-20T00:33:33.444Z",
+      "seq": 5799
+    },
+    {
+      "id": "ef0ae999",
+      "title": "coworker-odor-annoyance 보강: 말 못 하고 참는 면, SNS·학술 파편",
+      "priority": 50,
+      "note": "2026-11-20 korea.kr 2010 같은 글에 혼자 참는다 34.3%. nj1015 2018 OfficeTeam 46% suffer in silence 는 실명 문장",
+      "createdAt": "2026-11-20T00:33:33.504Z",
+      "seq": 5800
+    },
     {
       "id": "2904cfad",
       "title": "saying-haircut-is-fine 보강: 학술, SNS 파편",
@@ -3171,6 +3203,46 @@
       "note": "Scanlon 외 1993 BMJ PMC1697765 초록 'There were consistently and significantly fewer vehicles on the southern section of the M25 on Friday the 13th compared with Friday the 6th.' 확인함. avoiding-unlucky-numbers 와 관계 후보",
       "createdAt": "2026-11-19T18:28:23.691Z",
       "seq": 5755
+    },
+    {
+      "id": "3247653f",
+      "title": "집에서 새 구경하기",
+      "priority": 10,
+      "note": "2026-11-20 공공 후보 fws.gov/story/2024-12/birdwatching-america 2024-12-09 Backyard birding 95%. ONS 2021-04-26 howhaslockdownchangedourrelationshipwithnature 자연이 더 소중해짐 40%",
+      "createdAt": "2026-11-20T00:25:55.430Z",
+      "seq": 5793
+    },
+    {
+      "id": "729372c9",
+      "title": "대중문화 속 이름으로 아이 이름 짓기",
+      "priority": 10,
+      "note": "2026-11-20 공공 후보 ONS 2022-10-05 fromstarwarstothekardashians 기사 Ziggy 33→136",
+      "createdAt": "2026-11-20T00:25:55.493Z",
+      "seq": 5794
+    },
+    {
+      "id": "6120b5f8",
+      "title": "밈과 신조어 모를 때 뒤처진다고 느끼기",
+      "priority": 10,
+      "note": "2026-11-20 공공 후보 K-공감 2024-11-28 news_id=e49f2ee7-6e01-46a3-93a3-edf6814e652a 40.4%. fear-of-missing-out 과의 관계 확인",
+      "createdAt": "2026-11-20T00:25:55.556Z",
+      "seq": 5795
+    },
+    {
+      "id": "3b11f04c",
+      "title": "동료 몸의 담배 냄새 혼자 참기",
+      "priority": 10,
+      "note": "2026-11-20 공공 후보 korea.kr healthView newsId=148693988 2010-05-19 혼자 참는다 34.3%",
+      "createdAt": "2026-11-20T00:25:55.621Z",
+      "seq": 5796
+    },
+    {
+      "id": "83a88b5e",
+      "title": "동료 몸의 냄새를 말 못 하고 참기",
+      "priority": 10,
+      "note": "2026-11-20 공공 korea.kr healthView newsId=148693988 2010 혼자 참는다 34.3%. 매체 후보 nj1015.com 2018 OfficeTeam 46% suffer in silence 는 실명 든 문장이라 못 씀. SHRM odors-fragrances-not-welcome-work 39% 불쾌 대목 있음. plansponsor 403",
+      "createdAt": "2026-11-20T00:30:05.572Z",
+      "seq": 5798
     },
     {
       "id": "02b2f242",
