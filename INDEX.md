@@ -138,6 +138,7 @@
 - [나이 줄여 말하기](docs/understating-age.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [나중에 갚기로 하고 사기](docs/buying-now-paying-later.md) ([돈과 소비](groups/money.md))
 - [낙관 편향](docs/unrealistic-optimism.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [낙엽 타는 냄새 좋아하기](docs/liking-the-smell-of-burning-leaves.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [난방기기 켜 둔 채 잠들기](docs/sleeping-with-heater-on.md) ([건강과 위험](groups/health-and-safety.md))
 - [난방기에 빨래 말리기](docs/drying-laundry-on-heaters.md) ([건강과 위험](groups/health-and-safety.md))
 - [날닭고기 씻기](docs/washing-raw-chicken.md) ([건강과 위험](groups/health-and-safety.md))

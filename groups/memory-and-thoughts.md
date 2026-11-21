@@ -9,6 +9,7 @@
 - [기시감](../docs/deja-vu.md) 처음 겪는 상황에서 사람이 그 일을 전에 겪은 적이 있다고 느낀다.
 - [꿈을 징조로 여기기](../docs/dreams-as-omens.md) 사람이 간밤에 꾼 꿈을 앞일의 징조로 여겨 기대하거나 불안해하고 그에 따라 행동을 바꾼다.
 - [끝내지 못한 일 계속 떠올리기](../docs/zeigarnik-effect.md) 일을 끝내지 못한 사람이 그 일을 끝낸 일보다 더 자주, 더 오래 떠올린다.
+- [낙엽 타는 냄새 좋아하기](../docs/liking-the-smell-of-burning-leaves.md) 사람이 긁어모은 낙엽을 태울 때 나는 냄새를 좋아하고 그 냄새를 맡으며 머문다.
 - [낯선 곳에서 깨어 어디인지 모르기](../docs/waking-disoriented-in-unfamiliar-place.md) 낯선 방에서 자고 깬 사람이 잠깐 자기가 어디에 있는지 몰라 당황하다가 곧 지난 일을 떠올린다.
 - [냄새가 불러낸 옛 기억](../docs/smell-evoked-memory.md) 냄새나 맛을 느낀 사람에게 오래전 일의 기억이 갑자기 떠오른다.
 - [노래가 불러낸 옛 기억](../docs/music-evoked-memory.md) 오래전에 듣던 노래를 다시 들은 사람에게 그 노래를 듣던 무렵의 장면과 사정이 떠오른다.
