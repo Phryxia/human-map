@@ -340,6 +340,7 @@
 - [밤 소리를 침입자로 여기기](docs/imagining-intruders-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [밤길 혼자 걷기 두려움](docs/fear-of-walking-alone-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [밤에 거울 보기 두려워하기](docs/fear-of-mirrors-at-night.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [밥 먹으며 책 읽기](docs/reading-while-eating.md) ([시간과 하루 습관](groups/daily-time.md))
 - [밥값 아껴 책 사기](docs/skipping-meals-to-buy-books.md) ([돈과 소비](groups/money.md))
 - [방 안 서성이기](docs/pacing-the-room.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [방관자 효과](docs/bystander-effect.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
