@@ -86,6 +86,18 @@ test('블로그 플랫폼 계정은 종류와 상관없이 같은 계정 경로�
   assert.ok(m.some(x => x.includes('같은 계정 경로(brunch/@82me)')))
 })
 
+test('개인 블로그 도메인은 호스트를 계정으로 재고 기존 문서가 고쳐질 때까지 WARN, maily.so 는 계정 경로로 잰다', () => {
+  assert.equal(accountOf('https://www.spring.org.uk/2008/09/a.php'), 'blog/spring.org.uk')
+  assert.equal(accountOf('https://paulspector.com/why/'), 'blog/paulspector.com')
+  assert.equal(accountOf('https://maily.so/pepper.note/posts/1do'), 'maily/pepper.note')
+  const mk = u => [frag(1, '학술', '2001', 'https://a.example/1'), frag(2, '매체', '2002', u)]
+  const docs = loadAll(makeRepo({a: makeDoc({frags: mk('https://www.spring.org.uk/2008/09/a.php')}), b: makeDoc({frags: mk('https://www.spring.org.uk/2021/06/b.php')})}))
+  assert.ok(warns(docs).some(x => x.includes('같은 계정 경로(blog/spring.org.uk)')))
+  assert.ok(!errs(docs).some(x => x.includes('같은 계정 경로')))
+  const m = errs(loadAll(makeRepo({a: makeDoc({frags: mk('https://maily.so/7rolj/posts/1')}), b: makeDoc({frags: mk('https://maily.so/7rolj/posts/2')})})))
+  assert.ok(m.some(x => x.includes('같은 계정 경로(maily/7rolj)')))
+})
+
 test('관심사 태그 밖의 태그는 오류, 태그 목록은 서로 다른 8개, 줄 수 제한은 없다', () => {
   const T = ['돈', '일', '시간', '건강', '관계', '공공', '온라인', '마음']
   assert.ok(validateAll(loadAll(makeRepo({a: makeDoc({tags: '#돈'})})), {}, T.slice(0, 7)).some(r => r.msg.includes('8개여야 한다 (7개)')))

@@ -21,13 +21,17 @@ export const BLOG_PATTERNS = [
   ['velog', /^https?:\/\/(?:www\.)?velog\.io\/@([^/?#]+)/i],
   ['substack', /^https?:\/\/(?!www\.)([a-z0-9-]+)\.substack\.com(?:[/?#]|$)/i],
   ['blogspot', /^https?:\/\/([a-z0-9-]+)\.blogspot\.[a-z.]+(?:[/?#]|$)/i],
+  ['maily', /^https?:\/\/(?:www\.)?maily\.so\/([^/?#]+)\/posts\//i],
 ]
+// 한 사람이 쓰는 개인 블로그 도메인. 호스트 전체가 계정 하나다. 키는 blog/<호스트>.
+export const PERSONAL_BLOG_DOMAINS = ['spring.org.uk', 'paulspector.com', 'solvingprocrastination.com', 'bobonbooks.com']
 // 여러 낱말로 된 플랫폼명. SNS 서지에서 한 낱말로 보고 실명 꼴 검사를 한다.
 export const MULTIWORD_PLATFORMS = ['Straight Dope Message Board', 'Straight Dope', 'Hacker News', 'Stack Exchange', 'Mumsnet Talk', 'Berkeley Parents Network', 'MoneySavingExpert 포럼', '네이버 지식iN', '네이트 판', '다음 카페']
 const platformToken = b => MULTIWORD_PLATFORMS.reduce((s, p) => s.startsWith(p + ' ') ? 'PLATFORM' + s.slice(p.length) : s, b)
 export const blogAccountOf = url => {
   for (const [name, re] of BLOG_PATTERNS) { const m = re.exec(url); if (m) return `${name}/${m[1].toLowerCase()}` }
-  return null
+  const host = /^https?:\/\/([^/?#]+)/i.exec(url)?.[1].toLowerCase().replace(/^www\./, '')
+  return host && PERSONAL_BLOG_DOMAINS.includes(host) ? `blog/${host}` : null
 }
 export const accountOf = url => {
   for (const re of ACCOUNT_PATTERNS) { const m = re.exec(url); if (m) return m.slice(1).join('/').toLowerCase() }
@@ -175,8 +179,8 @@ export function validateAll(docs, sources = {}, tags = loadTags()) {
     if (a) { byAcct.set(a, [...(byAcct.get(a) ?? []), `${d.id}:[^${f.n}]`]) }
   }
   for (const [url, ids] of byUrl) if (ids.size >= 5) out.push({level: 'WARN', id: [...ids][0], ln: 0, msg: `같은 출처(URL)를 ${ids.size}개 문서가 쓴다: ${url}`})
-  // 계정 경로 없는 SNS 글 검사는 기존 문서가 고쳐질 때까지 WARN 이다
-  const isWarn = a => a.startsWith('글/')
+  // 계정 경로 없는 SNS 글과 개인 블로그 도메인 검사는 기존 문서가 고쳐질 때까지 WARN 이다
+  const isWarn = a => a.startsWith('글/') || a.startsWith('blog/')
   for (const [a, refs] of byAcct) if (refs.length > 1) out.push({level: isWarn(a) ? 'WARN' : 'ERROR', id: refs[0].split(':')[0], ln: 0, msg: `같은 계정 경로(${a})의 글이 ${refs.length}개 파편에 있다: ${refs.join(', ')}`})
   return out
 }
