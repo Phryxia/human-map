@@ -724,6 +724,7 @@
 - [자기 지식 과대평가](docs/knowledge-overestimation.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 침묵](docs/self-silencing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자기에 대한 말 엿듣기](docs/overhearing-talk-about-oneself.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [자꾸 도움을 청하는 친척 성가셔하기](docs/annoyed-by-relatives-asking-for-money.md) ([돈과 소비](groups/money.md))
 - [자녀 사교육 불안](docs/private-tutoring-anxiety.md) ([돈과 소비](groups/money.md))
 - [자녀 사진을 소셜 미디어에 올리기](docs/sharenting.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자녀 시험 날 시험장 밖에서 빌기](docs/praying-outside-exam-hall.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
