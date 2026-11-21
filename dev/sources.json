@@ -12181,27 +12181,27 @@
   },
   "https://aisel.aisnet.org/iceb2001/131": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-21"
   },
   "https://news.ycombinator.com/item?id=4596887": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-21"
   },
   "https://www.korea.kr/news/cultureColumnView.do?newsId=148864177": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-21"
   },
   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307195": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-21"
   },
   "https://www.brownstoner.com/forum-archive/2011/03/double-parking-1": {
     "first": "2026-10-28",
@@ -12247,21 +12247,21 @@
   },
   "https://api.parliament.uk/historic-hansard/written_answers/2004/apr/01/computer-misuse": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-21"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1010845/full": {
     "first": "2026-10-28",
-    "last": "2026-10-29",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-21"
   },
   "https://bizhankook.com/articles/5568.html": {
     "first": "2026-10-28",
-    "last": "2026-11-08",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-21"
   },
   "https://econpapers.repec.org/RePEc:oup:jconrs:v:44:y:2017:i:1:p:118-138.": {
     "first": "2026-10-28",
@@ -13273,9 +13273,9 @@
   },
   "https://news.ycombinator.com/item?id=39469981": {
     "first": "2026-10-29",
-    "last": "2026-10-29",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-21"
   },
   "https://themighty.com/2017/03/social-anxiety-everyday-situations": {
     "first": "2026-10-29",
@@ -32821,6 +32821,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://gutenberg.pglaf.org/1/5/3/1531/1531-0.txt": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://www.psypost.org/study-finds-cyberloafing-can-help-employees-cope-workplace-boredom/": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",

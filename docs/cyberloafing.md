@@ -14,7 +14,7 @@
 
 2015년 기사[^4]가 전한 직장인 설문에서 업무 중 딴짓을 하려고 바른 자세를 취하거나 한숨을 쉬며 일하는 것처럼 연기한다는 답이 39.5%로 가장 많았다.
 
-2019년 블로그 글[^5]에서 연구자는 일이 적은 직원은 지루해지기 쉬웠고 지루한 직원은 근무 중 딴짓을 하기 쉬웠다고 정리했다.
+2018년 기사[^5]에서 연구자는 근무 중 사적인 인터넷 사용을 일터의 지루함에 대한 꽤 자연스러운 반응이라고 말했다.
 
 2019년 고용노동부 카드뉴스[^6]는 업무 중 딴짓 유형 가운데 SNS 가 32%로 가장 많았다고 적는다.
 
@@ -52,7 +52,7 @@
 [^2]: [공공] "The Department for Education and Skills allows personal use of the internet and email outside normal hours." (교육기술부는 정규 근무시간 밖에서 인터넷과 이메일의 개인 사용을 허용한다.) — UK Parliament, Hansard, HC Deb 01 April 2004 vol 419 c1547W, Written Answers, "Computer Misuse", 2004-04-01, https://api.parliament.uk/historic-hansard/written_answers/2004/apr/01/computer-misuse, 2026-10-28 접속
 [^3]: [SNS] "Being one of the corporate workers on HN and a non-programmer to boot, I browse the site at work while there's no work to be done." (HN 에 있는 회사원이자 프로그래머도 아닌 사람으로서 나는 할 일이 없는 동안 회사에서 이 사이트를 본다.) — Hacker News 댓글, 2012-10-01, https://news.ycombinator.com/item?id=4596887, 2026-10-28 접속
 [^4]: [매체] "직장인들은 업무 중 딴짓을 하기 위해 바른 자세를 취하거나 고민의 한숨을 쉬는 등 ‘업무를 하는 것처럼 연기한다’(39.5%)가 가장 많았다." — 송해진, 「직장인 10명 중 9명 “업무시간에 딴짓한다“」, 비즈한국, 2015-01-29, https://bizhankook.com/articles/5568.html, 2026-10-29 접속
-[^5]: [매체] "Employees who were underloaded were likely to be bored, and bored employees were likely to cyberloaf." (일이 적은 직원은 지루해지기 쉬웠고, 지루한 직원은 근무 중 딴짓을 하기 쉬웠다.) — Paul Spector, 「Why Do Employees Cyberloaf?」, 2019-03-21, https://paulspector.com/why-do-employees-cyberloaf/, 2026-10-29 접속
+[^5]: [매체] "Cyberloafing is a rather natural response to workplace boredom and it is different from other (more harmful) forms of counterproductive work behaviors," (사이버로핑은 일터의 지루함에 대한 꽤 자연스러운 반응이며 다른 (더 해로운) 반생산적 업무 행동과는 다르다) — Eric W. Dolan, 「Study finds cyberloafing can help employees cope with workplace boredom」, PsyPost, 2018-05-19, https://www.psypost.org/study-finds-cyberloafing-can-help-employees-cope-workplace-boredom/, 2026-11-21 접속
 [^6]: [공공] "업무중 딴짓 유형 1위는 카톡,블로그.인스타 등 SNS가 32%로 가장 높게 나타났습니다." — 고용노동부, 「직장인 10명 중 8명 업무 중 딴짓한다?」, 대한민국 정책브리핑, 2019-08-29, https://www.korea.kr/news/cultureColumnView.do?newsId=148864177, 2026-10-28 접속
 [^7]: [학술] "The results show that authoritarian leadership positively affects subordinates’ cyberloafing and this relationship is mediated by emotional exhaustion." (결과는 권위적 리더십이 부하의 사이버로핑에 정적 영향을 주며 이 관계를 정서 고갈이 매개함을 보여 준다.) — Yajun Zhang 외, "Authoritarian leadership and cyberloafing: A moderated mediation model of emotional exhaustion and power distance orientation", Frontiers in Psychology, 2022-10-04, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1010845/full, 2026-10-28 접속
 [^8]: [SNS] "I used to watch between 45 minutes and two hours a day of YouTube when bored at work. At my last place of employment, this skyrocketed though; I was very bored that that job." (나는 일하다 지루하면 하루에 45분에서 두 시간씩 유튜브를 보곤 했다. 지난 직장에서는 이 시간이 치솟았는데, 그 일이 아주 지루했다.) — Hacker News, 댓글, 2024-02-22, https://news.ycombinator.com/item?id=39469981, 2026-10-29 접속
