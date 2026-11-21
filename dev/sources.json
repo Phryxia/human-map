@@ -5648,45 +5648,45 @@
   },
   "https://www.gutenberg.org/cache/epub/13418/pg13418.txt": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
-    "result": "VERIFIED",
+    "last": "2026-11-21",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://home.uevora.pt/~eje/stranger.html": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-21"
   },
   "https://www.psychologytoday.com/gb/blog/consequential-strangers/201003/the-paradox-of-fleeting-relationships-in-small-places": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-21"
   },
   "https://www.hellotalk.com/m/FLWPTOLvD2WxZD": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-21"
   },
   "https://arxiv.org/html/2505.20464v1": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-21"
   },
   "https://www.gutenberg.org/cache/epub/8744/pg8744.txt": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
-    "result": "VERIFIED",
+    "last": "2026-11-21",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-21"
   },
   "https://www.airlineratings.com/articles/airborne-intimacy-what-and-why-we-confess-on-high": {
     "first": "2026-10-20",
-    "last": "2026-10-21",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-21"
   },
   "https://www.gutenberg.org/cache/epub/5231/pg5231.txt": {
     "first": "2026-10-20",
@@ -5840,15 +5840,15 @@
   },
   "https://www.seoul.co.kr/news/plan/now/2019/07/15/20190715017002": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-21"
   },
   "https://www.realshepower.in/why-we-tell-strangers-things-not-friend/": {
     "first": "2026-10-21",
-    "last": "2026-10-21",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-21"
+    "lastVerified": "2026-11-21"
   },
   "https://chiefmarketer.com/few-online-shoppers-return-items-but-more-would-like-to-says-study": {
     "first": "2026-10-21",
@@ -33379,6 +33379,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://healthunlocked.com/asthmalunguk-lung/posts/148962546/the-big-screen": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://ko.wikisource.org/wiki/고향_(현진건)": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
