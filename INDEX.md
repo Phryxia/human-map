@@ -601,6 +601,7 @@
 - [연인과의 다툼](docs/partner-conflict.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 지난 연애 질투하기](docs/retroactive-jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 휴대폰 몰래 보기](docs/snooping-on-partners-phone.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [연장 보증 구매](docs/buying-extended-warranties.md) ([돈과 소비](groups/money.md))
 - [연차휴가 남기기](docs/unused-annual-leave.md) ([일터와 일자리](groups/work.md))
 - [연체 뒤 도서관 피하기](docs/avoiding-library-over-overdue-books.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [영양표시 보지 않고 사기](docs/not-reading-nutrition-labels.md) ([건강과 위험](groups/health-and-safety.md))
