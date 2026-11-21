@@ -1,64 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-21T00:34:17.328Z",
-  "nextSeq": 5981,
-  "stops": 317,
+  "savedAt": "2026-11-21T03:35:47.919Z",
+  "nextSeq": 5991,
+  "stops": 318,
   "items": [
     {
-      "id": "69715bbb",
-      "title": "dev: source-check 가 Springer 의 VERIFIED 글을 실행마다 NOT_FOUND 로 판정한다",
-      "priority": 60,
-      "note": "blushing [^8] https://link.springer.com/article/10.1007/s11031-020-09839-1 이 2026-11-21 같은 날 첫 실행 VERIFIED, 다음 두 실행 NOT_FOUND. curl Mozilla UA 는 3KB 'Client Challenge' 페이지를 받는다. 어느 UA 의 어떤 응답이 챌린지가 아닌데 원문이 없는 것으로 읽혔는지 재현해 봇 확인 페이지로 판정해야 한다",
-      "createdAt": "2026-11-21T00:34:10.048Z",
-      "seq": 5980
-    },
-    {
-      "id": "601f2eae",
-      "title": "not-ending-conversations 에 1990년 이전 출처",
-      "priority": 50,
-      "note": "파편 발행일이 2018~2021 에 몰림. 후보 Pride and Prejudice 1342 'her patience and her ideas were nearly worn out before the tête-à-tête was over' 는 1342 가 이미 4개 문서라 5번째가 되어 WARN. Austen 141, 158 도 4개씩. 다른 작가 필요",
-      "createdAt": "2026-11-21T00:26:45.284Z",
-      "seq": 5975
-    },
-    {
-      "id": "3a6738e9",
-      "title": "pawning-belongings 에 문학 파편",
-      "priority": 50,
-      "note": "빈처(1921) '지금 아내가 하나 남은 모본단 저고리를 찾는 것도 아침거리를 장만하려 함이라.' 는 빈처를 4개 문서가 써서 5번째 WARN. 다른 문학 출처 필요",
-      "createdAt": "2026-11-21T00:31:10.481Z",
-      "seq": 5979
-    },
-    {
-      "id": "8b289cea",
-      "title": "pretending-not-to-hear, pretending-not-to-see-acquaintance, feigning-absorption-to-avoid-talk 의 공통 상위",
-      "priority": 30,
-      "note": "2026-11-13 회피용 시늉이라는 상위 후보. 상위 문서용 파편(응하지 않으려고 시늉한다는 일반 문장) 필요. Main Street 543 후보",
-      "createdAt": "2026-11-13T21:19:16.054Z",
-      "seq": 4912
-    },
-    {
-      "id": "4492e3c7",
-      "title": "faking-phone-calls 와 fear-of-walking-alone-at-night 원인 간선",
-      "priority": 30,
-      "note": "2026-11-13 보강 때 두려움 때문에 통화하는 척한다는 원인 문장을 못 찾음. 후보: PMC6098244 (2018-08) 'Given these concerns about safety' 문단의 'appearing to be busy with a mobile phone', GMA 2020 'feel unsafe while walking home'",
-      "createdAt": "2026-11-13T21:24:43.748Z",
-      "seq": 4914
-    },
-    {
-      "id": "0d16a90a",
-      "title": "sibling-jealousy-over-favoritism 와 envy, romantic-jealousy 관계",
-      "priority": 30,
-      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: gutenberg 768 Wuthering Heights 4장 'Heathcliff as a usurper of his parent’s affections' (768 은 이미 1개 문서), gutenberg 1532 King Lear 1막 1장 'he always loved our sister most', PMC2810864 같은 출처 B 'Recollections of maternal favoritism in childhood were more important ... predicting tension among adult siblings', kormedi.com/1789590 (2025-01-18) 덜 선호되는 아이, lady.khan.co.kr 202502280931001 (2025-02-28). 질투가 시기심(envy)의 특수한 경우인지 근거 문장 필요",
-      "createdAt": "2026-11-13T21:30:51.574Z",
-      "seq": 4915
-    },
-    {
-      "id": "4adcd5d1",
-      "title": "diet-breaking-binge 와 abandoning-resolutions 관계",
-      "priority": 30,
-      "note": "2026-10-21 diet-breaking-binge 에 1988 Weber 외 파편 추가로 시기 보강 끝. 남은 것: 작심삼일(abandoning-resolutions) 상위 후보, 근거 파편 필요. 후보 medicaldaily.co.kr/news/21189 (2026-07-17) 박탈감과 폭식",
-      "createdAt": "2026-11-13T21:30:51.692Z",
-      "seq": 4916
+      "id": "bffd74c4",
+      "title": "dev: validate 가 블로그 플랫폼 밖의 개인 블로그 도메인을 같은 계정으로 재지 않는다",
+      "priority": 80,
+      "note": "spring.org.uk(PsyBlog, 한 사람의 블로그)를 confronting-line-cutters 와 zeigarnik-effect 가 함께 쓰는데 validate 가 잡지 않는다. 4절 '매체 종류의 블로그 글도 같다'. 개인 블로그 도메인 목록 배열을 두는 안",
+      "createdAt": "2026-11-21T03:35:38.322Z",
+      "seq": 5990
     },
     {
       "id": "c70e5a0d",
@@ -1075,6 +1027,14 @@
       "note": "2026-11-13 보강 때 근거 문장 못 찾음. 후보: PMC12627122 (2025-11-18) 'trade-off exists between food waste and weight gain due to PCB' 는 같은 사람 안에서 반대로 민다는 말이 아니라 맞바꿈. HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
       "createdAt": "2026-11-21T00:21:02.005Z",
       "seq": 5974
+    },
+    {
+      "id": "aa534951",
+      "title": "faking-phone-calls 와 feigning-to-avoid-interaction 상위 관계",
+      "priority": 30,
+      "note": "2026-11-21 feigning-to-avoid-interaction 작성. faking-phone-calls [^3] Pew 13% 는 사람을 피하려고 통화하는 척. 안전 목적의 가짜 통화도 있어 상위로 둘지 판단 필요. 후보 Pew 2011 https://www.pewresearch.org/internet/2011/08/15/americans-and-their-cell-phones/ 'pretended to be using their phone in order to avoid interacting'",
+      "createdAt": "2026-11-21T03:29:28.818Z",
+      "seq": 5987
     },
     {
       "id": "9634edf0",
@@ -3291,6 +3251,22 @@
       "note": "봄봄(1935, 위키문헌 %EB%B4%84%EB%B4%84) '안 먹으면 무안해 할까봐서 이걸 씹고 앉았느라면 으적으적 소리만 나고 돌을 먹는 겐지 밥을 먹는 겐지' 는 봄봄을 이미 4개 문서가 써서 다른 문학 출처 필요. 형제 feigning-delight-at-gifts, clean-plate-pressure",
       "createdAt": "2026-11-21T00:31:10.394Z",
       "seq": 5978
+    },
+    {
+      "id": "0d31eef5",
+      "title": "한 번 어긴 결심 내팽개치기",
+      "priority": 10,
+      "note": "2026-11-21 diet-breaking-binge 와 abandoning-resolutions 관계 검토. 다이어트 중 폭식은 작심삼일의 특수한 경우가 아니라 한 번 어기면 될 대로 되라며 결심을 통째로 놓는 현상(abstinence violation effect, what-the-hell effect)의 특수한 경우. 새 문서를 diet-breaking-binge 의 상위로, abandoning-resolutions 와의 관계는 파편으로 정할 것",
+      "createdAt": "2026-11-21T03:34:17.963Z",
+      "seq": 5988
+    },
+    {
+      "id": "c6b8b414",
+      "title": "한 번 어긴 결심 내팽개치기",
+      "priority": 10,
+      "note": "2026-11-21 후보: 학술 PMC6760427 (1999, Larimer 외) 'This lapse, in turn, can result in feelings of guilt and failure (i.e., an abstinence violation effect).' 비학술은 spring.org.uk PsyBlog 2011 what-the-hell effect 가 이미 confronting-line-cutters, zeigarnik-effect 에 쓰여 쓸 수 없음. 다른 비학술 출처 필요. diet-breaking-binge 의 상위 후보",
+      "createdAt": "2026-11-21T03:35:38.245Z",
+      "seq": 5989
     },
     {
       "id": "02b2f242",
