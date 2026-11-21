@@ -22,7 +22,7 @@
 
 ## 상위
 
-없음.
+- [말을 섞지 않으려고 시늉하기](feigning-to-avoid-interaction.md)
 
 ## 하위
 

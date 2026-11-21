@@ -1102,9 +1102,9 @@
   },
   "https://www.sciencedaily.com/releases/2012/08/120801093615.htm": {
     "first": "2026-10-18",
-    "last": "2026-10-30",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-21"
   },
   "https://www.clien.net/service/board/park/10204233": {
     "first": "2026-10-18",
@@ -32797,6 +32797,18 @@
     "lastVerified": "2026-11-21"
   },
   "https://ko.wikisource.org/wiki/%EC%9D%B8%EA%B0%84%EB%AC%B8%EC%A0%9C": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://www.villagevoice.com/trend-alert-pretending-you-dont-notice-a-friend/": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://digitalcommons.usu.edu/fchd_facpub/876": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",

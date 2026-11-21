@@ -49,7 +49,6 @@
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
 - [목이 메어 말을 잇지 못하기](../docs/choking-up-mid-speech.md) 감정이 북받친 사람이 말을 하다가 목이 메어 목소리가 갈라지거나 말을 잇지 못한다.
-- [못 들은 척하기](../docs/pretending-not-to-hear.md) 부탁이나 질문, 핀잔을 들은 사람이 그것에 응하지 않으려고 듣지 못한 체한다.
 - [못하는 척 일 떠넘기기](../docs/weaponized-incompetence.md) 하기 싫은 일을 맡게 된 사람이 그 일을 할 줄 모르거나 못하는 척해 다른 사람이 대신 하게 만든다.
 - [물려받은 옷 싫어하기](../docs/disliking-hand-me-downs.md) 손위 형제나 남이 입던 옷을 물려받아 입는 아이가 그 옷을 싫어하거나 원래 주인과 다른 아이들 앞에서 드러날까 봐 부끄러워한다.
 - [벅찬 감정에 압도되기](../docs/overwhelmed-by-positive-emotion.md) 아주 귀엽거나 기쁜 것을 마주한 사람이 감당하기 어려울 만큼 강한 긍정 감정에 휩싸인다.

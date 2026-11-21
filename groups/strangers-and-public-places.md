@@ -17,8 +17,11 @@
 - [단골 가게 두기](../docs/being-a-regular.md) 사람이 식당, 카페, 동네 가게 가운데 한 곳을 정해 두고 되풀이해 찾아간다.
 - [닫히는 문으로 뛰어들어 타기](../docs/rushing-closing-doors.md) 승객이 열차나 지하철의 문이 닫히는 중에 뛰어들거나 팔을 넣어 타려 한다.
 - [도서관 책 훼손](../docs/defacing-library-books.md) 도서관 책을 빌린 이용자가 책에 밑줄을 긋고 메모하거나 필요한 쪽을 찢어 간다.
-- [말을 피하려고 다른 일에 몰두한 척하기](../docs/feigning-absorption-to-avoid-talk.md) 주변 사람과 말을 섞고 싶지 않은 사람이 신문이나 책, 휴대폰, 헤드폰에 몰두한 척해 말을 막는다.
-- [말을 피하려고 자는 척하기](../docs/pretending-to-sleep-to-avoid-talk.md) 버스, 비행기, 미용실, 가게에서 옆 사람이나 미용사나 질문하는 사람이 말을 걸지 않게 하려고 자는 척하거나 이어폰을 끼거나 휴대폰을 보거나 바쁜 척한다.
+- [말을 섞지 않으려고 시늉하기](../docs/feigning-to-avoid-interaction.md) 남과 말을 나누고 싶지 않은 사람이 못 본 척, 바쁜 척, 자는 척 같은 시늉으로 대화나 응대를 피한다.
+  - [말을 피하려고 다른 일에 몰두한 척하기](../docs/feigning-absorption-to-avoid-talk.md)
+  - [말을 피하려고 자는 척하기](../docs/pretending-to-sleep-to-avoid-talk.md)
+  - [못 들은 척하기](../docs/pretending-not-to-hear.md)
+  - [아는 사람을 마주치고 못 본 척하기](../docs/pretending-not-to-see-acquaintance.md)
 - [방관자 효과](../docs/bystander-effect.md) 위급한 상황을 여러 사람이 함께 볼 때 그 가운데 한 사람이 도울 가능성이 줄어든다.
 - [불 켜진 남의 창 들여다보기](../docs/looking-into-lit-windows.md) 밤에 바깥을 지나는 사람이 불 켜진 남의 집 창 안을 들여다보며 그 안의 삶을 지어내 본다.
 - [사람 구경하기](../docs/people-watching.md) 카페 창가 같은 자리에 앉은 사람이 지나가는 낯선 사람들의 차림, 걸음, 표정을 눈여겨본다.
@@ -28,7 +31,6 @@
 - [서비스 받는 동안 잡담 피하기](../docs/avoiding-small-talk-during-service.md) 미용실이나 택시에서 서비스를 받는 손님이 직원이나 기사와 잡담하지 않으려고 대화 없는 서비스를 고르거나 미리 요청한다.
 - [셀프 계산대 피하기](../docs/avoiding-self-checkout.md) 가게에서 계산하는 사람이 셀프 계산대를 두고 직원이 있는 계산대에 줄을 선다.
 - [소지품으로 자리 맡기](../docs/saving-seats-with-belongings.md) 도서관 열람실 이용자가 자리를 비우면서 가방이나 책을 두어 그 자리를 오래 맡아 둔다.
-- [아는 사람을 마주치고 못 본 척하기](../docs/pretending-not-to-see-acquaintance.md) 밖에서 아는 사람을 발견한 사람이 인사를 나누지 않으려고 못 본 척하거나 고개를 숙인다.
 - [에스컬레이터 한 줄 서기](../docs/escalator-one-line-standing.md) 에스컬레이터를 탄 사람이 한쪽에 서서 다른 쪽을 걸어 올라가는 사람에게 비워 둔다.
 - [엘리베이터 안의 침묵](../docs/elevator-silence.md) 엘리베이터에 낯선 사람과 함께 탄 사람이 말을 멈추고 신발, 문, 층수 표시기를 바라본다.
 - [옆 빈자리에 가방 두기](../docs/blocking-adjacent-seat-with-bag.md) 버스나 기차에 탄 승객이 옆 빈자리에 가방이나 짐을 올려 두어 다른 사람이 옆에 앉지 못하게 한다.

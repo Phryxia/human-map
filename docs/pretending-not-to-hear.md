@@ -4,7 +4,7 @@
 
 부탁이나 질문, 핀잔을 들은 사람이 그것에 응하지 않으려고 듣지 못한 체한다.
 
-묶음: [가까운 사이의 감정과 말](../groups/close-relationships.md)
+묶음: [낯선 사람과 공공장소](../groups/strangers-and-public-places.md)
 
 # 서술
 
@@ -26,7 +26,7 @@
 
 ## 상위
 
-없음.
+- [말을 섞지 않으려고 시늉하기](feigning-to-avoid-interaction.md)
 
 ## 하위
 

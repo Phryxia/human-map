@@ -491,8 +491,6 @@
       "elevator-silence",
       "hesitating-to-offer-seat",
       "feeling-old-when-offered-a-seat",
-      "pretending-not-to-see-acquaintance",
-      "pretending-to-sleep-to-avoid-talk",
       "staying-silent-at-line-cutting",
       "stopping-greeting-unresponsive-neighbor",
       "weather-small-talk",
@@ -512,7 +510,6 @@
       "defacing-library-books",
       "confronting-line-cutters",
       "hesitating-to-use-maternity-seats",
-      "feigning-absorption-to-avoid-talk",
       "stepping-aside-for-oncoming-pedestrians",
       "blocking-adjacent-seat-with-bag",
       "looking-into-lit-windows",
@@ -524,7 +521,8 @@
       "avoiding-self-checkout",
       "faking-phone-calls",
       "foreigner-talk",
-      "banmal-to-foreigners"
+      "banmal-to-foreigners",
+      "feigning-to-avoid-interaction"
     ]
   },
   {
@@ -580,7 +578,6 @@
       "comparing-lives-with-old-friends",
       "reluctance-to-hold-others-babies",
       "disliking-hand-me-downs",
-      "pretending-not-to-hear",
       "keeping-quiet-for-sleepers",
       "apology-reluctance",
       "putting-off-friends",
