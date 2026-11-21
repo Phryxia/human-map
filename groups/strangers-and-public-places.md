@@ -7,6 +7,7 @@
 - [금연구역에서 담배 피우기](../docs/smoking-in-no-smoking-areas.md) 흡연자가 건물 비상계단, 지하철 출입구, 병원 구내 같은 금연구역에서 담배를 피운다.
 - [길에서 마주 오는 사람에게 비켜 주기](../docs/stepping-aside-for-oncoming-pedestrians.md) 길에서 마주 오는 사람과 부딪힐 듯할 때 걷던 사람이 자기 쪽에서 옆으로 비켜 길을 내준다.
 - [날씨 이야기로 말문 열기](../docs/weather-small-talk.md) 사람이 덜 친한 사람과 마주치거나 침묵이 흐를 때 날씨 이야기로 대화를 시작한다.
+- [남 앞에서 기침 참기](../docs/holding-back-coughs.md) 사람이 곁의 사람이나 조용해야 하는 자리의 다른 사람에게 폐가 될까 봐 기침을 참으려 한다.
 - [남의 장바구니 훔쳐보기](../docs/peeking-at-others-shopping-carts.md) 마트 계산대 줄에 선 사람이 다른 손님의 카트에 든 물건을 보고 그 사람의 생활을 짐작한다.
 - [남의 집 문 앞에서 망설이기](../docs/hesitating-at-the-door.md) 남의 집을 찾아간 사람이 문 앞에서 문을 두드리거나 초인종을 누르기를 미루고 망설인다.
 - [남의 화면이나 신문 넘겨다보기](../docs/glancing-at-others-screens.md) 곁에 있는 사람이 읽는 신문이나 책, 들여다보는 휴대전화 화면을 옆 사람이 어깨너머로 넘겨다본다.
