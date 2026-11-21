@@ -1,16 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-11-21T09:33:40.188Z",
-  "nextSeq": 6024,
-  "stops": 320,
+  "savedAt": "2026-11-21T12:36:53.215Z",
+  "nextSeq": 6036,
+  "stops": 321,
   "items": [
     {
-      "id": "b0c1640d",
-      "title": "dev: 개인 블로그 도메인 중복 WARN 을 ERROR 로",
-      "priority": 40,
-      "note": "2026-11-21 개인 블로그 도메인 검사를 WARN 으로 넣음. 위 네 문서가 고쳐지면 isWarn 에서 blog/ 를 뺀다 / 2026-11-21 validate 경고 0",
-      "createdAt": "2026-11-21T09:09:56.847Z",
-      "seq": 6018
+      "id": "eec60e61",
+      "title": "childhood-places-seeming-smaller 보강: 나타나지 않는 조건, revisiting-childhood-home 과의 관계",
+      "priority": 50,
+      "note": "2026-11-21 csmonitor 2023/0111 에세이는 집과 수영장은 작아 보였으나 공원 언덕은 기억대로 가팔랐다고 적음(같은 출처라 [^5] 원문 교체로만 가능). frontiers fpsyg.2020.01184 는 몸 크기 설명과 아이가 공간을 더 작게 지각한다는 결과를 소개(200자 이하 대목 필요). straightdope 398513 2007 SNS 더함",
+      "createdAt": "2026-11-21T12:34:50.615Z",
+      "seq": 6033
+    },
+    {
+      "id": "ca68e777",
+      "title": "nonurgent-police-calls 보강: 규모와 시기, nonurgent-ambulance-calls 와의 관계",
+      "priority": 50,
+      "note": "2026-11-21 Met 2025-11-03 999 전화 가운데 긴급 15%(같은 출처). 서울신문 2000-01-17 20000117026005 112신고·허위오인신고 증가(장난전화 중심). police.gi when-you-should-not-ring-the-emergency-line-905 열쇠 분실(발행일 미상). 매일신문 2015 87% 비긴급 대목",
+      "createdAt": "2026-11-21T12:36:25.267Z",
+      "seq": 6034
+    },
+    {
+      "id": "2cfaf6ef",
+      "title": "reading-while-eating 보강: 학술 파편, 나타나지 않는 조건, phone-use-while-doing-other-things 와의 관계",
+      "priority": 50,
+      "note": "2026-11-21 SNS 는 straightdope 560551 더함. PubMed 30776379, 21569808 은 쿠키 확인 페이지. straightdope 307482 (2005) 에 책에 음식을 흘릴까 봐 먹으며 읽지 않는다는 글들",
+      "createdAt": "2026-11-21T12:36:33.081Z",
+      "seq": 6035
     },
     {
       "id": "a31a4a6d",
