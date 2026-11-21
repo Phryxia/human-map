@@ -29220,9 +29220,9 @@
   },
   "https://budget.canada.ca/2012/themes/theme2-info-eng.html": {
     "first": "2026-11-16",
-    "last": "2026-11-17",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-21"
   },
   "https://kyeonggi.com/article/201503120636469": {
     "first": "2026-11-16",
@@ -33247,6 +33247,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://boards.straightdope.com/t/where-do-you-defrost-your-dinner-meat/682269": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://boards.straightdope.com/t/do-you-use-pennies-usa-one-cent-coin/1013421": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",

@@ -16,4 +16,5 @@
 
 
 
-- 2026-11-21T15:04Z | 2026-11-21T15:32Z | refusing-pennies-as-change 추가 | refusing-pennies-as-change dev/groups.json
+
+없음.
