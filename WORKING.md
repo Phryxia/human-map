@@ -20,4 +20,4 @@
 
 
 
-없음.
+- 2026-11-21T18:05Z | 2026-11-21T20:09Z | moral-hypocrisy 보강 | moral-hypocrisy
