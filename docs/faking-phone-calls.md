@@ -30,7 +30,7 @@
 
 ## 원인
 
-없음.
+- [밤길 혼자 걷기 두려움](fear-of-walking-alone-at-night.md)[^4]
 
 ## 결과
 
