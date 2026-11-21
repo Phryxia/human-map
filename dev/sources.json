@@ -30713,13 +30713,13 @@
   },
   "https://agris.fao.org/search/en/records/65df06af4c5aef494fdf1fea": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-21"
   },
   "https://www.wired-gov.net/wg/news.nsf/print/Latest+Food+and+You+survey+report+published+for+Northern+Ireland+21042017081500": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-21",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-18"
   },
@@ -30730,15 +30730,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597454/": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-21"
   },
   "https://www.foodstandards.gov.scot/science-and-evidence/food-and-you-2-survey-scotland-wave-11-key-findings/section-2": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-21"
   },
   "https://en.wikisource.org/wiki/Literary_Lapses/Hoodoo_McFiggin's_Christmas": {
     "first": "2026-11-18",
@@ -30802,9 +30802,9 @@
   },
   "https://advertiser.ie/athlone/article/100838/survey-reveals-truth-of-our-food-safety-behaviours": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-21"
   },
   "https://globalnews.ca/news/3138453/christmas-present-snoopers-confess-we-thought-we-were-getting-away-with-something/": {
     "first": "2026-11-18",
@@ -30838,9 +30838,9 @@
   },
   "https://koreascience.kr/article/JAKO201218553924963.page": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-21"
   },
   "https://boards.straightdope.com/t/grease-down-the-drain/273294": {
     "first": "2026-11-18",
@@ -33241,6 +33241,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://www.segye.com/newsView/20200831519854": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://boards.straightdope.com/t/where-do-you-defrost-your-dinner-meat/682269": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
