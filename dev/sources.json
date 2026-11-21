@@ -11210,8 +11210,8 @@
   },
   "https://www.gutenberg.org/cache/epub/3409/pg3409.txt": {
     "first": "2026-10-26",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-21",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://www.thenational.ae/lifestyle/my-life-the-ending-of-a-book-comes-first-for-some-1.465792": {
@@ -27237,15 +27237,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3624976/": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-21"
   },
   "https://brunch.co.kr/@half-note-diary/36": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-21"
   },
   "https://www.gutenberg.org/cache/epub/11/pg11.txt": {
     "first": "2026-11-14",
@@ -27297,9 +27297,9 @@
   },
   "https://www.clien.net/service/board/park/18292658": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-21"
   },
   "https://brunch.co.kr/@igmigm/529": {
     "first": "2026-11-14",
@@ -32875,6 +32875,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25664899&rettype=abstract&retmode=text": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32295883&rettype=abstract&retmode=text": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
