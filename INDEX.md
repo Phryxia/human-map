@@ -399,6 +399,7 @@
 - [불 켜진 남의 창 들여다보기](docs/looking-into-lit-windows.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [불과 전자제품 켜 두기](docs/leaving-lights-on.md) ([시간과 하루 습관](groups/daily-time.md))
 - [불길한 숫자 피하기](docs/avoiding-unlucky-numbers.md) ([돈과 소비](groups/money.md))
+- [불길한 예감](docs/sense-of-foreboding.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [불난 집에 다시 들어가기](docs/reentering-burning-home.md) ([건강과 위험](groups/health-and-safety.md))
 - [불만 제기 회피](docs/non-complaining.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [불이 나면 직접 끄려 하기](docs/fighting-fire-oneself.md) ([건강과 위험](groups/health-and-safety.md))
