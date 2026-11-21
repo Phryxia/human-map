@@ -27261,15 +27261,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4991046/": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-21"
   },
   "https://brunch.co.kr/@daeheestory/283": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-21"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5501400/": {
     "first": "2026-11-14",
@@ -27662,8 +27662,8 @@
   },
   "https://www.gutenberg.org/cache/epub/600/pg600.txt": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-21",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://m.seoul.co.kr/news/2008/11/18/20081118023200": {
@@ -32911,6 +32911,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3903102/": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://gutenberg.pglaf.org/7/9/8/7986/7986-h/7986-h.htm": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
