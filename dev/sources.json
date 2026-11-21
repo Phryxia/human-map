@@ -31756,21 +31756,21 @@
   },
   "https://www.londonmuseum.org.uk/collections/v/object-738460/ticket-pawnbrokers-ticket": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://1900s.org.uk/1900s-pawnbroker.htm": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://api.parliament.uk/historic-hansard/commons/1959/nov/27/pawnbrokers-bill": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://www.towerbridge.org.uk/stories/victorian-fashion": {
     "first": "2026-11-19",
@@ -31852,15 +31852,15 @@
   },
   "https://ideas.repec.org/a/mcb/jmoncb/v23y1991i1p85-99.html": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://www.ytn.co.kr/_ln/0102_202305010526046237": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://gutenberg.pglaf.org/7/3/730/730-h/730-h.htm": {
     "first": "2026-11-19",
@@ -31906,9 +31906,9 @@
   },
   "https://archives.lincolndailynews.com/2016/Jan/07/NEWS/business_L.shtml": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://gutenberg.pglaf.org/4/7/471/471-0.txt": {
     "first": "2026-11-19",
@@ -32791,6 +32791,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://gutenberg.pglaf.org/6/3/4/6340/6340-0.txt": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://ko.wikisource.org/wiki/%EC%9D%B8%EA%B0%84%EB%AC%B8%EC%A0%9C": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
