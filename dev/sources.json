@@ -19577,21 +19577,21 @@
   },
   "https://www.psychologicalscience.org/journals/psychological-science/0956797620958009/": {
     "first": "2026-11-04",
-    "last": "2026-11-06",
-    "result": "VERIFIED",
+    "last": "2026-11-21",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-06"
   },
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11272699/": {
     "first": "2026-11-04",
-    "last": "2026-11-06",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-21"
   },
   "https://insights.som.yale.edu/insights/does-having-choice-provide-an-illusion-of-control": {
     "first": "2026-11-04",
-    "last": "2026-11-06",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-21"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24947002&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
@@ -20344,9 +20344,9 @@
   },
   "https://m.dailian.co.kr/news/view/1311340": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-21"
   },
   "https://www.motor1.com/news/490710/check-engine-light-survey/": {
     "first": "2026-11-06",
@@ -20702,9 +20702,9 @@
   },
   "https://www.cambridge.org/core/books/judgment-under-uncertainty/illusion-of-control/A338AC4C785CABF7E40EF3FF5F017F58": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-21"
   },
   "https://www.motor.com/magazine-summary/trade-secrets-2-march-2004/": {
     "first": "2026-11-06",
@@ -33229,6 +33229,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://www.mt.co.kr/article/2026071611133990775": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://boards.straightdope.com/t/am-i-more-likely-to-win-the-lottery-by-picking-the-numbers-myself-or-going-with-easy-pick/973627": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
