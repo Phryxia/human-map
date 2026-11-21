@@ -13,6 +13,7 @@
   - [남을 따라 대피하기](../docs/following-others-to-evacuate.md)
   - [또래 유행 따라 사기](../docs/following-peer-fashion.md)
   - [한 사람이 나서면 따라 돕기](../docs/helping-after-first-helper.md)
+- [도덕적 위선](../docs/moral-hypocrisy.md) 사람이 남에게는 엄하게 탓하거나 금하는 일을 자기가 할 때는 너그럽게 보거나 몰래 한다.
 - [도박사의 오류](../docs/gamblers-fallacy.md) 같은 결과가 이어지는 것을 본 사람이 다음에는 다른 결과가 나올 차례라고 믿는다.
   - [복권에서 안 나온 번호에 걸기](../docs/betting-on-overdue-lottery-numbers.md)
 - [매몰비용 때문에 그만두지 못하기](../docs/sunk-cost-persistence.md) 시간이나 돈, 노력을 이미 들인 사람이 더 얻을 것이 적은데도 들인 것이 아까워 그 일을 그만두지 못하고 계속한다.
