@@ -10,7 +10,9 @@
 
 Tower Bridge 의 빅토리아 시대 옷차림 글[^1]은 19세기에는 사회 계층과 상관없이 평소 옷과 함께 Sunday best 를 따로 두었다고 적었다.
 
-2016년 In Retrospect Magazine 기사[^2]의 필자는 20세기에 육체노동이나 공장 일을 하는 사람에게는 매일 닳도록 입는 옷이 아닌 옷이 곧 Sunday best 였다고 썼다.
+1895년 소설[^2]의 한 인물은 칠 년 전 장에서 산 것을 그 뒤로 좋은 날을 위해 아껴 두었다고 말했다.
+
+2016년 In Retrospect Magazine 기사[^3]의 필자는 20세기에 육체노동이나 공장 일을 하는 사람에게는 매일 닳도록 입는 옷이 아닌 옷이 곧 Sunday best 였다고 썼다.
 
 # 관계
 
@@ -37,4 +39,5 @@ Tower Bridge 의 빅토리아 시대 옷차림 글[^1]은 19세기에는 사회 
 #돈 #관계
 
 [^1]: [공공] "Whatever your place was within the social class system of the 19th century, you’re going to have your everyday clothing, but you’re also still going to have your Sunday best." (19세기 사회 계층에서 어느 자리에 있었든 평소 옷이 있고, 그와 함께 Sunday best 도 있었다.) — Victorian Fashion, Tower Bridge, 발행일 미상, https://www.towerbridge.org.uk/stories/victorian-fashion, 2026-11-19 접속
-[^2]: [매체] "For the average workingman or woman doing manual labour or industrial jobs in the 20th century, if it wasn’t worn everyday, until it literally fell off the person, it was their ‘Sunday best’." (20세기에 육체노동이나 공장 일을 하는 보통의 노동자에게는 말 그대로 해질 때까지 매일 입는 옷이 아니면 그것이 곧 'Sunday best' 였다.) — A Class Apart, In Retrospect Magazine, 2016-05-26, https://inretrospectmagazine.com/?p=3643, 2026-11-19 접속
+[^2]: [문학] "seven year agoöa at Cornchester fair, and I've kept it for best iver sin'." (칠 년 전 콘체스터 장에서 샀는데 그 뒤로 줄곧 좋은 날을 위해 아껴 두었지.) — J. S. Fletcher, 「Where Highways Cross」 1부 5장, Wikisource, 1895, https://en.wikisource.org/wiki/Where_Highways_Cross/Part_1/Chapter_5, 2026-11-21 접속
+[^3]: [매체] "For the average workingman or woman doing manual labour or industrial jobs in the 20th century, if it wasn’t worn everyday, until it literally fell off the person, it was their ‘Sunday best’." (20세기에 육체노동이나 공장 일을 하는 보통의 노동자에게는 말 그대로 해질 때까지 매일 입는 옷이 아니면 그것이 곧 'Sunday best' 였다.) — A Class Apart, In Retrospect Magazine, 2016-05-26, https://inretrospectmagazine.com/?p=3643, 2026-11-19 접속
