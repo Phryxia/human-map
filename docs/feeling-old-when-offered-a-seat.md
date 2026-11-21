@@ -18,7 +18,9 @@
 
 2021년 Mishpacha 칼럼[^5]의 필자는 55세에 처음 자리를 양보받고 조금 당황했다고 적었다.
 
-2025년 NZ Herald 기고[^6]의 64세 필자는 버스에서 자리를 권받자 힘없이 웃으며 괜찮다고 사양하고 바닥으로 눈을 내렸다.
+2022년 캐나다 중장년 면접 연구[^6]에서 56세 참가자는 버스에서 사람들이 자리를 권할 때 가끔 당황하며 자기가 그렇게 늙지 않았다고 말했다.
+
+2025년 NZ Herald 기고[^7]의 64세 필자는 버스에서 자리를 권받자 힘없이 웃으며 괜찮다고 사양하고 바닥으로 눈을 내렸다.
 
 # 관계
 
@@ -49,4 +51,5 @@
 [^3]: [매체] "'아무리 어린 학생들 눈이라지만 내가 아직은 버스에서 자리를 양보받을 나이는 아닌데..' 하는 똑같은 속마음을 품은 채." — 「학생들이 자리를 양보한 까닭은?」, 한국교육신문, 2006-03-30, https://www.hangyo.com/mobile/article.html?no=16850, 2026-11-04 접속
 [^4]: [학술] "This woman, for instance, notes the potential discomfort of being offered seats by other passengers, given that this marks one in public as an ‘older’ citizen:" (예컨대 이 여성은 다른 승객에게 자리를 양보받는 일이 남들 앞에서 자신을 '나이 든' 시민으로 드러내므로 불편할 수 있다고 말한다.) — Judith Green, Alasdair Jones, Helen Roberts, "More than A to B: the role of free bus travel for the mobility and wellbeing of older citizens in London", Ageing & Society 34(3), 2014-03, https://pmc.ncbi.nlm.nih.gov/articles/PMC3903102/, 2026-11-21 접속
 [^5]: [매체] "This was the first time anyone had ever offered me a seat, and I remember being a bit jarred by the gesture. After all, I was only 55." (누군가 나에게 자리를 권한 것은 그때가 처음이었고 그 몸짓에 조금 당황했던 기억이 난다. 어쨌든 나는 겨우 55세였다.) — Emanuel Feldman, "Please Have a Seat", Mishpacha, 2021-08-04, https://mishpacha.com/?p=101446, 2026-11-04 접속
-[^6]: [매체] "“No, thanks, I’m all good,” I replied with a feeble smile, lowering my eyes to the floor." ("아뇨, 괜찮아요." 나는 힘없이 웃으며 대답하고 바닥으로 눈을 내렸다.) — Chris Mirams, "How old is old? After an existential bus encounter, one 64-year-old Kiwi considers his approach to ageing", NZ Herald, 2025-03-21, https://www.nzherald.co.nz/lifestyle/how-old-is-old-after-an-existential-bus-encounter-one-64-year-old-kiwi-considers-his-approach-to-ageing/3AKOYV6FWRABXLFHVYTRAAY26Y, 2026-11-04 접속
+[^6]: [학술] "When I’m on the bus there are some people now offering me their seats. And I kind of- sometimes I’m kind of taken aback by that like what are you asking me for? I’m- I’m not that old." (버스에 타면 이제 자리를 권하는 사람들이 있다. 그러면 나는 좀, 가끔은 좀 당황해서 뭘 바라는 거지 싶다. 나는, 나는 그렇게 늙지 않았다.) — A. L. Chasteen, S. A. Tagliamonte, K. Pabst, S. Brunet, "Ageist Communication Experienced by Middle-Aged and Older Canadians", International Journal of Environmental Research and Public Health 19(4), 2022-02-11, https://pmc.ncbi.nlm.nih.gov/articles/PMC8871782/, 2026-11-21 접속
+[^7]: [매체] "“No, thanks, I’m all good,” I replied with a feeble smile, lowering my eyes to the floor." ("아뇨, 괜찮아요." 나는 힘없이 웃으며 대답하고 바닥으로 눈을 내렸다.) — Chris Mirams, "How old is old? After an existential bus encounter, one 64-year-old Kiwi considers his approach to ageing", NZ Herald, 2025-03-21, https://www.nzherald.co.nz/lifestyle/how-old-is-old-after-an-existential-bus-encounter-one-64-year-old-kiwi-considers-his-approach-to-ageing/3AKOYV6FWRABXLFHVYTRAAY26Y, 2026-11-04 접속
