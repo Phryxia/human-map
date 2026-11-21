@@ -221,21 +221,21 @@
   },
   "https://jyx.jyu.fi/jyx/Record/jyx_123456789_55942/Description": {
     "first": "2026-10-17",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://repository.uwl.ac.uk/id/eprint/6500/": {
     "first": "2026-10-17",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://www.teamblind.com/kr/post/남자들은-컴플레인-거의-안하지-않아-nXMj5hQT": {
     "first": "2026-10-17",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://ko.wikisource.org/wiki/탈출기": {
     "first": "2026-10-17",
@@ -719,9 +719,9 @@
   },
   "https://client-x.com/en/news/461": {
     "first": "2026-10-17",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://kyeonggi.com/article/20260624580106": {
     "first": "2026-10-17",
@@ -5876,9 +5876,9 @@
   },
   "https://www.legalshield.com/newsroom/new-legalshield-study-americans-forgo-returns-on-broken-unwanted-products-citing-barriers-from-retailers": {
     "first": "2026-10-21",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://pann.nate.com/talk/372578594": {
     "first": "2026-10-21",
@@ -31384,9 +31384,9 @@
   },
   "https://koreascience.kr/article/JAKO201374652240697.page": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://news.ycombinator.com/item?id=19681153": {
     "first": "2026-11-19",
@@ -33169,6 +33169,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7744612/": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://www.accesson.kr/kscap/v.9/1/87/15103": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
