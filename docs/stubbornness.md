@@ -16,6 +16,8 @@
 
 2020년 매일신문 기사[^4]는 나이 든 사람에게 안정감을 주는 정신적 노화가 흔히 노인의 고집으로 치부되며 세대 간 갈등의 앞에 선다고 적었다.
 
+2022년 Q방법론 연구[^5]에서 아동이 고집을 보는 방식은 고집을 긍정하는 유형, 소극적으로 보는 유형, 남을 의식하는 유형, 부정하는 유형의 넷으로 나뉘었다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^2]: [학술] "Over 77% of children and 66% of parents reported parents acting in ways attributed to stubbornness at least sometimes." (자녀의 77% 이상과 부모의 66% 가 부모가 적어도 가끔은 고집으로 여겨지는 방식으로 행동한다고 보고했다.) — Allison R Heid, Steven H Zarit, Karen L Fingerman, "“My Parent is so Stubborn!”—Perceptions of Aging Parents’ Persistence, Insistence, and Resistance", The Journals of Gerontology Series B 71(4), 2015-01-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC4903030/, 2026-11-14 접속
 [^3]: [SNS] "타일러도 보고 혼도 내보고. 이해도 해보고 .. 기다려도 보고 진짜 ... 벽이랑 말하는것 같아요 ... 친구말은 잘들으면서 가족말은 또 안듣네요" — 클리앙 게시글, 2017-08-25, https://www.clien.net/service/board/park/11117711, 2026-11-14 접속
 [^4]: [매체] "그러나 이런 안정감을 주는 정신적 노화가 세대 간 갈등에는 선봉에 선다. 통상 '노인의 고집'이라 치부되며 그들만의 세계로 비치는 탓이다." — 이주형, 「[노인을 이해하는 방법] <중>정신적 노화…노인의 고집」, 매일신문, 2020-01-06, https://www.imaeil.com/page/view/2020010614390331157, 2026-11-14 접속
+[^5]: [학술] "본 연구의 결과는 아동의 고집에 관한 인식 유형은 4가지 유형으로 분류되었다. 유형 1은 ‘긍정적 고집인식형’, 유형 2는 ‘소극적 고집인식형’, 유형 3은 ‘타인의식 고집인식형’, 유형 4는 ‘부정적 고집인식형’으로 유형의 특성이 나타났다." — 조혜진, 「Q방법론을 활용한 아동의 고집 인식유형연구」, 코칭연구 15(1), 2022-04, https://scholarworks.sookmyung.ac.kr/handle/2020.sw.sookmyung/152797, 2026-11-21 접속
