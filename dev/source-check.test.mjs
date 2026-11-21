@@ -388,3 +388,24 @@ test('fetchText: "One moment, please..." 새로고침 페이지는 봇 확인 �
   const f = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => body})
   assert.deepEqual(await fetchText('https://gutenberg.net.au/ebooks05/0500961h.html', {quote: 'x', fetchImpl: f, fallbackImpl: f, challengeDelay: 0}), {ok: false, reason: '봇 확인 페이지'})
 })
+test('fetchText: 봇 확인 페이지와 429 가 섞여 와도 node:https 로 한 번 더 받는다 (Springer)', async () => {
+  // link.springer.com/article/10.1007/s11031-020-09839-1: fetch 는 UA 마다 Client Challenge 와 429 를 섞어 주고 https.get 의 curl UA 는 본문을 준다(2026-11-21)
+  let n = 0
+  const fetchImpl = async () => n++ % 3 === 2
+    ? {ok: false, status: 429, headers: new Map(), text: async () => ''}
+    : {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html><head><title>Client Challenge</title></head></html>'}
+  const fallbackImpl = async () => ({ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>hence augmenting fear of blushing</html>'})
+  const page = await fetchText('https://link.springer.com/article/10.1007/s11031-020-09839-1', {fetchImpl, fallbackImpl, quote: 'hence augmenting fear of blushing', challengeDelay: 0})
+  assert.ok(page.ok && quoteIn(page.text, 'hence augmenting fear of blushing'))
+})
+test('fetchText: 봇 확인 페이지를 한 번이라도 받았고 원문이 끝내 없으면 NOT_FOUND 가 아니라 봇 확인 페이지다', async () => {
+  // 같은 글에 fetch 의 curl UA 가 idp.springer.com 리다이렉트를 거쳐 원문 없는 200 을, https.get 이 429 를 받았다(2026-11-21)
+  let n = 0
+  const fetchImpl = async () => n++ % 3 === 2
+    ? {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html>cookies</html>'}
+    : {ok: true, status: 200, headers: new Map([['content-type', 'text/html']]), text: async () => '<html><head><title>Client Challenge</title></head></html>'}
+  const fallbackImpl = async () => ({ok: false, status: 429, headers: new Map(), text: async () => ''})
+  const page = await fetchText('https://link.springer.com/article/10.1007/s11031-020-09839-1', {fetchImpl, fallbackImpl, quote: 'hence augmenting fear of blushing', challengeDelay: 0})
+  assert.equal(page.ok, false)
+  assert.equal(page.reason, '봇 확인 페이지')
+})

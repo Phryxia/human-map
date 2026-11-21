@@ -112,22 +112,28 @@ export function httpsFetch(url, {headers = {}, signal} = {}, hops = 0) {
   })
 }
 
-// 봇 확인 페이지만 받았으면 challengeDelay 만큼 쉬고 UA 목록을 한 번 더 돈다. 그래도 봇 확인이거나 받은 본문 모두에 원문이 없으면 fallbackImpl 에 curl UA 로 받는다.
+// 봇 확인 페이지나 요청 제한을 한 번이라도 받았으면 challengeDelay 만큼 쉬고 UA 목록을 한 번 더 돈다. 그래도 원문이 없거나 받은 본문 모두에 원문이 없으면 fallbackImpl 에 curl UA 로 받는다.
 // accesson.kr 은 fetch 에는 초록 절을 뺀 본문을, https.get 에는 초록이 있는 본문을 준다(2026-10-18).
+// Springer 는 UA 마다 Client Challenge 와 429 를 섞어 주고, 리다이렉트 끝에 원문 없는 200 을 주기도 한다(2026-11-21).
+// 그래서 막힘(봇 확인, 요청 제한)을 받은 적이 있고 원문이 끝내 없으면 마지막 응답이 아니라 그 막힘을 돌려준다. 봇 확인을 요청 제한보다 앞에 둔다.
+const blockRank = p => p.ok ? 0 : p.reason === '봇 확인 페이지' ? 2 : isRateLimited(p.reason) ? 1 : 0
 export async function fetchText(url, {timeout = 20000, fetchImpl = fetch, fallbackImpl = httpsFetch, quote, challengeDelay = 5000} = {}) {
-  let page
+  let page, blocked
   for (let round = 0; round < 2; round++) {
     if (round) await new Promise(r => setTimeout(r, challengeDelay))
+    blocked = undefined
     for (const ua of USER_AGENTS) {
       page = await fetchOnce(url, ua, {timeout, fetchImpl})
       if (quote === undefined || (page.ok && quoteIn(page.text, quote))) return page
+      if (blockRank(page) > (blocked ? blockRank(blocked) : 0)) blocked = page
     }
-    if (page.reason !== '봇 확인 페이지') break
+    if (!blocked) break
   }
-  if (page.reason === '봇 확인 페이지') return fetchOnce(url, USER_AGENTS.at(-1), {timeout, fetchImpl: fallbackImpl})
-  if (!page.ok) return page
+  if (!blocked && !page.ok) return page
   const last = await fetchOnce(url, USER_AGENTS.at(-1), {timeout, fetchImpl: fallbackImpl})
-  return last.ok && quoteIn(last.text, quote) ? last : page
+  if (last.ok && quoteIn(last.text, quote)) return last
+  if (blocked) return blockRank(last) > blockRank(blocked) ? last : blocked
+  return page
 }
 
 export const quoteIn = (text, quote) => normalize(text).includes(normalize(quote))
