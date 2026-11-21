@@ -12,6 +12,8 @@
 
 2024년 정책주간지 기사[^2]가 전한 설문에서 응답자의 40.4%가 밈이나 신조어를 모를 때 유행을 따라가지 못한다고 느낀다고 답했다.
 
+2025년 대학 신문 칼럼[^3]의 필자는 나이가 들어 달마다 새로 나오는 은어를 알아듣지 못하게 되는 일이 자기에게는 스무 살에 왔다고 썼다.
+
 # 관계
 
 ## 상위
@@ -38,3 +40,4 @@
 
 [^1]: [매체] "솔까말은 ‘솔직히 까놓고 말해서’의 약자로 ‘반도의 흔한 신조어’ 중 하나인데, 모르면 뒷방 노인네 취급을 당한다." — 문소영, "[씨줄날줄] ‘심쿵’", 서울신문, 2015-03-27, https://seoul.co.kr/news/editOpinion/weft-column/2015/03/27/20150327031009, 2026-11-20 접속
 [^2]: [공공] "밈이나 신조어를 모를 때 유행에 뒤처진다고 느끼는지 물었어요. ‘매우 그렇다(7.2%)’, ‘그렇다(33.2%)’로 40.4%가 유행을 따라가지 못한다고 느끼고 있었어요." — K-공감, "‘밈’은 또 하나의 언어 81.9% “밈으로 대화해요”", 대한민국 정책브리핑, 2024-11-28, https://gonggam.korea.kr/newsContentView.es?mid=a12603000000&section_id=NCCD_PUBLISH&content=NC002&code_cd=&news_id=e49f2ee7-6e01-46a3-93a3-edf6814e652a, 2026-11-20 접속
+[^3]: [매체] "However much we may hate it, getting older and aging out of your subscription to understanding the monthly batch of new slang happens to everyone. For me, it was at 20 years old." (아무리 싫어도 나이가 들어 달마다 새로 나오는 은어를 알아듣는 구독에서 밀려나는 일은 누구에게나 온다. 내게는 스무 살 때였다.) — Madison Seeman, 「I don’t understand the slang anymore」, The California Aggie, 2025-02-13, https://theaggie.org/2025/2/13/i-dont-understand-the-slang-anymore, 2026-11-21 접속
