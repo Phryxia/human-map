@@ -1,16 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-11-20T21:33:30.554Z",
-  "nextSeq": 5963,
-  "stops": 316,
+  "savedAt": "2026-11-21T00:34:17.328Z",
+  "nextSeq": 5981,
+  "stops": 317,
   "items": [
     {
-      "id": "c640ea00",
-      "title": "clean-plate-pressure 와 leaving-food-on-the-plate 대립 근거",
-      "priority": 30,
-      "note": "2026-11-13 보강 때 근거 문장 못 찾음. 후보: PMC12627122 (2025-11-18) 'trade-off exists between food waste and weight gain due to PCB' 는 같은 사람 안에서 반대로 민다는 말이 아니라 맞바꿈. HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
-      "createdAt": "2026-11-13T21:13:11.916Z",
-      "seq": 4911
+      "id": "69715bbb",
+      "title": "dev: source-check 가 Springer 의 VERIFIED 글을 실행마다 NOT_FOUND 로 판정한다",
+      "priority": 60,
+      "note": "blushing [^8] https://link.springer.com/article/10.1007/s11031-020-09839-1 이 2026-11-21 같은 날 첫 실행 VERIFIED, 다음 두 실행 NOT_FOUND. curl Mozilla UA 는 3KB 'Client Challenge' 페이지를 받는다. 어느 UA 의 어떤 응답이 챌린지가 아닌데 원문이 없는 것으로 읽혔는지 재현해 봇 확인 페이지로 판정해야 한다",
+      "createdAt": "2026-11-21T00:34:10.048Z",
+      "seq": 5980
+    },
+    {
+      "id": "601f2eae",
+      "title": "not-ending-conversations 에 1990년 이전 출처",
+      "priority": 50,
+      "note": "파편 발행일이 2018~2021 에 몰림. 후보 Pride and Prejudice 1342 'her patience and her ideas were nearly worn out before the tête-à-tête was over' 는 1342 가 이미 4개 문서라 5번째가 되어 WARN. Austen 141, 158 도 4개씩. 다른 작가 필요",
+      "createdAt": "2026-11-21T00:26:45.284Z",
+      "seq": 5975
+    },
+    {
+      "id": "3a6738e9",
+      "title": "pawning-belongings 에 문학 파편",
+      "priority": 50,
+      "note": "빈처(1921) '지금 아내가 하나 남은 모본단 저고리를 찾는 것도 아침거리를 장만하려 함이라.' 는 빈처를 4개 문서가 써서 5번째 WARN. 다른 문학 출처 필요",
+      "createdAt": "2026-11-21T00:31:10.481Z",
+      "seq": 5979
     },
     {
       "id": "8b289cea",
@@ -1051,6 +1067,14 @@
       "note": "2026-11-20 PMC3161131 로 drink-driving 결과 간선 그음. drinking-to-cope 원인 후보: khan.co.kr 201611161247002 2016-11-16 '스트레스 상황에서의 반복적인 음주는 오히려 스트레스를 취약하게 만들고 알코올 섭취량을 늘려'(섭취량이지 폭음 아님), PMC7117979, MDPI 2076-328X/14/5/402 미확인. talkingsober 24080 2017-12-09 회사 파티 필름 끊김",
       "createdAt": "2026-11-20T21:26:00.890Z",
       "seq": 5960
+    },
+    {
+      "id": "7df31256",
+      "title": "clean-plate-pressure 와 leaving-food-on-the-plate 대립 근거",
+      "priority": 30,
+      "note": "2026-11-13 보강 때 근거 문장 못 찾음. 후보: PMC12627122 (2025-11-18) 'trade-off exists between food waste and weight gain due to PCB' 는 같은 사람 안에서 반대로 민다는 말이 아니라 맞바꿈. HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
+      "createdAt": "2026-11-21T00:21:02.005Z",
+      "seq": 5974
     },
     {
       "id": "9634edf0",
@@ -3235,6 +3259,38 @@
       "note": "2026-11-20 [^4] 'replay the conversation in your head' 는 반박을 끼워 넣는 상상이라 imaginary-arguments 쪽(이미 결과 간선). 남에게 어떻게 비쳤는지 되짚는 replaying-conversations-afterward 와 인과 문장 없음. 이전 note: springer s10608-011-9357-z Makkar 2011, gutenberg 1399 Anna Karenina 5부 30장",
       "createdAt": "2026-11-20T21:22:34.689Z",
       "seq": 5959
+    },
+    {
+      "id": "87ce090e",
+      "title": "끈과 고무줄 모아 두기",
+      "priority": 10,
+      "note": "Cranford 1853 (gutenberg.pglaf.org/3/9/394/394-h/394-h.htm) 'ready for uses that never come'. Cranford 394 는 이미 4개 문서가 써서 다른 문학 출처 필요. 상위 후보 difficulty-discarding, 형제 hoarding-plastic-bags saving-gift-wrap",
+      "createdAt": "2026-11-21T00:10:50.898Z",
+      "seq": 5973
+    },
+    {
+      "id": "8f5aad7e",
+      "title": "실망 뒤 주위 모두가 못마땅하고 집에 가고 싶어지기",
+      "priority": 10,
+      "note": "Northanger Abbey 1817 (gutenberg.pglaf.org/1/2/121/121-h/121-h.htm) 'a general dissatisfaction with everybody about her ... violent desire to go home'. 121 은 3개 문서가 씀. 중복 후보 sulking, being-cancelled-on 과 다른지 확인",
+      "createdAt": "2026-11-21T00:26:59.134Z",
+      "seq": 5976
+    },
+    {
+      "id": "4a5762f6",
+      "title": "운수 좋은 날 의 겁나는 행운 대목",
+      "priority": 10,
+      "note": "위키문헌 운수_좋은_날 '이상하게도 꼬리를 맞물고 덤비는 이 행운 앞에 조금 겁이 났음이다.' fear-of-happiness 에 넣으려 했으나 이 출처를 이미 4개 문서가 써서 5번째 WARN. 그 4개 중 하나를 다른 출처로 바꾸면 쓸 수 있다",
+      "createdAt": "2026-11-21T00:29:39.906Z",
+      "seq": 5977
+    },
+    {
+      "id": "4ec447e6",
+      "title": "상대가 무안할까 봐 입에 맞지 않는 음식 먹기",
+      "priority": 10,
+      "note": "봄봄(1935, 위키문헌 %EB%B4%84%EB%B4%84) '안 먹으면 무안해 할까봐서 이걸 씹고 앉았느라면 으적으적 소리만 나고 돌을 먹는 겐지 밥을 먹는 겐지' 는 봄봄을 이미 4개 문서가 써서 다른 문학 출처 필요. 형제 feigning-delight-at-gifts, clean-plate-pressure",
+      "createdAt": "2026-11-21T00:31:10.394Z",
+      "seq": 5978
     },
     {
       "id": "02b2f242",
