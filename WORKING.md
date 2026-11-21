@@ -13,4 +13,4 @@
 
 
 
-없음.
+- 2026-11-21T15:04Z | 2026-11-21T15:32Z | illusion-of-control 보강 | illusion-of-control
