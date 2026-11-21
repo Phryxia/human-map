@@ -12,6 +12,8 @@
 
 2013년 게시글[^2]의 글쓴이는 가까운 친척이 늘 돈을 달라고 졸라 둘의 관계가 크게 틀어졌다고 적었다.
 
+2015년 칼럼[^3]의 필자는 병, 학비, 끼니, 손님 대접을 이유로 끝없이 돈을 청하는 친척들에게 이따금 이용당한다고 느낀다고 썼다.
+
 # 관계
 
 ## 상위
@@ -38,3 +40,4 @@
 
 [^1]: [문학] "하기야 요새도 간혹 아주머니가 찾아와서 양식 없다는 사정을 더러 하곤 하는데 실토정 말이지 좀 성가시기는 해요. 그러는 족족 그 수응을 하자면 내 일을 못 하겠는걸. 그래 대개 잘라 떼기는 하지요." — 채만식, 「치숙」, 동아일보, 1938-03-25, https://ko.wikisource.org/wiki/치숙, 2026-11-21 접속
 [^2]: [SNS] "Quite frankly, her hounding me for money all the time has severely hampered our relationship." (솔직히 그가 늘 돈을 달라고 졸라 대서 우리 관계가 크게 틀어졌다.) — Straight Dope Message Board 게시글, 2013-11-03, https://boards.straightdope.com/t/relative-asks-for-money-all-the-time-but-she-tithes-every-month/673007, 2026-11-21 접속
+[^3]: [매체] "Do you sometimes feel like you are being exploited? That they are mining a ‘gold mine’ without caring about its replenishment? I feel it sometimes." (이용당한다고 느낄 때가 있는가? 그들이 금광이 다시 채워질지는 아랑곳하지 않고 캐 가기만 한다고? 나는 이따금 그렇게 느낀다.) — Veronica Cherop, "When relatives drain you with money demands", The Standard Evewoman, 2015-05-19, https://www.standardmedia.co.ke/evewoman/article/2000162752/when-relatives-drain-you-with-money-demands, 2026-11-21 접속
