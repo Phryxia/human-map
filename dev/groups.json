@@ -31,7 +31,6 @@
       "deciding-who-pays-for-meals",
       "tightwad-spending",
       "difficulty-discarding",
-      "following-peer-fashion",
       "counting-on-inheritance",
       "inheritance-disputes",
       "overbuying-groceries",
@@ -104,7 +103,8 @@
       "judging-character-from-faces",
       "judging-by-first-impressions",
       "judging-character-from-handwriting",
-      "hostile-attribution-bias"
+      "hostile-attribution-bias",
+      "following-others"
     ]
   },
   {
@@ -312,7 +312,6 @@
       "drinking-less-to-avoid-toilet",
       "fear-of-fan-death",
       "not-wearing-hearing-aids",
-      "following-others-to-evacuate",
       "families-refusing-organ-donation",
       "indoor-generator-and-grill-use",
       "fear-of-falling-activity-restriction",
@@ -489,7 +488,6 @@
       "avoiding-shared-elevator",
       "avoiding-small-talk-during-service",
       "bystander-effect",
-      "helping-after-first-helper",
       "confiding-in-strangers",
       "elevator-silence",
       "hesitating-to-offer-seat",

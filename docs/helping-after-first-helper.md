@@ -4,7 +4,7 @@
 
 도움이 필요한 사람을 보고도 지나치던 구경꾼들이 한 사람이 먼저 돕기 시작하면 따라 돕는다.
 
-묶음: [낯선 사람과 공공장소](../groups/strangers-and-public-places.md)
+묶음: [판단과 어림의 치우침](../groups/judgment-biases.md)
 
 # 서술
 
@@ -20,7 +20,7 @@
 
 ## 상위
 
-없음.
+- [남 따라 하기](following-others.md)
 
 ## 하위
 

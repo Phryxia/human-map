@@ -9,6 +9,10 @@
 - [기준점 의존](../docs/reference-dependence.md) 결과를 받은 사람이 그 결과의 절대 크기보다 동료의 몫이나 자기 기대 같은 기준과 비교해 만족하거나 불만을 느낀다.
   - [손실 회피](../docs/loss-aversion.md)
 - [낙관 편향](../docs/unrealistic-optimism.md) 사람이 사고나 병 같은 나쁜 일이 남보다 자신에게 덜 일어난다고 믿는다.
+- [남 따라 하기](../docs/following-others.md) 어떻게 할지 확실하지 않은 사람이 주변 사람들이 하는 것을 보고 그대로 따라 한다.
+  - [남을 따라 대피하기](../docs/following-others-to-evacuate.md)
+  - [또래 유행 따라 사기](../docs/following-peer-fashion.md)
+  - [한 사람이 나서면 따라 돕기](../docs/helping-after-first-helper.md)
 - [도박사의 오류](../docs/gamblers-fallacy.md) 같은 결과가 이어지는 것을 본 사람이 다음에는 다른 결과가 나올 차례라고 믿는다.
   - [복권에서 안 나온 번호에 걸기](../docs/betting-on-overdue-lottery-numbers.md)
 - [매몰비용 때문에 그만두지 못하기](../docs/sunk-cost-persistence.md) 시간이나 돈, 노력을 이미 들인 사람이 더 얻을 것이 적은데도 들인 것이 아까워 그 일을 그만두지 못하고 계속한다.

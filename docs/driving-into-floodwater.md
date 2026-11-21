@@ -30,6 +30,7 @@
 
 ## 원인
 
+- [남 따라 하기](following-others.md)[^7]
 - [시간에 쫓기는 느낌](feeling-rushed.md)[^9]
 
 ## 결과

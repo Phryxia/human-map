@@ -4,7 +4,7 @@
 
 위급한 신호를 접한 사람이 주변 사람이 움직이는지를 보고 그에 따라 대피하거나 머문다.
 
-묶음: [건강과 위험](../groups/health-and-safety.md)
+묶음: [판단과 어림의 치우침](../groups/judgment-biases.md)
 
 # 서술
 
@@ -22,7 +22,7 @@
 
 ## 상위
 
-없음.
+- [남 따라 하기](following-others.md)
 
 ## 하위
 
