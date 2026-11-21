@@ -6824,8 +6824,8 @@
   },
   "https://www.gutenberg.org/cache/epub/11339/pg11339.txt": {
     "first": "2026-10-22",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-21",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://www.gutenberg.org/cache/epub/102/pg102.txt": {
@@ -27195,21 +27195,21 @@
   },
   "https://www.gutenberg.org/cache/epub/6157/pg6157.txt": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-21",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://link.springer.com/article/10.1007/s12144-021-02467-z": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-21"
   },
   "https://www.workingus.com/?p=3940402": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-21"
   },
   "https://www.gutenberg.org/cache/epub/2048/pg2048.txt": {
     "first": "2026-11-14",
@@ -32869,6 +32869,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://www.mt.co.kr/society/2018/09/11/2018090516093218827": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25664899&rettype=abstract&retmode=text": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
