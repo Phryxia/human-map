@@ -820,6 +820,7 @@
 - [진료 예약 부도](docs/missing-medical-appointments.md) ([건강과 위험](groups/health-and-safety.md))
 - [진료 회피](docs/medical-care-avoidance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [진료를 미루다 응급실 가기](docs/delayed-care-emergency-visits.md) ([건강과 위험](groups/health-and-safety.md))
+- [질투](docs/jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [짐이 되기 싫은 마음](docs/self-perceived-burden.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [집 앞 눈 치우지 않기](docs/not-clearing-snow-in-front-of-home.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [집값 때문에 외곽으로 옮겨 살기](docs/moving-out-for-cheaper-housing.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))

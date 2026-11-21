@@ -87,8 +87,6 @@
 - [엉뚱한 대상에게 화풀이하기](../docs/displaced-aggression.md) 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
 - [여행지에서 엽서 보내기](../docs/sending-travel-postcards.md) 여행 중인 사람이 여행지에서 고향의 가족이나 친구에게 그림엽서를 써서 부친다.
 - [연애 기피](../docs/avoiding-dating.md) 교제 상대가 없는 미혼자가 연애나 교제를 바라지 않거나 혼자가 편하다며 이성을 만나지 않는다.
-- [연애 질투](../docs/romantic-jealousy.md) 연인을 둔 사람이 연인 곁의 경쟁자나 사소한 단서를 보고 연인을 의심하며 괴로워한다.
-  - [연인의 지난 연애 질투하기](../docs/retroactive-jealousy.md)
 - [연인 아닌 사람에게 끌리기](../docs/attraction-outside-relationship.md) 연애 중이거나 결혼한 사람이 연인이나 배우자가 아닌 사람에게 끌림을 느낀다.
 - [연인 이상화](../docs/idealizing-partner.md) 사랑에 빠진 사람이 연인과 그 관계를 실제보다 좋게 본다.
 - [연인과 헤어지기](../docs/breaking-up.md) 연애하거나 함께 사는 두 사람 가운데 한쪽 또는 양쪽이 관계를 끝내고 헤어진다.
@@ -128,6 +126,10 @@
 - [좋아하는 사람을 마주치려고 기다리기](../docs/hoping-to-run-into-a-crush.md) 좋아하는 사람을 한 번이라도 보려는 사람이 그 사람이 나타날 만한 곳에 일부러 가서 기다린다.
 - [좋아하는 사람의 이름 되풀이해 쓰기](../docs/writing-a-crushs-name.md) 어떤 사람을 좋아하는 사람이 상대의 이름을 모래나 칠판, 공책 따위에 거듭 써 본다.
 - [죽음 앞의 화해](../docs/deathbed-reconciliation.md) 죽음이 가까운 사람이나 그 곁의 사람이 오래 사이가 틀어졌던 상대와 화해하려 한다.
+- [질투](../docs/jealousy.md) 자기에게 소중한 관계를 제3자에게 빼앗길 것 같다고 느끼는 사람이 그 경쟁자와 관계를 두고 괴로워한다.
+  - [연애 질투](../docs/romantic-jealousy.md)
+    - [연인의 지난 연애 질투하기](../docs/retroactive-jealousy.md)
+  - [편애받는 형제에 대한 질투](../docs/sibling-jealousy-over-favoritism.md)
 - [짐이 되기 싫은 마음](../docs/self-perceived-burden.md) 나이 들거나 아픈 사람이 가족과 돌보는 사람에게 짐이 된다고 느끼고 그 짐을 덜려고 도움을 줄이거나 따로 살거나 치료를 그만두기를 바란다.
 - [짝사랑](../docs/unrequited-love.md) 어떤 사람을 사랑하는 사람이 상대가 같은 마음을 주지 않거나 그 마음을 모르는 채로 혼자 마음을 품는다.
   - [사랑 고백 망설이기](../docs/hesitating-to-confess-love.md)
@@ -139,7 +141,6 @@
 - [친구 만남 뒤로 미루기](../docs/putting-off-friends.md) 일과 앞날 준비에 바쁜 어른이 언제든 만날 수 있다고 여기는 친구와의 만남을 뒤로 미뤄 친구와 보내는 시간이 줄어든다.
 - [커플 사이의 성욕 차이](../docs/sexual-desire-discrepancy.md) 연인이나 부부 가운데 한 사람이 상대보다 성관계를 더 원하거나 덜 원하고 그 차이를 느낀다.
 - [트집 잡기](../docs/nitpicking.md) 마음에 들지 않는 상대를 둔 사람이 그 상대에게서 작은 흠을 굳이 찾아내 따진다.
-- [편애받는 형제에 대한 질투](../docs/sibling-jealousy-over-favoritism.md) 부모가 다른 형제를 더 아낀다고 느끼는 자식이 그 형제를 질투하거나 부모에게 서운해한다.
 - [할 말을 몰라 아픈 사람과 유족 피하기](../docs/avoiding-the-grieving-and-ill.md) 중병에 걸린 사람이나 가족을 잃은 사람의 주변 사람이 무슨 말을 할지 몰라 그 사람을 찾아가거나 연락하기를 피한다.
 - [함께 묻히기를 바라기](../docs/wishing-to-be-buried-together.md) 어떤 사람은 죽은 뒤 사랑하는 사람이나 반려동물과 한자리에 묻히기를 바라고 그렇게 되도록 미리 손을 쓴다.
 - [헤어진 연인에게 연락하기](../docs/contacting-an-ex.md) 연인과 헤어진 사람이 헤어진 상대에게 먼저 문자나 전화로 연락한다.
