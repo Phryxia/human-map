@@ -4077,9 +4077,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7958231/": {
     "first": "2026-10-19",
-    "last": "2026-11-05",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-21"
   },
   "https://www.gqkorea.co.kr/?p=403718": {
     "first": "2026-10-19",
@@ -18727,15 +18727,15 @@
   },
   "https://news.ycombinator.com/item?id=26384278": {
     "first": "2026-11-04",
-    "last": "2026-11-05",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-21"
   },
   "https://news.ycombinator.com/item?id=26386238": {
     "first": "2026-11-04",
-    "last": "2026-11-05",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-21"
   },
   "https://econpapers.repec.org/RePEc:eee:jeeman:v:93:y:2019:i:c:p:254-271": {
     "first": "2026-11-04",
@@ -20033,9 +20033,9 @@
   },
   "https://www.cavalierdaily.com/article/2018/01/bailing-gracefully-the-overlooked-awkwardness-of-ending-a-conversation": {
     "first": "2026-11-05",
-    "last": "2026-11-05",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-21"
   },
   "https://www.clien.net/service/board/park/16077029": {
     "first": "2026-11-05",
@@ -32785,6 +32785,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://www.huffingtonpost.co.uk/entry/anxiety-good-things_l_5ca78fc1e4b047edf959e2fe": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://gutenberg.pglaf.org/6/3/4/6340/6340-0.txt": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
