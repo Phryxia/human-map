@@ -1,9 +1,121 @@
 {
   "version": 1,
-  "savedAt": "2026-11-21T15:34:16.563Z",
-  "nextSeq": 6076,
-  "stops": 322,
+  "savedAt": "2026-11-21T18:40:37.271Z",
+  "nextSeq": 6107,
+  "stops": 323,
   "items": [
+    {
+      "id": "5342fd99",
+      "title": "sense-of-foreboding 보강: 학술 파편, dreams-as-omens 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1976, SNS 2015). 후보: psypost 2025-05-13 anomalous experiences(예감 40~50% 문장이 200자 넘음), healthline·clevelandclinic feeling-of-impending-doom(의학 증상), inkl 'other shoe is about to drop' 과잉 경계. dreams-as-omens 와 상위 관계 출처 필요",
+      "createdAt": "2026-11-21T18:08:59.688Z",
+      "seq": 6092
+    },
+    {
+      "id": "91ecc9af",
+      "title": "imagined-romance 보강: SNS·학술 파편, unrequited-love 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1925, 매체 2023). Bustle 기사 'imaginationships are actually just another term for unrequited love' 는 같은 출처라 관계 근거로 더 쓸 수 없음. 후보: scarleteen it-wrong-get-wrapped-potential-romantic-futures, huffingtonpost.co.uk fake-scenarios-sleep-why_uk_64be4d1fe4b0df8632111d6d(잠들기 전 가짜 시나리오), PMC9247565 2022 배우자 공상 연구",
+      "createdAt": "2026-11-21T18:13:23.495Z",
+      "seq": 6093
+    },
+    {
+      "id": "090bda72",
+      "title": "wishing-a-dying-relatives-end 관계: relief-after-caregiving-death, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1923, 매체 2026). bayalarmmedical 기사의 56% 부모가 떠난 뒤의 삶 상상, 33% 간병 그만두기 바람. relief-after-caregiving-death 와 인과 출처 필요. 학술 후보: anticipatory grief, PMC6594221(환자의 죽음 소망이라 다름)",
+      "createdAt": "2026-11-21T18:15:54.068Z",
+      "seq": 6095
+    },
+    {
+      "id": "a4d49482",
+      "title": "mental-budgeting 보강: SNS 파편, 심적 회계(Thaler) 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1923, 학술 2011). Thaler 1999 'Mental accounting matters' 는 people.bath.ac.uk PDF 뿐. 같은 RePEc 쪽 Shafir & Thaler 2006 'Invest now, drink later, spend never' 후보. 봉투 살림법 게시글이나 '통장 쪼개기' 매체 후보",
+      "createdAt": "2026-11-21T18:17:14.189Z",
+      "seq": 6096
+    },
+    {
+      "id": "3dafac3f",
+      "title": "picking-up-cigarette-butts 보강: SNS·학술 파편, 담뱃값 인상 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1937, 매체 2015). 같은 문화일보 기사의 '꽁초라도 줍고 동냥이라도 해서 피우는 거지' 인용과 가치담배. 영어권 'butt picking' 학술 후보 미탐색",
+      "createdAt": "2026-11-21T18:19:24.016Z",
+      "seq": 6097
+    },
+    {
+      "id": "a6cd361b",
+      "title": "buying-single-cigarettes 보강: SNS 파편, 다른 시기",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(매체 2015, 학술 2018). 후보: PMC3737406 문헌 검토 저소득·젊은 성인, Azagba 2020 Preventive Medicine Reports 5.4%. 1960년 이전 문학·매체 파편 미탐색. picking-up-cigarette-butts 와 같은 기사",
+      "createdAt": "2026-11-21T18:20:45.185Z",
+      "seq": 6098
+    },
+    {
+      "id": "ac1a198a",
+      "title": "annoyed-by-relatives-asking-for-money 보강: 학술·매체 파편, shame-asking-to-borrow-money 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1938, SNS 2013). 매체 후보: nation.africa my-relatives-keep-asking-for-money-how-do-i-stop-them--1247540, standardmedia.co.ke evewoman 2000162752, cnbc 2022-04-20. 학술 미탐색(black tax 연구)",
+      "createdAt": "2026-11-21T18:21:46.808Z",
+      "seq": 6099
+    },
+    {
+      "id": "e2a31626",
+      "title": "holding-back-coughs 보강: SNS 파편, 공연장 기침의 다른 면",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(매체 1936, 학술 2012). classical-music.com 2013-01-31 기사는 일부러 하는 기침(고의). wrti.org 2013-03-24, crosseyedpianist 2013-01-30 후보. not-covering-coughs 와 대립 후보",
+      "createdAt": "2026-11-21T18:24:02.653Z",
+      "seq": 6100
+    },
+    {
+      "id": "863ec0ca",
+      "title": "fear-of-happiness 보강: foreboding joy 별칭, sense-of-foreboding 관계",
+      "priority": 50,
+      "note": "2026-11-21 sense-of-foreboding 탐색 중 inkl.com 'psychology-says-people-who-always-feel-the-other-shoe-is-about-to-drop-maybe-hypervigilant-than-negative' 기사에서 봄. Brené Brown 의 foreboding joy 가 fear-of-happiness 와 같은 현상",
+      "createdAt": "2026-11-21T18:25:25.752Z",
+      "seq": 6101
+    },
+    {
+      "id": "ab1d3ef0",
+      "title": "parasocial-relationship 보강: 학술·SNS 파편, imagined-romance 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1938, 매체 2022). Horton & Wohl 1956 Psychiatry 원문 미확인. Bradbury 2024 Springer 리머런스 검토의 'developing parasocial relationships with people online' 문장은 200자 넘음. wellesley.edu 2021 뉴스, thedailystar 후보",
+      "createdAt": "2026-11-21T18:28:56.289Z",
+      "seq": 6102
+    },
+    {
+      "id": "a5e68eef",
+      "title": "liking-the-smell-of-burning-leaves 보강: 다른 종류 파편, 낙엽 태우기 금지 뒤의 그리움",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(매체 발행일 미상 이효석, SNS 2016). 후보: toledoblade.com 2002-11-10 Leaf-burning-no-longer-one-of-autumn-s-rituals, vindyarchives 2003-11-11 냄새 선호와 어릴 때 노출, greatlakesecho 2009-11-09. smell-evoked-memory 와 관계 후보",
+      "createdAt": "2026-11-21T18:30:52.081Z",
+      "seq": 6103
+    },
+    {
+      "id": "d4403ae2",
+      "title": "staying-in-unhappy-marriage 보강: 학술·SNS 파편",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1938, 매체 2017). 학술 후보: Hawkins & Booth 2005 Social Forces 'Unhappily Ever After', Joel 2018 JPSP 상대 의존 인식. psychologytoday 201809 fulfillment-any-age, 202209 complicated-love 후보",
+      "createdAt": "2026-11-21T18:34:43.969Z",
+      "seq": 6104
+    },
+    {
+      "id": "8b7b30b8",
+      "title": "checking-prices-first 보강: 학술·SNS 파편, mental-budgeting 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1923, 매체 2016). Poundstone 의 메뉴 가격 줄 이야기는 Baltimore Magazine 인용. 학술 후보 미탐색(가격 주목 시선 추적 연구). 메뉴에 가격이 없을 때 묻기 어려움 chowhound 후보",
+      "createdAt": "2026-11-21T18:36:25.162Z",
+      "seq": 6105
+    },
+    {
+      "id": "82751d42",
+      "title": "moral-hypocrisy 보강: 학술·SNS 파편, imagined-romance 관계",
+      "priority": 50,
+      "note": "2026-11-21 확인됨 2개(문학 1925, 매체 2007). Valdesolo & DeSteno 2007 Psychological Science 원문 미확인. PMC10098708 후보. livescience 2657-moral-hypocrites 후보",
+      "createdAt": "2026-11-21T18:38:13.279Z",
+      "seq": 6106
+    },
     {
       "id": "8d82229b",
       "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
@@ -3171,6 +3283,14 @@
       "note": "2026-11-21 후보: 학술 PMC6760427 (1999, Larimer 외) 'This lapse, in turn, can result in feelings of guilt and failure (i.e., an abstinence violation effect).' 비학술은 spring.org.uk PsyBlog 2011 what-the-hell effect 가 이미 confronting-line-cutters, zeigarnik-effect 에 쓰여 쓸 수 없음. 다른 비학술 출처 필요. diet-breaking-binge 의 상위 후보",
       "createdAt": "2026-11-21T03:35:38.245Z",
       "seq": 5989
+    },
+    {
+      "id": "67560f76",
+      "title": "잠들기 전 가짜 시나리오 상상하기",
+      "priority": 10,
+      "note": "imagined-romance 탐색 중 huffingtonpost.co.uk fake-scenarios-sleep-why_uk_64be4d1fe4b0df8632111d6d, sleepopolis reason-you-imagine-fake-scenarios-before-bed 에서 봄. imagined-romance, imaginary-arguments 와 관계 후보",
+      "createdAt": "2026-11-21T18:13:23.585Z",
+      "seq": 6094
     },
     {
       "id": "02b2f242",
