@@ -27,6 +27,7 @@
 - [감사 선물](docs/thank-you-gift.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [감정노동](docs/emotional-labor.md) ([일터와 일자리](groups/work.md))
 - [값 흥정](docs/haggling.md) ([돈과 소비](groups/money.md))
+- [값부터 보고 고르기](docs/checking-prices-first.md) ([돈과 소비](groups/money.md))
 - [강한 감정에 기절하기](docs/fainting-from-strong-emotion.md) ([건강과 위험](groups/health-and-safety.md))
 - [같은 메뉴만 주문하기](docs/ordering-the-same-dish.md) ([시간과 하루 습관](groups/daily-time.md))
 - [같은 이야기 되풀이](docs/retelling-same-story.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
