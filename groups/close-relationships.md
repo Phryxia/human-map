@@ -127,6 +127,7 @@
 - [좋아하는 사람을 마주치려고 기다리기](../docs/hoping-to-run-into-a-crush.md) 좋아하는 사람을 한 번이라도 보려는 사람이 그 사람이 나타날 만한 곳에 일부러 가서 기다린다.
 - [좋아하는 사람의 이름 되풀이해 쓰기](../docs/writing-a-crushs-name.md) 어떤 사람을 좋아하는 사람이 상대의 이름을 모래나 칠판, 공책 따위에 거듭 써 본다.
 - [죽음 앞의 화해](../docs/deathbed-reconciliation.md) 죽음이 가까운 사람이나 그 곁의 사람이 오래 사이가 틀어졌던 상대와 화해하려 한다.
+- [준사회적 관계](../docs/parasocial-relationship.md) 사람이 만난 적 없는 유명인이나 매체 속 인물에게 마음을 쏟고 그 사람과 관계를 맺은 듯이 느낀다.
 - [질투](../docs/jealousy.md) 자기에게 소중한 관계를 제3자에게 빼앗길 것 같다고 느끼는 사람이 그 경쟁자와 관계를 두고 괴로워한다.
   - [연애 질투](../docs/romantic-jealousy.md)
     - [연인의 지난 연애 질투하기](../docs/retroactive-jealousy.md)
