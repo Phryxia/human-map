@@ -32,7 +32,6 @@
   - [소득 상실 우려](../docs/income-loss-worry.md)
 - [돈 쓰기 아까워하기](../docs/tightwad-spending.md) 돈을 낼 때의 괴로움을 미리 느끼는 사람이 스스로 바라는 것보다 적게 쓴다.
 - [동전을 저금통에 쌓아 두기](../docs/keeping-loose-change-in-jars.md) 거스름돈으로 받은 동전을 쓰지 않는 사람이 그 동전을 집의 저금통, 병, 서랍에 넣어 두고 다시 꺼내지 않는다.
-- [마음속 예산 나누기](../docs/mental-budgeting.md) 사람이 가진 돈을 쓸 곳별로 머릿속에서 나누어 몫을 정해 둔다.
 - [모은 돈 들여다보기](../docs/gazing-at-saved-money.md) 돈을 모아 둔 사람이 그 돈이나 통장 잔고를 거듭 들여다보며 기쁨이나 위안을 얻는다.
 - [모음 채우기](../docs/completing-a-collection.md) 물건을 모으는 사람이 빠진 한 점을 찾아 모음을 완성하려 애쓴다.
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
@@ -68,6 +67,8 @@
 - [식사비 낼 사람 정하기](../docs/deciding-who-pays-for-meals.md) 다른 사람과 함께 밥을 먹은 사람이 상대의 나이, 성별, 친한 정도와 자리의 성격에 따라 누가 식사비를 낼지 정한다.
   - [계산 피하기](../docs/dodging-the-bill.md)
   - [서로 계산하겠다고 다투기](../docs/fighting-over-the-bill.md)
+- [심적 회계](../docs/mental-accounting.md) 사람이 돈을 들어온 곳이나 쓸 곳에 따라 머릿속에서 나누어 같은 액수의 돈도 다르게 쓴다.
+  - [마음속 예산 나누기](../docs/mental-budgeting.md)
 - [쓰지 않는 가전 플러그 꽂아 두기](../docs/leaving-appliances-plugged-in.md) 집에 있는 사람이 쓰지 않는 가전제품의 플러그를 콘센트에서 뽑지 않고 꽂아 둔다.
 - [쓰지 않는 구독 유지](../docs/unused-subscription.md) 정기 결제 서비스에 가입한 사람이 그 서비스를 거의 쓰지 않으면서 해지하지 않고 돈을 계속 낸다.
   - [헬스장 등록하고 안 가기](../docs/gym-membership-nonuse.md)

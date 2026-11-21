@@ -18,7 +18,7 @@
 
 ## 상위
 
-없음.
+- [심적 회계](mental-accounting.md)
 
 ## 하위
 

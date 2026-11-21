@@ -542,6 +542,7 @@
 - [실패에 대한 두려움](docs/fear-of-failure.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [심리적 계약 위반 지각](docs/psychological-contract-breach.md) ([일터와 일자리](groups/work.md))
 - [심장 증상에도 도움 청하기 미루기](docs/delaying-help-for-heart-symptoms.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [심적 회계](docs/mental-accounting.md) ([돈과 소비](groups/money.md))
 - [심폐소생술 망설이기](docs/hesitating-to-perform-cpr.md) ([건강과 위험](groups/health-and-safety.md))
 - [써 놓고 내보내지 않기](docs/writing-without-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [쓰지 않는 가전 플러그 꽂아 두기](docs/leaving-appliances-plugged-in.md) ([돈과 소비](groups/money.md))
