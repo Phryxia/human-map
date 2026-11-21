@@ -8,7 +8,7 @@
 
 # 서술
 
-글[^1]의 필자는 미루기가 사람을 글 막힘에 빠지게 하기도 하고 글 막힘이 사람을 미루게 하기도 하며 두 행동이 함께 나타날 수 있다고 적는다.
+위키백과의 글 막힘 문서[^1]는 글 막힘과 미루기가 같은 일은 아니어도 서로를 낳을 수 있다고 적는다.
 
 1751년 Johnson 의 에세이에서 화자는 피할 수 없는 일을 오래 내버려 둔 자신을 꾸짖고 빈둥거린 시간마다 일이 더 어려워졌다고 적었다.[^2]
 
@@ -63,7 +63,7 @@
 
 #시간 #마음
 
-[^1]: [매체] "Furthermore, these two behaviors can co-occur, especially when someone’s writer’s block leads them to procrastinate, or when procrastination leads someone to suffer from writer’s block." (게다가 이 두 행동은 함께 나타날 수 있는데, 특히 글 막힘이 사람을 미루게 하거나 미루기가 사람을 글 막힘에 빠지게 할 때 그렇다.) — Itamar Shatz, "Writing Procrastination: Why You Procrastinate on Writing and How to Stop", Solving Procrastination, 발행일 미상, https://solvingprocrastination.com/writing-procrastination/, 2026-11-03 접속
+[^1]: [매체] "Although writer's block and procrastination are not the exact same issue, they can end up leading to one another." (글 막힘과 미루기는 똑같은 문제는 아니지만 서로를 낳을 수 있다.) — Wikipedia, 「Writer's block」, 발행일 미상, https://en.wikipedia.org/wiki/Writer%27s_block, 2026-11-21 접속
 [^2]: [매체] "yet I could not forbear to reproach myself for having so long neglected what was unavoidably to be done, and of which every moment's idleness increased the difficulty." (그래도 나는 피할 수 없이 해야 할 일을 그토록 오래 내버려 둔 나 자신을 꾸짖지 않을 수 없었다. 빈둥거린 순간마다 그 일은 더 어려워졌다.) — Samuel Johnson, The Rambler No. 134, 1751-06-29, https://www.gutenberg.org/cache/epub/11397/pg11397-images.html, 2026-10-17 접속
 [^3]: [문학] "I like work: it fascinates me. I can sit and look at it for hours. I love to keep it by me: the idea of getting rid of it nearly breaks my heart." (나는 일을 좋아한다. 일은 나를 사로잡는다. 나는 몇 시간이고 앉아서 일을 바라볼 수 있다. 나는 일을 곁에 두기를 좋아한다. 일을 치운다는 생각만 해도 가슴이 미어질 것 같다.) — Jerome K. Jerome, "Three Men in a Boat", Project Gutenberg, 1889, https://www.gutenberg.org/cache/epub/308/pg308-images.html, 2026-11-08 접속
 [^4]: [학술] "In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation." (이 논문에서 우리는 자기조절 실패의 한 형태로서 미루기가 단기적 기분 회복과 감정 조절에 깊이 관련되어 있다고 주장한다.) — Fuschia Sirois, Timothy Pychyl, "Procrastination and the Priority of Short-Term Mood Regulation: Consequences for Future Self", Social and Personality Psychology Compass 7(2), 2013-02-01, https://eprints.whiterose.ac.uk/id/eprint/91793/, 2026-10-17 접속
