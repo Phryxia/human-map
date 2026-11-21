@@ -1,56 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-21T06:32:21.748Z",
-  "nextSeq": 6003,
-  "stops": 319,
+  "savedAt": "2026-11-21T09:33:40.188Z",
+  "nextSeq": 6024,
+  "stops": 320,
   "items": [
     {
-      "id": "88dd87d3",
-      "title": "dev: SNS 서지 플랫폼명에 Rick Steves Travel Forum 추가",
-      "priority": 60,
-      "note": "2026-11-21 avoiding-friday-the-13th [^3] 서지 'Rick Steves Travel Forum 댓글' 이 실명 꼴로 걸려 'ricksteves.com 댓글' 로 씀. MULTIWORD_PLATFORMS 에 넣을지",
-      "createdAt": "2026-11-21T06:20:32.588Z",
-      "seq": 6000
-    },
-    {
-      "id": "1e1b307d",
+      "id": "b0c1640d",
       "title": "dev: 개인 블로그 도메인 중복 WARN 을 ERROR 로",
       "priority": 40,
-      "note": "2026-11-21 개인 블로그 도메인 검사를 WARN 으로 넣음. 위 네 문서가 고쳐지면 isWarn 에서 blog/ 를 뺀다",
-      "createdAt": "2026-11-21T06:06:05.278Z",
-      "seq": 5999
-    },
-    {
-      "id": "c70e5a0d",
-      "title": "perfectionism 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-13 1831년 Balzac 23060 추가. 공공 후보 못 찾음(healthdirect, betterhealth 404). 문학 후보 Hawthorne The Birth-Mark 512 'this one defect grow more and more intolerable' 는 남의 흠",
-      "createdAt": "2026-11-13T21:32:21.286Z",
-      "seq": 4917
-    },
-    {
-      "id": "5cdd7e14",
-      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
-      "priority": 30,
-      "note": "2026-10-21 문서 작성 시 관계 미정. 후보: PMC8650558 같은 출처 'Social drinkers are commonly unaware of exceeding the legal driving limit when consuming alcohol.', 도로교통공단 2026 교육생 924명 설문 '술이 깼을 것으로 판단' 24.5%(원문 공단 페이지 미발견, segye·wikitree·mtn 보도), RSA Ireland 2025 45% believed fit to drive(403), samhsa ShortReport-2688 (2016-12-27) 11.1%, cdc impaired-driving/facts (2024-05-15) 1.5%, sports.khan.co.kr 200612052128343 몇 미터 이동은 운전 아님. 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요 / 2026-10-21 djsresearch.co.uk insights 01700 (Direct Line 2014) 'the most common reason given for drink driving is that the individual felt they were okay to safely drive' 는 drink-driving 자체의 이유. legalfutures print 같은 조사 'respondents felt they were personally able to drink more alcohol than the “average woman”' 는 평균 이상 효과 후보이나 운전과의 인과 표지 없음",
-      "createdAt": "2026-11-13T21:33:57.528Z",
-      "seq": 4919
-    },
-    {
-      "id": "0ea94076",
-      "title": "weather-small-talk 와 elevator-silence 관계",
-      "priority": 30,
-      "note": "2026-10-22 남김: allurekorea 엘리베이터 장면 '그리고 침묵.', asol.ling.utexas.edu sun.pdf 'defuse potential hostility of silence'(PDF 미확인)",
-      "createdAt": "2026-11-13T21:34:50.596Z",
-      "seq": 4920
-    },
-    {
-      "id": "a349631d",
-      "title": "post-election-distress 보강: 한국 공공 파편",
-      "priority": 30,
-      "note": "2026-11-14 UIC 2016 공공 더함. 한국 공공기관의 선거 뒤 정서 자료는 못 찾음. 남은 후보: health.osu.edu/health/mental-health/coping-with-election-outcomes (2024-10-10) 'you could be seriously disappointed'",
-      "createdAt": "2026-11-14T03:16:36.061Z",
-      "seq": 4936
+      "note": "2026-11-21 개인 블로그 도메인 검사를 WARN 으로 넣음. 위 네 문서가 고쳐지면 isWarn 에서 blog/ 를 뺀다 / 2026-11-21 validate 경고 0",
+      "createdAt": "2026-11-21T09:09:56.847Z",
+      "seq": 6018
     },
     {
       "id": "a31a4a6d",
@@ -77,14 +37,6 @@
       "seq": 4982
     },
     {
-      "id": "aa733ed7",
-      "title": "stubbornness 보강: 조건(나이, 자녀가 더 높게 봄)",
-      "priority": 30,
-      "note": "2026-11-14 clien 11117711 SNS 파편 추가. 남은 후보: scholarworks.sookmyung.ac.kr 152797 조혜진 2022 아동 고집 인식 4유형, gutenberg 11231 'persist in that mulish vagary'. PMC4903030 은 이미 [^2] 라 같은 출처 둘째 파편 불가",
-      "createdAt": "2026-11-14T09:09:36.657Z",
-      "seq": 4984
-    },
-    {
       "id": "3fa9d2e8",
       "title": "arrogance 관계: vanity 와의 관계",
       "priority": 30,
@@ -99,14 +51,6 @@
       "note": "2026-11-14 회차 263: 조건 대목(gutenberg 2048 낚시)은 [^1] 과 같은 출처라 둘째 파편 불가, [^1] 원문 교체로만 가능. Oblomov 54700 'he would spend his time in lying on his back.' procrastination 과 간선이 될 인과 문장 못 찾음",
       "createdAt": "2026-11-14T09:12:36.967Z",
       "seq": 4987
-    },
-    {
-      "id": "a81b995c",
-      "title": "gratitude 관계: thank-you-gift 결과 간선, SNS 파편",
-      "priority": 30,
-      "note": "2026-11-14 indebtedness 결과 간선 추가. asiae 2024031817444611013 은 이웃돕기 기부라 thank-you-gift 근거 아님. clien kin/18125020 (2023-06-09) '크게 신세진 분이 있어서 감사의 인사로 선물을' 은 thank-you-gift SNS 후보(신세→선물)",
-      "createdAt": "2026-11-14T09:16:26.857Z",
-      "seq": 4991
     },
     {
       "id": "b295aede",
@@ -131,22 +75,6 @@
       "note": "2026-11-14 회차 263: 두 문서 모두 19세기 소설(1833 Eugénie Grandet, 1861 Silas Marner)로 돈 아끼기를 보임. 공통 상위(돈 아끼기·절약) 문서 없음. 이전 note: Dunn 외 2010 PMID 20460419 403, PMC12220072 척도 문항 'hoarding money for future catastrophes (Miserliness)'",
       "createdAt": "2026-11-14T09:23:22.702Z",
       "seq": 4995
-    },
-    {
-      "id": "1945d3c4",
-      "title": "self-deprecation 보강: 문학 파편, 원인(낮은 자존감) 간선",
-      "priority": 30,
-      "note": "2026-11-14 회차 263: 후보 gutenberg 1342 Darcy 'the appearance of humility ... an indirect boast', gutenberg 766 Uriah Heep 'I am well aware that I am the umblest person going' 는 두 출처 모두 이미 4문서가 써서 다섯째면 WARN. 이전 note: PMC4991046 'low self-esteem (Martin et al., 2003)', brunch daeheestory/283. 낮은 자존감 문서 없음",
-      "createdAt": "2026-11-14T09:23:55.190Z",
-      "seq": 4996
-    },
-    {
-      "id": "b5dcc48f",
-      "title": "driving-overconfidence 보강: 한국 공공 파편",
-      "priority": 30,
-      "note": "2026-11-14 clien park/19021500 SNS 파편 추가. 같은 글 댓글 '어린시절 내가 운전을 잘해서 사고가 안난줄 알았는데, 사실 주위 운전자들이 방어운전으로' (같은 출처라 둘째 파편 불가). 한국 공공 파편 없음",
-      "createdAt": "2026-11-14T09:26:47.882Z",
-      "seq": 4997
     },
     {
       "id": "bc7434b3",
@@ -219,14 +147,6 @@
       "note": "2026-11-15 persol 2025 칼럼(이미 [^4]) '退職代行サービス運営企業は、退職代行サービスの利用理由として、上司のハラスメントが最も多いことを指摘している' 이유 문장. 상대가 될 '직장 상사 괴롭힘 받기' 문서 없음(enduring-workplace-harassment 는 참고 넘기기라 다름)",
       "createdAt": "2026-11-15T03:33:33.476Z",
       "seq": 5083
-    },
-    {
-      "id": "efff8641",
-      "title": "feeling-old-when-offered-a-seat 보강: 학술 파편",
-      "priority": 30,
-      "note": "2026-11-15 영문 검색 'offered a seat' older adults felt old 결과 nzherald 칼럼뿐. 이전: 2026-11-06 PubMed benevolent ageism help 검색 Chasteen 2021, Ma 36845210 부적합. 받는 쪽 self-perception of aging 연구 찾기",
-      "createdAt": "2026-11-15T09:11:36.439Z",
-      "seq": 5142
     },
     {
       "id": "81687874",
@@ -1019,6 +939,54 @@
       "note": "2026-11-21 mumsnet 4861322, welltrainedmind 174695, beyondblue my-kids-deserve-better 모두 Cloudflare 403. 이전: HN Algolia 9개 검색어 결과 없음. 클리앙 park/18763400, 19098247 맞지 않음. old.reddit 차단, 82cook 연결 끊김, 뽐뿌·더쿠 403",
       "createdAt": "2026-11-21T06:26:50.245Z",
       "seq": 6002
+    },
+    {
+      "id": "0092ce79",
+      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
+      "priority": 30,
+      "note": "2026-10-21 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요. 후보: PMC8650558, 도로교통공단 2026 설문(segye·wikitree·mtn 보도), djsresearch.co.uk insights 01700 (Direct Line 2014), legalfutures print / 2026-11-21 회차 319 에 다시 미룸",
+      "createdAt": "2026-11-21T09:09:46.672Z",
+      "seq": 6017
+    },
+    {
+      "id": "8e3f4306",
+      "title": "weather-small-talk 와 elevator-silence 관계",
+      "priority": 30,
+      "note": "2026-10-22 남김: allurekorea 엘리베이터 장면 '그리고 침묵.', asol.ling.utexas.edu sun.pdf 'defuse potential hostility of silence'(PDF 미확인)",
+      "createdAt": "2026-11-21T09:09:56.922Z",
+      "seq": 6019
+    },
+    {
+      "id": "0ac5c1c6",
+      "title": "post-election-distress 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-11-14 UIC 2016 공공 더함. 한국 공공기관의 선거 뒤 정서 자료는 못 찾음. 남은 후보: health.osu.edu/health/mental-health/coping-with-election-outcomes (2024-10-10) 'you could be seriously disappointed'",
+      "createdAt": "2026-11-21T09:09:56.995Z",
+      "seq": 6020
+    },
+    {
+      "id": "d2596b8e",
+      "title": "driving-overconfidence 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-11-14 clien park/19021500 SNS 추가. 2026-11-21 korea.kr 148928364·148958728, mediahub.seoul.go.kr 2012066·2014251·2004810, news.seoul.go.kr traffic 505470 등 대목 없음. 다음: koroad.or.kr 보도자료 '법규준수 교육 설문'(쿠키뉴스 kuk202601210300 2026-01-21 보도, 운전경력 20년 이상 46%), 경찰청·교통안전공단 '고령운전자 자가진단'",
+      "createdAt": "2026-11-21T09:32:19.117Z",
+      "seq": 6021
+    },
+    {
+      "id": "5be4c2c8",
+      "title": "self-deprecation 원인 간선: 낮은 자존감",
+      "priority": 30,
+      "note": "2026-11-21 Cherry Orchard 7986, Brothers Karamazov 28054 문학 추가. 남은 후보: PMC4991046 'low self-esteem (Martin et al., 2003)'. 낮은 자존감 문서 없음",
+      "createdAt": "2026-11-21T09:33:08.208Z",
+      "seq": 6022
+    },
+    {
+      "id": "77a1e4a7",
+      "title": "gratitude 관계: thank-you-gift 결과 간선, SNS 파편",
+      "priority": 30,
+      "note": "2026-11-14 indebtedness 결과 간선 추가. 2026-11-21 clien kin/18125020 은 thank-you-gift [^2] 로 이미 쓰임. '감사의 인사로 선물' 은 감정이 원인이라는 표지가 약함. thank-you-gift [^3] 은 감사보다 부채감이 선물을 예측한다고 함. 감사 때문에 선물한다는 문장 필요",
+      "createdAt": "2026-11-21T09:33:27.698Z",
+      "seq": 6023
     },
     {
       "id": "9634edf0",
@@ -1885,14 +1853,6 @@
       "seq": 585
     },
     {
-      "id": "5918acb8",
-      "title": "꾸며낸 핑계로 집안 체면 지키기",
-      "priority": 10,
-      "note": "Scott, The Bride of Lammermoor 1819 11장 gutenberg epub/471 'if it’s my pleasure to hazard my soul in telling lees for the honour of the family' 집사가 손님 앞에서 없는 만찬을 벼락에 탔다고 꾸밈. concealing-poverty 하위 후보",
-      "createdAt": "2026-10-20T02:37:34.110Z",
-      "seq": 631
-    },
-    {
       "id": "82fe2460",
       "title": "고인의 방을 그대로 두는 것과 사회의 '벗어나라' 기대 사이의 갈등",
       "priority": 10,
@@ -1931,14 +1891,6 @@
       "note": "2026-10-26 휴가·휴직 제도가 있어도 동료 부담과 평가를 의식해 쓰지 않는 현상. 후보: csmonitor 1981/0727/072712 상사가 재고 요구, csmonitor 1994/0802/02182 아버지가 한두 주로 줄여 씀",
       "createdAt": "2026-10-26T09:26:19.178Z",
       "seq": 2187
-    },
-    {
-      "id": "e1372f38",
-      "title": "스톱앤고 기능 끄기",
-      "priority": 10,
-      "note": "2026-10-27 engine-idling 작업 중. highwaysmagazine nearly-quarter-drivers-admit-idling (2022-06-16) 5~10% 가 stop-start 를 끔, 배터리 마모 걱정과 짜증. engine-idling 과 관계 후보. 같은 URL 은 engine-idling 이 이미 씀",
-      "createdAt": "2026-10-27T00:20:05.455Z",
-      "seq": 2268
     },
     {
       "id": "90f3fa4d",
