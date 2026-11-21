@@ -31738,15 +31738,15 @@
   },
   "https://koreascience.kr/article/JAKO199911920808471.page": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://www.imaeil.com/page/view/2012013009004895886": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://mobile.newsis.com/view/NISX20130218_0011849991": {
     "first": "2026-11-19",
@@ -32851,6 +32851,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://theaggie.org/2025/2/13/i-dont-understand-the-slang-anymore": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://en.wikisource.org/wiki/The_Mayor_of_Casterbridge/Chapter_18": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
