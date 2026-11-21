@@ -5540,9 +5540,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057329/": {
     "first": "2026-10-20",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11961986/": {
     "first": "2026-10-20",
@@ -31396,15 +31396,15 @@
   },
   "https://www.kornferry.com/about-us/press/cameras-on-or-off": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://workplaceinsight.net/three-quarters-of-people-admit-to-turning-off-webcam-to-hide-what-theyre-doing": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31822206&resultType=core&format=json": {
     "first": "2026-11-19",
@@ -31432,9 +31432,9 @@
   },
   "https://news.ycombinator.com/item?id=33000531": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-21"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC11863295&resultType=core&format=json": {
     "first": "2026-11-19",
@@ -33235,6 +33235,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://boards.straightdope.com/t/am-i-more-likely-to-win-the-lottery-by-picking-the-numbers-myself-or-going-with-easy-pick/973627": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://www.segye.com/newsView/20200831519854": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
