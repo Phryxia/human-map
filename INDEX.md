@@ -570,6 +570,7 @@
 - [양치하며 물 틀어 두기](docs/leaving-tap-running-while-brushing.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [어둠 공포](docs/fear-of-the-dark.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [어린 시절 살던 집 찾아가기](docs/revisiting-childhood-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [어린 시절 장소가 작아 보이기](docs/childhood-places-seeming-smaller.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [억양 편견](docs/accent-prejudice.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [언 물 위에 들어가기](docs/walking-on-frozen-water.md) ([건강과 위험](groups/health-and-safety.md))
 - [얹혀사는 대가로 집안일 거들기](docs/doing-chores-while-staying.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))

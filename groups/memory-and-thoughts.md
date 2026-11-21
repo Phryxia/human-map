@@ -31,6 +31,7 @@
   - [퇴근 뒤 일 생각 곱씹기](../docs/work-rumination-after-hours.md)
 - [설단 현상](../docs/tip-of-the-tongue.md) 말하려는 사람이 떠올리려는 단어를 알고 있다고 느끼면서도 그 단어를 끝내 떠올리지 못한다.
 - [아는 사람 이름 잊기](../docs/forgetting-acquaintances-names.md) 아는 사람을 만난 사람이 얼굴은 알아보면서 그 사람의 이름이 떠오르지 않아 당혹스러워하거나 짜증스러워한다.
+- [어린 시절 장소가 작아 보이기](../docs/childhood-places-seeming-smaller.md) 어른이 되어 어린 시절의 집, 학교, 동네에 다시 간 사람이 그곳이 기억보다 작다고 느낀다.
 - [옛 사진 들여다보기](../docs/looking-at-old-photos.md) 사람이 옛 사진이나 앨범을 꺼내 들여다보며 사진 속 지난 시절과 사람을 떠올린다.
 - [옛 일기 다시 읽기](../docs/rereading-old-diaries.md) 사람이 예전에 자기가 쓴 일기를 다시 꺼내 읽으며 그때의 자신을 낯설어하거나 부끄러워한다.
 - [옛 편지 다시 읽기](../docs/rereading-old-letters.md) 사람이 오래전에 받은 편지를 꺼내 다시 읽으며 그 편지를 받던 때의 일과 마음을 되살린다.
