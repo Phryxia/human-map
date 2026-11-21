@@ -61,6 +61,7 @@
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
 - [방 안 서성이기](../docs/pacing-the-room.md) 고민하거나 마음이 어지러운 사람이 방이나 좁은 자리 안을 이리저리 왔다 갔다 하며 걷는다.
 - [불길한 예감](../docs/sense-of-foreboding.md) 사람이 아직 알지 못하는 나쁜 일이 곧 닥치거나 이미 닥쳤다고 느끼며 불안해한다.
+  - [행복할 때 뒤따를 불행 두려워하기](../docs/fear-of-happiness.md)
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
 - [빗소리에 마음 놓이기](../docs/rain-sounds-comfort.md) 실내에 있는 사람이 지붕이나 창에 떨어지는 빗소리를 들으며 편안함을 느끼고 잠들 때 빗소리를 일부러 틀기도 한다.
@@ -105,7 +106,6 @@
 - [초인종 소리에 겁먹기](../docs/startled-by-doorbell.md) 예고 없이 초인종이나 노크 소리가 울리면 집에 있던 사람이 깜짝 놀라거나 겁을 먹는다.
 - [하품 전염](../docs/contagious-yawning.md) 남이 하품하는 것을 보거나 하품 이야기를 읽은 사람이 따라 하품한다.
 - [한숨 쉬기](../docs/sighing.md) 사람이 답답하거나 안도할 때 숨을 길게 내쉰다.
-- [행복할 때 뒤따를 불행 두려워하기](../docs/fear-of-happiness.md) 좋은 일이 생기거나 행복한 사람이 곧 나쁜 일이 닥쳐 그 기쁨을 잃을까 두려워한다.
 - [혹시 몰라 챙겨 두기](../docs/just-in-case-keeping.md) 사람이 언젠가 필요할지 모른다는 생각에 당장 쓰지 않을 물건이나 돈을 챙기거나 쌓아 둔다.
   - [여행 짐 많이 싸기](../docs/overpacking.md)
   - [집에 현금 쌓아 두기](../docs/keeping-cash-at-home.md)
