@@ -35,3 +35,4 @@
 - [침수 도로 진입](../docs/driving-into-floodwater.md) 운전자가 물에 잠긴 도로를 만나 돌아가지 않고 차를 몰아 그대로 건넌다.
 - [타이어 공기압 점검하지 않기](../docs/not-checking-tire-pressure.md) 자동차 운전자가 타이어 공기압을 몇 달씩 점검하지 않은 채 운전한다.
 - [황색 신호 앞의 망설임](../docs/yellow-light-dilemma.md) 교차로에 다가가던 운전자가 신호가 황색으로 바뀌는 것을 보고 멈출지 지나갈지 망설이다 속도를 내어 지나가기도 한다.
+- [횡단보도 앞 보행자에게 멈추지 않기](../docs/not-yielding-to-pedestrians.md) 신호등 없는 횡단보도에 보행자가 건너려고 서 있을 때 운전자가 멈추지 않고 지나간다.

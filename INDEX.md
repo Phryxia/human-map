@@ -977,6 +977,7 @@
 - [회식 참석 부담](docs/company-dinner-pressure.md) ([일터와 일자리](groups/work.md))
 - [회식을 업무의 연장으로 느끼기](docs/company-dinner-as-work.md) ([일터와 일자리](groups/work.md))
 - [회의 중 딴 일 하기](docs/multitasking-in-meetings.md) ([일터와 일자리](groups/work.md))
+- [횡단보도 앞 보행자에게 멈추지 않기](docs/not-yielding-to-pedestrians.md) ([길과 운전](groups/roads-and-driving.md))
 - [효과 없는 버튼 누르기](docs/pressing-placebo-buttons.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [후회 회피](docs/regret-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [휴대전화 없이 연락이 끊길 두려움](docs/nomophobia.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
