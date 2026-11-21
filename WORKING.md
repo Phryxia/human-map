@@ -14,4 +14,4 @@
 
 
 
-없음.
+- 2026-11-21T15:04Z | 2026-11-21T15:36Z | keeping-camera-off-in-video-calls 보강 | keeping-camera-off-in-video-calls
