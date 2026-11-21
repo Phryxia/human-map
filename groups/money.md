@@ -23,6 +23,7 @@
 - [날짜 표시만 보고 음식 버리기](../docs/discarding-food-by-date-label.md) 집에서 음식을 다루는 사람이 포장의 날짜 표시가 지났거나 가까워졌다는 이유로 아직 먹을 수 있는 음식을 버린다.
 - [남의 메뉴 부러워하기](../docs/order-envy.md) 식당에서 음식을 받은 사람이 일행이나 옆자리 사람이 시킨 메뉴가 더 좋아 보여 자기 주문을 후회한다.
 - [남이 버린 꽁초 주워 피우기](../docs/picking-up-cigarette-butts.md) 담배 살 돈이 모자란 흡연자가 남이 버린 담배꽁초를 주워 피운다.
+- [낱개 담배 사 피우기](../docs/buying-single-cigarettes.md) 흡연자가 담배를 한 갑이 아니라 한 개비씩 사서 피운다.
 - [냉난방 참기](../docs/energy-limiting-behavior.md) 전기요금이나 연료비를 부담스러워하는 사람이 더위나 추위 속에서도 냉방이나 난방을 켜지 않거나 줄이고 버틴다.
 - [냉장고 속 남은 음식 잊고 버리기](../docs/forgotten-fridge-leftovers.md) 먹다 남은 음식을 나중에 먹으려고 냉장고에 넣어 둔 사람이 그것을 먹지 않고 있다가 버린다.
 - [더 받은 거스름돈 돌려주지 않기](../docs/keeping-excess-change.md) 가게에서 거스름돈을 더 받은 손님이 그것을 알고도 돌려주지 않는다.
