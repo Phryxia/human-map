@@ -31990,9 +31990,9 @@
   },
   "https://gonggam.korea.kr/newsContentView.es?mid=a12603000000&section_id=NCCD_PUBLISH&content=NC002&news_id=222e877c-a58c-4251-91e9-dde9b9fcea30": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-21"
   },
   "https://www.pewresearch.org/short-reads/2026/11/12/download-my-free-guide-what-products-and-services-do-health-and-wellness-influencers-promote/": {
     "first": "2026-11-20",
@@ -32050,9 +32050,9 @@
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC9295248&resultType=core&format=json": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-21"
   },
   "https://www.korea.kr/news/healthView.do?newsId=148693988": {
     "first": "2026-11-20",
@@ -32086,9 +32086,9 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11385768/": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-21",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-21"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10797923/": {
     "first": "2026-11-20",
@@ -32893,6 +32893,12 @@
     "lastVerified": "2026-11-21"
   },
   "https://news.ycombinator.com/item?id=9412973": {
+    "first": "2026-11-21",
+    "last": "2026-11-21",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-21"
+  },
+  "https://news.ycombinator.com/item?id=6220451": {
     "first": "2026-11-21",
     "last": "2026-11-21",
     "result": "VERIFIED",
