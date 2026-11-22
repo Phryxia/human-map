@@ -45,6 +45,7 @@
 - [아파도 출근하기](sickness-presenteeism.md)[^10]
 - [직장 문제를 윗사람에게 말하지 않기](employee-silence.md)[^7]
 - [돈 걱정](money-worry.md)[^9]
+- [불안해서 하는 자기계발](anxious-self-improvement.md)
 
 ## 대립
 
