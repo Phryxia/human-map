@@ -9164,15 +9164,15 @@
   },
   "https://www.ipss.go.jp/ps-doukou/j/doukou15/report15html/NFS15R_html03.html": {
     "first": "2026-10-24",
-    "last": "2026-10-27",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-22"
   },
   "https://www.segye.com/view/20231116516323": {
     "first": "2026-10-24",
-    "last": "2026-10-29",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-29"
+    "lastVerified": "2026-11-22"
   },
   "https://hrcopinion.co.kr/archives/11764": {
     "first": "2026-10-24",
@@ -11870,9 +11870,9 @@
   },
   "https://news.ycombinator.com/item?id=31734484": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-22"
   },
   "https://www.etoday.co.kr/news/view/1752973": {
     "first": "2026-10-27",
@@ -33804,6 +33804,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://boards.straightdope.com/t/im-a-red-light-running-idiot/228192": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.npr.org/2009/11/25/120696816/in-japan-herbivore-boys-subvert-ideas-of-manhood": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
