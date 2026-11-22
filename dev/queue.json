@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-21T21:40:28.761Z",
-  "nextSeq": 6119,
-  "stops": 324,
+  "savedAt": "2026-11-22T00:34:28.844Z",
+  "nextSeq": 6133,
+  "stops": 325,
   "items": [
     {
       "id": "863ec0ca",
@@ -27,14 +27,6 @@
       "note": "2026-11-21 확인됨 2개(매체 발행일 미상 이효석, SNS 2016). 후보: toledoblade.com 2002-11-10 Leaf-burning-no-longer-one-of-autumn-s-rituals, vindyarchives 2003-11-11 냄새 선호와 어릴 때 노출, greatlakesecho 2009-11-09. smell-evoked-memory 와 관계 후보",
       "createdAt": "2026-11-21T18:30:52.081Z",
       "seq": 6103
-    },
-    {
-      "id": "d4403ae2",
-      "title": "staying-in-unhappy-marriage 보강: 학술·SNS 파편",
-      "priority": 50,
-      "note": "2026-11-21 확인됨 2개(문학 1938, 매체 2017). 학술 후보: Hawkins & Booth 2005 Social Forces 'Unhappily Ever After', Joel 2018 JPSP 상대 의존 인식. psychologytoday 201809 fulfillment-any-age, 202209 complicated-love 후보",
-      "createdAt": "2026-11-21T18:34:43.969Z",
-      "seq": 6104
     },
     {
       "id": "8b7b30b8",
@@ -91,6 +83,46 @@
       "note": "2026-11-21 확인됨 3개(SNS 2014, 매체 2015, 학술 2018). 위키문헌 냉동어·낙조·실락원의 별·날개·ㄷ씨 행장기에 없음. Orwell 3편은 꽁초 줍기뿐. 후보: 1900s.org.uk/1900s60s-smoking-supplies.htm 1940년대 영국 가게의 낱개 담배 회고(발행일 미상), Jack London The People of the Abyss, 채만식·김유정 소설의 마코·피존 개비",
       "createdAt": "2026-11-21T21:32:46.170Z",
       "seq": 6117
+    },
+    {
+      "id": "2c7c9ca4",
+      "title": "anxious-self-improvement 보강: 공공 파편, accesson.kr 재확인",
+      "priority": 50,
+      "note": "2026-11-22 허창구 2020 accesson.kr 이 타임아웃으로 미확인. 공공 종류 후보 못 찾음(korea.kr 내일배움카드 기사엔 불안 대목 없음). Cedefop 2015, OECD Risks that Matter 2020 은 403",
+      "createdAt": "2026-11-22T00:14:16.666Z",
+      "seq": 6126
+    },
+    {
+      "id": "130068ca",
+      "title": "construction-ppe-nonuse 보강: 더위로 안전모 벗는 비율 학술 파편, 감독 오면 숨는 면",
+      "priority": 50,
+      "note": "2026-11-22 PMC7809954 본문 'uncomfortable (78.2%) … feel too hot (69.2%)' 문장은 224자. finehomebuilding.com/forum/what-is-your-approach-to-safety 2009-02-19 글에 감독관이 오면 숨는다는 대목. korea.kr 148921812 에 미착용 사실",
+      "createdAt": "2026-11-22T00:19:17.651Z",
+      "seq": 6127
+    },
+    {
+      "id": "ab36e1bb",
+      "title": "staying-in-unhappy-marriage 보강: 한국 SNS 파편, 아이 때문에 머무는 면",
+      "priority": 50,
+      "note": "2026-11-22 확인됨 4개(문학 1938, SNS 2004, 학술 2005 Hawkins & Booth, 매체 2017). Joel 2018 JPSP 상대 의존 인식 후보 미탐색",
+      "createdAt": "2026-11-22T00:20:04.860Z",
+      "seq": 6128
+    },
+    {
+      "id": "e6f30646",
+      "title": "avoiding-touching-door-handles 보강: 공공 파편, hovering-over-public-toilet-seats 관계",
+      "priority": 50,
+      "note": "2026-11-22 공공 후보 못 찾음(CDC, ONS, 질병관리청, korea.kr). inquirer.com 2020-06-22 엘리베이터 버튼을 관절로 누르라는 권고. 보그 코리아 2018-08-07 팔꿈치로 버튼 누르기",
+      "createdAt": "2026-11-22T00:25:43.649Z",
+      "seq": 6129
+    },
+    {
+      "id": "cb3fb8a9",
+      "title": "standing-up-right-after-landing 보강: 학술·공공 파편",
+      "priority": 50,
+      "note": "2026-11-22 확인됨 3개(매체 2005 정책브리핑 시민 기고, SNS 2025, 매체 2026). 튀르키예 SHGM UOD-2025/01 회람은 PDF",
+      "createdAt": "2026-11-22T00:34:17.170Z",
+      "seq": 6132
     },
     {
       "id": "8d82229b",
@@ -3275,6 +3307,22 @@
       "note": "annoyed-by-relatives-asking-for-money 보강 중 발견. PMC11618537 Mason 2024 'This thing called black tax holds you hostage.', PMC13046107 2026 black tax 주요 걱정. annoyed-by-relatives-asking-for-money 와 관계 후보",
       "createdAt": "2026-11-21T21:37:22.681Z",
       "seq": 6118
+    },
+    {
+      "id": "696e1f3c",
+      "title": "gatekeeper aversion",
+      "priority": 10,
+      "note": "2026-11-22 wanting-a-human-agent 작업 중 arXiv 2504.06145 Kagan 외 2025 초록에서 봄. 불완전한 첫 서비스 단계를 거치기 꺼리는 것. wanting-a-human-agent 의 별칭 또는 상위 후보(원문 200자 넘음)",
+      "createdAt": "2026-11-22T00:29:32.967Z",
+      "seq": 6130
+    },
+    {
+      "id": "3f3651a1",
+      "title": "gate lice",
+      "priority": 10,
+      "note": "2026-11-22 standing-up-right-after-landing 탐색 중 봄. 탑승 그룹이 불리기 전부터 게이트 앞에 몰려 줄 서기. 후보: seattletimes.com 2013-08-03 AP 'Getting rid of gate lice', adn.com 2023-12-14 WaPo 심리학자 설명, commons.erau.edu/ijaaa/vol5/iss2/7 2018 선반 짐이 통로 막음",
+      "createdAt": "2026-11-22T00:34:17.102Z",
+      "seq": 6131
     },
     {
       "id": "02b2f242",
