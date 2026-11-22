@@ -65,6 +65,7 @@
 - [계산 피하기](docs/dodging-the-bill.md) ([돈과 소비](groups/money.md))
 - [계절 타기](docs/seasonal-mood-change.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [계획 오류](docs/planning-fallacy.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [고객센터에서 상담원 바로 찾기](docs/wanting-a-human-agent.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [고기 실온 해동](docs/thawing-meat-at-room-temperature.md) ([건강과 위험](groups/health-and-safety.md))
 - [고데기 켜 둔 채 외출하기](docs/leaving-hair-straighteners-on.md) ([건강과 위험](groups/health-and-safety.md))
 - [고마움](docs/gratitude.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
