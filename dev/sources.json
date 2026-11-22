@@ -34118,7 +34118,7 @@
   "https://m.korea.kr/news/cultureColumnView.do?newsId=148873884": {
     "first": "2026-11-22",
     "last": "2026-11-22",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-22"
   },
   "https://www.cogitatiopress.com/oceanandsociety/article/view/9793": {
@@ -34404,6 +34404,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://www.cancernetwork.com/view/terminally-ill-cancer-patients-often-fail-seek-pain-relief": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.bangor.ac.uk/sos/news/bangor-university-research-informs-rnli-safety-warning": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
