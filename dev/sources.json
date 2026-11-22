@@ -34102,5 +34102,35 @@
     "last": "2026-11-22",
     "result": "VERIFIED",
     "lastVerified": "2026-11-22"
+  },
+  "https://api.parliament.uk/historic-hansard/commons/2004/feb/09/morecambe-bay-deaths": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://api.parliament.uk/historic-hansard/written-answers/2004/may/27/rescue-operations-morecambe-bay": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://m.korea.kr/news/cultureColumnView.do?newsId=148873884": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.cogitatiopress.com/oceanandsociety/article/view/9793": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.khan.co.kr/article/202604292130005/": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
   }
 }

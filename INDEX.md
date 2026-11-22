@@ -329,6 +329,7 @@
 - [물건 못 버리기](docs/difficulty-discarding.md) ([돈과 소비](groups/money.md))
 - [물건 잃어버릴까 하는 불안](docs/fear-of-losing-things.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [물건에 이름 붙이고 사람처럼 대하기](docs/treating-objects-as-companions.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [물때 놓쳐 갯벌에 갇히기](docs/cut-off-by-the-tide.md) ([건강과 위험](groups/health-and-safety.md))
 - [물려받은 옷 싫어하기](docs/disliking-hand-me-downs.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [물려받을 재산 기대하기](docs/counting-on-inheritance.md) ([돈과 소비](groups/money.md))
 - [물에 빠진 이를 구하러 뛰어들기](docs/jumping-in-to-rescue-drowning.md) ([건강과 위험](groups/health-and-safety.md))
