@@ -935,15 +935,15 @@
   },
   "https://ko.wikisource.org/wiki/%EB%B9%88%EC%B2%98": {
     "first": "2026-10-17",
-    "last": "2026-11-17",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-22"
   },
   "https://www.sidae.com/article/2016102808278064569": {
     "first": "2026-10-17",
-    "last": "2026-10-27",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-22"
   },
   "https://www.theglobeandmail.com/life/without-a-little-help-from-my-friends/article4212606/": {
     "first": "2026-10-18",
@@ -11876,9 +11876,9 @@
   },
   "https://www.etoday.co.kr/news/view/1752973": {
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-27"
+    "lastVerified": "2026-11-22"
   },
   "https://news.ycombinator.com/item?id=33239605": {
     "first": "2026-10-27",
@@ -33786,6 +33786,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://www.kyeonggi.com/article/200407300033640": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://asu.elsevierpure.com/en/publications/intrapersonal-and-interpersonal-consequences-of-protective-buffer": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
