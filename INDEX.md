@@ -311,6 +311,7 @@
 - [모은 돈 들여다보기](docs/gazing-at-saved-money.md) ([돈과 소비](groups/money.md))
 - [모음 채우기](docs/completing-a-collection.md) ([돈과 소비](groups/money.md))
 - [모인 자리에서 말하지 않기](docs/staying-quiet-in-groups.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [목격자 진술 꺼림](docs/reluctant-witness.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [목이 메어 말을 잇지 못하기](docs/choking-up-mid-speech.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [몸 확인 행동](docs/body-checking.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [못 들은 척하기](docs/pretending-not-to-hear.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
