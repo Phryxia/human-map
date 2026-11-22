@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T09:34:52.023Z",
-  "nextSeq": 6208,
-  "stops": 328,
+  "savedAt": "2026-11-22T12:40:36.380Z",
+  "nextSeq": 6220,
+  "stops": 329,
   "items": [
-    {
-      "id": "65e57643",
-      "title": "dev: style-check 사전 은유의 열쇠가 주머니 속 실물 열쇠를 잡는다",
-      "priority": 60,
-      "note": "2026-11-22 fear-of-losing-things 서술 '여러 주머니를 두드려 열쇠가 있는지 확인한 뒤' 가 걸려 '차 열쇠' 로 바꿨다. '열쇠가 있는지', '열쇠가 주머니에' 같은 꼴을 빼는 사례 하나 더 찾기",
-      "createdAt": "2026-11-22T09:25:15.855Z",
-      "seq": 6204
-    },
     {
       "id": "87e6f324",
       "title": "liking-the-smell-of-burning-leaves 보강: 학술 파편",
@@ -19,6 +11,54 @@
       "note": "2026-11-22 문학 2개(Webster 1912, Lewis 1915) 추가. 학술 후보 없음: Hirsch 1992 ACR 본문에 leaves 없음, Carpenter 1977 JAPCA 'Leaf burning as a significant source of urban air pollution' 은 PDF. 공공(주 정부 낙엽 소각 안내문) 도 후보",
       "createdAt": "2026-11-22T09:15:23.298Z",
       "seq": 6203
+    },
+    {
+      "id": "3f292db1",
+      "title": "reluctant-witness 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-22 공공 3, 매체 1, 학술 1. OJP 2006 Dedel 'Witness Intimidation' 초록 '보복 위협 때문에 꺼린다' 로 not-reporting-for-fear-of-reprisal, believing-reporting-is-futile 관계 근거 찾기",
+      "createdAt": "2026-11-22T12:11:27.080Z",
+      "seq": 6214
+    },
+    {
+      "id": "3e04ec54",
+      "title": "vaccine-hesitancy 보강: 이유별 하위, 관계",
+      "priority": 50,
+      "note": "2026-11-22 공공 3, 학술 2. 차혜경 2013 '예방접종 불신형, 부작용 염려형, 불필요형' 세 유형. WHO 2019 ten threats 'complacency, inconvenience, lack of confidence'. JSTOR Daily 2021 1920년대 등교 접종 다툼",
+      "createdAt": "2026-11-22T12:16:25.693Z",
+      "seq": 6215
+    },
+    {
+      "id": "919b5159",
+      "title": "skipping-emergency-drills 관계: dismissing-fire-alarms",
+      "priority": 50,
+      "note": "2026-11-22 서울신문 2023-06-30 화재경보기 오작동 기사 '터무니없이 적은 수의 주민이 대피' 는 dismissing-fire-alarms 보강 후보. Massey 2024 호텔 직원 '경보 무시' 로 원인 간선 근거 찾기",
+      "createdAt": "2026-11-22T12:22:15.002Z",
+      "seq": 6216
+    },
+    {
+      "id": "e1429dbf",
+      "title": "avoiding-painkillers 보강: 학술 파편, 이른 시기",
+      "priority": 50,
+      "note": "2026-11-22 공공 3, 매체 2, 모두 2018~2025. PMC5541120, PMC4356472 는 reCAPTCHA, PubMed 33337597 은 쿠키 확인. NCI PDQ 에 '미국 환자 조사(이전 10년)와 비슷' 대목. 2008년 이전 출처 찾기",
+      "createdAt": "2026-11-22T12:29:01.189Z",
+      "seq": 6217
+    },
+    {
+      "id": "4e69f8b6",
+      "title": "cut-off-by-the-tide 보강: 관계, 이른 시기",
+      "priority": 50,
+      "note": "2026-11-22 공공 3, 학술 1, 매체 1. Bangor 대학 2023-04-04 보도자료 '갇힌 경험자 57% 내륙 거주', HSE estuary.htm '장비를 믿고 작업 시간을 늘리지 말라' 후보. unrealistic-optimism, not-seeing-oneself-as-heat-vulnerable 와 관계 근거 찾기",
+      "createdAt": "2026-11-22T12:33:13.193Z",
+      "seq": 6218
+    },
+    {
+      "id": "c8a521e3",
+      "title": "pavement-cycling 관계: not-cycling-for-fear-of-traffic",
+      "priority": 50,
+      "note": "2026-11-22 Hansard 2002 '차도가 무서워 인도로 탄다'. road.cc 2021-03-03 기사 '차들 사이의 두려움과 불편 때문에 인도를 고른다' 후보(Mobilities 2021 과 같은 연구). WHYY 2018 '보행자가 부딪힐까 두려워한다' 대목도 있다",
+      "createdAt": "2026-11-22T12:40:26.777Z",
+      "seq": 6219
     },
     {
       "id": "0541c530",
