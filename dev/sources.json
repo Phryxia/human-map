@@ -34132,5 +34132,35 @@
     "last": "2026-11-22",
     "result": "VERIFIED",
     "lastVerified": "2026-11-22"
+  },
+  "https://api.parliament.uk/historic-hansard/written-answers/2002/jun/17/cycling": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.gov.uk/government/consultations/cycling-and-walking-investment-strategy-cwis-safety-review/cycling-and-walking-investment-strategy-safety-review-call-for-evidence": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://whyy.org/articles/sidewalk-cycling-illegal-unsafe-and-one-argument-for-more-bike-lanes": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://ideas.repec.org/a/taf/rmobxx/v16y2021i3p388-403.html": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.mt.co.kr/society/2023/11/18/2023111710041655489": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
   }
 }

@@ -708,6 +708,7 @@
 - [이웃과 엘리베이터 같이 타지 않기](docs/avoiding-shared-elevator.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [이웃과 인사 이상의 말 나누지 않기](docs/not-chatting-with-neighbors.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [인기척 내려고 헛기침하기](docs/clearing-throat-to-announce-presence.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [인도로 자전거 타기](docs/pavement-cycling.md) ([길과 운전](groups/roads-and-driving.md))
 - [인사 안 받는 이웃에게 아는 체 그만두기](docs/stopping-greeting-unresponsive-neighbor.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [인사 없이 모임 자리 뜨기](docs/irish-goodbye.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [인색함](docs/miserliness.md) ([돈과 소비](groups/money.md))
