@@ -780,6 +780,7 @@
 - [장애인 전용 주차구역 무단 주차](docs/disabled-parking-misuse.md) ([길과 운전](groups/roads-and-driving.md))
 - [재난 대비 미루기](docs/not-preparing-for-disasters.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [재난 문자 무시하기](docs/ignoring-emergency-alerts.md) ([건강과 위험](groups/health-and-safety.md))
+- [재난 훈련 빠지기](docs/skipping-emergency-drills.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [재택근무 중 더 오래 일하기](docs/working-longer-at-home.md) ([일터와 일자리](groups/work.md))
 - [재해보험 들지 않기](docs/not-buying-disaster-insurance.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [재활용되기를 바라며 재활용함에 넣기](docs/wishcycling.md) ([시민 참여와 공공의 일](groups/civic-life.md))

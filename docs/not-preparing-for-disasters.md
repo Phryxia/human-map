@@ -28,6 +28,7 @@
 
 ## 하위
 
+- [재난 훈련 빠지기](skipping-emergency-drills.md)
 - [재해보험 들지 않기](not-buying-disaster-insurance.md)
 
 ## 원인
