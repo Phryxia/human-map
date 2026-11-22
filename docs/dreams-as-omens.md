@@ -18,6 +18,8 @@
 
 2014년 기사[^7]에 따르면 2013년 로또 1등 당첨자 168명 가운데 당첨 전에 꿈을 꿨다는 응답자의 30%가 조상 꿈을 꿨다고 답했다. 2026년 기사[^8]에 따르면 해마다 1등 당첨자에게 당첨과 관련된 꿈을 꾼 적이 있는지 묻는 설문에서 그렇다고 답한 사람 가운데 조상 꿈의 비율이 가장 높았다.
 
+2026년 연구[^9]에 따르면 아마존의 아추아르 사람들은 바늘에 손가락을 찔리는 꿈을 그날 숲에 나가면 뱀에 물린다는 뜻으로 푼다. 그런 꿈을 꾼 사람은 마을에서 멀리 가지 않는다.[^9]
+
 # 관계
 
 ## 상위
@@ -50,3 +52,4 @@
 [^6]: [SNS] "But maybe once every two months I’d have a dream, wake up, think “she’ll call today” and she always did." (그런데 두 달에 한 번쯤 꿈을 꾸고 깨어나면 "오늘 그녀가 전화하겠구나" 생각했고, 그녀는 언제나 전화했다.) — Straight Dope 댓글, 2009-11-08, https://boards.straightdope.com/t/i-had-a-premonition/516710?page=2, 2026-11-02 접속
 [^7]: [매체] "나눔로또가 지난해 한 해 로또 1등 당첨자 168명을 대상으로 설문조사한 결과 로또 당첨 전에 꿈을 꿨다는 응답자 중 30%가 조상꿈을 꿨다고 전했다." — 파이낸셜뉴스 온라인편집부, 「로또 1등 조상꿈, '지난 밤 꿈에 누가 나타났나요?'」, 파이낸셜뉴스, 2014-09-02, https://www.fnnews.com/news/201409020724568402, 2026-11-02 접속
 [^8]: [매체] "매년 로또 1등 당첨자를 대상으로 진행되는 동행복권의 설문조사에서 '당첨과 관련된 꿈을 꾼 적이 있는가'라는 질문에 긍정적인 답변을 한 사람들 중 가장 높은 비율을 차지하는 것은 단연 '조상님 꿈'이다." — 「진짜 신기하네…로또 1등 당첨자들이 실제로 많이 꿨다는 '길몽' 1위는?」, 위키트리, 2026-08-29, https://www.wikitree.co.kr/articles/1155712, 2026-11-02 접속
+[^9]: [학술] "A wise Achuar will not go far from her village after such a dream." (현명한 아추아르 사람은 그런 꿈을 꾼 뒤 마을에서 멀리 가지 않는다.) — Charles P. Fisher, Dream interpretation in the Amazon Rainforest: “Wayusa Space” as an organizing element in a metamethodology for psychoanalytic dream theory, Frontiers in Psychology, 2026-11-11, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1877939/full, 2026-11-22 접속
