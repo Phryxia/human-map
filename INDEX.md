@@ -88,6 +88,7 @@
 - [과속 운전](docs/speeding.md) ([길과 운전](groups/roads-and-driving.md))
 - [과음](docs/heavy-drinking.md) ([건강과 위험](groups/health-and-safety.md))
 - [교차로 꼬리물기](docs/blocking-the-intersection.md) ([길과 운전](groups/roads-and-driving.md))
+- [구독 해지 포기](docs/abandoning-subscription-cancellation.md) ([돈과 소비](groups/money.md))
 - [구매 결정 미루기](docs/delaying-purchases.md) ([돈과 소비](groups/money.md))
 - [구매 후 후회](docs/buyers-remorse.md) ([돈과 소비](groups/money.md))
 - [구명조끼 미착용](docs/life-jacket-nonuse.md) ([건강과 위험](groups/health-and-safety.md))

@@ -33850,5 +33850,17 @@
     "last": "2026-11-22",
     "result": "VERIFIED",
     "lastVerified": "2026-11-22"
+  },
+  "https://arxiv.org/abs/2309.17145": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.seoul.go.kr/news/news_report.do?nttNo=433606": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
   }
 }
