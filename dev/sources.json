@@ -7508,9 +7508,9 @@
   },
   "https://ar5iv.labs.arxiv.org/html/2004.07662": {
     "first": "2026-10-22",
-    "last": "2026-11-20",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-22"
   },
   "https://www.vodafone.co.uk/newscentre/?p=50482": {
     "first": "2026-10-22",
@@ -25893,21 +25893,21 @@
   },
   "https://www.insider.co.uk/news/nearly-two-thirds-people-suffer-10877982": {
     "first": "2026-11-12",
-    "last": "2026-11-20",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-22"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6510111/": {
     "first": "2026-11-12",
-    "last": "2026-11-20",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-22"
   },
   "https://www.bps.org.uk/research-digest/new-questionnaire-measures-peoples-no-mobile-phone-phobia-or-nomophobia": {
     "first": "2026-11-12",
-    "last": "2026-11-20",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-22"
   },
   "https://bps.org.uk/research-digest/youre-not-addicted-your-phone-its-just-you-have-anxious-attachment-style": {
     "first": "2026-11-12",
@@ -33810,6 +33810,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://www.npr.org/2009/11/25/120696816/in-japan-herbivore-boys-subvert-ideas-of-manhood": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.oneindia.com/2008/03/31/brit-cell-phone-users-grip-nomo-phobia-1206961500.html": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
