@@ -4437,9 +4437,9 @@
   },
   "https://www150.statcan.gc.ca/n1/daily-quotidien/250617/dq250617d-eng.htm": {
     "first": "2026-10-20",
-    "last": "2026-11-19",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-22"
   },
   "https://news.ycombinator.com/item?id=42672920": {
     "first": "2026-10-20",
@@ -19277,9 +19277,9 @@
   },
   "https://www.gqkorea.co.kr/?p=203288": {
     "first": "2026-11-04",
-    "last": "2026-11-19",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-22"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26436241&rettype=abstract&retmode=text": {
     "first": "2026-11-04",
@@ -20296,9 +20296,9 @@
   },
   "https://www.thelondoneconomic.com/lifestyle/brits-losing-out-on-face-to-face-time-with-friends-93312/": {
     "first": "2026-11-05",
-    "last": "2026-11-19",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-22"
   },
   "https://www.clien.net/service/board/cm_baby/10836783": {
     "first": "2026-11-05",
@@ -31588,9 +31588,9 @@
   },
   "https://brunch.co.kr/@0520with/21": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-22"
   },
   "https://m.dcinside.com/board/adhd/729": {
     "first": "2026-11-19",
@@ -33966,6 +33966,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://boards.straightdope.com/t/leaving-keys-in-the-car/300507?page=3": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://archives-new.honoluluadvertiser.com/article/2007/Nov/12/il/hawaii711120303.html": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
