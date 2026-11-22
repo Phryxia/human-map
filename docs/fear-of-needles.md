@@ -38,6 +38,7 @@
 
 - [헌혈 꺼림](avoiding-blood-donation.md)[^4]
 - [독감 예방접종 거르기](skipping-flu-vaccine.md)[^5]
+- [백신 망설임](vaccine-hesitancy.md)[^6]
 - [진료 회피](medical-care-avoidance.md)[^7]
 
 ## 대립

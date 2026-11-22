@@ -16,7 +16,9 @@
 
 2020년 5월 미국 지역 매체 기사[^5]는 1920년 시애틀 교육구가 천연두 예방접종 규정을 시행한 다음 날 밸러드 고등학교 학생 265명이 학교에서 접종받기를 거부했다는 당시 시애틀 타임스 보도를 전했다.
 
-2021년 미국 연구[^6]의 저자들은 부모의 백신 망설임이 극단에서는 모든 백신의 거부로 이어지고 그보다 흔하게는 일부 백신만 거부하거나 미루는 모습으로 나타난다고 적었다.
+2021년 6월 영국 연구[^6]는 혈액·주사·손상 공포가 성인의 코로나19 백신 망설임 사례 가운데 약 10%를 설명할 수 있다고 적었다.
+
+2021년 미국 연구[^7]의 저자들은 부모의 백신 망설임이 극단에서는 모든 백신의 거부로 이어지고 그보다 흔하게는 일부 백신만 거부하거나 미루는 모습으로 나타난다고 적었다.
 
 # 관계
 
@@ -30,7 +32,7 @@
 
 ## 원인
 
-없음.
+- [주사 공포](fear-of-needles.md)[^6]
 
 ## 결과
 
@@ -47,4 +49,5 @@
 [^3]: [학술] "예방접종은 국민건강증진에 많은 기여를 함에도 불구하고 백신의 안정성 문제로 부모는 아동 예방접종을 망설이거나 거부하는 경향이 증가하고 있다." — 차혜경, 하은호, 「자녀 예방접종 거부 부모의 주관성: Q 방법론적 접근」, Child Health Nursing Research 19(3), 2013-07-31, https://koreascience.kr/article/JAKO201325954524678.page?lang=ko, 2026-11-22 접속
 [^4]: [공공] "Vaccine hesitancy refers to delay in acceptance or refusal of safe vaccines despite availability of vaccination services." (백신 망설임은 예방접종 서비스를 이용할 수 있는데도 안전한 백신의 수용을 미루거나 거부하는 것을 가리킨다.) — World Health Organization, "Vaccine hesitancy: A growing challenge for immunization programmes", 보도자료, 2015-08-18, https://www.who.int/news/item/18-08-2015-vaccine-hesitancy-a-growing-challenge-for-immunization-programmes, 2026-11-22 접속
 [^5]: [매체] "The day after the rules were implemented, The Seattle Times reported that 265 students at Ballard High refused to be vaccinated at school." (규정이 시행된 다음 날 시애틀 타임스는 밸러드 고등학교 학생 265명이 학교에서 예방접종받기를 거부했다고 보도했다.) — Knute Berger, "Seattle always had anti-vaxxers — even during smallpox", Cascade PBS, 2020-05-21, https://www.cascadepbs.org/culture/2020/05/seattle-always-had-anti-vaxxers-even-during-smallpox/, 2026-11-22 접속
-[^6]: [학술] "At its extreme, parental vaccine hesitancy can lead to the refusal of all vaccines; more commonly, it manifests as the refusal or delay of some but not all vaccines." (극단에서 부모의 백신 망설임은 모든 백신의 거부로 이어질 수 있다. 더 흔하게는 모든 백신이 아니라 일부 백신의 거부나 지연으로 나타난다.) — "“It’s Like 1998 Again”: Why Parents Still Refuse and Delay Vaccines", Global Pediatric Health 8, 2021-08-27, https://pmc.ncbi.nlm.nih.gov/articles/PMC8404635/, 2026-11-22 접속
+[^6]: [학술] "Across the adult population, blood-injection-injury fears may explain approximately 10% of cases of COVID-19 vaccine hesitancy." (성인 인구 전체에서 혈액·주사·손상 공포는 코로나19 백신 망설임 사례의 약 10% 를 설명할 수 있다.) — Daniel Freeman 외, "Injection fears and COVID-19 vaccine hesitancy", Psychological Medicine, 2021-06-11, https://pmc.ncbi.nlm.nih.gov/articles/PMC8220023/, 2026-11-22 접속
+[^7]: [학술] "At its extreme, parental vaccine hesitancy can lead to the refusal of all vaccines; more commonly, it manifests as the refusal or delay of some but not all vaccines." (극단에서 부모의 백신 망설임은 모든 백신의 거부로 이어질 수 있다. 더 흔하게는 모든 백신이 아니라 일부 백신의 거부나 지연으로 나타난다.) — "“It’s Like 1998 Again”: Why Parents Still Refuse and Delay Vaccines", Global Pediatric Health 8, 2021-08-27, https://pmc.ncbi.nlm.nih.gov/articles/PMC8404635/, 2026-11-22 접속
