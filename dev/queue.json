@@ -1,128 +1,72 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T00:34:28.844Z",
-  "nextSeq": 6133,
-  "stops": 325,
+  "savedAt": "2026-11-22T03:37:28.620Z",
+  "nextSeq": 6154,
+  "stops": 326,
   "items": [
     {
-      "id": "863ec0ca",
-      "title": "fear-of-happiness 보강: foreboding joy 별칭, sense-of-foreboding 관계",
-      "priority": 50,
-      "note": "2026-11-21 sense-of-foreboding 탐색 중 inkl.com 'psychology-says-people-who-always-feel-the-other-shoe-is-about-to-drop-maybe-hypervigilant-than-negative' 기사에서 봄. Brené Brown 의 foreboding joy 가 fear-of-happiness 와 같은 현상",
-      "createdAt": "2026-11-21T18:25:25.752Z",
-      "seq": 6101
+      "id": "251e5cb8",
+      "title": "dev: style-check 가 와의 이중 조사를 잡는다",
+      "priority": 80,
+      "note": "putting-off-friends 요약 '친구와의 만남', urge-to-cancel-plans 초안 '친구와의 약속' 이 style-check 를 통과했다. 4절 이중 조사 규칙 위반",
+      "createdAt": "2026-11-22T03:37:27.835Z",
+      "seq": 6153
     },
     {
-      "id": "ab1d3ef0",
-      "title": "parasocial-relationship 보강: 학술·SNS 파편, imagined-romance 관계",
+      "id": "41a395b7",
+      "title": "liking-the-smell-of-burning-leaves 보강: 학술·문학 파편",
       "priority": 50,
-      "note": "2026-11-21 확인됨 2개(문학 1938, 매체 2022). Horton & Wohl 1956 Psychiatry 원문 미확인. Bradbury 2024 Springer 리머런스 검토의 'developing parasocial relationships with people online' 문장은 200자 넘음. wellesley.edu 2021 뉴스, thedailystar 후보",
-      "createdAt": "2026-11-21T18:28:56.289Z",
-      "seq": 6102
+      "note": "2026-11-22 이미 매체 3, SNS 1. Hirsch 1992 ACR 'Nostalgia: a Neuropsychiatric Understanding' 은 acrwebsite 404. gutenberg 03:20Z 에도 503(Sharp The Fall of the Year 42223, Packard Wood Wanderings 66059 에서 burning leaves 대목 찾기). smell-evoked-memory 관계 후보",
+      "createdAt": "2026-11-22T03:20:12.765Z",
+      "seq": 6145
     },
     {
-      "id": "a5e68eef",
-      "title": "liking-the-smell-of-burning-leaves 보강: 다른 종류 파편, 낙엽 태우기 금지 뒤의 그리움",
+      "id": "8b27d48c",
+      "title": "finders-reward-demand 보강: 2007년 워싱턴포스트 기사",
       "priority": 50,
-      "note": "2026-11-21 확인됨 2개(매체 발행일 미상 이효석, SNS 2016). 후보: toledoblade.com 2002-11-10 Leaf-burning-no-longer-one-of-autumn-s-rituals, vindyarchives 2003-11-11 냄새 선호와 어릴 때 노출, greatlakesecho 2009-11-09. smell-evoked-memory 와 관계 후보",
-      "createdAt": "2026-11-21T18:30:52.081Z",
-      "seq": 6103
+      "note": "Straight Dope 409762 첫 글이 소개한 2007-06 Washington Post 기사(남의 물건을 주우면 보상받을 자격이 있다는 생각, 지하철에 두고 내린 휴대전화) 원문 찾기. 매체 파편 후보",
+      "createdAt": "2026-11-22T03:27:26.340Z",
+      "seq": 6148
     },
     {
-      "id": "8b7b30b8",
-      "title": "checking-prices-first 보강: 학술·SNS 파편, mental-budgeting 관계",
+      "id": "5d1c7497",
+      "title": "fear-of-losing-things 보강: 2022년 이전 파편",
       "priority": 50,
-      "note": "2026-11-21 확인됨 2개(문학 1923, 매체 2016). Poundstone 의 메뉴 가격 줄 이야기는 Baltimore Magazine 인용. 학술 후보 미탐색(가격 주목 시선 추적 연구). 메뉴에 가격이 없을 때 묻기 어려움 chowhound 후보",
-      "createdAt": "2026-11-21T18:36:25.162Z",
-      "seq": 6105
+      "note": "2026-11-22 파편이 2022-2025 에 몰림. ko.wikisource API 요청 제한, gutenberg 503. willsdumbbrain.substack.com on-the-pocket-pat, vegoutmag 주머니 두드리기 기사는 최근 것",
+      "createdAt": "2026-11-22T03:29:16.892Z",
+      "seq": 6149
     },
     {
-      "id": "82751d42",
-      "title": "moral-hypocrisy 보강: 학술·SNS 파편, imagined-romance 관계",
+      "id": "7d33ac74",
+      "title": "neighbor-noise-retaliation 보강: 2019년 이전 파편",
       "priority": 50,
-      "note": "2026-11-21 확인됨 2개(문학 1925, 매체 2007). Valdesolo & DeSteno 2007 Psychological Science 원문 미확인. PMC10098708 후보. livescience 2657-moral-hypocrites 후보",
-      "createdAt": "2026-11-21T18:38:13.279Z",
-      "seq": 6106
+      "note": "2026-11-22 파편이 2019-2023 에 몰림. forums.anandtech.com 2440647 'downstairs neighbors slam their stuff around in retaliation' 은 봇 확인 페이지. boards.straightdope.com 667885 는 받는 쪽 이야기. 2000년대 한국 층간소음 보복 기사 후보 미탐색",
+      "createdAt": "2026-11-22T03:30:42.320Z",
+      "seq": 6151
     },
     {
-      "id": "8cab6755",
-      "title": "dreams-as-omens 보강: 불행을 알리는 꿈, sense-of-foreboding 관계",
+      "id": "f368d25e",
+      "title": "putting-off-friends 보강: 2018년 이전 파편",
       "priority": 50,
-      "note": "후보: frontiersin fpsyg.2026.1877939 'A less well known category of daily dreams predicts remote misfortune or death.' 아추아르 꿈 해석. era.ed.ac.uk Valášek 2015 예지몽 빈도와 의미",
-      "createdAt": "2026-11-21T21:10:00.582Z",
-      "seq": 6113
+      "note": "2026-11-22 파편이 2018-2025 에 몰림. Straight Dope 187843(2003), 247389(2004) 는 친구와 멀어진 이야기라 바빠서 미루는 면이 아님. 요약 줄의 '친구와의 만남' 은 이중 조사",
+      "createdAt": "2026-11-22T03:37:27.749Z",
+      "seq": 6152
     },
     {
-      "id": "37b4b4e1",
-      "title": "relief-after-caregiving-death 보강: 치매 간병 사별 뒤 안도 학술 파편, wishing-a-dying-relatives-end 관계",
-      "priority": 50,
-      "note": "후보: PMC11552666 O'Donnell & Baker 2023 'The release of obligations linked with care provided relief.' 와 'I thought about it so long, I was not sad but relieved'. PMC13465454 2026 예기 애도 'at least she would no longer suffer, and that brings me some relief'",
-      "createdAt": "2026-11-21T21:24:10.454Z",
-      "seq": 6114
-    },
-    {
-      "id": "ede47449",
-      "title": "mental-accounting 보강: 공돈을 쉽게 쓰는 면, SNS 파편",
-      "priority": 50,
-      "note": "후보: lady.khan.co.kr 2013 '‘공돈’이라는 계좌에 들어 있는 돈은 쉽게 쓰고 말이다.'(같은 출처라 못 씀), wikitree 2026 환급금·용돈 대목(같은 출처), frontiersin fpsyg.2019.02866 'individuals tend to label and categorize money and its uses.'",
-      "createdAt": "2026-11-21T21:27:06.151Z",
-      "seq": 6115
-    },
-    {
-      "id": "ead11d6a",
-      "title": "smoking-used-cigarettes 수감자·노숙 흡연자의 꽁초 피우기 보강 후보",
-      "priority": 50,
-      "note": "picking-up-cigarette-butts 보강 후보: PMC4345137 Lantini 2014 수감자 61.5% 'smoking used cigarette behavior', PMC7338730 2020 'Sitting outside looking for stuff on the ground to smoke.'",
-      "createdAt": "2026-11-21T21:30:33.209Z",
-      "seq": 6116
-    },
-    {
-      "id": "8bbc2421",
-      "title": "buying-single-cigarettes 보강: 1990년 이전 문학·매체 파편",
-      "priority": 50,
-      "note": "2026-11-21 확인됨 3개(SNS 2014, 매체 2015, 학술 2018). 위키문헌 냉동어·낙조·실락원의 별·날개·ㄷ씨 행장기에 없음. Orwell 3편은 꽁초 줍기뿐. 후보: 1900s.org.uk/1900s60s-smoking-supplies.htm 1940년대 영국 가게의 낱개 담배 회고(발행일 미상), Jack London The People of the Abyss, 채만식·김유정 소설의 마코·피존 개비",
-      "createdAt": "2026-11-21T21:32:46.170Z",
-      "seq": 6117
-    },
-    {
-      "id": "2c7c9ca4",
+      "id": "0541c530",
       "title": "anxious-self-improvement 보강: 공공 파편, accesson.kr 재확인",
-      "priority": 50,
-      "note": "2026-11-22 허창구 2020 accesson.kr 이 타임아웃으로 미확인. 공공 종류 후보 못 찾음(korea.kr 내일배움카드 기사엔 불안 대목 없음). Cedefop 2015, OECD Risks that Matter 2020 은 403",
-      "createdAt": "2026-11-22T00:14:16.666Z",
-      "seq": 6126
+      "priority": 40,
+      "note": "2026-11-22 03:15Z 재확인도 accesson.kr 타임아웃. 공공 검색(한국고용정보원, 서울연구원, korea.kr) 결과 자기계발 불안 대목 없음",
+      "createdAt": "2026-11-22T03:20:17.763Z",
+      "seq": 6146
     },
     {
-      "id": "130068ca",
-      "title": "construction-ppe-nonuse 보강: 더위로 안전모 벗는 비율 학술 파편, 감독 오면 숨는 면",
-      "priority": 50,
-      "note": "2026-11-22 PMC7809954 본문 'uncomfortable (78.2%) … feel too hot (69.2%)' 문장은 224자. finehomebuilding.com/forum/what-is-your-approach-to-safety 2009-02-19 글에 감독관이 오면 숨는다는 대목. korea.kr 148921812 에 미착용 사실",
-      "createdAt": "2026-11-22T00:19:17.651Z",
-      "seq": 6127
-    },
-    {
-      "id": "ab36e1bb",
-      "title": "staying-in-unhappy-marriage 보강: 한국 SNS 파편, 아이 때문에 머무는 면",
-      "priority": 50,
-      "note": "2026-11-22 확인됨 4개(문학 1938, SNS 2004, 학술 2005 Hawkins & Booth, 매체 2017). Joel 2018 JPSP 상대 의존 인식 후보 미탐색",
-      "createdAt": "2026-11-22T00:20:04.860Z",
-      "seq": 6128
-    },
-    {
-      "id": "e6f30646",
-      "title": "avoiding-touching-door-handles 보강: 공공 파편, hovering-over-public-toilet-seats 관계",
-      "priority": 50,
-      "note": "2026-11-22 공공 후보 못 찾음(CDC, ONS, 질병관리청, korea.kr). inquirer.com 2020-06-22 엘리베이터 버튼을 관절로 누르라는 권고. 보그 코리아 2018-08-07 팔꿈치로 버튼 누르기",
-      "createdAt": "2026-11-22T00:25:43.649Z",
-      "seq": 6129
-    },
-    {
-      "id": "cb3fb8a9",
-      "title": "standing-up-right-after-landing 보강: 학술·공공 파편",
-      "priority": 50,
-      "note": "2026-11-22 확인됨 3개(매체 2005 정책브리핑 시민 기고, SNS 2025, 매체 2026). 튀르키예 SHGM UOD-2025/01 회람은 PDF",
-      "createdAt": "2026-11-22T00:34:17.170Z",
-      "seq": 6132
+      "id": "915fc7df",
+      "title": "standing-up-right-after-landing 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 13(9) 808 하기 전략 논문은 403. lexpera.com.tr 의 같은 회람 전문에 '일어서고 짐칸을 여는 승객 사례가 크게 늘었다' 대목(같은 출처라 못 씀)",
+      "createdAt": "2026-11-22T03:22:07.785Z",
+      "seq": 6147
     },
     {
       "id": "8d82229b",
@@ -3323,6 +3267,14 @@
       "note": "2026-11-22 standing-up-right-after-landing 탐색 중 봄. 탑승 그룹이 불리기 전부터 게이트 앞에 몰려 줄 서기. 후보: seattletimes.com 2013-08-03 AP 'Getting rid of gate lice', adn.com 2023-12-14 WaPo 심리학자 설명, commons.erau.edu/ijaaa/vol5/iss2/7 2018 선반 짐이 통로 막음",
       "createdAt": "2026-11-22T00:34:17.102Z",
       "seq": 6131
+    },
+    {
+      "id": "9fff5927",
+      "title": "초식남(herbivore men)",
+      "priority": 10,
+      "note": "2026-11-22 avoiding-dating 보강 중 NPR 2009-11-25 Louisa Lim 기사에서 봄. Slate 2009-06 herbivores dilemma, Japan Times 2009-12-29. avoiding-dating 의 하위 후보",
+      "createdAt": "2026-11-22T03:30:03.559Z",
+      "seq": 6150
     },
     {
       "id": "02b2f242",
