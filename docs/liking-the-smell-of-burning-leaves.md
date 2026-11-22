@@ -18,6 +18,8 @@
 
 2016년 게시글[^6]의 글쓴이는 낙엽 타는 냄새를 좋아하지만 천식이 생긴 뒤로는 1분까지만 맡을 수 있다고 적었다.
 
+2019년 10월 아이오와주 자연자원부 보도자료[^7]는 낙엽을 태우는 냄새가 가을의 냄새를 담은 것 같다고 쓰고 그 연기를 들이마시면 일산화탄소와 그을음 같은 오염 물질이 폐로 들어간다고 적었다.
+
 # 관계
 
 ## 상위
@@ -48,3 +50,4 @@
 [^4]: [매체] "Do burning leaves remind you of fall? It may depend on when you were born." (낙엽 타는 냄새가 가을을 떠올리게 하는가? 그것은 태어난 때에 따라 다를 수 있다.) — Associated Press, "Scent of burning leaves has scientists sniffing around", The Vindicator, 2003-11-11, https://vindyarchives.com/news/2003/nov/11/philadelphia-scent-of-burning-leaves-has, 2026-11-21 접속
 [^5]: [매체] "But these days, one man’s nostalgia-inducing aroma is another’s air pollution." (그러나 요즘은 한 사람에게 그리움을 부르는 냄새가 다른 사람에게는 대기 오염이다.) — Karessa Weir, "Once an autumn tradition, leaf-burning now under fire", Great Lakes Echo, 2009-11-09, https://greatlakesecho.org/2009/11/09/once-an-autumn-tradition-leaf-burning-now-under-fire, 2026-11-21 접속
 [^6]: [SNS] "I love the smell of burning leaves for about a minute. I have asthma now, and a minute’s my limit." (나는 낙엽 타는 냄새를 1분쯤은 좋아한다. 지금은 천식이 있어서 1분이 한계다.) — Straight Dope Message Board 게시글, 2016-09-03, https://boards.straightdope.com/t/nostalgic-smells/764844, 2026-11-21 접속
+[^7]: [공공] "Burning leaves seems to capture the smell of autumn. But breathing leaf smoke pulls pollutants such as carbon monoxide, soot and toxic chemicals into your lungs." (낙엽을 태우는 냄새는 가을의 냄새를 담은 것 같다. 그러나 낙엽 연기를 들이마시면 일산화탄소, 그을음, 유독 화학 물질 같은 오염 물질이 폐로 들어간다.) — Iowa Department of Natural Resources, "Top three ways to handle fall leaves", 보도자료, 2019-10-17, https://content.govdelivery.com/accounts/IACIO/bulletins/266ad99, 2026-11-22 접속
