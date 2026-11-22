@@ -28,7 +28,7 @@
 
 ## 상위
 
-- [고인과의 유대 이어 가기](continuing-bonds.md)
+- [고인과 이어 가는 유대](continuing-bonds.md)
 
 ## 하위
 

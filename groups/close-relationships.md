@@ -89,11 +89,11 @@
 - [엉뚱한 대상에게 화풀이하기](../docs/displaced-aggression.md) 어떤 사람이나 일 때문에 화가 난 사람이 그 화를 원인과 상관없는 다른 사람에게 푼다.
 - [여행지에서 엽서 보내기](../docs/sending-travel-postcards.md) 여행 중인 사람이 여행지에서 고향의 가족이나 친구에게 그림엽서를 써서 부친다.
 - [연애 기피](../docs/avoiding-dating.md) 교제 상대가 없는 미혼자가 연애나 교제를 바라지 않거나 혼자가 편하다며 이성을 만나지 않는다.
+- [연인 사이의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 - [연인 아닌 사람에게 끌리기](../docs/attraction-outside-relationship.md) 연애 중이거나 결혼한 사람이 연인이나 배우자가 아닌 사람에게 끌림을 느낀다.
 - [연인 이상화](../docs/idealizing-partner.md) 사랑에 빠진 사람이 연인과 그 관계를 실제보다 좋게 본다.
 - [연인과 헤어지기](../docs/breaking-up.md) 연애하거나 함께 사는 두 사람 가운데 한쪽 또는 양쪽이 관계를 끝내고 헤어진다.
   - [고스팅](../docs/ghosting.md)
-- [연인과의 다툼](../docs/partner-conflict.md) 연애하거나 결혼한 두 사람이 돈, 귀가, 사생활 같은 일을 두고 서로 말다툼한다.
 - [옛 친구를 다시 만나 처지 견주기](../docs/comparing-lives-with-old-friends.md) 오랜만에 옛 친구나 동창을 만난 사람이 상대의 직업, 지위, 형편을 듣고 자기 처지와 견주며 기분이나 태도가 바뀐다.
 - [옛 친구에게 연락하기 망설이기](../docs/hesitating-to-contact-old-friends.md) 연락이 끊긴 친구를 다시 보고 싶은 사람이 상대가 이상하게 보거나 어색해할까 봐 먼저 연락하기를 망설인다.
 - [용서하기](../docs/forgiveness.md) 자기에게 잘못한 사람을 두고 잘못을 당한 사람이 원한과 앙갚음하려는 마음을 내려놓는다.

@@ -26,7 +26,7 @@
 
 ## 원인
 
-- [연인과의 다툼](partner-conflict.md)[^3][^4]
+- [연인 사이의 다툼](partner-conflict.md)[^3][^4]
 - [애착 회피](attachment-avoidance.md)[^6]
 - [연인의 휴대폰 몰래 보기](snooping-on-partners-phone.md)[^5]
 

@@ -32,7 +32,7 @@
 
 ## 원인
 
-- [연인과의 다툼](partner-conflict.md)[^6]
+- [연인 사이의 다툼](partner-conflict.md)[^6]
 
 ## 결과
 

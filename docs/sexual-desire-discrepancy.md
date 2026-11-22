@@ -32,7 +32,7 @@
 
 ## 결과
 
-- [연인과의 다툼](partner-conflict.md)[^3]
+- [연인 사이의 다툼](partner-conflict.md)[^3]
 
 ## 대립
 
