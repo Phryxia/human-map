@@ -1312,27 +1312,27 @@
   },
   "https://archive.carla.umn.edu/speechacts/refusals/tt.html": {
     "first": "2026-10-18",
-    "last": "2026-11-17",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-22"
   },
   "https://www.gutenberg.org/cache/epub/9603/pg9603-images.html": {
     "first": "2026-10-18",
-    "last": "2026-11-17",
+    "last": "2026-11-22",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-24"
   },
   "https://engagedscholarship.csuohio.edu/cltmt/vol3/iss2/3": {
     "first": "2026-10-18",
-    "last": "2026-11-17",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-22"
   },
   "https://v.daum.net/v/Fa0lMeDxRv": {
     "first": "2026-10-18",
-    "last": "2026-11-17",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-22"
   },
   "https://www.ischool.berkeley.edu/news/2013/online-community-members-resist-being-freeloaders-researchers-find": {
     "first": "2026-10-18",
@@ -1396,9 +1396,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%A7%9D%EB%B6%80%EC%84%9D": {
     "first": "2026-10-18",
-    "last": "2026-11-17",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-22"
   },
   "https://www.nbcnews.com/technolog/think-you-post-5-reasons-people-self-censor-facebook-2D11759816": {
     "first": "2026-10-18",
@@ -30234,9 +30234,9 @@
   },
   "https://www.polyglottistlanguageacademy.com/language-culture-travelling-blog/2025/7/18/8-unspoken-rules-of-chinese-hospitality": {
     "first": "2026-11-17",
-    "last": "2026-11-17",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-17"
+    "lastVerified": "2026-11-22"
   },
   "https://www.segye.com/newsView/20141210003188": {
     "first": "2026-11-17",
@@ -34362,6 +34362,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://ko.wikisource.org/wiki/%EB%A7%8C%EB%85%84_%EC%85%94%EC%B8%A0": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://ko.wikisource.org/wiki/%EC%9B%90%EA%B3%A0%EB%A3%8C_%EC%9D%B4%EB%B0%B1%EC%9B%90": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
