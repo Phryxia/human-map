@@ -67,6 +67,7 @@
   - [상대가 먼저 사과하기를 기다리기](../docs/waiting-for-the-other-to-apologize-first.md)
 - [상상 속 연애](../docs/imagined-romance.md) 사람이 실제로 사귀지 않는 상대와 연애하는 장면을 혼자 머릿속으로 그리거나 소리 내어 해 본다.
 - [생일을 잊혀 서운해도 내색하지 않기](../docs/hiding-hurt-over-forgotten-birthday.md) 가족이나 친구가 자기 생일을 잊었을 때 서운함을 느끼면서 그 마음을 스스로 누르거나 낮춰 말한다.
+- [성관계 뒤의 슬픔](../docs/postcoital-dysphoria.md) 합의한 성관계를 마친 사람이 뚜렷한 이유 없이 슬픔, 눈물, 불안, 짜증을 느낀다.
 - [성관계 청을 거절당할 두려움](../docs/fear-of-sexual-rejection.md) 연인이나 배우자가 있는 사람이 먼저 성관계를 청했다가 거절당할까 봐 두려워 청하기를 망설이거나 그만둔다.
 - [소개팅 주선](../docs/matchmaking.md) 사람이 자기가 아는 두 사람을 연인으로 이어 주려고 서로 소개한다.
 - [소문 옮기기](../docs/passing-on-rumors.md) 사람이 확인되지 않은 소문을 듣고 다른 사람에게 옮긴다.
