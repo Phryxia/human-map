@@ -1,6 +1,6 @@
 # 쓰지 않는 구독 유지
 
-별칭: Subscription trap[^3]
+별칭: Subscription trap[^4]
 
 정기 결제 서비스에 가입한 사람이 그 서비스를 거의 쓰지 않으면서 해지하지 않고 돈을 계속 낸다.
 
@@ -12,7 +12,9 @@
 
 2023년 해커뉴스 댓글[^2]의 글쓴이는 쓰지도 않는 Microsoft 365 구독이 자동으로 계속 갱신된다고 썼다.
 
-2024년 영국 기업통상부는 영국의 활성 구독 1억 5,500만 건 가운데 1,000만 건 가까이가 원치 않는 구독이고 소비자가 그 값으로 해마다 16억 파운드를 낸다고 밝혔다.[^3]
+2023년 9월 Sheil 외의 연구[^3]는 온라인 서비스 해지가 힘들고 헷갈려 많은 사람이 체념하고 더는 쓰지 않는 서비스에 돈을 계속 낸다고 적는다.
+
+2024년 영국 기업통상부는 영국의 활성 구독 1억 5,500만 건 가운데 1,000만 건 가까이가 원치 않는 구독이고 소비자가 그 값으로 해마다 16억 파운드를 낸다고 밝혔다.[^4]
 
 # 관계
 
@@ -26,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [구독 해지 포기](abandoning-subscription-cancellation.md)[^3]
 
 ## 결과
 
@@ -40,4 +42,5 @@
 
 [^1]: [학술] "Overconfident agents overestimate attendance as well as the cancellation probability of automatically renewed contracts." (과신하는 행위자는 출석과 함께 자동 갱신 계약의 해지 가능성도 과대평가한다.) — Stefano DellaVigna, Ulrike Malmendier, "Paying Not to Go to the Gym", American Economic Review, 2006-06, https://ideas.repec.org/a/aea/aecrev/v96y2006i3p694-719.html, 2026-10-17 접속
 [^2]: [SNS] "I too have a Microsoft 365 subscription that keeps autorenewing that I never use." (나도 전혀 쓰지 않는데 계속 자동 갱신되는 Microsoft 365 구독이 있다.) — Hacker News 댓글, 2023-04-14, https://news.ycombinator.com/item?id=35567153, 2026-11-07 접속
-[^3]: [공공] "Nearly 10 million of 155 million active subscriptions in the UK are unwanted, costing consumers £1.6 billion a year." (영국의 활성 구독 1억 5,500만 건 가운데 1,000만 건 가까이가 원치 않는 구독이고 소비자에게 연 16억 파운드의 비용을 지운다.) — Department for Business and Trade, "Consultation launched on measures to crack down on subscription traps and better protect shoppers", GOV.UK, 2024-11-18, https://www.gov.uk/government/news/new-measures-unveiled-to-crack-down-on-subscription-traps, 2026-10-17 접속
+[^3]: [학술] "Subscribing to online services is typically a straightforward process, but cancelling them can be arduous and confusing -- causing many to resign and continue paying for services they no longer use." (온라인 서비스 가입은 대개 간단하지만 해지는 힘들고 헷갈릴 수 있어 많은 사람이 체념하고 더는 쓰지 않는 서비스에 돈을 계속 낸다.) — Ashley Sheil, Gunes Acar, Hanna Schraffenberger, Raphaël Gellert, David Malone, "Staying at the Roach Motel: Cross-Country Analysis of Manipulative Subscription and Cancellation Flows", arXiv, 2023-09-29, https://arxiv.org/abs/2309.17145, 2026-11-22 접속
+[^4]: [공공] "Nearly 10 million of 155 million active subscriptions in the UK are unwanted, costing consumers £1.6 billion a year." (영국의 활성 구독 1억 5,500만 건 가운데 1,000만 건 가까이가 원치 않는 구독이고 소비자에게 연 16억 파운드의 비용을 지운다.) — Department for Business and Trade, "Consultation launched on measures to crack down on subscription traps and better protect shoppers", GOV.UK, 2024-11-18, https://www.gov.uk/government/news/new-measures-unveiled-to-crack-down-on-subscription-traps, 2026-10-17 접속
