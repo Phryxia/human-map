@@ -51,4 +51,5 @@
   - [잔디밭 질러가기](../docs/cutting-across-lawns.md)
   - [출입 금지된 샛길 산행](../docs/hiking-closed-trails.md)
 - [중고 직거래 상대를 만나는 부담](../docs/wariness-meeting-secondhand-buyers.md) 온라인으로 중고 물건을 사고파는 사람이 처음 보는 거래 상대를 직접 만나는 일을 부담스러워하고 사람이 많은 곳에서 만나려 한다.
+- [착륙하자마자 일어서기](../docs/standing-up-right-after-landing.md) 비행기 승객이 착륙한 뒤 내릴 차례가 오기 전에 자리에서 일어나 짐을 꺼내고 통로에 선다.
 - [통화하는 척하기](../docs/faking-phone-calls.md) 밖에서 낯선 사람과 말을 섞고 싶지 않거나 불안한 사람이 휴대전화를 귀에 대고 통화하는 척한다.
