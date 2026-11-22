@@ -140,6 +140,7 @@
   - [사랑 고백 망설이기](../docs/hesitating-to-confess-love.md)
 - [참아 온 불만의 폭발](../docs/suppressed-anger-outburst.md) 오래 불만이나 분노를 드러내지 않던 사람이 사소한 계기에 쌓인 감정을 한꺼번에 쏟아 낸다.
 - [책 빌려주지 않기](../docs/never-lending-books.md) 빌려준 책을 돌려받지 못한 적이 있는 사람이 그 뒤로 남에게 책을 빌려주지 않는다.
+- [첫 성경험 앞의 불안](../docs/first-time-sex-anxiety.md) 성관계를 해 본 적 없는 사람이 첫 성관계를 앞두거나 겪으며 잘하지 못하거나 상대를 실망시킬까 걱정한다.
 - [첫눈에 반함](../docs/love-at-first-sight.md) 사람이 처음 본 상대에게 그 자리에서 사랑에 빠졌다고 느낀다.
 - [청하지 않은 조언](../docs/unsolicited-advice.md) 사람이 조언을 청하지 않은 상대에게 그 상대의 일을 어떻게 하라고 말한다.
 - [출산 앞둔 둥지 짓기](../docs/nesting-instinct.md) 출산을 앞둔 임신부와 예비 부모가 아기를 맞으려고 집을 치우고 정리하고 공간을 준비하려는 충동을 느낀다.
