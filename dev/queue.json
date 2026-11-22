@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T12:40:36.380Z",
-  "nextSeq": 6220,
-  "stops": 329,
+  "savedAt": "2026-11-22T15:37:27.984Z",
+  "nextSeq": 6232,
+  "stops": 330,
   "items": [
-    {
-      "id": "87e6f324",
-      "title": "liking-the-smell-of-burning-leaves 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-22 문학 2개(Webster 1912, Lewis 1915) 추가. 학술 후보 없음: Hirsch 1992 ACR 본문에 leaves 없음, Carpenter 1977 JAPCA 'Leaf burning as a significant source of urban air pollution' 은 PDF. 공공(주 정부 낙엽 소각 안내문) 도 후보",
-      "createdAt": "2026-11-22T09:15:23.298Z",
-      "seq": 6203
-    },
     {
       "id": "3f292db1",
       "title": "reluctant-witness 보강: 관계",
@@ -59,6 +51,46 @@
       "note": "2026-11-22 Hansard 2002 '차도가 무서워 인도로 탄다'. road.cc 2021-03-03 기사 '차들 사이의 두려움과 불편 때문에 인도를 고른다' 후보(Mobilities 2021 과 같은 연구). WHYY 2018 '보행자가 부딪힐까 두려워한다' 대목도 있다",
       "createdAt": "2026-11-22T12:40:26.777Z",
       "seq": 6219
+    },
+    {
+      "id": "ac159e48",
+      "title": "pet-names-between-partners 보강: 공공 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-22 문학 1879, 학술 2004, SNS 2010, 매체 2015. 후보: Yu Huijae 2019 사회언어학 27(2) koreascholar 374120 '오빠' 호칭 비대칭, SAGE Encyclopedia of Human Relationships 2009 'Personal Idioms'. Bruess & Pearson 1993 SAGE 403",
+      "createdAt": "2026-11-22T15:14:41.473Z",
+      "seq": 6226
+    },
+    {
+      "id": "30a57d69",
+      "title": "postcoital-dysphoria 보강: SNS·문학 파편, 남성 연구",
+      "priority": 50,
+      "note": "2026-11-22 매체 2(2011 QUT, 2018 BPS), 학술 2(2015 PMC4721025, 2022 PMC9700232). 후보: SBS 2017-03-09 AAP 기사, VICE 2014-10-17 1인칭 글, ISSM Q&A(발행일 없음). Maczkowiack 2019 원문 HTML 못 찾음. PubMed 쿠키 확인",
+      "createdAt": "2026-11-22T15:22:25.738Z",
+      "seq": 6228
+    },
+    {
+      "id": "7e9900db",
+      "title": "sexual-fantasy 보강: 공공·문학 파편, imagined-romance 관계",
+      "priority": 50,
+      "note": "2026-11-22 학술 1990, 매체 2014·2020, SNS 2025. 후보: Frontiers 2020 fpsyg.2019.02864 성별 차이 대목, Better Health Channel 'Women, sex and sexuality' 2021 공공, 마리끌레르 코리아 2018 ?p=129756. 김은지·송원영 2017 accesson.kr 연결 끊김. imagined-romance 와 상위 또는 형제 관계 검토",
+      "createdAt": "2026-11-22T15:28:06.675Z",
+      "seq": 6229
+    },
+    {
+      "id": "bd1fe003",
+      "title": "first-time-sex-anxiety 보강: 공공·문학 파편, fear-of-sexual-rejection 관계",
+      "priority": 50,
+      "note": "2026-11-22 SNS 2009, 학술 2010, 매체 2022. 후보: Oxford HEXI first-sexual-experience-concerns 2012-08(13~16세 포함 여부 확인), Brook 'Having sex for the first time'(자선단체, 발행일 없음). NSW health 403",
+      "createdAt": "2026-11-22T15:31:44.645Z",
+      "seq": 6230
+    },
+    {
+      "id": "9e4dd50d",
+      "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
+      "priority": 50,
+      "note": "2026-11-22 문학 1985, 매체 2015, SNS 2025. 후보: distractify 2023-09-27 husband-doesnt-notice-wifes-haircut, watt-evans.com/blog/?p=1058 2017, GQ Korea 2024-10-14 ?p=303453 제목 '자기야, 나 달라진 거 없어?'. 외모 변화 change blindness 학술 HTML 못 찾음",
+      "createdAt": "2026-11-22T15:36:07.968Z",
+      "seq": 6231
     },
     {
       "id": "0541c530",
@@ -187,14 +219,6 @@
       "note": "2026-11-16 HN 44587304 2025-07 SNS 파편 추가함. HN 16673008 2018 'woken with a jump and an impending sense of dread to either the sound of a doorbell' 후보. abc7chicago 2019-06-05 'Others say they hide when someone rings their bell.' 확인 필요",
       "createdAt": "2026-11-16T21:40:39.079Z",
       "seq": 5382
-    },
-    {
-      "id": "1d1a765a",
-      "title": "hot-hand-belief 보강: 1985 원 논문",
-      "priority": 30,
-      "note": "2026-11-17 sciencedirect pii/0010028585900106(abs 포함), psycnet 1986-08279-001 모두 curl/브라우저 UA 403. HN 13255569 (2016-12-25) 은 초록 문장을 인용한 댓글이라 원 논문 파편이 아님. 다른 판(저자 기관 저장소, 강의 자료 HTML) 찾기",
-      "createdAt": "2026-11-17T03:15:51.865Z",
-      "seq": 5413
     },
     {
       "id": "3f92f439",
@@ -1075,6 +1099,14 @@
       "note": "2026-11-14 서울신문 2009 매체 파편 더함. 공공 후보: oecd.org return-reintegration-and-re-migration_625fb5e6-en component-7 (2024) 'The main driver for return migration to origin countries is family related'(2026-11-21 curl·iPhone UA 모두 403). oka.go.kr 재외동포청 PDF. statcan 91-528-x chap9 (점검 페이지). pcbs.gov.ps 2010 이주 조사 메타데이터는 문항뿐",
       "createdAt": "2026-11-21T15:33:52.887Z",
       "seq": 6075
+    },
+    {
+      "id": "aabaa825",
+      "title": "liking-the-smell-of-burning-leaves 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-22 공공(Iowa DNR 2019) 추가. 학술 후보 없음: Europe PMC 전문 검색, Herz 2016 PMC5039451, Chu & Downes 2000 Chemical Senses 403. Muscatine 시 보도자료 'nostalgic smell of autumn' 은 PDF뿐. KJAN 2019 기사 'some people like the smell of burning leaves'(매체) 미확인",
+      "createdAt": "2026-11-22T15:15:25.812Z",
+      "seq": 6227
     },
     {
       "id": "9634edf0",
@@ -1997,28 +2029,12 @@
       "seq": 2304
     },
     {
-      "id": "ecf5098d",
-      "title": "은퇴 자금 쓰지 않기",
-      "priority": 10,
-      "note": "APRA·ASIC 2023-07-18 retirement income covenant 정보보고서 'many people die with the bulk of the wealth they had at retirement intact', 'many members tend to underspend because they draw down at the regulated minimum rate'. tightwad-spending 과 관계 후보",
-      "createdAt": "2026-10-28T00:38:04.473Z",
-      "seq": 2490
-    },
-    {
       "id": "e1d21737",
       "title": "떠나려는 손님을 붙잡아 놓고 후회하기",
       "priority": 10,
       "note": "2026-10-28 Pride and Prejudice 12장 pg1342 'Miss Bingley was then sorry that she had proposed the delay'. ritual-refusal, lingering-goodbye 와 관계 후보",
       "createdAt": "2026-10-28T12:17:09.731Z",
       "seq": 2543
-    },
-    {
-      "id": "99b5348e",
-      "title": "새 옷이나 머리를 알아봐 주지 않아 서운해하기",
-      "priority": 10,
-      "note": "2026-10-28 후보: watt-evans.com/blog/?p=1058 (2017, 'why bother maintaining the trim if nobody notices?'), distractify husband-doesnt-notice-wifes-haircut (2023). 매체뿐이라 문학이나 SNS 파편 필요. spotlight-effect 와 관계 후보",
-      "createdAt": "2026-10-28T18:30:30.814Z",
-      "seq": 2584
     },
     {
       "id": "a2f8daa3",
@@ -2037,52 +2053,12 @@
       "seq": 2621
     },
     {
-      "id": "895cf7b5",
-      "title": "고백 망설임",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:13.479Z",
-      "seq": 2648
-    },
-    {
-      "id": "ab128d72",
-      "title": "성적 환상",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:13.650Z",
-      "seq": 2649
-    },
-    {
-      "id": "18ea068a",
-      "title": "성관계 뒤의 슬픔",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:13.829Z",
-      "seq": 2650
-    },
-    {
-      "id": "6748f8c5",
-      "title": "첫 성경험 앞의 불안",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:14.000Z",
-      "seq": 2651
-    },
-    {
       "id": "e648c7d5",
       "title": "배우자의 외도를 알게 된 뒤의 반응",
       "priority": 10,
       "note": "#12 사랑·애착·성 요청",
       "createdAt": "2026-10-29T09:07:14.156Z",
       "seq": 2652
-    },
-    {
-      "id": "677ff273",
-      "title": "연인끼리 쓰는 애칭",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:14.311Z",
-      "seq": 2653
     },
     {
       "id": "95486b34",
