@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T03:37:28.620Z",
-  "nextSeq": 6154,
-  "stops": 326,
+  "savedAt": "2026-11-22T06:32:35.729Z",
+  "nextSeq": 6196,
+  "stops": 327,
   "items": [
     {
-      "id": "251e5cb8",
-      "title": "dev: style-check 가 와의 이중 조사를 잡는다",
+      "id": "0bb1ffd3",
+      "title": "dev: style-check 의 와의·과의 이중 조사를 ERROR 로 올린다",
       "priority": 80,
-      "note": "putting-off-friends 요약 '친구와의 만남', urge-to-cancel-plans 초안 '친구와의 약속' 이 style-check 를 통과했다. 4절 이중 조사 규칙 위반",
-      "createdAt": "2026-11-22T03:37:27.835Z",
-      "seq": 6153
+      "note": "2026-11-22 WARN 으로 넣었다. 와의·과의 이중 조사 항목 25개(putting-off-friends 등)가 모두 고쳐진 뒤",
+      "createdAt": "2026-11-22T06:07:43.766Z",
+      "seq": 6191
     },
     {
       "id": "41a395b7",
@@ -21,28 +21,12 @@
       "seq": 6145
     },
     {
-      "id": "8b27d48c",
-      "title": "finders-reward-demand 보강: 2007년 워싱턴포스트 기사",
-      "priority": 50,
-      "note": "Straight Dope 409762 첫 글이 소개한 2007-06 Washington Post 기사(남의 물건을 주우면 보상받을 자격이 있다는 생각, 지하철에 두고 내린 휴대전화) 원문 찾기. 매체 파편 후보",
-      "createdAt": "2026-11-22T03:27:26.340Z",
-      "seq": 6148
-    },
-    {
       "id": "5d1c7497",
       "title": "fear-of-losing-things 보강: 2022년 이전 파편",
       "priority": 50,
       "note": "2026-11-22 파편이 2022-2025 에 몰림. ko.wikisource API 요청 제한, gutenberg 503. willsdumbbrain.substack.com on-the-pocket-pat, vegoutmag 주머니 두드리기 기사는 최근 것",
       "createdAt": "2026-11-22T03:29:16.892Z",
       "seq": 6149
-    },
-    {
-      "id": "7d33ac74",
-      "title": "neighbor-noise-retaliation 보강: 2019년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-22 파편이 2019-2023 에 몰림. forums.anandtech.com 2440647 'downstairs neighbors slam their stuff around in retaliation' 은 봇 확인 페이지. boards.straightdope.com 667885 는 받는 쪽 이야기. 2000년대 한국 층간소음 보복 기사 후보 미탐색",
-      "createdAt": "2026-11-22T03:30:42.320Z",
-      "seq": 6151
     },
     {
       "id": "f368d25e",
@@ -67,6 +51,30 @@
       "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 13(9) 808 하기 전략 논문은 403. lexpera.com.tr 의 같은 회람 전문에 '일어서고 짐칸을 여는 승객 사례가 크게 늘었다' 대목(같은 출처라 못 씀)",
       "createdAt": "2026-11-22T03:22:07.785Z",
       "seq": 6147
+    },
+    {
+      "id": "9212d988",
+      "title": "finders-reward-demand 보강: 2007년 워싱턴포스트 기사, 학술 파편",
+      "priority": 40,
+      "note": "2026-11-22 NBC4 Washington 2016 기사로 매체 보강. Straight Dope 409762 가 소개한 2007-06 Washington Post 원문은 아직 못 찾았다. washingtontimes 2007-06-24 'What's left behind' 는 사례금 요구 대목 없음",
+      "createdAt": "2026-11-22T06:26:40.788Z",
+      "seq": 6192
+    },
+    {
+      "id": "a046d5da",
+      "title": "having-no-one-to-turn-to 보강: SNS 파편, loneliness 관계",
+      "priority": 40,
+      "note": "2026-11-22 학술(McPherson 2006), 매체(Duke Today 2006), 공공(e-나라지표 2026). HN 4889176(2012), 31480685(2022) 'no one to talk to' 는 맥락 확인 전. loneliness, sick-while-living-alone, help-seeking-avoidance 원인·결과 근거 찾기",
+      "createdAt": "2026-11-22T06:29:38.122Z",
+      "seq": 6193
+    },
+    {
+      "id": "2c3e11de",
+      "title": "unretirement 보강: 공공 파편, 한국 자료, 관계",
+      "priority": 40,
+      "note": "2026-11-22 학술 1, 매체 2, SNS 1. ONS 2022-12-19 은 50세 이상 이직자 전체를 다뤄 뺐다. AARP 2026 '돈 48%, 활동 14%'. wanting-to-keep-working-in-old-age, retirement-emptiness 관계 근거 찾기",
+      "createdAt": "2026-11-22T06:30:12.282Z",
+      "seq": 6194
     },
     {
       "id": "8d82229b",
@@ -3275,6 +3283,14 @@
       "note": "2026-11-22 avoiding-dating 보강 중 NPR 2009-11-25 Louisa Lim 기사에서 봄. Slate 2009-06 herbivores dilemma, Japan Times 2009-12-29. avoiding-dating 의 하위 후보",
       "createdAt": "2026-11-22T03:30:03.559Z",
       "seq": 6150
+    },
+    {
+      "id": "528389b4",
+      "title": "환불 요청 망설이기",
+      "priority": 10,
+      "note": "2026-11-22 graph find '환불' 없음. 산 물건이나 서비스에 불만이 있어도 눈치나 번거로움으로 환불을 청하지 않는 현상. abandoning-returns 와 관계 후보. HN·한국어 검색에서 아직 파편 못 찾음",
+      "createdAt": "2026-11-22T06:32:27.547Z",
+      "seq": 6195
     },
     {
       "id": "02b2f242",
