@@ -720,6 +720,7 @@
 - [일 맡기지 못하기](docs/reluctance-to-delegate.md) ([일터와 일자리](groups/work.md))
 - [일 중독](docs/workaholism.md) ([일터와 일자리](groups/work.md))
 - [일기 쓰기](docs/keeping-a-diary.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [일부러 져 주기](docs/letting-others-win.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [일부러 피부 태우기](docs/intentional-tanning.md) ([건강과 위험](groups/health-and-safety.md))
 - [일요일 밤의 출근 걱정](docs/sunday-night-dread.md) ([일터와 일자리](groups/work.md))
 - [일자리와 학교를 찾아 대도시로 떠나기](docs/leaving-hometown-for-city-jobs.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
