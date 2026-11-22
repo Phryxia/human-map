@@ -1,40 +1,24 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T06:32:35.729Z",
-  "nextSeq": 6196,
-  "stops": 327,
+  "savedAt": "2026-11-22T09:34:52.023Z",
+  "nextSeq": 6208,
+  "stops": 328,
   "items": [
     {
-      "id": "0bb1ffd3",
-      "title": "dev: style-check 의 와의·과의 이중 조사를 ERROR 로 올린다",
-      "priority": 80,
-      "note": "2026-11-22 WARN 으로 넣었다. 와의·과의 이중 조사 항목 25개(putting-off-friends 등)가 모두 고쳐진 뒤",
-      "createdAt": "2026-11-22T06:07:43.766Z",
-      "seq": 6191
+      "id": "65e57643",
+      "title": "dev: style-check 사전 은유의 열쇠가 주머니 속 실물 열쇠를 잡는다",
+      "priority": 60,
+      "note": "2026-11-22 fear-of-losing-things 서술 '여러 주머니를 두드려 열쇠가 있는지 확인한 뒤' 가 걸려 '차 열쇠' 로 바꿨다. '열쇠가 있는지', '열쇠가 주머니에' 같은 꼴을 빼는 사례 하나 더 찾기",
+      "createdAt": "2026-11-22T09:25:15.855Z",
+      "seq": 6204
     },
     {
-      "id": "41a395b7",
-      "title": "liking-the-smell-of-burning-leaves 보강: 학술·문학 파편",
+      "id": "87e6f324",
+      "title": "liking-the-smell-of-burning-leaves 보강: 학술 파편",
       "priority": 50,
-      "note": "2026-11-22 이미 매체 3, SNS 1. Hirsch 1992 ACR 'Nostalgia: a Neuropsychiatric Understanding' 은 acrwebsite 404. gutenberg 03:20Z 에도 503(Sharp The Fall of the Year 42223, Packard Wood Wanderings 66059 에서 burning leaves 대목 찾기). smell-evoked-memory 관계 후보",
-      "createdAt": "2026-11-22T03:20:12.765Z",
-      "seq": 6145
-    },
-    {
-      "id": "5d1c7497",
-      "title": "fear-of-losing-things 보강: 2022년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-22 파편이 2022-2025 에 몰림. ko.wikisource API 요청 제한, gutenberg 503. willsdumbbrain.substack.com on-the-pocket-pat, vegoutmag 주머니 두드리기 기사는 최근 것",
-      "createdAt": "2026-11-22T03:29:16.892Z",
-      "seq": 6149
-    },
-    {
-      "id": "f368d25e",
-      "title": "putting-off-friends 보강: 2018년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-22 파편이 2018-2025 에 몰림. Straight Dope 187843(2003), 247389(2004) 는 친구와 멀어진 이야기라 바빠서 미루는 면이 아님. 요약 줄의 '친구와의 만남' 은 이중 조사",
-      "createdAt": "2026-11-22T03:37:27.749Z",
-      "seq": 6152
+      "note": "2026-11-22 문학 2개(Webster 1912, Lewis 1915) 추가. 학술 후보 없음: Hirsch 1992 ACR 본문에 leaves 없음, Carpenter 1977 JAPCA 'Leaf burning as a significant source of urban air pollution' 은 PDF. 공공(주 정부 낙엽 소각 안내문) 도 후보",
+      "createdAt": "2026-11-22T09:15:23.298Z",
+      "seq": 6203
     },
     {
       "id": "0541c530",
@@ -53,28 +37,28 @@
       "seq": 6147
     },
     {
-      "id": "9212d988",
+      "id": "2aebb3e1",
+      "title": "having-no-one-to-turn-to 보강: loneliness 관계",
+      "priority": 40,
+      "note": "2026-11-22 SNS(HN 2022) 추가. loneliness, sick-while-living-alone, help-seeking-avoidance 원인·결과 근거 찾기",
+      "createdAt": "2026-11-22T09:28:09.838Z",
+      "seq": 6205
+    },
+    {
+      "id": "7e2dfc31",
+      "title": "unretirement 보강: 관계",
+      "priority": 40,
+      "note": "2026-11-22 공공(KDI 경제교육·정보센터 2025 한국은행 고령 자영업 보고서 소개) 추가. wanting-to-keep-working-in-old-age, retirement-emptiness 관계 근거 찾기. ONS 2022-09-27 wave2 '58% considered returning to work' 도 후보",
+      "createdAt": "2026-11-22T09:31:50.634Z",
+      "seq": 6206
+    },
+    {
+      "id": "4366a148",
       "title": "finders-reward-demand 보강: 2007년 워싱턴포스트 기사, 학술 파편",
       "priority": 40,
-      "note": "2026-11-22 NBC4 Washington 2016 기사로 매체 보강. Straight Dope 409762 가 소개한 2007-06 Washington Post 원문은 아직 못 찾았다. washingtontimes 2007-06-24 'What's left behind' 는 사례금 요구 대목 없음",
-      "createdAt": "2026-11-22T06:26:40.788Z",
-      "seq": 6192
-    },
-    {
-      "id": "a046d5da",
-      "title": "having-no-one-to-turn-to 보강: SNS 파편, loneliness 관계",
-      "priority": 40,
-      "note": "2026-11-22 학술(McPherson 2006), 매체(Duke Today 2006), 공공(e-나라지표 2026). HN 4889176(2012), 31480685(2022) 'no one to talk to' 는 맥락 확인 전. loneliness, sick-while-living-alone, help-seeking-avoidance 원인·결과 근거 찾기",
-      "createdAt": "2026-11-22T06:29:38.122Z",
-      "seq": 6193
-    },
-    {
-      "id": "2c3e11de",
-      "title": "unretirement 보강: 공공 파편, 한국 자료, 관계",
-      "priority": 40,
-      "note": "2026-11-22 학술 1, 매체 2, SNS 1. ONS 2022-12-19 은 50세 이상 이직자 전체를 다뤄 뺐다. AARP 2026 '돈 48%, 활동 14%'. wanting-to-keep-working-in-old-age, retirement-emptiness 관계 근거 찾기",
-      "createdAt": "2026-11-22T06:30:12.282Z",
-      "seq": 6194
+      "note": "2026-11-22 WaPo 2007 기사 검색 결과 없음(Straight Dope 409762 HTML 에도 링크 없음). 학술 후보 West 2003 Law & Society Review 'Losers' 초록, 재산법연구 2020 유실물법 제10조 검토는 요구 행동을 다루지 않아 뺐다. Cohn 2019 Science civic honesty 의 보상 기대 설문은 science.org 403",
+      "createdAt": "2026-11-22T09:34:32.425Z",
+      "seq": 6207
     },
     {
       "id": "8d82229b",
