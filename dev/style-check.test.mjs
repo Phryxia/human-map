@@ -141,4 +141,6 @@ test('와의·과의 이중 조사를 잡고 과 로 끝나는 명사는 잡지 
   assert.ok(!has('위키백과의 문서는 같았다.[^1][^2]', g))
   assert.ok(!has('검사 인과의 방향이 같았다.[^1][^2]', g))
   assert.ok(!has('친구와 만남을 미뤘다.[^1][^2]', g))
+  assert.ok(issues('친구와의 만남을 미뤘다.[^1][^2]').every(i => i.level === 'ERROR'))
+  assert.ok(issues('고인과의 관계를 이어 갔다.[^1][^2]').every(i => i.level === 'ERROR'))
 })
