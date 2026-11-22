@@ -368,6 +368,7 @@
 - [배우자 몰래 비상금 모으기](docs/secret-stash-from-spouse.md) ([돈과 소비](groups/money.md))
 - [배우자에게 재정 정보 숨기기](docs/spouse-financial-concealment.md) ([돈과 소비](groups/money.md))
 - [배터리 부족 불안](docs/low-battery-anxiety.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [백신 망설임](docs/vaccine-hesitancy.md) ([건강과 위험](groups/health-and-safety.md))
 - [백업 미루기](docs/putting-off-backups.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [벅찬 감정에 압도되기](docs/overwhelmed-by-positive-emotion.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [번아웃](docs/burnout.md) ([일터와 일자리](groups/work.md))

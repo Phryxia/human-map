@@ -40,7 +40,6 @@
 - [대기오염 경보에도 바깥 활동 줄이지 않기](../docs/ignoring-air-quality-alerts.md) 대기오염 경보나 미세먼지 나쁨 예보가 나온 날 사람들이 마스크를 쓰지 않거나 바깥 활동을 줄이지 않는다.
 - [대피 미루기](../docs/delayed-evacuation.md) 화재나 해일의 경보나 징후를 접한 사람이 위험이 크지 않다고 여겨 대피하지 않거나 늦게 움직인다.
   - [화재경보를 오작동으로 여기기](../docs/dismissing-fire-alarms.md)
-- [독감 예방접종 거르기](../docs/skipping-flu-vaccine.md) 권고 대상인 사람이 필요 없다고 여기거나 부작용을 걱정하거나 시간이 없어 독감 예방접종을 받지 않는다.
 - [독립을 잃을 두려움](../docs/fear-of-losing-independence.md) 나이 든 사람이 혼자 일상을 꾸리거나 지금 사는 집에서 계속 지내는 능력을 잃게 될까 두려워한다.
 - [들어온 길로 대피하기](../docs/exiting-the-way-you-came.md) 불이 나거나 대피해야 할 때 건물 안의 사람이 가까운 비상구 대신 들어왔던 익숙한 출입구로 나가려 한다.
 - [딸꾹질 멈추려고 민간요법 써 보기](../docs/trying-hiccup-remedies.md) 딸꾹질이 멎지 않는 사람이 숨 참기나 물 마시기처럼 주변에서 듣거나 전해 내려온 방법을 차례로 써 본다.
@@ -54,6 +53,8 @@
 - [물에 빠진 이를 구하러 뛰어들기](../docs/jumping-in-to-rescue-drowning.md) 물에 빠진 아이, 가족, 반려견을 본 사람이 구조 장비 없이 직접 물에 뛰어든다.
 - [반려견 목줄 풀어 두기](../docs/walking-dog-off-leash.md) 반려견과 산책하는 사람이 개에게 운동이 필요하다고 여기거나 자기 개가 순하다고 여기거나 지키기 귀찮아서 목줄을 풀어 두거나 채우지 않는다.
 - [발이 저려 절룩이기](../docs/foot-falling-asleep.md) 한 자세로 오래 앉아 있던 사람이 발이나 다리가 저려 감각이 둔해지고 일어선 뒤 한동안 절룩이며 걷는다.
+- [백신 망설임](../docs/vaccine-hesitancy.md) 예방접종을 받을 수 있는 사람이나 그 자녀의 보호자가 접종을 미루거나 거부한다.
+  - [독감 예방접종 거르기](../docs/skipping-flu-vaccine.md)
 - [보청기 쓰지 않기](../docs/not-wearing-hearing-aids.md) 청력이 떨어진 사람이 보청기가 도움이 될 만한데도 보청기를 쓰지 않는다.
 - [불난 집에 다시 들어가기](../docs/reentering-burning-home.md) 불난 집에서 빠져나온 사람이 불을 끄거나 물건을 챙기거나 사람을 구하려고 다시 안으로 들어간다.
 - [불이 나면 직접 끄려 하기](../docs/fighting-fire-oneself.md) 집이나 일터에서 불이 난 것을 본 사람이 신고나 대피보다 먼저 스스로 불을 끄려 한다.
