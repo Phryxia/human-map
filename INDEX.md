@@ -626,6 +626,7 @@
 - [연인 아닌 사람에게 끌리기](docs/attraction-outside-relationship.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인 이상화](docs/idealizing-partner.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인과 헤어지기](docs/breaking-up.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [연인끼리 부르는 애칭](docs/pet-names-between-partners.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 지난 연애 질투하기](docs/retroactive-jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연인의 휴대폰 몰래 보기](docs/snooping-on-partners-phone.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연장 보증 구매](docs/buying-extended-warranties.md) ([돈과 소비](groups/money.md))
