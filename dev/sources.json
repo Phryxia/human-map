@@ -791,9 +791,9 @@
   },
   "https://www.korea.kr/news/cultureColumnView.do?newsId=148905290": {
     "first": "2026-10-17",
-    "last": "2026-11-02",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-22"
   },
   "https://ko.wikisource.org/wiki/%EC%9A%B4%EC%88%98_%EC%A2%8B%EC%9D%80_%EB%82%A0": {
     "first": "2026-10-17",
@@ -17492,15 +17492,15 @@
   },
   "https://www.khan.co.kr/article/201903091626001": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-22"
   },
   "https://www.etoday.co.kr/news/view/2268524": {
     "first": "2026-11-02",
-    "last": "2026-11-02",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-02"
+    "lastVerified": "2026-11-22"
   },
   "https://medieus.com/sub_detail/contents_detail.asp?c_num=874": {
     "first": "2026-11-02",
@@ -33918,6 +33918,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://www.nbcwashington.com/news/local/lost-cellphones-held-ransom/126154/": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://www.sidae.com/article/2013011711138046089": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
