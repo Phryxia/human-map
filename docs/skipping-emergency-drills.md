@@ -14,7 +14,11 @@
 
 2018년 일본 내각부 홍보지[^3]가 소개한 여론조사에서 방재 훈련에 참여하거나 견학한 적이 없는 사람은 그 이유로 시간이 없었다(49.5%)와 신청 방법을 모른다(25.5%)를 많이 꼽았다.
 
-2023년 8월 대구의 민방위 훈련을 다룬 매일신문 기사[^4]에서 대피소로 지정된 지하철역 지하를 찾는 시민은 드물었고 15분까지 지하에 머물라는 안내 방송에도 시민들은 걸음을 재촉했다. 2024년 말레이시아 호텔 연구[^5]에서 직원 대부분은 처음에 비상 상황을 살피거나 무시했고 그만큼 대피를 시작하기까지 시간이 길어졌다.
+2023년 8월 대구의 민방위 훈련을 다룬 매일신문 기사[^4]에서 대피소로 지정된 지하철역 지하를 찾는 시민은 드물었고 15분까지 지하에 머물라는 안내 방송에도 시민들은 걸음을 재촉했다.
+
+2024년 2월 미국 대학 신문 기사[^5]에서 학교 안전 담당자는 화재 훈련 시각을 미리 알리면 아무도 참여하지 않을 것이라고 말했다.
+
+2024년 10월 말레이시아 호텔 연구[^6]에서 직원 대부분은 처음에 비상 상황을 살피거나 무시했고 그만큼 대피를 시작하기까지 시간이 길어졌다.
 
 # 관계
 
@@ -44,4 +48,5 @@
 [^2]: [매체] "아파트에서 정기적으로 열리는 소방훈련도 귀찮고 불편하게 생각하는 주민들이 많다." — 매일신문, 「[대구경북은 안전한가] (2)안전불감증의 민낯」, 2014-05-14, https://www.imaeil.com/page/view/2014051411371539195, 2026-11-22 접속
 [^3]: [공공] "防災訓練に参加（又は見学）したことがない理由としては、「時間がなかった」49.5％、「申込み方法がわからない」25.5％等が上位となった。" (방재 훈련에 참여 또는 견학한 적이 없는 이유로는 '시간이 없었다' 49.5%, '신청 방법을 모른다' 25.5% 등이 상위였다.) — 内閣府(防災担当), 広報誌「ぼうさい」 第90号 「防災に関する世論調査」, 2018, https://www.bousai.go.jp/kohou/kouhoubousai/h29/90/news_03.html, 2026-11-22 접속
 [^4]: [매체] "중앙로역 지하는 대피소로 지정되어 있었지만 이곳을 찾는 시민들은 찾아보기 어려웠다. "민방위 훈련에 따라 15분까지는 지하에 머물러 있어야 한다"는 안내 방송에도 시민들은 발걸음을 재촉했다." — 매일신문, 「"언제까지 기다려야 하나" 6년 만에 공습 대비 민방위 훈련…시민들 '우왕좌왕'」, 2023-08-23, https://www.imaeil.com/page/view/2023082316164887302, 2026-11-22 접속
-[^5]: [학술] "Most staff members initially investigate or ignore the emergency, resulting in longer pre-evacuation times." (직원 대부분은 처음에 비상 상황을 살펴보거나 무시했고 그 결과 대피 전 시간이 길어졌다.) — Noumeur A 외, "A study of staff pre-evacuation behaviors in a Malaysian hotel", Fire and Materials, 2024-10-28, https://mro.massey.ac.nz/items/6c9d7dc9-a8eb-4e01-92e3-b6a3c1b4af4d/full, 2026-11-22 접속
+[^5]: [매체] "If they are notified of the times, no one will participate." (시각을 미리 알리면 아무도 참여하지 않을 것이다.) — Zachary Treseler, "As semester starts, Ohio law requires fire drills to occur", The Observer, 2024-02-02, https://observer.case.edu/as-semester-starts-ohio-law-requires-fire-drills-to-occur/, 2026-11-22 접속
+[^6]: [학술] "Most staff members initially investigate or ignore the emergency, resulting in longer pre-evacuation times." (직원 대부분은 처음에 비상 상황을 살펴보거나 무시했고 그 결과 대피 전 시간이 길어졌다.) — Noumeur A 외, "A study of staff pre-evacuation behaviors in a Malaysian hotel", Fire and Materials, 2024-10-28, https://mro.massey.ac.nz/items/6c9d7dc9-a8eb-4e01-92e3-b6a3c1b4af4d/full, 2026-11-22 접속
