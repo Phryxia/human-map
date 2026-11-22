@@ -2464,9 +2464,9 @@
   },
   "https://www.scipedia.com/public/Speisser_et_al_2018a": {
     "first": "2026-10-18",
-    "last": "2026-11-09",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-22"
   },
   "https://news.seoul.go.kr/traffic/archives/510853": {
     "first": "2026-10-18",
@@ -18887,15 +18887,15 @@
   },
   "https://www.easylaw.go.kr/CSP/SolomonRetrieve.laf?trialNo=2134&topMenu=serviceUl6": {
     "first": "2026-11-04",
-    "last": "2026-11-09",
-    "result": "VERIFIED",
+    "last": "2026-11-22",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-09"
   },
   "https://www.thenationalnews.com/uae/transport/long-wait-at-traffic-lights-increases-accident-risk-uae-study-finds-1.941357": {
     "first": "2026-11-04",
-    "last": "2026-11-09",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-22"
   },
   "https://www.lawtalk.co.kr/posts/141828": {
     "first": "2026-11-04",
@@ -22800,9 +22800,9 @@
   },
   "https://news.ycombinator.com/item?id=30917628": {
     "first": "2026-11-09",
-    "last": "2026-11-09",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-22"
   },
   "https://news.ycombinator.com/item?id=34972963": {
     "first": "2026-11-09",
@@ -33798,6 +33798,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://boards.straightdope.com/t/if-you-find-and-return-lost-property-do-you-feel-entitled-to-a-reward/409762": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://boards.straightdope.com/t/im-a-red-light-running-idiot/228192": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
