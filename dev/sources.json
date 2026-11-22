@@ -11258,9 +11258,9 @@
   },
   "https://view.asiae.co.kr/article/2023071410351761289": {
     "first": "2026-10-26",
-    "last": "2026-11-19",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-22"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39881201&rettype=abstract&retmode=text": {
     "first": "2026-10-26",
@@ -31348,15 +31348,15 @@
   },
   "https://www.npa.go.jp/bureau/soumu/ishitsubutsu/otoshimono/en/index.html": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-22"
   },
   "https://www.segye.com/view/20211126503414": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-22",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-22"
   },
   "https://weekly.khan.co.kr/article/8677": {
     "first": "2026-11-19",
@@ -33792,6 +33792,12 @@
     "lastVerified": "2026-11-22"
   },
   "https://asu.elsevierpure.com/en/publications/intrapersonal-and-interpersonal-consequences-of-protective-buffer": {
+    "first": "2026-11-22",
+    "last": "2026-11-22",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-22"
+  },
+  "https://boards.straightdope.com/t/if-you-find-and-return-lost-property-do-you-feel-entitled-to-a-reward/409762": {
     "first": "2026-11-22",
     "last": "2026-11-22",
     "result": "VERIFIED",
