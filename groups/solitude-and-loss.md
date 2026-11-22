@@ -16,6 +16,7 @@
   - [성묘](../docs/visiting-graves.md)
   - [죽은 이에게 말 걸기](../docs/talking-to-the-dead.md)
 - [고인에게 습관처럼 전화하려다 멈추기](../docs/reaching-to-call-the-dead.md) 가까운 사람을 잃은 사람이 무언가 묻거나 알리고 싶을 때 습관처럼 고인에게 전화하려다가 그 사람이 없다는 것을 깨닫고 멈춘다.
+- [기댈 사람이 없다는 느낌](../docs/having-no-one-to-turn-to.md) 어떤 사람이 힘들거나 아플 때 속을 털어놓거나 도움을 부탁할 사람이 곁에 없다고 여긴다.
 - [기일 무렵 되살아나는 슬픔](../docs/anniversary-grief.md) 가까운 사람을 잃은 사람이 해마다 그 사람이 죽은 날이 돌아오면 그 무렵 슬픔이 다시 짙어진다.
 - [돌아온 고향의 낯섦](../docs/returning-home-feels-strange.md) 오래 떠나 있다가 고향이나 모국으로 돌아온 사람이 그곳이 기억이나 기대와 달라 낯설고 쓸쓸하다고 느낀다.
 - [등교 거부](../docs/school-refusal.md) 학생이 친구 관계나 괴롭힘 같은 학교 안의 어려움으로 학교에 가기를 꺼리고 집에 머문다.

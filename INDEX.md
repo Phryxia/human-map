@@ -105,6 +105,7 @@
 - [금연 뒤 다시 피우기](docs/smoking-relapse.md) ([건강과 위험](groups/health-and-safety.md))
 - [금연구역에서 담배 피우기](docs/smoking-in-no-smoking-areas.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [금지된 것에 대한 호기심](docs/forbidden-curiosity.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [기댈 사람이 없다는 느낌](docs/having-no-one-to-turn-to.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [기름 불에 물 붓기](docs/pouring-water-on-oil-fire.md) ([건강과 위험](groups/health-and-safety.md))
 - [기부 단체 불신](docs/distrust-of-charities.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [기부하지 않기](docs/not-donating.md) ([시민 참여와 공공의 일](groups/civic-life.md))
