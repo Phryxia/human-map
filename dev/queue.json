@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T15:37:27.984Z",
-  "nextSeq": 6232,
-  "stops": 330,
+  "savedAt": "2026-11-22T18:31:09.647Z",
+  "nextSeq": 6236,
+  "stops": 331,
   "items": [
     {
       "id": "3f292db1",
@@ -91,6 +91,22 @@
       "note": "2026-11-22 문학 1985, 매체 2015, SNS 2025. 후보: distractify 2023-09-27 husband-doesnt-notice-wifes-haircut, watt-evans.com/blog/?p=1058 2017, GQ Korea 2024-10-14 ?p=303453 제목 '자기야, 나 달라진 거 없어?'. 외모 변화 change blindness 학술 HTML 못 찾음",
       "createdAt": "2026-11-22T15:36:07.968Z",
       "seq": 6231
+    },
+    {
+      "id": "3cc42d96",
+      "title": "overclaiming-own-contribution 관계: self-serving-justification, 집안일 분담 다툼",
+      "priority": 50,
+      "note": "2026-11-22 뉴시스 2018-12-14 NISX20181214_0000502634 통계청 일·가정 양립 지표의 남편·부인 응답 차이, TODAY 2015 '싸움을 먼저 거는 쪽도 양쪽이 과대 주장', NPR 2005 transcripts/4662116 후보. 원인·결과 근거 찾기",
+      "createdAt": "2026-11-22T18:20:23.310Z",
+      "seq": 6234
+    },
+    {
+      "id": "631b9046",
+      "title": "letting-others-win 보강: 윗사람·접대 장면, 2010년 이전 매체",
+      "priority": 50,
+      "note": "2026-11-22 접대 골프 golfdigest 2014 403. 베이비뉴스 2022-01-10 idxno=101492 '지게 되면 짜증을 부려서 눈치껏 봐주는데' 후보. Palmquist 2016 J Exp Child Psychol PubMed 쿠키 확인",
+      "createdAt": "2026-11-22T18:27:50.880Z",
+      "seq": 6235
     },
     {
       "id": "0541c530",
