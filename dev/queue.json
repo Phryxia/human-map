@@ -1,112 +1,80 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T18:31:09.647Z",
-  "nextSeq": 6236,
-  "stops": 331,
+  "savedAt": "2026-11-22T21:29:32.148Z",
+  "nextSeq": 6262,
+  "stops": 332,
   "items": [
     {
-      "id": "3f292db1",
-      "title": "reluctant-witness 보강: 관계",
+      "id": "22a91f3f",
+      "title": "cut-off-by-the-tide 보강: 관계, 2004년 이전 시기",
       "priority": 50,
-      "note": "2026-11-22 공공 3, 매체 1, 학술 1. OJP 2006 Dedel 'Witness Intimidation' 초록 '보복 위협 때문에 꺼린다' 로 not-reporting-for-fear-of-reprisal, believing-reporting-is-futile 관계 근거 찾기",
-      "createdAt": "2026-11-22T12:11:27.080Z",
-      "seq": 6214
+      "note": "2026-11-22 Bangor 2023-04-04 파편 추가했다. 같은 보도자료 '38% unaware that the tide typically comes in twice a day'. nation.cymru 2025-10-29 기사 후보. unrealistic-optimism 관계 근거는 아직 없다",
+      "createdAt": "2026-11-22T21:14:34.358Z",
+      "seq": 6252
     },
     {
-      "id": "3e04ec54",
-      "title": "vaccine-hesitancy 보강: 이유별 하위, 관계",
+      "id": "865d9249",
+      "title": "pet-names-between-partners 보강: 관계",
       "priority": 50,
-      "note": "2026-11-22 공공 3, 학술 2. 차혜경 2013 '예방접종 불신형, 부작용 염려형, 불필요형' 세 유형. WHO 2019 ten threats 'complacency, inconvenience, lack of confidence'. JSTOR Daily 2021 1920년대 등교 접종 다툼",
-      "createdAt": "2026-11-22T12:16:25.693Z",
-      "seq": 6215
+      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 같은 글에 '여보'·'자기' 부부 호칭 목록. 국어원 1999-07 소식지 '여보, 당신이란 말을 쓰기가 어색한' 대목 nknews/199907/12_5.htm",
+      "createdAt": "2026-11-22T21:15:59.911Z",
+      "seq": 6253
     },
     {
-      "id": "919b5159",
-      "title": "skipping-emergency-drills 관계: dismissing-fire-alarms",
+      "id": "1c36ebbd",
+      "title": "sexual-fantasy 보강: 문학 파편, imagined-romance 관계",
       "priority": 50,
-      "note": "2026-11-22 서울신문 2023-06-30 화재경보기 오작동 기사 '터무니없이 적은 수의 주민이 대피' 는 dismissing-fire-alarms 보강 후보. Massey 2024 호텔 직원 '경보 무시' 로 원인 간선 근거 찾기",
-      "createdAt": "2026-11-22T12:22:15.002Z",
-      "seq": 6216
+      "note": "2026-11-22 Better Health 2021 공공 파편 추가했다. 후보: Frontiers 2020 fpsyg.2019.02864, 마리끌레르 코리아 2018 ?p=129756. imagined-romance 와 상위 또는 형제 관계 검토",
+      "createdAt": "2026-11-22T21:21:02.614Z",
+      "seq": 6254
     },
     {
-      "id": "e1429dbf",
-      "title": "avoiding-painkillers 보강: 학술 파편, 이른 시기",
-      "priority": 50,
-      "note": "2026-11-22 공공 3, 매체 2, 모두 2018~2025. PMC5541120, PMC4356472 는 reCAPTCHA, PubMed 33337597 은 쿠키 확인. NCI PDQ 에 '미국 환자 조사(이전 10년)와 비슷' 대목. 2008년 이전 출처 찾기",
-      "createdAt": "2026-11-22T12:29:01.189Z",
-      "seq": 6217
-    },
-    {
-      "id": "4e69f8b6",
-      "title": "cut-off-by-the-tide 보강: 관계, 이른 시기",
-      "priority": 50,
-      "note": "2026-11-22 공공 3, 학술 1, 매체 1. Bangor 대학 2023-04-04 보도자료 '갇힌 경험자 57% 내륙 거주', HSE estuary.htm '장비를 믿고 작업 시간을 늘리지 말라' 후보. unrealistic-optimism, not-seeing-oneself-as-heat-vulnerable 와 관계 근거 찾기",
-      "createdAt": "2026-11-22T12:33:13.193Z",
-      "seq": 6218
-    },
-    {
-      "id": "c8a521e3",
-      "title": "pavement-cycling 관계: not-cycling-for-fear-of-traffic",
-      "priority": 50,
-      "note": "2026-11-22 Hansard 2002 '차도가 무서워 인도로 탄다'. road.cc 2021-03-03 기사 '차들 사이의 두려움과 불편 때문에 인도를 고른다' 후보(Mobilities 2021 과 같은 연구). WHYY 2018 '보행자가 부딪힐까 두려워한다' 대목도 있다",
-      "createdAt": "2026-11-22T12:40:26.777Z",
-      "seq": 6219
-    },
-    {
-      "id": "ac159e48",
-      "title": "pet-names-between-partners 보강: 공공 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-22 문학 1879, 학술 2004, SNS 2010, 매체 2015. 후보: Yu Huijae 2019 사회언어학 27(2) koreascholar 374120 '오빠' 호칭 비대칭, SAGE Encyclopedia of Human Relationships 2009 'Personal Idioms'. Bruess & Pearson 1993 SAGE 403",
-      "createdAt": "2026-11-22T15:14:41.473Z",
-      "seq": 6226
-    },
-    {
-      "id": "30a57d69",
-      "title": "postcoital-dysphoria 보강: SNS·문학 파편, 남성 연구",
-      "priority": 50,
-      "note": "2026-11-22 매체 2(2011 QUT, 2018 BPS), 학술 2(2015 PMC4721025, 2022 PMC9700232). 후보: SBS 2017-03-09 AAP 기사, VICE 2014-10-17 1인칭 글, ISSM Q&A(발행일 없음). Maczkowiack 2019 원문 HTML 못 찾음. PubMed 쿠키 확인",
-      "createdAt": "2026-11-22T15:22:25.738Z",
-      "seq": 6228
-    },
-    {
-      "id": "7e9900db",
-      "title": "sexual-fantasy 보강: 공공·문학 파편, imagined-romance 관계",
-      "priority": 50,
-      "note": "2026-11-22 학술 1990, 매체 2014·2020, SNS 2025. 후보: Frontiers 2020 fpsyg.2019.02864 성별 차이 대목, Better Health Channel 'Women, sex and sexuality' 2021 공공, 마리끌레르 코리아 2018 ?p=129756. 김은지·송원영 2017 accesson.kr 연결 끊김. imagined-romance 와 상위 또는 형제 관계 검토",
-      "createdAt": "2026-11-22T15:28:06.675Z",
-      "seq": 6229
-    },
-    {
-      "id": "bd1fe003",
+      "id": "2d142153",
       "title": "first-time-sex-anxiety 보강: 공공·문학 파편, fear-of-sexual-rejection 관계",
       "priority": 50,
-      "note": "2026-11-22 SNS 2009, 학술 2010, 매체 2022. 후보: Oxford HEXI first-sexual-experience-concerns 2012-08(13~16세 포함 여부 확인), Brook 'Having sex for the first time'(자선단체, 발행일 없음). NSW health 403",
-      "createdAt": "2026-11-22T15:31:44.645Z",
-      "seq": 6230
+      "note": "2026-11-22 SNS 2009, 학술 2010, 매체 2022. essexsexualhealthservice.org.uk 403, Brook 은 자선단체 발행일 없음. 국내 공공 보고서에 첫 성관계 불안 문항 못 찾음. Sons and Lovers 1913 첫 관계 장면은 불안이 아니라 희생 묘사라 맞지 않음",
+      "createdAt": "2026-11-22T21:21:45.634Z",
+      "seq": 6255
     },
     {
-      "id": "9e4dd50d",
+      "id": "d1f6921b",
       "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
       "priority": 50,
-      "note": "2026-11-22 문학 1985, 매체 2015, SNS 2025. 후보: distractify 2023-09-27 husband-doesnt-notice-wifes-haircut, watt-evans.com/blog/?p=1058 2017, GQ Korea 2024-10-14 ?p=303453 제목 '자기야, 나 달라진 거 없어?'. 외모 변화 change blindness 학술 HTML 못 찾음",
-      "createdAt": "2026-11-22T15:36:07.968Z",
-      "seq": 6231
+      "note": "2026-11-22 문학 1985, 매체 2015, SNS 2025. 후보: distractify 2023-09-27, watt-evans.com/blog/?p=1058 2017, GQ Korea 2024-10-14 ?p=303453. 외모 변화 change blindness 학술 HTML 못 찾음",
+      "createdAt": "2026-11-22T21:21:53.206Z",
+      "seq": 6256
     },
     {
-      "id": "3cc42d96",
-      "title": "overclaiming-own-contribution 관계: self-serving-justification, 집안일 분담 다툼",
+      "id": "3e832aac",
+      "title": "overclaiming-own-contribution 관계: self-serving-justification",
       "priority": 50,
-      "note": "2026-11-22 뉴시스 2018-12-14 NISX20181214_0000502634 통계청 일·가정 양립 지표의 남편·부인 응답 차이, TODAY 2015 '싸움을 먼저 거는 쪽도 양쪽이 과대 주장', NPR 2005 transcripts/4662116 후보. 원인·결과 근거 찾기",
-      "createdAt": "2026-11-22T18:20:23.310Z",
-      "seq": 6234
+      "note": "2026-11-22 뉴시스 2018 통계청 기사는 이미 [^5]. TODAY 2015 '싸움을 먼저 거는 쪽도 양쪽이 과대 주장', NPR 2005 transcripts/4662116 후보. 원인·결과 근거 찾기",
+      "createdAt": "2026-11-22T21:22:13.545Z",
+      "seq": 6257
     },
     {
-      "id": "631b9046",
-      "title": "letting-others-win 보강: 윗사람·접대 장면, 2010년 이전 매체",
+      "id": "35dd963d",
+      "title": "letting-others-win 보강: 2010년 이전 매체",
       "priority": 50,
-      "note": "2026-11-22 접대 골프 golfdigest 2014 403. 베이비뉴스 2022-01-10 idxno=101492 '지게 되면 짜증을 부려서 눈치껏 봐주는데' 후보. Palmquist 2016 J Exp Child Psychol PubMed 쿠키 확인",
-      "createdAt": "2026-11-22T18:27:50.880Z",
-      "seq": 6235
+      "note": "2026-11-22 매일신문 2013 접대 골프 칼럼 추가했다. 베이비뉴스 2022-01-10 idxno=101492 후보. 주간경향 2011 article/201110051427101 공직자 골프 접대",
+      "createdAt": "2026-11-22T21:23:15.583Z",
+      "seq": 6258
+    },
+    {
+      "id": "82423010",
+      "title": "vaccine-hesitancy 보강: 이유별 하위",
+      "priority": 50,
+      "note": "2026-11-22 fear-of-needles 원인 간선 넣었다. 차혜경 2013 '예방접종 불신형, 부작용 염려형, 불필요형' 세 유형. WHO 2019 ten threats 'complacency, inconvenience, lack of confidence'",
+      "createdAt": "2026-11-22T21:26:20.571Z",
+      "seq": 6259
+    },
+    {
+      "id": "17eea362",
+      "title": "cut-off-by-the-tide 관계",
+      "priority": 50,
+      "note": "2026-11-22 unrealistic-optimism 관계 근거 아직 없음",
+      "createdAt": "2026-11-22T21:29:24.287Z",
+      "seq": 6261
     },
     {
       "id": "0541c530",
@@ -3307,6 +3275,22 @@
       "note": "2026-11-22 graph find '환불' 없음. 산 물건이나 서비스에 불만이 있어도 눈치나 번거로움으로 환불을 청하지 않는 현상. abandoning-returns 와 관계 후보. HN·한국어 검색에서 아직 파편 못 찾음",
       "createdAt": "2026-11-22T06:32:27.547Z",
       "seq": 6195
+    },
+    {
+      "id": "62cfc815",
+      "title": "제보 금기 규범",
+      "priority": 10,
+      "note": "2026-11-22 CSM 2004-11-30 Dorchester 기사 'Don't tell culture', 'unspoken code'. reluctant-witness, witness-fearing-retaliation 의 원인 후보",
+      "createdAt": "2026-11-22T21:07:30.247Z",
+      "seq": 6251
+    },
+    {
+      "id": "c748ef5e",
+      "title": "재미로 악성 댓글 달기",
+      "priority": 10,
+      "note": "2026-11-22 #온라인 태그 보강용. 디지털데일리 2023-03-24 m.ddaily.co.kr/page/view/2023032414124423591 방통위 2022 실태조사 '성인은 재미나 장난(39.2%)', 가해 후 '정당함(45.6%)'. korea.kr 보도자료 newsId=156502578 은 연결 실패. 학술 파편 필요",
+      "createdAt": "2026-11-22T21:29:24.194Z",
+      "seq": 6260
     },
     {
       "id": "02b2f242",
