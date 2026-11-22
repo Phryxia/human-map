@@ -318,6 +318,7 @@
 - [무늬에서 얼굴과 모양 보기](docs/seeing-shapes-in-clouds.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [무단횡단](docs/jaywalking.md) ([길과 운전](groups/roads-and-driving.md))
 - [무더위 쉼터 가지 않기](docs/not-using-cooling-centers.md) ([건강과 위험](groups/health-and-safety.md))
+- [무료 체험 해지 잊기](docs/forgetting-to-cancel-free-trial.md) ([돈과 소비](groups/money.md))
 - [무심코 낙서하기](docs/doodling.md) ([시간과 하루 습관](groups/daily-time.md))
 - [무심코 얼굴 만지기](docs/touching-own-face.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [문 열고 냉방 영업](docs/open-door-air-conditioning.md) ([일터와 일자리](groups/work.md))

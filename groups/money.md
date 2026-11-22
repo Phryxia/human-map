@@ -35,6 +35,7 @@
 - [동전을 저금통에 쌓아 두기](../docs/keeping-loose-change-in-jars.md) 거스름돈으로 받은 동전을 쓰지 않는 사람이 그 동전을 집의 저금통, 병, 서랍에 넣어 두고 다시 꺼내지 않는다.
 - [모은 돈 들여다보기](../docs/gazing-at-saved-money.md) 돈을 모아 둔 사람이 그 돈이나 통장 잔고를 거듭 들여다보며 기쁨이나 위안을 얻는다.
 - [모음 채우기](../docs/completing-a-collection.md) 물건을 모으는 사람이 빠진 한 점을 찾아 모음을 완성하려 애쓴다.
+- [무료 체험 해지 잊기](../docs/forgetting-to-cancel-free-trial.md) 무료 체험으로 정기 결제 서비스에 가입한 사람이 체험 기간이 끝나기 전에 해지하기를 잊어 유료 결제를 치른다.
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
   - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
