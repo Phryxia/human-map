@@ -1,96 +1,104 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T00:27:56.367Z",
-  "nextSeq": 6276,
-  "stops": 333,
+  "savedAt": "2026-11-23T03:30:08.027Z",
+  "nextSeq": 6309,
+  "stops": 334,
   "items": [
     {
-      "id": "2d142153",
-      "title": "first-time-sex-anxiety 보강: 공공·문학 파편, fear-of-sexual-rejection 관계",
-      "priority": 50,
-      "note": "2026-11-22 SNS 2009, 학술 2010, 매체 2022. essexsexualhealthservice.org.uk 403, Brook 은 자선단체 발행일 없음. 국내 공공 보고서에 첫 성관계 불안 문항 못 찾음. Sons and Lovers 1913 첫 관계 장면은 불안이 아니라 희생 묘사라 맞지 않음",
-      "createdAt": "2026-11-22T21:21:45.634Z",
-      "seq": 6255
-    },
-    {
-      "id": "d1f6921b",
-      "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
-      "priority": 50,
-      "note": "2026-11-22 문학 1985, 매체 2015, SNS 2025. 후보: distractify 2023-09-27, watt-evans.com/blog/?p=1058 2017, GQ Korea 2024-10-14 ?p=303453. 외모 변화 change blindness 학술 HTML 못 찾음",
-      "createdAt": "2026-11-22T21:21:53.206Z",
-      "seq": 6256
-    },
-    {
-      "id": "3e832aac",
-      "title": "overclaiming-own-contribution 관계: self-serving-justification",
-      "priority": 50,
-      "note": "2026-11-22 뉴시스 2018 통계청 기사는 이미 [^5]. TODAY 2015 '싸움을 먼저 거는 쪽도 양쪽이 과대 주장', NPR 2005 transcripts/4662116 후보. 원인·결과 근거 찾기",
-      "createdAt": "2026-11-22T21:22:13.545Z",
-      "seq": 6257
-    },
-    {
-      "id": "35dd963d",
-      "title": "letting-others-win 보강: 2010년 이전 매체",
-      "priority": 50,
-      "note": "2026-11-22 매일신문 2013 접대 골프 칼럼 추가했다. 베이비뉴스 2022-01-10 idxno=101492 후보. 주간경향 2011 article/201110051427101 공직자 골프 접대",
-      "createdAt": "2026-11-22T21:23:15.583Z",
-      "seq": 6258
-    },
-    {
-      "id": "82423010",
-      "title": "vaccine-hesitancy 보강: 이유별 하위",
-      "priority": 50,
-      "note": "2026-11-22 fear-of-needles 원인 간선 넣었다. 차혜경 2013 '예방접종 불신형, 부작용 염려형, 불필요형' 세 유형. WHO 2019 ten threats 'complacency, inconvenience, lack of confidence'",
-      "createdAt": "2026-11-22T21:26:20.571Z",
-      "seq": 6259
-    },
-    {
-      "id": "17eea362",
-      "title": "cut-off-by-the-tide 관계",
-      "priority": 50,
-      "note": "2026-11-22 unrealistic-optimism 관계 근거 아직 없음",
-      "createdAt": "2026-11-22T21:29:24.287Z",
-      "seq": 6261
-    },
-    {
-      "id": "bd603169",
-      "title": "recognizing-sender-by-handwriting 보강: 학술 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-23 문학 1860, 매체 2002·2021, SNS 2014. 후보: Journal of Vision 2011 Gerbino·Mattaloni 'Self reference and familiarity in handwriting recognition' 봇 확인 페이지, Cornell LII FRE 901 자문위원회 주석 1972 공공, 경향신문 2001-04-03 우체부와 편지. saving-a-letter-to-open-later 와 관계 검토",
-      "createdAt": "2026-11-23T00:12:51.792Z",
-      "seq": 6269
-    },
-    {
-      "id": "c00be2bb",
-      "title": "averting-gaze-from-strangers 보강: 매체 파편, elevator-silence 관계",
-      "priority": 50,
-      "note": "2026-11-23 문학 1921, SNS 2009, 학술 2022·2023. 후보: 코메디닷컴 2016-06-06 kormedi.com/1219101 뉴욕과 캘리포니아 차이, PMC10508291 Zuckerman 1983 엘리베이터 시선 0.35초. elevator-silence 와 상위 관계 검토",
-      "createdAt": "2026-11-23T00:18:37.664Z",
-      "seq": 6270
-    },
-    {
-      "id": "e068464a",
+      "id": "71d03d1e",
       "title": "cut-off-by-the-tide 보강: 관계",
       "priority": 50,
       "note": "2026-11-23 Antiquary 1816, ADN 1998 파편 추가했다. Kingsley 'The Sands of Dee' 1849 gutenberg.pglaf.org 11064 후보. 1990년대 한국 기사 못 찾음. unrealistic-optimism 관계 근거 아직 없다",
-      "createdAt": "2026-11-23T00:23:42.816Z",
-      "seq": 6272
+      "createdAt": "2026-11-23T03:18:43.292Z",
+      "seq": 6297
     },
     {
-      "id": "591c2610",
+      "id": "0a5d2e1a",
+      "title": "in-law-address-awkwardness 보강: SNS·학술 파편, 2000년대 파편",
+      "priority": 50,
+      "note": "2026-11-23 공공 1999 국어원, 매체 2020 Asia Business Daily, 매체 2026 서울신문. 후보: 82cook entiz/read.php?num=135299 2004 댓글 '서방님이라고 부를땐 너무 어색해요' 타임아웃. 다음뉴스 2021-02-12 v/20210212091424850 호칭 바꾸자는 말 꺼내기 어려움. pet-names-between-partners 와 관계 검토",
+      "createdAt": "2026-11-23T03:26:46.333Z",
+      "seq": 6298
+    },
+    {
+      "id": "35db8358",
       "title": "pet-names-between-partners 보강: 관계",
       "priority": 50,
-      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 같은 글에 '여보'·'자기' 부부 호칭 목록. 국어원 1999-07 소식지 '여보, 당신이란 말을 쓰기가 어색한' 대목 nknews/199907/12_5.htm",
-      "createdAt": "2026-11-23T00:23:59.252Z",
-      "seq": 6273
+      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 2026-11-23 국어원 1999-07 nknews/199907/12_5.htm 의 '여보, 당신이란 말을 쓰기가 어색한' 문장은 같은 문장에 사람 이름이 있어 못 쓴다. 같은 글은 in-law-address-awkwardness [^1] 로 씀",
+      "createdAt": "2026-11-23T03:26:58.500Z",
+      "seq": 6299
     },
     {
-      "id": "43dc203e",
-      "title": "letting-others-win 보강: 2010년 이전 매체",
+      "id": "cc0c0ec9",
+      "title": "letting-others-win 관계",
       "priority": 50,
-      "note": "2026-11-22 매일신문 2013 접대 골프 칼럼 추가했다. 베이비뉴스 2022-01-10 idxno=101492 후보. 주간경향 2011 article/201110051427101 공직자 골프 접대. 2026-11-23 CSM 2009-11-20 m.csmonitor.com/2009/1120/p09s01-coop.html 'letting children lose had become taboo' 는 져 주기의 반대쪽 근거 후보. CSM Home Forum 1990~2009 'let him win' 검색 유망",
-      "createdAt": "2026-11-23T00:27:54.788Z",
-      "seq": 6275
+      "note": "2026-11-23 CSM 2001 Klose 'Our winning one-on-ones' 추가했다. CSM 1994 22172.html 'Turning the Tables In Father-Son Tennis' 는 아들에게 진 이야기. 베이비뉴스 2022-01-10 idxno=101492, CSM 2009 'letting children lose had become taboo' 후보",
+      "createdAt": "2026-11-23T03:28:26.465Z",
+      "seq": 6300
+    },
+    {
+      "id": "e1667576",
+      "title": "first-time-sex-anxiety 보강: 문학 파편, fear-of-sexual-rejection 관계",
+      "priority": 50,
+      "note": "2026-11-23 North Tyneside 공공 안내문 발행일 미상 추가했다. Devon NHS·wchc.nhs.uk 는 첫 경험이 아닌 일반 긴장 서술. playsafe.health.nsw.gov.au 403. Sons and Lovers 1913 맞지 않음",
+      "createdAt": "2026-11-23T03:28:37.614Z",
+      "seq": 6301
+    },
+    {
+      "id": "b76a4ddb",
+      "title": "typing-indicator-anxiety 보강: 2010년 이전 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-23 매체 2016 Ringer, SNS 2017 explainxkcd, 학술 2021 PMC8913456. Ringer 가 2014 NYT Jessica Bennett 칼럼 언급. Iftikhar 외 CHI 2023 은 PDF·ACM 뿐",
+      "createdAt": "2026-11-23T03:29:33.434Z",
+      "seq": 6302
+    },
+    {
+      "id": "085f16d0",
+      "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
+      "priority": 50,
+      "note": "2026-11-22 문학 1985, 매체 2015, SNS 2025. 후보: distractify 2023-09-27, watt-evans.com/blog/?p=1058 2017, GQ Korea 2024-10-14 ?p=303453. 2026-11-23 연인 외모 변화 알아채기 학술 검색 결과 없음. Frontiers 2024 fpsyg.2023.1294660 은 머리와 성생활 빈도라 맞지 않음",
+      "createdAt": "2026-11-23T03:29:56.870Z",
+      "seq": 6303
+    },
+    {
+      "id": "2084ab45",
+      "title": "overclaiming-own-contribution 관계: 원인·결과 근거",
+      "priority": 50,
+      "note": "2026-11-23 self-serving-justification 과의 관계는 근거 파편 없음. 집안일 분담 다툼 문서 없음. TODAY 2015, NPR 2005 transcripts/4662116 후보. credit-stolen-resentment 와 관계 검토",
+      "createdAt": "2026-11-23T03:29:56.938Z",
+      "seq": 6304
+    },
+    {
+      "id": "3abf53a4",
+      "title": "vaccine-hesitancy 보강: 이유별 하위",
+      "priority": 50,
+      "note": "2026-11-22 fear-of-needles 원인 간선 넣었다. 차혜경 2013 '예방접종 불신형, 부작용 염려형, 불필요형' 세 유형. WHO 2019 ten threats 'complacency, inconvenience, lack of confidence'",
+      "createdAt": "2026-11-23T03:29:57.008Z",
+      "seq": 6305
+    },
+    {
+      "id": "18835d99",
+      "title": "credit-stolen-resentment 보강: 2010년 이전 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-23 매체 2017 Fox Business, 학술 2022 PMC8895274, 매체 2026 위키트리. 후보: newswire.ca 2009-11-10 OfficeTeam 'a coworker has taken credit for their idea' 58% Cloudflare 막힘. overclaiming-own-contribution, passed-over-for-promotion 과 관계 검토",
+      "createdAt": "2026-11-23T03:29:57.081Z",
+      "seq": 6306
+    },
+    {
+      "id": "33f40370",
+      "title": "recognizing-sender-by-handwriting 보강: 학술 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-23 문학 1860, 매체 2002·2021, SNS 2014. Cornell LII FRE 901 자문위원회 주석 1972 문장은 200자 넘고 감정 없음. Journal of Vision 2011 Gerbino·Mattaloni 봇 확인 페이지. saving-a-letter-to-open-later 와 관계 검토",
+      "createdAt": "2026-11-23T03:29:57.183Z",
+      "seq": 6307
+    },
+    {
+      "id": "6c8f34e1",
+      "title": "averting-gaze-from-strangers 관계: elevator-silence",
+      "priority": 50,
+      "note": "2026-11-23 코메디닷컴 2016 매체 파편 추가했다. PMC10508291 Zuckerman 1983 엘리베이터 시선 0.35초 후보. elevator-silence 와 상위 관계 검토",
+      "createdAt": "2026-11-23T03:29:57.279Z",
+      "seq": 6308
     },
     {
       "id": "0541c530",
