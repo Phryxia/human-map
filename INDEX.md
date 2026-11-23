@@ -690,6 +690,7 @@
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
 - [위험한 곳에서 셀카 찍기](docs/risky-selfies.md) ([건강과 위험](groups/health-and-safety.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
+- [윗사람에게 일부러 져 주기](docs/letting-superiors-win.md) ([일터와 일자리](groups/work.md), [가까운 사이의 감정과 말](groups/close-relationships.md))
 - [윗사람의 농담에 따라 웃기](docs/laughing-at-the-bosss-jokes.md) ([일터와 일자리](groups/work.md))
 - [유리창에 비친 제 모습 흘끗 보기](docs/glancing-at-own-reflection-in-windows.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [유산 다툼](docs/inheritance-disputes.md) ([돈과 소비](groups/money.md))

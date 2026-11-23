@@ -30,7 +30,7 @@
 
 ## 하위
 
-없음.
+- [윗사람에게 일부러 져 주기](letting-superiors-win.md)
 
 ## 원인
 
