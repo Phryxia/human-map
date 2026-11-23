@@ -689,6 +689,7 @@
 - [원한 품기](docs/holding-a-grudge.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [원할 때 대화 끝내지 못하기](docs/not-ending-conversations.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [위기 때 생필품 사재기](docs/panic-buying.md) ([돈과 소비](groups/money.md))
+- [위조품인 줄 알고 사기](docs/buying-counterfeits-knowingly.md) ([돈과 소비](groups/money.md))
 - [위험한 곳에서 셀카 찍기](docs/risky-selfies.md) ([건강과 위험](groups/health-and-safety.md))
 - [윗사람에게 아첨하기](docs/flattering-superiors.md) ([일터와 일자리](groups/work.md))
 - [윗사람에게 일부러 져 주기](docs/letting-superiors-win.md) ([일터와 일자리](groups/work.md), [가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -81,6 +81,7 @@
 - [연장 보증 구매](../docs/buying-extended-warranties.md) 가전제품이나 전자제품을 사는 사람이 매장에서 권하는 연장 보증을 본 제품과 함께 산다.
 - [예비적 저축](../docs/precautionary-saving.md) 앞날의 소득과 경제를 불안하게 여기는 가계가 지금 쓰는 돈을 줄이고 만일에 대비해 저축을 늘린다.
 - [위기 때 생필품 사재기](../docs/panic-buying.md) 재난이나 감염병 소식을 들은 사람이 평소보다 많은 생필품을 한꺼번에 사 둔다.
+- [위조품인 줄 알고 사기](../docs/buying-counterfeits-knowingly.md) 물건을 사는 사람이 위조품인 줄 알면서 값이 싸다는 이유로 그것을 산다.
 - [유산 다툼](../docs/inheritance-disputes.md) 가족이나 친족이 누군가 죽은 뒤 남은 재산을 두고 서로 의심하고 다툰다.
 - [은퇴 자금 쓰지 않기](../docs/retirees-not-spending-savings.md) 은퇴한 사람이 모아 둔 은퇴 자금을 거의 꺼내 쓰지 않고 그대로 둔다.
 - [인색함](../docs/miserliness.md) 돈을 가진 사람이 남에게 베풀거나 식구와 나누는 데 드는 돈을 좀처럼 내주지 않는다.
