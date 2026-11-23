@@ -40,6 +40,7 @@
 - [건강 불안](docs/health-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [건강 안심 구하기](docs/health-reassurance-seeking.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [건강검진 이상 소견 뒤 재검 미루기](docs/skipping-follow-up-after-abnormal-screening.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [건강기능식품 겹쳐 먹기](docs/dietary-supplement-stacking.md) ([건강과 위험](groups/health-and-safety.md))
 - [건강보험 때문에 직장에 남기](docs/staying-in-job-for-health-insurance.md) ([일터와 일자리](groups/work.md))
 - [걸으며 휴대전화 보기](docs/walking-while-using-phone.md) ([길과 운전](groups/roads-and-driving.md))
 - [겁날 때 노래하거나 휘파람 불기](docs/singing-to-keep-up-courage.md) ([걱정과 기분](groups/worry-and-mood.md))

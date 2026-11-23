@@ -7,6 +7,7 @@
 - [감기에 항생제 기대하기](../docs/expecting-antibiotics-for-colds.md) 감기나 인후통으로 진료받는 사람이 항생제 처방을 기대하거나 요구하고 받지 못하면 불만을 느낀다.
 - [강한 감정에 기절하기](../docs/fainting-from-strong-emotion.md) 충격적인 소식을 듣거나 피를 보는 것처럼 감정이 크게 흔들리는 순간에 사람이 정신을 잃고 쓰러진다.
 - [개인정보 적힌 우편물과 송장 그대로 버리기](../docs/discarding-mail-without-shredding.md) 이름과 주소가 적힌 우편물, 서류, 택배 송장을 버리는 사람이 찢거나 파쇄하지 않고 그대로 버린다.
+- [건강기능식품 겹쳐 먹기](../docs/dietary-supplement-stacking.md) 건강을 챙기려는 사람이 건강기능식품을 여러 개 먹고 같은 원료의 제품까지 겹쳐 먹는다.
 - [겨울에 환기하지 않기](../docs/not-ventilating-in-winter.md) 추운 계절에 집에 있는 사람이 추위나 난방비를 이유로 창문을 열지 않고 환기를 줄인다.
 - [경보 피로](../docs/alarm-fatigue.md) 거짓 경보가 잦은 곳에서 일하거나 사는 사람이 경보에 무뎌져 경보를 무시하거나 소리를 끄거나 장치를 꺼 둔다.
   - [재난 문자 무시하기](../docs/ignoring-emergency-alerts.md)
