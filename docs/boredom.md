@@ -57,6 +57,7 @@
 - [외로움](loneliness.md)[^10]
 - [혼자 생각만 하는 시간 꺼리기](avoiding-being-alone-with-thoughts.md)[^3]
 - [꼼지락거리기](fidgeting.md)[^12]
+- [은퇴 번복](unretirement.md)
 
 ## 대립
 

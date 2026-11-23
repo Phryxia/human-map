@@ -30,7 +30,8 @@
 
 ## 원인
 
-없음.
+- [지루함](boredom.md)[^3]
+- [노년의 계속 일하기 희망](wanting-to-keep-working-in-old-age.md)[^4]
 
 ## 결과
 
