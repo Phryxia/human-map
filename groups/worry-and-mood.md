@@ -40,6 +40,7 @@
   - [머리카락 배배 꼬기](../docs/hair-twirling.md)
   - [무심코 얼굴 만지기](../docs/touching-own-face.md)
   - [손가락 마디 꺾기](../docs/knuckle-cracking.md)
+- [꿈인지 확인하려고 자기 몸 꼬집기](../docs/pinching-oneself-to-check-dreaming.md) 믿기지 않는 일을 겪은 사람이 꿈이 아닌지 확인하려고 자기 몸을 꼬집는다.
 - [나쁜 소식 확인 미루기](../docs/delaying-bad-news.md) 나쁜 소식일 수 있는 정보를 확인할 시점이 다가오면 그 확인을 늦추거나 피하는 행동이다.
   - [우편물 뜯지 않기](../docs/leaving-mail-unopened.md)
   - [잔액 확인 피하기](../docs/avoiding-checking-balance.md)
