@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T15:34:25.920Z",
-  "nextSeq": 6425,
-  "stops": 338,
+  "savedAt": "2026-11-23T18:28:49.875Z",
+  "nextSeq": 6431,
+  "stops": 339,
   "items": [
     {
       "id": "0d57d7bf",
@@ -3443,6 +3443,22 @@
       "note": "thedecisionlab.com/biases/spotlight-effect 2019-08-16 'Because of the spotlight effect, many people feel uncomfortable doing things alone in public.' 문서가 생기면 원인 spotlight-effect. eating-alone-feelings 와 이웃",
       "createdAt": "2026-11-23T15:29:15.315Z",
       "seq": 6420
+    },
+    {
+      "id": "694e9f01",
+      "title": "not-registering-pets: 반려견 동물등록 하지 않기",
+      "priority": 10,
+      "note": "2026-11-23 매체 후보: dailyvet ?p=130603 2020-05-04 미등록 이유 1위 등록할 필요성을 못 느껴서(29.0%), dailyvet ?p=87744 2017-12-14 알면서도 등록하지 않은 이유 부작용 우려·필요성 없음 26.2%. 공공 mafra.go.kr 은 이 환경에서 연결 안 됨(000). 서울시 news.seoul.go.kr env 525432 는 제도 안내뿐",
+      "createdAt": "2026-11-23T18:25:54.675Z",
+      "seq": 6429
+    },
+    {
+      "id": "9fe671f4",
+      "title": "sniff-testing-food: 냄새로 음식이 상했는지 가리기",
+      "priority": 10,
+      "note": "2026-11-23 매체: foodsafetynews 2025/04/risky-consumer-behaviors-flagged-in-fsa-survey 'Three-quarters of respondents said they would rely on the sniff test', mintel press-centre 67-of-brits-rely-on-their-own-senses, irishnews 2020-03-05 sniff test. 공공 food.gov.uk 보도자료 410. uneasy-eating-past-date-food 와 형제",
+      "createdAt": "2026-11-23T18:28:27.792Z",
+      "seq": 6430
     },
     {
       "id": "02b2f242",
