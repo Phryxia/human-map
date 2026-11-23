@@ -71,6 +71,8 @@
 - [새 머리를 알아봐 주지 않아 서운해하기](../docs/hurt-when-new-look-goes-unnoticed.md) 머리를 자르거나 모습을 바꾼 사람이 함께 지내는 연인이나 가족이 그 변화를 알아채지 못하면 서운해한다.
 - [생일을 잊혀 서운해도 내색하지 않기](../docs/hiding-hurt-over-forgotten-birthday.md) 가족이나 친구가 자기 생일을 잊었을 때 서운함을 느끼면서 그 마음을 스스로 누르거나 낮춰 말한다.
 - [성관계 뒤의 슬픔](../docs/postcoital-dysphoria.md) 합의한 성관계를 마친 사람이 뚜렷한 이유 없이 슬픔, 눈물, 불안, 짜증을 느낀다.
+- [성관계 수행 불안](../docs/sexual-performance-anxiety.md) 성관계를 앞두거나 하는 중인 사람이 자기가 잘하지 못하거나 기대에 못 미칠까 걱정한다.
+  - [첫 성경험 앞의 불안](../docs/first-time-sex-anxiety.md)
 - [성관계 청을 거절당할 두려움](../docs/fear-of-sexual-rejection.md) 연인이나 배우자가 있는 사람이 먼저 성관계를 청했다가 거절당할까 봐 두려워 청하기를 망설이거나 그만둔다.
 - [소개팅 주선](../docs/matchmaking.md) 사람이 자기가 아는 두 사람을 연인으로 이어 주려고 서로 소개한다.
 - [소문 옮기기](../docs/passing-on-rumors.md) 사람이 확인되지 않은 소문을 듣고 다른 사람에게 옮긴다.
@@ -144,7 +146,6 @@
   - [사랑 고백 망설이기](../docs/hesitating-to-confess-love.md)
 - [참아 온 불만의 폭발](../docs/suppressed-anger-outburst.md) 오래 불만이나 분노를 드러내지 않던 사람이 사소한 계기에 쌓인 감정을 한꺼번에 쏟아 낸다.
 - [책 빌려주지 않기](../docs/never-lending-books.md) 빌려준 책을 돌려받지 못한 적이 있는 사람이 그 뒤로 남에게 책을 빌려주지 않는다.
-- [첫 성경험 앞의 불안](../docs/first-time-sex-anxiety.md) 성관계를 해 본 적 없는 사람이 첫 성관계를 앞두거나 겪으며 잘하지 못하거나 상대를 실망시킬까 걱정한다.
 - [첫눈에 반함](../docs/love-at-first-sight.md) 사람이 처음 본 상대에게 그 자리에서 사랑에 빠졌다고 느낀다.
 - [청하지 않은 조언](../docs/unsolicited-advice.md) 사람이 조언을 청하지 않은 상대에게 그 상대의 일을 어떻게 하라고 말한다.
   - [훈수 두기](../docs/kibitzing.md)

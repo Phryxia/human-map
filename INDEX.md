@@ -499,6 +499,7 @@
 - [설레는 날 전날 밤 잠 못 들기](docs/sleepless-before-exciting-day.md) ([시간과 하루 습관](groups/daily-time.md))
 - [성과를 가로채였을 때의 분함](docs/credit-stolen-resentment.md) ([일터와 일자리](groups/work.md))
 - [성관계 뒤의 슬픔](docs/postcoital-dysphoria.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [성관계 수행 불안](docs/sexual-performance-anxiety.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [성관계 청을 거절당할 두려움](docs/fear-of-sexual-rejection.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [성묘](docs/visiting-graves.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [성인 자녀의 부모 집 거주](docs/adult-children-living-with-parents.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
