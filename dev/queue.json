@@ -1,137 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T12:32:30.698Z",
-  "nextSeq": 6381,
-  "stops": 337,
+  "savedAt": "2026-11-23T15:34:25.920Z",
+  "nextSeq": 6425,
+  "stops": 338,
   "items": [
-    {
-      "id": "90183637",
-      "title": "pretend-play-with-food 보강: SNS·매체 파편",
-      "priority": 50,
-      "note": "2026-11-23 매체 1881 Stevenson, 학술 2023 Int J Early Childhood. guysandstthomas.nhs.uk 'why playing with food is a good thing' 후보",
-      "createdAt": "2026-11-23T06:26:06.931Z",
-      "seq": 6330
-    },
-    {
-      "id": "ffc519ad",
-      "title": "cut-off-by-the-tide 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-23 Antiquary 1816, ADN 1998, Kingsley 1849 파편 추가했다. 1990년대 한국 기사 못 찾음. unrealistic-optimism 관계 근거 아직 없다",
-      "createdAt": "2026-11-23T06:28:36.125Z",
-      "seq": 6331
-    },
-    {
-      "id": "0a8828ea",
-      "title": "in-law-address-awkwardness 보강: 82cook 댓글 미확인",
-      "priority": 50,
-      "note": "2026-11-23 82cook num=2077545 댓글 프록시 ECONNRESET 로 미확인. 대안 num=1950855 '걍 안 불러요 그 호칭 입에 올려야 할 상황을 극도로 피합니다.' 같은 호스트. 학술 이필영·김태경 2018 사회언어학 26(1) scholarworks.bwise.kr/erica/handle/2021.sw.erica/7498 후보",
-      "createdAt": "2026-11-23T09:13:15.904Z",
-      "seq": 6357
-    },
-    {
-      "id": "06cf0501",
-      "title": "pet-names-between-partners 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 2026-11-23 국어원 1999-07 12_5.htm 은 사람 이름 문제로 못 씀. 같은 글은 in-law-address-awkwardness [^1] 로 씀",
-      "createdAt": "2026-11-23T09:13:24.417Z",
-      "seq": 6358
-    },
-    {
-      "id": "b0cbed93",
-      "title": "first-time-sex-anxiety 보강: 문학 파편, fear-of-sexual-rejection 관계",
-      "priority": 50,
-      "note": "2026-11-23 상위 sexual-performance-anxiety 를 새로 걸었다. 문학 파편은 아직 없다",
-      "createdAt": "2026-11-23T09:19:29.963Z",
-      "seq": 6359
-    },
-    {
-      "id": "a07474e2",
-      "title": "letting-superiors-win 보강: 한국어 파편, 학술 파편",
-      "priority": 50,
-      "note": "2026-11-23 매체 2009 CBS, 매체 2020 Calabasas, SNS 2022 블라인드. 매일신문 2007-02-15 2007021516192407047 설 고스톱 사위가 장모에게 잃어 줌, 원문에 실명 있어 다른 대목 필요. calabasasgolf 같은 글 '일부러 퍼팅을 못 하거나 숲으로' 대목",
-      "createdAt": "2026-11-23T09:28:16.524Z",
-      "seq": 6371
-    },
-    {
-      "id": "409e41ba",
-      "title": "destroying-private-papers-before-death 보강: 학술 파편, 1876 Daniel Deronda 대목",
-      "priority": 50,
-      "note": "2026-11-23 문학 1888 Aspern, 매체 2017 이투데이 브라보, 매체 2023 Sixty and Me. 후보: gutenberg.pglaf.org/7/4/6/7469 Daniel Deronda 'burning a chest and papers looks like a shameful act'(태우려다 그만둠), No Name 1438 1862, Sixty and Me comment-page-3 2024-07-17 댓글. 학술 PMC1615888 노년기 소지품 정리는 reCAPTCHA",
-      "createdAt": "2026-11-23T12:30:57.964Z",
-      "seq": 6380
-    },
-    {
-      "id": "0541c530",
-      "title": "anxious-self-improvement 보강: 공공 파편, accesson.kr 재확인",
-      "priority": 40,
-      "note": "2026-11-22 03:15Z 재확인도 accesson.kr 타임아웃. 공공 검색(한국고용정보원, 서울연구원, korea.kr) 결과 자기계발 불안 대목 없음",
-      "createdAt": "2026-11-22T03:20:17.763Z",
-      "seq": 6146
-    },
-    {
-      "id": "2aebb3e1",
-      "title": "having-no-one-to-turn-to 보강: loneliness 관계",
-      "priority": 40,
-      "note": "2026-11-22 SNS(HN 2022) 추가. loneliness, sick-while-living-alone, help-seeking-avoidance 원인·결과 근거 찾기",
-      "createdAt": "2026-11-22T09:28:09.838Z",
-      "seq": 6205
-    },
-    {
-      "id": "7e2dfc31",
-      "title": "unretirement 보강: 관계",
-      "priority": 40,
-      "note": "2026-11-22 공공(KDI 경제교육·정보센터 2025 한국은행 고령 자영업 보고서 소개) 추가. wanting-to-keep-working-in-old-age, retirement-emptiness 관계 근거 찾기. ONS 2022-09-27 wave2 '58% considered returning to work' 도 후보",
-      "createdAt": "2026-11-22T09:31:50.634Z",
-      "seq": 6206
-    },
-    {
-      "id": "4366a148",
-      "title": "finders-reward-demand 보강: 2007년 워싱턴포스트 기사, 학술 파편",
-      "priority": 40,
-      "note": "2026-11-22 WaPo 2007 기사 검색 결과 없음(Straight Dope 409762 HTML 에도 링크 없음). 학술 후보 West 2003 Law & Society Review 'Losers' 초록, 재산법연구 2020 유실물법 제10조 검토는 요구 행동을 다루지 않아 뺐다. Cohn 2019 Science civic honesty 의 보상 기대 설문은 science.org 403",
-      "createdAt": "2026-11-22T09:34:32.425Z",
-      "seq": 6207
-    },
-    {
-      "id": "0956f3c7",
-      "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
-      "priority": 40,
-      "note": "2026-11-23 후보: Psychology Today 1998-09 'In the Spotlight' articles/199809/in-the-spotlight 의 Bad Hair Day 연구 서술, Gilovich 외 2000 pubmed 10707330. 둘 다 연인이 아닌 남이 알아채는지라 spotlight-effect 관계 근거로만 검토. 기존 후보: distractify 2023-09-27, GQ Korea 2024-10-14 ?p=303453",
-      "createdAt": "2026-11-23T09:21:03.650Z",
-      "seq": 6361
-    },
-    {
-      "id": "44d99c12",
-      "title": "standing-up-right-after-landing 보강: 학술 파편",
-      "priority": 40,
-      "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 13(9) 808 은 403. lexpera.com.tr 회람 전문은 같은 출처라 못 씀. 2026-11-23 arXiv 2303.03264, PMC7058282 CALM 모형, RePEc Wald 2014 는 일찍 일어서기를 직접 말하지 않아 버렸다",
-      "createdAt": "2026-11-23T09:21:37.026Z",
-      "seq": 6362
-    },
-    {
-      "id": "66dca861",
-      "title": "kibitzing 보강: 학술 파편, 바둑·장기 훈수",
-      "priority": 40,
-      "note": "2026-11-23 Charlton·Starkey 2020 Co-driving: Passenger actions and distractions, AAP 10.1016/j.aap.2020.105624 후보. sciencedirect 403, pubmed reCAPTCHA, waikato researchcommons 는 PDF. 이전: 바둑 훈수 금지 규정·구경꾼 조언 연구 못 찾음",
-      "createdAt": "2026-11-23T09:23:01.656Z",
-      "seq": 6364
-    },
-    {
-      "id": "24b86864",
-      "title": "sexual-performance-anxiety 보강: SNS·공공 파편",
-      "priority": 40,
-      "note": "2026-11-23 학술 2019·2024, 매체 1996·2018 있음. uhbristol.nhs.uk 정신성 클리닉 안내는 일반 불안 서술이라 맞지 않음. patient.info 20·30대 발기부전 글에 불안 되먹임 서술 후보(매체). spokesman 1996 'Men who are afraid to perform pull away from intimacy' 결과 간선 후보",
-      "createdAt": "2026-11-23T09:24:24.489Z",
-      "seq": 6366
-    },
-    {
-      "id": "03734668",
-      "title": "credit-stolen-resentment 보강: 2010년 이전 파편, 관계",
-      "priority": 40,
-      "note": "2026-11-23 wbjournal OfficeTeam 2009 기사는 열리나 아이디어 도용 경험만 말하고 분함은 없음. askamanager 2010-02 my-coworker-is-taking-credit-for-my 는 Cloudflare 403. reliableplant Articles/Print/20473 2009 후보. 이전: newswire.ca 2009-11-10 Cloudflare. overclaiming-own-contribution, passed-over-for-promotion 관계 검토",
-      "createdAt": "2026-11-23T09:25:12.907Z",
-      "seq": 6369
-    },
     {
       "id": "0d57d7bf",
       "title": "recognizing-sender-by-handwriting 보강: 학술 파편, 관계",
@@ -139,14 +11,6 @@
       "note": "2026-11-23 아는 사람 손글씨 알아보기 학술 검색 결과 없음. typotheque.com The Familiarity Effect in the Perception of Handwriting 은 매체 후보. AAFS 2020 J9 자기 글씨 알아보기 PDF. 이전: Journal of Vision 2011 봇 확인 페이지",
       "createdAt": "2026-11-23T09:25:28.430Z",
       "seq": 6370
-    },
-    {
-      "id": "def5d85a",
-      "title": "eating-past-fullness 보강: clean-plate-pressure·emotional-eating 관계",
-      "priority": 40,
-      "note": "2026-11-23 학술 Fay 외 2011 Appetite 추가. 같은 글에 'plate-cleaning occurred at 91% of meals' 대목, clean-plate-pressure 관계 근거 검토",
-      "createdAt": "2026-11-23T09:29:18.791Z",
-      "seq": 6373
     },
     {
       "id": "ad937817",
@@ -181,20 +45,20 @@
       "seq": 6377
     },
     {
+      "id": "323d2ef1",
+      "title": "eating-past-fullness 보강: clean-plate-pressure·emotional-eating 관계",
+      "priority": 40,
+      "note": "2026-11-23 학술 Fay 외 2011 Appetite 추가. 같은 글에 'plate-cleaning occurred at 91% of meals' 대목, clean-plate-pressure 관계 근거 검토. Cornell 2014 92% 연구는 인과 아님",
+      "createdAt": "2026-11-23T15:34:08.491Z",
+      "seq": 6423
+    },
+    {
       "id": "8d82229b",
       "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
       "priority": 30,
       "note": "2026-11-14 인과 문장 미발견. lady.khan 202610270700001 '예전의 열등감이나 불편한 인간관계가 되살아나기도 한다'(인과 아님). v.daum.net/v/YsTvkSPK9M 비교로 인생이 초라하게 느껴짐(미확인). wkorea 2025-11-01 질투는 처지 비슷한 사람에게. psychologytoday 199203 fear-and-loathing-high-school-reunions",
       "createdAt": "2026-11-14T21:22:47.078Z",
       "seq": 5058
-    },
-    {
-      "id": "1b081fc6",
-      "title": "spotlight-effect 관계: 결과 간선(춤 피하기, 혼자 외출 불안)",
-      "priority": 30,
-      "note": "2026-11-15 Scientific American 2023 [^5] 더함(화상 통화 불안, video-call-self-view-discomfort 와는 인과가 다름). 후보: creators.yahoo.com/lifestyle/story/the-spotlight-illusion-we-think-everyones-watching-theyre-not-123000342.html (2026-03-05) 'The spotlight effect doesn't just keep us from dancing' 남 앞에서 춤 피하기 문서가 생기면 결과 간선. thedecisionlab.com/biases/spotlight-effect (2019-08-16) 혼자 외출 불안 'this cognitive bias causes them to believe'. blushing·사진 회피·헬멧과 잇는 인과 출처는 못 찾음",
-      "createdAt": "2026-11-15T03:10:35.337Z",
-      "seq": 5077
     },
     {
       "id": "4fb0a3f0",
@@ -1173,6 +1037,86 @@
       "seq": 6372
     },
     {
+      "id": "372dda00",
+      "title": "first-time-sex-anxiety 보강: fear-of-sexual-rejection 관계",
+      "priority": 30,
+      "note": "2026-11-23 문학 1883 Une Vie, 1913 Sons and Lovers 추가. Sons and Lovers 11장 미리엄의 실망시켜 떠날까 두려움은 거절 두려움과 가깝지만 '때문에' 근거 아님",
+      "createdAt": "2026-11-23T15:15:43.295Z",
+      "seq": 6408
+    },
+    {
+      "id": "c6fecb7b",
+      "title": "letting-superiors-win 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-23 매체 2002 CFO, 매체 2013 매일신문 추가. 상급자에게 일부러 지는 행동의 학술 출처 못 찾음. Henagan & Bedeian 2009 JASP 동료 상대 socially motivated underachievement 는 PDF. 루이 14세 당구 일화 Papers Past 1886 Lake Wakatip Mail 은 Incapsula 차단",
+      "createdAt": "2026-11-23T15:20:41.060Z",
+      "seq": 6409
+    },
+    {
+      "id": "920eb42d",
+      "title": "destroying-private-papers-before-death 보강: 학술 또는 공공 파편",
+      "priority": 30,
+      "note": "2026-11-23 Daniel Deronda 7469 대목은 남편 사후 아버지 상자를 태우려던 것이라 '죽음 앞두고' 와 맞지 않아 버림. oprah.com 'The Burning Question', nextavenue.org what-should-i-do-with-my-diaries 는 curl 로 본문 못 받음. Wermie & Latulipe 2026 GI 포스터는 디지털 유산",
+      "createdAt": "2026-11-23T15:21:29.676Z",
+      "seq": 6411
+    },
+    {
+      "id": "526865ce",
+      "title": "anxious-self-improvement 보강: 공공 파편, accesson.kr 재확인",
+      "priority": 30,
+      "note": "2026-11-23 15시 accesson.kr 여전히 타임아웃. 공공 검색 재시도도 잡코리아·세계일보 등 매체뿐",
+      "createdAt": "2026-11-23T15:22:17.714Z",
+      "seq": 6412
+    },
+    {
+      "id": "c3ee201e",
+      "title": "having-no-one-to-turn-to 보강: sick-while-living-alone, help-seeking-avoidance 관계",
+      "priority": 30,
+      "note": "2026-11-23 결과 loneliness(코메디닷컴 2022) 걸었다. 나머지 두 관계 근거 아직 없다. 피앰아이 2026 조사(wikitree 1158323) 1인 가구 47.0% 속마음 털어놓을 사람 없음",
+      "createdAt": "2026-11-23T15:25:13.369Z",
+      "seq": 6413
+    },
+    {
+      "id": "7bbb59a8",
+      "title": "unretirement 보강: retirement-emptiness 관계",
+      "priority": 30,
+      "note": "2026-11-23 원인 boredom(HN 2024), wanting-to-keep-working-in-old-age(KDI 2025) 걸었다. ONS 2022-09-27 wave2 후보",
+      "createdAt": "2026-11-23T15:25:34.798Z",
+      "seq": 6414
+    },
+    {
+      "id": "368aa374",
+      "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
+      "priority": 30,
+      "note": "2026-11-23 GQ Korea ?p=303453 과 ?p=231735 는 요령 글이라 뺌. 기존 후보 Psychology Today 1998-09 in-the-spotlight, pubmed 10707330, distractify 2023-09-27 미확인",
+      "createdAt": "2026-11-23T15:26:11.328Z",
+      "seq": 6417
+    },
+    {
+      "id": "4d7394a7",
+      "title": "credit-stolen-resentment 보강: 관계",
+      "priority": 30,
+      "note": "2026-11-23 SNS 2007 Straight Dope 420575 추가. overclaiming-own-contribution, passed-over-for-promotion 관계 근거 아직 없다. Digital Engineering 247 2005-02 'Taking Credit Where Credit Is Due' 미확인 후보",
+      "createdAt": "2026-11-23T15:31:51.557Z",
+      "seq": 6421
+    },
+    {
+      "id": "a45c9799",
+      "title": "kibitzing 보강: 학술 파편, 바둑·장기 훈수",
+      "priority": 30,
+      "note": "2026-11-23 매체 1929 Norwalk Hour(CSB News 재게재) 추가. Korea JoongAng Daily 2004-08-26 길거리 체스 kibitzer 는 대목마다 실명. Papers Past, Utah Digital Newspapers 는 봇 차단. 학술 Charlton·Starkey 2020 AAP 는 403",
+      "createdAt": "2026-11-23T15:33:53.688Z",
+      "seq": 6422
+    },
+    {
+      "id": "c0c57698",
+      "title": "spotlight-effect 관계: 결과 간선(춤 피하기, 혼자 외출 불안)",
+      "priority": 30,
+      "note": "후보: creators.yahoo.com spotlight-illusion 2026-03-05 공연장에서 too self-conscious to move. thedecisionlab spotlight-effect 2019-08-16 'Because of the spotlight effect, many people feel uncomfortable doing things alone in public.' 맞는 문서 없음, 신규 현상 큐에 넣음. blushing·사진 회피·헬멧 인과 출처 못 찾음",
+      "createdAt": "2026-11-23T15:34:08.565Z",
+      "seq": 6424
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1811,6 +1755,46 @@
       "note": "2026-11-23 stopping-medication-when-feeling-better 의 하위가 아니다(증상 호전이 아닌 예방약). 상위 후보 없음. MMWR 00049647 1997 '257 (53%) had not taken chemoprophylaxis' 후보",
       "createdAt": "2026-11-23T09:23:15.529Z",
       "seq": 6365
+    },
+    {
+      "id": "9bcb03f3",
+      "title": "cut-off-by-the-tide 보강: 관계",
+      "priority": 20,
+      "note": "2026-11-23 Morris-Webb 2025 전문(cogitatiopress download/9793/4313) 확인: 과신·낙관 근거 없음, 갇힌 이유는 산만 10%, 낯선 곳 8%, 물때 오독 5%. 대응할 문서 없음. 안전 불감증 류 현상 문서가 생기면 [^6] 으로 원인 간선",
+      "createdAt": "2026-11-23T15:10:25.060Z",
+      "seq": 6404
+    },
+    {
+      "id": "6b297ce0",
+      "title": "in-law-address-awkwardness 보강: 82cook 댓글 미확인",
+      "priority": 20,
+      "note": "2026-11-23 15시 재시도도 82cook 프록시 ws_closed, 타임아웃. 문서는 확인됨 4개로 최소 조건 충족. 82cook 이 열리는 회차에 재확인",
+      "createdAt": "2026-11-23T15:11:27.301Z",
+      "seq": 6405
+    },
+    {
+      "id": "1eb58576",
+      "title": "pet-names-between-partners 보강: 관계",
+      "priority": 20,
+      "note": "2026-11-23 15시 그래프에 맞는 상대 없음(연인 관련 문서 30여 개 확인). 연인 사이 아기말(baby talk) 문서가 생기면 상위·하위 검토",
+      "createdAt": "2026-11-23T15:11:34.474Z",
+      "seq": 6406
+    },
+    {
+      "id": "bad763d7",
+      "title": "finders-reward-demand 보강: 2007년 워싱턴포스트 기사, 학술 파편",
+      "priority": 20,
+      "note": "2026-11-22 WaPo 2007 기사 검색 결과 없음. West 2003, 재산법연구 2020 은 요구 행동 없음. Cohn 2019 Science 는 403. 2026-11-23 다시 미룸",
+      "createdAt": "2026-11-23T15:25:38.522Z",
+      "seq": 6415
+    },
+    {
+      "id": "b1018bf9",
+      "title": "standing-up-right-after-landing 보강: 학술 파편",
+      "priority": 20,
+      "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 은 403. 2026-11-23 arXiv 2303.03264, PMC7058282, RePEc Wald 2014 버림. 다시 미룸",
+      "createdAt": "2026-11-23T15:26:17.062Z",
+      "seq": 6418
     },
     {
       "id": "9c55db6a",
@@ -3419,6 +3403,46 @@
       "note": "2026-11-23 vaccine-hesitancy 하위 후보. 차혜경 2013 '불필요형', WHO 2019 ten threats 'complacency'",
       "createdAt": "2026-11-23T09:24:39.835Z",
       "seq": 6368
+    },
+    {
+      "id": "d88b3332",
+      "title": "연인 사이의 아기말",
+      "priority": 10,
+      "note": "pet-names-between-partners 와 이웃 현상. 연인이 둘만 있을 때 아기 말투로 말한다",
+      "createdAt": "2026-11-23T15:11:34.543Z",
+      "seq": 6407
+    },
+    {
+      "id": "cd4678c5",
+      "title": "효도로 부모에게 져 주기",
+      "priority": 10,
+      "note": "브라보마이라이프 2017-02-16 bravo.etoday.co.kr/view/atc_view/6651 화투에서 어머니에게 눈치채지 못하게 져 줌. letting-superiors-win 과 이웃",
+      "createdAt": "2026-11-23T15:20:41.144Z",
+      "seq": 6410
+    },
+    {
+      "id": "12739bf2",
+      "title": "기분 전환으로 머리 자르기",
+      "priority": 10,
+      "note": "brunch.co.kr/@girok/97 2026-05-30 '싹둑' 마음이 무거운 날 계획 없이 미용실에 가 머리를 자르면 마음이 가벼워진다. hurt-when-new-look-goes-unnoticed 와 이웃",
+      "createdAt": "2026-11-23T15:26:11.250Z",
+      "seq": 6416
+    },
+    {
+      "id": "57307cf3",
+      "title": "조루 걱정",
+      "priority": 10,
+      "note": "NHS Ejaculation problems 2023-02-09 성 수행 불안을 심리적 원인으로 듦. 문서가 생기면 sexual-performance-anxiety 결과 간선 [^5]",
+      "createdAt": "2026-11-23T15:28:51.853Z",
+      "seq": 6419
+    },
+    {
+      "id": "878baffc",
+      "title": "혼자 다니는 모습이 남 눈에 띌까 불편해하기",
+      "priority": 10,
+      "note": "thedecisionlab.com/biases/spotlight-effect 2019-08-16 'Because of the spotlight effect, many people feel uncomfortable doing things alone in public.' 문서가 생기면 원인 spotlight-effect. eating-alone-feelings 와 이웃",
+      "createdAt": "2026-11-23T15:29:15.315Z",
+      "seq": 6420
     },
     {
       "id": "02b2f242",
