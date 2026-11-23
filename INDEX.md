@@ -851,6 +851,7 @@
 - [주전자에 물 넘치게 채워 끓이기](docs/overfilling-the-kettle.md) ([돈과 소비](groups/money.md))
 - [주차 자리 찾아 맴돌기](docs/cruising-for-parking.md) ([길과 운전](groups/roads-and-driving.md))
 - [주차 차량 파손 뒤 연락처 없이 떠나기](docs/leaving-after-hitting-parked-car.md) ([길과 운전](groups/roads-and-driving.md))
+- [죽기 전에 간직한 편지와 기록 없애기](docs/destroying-private-papers-before-death.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [죽은 이에게 말 걸기](docs/talking-to-the-dead.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [죽음 앞의 화해](docs/deathbed-reconciliation.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [죽음 이야기 피하기](docs/avoiding-death-talk.md) ([걱정과 기분](groups/worry-and-mood.md))

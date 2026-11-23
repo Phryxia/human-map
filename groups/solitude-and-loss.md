@@ -46,6 +46,7 @@
 - [이삿날 빈집 둘러보기](../docs/last-look-at-empty-house.md) 이사를 떠나는 사람이 짐을 뺀 빈집을 마지막으로 둘러보며 낯섦과 아쉬움을 느낀다.
 - [장례에서 눈물이 나지 않음](../docs/no-tears-at-funeral.md) 가까운 사람이 죽은 자리에서 눈물이 나지 않는 사람이 그것을 이상하게 여기거나 남들이 자기를 무정하게 볼까 신경 쓴다.
 - [적막해서 TV 켜 두기](../docs/leaving-tv-on-for-company.md) 집에 혼자 있는 사람이 보지 않으면서도 조용함을 피하려고 텔레비전을 켜 둔다.
+- [죽기 전에 간직한 편지와 기록 없애기](../docs/destroying-private-papers-before-death.md) 죽음을 앞둔 사람이 자기가 죽은 뒤 남의 손에 넘어가지 않도록 간직해 온 편지나 일기, 사진을 태운다.
 - [집에 없는 척하기](../docs/pretending-not-to-be-home.md) 집에 있는 사람이 초인종이나 노크를 듣고도 문을 열지 않고 집에 없는 척한다.
 - [초상집 거울 가리기](../docs/covering-mirrors-after-death.md) 사람이 집안에 죽은 이가 생기면 애도하는 동안 집 안의 거울을 덮어 둔다.
 - [향수](../docs/homesickness.md) 고향을 떠난 사람이 두고 온 집과 풍경과 가족을 그리워한다.
