@@ -1,33 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-22T21:29:32.148Z",
-  "nextSeq": 6262,
-  "stops": 332,
+  "savedAt": "2026-11-23T00:27:56.367Z",
+  "nextSeq": 6276,
+  "stops": 333,
   "items": [
-    {
-      "id": "22a91f3f",
-      "title": "cut-off-by-the-tide 보강: 관계, 2004년 이전 시기",
-      "priority": 50,
-      "note": "2026-11-22 Bangor 2023-04-04 파편 추가했다. 같은 보도자료 '38% unaware that the tide typically comes in twice a day'. nation.cymru 2025-10-29 기사 후보. unrealistic-optimism 관계 근거는 아직 없다",
-      "createdAt": "2026-11-22T21:14:34.358Z",
-      "seq": 6252
-    },
-    {
-      "id": "865d9249",
-      "title": "pet-names-between-partners 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 같은 글에 '여보'·'자기' 부부 호칭 목록. 국어원 1999-07 소식지 '여보, 당신이란 말을 쓰기가 어색한' 대목 nknews/199907/12_5.htm",
-      "createdAt": "2026-11-22T21:15:59.911Z",
-      "seq": 6253
-    },
-    {
-      "id": "1c36ebbd",
-      "title": "sexual-fantasy 보강: 문학 파편, imagined-romance 관계",
-      "priority": 50,
-      "note": "2026-11-22 Better Health 2021 공공 파편 추가했다. 후보: Frontiers 2020 fpsyg.2019.02864, 마리끌레르 코리아 2018 ?p=129756. imagined-romance 와 상위 또는 형제 관계 검토",
-      "createdAt": "2026-11-22T21:21:02.614Z",
-      "seq": 6254
-    },
     {
       "id": "2d142153",
       "title": "first-time-sex-anxiety 보강: 공공·문학 파편, fear-of-sexual-rejection 관계",
@@ -77,6 +53,46 @@
       "seq": 6261
     },
     {
+      "id": "bd603169",
+      "title": "recognizing-sender-by-handwriting 보강: 학술 파편, 관계",
+      "priority": 50,
+      "note": "2026-11-23 문학 1860, 매체 2002·2021, SNS 2014. 후보: Journal of Vision 2011 Gerbino·Mattaloni 'Self reference and familiarity in handwriting recognition' 봇 확인 페이지, Cornell LII FRE 901 자문위원회 주석 1972 공공, 경향신문 2001-04-03 우체부와 편지. saving-a-letter-to-open-later 와 관계 검토",
+      "createdAt": "2026-11-23T00:12:51.792Z",
+      "seq": 6269
+    },
+    {
+      "id": "c00be2bb",
+      "title": "averting-gaze-from-strangers 보강: 매체 파편, elevator-silence 관계",
+      "priority": 50,
+      "note": "2026-11-23 문학 1921, SNS 2009, 학술 2022·2023. 후보: 코메디닷컴 2016-06-06 kormedi.com/1219101 뉴욕과 캘리포니아 차이, PMC10508291 Zuckerman 1983 엘리베이터 시선 0.35초. elevator-silence 와 상위 관계 검토",
+      "createdAt": "2026-11-23T00:18:37.664Z",
+      "seq": 6270
+    },
+    {
+      "id": "e068464a",
+      "title": "cut-off-by-the-tide 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-23 Antiquary 1816, ADN 1998 파편 추가했다. Kingsley 'The Sands of Dee' 1849 gutenberg.pglaf.org 11064 후보. 1990년대 한국 기사 못 찾음. unrealistic-optimism 관계 근거 아직 없다",
+      "createdAt": "2026-11-23T00:23:42.816Z",
+      "seq": 6272
+    },
+    {
+      "id": "591c2610",
+      "title": "pet-names-between-partners 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 같은 글에 '여보'·'자기' 부부 호칭 목록. 국어원 1999-07 소식지 '여보, 당신이란 말을 쓰기가 어색한' 대목 nknews/199907/12_5.htm",
+      "createdAt": "2026-11-23T00:23:59.252Z",
+      "seq": 6273
+    },
+    {
+      "id": "43dc203e",
+      "title": "letting-others-win 보강: 2010년 이전 매체",
+      "priority": 50,
+      "note": "2026-11-22 매일신문 2013 접대 골프 칼럼 추가했다. 베이비뉴스 2022-01-10 idxno=101492 후보. 주간경향 2011 article/201110051427101 공직자 골프 접대. 2026-11-23 CSM 2009-11-20 m.csmonitor.com/2009/1120/p09s01-coop.html 'letting children lose had become taboo' 는 져 주기의 반대쪽 근거 후보. CSM Home Forum 1990~2009 'let him win' 검색 유망",
+      "createdAt": "2026-11-23T00:27:54.788Z",
+      "seq": 6275
+    },
+    {
       "id": "0541c530",
       "title": "anxious-self-improvement 보강: 공공 파편, accesson.kr 재확인",
       "priority": 40,
@@ -115,6 +131,14 @@
       "note": "2026-11-22 WaPo 2007 기사 검색 결과 없음(Straight Dope 409762 HTML 에도 링크 없음). 학술 후보 West 2003 Law & Society Review 'Losers' 초록, 재산법연구 2020 유실물법 제10조 검토는 요구 행동을 다루지 않아 뺐다. Cohn 2019 Science civic honesty 의 보상 기대 설문은 science.org 403",
       "createdAt": "2026-11-22T09:34:32.425Z",
       "seq": 6207
+    },
+    {
+      "id": "af73e8fc",
+      "title": "standing-up-right-after-landing 보강: 학술 파편",
+      "priority": 40,
+      "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 13(9) 808 하기 전략 논문은 403. lexpera.com.tr 의 같은 회람 전문에 '일어서고 짐칸을 여는 승객 사례가 크게 늘었다' 대목(같은 출처라 못 씀). 2026-11-23 arXiv 2303.03264 비상 탈출 때 짐 챙기기, PMC7058282 CALM 모형 가정, RePEc Wald 2014 행 순서 하기는 일찍 일어서기를 직접 말하지 않아 버렸다",
+      "createdAt": "2026-11-23T00:25:54.684Z",
+      "seq": 6274
     },
     {
       "id": "8d82229b",
@@ -3291,6 +3315,14 @@
       "note": "2026-11-22 #온라인 태그 보강용. 디지털데일리 2023-03-24 m.ddaily.co.kr/page/view/2023032414124423591 방통위 2022 실태조사 '성인은 재미나 장난(39.2%)', 가해 후 '정당함(45.6%)'. korea.kr 보도자료 newsId=156502578 은 연결 실패. 학술 파편 필요",
       "createdAt": "2026-11-22T21:29:24.194Z",
       "seq": 6260
+    },
+    {
+      "id": "e33d841e",
+      "title": "대중교통에서 스마트폰과 신문으로 시선 막기",
+      "priority": 10,
+      "note": "2026-11-23 averting-gaze-from-strangers 탐색 중 봤다. Diefenbach 외 2024 British Journal of Social Psychology, averting-gaze-from-strangers 와 관계",
+      "createdAt": "2026-11-23T00:18:37.741Z",
+      "seq": 6271
     },
     {
       "id": "02b2f242",
