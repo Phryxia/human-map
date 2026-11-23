@@ -21,6 +21,7 @@
 - [받은 음식 남기기](../docs/leaving-food-on-the-plate.md) 급식이나 식당에서 음식을 받은 사람이 그 음식을 다 먹지 않고 남긴다.
 - [밥 먹으며 책 읽기](../docs/reading-while-eating.md) 밥을 먹는 사람이 식탁에 책이나 신문, 잡지를 펴 두고 먹으면서 읽는다.
 - [배달 음식 시켜 먹기](../docs/ordering-food-delivery.md) 집에 있는 사람이 요리하기 귀찮거나 지쳐서 음식을 배달시켜 먹는다.
+- [배불러도 계속 먹기](../docs/eating-past-fullness.md) 앞에 먹을 것이 있는 사람이 배가 찼는지와 상관없이 먹기를 멈추지 않는다.
 - [봄맞이 대청소](../docs/spring-cleaning.md) 겨울이 지나고 봄이 온 것을 느낀 사람이 집 안의 먼지와 묵은 때를 한꺼번에 치우는 대청소를 한다.
 - [불과 전자제품 켜 두기](../docs/leaving-lights-on.md) 방을 나가거나 기기를 다 쓴 사람이 불이나 전자제품을 끄지 않고 켜 둔다.
 - [상습 지각](../docs/chronic-lateness.md) 약속이나 정해진 시간에 번번이 늦는 사람이 스스로는 제시간에 올 수 있다고 여긴다.

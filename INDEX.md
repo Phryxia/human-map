@@ -369,6 +369,7 @@
 - [방관자 효과](docs/bystander-effect.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [방향지시등 켜지 않기](docs/not-using-turn-signals.md) ([길과 운전](groups/roads-and-driving.md))
 - [배달 음식 시켜 먹기](docs/ordering-food-delivery.md) ([시간과 하루 습관](groups/daily-time.md))
+- [배불러도 계속 먹기](docs/eating-past-fullness.md) ([시간과 하루 습관](groups/daily-time.md))
 - [배송 조회 되풀이하기](docs/checking-parcel-tracking.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [배심원 소환 회피](docs/avoiding-jury-duty.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [배우자 가족 호칭의 어색함](docs/in-law-address-awkwardness.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
