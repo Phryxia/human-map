@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T09:31:44.187Z",
-  "nextSeq": 6378,
-  "stops": 336,
+  "savedAt": "2026-11-23T12:32:30.698Z",
+  "nextSeq": 6381,
+  "stops": 337,
   "items": [
     {
       "id": "90183637",
@@ -51,6 +51,14 @@
       "note": "2026-11-23 매체 2009 CBS, 매체 2020 Calabasas, SNS 2022 블라인드. 매일신문 2007-02-15 2007021516192407047 설 고스톱 사위가 장모에게 잃어 줌, 원문에 실명 있어 다른 대목 필요. calabasasgolf 같은 글 '일부러 퍼팅을 못 하거나 숲으로' 대목",
       "createdAt": "2026-11-23T09:28:16.524Z",
       "seq": 6371
+    },
+    {
+      "id": "409e41ba",
+      "title": "destroying-private-papers-before-death 보강: 학술 파편, 1876 Daniel Deronda 대목",
+      "priority": 50,
+      "note": "2026-11-23 문학 1888 Aspern, 매체 2017 이투데이 브라보, 매체 2023 Sixty and Me. 후보: gutenberg.pglaf.org/7/4/6/7469 Daniel Deronda 'burning a chest and papers looks like a shameful act'(태우려다 그만둠), No Name 1438 1862, Sixty and Me comment-page-3 2024-07-17 댓글. 학술 PMC1615888 노년기 소지품 정리는 reCAPTCHA",
+      "createdAt": "2026-11-23T12:30:57.964Z",
+      "seq": 6380
     },
     {
       "id": "0541c530",
