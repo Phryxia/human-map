@@ -27,6 +27,7 @@
 - [사직 앞의 죄책감](../docs/guilt-about-resigning.md) 직장을 그만두려는 사람이 상사와 동료를 두고 떠나는 일에 죄책감과 불안을 느낀다.
 - [산재 신고 꺼리기](../docs/not-reporting-workplace-injury.md) 일하다 다친 노동자가 불이익이나 동료에게 돌아갈 피해를 걱정해 부상을 회사나 기관에 알리지 않거나 산재 신청을 하지 않는다.
 - [새 일터나 새 학교 첫날의 떨림](../docs/first-day-nerves.md) 새 일터나 새 학교에 처음 나가는 사람이 그날을 앞두거나 겪으며 겁나고 떨린다.
+- [성과를 가로채였을 때의 분함](../docs/credit-stolen-resentment.md) 직장에서 자기가 한 일의 공을 상사나 동료가 가져갔다고 여기는 사람이 분해하거나 억울해한다.
 - [손님의 폭언](../docs/customer-verbal-abuse.md) 손님이나 민원인이 자기를 응대하는 직원이나 공무원에게 소리 지르거나 욕한다.
 - [심리적 계약 위반 지각](../docs/psychological-contract-breach.md) 직원이 회사가 고용 때 약속한 의무를 지키지 않았다고 느끼고 회사를 덜 믿게 된다.
 - [아는 것을 모르는 척하기](../docs/feigning-ignorance.md) 알고 있는 것에 대해 질문이나 요청을 받은 사람이 답하거나 내주지 않으려고 모르는 척한다.
