@@ -1040,6 +1040,7 @@
 - [효과 없는 버튼 누르기](docs/pressing-placebo-buttons.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [후회 회피](docs/regret-aversion.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [훈수 두기](docs/kibitzing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [휴가지에서 대담해지기](docs/holiday-risk-taking.md) ([건강과 위험](groups/health-and-safety.md))
 - [휴대전화 없이 연락이 끊길 두려움](docs/nomophobia.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [휴일에 나타나는 몸의 증상](docs/leisure-sickness.md) ([건강과 위험](groups/health-and-safety.md))
 - [흥정 회피](docs/avoiding-haggling.md) ([돈과 소비](groups/money.md))
