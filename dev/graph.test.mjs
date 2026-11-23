@@ -271,6 +271,7 @@ test('여러 낱말 플랫폼명은 SNS 서지의 실명 꼴로 잡지 않는다
   assert.ok(!bad('Hacker News 댓글'))
   assert.ok(!bad('Berkeley Parents Network 게시글'))
   assert.ok(!bad('Rick Steves Travel Forum 댓글'))
+  assert.ok(!bad('Sixty and Me 댓글'))
   assert.ok(bad('Straight Dope John Smith 게시글'))
   assert.ok(bad('Some Long Forum Name 게시글'))
 })

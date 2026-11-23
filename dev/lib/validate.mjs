@@ -26,7 +26,7 @@ export const BLOG_PATTERNS = [
 // 한 사람이 쓰는 개인 블로그 도메인. 호스트 전체가 계정 하나다. 키는 blog/<호스트>.
 export const PERSONAL_BLOG_DOMAINS = ['spring.org.uk', 'paulspector.com', 'solvingprocrastination.com', 'bobonbooks.com']
 // 여러 낱말로 된 플랫폼명. SNS 서지에서 한 낱말로 보고 실명 꼴 검사를 한다.
-export const MULTIWORD_PLATFORMS = ['Straight Dope Message Board', 'Straight Dope', 'Hacker News', 'Stack Exchange', 'Mumsnet Talk', 'Berkeley Parents Network', 'Rick Steves Travel Forum', 'MoneySavingExpert 포럼', '네이버 지식iN', '네이트 판', '다음 카페']
+export const MULTIWORD_PLATFORMS = ['Straight Dope Message Board', 'Straight Dope', 'Hacker News', 'Stack Exchange', 'Mumsnet Talk', 'Berkeley Parents Network', 'Rick Steves Travel Forum', 'Sixty and Me', 'MoneySavingExpert 포럼', '네이버 지식iN', '네이트 판', '다음 카페']
 const platformToken = b => MULTIWORD_PLATFORMS.reduce((s, p) => s.startsWith(p + ' ') ? 'PLATFORM' + s.slice(p.length) : s, b)
 export const blogAccountOf = url => {
   for (const [name, re] of BLOG_PATTERNS) { const m = re.exec(url); if (m) return `${name}/${m[1].toLowerCase()}` }
