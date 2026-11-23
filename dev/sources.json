@@ -34636,5 +34636,17 @@
     "last": "2026-11-23",
     "result": "VERIFIED",
     "lastVerified": "2026-11-23"
+  },
+  "https://gutenberg.pglaf.org/3/8/386/386-0.txt": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-23"
+  },
+  "https://link.springer.com/article/10.1007/s13158-023-00380-z": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-23"
   }
 }
