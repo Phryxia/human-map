@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-11-23T03:04Z | 2026-11-23T03:29Z | letting-others-win 에 2001년 매체 파편 추가 | letting-others-win
+없음.
