@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T03:30:08.027Z",
-  "nextSeq": 6309,
-  "stops": 334,
+  "savedAt": "2026-11-23T06:32:52.274Z",
+  "nextSeq": 6333,
+  "stops": 335,
   "items": [
-    {
-      "id": "71d03d1e",
-      "title": "cut-off-by-the-tide 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-23 Antiquary 1816, ADN 1998 파편 추가했다. Kingsley 'The Sands of Dee' 1849 gutenberg.pglaf.org 11064 후보. 1990년대 한국 기사 못 찾음. unrealistic-optimism 관계 근거 아직 없다",
-      "createdAt": "2026-11-23T03:18:43.292Z",
-      "seq": 6297
-    },
     {
       "id": "0a5d2e1a",
       "title": "in-law-address-awkwardness 보강: SNS·학술 파편, 2000년대 파편",
@@ -99,6 +91,78 @@
       "note": "2026-11-23 코메디닷컴 2016 매체 파편 추가했다. PMC10508291 Zuckerman 1983 엘리베이터 시선 0.35초 후보. elevator-silence 와 상위 관계 검토",
       "createdAt": "2026-11-23T03:29:57.279Z",
       "seq": 6308
+    },
+    {
+      "id": "7067338f",
+      "title": "kibitzing 보강: 학술 파편, 바둑·장기 훈수",
+      "priority": 50,
+      "note": "2026-11-23 문학 1889, SNS 2025 클리앙, 매체 2026 brunch·MoneySuperMarket. 바둑 대국 중 훈수 금지 규정 출처, 구경꾼 조언 연구 못 찾음",
+      "createdAt": "2026-11-23T06:17:01.534Z",
+      "seq": 6324
+    },
+    {
+      "id": "2ed045c5",
+      "title": "eating-past-fullness 보강: 학술·SNS 파편, clean-plate-pressure·emotional-eating 관계",
+      "priority": 50,
+      "note": "2026-11-23 문학 1935 김유정 떡, 매체 2005 Illinois News Bureau. Wansink 2005 PubMed 15761167 은 쿠키 확인 페이지",
+      "createdAt": "2026-11-23T06:23:27.782Z",
+      "seq": 6325
+    },
+    {
+      "id": "87b108d1",
+      "title": "dozing-off-in-class 보강: 학술·문학 파편, 2000년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-23 매체 2004 Tribune, 매체 2017 THE, SNS 2023 클리앙. 학술 후보 orca.cardiff.ac.uk eprint 123960 PDF. Tom Sawyer 교회 장면은 gutenberg 74 가 4개 문서에서 쓰여 못 씀",
+      "createdAt": "2026-11-23T06:26:06.688Z",
+      "seq": 6326
+    },
+    {
+      "id": "e4a608c1",
+      "title": "caught-between-quarreling-sides 보강: 학술·SNS 파편, mother-in-law-conflict 관계",
+      "priority": 50,
+      "note": "2026-11-23 문학 1925 이효석, 매체 2016 Her Campus, 매체 2025 Psychology Today. sevendaysvt.com 429, mumsnet 봇 확인",
+      "createdAt": "2026-11-23T06:26:06.760Z",
+      "seq": 6327
+    },
+    {
+      "id": "0d419a26",
+      "title": "fear-of-false-suspicion 보강: SNS 파편, fear-of-being-found-out 관계",
+      "priority": 50,
+      "note": "2026-11-23 문학 1926 방정환, 학술 2020 PLoS ONE, 매체 2022 HotCars. 공항 보안 검색 앞 긴장 글 flyertalk 1005",
+      "createdAt": "2026-11-23T06:26:06.824Z",
+      "seq": 6328
+    },
+    {
+      "id": "093acb2b",
+      "title": "tinkering-over-using 보강: 학술 파편, 2000년대 파편",
+      "priority": 50,
+      "note": "2026-11-23 문학 1900 Jerome, SNS 2017 Singletrack, 매체 2019 Outside. 다모앙 bicycle/20787 봇 확인",
+      "createdAt": "2026-11-23T06:26:06.877Z",
+      "seq": 6329
+    },
+    {
+      "id": "90183637",
+      "title": "pretend-play-with-food 보강: SNS·매체 파편",
+      "priority": 50,
+      "note": "2026-11-23 매체 1881 Stevenson, 학술 2023 Int J Early Childhood. guysandstthomas.nhs.uk 'why playing with food is a good thing' 후보",
+      "createdAt": "2026-11-23T06:26:06.931Z",
+      "seq": 6330
+    },
+    {
+      "id": "ffc519ad",
+      "title": "cut-off-by-the-tide 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-23 Antiquary 1816, ADN 1998, Kingsley 1849 파편 추가했다. 1990년대 한국 기사 못 찾음. unrealistic-optimism 관계 근거 아직 없다",
+      "createdAt": "2026-11-23T06:28:36.125Z",
+      "seq": 6331
+    },
+    {
+      "id": "02cf72c5",
+      "title": "witness-fearing-retaliation, not-reporting-for-fear-of-reprisal, reluctant-witness 중복 검토",
+      "priority": 50,
+      "note": "2026-11-23 세 문서 요약이 모두 보복이 두려워 신고나 증언을 꺼림. 합치거나 상하위로 정리",
+      "createdAt": "2026-11-23T06:30:40.400Z",
+      "seq": 6332
     },
     {
       "id": "0541c530",
@@ -3331,6 +3395,22 @@
       "note": "2026-11-23 averting-gaze-from-strangers 탐색 중 봤다. Diefenbach 외 2024 British Journal of Social Psychology, averting-gaze-from-strangers 와 관계",
       "createdAt": "2026-11-23T00:18:37.741Z",
       "seq": 6271
+    },
+    {
+      "id": "d027145b",
+      "title": "뭍에 오르면 뱃멀미한 적 없다고 하기",
+      "priority": 10,
+      "note": "2026-11-23 Three Men in a Boat 1889 ch.III gutenberg.pglaf.org 308 'nobody ever is sea-sick—on land.' 308 은 이미 4개 문서가 써서 다른 출처 필요",
+      "createdAt": "2026-11-23T06:17:01.376Z",
+      "seq": 6322
+    },
+    {
+      "id": "673923d3",
+      "title": "진열장의 물건을 오래 바라보다 사기",
+      "priority": 10,
+      "note": "2026-11-23 Milne Not That It Matters 1919 gutenberg.pglaf.org 5803 'For weeks it looked beseechingly at me from a shop window'. Milne 사후 70년 2027-01 만료. delaying-purchases 와 관계 검토",
+      "createdAt": "2026-11-23T06:17:01.466Z",
+      "seq": 6323
     },
     {
       "id": "02b2f242",
