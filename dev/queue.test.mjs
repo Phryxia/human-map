@@ -133,3 +133,12 @@ test('신호 종료는 저장만 하고 회차를 세지 않는다', async () =>
     assert.equal(saved.items.length, 1)
   } finally { s.server.close() }
 })
+
+test('queue.mjs: --help 와 -h 는 예외 없이 사용법을 출력한다', () => {
+  const script = path.join(path.dirname(new URL(import.meta.url).pathname), 'queue.mjs')
+  for (const flag of ['--help', '-h']) {
+    const r = spawnSync(process.execPath, [script, flag], {encoding: 'utf8'})
+    assert.equal(r.status, 0, r.stderr)
+    assert.match(r.stdout, /^사용법:/)
+  }
+})

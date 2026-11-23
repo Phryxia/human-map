@@ -327,7 +327,7 @@ rebase 충돌이 나면 문서 내용은 원격 쪽을 우선하고 내 변경�
 
 ```bash
 node dev/timer.mjs start --minutes 40 | check
-node dev/queue.mjs push "<이름>" --priority N --note "..." | pop | list | status | stop
+node dev/queue.mjs push "<이름>" --priority N --note "..." | pop | list | rm <id> | status | stop | --help
 node dev/graph.mjs validate | cycles | check-cycle <child> <parent> [--allow-new] | find "<문자열>" | node <id> | roots | tags
 node dev/source-check.mjs <id> | --all | --changed | --stale <일수>
 node dev/style-check.mjs [<id>]

@@ -21,6 +21,7 @@ const HELP = `사용법: node dev/queue.mjs <command> [args] [--json] [--port N]
   stop [--no-commit]                             저장 + git 커밋 + 서버 종료
   status                                         서버 상태와 경과 시간
   start                                          서버 기동만
+  help | --help | -h                             이 사용법
 
 서버가 없으면 push/pop/peek/list/show/remove/save 는 자동으로 서버를 띄운다. stop/status 는 띄우지 않는다.`
 
@@ -30,10 +31,11 @@ const {values: opts, positionals} = parseArgs({
     json: {type: 'boolean', default: false}, port: {type: 'string'}, 'no-spawn': {type: 'boolean', default: false},
     priority: {type: 'string', short: 'p', default: '0'}, note: {type: 'string', short: 'n', default: ''},
     'no-commit': {type: 'boolean', default: false}, limit: {type: 'string'},
+    help: {type: 'boolean', short: 'h', default: false},
   },
 })
 const [cmd, ...args] = positionals
-if (!cmd || cmd === 'help') { console.log(HELP); process.exit(0) }
+if (!cmd || cmd === 'help' || opts.help) { console.log(HELP); process.exit(0) }
 
 const readPortFile = () => { try { return JSON.parse(fs.readFileSync(defaultPortFile(), 'utf8')) } catch { return null } }
 const port = Number(opts.port ?? process.env.HUMANMAP_QUEUE_PORT ?? readPortFile()?.port ?? DEFAULT_PORT)
