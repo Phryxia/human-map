@@ -65,6 +65,7 @@
   - [행복할 때 뒤따를 불행 두려워하기](../docs/fear-of-happiness.md)
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
+    - [입력 중 표시를 보며 애태우기](../docs/typing-indicator-anxiety.md)
 - [빗소리에 마음 놓이기](../docs/rain-sounds-comfort.md) 실내에 있는 사람이 지붕이나 창에 떨어지는 빗소리를 들으며 편안함을 느끼고 잠들 때 빗소리를 일부러 틀기도 한다.
 - [산 채로 묻힐까 두려워하기](../docs/fear-of-premature-burial.md) 어떤 사람은 죽었다는 판정을 잘못 받아 산 채로 묻힐까 두려워한다.
 - [생각 때문에 잠 못 이루기](../docs/lying-awake-thinking.md) 잠자리에 누운 사람이 낮에 겪은 일이나 잠에 대한 걱정을 되풀이해 생각하느라 잠들지 못한다.

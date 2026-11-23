@@ -22,7 +22,7 @@
 
 ## 하위
 
-없음.
+- [입력 중 표시를 보며 애태우기](typing-indicator-anxiety.md)
 
 ## 원인
 
