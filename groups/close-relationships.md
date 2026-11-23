@@ -34,6 +34,7 @@
 - [남의 자식과 내 자식 비교하기](../docs/comparing-children-to-others.md) 부모가 남의 집 아이나 친척 아이를 본보기로 삼아 자기 자녀와 견준다.
 - [내가 죽으면 다들 미안해하리라는 상상](../docs/imagining-others-sorry-at-own-death.md) 서운하거나 억울한 사람이 자기가 죽은 뒤 주변 사람들이 놀라고 슬퍼하고 미안해하는 모습을 상상한다.
 - [노후에 자녀와 따로 살기 바라기](../docs/wanting-to-live-apart-from-children.md) 나이 든 사람이 자녀와 한집에 살기보다 따로 살기를 바란다.
+- [다투는 두 사람 사이에서 편들지 못하기](../docs/caught-between-quarreling-sides.md) 서로 다투는 두 사람이나 두 집안을 함께 아는 사람이 어느 편도 들지 못하고 난처해한다.
 - [대중문화 속 이름으로 아이 이름 짓기](../docs/naming-children-after-pop-culture.md) 부모가 드라마나 영화, 노래 속 인물의 이름을 아이 이름으로 붙인다.
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
   - [길을 잃고도 길 묻지 않기](../docs/not-asking-for-directions.md)
