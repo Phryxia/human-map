@@ -1,57 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T18:28:49.875Z",
-  "nextSeq": 6431,
-  "stops": 339,
+  "savedAt": "2026-11-23T21:39:33.965Z",
+  "nextSeq": 6444,
+  "stops": 340,
   "items": [
-    {
-      "id": "0d57d7bf",
-      "title": "recognizing-sender-by-handwriting 보강: 학술 파편, 관계",
-      "priority": 40,
-      "note": "2026-11-23 아는 사람 손글씨 알아보기 학술 검색 결과 없음. typotheque.com The Familiarity Effect in the Perception of Handwriting 은 매체 후보. AAFS 2020 J9 자기 글씨 알아보기 PDF. 이전: Journal of Vision 2011 봇 확인 페이지",
-      "createdAt": "2026-11-23T09:25:28.430Z",
-      "seq": 6370
-    },
-    {
-      "id": "ad937817",
-      "title": "dozing-off-in-class 보강: 학술·문학 파편, 2000년 이전 파편",
-      "priority": 40,
-      "note": "2026-11-23 후보: edweek 2006-04 NSF 여론조사 청소년 28% 주 1회 이상 수업 중 졸음(매체), insidehighered node/78256 Journal of Adolescent Health 1,125명 15%. PMC7841446 봇 확인 페이지. 이전: orca.cardiff 123960 PDF, gutenberg 74 는 4개 문서에서 씀",
-      "createdAt": "2026-11-23T09:29:43.891Z",
-      "seq": 6374
-    },
-    {
-      "id": "ca236462",
-      "title": "caught-between-quarreling-sides 보강: 학술 파편, mother-in-law-conflict 관계",
-      "priority": 40,
-      "note": "2026-11-23 클리앙 2014 park/6231557 아내와 어머니 사이 글 추가. 학술 파편 없음",
-      "createdAt": "2026-11-23T09:30:27.614Z",
-      "seq": 6375
-    },
-    {
-      "id": "add2fca1",
-      "title": "fear-of-false-suspicion 보강: SNS 파편, fear-of-being-found-out 관계",
-      "priority": 40,
-      "note": "2026-11-23 r/Anticonsumption 1imda17 2025-02 'feel the need to purchase something to not feel like the storekeeper believes that I'm stealing' 는 old.reddit 로그인 벽. boredpanda what-feels-illegal-but-is-not 독자 댓글 후보. 이전: flyertalk 1005",
-      "createdAt": "2026-11-23T09:31:04.008Z",
-      "seq": 6376
-    },
-    {
-      "id": "4d3badb2",
-      "title": "tinkering-over-using 보강: 학술 파편, 2000년대 파편",
-      "priority": 40,
-      "note": "2026-11-23 bikeforums.net 1384478-post51 2005-07 'enjoying working on bikes almost as much as riding' 후보, bikeforums 전체 403. singletrackworld 'who i likes the bikes part of cycling rather than the riding part' 후보(이미 Singletrack 2017 씀, 같은 호스트 다른 글). 이전: 다모앙 bicycle/20787 봇 확인",
-      "createdAt": "2026-11-23T09:31:31.641Z",
-      "seq": 6377
-    },
-    {
-      "id": "323d2ef1",
-      "title": "eating-past-fullness 보강: clean-plate-pressure·emotional-eating 관계",
-      "priority": 40,
-      "note": "2026-11-23 학술 Fay 외 2011 Appetite 추가. 같은 글에 'plate-cleaning occurred at 91% of meals' 대목, clean-plate-pressure 관계 근거 검토. Cornell 2014 92% 연구는 인과 아님",
-      "createdAt": "2026-11-23T15:34:08.491Z",
-      "seq": 6423
-    },
     {
       "id": "8d82229b",
       "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
@@ -187,22 +139,6 @@
       "note": "2026-11-17 HN 18583879 2018-12-02 는 좋아요에 매달려 많이 받을 글을 올린다는 대목으로 확인 행동과의 인과는 없음(pressure-to-get-likes 자체의 SNS 후보). HN Algolia 'keep checking likes pressure', 'obsessively check likes' 결과 없음. 이전: PMC12351196",
       "createdAt": "2026-11-17T21:32:51.085Z",
       "seq": 5509
-    },
-    {
-      "id": "471519d1",
-      "title": "not-wearing-glasses 와 avoiding-aids-that-look-old 관계",
-      "priority": 30,
-      "note": "2026-11-17 Straight Dope 'reading glasses' 'look old' 검색: 666865 #8 2013 목걸이 줄에 달아 늙어 보였다는 대목, 545955 #51 2010 돋보기가 필요해 늙은 느낌이라는 대목, 673633 #249 2013 돋보기를 안 사지만 허영은 아니라는 대목. 늙어 보여 안 쓴다는 인과 대목 없음. 이전: HN 3083304, opticianonline 403",
-      "createdAt": "2026-11-17T21:33:14.639Z",
-      "seq": 5510
-    },
-    {
-      "id": "9150b97e",
-      "title": "not-paying-fines 와 leaving-mail-unopened 관계",
-      "priority": 30,
-      "note": "2026-11-17 Straight Dope 'didn't open the letters fine', 'never opened letters fine court', 'unopened mail fine' 검색에 인과 대목 없음. 이전: Russell Webster 2024 Centre for Justice Innovation 보고서 소개 글",
-      "createdAt": "2026-11-17T21:35:39.193Z",
-      "seq": 5513
     },
     {
       "id": "e6b0773d",
@@ -1115,6 +1051,46 @@
       "note": "후보: creators.yahoo.com spotlight-illusion 2026-03-05 공연장에서 too self-conscious to move. thedecisionlab spotlight-effect 2019-08-16 'Because of the spotlight effect, many people feel uncomfortable doing things alone in public.' 맞는 문서 없음, 신규 현상 큐에 넣음. blushing·사진 회피·헬멧 인과 출처 못 찾음",
       "createdAt": "2026-11-23T15:34:08.565Z",
       "seq": 6424
+    },
+    {
+      "id": "bf946d6b",
+      "title": "caught-between-quarreling-sides 관계: mother-in-law-conflict 원인 간선",
+      "priority": 30,
+      "note": "2026-11-23 학술 Etkin 2014 experts.umn.edu 추가함. 고부갈등 때문에 남편이 중간에 낀다는 인과 문장 미발견. koreascience JAKO198811919387985 1988 'compremiser' 남편 역할 대목(인과 약함). Grych 2004 cambridge 56B6A37C 'more likely to feel triangulated' 후보",
+      "createdAt": "2026-11-23T21:23:54.801Z",
+      "seq": 6439
+    },
+    {
+      "id": "dda481fe",
+      "title": "fear-of-false-suspicion 관계: fear-of-being-found-out 대비",
+      "priority": 30,
+      "note": "2026-11-23 Straight Dope 538343/20 2010-05-05 'I never get nervous about them uncovering the crime that I’m not committing; I just get nervous because they’re cops.' 들킬까 겁내기와 구분하는 대목. 같은 스레드 /17 을 이미 씀(같은 출처). 대립 근거 아님",
+      "createdAt": "2026-11-23T21:26:42.735Z",
+      "seq": 6440
+    },
+    {
+      "id": "d251b701",
+      "title": "eating-past-fullness 관계: emotional-eating 원인 간선",
+      "priority": 30,
+      "note": "2026-11-23 vogue.co.kr 2019/03/11 감정의 허기 '감정적 과식으로 이어지는 경우 배가 더부룩한 데도 계속해서 억지로 음식을 먹곤 하죠' 후보(인과 약함, '정상적인' 평가어). clean-plate-pressure 는 하위로 둠",
+      "createdAt": "2026-11-23T21:32:24.106Z",
+      "seq": 6441
+    },
+    {
+      "id": "13314169",
+      "title": "not-wearing-glasses 와 avoiding-aids-that-look-old 관계",
+      "priority": 30,
+      "note": "2026-11-17 Straight Dope 'reading glasses' 'look old' 검색: 666865 #8 2013 목걸이 줄에 달아 늙어 보였다는 대목, 545955 #51 2010 돋보기가 필요해 늙은 느낌이라는 대목, 673633 #249 2013 돋보기를 안 사지만 허영은 아니라는 대목. 늙어 보여 안 쓴다는 인과 대목 없음. 이전: HN 3083304, opticianonline 403. 2026-11-23 두 문서는 상위 관계가 아니다(안경 안 쓰기의 이유가 여럿). 둘 다의 하위인 '늙어 보여 돋보기 안 쓰기' 문서 후보",
+      "createdAt": "2026-11-23T21:36:36.510Z",
+      "seq": 6442
+    },
+    {
+      "id": "84c58906",
+      "title": "not-paying-fines 와 leaving-mail-unopened 관계",
+      "priority": 30,
+      "note": "2026-11-23 인과 대목 미발견. wrekin.com 2022-10-11 우편물 미루기 칼럼은 fine 없음, wemoney 2026-08 연체료. Papers Past 1937 'HE OPENS NO LETTERS' 본문 미추출, 다시 볼 것. MoneySavingExpert 포럼 'ignored the letters' fine 검색 후보. 이전: 2026-11-17 Straight Dope, Russell Webster 2024",
+      "createdAt": "2026-11-23T21:39:23.370Z",
+      "seq": 6443
     },
     {
       "id": "9634edf0",
@@ -3459,6 +3435,14 @@
       "note": "2026-11-23 매체: foodsafetynews 2025/04/risky-consumer-behaviors-flagged-in-fsa-survey 'Three-quarters of respondents said they would rely on the sniff test', mintel press-centre 67-of-brits-rely-on-their-own-senses, irishnews 2020-03-05 sniff test. 공공 food.gov.uk 보도자료 410. uneasy-eating-past-date-food 와 형제",
       "createdAt": "2026-11-23T18:28:27.792Z",
       "seq": 6430
+    },
+    {
+      "id": "aaa79a4d",
+      "title": "recognizing-sender-by-handwriting 보강: 1929 Osborn 학술서",
+      "priority": 10,
+      "note": "2026-11-23 archive.org questioneddocume00osbo_djvu.txt 'The undisguised and ordinary handwriting of a friend thus becomes to us almost as recognizable as the friend’s face' 2.4MB 라 source-check 타임아웃. 다른 판 필요",
+      "createdAt": "2026-11-23T21:21:49.631Z",
+      "seq": 6438
     },
     {
       "id": "02b2f242",
