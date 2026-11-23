@@ -34744,5 +34744,16 @@
     "last": "2026-11-23",
     "result": "VERIFIED",
     "lastVerified": "2026-11-23"
+  },
+  "https://www.82cook.com/entiz/read.php?bn=15&num=2077545": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "UNREACHABLE"
+  },
+  "https://dergipark.org.tr/tr/pub/dtcfdergisi/article/1531127": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-23"
   }
 }
