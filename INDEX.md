@@ -564,6 +564,7 @@
 - [심적 회계](docs/mental-accounting.md) ([돈과 소비](groups/money.md))
 - [심폐소생술 망설이기](docs/hesitating-to-perform-cpr.md) ([건강과 위험](groups/health-and-safety.md))
 - [써 놓고 내보내지 않기](docs/writing-without-sending.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [쓰기보다 손보기 즐기기](docs/tinkering-over-using.md) ([시간과 하루 습관](groups/daily-time.md))
 - [쓰지 않는 가전 플러그 꽂아 두기](docs/leaving-appliances-plugged-in.md) ([돈과 소비](groups/money.md))
 - [쓰지 않는 구독 유지](docs/unused-subscription.md) ([돈과 소비](groups/money.md))
 - [쓰지 않는 약을 쓰레기통과 변기에 버리기](docs/improper-medicine-disposal.md) ([건강과 위험](groups/health-and-safety.md))
