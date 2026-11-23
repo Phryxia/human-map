@@ -32654,33 +32654,33 @@
   },
   "https://gutenberg.pglaf.org/cache/epub/4085/pg4085.txt": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-23"
   },
   "https://ko.wikisource.org/wiki/%EC%9C%A4%EA%B4%91%ED%98%B8": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-23"
   },
   "https://blogs.loc.gov/folklife/2015/02/moments-with-you-correspondence-in-vhp-collections/": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-23"
   },
   "https://whatsyourgrief.com/photos-of-deceased/": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-23"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13761019/": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-23"
   },
   "https://hangyo.com/mobile/article.html?no=58963": {
     "first": "2026-11-20",
@@ -34478,7 +34478,7 @@
   "https://www.metafilter.com/137535/Dig-out-your-sparkly-pens-again#5465443": {
     "first": "2026-11-23",
     "last": "2026-11-23",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-23"
   },
   "https://spectator.com/article/the-proustian-power-of-handwriting": {
@@ -34979,6 +34979,17 @@
     "lastVerified": "2026-11-23"
   },
   "https://www.gov.uk/government/news/young-brits-failing-to-get-cover-for-adventurous-pursuits-abroad": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-23"
+  },
+  "https://archive.org/download/questioneddocume00osbo/questioneddocume00osbo_djvu.txt": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "UNREACHABLE"
+  },
+  "https://arts.units.it/handle/11368/2702032": {
     "first": "2026-11-23",
     "last": "2026-11-23",
     "result": "VERIFIED",

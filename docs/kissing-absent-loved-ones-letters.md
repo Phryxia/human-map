@@ -28,7 +28,7 @@
 
 ## 원인
 
-없음.
+- [겉봉 글씨로 보낸 사람 알아보기](recognizing-sender-by-handwriting.md)[^1]
 
 ## 결과
 
