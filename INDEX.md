@@ -369,6 +369,7 @@
 - [배달 음식 시켜 먹기](docs/ordering-food-delivery.md) ([시간과 하루 습관](groups/daily-time.md))
 - [배송 조회 되풀이하기](docs/checking-parcel-tracking.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [배심원 소환 회피](docs/avoiding-jury-duty.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [배우자 가족 호칭의 어색함](docs/in-law-address-awkwardness.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [배우자 몰래 비상금 모으기](docs/secret-stash-from-spouse.md) ([돈과 소비](groups/money.md))
 - [배우자에게 재정 정보 숨기기](docs/spouse-financial-concealment.md) ([돈과 소비](groups/money.md))
 - [배터리 부족 불안](docs/low-battery-anxiety.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
