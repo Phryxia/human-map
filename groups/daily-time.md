@@ -22,6 +22,7 @@
 - [밥 먹으며 책 읽기](../docs/reading-while-eating.md) 밥을 먹는 사람이 식탁에 책이나 신문, 잡지를 펴 두고 먹으면서 읽는다.
 - [배달 음식 시켜 먹기](../docs/ordering-food-delivery.md) 집에 있는 사람이 요리하기 귀찮거나 지쳐서 음식을 배달시켜 먹는다.
 - [배불러도 계속 먹기](../docs/eating-past-fullness.md) 앞에 먹을 것이 있는 사람이 배가 찼는지와 상관없이 먹기를 멈추지 않는다.
+  - [접시 비우기 압박](../docs/clean-plate-pressure.md)
 - [봄맞이 대청소](../docs/spring-cleaning.md) 겨울이 지나고 봄이 온 것을 느낀 사람이 집 안의 먼지와 묵은 때를 한꺼번에 치우는 대청소를 한다.
 - [불과 전자제품 켜 두기](../docs/leaving-lights-on.md) 방을 나가거나 기기를 다 쓴 사람이 불이나 전자제품을 끄지 않고 켜 둔다.
 - [상습 지각](../docs/chronic-lateness.md) 약속이나 정해진 시간에 번번이 늦는 사람이 스스로는 제시간에 올 수 있다고 여긴다.
@@ -47,7 +48,6 @@
 - [잠에서 깨어 기지개 켜기](../docs/stretching-on-waking.md) 잠에서 깬 사람이 하품을 하며 몸을 쭉 펴 기지개를 켠다.
 - [잠을 쫓으려고 카페인 마시기](../docs/caffeine-to-stay-awake.md) 잠이 모자라거나 밤늦게까지 깨어 있어야 하는 사람이 졸음을 쫓으려고 커피, 차, 에너지 음료를 마신다.
 - [저녁형 성향](../docs/evening-chronotype.md) 저녁형 성향의 사람이 밤늦게 정신이 맑아지고 아침 일찍 일어나는 일정을 힘들어하며 이 성향이 여러 해 이어진다.
-- [접시 비우기 압박](../docs/clean-plate-pressure.md) 음식을 받은 사람이 배가 불러도 남기면 안 된다는 마음에 접시에 담긴 것을 다 먹는다.
 - [주말 몰아 자기](../docs/weekend-catch-up-sleep.md) 평일에 잠을 덜 잔 사람이 주말이나 연휴에 평소보다 오래 자서 모자란 잠을 메운다.
 - [지나치게 일찍 도착하기](../docs/arriving-too-early.md) 늦을까 마음 쓰는 사람이 정해진 시간보다 한참 앞서 나가거나 깨어 기다린다.
 - [집에서 새 구경하기](../docs/watching-birds-from-home.md) 사람이 자기 집 마당이나 집 안에서 찾아오는 새를 지켜본다.

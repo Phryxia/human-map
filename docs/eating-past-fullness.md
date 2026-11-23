@@ -24,7 +24,7 @@
 
 ## 하위
 
-없음.
+- [접시 비우기 압박](clean-plate-pressure.md)
 
 ## 원인
 
