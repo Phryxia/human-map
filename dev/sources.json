@@ -33907,14 +33907,14 @@
   },
   "https://today.duke.edu/2006/06/socialisolation.html": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://www.index.go.kr/unify/idx-info.do?idxCd=8080": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
-    "result": "VERIFIED",
+    "last": "2026-11-23",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-22"
   },
   "https://www.nbcwashington.com/news/local/lost-cellphones-held-ransom/126154/": {
@@ -33931,9 +33931,9 @@
   },
   "https://scholars.duke.edu/publication/914567": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://news.ycombinator.com/item?id=42112978": {
     "first": "2026-11-22",
@@ -33979,9 +33979,9 @@
   },
   "https://news.ycombinator.com/item?id=31480685": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000194914": {
     "first": "2026-11-22",
@@ -34901,6 +34901,12 @@
     "lastVerified": "2026-11-23"
   },
   "https://www.cfo.com/news/double-dealing-duffers/681485/": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-23"
+  },
+  "https://kormedi.com/1406939/": {
     "first": "2026-11-23",
     "last": "2026-11-23",
     "result": "VERIFIED",
