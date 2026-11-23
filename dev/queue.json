@@ -1,145 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T06:32:52.274Z",
-  "nextSeq": 6333,
-  "stops": 335,
+  "savedAt": "2026-11-23T09:31:44.187Z",
+  "nextSeq": 6378,
+  "stops": 336,
   "items": [
-    {
-      "id": "0a5d2e1a",
-      "title": "in-law-address-awkwardness 보강: SNS·학술 파편, 2000년대 파편",
-      "priority": 50,
-      "note": "2026-11-23 공공 1999 국어원, 매체 2020 Asia Business Daily, 매체 2026 서울신문. 후보: 82cook entiz/read.php?num=135299 2004 댓글 '서방님이라고 부를땐 너무 어색해요' 타임아웃. 다음뉴스 2021-02-12 v/20210212091424850 호칭 바꾸자는 말 꺼내기 어려움. pet-names-between-partners 와 관계 검토",
-      "createdAt": "2026-11-23T03:26:46.333Z",
-      "seq": 6298
-    },
-    {
-      "id": "35db8358",
-      "title": "pet-names-between-partners 보강: 관계",
-      "priority": 50,
-      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 2026-11-23 국어원 1999-07 nknews/199907/12_5.htm 의 '여보, 당신이란 말을 쓰기가 어색한' 문장은 같은 문장에 사람 이름이 있어 못 쓴다. 같은 글은 in-law-address-awkwardness [^1] 로 씀",
-      "createdAt": "2026-11-23T03:26:58.500Z",
-      "seq": 6299
-    },
-    {
-      "id": "cc0c0ec9",
-      "title": "letting-others-win 관계",
-      "priority": 50,
-      "note": "2026-11-23 CSM 2001 Klose 'Our winning one-on-ones' 추가했다. CSM 1994 22172.html 'Turning the Tables In Father-Son Tennis' 는 아들에게 진 이야기. 베이비뉴스 2022-01-10 idxno=101492, CSM 2009 'letting children lose had become taboo' 후보",
-      "createdAt": "2026-11-23T03:28:26.465Z",
-      "seq": 6300
-    },
-    {
-      "id": "e1667576",
-      "title": "first-time-sex-anxiety 보강: 문학 파편, fear-of-sexual-rejection 관계",
-      "priority": 50,
-      "note": "2026-11-23 North Tyneside 공공 안내문 발행일 미상 추가했다. Devon NHS·wchc.nhs.uk 는 첫 경험이 아닌 일반 긴장 서술. playsafe.health.nsw.gov.au 403. Sons and Lovers 1913 맞지 않음",
-      "createdAt": "2026-11-23T03:28:37.614Z",
-      "seq": 6301
-    },
-    {
-      "id": "b76a4ddb",
-      "title": "typing-indicator-anxiety 보강: 2010년 이전 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-23 매체 2016 Ringer, SNS 2017 explainxkcd, 학술 2021 PMC8913456. Ringer 가 2014 NYT Jessica Bennett 칼럼 언급. Iftikhar 외 CHI 2023 은 PDF·ACM 뿐",
-      "createdAt": "2026-11-23T03:29:33.434Z",
-      "seq": 6302
-    },
-    {
-      "id": "085f16d0",
-      "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
-      "priority": 50,
-      "note": "2026-11-22 문학 1985, 매체 2015, SNS 2025. 후보: distractify 2023-09-27, watt-evans.com/blog/?p=1058 2017, GQ Korea 2024-10-14 ?p=303453. 2026-11-23 연인 외모 변화 알아채기 학술 검색 결과 없음. Frontiers 2024 fpsyg.2023.1294660 은 머리와 성생활 빈도라 맞지 않음",
-      "createdAt": "2026-11-23T03:29:56.870Z",
-      "seq": 6303
-    },
-    {
-      "id": "2084ab45",
-      "title": "overclaiming-own-contribution 관계: 원인·결과 근거",
-      "priority": 50,
-      "note": "2026-11-23 self-serving-justification 과의 관계는 근거 파편 없음. 집안일 분담 다툼 문서 없음. TODAY 2015, NPR 2005 transcripts/4662116 후보. credit-stolen-resentment 와 관계 검토",
-      "createdAt": "2026-11-23T03:29:56.938Z",
-      "seq": 6304
-    },
-    {
-      "id": "3abf53a4",
-      "title": "vaccine-hesitancy 보강: 이유별 하위",
-      "priority": 50,
-      "note": "2026-11-22 fear-of-needles 원인 간선 넣었다. 차혜경 2013 '예방접종 불신형, 부작용 염려형, 불필요형' 세 유형. WHO 2019 ten threats 'complacency, inconvenience, lack of confidence'",
-      "createdAt": "2026-11-23T03:29:57.008Z",
-      "seq": 6305
-    },
-    {
-      "id": "18835d99",
-      "title": "credit-stolen-resentment 보강: 2010년 이전 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-23 매체 2017 Fox Business, 학술 2022 PMC8895274, 매체 2026 위키트리. 후보: newswire.ca 2009-11-10 OfficeTeam 'a coworker has taken credit for their idea' 58% Cloudflare 막힘. overclaiming-own-contribution, passed-over-for-promotion 과 관계 검토",
-      "createdAt": "2026-11-23T03:29:57.081Z",
-      "seq": 6306
-    },
-    {
-      "id": "33f40370",
-      "title": "recognizing-sender-by-handwriting 보강: 학술 파편, 관계",
-      "priority": 50,
-      "note": "2026-11-23 문학 1860, 매체 2002·2021, SNS 2014. Cornell LII FRE 901 자문위원회 주석 1972 문장은 200자 넘고 감정 없음. Journal of Vision 2011 Gerbino·Mattaloni 봇 확인 페이지. saving-a-letter-to-open-later 와 관계 검토",
-      "createdAt": "2026-11-23T03:29:57.183Z",
-      "seq": 6307
-    },
-    {
-      "id": "6c8f34e1",
-      "title": "averting-gaze-from-strangers 관계: elevator-silence",
-      "priority": 50,
-      "note": "2026-11-23 코메디닷컴 2016 매체 파편 추가했다. PMC10508291 Zuckerman 1983 엘리베이터 시선 0.35초 후보. elevator-silence 와 상위 관계 검토",
-      "createdAt": "2026-11-23T03:29:57.279Z",
-      "seq": 6308
-    },
-    {
-      "id": "7067338f",
-      "title": "kibitzing 보강: 학술 파편, 바둑·장기 훈수",
-      "priority": 50,
-      "note": "2026-11-23 문학 1889, SNS 2025 클리앙, 매체 2026 brunch·MoneySuperMarket. 바둑 대국 중 훈수 금지 규정 출처, 구경꾼 조언 연구 못 찾음",
-      "createdAt": "2026-11-23T06:17:01.534Z",
-      "seq": 6324
-    },
-    {
-      "id": "2ed045c5",
-      "title": "eating-past-fullness 보강: 학술·SNS 파편, clean-plate-pressure·emotional-eating 관계",
-      "priority": 50,
-      "note": "2026-11-23 문학 1935 김유정 떡, 매체 2005 Illinois News Bureau. Wansink 2005 PubMed 15761167 은 쿠키 확인 페이지",
-      "createdAt": "2026-11-23T06:23:27.782Z",
-      "seq": 6325
-    },
-    {
-      "id": "87b108d1",
-      "title": "dozing-off-in-class 보강: 학술·문학 파편, 2000년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-23 매체 2004 Tribune, 매체 2017 THE, SNS 2023 클리앙. 학술 후보 orca.cardiff.ac.uk eprint 123960 PDF. Tom Sawyer 교회 장면은 gutenberg 74 가 4개 문서에서 쓰여 못 씀",
-      "createdAt": "2026-11-23T06:26:06.688Z",
-      "seq": 6326
-    },
-    {
-      "id": "e4a608c1",
-      "title": "caught-between-quarreling-sides 보강: 학술·SNS 파편, mother-in-law-conflict 관계",
-      "priority": 50,
-      "note": "2026-11-23 문학 1925 이효석, 매체 2016 Her Campus, 매체 2025 Psychology Today. sevendaysvt.com 429, mumsnet 봇 확인",
-      "createdAt": "2026-11-23T06:26:06.760Z",
-      "seq": 6327
-    },
-    {
-      "id": "0d419a26",
-      "title": "fear-of-false-suspicion 보강: SNS 파편, fear-of-being-found-out 관계",
-      "priority": 50,
-      "note": "2026-11-23 문학 1926 방정환, 학술 2020 PLoS ONE, 매체 2022 HotCars. 공항 보안 검색 앞 긴장 글 flyertalk 1005",
-      "createdAt": "2026-11-23T06:26:06.824Z",
-      "seq": 6328
-    },
-    {
-      "id": "093acb2b",
-      "title": "tinkering-over-using 보강: 학술 파편, 2000년대 파편",
-      "priority": 50,
-      "note": "2026-11-23 문학 1900 Jerome, SNS 2017 Singletrack, 매체 2019 Outside. 다모앙 bicycle/20787 봇 확인",
-      "createdAt": "2026-11-23T06:26:06.877Z",
-      "seq": 6329
-    },
     {
       "id": "90183637",
       "title": "pretend-play-with-food 보강: SNS·매체 파편",
@@ -157,12 +21,36 @@
       "seq": 6331
     },
     {
-      "id": "02cf72c5",
-      "title": "witness-fearing-retaliation, not-reporting-for-fear-of-reprisal, reluctant-witness 중복 검토",
+      "id": "0a8828ea",
+      "title": "in-law-address-awkwardness 보강: 82cook 댓글 미확인",
       "priority": 50,
-      "note": "2026-11-23 세 문서 요약이 모두 보복이 두려워 신고나 증언을 꺼림. 합치거나 상하위로 정리",
-      "createdAt": "2026-11-23T06:30:40.400Z",
-      "seq": 6332
+      "note": "2026-11-23 82cook num=2077545 댓글 프록시 ECONNRESET 로 미확인. 대안 num=1950855 '걍 안 불러요 그 호칭 입에 올려야 할 상황을 극도로 피합니다.' 같은 호스트. 학술 이필영·김태경 2018 사회언어학 26(1) scholarworks.bwise.kr/erica/handle/2021.sw.erica/7498 후보",
+      "createdAt": "2026-11-23T09:13:15.904Z",
+      "seq": 6357
+    },
+    {
+      "id": "06cf0501",
+      "title": "pet-names-between-partners 보강: 관계",
+      "priority": 50,
+      "note": "2026-11-22 1987 국어생활 공공 파편 추가했다. 2026-11-23 국어원 1999-07 12_5.htm 은 사람 이름 문제로 못 씀. 같은 글은 in-law-address-awkwardness [^1] 로 씀",
+      "createdAt": "2026-11-23T09:13:24.417Z",
+      "seq": 6358
+    },
+    {
+      "id": "b0cbed93",
+      "title": "first-time-sex-anxiety 보강: 문학 파편, fear-of-sexual-rejection 관계",
+      "priority": 50,
+      "note": "2026-11-23 상위 sexual-performance-anxiety 를 새로 걸었다. 문학 파편은 아직 없다",
+      "createdAt": "2026-11-23T09:19:29.963Z",
+      "seq": 6359
+    },
+    {
+      "id": "a07474e2",
+      "title": "letting-superiors-win 보강: 한국어 파편, 학술 파편",
+      "priority": 50,
+      "note": "2026-11-23 매체 2009 CBS, 매체 2020 Calabasas, SNS 2022 블라인드. 매일신문 2007-02-15 2007021516192407047 설 고스톱 사위가 장모에게 잃어 줌, 원문에 실명 있어 다른 대목 필요. calabasasgolf 같은 글 '일부러 퍼팅을 못 하거나 숲으로' 대목",
+      "createdAt": "2026-11-23T09:28:16.524Z",
+      "seq": 6371
     },
     {
       "id": "0541c530",
@@ -171,14 +59,6 @@
       "note": "2026-11-22 03:15Z 재확인도 accesson.kr 타임아웃. 공공 검색(한국고용정보원, 서울연구원, korea.kr) 결과 자기계발 불안 대목 없음",
       "createdAt": "2026-11-22T03:20:17.763Z",
       "seq": 6146
-    },
-    {
-      "id": "915fc7df",
-      "title": "standing-up-right-after-landing 보강: 학술 파편",
-      "priority": 40,
-      "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 13(9) 808 하기 전략 논문은 403. lexpera.com.tr 의 같은 회람 전문에 '일어서고 짐칸을 여는 승객 사례가 크게 늘었다' 대목(같은 출처라 못 씀)",
-      "createdAt": "2026-11-22T03:22:07.785Z",
-      "seq": 6147
     },
     {
       "id": "2aebb3e1",
@@ -205,12 +85,92 @@
       "seq": 6207
     },
     {
-      "id": "af73e8fc",
+      "id": "0956f3c7",
+      "title": "hurt-when-new-look-goes-unnoticed 보강: 학술 파편, spotlight-effect·sulking 관계",
+      "priority": 40,
+      "note": "2026-11-23 후보: Psychology Today 1998-09 'In the Spotlight' articles/199809/in-the-spotlight 의 Bad Hair Day 연구 서술, Gilovich 외 2000 pubmed 10707330. 둘 다 연인이 아닌 남이 알아채는지라 spotlight-effect 관계 근거로만 검토. 기존 후보: distractify 2023-09-27, GQ Korea 2024-10-14 ?p=303453",
+      "createdAt": "2026-11-23T09:21:03.650Z",
+      "seq": 6361
+    },
+    {
+      "id": "44d99c12",
       "title": "standing-up-right-after-landing 보강: 학술 파편",
       "priority": 40,
-      "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 13(9) 808 하기 전략 논문은 403. lexpera.com.tr 의 같은 회람 전문에 '일어서고 짐칸을 여는 승객 사례가 크게 늘었다' 대목(같은 출처라 못 씀). 2026-11-23 arXiv 2303.03264 비상 탈출 때 짐 챙기기, PMC7058282 CALM 모형 가정, RePEc Wald 2014 행 순서 하기는 일찍 일어서기를 직접 말하지 않아 버렸다",
-      "createdAt": "2026-11-23T00:25:54.684Z",
-      "seq": 6274
+      "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 13(9) 808 은 403. lexpera.com.tr 회람 전문은 같은 출처라 못 씀. 2026-11-23 arXiv 2303.03264, PMC7058282 CALM 모형, RePEc Wald 2014 는 일찍 일어서기를 직접 말하지 않아 버렸다",
+      "createdAt": "2026-11-23T09:21:37.026Z",
+      "seq": 6362
+    },
+    {
+      "id": "66dca861",
+      "title": "kibitzing 보강: 학술 파편, 바둑·장기 훈수",
+      "priority": 40,
+      "note": "2026-11-23 Charlton·Starkey 2020 Co-driving: Passenger actions and distractions, AAP 10.1016/j.aap.2020.105624 후보. sciencedirect 403, pubmed reCAPTCHA, waikato researchcommons 는 PDF. 이전: 바둑 훈수 금지 규정·구경꾼 조언 연구 못 찾음",
+      "createdAt": "2026-11-23T09:23:01.656Z",
+      "seq": 6364
+    },
+    {
+      "id": "24b86864",
+      "title": "sexual-performance-anxiety 보강: SNS·공공 파편",
+      "priority": 40,
+      "note": "2026-11-23 학술 2019·2024, 매체 1996·2018 있음. uhbristol.nhs.uk 정신성 클리닉 안내는 일반 불안 서술이라 맞지 않음. patient.info 20·30대 발기부전 글에 불안 되먹임 서술 후보(매체). spokesman 1996 'Men who are afraid to perform pull away from intimacy' 결과 간선 후보",
+      "createdAt": "2026-11-23T09:24:24.489Z",
+      "seq": 6366
+    },
+    {
+      "id": "03734668",
+      "title": "credit-stolen-resentment 보강: 2010년 이전 파편, 관계",
+      "priority": 40,
+      "note": "2026-11-23 wbjournal OfficeTeam 2009 기사는 열리나 아이디어 도용 경험만 말하고 분함은 없음. askamanager 2010-02 my-coworker-is-taking-credit-for-my 는 Cloudflare 403. reliableplant Articles/Print/20473 2009 후보. 이전: newswire.ca 2009-11-10 Cloudflare. overclaiming-own-contribution, passed-over-for-promotion 관계 검토",
+      "createdAt": "2026-11-23T09:25:12.907Z",
+      "seq": 6369
+    },
+    {
+      "id": "0d57d7bf",
+      "title": "recognizing-sender-by-handwriting 보강: 학술 파편, 관계",
+      "priority": 40,
+      "note": "2026-11-23 아는 사람 손글씨 알아보기 학술 검색 결과 없음. typotheque.com The Familiarity Effect in the Perception of Handwriting 은 매체 후보. AAFS 2020 J9 자기 글씨 알아보기 PDF. 이전: Journal of Vision 2011 봇 확인 페이지",
+      "createdAt": "2026-11-23T09:25:28.430Z",
+      "seq": 6370
+    },
+    {
+      "id": "def5d85a",
+      "title": "eating-past-fullness 보강: clean-plate-pressure·emotional-eating 관계",
+      "priority": 40,
+      "note": "2026-11-23 학술 Fay 외 2011 Appetite 추가. 같은 글에 'plate-cleaning occurred at 91% of meals' 대목, clean-plate-pressure 관계 근거 검토",
+      "createdAt": "2026-11-23T09:29:18.791Z",
+      "seq": 6373
+    },
+    {
+      "id": "ad937817",
+      "title": "dozing-off-in-class 보강: 학술·문학 파편, 2000년 이전 파편",
+      "priority": 40,
+      "note": "2026-11-23 후보: edweek 2006-04 NSF 여론조사 청소년 28% 주 1회 이상 수업 중 졸음(매체), insidehighered node/78256 Journal of Adolescent Health 1,125명 15%. PMC7841446 봇 확인 페이지. 이전: orca.cardiff 123960 PDF, gutenberg 74 는 4개 문서에서 씀",
+      "createdAt": "2026-11-23T09:29:43.891Z",
+      "seq": 6374
+    },
+    {
+      "id": "ca236462",
+      "title": "caught-between-quarreling-sides 보강: 학술 파편, mother-in-law-conflict 관계",
+      "priority": 40,
+      "note": "2026-11-23 클리앙 2014 park/6231557 아내와 어머니 사이 글 추가. 학술 파편 없음",
+      "createdAt": "2026-11-23T09:30:27.614Z",
+      "seq": 6375
+    },
+    {
+      "id": "add2fca1",
+      "title": "fear-of-false-suspicion 보강: SNS 파편, fear-of-being-found-out 관계",
+      "priority": 40,
+      "note": "2026-11-23 r/Anticonsumption 1imda17 2025-02 'feel the need to purchase something to not feel like the storekeeper believes that I'm stealing' 는 old.reddit 로그인 벽. boredpanda what-feels-illegal-but-is-not 독자 댓글 후보. 이전: flyertalk 1005",
+      "createdAt": "2026-11-23T09:31:04.008Z",
+      "seq": 6376
+    },
+    {
+      "id": "4d3badb2",
+      "title": "tinkering-over-using 보강: 학술 파편, 2000년대 파편",
+      "priority": 40,
+      "note": "2026-11-23 bikeforums.net 1384478-post51 2005-07 'enjoying working on bikes almost as much as riding' 후보, bikeforums 전체 403. singletrackworld 'who i likes the bikes part of cycling rather than the riding part' 후보(이미 Singletrack 2017 씀, 같은 호스트 다른 글). 이전: 다모앙 bicycle/20787 봇 확인",
+      "createdAt": "2026-11-23T09:31:31.641Z",
+      "seq": 6377
     },
     {
       "id": "8d82229b",
@@ -267,14 +227,6 @@
       "note": "2026-11-16 1970 Mainardi, 허프포스트코리아 261009 파편 추가함. HN 140974 2008 댓글 'do it so badly' 와 Car Talk 'theory of planned incompetence for husbands' 별칭 후보. SBS N1008691158 2026-08 무기화된 무능력 Q&A 후보",
       "createdAt": "2026-11-16T21:21:14.509Z",
       "seq": 5376
-    },
-    {
-      "id": "aac5cd17",
-      "title": "skipping-malaria-prophylaxis 보강: stopping-medication-when-feeling-better 상위 관계",
-      "priority": 30,
-      "note": "2026-11-16 MMWR 00044294 1996, HN 5601132 2013 파편 추가함. HN 17592207 2018 말라론 6개월 뒤 끊음 후보. MMWR 00049647 1997 '257 (53%) had not taken chemoprophylaxis' 후보",
-      "createdAt": "2026-11-16T21:24:22.016Z",
-      "seq": 5377
     },
     {
       "id": "42784158",
@@ -1189,6 +1141,30 @@
       "seq": 6227
     },
     {
+      "id": "8d956b0c",
+      "title": "typing-indicator-anxiety 보강: 2010년 이전 파편",
+      "priority": 30,
+      "note": "2026-11-23 New Republic 2014 추가했다. 2010년 이전 메신저 입력 중 표시 글 못 찾음. 후보: Glushakow 2007 석사논문 interruptions.net PDF, Camerini 외 2022 Frontiers fpsyg.2022.840845 입력 중 표시 피부전도 실험",
+      "createdAt": "2026-11-23T09:20:44.022Z",
+      "seq": 6360
+    },
+    {
+      "id": "4a50656c",
+      "title": "overclaiming-own-contribution 관계: 원인·결과 근거",
+      "priority": 30,
+      "note": "2026-11-23 다시 봄. 파편 6개 가운데 원인·결과를 말하는 것 없음. credit-stolen-resentment·self-serving-justification 모두 근거 없음. TODAY 2015, NPR 2005 transcripts/4662116 후보",
+      "createdAt": "2026-11-23T09:22:12.511Z",
+      "seq": 6363
+    },
+    {
+      "id": "1d338296",
+      "title": "elevator-silence 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-23 averting-gaze-from-strangers 상위 검토했으나 말 멈추기를 포함해 하위가 아님. PMC10508291 Zuckerman 1983 엘리베이터 시선 0.35초 후보",
+      "createdAt": "2026-11-23T09:28:24.157Z",
+      "seq": 6372
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1819,6 +1795,14 @@
       "note": "2026-11-20 상위 관계 아님(형편을 넘는 대접과 지위를 보이려는 잔치는 서로 특수한 경우가 아님). 지위를 보이려고 형편을 넘겨 잔치를 벌였다는 인과 대목이 있어야 원인 간선. 이전: hosting-beyond-means [^3] Rao 2001, jhr.uwpress.org/content/39/3/675 는 같은 글의 다른 판",
       "createdAt": "2026-11-20T21:33:22.961Z",
       "seq": 5962
+    },
+    {
+      "id": "c4b2f622",
+      "title": "skipping-malaria-prophylaxis 관계",
+      "priority": 20,
+      "note": "2026-11-23 stopping-medication-when-feeling-better 의 하위가 아니다(증상 호전이 아닌 예방약). 상위 후보 없음. MMWR 00049647 1997 '257 (53%) had not taken chemoprophylaxis' 후보",
+      "createdAt": "2026-11-23T09:23:15.529Z",
+      "seq": 6365
     },
     {
       "id": "9c55db6a",
@@ -3411,6 +3395,22 @@
       "note": "2026-11-23 Milne Not That It Matters 1919 gutenberg.pglaf.org 5803 'For weeks it looked beseechingly at me from a shop window'. Milne 사후 70년 2027-01 만료. delaying-purchases 와 관계 검토",
       "createdAt": "2026-11-23T06:17:01.466Z",
       "seq": 6323
+    },
+    {
+      "id": "d2792e4f",
+      "title": "백신 부작용이 걱정되어 접종 미루기",
+      "priority": 10,
+      "note": "2026-11-23 vaccine-hesitancy 하위 후보. 차혜경 2013 '부작용 염려형' 유형",
+      "createdAt": "2026-11-23T09:24:39.750Z",
+      "seq": 6367
+    },
+    {
+      "id": "e96fda37",
+      "title": "접종이 필요 없다고 여겨 맞지 않기",
+      "priority": 10,
+      "note": "2026-11-23 vaccine-hesitancy 하위 후보. 차혜경 2013 '불필요형', WHO 2019 ten threats 'complacency'",
+      "createdAt": "2026-11-23T09:24:39.835Z",
+      "seq": 6368
     },
     {
       "id": "02b2f242",
