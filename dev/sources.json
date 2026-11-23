@@ -34105,33 +34105,33 @@
   },
   "https://api.parliament.uk/historic-hansard/commons/2004/feb/09/morecambe-bay-deaths": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://api.parliament.uk/historic-hansard/written-answers/2004/may/27/rescue-operations-morecambe-bay": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://m.korea.kr/news/cultureColumnView.do?newsId=148873884": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-22"
   },
   "https://www.cogitatiopress.com/oceanandsociety/article/view/9793": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://www.khan.co.kr/article/202604292130005/": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://api.parliament.uk/historic-hansard/written-answers/2002/jun/17/cycling": {
     "first": "2026-11-22",
@@ -34411,9 +34411,9 @@
   },
   "https://www.bangor.ac.uk/sos/news/bangor-university-research-informs-rnli-safety-warning": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-23",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-23"
   },
   "https://www.korean.go.kr/nkview/nklife/1987_3/10_6.html": {
     "first": "2026-11-22",
@@ -34506,6 +34506,18 @@
     "lastVerified": "2026-11-23"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10508291/": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-23"
+  },
+  "https://gutenberg.pglaf.org/7/0/0/7005/7005-h/7005-h.htm": {
+    "first": "2026-11-23",
+    "last": "2026-11-23",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-23"
+  },
+  "https://adn.com/alaska-news/2023/05/22/its-not-a-playground-mud-flats-can-be-safe-adventure-theyre-also-deadly": {
     "first": "2026-11-23",
     "last": "2026-11-23",
     "result": "VERIFIED",
