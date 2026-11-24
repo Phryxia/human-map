@@ -1,9 +1,33 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T03:37:37.890Z",
-  "nextSeq": 6465,
-  "stops": 342,
+  "savedAt": "2026-11-24T06:35:39.257Z",
+  "nextSeq": 6471,
+  "stops": 343,
   "items": [
+    {
+      "id": "e482e7f2",
+      "title": "waiting-for-the-postman 보강: 학술 파편과 관계",
+      "priority": 50,
+      "note": "2026-11-24 학술 파편 없음. 후보: nationalww2museum.org/node/1842 2018-03-07 'waiting on the mail was a constant preoccupation', Tess(Gutenberg 110) 'She watched till the postman passed by'. waiting-for-a-reply 의 하위 여부 검토. Gissing 1709, Villette 9182 는 이미 4개 문서가 써서 피함",
+      "createdAt": "2026-11-24T06:15:44.679Z",
+      "seq": 6468
+    },
+    {
+      "id": "ea24ae9e",
+      "title": "sniff-testing-past-date-food 와 uneasy-eating-past-date-food, discarding-food-by-date-label 대립",
+      "priority": 50,
+      "note": "2026-11-24 추가 때 관계 근거 없음. FSA science.food.gov.uk/article/158620 2026-03-27 'Past experience and ingrained habits reinforced the perception that eating food past its use-by date was low risk' 는 원인 후보(경험·습관). Mintel 2015-07-13 67% 대목은 205자라 못 씀. 학술 HTML 파편 없음",
+      "createdAt": "2026-11-24T06:24:53.035Z",
+      "seq": 6469
+    },
+    {
+      "id": "43340e5f",
+      "title": "laughing-at-own-jokes 보강: 학술 파편, laughing-at-the-bosss-jokes 관계",
+      "priority": 50,
+      "note": "2026-11-24 Provine 1993 Ethology 'Laughter punctuates speech' 초록은 Wiley 봇 확인. apa.org/monitor/jun06/laughing 본문 추출 실패. Pickwick 580 의 Buzfuz 'paused in this place, to see whether the jury smiled at his joke' 는 농담 뒤 반응 살피기 후보",
+      "createdAt": "2026-11-24T06:35:27.699Z",
+      "seq": 6470
+    },
     {
       "id": "70e0e1bb",
       "title": "startled-by-doorbell 보강: pretending-not-to-be-home 관계",
