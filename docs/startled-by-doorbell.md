@@ -38,7 +38,7 @@
 
 ## 결과
 
-없음.
+- [집에 없는 척하기](pretending-not-to-be-home.md)[^7]
 
 ## 대립
 

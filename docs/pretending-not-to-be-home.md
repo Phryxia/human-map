@@ -18,7 +18,7 @@
 
 2017년 게시글[^6]의 글쓴이는 창으로 누가 왔는지 보이지 않으면 문을 열지 않는다고 썼다. 2022년 칼럼[^7]의 글쓴이는 요즘 초인종이 울리면 모두 얼어붙고 몸을 낮춰 누구인지 확실히 알 때까지 집에 없는 척한다고 쓴다.
 
-2024년 YouGov 기사[^8]는 나이가 어린 성인일수록 문을 덜 연다고 적는다. 2026년 캐나다 조사 보도[^10]에서는 기다리는 사람이 없으면 아예 문을 열지 않는다는 응답이 55세 이상에서 34%, 18\~34세에서 20%였다.
+2024년 YouGov 기사[^8]는 나이가 어린 성인일수록 문을 덜 연다고 적는다. 2025년 8월 글[^10]은 초인종과 노크 소리가 많은 사람에게 공황과 함께 당장 숨고 싶은 마음을 일으킨다고 썼다. 2026년 캐나다 조사 보도[^11]에서는 기다리는 사람이 없으면 아예 문을 열지 않는다는 응답이 55세 이상에서 34%, 18\~34세에서 20%였다.
 
 # 관계
 
@@ -32,7 +32,7 @@
 
 ## 원인
 
-없음.
+- [초인종 소리에 겁먹기](startled-by-doorbell.md)[^10]
 
 ## 결과
 
@@ -53,4 +53,5 @@
 [^7]: [매체] "Nowadays, when the doorbell rings, everybody freezes. Then we all get down and pretend we’re not home until we know for sure who it is." (요즘은 초인종이 울리면 모두 얼어붙는다. 그러고는 다 같이 몸을 낮추고 누구인지 확실히 알 때까지 집에 없는 척한다.) — Mordechai Schmutter, "Who's at the door?", The Jewish Link, 2022-12-29, https://jewishlink.news/who-s-at-the-door/, 2026-10-21 접속
 [^8]: [매체] "The younger the adult, the less likely they are to answer the door." (성인은 나이가 어릴수록 문을 열 가능성이 낮다.) — "Who answers the door anymore?", YouGov, 2024-07-17, https://yougov.com/en-us/articles/50105-who-answers-the-door-anymore-knocking-and-neighbors-ding-dong-ditch-poll, 2026-10-21 접속
 [^9]: [매체] "하도 종교에서 많이 와서 벨 누르면 대답하기 싫은데요." — 이음, 「벨 누르면 조심하세요」, 브런치, 2025-04-23, https://brunch.co.kr/@efseo2/1675, 2026-10-22 접속
-[^10]: [매체] "34% of those aged 55+ say they won’t answer at all if they aren’t expecting anyone compared to only 20% young adults aged 18-34." (55세 이상의 34%는 기다리는 사람이 없으면 아예 응답하지 않는다고 답했고 18\~34세 젊은 성인은 20%에 그쳤다.) — Ipsos, 「Knock, Knock… Who’s There? Most Older Canadians Aren’t Taking Chances」, Ipsos, 2026-03-02, https://www.ipsos.com/en-ca/knock-knock-whos-there-most-older-canadians-arent-taking-chances, 2026-10-22 접속
+[^10]: [매체] "For many people, these sounds trigger an immediate and overwhelming wave of panic—racing heart, sweaty palms, shallow breathing, and an urgent desire to hide." (많은 사람에게 이 소리는 즉각적이고 압도적인 공황을 일으킨다. 심장이 뛰고, 손에 땀이 나고, 숨이 얕아지고, 당장 숨고 싶어진다.) — Klarity Editorial Team, "Why Your Heart Races at Every Door Knock: Understanding and Managing Doorbell Anxiety", Klarity Health, 2025-08-18, https://www.helloklarity.com/post/why-your-heart-races-at-every-door-knock-understanding-and-managing-doorbell-anxiety, 2026-11-24 접속
+[^11]: [매체] "34% of those aged 55+ say they won’t answer at all if they aren’t expecting anyone compared to only 20% young adults aged 18-34." (55세 이상의 34%는 기다리는 사람이 없으면 아예 응답하지 않는다고 답했고 18\~34세 젊은 성인은 20%에 그쳤다.) — Ipsos, 「Knock, Knock… Who’s There? Most Older Canadians Aren’t Taking Chances」, Ipsos, 2026-03-02, https://www.ipsos.com/en-ca/knock-knock-whos-there-most-older-canadians-arent-taking-chances, 2026-10-22 접속
