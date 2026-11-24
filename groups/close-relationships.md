@@ -108,6 +108,7 @@
 - [은퇴남편 증후군](../docs/retired-husband-syndrome.md) 남편이 은퇴해 집에 머무는 시간이 늘자 아내가 스트레스를 받고 마음이 무거워진다.
 - [일부러 져 주기](../docs/letting-others-win.md) 놀이나 시합에서 이길 수 있는 사람이 상대가 이기도록 일부러 힘을 빼거나 나쁜 수를 둔다.
   - [윗사람에게 일부러 져 주기](../docs/letting-superiors-win.md)
+- [자기 농담에 자기가 웃기](../docs/laughing-at-own-jokes.md) 농담이나 말장난을 한 사람이 그 말 끝에 스스로 웃는다.
 - [자기 침묵](../docs/self-silencing.md) 관계를 지키거나 갈등을 피하려는 사람이 자기 생각과 불만을 말하지 않고 누른다.
   - [거절하지 못하기](../docs/difficulty-saying-no.md)
     - [내키지 않는 초대에 응하기](../docs/accepting-unwanted-invitations.md)

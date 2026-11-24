@@ -760,6 +760,7 @@
 - [입력 중 표시를 보며 애태우기](docs/typing-indicator-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [입을 옷이 없다고 느끼기](docs/feeling-of-nothing-to-wear.md) ([돈과 소비](groups/money.md))
 - [자거나 외출하며 세탁기와 건조기 돌려 두기](docs/leaving-appliances-running-unattended.md) ([건강과 위험](groups/health-and-safety.md))
+- [자기 농담에 자기가 웃기](docs/laughing-at-own-jokes.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자기 몫의 기여 크게 여기기](docs/overclaiming-own-contribution.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 보상 소비](docs/self-reward-purchase.md) ([돈과 소비](groups/money.md))
 - [자기 불구화](docs/self-handicapping.md) ([걱정과 기분](groups/worry-and-mood.md))
