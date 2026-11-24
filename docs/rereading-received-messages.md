@@ -12,7 +12,7 @@
 
 2017년 게시글[^3]의 글쓴이는 남편의 사진을 보거나 문자를 읽는 일이 가슴에 칼이 박히는 것 같아서 하지 못한다고 썼다. 군 파병으로 떨어져 지내는 연인과 배우자의 대화를 다룬 2018년 연구[^4]는 지니고 다니다 필요할 때 다시 읽을 수 있다는 점을 편지의 특징으로 든다.
 
-2018년 에세이[^5]의 필자는 그가 세상을 떠나고 1년 반이 지나서도 문자를 읽어 내려가며 감정이 북받쳤고 하나씩 화면을 캡처해 남겼다. 2026년 2월 댓글[^6]의 글쓴이는 그의 문자를 되풀이해 읽고 사진을 보며 마음이 무너졌다고 썼다. 2026년 5월 에세이[^7]의 필자는 이별 뒤 매일 밤 같은 대화를 처음부터 읽었고 아침이면 전날 밤 찾은 단서가 아무 의미 없다는 것을 깨닫고 다시 처음부터 시작했다.
+2018년 에세이[^5]의 필자는 그가 세상을 떠나고 1년 반이 지나서도 문자를 읽어 내려가며 감정이 북받쳤고 하나씩 화면을 캡처해 남겼다. 2019년 기사[^6]에서 이별 코치는 다정했던 문자를 다시 읽으면 헤어진 연인이 그리워지고 관계를 실제보다 좋았던 것으로 여길 수 있다고 말했다. 2026년 2월 댓글[^7]의 글쓴이는 그의 문자를 되풀이해 읽고 사진을 보며 마음이 무너졌다고 썼다. 2026년 5월 에세이[^8]의 필자는 이별 뒤 매일 밤 같은 대화를 처음부터 읽었고 아침이면 전날 밤 찾은 단서가 아무 의미 없다는 것을 깨닫고 다시 처음부터 시작했다.
 
 # 관계
 
@@ -43,5 +43,6 @@
 [^3]: [SNS] "I cant look at his photo or read his texts or watch videos because it is like a knife in my heart." (그의 사진을 보거나 문자를 읽거나 영상을 볼 수가 없다. 가슴에 칼이 박히는 것 같아서다.) — community.sueryder.org 게시글, 2017-07-09, https://community.sueryder.org/t/has-anyone-lost-their-husband-under-50/6657/1, 2026-10-22 접속
 [^4]: [학술] "Letters may still benefit individuals through unique features like the ability to carry the letter to be re-read in times of need." (편지는 필요할 때 다시 읽으려고 지니고 다닐 수 있다는 고유한 특징을 통해 여전히 개인에게 도움이 될 수 있다.) — Sarah P. Carter, Laura J. Osborne, Keith D. Renshaw, Elizabeth S. Allen, Benjamin A. Loew, Howard J. Markman, Scott M. Stanley, "Something to talk about: Topics of conversation between romantic partners during military deployments", Journal of Family Psychology, 2018-02, https://pmc.ncbi.nlm.nih.gov/articles/PMC5858224/, 2026-10-22 접속
 [^5]: [매체] "Even a year and a half after his passing, I was overcome with emotion as I read through the texts, taking screenshots one by one and cementing their life beyond the comfort of my fragile phone." (그가 떠나고 1년 반이 지났는데도 문자를 읽어 내려가며 감정이 북받쳤고 하나씩 스크린숏을 찍어 깨지기 쉬운 휴대전화 밖에서도 그 문자들이 남게 했다.) — Matt Scott, "Trying to digest the grief-soaked digital breadcrumbs", Thrive Global, 2018-12-11, https://community.thriveglobal.com/trying-to-digest-the-grief-soaked-digital-breadcrumbs/, 2026-10-22 접속
-[^6]: [SNS] "I would read his texts over n over and look at photos and be absolutely heartbroken." (그의 문자를 읽고 또 읽고 사진을 보며 완전히 마음이 무너지곤 했다.) — community.sueryder.org 댓글, 2026-02-26, https://community.sueryder.org/t/how-s-your-day-going-today/104729/6025, 2026-10-22 접속
-[^7]: [매체] "매일 밤 같은 대화를 처음부터 읽었고, 아침이 되면 전날 밤에 발견한 '단서'가 아무 의미 없다는 걸 깨닫고, 또 처음부터 시작했다." — 나만 아는 상담소, 「이별 후의 '탐정놀이'」, 브런치, 2026-05-19, https://brunch.co.kr/@naaso/39, 2026-10-22 접속
+[^6]: [매체] "It is not a good idea because the loving texts will just make you miss your ex — as well as possibly make you feel as though your relationship was much better than it was." (다정한 문자는 헤어진 연인을 그립게 할 뿐이고, 관계가 실제보다 훨씬 좋았던 것처럼 느끼게 할 수도 있으니 좋은 생각이 아니다.) — Rachel Shatto, "Here's Why Re-reading Old Text Conversations With An Ex Can Hurt So Much, According To Experts", Elite Daily, 2019-06-20, https://elitedaily.com/p/heres-why-re-reading-old-text-conversations-with-ex-can-hurt-so-much-according-to-experts-18018392, 2026-11-24 접속
+[^7]: [SNS] "I would read his texts over n over and look at photos and be absolutely heartbroken." (그의 문자를 읽고 또 읽고 사진을 보며 완전히 마음이 무너지곤 했다.) — community.sueryder.org 댓글, 2026-02-26, https://community.sueryder.org/t/how-s-your-day-going-today/104729/6025, 2026-10-22 접속
+[^8]: [매체] "매일 밤 같은 대화를 처음부터 읽었고, 아침이 되면 전날 밤에 발견한 '단서'가 아무 의미 없다는 걸 깨닫고, 또 처음부터 시작했다." — 나만 아는 상담소, 「이별 후의 '탐정놀이'」, 브런치, 2026-05-19, https://brunch.co.kr/@naaso/39, 2026-10-22 접속
