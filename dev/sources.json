@@ -35618,5 +35618,34 @@
     "last": "2026-11-24",
     "result": "VERIFIED",
     "lastVerified": "2026-11-24"
+  },
+  "https://www.khan.co.kr/article/201006031822025": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://koreascience.kr/article/JAKO201319655746611.page": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://www.korea.kr/news/reporterView.do?newsId=148833286": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "UNREACHABLE"
+  },
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148833714": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://view.asiae.co.kr/article/2025052913551970875": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
   }
 }

@@ -47,4 +47,5 @@
   - [과다복용 현장에서 신고 꺼리기](../docs/not-calling-for-help-at-overdose.md)
 - [통계 조사 응답 거부](../docs/refusing-statistical-surveys.md) 사람이 정부 통계 조사나 인구조사의 조사원이나 설문을 받고 사생활 걱정, 바쁨, 불신 따위를 이유로 응답하지 않는다.
 - [투표 불참](../docs/not-voting.md) 투표권이 있는 사람이 선거일에 투표하지 않는다.
+- [투표 인증샷 올리기](../docs/posting-voting-selfies.md) 투표를 마친 사람이 투표했다는 것을 보이는 사진을 찍어 소셜 미디어에 올린다.
 - [투표했다고 거짓으로 답하기](../docs/claiming-to-have-voted.md) 투표하지 않은 사람이 설문이나 면접에서 투표했다고 답한다.

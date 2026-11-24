@@ -983,6 +983,7 @@
 - [퇴직 대행 맡기기](docs/using-resignation-agency.md) ([일터와 일자리](groups/work.md))
 - [퇴직 뒤 허전함](docs/retirement-emptiness.md) ([일터와 일자리](groups/work.md))
 - [투표 불참](docs/not-voting.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [투표 인증샷 올리기](docs/posting-voting-selfies.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [투표했다고 거짓으로 답하기](docs/claiming-to-have-voted.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [트집 잡기](docs/nitpicking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [틈날 때마다 휴대폰 집기](docs/picking-up-phone-in-idle-moments.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
