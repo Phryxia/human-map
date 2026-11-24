@@ -31258,9 +31258,9 @@
   },
   "https://challengesuccess.org/resources/insights-into-how-why-students-cheat-at-high-performing-schools/": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-24"
   },
   "https://link.springer.com/article/10.1007/s10805-023-09480-w": {
     "first": "2026-11-19",
@@ -31360,9 +31360,9 @@
   },
   "https://weekly.khan.co.kr/article/8677": {
     "first": "2026-11-19",
-    "last": "2026-11-19",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-19"
+    "lastVerified": "2026-11-24"
   },
   "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22157169&resultType=core&format=json": {
     "first": "2026-11-19",
@@ -35566,6 +35566,12 @@
     "lastVerified": "2026-11-24"
   },
   "https://news.ycombinator.com/item?id=7653319": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://news.seoul.go.kr/welfare/?p=122134": {
     "first": "2026-11-24",
     "last": "2026-11-24",
     "result": "VERIFIED",
