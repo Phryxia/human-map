@@ -60,5 +60,6 @@
 - [추운 아침 이불 속에 머물기](../docs/lingering-in-bed-on-cold-mornings.md) 추운 아침에 잠이 깬 사람이 따뜻한 이불 속에 더 있고 싶어 일어나기를 미룬다.
 - [출국 직전 여권 만료 알아채기](../docs/late-passport-expiry-check.md) 해외여행을 앞둔 사람이 여권 유효기간을 미리 확인하지 않다가 출발이 가까워서야 또는 출국 공항에서 여권이 만료됐거나 기간이 모자란 것을 알아챈다.
 - [텃밭 가꾸기](../docs/vegetable-gardening.md) 도시에 사는 사람이 작은 텃밭에 작물을 심어 가꾸며 자라는 것을 보고 뿌듯해한다.
+- [펜 깨물기](../docs/pen-chewing.md) 글을 쓰거나 무엇에 골몰한 사람이 저도 모르게 펜이나 볼펜 뚜껑을 입에 물고 깨문다.
 - [편식](../docs/picky-eating.md) 아이나 어른이 싫어하는 음식을 가려 먹지 않고 좋아하는 음식만 먹는다.
 - [하려던 여가 대신 누워 화면 보기](../docs/lying-around-instead-of-planned-leisure.md) 쉬는 시간이 생긴 사람이 하고 싶던 활동 대신 누워서 TV나 휴대폰을 보며 그 시간을 보낸다.
