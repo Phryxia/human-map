@@ -33,6 +33,7 @@
 - [같은 이야기 되풀이](docs/retelling-same-story.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [개인정보 유출 걱정](docs/privacy-concern.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [개인정보 적힌 우편물과 송장 그대로 버리기](docs/discarding-mail-without-shredding.md) ([건강과 위험](groups/health-and-safety.md))
+- [개점 전 줄서기](docs/lining-up-before-opening.md) ([돈과 소비](groups/money.md))
 - [거미와 벌레 무서움](docs/fear-of-spiders-and-insects.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [거울 속 늙은 얼굴의 낯섦](docs/aged-face-in-mirror.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [거절하지 못하기](docs/difficulty-saying-no.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

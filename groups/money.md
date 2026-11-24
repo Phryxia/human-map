@@ -15,6 +15,7 @@
   - [잔치를 크게 벌여 지위 드러내기](../docs/lavish-celebrations-for-status.md)
 - [값 흥정](../docs/haggling.md) 물건값이나 삯을 두고 사는 사람과 파는 사람이 값을 깎거나 지키려고 말을 주고받는다.
 - [값부터 보고 고르기](../docs/checking-prices-first.md) 돈을 쓰려는 사람이 무엇을 고르기 전에 값부터 확인하고 그 값에 맞춰 고른다.
+- [개점 전 줄서기](../docs/lining-up-before-opening.md) 새 상품이나 인기 있는 가게를 남보다 먼저 손에 넣거나 들어가려는 사람이 문을 열기 전부터 줄을 선다.
 - [고치지 않고 새로 사기](../docs/replacing-instead-of-repairing.md) 가전 같은 물건이 고장 난 사람이 고칠 수 있는데도 수리비가 비싸거나 수리를 맡기기 번거로워 고치지 않고 새것을 산다.
 - [구독 해지 포기](../docs/abandoning-subscription-cancellation.md) 정기 결제 서비스를 해지하려던 사람이 해지 절차가 번거로워 도중에 그만두고 돈을 계속 낸다.
 - [구매 결정 미루기](../docs/delaying-purchases.md) 사고 싶은 물건이 생긴 사람이 충동 구매를 피하려고 바로 사지 않고 시간을 둔 뒤 다시 판단한다.
