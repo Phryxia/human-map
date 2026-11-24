@@ -62,6 +62,7 @@
 - [경증 응급실 이용](docs/nonurgent-emergency-room-visits.md) ([건강과 위험](groups/health-and-safety.md))
 - [경찰 긴급번호 비긴급 신고](docs/nonurgent-police-calls.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [경찰 협조를 밀고로 여기기](docs/seeing-police-cooperation-as-snitching.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [경품 응모](docs/entering-sweepstakes.md) ([돈과 소비](groups/money.md))
 - [곁에 없는 사람의 옷 냄새 맡기](docs/smelling-absent-loved-ones-clothes.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [곁에 없는 사람의 편지와 사진에 입 맞추기](docs/kissing-absent-loved-ones-letters.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [계기판 경고등 무시하고 운전하기](docs/ignoring-dashboard-warning-lights.md) ([길과 운전](groups/roads-and-driving.md))
