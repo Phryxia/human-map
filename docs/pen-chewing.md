@@ -10,7 +10,9 @@
 
 1853년 소설[^1]에서 탁자에 앉아 있던 소녀는 펜을 깨물다가 그만두고 반쯤 수줍고 반쯤 뾰로통하게 인사를 받았다.
 
-2026년 블로그 글[^2]의 필자는 무엇에 집중하다 보면 어느새 볼펜을 입에 물고 있고 생각이 길어질수록 더 그렇다고 썼다.
+2022년 연구에서 튀르키예 아동 96명의 지난 3개월 구강 습관을 견주었을 때 수면 이갈이가 있는 아동 무리와 없는 무리가 다른 습관은 펜이나 연필 씹기 하나였다. 이갈이 무리 48명 가운데 13명, 대조 무리 48명 가운데 2명이 펜이나 연필을 씹었다.[^2]
+
+2026년 블로그 글[^3]의 필자는 무엇에 집중하다 보면 어느새 볼펜을 입에 물고 있고 생각이 길어질수록 더 그렇다고 썼다.
 
 # 관계
 
@@ -37,4 +39,5 @@
 #마음
 
 [^1]: [문학] "The girl at the table left off biting her pen and made a return to our recognition, which was half bashful and half sulky." (탁자에 앉은 소녀는 펜을 깨물던 것을 그만두고 우리 인사에 답했는데, 반은 수줍고 반은 뾰로통했다.) — Charles Dickens, Bleak House, 1853, https://standardebooks.org/ebooks/charles-dickens/bleak-house/text/single-page, 2026-11-24 접속
-[^2]: [매체] "어딘가에 집중하다보면 어느새 볼펜을 입에 물고 있다. 생각이 길어질수록 더 그렇다." — 동동수목원, 「볼펜 뚜껑에 구멍이 뚫린 이유, 알고 있었나요」, brunch, 2026-04-22, https://brunch.co.kr/@realhoo/135, 2026-11-24 접속
+[^2]: [학술] "Among parafunctional habits, the only differences between groups were for chewing a pen or pencil" (구강 이상 습관 가운데 두 무리 사이에 차이가 있었던 것은 펜이나 연필 씹기뿐이었다) — İffet Yazıcıoğlu, Perihan Çam Ray, "Evaluation of Anxiety Levels in Children and Their Mothers and Appearance of Sleep Bruxism in Turkish Children and Associated Risk Factors: A Cross-Sectional Study", Journal of Oral & Facial Pain and Headache 36, 2022-06-02, https://pmc.ncbi.nlm.nih.gov/articles/PMC10586580/, 2026-11-24 접속
+[^3]: [매체] "어딘가에 집중하다보면 어느새 볼펜을 입에 물고 있다. 생각이 길어질수록 더 그렇다." — 동동수목원, 「볼펜 뚜껑에 구멍이 뚫린 이유, 알고 있었나요」, brunch, 2026-04-22, https://brunch.co.kr/@realhoo/135, 2026-11-24 접속
