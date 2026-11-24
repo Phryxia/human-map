@@ -60,7 +60,6 @@
 - [물건 잃어버릴까 하는 불안](../docs/fear-of-losing-things.md) 사람이 지갑, 휴대폰, 카드 같은 소지품을 지니고 다니며 그것을 떨어뜨리거나 두고 와서 잃어버릴까 걱정한다.
 - [미래 불안](../docs/future-anxiety.md) 앞날을 생각하는 사람이 아직 일어나지 않은 나쁜 일이 일어날까 봐 오래 걱정한다.
 - [미칠까 두려워하기](../docs/fear-of-going-mad.md) 어떤 사람은 자기가 정신을 잃고 미쳐 갈까 두려워한다.
-- [밤 소리를 침입자로 여기기](../docs/imagining-intruders-at-night.md) 밤에 집에 있는 사람이 작은 소리를 듣고 누가 들어왔다고 여기며 겁을 먹는다.
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
 - [방 안 서성이기](../docs/pacing-the-room.md) 고민하거나 마음이 어지러운 사람이 방이나 좁은 자리 안을 이리저리 왔다 갔다 하며 걷는다.
 - [불길한 예감](../docs/sense-of-foreboding.md) 사람이 아직 알지 못하는 나쁜 일이 곧 닥치거나 이미 닥쳤다고 느끼며 불안해한다.
@@ -84,6 +83,7 @@
 - [실패에 대한 두려움](../docs/fear-of-failure.md) 어떤 일을 앞둔 사람이 실패해 창피를 당하거나 낮게 평가받을까 두려워한다.
 - [양 세기](../docs/counting-sheep.md) 잠이 오지 않는 사람이 잠들려고 양이 하나씩 지나가거나 울타리를 넘는 모습을 떠올리며 센다.
 - [어둠 공포](../docs/fear-of-the-dark.md) 어두운 곳에 있는 사람이 보이지 않는 것을 무서워한다.
+  - [밤 소리를 침입자로 여기기](../docs/imagining-intruders-at-night.md)
   - [밤에 거울 보기 두려워하기](../docs/fear-of-mirrors-at-night.md)
   - [침대 밑에 누가 숨어 있을까 두려워하기](../docs/fear-of-something-under-the-bed.md)
 - [울고 난 뒤 후련함](../docs/relief-after-crying.md) 한바탕 운 사람이 울고 난 뒤 마음이 가벼워졌다고 느낀다.

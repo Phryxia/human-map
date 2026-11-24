@@ -23,6 +23,7 @@
 ## 하위
 
 - [밤에 거울 보기 두려워하기](fear-of-mirrors-at-night.md)
+- [밤 소리를 침입자로 여기기](imagining-intruders-at-night.md)
 - [침대 밑에 누가 숨어 있을까 두려워하기](fear-of-something-under-the-bed.md)
 
 ## 원인
