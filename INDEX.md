@@ -145,6 +145,7 @@
 - [나쁜 소식 확인 미루기](docs/delaying-bad-news.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [나쁜 일에서 기뻐할 거리 찾기](docs/benefit-finding.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [나아지면 약 끊기](docs/stopping-medication-when-feeling-better.md) ([건강과 위험](groups/health-and-safety.md))
+- [나이 들어서도 사다리에 오르기](docs/older-adults-climbing-ladders.md) ([건강과 위험](groups/health-and-safety.md))
 - [나이 줄여 말하기](docs/understating-age.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [나중에 갚기로 하고 사기](docs/buying-now-paying-later.md) ([돈과 소비](groups/money.md))
 - [낙관 편향](docs/unrealistic-optimism.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
