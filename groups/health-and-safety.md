@@ -103,6 +103,7 @@
 - [정전 때 발전기와 숯 그릴을 실내 가까이 쓰기](../docs/indoor-generator-and-grill-use.md) 정전을 겪는 사람이 휴대용 발전기를 집 안이나 창문 옆, 차고에서 돌리거나 숯 그릴을 집 안에 들인다.
 - [조리 중 자리 비우기](../docs/leaving-cooking-unattended.md) 사람이 레인지에 음식을 올려 둔 채 다른 일을 하러 자리를 비우거나 잠들어 조리 중인 것을 잊는다.
 - [주사 공포](../docs/fear-of-needles.md) 주사나 채혈을 앞둔 사람이 바늘을 무서워해 겁을 내거나 주사 맞는 일을 피한다.
+- [지붕에 올라 눈 치우기](../docs/clearing-snow-from-roofs.md) 폭설이 내린 뒤 집 주인이 떨어질 위험이 있는데도 지붕에 올라가 쌓인 눈을 치운다.
 - [진단 없이 음식 피하기](../docs/self-diagnosed-food-avoidance.md) 어떤 음식을 먹은 뒤 몸이 불편했다고 여기는 사람이 의학적 진단 없이 그 음식을 먹지 않는다.
 - [진드기 예방 조치 하지 않기](../docs/skipping-tick-precautions.md) 풀밭이나 숲에서 시간을 보내는 사람이 기피제를 바르거나 돌아와 몸에 진드기가 붙었는지 살피는 일을 하지 않는다.
 - [진료 예약 부도](../docs/missing-medical-appointments.md) 병원이나 의원에 진료를 예약한 환자가 취소 연락 없이 예약한 때에 나타나지 않는다.

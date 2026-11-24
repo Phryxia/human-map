@@ -868,6 +868,7 @@
 - [지나치게 일찍 도착하기](docs/arriving-too-early.md) ([시간과 하루 습관](groups/daily-time.md))
 - [지난 창피한 일 떠올리며 몸서리치기](docs/cringing-at-past-embarrassment.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [지루함](docs/boredom.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [지붕에 올라 눈 치우기](docs/clearing-snow-from-roofs.md) ([건강과 위험](groups/health-and-safety.md))
 - [지어낸 핑계로 약속 빠지기](docs/making-excuses-to-skip-plans.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [지인 대신 대출로 돈 구하기](docs/borrowing-to-avoid-asking-family.md) ([돈과 소비](groups/money.md))
 - [지지 후보 낙선 뒤의 낙담](docs/post-election-distress.md) ([시민 참여와 공공의 일](groups/civic-life.md))
