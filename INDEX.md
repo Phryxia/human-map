@@ -1002,6 +1002,7 @@
 - [하차 표시 망설이기](docs/hesitating-to-signal-bus-stop.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [하품 전염](docs/contagious-yawning.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [학교 가기 싫어 꾀병 부리기](docs/faking-sick-to-skip-school.md) ([일터와 일자리](groups/work.md))
+- [학군 따라 이사하기](docs/moving-for-school-district.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [학습된 무력감](docs/learned-helplessness.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [한 사람이 나서면 따라 돕기](docs/helping-after-first-helper.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [한숨 쉬기](docs/sighing.md) ([걱정과 기분](groups/worry-and-mood.md))

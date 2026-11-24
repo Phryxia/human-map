@@ -12,3 +12,4 @@
 - [이민 갔다 고국으로 돌아오기](../docs/return-migration.md) 다른 나라로 이민 가서 살던 사람이 몇 해 뒤 태어난 나라로 돌아와 다시 산다.
 - [일자리와 학교를 찾아 대도시로 떠나기](../docs/leaving-hometown-for-city-jobs.md) 작은 도시나 지방에서 자란 젊은 사람이 대학이나 일자리를 찾아 고향을 떠나 수도나 대도시로 옮겨 산다.
 - [집값 때문에 외곽으로 옮겨 살기](../docs/moving-out-for-cheaper-housing.md) 도시에 살던 사람이 집값이나 집세가 비싸서 더 싼 외곽이나 이웃 지역으로 이사한다.
+- [학군 따라 이사하기](../docs/moving-for-school-district.md) 자녀를 원하는 학교에 보내려는 부모가 그 학교가 있는 동네로 집을 옮긴다.
