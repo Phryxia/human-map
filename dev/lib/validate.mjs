@@ -51,6 +51,9 @@ export const sourceKey = url => {
   return decoded(url)
 }
 
+// 사이트 이관 시각이 모든 글의 datePublished 로 찍힌 호스트와 그 날짜. 이 날짜는 발행일이 아니므로 발행일 미상으로 쓴다.
+export const PLACEHOLDER_DATES = [['insight.co.kr', '2018-05-18']]
+const placeholderDate = (url, d) => PLACEHOLDER_DATES.some(([h, pd]) => d === pd && new RegExp(`^https?://(?:[a-z0-9-]+\\.)*${h.replace(/\./g, '\\.')}(?:[/?#]|$)`, 'i').test(url))
 const DATE_OK = d => d === '발행일 미상' || /^\d{4}(-\d{2}(-\d{2})?)?$/.test(d)
 const sortKey = d => d === '발행일 미상' ? '' : d
 // 문장 끝: 공백이나 문단 끝 앞의 마침표·물음표·느낌표. 15.6% 같은 소수점은 세지 않는다.
@@ -100,6 +103,7 @@ export function validateDoc(doc, docs, sources = {}, tags = loadTags()) {
     nums.add(f.n)
     if (!KINDS.includes(f.kind)) err(f.ln, `종류가 다섯 중 하나가 아니다: ${f.kind}`)
     if (!DATE_OK(f.date)) err(f.ln, `발행일 형식: ${f.date}`)
+    if (placeholderDate(f.url, f.date)) err(f.ln, `발행일 ${f.date} 은 사이트 이관 시각이다. 발행일 미상으로 쓴다`)
     if ([...f.quote].length > 200) err(f.ln, `원문이 200자를 넘는다 (${[...f.quote].length})`)
     if (/…|\.\.\.$/.test(f.quote) && sources[f.url]?.result !== 'VERIFIED') warn(f.ln, '원문이 줄임표를 담고 있다')
     if (i > 0 && sortKey(f.date) < sortKey(doc.fragments[i - 1].date)) err(f.ln, '파편이 발행일 순이 아니다')

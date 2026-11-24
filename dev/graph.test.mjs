@@ -275,3 +275,10 @@ test('여러 낱말 플랫폼명은 SNS 서지의 실명 꼴로 잡지 않는다
   assert.ok(bad('Straight Dope John Smith 게시글'))
   assert.ok(bad('Some Long Forum Name 게시글'))
 })
+
+test('이관 시각으로 알려진 가짜 발행일(insight.co.kr 2018-05-18)은 ERROR', () => {
+  const ins = d => `[^2]: [매체] "x" — 기자, 「제목」, 인사이트, ${d}, https://www.insight.co.kr/news/69749, 2026-11-24 접속`
+  const mk = d => loadAll(makeRepo({a: makeDoc({body: '문단.[^1][^2]', frags: [frag(1, '학술', '2001', 'https://a.example/1'), ins(d)]})}))
+  assert.ok(errs(mk('2018-05-18')).some(x => x.includes('이관 시각')))
+  assert.ok(!errs(mk('2019-04-25')).some(x => x.includes('이관 시각')))
+})
