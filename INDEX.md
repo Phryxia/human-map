@@ -426,6 +426,7 @@
 - [분노 억누르기](docs/anger-suppression.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [분리배출 하지 않기](docs/not-sorting-recyclables.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [분실물 사례금 요구](docs/finders-reward-demand.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [불 쑤석이기](docs/poking-the-fire.md) ([시간과 하루 습관](groups/daily-time.md))
 - [불 켜진 남의 창 들여다보기](docs/looking-into-lit-windows.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [불과 전자제품 켜 두기](docs/leaving-lights-on.md) ([시간과 하루 습관](groups/daily-time.md))
 - [불길한 숫자 피하기](docs/avoiding-unlucky-numbers.md) ([돈과 소비](groups/money.md))

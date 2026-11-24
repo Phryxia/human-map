@@ -25,6 +25,7 @@
 - [배불러도 계속 먹기](../docs/eating-past-fullness.md) 앞에 먹을 것이 있는 사람이 배가 찼는지와 상관없이 먹기를 멈추지 않는다.
   - [접시 비우기 압박](../docs/clean-plate-pressure.md)
 - [봄맞이 대청소](../docs/spring-cleaning.md) 겨울이 지나고 봄이 온 것을 느낀 사람이 집 안의 먼지와 묵은 때를 한꺼번에 치우는 대청소를 한다.
+- [불 쑤석이기](../docs/poking-the-fire.md) 난롯불이나 모닥불 앞에 앉은 사람이 타는 불을 자꾸 들쑤시고 손본다.
 - [불과 전자제품 켜 두기](../docs/leaving-lights-on.md) 방을 나가거나 기기를 다 쓴 사람이 불이나 전자제품을 끄지 않고 켜 둔다.
 - [상습 지각](../docs/chronic-lateness.md) 약속이나 정해진 시간에 번번이 늦는 사람이 스스로는 제시간에 올 수 있다고 여긴다.
 - [새해 결심 세우기](../docs/making-new-years-resolutions.md) 새해를 맞는 사람이 그해에 고치거나 이룰 일을 결심으로 정한다.
