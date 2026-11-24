@@ -23,6 +23,7 @@
   - [외상으로 사기](../docs/buying-on-credit-at-local-shops.md)
   - [할부로 사기](../docs/buying-in-installments.md)
 - [날짜 표시만 보고 음식 버리기](../docs/discarding-food-by-date-label.md) 집에서 음식을 다루는 사람이 포장의 날짜 표시가 지났거나 가까워졌다는 이유로 아직 먹을 수 있는 음식을 버린다.
+- [남은 돈 세어 보기](../docs/counting-remaining-cash.md) 돈이 빠듯하거나 쓸 일을 앞둔 사람이 지갑이나 집 안에 남은 돈을 세어 보고 그것으로 무엇을 할 수 있을지 셈한다.
 - [남의 메뉴 부러워하기](../docs/order-envy.md) 식당에서 음식을 받은 사람이 일행이나 옆자리 사람이 시킨 메뉴가 더 좋아 보여 자기 주문을 후회한다.
 - [남이 버린 꽁초 주워 피우기](../docs/picking-up-cigarette-butts.md) 담배 살 돈이 모자란 흡연자가 남이 버린 담배꽁초를 주워 피운다.
 - [낱개 담배 사 피우기](../docs/buying-single-cigarettes.md) 흡연자가 담배를 한 갑이 아니라 한 개비씩 사서 피운다.
