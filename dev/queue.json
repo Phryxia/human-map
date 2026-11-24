@@ -1,33 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T18:38:35.048Z",
-  "nextSeq": 6544,
-  "stops": 347,
+  "savedAt": "2026-11-24T21:32:16.548Z",
+  "nextSeq": 6552,
+  "stops": 348,
   "items": [
-    {
-      "id": "9704869e",
-      "title": "posting-voting-selfies 보강: 인증 동기 학술 파편, 정책브리핑 2017-05-08 확인",
-      "priority": 50,
-      "note": "2026-11-24 korea.kr 148833286 이 ECONNRESET 으로 (미확인). 후보: Butkowski 2022 New Media & Society 'If you didn't take a selfie, did you even vote?' (SAGE 403), 서강대 석사 2012 dcollection 000000047402 '투표 인증샷 놀이'(빈 페이지). not-voting, claiming-to-have-voted 와 관계 후보",
-      "createdAt": "2026-11-24T18:14:49.747Z",
-      "seq": 6539
-    },
-    {
-      "id": "471a61bc",
-      "title": "moving-for-school-district 보강: 공공 파편",
-      "priority": 50,
-      "note": "2026-11-24 공공 없음. 후보: nces.ed.gov/programs/schoolchoice/ind_08.asp 배정학교 학생 22% 부모가 학교 때문에 이사(문장 200자 넘음), KOSIS 이동사유, 서울연구원 2022-05 서울 인구 전출입 요인. 비상교육 설문 2015 newdaily 2015120110029 전입 의향 54.4%",
-      "createdAt": "2026-11-24T18:23:05.221Z",
-      "seq": 6540
-    },
-    {
-      "id": "7e6f2443",
-      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안)",
-      "priority": 30,
-      "note": "2026-10-23 확인: 일반 불안·긴장 문서 없음(find 불안, 긴장). 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'. 일반 불안 문서가 생기면 원인 간선. PubMed 9325589 Keltner·Bonanno 1997 / 2026-11-18 일반 불안 문서 아직 없음",
-      "createdAt": "2026-11-18T15:34:52.175Z",
-      "seq": 5599
-    },
     {
       "id": "ffc25f75",
       "title": "summit-fever 보강: 한국어 공공 파편, 목표 고착 관계",
@@ -85,14 +61,6 @@
       "seq": 5627
     },
     {
-      "id": "a4c50ec9",
-      "title": "isolation-after-driving-cessation 보강: delaying-driving-cessation 관계",
-      "priority": 30,
-      "note": "2026-11-18 '고립될까 봐 운전을 계속한다' 인과 한 문장 못 찾음. delaying 에 원인 fear-of-losing-independence(tpr.org 2026-03-24) 그음. 미확인 후보: politicshome 88877 Independent Age 2017 고립 예상(인과 없음), newsinhealth.nih.gov/node/4586 403, bravo.etoday.co.kr 15645 15646 15647 15679",
-      "createdAt": "2026-11-18T21:35:59.853Z",
-      "seq": 5628
-    },
-    {
       "id": "2740be13",
       "title": "silent-treatment 와 apology-reluctance 관계",
       "priority": 30,
@@ -123,22 +91,6 @@
       "note": "2026-11-19 SNS 파편 HN 19681153 (2019) 더함. 2010년 이전 후보: Hu·Pavlou·Zhang 2009 CACM (scholar.xjtu 초록은 편향 설명뿐), Anderson 1998 Journal of Service Research 'dissatisfied customers do engage in greater word of mouth' (deepblue.lib.umich.edu 2027.42/68654, 입소문이라 온라인 후기와 범위 확인 필요). 관계 후보: non-complaining 과 대립",
       "createdAt": "2026-11-19T03:18:16.119Z",
       "seq": 5671
-    },
-    {
-      "id": "68633af8",
-      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
-      "priority": 30,
-      "note": "2026-11-04 'ahem' 학술 검색은 사전 항목뿐. Wharton 2003 Pragmatics & Cognition ResearchGate 403. Nicholas Nickleby pg967 문학 후보",
-      "createdAt": "2026-11-19T06:16:29.804Z",
-      "seq": 5689
-    },
-    {
-      "id": "65c33a60",
-      "title": "imagining-intruders-at-night 관계: fear-of-the-dark",
-      "priority": 30,
-      "note": "2026-11-05 학술 Gordon 2007 repub.eur.nl/pub/71152 추가. 어둠 때문에 소리를 침입자로 여긴다는 인과 문장 필요. 공공 후보 법무성 범죄백서 2004 hakusyo1.moj.go.jp/en/50/nfm/n_50_2_3_1_2_3.html (curl 403)",
-      "createdAt": "2026-11-19T06:30:53.237Z",
-      "seq": 5690
     },
     {
       "id": "4965d78e",
@@ -187,14 +139,6 @@
       "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
       "createdAt": "2026-11-19T21:24:32.438Z",
       "seq": 5776
-    },
-    {
-      "id": "451a3a51",
-      "title": "deciding-who-pays-for-meals 보강: SNS 파편",
-      "priority": 30,
-      "note": "2026-11-19 fighting-over-the-bill, dodging-the-bill 을 하위로 연결. 후보: koreatimes.co.kr/lifestyle/trends/20260918 Gen Z 1/N, bizhankook.com/articles/11049 (2016) 대학생 897명 5대5 58.4%",
-      "createdAt": "2026-11-19T21:26:13.570Z",
-      "seq": 5777
     },
     {
       "id": "ba1137b2",
@@ -1011,6 +955,38 @@
       "note": "2026-10-23 Mogle 2019 [^4] 실패한 날 부정 정서 높음, 기분 저하 문서가 생기면 결과 간선. clien park/2822600 (2012-05-18) / 2026-11-24 기분 저하 문서 아직 없음(find 기분: mood-repair 등 회복 쪽뿐)",
       "createdAt": "2026-11-24T15:30:02.128Z",
       "seq": 6532
+    },
+    {
+      "id": "3832c986",
+      "title": "posting-voting-selfies 와 not-voting, claiming-to-have-voted 관계",
+      "priority": 30,
+      "note": "2026-11-24 학술 Adi 2018, PhotoShelter 2018 더함. Butkowski 2022 New Media & Society (SAGE 403) 는 아직 미확인. Bond 2012 PMC3834737 'I Voted' 버튼은 인접 현상(투표 사실 알리기) 후보",
+      "createdAt": "2026-11-24T21:14:35.302Z",
+      "seq": 6548
+    },
+    {
+      "id": "e93f6cab",
+      "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안)",
+      "priority": 30,
+      "note": "2026-10-23 확인: 일반 불안·긴장 문서 없음. 후보: vice.com/en/article/experts-explain-why-you-laugh-when-you-shouldnt/ (2018-01-18) 'our own body makes us start laughing to relieve the tension'. PubMed 9325589 Keltner·Bonanno 1997 / 2026-11-24 일반 불안 문서 아직 없음",
+      "createdAt": "2026-11-24T21:22:41.881Z",
+      "seq": 6549
+    },
+    {
+      "id": "453efafc",
+      "title": "clearing-throat-to-announce-presence 보강: 학술 파편",
+      "priority": 30,
+      "note": "2026-11-04 'ahem' 학술 검색은 사전 항목뿐. Wharton 2003 ResearchGate 403. Nicholas Nickleby pg967 문학 후보 / 2026-11-24 Trouvain·Truong 2012, Trouvain 2014 (coli.uni-saarland.de, 'ehem' 으로 I'm here now) 는 PDF 뿐. KCI·koreascience 는 의학 기침뿐",
+      "createdAt": "2026-11-24T21:27:58.712Z",
+      "seq": 6550
+    },
+    {
+      "id": "31398311",
+      "title": "isolation-after-driving-cessation 보강: delaying-driving-cessation 관계",
+      "priority": 30,
+      "note": "2026-11-18 인과 한 문장 못 찾음. delaying 에 원인 fear-of-losing-independence 그음 / 2026-11-24 ajc.com/wellness/2025/08/should-i-still-be-driving/ 'One of the barriers for older adults is the fear of isolation, having to request rides and transportation,' 는 고립의 두려움이라 실제 고립 문서와의 원인 간선 근거로 약함. 고립 두려움 문서를 따로 둘지 정할 것",
+      "createdAt": "2026-11-24T21:31:14.292Z",
+      "seq": 6551
     },
     {
       "id": "9634edf0",
