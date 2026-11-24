@@ -101,6 +101,7 @@
   - [반가운 편지 뜯기 미루기](../docs/saving-a-letter-to-open-later.md)
 - [지루함](../docs/boredom.md) 사람이 하는 일이나 지내는 날에 흥미를 느끼지 못하고 따분해한다.
   - [퇴근 시간 기다리며 시계 보기](../docs/clock-watching-at-work.md)
+- [집배원 오기를 기다리기](../docs/waiting-for-the-postman.md) 편지를 기다리는 사람이 우편이 배달되는 때마다 창밖이나 길을 살피며 집배원이 오기를 기다린다.
 - [징크스 지키기](../docs/superstitious-rituals.md) 결과를 알 수 없는 일을 앞둔 사람이 불운을 막거나 일이 잘되도록 정해 둔 작은 의례를 하거나 어떤 행동을 피한다.
   - [달과 별똥별에 소원 빌기](../docs/wishing-on-moon-and-stars.md)
   - [보도블록 금 밟지 않기](../docs/avoiding-pavement-cracks.md)

@@ -888,6 +888,7 @@
 - [짐이 되기 싫은 마음](docs/self-perceived-burden.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [집 앞 눈 치우지 않기](docs/not-clearing-snow-in-front-of-home.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [집값 때문에 외곽으로 옮겨 살기](docs/moving-out-for-cheaper-housing.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
+- [집배원 오기를 기다리기](docs/waiting-for-the-postman.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [집에 소화기 두지 않기](docs/not-keeping-fire-extinguishers.md) ([건강과 위험](groups/health-and-safety.md))
 - [집에 없는 척하기](docs/pretending-not-to-be-home.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [집에 현금 쌓아 두기](docs/keeping-cash-at-home.md) ([걱정과 기분](groups/worry-and-mood.md))
