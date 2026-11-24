@@ -14,7 +14,9 @@
 
 2024년 1월 조사[^3]에서 겨울 집 입욕을 두고 응답자 63%가 짧게 들어간다고 답했다. 2024년 3월 연구[^4]에서 집에서 뜨거운 탕에 든 고령자 무리의 평균 입욕 시간은 11.9분이었다.
 
-2024년 12월 기사[^5]는 뜨거운 물에 천천히 몸을 담그지 않으면 따뜻해진 느낌이 들지 않는다는 사람을 든다. 2026년 고베시 안내[^6]는 추위가 심해지는 계절에 욕조에서 천천히 몸을 데우고 싶어지는 사람이 많지 않으냐고 묻는다.
+2024년 10월 게시판 댓글[^5]의 글쓴이는 아내가 10\~15분마다 미지근해진 물을 조금 빼고 뜨거운 물을 더 받아 한 시간 동안 몸을 담근다고 적는다.
+
+2024년 12월 기사[^6]는 뜨거운 물에 천천히 몸을 담그지 않으면 따뜻해진 느낌이 들지 않는다는 사람을 든다. 2026년 고베시 안내[^7]는 추위가 심해지는 계절에 욕조에서 천천히 몸을 데우고 싶어지는 사람이 많지 않으냐고 묻는다.
 
 # 관계
 
@@ -44,5 +46,6 @@
 [^2]: [공공] "居間や脱衣所が18度未満の住宅では，湯温42度以上の”熱め入浴”が増加する，という研究結果" (거실이나 탈의실이 18도 미만인 주택에서는 물 온도 42도 이상의 '뜨거운 입욕'이 늘어난다는 연구 결과) — 鹿児島県, 「【消費者庁】冬季に多発する高齢者の入浴中の事故に御注意ください！-自宅の浴槽内での不慮の溺水事故が増えています-」, 2023-08-08, https://www.pref.kagoshima.jp/ab11/kurashi-kankyo/syohi/kinkyu/shouhianzen021119.html, 2026-11-24 접속
 [^3]: [매체] "その結果、一番多かった回答は「熱めで短時間」ついで「ぬるめで短時間」と、合わせて63％の人が入浴時間は短時間である" (그 결과 가장 많은 답은 '뜨겁게 짧게', 그다음은 '미지근하게 짧게'로 모두 63%의 사람이 입욕 시간이 짧았다) — ウェザーニュース, 「約6割がお風呂は「短時間」傾向　一番の長風呂好きは山梨県」, 2024-01-17, https://weathernews.jp/news/202401/160075/, 2026-11-24 접속
 [^4]: [학술] "The mean duration of bathtub immersion was 11.9 (SD, 6.2) min in the hot bath immersion group." (뜨거운 탕 입욕군의 평균 욕조 입욕 시간은 11.9분(표준편차 6.2)이었다.) — Tai Y, Obayashi K, Okumura K, Yamagami Y, Saeki K, "Blood pressure, pulse rate, and skin temperature during hot-water bathing in real-world settings among community-dwelling older adults: the HEIJO-KYO Study", Environmental Health and Preventive Medicine 29, 2024-03-05, https://www.jstage.jst.go.jp/article/ehpm/29/0/29_23-00320/_html/-char/en, 2026-11-24 접속
-[^5]: [매체] "ただ、熱いお湯にゆっくりつからないと温まった気がしないという人もいるだろう。" (다만 뜨거운 물에 천천히 몸을 담그지 않으면 따뜻해진 느낌이 들지 않는다는 사람도 있을 것이다.) — 羽石友香, 「20代の半数以上が"ヒートショック予備軍"。お風呂ドクターによる「冬の危険な入浴方法」10項目」, Business Insider Japan, 2024-12-18, https://www.businessinsider.jp/article/298609/, 2026-11-24 접속
-[^6]: [공공] "冬の寒さが厳しくなる季節には、ゆっくりとお風呂で温まりたくなる方も多いのではないでしょうか。" (겨울 추위가 심해지는 계절에는 욕조에서 천천히 몸을 데우고 싶어지는 분도 많지 않을까요.) — 神戸市, 「ヒートショック対策」, 2026-10-20, https://www.city.kobe.lg.jp/a00685/kenko/health/shippei/heatshock.html, 2026-11-24 접속
+[^5]: [SNS] "And she’ll soak, draining a bit of “tepid” water and adding fresh hot every 10-15 minutes for an hour long soak." (아내는 미지근해진 물을 조금 빼고 10\~15분마다 새 뜨거운 물을 더하며 한 시간 동안 몸을 담근다.) — Straight Dope Message Board 댓글, 2024-10-18, https://boards.straightdope.com/t/do-you-do-stuff-in-the-bath/1008809?page=4, 2026-11-24 접속
+[^6]: [매체] "ただ、熱いお湯にゆっくりつからないと温まった気がしないという人もいるだろう。" (다만 뜨거운 물에 천천히 몸을 담그지 않으면 따뜻해진 느낌이 들지 않는다는 사람도 있을 것이다.) — 羽石友香, 「20代の半数以上が"ヒートショック予備軍"。お風呂ドクターによる「冬の危険な入浴方法」10項目」, Business Insider Japan, 2024-12-18, https://www.businessinsider.jp/article/298609/, 2026-11-24 접속
+[^7]: [공공] "冬の寒さが厳しくなる季節には、ゆっくりとお風呂で温まりたくなる方も多いのではないでしょうか。" (겨울 추위가 심해지는 계절에는 욕조에서 천천히 몸을 데우고 싶어지는 분도 많지 않을까요.) — 神戸市, 「ヒートショック対策」, 2026-10-20, https://www.city.kobe.lg.jp/a00685/kenko/health/shippei/heatshock.html, 2026-11-24 접속
