@@ -601,6 +601,7 @@
 - [안전 장비 미착용](docs/safety-gear-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [안전띠 미착용](docs/seat-belt-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [알람 끄고 다시 잠들기](docs/snoozing-the-alarm.md) ([시간과 하루 습관](groups/daily-time.md))
+- [알림 배지 지우기](docs/clearing-notification-badges.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [알아들은 척하기](docs/pretending-to-understand.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [앓는 가족의 끝을 속으로 바라기](docs/wishing-a-dying-relatives-end.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [암 재발 두려움](docs/fear-of-cancer-recurrence.md) ([건강과 위험](groups/health-and-safety.md))

@@ -32,6 +32,7 @@
 - [써 놓고 내보내지 않기](../docs/writing-without-sending.md) 메시지나 게시물을 쓴 사람이 보내거나 올리기 전에 그만두고 지우거나 남겨 둔다.
   - [게시 직전 자기검열](../docs/last-minute-self-censorship.md)
   - [보내지 않는 편지 쓰기](../docs/unsent-letters.md)
+- [알림 배지 지우기](../docs/clearing-notification-badges.md) 앱 아이콘에 안 읽은 알림 숫자가 뜬 사람이 그 숫자를 그냥 두지 못하고 앱을 열거나 알림을 밀어서 지운다.
 - [약관 읽지 않고 동의하기](../docs/agreeing-without-reading-terms.md) 온라인 서비스에 가입하는 사람이 이용약관이나 개인정보 처리방침을 읽지 않고 동의 버튼을 누른다.
 - [온라인 자기 노출](../docs/online-self-disclosure.md) 사람이 소셜 미디어 같은 온라인 공간에서 자기 사생활과 개인적인 일을 스스로 드러낸다.
   - [프라이버시 역설](../docs/privacy-paradox.md)
