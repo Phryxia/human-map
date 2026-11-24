@@ -10,13 +10,15 @@
 
 발행일이 적히지 않은 심리학 잡지 글[^1]은 스릴을 좇는 사람이 위험 때문에 움직이는 것이 아니라 새로운 도전을 이기고 삶의 경험을 모두 누리려 하며 위험이 있어도 단념하지 않는다고 쓴다.
 
-2021년 연구[^2]에서 중학생 2,987명 가운데 술을 마시고 도박을 하고 감각 추구 점수가 높은 학생은 그렇지 않은 학생보다 익스트림 스포츠를 할 가능성이 컸다.
+2010년 석사학위논문[^2]은 젊은 운전자가 위험을 잘 알지 못하고 새롭고 자극적인 경험을 찾으려 해서 과속하기 더 쉽다고 적었다.
 
-2023년 연구[^3]의 저자들은 충동성과 감각 추구가 공격 운전, 위험 운전, 운전 중 분노 표현, 사고와 관련된 행동을 예측한다는 2005년 연구를 인용했다.
+2021년 연구[^3]에서 중학생 2,987명 가운데 술을 마시고 도박을 하고 감각 추구 점수가 높은 학생은 그렇지 않은 학생보다 익스트림 스포츠를 할 가능성이 컸다.
 
-2025년 8월 JTBC 보도[^4]에서 밤에 술을 마시고 바다에 뛰어든 행락객은 밤 수영이 더 재미있다고 말하며 언제 죽을지도 모른다는 압박감을 들었다.
+2023년 연구[^4]의 저자들은 충동성과 감각 추구가 공격 운전, 위험 운전, 운전 중 분노 표현, 사고와 관련된 행동을 예측한다는 2005년 연구를 인용했다.
 
-2025년 게시판 댓글[^5]의 글쓴이는 어릴 때 위험한 일을 한 번 해 보고 끔찍할 정도가 아니면 그 일을 하고 또 했다고 썼다.
+2025년 8월 JTBC 보도[^5]에서 밤에 술을 마시고 바다에 뛰어든 행락객은 밤 수영이 더 재미있다고 말하며 언제 죽을지도 모른다는 압박감을 들었다.
+
+2025년 게시판 댓글[^6]의 글쓴이는 어릴 때 위험한 일을 한 번 해 보고 끔찍할 정도가 아니면 그 일을 하고 또 했다고 썼다.
 
 # 관계
 
@@ -34,7 +36,8 @@
 
 ## 결과
 
-- [술 마신 뒤 물놀이](swimming-after-drinking.md)[^4]
+- [술 마신 뒤 물놀이](swimming-after-drinking.md)[^5]
+- [과속 운전](speeding.md)[^2]
 
 ## 대립
 
@@ -42,8 +45,9 @@
 
 #마음
 
-[^1]: [매체] "Thrill-seekers aren’t motivated by danger. They’re driven to conquer new challenges and soak up every experience life has to offer—and they simply don’t let danger dissuade them." (스릴을 좇는 사람은 위험 때문에 움직이지 않는다. 그들은 새로운 도전을 이겨 내고 삶이 주는 모든 경험을 흠뻑 누리려 하며 위험 때문에 단념하지 않을 뿐이다.) — Psychology Today, "Sensation-Seeking", Psychology Today, 발행일 미상, https://www.psychologytoday.com/au/basics/sensation-seeking, 2026-10-21 접속
-[^2]: [학술] "The students who drank alcohol, gambled, and were high sensation seeking were more likely to participate in extreme sports than those who did not drink alcohol, gamble, and were low sensation seeking." (술을 마시고 도박을 하고 감각 추구가 높은 학생은 술을 마시지 않고 도박을 하지 않고 감각 추구가 낮은 학생보다 익스트림 스포츠에 참여할 가능성이 더 컸다.) — Hu Chunmei 외, "Relationships Among Extreme Sports Participation, Sensation Seeking, and Negative Risky Behaviors of Middle-School Students", Frontiers in Psychology, 2021-08-30, https://pmc.ncbi.nlm.nih.gov/articles/PMC8436974/, 2026-10-21 접속
-[^3]: [학술] "In addition, Impulsiveness and Sensation Seeking predict behaviors related to crashes, aggressive driving, risky driving, and expression of anger while driving (Dahlen et al., 2005)." (또한 충동성과 감각 추구는 사고, 공격 운전, 위험 운전, 운전 중 분노 표현과 관련된 행동을 예측한다(Dahlen 외, 2005).) — Anton Aluja 외, "Psychological predictors of risky driving: the role of age, gender, personality traits (Zuckerman’s and Gray’s models), and decision-making styles", Frontiers in Psychology 14, 2023-05-18, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1058927/full, 2026-10-21 접속
-[^4]: [매체] "밤에 (수영) 하면 확실히 더 재밌긴 해요. 재밌죠. 언제 죽을지도 모른다는 압박감. 맥주도 한잔하고." — 이은진, 「[밀착카메라] "죽을지도 몰라" 알면서…"재밌으니까" 술 먹고 '다이빙'」, JTBC, 2025-08-12, https://v.daum.net/v/20250812194651553, 2026-11-07 접속
-[^5]: [SNS] "But a common theme was that once was generally not enough. If we did it and it wasn't beyond terrifying, we'd do it again. And again." (그런데 공통점은 대개 한 번으로는 충분하지 않았다는 것이다. 해 보고 끔찍할 정도가 아니면 또 했다. 그리고 또.) — Straight Dope 댓글, 2025-09-27, https://boards.straightdope.com/t/train-surfing-it-s-a-thing-2-sf-ca-teens-died-in-the-last-2-weeks-warning-graphic-photo/997590?page=4, 2026-10-22 접속
+[^1]: [매체] "Thrill-seekers aren’t motivated by danger. They’re driven to conquer new challenges and soak up every experience life has to offer—and they simply don’t let danger dissuade them." (스릴을 좇는 사람은 위험 때문에 움직이지 않는다. 그들은 새로운 도전을 이겨 내고 삶이 주는 모든 경험을 흠뻑 누리려 하며 위험 때문에 단념하지 않을 뿐이다.) — Psychology Today, "Sensation-Seeking", Psychology Today, 발행일 미상, https://www.psychologytoday.com/au/basics/sensation-seeking, 2026-10-21 접속 (소멸, 2026-11-07 까지 확인)
+[^2]: [학술] "Young drivers are more prone to speeding through both a lack of awareness of risks and a desire to seek out novel and stimulating experiences." (젊은 운전자는 위험을 잘 알지 못하는 데다 새롭고 자극적인 경험을 찾으려는 욕구 때문에 과속하기 더 쉽다.) — Stephen Cantwell, "Does a video speed task predict risky speeding behaviour in young and inexperienced drivers?", University of Waikato 석사학위논문, 2010, https://researchcommons.waikato.ac.nz/entities/publication/fd532d91-b3ee-4fba-9e8d-dba2973a1e8f, 2026-11-24 접속
+[^3]: [학술] "The students who drank alcohol, gambled, and were high sensation seeking were more likely to participate in extreme sports than those who did not drink alcohol, gamble, and were low sensation seeking." (술을 마시고 도박을 하고 감각 추구가 높은 학생은 술을 마시지 않고 도박을 하지 않고 감각 추구가 낮은 학생보다 익스트림 스포츠에 참여할 가능성이 더 컸다.) — Hu Chunmei 외, "Relationships Among Extreme Sports Participation, Sensation Seeking, and Negative Risky Behaviors of Middle-School Students", Frontiers in Psychology, 2021-08-30, https://pmc.ncbi.nlm.nih.gov/articles/PMC8436974/, 2026-10-21 접속
+[^4]: [학술] "In addition, Impulsiveness and Sensation Seeking predict behaviors related to crashes, aggressive driving, risky driving, and expression of anger while driving (Dahlen et al., 2005)." (또한 충동성과 감각 추구는 사고, 공격 운전, 위험 운전, 운전 중 분노 표현과 관련된 행동을 예측한다(Dahlen 외, 2005).) — Anton Aluja 외, "Psychological predictors of risky driving: the role of age, gender, personality traits (Zuckerman’s and Gray’s models), and decision-making styles", Frontiers in Psychology 14, 2023-05-18, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1058927/full, 2026-10-21 접속
+[^5]: [매체] "밤에 (수영) 하면 확실히 더 재밌긴 해요. 재밌죠. 언제 죽을지도 모른다는 압박감. 맥주도 한잔하고." — 이은진, 「[밀착카메라] "죽을지도 몰라" 알면서…"재밌으니까" 술 먹고 '다이빙'」, JTBC, 2025-08-12, https://v.daum.net/v/20250812194651553, 2026-11-07 접속
+[^6]: [SNS] "But a common theme was that once was generally not enough. If we did it and it wasn't beyond terrifying, we'd do it again. And again." (그런데 공통점은 대개 한 번으로는 충분하지 않았다는 것이다. 해 보고 끔찍할 정도가 아니면 또 했다. 그리고 또.) — Straight Dope 댓글, 2025-09-27, https://boards.straightdope.com/t/train-surfing-it-s-a-thing-2-sf-ca-teens-died-in-the-last-2-weeks-warning-graphic-photo/997590?page=4, 2026-10-22 접속
