@@ -2272,21 +2272,21 @@
   },
   "https://www.gutenberg.org/files/599/599-h/599-h.htm": {
     "first": "2026-10-18",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-24",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://www.gutenberg.org/files/833/833-h/833-h.htm": {
     "first": "2026-10-18",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-24",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://www.nber.org/papers/w13392": {
     "first": "2026-10-18",
-    "last": "2026-11-14",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-24"
   },
   "https://v.daum.net/v/20180417142727710": {
     "first": "2026-10-18",
@@ -27656,9 +27656,9 @@
   },
   "https://www.mt.co.kr/living/2020/04/09/2020040811281971198": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-24"
   },
   "https://www.gutenberg.org/cache/epub/600/pg600.txt": {
     "first": "2026-11-14",
@@ -35362,6 +35362,12 @@
     "lastVerified": "2026-11-24"
   },
   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02342/full": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://ko.wikisource.org/wiki/선풍시대/7장": {
     "first": "2026-11-24",
     "last": "2026-11-24",
     "result": "VERIFIED",
