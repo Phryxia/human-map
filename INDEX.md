@@ -913,6 +913,7 @@
 - [차 안에 아이를 잊고 내리기](docs/forgetting-child-in-car.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [차가 무서워 자전거 타지 않기](docs/not-cycling-for-fear-of-traffic.md) ([길과 운전](groups/roads-and-driving.md))
 - [차로 끝까지 와서 합류하는 차를 새치기로 여기기](docs/resenting-late-mergers.md) ([길과 운전](groups/roads-and-driving.md))
+- [착륙 박수](docs/clapping-on-landing.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [착륙하자마자 일어서기](docs/standing-up-right-after-landing.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [참아 온 불만의 폭발](docs/suppressed-anger-outburst.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [참으려고 입술 깨물기](docs/biting-lips-to-hold-back.md) ([남의 시선과 창피함](groups/others-gaze.md))
