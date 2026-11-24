@@ -22,6 +22,7 @@
 
 ## 하위
 
+- [임종을 지키지 못한 죄책감](guilt-over-missing-a-death.md)
 - [자살 유족의 자책](suicide-bereavement-self-blame.md)
 
 ## 원인

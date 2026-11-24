@@ -26,6 +26,7 @@
   - [반려동물 안락사 뒤 죄책감](../docs/pet-euthanasia-guilt.md)
 - [벌초 대행 맡기기](../docs/outsourcing-grave-mowing.md) 조상의 묘를 둔 사람이 벌초를 직접 하지 않고 조합이나 업체에 돈을 주고 맡긴다.
 - [사별 뒤 후회](../docs/bereavement-regret.md) 가까운 사람을 잃은 사람이 고인이 살아 있을 때 다르게 했더라면 하고 바라며 자신을 탓한다.
+  - [임종을 지키지 못한 죄책감](../docs/guilt-over-missing-a-death.md)
   - [자살 유족의 자책](../docs/suicide-bereavement-self-blame.md)
 - [상복 입기](../docs/wearing-mourning-clothes.md) 사람이 가까운 이가 죽으면 한동안 검은 옷이나 상복을 입어 애도를 드러낸다.
 - [손님이 떠난 뒤의 허전함](../docs/after-visit-emptiness.md) 함께 지내던 가족이나 손님이 떠난 뒤 남은 사람이 집이 텅 비고 조용해진 것 같아 허전해한다.

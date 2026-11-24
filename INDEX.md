@@ -754,6 +754,7 @@
 - [임금 체불 참기](docs/tolerating-unpaid-wages.md) ([일터와 일자리](groups/work.md))
 - [임산부 배려석 비켜 주지 않기](docs/not-yielding-maternity-seats.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [임산부 배려석 앉기 눈치](docs/hesitating-to-use-maternity-seats.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [임종을 지키지 못한 죄책감](docs/guilt-over-missing-a-death.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [입력 중 표시를 보며 애태우기](docs/typing-indicator-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [입을 옷이 없다고 느끼기](docs/feeling-of-nothing-to-wear.md) ([돈과 소비](groups/money.md))
 - [자거나 외출하며 세탁기와 건조기 돌려 두기](docs/leaving-appliances-running-unattended.md) ([건강과 위험](groups/health-and-safety.md))
