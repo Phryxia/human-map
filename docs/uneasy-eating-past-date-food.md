@@ -36,7 +36,7 @@
 
 ## 대립
 
-없음.
+- [날짜 지난 음식 냄새로 가늠해 먹기](sniff-testing-past-date-food.md)[^1]
 
 #건강 #마음
 
