@@ -1,177 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T12:38:14.221Z",
-  "nextSeq": 6491,
-  "stops": 345,
+  "savedAt": "2026-11-24T15:33:56.522Z",
+  "nextSeq": 6534,
+  "stops": 346,
   "items": [
-    {
-      "id": "78eca7a3",
-      "title": "soaking-long-in-hot-baths 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-11-24 king.mineo.jp 포럼 겨울 43도 게시글은 202 빈 본문. 知恵袋, 発言小町 검색 미노출. 원인 후보: 가고시마현 공지의 집 안 추위(18도 미만)→熱め入浴, energy-limiting-behavior·not-ventilating-in-winter 와 관계 검토",
-      "createdAt": "2026-11-24T12:12:04.064Z",
-      "seq": 6485
-    },
-    {
-      "id": "f0c28fab",
-      "title": "poking-the-fire 보강: 문학 파편 추가와 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-24 후보: standardebooks Night and Day 1919 'poking the fire'(Gutenberg 1245 를 docs 3곳이 씀), North and South 1855 'stirred the fire, snuffed the candles' 는 4276 을 4곳이 써서 경고 위험",
-      "createdAt": "2026-11-24T12:22:06.119Z",
-      "seq": 6486
-    },
-    {
-      "id": "f09f2f66",
-      "title": "pen-chewing 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-24 PMC10586580 아동 이갈이 연구에서 펜 씹기 27.1% 대 4.2% 라는 검색 요약, PMC 가 reCAPTCHA 를 줘 미확인. fidgeting 과 관계 검토",
-      "createdAt": "2026-11-24T12:23:13.636Z",
-      "seq": 6487
-    },
-    {
-      "id": "2a82449a",
-      "title": "throwing-batteries-in-trash 보강: SNS 파편",
-      "priority": 50,
-      "note": "2026-11-24 서랍에 모아 두기만 하는 면은 statcan.gc.ca o1/en/plus/405 의 15% 대목(한 출처 한 파편이라 미사용). SNS 공개 글 미확보",
-      "createdAt": "2026-11-24T12:27:57.496Z",
-      "seq": 6488
-    },
-    {
-      "id": "2c5d9af5",
-      "title": "feigning-absorption-to-avoid-talk 보강: 신문 뒤 숨기 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-24 후보: boards.straightdope.com/t/reading-while-eating/230075 2004-02-19 'grab a newspaper and read the ENTIRE time', spokesman.com 1997/jul/18 show-at-least-a-pretense-of-interest(몰두해서 답하지 않음, 척하기 아님), tilburg 2018 Vanden Abeele phone-gazing vs newspaper-gazing",
-      "createdAt": "2026-11-24T12:34:25.665Z",
-      "seq": 6489
-    },
-    {
-      "id": "47880bad",
-      "title": "wiping-glasses-to-buy-time 보강: SNS 또는 학술 파편",
-      "priority": 50,
-      "note": "2026-11-24 westsidetoastmasters.com resources/book_of_body_language/chap13.html 'taking the glasses off and cleaning the lenses ... to gain time for a decision'(발행일 미상, 매체). 눈물 감추려 닦는 면 출처 미확보",
-      "createdAt": "2026-11-24T12:38:05.965Z",
-      "seq": 6490
-    },
-    {
-      "id": "3f92f439",
-      "title": "blame-contagion 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-17 문서는 최소 조건 충족, 공공 출처 탐색이 여러 회차 실패해 priority 낮춤. 2026-11-16 gov.uk 검색 API 약 150건, gov.scot 41건, PSNet 에서 전염·하향 방향 공공 대목 없음. 남은 후보: committees.parliament.uk, 호주 왕립위원회 HTML, 국회입법조사처",
-      "createdAt": "2026-11-17T09:05:25.784Z",
-      "seq": 5436
-    },
-    {
-      "id": "548e868b",
-      "title": "drunken-confession 보강: 원인 간선",
-      "priority": 30,
-      "note": "2026-11-17 과음→털어놓기 인과 대목 재검색. 찾은 것은 모두 '많이 마시고 털어놓았다' 꼴의 순차 서술이라 원인 근거 아님: aol.com 41-people-reveal-drunken-confession-020059548 2024-12-14, aol.com purposely-baby-trapped-60-dark-063126841 2025-01-20, factinate when-the-dark-truth-finally-comes-out. 학술 후보 Ingham 외 1977 Alcohol Consumption and Self-disclosure(British Journal of Addiction 72(4), 'self-disclosure increases with consumption') 는 UWE, Wiley 403. 반대 결과: Schippers 1997",
-      "createdAt": "2026-11-17T21:12:49.918Z",
-      "seq": 5499
-    },
-    {
-      "id": "67e0f084",
-      "title": "nitpicking 보강: 원인 간선",
-      "priority": 30,
-      "note": "2026-11-17 원한·화풀이→트집 인과 대목 재검색 실패. 가까운 것: marriage.com displaced-anger 2023-08-14 목록 'Becoming impatient or critical over small things'(인과가 목록으로 떨어짐), fnnews 202604061436166299 짜증. 남은 길: 판결문 '앙심을 품고' '트집', Gutenberg 'out of spite' 'found fault'. 이전: Spokesman 1997-05-12 immaturity-adds-to-marital-problems, PMC8474672",
-      "createdAt": "2026-11-17T21:19:20.697Z",
-      "seq": 5500
-    },
-    {
-      "id": "e6b0773d",
-      "title": "leaving-after-hitting-parked-car 보강: 학술 파편",
-      "priority": 30,
-      "note": "2026-11-18 학술 검색 결과 없음(자기보고 설문뿐). 매체 후보: aa.co.nz car-park-dings 2,068명 중 88% 쪽지 없음, carsales.com.au 151187 호주 60%, eftm.com 2011-11 2210. 클리앙 park/19183210 SNS 는 추가함",
-      "createdAt": "2026-11-18T03:30:15.262Z",
-      "seq": 5548
-    },
-    {
-      "id": "96176db0",
-      "title": "borrowing-to-avoid-asking-family 보강: 공공 파편, SNS 파편",
-      "priority": 30,
-      "note": "2026-11-18 pew.org 2013-02-01 보도자료는 봇 확인(이 저장소에서 Pew 는 매체). FCA 2014 esro 와 price-cap research 는 PDF. sbs.com.au insight nls314bw3 'too proud to seek help'(매체). Straight Dope search.json 1인칭 대목 없음",
-      "createdAt": "2026-11-18T03:30:19.543Z",
-      "seq": 5549
-    },
-    {
-      "id": "6dab0be0",
-      "title": "keeping-misdelivered-packages 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-18 레이디경향 2026-11-13 매체 파편 추가함. easylaw.go.kr 검색에 오배송 택배 페이지 안 나옴. 후보 아님: munhwa.com 11092566 2018 판결 기사(특정 개인 사건), lawtalk 상담글. brunch @elsugarlife/102 '또 택배가 잘못 오고 말았다'(매체, 블로그 계정 규칙 확인)",
-      "createdAt": "2026-11-18T03:30:35.087Z",
-      "seq": 5550
-    },
-    {
-      "id": "75691b95",
-      "title": "reaching-to-call-the-dead 보강: continuing-bonds 관계",
-      "priority": 30,
-      "note": "2026-11-18 Wordsworth 1815 문학 파편 추가함. PMC8858332 에 continuing bond 언급 없음. 다른 문학 후보: standardebooks War and Peace chapter-3-2-8 'he had forgotten she was dead', To the Lighthouse chapter-2-3 'he stretched his arms out. They remained empty.'",
-      "createdAt": "2026-11-18T03:30:59.291Z",
-      "seq": 5551
-    },
-    {
-      "id": "64cd4b5f",
-      "title": "reaching-to-call-the-dead 보강: 원인 간선",
-      "priority": 30,
-      "note": "2026-11-18 원인 상대 문서(습관, 자동성 등) 없음. 후보: Next Big Idea Club 2022-03-01 O'Connor 발췌 'two conflicting streams of information'",
-      "createdAt": "2026-11-18T03:31:05.780Z",
-      "seq": 5552
-    },
-    {
-      "id": "74b397f9",
-      "title": "pretending-to-understand 보강: 결과 간선",
-      "priority": 30,
-      "note": "2026-10-22: 결과 상대 문서 없음(지시를 잘못 따름, 복약 오류 등). 후보: superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨, hearinghealthmatters 2013 'bluffing, which is a powerful recipe for trouble'. '의사 지시를 잘못 이해한 채 따르기' 신규 문서와 함께 처리",
-      "createdAt": "2026-11-18T03:31:26.711Z",
-      "seq": 5555
-    },
-    {
-      "id": "51252c28",
-      "title": "disabling-auto-stop-start 보강: engine-idling 관계",
-      "priority": 30,
-      "note": "2026-11-18 SNS 파편 둘(911uk 2013-08-20, 클리앙 cm_car/18779576) 더함. 기능을 끈 탓에 정차 중 공회전이 는다는 인과 대목은 못 찾음. 후보: talkofthevillages stop-star-feature 358835 (2025-05-21 'Hate it, I turn it off every time I drive.'), 클리앙 park/18796047 (2024-09-05 재시동 떨림과 출발 지연 때문에 끈다, 원인 근거 후보), z4-forum 136144",
-      "createdAt": "2026-11-18T09:10:31.750Z",
-      "seq": 5571
-    },
-    {
-      "id": "45a050e6",
-      "title": "ignoring-boil-water-advisories 보강: 원인(번거로움), 한국어 파편",
-      "priority": 30,
-      "note": "2026-11-18 SNS 파편 talkofthevillages t-160344 (2015-08-26 끓임 공지 경시) 더함. 번거로워서 끓이지 않았다는 본인 진술 못 찾음, 번거로움 문서도 없음. 후보: gransnet 1336103 ?pg=5 (2024-05-18 배우자가 수돗물 고집), city-data austin 974182 (2010-05-12), talkofthevillages t-27834 (2010-03-09). Reddit 은 403",
-      "createdAt": "2026-11-18T09:23:20.330Z",
-      "seq": 5572
-    },
-    {
-      "id": "030ed920",
-      "title": "heat-or-eat 보강: energy-limiting-behavior 대립 관계",
-      "priority": 30,
-      "note": "2026-11-18 한국어 파편(주간경향 2011) 추가함. 후보: hankookilbo 201501271862813849 (2015-01-27) '약값을 내고 끼니만 겨우 해결할 수 있는 수준이라 겨울에는 차가운 냉방에서 버티고 있어야 한다' 는 끼니 때문에 난방을 못 함(인과). 같은 주간경향 기사 당사자 말 '난방비 대느라 먹을 것을 아껴서인지'",
-      "createdAt": "2026-11-18T15:23:10.482Z",
-      "seq": 5595
-    },
-    {
-      "id": "9bf9eeb5",
-      "title": "pre-wedding-doubts 보강: 결과 간선(이혼 문서가 생기면)",
-      "priority": 30,
-      "note": "2026-10-23 공공 파편 재탐색 실패: news.seoul.go.kr/welfare/archives/572998 (2025-09-01) 예비부부 막막함·부담감만, 의심 아님. aifs.gov.au Family Matters 54 봇 확인, ag.gov.au/node/3092 연결 끊김, msstate 1997 404. 공공 종류는 이 현상을 직접 받치는 글이 드묾. 이혼이나 결혼 만족 문서가 생기면 [^5] 로 결과 간선 / 2026-11-18 이혼 문서 아직 없음",
-      "createdAt": "2026-11-18T15:23:22.402Z",
-      "seq": 5596
-    },
-    {
-      "id": "526ed3c9",
-      "title": "own-face-in-photos 보강: disliking-recorded-own-voice 관계",
-      "priority": 30,
-      "note": "2026-11-02 Gizmodo why-do-we-hate-seeing-photos-of-ourselves-5929667 에 목소리 언급 없음. 공통 상위(자기 모습과 목소리를 낯설어하기) 근거 필요 / 2026-11-18 둘을 견주는 매체 대목 둘(같은 종류라 새 상위 문서 최소 조건 미달): upworthy why-you-look-different-in-mirrors-and-photographs-rp2 (2023-03-12) 'It's sort of similar to how people hate the sound of their own voice.', dazeddigital beauty/article/62596 (2024-05-14) 'flipped image or hearing your voice in the background of someone's Instagram story'. 학술·SNS 대목 필요",
-      "createdAt": "2026-11-18T15:33:23.126Z",
-      "seq": 5597
-    },
-    {
-      "id": "188f24b7",
-      "title": "prospective-memory-failure 보강: 결과 간선(기분 저하)",
-      "priority": 30,
-      "note": "2026-10-23 procrastination 원인 간선과 클리앙 SNS 더함. Mogle 2019 [^4] 실패한 날 부정 정서 높음, 기분 저하 문서가 생기면 결과 간선. solvingprocrastination.com Zuber 소개 글 발행일 미상. clien park/2822600 (2012-05-18) 약 깜빡 제목만 / 2026-11-18 기분 저하 문서 아직 없음",
-      "createdAt": "2026-11-18T15:34:45.801Z",
-      "seq": 5598
-    },
     {
       "id": "7e6f2443",
       "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안)",
@@ -259,14 +91,6 @@
       "note": "2026-11-19 재탐색. bchydro 첫 문장 'increased use of A/C in B.C. workplaces is leading to worker discomfort and conflict' 는 냉방 사용이 원인이라 추위 체감 간선 근거로 약하고 [^5] 와 같은 출처. achrnews 130364 (2015-08-17) 'differences in temperature preference between men and women also compounds the problem' 후보. uk.news.yahoo bit-hot-under-collar 인과 없음",
       "createdAt": "2026-11-19T03:07:00.737Z",
       "seq": 5664
-    },
-    {
-      "id": "39bb7d95",
-      "title": "exam-cheating 보강: 원인 간선(성적 압박)",
-      "priority": 30,
-      "note": "2026-11-19 원인 간선 상대 문서(학업 성적 압박)가 없음. challengesuccess 2019 'pressure on students to cheat just to get a good grade', weekly.khan 8677 (2004-12-09) 교사 '하루에 결판난다는 중압감이 이런 범죄로 이어졌다'. 신규 현상 후보: 시험 성적 압박",
-      "createdAt": "2026-11-19T03:10:15.042Z",
-      "seq": 5665
     },
     {
       "id": "1a1a91a1",
@@ -1077,6 +901,102 @@
       "seq": 6475
     },
     {
+      "id": "0e7ea8ca",
+      "title": "wiping-glasses-to-buy-time 보강: SNS 또는 학술 파편",
+      "priority": 30,
+      "note": "2026-11-24 westsidetoastmasters chap13 은 저자 표시가 없고 2014 몸짓 사전과 같은 면이라 미사용. 'clean my glasses' buy time/stall 포럼 검색, online-literature t-77443, andyeklund p=7675 에 해당 대목 없음",
+      "createdAt": "2026-11-24T15:14:24.379Z",
+      "seq": 6515
+    },
+    {
+      "id": "86c38101",
+      "title": "blame-contagion 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-17 문서는 최소 조건 충족, 공공 출처 탐색이 여러 회차 실패해 priority 낮춤. 2026-11-16 gov.uk 검색 API 약 150건, gov.scot 41건, PSNet 에서 전염·하향 방향 공공 대목 없음. 남은 후보: committees.parliament.uk, 호주 왕립위원회 HTML, 국회입법조사처",
+      "createdAt": "2026-11-24T15:14:30.093Z",
+      "seq": 6516
+    },
+    {
+      "id": "4e1527af",
+      "title": "grade-pressure 와 test-anxiety 관계",
+      "priority": 30,
+      "note": "2026-11-24 grade-pressure 신설. 성적 압박 때문에 시험 불안이 생긴다는 원문이 있으면 원인 간선. challengesuccess 2019 같은 쪽 '74% worry quite a bit or a lot about taking assessments'(인과 표현 없음)",
+      "createdAt": "2026-11-24T15:17:01.121Z",
+      "seq": 6517
+    },
+    {
+      "id": "603e5a18",
+      "title": "drunken-confession 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-24 kormedi.com/1733599 (2024-11-04) 사진 설명 '술은 전두엽의 기능을 떨어뜨려 억눌렸던 속마음을 털어놓게 만들기도 한다' 는 술 일반이라 heavy-drinking 원인 근거로 약함. '과음하면' 꼴 원문 미발견. 이전: aol 2024-12-14, Ingham 1977(403)",
+      "createdAt": "2026-11-24T15:18:01.781Z",
+      "seq": 6518
+    },
+    {
+      "id": "27e2fc2e",
+      "title": "nitpicking 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-17 원한·화풀이→트집 인과 대목 재검색 실패. 가까운 것: marriage.com displaced-anger 2023-08-14 목록 'Becoming impatient or critical over small things'(인과가 목록으로 떨어짐), fnnews 202604061436166299 짜증. 남은 길: 판결문 '앙심을 품고' '트집', Gutenberg 'out of spite' 'found fault'. 이전: Spokesman 1997-05-12 immaturity-adds-to-marital-problems, PMC8474672",
+      "createdAt": "2026-11-24T15:18:10.565Z",
+      "seq": 6519
+    },
+    {
+      "id": "68947bbf",
+      "title": "pretending-to-understand 보강: 결과 간선",
+      "priority": 30,
+      "note": "2026-10-22: 결과 상대 문서 없음(지시를 잘못 따름, 복약 오류 등). 후보: superookie.com/contents/5f55ac838b129f4015137a8b (발행일 미상) 무조건 Yes 가 비웃음거리가 됨, hearinghealthmatters 2013 'bluffing, which is a powerful recipe for trouble'. '의사 지시를 잘못 이해한 채 따르기' 신규 문서와 함께 처리",
+      "createdAt": "2026-11-24T15:23:32.418Z",
+      "seq": 6526
+    },
+    {
+      "id": "983ac175",
+      "title": "clearing-notification-badges 보강: 학술 파편, muting-chat-notifications 관계",
+      "priority": 30,
+      "note": "2026-11-24 매체 2(Rosen 2018-03, 인사이트 2018-05)와 SNS 1. 학술 후보 PMC9246170 배지 클릭 실험은 이 환경에서 20KB 봇 페이지. 인사이트 기사 뒷부분은 배지 표시 끄는 방법이라 muting-chat-notifications 와 이어질 수 있으나 인과 문장 없음",
+      "createdAt": "2026-11-24T15:25:51.692Z",
+      "seq": 6527
+    },
+    {
+      "id": "b6ed1804",
+      "title": "disabling-auto-stop-start 보강: engine-idling 관계",
+      "priority": 30,
+      "note": "2026-11-18 SNS 파편 둘 더함. 2026-11-24 끈 탓에 정차 중 공회전이 는다는 인과 대목 재검색 실패(motor1 804812, carscoops 2025-07, consumerreports 연비). 후보: talkofthevillages 358835, 클리앙 park/18796047, z4-forum 136144",
+      "createdAt": "2026-11-24T15:26:19.329Z",
+      "seq": 6528
+    },
+    {
+      "id": "41d8f2f5",
+      "title": "ignoring-boil-water-advisories 보강: 원인(번거로움), 한국어 파편",
+      "priority": 30,
+      "note": "2026-11-18 SNS talkofthevillages t-160344 더함. 2026-11-24 '끓여 마시라 안내에도' 한국어 기사 검색 실패(도봉구, 인천시 안내 페이지뿐). 후보: gransnet 1336103 ?pg=5, city-data austin 974182, talkofthevillages t-27834. Reddit 403",
+      "createdAt": "2026-11-24T15:26:35.945Z",
+      "seq": 6529
+    },
+    {
+      "id": "b415144a",
+      "title": "pre-wedding-doubts 보강: 결과 간선(이혼 문서가 생기면)",
+      "priority": 30,
+      "note": "2026-10-23 공공 파편 재탐색 실패(news.seoul 572998, aifs 봇, ag.gov.au 끊김). 이혼이나 결혼 만족 문서가 생기면 [^5] 로 결과 간선 / 2026-11-24 이혼 문서 아직 없음",
+      "createdAt": "2026-11-24T15:29:28.776Z",
+      "seq": 6530
+    },
+    {
+      "id": "1ab02a8f",
+      "title": "own-face-in-photos 보강: disliking-recorded-own-voice 관계",
+      "priority": 30,
+      "note": "2026-11-18 매체 대목 둘(upworthy 2023-03-12, dazeddigital 62596 2024-05-14). 2026-11-24 Straight Dope 목소리 스레드 449043, 582431, 589365 에 사진 언급 없음. 학술·SNS 대목 필요",
+      "createdAt": "2026-11-24T15:29:53.632Z",
+      "seq": 6531
+    },
+    {
+      "id": "ca6af6a3",
+      "title": "prospective-memory-failure 보강: 결과 간선(기분 저하)",
+      "priority": 30,
+      "note": "2026-10-23 Mogle 2019 [^4] 실패한 날 부정 정서 높음, 기분 저하 문서가 생기면 결과 간선. clien park/2822600 (2012-05-18) / 2026-11-24 기분 저하 문서 아직 없음(find 기분: mood-repair 등 회복 쪽뿐)",
+      "createdAt": "2026-11-24T15:30:02.128Z",
+      "seq": 6532
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1771,6 +1691,54 @@
       "note": "2026-11-24 2001 Straight Dope leaving-stuff-on/66895 파편 추가('doesn’t remember to shut them off'). 상대가 될 '나갈 때 불 끄기 잊기' 류 문서 없음. grist 2009-06-10 ask-umbra-ungreen-roommates 일부러 켜 두기 대목 후보",
       "createdAt": "2026-11-24T03:34:41.458Z",
       "seq": 6462
+    },
+    {
+      "id": "690bb993",
+      "title": "leaving-after-hitting-parked-car 보강: 학술 파편",
+      "priority": 20,
+      "note": "2026-11-24 학술 재검색 실패, 보험사·블랙박스 설문뿐. 매체 후보: valuepenguin.com/parked-car-damage-survey 피해자 70% 쪽지 없음 대 가해자 67% 남겼다, columbian.com 2013 PEMCO 워싱턴 28%, money.com.au 2026-01 57%. 이전: aa.co.nz, carsales 151187, eftm 2011-11",
+      "createdAt": "2026-11-24T15:20:20.303Z",
+      "seq": 6520
+    },
+    {
+      "id": "ca62642f",
+      "title": "declining-free-meals-out-of-pride 보강: 한국 노인 무료급식 파편",
+      "priority": 20,
+      "note": "2026-11-24 jjan.kr 20210524732823, sidae.com 2017021613558072415, bravo.etoday 13677 에 체면·창피 대목 없음. koreascience JAKO201434441683681 (2014 도시락 배달) 초록 'feeling of stigma' 는 받으면서 느끼는 낙인이라 받지 않기 근거 아님",
+      "createdAt": "2026-11-24T15:21:11.721Z",
+      "seq": 6521
+    },
+    {
+      "id": "3f58babf",
+      "title": "borrowing-to-avoid-asking-family 보강: 공공 파편",
+      "priority": 20,
+      "note": "2026-11-24 SNS 는 Blind 2026-06-01 로 채움. 공공 후보 없음: pew 2012·2013 은 비영리(매체), washingtontimes 2015-08-31 대출자 일화(매체). CFPB 조사 미확인",
+      "createdAt": "2026-11-24T15:22:26.399Z",
+      "seq": 6522
+    },
+    {
+      "id": "5dc52018",
+      "title": "keeping-misdelivered-packages 보강: 공공 파편",
+      "priority": 20,
+      "note": "2026-11-24 korea.kr, police.go.kr 검색에 오배송 택배 안내 없음(lawtalk, segye 2021-10-21 절도 기사, news1 4798403 뿐). 이전: easylaw.go.kr 없음, munhwa 11092566 개인 사건",
+      "createdAt": "2026-11-24T15:22:54.031Z",
+      "seq": 6523
+    },
+    {
+      "id": "90641b68",
+      "title": "reaching-to-call-the-dead 보강: continuing-bonds 관계",
+      "priority": 20,
+      "note": "2026-11-18 Wordsworth 1815 추가함. 2026-11-24 continuing bonds 와 전화·음성사서함 검색: Hewson 2023 리뷰 PDF, newstatesman 2017-04 texting-dead(의도적 문자라 이 문서와 다름). 습관적 전화 시도를 유대로 묶는 원문 미발견. 문학 후보: War and Peace 3-2-8, To the Lighthouse 2-3",
+      "createdAt": "2026-11-24T15:23:13.382Z",
+      "seq": 6524
+    },
+    {
+      "id": "2133d769",
+      "title": "reaching-to-call-the-dead 보강: 원인 간선",
+      "priority": 20,
+      "note": "2026-11-18 원인 상대 문서(습관, 자동성 등) 없음. 후보: Next Big Idea Club 2022-03-01 O'Connor 발췌 'two conflicting streams of information'. 2026-11-24 그대로",
+      "createdAt": "2026-11-24T15:23:27.366Z",
+      "seq": 6525
     },
     {
       "id": "9c55db6a",
@@ -3467,6 +3435,14 @@
       "note": "2026-11-24 ghosting 요약이 연애 관계로 한정돼 친구 사이는 별도 현상. 경향신문 202606120600061 페트먼 『고스팅』 서평 '가족이나 친구들로부터 완전히 물러나버리는 것'(ghosting [^5] 와 같은 출처라 새 문서에서 쓸 수 있음). 상위 후보 ghosting 아님, 형제 관계",
       "createdAt": "2026-11-24T03:34:54.944Z",
       "seq": 6463
+    },
+    {
+      "id": "0d6de8c2",
+      "title": "퇴사 충동",
+      "priority": 10,
+      "note": "2026-11-24 deciding-to-quit-job 과 구별되는지 먼저 볼 것(충동은 결심 전). 후보: wikitree 1140150 '사직서 품고 사는 직장인', 잡코리아·월간 인재경영 1,121명 94.6% 사표 충동(insight 221574 또는 67195), 인크루트 2019 1,206명 91% 퇴사 고민",
+      "createdAt": "2026-11-24T15:30:27.564Z",
+      "seq": 6533
     },
     {
       "id": "02b2f242",
