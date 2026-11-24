@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T00:37:02.285Z",
-  "nextSeq": 6447,
-  "stops": 341,
+  "savedAt": "2026-11-24T03:37:37.890Z",
+  "nextSeq": 6465,
+  "stops": 342,
   "items": [
-    {
-      "id": "153a251f",
-      "title": "following-applause 보강: SNS 파편, 잘못 친 박수의 창피함",
-      "priority": 50,
-      "note": "2026-11-24 dailymaverick 2025-06-02 'My humiliation (and my friend's embarrassment) came at the first lull in the music'. seoul.co.kr 1996-07-31 19960731013001 '악장이 끝날 때마다 박수를 치는 것은 물론,휘파람을 불어대고 괴성을 지릅니다.' SNS 후보 violinist.com discussion 8903, 14667 (503), ask.metafilter 359823 (403). 창피함은 별도 현상 후보",
-      "createdAt": "2026-11-24T00:36:36.211Z",
-      "seq": 6446
-    },
-    {
-      "id": "8d82229b",
-      "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
-      "priority": 30,
-      "note": "2026-11-14 인과 문장 미발견. lady.khan 202610270700001 '예전의 열등감이나 불편한 인간관계가 되살아나기도 한다'(인과 아님). v.daum.net/v/YsTvkSPK9M 비교로 인생이 초라하게 느껴짐(미확인). wkorea 2025-11-01 질투는 처지 비슷한 사람에게. psychologytoday 199203 fear-and-loathing-high-school-reunions",
-      "createdAt": "2026-11-14T21:22:47.078Z",
-      "seq": 5058
-    },
-    {
-      "id": "4fb0a3f0",
-      "title": "rereading-received-messages 관계: 원인·결과 간선과 사별 학술 파편",
-      "priority": 30,
-      "note": "2026-10-22 Carter 2018 PMC5858224 [^4] 사용(같은 글 'It may be that re-reading letters does not directly impact relationship satisfaction, but instead helps with individual coping, stress, and mental health' 저자 추측, 같은 URL). 후보: PMC8669216 (Holtzman 2021-11-14) 'by allowing them to reminisce about a partner by re-reading texts'. frontiersin fpsyg.2016.00870 (Thomas 2016) 're-experienced when re-reading posts' 문장 260자. 사별 학술 문장 미발견(Herron 2016, Odom 2010 PDF). keeping-belongings-of-the-dead 관계 후보",
-      "createdAt": "2026-11-15T03:10:53.794Z",
-      "seq": 5078
-    },
-    {
-      "id": "383417b4",
-      "title": "using-resignation-agency 관계: 상사 괴롭힘과의 원인 간선",
-      "priority": 30,
-      "note": "2026-11-15 persol 2025 칼럼(이미 [^4]) '退職代行サービス運営企業は、退職代行サービスの利用理由として、上司のハラスメントが最も多いことを指摘している' 이유 문장. 상대가 될 '직장 상사 괴롭힘 받기' 문서 없음(enduring-workplace-harassment 는 참고 넘기기라 다름)",
-      "createdAt": "2026-11-15T03:33:33.476Z",
-      "seq": 5083
-    },
-    {
-      "id": "81687874",
-      "title": "sensation-seeking 보강: 공공 파편, 날짜 있는 매체 파편, speeding 관계",
-      "priority": 30,
-      "note": "2026-11-15 공공 후보: wa.gov.au review-of-young-driver-risk-taking (2021-09-10) 감각 추구와 사고 위험 근거가 덜 일관적이라는 대목(문장 245자라 못 씀), youth.gov driver-safety/youth-risk 발행일 미상 'sensation-seeking personality' 문장이 (i.e. 로 길다. archives.nida.nih.gov 2016/05 NIDA Notes 와 infrastructure.gov.au RSRG_2009002 는 연결 안 됨(000). 이전: Straight Dope everest-just-dont-do-it/755397 'the risk IS the allure' 후보",
-      "createdAt": "2026-11-15T09:12:38.566Z",
-      "seq": 5143
-    },
-    {
-      "id": "a74b35ca",
-      "title": "discarding-paper-receipts 보강: 학술 파편, 10년 떨어진 시기",
-      "priority": 30,
-      "note": "2026-11-15 영문 검색 결과 업체·단체 조사뿐(Yocuda 2024, Green America, YouGov). 학술 미발견. 이전: aashe 15184 2016, PubMed 무관, koreascience JAKO201821464987902 버림 대목 없음. RISS·KCI '영수증 폐기'",
-      "createdAt": "2026-11-15T09:14:23.986Z",
-      "seq": 5144
-    },
-    {
-      "id": "1547b5b8",
-      "title": "weaponized-incompetence 보강: feigning-ignorance 관계",
-      "priority": 30,
-      "note": "2026-11-16 1970 Mainardi, 허프포스트코리아 261009 파편 추가함. HN 140974 2008 댓글 'do it so badly' 와 Car Talk 'theory of planned incompetence for husbands' 별칭 후보. SBS N1008691158 2026-08 무기화된 무능력 Q&A 후보",
-      "createdAt": "2026-11-16T21:21:14.509Z",
-      "seq": 5376
-    },
-    {
-      "id": "42784158",
-      "title": "leaving-lights-on-in-empty-rooms 보강: 2000년대 파편, 잊기 현상 관계",
-      "priority": 30,
-      "note": "2026-11-16 Luyben 1980 PMC1308167, modbs 2013 파편 추가함. smdp.com 2007-10-20 'they may not leave that light on when they leave a room' 후보(인용 뒤 실명). Smart Energy GB 2018 '잊어버림 29%'. smallbusiness.co.uk 2017 26% 후보",
-      "createdAt": "2026-11-16T21:32:17.740Z",
-      "seq": 5378
-    },
-    {
-      "id": "0bcb4564",
-      "title": "ghosting 보강: 친구 사이 고스팅, 페트먼 『고스팅』 서평",
-      "priority": 30,
-      "note": "2026-11-16 코메디닷컴 1379459 2022 잠수타기 파편과 별칭 추가함. 경향신문 202606120600061 에 페트먼이 고스팅을 '가족이나 친구들로부터 완전히 물러나버리는 것' 이라 본다는 대목, 같은 출처라 다른 출처 필요",
-      "createdAt": "2026-11-16T21:34:06.485Z",
-      "seq": 5379
-    },
     {
       "id": "70e0e1bb",
       "title": "startled-by-doorbell 보강: pretending-not-to-be-home 관계",
@@ -139,14 +67,6 @@
       "note": "2026-11-17 SNS 파편(Straight Dope 822154 2018) 추가함. 피로 문서는 논쟁을 주고받는 피로라 간선 근거 대목 필요. GWI 2024-10-02 'As such' 대목은 콘텐츠가 벅차다는 이유",
       "createdAt": "2026-11-17T21:30:05.011Z",
       "seq": 5506
-    },
-    {
-      "id": "275743ae",
-      "title": "pressure-to-get-likes 와 checking-likes-after-posting 관계",
-      "priority": 30,
-      "note": "2026-11-17 HN 18583879 2018-12-02 는 좋아요에 매달려 많이 받을 글을 올린다는 대목으로 확인 행동과의 인과는 없음(pressure-to-get-likes 자체의 SNS 후보). HN Algolia 'keep checking likes pressure', 'obsessively check likes' 결과 없음. 이전: PMC12351196",
-      "createdAt": "2026-11-17T21:32:51.085Z",
-      "seq": 5509
     },
     {
       "id": "e6b0773d",
@@ -1101,6 +1021,38 @@
       "seq": 6443
     },
     {
+      "id": "9a46993c",
+      "title": "comparing-lives-with-old-friends 관계: flattering-superiors",
+      "priority": 30,
+      "note": "2026-11-24 envy 결과 간선은 mags-clarksmith 2021 로 그음. 1883 단편 [^1] 의 아첨 장면이 flattering-superiors 결과 간선 후보, 인과 대목 필요",
+      "createdAt": "2026-11-24T03:14:07.009Z",
+      "seq": 6457
+    },
+    {
+      "id": "cd57c332",
+      "title": "rereading-received-messages 관계: 원인 간선(그리움, 사별)",
+      "priority": 30,
+      "note": "2026-11-24 결과 쪽 근거는 [^6] 확보, 상대 문서 '헤어진 연인 그리워하기' 없음. 그리움 때문에 다시 읽는다는 원인 대목 미발견, continuing bonds 질적 연구 후보",
+      "createdAt": "2026-11-24T03:19:59.064Z",
+      "seq": 6459
+    },
+    {
+      "id": "28ada265",
+      "title": "sensation-seeking 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-24 Cantwell 2010 파편과 speeding 간선 추가, [^1] psychologytoday 문구 바뀌어 소멸. 공공 후보 aic.gov.au crg-1301-02(503), rosap.ntl.bts.gov NHTSA Motivations for Speeding(403). 예비: huji Peer & Rosenbloom 2013, psychologytoday 200011 Zuckerman reckless driving",
+      "createdAt": "2026-11-24T03:27:47.685Z",
+      "seq": 6461
+    },
+    {
+      "id": "ebd75ebe",
+      "title": "pressure-to-get-likes 와 checking-likes-after-posting 관계",
+      "priority": 30,
+      "note": "2026-11-24 인과 대목 미발견. seoul.co.kr 20210626500019 사진 설명 '확인하느라 스마트폰에서 눈을 떼지 못하는'(본문 실명 사례), psychology.org.au 2024 aps-in-the-media 229자, womensmediacenter fbomb the-problem-with-likes 2014 좋아요 적으면 사진 삭제. 후보 psypost fear-of-missing-out 디지털 좋아요 기사, gall.dcinside weekhealthy/5797. 이전: HN 18583879, PMC12351196",
+      "createdAt": "2026-11-24T03:37:15.009Z",
+      "seq": 6464
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1779,6 +1731,22 @@
       "note": "2026-11-22 학술 후보 못 찾음. MDPI Aerospace 2026 은 403. 2026-11-23 arXiv 2303.03264, PMC7058282, RePEc Wald 2014 버림. 다시 미룸",
       "createdAt": "2026-11-23T15:26:17.062Z",
       "seq": 6418
+    },
+    {
+      "id": "b0fbb6ab",
+      "title": "using-resignation-agency 관계: 상사 괴롭힘과의 원인 간선",
+      "priority": 20,
+      "note": "2026-11-24 상대 문서 없어 보류. persol 2025 칼럼(이미 [^4]) '退職代行サービスの利用理由として、上司のハラスメントが最も多い'. 먼저 '직장 상사 괴롭힘 당하기' 문서 필요",
+      "createdAt": "2026-11-24T03:20:09.737Z",
+      "seq": 6460
+    },
+    {
+      "id": "a078039c",
+      "title": "leaving-lights-on-in-empty-rooms 관계: 잊기 현상",
+      "priority": 20,
+      "note": "2026-11-24 2001 Straight Dope leaving-stuff-on/66895 파편 추가('doesn’t remember to shut them off'). 상대가 될 '나갈 때 불 끄기 잊기' 류 문서 없음. grist 2009-06-10 ask-umbra-ungreen-roommates 일부러 켜 두기 대목 후보",
+      "createdAt": "2026-11-24T03:34:41.458Z",
+      "seq": 6462
     },
     {
       "id": "9c55db6a",
@@ -3451,6 +3419,30 @@
       "note": "2026-11-23 archive.org questioneddocume00osbo_djvu.txt 'The undisguised and ordinary handwriting of a friend thus becomes to us almost as recognizable as the friend’s face' 2.4MB 라 source-check 타임아웃. 다른 판 필요",
       "createdAt": "2026-11-23T21:21:49.631Z",
       "seq": 6438
+    },
+    {
+      "id": "89e30ed5",
+      "title": "사회 비교 (social comparison)",
+      "priority": 10,
+      "note": "2026-11-24 find '비교' '견주' 에 일반 상위 문서 없음. comparing-lives-with-old-friends, comparing-oneself-on-social-media, comparing-children-to-others 의 상위 후보. Festinger 1954 사회 비교 이론",
+      "createdAt": "2026-11-24T03:09:42.197Z",
+      "seq": 6456
+    },
+    {
+      "id": "f00c51c4",
+      "title": "헤어진 연인 그리워하기",
+      "priority": 10,
+      "note": "2026-11-24 rereading-received-messages [^6] elitedaily 2019 'the loving texts will just make you miss your ex' 가 원인 간선 근거. elitedaily 2020 21772689 'seeing their old messages may cause more pain and confusion'(215자), theconversation 194727 2022 'unable to fully detach' 후보",
+      "createdAt": "2026-11-24T03:19:59.002Z",
+      "seq": 6458
+    },
+    {
+      "id": "ba4dd1c0",
+      "title": "친구 사이 고스팅",
+      "priority": 10,
+      "note": "2026-11-24 ghosting 요약이 연애 관계로 한정돼 친구 사이는 별도 현상. 경향신문 202606120600061 페트먼 『고스팅』 서평 '가족이나 친구들로부터 완전히 물러나버리는 것'(ghosting [^5] 와 같은 출처라 새 문서에서 쓸 수 있음). 상위 후보 ghosting 아님, 형제 관계",
+      "createdAt": "2026-11-24T03:34:54.944Z",
+      "seq": 6463
     },
     {
       "id": "02b2f242",
