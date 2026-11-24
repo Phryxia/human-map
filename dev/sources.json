@@ -35822,5 +35822,17 @@
     "last": "2026-11-24",
     "result": "VERIFIED",
     "lastVerified": "2026-11-24"
+  },
+  "https://nces.ed.gov/pubs2010/2010004/index.asp": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://ies.ed.gov/learn/blog/new-report-school-choice-united-states": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
   }
 }
