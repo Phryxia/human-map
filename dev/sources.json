@@ -19781,21 +19781,21 @@
   },
   "https://www.gutenberg.org/cache/epub/2641/pg2641.txt": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
-    "result": "VERIFIED",
+    "last": "2026-11-24",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-06"
   },
   "https://www.pewresearch.org/internet/2011/08/15/americans-and-their-cell-phones-3/": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-24"
   },
   "https://www.wccbcharlotte.com/?p=588316": {
     "first": "2026-11-05",
-    "last": "2026-11-06",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-24"
   },
   "https://www.tes.com/news/primary-pupils-who-fear-transition": {
     "first": "2026-11-05",
@@ -20433,15 +20433,15 @@
   },
   "https://www.clien.net/service/board/park/16264431": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-24"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11602955/": {
     "first": "2026-11-06",
-    "last": "2026-11-06",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-06"
+    "lastVerified": "2026-11-24"
   },
   "https://www.nyc.gov/html/dep/html/press_releases/19-008pr.shtml": {
     "first": "2026-11-06",
@@ -35518,6 +35518,12 @@
     "lastVerified": "2026-11-24"
   },
   "https://www.heraldk.com/article/2026030402270128035": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://theweek.com/news/society/961794/phubbing-a-marriage-wrecking-habit": {
     "first": "2026-11-24",
     "last": "2026-11-24",
     "result": "VERIFIED",

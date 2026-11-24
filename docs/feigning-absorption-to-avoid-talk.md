@@ -16,7 +16,9 @@
 
 2021년 댓글[^4]의 글쓴이는 주변 사람이 말을 거는 것이 싫을 때 이어폰이나 헤드폰만 낀다고 적었다.
 
-2024년 논문[^5]은 예전에는 기차에서 신문과 잡지를 읽으면 방해하지 말라는 뜻이 저절로 전해졌고 지금은 스마트폰과 헤드폰이 그 일을 한다고 썼다.
+2023년 기사[^5]는 예전 부부들도 골프 클럽이나 헛간으로 물러나거나 신문 뒤에 숨거나 개에게 정성을 쏟지 않았느냐고 묻는다.
+
+2024년 논문[^6]은 예전에는 기차에서 신문과 잡지를 읽으면 방해하지 말라는 뜻이 저절로 전해졌고 지금은 스마트폰과 헤드폰이 그 일을 한다고 썼다.
 
 # 관계
 
@@ -46,4 +48,5 @@
 [^2]: [매체] "Cell phones can help prevent unwanted personal interactions – 13% of cell owners pretended to be using their phone in order to avoid interacting with the people around them." (휴대폰은 원치 않는 대면을 막는 데 쓰인다. 휴대폰 소유자의 13%가 주변 사람과 상호작용하지 않으려고 휴대폰을 쓰는 척했다.) — Pew Research Center, "Americans and Their Cell Phones", 2011-08-15, https://www.pewresearch.org/internet/2011/08/15/americans-and-their-cell-phones-3/, 2026-11-05 접속
 [^3]: [매체] "1-in-5 said they wear them to keep from getting distracted at work, but almost half said they wear headphones because they don’t want to be bugged by other people." (다섯 명 가운데 한 명은 일할 때 방해받지 않으려고 헤드폰을 쓴다고 했지만, 절반 가까이는 다른 사람이 귀찮게 하는 것을 원치 않아서 헤드폰을 쓴다고 답했다.) — Scott Mitchell, "Lots of People Wear Headphones To Avoid Talking To Others", WCCB Charlotte, 2019-07-09, https://www.wccbcharlotte.com/?p=588316, 2026-11-05 접속
 [^4]: [SNS] "주변 사람들 말 거는거 싫을때 그냥 이어폰.헤드폰만 껴요" — 클리앙, 댓글, 2021-06-25, https://www.clien.net/service/board/park/16264431, 2026-11-06 접속
-[^5]: [학술] "Where people used to read newspapers and magazines on the train automatically signalling “do not disturb”, new technologies such as smartphones and headphones act as protective shields today" (예전에는 기차에서 신문과 잡지를 읽으면 저절로 '방해하지 마시오' 라는 신호가 갔지만, 오늘날에는 스마트폰과 헤드폰 같은 새 기술이 보호막 구실을 한다) — S. Diefenbach 외, "Psychological needs related to civil inattention: A qualitative and quantitative view on public encounters", British Journal of Social Psychology 64(1), 2024-11-27, https://pmc.ncbi.nlm.nih.gov/articles/PMC11602955/, 2026-11-06 접속
+[^5]: [매체] "didn’t they retreat to the golf club or the shed, sit glued to the cricket, hide behind a newspaper, or lavish attention on the dog?" (그들은 골프 클럽이나 헛간으로 물러나거나, 크리켓 중계에 붙어 앉아 있거나, 신문 뒤에 숨거나, 개에게 정성을 쏟지 않았던가?) — The Week, "Phubbing: a marriage-wrecking habit?", 2023-07-27, https://theweek.com/news/society/961794/phubbing-a-marriage-wrecking-habit, 2026-11-24 접속
+[^6]: [학술] "Where people used to read newspapers and magazines on the train automatically signalling “do not disturb”, new technologies such as smartphones and headphones act as protective shields today" (예전에는 기차에서 신문과 잡지를 읽으면 저절로 '방해하지 마시오' 라는 신호가 갔지만, 오늘날에는 스마트폰과 헤드폰 같은 새 기술이 보호막 구실을 한다) — S. Diefenbach 외, "Psychological needs related to civil inattention: A qualitative and quantitative view on public encounters", British Journal of Social Psychology 64(1), 2024-11-27, https://pmc.ncbi.nlm.nih.gov/articles/PMC11602955/, 2026-11-06 접속
