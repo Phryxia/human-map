@@ -38,7 +38,7 @@
 
 ## 대립
 
-없음.
+- [냉난방 참기](energy-limiting-behavior.md)[^3]
 
 #돈
 
