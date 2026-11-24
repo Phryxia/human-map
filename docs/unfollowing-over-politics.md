@@ -16,9 +16,11 @@
 
 2020년 Hacker News 댓글[^4]의 글쓴이는 정치 이야기를 하는 친구를 모두 언팔로우했고 뉴스피드에서 그런 글을 보고 싶지 않다고 썼다.
 
-2024년 10월 시장조사 회사 보도자료[^5]에서 미국인 2,074명 가운데 25%는 소셜 미디어에서 정치 주제나 낱말, 토론을 음소거하거나 가렸고 19%는 정치 의견 때문에 친구나 가족, 동료를 언팔로우했다. 같은 자료에서 정치 콘텐츠를 피하는 이유로 35%는 벅차다는 느낌을, 32%는 갈등이나 적대적인 분위기를 들었다.[^5]
+2021년 1월 기사[^5]는 정치인의 SNS 에서 갈등 메시지에 지친 시민들이 그 계정을 언팔로우했다고 적었다.
 
-2024년 미국 인구 구성에 맞춘 498명 설문 연구[^6]에서 소셜 미디어에서 정치적 의견 차이를 느낀 사람은 분노를 더 느꼈고 분노는 팔로우 끊기, 친구 끊기와 함께 늘었다.
+2024년 10월 시장조사 회사 보도자료[^6]에서 미국인 2,074명 가운데 25%는 소셜 미디어에서 정치 주제나 낱말, 토론을 음소거하거나 가렸고 19%는 정치 의견 때문에 친구나 가족, 동료를 언팔로우했다. 같은 자료에서 정치 콘텐츠를 피하는 이유로 35%는 벅차다는 느낌을, 32%는 갈등이나 적대적인 분위기를 들었다.[^6]
+
+2024년 미국 인구 구성에 맞춘 498명 설문 연구[^7]에서 소셜 미디어에서 정치적 의견 차이를 느낀 사람은 분노를 더 느꼈고 분노는 팔로우 끊기, 친구 끊기와 함께 늘었다.
 
 # 관계
 
@@ -32,7 +34,7 @@
 
 ## 원인
 
-없음.
+- [온라인 정치 논쟁의 피로](online-political-argument-fatigue.md)[^5]
 
 ## 결과
 
@@ -48,5 +50,6 @@
 [^2]: [매체] "Nearly one-third of social media users (31%) say they have changed their settings in order to see fewer posts from someone in their feeds because of something related to politics" (소셜 미디어 이용자의 3분의 1 가까이(31%)는 정치와 관련된 일 때문에 피드에서 누군가의 게시물을 덜 보도록 설정을 바꿨다고 답했다) — Maeve Duggan, Aaron Smith, 「The tone of social media discussions on politics」, Pew Research Center, 2016-10-25, https://www.pewresearch.org/internet/2016/10/25/the-tone-of-social-media-discussions-around-politics/, 2026-11-17 접속
 [^3]: [SNS] "Nonstop religious or political posts of any stripe will get a person unfollowed; they are still on my friends list but I can’t see their posts unless I look for them." (종교든 정치든 쉼 없이 글을 올리면 언팔로우한다. 그 사람들은 여전히 친구 목록에 있지만 일부러 찾아보지 않는 한 글이 보이지 않는다.) — Straight Dope Message Board 게시글, 2018-09-29, https://boards.straightdope.com/t/where-do-you-draw-the-line-regarding-unfriending-on-social-media/822154, 2026-11-17 접속
 [^4]: [SNS] "Unfollowed every political friend for example. Just don't want that on my newsfeed." (이를테면 정치 얘기를 하는 친구는 모두 언팔로우했다. 그런 걸 뉴스피드에서 보고 싶지 않을 뿐이다.) — Hacker News 댓글, 2020-07-13, https://news.ycombinator.com/item?id=23817993, 2026-11-17 접속
-[^5]: [매체] "As such, a quarter of Americans (25%) have muted and/or hidden political topics, words, or discussions on social media." (그래서 미국인의 4분의 1(25%)이 소셜 미디어에서 정치 주제나 낱말, 토론을 음소거하거나 가렸다.) — GWI, 「A third of Americans are avoiding social media because of election content」, 2024-10-02, https://www.gwi.com/press-releases/americans-social-media-elections, 2026-11-17 접속
-[^6]: [학술] "perceived political disagreement was significantly related to anger, which was further positively associated with both unfollowing and unfriending on social media." (지각된 정치적 의견 차이는 분노와 유의하게 관련되었고, 분노는 다시 소셜 미디어에서의 팔로우 끊기와 친구 끊기 모두와 정적으로 관련되었다.) — Bingbing Zhang, Heather Shoenberger, 「Navigating Political Disagreement on Social Media: How Affective Responses and Belonging Influence Unfollowing and Unfriending」, Media and Communication 12, 2024-12-05, https://www.cogitatiopress.com/mediaandcommunication/article/view/8483, 2026-11-17 접속
+[^5]: [매체] "Although SNS started as two-way communication, citizens exhausted by conflict messages have ended up “unfollowing” them." (SNS 는 쌍방향 소통으로 시작했지만 갈등 메시지에 지친 시민들은 결국 그들을 "언팔로우"하게 됐다.) — Jeon Jinyoung, "Why You 'Unfollowed' Him on His SNS", The Asia Business Daily, 2021-01-31, https://view.asiae.co.kr/en/article/2021013110470592615, 2026-11-24 접속
+[^6]: [매체] "As such, a quarter of Americans (25%) have muted and/or hidden political topics, words, or discussions on social media." (그래서 미국인의 4분의 1(25%)이 소셜 미디어에서 정치 주제나 낱말, 토론을 음소거하거나 가렸다.) — GWI, 「A third of Americans are avoiding social media because of election content」, 2024-10-02, https://www.gwi.com/press-releases/americans-social-media-elections, 2026-11-17 접속
+[^7]: [학술] "perceived political disagreement was significantly related to anger, which was further positively associated with both unfollowing and unfriending on social media." (지각된 정치적 의견 차이는 분노와 유의하게 관련되었고, 분노는 다시 소셜 미디어에서의 팔로우 끊기와 친구 끊기 모두와 정적으로 관련되었다.) — Bingbing Zhang, Heather Shoenberger, 「Navigating Political Disagreement on Social Media: How Affective Responses and Belonging Influence Unfollowing and Unfriending」, Media and Communication 12, 2024-12-05, https://www.cogitatiopress.com/mediaandcommunication/article/view/8483, 2026-11-17 접속
