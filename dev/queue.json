@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-23T21:39:33.965Z",
-  "nextSeq": 6444,
-  "stops": 340,
+  "savedAt": "2026-11-24T00:37:02.285Z",
+  "nextSeq": 6447,
+  "stops": 341,
   "items": [
+    {
+      "id": "153a251f",
+      "title": "following-applause 보강: SNS 파편, 잘못 친 박수의 창피함",
+      "priority": 50,
+      "note": "2026-11-24 dailymaverick 2025-06-02 'My humiliation (and my friend's embarrassment) came at the first lull in the music'. seoul.co.kr 1996-07-31 19960731013001 '악장이 끝날 때마다 박수를 치는 것은 물론,휘파람을 불어대고 괴성을 지릅니다.' SNS 후보 violinist.com discussion 8903, 14667 (503), ask.metafilter 359823 (403). 창피함은 별도 현상 후보",
+      "createdAt": "2026-11-24T00:36:36.211Z",
+      "seq": 6446
+    },
     {
       "id": "8d82229b",
       "title": "comparing-lives-with-old-friends 관계: envy 결과 간선, flattering-superiors",
