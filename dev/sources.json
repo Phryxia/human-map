@@ -24185,21 +24185,21 @@
   },
   "https://www.khan.co.kr/article/200208041601091/amp": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-24"
   },
   "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=2533a994c22c6316e9810257f7042666": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-24"
   },
   "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=cb04d238819674f0e9810257f7042666": {
     "first": "2026-11-10",
-    "last": "2026-11-10",
+    "last": "2026-11-24",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-24"
   },
   "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156584761": {
     "first": "2026-11-10",
@@ -35830,6 +35830,12 @@
     "lastVerified": "2026-11-24"
   },
   "https://ies.ed.gov/learn/blog/new-report-school-choice-united-states": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://www.clien.net/service/board/park/13508681": {
     "first": "2026-11-24",
     "last": "2026-11-24",
     "result": "VERIFIED",
