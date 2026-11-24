@@ -1,9 +1,25 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T15:33:56.522Z",
-  "nextSeq": 6534,
-  "stops": 346,
+  "savedAt": "2026-11-24T18:38:35.048Z",
+  "nextSeq": 6544,
+  "stops": 347,
   "items": [
+    {
+      "id": "9704869e",
+      "title": "posting-voting-selfies 보강: 인증 동기 학술 파편, 정책브리핑 2017-05-08 확인",
+      "priority": 50,
+      "note": "2026-11-24 korea.kr 148833286 이 ECONNRESET 으로 (미확인). 후보: Butkowski 2022 New Media & Society 'If you didn't take a selfie, did you even vote?' (SAGE 403), 서강대 석사 2012 dcollection 000000047402 '투표 인증샷 놀이'(빈 페이지). not-voting, claiming-to-have-voted 와 관계 후보",
+      "createdAt": "2026-11-24T18:14:49.747Z",
+      "seq": 6539
+    },
+    {
+      "id": "471a61bc",
+      "title": "moving-for-school-district 보강: 공공 파편",
+      "priority": 50,
+      "note": "2026-11-24 공공 없음. 후보: nces.ed.gov/programs/schoolchoice/ind_08.asp 배정학교 학생 22% 부모가 학교 때문에 이사(문장 200자 넘음), KOSIS 이동사유, 서울연구원 2022-05 서울 인구 전출입 요인. 비상교육 설문 2015 newdaily 2015120110029 전입 의향 54.4%",
+      "createdAt": "2026-11-24T18:23:05.221Z",
+      "seq": 6540
+    },
     {
       "id": "7e6f2443",
       "title": "laughing-at-solemn-occasions 보강: 원인 간선(긴장, 불안)",
@@ -3443,6 +3459,30 @@
       "note": "2026-11-24 deciding-to-quit-job 과 구별되는지 먼저 볼 것(충동은 결심 전). 후보: wikitree 1140150 '사직서 품고 사는 직장인', 잡코리아·월간 인재경영 1,121명 94.6% 사표 충동(insight 221574 또는 67195), 인크루트 2019 1,206명 91% 퇴사 고민",
       "createdAt": "2026-11-24T15:30:27.564Z",
       "seq": 6533
+    },
+    {
+      "id": "21efea7c",
+      "title": "entering-sweepstakes 와 agreeing-without-reading-terms 관계",
+      "priority": 10,
+      "note": "2026-11-24 mt.co.kr 2012061512405428336 습관적으로 클릭하다 이벤트 참여 동의. 한국 공공 출처(개인정보위 2023-05 온라인 경품행사 가이드라인) korea.kr 프록시 끊김으로 못 엶",
+      "createdAt": "2026-11-24T18:29:22.795Z",
+      "seq": 6541
+    },
+    {
+      "id": "a08389ee",
+      "title": "jet-lag 와 tiredness-after-daylight-saving-shift 관계",
+      "priority": 10,
+      "note": "2026-11-24 npr.org 2025/03/09 nx-s1-5320160 이 서머타임 전환을 'much like jet lag' 라 함. 공통 상위(체내 시계 어긋남의 피로) 후보",
+      "createdAt": "2026-11-24T18:35:42.357Z",
+      "seq": 6542
+    },
+    {
+      "id": "6cd8a158",
+      "title": "clapping-on-landing 와 남 따라 박수 치기 관계, 학술 파편",
+      "priority": 10,
+      "note": "2026-11-24 novinite 234126 '20% join in because others are clapping'. 미사용: goodmorningamerica 13246311 (2011) 세 이유(원문 200자 넘음), thejournal 기사가 1997 NYT 보도 언급",
+      "createdAt": "2026-11-24T18:38:25.578Z",
+      "seq": 6543
     },
     {
       "id": "02b2f242",
