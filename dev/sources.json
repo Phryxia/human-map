@@ -35634,7 +35634,8 @@
   "https://www.korea.kr/news/reporterView.do?newsId=148833286": {
     "first": "2026-11-24",
     "last": "2026-11-24",
-    "result": "UNREACHABLE"
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
   },
   "https://www.korea.kr/news/policyNewsView.do?newsId=148833714": {
     "first": "2026-11-24",
@@ -35805,6 +35806,18 @@
     "lastVerified": "2026-11-24"
   },
   "https://www.novinite.com/articles/234126/Why+70+of+Bulgarians+Applaud+Every+Time+Their+Plane+Lands": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://eprints.bournemouth.ac.uk/30815/": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://blog.photoshelter.com/2018/11/the-voting-selfie-as-social-proof/": {
     "first": "2026-11-24",
     "last": "2026-11-24",
     "result": "VERIFIED",
