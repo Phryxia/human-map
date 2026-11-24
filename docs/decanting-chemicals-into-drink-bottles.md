@@ -16,7 +16,7 @@
 
 2018년 네팔 논문[^5]이 조사한 가정은 등유를 청량음료병과 플라스틱병에 담았고 주로 부엌과 계단에 두었다.
 
-2024년 신문 기사[^6]가 전한 소방청 통계에서 농약 중독 가운데 55건(16%)은 농약을 다른 병에 담는 등 음료로 착각해 마신 경우였다. 2026년 생활 기사[^7]는 다 마신 생수병이나 음료 페트병을 손에 잡히는 대로 쓰기 쉽다고 썼다.
+2024년 신문 기사[^6]가 전한 소방청 통계에서 농약 중독 가운데 55건(16%)은 농약을 다른 병에 담는 등 음료로 착각해 마신 경우였다. 2025년 미국 중독관리센터 글[^7]은 집 안의 화학물질이 날마다 쓰기 편하게 포장되어 있지 않아 쓰기 편한 용기로 옮겨 담는 일을 부른다고 적었다. 2026년 생활 기사[^8]는 다 마신 생수병이나 음료 페트병을 손에 잡히는 대로 쓰기 쉽다고 썼다.
 
 # 관계
 
@@ -48,4 +48,5 @@
 [^4]: [공공] "At least eight of these 27 deaths were due to the accidental ingestion of paraquat. All eight of these accidental deaths involved transfer of paraquat into a beverage container." (이 27건의 사망 가운데 적어도 8건은 파라콰트를 실수로 삼켜서였다. 이 사고사 8건 모두 파라콰트를 음료 용기에 옮겨 담은 일이 얽혀 있었다.) — U.S. Environmental Protection Agency, "Paraquat Dichloride: One Sip Can Kill", 2015-08-21, https://19january2021snapshot.epa.gov/pesticide-worker-safety/paraquat-dichloride-one-sip-can-kill_.html, 2026-11-16 접속
 [^5]: [학술] "The containers were soft drink bottles and plastic bottles; and kitchen and stairs were the common sites of storage." (용기는 청량음료병과 플라스틱병이었고, 부엌과 계단이 흔한 보관 장소였다.) — A. K. Singh, P. K. Gurung, "Factors Contributing to Kerosene Oil Poisoning in Children", Journal of BP Koirala Institute of Health Sciences 1(2), 2018-12-21, https://nepjol.info/index.php/jbpkihs/article/view/22081, 2026-11-16 접속
 [^6]: [매체] "이 가운데 농약을 다른 병에 담는 등 음료로 착각해 마신 건수가 55건(16%)에 달했다." — 시대일보, 소방청 농약 중독 통계 기사, 2024-06-07, https://www.sidae.com/article/2024060613024248925, 2026-11-16 접속
-[^7]: [매체] "다 마신 생수병이나 음료 페트병, 식품용 밀폐 용기는 손에 잡히는 대로 쓰기 쉽지만 세제를 담는 순간 위험한 물건이 된다." — 위키트리, 「[생활꿀팁] 세제를 '생수병'에 옮기지 마세요, 오인해 마시면 큰일 납니다」, 2026-11-07, https://www.wikitree.co.kr/articles/1172678, 2026-11-16 접속
+[^7]: [공공] "Potentially poisonous chemicals are found in almost every home. They might not be packaged for convenient daily use, inviting transfer into more user-friendly containers." (독이 될 수 있는 화학물질은 거의 모든 집에 있다. 그것들은 날마다 쓰기 편하게 포장되어 있지 않을 수 있고, 이것이 더 쓰기 편한 용기로 옮겨 담는 일을 부른다.) — Mary Elizabeth May, "Uh oh...that wasn't orange juice! Why container transfers are dangerous", Poison Control, National Capital Poison Center, 2025-08-22, https://www.poison.org/articles/container-transfers, 2026-11-24 접속
+[^8]: [매체] "다 마신 생수병이나 음료 페트병, 식품용 밀폐 용기는 손에 잡히는 대로 쓰기 쉽지만 세제를 담는 순간 위험한 물건이 된다." — 위키트리, 「[생활꿀팁] 세제를 '생수병'에 옮기지 마세요, 오인해 마시면 큰일 납니다」, 2026-11-07, https://www.wikitree.co.kr/articles/1172678, 2026-11-16 접속
