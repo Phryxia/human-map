@@ -1,41 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T06:35:39.257Z",
-  "nextSeq": 6471,
-  "stops": 343,
+  "savedAt": "2026-11-24T09:33:51.893Z",
+  "nextSeq": 6476,
+  "stops": 344,
   "items": [
-    {
-      "id": "e482e7f2",
-      "title": "waiting-for-the-postman 보강: 학술 파편과 관계",
-      "priority": 50,
-      "note": "2026-11-24 학술 파편 없음. 후보: nationalww2museum.org/node/1842 2018-03-07 'waiting on the mail was a constant preoccupation', Tess(Gutenberg 110) 'She watched till the postman passed by'. waiting-for-a-reply 의 하위 여부 검토. Gissing 1709, Villette 9182 는 이미 4개 문서가 써서 피함",
-      "createdAt": "2026-11-24T06:15:44.679Z",
-      "seq": 6468
-    },
-    {
-      "id": "ea24ae9e",
-      "title": "sniff-testing-past-date-food 와 uneasy-eating-past-date-food, discarding-food-by-date-label 대립",
-      "priority": 50,
-      "note": "2026-11-24 추가 때 관계 근거 없음. FSA science.food.gov.uk/article/158620 2026-03-27 'Past experience and ingrained habits reinforced the perception that eating food past its use-by date was low risk' 는 원인 후보(경험·습관). Mintel 2015-07-13 67% 대목은 205자라 못 씀. 학술 HTML 파편 없음",
-      "createdAt": "2026-11-24T06:24:53.035Z",
-      "seq": 6469
-    },
-    {
-      "id": "43340e5f",
-      "title": "laughing-at-own-jokes 보강: 학술 파편, laughing-at-the-bosss-jokes 관계",
-      "priority": 50,
-      "note": "2026-11-24 Provine 1993 Ethology 'Laughter punctuates speech' 초록은 Wiley 봇 확인. apa.org/monitor/jun06/laughing 본문 추출 실패. Pickwick 580 의 Buzfuz 'paused in this place, to see whether the jury smiled at his joke' 는 농담 뒤 반응 살피기 후보",
-      "createdAt": "2026-11-24T06:35:27.699Z",
-      "seq": 6470
-    },
-    {
-      "id": "70e0e1bb",
-      "title": "startled-by-doorbell 보강: pretending-not-to-be-home 관계",
-      "priority": 30,
-      "note": "2026-11-16 HN 44587304 2025-07 SNS 파편 추가함. HN 16673008 2018 'woken with a jump and an impending sense of dread to either the sound of a doorbell' 후보. abc7chicago 2019-06-05 'Others say they hide when someone rings their bell.' 확인 필요",
-      "createdAt": "2026-11-16T21:40:39.079Z",
-      "seq": 5382
-    },
     {
       "id": "3f92f439",
       "title": "blame-contagion 보강: 공공 파편",
@@ -59,38 +27,6 @@
       "note": "2026-11-17 원한·화풀이→트집 인과 대목 재검색 실패. 가까운 것: marriage.com displaced-anger 2023-08-14 목록 'Becoming impatient or critical over small things'(인과가 목록으로 떨어짐), fnnews 202604061436166299 짜증. 남은 길: 판결문 '앙심을 품고' '트집', Gutenberg 'out of spite' 'found fault'. 이전: Spokesman 1997-05-12 immaturity-adds-to-marital-problems, PMC8474672",
       "createdAt": "2026-11-17T21:19:20.697Z",
       "seq": 5500
-    },
-    {
-      "id": "a3f898a4",
-      "title": "decanting-chemicals-into-drink-bottles 보강: 옮겨 담는 이유",
-      "priority": 30,
-      "note": "2026-11-17 Straight Dope 309305 2005 우유통 파편 추가함. 같은 스레드 첫 글은 가진 용기가 빈 세제통뿐이라 휘발유를 담으려 했다는 이유 대목(한 출처 한 파편이라 못 씀). reddit 은 검색 도구가 막음, ask.metafilter 봇 확인",
-      "createdAt": "2026-11-17T21:21:27.505Z",
-      "seq": 5501
-    },
-    {
-      "id": "c9bfedce",
-      "title": "not-ventilating-in-winter 와 energy-limiting-behavior 관계",
-      "priority": 30,
-      "note": "2026-11-17 SNS 파편(Straight Dope 679334 2014) 추가함. 관계는 미검토. 2026 가격비교 업체 발표의 '에너지 비용 때문에 창문을 닫아 두었다' 대목이 원인 간선 후보",
-      "createdAt": "2026-11-17T21:22:25.839Z",
-      "seq": 5502
-    },
-    {
-      "id": "9e1521cc",
-      "title": "lamenting-ones-lot 와 keeping-hardship-to-oneself 대립",
-      "priority": 30,
-      "note": "2026-11-17 후보 healthunlocked anxiety-depression-support posts/140724204 2019-05-12 'I thought about coming on here earlier and pouring my heart out because ... I didn’t want to be a burden' 는 두 마음이 맞서지만 SNS 라 두 문서에 쓰면 같은 글 경고. 비SNS 근거 필요. brunch warmsmallroom/145 2026-06-12 '목젖까지 올라왔던 감정들을 다시 억누르고 말을 삼키게' 는 감정 일반",
-      "createdAt": "2026-11-17T21:27:32.860Z",
-      "seq": 5504
-    },
-    {
-      "id": "30241e68",
-      "title": "unfollowing-over-politics 와 online-political-argument-fatigue 관계",
-      "priority": 30,
-      "note": "2026-11-17 SNS 파편(Straight Dope 822154 2018) 추가함. 피로 문서는 논쟁을 주고받는 피로라 간선 근거 대목 필요. GWI 2024-10-02 'As such' 대목은 콘텐츠가 벅차다는 이유",
-      "createdAt": "2026-11-17T21:30:05.011Z",
-      "seq": 5506
     },
     {
       "id": "e6b0773d",
@@ -1075,6 +1011,22 @@
       "note": "2026-11-24 인과 대목 미발견. seoul.co.kr 20210626500019 사진 설명 '확인하느라 스마트폰에서 눈을 떼지 못하는'(본문 실명 사례), psychology.org.au 2024 aps-in-the-media 229자, womensmediacenter fbomb the-problem-with-likes 2014 좋아요 적으면 사진 삭제. 후보 psypost fear-of-missing-out 디지털 좋아요 기사, gall.dcinside weekhealthy/5797. 이전: HN 18583879, PMC12351196",
       "createdAt": "2026-11-24T03:37:15.009Z",
       "seq": 6464
+    },
+    {
+      "id": "d2ee76cc",
+      "title": "sniff-testing-past-date-food 와 discarding-food-by-date-label 대립",
+      "priority": 30,
+      "note": "2026-11-24 uneasy-eating 대립은 매일신문 2012-03-03 으로 그음. discarding 과의 같은 사람 안 대립 근거 없음. 후보: 2016 덴마크 보도(감각을 믿는 참가자가 버려야 할 음식을 맛봄)는 사람 사이 차이라 약함. 날짜는 지났는데 냄새는 괜찮아 망설이는 게시글을 찾을 것",
+      "createdAt": "2026-11-24T09:12:31.438Z",
+      "seq": 6474
+    },
+    {
+      "id": "57c67e09",
+      "title": "laughing-at-own-jokes 와 laughing-at-the-bosss-jokes 관계",
+      "priority": 30,
+      "note": "2026-11-24 학술 파편(Frontiers 2018 Curran 외)은 더함. 관계 후보: McLachlan 2022 Current Psychology link.springer.com/article/10.1007/s12144-022-03671-1 (curl UA 로 열림) 'the higher status interlocutor ... generally fails to join in the laughter of the lower status patient' 198자, 'instigator of a solidary sign of joint laughter typically occupies the higher status role' 171자. 대립이나 원인 근거인지 검토",
+      "createdAt": "2026-11-24T09:16:35.082Z",
+      "seq": 6475
     },
     {
       "id": "9634edf0",
