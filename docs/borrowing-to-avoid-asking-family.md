@@ -16,6 +16,8 @@
 
 2026년 연구[^4]의 저자들은 급전 대출을 쓰는 사람들이 그 대출을 수치심과 남의 판단, 관계의 부담을 막는 데 쓰고 그렇게 남들 눈에 자립한 모습을 지킨다고 적었다.
 
+2026년 6월 게시글[^5]의 글쓴이는 집 계약금을 마련하려면 신용대출이나 마이너스 통장을 또 받아야 하는 처지인데 양가 부모님께는 손을 벌리지 못한다고 썼다.
+
 # 관계
 
 ## 상위
@@ -44,3 +46,4 @@
 [^2]: [매체] "many Canadians who say they would rather pick up another credit card, open a line of credit or take out a second mortgage than ask their friends and family for dough in a financial emergency" (금전 위기에 친구와 가족에게 돈을 청하느니 신용카드를 하나 더 만들거나 신용한도를 열거나 2차 담보대출을 받겠다는 많은 캐나다인) — Sarah Boesveld, "Canadians would rather take on debt than take a handout", The Globe and Mail, 2009-11-16, https://www.theglobeandmail.com/amp/life/canadians-would-rather-take-on-debt-than-take-a-handout/article4293348/, 2026-11-17 접속
 [^3]: [매체] "Nearly a third (31%) of Americans would rather go into debt than ask a friend or family member for money." (미국인의 3분의 1 가까이(31%)가 친구나 가족에게 돈을 부탁하느니 빚을 지겠다고 했다.) — Erika Giovanetti, "Survey: Many Americans Prefer Debt Over Borrowing From Family", LendingTree, 2020-12-07, https://www.lendingtree.com/personal/lending-between-friends-and-family-survey/, 2026-11-15 접속
 [^4]: [학술] "We find, in fact, that payday loans are used as a shield against shame, judgment, and relational strain, allowing borrowers to maintain independence in the eyes of others." (실제로 급전 대출은 수치심, 판단, 관계의 부담을 막는 방패로 쓰여 대출자가 남들 눈에 자립을 지킬 수 있게 한다.) — Mariana Amorim, Megan Doherty Bea, "“It’s a Last Resort. But It’s a First Resort”: A Relational Perspective of Payday Loan Use", The Sociological Quarterly, 2026-02-12, https://pmc.ncbi.nlm.nih.gov/articles/PMC13246145/, 2026-11-15 접속
+[^5]: [SNS] "계약금 마련할려면 또 신용대출 혹은 마이너스 통장을 받아야 하는 상황이야.. 양가 부모님께 손 못벌림" — Blind 게시글, 2026-06-01, https://www.teamblind.com/kr/post/은행원-형들-나-좀-도와줘ㅠ-y7htjfxr, 2026-11-24 접속
