@@ -561,6 +561,7 @@
 - [시기심](docs/envy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [시든 꽃 버리지 않기](docs/keeping-withered-flowers.md) ([돈과 소비](groups/money.md))
 - [시름을 술로 달래기](docs/drinking-to-cope.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [시차증](docs/jet-lag.md) ([시간과 하루 습관](groups/daily-time.md))
 - [시험 부정행위](docs/exam-cheating.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [시험 불안](docs/test-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [식기세척기에 넣기 전 그릇 헹구기](docs/pre-rinsing-dishes.md) ([시간과 하루 습관](groups/daily-time.md))
