@@ -10,6 +10,7 @@
   - [손실 회피](../docs/loss-aversion.md)
 - [낙관 편향](../docs/unrealistic-optimism.md) 사람이 사고나 병 같은 나쁜 일이 남보다 자신에게 덜 일어난다고 믿는다.
 - [남 따라 하기](../docs/following-others.md) 어떻게 할지 확실하지 않은 사람이 주변 사람들이 하는 것을 보고 그대로 따라 한다.
+  - [남 따라 박수 치기](../docs/following-applause.md)
   - [남을 따라 대피하기](../docs/following-others-to-evacuate.md)
   - [또래 유행 따라 사기](../docs/following-peer-fashion.md)
   - [한 사람이 나서면 따라 돕기](../docs/helping-after-first-helper.md)

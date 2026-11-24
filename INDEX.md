@@ -158,6 +158,7 @@
 - [날씨 타기](docs/weather-mood-reactivity.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [날짜 지난 음식 먹기의 찜찜함](docs/uneasy-eating-past-date-food.md) ([건강과 위험](groups/health-and-safety.md))
 - [날짜 표시만 보고 음식 버리기](docs/discarding-food-by-date-label.md) ([돈과 소비](groups/money.md))
+- [남 따라 박수 치기](docs/following-applause.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [남 따라 하기](docs/following-others.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [남 앞에서 기침 참기](docs/holding-back-coughs.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [남 앞에서 눈물 감추기](docs/hiding-tears.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

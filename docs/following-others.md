@@ -29,6 +29,7 @@
 - [남을 따라 대피하기](following-others-to-evacuate.md)
 - [또래 유행 따라 사기](following-peer-fashion.md)
 - [한 사람이 나서면 따라 돕기](helping-after-first-helper.md)
+- [남 따라 박수 치기](following-applause.md)
 
 ## 원인
 
