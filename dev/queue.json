@@ -1,9 +1,57 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T09:33:51.893Z",
-  "nextSeq": 6476,
-  "stops": 344,
+  "savedAt": "2026-11-24T12:38:14.221Z",
+  "nextSeq": 6491,
+  "stops": 345,
   "items": [
+    {
+      "id": "78eca7a3",
+      "title": "soaking-long-in-hot-baths 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-11-24 king.mineo.jp 포럼 겨울 43도 게시글은 202 빈 본문. 知恵袋, 発言小町 검색 미노출. 원인 후보: 가고시마현 공지의 집 안 추위(18도 미만)→熱め入浴, energy-limiting-behavior·not-ventilating-in-winter 와 관계 검토",
+      "createdAt": "2026-11-24T12:12:04.064Z",
+      "seq": 6485
+    },
+    {
+      "id": "f0c28fab",
+      "title": "poking-the-fire 보강: 문학 파편 추가와 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-24 후보: standardebooks Night and Day 1919 'poking the fire'(Gutenberg 1245 를 docs 3곳이 씀), North and South 1855 'stirred the fire, snuffed the candles' 는 4276 을 4곳이 써서 경고 위험",
+      "createdAt": "2026-11-24T12:22:06.119Z",
+      "seq": 6486
+    },
+    {
+      "id": "f09f2f66",
+      "title": "pen-chewing 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-24 PMC10586580 아동 이갈이 연구에서 펜 씹기 27.1% 대 4.2% 라는 검색 요약, PMC 가 reCAPTCHA 를 줘 미확인. fidgeting 과 관계 검토",
+      "createdAt": "2026-11-24T12:23:13.636Z",
+      "seq": 6487
+    },
+    {
+      "id": "2a82449a",
+      "title": "throwing-batteries-in-trash 보강: SNS 파편",
+      "priority": 50,
+      "note": "2026-11-24 서랍에 모아 두기만 하는 면은 statcan.gc.ca o1/en/plus/405 의 15% 대목(한 출처 한 파편이라 미사용). SNS 공개 글 미확보",
+      "createdAt": "2026-11-24T12:27:57.496Z",
+      "seq": 6488
+    },
+    {
+      "id": "2c5d9af5",
+      "title": "feigning-absorption-to-avoid-talk 보강: 신문 뒤 숨기 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-24 후보: boards.straightdope.com/t/reading-while-eating/230075 2004-02-19 'grab a newspaper and read the ENTIRE time', spokesman.com 1997/jul/18 show-at-least-a-pretense-of-interest(몰두해서 답하지 않음, 척하기 아님), tilburg 2018 Vanden Abeele phone-gazing vs newspaper-gazing",
+      "createdAt": "2026-11-24T12:34:25.665Z",
+      "seq": 6489
+    },
+    {
+      "id": "47880bad",
+      "title": "wiping-glasses-to-buy-time 보강: SNS 또는 학술 파편",
+      "priority": 50,
+      "note": "2026-11-24 westsidetoastmasters.com resources/book_of_body_language/chap13.html 'taking the glasses off and cleaning the lenses ... to gain time for a decision'(발행일 미상, 매체). 눈물 감추려 닦는 면 출처 미확보",
+      "createdAt": "2026-11-24T12:38:05.965Z",
+      "seq": 6490
+    },
     {
       "id": "3f92f439",
       "title": "blame-contagion 보강: 공공 파편",
