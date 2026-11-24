@@ -986,6 +986,7 @@
 - [편식](docs/picky-eating.md) ([시간과 하루 습관](groups/daily-time.md))
 - [편애받는 형제에 대한 질투](docs/sibling-jealousy-over-favoritism.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [평균 이상 효과](docs/better-than-average-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
+- [폐건전지 일반 쓰레기로 버리기](docs/throwing-batteries-in-trash.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [폭염 속 바깥일 계속하기](docs/working-through-heat.md) ([건강과 위험](groups/health-and-safety.md))
 - [폭염에 취약하지 않다고 여기기](docs/not-seeing-oneself-as-heat-vulnerable.md) ([건강과 위험](groups/health-and-safety.md))
 - [폭풍 때 파도 구경하기](docs/storm-wave-watching.md) ([건강과 위험](groups/health-and-safety.md))

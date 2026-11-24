@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [폐건전지 일반 쓰레기로 버리기](throwing-batteries-in-trash.md)
 
 ## 원인
 

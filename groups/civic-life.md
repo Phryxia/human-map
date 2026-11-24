@@ -28,6 +28,7 @@
   - [보복이 두려워 신고하지 않기](../docs/not-reporting-for-fear-of-reprisal.md)
   - [사기 피해를 부끄러워 숨기기](../docs/scam-victim-silence.md)
 - [분리배출 하지 않기](../docs/not-sorting-recyclables.md) 가정에서 재활용할 수 있는 쓰레기를 사람이 분리하지 않고 일반 쓰레기와 함께 버린다.
+  - [폐건전지 일반 쓰레기로 버리기](../docs/throwing-batteries-in-trash.md)
 - [쇼핑카트 반납하지 않기](../docs/not-returning-shopping-carts.md) 마트에서 쇼핑카트를 다 쓴 사람이 카트를 반납 장소에 돌려놓지 않고 주차장에 두거나 집까지 끌고 가 둔다.
 - [야생동물에게 먹이 주기](../docs/feeding-wildlife.md) 공원이나 관광지를 찾은 사람이 그곳에 사는 야생동물에게 먹이를 준다.
   - [비둘기에게 먹이 주기](../docs/feeding-pigeons.md)
