@@ -41,6 +41,7 @@
 - [쓰기보다 손보기 즐기기](../docs/tinkering-over-using.md) 자전거 같은 기계를 가진 사람이 그것을 쓰기보다 뜯고 조이고 바꾸며 손보는 데 시간을 들인다.
 - [아침 식사 거르기](../docs/skipping-breakfast.md) 시간이 없거나 입맛이 없는 사람이 아침을 먹지 않고 하루를 시작한다.
 - [알람 끄고 다시 잠들기](../docs/snoozing-the-alarm.md) 아침에 알람을 들은 사람이 알람을 끄거나 미루고 다시 잠든다.
+- [언 손 녹이기](../docs/warming-cold-hands.md) 손이 찬 사람이 불 앞에 손을 내밀거나 따뜻한 잔을 감싸 쥐어 손을 녹인다.
 - [운동에 관심이 없어 운동하지 않기](../docs/not-interested-in-exercise.md) 운동하지 않는 사람이 그 까닭으로 운동에 관심이 없다는 것을 든다.
 - [음식으로 상상 놀이하기](../docs/pretend-play-with-food.md) 아이가 밥을 먹으며 접시의 음식에 이야기를 붙여 상상 놀이를 한다.
 - [이른 아침 혼자 있는 시간 누리기](../docs/early-morning-solitude.md) 남들이 아직 자는 이른 아침에 일어난 사람이 혼자 있는 조용한 시간을 누린다.

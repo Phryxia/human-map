@@ -621,6 +621,7 @@
 - [어린 시절 장소가 작아 보이기](docs/childhood-places-seeming-smaller.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [억양 편견](docs/accent-prejudice.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [언 물 위에 들어가기](docs/walking-on-frozen-water.md) ([건강과 위험](groups/health-and-safety.md))
+- [언 손 녹이기](docs/warming-cold-hands.md) ([시간과 하루 습관](groups/daily-time.md))
 - [얹혀사는 대가로 집안일 거들기](docs/doing-chores-while-staying.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얹혀사는 집에서 몸 낮추기](docs/shrinking-in-hosts-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [얻어먹기 거절](docs/declining-free-meals-out-of-pride.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
