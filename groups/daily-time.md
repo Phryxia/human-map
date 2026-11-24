@@ -31,6 +31,7 @@
 - [새해 결심 세우기](../docs/making-new-years-resolutions.md) 새해를 맞는 사람이 그해에 고치거나 이룰 일을 결심으로 정한다.
 - [새해 해돋이 보기](../docs/watching-new-years-first-sunrise.md) 새해 첫날 새벽에 사람들이 해돋이 명소를 찾아가 첫 해를 보며 소원을 빈다.
 - [샤워 오래 하기](../docs/taking-long-showers.md) 샤워하는 사람이 따뜻한 물을 틀어 둔 채 샤워 부스 안에 오래 머문다.
+- [서머타임 전환 뒤의 피로](../docs/tiredness-after-daylight-saving-shift.md) 서머타임이 시작되어 시계를 한 시간 앞당긴 뒤 며칠 동안 사람들이 잠이 모자라고 피곤하다고 느낀다.
 - [설레는 날 전날 밤 잠 못 들기](../docs/sleepless-before-exciting-day.md) 즐거운 일을 앞둔 사람이 그 전날 밤 들떠서 쉽게 잠들지 못한다.
 - [세탁기 덜 채워 돌리기](../docs/washing-partial-loads.md) 빨래를 하는 사람이 세탁기가 다 차지 않은 채로 세탁기를 돌린다.
 - [수업 중 졸기](../docs/dozing-off-in-class.md) 강의나 수업을 듣는 학생이 자리에 앉은 채 졸거나 잠든다.

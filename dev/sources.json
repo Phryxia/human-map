@@ -35743,5 +35743,29 @@
     "last": "2026-11-24",
     "result": "VERIFIED",
     "lastVerified": "2026-11-24"
+  },
+  "https://bmcphysiol.biomedcentral.com/articles/10.1186/1472-6793-8-3": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://sleep.biomedcentral.com/articles/10.1186/s41606-022-00082-w": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://oxfordhealthbrc.nihr.ac.uk/the-uk-spring-clock-change-navigating-the-impact-on-sleep/": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
+  },
+  "https://www.npr.org/2025/03/09/nx-s1-5320160/time-change-daylight-saving-spring-health": {
+    "first": "2026-11-24",
+    "last": "2026-11-24",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-24"
   }
 }
