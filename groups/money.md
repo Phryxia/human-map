@@ -39,6 +39,7 @@
 - [모은 돈 들여다보기](../docs/gazing-at-saved-money.md) 돈을 모아 둔 사람이 그 돈이나 통장 잔고를 거듭 들여다보며 기쁨이나 위안을 얻는다.
 - [모음 채우기](../docs/completing-a-collection.md) 물건을 모으는 사람이 빠진 한 점을 찾아 모음을 완성하려 애쓴다.
 - [무료 체험 해지 잊기](../docs/forgetting-to-cancel-free-trial.md) 무료 체험으로 정기 결제 서비스에 가입한 사람이 체험 기간이 끝나기 전에 해지하기를 잊어 유료 결제를 치른다.
+- [묶음 할인 보고 더 사기](../docs/buying-more-for-multibuy-deals.md) 정해 둔 양만 사려던 사람이 1+1이나 2+1 같은 묶음 할인을 보고 그보다 많이 산다.
 - [물건 못 버리기](../docs/difficulty-discarding.md) 쓰지 않는 물건을 가진 사람이 그것을 버리지 못하고 집 안에 쌓아 둔다.
   - [고인의 물건 간직하기](../docs/keeping-belongings-of-the-dead.md)
     - [고인의 전화번호 지우지 못하기](../docs/keeping-deceaseds-phone-number.md)
