@@ -1064,6 +1064,7 @@
 - [화장실 뒤 손 안 씻기](docs/skipping-handwashing.md) ([건강과 위험](groups/health-and-safety.md))
 - [화재감지기 꺼 두기](docs/disabling-smoke-alarms.md) ([건강과 위험](groups/health-and-safety.md))
 - [화재경보를 오작동으로 여기기](docs/dismissing-fire-alarms.md) ([건강과 위험](groups/health-and-safety.md))
+- [화제 돌리기](docs/changing-the-subject.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [화학제품을 음료병에 옮겨 담기](docs/decanting-chemicals-into-drink-bottles.md) ([건강과 위험](groups/health-and-safety.md))
 - [환자에게 나쁜 진단 숨기기](docs/withholding-diagnosis-from-patient.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [홧김에 때린 뒤의 후회](docs/remorse-after-hitting-in-anger.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -36236,5 +36236,35 @@
     "last": "2026-11-25",
     "result": "VERIFIED",
     "lastVerified": "2026-11-25"
+  },
+  "https://gutenberg.pglaf.org/5/8/583/583-0.txt": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://gutenberg.pglaf.org/2/8/3/2833/2833-0.txt": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://www.salon.com/2011/02/18/dont_ask_about_my_mom/": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC5485460/": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249115/": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
   }
 }
