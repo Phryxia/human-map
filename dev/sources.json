@@ -36128,5 +36128,11 @@
     "last": "2026-11-25",
     "result": "VERIFIED",
     "lastVerified": "2026-11-25"
+  },
+  "https://abcnews.go.com/Health/story?id=1830395": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
   }
 }
