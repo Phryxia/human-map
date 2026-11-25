@@ -12865,27 +12865,27 @@
   },
   "https://www.gutenberg.org/cache/epub/161/pg161-images.html#chap49": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
-    "result": "VERIFIED",
+    "last": "2026-11-25",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-30"
   },
   "https://eprints.lancs.ac.uk/id/eprint/60831": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-25"
   },
   "https://www.ajunews.com/view/20190830102057152": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-25"
   },
   "https://www.teamblind.com/kr/post/헤어지고-편지랑사진-못버리는-사람있어-ecupotx7": {
     "first": "2026-10-29",
-    "last": "2026-10-30",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-30"
+    "lastVerified": "2026-11-25"
   },
   "https://www.imaeil.com/page/view/2005112609245955503": {
     "first": "2026-10-29",
@@ -35840,5 +35840,11 @@
     "last": "2026-11-24",
     "result": "VERIFIED",
     "lastVerified": "2026-11-24"
+  },
+  "https://theconversation.com/social-media-always-remembers-which-makes-moving-on-from-a-breakup-that-much-harder-194727": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
   }
 }
