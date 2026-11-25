@@ -12872,7 +12872,7 @@
   "https://eprints.lancs.ac.uk/id/eprint/60831": {
     "first": "2026-10-29",
     "last": "2026-11-25",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-25"
   },
   "https://www.ajunews.com/view/20190830102057152": {
@@ -36094,6 +36094,12 @@
     "lastVerified": "2026-11-25"
   },
   "https://idw-online.de/en/news781325": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://boards.straightdope.com/t/what-did-you-do-with-the-exs-gifts-pictures/449120": {
     "first": "2026-11-25",
     "last": "2026-11-25",
     "result": "VERIFIED",
