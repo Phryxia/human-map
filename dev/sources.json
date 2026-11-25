@@ -1019,7 +1019,7 @@
   },
   "https://www.gutenberg.org/cache/epub/1399/pg1399-images.html": {
     "first": "2026-10-18",
-    "last": "2026-11-19",
+    "last": "2026-11-25",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-06"
   },
@@ -7190,39 +7190,39 @@
   },
   "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5724a1.htm": {
     "first": "2026-10-22",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://www.foodsystemsjournal.org/index.php/fsj/article/view/453": {
     "first": "2026-10-22",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://www.jjan.kr/article/20240808580159": {
     "first": "2026-10-22",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://v.daum.net/v/20260727120449376": {
     "first": "2026-10-22",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://news.knn.co.kr/news/article/190567": {
     "first": "2026-10-22",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://www.mt.co.kr/article/2026072813091921751": {
     "first": "2026-10-22",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://www.salon.com/2009/03/09/fatal_distraction/": {
     "first": "2026-10-22",
@@ -31162,9 +31162,9 @@
   },
   "https://view.asiae.co.kr/article/2026081201394862289": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://v.daum.net/v/20250421203002068?f=p": {
     "first": "2026-11-18",
@@ -31174,9 +31174,9 @@
   },
   "https://mobile.newsis.com/view/NISX20230801_0002398373": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://www.tpr.org/news/2026-03-24/as-parents-age-their-children-face-hard-choices-about-when-to-take-the-car-keys": {
     "first": "2026-11-18",
@@ -35884,6 +35884,12 @@
     "lastVerified": "2026-11-25"
   },
   "https://myhealth.alberta.ca/Learning/sleep-strategies/strategies-to-improve-sleep/stimulus-control": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4015616/": {
     "first": "2026-11-25",
     "last": "2026-11-25",
     "result": "VERIFIED",
