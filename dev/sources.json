@@ -2422,33 +2422,33 @@
   },
   "https://www.gutenberg.org/cache/epub/1260/pg1260-images.html": {
     "first": "2026-10-18",
-    "last": "2026-11-13",
-    "result": "VERIFIED",
+    "last": "2026-11-25",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-13"
   },
   "https://ko.wikisource.org/wiki/%EB%B0%B0%EB%94%B0%EB%9D%BC%EA%B8%B0": {
     "first": "2026-10-18",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://wrap.warwick.ac.uk/65972": {
     "first": "2026-10-18",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://researchportalplus.anu.edu.au/en/publications/general-and-sleep-specific-worry-in-insomnia/": {
     "first": "2026-10-18",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://www.nhlbi.nih.gov/health/insomnia/causes": {
     "first": "2026-10-18",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://trid.trb.org/View/902986": {
     "first": "2026-10-18",
@@ -2590,7 +2590,7 @@
   },
   "https://doctornow.co.kr/content/qna/17e6718a5ed4427eac3e17cd1522fd61": {
     "first": "2026-10-18",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-27"
   },
@@ -2638,9 +2638,9 @@
   },
   "https://kormedi.com/2779574/": {
     "first": "2026-10-18",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://verdi.cs.ucl.ac.uk/constructDB/publications/ellen-role-1991.html": {
     "first": "2026-10-18",
@@ -6332,9 +6332,9 @@
   },
   "https://sleepfoundation.org/sleep-news/77-percent-lose-sleep-to-financial-worries": {
     "first": "2026-10-21",
-    "last": "2026-11-14",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-25"
   },
   "https://theintermediary.co.uk/2025/12/five-million-young-adults-avoid-checking-bills-due-to-money-anxiety-study-finds/": {
     "first": "2026-10-21",
@@ -11546,9 +11546,9 @@
   },
   "https://www.saatva.com/blog/does-counting-sheep-work/": {
     "first": "2026-10-27",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://www.seoul.co.kr/news/2000/03/15/20000315026001": {
     "first": "2026-10-27",
@@ -11900,9 +11900,9 @@
   },
   "https://www.cordis.europa.eu/article/id/436489-why-do-embarrassing-memories-seem-to-surface-at-night": {
     "first": "2026-10-27",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://www.aol.com/news/french-exit-christmas-party-season-060000286.html": {
     "first": "2026-10-27",
@@ -12739,8 +12739,8 @@
   },
   "https://www.gutenberg.org/cache/epub/599/pg599-images.html": {
     "first": "2026-10-28",
-    "last": "2026-11-13",
-    "result": "VERIFIED",
+    "last": "2026-11-25",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-13"
   },
   "https://www.gutenberg.org/cache/epub/155/pg155-images.html": {
@@ -26577,9 +26577,9 @@
   },
   "https://sleepreviewmag.com/curated/is-work-ruining-sleep-habits-nearly-half-americans-stay-up-at-night-worrying-about-careers-study-claims/": {
     "first": "2026-11-13",
-    "last": "2026-11-13",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-25"
   },
   "https://www.today.com/health/when-you-clean-your-plate-you-just-add-weight-1d79966377": {
     "first": "2026-11-13",
