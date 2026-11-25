@@ -825,6 +825,7 @@
 - [잠자리 미루기](docs/bedtime-procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠자리에서 시계 보기](docs/clock-watching-in-bed.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [장 볼 때 필요보다 많이 사기](docs/overbuying-groceries.md) ([돈과 소비](groups/money.md))
+- [장거리 연애의 그리움](docs/long-distance-longing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [장기기증 등록 미루기](docs/delaying-organ-donor-registration.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [장례비 미리 모아 두기](docs/saving-for-funerals.md) ([돈과 소비](groups/money.md))
 - [장례에서 눈물이 나지 않음](docs/no-tears-at-funeral.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
