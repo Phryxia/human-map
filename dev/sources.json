@@ -36044,5 +36044,22 @@
     "last": "2026-11-25",
     "result": "VERIFIED",
     "lastVerified": "2026-11-25"
+  },
+  "https://ijbnpa.biomedcentral.com/articles/10.1186/1479-5868-5-9": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://www.cdc.gov/nchs/products/databriefs/db158.htm": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://kdca.go.kr/bbs/kdca/42/313385/artclView.do": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "UNREACHABLE"
   }
 }
