@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-25T15:34:33.173Z",
-  "nextSeq": 6631,
-  "stops": 354,
+  "savedAt": "2026-11-25T18:33:43.587Z",
+  "nextSeq": 6640,
+  "stops": 355,
   "items": [
+    {
+      "id": "f6e1c689",
+      "title": "changing-the-subject 보강: 한국어·2000년 이후 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-25 문학 1859·1881, 매체 2011, 학술 2017·2018. 후보: econpapers Sun·Slepian 2020 Topic Avoidance Process Model(화제 바꾸기는 초록에 없음), adn.com 2026-09-08 Miss Manners 고통스러운 화제 질문 피하기. 오스틴·디킨스·엘리엇·워튼 Gutenberg 판은 이미 4개 문서가 씀",
+      "createdAt": "2026-11-25T18:21:28.528Z",
+      "seq": 6636
+    },
+    {
+      "id": "ba89d6fd",
+      "title": "eye-rolling 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-25 Gutenberg 약 30권 grep 에서 rolled his/her eyes 는 경건·하늘 우러름 뜻뿐(Babbitt 1156, Daddy-Long-Legs 157). 1920년대 이후 작품이나 한국어 '눈을 흘기다' 류 검토",
+      "createdAt": "2026-11-25T18:30:08.616Z",
+      "seq": 6637
+    },
+    {
+      "id": "d8dc056a",
+      "title": "raising-eyebrows 보강: 매체·SNS 파편, 2000년 이후 장면",
+      "priority": 50,
+      "note": "2026-11-25 문학 1855·1881, 학술 2021 Sci Rep 만 있음. 후보: gla.ac.uk 뉴스 Raised brows and a slow blink make speakers look more confident(미확인)",
+      "createdAt": "2026-11-25T18:31:32.276Z",
+      "seq": 6638
+    },
+    {
+      "id": "a9010227",
+      "title": "crossing-arms 보강: SNS 파편, 2015년 이후 장면",
+      "priority": 50,
+      "note": "2026-11-25 문학 1859, 매체 2008, 학술 2015 만 있음. Woman in White(583)는 이제 3개 문서가 씀",
+      "createdAt": "2026-11-25T18:32:45.566Z",
+      "seq": 6639
+    },
     {
       "id": "0793ba3f",
       "title": "deathbed-reconciliation 보강: 대립 간선",
