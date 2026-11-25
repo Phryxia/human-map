@@ -7424,9 +7424,9 @@
   },
   "https://www.ncl.ac.uk/press/articles/archive/2015/12/eyeslittering/": {
     "first": "2026-10-22",
-    "last": "2026-11-01",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-01"
+    "lastVerified": "2026-11-25"
   },
   "https://www.gutenberg.org/cache/epub/1532/pg1532-images.html": {
     "first": "2026-10-22",
@@ -14650,15 +14650,15 @@
   },
   "https://www.gutenberg.org/cache/epub/543/pg543-images.html": {
     "first": "2026-10-30",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-25",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://kormedi.com/1610925/": {
     "first": "2026-10-30",
-    "last": "2026-11-15",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-15"
+    "lastVerified": "2026-11-25"
   },
   "https://vrbib.rutgers.edu/full-record?entry=5410": {
     "first": "2026-10-30",
@@ -16298,8 +16298,8 @@
   },
   "https://pubmed.ncbi.nlm.nih.gov/30007076/": {
     "first": "2026-11-01",
-    "last": "2026-11-01",
-    "result": "VERIFIED",
+    "last": "2026-11-25",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-01"
   },
   "https://boards.straightdope.com/t/how-not-to-board-a-subway-or-mind-the-gap/460004": {
@@ -36106,6 +36106,12 @@
     "lastVerified": "2026-11-25"
   },
   "https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5807a1.htm": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://www.sciencedaily.com/releases/2006/02/060206231123.htm": {
     "first": "2026-11-25",
     "last": "2026-11-25",
     "result": "VERIFIED",
