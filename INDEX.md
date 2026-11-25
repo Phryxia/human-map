@@ -454,6 +454,7 @@
 - [빌려준 돈 돌려 달라고 못 하기](docs/not-asking-for-loan-back.md) ([돈과 소비](groups/money.md))
 - [빌린 책 돌려주지 않기](docs/not-returning-borrowed-books.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [빗소리에 마음 놓이기](docs/rain-sounds-comfort.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [빗속 걷기](docs/walking-in-the-rain.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [빚 독촉 피하기](docs/avoiding-creditors.md) ([돈과 소비](groups/money.md))
 - [빨리 답해야 한다는 압박](docs/pressure-to-reply-quickly.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [삐짐](docs/sulking.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -68,6 +68,7 @@
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
     - [입력 중 표시를 보며 애태우기](../docs/typing-indicator-anxiety.md)
 - [빗소리에 마음 놓이기](../docs/rain-sounds-comfort.md) 실내에 있는 사람이 지붕이나 창에 떨어지는 빗소리를 들으며 편안함을 느끼고 잠들 때 빗소리를 일부러 틀기도 한다.
+- [빗속 걷기](../docs/walking-in-the-rain.md) 비가 오는 날 어떤 사람은 우산을 쓰지 않거나 비를 피하지 않고 빗속을 걸으며 비 맞는 일을 즐긴다.
 - [산 채로 묻힐까 두려워하기](../docs/fear-of-premature-burial.md) 어떤 사람은 죽었다는 판정을 잘못 받아 산 채로 묻힐까 두려워한다.
 - [생각 때문에 잠 못 이루기](../docs/lying-awake-thinking.md) 잠자리에 누운 사람이 낮에 겪은 일이나 잠에 대한 걱정을 되풀이해 생각하느라 잠들지 못한다.
 - [생각하려고 걷기](../docs/walking-to-think.md) 사람이 생각을 정리하거나 마음을 가라앉히려고 밖으로 나가 걷는다.
