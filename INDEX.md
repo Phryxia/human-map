@@ -595,6 +595,7 @@
 - [아는 사람 이름 잊기](docs/forgetting-acquaintances-names.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [아는 사람을 마주치고 못 본 척하기](docs/pretending-not-to-see-acquaintance.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [아이 갖기 미루기](docs/delaying-childbearing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [아이 열에 대한 두려움](docs/parental-fever-phobia.md) ([건강과 위험](groups/health-and-safety.md))
 - [아이를 낳지 않기로 하기](docs/choosing-not-to-have-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아이를 보육시설에 처음 맡기는 부모의 불안](docs/parental-separation-anxiety-at-childcare.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아주 좋거나 아주 나쁠 때 후기 쓰기](docs/reviewing-after-extreme-experiences.md) ([돈과 소비](groups/money.md))
