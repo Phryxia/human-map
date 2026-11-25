@@ -1,41 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-25T06:33:02.942Z",
-  "nextSeq": 6583,
-  "stops": 351,
+  "savedAt": "2026-11-25T09:40:20.645Z",
+  "nextSeq": 6591,
+  "stops": 352,
   "items": [
-    {
-      "id": "a7e25bc4",
-      "title": "discarding-an-exs-belongings 보강: 편지 태우기를 놓아 보내는 의식으로 여김",
-      "priority": 50,
-      "note": "2026-11-25 후보: felicecohen.substack.com/p/love-lettersto-save-or-not-to-save 2025-06-24 'Some say burning love letters is symbolic—a ritual of release.' 단 이 계정은 saving-the-point-for-the-postscript 가 이미 씀. 다른 출처 필요",
-      "createdAt": "2026-11-25T03:13:58.586Z",
-      "seq": 6571
-    },
-    {
-      "id": "a79b6929",
-      "title": "sleepless-night-walking 보강: 학술·공공 파편",
-      "priority": 50,
-      "note": "2026-11-25 lying-awake-thinking 원인 간선은 그음(Dickens 1860). 학술·공공 파편 없음. 불면 중 밤 산책을 다룬 연구 검색 결과는 낮 걷기 중재 연구뿐. 공공 후보 myhealth.alberta.ca 링크는 404",
-      "createdAt": "2026-11-25T03:16:45.451Z",
-      "seq": 6572
-    },
-    {
-      "id": "f0000988",
-      "title": "destroying-private-papers-before-death 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-25 탐색: 직접 맞는 HTML 학술 원문 없음. 남은 후보: Thangaraj 외 2025 노년층 사후 데이터 삭제(dl.acm.org 막힘, HTML 판 찾기), Marcoux 2001 Journal of Material Culture casser maison, Jolly 2009 On burning, saving and stealing letters(sussex figshare 막힘). cambridge.org Fredrikzon·Haffenden 2023 erasure studies 는 죽음 언급 없는 정의뿐",
-      "createdAt": "2026-11-25T03:19:02.082Z",
-      "seq": 6573
-    },
-    {
-      "id": "7b13770c",
-      "title": "mutual-pretense-about-dying 보강: 2000년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-25 파편이 2017~2026 뿐. 톨스토이 이반 일리치 VIII장 en.wikisource The_Death_of_Ivan_Ilych/VIII 'The silence had to be broken' 후보이나 이 작품은 이미 4문서가 씀(5번째면 WARN). 다른 1990년 이전 출처 필요",
-      "createdAt": "2026-11-25T03:28:17.871Z",
-      "seq": 6578
-    },
     {
       "id": "51b0cc30",
       "title": "getting-to-the-er-without-ambulance 보강: 공공 파편, delaying-help-for-heart-symptoms 관계",
@@ -43,6 +11,22 @@
       "note": "2026-11-25 공공 출처 못 찾음(질병관리청·소방청 자료는 이유 대목 없거나 PDF). 미사용 후보: PMC9703419 'some women did not call the ambulance, as they had this wrong assumption that the ambulance service would be costly', heart.org 2025-04-15 창피함 대목. delaying-help-for-heart-symptoms 와 창피함 공통 원인 검토",
       "createdAt": "2026-11-25T06:23:48.365Z",
       "seq": 6581
+    },
+    {
+      "id": "5d1d77d2",
+      "title": "discarding-an-exs-belongings 보강: 태운 뒤 후회",
+      "priority": 50,
+      "note": "2026-11-25 후보: boards.straightdope.com/t/what-did-you-do-with-the-exs-gifts-pictures/449120 2008-05-13 댓글 'may I just say that all these years down the track I regret having done so.' 문학 후보 Hardy Jude the Obscure 1895 1부 11장 사진 태우기(단 pg153 은 waking-disoriented-in-unfamiliar-place 가 씀), Wharton A Cup of Cold Water 1899 pg9190 'Having performed this rite'",
+      "createdAt": "2026-11-25T09:13:14.630Z",
+      "seq": 6587
+    },
+    {
+      "id": "cce5df3d",
+      "title": "mutual-pretense-about-dying 보강: 2000년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-25 톨스토이·Little Women(pg514, Beth's Secret 'They did feel it, yet neither spoke of it') 모두 이미 4문서가 씀. TIME 1965-11-12 content.time.com/time/subscriber/article/0,33009,834567-2,00.html 은 실명 대목뿐. Glaser·Strauss 1965 archive.org 대출 전용. 다른 1990년 이전 출처 필요",
+      "createdAt": "2026-11-25T09:40:10.380Z",
+      "seq": 6590
     },
     {
       "id": "ffc25f75",
@@ -1027,6 +1011,22 @@
       "note": "2026-11-25 Anna Karenina(1399 pglaf) 'Sometimes for half an hour at a stretch he would sit silently gazing at the saffron-red, downy, wrinkled face of the sleeping baby' 는 한 문장이 200자 넘어 못 씀. Of Human Bondage(351) 는 얼굴 응시가 아님. 82cook bn=15 num=2296884, 2095504, 1408960 은 연결 끊김. 이전: socresonline 12/5/2, 15/2/5 403, PMC4840086",
       "createdAt": "2026-11-25T06:32:18.497Z",
       "seq": 6582
+    },
+    {
+      "id": "5d87549c",
+      "title": "sleepless-night-walking 보강: 공공 파편",
+      "priority": 30,
+      "note": "2026-11-25 학술 PMC8353174 추가. 공공 글은 일어나 다른 방에서 조용히 지내라는 권고뿐. 매체 후보 anthropology-news.org/articles/conversations-with-the-night 2023-01-05 'I now feel an incessant need to walk.'",
+      "createdAt": "2026-11-25T09:20:36.234Z",
+      "seq": 6588
+    },
+    {
+      "id": "cffdbe00",
+      "title": "destroying-private-papers-before-death 보강: 종이 편지 태우기 학술 파편",
+      "priority": 30,
+      "note": "2026-11-25 디지털 기록 지우기 공공 2012·학술 2026 추가. 남은 후보 aha.confex.com/aha/2011/webprogram/Paper5234.html Henle 2011 Burn This 초록(실존 인물 대목), health.osu.edu swedish-death-cleaning 2026-02-05 매체",
+      "createdAt": "2026-11-25T09:33:38.113Z",
+      "seq": 6589
     },
     {
       "id": "9634edf0",
