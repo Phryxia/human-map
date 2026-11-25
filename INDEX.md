@@ -812,6 +812,7 @@
 - [잠든 얼굴 바라보기](docs/gazing-at-a-sleeping-face.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [잠에서 깨어 기지개 켜기](docs/stretching-on-waking.md) ([시간과 하루 습관](groups/daily-time.md))
 - [잠을 쫓으려고 카페인 마시기](docs/caffeine-to-stay-awake.md) ([시간과 하루 습관](groups/daily-time.md))
+- [잠이 오지 않아 밤에 걷기](docs/sleepless-night-walking.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠자리 미루기](docs/bedtime-procrastination.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [잠자리에서 시계 보기](docs/clock-watching-in-bed.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [장 볼 때 필요보다 많이 사기](docs/overbuying-groceries.md) ([돈과 소비](groups/money.md))
