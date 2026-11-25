@@ -91,6 +91,7 @@
 - [애정을 거친 말이나 행동으로 드러내기](../docs/rough-affection.md) 가까운 사람을 아끼는 사람이 그 마음을 다정한 말 대신 퉁명스러운 말이나 놀림으로 드러낸다.
   - [거친 말로 드러내는 걱정](../docs/harsh-words-for-worry.md)
   - [좋아하는 상대 괴롭히기](../docs/teasing-someone-liked.md)
+- [애착 물건](../docs/comfort-object.md) 아이가 담요나 인형 같은 특정 물건에 정을 붙여 늘 지니고 다니고 잠들 때 찾는다.
 - [애착 불안](../docs/attachment-anxiety.md) 사람이 연인이나 가까운 사람에게 거절당하거나 버림받을까 봐 늘 걱정하며 관계를 살핀다.
 - [애착 회피](../docs/attachment-avoidance.md) 사람이 연인이나 가까운 사람과 친밀해지는 것을 불편해하며 감정적으로 거리를 둔다.
 - [약속 취소당한 서운함](../docs/being-cancelled-on.md) 친구와 잡은 약속을 상대가 취소한 사람이 실망하거나 서운해하고 그 정도는 상대와 얼마나 가까운지에 따라 달라진다.
