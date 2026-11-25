@@ -1,113 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-25T15:05:46.313Z",
-  "nextSeq": 6600,
-  "stops": 353,
+  "savedAt": "2026-11-25T15:34:33.173Z",
+  "nextSeq": 6631,
+  "stops": 354,
   "items": [
-    {
-      "id": "51b0cc30",
-      "title": "getting-to-the-er-without-ambulance 보강: 공공 파편, delaying-help-for-heart-symptoms 관계",
-      "priority": 50,
-      "note": "2026-11-25 공공 출처 못 찾음(질병관리청·소방청 자료는 이유 대목 없거나 PDF). 미사용 후보: PMC9703419 'some women did not call the ambulance, as they had this wrong assumption that the ambulance service would be costly', heart.org 2025-04-15 창피함 대목. delaying-help-for-heart-symptoms 와 창피함 공통 원인 검토",
-      "createdAt": "2026-11-25T06:23:48.365Z",
-      "seq": 6581
-    },
-    {
-      "id": "cce5df3d",
-      "title": "mutual-pretense-about-dying 보강: 2000년 이전 파편",
-      "priority": 50,
-      "note": "2026-11-25 톨스토이·Little Women(pg514, Beth's Secret 'They did feel it, yet neither spoke of it') 모두 이미 4문서가 씀. TIME 1965-11-12 content.time.com/time/subscriber/article/0,33009,834567-2,00.html 은 실명 대목뿐. Glaser·Strauss 1965 archive.org 대출 전용. 다른 1990년 이전 출처 필요",
-      "createdAt": "2026-11-25T09:40:10.380Z",
-      "seq": 6590
-    },
-    {
-      "id": "944c7c81",
-      "title": "hurt-at-being-left-out 보강: fear-of-missing-out·comparing-oneself-on-social-media 관계, 공공 파편",
-      "priority": 50,
-      "note": "2026-11-25 미사용 후보: idw-online.de/en/news781325 2021-11-23 바젤대 보도자료 태그되지 않으면 배제로 느낌, pann.nate.com/talk/369978324 2023-04-26 인스타 스토리로 알고 따질지 손절할지. 공공 출처 못 찾음. Austen Emma 2권 7장(pg158) 은 이미 5문서",
-      "createdAt": "2026-11-25T12:14:25.276Z",
-      "seq": 6597
-    },
-    {
-      "id": "b18efbc2",
-      "title": "parental-fever-phobia 보강: 한국어 파편, 1980년대 파편",
-      "priority": 50,
-      "note": "2026-11-25 한국 공공 HTML 못 찾음. aafp 같은 페이지에 1980년 연구 보호자 94% 대목 있음(원 연구 출처 필요)",
-      "createdAt": "2026-11-25T12:30:30.880Z",
-      "seq": 6598
-    },
-    {
-      "id": "9c8b3b92",
-      "title": "underestimating-own-weight-status 보강: 매체·SNS 파편",
-      "priority": 50,
-      "note": "2026-11-25 kdca 파편 VERIFIED 로 바뀜. 반대 현상(정상 체중인데 비만이라 여김) 수치가 kdca 313385 같은 문단에 있음",
-      "createdAt": "2026-11-25T12:32:20.709Z",
-      "seq": 6599
-    },
-    {
-      "id": "ffc25f75",
-      "title": "summit-fever 보강: 한국어 공공 파편, 목표 고착 관계",
-      "priority": 30,
-      "note": "2026-11-18 sunk-cost-persistence 원인 간선(businessinsider 2019-05-28) 더함. 남은 것: 한국어 공공 파편, 목표 고착 문서. advnture.com/features/what-is-summit-fever (2024-10-10) 'The cost of climbing big mountains makes the decision to turn back more difficult' 후보. 이전: korea.kr·인천소방·강원소방 일반 수칙뿐",
-      "createdAt": "2026-11-18T15:37:45.876Z",
-      "seq": 5600
-    },
-    {
-      "id": "ce17c592",
-      "title": "dismissing-fire-alarms 보강: ignoring-emergency-alerts 와 공통 상위(경보 둔감화)",
-      "priority": 30,
-      "note": "2026-10-23 확인: 두 문서는 상위 관계가 아니라 형제. 공통 상위 '경보 둔감화' 새 문서가 필요하고 ignoring-emergency-alerts 별칭 '경보 피로' 를 그쪽으로 옮길지 정해야 함. 후보: research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자, 줄여야 함), teamblind.com/kr 2021-11-21 댓글 남 따라 대피",
-      "createdAt": "2026-11-18T15:37:50.921Z",
-      "seq": 5601
-    },
-    {
-      "id": "fa370069",
-      "title": "not-reporting-for-fear-of-punishment 보강: 공공 파편, not-reporting-crime 관계",
-      "priority": 30,
-      "note": "2026-11-18 2025 인천일보 더함. 국가인권위 권고는 PDF 뿐. 미사용 후보: khan.co.kr/article/202004192156025 2020 성매매 피해 신고 못함, hhrjournal 같은 논문의 홍콩 추방 우려 문장",
-      "createdAt": "2026-11-18T21:25:45.537Z",
-      "seq": 5625
-    },
-    {
-      "id": "2607dbc9",
-      "title": "empty-invitations 보강: ritual-refusal 관계",
-      "priority": 30,
-      "note": "2026-11-01 국립국어원 소식지 2006 공공 파편 더함. ritual-refusal 과 묶는 원문 못 찾음. 2026-11-02 두 문서 모두 관계 없음, 상위 현상(예의로 하는 빈말) 신설 검토. 후보: 문금현 2009, 국립국어원 『남에서는 이런 말』 2018 PDF",
-      "createdAt": "2026-11-18T21:32:43.704Z",
-      "seq": 5627
-    },
-    {
-      "id": "2740be13",
-      "title": "silent-treatment 와 apology-reluctance 관계",
-      "priority": 30,
-      "note": "2026-11-02 경향 200310130829541 은 '누가 먼저 사과하나 줄다리기' 만 있고 침묵과 잇는 인과 문장 없음. 2026-11-18 psychologytoday why-bad-looks-good 202207 과 health.clevelandclinic.org/silent-treatment 본문에 apolog 대목 없음. 남은 후보: positivepsychology.com ?p=189934(Gupta & Gupta 2023 인용), heartfeltcounselingmn.com 2024-04-18",
-      "createdAt": "2026-11-18T21:36:31.562Z",
-      "seq": 5629
-    },
-    {
-      "id": "84be5b33",
-      "title": "office-thermostat-conflict 보강: 원인 간선, 추위 체감의 성별 차이",
-      "priority": 30,
-      "note": "2026-11-19 재탐색. bchydro 첫 문장 'increased use of A/C in B.C. workplaces is leading to worker discomfort and conflict' 는 냉방 사용이 원인이라 추위 체감 간선 근거로 약하고 [^5] 와 같은 출처. achrnews 130364 (2015-08-17) 'differences in temperature preference between men and women also compounds the problem' 후보. uk.news.yahoo bit-hot-under-collar 인과 없음",
-      "createdAt": "2026-11-19T03:07:00.737Z",
-      "seq": 5664
-    },
-    {
-      "id": "9a301072",
-      "title": "reviewing-after-extreme-experiences 보강: 2010년 이전 출처, 관계",
-      "priority": 30,
-      "note": "2026-11-19 SNS 파편 HN 19681153 (2019) 더함. 2010년 이전 후보: Hu·Pavlou·Zhang 2009 CACM (scholar.xjtu 초록은 편향 설명뿐), Anderson 1998 Journal of Service Research 'dissatisfied customers do engage in greater word of mouth' (deepblue.lib.umich.edu 2027.42/68654, 입소문이라 온라인 후기와 범위 확인 필요). 관계 후보: non-complaining 과 대립",
-      "createdAt": "2026-11-19T03:18:16.119Z",
-      "seq": 5671
-    },
-    {
-      "id": "4965d78e",
-      "title": "outsourcing-grave-mowing 보강: visiting-graves 관계",
-      "priority": 30,
-      "note": "2026-11-19 다시 봄: 둘 사이 원인·대립을 한 문장으로 말하는 파편 없음. 경기도 2020(F3)은 성묘를 못 가 죄책감을 느끼다 대행 신청(성묘 '못 함' 이지 성묘 현상의 원인 아님). 정책브리핑 newsId=148877097, 전북 dataSid=627495",
-      "createdAt": "2026-11-19T21:11:43.204Z",
-      "seq": 5771
-    },
     {
       "id": "0793ba3f",
       "title": "deathbed-reconciliation 보강: 대립 간선",
@@ -1045,6 +941,62 @@
       "seq": 6589
     },
     {
+      "id": "9507a412",
+      "title": "summit-fever 보강: 한국어 공공 파편, 목표 고착 관계",
+      "priority": 30,
+      "note": "2026-11-18 sunk-cost-persistence 원인 간선(businessinsider 2019-05-28) 더함. 남은 것: 한국어 공공 파편, 목표 고착 문서. advnture.com/features/what-is-summit-fever (2024-10-10) 'The cost of climbing big mountains makes the decision to turn back more difficult' 후보. 이전: korea.kr·인천소방·강원소방 일반 수칙뿐. 2026-11-25 국립공원공단 보도자료 검색도 일반 수칙뿐(m.korea.kr 148934902 가을 안전산행)",
+      "createdAt": "2026-11-25T15:15:17.451Z",
+      "seq": 6619
+    },
+    {
+      "id": "866a3b54",
+      "title": "hurt-at-being-left-out 관계: fear-of-missing-out 원인 간선",
+      "priority": 30,
+      "note": "2026-11-25 ONS 2018 공공 파편 추가함. 후보: refinery29.com/fomo-social-media-fear-of-missing-out 2018-06-26 'getting serious FOMO from looking at their photos'(제목 How To Deal When Your Friends Keep Hanging Out Without You). news.cornell.edu 2024/10 what-fuels-our-fear-missing-out 'witnessing friends connecting ... plants seeds of worry'. health.clevelandclinic.org/understanding-fomo 2023-08-23",
+      "createdAt": "2026-11-25T15:17:47.679Z",
+      "seq": 6620
+    },
+    {
+      "id": "169ad0a1",
+      "title": "rebound-relationship 보강: 관계, 공공 파편",
+      "priority": 30,
+      "note": "2026-11-25 PMC12340182 2025 추가함. 미사용 후보: v.daum.net/v/NSgN16VPdB 2019-10 BBC 코리아(Brumbaugh). 같은 Straight Dope 272378 의 'still in love with the original guy and deeply hurt by the rebound'(같은 출처라 못 씀). holding-back-tears-at-breakup·reluctant-parting 관계 검토",
+      "createdAt": "2026-11-25T15:20:56.663Z",
+      "seq": 6621
+    },
+    {
+      "id": "3dc34811",
+      "title": "comfort-object 보강: 공공 파편, 1990년대 이전 파편, 관계",
+      "priority": 30,
+      "note": "2026-11-25 미사용 후보: link.springer.com/doi/10.1007/BF02353351 Triebenbacher 1997-06 부모 태도(학술), healthychildren.org Transitional-Objects 2021-11-22 AAP 'When your child is tired, it will help them sleep'(학회라 매체). 같은 Straight Dope 471066 의 13세 담요 댓글. Live Science 같은 글 어른의 애착 'adults regularly become attached to inanimate objects'. keeping-belongings-of-the-dead 관계 검토",
+      "createdAt": "2026-11-25T15:24:32.919Z",
+      "seq": 6624
+    },
+    {
+      "id": "f7063501",
+      "title": "long-distance-longing 보강: 공공 파편, 관계",
+      "priority": 30,
+      "note": "2026-11-25 미사용 후보: gqkorea 2024-08-01 롱디 팁 기사(조언 글). 같은 HN 37072127 앞 문장 'I was going through a long-distance relationship at that time' 별칭 근거. PMC6241008·PMC8320759 reCAPTCHA. 군인·이주노동자 부부 공공 자료 검토",
+      "createdAt": "2026-11-25T15:27:43.917Z",
+      "seq": 6626
+    },
+    {
+      "id": "8376c24a",
+      "title": "office-thermostat-conflict 보강: 원인 간선, 추위 체감의 성별 차이",
+      "priority": 30,
+      "note": "2026-11-19 재탐색. bchydro 첫 문장 냉방 사용이 원인이라 약함. 2026-11-25 achrnews 130364 (2015-08-17) 'The apparent differences in temperature preference between men and women also compounds the problem' 확인(성별 선호 차이, 추위 체감 문서와 바로 잇기 약함). nature s41598-021-03121-1 2021 겨울·여름 추위 불만 여성 다수, 온도 조절기 공유 집단 클수록 격차. ced.berkeley.edu overcooling 보도자료",
+      "createdAt": "2026-11-25T15:33:46.663Z",
+      "seq": 6628
+    },
+    {
+      "id": "30503e3b",
+      "title": "reviewing-after-extreme-experiences 보강: 2010년 이전 출처, 관계",
+      "priority": 30,
+      "note": "2026-11-19 SNS 파편 HN 19681153 (2019) 더함. 2010년 이전 후보: Hu·Zhang·Pavlou 2009 CACM Overcoming the J-shaped Distribution(cacmb4.acm.org 403, ink.library.smu.edu.sg/sis_research/780 212바이트 JS 확인 페이지, scholar.xjtu 편향 설명뿐), Anderson 1998 deepblue 2027.42/68654 는 2026-11-25 403 Just a moment. 관계 후보: non-complaining 과 대립",
+      "createdAt": "2026-11-25T15:34:17.804Z",
+      "seq": 6629
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1171,6 +1123,14 @@
       "note": "2026-11-19 news.seoul.go.kr/welfare/archives/519574 확인: '대화증가' 만 있고 반려동물에게 말을 건다는 대목 아님. 쓰지 않음. 다른 한국어 학술·공공 출처 필요",
       "createdAt": "2026-11-19T09:38:34.721Z",
       "seq": 5712
+    },
+    {
+      "id": "1087a495",
+      "title": "empty-invitations 보강: ritual-refusal 관계",
+      "priority": 25,
+      "note": "2026-11-01 국립국어원 소식지 2006 공공 파편 더함. ritual-refusal 과 묶는 원문 못 찾음. 2026-11-02 두 문서 모두 관계 없음, 상위 현상(예의로 하는 빈말) 신설 검토. 후보: 문금현 2009, 국립국어원 『남에서는 이런 말』 2018 PDF",
+      "createdAt": "2026-11-25T15:22:00.748Z",
+      "seq": 6623
     },
     {
       "id": "75b0ae75",
@@ -1789,6 +1749,30 @@
       "seq": 6525
     },
     {
+      "id": "e8f157d8",
+      "title": "not-reporting-for-fear-of-punishment 관계: not-reporting-crime",
+      "priority": 20,
+      "note": "2026-11-25 gov.uk Home Office 2021 공공 파편 추가함. not-reporting-crime 은 범죄 피해 전반이라 상위 아님(과다복용 신고 꺼리기가 하위). 원인 문장 필요. 같은 보고서에 'migrant victims fear reporting abuse due to their belief of enforcement action'",
+      "createdAt": "2026-11-25T15:21:53.752Z",
+      "seq": 6622
+    },
+    {
+      "id": "c2eb0432",
+      "title": "silent-treatment 와 apology-reluctance 관계",
+      "priority": 20,
+      "note": "2026-11-02 경향 200310130829541 은 '누가 먼저 사과하나 줄다리기' 만 있고 침묵과 잇는 인과 문장 없음. 2026-11-18 psychologytoday why-bad-looks-good 202207 과 health.clevelandclinic.org/silent-treatment 본문에 apolog 대목 없음. 남은 후보: positivepsychology.com ?p=189934(Gupta & Gupta 2023 인용), heartfeltcounselingmn.com 2024-04-18",
+      "createdAt": "2026-11-25T15:24:38.441Z",
+      "seq": 6625
+    },
+    {
+      "id": "4fad5ae1",
+      "title": "holding-back-tears-at-funeral 관계: no-tears-at-funeral",
+      "priority": 20,
+      "note": "2026-11-25 파편 4개로 보강함. 같은 Straight Dope 574034 의 'I tried not to cry but seeing how strong my wife was when giving the eulogy'. 두 문서 사이 인과 문장 필요",
+      "createdAt": "2026-11-25T15:33:22.112Z",
+      "seq": 6627
+    },
+    {
       "id": "9c55db6a",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
       "priority": 15,
@@ -1923,6 +1907,14 @@
       "note": "2026-11-19 미룸. 두 현상을 함께 말하는 파편 필요(예: Levy 2018 JAMA Netw Open 의사에게 숨기기 조사의 질문하지 않음 항목). PMC61246 표 2 바보처럼 보일까 봐 24%",
       "createdAt": "2026-11-19T03:37:41.687Z",
       "seq": 5682
+    },
+    {
+      "id": "817c8ad5",
+      "title": "outsourcing-grave-mowing 보강: visiting-graves 관계",
+      "priority": 15,
+      "note": "2026-11-19 다시 봄: 둘 사이 원인·대립을 한 문장으로 말하는 파편 없음. 경기도 2020(F3)은 성묘를 못 가 죄책감을 느끼다 대행 신청(성묘 '못 함' 이지 성묘 현상의 원인 아님). 정책브리핑 newsId=148877097, 전북 dataSid=627495",
+      "createdAt": "2026-11-25T15:34:24.084Z",
+      "seq": 6630
     },
     {
       "id": "a3f422fc",
@@ -2109,22 +2101,6 @@
       "seq": 2652
     },
     {
-      "id": "95486b34",
-      "title": "장거리 연애의 그리움",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:14.480Z",
-      "seq": 2654
-    },
-    {
-      "id": "3ad305a4",
-      "title": "리바운드 연애",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:14.663Z",
-      "seq": 2655
-    },
-    {
       "id": "88746a63",
       "title": "썸 관계에서 관계 정의 미루기",
       "priority": 10,
@@ -2147,14 +2123,6 @@
       "note": "#12 사랑·애착·성 요청",
       "createdAt": "2026-10-29T09:07:15.161Z",
       "seq": 2658
-    },
-    {
-      "id": "8f3b99f3",
-      "title": "애착 물건(애착 인형, 애착 담요)",
-      "priority": 10,
-      "note": "#12 사랑·애착·성 요청",
-      "createdAt": "2026-10-29T09:07:15.315Z",
-      "seq": 2659
     },
     {
       "id": "10395267",
@@ -2243,14 +2211,6 @@
       "note": "2026-10-29 링커리어 jayuu/6300512 댓글 (2026-07-27) 집에 혼자 있으면 아무것도 못 해 스카 정기권, 디코 같이 하는 방, 바디더블링 사이트. behaving-better-when-watched 와 관계 후보. HN 8893203 (2015-01-15) 볼 사람 있으면 집중",
       "createdAt": "2026-10-29T21:36:54.862Z",
       "seq": 2728
-    },
-    {
-      "id": "756209db",
-      "title": "장례에서 울음 누르기",
-      "priority": 10,
-      "note": "no-tears-at-funeral 탐색 중 Gutenberg 3296 고백록 9권 12장: 'by the violent command of my mind, drank up their fountain wholly dry'. 경기일보 202002031112382 의 '울지 마라' 권유도 같은 면. holding-back-tears-at-breakup 과 상위 공유 후보",
-      "createdAt": "2026-10-30T06:14:21.177Z",
-      "seq": 2760
     },
     {
       "id": "97e5ebfd",
