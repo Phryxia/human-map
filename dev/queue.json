@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-25T03:29:09.005Z",
-  "nextSeq": 6579,
-  "stops": 350,
+  "savedAt": "2026-11-25T06:33:02.942Z",
+  "nextSeq": 6583,
+  "stops": 351,
   "items": [
     {
       "id": "a7e25bc4",
@@ -37,6 +37,14 @@
       "seq": 6578
     },
     {
+      "id": "51b0cc30",
+      "title": "getting-to-the-er-without-ambulance 보강: 공공 파편, delaying-help-for-heart-symptoms 관계",
+      "priority": 50,
+      "note": "2026-11-25 공공 출처 못 찾음(질병관리청·소방청 자료는 이유 대목 없거나 PDF). 미사용 후보: PMC9703419 'some women did not call the ambulance, as they had this wrong assumption that the ambulance service would be costly', heart.org 2025-04-15 창피함 대목. delaying-help-for-heart-symptoms 와 창피함 공통 원인 검토",
+      "createdAt": "2026-11-25T06:23:48.365Z",
+      "seq": 6581
+    },
+    {
       "id": "ffc25f75",
       "title": "summit-fever 보강: 한국어 공공 파편, 목표 고착 관계",
       "priority": 30,
@@ -51,14 +59,6 @@
       "note": "2026-10-23 확인: 두 문서는 상위 관계가 아니라 형제. 공통 상위 '경보 둔감화' 새 문서가 필요하고 ignoring-emergency-alerts 별칭 '경보 피로' 를 그쪽으로 옮길지 정해야 함. 후보: research.polyu.edu.hk Wong 2009 경보를 false alarm 이나 test 로 여김(207자, 줄여야 함), teamblind.com/kr 2021-11-21 댓글 남 따라 대피",
       "createdAt": "2026-11-18T15:37:50.921Z",
       "seq": 5601
-    },
-    {
-      "id": "d4f0e68e",
-      "title": "gazing-at-a-sleeping-face 보강: 1950~2013 시기 파편, 잠든 연인을 바라보는 학술 원문",
-      "priority": 30,
-      "note": "2026-11-18 PMC5862195(2017) 더함. 미확인 후보: socresonline.org.uk 12/5/2 Hislop 2007 부부 수면, 15/2/5 2010 동성 커플 수면(둘 다 403, core.ac.uk 미러 시도), PMC4840086",
-      "createdAt": "2026-11-18T21:15:56.657Z",
-      "seq": 5623
     },
     {
       "id": "fa370069",
@@ -1019,6 +1019,14 @@
       "note": "2026-11-25 공통 이웃 mutual-pretense-about-dying 신설(상위 avoiding-death-talk). 두 숨기기를 mutual-pretense 하위로 둘지 볼 것. 후보: revistas.ucm.es Psicooncología 2008 conspiracy of silence in families of terminal oncological patients, PMC6388587 Indian J Palliat Care 2019(reCAPTCHA)",
       "createdAt": "2026-11-25T03:28:17.805Z",
       "seq": 6577
+    },
+    {
+      "id": "75ea76e8",
+      "title": "gazing-at-a-sleeping-face 보강: 1950~2013 시기 파편, 잠든 연인을 바라보는 학술 원문",
+      "priority": 30,
+      "note": "2026-11-25 Anna Karenina(1399 pglaf) 'Sometimes for half an hour at a stretch he would sit silently gazing at the saffron-red, downy, wrinkled face of the sleeping baby' 는 한 문장이 200자 넘어 못 씀. Of Human Bondage(351) 는 얼굴 응시가 아님. 82cook bn=15 num=2296884, 2095504, 1408960 은 연결 끊김. 이전: socresonline 12/5/2, 15/2/5 403, PMC4840086",
+      "createdAt": "2026-11-25T06:32:18.497Z",
+      "seq": 6582
     },
     {
       "id": "9634edf0",
