@@ -34,7 +34,7 @@
 
 ## 하위
 
-없음.
+- [죽음을 서로 모르는 척하기](mutual-pretense-about-dying.md)
 
 ## 원인
 
