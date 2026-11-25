@@ -143,6 +143,7 @@
 - [꿈인지 확인하려고 자기 몸 꼬집기](docs/pinching-oneself-to-check-dreaming.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [끓여 마시라는 권고 따르지 않기](docs/ignoring-boil-water-advisories.md) ([건강과 위험](groups/health-and-safety.md))
 - [끝내지 못한 일 계속 떠올리기](docs/zeigarnik-effect.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [나만 빼고 모인 것을 안 서운함](docs/hurt-at-being-left-out.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [나쁜 성적 뒤 집에 들어가기 미루기](docs/delaying-going-home-after-bad-grades.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [나쁜 성적표 숨기기](docs/hiding-bad-report-cards.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [나쁜 소식 확인 미루기](docs/delaying-bad-news.md) ([걱정과 기분](groups/worry-and-mood.md))

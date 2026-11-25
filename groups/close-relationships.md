@@ -17,6 +17,7 @@
   - [나쁜 성적 뒤 집에 들어가기 미루기](../docs/delaying-going-home-after-bad-grades.md)
 - [귀가하는 가족을 자지 않고 기다리기](../docs/waiting-up-for-family.md) 밤늦게 나간 가족이 있는 사람이 그 가족이 집에 돌아올 때까지 잠자리에 들지 않고 깨어 기다린다.
 - [귀여운 공격성](../docs/cute-aggression.md) 귀엽다고 느끼는 대상을 본 사람이 해칠 뜻 없이 그것을 꽉 쥐거나 깨물고 싶은 충동을 느낀다.
+- [나만 빼고 모인 것을 안 서운함](../docs/hurt-at-being-left-out.md) 친구나 아는 사람들이 자기만 부르지 않고 모이거나 놀러 간 것을 뒤늦게 안 사람이 서운해하거나 마음 아파한다.
 - [남 앞에서 눈물 감추기](../docs/hiding-tears.md) 남 앞에서 눈물이 나려는 사람이 바쁜 척하거나 다른 핑계를 대어 우는 것을 남에게 감춘다.
   - [남몰래 울기](../docs/crying-in-secret.md)
   - [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md)
