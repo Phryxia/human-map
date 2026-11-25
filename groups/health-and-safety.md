@@ -21,6 +21,7 @@
 - [고데기 켜 둔 채 외출하기](../docs/leaving-hair-straighteners-on.md) 머리를 손질하고 서둘러 집을 나서는 사람이 고데기를 켜 둔 채 나간다.
 - [공중화장실 변기에 앉지 않기](../docs/hovering-over-public-toilet-seats.md) 공중화장실을 쓰는 사람이 세균이나 오물이 옮을까 봐 변기에 앉지 않고 몸을 띄운 채 볼일을 본다.
 - [과음](../docs/heavy-drinking.md) 술을 마시는 사람이 한 번의 술자리에서 많은 양을 마신다.
+- [구급차 대신 제 차로 응급실 가기](../docs/getting-to-the-er-without-ambulance.md) 심장마비나 뇌졸중 같은 응급 증상이 온 사람과 가족이 구급차를 부르지 않고 직접 운전하거나 자가용과 택시를 타고 병원에 간다.
 - [금연 뒤 다시 피우기](../docs/smoking-relapse.md) 담배를 끊으려던 사람이 다시 담배를 피운다.
 - [기침할 때 가리지 않기](../docs/not-covering-coughs.md) 공공장소에서 기침이나 재채기를 하는 사람이 습관이 되지 않았거나 귀찮아서 입과 코를 가리지 않거나 맨손으로만 가린다.
 - [끓여 마시라는 권고 따르지 않기](../docs/ignoring-boil-water-advisories.md) 수돗물을 끓여 마시라는 권고가 내려진 동안 주민이 끓이지 않은 수돗물을 마시거나 양치에 쓴다.
