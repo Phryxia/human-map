@@ -288,6 +288,7 @@
 - [뜨거운 탕에 오래 몸 담그기](docs/soaking-long-in-hot-baths.md) ([시간과 하루 습관](groups/daily-time.md))
 - [렌즈 낀 채 잠들기](docs/sleeping-in-contact-lenses.md) ([건강과 위험](groups/health-and-safety.md))
 - [렌즈를 수돗물로 헹구기](docs/rinsing-lenses-with-tap-water.md) ([건강과 위험](groups/health-and-safety.md))
+- [리바운드 연애](docs/rebound-relationship.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [리베이트 받지 않기](docs/rebate-slippage.md) ([돈과 소비](groups/money.md))
 - [리콜 수리 받지 않기](docs/ignoring-vehicle-recalls.md) ([길과 운전](groups/roads-and-driving.md))
 - [마음속 예산 나누기](docs/mental-budgeting.md) ([돈과 소비](groups/money.md))

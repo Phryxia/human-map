@@ -42,6 +42,7 @@
   - [돈 빌려 달라는 말 꺼내기 부끄러워하기](../docs/shame-asking-to-borrow-money.md)
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
   - [의사에게 질문하지 못하기](../docs/not-asking-doctors-questions.md)
+- [리바운드 연애](../docs/rebound-relationship.md) 연애가 끝난 사람이 옛 연인에 대한 감정이 정리되기 전에 곧바로 새 상대를 만나 연애를 시작한다.
 - [마중 나가 기다리기](../docs/meeting-arrivals.md) 가족이나 가까운 사람이 기차나 비행기로 도착할 때 사람이 역이나 공항까지 마중을 나가 그 사람이 나오기를 기다린다.
 - [말 끊기](../docs/interrupting-others.md) 대화하는 사람이 상대가 말을 마치기 전에 그 말을 끊고 자기 말을 한다.
 - [말 안 하기로 화 드러내기](../docs/silent-treatment.md) 다툰 뒤 화가 난 사람이 상대에게 일부러 말을 하지 않는다.
