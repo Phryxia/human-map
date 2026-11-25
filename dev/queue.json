@@ -1,32 +1,40 @@
 {
   "version": 1,
-  "savedAt": "2026-11-25T00:31:26.201Z",
-  "nextSeq": 6562,
-  "stops": 349,
+  "savedAt": "2026-11-25T03:29:09.005Z",
+  "nextSeq": 6579,
+  "stops": 350,
   "items": [
     {
-      "id": "64b712f7",
-      "title": "destroying-private-papers-before-death 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-25 후보: aha.confex.com/aha/2011/webprogram/Paper5234.html Henle 2011 'Sacred ties to living friends and family proved key to decisions of whether to destroy or preserve the private papers of the deceased.' 유족이 고인 편지를 없앨지 정함(본인 아닌 유족이라 맞는지 볼 것). Cranford 5장(1853) 'No one will care for them when I am gone' 은 Cranford 가 이미 4문서라 보류",
-      "createdAt": "2026-11-25T00:09:59.107Z",
-      "seq": 6558
-    },
-    {
-      "id": "410f584d",
+      "id": "a7e25bc4",
       "title": "discarding-an-exs-belongings 보강: 편지 태우기를 놓아 보내는 의식으로 여김",
       "priority": 50,
       "note": "2026-11-25 후보: felicecohen.substack.com/p/love-lettersto-save-or-not-to-save 2025-06-24 'Some say burning love letters is symbolic—a ritual of release.' 단 이 계정은 saving-the-point-for-the-postscript 가 이미 씀. 다른 출처 필요",
-      "createdAt": "2026-11-25T00:09:59.187Z",
-      "seq": 6559
+      "createdAt": "2026-11-25T03:13:58.586Z",
+      "seq": 6571
     },
     {
-      "id": "9c71f6f9",
-      "title": "sleepless-night-walking 보강: 학술·공공 파편, lying-awake-thinking 원인 관계",
+      "id": "a79b6929",
+      "title": "sleepless-night-walking 보강: 학술·공공 파편",
       "priority": 50,
-      "note": "2026-11-25 디킨스 Night Walks(1860) 'inability to sleep, referable to a distressing impression, caused me to walk' 가 원인 간선 근거 후보(lying-awake-thinking 쪽에도 파편 필요). 학술 후보 Cosnett 1992 Sleep 15(3) 초록 'devised the unique therapy of long night walks'(실존 인물 서술이라 주의). 공공 후보 myhealth.alberta.ca stimulus-control 2024 'If you don't fall asleep, leave your bedroom'. Villette 은 이미 4문서",
-      "createdAt": "2026-11-25T00:19:10.713Z",
-      "seq": 6560
+      "note": "2026-11-25 lying-awake-thinking 원인 간선은 그음(Dickens 1860). 학술·공공 파편 없음. 불면 중 밤 산책을 다룬 연구 검색 결과는 낮 걷기 중재 연구뿐. 공공 후보 myhealth.alberta.ca 링크는 404",
+      "createdAt": "2026-11-25T03:16:45.451Z",
+      "seq": 6572
+    },
+    {
+      "id": "f0000988",
+      "title": "destroying-private-papers-before-death 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-25 탐색: 직접 맞는 HTML 학술 원문 없음. 남은 후보: Thangaraj 외 2025 노년층 사후 데이터 삭제(dl.acm.org 막힘, HTML 판 찾기), Marcoux 2001 Journal of Material Culture casser maison, Jolly 2009 On burning, saving and stealing letters(sussex figshare 막힘). cambridge.org Fredrikzon·Haffenden 2023 erasure studies 는 죽음 언급 없는 정의뿐",
+      "createdAt": "2026-11-25T03:19:02.082Z",
+      "seq": 6573
+    },
+    {
+      "id": "7b13770c",
+      "title": "mutual-pretense-about-dying 보강: 2000년 이전 파편",
+      "priority": 50,
+      "note": "2026-11-25 파편이 2017~2026 뿐. 톨스토이 이반 일리치 VIII장 en.wikisource The_Death_of_Ivan_Ilych/VIII 'The silence had to be broken' 후보이나 이 작품은 이미 4문서가 씀(5번째면 WARN). 다른 1990년 이전 출처 필요",
+      "createdAt": "2026-11-25T03:28:17.871Z",
+      "seq": 6578
     },
     {
       "id": "ffc25f75",
@@ -45,28 +53,12 @@
       "seq": 5601
     },
     {
-      "id": "4550c575",
-      "title": "withholding-diagnosis-from-patient 와 hiding-illness-from-family 관계",
-      "priority": 30,
-      "note": "2026-11-18 원인 간선 avoiding-death-talk 는 그음(hkcfp 2004). 두 숨기기를 잇는 원문 없음. Glaser·Strauss 의 mutual pretense(서로 아는 척 안 하기) 를 공통 상위 후보로. 후보: psychologytoday 202002 death-and-the-conspiracy-of-silence",
-      "createdAt": "2026-11-18T21:12:31.619Z",
-      "seq": 5620
-    },
-    {
       "id": "d4f0e68e",
       "title": "gazing-at-a-sleeping-face 보강: 1950~2013 시기 파편, 잠든 연인을 바라보는 학술 원문",
       "priority": 30,
       "note": "2026-11-18 PMC5862195(2017) 더함. 미확인 후보: socresonline.org.uk 12/5/2 Hislop 2007 부부 수면, 15/2/5 2010 동성 커플 수면(둘 다 403, core.ac.uk 미러 시도), PMC4840086",
       "createdAt": "2026-11-18T21:15:56.657Z",
       "seq": 5623
-    },
-    {
-      "id": "69f55458",
-      "title": "working-through-heat 보강: 학술 인과 파편, 일자리 잃을까 봐 쉬지 못함",
-      "priority": 30,
-      "note": "2026-11-18 income-loss-worry 원인 간선 그음(asiae 2026-08-12). 미사용 후보: PMC4015616 Lam 2013 Table 3 'Inadequate hydration due to lost wages from taking breaks among piece rate workers', newsis NISX20230801_0002398373 '나오지 말라고 할까 봐 못 쉬지'(job-insecurity 원인 후보), segye 20240807518194 건설노조. PMC8562852 Pan 2021 은 성과급 노동자가 고온에서 강도를 낮춘다(반대 방향)",
-      "createdAt": "2026-11-18T21:25:15.770Z",
-      "seq": 5624
     },
     {
       "id": "fa370069",
@@ -101,14 +93,6 @@
       "seq": 5664
     },
     {
-      "id": "1a1a91a1",
-      "title": "declining-free-meals-out-of-pride 보강: 한국 노인 무료급식 파편",
-      "priority": 30,
-      "note": "2026-11-19 검색어 무료급식소 노인 체면·경로식당: 직접 대목 없음. koreascience JAKO201374652240697 (2013 침묵의 밥) 초록은 무료라서 불만을 말하지 않음이라 non-complaining 에 씀. jjan.kr 20210524732823 자녀가 낯부끄러워함 대목 확인 필요",
-      "createdAt": "2026-11-19T03:16:34.707Z",
-      "seq": 5670
-    },
-    {
       "id": "9a301072",
       "title": "reviewing-after-extreme-experiences 보강: 2010년 이전 출처, 관계",
       "priority": 30,
@@ -131,14 +115,6 @@
       "note": "2026-11-19 SFGate 1996 추가로 2000년 이전 비문학 채움. 대립 후보: 코메디닷컴 2026-02-02 무연고 말기 환자가 염치가 없다며 가족 찾기를 망설임. Christian Century 1987 religion-online.org/?p=7173 호스피스 환자가 17년 틀어진 가족에게 용서하라고 함(실명 Jack 앞 문장 제외)",
       "createdAt": "2026-11-19T21:18:35.658Z",
       "seq": 5772
-    },
-    {
-      "id": "32367dfa",
-      "title": "avoiding-unlucky-numbers 보강: 4 기피의 2000년 이전 파편, superstitious-rituals 관계",
-      "priority": 30,
-      "note": "2026-11-19 Popular Science Monthly 1895 파리 13번지→12 B 추가. 4층·끝자리 4 기피의 1990년대 한국 기사 못 찾음. M.R. James 1904 Number 13 (en.wikisource Ghost_Stories_of_an_Antiquary/Number_13) 호텔 객실 목록에서 13 빼기, 문학 후보. medicaltimes 2014 ID=1088559",
-      "createdAt": "2026-11-19T21:22:58.513Z",
-      "seq": 5773
     },
     {
       "id": "09cf7821",
@@ -1011,6 +987,38 @@
       "note": "2026-11-18 인과 한 문장 못 찾음. delaying 에 원인 fear-of-losing-independence 그음 / 2026-11-24 ajc.com/wellness/2025/08/should-i-still-be-driving/ 'One of the barriers for older adults is the fear of isolation, having to request rides and transportation,' 는 고립의 두려움이라 실제 고립 문서와의 원인 간선 근거로 약함. 고립 두려움 문서를 따로 둘지 정할 것",
       "createdAt": "2026-11-24T21:31:14.292Z",
       "seq": 6551
+    },
+    {
+      "id": "67c5a621",
+      "title": "declining-free-meals-out-of-pride 보강: 한국 노인 무료급식 파편",
+      "priority": 30,
+      "note": "2026-11-19 검색어 무료급식소 노인 체면·경로식당: 직접 대목 없음. koreascience JAKO201374652240697 (2013 침묵의 밥) 초록은 non-complaining 에 씀. jjan.kr 20210524732823 확인 필요. 2026-11-25 bravo.etoday 13052·13677, weekly.khan 16510 대목 없음. futurechosun.com/archives/66750 동대문 푸드마켓 어르신들이 민망해함(호스트가 프록시에서 끊김, 다른 경로로 열어 볼 것)",
+      "createdAt": "2026-11-25T03:20:08.347Z",
+      "seq": 6574
+    },
+    {
+      "id": "b408d6b9",
+      "title": "working-through-heat 와 job-insecurity 관계 보강: 학술 근거",
+      "priority": 30,
+      "note": "2026-11-25 Lam 2013 PMC4015616(감독자 눈치·돈 벌려고 일을 끊지 않음) 더해 income-loss-worry 원인 근거로 씀. 남은 후보: segye 20240807518194 건설노조, PMC8562852 Pan 2021 은 반대 방향",
+      "createdAt": "2026-11-25T03:21:29.960Z",
+      "seq": 6575
+    },
+    {
+      "id": "07fcd604",
+      "title": "avoiding-unlucky-numbers 보강: 4 기피의 2000년 이전 파편, superstitious-rituals 관계",
+      "priority": 30,
+      "note": "2026-11-19 Popular Science Monthly 1895 추가. 4층·끝자리 4 기피의 1990년대 한국 기사 못 찾음. medicaltimes 2014 ID=1088559. 2026-11-25 aeaweb 2019 시애틀 중국계 구매자 할인 없음 논문은 PDF 뿐. folklore.usc.edu/chinese-number-four, journeys.dartmouth.edu/folklorearchive/?p=11033 민속 아카이브 미확인 후보",
+      "createdAt": "2026-11-25T03:22:03.448Z",
+      "seq": 6576
+    },
+    {
+      "id": "dc3121e7",
+      "title": "withholding-diagnosis-from-patient 와 hiding-illness-from-family 관계",
+      "priority": 30,
+      "note": "2026-11-25 공통 이웃 mutual-pretense-about-dying 신설(상위 avoiding-death-talk). 두 숨기기를 mutual-pretense 하위로 둘지 볼 것. 후보: revistas.ucm.es Psicooncología 2008 conspiracy of silence in families of terminal oncological patients, PMC6388587 Indian J Palliat Care 2019(reCAPTCHA)",
+      "createdAt": "2026-11-25T03:28:17.805Z",
+      "seq": 6577
     },
     {
       "id": "9634edf0",
