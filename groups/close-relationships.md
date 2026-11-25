@@ -21,6 +21,7 @@
 - [남 앞에서 눈물 감추기](../docs/hiding-tears.md) 남 앞에서 눈물이 나려는 사람이 바쁜 척하거나 다른 핑계를 대어 우는 것을 남에게 감춘다.
   - [남몰래 울기](../docs/crying-in-secret.md)
   - [이별 앞에서 눈물 참기](../docs/holding-back-tears-at-breakup.md)
+  - [장례에서 울음 누르기](../docs/holding-back-tears-at-funeral.md)
 - [남 이야기하기](../docs/gossip.md) 사람이 그 자리에 없는 다른 사람에 대한 이야기를 주고받는다.
 - [남 탓하기](../docs/blaming-others.md) 잘못이나 실패를 겪은 사람이 그 원인을 자기가 아닌 다른 사람이나 주위 환경에 돌린다.
   - [남 탓의 전염](../docs/blame-contagion.md)

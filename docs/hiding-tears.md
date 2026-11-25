@@ -26,6 +26,7 @@
 
 - [남몰래 울기](crying-in-secret.md)
 - [이별 앞에서 눈물 참기](holding-back-tears-at-breakup.md)
+- [장례에서 울음 누르기](holding-back-tears-at-funeral.md)
 
 ## 원인
 
