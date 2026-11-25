@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-25T09:40:20.645Z",
-  "nextSeq": 6591,
-  "stops": 352,
+  "savedAt": "2026-11-25T12:36:48.608Z",
+  "nextSeq": 6600,
+  "stops": 353,
   "items": [
     {
       "id": "51b0cc30",
@@ -13,20 +13,36 @@
       "seq": 6581
     },
     {
-      "id": "5d1d77d2",
-      "title": "discarding-an-exs-belongings 보강: 태운 뒤 후회",
-      "priority": 50,
-      "note": "2026-11-25 후보: boards.straightdope.com/t/what-did-you-do-with-the-exs-gifts-pictures/449120 2008-05-13 댓글 'may I just say that all these years down the track I regret having done so.' 문학 후보 Hardy Jude the Obscure 1895 1부 11장 사진 태우기(단 pg153 은 waking-disoriented-in-unfamiliar-place 가 씀), Wharton A Cup of Cold Water 1899 pg9190 'Having performed this rite'",
-      "createdAt": "2026-11-25T09:13:14.630Z",
-      "seq": 6587
-    },
-    {
       "id": "cce5df3d",
       "title": "mutual-pretense-about-dying 보강: 2000년 이전 파편",
       "priority": 50,
       "note": "2026-11-25 톨스토이·Little Women(pg514, Beth's Secret 'They did feel it, yet neither spoke of it') 모두 이미 4문서가 씀. TIME 1965-11-12 content.time.com/time/subscriber/article/0,33009,834567-2,00.html 은 실명 대목뿐. Glaser·Strauss 1965 archive.org 대출 전용. 다른 1990년 이전 출처 필요",
       "createdAt": "2026-11-25T09:40:10.380Z",
       "seq": 6590
+    },
+    {
+      "id": "944c7c81",
+      "title": "hurt-at-being-left-out 보강: fear-of-missing-out·comparing-oneself-on-social-media 관계, 공공 파편",
+      "priority": 50,
+      "note": "2026-11-25 미사용 후보: idw-online.de/en/news781325 2021-11-23 바젤대 보도자료 태그되지 않으면 배제로 느낌, pann.nate.com/talk/369978324 2023-04-26 인스타 스토리로 알고 따질지 손절할지. 공공 출처 못 찾음. Austen Emma 2권 7장(pg158) 은 이미 5문서",
+      "createdAt": "2026-11-25T12:14:25.276Z",
+      "seq": 6597
+    },
+    {
+      "id": "b18efbc2",
+      "title": "parental-fever-phobia 보강: 한국어 파편, 1980년대 파편",
+      "priority": 50,
+      "note": "2026-11-25 한국 공공 HTML 못 찾음. aafp 같은 페이지에 1980년 연구 보호자 94% 대목 있음(원 연구 출처 필요)",
+      "createdAt": "2026-11-25T12:30:30.880Z",
+      "seq": 6598
+    },
+    {
+      "id": "9c8b3b92",
+      "title": "underestimating-own-weight-status 보강: 매체·SNS 파편",
+      "priority": 50,
+      "note": "2026-11-25 kdca 파편 VERIFIED 로 바뀜. 반대 현상(정상 체중인데 비만이라 여김) 수치가 kdca 313385 같은 문단에 있음",
+      "createdAt": "2026-11-25T12:32:20.709Z",
+      "seq": 6599
     },
     {
       "id": "ffc25f75",
