@@ -31144,21 +31144,21 @@
   },
   "https://www.seoul.co.kr/news/2000/05/01/20000501003002": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://www.khan.co.kr/article/201301191345431/amp": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://www.hhrjournal.org/2020/12/08/underreporting-of-violence-to-police-among-women-sex-workers-in-canada-amplified-inequities-for-im-migrant-and-in-call-workers-prior-to-and-following-end-demand-legislation/": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://view.asiae.co.kr/article/2026081201394862289": {
     "first": "2026-11-18",
@@ -31168,9 +31168,9 @@
   },
   "https://v.daum.net/v/20250421203002068?f=p": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-25",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-25"
   },
   "https://mobile.newsis.com/view/NISX20230801_0002398373": {
     "first": "2026-11-18",
@@ -36172,6 +36172,12 @@
     "lastVerified": "2026-11-25"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12340182/": {
+    "first": "2026-11-25",
+    "last": "2026-11-25",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-25"
+  },
+  "https://www.gov.uk/government/publications/review-of-data-sharing-migrant-victims-and-witnesses-of-crime/review-of-data-sharing-migrant-victims-and-witnesses-of-crime-accessible-version": {
     "first": "2026-11-25",
     "last": "2026-11-25",
     "result": "VERIFIED",
