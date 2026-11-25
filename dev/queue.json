@@ -1,9 +1,33 @@
 {
   "version": 1,
-  "savedAt": "2026-11-24T21:32:16.548Z",
-  "nextSeq": 6552,
-  "stops": 348,
+  "savedAt": "2026-11-25T00:31:26.201Z",
+  "nextSeq": 6562,
+  "stops": 349,
   "items": [
+    {
+      "id": "64b712f7",
+      "title": "destroying-private-papers-before-death 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-25 후보: aha.confex.com/aha/2011/webprogram/Paper5234.html Henle 2011 'Sacred ties to living friends and family proved key to decisions of whether to destroy or preserve the private papers of the deceased.' 유족이 고인 편지를 없앨지 정함(본인 아닌 유족이라 맞는지 볼 것). Cranford 5장(1853) 'No one will care for them when I am gone' 은 Cranford 가 이미 4문서라 보류",
+      "createdAt": "2026-11-25T00:09:59.107Z",
+      "seq": 6558
+    },
+    {
+      "id": "410f584d",
+      "title": "discarding-an-exs-belongings 보강: 편지 태우기를 놓아 보내는 의식으로 여김",
+      "priority": 50,
+      "note": "2026-11-25 후보: felicecohen.substack.com/p/love-lettersto-save-or-not-to-save 2025-06-24 'Some say burning love letters is symbolic—a ritual of release.' 단 이 계정은 saving-the-point-for-the-postscript 가 이미 씀. 다른 출처 필요",
+      "createdAt": "2026-11-25T00:09:59.187Z",
+      "seq": 6559
+    },
+    {
+      "id": "9c71f6f9",
+      "title": "sleepless-night-walking 보강: 학술·공공 파편, lying-awake-thinking 원인 관계",
+      "priority": 50,
+      "note": "2026-11-25 디킨스 Night Walks(1860) 'inability to sleep, referable to a distressing impression, caused me to walk' 가 원인 간선 근거 후보(lying-awake-thinking 쪽에도 파편 필요). 학술 후보 Cosnett 1992 Sleep 15(3) 초록 'devised the unique therapy of long night walks'(실존 인물 서술이라 주의). 공공 후보 myhealth.alberta.ca stimulus-control 2024 'If you don't fall asleep, leave your bedroom'. Villette 은 이미 4문서",
+      "createdAt": "2026-11-25T00:19:10.713Z",
+      "seq": 6560
+    },
     {
       "id": "ffc25f75",
       "title": "summit-fever 보강: 한국어 공공 파편, 목표 고착 관계",
@@ -3459,6 +3483,14 @@
       "note": "2026-11-24 novinite 234126 '20% join in because others are clapping'. 미사용: goodmorningamerica 13246311 (2011) 세 이유(원문 200자 넘음), thejournal 기사가 1997 NYT 보도 언급",
       "createdAt": "2026-11-24T18:38:25.578Z",
       "seq": 6543
+    },
+    {
+      "id": "577632cc",
+      "title": "서명 연습하기",
+      "priority": 10,
+      "note": "2026-11-25 매체 후보만 찾음(종류 2가지 못 채움): redinkmag.com/2017/01/04/the-written-word/ 2017-01-04 'When you’re little, you always practice your signature.', hercampus.com/school/winona/september-22-diverse-ways-i-ve-kept-diary-over-two-decades/ 2020-09-20 'practiced my signatures for when I became famous', papier.com/thefold/articles/express-yourself-the-writing-styles-of-school 2019-08-19. 학술 후보 thescholarship.ecu.edu/handle/10342/3754 미열람. 문학·SNS 필요",
+      "createdAt": "2026-11-25T00:31:09.477Z",
+      "seq": 6561
     },
     {
       "id": "02b2f242",
