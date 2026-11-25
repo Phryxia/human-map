@@ -14,6 +14,8 @@
 
 2021년 연구[^3]에서 참가자들이 지은 놀람의 표정은 진짜 놀란 것이든 일부러 지은 것이든 주로 눈썹과 눈꺼풀을 들어 올리는 움직임으로 이루어졌다.
 
+2026년 10월 글래스고 대학 보도자료[^4]가 전한 실험에서 서유럽과 동아시아 참가자는 올라간 눈썹과 잠깐 감은 눈을 더 큰 자신감과 연결 지었다.
+
 # 관계
 
 ## 상위
@@ -41,3 +43,4 @@
 [^1]: [문학] "Tom Towers merely raised his eyebrows, thrust his hands into his trowsers pockets, and waited for his friend to proceed." (톰 타워스는 그저 눈썹을 치켜올리고 바지 주머니에 두 손을 찔러 넣은 채 친구가 말을 이어 가기를 기다렸다.) — Anthony Trollope, The Warden, Project Gutenberg, 1855, https://gutenberg.pglaf.org/6/1/619/619.txt, 2026-11-25 접속
 [^2]: [문학] "She raised her eyebrows in surprise. “An excuse? Must I excuse myself?”" (그녀는 놀라서 눈썹을 치켜올렸다. "핑계라고요? 내가 변명을 해야 하나요?") — Henry James, The Portrait of a Lady, Project Gutenberg, 1881, https://gutenberg.pglaf.org/2/8/3/2833/2833-0.txt, 2026-11-25 접속
 [^3]: [학술] "Results showed that all surprise displays were mainly composed of raising eyebrows and eyelids movements." (결과에 따르면 모든 놀람 표정은 주로 눈썹 올리기와 눈꺼풀 움직임으로 이루어졌다.) — Shushi Namba, Hiroshi Matsui, Mircea Zloteanu, "Distinct temporal features of genuine and deliberate facial expressions of surprise", Scientific Reports, 2021-02-09, https://pmc.ncbi.nlm.nih.gov/articles/PMC7873236/, 2026-11-25 접속
+[^4]: [매체] "Overall, the researchers found that participants from both Western European and East Asian cultures associated raised eyebrows and briefly closed eyes with greater confidence." (전반적으로 연구진은 서유럽과 동아시아 문화권의 참가자 모두가 올라간 눈썹과 잠깐 감은 눈을 더 큰 자신감과 연결 짓는다는 것을 발견했다.) — University of Glasgow, "Raised brows and a slow blink make speakers look more confident", University of Glasgow News, 2026-10-22, https://www.gla.ac.uk/news/headline_1298640_en.html, 2026-11-25 접속
