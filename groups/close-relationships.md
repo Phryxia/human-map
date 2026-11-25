@@ -37,6 +37,7 @@
 - [내가 죽으면 다들 미안해하리라는 상상](../docs/imagining-others-sorry-at-own-death.md) 서운하거나 억울한 사람이 자기가 죽은 뒤 주변 사람들이 놀라고 슬퍼하고 미안해하는 모습을 상상한다.
 - [노후에 자녀와 따로 살기 바라기](../docs/wanting-to-live-apart-from-children.md) 나이 든 사람이 자녀와 한집에 살기보다 따로 살기를 바란다.
 - [눈 굴리기](../docs/eye-rolling.md) 상대의 말이나 행동이 못마땅하거나 어이없다고 느낀 사람이 눈알을 위나 옆으로 굴린다.
+- [눈썹 치켜올리기](../docs/raising-eyebrows.md) 뜻밖이거나 미심쩍은 말을 들은 사람이 말없이 눈썹을 치켜올린다.
 - [다투는 두 사람 사이에서 편들지 못하기](../docs/caught-between-quarreling-sides.md) 서로 다투는 두 사람이나 두 집안을 함께 아는 사람이 어느 편도 들지 못하고 난처해한다.
 - [대중문화 속 이름으로 아이 이름 짓기](../docs/naming-children-after-pop-culture.md) 부모가 드라마나 영화, 노래 속 인물의 이름을 아이 이름으로 붙인다.
 - [도움 요청 회피](../docs/help-seeking-avoidance.md) 도움이 필요한 사람이 쓸 수 있는 도움이 있어도 남에게 도와 달라고 말하지 않는다.
