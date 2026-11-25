@@ -92,7 +92,8 @@
 - [자기 불구화](../docs/self-handicapping.md) 실패할 수 있는 과제를 앞둔 사람이 준비를 덜 하거나 불리한 조건을 내세워 실패를 그 탓으로 돌릴 자리를 미리 만든다.
 - [자기 연민](../docs/self-pity.md) 괴로운 일을 겪은 사람이 자기 처지를 불쌍히 여기며 자기만 힘들다고 느낀다.
 - [잠든 아기의 숨 확인하기](../docs/checking-sleeping-babys-breathing.md) 어린 아기를 돌보는 부모가 잠든 아기가 숨을 쉬는지 되풀이해 들여다보고 만져 본다.
-- [잠이 오지 않아 밤에 걷기](../docs/sleepless-night-walking.md) 잠들지 못하는 사람이 누워 있는 대신 일어나 밤이나 새벽에 집 밖으로 나가 걷는다.
+- [잠이 오지 않을 때 자리에서 일어나기](../docs/getting-up-when-unable-to-sleep.md) 잠자리에 누워도 잠이 오지 않는 사람이 계속 누워 있지 않고 일어나 다른 일을 하다가 다시 눕는다.
+  - [잠이 오지 않아 밤에 걷기](../docs/sleepless-night-walking.md)
 - [잠자리에서 시계 보기](../docs/clock-watching-in-bed.md) 잠들지 못하고 누워 있는 사람이 시계를 자꾸 보며 몇 시인지와 남은 잠 시간을 확인한다.
 - [점과 운세 보기](../docs/consulting-fortune-tellers.md) 앞날을 알고 싶은 사람이 점쟁이를 찾아가거나 별자리 운세, 타로, 사주를 본다.
   - [꽃잎 뜯으며 사랑 점치기](../docs/petal-plucking-love-divination.md)

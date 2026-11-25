@@ -18,7 +18,7 @@
 
 ## 상위
 
-없음.
+- [잠이 오지 않을 때 자리에서 일어나기](getting-up-when-unable-to-sleep.md)
 
 ## 하위
 
