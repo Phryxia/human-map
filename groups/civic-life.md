@@ -30,6 +30,7 @@
   - [사기 피해를 부끄러워 숨기기](../docs/scam-victim-silence.md)
 - [분리배출 하지 않기](../docs/not-sorting-recyclables.md) 가정에서 재활용할 수 있는 쓰레기를 사람이 분리하지 않고 일반 쓰레기와 함께 버린다.
   - [폐건전지 일반 쓰레기로 버리기](../docs/throwing-batteries-in-trash.md)
+- [새끼 야생동물 데려오기](../docs/taking-home-young-wildlife.md) 혼자 있는 새끼 야생동물을 본 사람이 어미에게 버려졌다고 여겨 그 새끼를 데려온다.
 - [쇼핑카트 반납하지 않기](../docs/not-returning-shopping-carts.md) 마트에서 쇼핑카트를 다 쓴 사람이 카트를 반납 장소에 돌려놓지 않고 주차장에 두거나 집까지 끌고 가 둔다.
 - [야생동물에게 먹이 주기](../docs/feeding-wildlife.md) 공원이나 관광지를 찾은 사람이 그곳에 사는 야생동물에게 먹이를 준다.
   - [비둘기에게 먹이 주기](../docs/feeding-pigeons.md)
