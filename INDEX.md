@@ -221,6 +221,7 @@
 - [논밭두렁과 영농부산물 태우기](docs/burning-farm-waste.md) ([건강과 위험](groups/health-and-safety.md))
 - [높은 곳에서 뛰어내리고 싶은 충동](docs/urge-to-jump-from-heights.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [놓칠까 두려운 마음](docs/fear-of-missing-out.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [누가 보는 것 같은 느낌](docs/feeling-of-being-stared-at.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [누구에게 말했는지 잊기](docs/destination-memory-failure.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [눈 굴리기](docs/eye-rolling.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [눈길과 빙판길에서 속도 줄이지 않기](docs/not-slowing-on-icy-roads.md) ([길과 운전](groups/roads-and-driving.md))
