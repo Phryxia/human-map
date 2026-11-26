@@ -559,6 +559,7 @@
 - [수줍음](docs/shyness.md) ([성향과 기질](groups/traits.md))
 - [술 마신 뒤 물놀이](docs/swimming-after-drinking.md) ([건강과 위험](groups/health-and-safety.md))
 - [술김에 속마음 털어놓기](docs/drunken-confession.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [숨은 카메라 살피기](docs/checking-for-hidden-cameras.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [쉬는 데 죄책감 느끼기](docs/guilt-about-resting.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [스마트폰 확인 습관](docs/smartphone-checking-habit.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [스톱앤고 기능 끄기](docs/disabling-auto-stop-start.md) ([길과 운전](groups/roads-and-driving.md))

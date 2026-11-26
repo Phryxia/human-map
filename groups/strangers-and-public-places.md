@@ -33,6 +33,7 @@
 - [서비스 받는 동안 잡담 피하기](../docs/avoiding-small-talk-during-service.md) 미용실이나 택시에서 서비스를 받는 손님이 직원이나 기사와 잡담하지 않으려고 대화 없는 서비스를 고르거나 미리 요청한다.
 - [셀프 계산대 피하기](../docs/avoiding-self-checkout.md) 가게에서 계산하는 사람이 셀프 계산대를 두고 직원이 있는 계산대에 줄을 선다.
 - [소지품으로 자리 맡기](../docs/saving-seats-with-belongings.md) 도서관 열람실 이용자가 자리를 비우면서 가방이나 책을 두어 그 자리를 오래 맡아 둔다.
+- [숨은 카메라 살피기](../docs/checking-for-hidden-cameras.md) 공중화장실이나 탈의실을 쓰는 사람이 불법촬영 카메라가 숨어 있을까 불안해 벽과 문의 구멍을 살피거나 막는다.
 - [에스컬레이터 한 줄 서기](../docs/escalator-one-line-standing.md) 에스컬레이터를 탄 사람이 한쪽에 서서 다른 쪽을 걸어 올라가는 사람에게 비워 둔다.
 - [엘리베이터 안의 침묵](../docs/elevator-silence.md) 엘리베이터에 낯선 사람과 함께 탄 사람이 말을 멈추고 신발, 문, 층수 표시기를 바라본다.
 - [옆 빈자리에 가방 두기](../docs/blocking-adjacent-seat-with-bag.md) 버스나 기차에 탄 승객이 옆 빈자리에 가방이나 짐을 올려 두어 다른 사람이 옆에 앉지 못하게 한다.
