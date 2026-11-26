@@ -1,97 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-26T18:30:36.062Z",
-  "nextSeq": 6751,
-  "stops": 363,
+  "savedAt": "2026-11-26T21:40:19.083Z",
+  "nextSeq": 6767,
+  "stops": 364,
   "items": [
-    {
-      "id": "c1d21db8",
-      "title": "checking-for-hidden-cameras 보강: 다른 시기 파편과 학술",
-      "priority": 50,
-      "note": "2026-11-26 파편 셋이 2018-2019 한국. 2019 newsis 조사에 카메라 사전 둘러보기 57%, 검사도구 8%. 영문 spycam 보도나 학술 필요. fear-of-walking-alone-at-night 와 공통 상위(범죄 피해 두려움) 후보",
-      "createdAt": "2026-11-26T18:12:03.293Z",
-      "seq": 6745
-    },
-    {
-      "id": "63a56ecd",
-      "title": "practicing-expressions-in-the-mirror 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-26 Sister Carrie 1900, Bustle 2015 둘. elestoque.org Why I smile 는 고교 학생신문이라 뺌. Sister Carrie 예비 대목 re-creating before her mirror 같은 출처라 못 씀. 학술 후보: 시각 피드백으로 표정 흉내 연습한 연구(psychologicalscience.org ?p=82287)",
-      "createdAt": "2026-11-26T18:24:31.176Z",
-      "seq": 6746
-    },
-    {
-      "id": "d77d0206",
-      "title": "prank-emergency-calls 보강: 학술 파편, nonurgent-police-calls 관계",
-      "priority": 50,
-      "note": "2026-11-26 콘월 2017, 더팩트 2024 둘. 2015 콘월 ID=21807, 23152 도 아이 장난 신고. 런던 소방 연 7000건 공지, 링컨셔 방학 때 증가. 방학 때 늘어나는 조건 서술 후보",
-      "createdAt": "2026-11-26T18:27:43.002Z",
-      "seq": 6748
-    },
-    {
-      "id": "502d5047",
-      "title": "taking-home-young-wildlife 보강: 학술 파편, 이른 시기 파편",
-      "priority": 50,
-      "note": "2026-11-26 경향 2014, 2019, 뉴욕 DEC 2022. 메릴랜드 DNR(news.maryland.gov/dnr/?p=36041), 위스콘신 DNR 보도자료 다수. 2005 서울신문 20050207011001 후보. 2014 기사 표현 선의의 납치범",
-      "createdAt": "2026-11-26T18:29:03.870Z",
-      "seq": 6749
-    },
-    {
-      "id": "e4cee6ae",
-      "title": "interrupting-others 보강: 원인 간선",
-      "priority": 30,
-      "note": "2026-11-20 네이트판 316174302 [^4] 더함. 같은 글에 '좀 급한성격' 언급. 원인 쪽 문서(할 말 잊을까 조급함, 들뜸) 없음. not-cutting-into-conversation 은 반대 행동이나 같은 사람 안 대립 근거 없음",
-      "createdAt": "2026-11-20T15:24:58.204Z",
-      "seq": 5925
-    },
-    {
-      "id": "572e679a",
-      "title": "being-cancelled-on 보강: 문학 파편, urge-to-cancel-plans 관계",
-      "priority": 30,
-      "note": "2026-11-20 Straight Dope 7699 [^1] 1999 더함. 같은 스레드 2번 댓글 30번째 생일 직전 친한 친구 취소(같은 URL 이라 못 씀). Sense and Sensibility, Emma 는 4개 문서 사용. Northanger Abbey 산책 취소는 비 때문",
-      "createdAt": "2026-11-20T15:25:35.613Z",
-      "seq": 5926
-    },
-    {
-      "id": "436696cc",
-      "title": "concealing-wrongdoing 관계: 하위 후보와 원인 간선",
-      "priority": 30,
-      "note": "2026-11-20 hiding-mistakes-at-work, hiding-bad-report-cards 는 concealing-failure 아래. 잘못 숨기기의 특수한 경우인지 볼 것. Talwar & Lee 2011 [^2] 끝 문장 'a punitive environment not only fosters increased dishonesty' 는 체벌 환경 원인 근거(원인 쪽 문서 없음). Silas Marner(550) Eppie 가위 대목, Godfrey 고백 계산 대목 후보",
-      "createdAt": "2026-11-20T15:28:02.564Z",
-      "seq": 5927
-    },
-    {
-      "id": "7d84b8ed",
-      "title": "pet-euthanasia-guilt 보강: 2000년 이전 파편",
-      "priority": 30,
-      "note": "2026-11-20 Straight Dope 검색 search.json?q=...%20before%3A2000-06-01 로 1999-2000 글 찾음. 6999/28(1999-08-17) 슬픔보다 안도, 12215/6(1999-12-21) 그리움, 20510/12 울음. 죄책감 직접 말한 대목은 아직 없음. 2026-11-13 nytimes 무소득, dvm360 2003, discmaster 503",
-      "createdAt": "2026-11-20T15:29:15.942Z",
-      "seq": 5930
-    },
-    {
-      "id": "9708569c",
-      "title": "feeling-overwhelmed-by-information 보강: 학술 파편, choice-overload 관계",
-      "priority": 30,
-      "note": "2026-11-13 Rough Type 2011, Pew 2016, HN 14588362 2017, 스웨덴 미디어청 2026 넷. 학술 없음. choice-overload 와 공통 상위 또는 인과 근거 필요",
-      "createdAt": "2026-11-20T15:34:31.452Z",
-      "seq": 5936
-    },
-    {
-      "id": "7d190816",
-      "title": "feeling-of-nothing-to-wear 관계: trying-on-outfits-before-going-out",
-      "priority": 30,
-      "note": "2026-11-20 impulse-buying 결과 간선은 그음(Ethos 2026 [^5]). 2026-11-13 trying-on-outfits 쪽 파편에 입을 게 없다 표현 없음. '입을 옷이 없어서 여러 번 갈아입' 검색 무소득(brunch lkhyun0807/17 은 느낌만)",
-      "createdAt": "2026-11-20T15:35:41.622Z",
-      "seq": 5937
-    },
-    {
-      "id": "b2f4e962",
-      "title": "speeding 관계: 졸음운전·운전 중 휴대전화 사용과 공통 상위 '위험 운전'",
-      "priority": 30,
-      "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr 20181205006001 조건 후보. faac 같은 글 시간 절약 과대 어림 후보",
-      "createdAt": "2026-11-20T15:35:46.210Z",
-      "seq": 5938
-    },
     {
       "id": "d9d6db43",
       "title": "kissing-absent-loved-ones-letters 관계: continuing-bonds, smelling-absent-loved-ones-clothes, rereading-old-letters",
@@ -947,6 +859,54 @@
       "note": "2026-11-12 fear-of-the-dark 상위는 그음. Cranford(394) 'especially since Miss Pole's house had been attacked' 는 습격 소문 원인 근거 후보이나 원인 쪽 문서 없음. 두 현상 공통 상위(밤에 집 안 위협 상상) 문서를 새로 써야 함",
       "createdAt": "2026-11-26T15:33:04.289Z",
       "seq": 6737
+    },
+    {
+      "id": "1be2a306",
+      "title": "interrupting-others 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-20 네이트판 316174302 [^4] 더함. 같은 글에 '좀 급한성격' 언급. 원인 쪽 문서(할 말 잊을까 조급함, 들뜸) 없음. not-cutting-into-conversation 은 반대 행동이나 같은 사람 안 대립 근거 없음. 2026-11-26 feeling-rushed 는 시간 압박이라 [^6] 마음이 급해진 상태와 맞지 않음",
+      "createdAt": "2026-11-26T21:26:55.141Z",
+      "seq": 6761
+    },
+    {
+      "id": "dabdc79a",
+      "title": "being-cancelled-on 관계: urge-to-cancel-plans",
+      "priority": 30,
+      "note": "2026-11-26 Anne of Avonlea 1909 [^1] 더함. urge-to-cancel-plans 와 같은 사람 안 대립이나 인과 근거 파편 필요. Caron 2023 [^5] 취소 핑계 연구가 양쪽에 걸침",
+      "createdAt": "2026-11-26T21:30:58.767Z",
+      "seq": 6762
+    },
+    {
+      "id": "223c79c8",
+      "title": "concealing-wrongdoing 원인 간선: 처벌하는 환경",
+      "priority": 30,
+      "note": "2026-11-26 hiding-mistakes-at-work 를 하위로 이음. hiding-bad-report-cards 는 나쁜 성적이 잘못이 아니라 잇지 않음. Talwar & Lee 2011 [^2] 'a punitive environment not only fosters increased dishonesty' 는 체벌 환경 원인 근거(원인 쪽 문서 없음). Silas Marner(550) Eppie 가위 대목, Godfrey 고백 계산 대목 후보",
+      "createdAt": "2026-11-26T21:31:32.289Z",
+      "seq": 6763
+    },
+    {
+      "id": "ffd69fb8",
+      "title": "feeling-overwhelmed-by-information 보강: [^4] PMC7418008 재확인, choice-overload 관계",
+      "priority": 30,
+      "note": "2026-11-26 PMC7418008 Sbaffi 2020 이 봇 확인 페이지로 (미확인). 대안 frontiersin fpsyg.2022.865246 'news consumers who experience overload as a result of too much news will suffer from tiredness'. choice-overload 와 공통 상위 또는 인과 근거 필요",
+      "createdAt": "2026-11-26T21:39:19.353Z",
+      "seq": 6764
+    },
+    {
+      "id": "758fbd55",
+      "title": "feeling-of-nothing-to-wear 관계: trying-on-outfits-before-going-out",
+      "priority": 30,
+      "note": "2026-11-20 impulse-buying 결과 간선은 그음(Ethos 2026 [^5]). 2026-11-13 trying-on-outfits 쪽 파편에 입을 게 없다 표현 없음. '입을 옷이 없어서 여러 번 갈아입' 검색 무소득(brunch lkhyun0807/17 은 느낌만). 2026-11-26 whowhatwear first-outfit-challenge 2018 에 인과 대목 없음. 영문 검색 결과 대부분 조언 글",
+      "createdAt": "2026-11-26T21:39:51.864Z",
+      "seq": 6765
+    },
+    {
+      "id": "b0f7e374",
+      "title": "speeding 관계: 졸음운전·운전 중 휴대전화 사용과 공통 상위 '위험 운전'",
+      "priority": 30,
+      "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr 20181205006001 조건 후보. faac 같은 글 시간 절약 과대 어림 후보. 2026-11-26 위험 운전 문서 없음. 새 상위 문서 쓰기와 하위 셋 잇기를 따로 나눠 처리",
+      "createdAt": "2026-11-26T21:40:05.507Z",
+      "seq": 6766
     },
     {
       "id": "9634edf0",
@@ -3547,6 +3507,22 @@
       "note": "2026-11-26 find 벌집 wasp 결과 없음. 매체 후보 wiltshire999s 2020-09-02 화염방사기 대목(Shaftesbury occupier). connexionfrance 2016 은 실명이라 못 씀. 공공 출처 못 찾음(korea.kr 이 이 환경에서 안 열림). 소방본부 보도자료 찾을 것",
       "createdAt": "2026-11-26T18:30:00.280Z",
       "seq": 6750
+    },
+    {
+      "id": "36262ae1",
+      "title": "pretending-to-be-neurotypical 또는 masking 신규 현상",
+      "priority": 10,
+      "note": "2026-11-26 PMC12228086 Nimbley 2025 에서 자폐 참여자가 받아들여지려고 거울 앞 표정 연습, mimic neurotypical traits. practicing-expressions-in-the-mirror 와 원인/하위 관계 후보",
+      "createdAt": "2026-11-26T21:19:08.568Z",
+      "seq": 6759
+    },
+    {
+      "id": "da8a968b",
+      "title": "hoax-calls-to-impress 또는 장난 신고 동기 보강",
+      "priority": 10,
+      "note": "2026-11-26 gazette-news.co.uk 5471680 (2002-04-08) hoax calls often originate from a desire to impress and create excitement as the appliances roll out. 발행일 이관 날짜 여부 확인 필요. prank-emergency-calls 원인 후보",
+      "createdAt": "2026-11-26T21:24:05.117Z",
+      "seq": 6760
     },
     {
       "id": "02b2f242",
