@@ -957,6 +957,7 @@
 - [천둥 번개 속 바깥 활동 계속하기](docs/staying-outdoors-in-thunderstorms.md) ([건강과 위험](groups/health-and-safety.md))
 - [첫 성경험 앞의 불안](docs/first-time-sex-anxiety.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [첫 월급으로 부모 선물하기](docs/first-paycheck-gift-to-parents.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [첫 직장 일찍 그만두기](docs/leaving-first-job-early.md) ([일터와 일자리](groups/work.md))
 - [첫날 밤 효과](docs/first-night-effect.md) ([시간과 하루 습관](groups/daily-time.md))
 - [첫눈 반기기](docs/welcoming-first-snow.md) ([시간과 하루 습관](groups/daily-time.md))
 - [첫눈에 반함](docs/love-at-first-sight.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

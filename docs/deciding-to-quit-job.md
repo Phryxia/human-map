@@ -26,7 +26,7 @@
 
 ## 하위
 
-없음.
+- [첫 직장 일찍 그만두기](leaving-first-job-early.md)
 
 ## 원인
 

@@ -53,6 +53,7 @@
 - [통근 피로](../docs/commute-fatigue.md) 긴 시간 출퇴근하는 직장인이 통근 때문에 지치고 스트레스를 느낀다.
 - [퇴근 뒤 업무 연락에 답하기](../docs/after-hours-work-replies.md) 일하는 사람이 퇴근 뒤나 휴일에도 업무 메시지와 이메일을 확인하고 답한다.
 - [퇴사 결심](../docs/deciding-to-quit-job.md) 직장인이 다니던 직장을 그만두기로 마음먹는다.
+  - [첫 직장 일찍 그만두기](../docs/leaving-first-job-early.md)
 - [퇴직 대행 맡기기](../docs/using-resignation-agency.md) 직장을 그만두려는 사람이 회사에 직접 말하지 않고 돈을 내 대행 업체에 사직 통보를 맡긴다.
 - [퇴직 뒤 허전함](../docs/retirement-emptiness.md) 오래 다니던 일터를 떠난 사람이 할 일과 목적을 잃고 허전함과 무력감을 느낀다.
 - [화상 회의에서 카메라 끄기](../docs/keeping-camera-off-in-video-calls.md) 화상 회의나 온라인 수업에 들어간 사람이 카메라를 끄고 소리로만 참여한다.
