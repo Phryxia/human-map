@@ -60,6 +60,7 @@
 - [자기 비하](../docs/self-deprecation.md) 사람이 남 앞에서 먼저 자기 약점이나 실수를 꺼내 자기를 깎아내리거나 우스개로 낮추어 말한다.
 - [잘못 숨기기](../docs/concealing-wrongdoing.md) 금지된 일을 하거나 잘못을 저지른 사람이 그 일이 드러나지 않게 숨기거나 하지 않았다고 한다.
   - [망가뜨린 일 숨기기](../docs/concealing-accidental-damage.md)
+  - [업무 실수 숨기기](../docs/hiding-mistakes-at-work.md)
 - [조명 효과](../docs/spotlight-effect.md) 사람이 자기 행동이나 겉모습을 다른 사람들이 실제보다 더 많이 알아차린다고 믿는다.
   - [남의 웃음을 비웃음으로 여기기](../docs/assuming-laughter-is-at-oneself.md)
 - [좋게 보이는 행동 부풀려 답하기](../docs/overreporting-desirable-behavior.md) 조사에 답하는 사람이 사회가 좋게 보는 행동을 실제보다 많이 한다고 답한다.

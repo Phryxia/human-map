@@ -23,6 +23,7 @@
 ## 하위
 
 - [망가뜨린 일 숨기기](concealing-accidental-damage.md)
+- [업무 실수 숨기기](hiding-mistakes-at-work.md)
 
 ## 원인
 

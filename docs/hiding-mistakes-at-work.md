@@ -21,6 +21,7 @@
 ## 상위
 
 - [실패 사실 숨기기](concealing-failure.md)
+- [잘못 숨기기](concealing-wrongdoing.md)
 
 ## 하위
 
