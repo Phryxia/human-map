@@ -12997,27 +12997,27 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3708682/": {
     "first": "2026-10-29",
-    "last": "2026-11-08",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-26"
   },
   "https://www.seoul.co.kr/news/2017/02/24/20170224500113": {
     "first": "2026-10-29",
-    "last": "2026-11-08",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-26"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7558086/": {
     "first": "2026-10-29",
-    "last": "2026-11-08",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-26"
   },
   "https://griefline.org.au/online-forums/topic/guilt-following-euthanasia-of-elderly-dog/": {
     "first": "2026-10-29",
-    "last": "2026-11-08",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-26"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16525169&rettype=abstract&retmode=text": {
     "first": "2026-10-29",
@@ -21978,15 +21978,15 @@
   },
   "https://health.osu.edu/health/animal-health/coping-with-grief-after-loss-of-a-pet": {
     "first": "2026-11-08",
-    "last": "2026-11-08",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-26"
   },
   "https://now.tufts.edu/2012/08/06/lifelines-grieving-pet-owners": {
     "first": "2026-11-08",
-    "last": "2026-11-08",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-26"
   },
   "https://news.slashdot.org/comments.pl?sid=8871903&cid=51699567": {
     "first": "2026-11-08",
@@ -36860,6 +36860,12 @@
     "lastVerified": "2026-11-26"
   },
   "https://gutenberg.pglaf.org/cache/epub/47/pg47-images.html": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
+  },
+  "https://www.spokesman.com/stories/1995/jan/16/farewell-sweet-pet-wsu-hotline-offers-counseling": {
     "first": "2026-11-26",
     "last": "2026-11-26",
     "result": "VERIFIED",
