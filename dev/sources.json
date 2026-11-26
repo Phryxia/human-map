@@ -36440,5 +36440,22 @@
     "last": "2026-11-26",
     "result": "VERIFIED",
     "lastVerified": "2026-11-26"
+  },
+  "https://sg.finance.yahoo.com/news/people-don-t-save-enough-230512299.html": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "UNREACHABLE"
+  },
+  "https://www.gov.uk/government/publications/attitudes-and-awareness-before-state-pension-age/attitudes-and-awareness-before-state-pension-age": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
+  },
+  "https://www.professionalpensions.com/news/3030337/-retirees-overly-pessimistic-about-life-expectancy": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
   }
 }

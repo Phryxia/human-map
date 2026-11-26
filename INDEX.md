@@ -788,6 +788,7 @@
 - [자기 보상 소비](docs/self-reward-purchase.md) ([돈과 소비](groups/money.md))
 - [자기 불구화](docs/self-handicapping.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [자기 비하](docs/self-deprecation.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [자기 수명 짧게 내다보기](docs/underestimating-own-survival.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [자기 연민](docs/self-pity.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [자기 이름 검색하기](docs/searching-ones-own-name.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [자기 이익을 위한 정당화](docs/self-serving-justification.md) ([판단과 어림의 치우침](groups/judgment-biases.md))

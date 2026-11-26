@@ -29,6 +29,7 @@
 - [얼굴로 성격 짐작하기](../docs/judging-character-from-faces.md) 처음 본 사람의 얼굴 생김새를 보고 사람이 그의 성품과 능력을 짐작한다.
 - [연락받는 사람의 감사 과소평가](../docs/underestimating-reach-out-appreciation.md) 안부를 전하려는 사람이 연락을 받는 사람이 그 연락을 얼마나 고마워할지 실제보다 낮게 어림한다.
 - [자기 몫의 기여 크게 여기기](../docs/overclaiming-own-contribution.md) 함께 한 일을 두고 사람이 자기가 맡은 몫을 다른 사람들이 매겨 주는 것보다 크게 여긴다.
+- [자기 수명 짧게 내다보기](../docs/underestimating-own-survival.md) 은퇴를 앞두었거나 은퇴한 사람이 자기가 노년까지 살 가능성을 공식 추정보다 낮게 본다.
 - [자기 이익을 위한 정당화](../docs/self-serving-justification.md) 사람이 자기에게 이로운 쪽으로 행동하면서 그 행동이 옳거나 의무를 다한 것이라는 이유를 스스로 만들어 낸다.
   - [회사 비품 가져가기](../docs/taking-office-supplies.md)
 - [자기 지식 과대평가](../docs/knowledge-overestimation.md) 사람이 어떤 분야나 사물에 대해 자기가 아는 정도를 실제보다 높게 여긴다.
