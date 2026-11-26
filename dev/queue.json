@@ -1,33 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-26T00:36:03.167Z",
-  "nextSeq": 6667,
-  "stops": 357,
+  "savedAt": "2026-11-26T03:35:15.543Z",
+  "nextSeq": 6676,
+  "stops": 358,
   "items": [
-    {
-      "id": "4b1e8b94",
-      "title": "driving-around-road-barricades 보강: 2010년 이전 파편, 국내 파편",
-      "priority": 50,
-      "note": "2026-11-26 CTV 2023 비홍수 추가. prairiepublic 2016-12-09 눈보라 대목은 원문에 실명. abc57 2018 도 실명. 국내는 세계일보 2022-08-10 만취 운전자 한강 주차장 통제선 돌파 사건 하나뿐",
-      "createdAt": "2026-11-26T00:28:28.795Z",
-      "seq": 6664
-    },
-    {
-      "id": "abe8f0e9",
-      "title": "near-miss-effect 보강: 공공 파편, 복권, 직접 조작 조건",
-      "priority": 50,
-      "note": "2026-11-26 uwaterloo 2015-07-29 scratch tickets 대목은 200자 넘음. Clark 2009 초록 'restricted to trials where the subject had personal control' 조건. sciencenews 2009-02-11 같은 연구 기사. loss-chasing 관계 후보",
-      "createdAt": "2026-11-26T00:33:27.732Z",
-      "seq": 6665
-    },
-    {
-      "id": "9bbd85de",
-      "title": "underestimating-own-survival 보강: 2000년 이전 파편, 80대의 과대 추정, 저축 결과 간선",
-      "priority": 50,
-      "note": "2026-11-26 Yahoo(Independent 2018-04-15) 'men born in the 1930s ... at age 80 reported a 32 per cent chance of reaching 95' 와 'When people underestimate ... they may save less' 대목, 다만 429 로 확인 불가. delaying-retirement-saving 결과 간선 후보. JDM 2021 dlab.sauder.ubc.ca 는 프록시 끊김",
-      "createdAt": "2026-11-26T00:35:44.059Z",
-      "seq": 6666
-    },
     {
       "id": "cb3684d7",
       "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
@@ -99,14 +75,6 @@
       "note": "2026-11-20 Chekhov 1887, Zangwill 1892 문학 파편 추가함. 시계 멈추기 문학 대목은 Gutenberg 약 100권 grep 에 없음. 후보: Ulysses 4300 'The sheeted mirror.', thevictorianbookofthedead.wordpress.com(매체)",
       "createdAt": "2026-11-20T09:24:54.973Z",
       "seq": 5859
-    },
-    {
-      "id": "7489e6a2",
-      "title": "dreams-as-omens 보강: 한국어 SNS, dreams-of-the-deceased 관계",
-      "priority": 30,
-      "note": "2026-11-20 '꿈자리가 사나워서' 검색: damoang.net/free/5483338 (2025-12 흉몽 뒤 운전 조심), damoang.net/free/743998 (계약할 집 꿈자리) 둘 다 이 환경에서 403. 이전: 네이트판 대신 해몽 사이트만, Wuthering Heights 768 9장, wgbh 2015-01-15 Morewedge",
-      "createdAt": "2026-11-20T09:25:53.452Z",
-      "seq": 5862
     },
     {
       "id": "782008ba",
@@ -1019,6 +987,38 @@
       "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02, 2026-11-10 ko.wikisource API 가 요청 과다로 막힘(첫 검색 한 번 뒤 바로). 다른 판본이나 다른 작품, 검색은 웹 검색으로",
       "createdAt": "2026-11-26T00:25:41.343Z",
       "seq": 6663
+    },
+    {
+      "id": "e5b0d882",
+      "title": "near-miss-effect 보강: 한국어 파편, loss-chasing 관계",
+      "priority": 30,
+      "note": "2026-11-26 Reid 1986, sciencenews 2009, GREO 2019 추가. 한국어 공공(kcgp 등)에 니어미스 대목 없음. 후보: gambleaware.nsw.gov.au poker-machines 'encourages you to keep playing'(발행일 미상), Griffiths 1991 europepmc 1880756",
+      "createdAt": "2026-11-26T03:21:00.796Z",
+      "seq": 6672
+    },
+    {
+      "id": "e147be9e",
+      "title": "underestimating-own-survival 보강: 2000년 이전 파편, 연금 결과 간선",
+      "priority": 30,
+      "note": "2026-11-26 Ludwig 2013, Heimer 2019 추가. Hurd McGarry 1995, Gan 2003 은 생명표와 대체로 맞다고 보고해 반대 근거. NBER digest 202011 survival-pessimism 'survival pessimism can explain why annuities' 대목은 인과 후보, 상대 문서 연금 회피 신규 현상 후보",
+      "createdAt": "2026-11-26T03:25:41.928Z",
+      "seq": 6673
+    },
+    {
+      "id": "a0ebbc18",
+      "title": "sensitive-tasks-on-public-wifi 보강: 한국어 파편",
+      "priority": 30,
+      "note": "2026-11-26 getcybersafe 2020 추가(수치 출처는 Norton 2017). KISA·과기정통부 실태조사 HTML 에 공용 와이파이 업무 비율 못 찾음. 매체 후보: researchco.ca 2025-12-18, comparethemarket 2026 britains-wifi-blind-spot",
+      "createdAt": "2026-11-26T03:30:01.475Z",
+      "seq": 6674
+    },
+    {
+      "id": "fad21e18",
+      "title": "dreams-as-omens 관계: dreams-of-the-deceased",
+      "priority": 30,
+      "note": "2026-11-26 클리앙 park/13629084 2019 추가. 후보: 클리앙 park/18364120 2023-10-14 돌아가신 부모가 큰돼지로 변한 꿈 뒤 로또 구입(제목), kin/18089629 2023-05-20 전세 계약 앞 뒤숭숭한 꿈",
+      "createdAt": "2026-11-26T03:34:55.560Z",
+      "seq": 6675
     },
     {
       "id": "9634edf0",
