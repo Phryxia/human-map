@@ -56,3 +56,4 @@
 - [착륙 박수](../docs/clapping-on-landing.md) 비행기가 땅에 내려앉으면 승객들이 손뼉을 친다.
 - [착륙하자마자 일어서기](../docs/standing-up-right-after-landing.md) 비행기 승객이 착륙한 뒤 내릴 차례가 오기 전에 자리에서 일어나 짐을 꺼내고 통로에 선다.
 - [통화하는 척하기](../docs/faking-phone-calls.md) 밖에서 낯선 사람과 말을 섞고 싶지 않거나 불안한 사람이 휴대전화를 귀에 대고 통화하는 척한다.
+- [흉내 내며 놀리기](../docs/mocking-by-mimicry.md) 사람이 남의 말투나 몸짓을 그 사람 몰래 또는 보란 듯이 따라 하며 놀린다.

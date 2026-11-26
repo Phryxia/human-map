@@ -1100,6 +1100,7 @@
 - [휴가지에서 대담해지기](docs/holiday-risk-taking.md) ([건강과 위험](groups/health-and-safety.md))
 - [휴대전화 없이 연락이 끊길 두려움](docs/nomophobia.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [휴일에 나타나는 몸의 증상](docs/leisure-sickness.md) ([건강과 위험](groups/health-and-safety.md))
+- [흉내 내며 놀리기](docs/mocking-by-mimicry.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [흥정 회피](docs/avoiding-haggling.md) ([돈과 소비](groups/money.md))
 - [흰머리 뽑기](docs/plucking-gray-hairs.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [흰머리 염색하기](docs/dyeing-gray-hair.md) ([남의 시선과 창피함](groups/others-gaze.md))
