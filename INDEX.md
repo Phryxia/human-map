@@ -316,6 +316,7 @@
 - [머리카락 배배 꼬기](docs/hair-twirling.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [머리카락 한 타래 간직하기](docs/keeping-locks-of-hair.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [머릿속 말다툼](docs/imaginary-arguments.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [먹기 시작하면 도는 입맛](docs/appetite-comes-with-eating.md) ([시간과 하루 습관](groups/daily-time.md))
 - [먹기 전에 음식 사진 찍기](docs/photographing-food-before-eating.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [멀티탭에 기기 몰아 꽂기](docs/overloading-power-strips.md) ([건강과 위험](groups/health-and-safety.md))
 - [멍때리기](docs/zoning-out.md) ([시간과 하루 습관](groups/daily-time.md))
