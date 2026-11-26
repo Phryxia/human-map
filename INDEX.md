@@ -37,6 +37,7 @@
 - [개점 전 줄서기](docs/lining-up-before-opening.md) ([돈과 소비](groups/money.md))
 - [거미와 벌레 무서움](docs/fear-of-spiders-and-insects.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [거울 속 늙은 얼굴의 낯섦](docs/aged-face-in-mirror.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
+- [거울 앞 표정 연습](docs/practicing-expressions-in-the-mirror.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [거절하지 못하기](docs/difficulty-saying-no.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [거친 말로 드러내는 걱정](docs/harsh-words-for-worry.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [건강 불안](docs/health-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
