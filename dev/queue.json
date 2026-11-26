@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-26T09:31:09.843Z",
-  "nextSeq": 6694,
-  "stops": 360,
+  "savedAt": "2026-11-26T12:33:30.209Z",
+  "nextSeq": 6700,
+  "stops": 361,
   "items": [
     {
       "id": "9906cf6e",
@@ -11,6 +11,14 @@
       "note": "2026-11-26 재시도. 첫 입이 배부름을 넘는 섭취로 이어진다고 말하는 원문 못 찾음. Yeomans 1998 Proc Nutr Soc 57(4) 는 'appetizer effect, which in turn increases food consumption' 이나 PDF 이고 과식 아님. Yeomans 1996 초록은 Europe PMC REST JSON 으로만 열림",
       "createdAt": "2026-11-26T09:16:30.883Z",
       "seq": 6689
+    },
+    {
+      "id": "026c23cd",
+      "title": "urge-to-steal-unneeded-things 와 shoplifting 관계",
+      "priority": 50,
+      "note": "2026-11-26 두 문서 작성. 도벽 충동이 가게 절도로 이어진다고 말하는 원인 파편 필요. 후보 PMC535651 본문, PMC4104590",
+      "createdAt": "2026-11-26T12:32:56.749Z",
+      "seq": 6699
     },
     {
       "id": "cb3684d7",
@@ -3499,6 +3507,14 @@
       "note": "2026-11-26 후보 매체 artofmanliness.com the-art-of-conversation-how-to-avoid-conversational-narcissism 2020-01-24 'The shift-response attempts to set the stage for the other person to change the topic and shift the attention to themselves.' 별칭 Conversational narcissism, shift-response. 다른 종류 파편 필요. 가까운 문서 interrupting-others",
       "createdAt": "2026-11-26T06:37:25.442Z",
       "seq": 6683
+    },
+    {
+      "id": "cf612f58",
+      "title": "무인점포 물건 가져가기",
+      "priority": 10,
+      "note": "2026-11-26 shoplifting 하위 후보. 경향신문 2022-02-08 khan.co.kr/article/202202081103001 '아이스크림이 너무 먹고 싶은데 돈이 없었다'. 한국 공공 출처 필요",
+      "createdAt": "2026-11-26T12:30:42.537Z",
+      "seq": 6698
     },
     {
       "id": "02b2f242",
