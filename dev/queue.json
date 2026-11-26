@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-26T15:33:16.271Z",
-  "nextSeq": 6738,
-  "stops": 362,
+  "savedAt": "2026-11-26T18:30:36.062Z",
+  "nextSeq": 6751,
+  "stops": 363,
   "items": [
+    {
+      "id": "c1d21db8",
+      "title": "checking-for-hidden-cameras 보강: 다른 시기 파편과 학술",
+      "priority": 50,
+      "note": "2026-11-26 파편 셋이 2018-2019 한국. 2019 newsis 조사에 카메라 사전 둘러보기 57%, 검사도구 8%. 영문 spycam 보도나 학술 필요. fear-of-walking-alone-at-night 와 공통 상위(범죄 피해 두려움) 후보",
+      "createdAt": "2026-11-26T18:12:03.293Z",
+      "seq": 6745
+    },
+    {
+      "id": "63a56ecd",
+      "title": "practicing-expressions-in-the-mirror 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-26 Sister Carrie 1900, Bustle 2015 둘. elestoque.org Why I smile 는 고교 학생신문이라 뺌. Sister Carrie 예비 대목 re-creating before her mirror 같은 출처라 못 씀. 학술 후보: 시각 피드백으로 표정 흉내 연습한 연구(psychologicalscience.org ?p=82287)",
+      "createdAt": "2026-11-26T18:24:31.176Z",
+      "seq": 6746
+    },
+    {
+      "id": "d77d0206",
+      "title": "prank-emergency-calls 보강: 학술 파편, nonurgent-police-calls 관계",
+      "priority": 50,
+      "note": "2026-11-26 콘월 2017, 더팩트 2024 둘. 2015 콘월 ID=21807, 23152 도 아이 장난 신고. 런던 소방 연 7000건 공지, 링컨셔 방학 때 증가. 방학 때 늘어나는 조건 서술 후보",
+      "createdAt": "2026-11-26T18:27:43.002Z",
+      "seq": 6748
+    },
+    {
+      "id": "502d5047",
+      "title": "taking-home-young-wildlife 보강: 학술 파편, 이른 시기 파편",
+      "priority": 50,
+      "note": "2026-11-26 경향 2014, 2019, 뉴욕 DEC 2022. 메릴랜드 DNR(news.maryland.gov/dnr/?p=36041), 위스콘신 DNR 보도자료 다수. 2005 서울신문 20050207011001 후보. 2014 기사 표현 선의의 납치범",
+      "createdAt": "2026-11-26T18:29:03.870Z",
+      "seq": 6749
+    },
     {
       "id": "e4cee6ae",
       "title": "interrupting-others 보강: 원인 간선",
@@ -3499,6 +3531,22 @@
       "note": "2026-11-26 rcpe 와 ahsoc 가 두 관습을 나란히 듦. ahsoc 'The clock would be set going again after the funeral.' 은 시기 문단 후보. 문학 파편(Grandfather's Clock 1876 가사 등) 필요",
       "createdAt": "2026-11-26T15:27:10.557Z",
       "seq": 6726
+    },
+    {
+      "id": "921b95c4",
+      "title": "자기와 같은 이름이 새겨진 묘비에 끌리기",
+      "priority": 10,
+      "note": "2026-11-26 Ethan Frome 4517 headstone ... because it bore his name. searching-ones-own-name, looking-for-oneself-first 와 공통 상위 후보",
+      "createdAt": "2026-11-26T18:24:31.324Z",
+      "seq": 6747
+    },
+    {
+      "id": "12352195",
+      "title": "벌집 직접 없애려다 쏘이기",
+      "priority": 10,
+      "note": "2026-11-26 find 벌집 wasp 결과 없음. 매체 후보 wiltshire999s 2020-09-02 화염방사기 대목(Shaftesbury occupier). connexionfrance 2016 은 실명이라 못 씀. 공공 출처 못 찾음(korea.kr 이 이 환경에서 안 열림). 소방본부 보도자료 찾을 것",
+      "createdAt": "2026-11-26T18:30:00.280Z",
+      "seq": 6750
     },
     {
       "id": "02b2f242",
