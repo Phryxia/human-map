@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [1센트 동전 거스름돈 받지 않기](../docs/refusing-pennies-as-change.md) 물건값을 치르는 사람이 1센트 동전을 성가시게 여겨 거스름돈으로 받지 않고 가게에 두고 간다.
+- [가게 물건 훔치기](../docs/shoplifting.md) 손님이 가게에서 값을 치르지 않고 물건을 가지고 나간다.
 - [가계부 쓰기](../docs/keeping-household-accounts.md) 사람이 자기 집의 수입과 지출을 장부나 앱에 적어 두고 남은 돈을 셈한다.
 - [가난 감추기](../docs/concealing-poverty.md) 가난한 사람이 자신의 가난이나 굶주림, 도움이 필요한 형편을 남이나 식구에게 숨긴다.
   - [가난을 감추려 핑계 지어내기](../docs/making-up-excuses-to-hide-poverty.md)

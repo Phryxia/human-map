@@ -5,6 +5,7 @@
 - ["내가 뭐랬어" 하기](docs/saying-i-told-you-so.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [13일의 금요일 꺼리기](docs/avoiding-friday-the-13th.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [1센트 동전 거스름돈 받지 않기](docs/refusing-pennies-as-change.md) ([돈과 소비](groups/money.md))
+- [가게 물건 훔치기](docs/shoplifting.md) ([돈과 소비](groups/money.md))
 - [가계부 쓰기](docs/keeping-household-accounts.md) ([돈과 소비](groups/money.md))
 - [가구 배치 바꾸기](docs/rearranging-furniture.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [가까운 사람 이름 바꿔 부르기](docs/misnaming-family-members.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
