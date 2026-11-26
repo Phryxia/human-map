@@ -18,6 +18,8 @@
 
 2025년 12월 호주 번다버그 지역 의회의 안내문[^11]은 연구를 들어 많은 운전자가 물을 건너 본 적이 없는데도 자기 차가 물을 건너는 능력을 높게 본다고 적는다.
 
+2026년 10월 텍사스 교통부 글[^12]은 운전석에서 보면 길이 어제와 같아 보이고 물높이도 낮아 보이며 달라진 것은 도로 폐쇄 표지 하나뿐이라고 적는다.
+
 # 관계
 
 ## 상위
@@ -54,3 +56,4 @@
 [^9]: [매체] "We learned many of the reasons people chose to drive into floodwaters were based on feeling pressure. Pressure to get to work, school, or home to family or pets." (사람들이 침수 도로로 차를 몰기로 한 이유의 다수가 압박감에 근거했다는 것을 알게 되었다. 직장, 학교, 또는 가족이나 반려동물이 있는 집에 가야 한다는 압박이다.) — Amy Peden, Andrew Gissing, Kyra Hamilton, "When roads become rivers: forming a Plan B can stop people driving into floodwaters", UNSW Newsroom, 2022-05-18, https://www.unsw.edu.au/newsroom/news/2022/05/when-roads-become-rivers--forming-a-plan-b-can-stop-people-drivi, 2026-10-21 접속
 [^10]: [매체] "바퀴가 3분의 2는 잠긴 채였지만 밀리거나 시동이 꺼지지 않고 지나갔다. 그러자 앞 차가 움직였다. 나도 엑셀을 밟았다." — 김희원, 「“이건 재난이었다”… 경기도민 기자가 겪은 공포의 퇴근길」, 세계일보, 2022-08-09, https://www.segye.com/newsView/20220809518711, 2026-10-22 접속
 [^11]: [공공] "Research suggests that many drivers overestimate their car’s ability to drive through water, even if they’ve never tried." (연구에 따르면 많은 운전자가 해 본 적이 없는데도 자기 차가 물을 건너는 능력을 과대평가한다.) — Bundaberg Regional Council, "Don’t risk driving in floodwaters", Bundaberg Now, 2025-12-31, https://www.brcnow.bundaberg.qld.gov.au/2025/12/31/dont-risk-driving-in-floodwaters/, 2026-11-07 접속
+[^12]: [공공] "From the driver’s seat, the road may look just like it did yesterday. The pavement is the same, the water level seems low, but the “road closed” sign is the only thing that’s different." (운전석에서 보면 길은 어제와 똑같아 보일 수 있다. 노면도 같고 물높이도 낮아 보이며, 달라진 것은 '도로 폐쇄' 표지 하나뿐이다.) — Cynthia Vaquera, "Know the hidden dangers of a flooded roadway", Texas Department of Transportation, 2026-10-08, https://www.txdot.gov/about/newsroom/stories/know-the-hidden-dangers-of-a-flooded-roadway.html, 2026-11-26 접속
