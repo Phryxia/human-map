@@ -1,177 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-26T12:33:30.209Z",
-  "nextSeq": 6700,
-  "stops": 361,
+  "savedAt": "2026-11-26T15:33:16.271Z",
+  "nextSeq": 6738,
+  "stops": 362,
   "items": [
-    {
-      "id": "9906cf6e",
-      "title": "appetite-comes-with-eating 와 eating-past-fullness 관계",
-      "priority": 50,
-      "note": "2026-11-26 재시도. 첫 입이 배부름을 넘는 섭취로 이어진다고 말하는 원문 못 찾음. Yeomans 1998 Proc Nutr Soc 57(4) 는 'appetizer effect, which in turn increases food consumption' 이나 PDF 이고 과식 아님. Yeomans 1996 초록은 Europe PMC REST JSON 으로만 열림",
-      "createdAt": "2026-11-26T09:16:30.883Z",
-      "seq": 6689
-    },
-    {
-      "id": "026c23cd",
-      "title": "urge-to-steal-unneeded-things 와 shoplifting 관계",
-      "priority": 50,
-      "note": "2026-11-26 두 문서 작성. 도벽 충동이 가게 절도로 이어진다고 말하는 원인 파편 필요. 후보 PMC535651 본문, PMC4104590",
-      "createdAt": "2026-11-26T12:32:56.749Z",
-      "seq": 6699
-    },
-    {
-      "id": "cb3684d7",
-      "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
-      "priority": 30,
-      "note": "2026-11-01 rogerdooley 2024 대담 추가. 공공 후보 federalreserve.gov feds 2008-13 은 동기가 달라 맞지 않음. crr.bc.edu 은 매체. retail-therapy 대립 원문 미발견. 2026-11-10 [^5] Treasury 2020 은 PDF 라 미확인, 같은 문장의 HTML 판 검색 실패",
-      "createdAt": "2026-11-19T21:26:36.751Z",
-      "seq": 5780
-    },
-    {
-      "id": "f5043ce7",
-      "title": "anniversary-grief 보강: 제사·기일 문학, 2000년 이전 한국어 파편",
-      "priority": 30,
-      "note": "2026-11-02 Tennyson 1850 은 이미 [^1]. 2026-11-07, 2026-11-10 ko.wikisource API 요청 과다로 막힘. 2026-11-10 서울신문 1990·1993·1995·1996 아카이브 글은 기일 내용 아님. 2026-11-19 imaeil 2020102900135959598 '해마다 어머님 기일이 다가오면 생각나는 것들이 있다.' 확인(2020이라 시기 조건 못 채움). 남은 후보: 서울아산병원 contentId=258306(발행일 미상), 충청신문 dailycc 737711",
-      "createdAt": "2026-11-19T21:26:54.169Z",
-      "seq": 5781
-    },
-    {
-      "id": "2ae59d46",
-      "title": "sensitive-tasks-on-public-wifi 보강: 2020년 이후 공공",
-      "priority": 30,
-      "note": "2026-11-20 ourwatch 2021 은 자선단체라 매체로 더함. actionfraud.police.uk 는 Cloudflare 403. 한국 정책브리핑, 과기정통부는 구축 현황뿐",
-      "createdAt": "2026-11-20T03:35:58.005Z",
-      "seq": 5809
-    },
-    {
-      "id": "ec8bcc73",
-      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
-      "priority": 30,
-      "note": "2026-11-07 PMC7304585 와 PMC12840061 은 건강 문해력이라 글 모르는 것과 다르고 인과 표현 아님. 2013년 경북대 문해 수기 원문 여전히 필요. 2026-11-20 상위 후보 문서 없음: hiding-hearing-loss, concealing-failure 도 상위 없음. 부끄러운 사실 숨기기 같은 상위 신규 현상 후보",
-      "createdAt": "2026-11-20T03:36:14.006Z",
-      "seq": 5810
-    },
-    {
-      "id": "42e24072",
-      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
-      "priority": 30,
-      "note": "2026-11-08 신세감과 집안일이 한 대목에 든 출처 못 찾음. 근접: Catapult 에세이 'I reciprocate by doing dishes'(발행일 미상). 남은 길: 위키문헌 더부살이 단편, Gutenberg The Wide, Wide World",
-      "createdAt": "2026-11-20T03:37:00.302Z",
-      "seq": 5812
-    },
-    {
-      "id": "4486e9d7",
-      "title": "boasting-about-lineage 보강: 시기 변화",
-      "priority": 30,
-      "note": "2026-11-20 THE 411471 'A trace of greatness' 2010-05-06 은 학문 계보(가우스 조상) 위신이라 가문 자랑과 다른 현상(학문 계보 자랑 신규 후보). Martin Chuzzlewit 968 은 inheritance-disputes 가 사용 중, 200자 안 완결 문장 없음. 필요: 1950~2000년 매체나 한국어 SNS 족보 자랑",
-      "createdAt": "2026-11-20T09:24:01.647Z",
-      "seq": 5857
-    },
-    {
-      "id": "1d327f62",
-      "title": "covering-mirrors-after-death 보강: 시계 멈추기",
-      "priority": 30,
-      "note": "2026-11-20 Chekhov 1887, Zangwill 1892 문학 파편 추가함. 시계 멈추기 문학 대목은 Gutenberg 약 100권 grep 에 없음. 후보: Ulysses 4300 'The sheeted mirror.', thevictorianbookofthedead.wordpress.com(매체)",
-      "createdAt": "2026-11-20T09:24:54.973Z",
-      "seq": 5859
-    },
-    {
-      "id": "782008ba",
-      "title": "early-morning-solitude 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-20 Gaskell Ruth 1853 문학 파편 추가함. 생활시간조사 HTML 미발견. 후보: Neville 2024 PMC13294714 자폐 성인 'I would get up before everyone else'(학술)",
-      "createdAt": "2026-11-20T09:30:34.218Z",
-      "seq": 5867
-    },
-    {
-      "id": "d3bd021a",
-      "title": "idealizing-partner 관계: love-at-first-sight, attachment-anxiety",
-      "priority": 30,
-      "note": "2026-11-20 love at first sight idealization 검색: Psychology Today 2021-08 why-the-most-perceptive-people 'rose-colored glasses' 대목(인과 아님), Psychological Science 2020 Blind at First Sight 후보(본문 미확인). 이전: PMC8074860 Bode 2021, 아시아경제 2015-05-19 90.2%, Middlemarch 145",
-      "createdAt": "2026-11-20T09:32:30.409Z",
-      "seq": 5874
-    },
-    {
-      "id": "347e1bd3",
-      "title": "sexual-desire-discrepancy 보강: 한국어 파편",
-      "priority": 30,
-      "note": "2026-11-20 Psychology Today 2022-05-01 Castleman 으로 partner-conflict 결과 간선 그음. 한국어 기사·공공 미발견. straightdope 196359 'push each other away' 는 관계 거리 두기 결과 후보",
-      "createdAt": "2026-11-20T09:34:02.135Z",
-      "seq": 5875
-    },
-    {
-      "id": "909a236f",
-      "title": "attraction-outside-relationship 보강: 한국어 파편, 지나가는 끌림",
-      "priority": 30,
-      "note": "2026-11-20 Straight Dope 837369 #52 2019 SNS 추가함. 같은 댓글 'It eventually passes.' 는 시간이 지나 사라지는 면. 633553 #103 2012-12-10 'I have developed a huge crush on my coworker' 후보. 한국어 미발견",
-      "createdAt": "2026-11-20T09:35:04.451Z",
-      "seq": 5876
-    },
-    {
-      "id": "755fdd0b",
-      "title": "fear-of-sexual-rejection 보강: 한국어·SNS 파편, sexual-desire-discrepancy 관계",
-      "priority": 30,
-      "note": "2026-11-20 Straight Dope search 'fear of rejection' initiate 는 데이트 신청 거절(43686, 408105, 840387 등)이라 다른 현상(데이트 신청 거절 두려움 후보). 이전: Psychology Today 2016-11-23 'pulling back from sex' 회피 결과 후보, psypost 봇 차단",
-      "createdAt": "2026-11-20T09:37:18.913Z",
-      "seq": 5877
-    },
-    {
-      "id": "9117928b",
-      "title": "buying-books-without-reading 관계: not-reading-books, difficulty-discarding",
-      "priority": 30,
-      "note": "2026-11-20 Straight Dope search 로 '안 읽은 책을 못 버림' 대목 못 찾음. 이전: 서울신문 2021 '읽고 싶었기 때문'(같은 현상 안의 이유), Morley 1919 Gutenberg 172 후보",
-      "createdAt": "2026-11-20T09:37:47.753Z",
-      "seq": 5878
-    },
-    {
-      "id": "aabdd289",
-      "title": "first-paycheck-gift-to-parents 보강: 학술·문학 파편",
-      "priority": 30,
-      "note": "2026-11-20 정책브리핑 2009-11-29 148682323 공공 파편 추가함. 후보: ko.wikisource 이무영 「월급날」(1934) 은 선물이 중심 아님, brunch @8728/46 첫 월급",
-      "createdAt": "2026-11-20T09:38:50.537Z",
-      "seq": 5879
-    },
-    {
-      "id": "e6ba02ef",
-      "title": "leaving-appliances-plugged-in 관계: leaving-lights-on",
-      "priority": 30,
-      "note": "2026-11-20 둘 다 귀찮음(Straight Dope 692507 2쪽, 영국 2014 조사 11%)을 이유로 듦. 공통 상위(쓰지 않는 전기 기기 그대로 두기) 또는 대립 근거 파편 없음. Straight Dope 692507 2쪽 셋톱박스 재부팅 1시간 댓글은 원인 후보",
-      "createdAt": "2026-11-20T12:17:44.228Z",
-      "seq": 5885
-    },
-    {
-      "id": "cbde31cb",
-      "title": "taking-long-showers 관계: avoiding-being-alone-with-thoughts",
-      "priority": 30,
-      "note": "2026-11-20 MEL 2018 [^3] 은 샤워를 방해 없는 혼자 시간으로 씀. Straight Dope 949905 page=2 의 25번 글은 긴장이 풀릴 때까지 물을 맞는다고 함(같은 스레드라 이 문서엔 더 못 씀)",
-      "createdAt": "2026-11-20T15:08:58.211Z",
-      "seq": 5919
-    },
-    {
-      "id": "a554a4f5",
-      "title": "washing-partial-loads 보강: 공공 관찰 파편, 냄새 원인",
-      "priority": 30,
-      "note": "2026-11-20 NISRA 2024/25(27% 매일), NI Water 2024-10-17(22% 매일)은 빈도만 말하고 덜 채움은 말하지 않아 못 씀. gov.uk DECC electricity survey 2 는 PDF. Samsung 아일랜드 조사 20% 덜 채움(nova.ie, 매체) 후보. YouGov 2022-11-07 25% 가득 찰 때까지 기다림",
-      "createdAt": "2026-11-20T15:12:18.331Z",
-      "seq": 5920
-    },
-    {
-      "id": "e2951199",
-      "title": "running-water-until-it-warms 관계: taking-long-showers",
-      "priority": 30,
-      "note": "2026-11-20 Straight Dope 345236 page=2 (2006-02-20) 물 틀어 두고 옷 벗기, 207231 (2003-10-13) 데워지는 동안 비누 챙기기 후보. 두 현상 공통 상위(샤워 물 흘려보내기) 후보",
-      "createdAt": "2026-11-20T15:23:40.065Z",
-      "seq": 5921
-    },
-    {
-      "id": "7f6769c3",
-      "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",
-      "priority": 30,
-      "note": "2026-11-12 fear-of-the-dark 상위는 그음. Cranford(394) 'especially since Miss Pole's house had been attacked' 는 습격 소문 원인 근거 후보이나 원인 쪽 문서 없음. 두 현상 공통 상위(밤에 집 안 위협 상상) 문서를 새로 써야 함",
-      "createdAt": "2026-11-20T15:23:53.623Z",
-      "seq": 5923
-    },
     {
       "id": "e4cee6ae",
       "title": "interrupting-others 보강: 원인 간선",
@@ -1029,6 +861,62 @@
       "seq": 6693
     },
     {
+      "id": "0b710d5c",
+      "title": "tightwad-spending 와 retail-therapy 대립",
+      "priority": 30,
+      "note": "2026-11-26 확인되는 공공 파편 추가(chicagofed 2016). 대립 근거 원문 아직 없음. 후보 KDI 2025 analysisView?art_no=3669 는 고령층 소비성향 하락이라 다른 면",
+      "createdAt": "2026-11-26T15:11:54.641Z",
+      "seq": 6720
+    },
+    {
+      "id": "ebe31a1a",
+      "title": "hiding-illiteracy 관계: pretending-to-understand, poverty-shame, 상위 후보",
+      "priority": 30,
+      "note": "2026-11-07 PMC7304585 와 PMC12840061 은 건강 문해력이라 글 모르는 것과 다르고 인과 표현 아님. 2013년 경북대 문해 수기 원문 여전히 필요. 2026-11-20 상위 후보 문서 없음: hiding-hearing-loss, concealing-failure 도 상위 없음. 부끄러운 사실 숨기기 같은 상위 신규 현상 후보",
+      "createdAt": "2026-11-26T15:25:24.922Z",
+      "seq": 6723
+    },
+    {
+      "id": "7e92cbea",
+      "title": "doing-chores-while-staying 와 shrinking-in-hosts-home·indebtedness 관계",
+      "priority": 30,
+      "note": "2026-11-08 신세감과 집안일이 한 대목에 든 출처 못 찾음. 근접: Catapult 에세이 'I reciprocate by doing dishes'(발행일 미상). 남은 길: 위키문헌 더부살이 단편, Gutenberg The Wide, Wide World",
+      "createdAt": "2026-11-26T15:25:33.252Z",
+      "seq": 6724
+    },
+    {
+      "id": "6f4d9dfb",
+      "title": "boasting-about-lineage 보강: 시기 변화",
+      "priority": 30,
+      "note": "2026-11-20 THE 411471 'A trace of greatness' 2010-05-06 은 학문 계보(가우스 조상) 위신이라 가문 자랑과 다른 현상(학문 계보 자랑 신규 후보). Martin Chuzzlewit 968 은 inheritance-disputes 가 사용 중, 200자 안 완결 문장 없음. 필요: 1950~2000년 매체나 한국어 SNS 족보 자랑",
+      "createdAt": "2026-11-26T15:25:40.821Z",
+      "seq": 6725
+    },
+    {
+      "id": "59a2a016",
+      "title": "taking-long-showers 관계: avoiding-being-alone-with-thoughts",
+      "priority": 30,
+      "note": "2026-11-20 MEL 2018 [^3] 은 샤워를 방해 없는 혼자 시간으로 씀. Straight Dope 949905 page=2 의 25번 글은 긴장이 풀릴 때까지 물을 맞는다고 함(같은 스레드라 이 문서엔 더 못 씀)",
+      "createdAt": "2026-11-26T15:32:26.822Z",
+      "seq": 6734
+    },
+    {
+      "id": "fea088d6",
+      "title": "running-water-until-it-warms 관계: taking-long-showers",
+      "priority": 30,
+      "note": "2026-11-20 Straight Dope 345236 page=2 (2006-02-20) 물 틀어 두고 옷 벗기, 207231 (2003-10-13) 데워지는 동안 비누 챙기기 후보. 두 현상 공통 상위(샤워 물 흘려보내기) 후보",
+      "createdAt": "2026-11-26T15:32:59.110Z",
+      "seq": 6736
+    },
+    {
+      "id": "21133010",
+      "title": "fear-of-something-under-the-bed 관계: imagining-intruders-at-night",
+      "priority": 30,
+      "note": "2026-11-12 fear-of-the-dark 상위는 그음. Cranford(394) 'especially since Miss Pole's house had been attacked' 는 습격 소문 원인 근거 후보이나 원인 쪽 문서 없음. 두 현상 공통 상위(밤에 집 안 위협 상상) 문서를 새로 써야 함",
+      "createdAt": "2026-11-26T15:33:04.289Z",
+      "seq": 6737
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1803,6 +1691,94 @@
       "note": "2026-11-25 파편 4개로 보강함. 같은 Straight Dope 574034 의 'I tried not to cry but seeing how strong my wife was when giving the eulogy'. 두 문서 사이 인과 문장 필요",
       "createdAt": "2026-11-25T15:33:22.112Z",
       "seq": 6627
+    },
+    {
+      "id": "58a200e8",
+      "title": "appetite-comes-with-eating 와 eating-past-fullness 관계",
+      "priority": 20,
+      "note": "2026-11-26 두 번 실패 뒤 미룸. Yeomans 1998 Proc Nutr Soc 57(4) 'appetizer effect, which in turn increases food consumption' 은 PDF 이고 과식 아님. Yeomans 1996 초록은 Europe PMC REST JSON 으로만 열림",
+      "createdAt": "2026-11-26T15:05:54.030Z",
+      "seq": 6719
+    },
+    {
+      "id": "f8ee99b0",
+      "title": "anniversary-grief 보강: 2000년 이전 한국어 문학 파편",
+      "priority": 20,
+      "note": "2026-11-26 1997 매일신문 백일장 수필 추가(매체). 문학 후보 채만식 여인전기 ko.wikisource '오늘이 열한 번째 돌아오는 제사날이었다' 는 전사 미확인, 슬픔 직접 언급 없음. 본 것: 김동인 가신 어머니, 이광수 H군을 생각하고, 심훈 직녀성",
+      "createdAt": "2026-11-26T15:21:27.402Z",
+      "seq": 6721
+    },
+    {
+      "id": "4deb6e49",
+      "title": "sensitive-tasks-on-public-wifi 보강: 2021년 이후 공공",
+      "priority": 20,
+      "note": "2026-11-26 못 찾음. 본 것: 싱가포르 CSA 2023·2025 보도자료, gov.uk Public attitudes to cyber crime 2025, statcan dq230720b, Get Cyber Safe 추적조사 2022·2024 는 lac-bac 면책 페이지만 옴, actnowstaysecure.gov.au 503. 매체 후보 comparethemarket.com/broadband/britains-wifi-blind-spot/ 미확인",
+      "createdAt": "2026-11-26T15:25:13.293Z",
+      "seq": 6722
+    },
+    {
+      "id": "876da7c5",
+      "title": "early-morning-solitude 보강: 공공 파편",
+      "priority": 20,
+      "note": "2026-11-26 korea.kr 기고 검색에서 못 찾음. 생활시간조사 HTML 미발견. 후보: Neville 2024 PMC13294714 자폐 성인 'I would get up before everyone else'(학술)",
+      "createdAt": "2026-11-26T15:27:32.080Z",
+      "seq": 6727
+    },
+    {
+      "id": "d8b98c52",
+      "title": "idealizing-partner 관계: love-at-first-sight, attachment-anxiety",
+      "priority": 20,
+      "note": "2026-11-26 PMC8074860 Bode 2021 본문 재확인: 이상화와 첫눈에 반함을 따로 들 뿐 인과 문장 없음. 이전: Psychology Today 2021-08 rose-colored glasses(인과 아님), Psychological Science 2020 Blind at First Sight(본문 미확인), 아시아경제 2015-05-19 90.2%, Middlemarch 145",
+      "createdAt": "2026-11-26T15:27:49.164Z",
+      "seq": 6728
+    },
+    {
+      "id": "0040f73d",
+      "title": "attraction-outside-relationship 보강: 한국어 파편, 지나가는 끌림",
+      "priority": 20,
+      "note": "2026-11-26 teamblind.com/kr 글은 403. brunch @cometyou/428 독자 사연, lady.khan.co.kr/finance/article/7345 미확인 후보. 이전: Straight Dope 837369 'It eventually passes.', 633553 #103 2012-12-10",
+      "createdAt": "2026-11-26T15:29:41.428Z",
+      "seq": 6729
+    },
+    {
+      "id": "cf4c1ebf",
+      "title": "fear-of-sexual-rejection 보강: 한국어·SNS 파편, sexual-desire-discrepancy 관계",
+      "priority": 20,
+      "note": "2026-11-26 레이디경향 상담 2007-03 finance/article/9342 '거절당한 기분' 과 2012-06 health/article/201206121507181 '먼저 하자라는 말도 꺼내지 못해요' 는 두려움이 아니라 다른 사정. 이전: Straight Dope 'fear of rejection' 은 데이트 신청 거절, Psychology Today 2016-11-23 'pulling back from sex', psypost 봇 차단",
+      "createdAt": "2026-11-26T15:30:46.098Z",
+      "seq": 6730
+    },
+    {
+      "id": "165596ee",
+      "title": "buying-books-without-reading 관계: not-reading-books, difficulty-discarding",
+      "priority": 20,
+      "note": "2026-11-26 lithub on-the-heartbreaking-difficulty-of-getting-rid-of-books, bookriot 2016-02-03 kondod-heck-bookshelves, themillions p=111576 에 인과 문장 없음. 이전: Straight Dope search 실패, 서울신문 2021 '읽고 싶었기 때문', Morley 1919 Gutenberg 172 후보",
+      "createdAt": "2026-11-26T15:31:18.110Z",
+      "seq": 6731
+    },
+    {
+      "id": "0e8f2a8d",
+      "title": "first-paycheck-gift-to-parents 보강: 학술·문학 파편",
+      "priority": 20,
+      "note": "2026-11-26 gutenberg.org 는 503, 미러 gutenberg.pglaf.org 로 68521 Through the mill, 6162, 72065 를 'first wages' 'first pay' 로 찾았으나 없음. 이전: 이무영 월급날 1934(선물 중심 아님), brunch @8728/46",
+      "createdAt": "2026-11-26T15:32:12.391Z",
+      "seq": 6732
+    },
+    {
+      "id": "c9846b1c",
+      "title": "leaving-appliances-plugged-in 관계: leaving-lights-on",
+      "priority": 20,
+      "note": "2026-11-26 다시 봄: 플러그 꽂아 두기는 꺼진 기기도 포함해 켜 두기의 특수한 경우가 아님. 공통 상위(쓰지 않는 전기 기기 그대로 두기) 신규 문서 후보. 이전: Straight Dope 692507 2쪽, 영국 2014 조사 11%",
+      "createdAt": "2026-11-26T15:32:21.616Z",
+      "seq": 6733
+    },
+    {
+      "id": "a143e02b",
+      "title": "washing-partial-loads 보강: 공공 관찰 파편, 냄새 원인",
+      "priority": 20,
+      "note": "2026-11-26 gov.uk Energy Follow-Up Survey 9장, DECC appliances report 는 PDF, energysavingtrust 블로그는 조언문. 이전: NISRA 2024/25, NI Water 2024-10-17 빈도뿐. Samsung 아일랜드 조사 20%(nova.ie, 매체), YouGov 2022-11-07 25%",
+      "createdAt": "2026-11-26T15:32:45.322Z",
+      "seq": 6735
     },
     {
       "id": "9c55db6a",
@@ -3515,6 +3491,14 @@
       "note": "2026-11-26 shoplifting 하위 후보. 경향신문 2022-02-08 khan.co.kr/article/202202081103001 '아이스크림이 너무 먹고 싶은데 돈이 없었다'. 한국 공공 출처 필요",
       "createdAt": "2026-11-26T12:30:42.537Z",
       "seq": 6698
+    },
+    {
+      "id": "6b93a1ff",
+      "title": "stopping-clocks-after-death 와 covering-mirrors-after-death 공통 상위(초상집 의례)",
+      "priority": 10,
+      "note": "2026-11-26 rcpe 와 ahsoc 가 두 관습을 나란히 듦. ahsoc 'The clock would be set going again after the funeral.' 은 시기 문단 후보. 문학 파편(Grandfather's Clock 1876 가사 등) 필요",
+      "createdAt": "2026-11-26T15:27:10.557Z",
+      "seq": 6726
     },
     {
       "id": "02b2f242",
