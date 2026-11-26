@@ -2,4 +2,4 @@
 
 편집 잠금(mutation-lock) 목록이다. 형식과 규칙은 CLAUDE.md 0.5절에 있다.
 
-- 2026-11-26T15:04Z | 2026-11-26T15:06Z | urge-to-steal-unneeded-things 와 shoplifting 원인 간선 | urge-to-steal-unneeded-things shoplifting
+없음.
