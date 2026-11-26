@@ -23621,15 +23621,15 @@
   },
   "https://api.crossref.org/works/10.1525/collabra.57549": {
     "first": "2026-11-10",
-    "last": "2026-11-20",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-26"
   },
   "https://msutoday.msu.edu/news/2023/01/cancelling-plans-research": {
     "first": "2026-11-10",
-    "last": "2026-11-20",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-26"
   },
   "https://www.fnnews.com/news/202306181847022495": {
     "first": "2026-11-10",
@@ -23687,15 +23687,15 @@
   },
   "https://www.berkeleyparentsnetwork.org/advice/parents/flakeyfriends": {
     "first": "2026-11-10",
-    "last": "2026-11-20",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-26"
   },
   "https://www.teamblind.com/kr/post/약속-30분-전에-취소하는-개매너-xmW6pExw": {
     "first": "2026-11-10",
-    "last": "2026-11-20",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-26"
   },
   "https://aytm.com/blog/menu-variety-survey": {
     "first": "2026-11-10",
@@ -32594,9 +32594,9 @@
   },
   "https://boards.straightdope.com/t/is-it-possible-for-a-dipshit-to-become-well-not-a-dipshit/7699": {
     "first": "2026-11-20",
-    "last": "2026-11-20",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-20"
+    "lastVerified": "2026-11-26"
   },
   "https://gutenberg.pglaf.org/2/1/4/2148/2148-h/2148-h.htm": {
     "first": "2026-11-20",
@@ -36854,6 +36854,12 @@
     "lastVerified": "2026-11-26"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7485781/": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
+  },
+  "https://gutenberg.pglaf.org/cache/epub/47/pg47-images.html": {
     "first": "2026-11-26",
     "last": "2026-11-26",
     "result": "VERIFIED",
