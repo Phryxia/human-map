@@ -599,6 +599,7 @@
 - [쓰지 않는 가전 플러그 꽂아 두기](docs/leaving-appliances-plugged-in.md) ([돈과 소비](groups/money.md))
 - [쓰지 않는 구독 유지](docs/unused-subscription.md) ([돈과 소비](groups/money.md))
 - [쓰지 않는 약을 쓰레기통과 변기에 버리기](docs/improper-medicine-disposal.md) ([건강과 위험](groups/health-and-safety.md))
+- [쓸모없는 물건 훔치고 싶은 충동](docs/urge-to-steal-unneeded-things.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [아기에게 쓰는 말투](docs/infant-directed-speech.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [아는 것을 모르는 척하기](docs/feigning-ignorance.md) ([일터와 일자리](groups/work.md))
 - [아는 사람 이름 잊기](docs/forgetting-acquaintances-names.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
