@@ -1,40 +1,32 @@
 {
   "version": 1,
-  "savedAt": "2026-11-25T21:36:58.893Z",
-  "nextSeq": 6642,
-  "stops": 356,
+  "savedAt": "2026-11-26T00:36:03.167Z",
+  "nextSeq": 6667,
+  "stops": 357,
   "items": [
     {
-      "id": "09cf7821",
-      "title": "pawning-belongings 관계: borrowing-to-avoid-asking-family 또는 buying-on-credit-at-local-shops",
-      "priority": 30,
-      "note": "2026-11-19 Reuters 2016 (lincolndailynews 전재) '가족은 캐물으니 전당포가 끌린다' 추가. 부끄러움 원인 대목은 FinanceBuzz pawn shop myths 가 404. 쿠키뉴스 2023-06-10 v.daum.net/v/BpkLY57A3Y 신용점수에 막혀 전당포 대목. 한 문장 인과 파편 필요",
-      "createdAt": "2026-11-19T21:23:11.270Z",
-      "seq": 5774
+      "id": "4b1e8b94",
+      "title": "driving-around-road-barricades 보강: 2010년 이전 파편, 국내 파편",
+      "priority": 50,
+      "note": "2026-11-26 CTV 2023 비홍수 추가. prairiepublic 2016-12-09 눈보라 대목은 원문에 실명. abc57 2018 도 실명. 국내는 세계일보 2022-08-10 만취 운전자 한강 주차장 통제선 돌파 사건 하나뿐",
+      "createdAt": "2026-11-26T00:28:28.795Z",
+      "seq": 6664
     },
     {
-      "id": "bf25ace2",
-      "title": "making-up-excuses-to-hide-poverty 보강: 학술·SNS 파편, making-excuses-to-skip-plans 관계",
-      "priority": 30,
-      "note": "2026-11-19 Zikoko 2026-01 추가. 학술 후보 Hamilton·Catterall 2007 strathprints eprint/36504 (가난 가리기 일반, concealing-poverty 와 같은 출처). Chalkbeat 2020-11-25 hiding-my-poverty-from-friends 다친 손가락 핑계",
-      "createdAt": "2026-11-19T21:23:51.073Z",
-      "seq": 5775
+      "id": "abe8f0e9",
+      "title": "near-miss-effect 보강: 공공 파편, 복권, 직접 조작 조건",
+      "priority": 50,
+      "note": "2026-11-26 uwaterloo 2015-07-29 scratch tickets 대목은 200자 넘음. Clark 2009 초록 'restricted to trials where the subject had personal control' 조건. sciencenews 2009-02-11 같은 연구 기사. loss-chasing 관계 후보",
+      "createdAt": "2026-11-26T00:33:27.732Z",
+      "seq": 6665
     },
     {
-      "id": "a1f01ef2",
-      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
-      "priority": 30,
-      "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
-      "createdAt": "2026-11-19T21:24:32.438Z",
-      "seq": 5776
-    },
-    {
-      "id": "ba1137b2",
-      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
-      "priority": 30,
-      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02, 2026-11-10 ko.wikisource API 가 요청 과다로 막힘(첫 검색 한 번 뒤 바로). 다른 판본이나 다른 작품, 검색은 웹 검색으로",
-      "createdAt": "2026-11-19T21:26:36.661Z",
-      "seq": 5779
+      "id": "9bbd85de",
+      "title": "underestimating-own-survival 보강: 2000년 이전 파편, 80대의 과대 추정, 저축 결과 간선",
+      "priority": 50,
+      "note": "2026-11-26 Yahoo(Independent 2018-04-15) 'men born in the 1930s ... at age 80 reported a 32 per cent chance of reaching 95' 와 'When people underestimate ... they may save less' 대목, 다만 429 로 확인 불가. delaying-retirement-saving 결과 간선 후보. JDM 2021 dlab.sauder.ubc.ca 는 프록시 끊김",
+      "createdAt": "2026-11-26T00:35:44.059Z",
+      "seq": 6666
     },
     {
       "id": "cb3684d7",
@@ -997,6 +989,38 @@
       "seq": 6641
     },
     {
+      "id": "7cb592bd",
+      "title": "pawning-belongings 관계: borrowing-to-avoid-asking-family 또는 buying-on-credit-at-local-shops",
+      "priority": 30,
+      "note": "2026-11-19 Reuters 2016 (lincolndailynews 전재) '가족은 캐물으니 전당포가 끌린다' 추가. 부끄러움 원인 대목은 FinanceBuzz pawn shop myths 가 404. 쿠키뉴스 2023-06-10 v.daum.net/v/BpkLY57A3Y 신용점수에 막혀 전당포 대목. 한 문장 인과 파편 필요. 2026-11-26 상위로 보기 어려움(전당포가 늘 가족을 피하려는 것은 아님)",
+      "createdAt": "2026-11-26T00:16:58.447Z",
+      "seq": 6659
+    },
+    {
+      "id": "d32d26c3",
+      "title": "making-up-excuses-to-hide-poverty 관계: making-excuses-to-skip-plans",
+      "priority": 30,
+      "note": "2026-11-26 학술(PMC6561835)·SNS(MSE 2011) 추가로 보강 끝. MSE 댓글은 돈이 없어 아프다고 둘러대고 모임에서 빠짐. 간선 근거 파편 필요",
+      "createdAt": "2026-11-26T00:23:46.018Z",
+      "seq": 6660
+    },
+    {
+      "id": "3ba919cf",
+      "title": "fear-of-falling-activity-restriction 보강: 문학 파편, refusing-mobility-aids 관계",
+      "priority": 30,
+      "note": "2026-11-10 Euronews 2026-11-10 더함. Gutenberg 약 340권 grep 으로 노인이 넘어질까 외출을 피하는 장면 못 찾음(Austen, Dickens, Eliot, Cranford, Old Wives' Tale 등 제외). 대립 간선은 한 사람 안에서 반대로 민다는 파편 필요",
+      "createdAt": "2026-11-26T00:23:55.622Z",
+      "seq": 6661
+    },
+    {
+      "id": "ac9c7be2",
+      "title": "malicious-envy 보강: 1930년대 한국 문학 파편",
+      "priority": 30,
+      "note": "2026-11-01 이광수 「이차돈의 사」 위키문헌 판은 낱말 중간 줄바꿈으로 전사 불가. 2026-11-02, 2026-11-10 ko.wikisource API 가 요청 과다로 막힘(첫 검색 한 번 뒤 바로). 다른 판본이나 다른 작품, 검색은 웹 검색으로",
+      "createdAt": "2026-11-26T00:25:41.343Z",
+      "seq": 6663
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1853,30 +1877,6 @@
       "seq": 5674
     },
     {
-      "id": "9965ddde",
-      "title": "resume-embellishment 보강: 공공 파편, 원인",
-      "priority": 15,
-      "note": "2026-11-19 세 번째로 미룸. 이전: korea.kr 보도자료 없음, GAO-04-771T·04-1096T 학위공장, HEDD 는 매체 보도만, Cifas application-fraud",
-      "createdAt": "2026-11-19T03:28:18.181Z",
-      "seq": 5676
-    },
-    {
-      "id": "5f2129fa",
-      "title": "not-using-cooling-centers 보강: 국내 공공 파편",
-      "priority": 15,
-      "note": "2026-11-19 mediahub 2011418 (2024-06-12) 기후동행쉼터 안내뿐. newsis 20260730 행안부 의뢰 연세대 보고서 '쉼터 지정·운영 개선방안' 은 이미 씀, 보고서 원문(행안부·prism) HTML 을 찾을 것",
-      "createdAt": "2026-11-19T03:28:39.834Z",
-      "seq": 5677
-    },
-    {
-      "id": "094d6193",
-      "title": "feeling-old-when-offered-a-seat 보강: 학술 파편",
-      "priority": 15,
-      "note": "2026-11-19 europepmc 'offered a seat/priority seating' 검색: 받는 쪽 느낌 연구 없음. 42569959 (2026) 은 자리를 양보받지 못하는 소외감이라 반대 방향, 41184421 Batman effect 는 양보하는 쪽",
-      "createdAt": "2026-11-19T03:33:56.357Z",
-      "seq": 5678
-    },
-    {
       "id": "5526fc72",
       "title": "dependent-family-member-guilt 와 self-perceived-burden 관계",
       "priority": 15,
@@ -1915,6 +1915,14 @@
       "note": "2026-11-19 다시 봄: 둘 사이 원인·대립을 한 문장으로 말하는 파편 없음. 경기도 2020(F3)은 성묘를 못 가 죄책감을 느끼다 대행 신청(성묘 '못 함' 이지 성묘 현상의 원인 아님). 정책브리핑 newsId=148877097, 전북 dataSid=627495",
       "createdAt": "2026-11-25T15:34:24.084Z",
       "seq": 6630
+    },
+    {
+      "id": "b3b49859",
+      "title": "resume-embellishment 보강: 공공 파편, 원인",
+      "priority": 15,
+      "note": "2026-11-19 세 번째로 미룸. 이전: korea.kr 보도자료 없음, GAO-04-771T·04-1096T 학위공장, HEDD 는 매체 보도만, Cifas application-fraud. 2026-11-26 gov.uk·권익위 검색도 없음(YouGov 2017, Powerchex 는 민간)",
+      "createdAt": "2026-11-26T00:24:20.977Z",
+      "seq": 6662
     },
     {
       "id": "a3f422fc",
