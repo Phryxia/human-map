@@ -50,6 +50,7 @@
 - [죽기 전에 간직한 편지와 기록 없애기](../docs/destroying-private-papers-before-death.md) 죽음을 앞둔 사람이 자기가 죽은 뒤 남의 손에 넘어가지 않도록 간직해 온 편지나 일기, 사진, 디지털 기록을 태우거나 지운다.
 - [집에 없는 척하기](../docs/pretending-not-to-be-home.md) 집에 있는 사람이 초인종이나 노크를 듣고도 문을 열지 않고 집에 없는 척한다.
 - [초상집 거울 가리기](../docs/covering-mirrors-after-death.md) 사람이 집안에 죽은 이가 생기면 애도하는 동안 집 안의 거울을 덮어 둔다.
+- [초상집 시계 멈추기](../docs/stopping-clocks-after-death.md) 사람이 집안에 죽은 이가 생기면 집 안의 시계를 멈춰 둔다.
 - [향수](../docs/homesickness.md) 고향을 떠난 사람이 두고 온 집과 풍경과 가족을 그리워한다.
 - [혼자 먹는 식사의 감정](../docs/eating-alone-feelings.md) 혼자 식사하는 사람은 쓸쓸함이나 함께 먹는 자리에 대한 그리움을 느끼기도 하고 여유나 자유를 느끼기도 한다.
 - [혼자 살며 아플 때의 서러움](../docs/sick-while-living-alone.md) 혼자 사는 사람이 아프거나 위급할 때 돌봐 줄 사람이 없어 서러워하거나 그때를 걱정한다.
