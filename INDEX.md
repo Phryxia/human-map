@@ -120,6 +120,7 @@
 - [기분을 달래려고 먹기](docs/emotional-eating.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [기분을 달래려는 소비](docs/retail-therapy.md) ([돈과 소비](groups/money.md), [걱정과 기분](groups/worry-and-mood.md))
 - [기분이 처질 때 좋은 옷 차려입기](docs/dressing-up-to-lift-mood.md) ([걱정과 기분](groups/worry-and-mood.md))
+- [기뻐서 울기](docs/tears-of-joy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [기시감](docs/deja-vu.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [기일 무렵 되살아나는 슬픔](docs/anniversary-grief.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [기준점 의존](docs/reference-dependence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
