@@ -831,6 +831,7 @@
 - [장거리 연애의 그리움](docs/long-distance-longing.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [장기기증 등록 미루기](docs/delaying-organ-donor-registration.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [장례비 미리 모아 두기](docs/saving-for-funerals.md) ([돈과 소비](groups/money.md))
+- [장례업체 비교하지 않기](docs/not-comparing-funeral-providers.md) ([돈과 소비](groups/money.md))
 - [장례에서 눈물이 나지 않음](docs/no-tears-at-funeral.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [장례에서 울음 누르기](docs/holding-back-tears-at-funeral.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [장바구니에 담아 두고 결제하지 않기](docs/online-cart-abandonment.md) ([돈과 소비](groups/money.md))
