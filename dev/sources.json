@@ -36780,5 +36780,17 @@
     "last": "2026-11-26",
     "result": "VERIFIED",
     "lastVerified": "2026-11-26"
+  },
+  "https://db.cornwall.gov.uk/fbnews/info/details.asp?ID=28754": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
+  },
+  "https://news.tf.co.kr/read/life/2154148.htm": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
   }
 }

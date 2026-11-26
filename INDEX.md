@@ -129,6 +129,7 @@
 - [기침할 때 가리지 않기](docs/not-covering-coughs.md) ([건강과 위험](groups/health-and-safety.md))
 - [기후 행동 하지 않기](docs/climate-inaction.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [긴 통근 감수](docs/accepting-long-commute.md) ([일터와 일자리](groups/work.md))
+- [긴급전화 장난 신고](docs/prank-emergency-calls.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [긴급차량에 길 비켜 주지 않기](docs/not-yielding-to-emergency-vehicles.md) ([길과 운전](groups/roads-and-driving.md))
 - [길고양이에게 밥 주기](docs/feeding-stray-cats.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [길에 쓰레기 버리기](docs/littering.md) ([시민 참여와 공공의 일](groups/civic-life.md))
