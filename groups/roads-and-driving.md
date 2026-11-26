@@ -13,6 +13,7 @@
 - [다른 일을 하며 휴대전화 보기](../docs/phone-use-while-doing-other-things.md) 사람들이 걷기, 운전, 자전거 타기, 식사처럼 다른 일을 하는 동안 휴대전화 화면을 보거나 조작한다.
   - [걸으며 휴대전화 보기](../docs/walking-while-using-phone.md)
   - [운전 중 휴대전화 사용](../docs/phone-use-while-driving.md)
+- [도로 차단 시설 돌아 지나가기](../docs/driving-around-road-barricades.md) 도로가 막힌 곳에 이른 운전자가 차단 시설을 돌아가거나 치우고 막힌 길로 들어간다.
 - [리콜 수리 받지 않기](../docs/ignoring-vehicle-recalls.md) 리콜 통지를 받은 차주가 무상 수리를 받으러 가지 않는다.
 - [무단횡단](../docs/jaywalking.md) 보행자가 신호가 빨간불일 때나 횡단보도가 없는 곳에서 차도를 건넌다.
 - [방향지시등 켜지 않기](../docs/not-using-turn-signals.md) 운전자가 차로를 바꾸거나 방향을 틀 때 방향지시등을 켜지 않는다.
