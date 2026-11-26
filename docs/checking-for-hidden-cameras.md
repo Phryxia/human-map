@@ -12,6 +12,10 @@
 
 2019년 서울시 조사에서 불법촬영이 의심되는 장소를 쓸 때 하는 행동으로 화장실 등에 구멍이 뚫려 있는지 확인한다는 답이 61% 로 가장 많았다.[^2] 같은 해 서울시 매체의 시민기자[^3]는 화장실이나 탈의실을 쓸 때면 불법촬영 카메라가 숨겨져 있지 않을까 하는 불안이 먼저 든다고 썼다.
 
+2020년 숙소 이용자 설문을 다룬 대학 보도문[^4]에서 지난 숙박 때 기기를 찾아봤다는 응답자 대부분은 방을 걸어 다니며 손과 눈으로 살폈다.
+
+2025년 질적 연구[^5]의 한국 젊은 여성 참가자들은 카메라 탐지 앱을 쓰고 예방 용품을 들고 다니며 손가락과 거울로 반사를 늘 확인했다.
+
 # 관계
 
 ## 상위
@@ -39,3 +43,5 @@
 [^1]: [매체] "친구 한 명이 휴대용 실리콘을 들고 다니며 막는 방법이 있다고 알려줬어요." — 위키트리, 「“화장실에 있는 수상한 구멍...내가 실리콘을 들고 다니는 이유”」, 2018-07-10, https://www.wikitree.co.kr/articles/354557, 2026-11-26 접속
 [^2]: [매체] "불법촬영이 의심되는 장소를 이용할 때 어떻게 행동하는지 묻자 '화장실 등을 이용할 때 구멍 등이 뚫려있는지 확인한다(61%)'가 가장 많았다." — 박대로, 「서울시민 69% 불법촬영 불안감…女화장실-男숙박업소 최고」, 뉴시스, 2019-06-17, https://www.newsis.com/view/NISX20190617_0000682437, 2026-11-26 접속
 [^3]: [공공] "화장실이나 탈의실을 이용할 때면 혹시라도 불법촬영카메라가 숨겨져 있지 않나 불안한 마음부터 앞선다." — 이현정, 「신종 '디지털 성범죄' 기승…시민 손으로 잡는다!」, 내 손안에 서울, 2019-10-18, https://mediahub.seoul.go.kr/archives/1255950, 2026-11-26 접속
+[^4]: [매체] "Most of the people who said they searched for devices in their last stay said they typically did so manually, by walking around the room and searching with their hands and eyes." (지난 숙박 때 기기를 찾아봤다고 한 사람 대부분은 보통 손으로 직접, 방을 걸어 다니며 손과 눈으로 찾았다고 했다.) — Daniel Tkacik, 「Shedding light (and sound) on hidden IoT devices in your next hotel room」, CMU CyLab News, 2020-06-25, https://cylab.cmu.edu/news/2020/06/25-iot-devices-hotel-room.html, 2026-11-26 접속
+[^5]: [학술] "such as using camera detection applications, carrying specialized preventive items, and routinely checking for reflections using fingers and mirrors to ensure privacy" (카메라 탐지 앱 사용, 전용 예방 용품 휴대, 사생활을 지키려고 손가락과 거울로 반사를 늘 확인하기 같은) — 김인수, 김신정, 「불법촬영 피해에 대한 한국 젊은 여성의 불안」, 대한질적연구학회지 10권 1호, 2025-03, https://db.koreascholar.com/Article/Detail/440574, 2026-11-26 접속
