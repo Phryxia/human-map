@@ -19505,21 +19505,21 @@
   },
   "https://mediahub.seoul.go.kr/archives/194001": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-26"
   },
   "https://www.kyeonggi.com/article/201602040834218": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-26"
   },
   "https://www.rnz.co.nz/news/top/508892/bad-economy-nosy-relatives-young-chinese-put-off-by-lunar-new-year": {
     "first": "2026-11-04",
-    "last": "2026-11-04",
+    "last": "2026-11-26",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-04"
+    "lastVerified": "2026-11-26"
   },
   "https://www.gutenberg.org/cache/epub/29561/pg29561.txt": {
     "first": "2026-11-04",
@@ -36656,6 +36656,12 @@
     "lastVerified": "2026-11-26"
   },
   "https://www.mhlw.go.jp/stf/houdou/0000177553_00011.html": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
+  },
+  "https://ko.wikisource.org/wiki/%EA%B7%B8%EB%82%A0%EC%9D%B4_%EC%98%A4%EB%A9%B4/%EA%B3%A0%ED%96%A5%EC%9D%80_%EA%B7%B8%EB%A6%AC%EC%9B%8C%EB%8F%84": {
     "first": "2026-11-26",
     "last": "2026-11-26",
     "result": "VERIFIED",
