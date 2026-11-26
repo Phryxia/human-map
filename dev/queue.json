@@ -1,9 +1,33 @@
 {
   "version": 1,
-  "savedAt": "2026-11-26T03:35:15.543Z",
-  "nextSeq": 6676,
-  "stops": 358,
+  "savedAt": "2026-11-26T06:37:26.427Z",
+  "nextSeq": 6684,
+  "stops": 359,
   "items": [
+    {
+      "id": "e77e9c4c",
+      "title": "appetite-comes-with-eating 와 eating-past-fullness 관계",
+      "priority": 50,
+      "note": "2026-11-26 appetite-comes-with-eating 추가. Yeomans 1996 Appetite 27(2) appetizer effect 원 논문은 pubmed 쿠키 확인 페이지로 못 엶. 첫 입이 과식으로 이어진다는 인과 파편 찾기",
+      "createdAt": "2026-11-26T06:18:38.030Z",
+      "seq": 6680
+    },
+    {
+      "id": "75a76c91",
+      "title": "feeling-of-being-stared-at 관계: minding-what-others-think, fear-of-walking-alone-at-night",
+      "priority": 50,
+      "note": "2026-11-26 추가. 상위 후보 minding-what-others-think. 후보 파편 IFLScience 2024-10-03 can-you-really-feel-when-youre-being-watched-76209 는 돌아보는 몸짓이 남의 시선을 끈다는 되먹임, psychic staring effect 별칭 근거. Blackmore JCS2005 은 봇 확인 페이지로 미확인",
+      "createdAt": "2026-11-26T06:25:13.274Z",
+      "seq": 6681
+    },
+    {
+      "id": "d7781ea3",
+      "title": "hypnic-jerk 보강: 소설이나 시 파편",
+      "priority": 50,
+      "note": "2026-11-26 추가. 문학 파편 못 찾음, 김유정 1936 수필은 holding-back-coughs 와 맞춰 매체. Havelock Ellis The World of Dreams(Gutenberg 59214)는 떨어지는 꿈 일반이라 맞지 않음",
+      "createdAt": "2026-11-26T06:34:20.363Z",
+      "seq": 6682
+    },
     {
       "id": "cb3684d7",
       "title": "tightwad-spending 보강: 확인되는 공공 파편, retail-therapy 대립",
@@ -3491,6 +3515,14 @@
       "note": "2026-11-25 매체 후보만 찾음(종류 2가지 못 채움): redinkmag.com/2017/01/04/the-written-word/ 2017-01-04 'When you’re little, you always practice your signature.', hercampus.com/school/winona/september-22-diverse-ways-i-ve-kept-diary-over-two-decades/ 2020-09-20 'practiced my signatures for when I became famous', papier.com/thefold/articles/express-yourself-the-writing-styles-of-school 2019-08-19. 학술 후보 thescholarship.ecu.edu/handle/10342/3754 미열람. 문학·SNS 필요",
       "createdAt": "2026-11-25T00:31:09.477Z",
       "seq": 6561
+    },
+    {
+      "id": "87fd9775",
+      "title": "대화를 자기 이야기로 돌리기",
+      "priority": 10,
+      "note": "2026-11-26 후보 매체 artofmanliness.com the-art-of-conversation-how-to-avoid-conversational-narcissism 2020-01-24 'The shift-response attempts to set the stage for the other person to change the topic and shift the attention to themselves.' 별칭 Conversational narcissism, shift-response. 다른 종류 파편 필요. 가까운 문서 interrupting-others",
+      "createdAt": "2026-11-26T06:37:25.442Z",
+      "seq": 6683
     },
     {
       "id": "02b2f242",
