@@ -36428,5 +36428,17 @@
     "last": "2026-11-26",
     "result": "VERIFIED",
     "lastVerified": "2026-11-26"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19217383%20AND%20SRC:MED&resultType=core&format=xml": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
+  },
+  "https://casino.org/news/vegas-myths-busted-near-misses-are-close": {
+    "first": "2026-11-26",
+    "last": "2026-11-26",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-26"
   }
 }

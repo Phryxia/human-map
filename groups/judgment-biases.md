@@ -14,6 +14,7 @@
   - [남을 따라 대피하기](../docs/following-others-to-evacuate.md)
   - [또래 유행 따라 사기](../docs/following-peer-fashion.md)
   - [한 사람이 나서면 따라 돕기](../docs/helping-after-first-helper.md)
+- [니어미스 효과](../docs/near-miss-effect.md) 도박에서 아깝게 빗나간 결과를 본 사람이 거의 이길 뻔했다고 느끼고 더 하고 싶어 한다.
 - [도덕적 위선](../docs/moral-hypocrisy.md) 사람이 남에게는 엄하게 탓하거나 금하는 일을 자기가 할 때는 너그럽게 보거나 몰래 한다.
 - [도박사의 오류](../docs/gamblers-fallacy.md) 같은 결과가 이어지는 것을 본 사람이 다음에는 다른 결과가 나올 차례라고 믿는다.
   - [복권에서 안 나온 번호에 걸기](../docs/betting-on-overdue-lottery-numbers.md)
