@@ -1042,6 +1042,7 @@
 - [핫핸드 믿음](docs/hot-hand-belief.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [해 진 뒤 하산하기](docs/descending-after-dark.md) ([건강과 위험](groups/health-and-safety.md))
 - [해장술](docs/morning-drink-for-hangover.md) ([건강과 위험](groups/health-and-safety.md))
+- [햇빛 보면 나는 재채기](docs/photic-sneezing.md) ([건강과 위험](groups/health-and-safety.md))
 - [행복할 때 뒤따를 불행 두려워하기](docs/fear-of-happiness.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [행운의 물건 지니기](docs/carrying-lucky-charms.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [향수](docs/homesickness.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
