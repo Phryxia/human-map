@@ -1,6 +1,6 @@
 # 돈 걱정
 
-별칭: money worries[^6]
+별칭: money worries[^7]
 
 돈 사정을 생각하는 사람이 돈이 모자랄까 봐 걱정하고 불안해한다.
 
@@ -16,11 +16,13 @@
 
 2013년 12월 포럼 게시글[^5]의 글쓴이는 일자리를 잃게 될 것 같다며 26년 남은 주택담보대출을 어떻게 갚을지 몹시 걱정된다고 적었다.
 
-2023년 11월 미국 성인 1,000명 조사에서 77%가 돈 걱정 때문에 적어도 가끔은 잠을 설친다고 답했다.[^6]
+2021년 10월 BuzzFeed 기사[^6]가 전한 2020년 미국심장협회 조사에서 성인의 49%는 예상하지 못한 비용이 걱정돼 진료받기를 피했다.
 
-2024년 Royal London 보도자료[^7]가 전한 조사에서 18세에서 34세 응답자의 8%는 지금 돈이 없어서 아이 갖기를 미루고 있다고 답했다.
+2023년 11월 미국 성인 1,000명 조사에서 77%가 돈 걱정 때문에 적어도 가끔은 잠을 설친다고 답했다.[^7]
 
-2025년 영국 18세에서 40세 성인 조사에서 청구서나 명세서를 열지 않고 피한 적이 있는 사람 가운데 36%는 확인할 생각만 해도 불안해서 피했다고 답했다.[^8]
+2024년 Royal London 보도자료[^8]가 전한 조사에서 18세에서 34세 응답자의 8%는 지금 돈이 없어서 아이 갖기를 미루고 있다고 답했다.
+
+2025년 영국 18세에서 40세 성인 조사에서 청구서나 명세서를 열지 않고 피한 적이 있는 사람 가운데 36%는 확인할 생각만 해도 불안해서 피했다고 답했다.[^9]
 
 # 관계
 
@@ -38,11 +40,12 @@
 
 ## 결과
 
+- [치료비 걱정에 진료 미루기](skipping-care-due-to-cost.md)[^6]
 - [가계부 쓰기](keeping-household-accounts.md)[^3]
-- [생각 때문에 잠 못 이루기](lying-awake-thinking.md)[^6]
-- [아이 갖기 미루기](delaying-childbearing.md)[^7]
-- [우편물 뜯지 않기](leaving-mail-unopened.md)[^8]
-- [잔액 확인 피하기](avoiding-checking-balance.md)[^8]
+- [생각 때문에 잠 못 이루기](lying-awake-thinking.md)[^7]
+- [아이 갖기 미루기](delaying-childbearing.md)[^8]
+- [우편물 뜯지 않기](leaving-mail-unopened.md)[^9]
+- [잔액 확인 피하기](avoiding-checking-balance.md)[^9]
 
 ## 대립
 
@@ -55,6 +58,7 @@
 [^3]: [매체] "날로 늘어나는 카드대금와 마이너스 통장에 위기감을 느껴 가계부를 쓰기 시작한 지 3년 째다." — 「주머니 위기감 느끼면 가계부 써보세요」, 머니투데이, 2007-11-30, https://www.mt.co.kr/article/2007112813412611216, 2026-11-13 접속
 [^4]: [매체] "Being employed and having a higher income are both associated with lower levels of worry." (일자리가 있는 것과 소득이 높은 것은 모두 걱정이 낮은 것과 관련이 있다.) — Frank Newport, "Worry About Money Peaks With Forty-Somethings", Gallup, 2009-02-27, https://news.gallup.com/poll/116131/Worry-Money-Peaks-Forty-Somethings.aspx, 2026-10-21 접속
 [^5]: [SNS] "I would guess I will be losing my job. I still have 26 years to run on my mortgage and am seriously worried about how I will be able to make payments." (일자리를 잃게 될 것 같다. 주택담보대출이 아직 26년 남았는데 어떻게 갚아 나갈지 몹시 걱정된다.) — MoneySavingExpert 포럼 게시글, 2013-12-16, https://forums.moneysavingexpert.com/discussion/4847617/mortgage-problem-with-possible-redundancy, 2026-10-31 접속
-[^6]: [매체] "For many, this means worse sleep: 77% say they lose sleep over money worries at least some of the time." (많은 사람에게 이는 나쁜 잠으로 이어진다. 77%가 적어도 가끔은 돈 걱정 때문에 잠을 설친다고 말한다.) — Sleep Foundation, "77% of Us Lose Sleep Over Financial Worries. How Do We Earn It Back?", Sleep Foundation, 2023-11-17, https://sleepfoundation.org/sleep-news/77-percent-lose-sleep-to-financial-worries, 2026-10-21 접속
-[^7]: [매체] "This figure rises to more than 1 in 5 (22%) of those aged 18-34, and almost 1 in 10 (8%) people in this age group said they were delaying having children because they didn’t have the money right now." (이 수치는 18세에서 34세에서 5명 중 1명 이상(22%)으로 오르고, 이 나이대의 10명 중 1명 가까이(8%)는 지금 돈이 없어서 아이 갖기를 미루고 있다고 말했다.) — Royal London, "A generation on ‘pause’ as cost of living concerns lead to delays in starting a family", 2024-05-29, https://www.royallondon.com/about-us/media/Media-Centre/press-releases/press-releases-2024/may/A-generation-on-pause-as-cost-of-living-concerns-lead-to-delays-in-starting-a-family/, 2026-11-14 접속
-[^8]: [매체] "Among those who have avoided doing so, more than a third (36%) said it was because they feel anxious at the thought of checking, equivalent to around 5.3 million people nationwide." (그렇게 피한 적이 있는 사람 가운데 3분의 1 이상(36%)은 확인할 생각만 해도 불안해서라고 답했으며, 이는 전국 약 530만 명에 해당한다.) — Jessica O'Connor, "Five million young adults avoid checking bills due to money anxiety, study finds", The Intermediary, 2025-12-15, https://theintermediary.co.uk/2025/12/five-million-young-adults-avoid-checking-bills-due-to-money-anxiety-study-finds/, 2026-10-21 접속
+[^6]: [매체] "An American Heart Association survey in 2020 found that 49% of adults had avoided seeking medical care because they were worried about unexpected costs." (2020년 미국심장협회 조사에서 성인의 49%가 예상하지 못한 비용이 걱정돼 진료받기를 피했다.) — BuzzFeed, "17 Times People Delayed Medical Care That Never Would Have Happened If We Had Universal Healthcare", Yahoo, 2021-10-29, https://www.yahoo.com/entertainment/stories-people-delaying-medical-care-161602613.html, 2026-11-26 접속
+[^7]: [매체] "For many, this means worse sleep: 77% say they lose sleep over money worries at least some of the time." (많은 사람에게 이는 나쁜 잠으로 이어진다. 77%가 적어도 가끔은 돈 걱정 때문에 잠을 설친다고 말한다.) — Sleep Foundation, "77% of Us Lose Sleep Over Financial Worries. How Do We Earn It Back?", Sleep Foundation, 2023-11-17, https://sleepfoundation.org/sleep-news/77-percent-lose-sleep-to-financial-worries, 2026-10-21 접속
+[^8]: [매체] "This figure rises to more than 1 in 5 (22%) of those aged 18-34, and almost 1 in 10 (8%) people in this age group said they were delaying having children because they didn’t have the money right now." (이 수치는 18세에서 34세에서 5명 중 1명 이상(22%)으로 오르고, 이 나이대의 10명 중 1명 가까이(8%)는 지금 돈이 없어서 아이 갖기를 미루고 있다고 말했다.) — Royal London, "A generation on ‘pause’ as cost of living concerns lead to delays in starting a family", 2024-05-29, https://www.royallondon.com/about-us/media/Media-Centre/press-releases/press-releases-2024/may/A-generation-on-pause-as-cost-of-living-concerns-lead-to-delays-in-starting-a-family/, 2026-11-14 접속
+[^9]: [매체] "Among those who have avoided doing so, more than a third (36%) said it was because they feel anxious at the thought of checking, equivalent to around 5.3 million people nationwide." (그렇게 피한 적이 있는 사람 가운데 3분의 1 이상(36%)은 확인할 생각만 해도 불안해서라고 답했으며, 이는 전국 약 530만 명에 해당한다.) — Jessica O'Connor, "Five million young adults avoid checking bills due to money anxiety, study finds", The Intermediary, 2025-12-15, https://theintermediary.co.uk/2025/12/five-million-young-adults-avoid-checking-bills-due-to-money-anxiety-study-finds/, 2026-10-21 접속
