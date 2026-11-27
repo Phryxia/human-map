@@ -685,6 +685,7 @@
 - [연금 조기 수령](docs/early-pension-claiming.md) ([돈과 소비](groups/money.md))
 - [연락받는 사람의 감사 과소평가](docs/underestimating-reach-out-appreciation.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [연말 기부 몰림](docs/year-end-giving.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [연민](docs/pity.md) ([남의 처지를 향한 감정](groups/feelings-toward-others.md))
 - [연봉 협상하지 않기](docs/not-negotiating-salary.md) ([일터와 일자리](groups/work.md))
 - [연애 기피](docs/avoiding-dating.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [연애 질투](docs/romantic-jealousy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

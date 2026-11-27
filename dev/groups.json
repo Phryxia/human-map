@@ -769,6 +769,14 @@
     ]
   },
   {
+    "id": "feelings-toward-others",
+    "title": "남의 처지를 향한 감정",
+    "summary": "사람이 다른 사람이나 동물의 처지를 보고 느끼는 감정이다.",
+    "roots": [
+      "pity"
+    ]
+  },
+  {
     "id": "solitude-and-loss",
     "title": "혼자 있음과 상실",
     "summary": "사람이 혼자 지내거나 사람과 장소를 잃고 떠난 뒤 느끼고 하는 일이다.",
