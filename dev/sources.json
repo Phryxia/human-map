@@ -27249,15 +27249,15 @@
   },
   "https://www.gutenberg.org/cache/epub/11/pg11.txt": {
     "first": "2026-11-14",
-    "last": "2026-11-21",
+    "last": "2026-11-27",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4635443/": {
     "first": "2026-11-14",
-    "last": "2026-11-21",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-21"
+    "lastVerified": "2026-11-27"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4991046/": {
     "first": "2026-11-14",
@@ -27902,9 +27902,9 @@
   },
   "https://www.thejakartapost.com/life/2019/06/21/information-triggers-the-pleasure-centers-in-your-brain.html": {
     "first": "2026-11-14",
-    "last": "2026-11-21",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-21"
+    "lastVerified": "2026-11-27"
   },
   "https://www.goodto.com/family/family-news/do-hand-me-down-clothes-impact-a-childs-individuality-as-they-grow-up-here-are-pros-and-cons-according-to-experts": {
     "first": "2026-11-14",
@@ -32888,9 +32888,9 @@
   },
   "https://news.ycombinator.com/item?id=47649009": {
     "first": "2026-11-21",
-    "last": "2026-11-21",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-21"
+    "lastVerified": "2026-11-27"
   },
   "https://news.ycombinator.com/item?id=9412973": {
     "first": "2026-11-21",
@@ -37123,6 +37123,12 @@
     "lastVerified": "2026-11-27"
   },
   "https://www.istat.it/comunicato-stampa/indagine-bambini-e-ragazzi-anno-2023/": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www.pbs.org/wgbh/nova/article/how-to-stimulate-curiosity/": {
     "first": "2026-11-27",
     "last": "2026-11-27",
     "result": "VERIFIED",
