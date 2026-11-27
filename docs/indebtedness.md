@@ -24,7 +24,7 @@
 
 ## 하위
 
-없음.
+- [가까운 사람이 받은 도움에 대신 빚진 느낌](vicarious-indebtedness.md)
 
 ## 원인
 

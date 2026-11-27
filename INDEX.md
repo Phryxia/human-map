@@ -10,6 +10,7 @@
 - [가구 배치 바꾸기](docs/rearranging-furniture.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [가까운 사람 이름 바꿔 부르기](docs/misnaming-family-members.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [가까운 사람의 발소리 알아듣기](docs/recognizing-footsteps-of-close-people.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [가까운 사람이 받은 도움에 대신 빚진 느낌](docs/vicarious-indebtedness.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [가난 감추기](docs/concealing-poverty.md) ([돈과 소비](groups/money.md))
 - [가난 수치심](docs/poverty-shame.md) ([돈과 소비](groups/money.md))
 - [가난을 감추려 핑계 지어내기](docs/making-up-excuses-to-hide-poverty.md) ([돈과 소비](groups/money.md))
