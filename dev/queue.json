@@ -1,97 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-27T12:31:02.666Z",
-  "nextSeq": 6811,
-  "stops": 369,
+  "savedAt": "2026-11-27T15:42:57.027Z",
+  "nextSeq": 6821,
+  "stops": 370,
   "items": [
-    {
-      "id": "0156ff4b",
-      "title": "vicarious-indebtedness 보강: SNS 파편, 다른 시기",
-      "priority": 50,
-      "note": "2026-11-27 작성. 매체 2016, 학술 2024 뿐. 브런치 @krbella/36 2025-11-22 '내 아들 잘 챙겨줘서 고맙다' 는 대리 고마움만 있음. 블라인드·네이트판·reddit 맞는 글 못 찾음",
-      "createdAt": "2026-11-27T09:28:56.058Z",
-      "seq": 6797
-    },
-    {
-      "id": "58728839",
-      "title": "ai-anxiety 보강: 다른 시기와 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-27 학술 Frontiers 2024, 공공 GOV.UK 2024 뿐. GOV.UK 같은 글의 '55+ 상위 열 낱말 모두 부정적'(나이 조건), 1960~80년대 컴퓨터·자동화 불안 기사, 챗봇 관련 게시글 필요",
-      "createdAt": "2026-11-27T12:22:38.472Z",
-      "seq": 6807
-    },
-    {
-      "id": "33596161",
-      "title": "sharing-unverified-information-online 보강: 다른 시기, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-27 매체 APS 2020, 공공 statcan 2021 뿐. 2010년 이전 전달 메일·괴담 퍼나르기 글, 확인 안 하고 공유했다는 게시글 필요",
-      "createdAt": "2026-11-27T12:23:18.618Z",
-      "seq": 6808
-    },
-    {
-      "id": "c935c96c",
-      "title": "computer-anxiety 보강: 1980년대 당시 파편",
-      "priority": 50,
-      "note": "2026-11-27 매체 Nextgov 2015, 학술 PMC6770433 2019 뿐. Nextgov 가 인용한 1983 Personal Computing Rubin 기사, 1985 Discover John Leo 칼럼 원문 필요. discovermagazine look-back-coping-with-a-new-menacethe-computer 는 curl 로 919바이트",
-      "createdAt": "2026-11-27T12:28:41.228Z",
-      "seq": 6809
-    },
-    {
-      "id": "28d2b0dc",
-      "title": "grazing 보강: SNS 파편, 결과 간선",
-      "priority": 50,
-      "note": "2026-11-27 공공 ERS 2008, 학술 PMC8684066 2021 뿐. 같은 논문 결론 'Grazing increases daily caloric intake and can decrease dietary quality (particularly when grazing in the evening).' 는 결과 간선 후보(상대 문서 없음). 재택 중 하루 종일 집어 먹는다는 게시글 필요",
-      "createdAt": "2026-11-27T12:30:06.269Z",
-      "seq": 6810
-    },
-    {
-      "id": "f1b2eab8",
-      "title": "eating-poisonous-plants-as-wild-greens 원인 간선",
-      "priority": 30,
-      "note": "2026-11-20 foraging-wild-food 를 상위로 이음. 원인 후보: 서울신문 2021 '이른 봄 잎이나 꽃이 나기 전 뿌리만 보고 구별하기 쉽지 않기 때문', oregonstate poison-hemlock 2018-06 'roots of poison hemlock have been mistaken for wild parsnips'. 원인 상대 문서(생김새로 가려내기 과신 등) 없음. 채취 후보: research.fs.usda.gov/treesearch/55353 Synk 2017 Baltimore foragers 105명",
-      "createdAt": "2026-11-20T21:13:23.153Z",
-      "seq": 5954
-    },
-    {
-      "id": "eb500335",
-      "title": "feeding-wildlife 원인 간선, 동물에게 먹이 주기 공통 상위",
-      "priority": 30,
-      "note": "2026-11-20 feeding-pigeons 를 하위로 이음. feeding-stray-cats 는 야생동물이 아니라 상위로 두지 않음. 공통 상위 '동물에게 먹이 주기' 후보. 원인 후보: researchmatters.in 2018-03-16 '62% claimed that they fed the macaques because they either felt sorry for them or were frightened', springer s10764-020-00148-5 2020-04-20, PMC4494361 Dubois & Fraser 2013. csmonitor 1998 'Getting too close to take a photo' 는 risky-selfies 후보",
-      "createdAt": "2026-11-20T21:14:03.241Z",
-      "seq": 5955
-    },
-    {
-      "id": "067e8151",
-      "title": "heavy-drinking 원인 간선: drinking-to-cope, 회식 폭음 조건",
-      "priority": 30,
-      "note": "2026-11-20 PMC3161131 로 drink-driving 결과 간선 그음. drinking-to-cope 원인 후보: khan.co.kr 201611161247002 2016-11-16 '스트레스 상황에서의 반복적인 음주는 오히려 스트레스를 취약하게 만들고 알코올 섭취량을 늘려'(섭취량이지 폭음 아님), PMC7117979, MDPI 2076-328X/14/5/402 미확인. talkingsober 24080 2017-12-09 회사 파티 필름 끊김",
-      "createdAt": "2026-11-20T21:26:00.890Z",
-      "seq": 5960
-    },
-    {
-      "id": "7df31256",
-      "title": "clean-plate-pressure 와 leaving-food-on-the-plate 대립 근거",
-      "priority": 30,
-      "note": "2026-11-13 보강 때 근거 문장 못 찾음. 후보: PMC12627122 (2025-11-18) 'trade-off exists between food waste and weight gain due to PCB' 는 같은 사람 안에서 반대로 민다는 말이 아니라 맞바꿈. HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
-      "createdAt": "2026-11-21T00:21:02.005Z",
-      "seq": 5974
-    },
-    {
-      "id": "0092ce79",
-      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
-      "priority": 30,
-      "note": "2026-10-21 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요. 후보: PMC8650558, 도로교통공단 2026 설문(segye·wikitree·mtn 보도), djsresearch.co.uk insights 01700 (Direct Line 2014), legalfutures print / 2026-11-21 회차 319 에 다시 미룸",
-      "createdAt": "2026-11-21T09:09:46.672Z",
-      "seq": 6017
-    },
-    {
-      "id": "8e3f4306",
-      "title": "weather-small-talk 와 elevator-silence 관계",
-      "priority": 30,
-      "note": "2026-10-22 남김: allurekorea 엘리베이터 장면 '그리고 침묵.', asol.ling.utexas.edu sun.pdf 'defuse potential hostility of silence'(PDF 미확인)",
-      "createdAt": "2026-11-21T09:09:56.922Z",
-      "seq": 6019
-    },
     {
       "id": "0ac5c1c6",
       "title": "post-election-distress 보강: 한국 공공 파편",
@@ -931,6 +843,46 @@
       "note": "2026-11-27 NOVA 2013, Dubey 2017 넣음. pbs NOVA 같은 글의 'being told an answer quells curiosity' 는 같은 출처라 못 씀. stafforini.com Loewenstein 1994 초록 'tendency to disappoint when satisfied' 는 개인 사이트",
       "createdAt": "2026-11-27T09:36:15.727Z",
       "seq": 6798
+    },
+    {
+      "id": "58d419e2",
+      "title": "grazing 결과 간선",
+      "priority": 30,
+      "note": "2026-11-27 PMC8684066 결론 'Grazing increases daily caloric intake and can decrease dietary quality (particularly when grazing in the evening).' 결과 상대 문서 없음. Straight Dope 518972(2009) 'constantly eating and constantly hungry' 후보",
+      "createdAt": "2026-11-27T15:25:21.502Z",
+      "seq": 6816
+    },
+    {
+      "id": "e415c335",
+      "title": "eating-poisonous-plants-as-wild-greens 원인 간선",
+      "priority": 30,
+      "note": "2026-11-20 foraging-wild-food 를 상위로 이음. 원인 후보: 서울신문 2021 '이른 봄 잎이나 꽃이 나기 전 뿌리만 보고 구별하기 쉽지 않기 때문', oregonstate poison-hemlock 2018-06 'roots of poison hemlock have been mistaken for wild parsnips'. 원인 상대 문서(생김새로 가려내기 과신 등) 없음. 채취 후보: research.fs.usda.gov/treesearch/55353 Synk 2017 Baltimore foragers 105명",
+      "createdAt": "2026-11-27T15:25:31.791Z",
+      "seq": 6817
+    },
+    {
+      "id": "7a4f5113",
+      "title": "동물에게 먹이 주기 공통 상위",
+      "priority": 30,
+      "note": "2026-11-27 feeding-wildlife 에 원인 pity 를 이음. feeding-stray-cats, feeding-pigeons, feeding-wildlife 공통 상위 후보. PMC4494361 Dubois & Fraser 2013, springer s10764-020-00148-5 2020-04-20",
+      "createdAt": "2026-11-27T15:29:02.476Z",
+      "seq": 6818
+    },
+    {
+      "id": "54d786e9",
+      "title": "heavy-drinking 보강: 회식 폭음 조건",
+      "priority": 30,
+      "note": "2026-11-27 drinking-to-cope 원인 간선은 PMC2761221 로 그음. talkingsober 24080 2017-12-09 회사 파티 필름 끊김 후보",
+      "createdAt": "2026-11-27T15:35:16.526Z",
+      "seq": 6819
+    },
+    {
+      "id": "6699dee5",
+      "title": "drink-driving 와 driving-overconfidence, unrealistic-optimism 관계",
+      "priority": 30,
+      "note": "2026-10-21 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요. 2026-11-27 후보: PMC5309158 2017-01-17 'DUI offenders systematically underestimate the degree to which alcohol impairs their ability to drive'(남과 견준 과신이 아니라 술의 영향 과소평가), PMC4814299 2016-02-10 'BAC underestimation can promote the decision to drive after drinking'. '술 영향 과소평가' 를 새 현상으로 둘지 정할 것",
+      "createdAt": "2026-11-27T15:39:42.705Z",
+      "seq": 6820
     },
     {
       "id": "9634edf0",
