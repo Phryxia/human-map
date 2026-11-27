@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-27T09:36:26.785Z",
-  "nextSeq": 6799,
-  "stops": 368,
+  "savedAt": "2026-11-27T12:31:02.666Z",
+  "nextSeq": 6811,
+  "stops": 369,
   "items": [
     {
       "id": "0156ff4b",
@@ -11,6 +11,38 @@
       "note": "2026-11-27 작성. 매체 2016, 학술 2024 뿐. 브런치 @krbella/36 2025-11-22 '내 아들 잘 챙겨줘서 고맙다' 는 대리 고마움만 있음. 블라인드·네이트판·reddit 맞는 글 못 찾음",
       "createdAt": "2026-11-27T09:28:56.058Z",
       "seq": 6797
+    },
+    {
+      "id": "58728839",
+      "title": "ai-anxiety 보강: 다른 시기와 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-27 학술 Frontiers 2024, 공공 GOV.UK 2024 뿐. GOV.UK 같은 글의 '55+ 상위 열 낱말 모두 부정적'(나이 조건), 1960~80년대 컴퓨터·자동화 불안 기사, 챗봇 관련 게시글 필요",
+      "createdAt": "2026-11-27T12:22:38.472Z",
+      "seq": 6807
+    },
+    {
+      "id": "33596161",
+      "title": "sharing-unverified-information-online 보강: 다른 시기, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-27 매체 APS 2020, 공공 statcan 2021 뿐. 2010년 이전 전달 메일·괴담 퍼나르기 글, 확인 안 하고 공유했다는 게시글 필요",
+      "createdAt": "2026-11-27T12:23:18.618Z",
+      "seq": 6808
+    },
+    {
+      "id": "c935c96c",
+      "title": "computer-anxiety 보강: 1980년대 당시 파편",
+      "priority": 50,
+      "note": "2026-11-27 매체 Nextgov 2015, 학술 PMC6770433 2019 뿐. Nextgov 가 인용한 1983 Personal Computing Rubin 기사, 1985 Discover John Leo 칼럼 원문 필요. discovermagazine look-back-coping-with-a-new-menacethe-computer 는 curl 로 919바이트",
+      "createdAt": "2026-11-27T12:28:41.228Z",
+      "seq": 6809
+    },
+    {
+      "id": "28d2b0dc",
+      "title": "grazing 보강: SNS 파편, 결과 간선",
+      "priority": 50,
+      "note": "2026-11-27 공공 ERS 2008, 학술 PMC8684066 2021 뿐. 같은 논문 결론 'Grazing increases daily caloric intake and can decrease dietary quality (particularly when grazing in the evening).' 는 결과 간선 후보(상대 문서 없음). 재택 중 하루 종일 집어 먹는다는 게시글 필요",
+      "createdAt": "2026-11-27T12:30:06.269Z",
+      "seq": 6810
     },
     {
       "id": "f1b2eab8",
