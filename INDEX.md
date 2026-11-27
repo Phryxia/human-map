@@ -317,6 +317,7 @@
 - [말을 피하려고 다른 일에 몰두한 척하기](docs/feigning-absorption-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [말을 피하려고 자는 척하기](docs/pretending-to-sleep-to-avoid-talk.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [망가뜨린 일 숨기기](docs/concealing-accidental-damage.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [맞대 놓고 못 할 말을 남을 거쳐 전하기](docs/passing-words-through-a-go-between.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [매몰비용 때문에 그만두지 못하기](docs/sunk-cost-persistence.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [머리가 마음에 들지 않아도 미용사에게 괜찮다고 답하기](docs/saying-haircut-is-fine.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [머리가 하얘짐](docs/mind-going-blank.md) ([남의 시선과 창피함](groups/others-gaze.md))
