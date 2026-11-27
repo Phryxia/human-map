@@ -1,9 +1,25 @@
 {
   "version": 1,
-  "savedAt": "2026-11-26T21:40:19.083Z",
-  "nextSeq": 6767,
-  "stops": 364,
+  "savedAt": "2026-11-27T00:28:44.654Z",
+  "nextSeq": 6773,
+  "stops": 365,
   "items": [
+    {
+      "id": "38922cca",
+      "title": "dreading-late-night-calls-and-telegrams 보강: 학술 파편, 체호프 대목",
+      "priority": 50,
+      "note": "2026-11-27 작성. 후보: gutenberg.pglaf.org 13416 Chekhov The Darling 'Olenka had received telegrams from her husband before, but this time for some reason she felt numb with terror.' (13416 은 foot-falling-asleep 이 이미 씀). 학술 파편 없음",
+      "createdAt": "2026-11-27T00:14:48.208Z",
+      "seq": 6770
+    },
+    {
+      "id": "a4661867",
+      "title": "year-end-giving 원인 간선: 세액공제 마감, 크리스마스",
+      "priority": 50,
+      "note": "2026-11-27 작성. Ekström 2018 초록 'confounding factors of charitable tax breaks, reciprocity motives, pressure from the solicitors' 는 같은 출처라 둘째 파편 불가. 경향 2004-12-26 khan 200412261735021 '소나기식으로 연말에 집중되는 기부문화'(평가어 포함), IRS CL-21-32 'make charitable contributions by December 31, 2021'",
+      "createdAt": "2026-11-27T00:19:33.075Z",
+      "seq": 6771
+    },
     {
       "id": "d9d6db43",
       "title": "kissing-absent-loved-ones-letters 관계: continuing-bonds, smelling-absent-loved-ones-clothes, rereading-old-letters",
@@ -3523,6 +3539,14 @@
       "note": "2026-11-26 gazette-news.co.uk 5471680 (2002-04-08) hoax calls often originate from a desire to impress and create excitement as the appliances roll out. 발행일 이관 날짜 여부 확인 필요. prank-emergency-calls 원인 후보",
       "createdAt": "2026-11-26T21:24:05.117Z",
       "seq": 6760
+    },
+    {
+      "id": "e44188c7",
+      "title": "소중한 물건 베개 밑에 두고 자기",
+      "priority": 10,
+      "note": "2026-11-27 문학 후보 확인됨(pglaf 미러): 3796.txt Rilla 17장 'Rilla slept with the letter under her pillow for weeks', 45-0.txt Anne 17장 'P.S. I shall sleep with your letter under my pillow tonight.', 498-0.txt Rebecca 17장 coral chain, 4300-0.txt Ulysses 'weeks and weeks I kept the handkerchief under my pillow for the smell of him'. 비문학 파편 못 찾음. smelling-absent-loved-ones-clothes 와 관계 후보",
+      "createdAt": "2026-11-27T00:28:30.153Z",
+      "seq": 6772
     },
     {
       "id": "02b2f242",
