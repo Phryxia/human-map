@@ -91,6 +91,7 @@
   - [악의적 시기](../docs/malicious-envy.md)
   - [온화한 시기](../docs/benign-envy.md)
   - [젊은 사람 부러워하기](../docs/youth-envy.md)
+- [식구에게 소리 내어 읽어 주기](../docs/reading-aloud-to-family.md) 집에서 한 사람이 책을 식구들에게 소리 내어 읽어 준다.
 - [아기에게 쓰는 말투](../docs/infant-directed-speech.md) 어른이 아기에게 말할 때 목소리를 높이고 말을 늘이며 맘마 같은 아기 말을 쓴다.
 - [아이 갖기 미루기](../docs/delaying-childbearing.md) 아이를 가질 생각이 있는 사람이 학업, 일, 결혼 같은 사정을 이유로 첫 아이 갖기를 뒤로 미룬다.
 - [아이를 낳지 않기로 하기](../docs/choosing-not-to-have-children.md) 결혼했거나 결혼할 사람이 아이를 낳지 않기로 스스로 정한다.
