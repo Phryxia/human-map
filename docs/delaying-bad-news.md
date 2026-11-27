@@ -18,6 +18,8 @@
 
 2026년 한 브런치 글의 필자는 직장에서 남자 직원들이 건강검진 재검 안내문을 접어서 서랍에 넣었다고 적는다.[^7]
 
+2026년 8월 기사[^8]는 주가가 내리면 계좌를 확인하는 것조차 두려워하는 투자자도 적지 않다고 적는다.
+
 # 관계
 
 ## 상위
@@ -51,3 +53,4 @@
 [^5]: [학술] "This can create an incentive to avoid information, even when it is useful, free, and independent of strategic considerations." (이는 정보가 유용하고 공짜이며 전략적 고려와 무관해도 그 정보를 피할 유인을 만들 수 있다.) — Russell Golman, David Hagmann, George Loewenstein, "Information Avoidance", Journal of Economic Literature 55(1), 2017-03, https://ideas.repec.org/a/aea/jeclit/v55y2017i1p96-135.html, 2026-10-15 접속
 [^6]: [학술] "This result might exhibit ambivalent attitudes towards prognostic communication, as patients often struggle between wanting clarity and needing hope" (이 결과는 예후에 관한 소통을 두고 양가적인 태도를 보여 줄 수 있는데 환자들은 명확히 알고 싶은 마음과 희망을 지키고 싶은 마음 사이에서 자주 갈등하기 때문이다) — N. C. A. van der Velden 외, "Characteristics of patients with advanced cancer preferring not to know prognosis: a multicenter survey study", BMC Cancer, 2022-09-01, https://pmc.ncbi.nlm.nih.gov/articles/PMC9434918/, 2026-10-20 접속
 [^7]: [매체] "남자 직원들은 재검 안내문을 접어서 서랍에 넣었다." — 전의혁, "검진 안내문을 돌리는 사람의 걱정", 브런치, 2026-07-17, https://brunch.co.kr/@holytree/518, 2026-10-15 접속
+[^8]: [매체] "주가가 오르면 뒤늦게라도 매수해야 할 것 같은 초조함을 느끼고, 하락하면 계좌를 확인하는 것조차 두려워하는 투자자도 적지 않다." — 뉴시스, "'장 끝나도 계좌창 열었다 닫았다'…이거 병인가요?[주식 우울증②]", 2026-08-01, https://www.newsis.com/view/NISX20260731_0003731916, 2026-11-27 접속
