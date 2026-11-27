@@ -829,6 +829,7 @@
 - [자녀의 첫 휴대폰을 두고 망설이기](docs/first-phone-for-child-dilemma.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [자리 양보 망설임](docs/hesitating-to-offer-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자리를 양보받고 늙었다고 느끼기](docs/feeling-old-when-offered-a-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [자리에 맞지 않는 옷차림의 겸연쩍음](docs/mismatched-dress-embarrassment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [자살 유족의 자책](docs/suicide-bereavement-self-blame.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [자식 자랑](docs/bragging-about-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자식에게 해 주지 못하는 미안함](docs/guilt-over-not-providing-for-children.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))

@@ -59,6 +59,7 @@
   - [손님이 가 주기를 바라기](../docs/wishing-guests-would-leave.md)
 - [유리창에 비친 제 모습 흘끗 보기](../docs/glancing-at-own-reflection-in-windows.md) 길을 걷는 사람이 상점 진열창 같은 유리에 비친 자기 모습을 걸음을 멈추지 않고 흘끗 확인한다.
 - [자기 비하](../docs/self-deprecation.md) 사람이 남 앞에서 먼저 자기 약점이나 실수를 꺼내 자기를 깎아내리거나 우스개로 낮추어 말한다.
+- [자리에 맞지 않는 옷차림의 겸연쩍음](../docs/mismatched-dress-embarrassment.md) 모임에 간 사람이 자기 옷차림이 그 자리의 다른 사람들과 다르다는 것을 알아채고 겸연쩍어한다.
 - [잘못 숨기기](../docs/concealing-wrongdoing.md) 금지된 일을 하거나 잘못을 저지른 사람이 그 일이 드러나지 않게 숨기거나 하지 않았다고 한다.
   - [망가뜨린 일 숨기기](../docs/concealing-accidental-damage.md)
   - [업무 실수 숨기기](../docs/hiding-mistakes-at-work.md)
