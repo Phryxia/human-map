@@ -1,40 +1,16 @@
 {
   "version": 1,
-  "savedAt": "2026-11-27T06:31:02.353Z",
-  "nextSeq": 6791,
-  "stops": 367,
+  "savedAt": "2026-11-27T09:36:26.785Z",
+  "nextSeq": 6799,
+  "stops": 368,
   "items": [
     {
-      "id": "89c44e76",
-      "title": "imagining-recipients-delight 보강: 학술, SNS 파편",
+      "id": "0156ff4b",
+      "title": "vicarious-indebtedness 보강: SNS 파편, 다른 시기",
       "priority": 50,
-      "note": "2026-11-27 작성. Yang & Urminsky 2018 Psychological Science 원 논문(smile-seeking) 학술 파편 후보. pleasure-of-anticipation, gift-choosing-anxiety 와 관계 검토",
-      "createdAt": "2026-11-27T06:11:51.788Z",
-      "seq": 6786
-    },
-    {
-      "id": "21123795",
-      "title": "scratching-head-when-sheepish 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-27 문학 1935, 매체 1982·2016 있음. 학술 자기 접촉(self-touch, self-adaptor) 연구 가운데 머리 긁기와 당혹을 잇는 것 필요. PMC9125538 은 얼굴 만지기",
-      "createdAt": "2026-11-27T06:21:43.445Z",
-      "seq": 6788
-    },
-    {
-      "id": "cb5ab9f6",
-      "title": "spending-big-after-being-snubbed 보강: 학술 파편, faking-wealth·saving-face 관계",
-      "priority": 50,
-      "note": "2026-11-27 작성. Ward & Dahl 2014 JCR 'Should the Devil Sell Prada?' 원 논문 학술 파편 후보. 레디메이드 인생 '공연한 객기를 부리느라고 당치도 아니한 해태를 샀기 때문에' 는 같은 출처라 못 씀",
-      "createdAt": "2026-11-27T06:28:12.618Z",
-      "seq": 6789
-    },
-    {
-      "id": "d9ca86a6",
-      "title": "calming-family-while-hiding-own-worry 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-27 작성. Le & Impett 2016 PSPB 'The Costs of Suppressing Negative Emotions and Amplifying Positive Emotions During Parental Caregiving' pubmed 26865288 은 쿠키 확인 페이지, psypost·eurekalert·medicalxpress 는 봇 차단. labsites.rochester.edu PDF 는 텍스트 추출 불가",
-      "createdAt": "2026-11-27T06:29:33.581Z",
-      "seq": 6790
+      "note": "2026-11-27 작성. 매체 2016, 학술 2024 뿐. 브런치 @krbella/36 2025-11-22 '내 아들 잘 챙겨줘서 고맙다' 는 대리 고마움만 있음. 블라인드·네이트판·reddit 맞는 글 못 찾음",
+      "createdAt": "2026-11-27T09:28:56.058Z",
+      "seq": 6797
     },
     {
       "id": "f1b2eab8",
@@ -67,22 +43,6 @@
       "note": "2026-11-13 보강 때 근거 문장 못 찾음. 후보: PMC12627122 (2025-11-18) 'trade-off exists between food waste and weight gain due to PCB' 는 같은 사람 안에서 반대로 민다는 말이 아니라 맞바꿈. HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
       "createdAt": "2026-11-21T00:21:02.005Z",
       "seq": 5974
-    },
-    {
-      "id": "ab4c1342",
-      "title": "curiosity 보강: 매체 파편, 정보 포만 조건",
-      "priority": 30,
-      "note": "2026-11-21 HN 47649009 SNS 파편 추가. 정보 포만 문장 PMC4635443 은 [^2] 와 같은 출처라 둘째 파편 불가. lady.khan.co.kr 202011011145001 은 같은 필자 규칙으로 불가",
-      "createdAt": "2026-11-21T06:26:47.787Z",
-      "seq": 6001
-    },
-    {
-      "id": "ca03de94",
-      "title": "guilt-over-not-providing-for-children 보강: SNS 파편",
-      "priority": 30,
-      "note": "2026-11-21 mumsnet 4861322, welltrainedmind 174695, beyondblue my-kids-deserve-better 모두 Cloudflare 403. 이전: HN Algolia 9개 검색어 결과 없음. 클리앙 park/18763400, 19098247 맞지 않음. old.reddit 차단, 82cook 연결 끊김, 뽐뿌·더쿠 403",
-      "createdAt": "2026-11-21T06:26:50.245Z",
-      "seq": 6002
     },
     {
       "id": "0092ce79",
@@ -147,14 +107,6 @@
       "note": "2026-11-21 회차 321: police.gi 905 (발행일 미상) 더함. 서울신문 2000-01-17 20000117026005 는 장난·욕설 전화 중심이라 쓰지 않음(읍소형 대목만 근접). 두 문서 사이 상위 간선 근거가 될 '긴급번호 오용' 일반 문서 필요",
       "createdAt": "2026-11-21T15:07:28.072Z",
       "seq": 6059
-    },
-    {
-      "id": "5f5afdb0",
-      "title": "wanting-to-emigrate 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-21 회차 321: 클리앙 kin/11045223 2017 SNS 더함. 공공 후보: 한국청소년정책연구원 고3 58% 해외 거주 희망(원 보고서 미확인), index.go.kr idxCd=1684 는 실제 해외이주자 수",
-      "createdAt": "2026-11-21T15:13:08.828Z",
-      "seq": 6060
     },
     {
       "id": "9ddd7f33",
@@ -931,6 +883,22 @@
       "note": "2026-11-27 Nyrop 1902 학술 파편 추가. '그리워서 입 맞춘다' 인과 원문은 못 찾음. 후보: gutenberg 1366 Reade Cloister and the Hearth 53장 'She took her letter out of her bosom, and kissed it as if she had been alone;'(떠난 연인 편지). Quora 질문 글은 Cloudflare 로 막힘",
       "createdAt": "2026-11-27T03:43:12.406Z",
       "seq": 6774
+    },
+    {
+      "id": "613fe8a0",
+      "title": "spending-big-after-being-snubbed 와 faking-wealth·saving-face 관계",
+      "priority": 30,
+      "note": "2026-11-27 학술 Lee & Shrum 2012, Ward & Dahl 2014 넣음. 원인 간선 근거 파편 아직 없음",
+      "createdAt": "2026-11-27T09:21:37.074Z",
+      "seq": 6796
+    },
+    {
+      "id": "fdd54eba",
+      "title": "curiosity 보강: 답을 들으면 사라지는 조건",
+      "priority": 30,
+      "note": "2026-11-27 NOVA 2013, Dubey 2017 넣음. pbs NOVA 같은 글의 'being told an answer quells curiosity' 는 같은 출처라 못 씀. stafforini.com Loewenstein 1994 초록 'tendency to disappoint when satisfied' 는 개인 사이트",
+      "createdAt": "2026-11-27T09:36:15.727Z",
+      "seq": 6798
     },
     {
       "id": "9634edf0",
@@ -1971,14 +1939,6 @@
       "note": "brunch.co.kr/@philanthr/14 (2026-04-08) '이미 여러 번 꺼낸 기억인데도 또 꺼냅니다.' 저자는 망각이 아니라 삶을 다시 이해하려는 데서 원인을 찾음. retelling-same-story 원인 후보, destination-memory-failure 와 대비. 이어지는 문장은 추출이 깨져 미확인",
       "createdAt": "2026-10-19T08:51:09.088Z",
       "seq": 491
-    },
-    {
-      "id": "bf43e3a5",
-      "title": "연인 사이 사회적 빚의 공유",
-      "priority": 10,
-      "note": "2026-10-19: 학술 확인 research.tilburguniversity.edu/en/publications/emotional-consequences-of-social-debt-sharing-in-communal-relatio/ (Peng·Nelissen·Zeelenberg 2024 Emotion 24(1)) 초록 'Study 1 (N = 470) revealed that participants experienced vicarious gratitude and indebtedness to favors extended to their partners by others.' 및 비공동 관계엔 효과 없음 문장. 비학술(배우자가 받은 도움에 신세 진 느낌) 미발견: 네이트판·82cook 사이트 내 검색, 브런치, vicarious indebtedness 보도자료 시도 필요. indebtedness 하위 후보",
-      "createdAt": "2026-10-19T08:55:54.663Z",
-      "seq": 493
     },
     {
       "id": "f704fd22",
