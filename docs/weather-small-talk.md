@@ -12,7 +12,9 @@
 
 2012년 논문[^3]은 영국 중산층 문화에서 서로 모르는 사람들이 가벼운 대화를 시작할 때 꺼내는 날씨 이야기를 다루었다. 2019년 기사[^4]는 스몰토크 요령 가운데 가장 기본이 누구든 한마디씩 보탤 수 있는 날씨, 드라마, 영화, 휴가 같은 주제라고 썼다.
 
-2024년 에세이[^5]의 필자는 어색한 침묵 속에서 날씨를 꺼내는 사람은 더 흥미로운 할 말이 없는 사람이 된다고 썼다. 2024년 조사 발표[^6]에서 자신이 날씨 이야기를 너무 많이 한다고 답한 사람은 22%였고 영국 사람들이 대체로 너무 많이 한다는 데 동의한 사람은 45%였다. 2025년 영국 기상청 보도자료[^7]에서 응답자 43%가 대화를 시작할 때 날씨를 자주 쓴다고 답했고 28%는 하루에 한 번 이상 날씨 이야기를 했다.
+2024년 에세이[^5]의 필자는 어색한 침묵 속에서 날씨를 꺼내는 사람은 더 흥미로운 할 말이 없는 사람이 된다고 썼다. 2024년 조사 발표[^6]에서 자신이 날씨 이야기를 너무 많이 한다고 답한 사람은 22%였고 영국 사람들이 대체로 너무 많이 한다는 데 동의한 사람은 45%였다. 2025년 영국 기상청 보도자료[^8]에서 응답자 43%가 대화를 시작할 때 날씨를 자주 쓴다고 답했고 28%는 하루에 한 번 이상 날씨 이야기를 했다.
+
+2025년 엘리베이터 예절 기사[^7]는 엘리베이터 안에서 밖이 덥다는 말과 짧은 맞장구가 오가는 장면을 들고 침묵을 견디기 힘들어 어색한 잡담이 시작된다고 적었다.
 
 # 관계
 
@@ -34,7 +36,7 @@
 
 ## 대립
 
-없음.
+- [엘리베이터 안의 침묵](elevator-silence.md)[^7]
 
 #공공
 
@@ -44,4 +46,5 @@
 [^4]: [매체] "넘쳐나는 스몰토크 팁 중에서 가장 기본적인 사항은 누구든 한마디씩 보탤 수 있는 보편적인 주제에 대해 이야기하라는 것. 이를테면 날씨, 드라마, 영화, 휴가 같은 것들 말이다." — 얼루어 코리아, 「내향성 인간의 스몰토크 입문기」, 2019-09-18, https://www.allurekorea.com/?p=110184, 2026-10-22 접속
 [^5]: [매체] "Bring up the weather during an awkward silence and suddenly you’re that person. Clearly you don’t have anything more interesting to say." (어색한 침묵 속에서 날씨 이야기를 꺼내면 갑자기 그런 사람이 된다. 분명 더 흥미로운 할 말이 없는 사람 말이다.) — Violet Aitchison, "What we talk about when we talk about weather", The Isis, 2024-04-29, https://isismagazine.org.uk/2024/04/what-we-talk-about-when-we-talk-about-weather/, 2026-10-22 접속
 [^6]: [매체] "While just one in five (22%) say that they personally talk about the weather too much, 45% agree that people in Britain generally talk about the weather too much." (자신이 날씨 이야기를 너무 많이 한다고 말한 사람은 다섯에 하나(22%)뿐이었지만 45%는 영국 사람들이 대체로 날씨 이야기를 너무 많이 한다는 데 동의했다.) — Ipsos UK, "45% agree that Brits talk about the weather too much", 2024-09-02, https://www.ipsos.com/en-uk/45-percent-agree-brits-talk-about-weather-too-much, 2026-10-22 접속
-[^7]: [공공] "The weather plays a crucial role in breaking the ice: 43% often use it to start conversations, and over a quarter (28%) talk about it at least once a day." (날씨는 어색함을 깨는 데 결정적인 역할을 한다. 43%가 대화를 시작할 때 날씨를 자주 쓰고 4분의 1이 넘는 28%는 하루에 한 번 이상 날씨 이야기를 한다.) — Met Office, "People spend over two days a year talking about the weather amid potential record-breaking summer warmth", 2025-08-19, https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/people-spend-over-two-days-a-year-talking-about-the-weather-amid-potential-record-breaking-summer-warmth, 2026-10-22 접속
+[^7]: [매체] "It's really hot outside. Hmm, it is. Three more floors to go. Cue awkward small talk, as silence feels unbearable." (밖이 정말 덥네요. 음, 그러네요. 세 층 남았다. 침묵을 견디기 힘드니 어색한 잡담이 시작된다.) — "Button pushing to forced chatter: the dos and don'ts of mastering elevator etiquette", Gulf News, 2025-02-27, https://gulfnews.com/friday/wellbeing/button-pushing-to-forced-chatter-the-dos-and-donts-of-mastering-elevator-etiquette-1.500047759, 2026-11-27 접속
+[^8]: [공공] "The weather plays a crucial role in breaking the ice: 43% often use it to start conversations, and over a quarter (28%) talk about it at least once a day." (날씨는 어색함을 깨는 데 결정적인 역할을 한다. 43%가 대화를 시작할 때 날씨를 자주 쓰고 4분의 1이 넘는 28%는 하루에 한 번 이상 날씨 이야기를 한다.) — Met Office, "People spend over two days a year talking about the weather amid potential record-breaking summer warmth", 2025-08-19, https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/people-spend-over-two-days-a-year-talking-about-the-weather-amid-potential-record-breaking-summer-warmth, 2026-10-22 접속

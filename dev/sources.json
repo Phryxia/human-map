@@ -1120,15 +1120,15 @@
   },
   "https://www.npr.org/2012/12/24/167977420/why-we-behave-so-oddly-in-elevators": {
     "first": "2026-10-18",
-    "last": "2026-10-25",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-11-27"
   },
   "https://news.ycombinator.com/item?id=47216745": {
     "first": "2026-10-18",
-    "last": "2026-10-25",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-11-27"
   },
   "https://news.ycombinator.com/item?id=2406082": {
     "first": "2026-10-18",
@@ -6494,39 +6494,39 @@
   },
   "https://www.gutenberg.org/cache/epub/6098/pg6098-images.html": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
-    "result": "VERIFIED",
+    "last": "2026-11-27",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-22"
   },
   "https://www.gutenberg.org/cache/epub/7835/pg7835-images.html": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
-    "result": "VERIFIED",
+    "last": "2026-11-27",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-22"
   },
   "https://www.allurekorea.com/?p=110184": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-27"
   },
   "https://isismagazine.org.uk/2024/04/what-we-talk-about-when-we-talk-about-weather/": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-27"
   },
   "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/people-spend-over-two-days-a-year-talking-about-the-weather-amid-potential-record-breaking-summer-warmth": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-27"
   },
   "https://www.ipsos.com/en-uk/45-percent-agree-brits-talk-about-weather-too-much": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-27"
   },
   "https://community.thriveglobal.com/trying-to-digest-the-grief-soaked-digital-breadcrumbs/": {
     "first": "2026-10-22",
@@ -6692,9 +6692,9 @@
   },
   "https://l.jvolsu.com/index.php/en/archive-en/158-2012-2-16/intercultural-communication-and-comparative-studies-of-languages/462-interaction-of-information-layers-in-weather-dichtemas": {
     "first": "2026-10-22",
-    "last": "2026-10-22",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-27"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC6324389/": {
     "first": "2026-10-22",
@@ -10172,15 +10172,15 @@
   },
   "https://api.crossref.org/works/10.1177/0146167283094007": {
     "first": "2026-10-25",
-    "last": "2026-10-25",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-11-27"
   },
   "https://www.imaeil.com/page/view/2000072414084938146": {
     "first": "2026-10-25",
-    "last": "2026-10-25",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-25"
+    "lastVerified": "2026-11-27"
   },
   "https://api.crossref.org/works/10.2466/pms.1970.30.1.187": {
     "first": "2026-10-25",
@@ -37327,6 +37327,12 @@
     "lastVerified": "2026-11-27"
   },
   "https://www.psychologytoday.com/us/blog/comfort-cravings/201407/4-ways-to-quit-the-clean-plate-club": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://gulfnews.com/friday/wellbeing/button-pushing-to-forced-chatter-the-dos-and-donts-of-mastering-elevator-etiquette-1.500047759": {
     "first": "2026-11-27",
     "last": "2026-11-27",
     "result": "VERIFIED",
