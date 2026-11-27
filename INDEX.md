@@ -957,6 +957,7 @@
 - [집에 현금 쌓아 두기](docs/keeping-cash-at-home.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [집에서 새 구경하기](docs/watching-birds-from-home.md) ([시간과 하루 습관](groups/daily-time.md))
 - [집이 부끄러워 손님 들이지 않기](docs/avoiding-inviting-people-home.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [집이 어수선하다고 손님에게 사과하기](docs/apologizing-for-messy-home.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [징크스 지키기](docs/superstitious-rituals.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [짝사랑](docs/unrequited-love.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [차 문 잠그지 않고 자리 비우기](docs/leaving-car-unlocked.md) ([길과 운전](groups/roads-and-driving.md))

@@ -42,6 +42,7 @@
 - [인사 없이 모임 자리 뜨기](../docs/irish-goodbye.md) 모임에 있던 사람이 아무에게도 작별 인사를 하지 않고 조용히 자리를 떠난다.
 - [점잔 빼는 헛기침](../docs/clearing-throat-to-show-dignity.md) 윗사람으로 대접받으려는 사람이 위엄이나 점잔을 보이려고 일부러 큰기침을 한다.
 - [지어낸 핑계로 약속 빠지기](../docs/making-excuses-to-skip-plans.md) 가고 싶지 않은 초대나 약속을 거절하려는 사람이 진짜 이유 대신 다른 일이나 병 같은 핑계를 지어내 댄다.
+- [집이 어수선하다고 손님에게 사과하기](../docs/apologizing-for-messy-home.md) 손님을 자기 공간에 들이는 사람이 그곳이 어수선하다고 먼저 사과한다.
 - [첫 월급으로 부모 선물하기](../docs/first-paycheck-gift-to-parents.md) 처음 일자리를 얻은 사람이 첫 월급으로 부모에게 선물을 사 드리거나 용돈을 드린다.
 - [청첩장 받는 부담](../docs/wedding-invitation-burden.md) 청첩장을 받은 사람이 축하하는 마음보다 참석할 시간, 낼 돈, 보낸 사람과 가깝고 먼 정도를 먼저 따지며 부담을 느낀다.
 - [축의금 액수 저울질](../docs/weighing-gift-money.md) 경조사에 낼 돈을 정하는 사람이 상대와 맺은 친분, 예전에 받은 액수, 적게 냈을 때의 시선을 따져 액수를 고른다.
