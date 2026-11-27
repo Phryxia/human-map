@@ -37067,5 +37067,17 @@
     "last": "2026-11-27",
     "result": "VERIFIED",
     "lastVerified": "2026-11-27"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29920154&resultType=core&format=json": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www.teamblind.com/kr/post/나한테-따끔하게-말좀-해줘봐-uDNATm85": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
   }
 }
