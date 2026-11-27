@@ -324,6 +324,7 @@
 - [먹기 시작하면 도는 입맛](docs/appetite-comes-with-eating.md) ([시간과 하루 습관](groups/daily-time.md))
 - [먹기 전에 음식 사진 찍기](docs/photographing-food-before-eating.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [멀티탭에 기기 몰아 꽂기](docs/overloading-power-strips.md) ([건강과 위험](groups/health-and-safety.md))
+- [멋쩍을 때 뒤통수 긁기](docs/scratching-head-when-sheepish.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [멍때리기](docs/zoning-out.md) ([시간과 하루 습관](groups/daily-time.md))
 - [메시징 의존](docs/messaging-dependency.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [메신저 알림 꺼 두기](docs/muting-chat-notifications.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
