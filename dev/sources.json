@@ -37139,5 +37139,29 @@
     "last": "2026-11-27",
     "result": "VERIFIED",
     "lastVerified": "2026-11-27"
+  },
+  "https://www.ers.usda.gov/amber-waves/2008/june/data-feature": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www.ers.usda.gov/data-products/charts-of-note/78970": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www.ers.usda.gov/data-products/charts-of-note/89785": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10131140/": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
   }
 }

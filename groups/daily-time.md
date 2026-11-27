@@ -12,6 +12,8 @@
 - [냉장고 문 열어 두고 먹을 것 고르기](../docs/browsing-the-open-fridge.md) 집에서 먹을 것을 찾는 사람이 냉장고 문을 열어 둔 채 안을 들여다보며 무엇을 먹을지 고르고 때로는 아무것도 꺼내지 않고 문을 닫는다.
 - [늦는 사람을 기다리며 서성이기](../docs/waiting-for-someone-late.md) 올 시간이 지나도 오지 않는 사람을 기다리는 사람이 불안해하며 서성이거나 거듭 연락한다.
 - [늦잠에 대한 불안](../docs/oversleeping-anxiety.md) 아침에 제때 일어나야 하는 사람이 늦잠을 잘까 봐 불안해한다.
+- [다른 일을 하며 먹기](../docs/secondary-eating.md) 사람이 TV 를 보거나 일하거나 운전하는 동안 그 일을 하며 음식을 먹는다.
+  - [밥 먹으며 책 읽기](../docs/reading-while-eating.md)
 - [다이어트 중 폭식](../docs/diet-breaking-binge.md) 먹는 것을 참던 사람이 한 번 다이어트가 깨지면 그동안 참던 음식을 한꺼번에 많이 먹는다.
 - [돋보기로 햇빛 모아 종이 그을리며 놀기](../docs/burning-paper-with-a-magnifying-glass.md) 돋보기로 햇빛을 모아 종이를 그을리는 사람이 연기가 나고 불이 붙기까지 기다리는 동안 조바심과 재미를 함께 느낀다.
 - [돌멩이 주워 오기](../docs/pocketing-pebbles.md) 바닷가나 물가를 걷는 사람이 눈에 띄는 돌멩이를 골라 주머니에 넣어 집에 가져온다.
@@ -22,7 +24,6 @@
 - [몽유](../docs/sleepwalking.md) 잠든 사람이 깨지 않은 채 일어나 돌아다니거나 일상 동작을 하고 깨어나서는 기억하지 못한다.
 - [무심코 낙서하기](../docs/doodling.md) 강의, 회의, 통화 중인 사람이 적을 것이 없는데도 손에 든 펜으로 종이에 무언가를 그리거나 끄적인다.
 - [받은 음식 남기기](../docs/leaving-food-on-the-plate.md) 급식이나 식당에서 음식을 받은 사람이 그 음식을 다 먹지 않고 남긴다.
-- [밥 먹으며 책 읽기](../docs/reading-while-eating.md) 밥을 먹는 사람이 식탁에 책이나 신문, 잡지를 펴 두고 먹으면서 읽는다.
 - [배달 음식 시켜 먹기](../docs/ordering-food-delivery.md) 집에 있는 사람이 요리하기 귀찮거나 지쳐서 음식을 배달시켜 먹는다.
 - [배불러도 계속 먹기](../docs/eating-past-fullness.md) 앞에 먹을 것이 있는 사람이 배가 찼는지와 상관없이 먹기를 멈추지 않는다.
   - [접시 비우기 압박](../docs/clean-plate-pressure.md)
