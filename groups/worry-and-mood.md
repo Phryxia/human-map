@@ -36,6 +36,9 @@
       - [재난 훈련 빠지기](../docs/skipping-emergency-drills.md)
       - [재해보험 들지 않기](../docs/not-buying-disaster-insurance.md)
   - [시름을 술로 달래기](../docs/drinking-to-cope.md)
+- [기술 공포](../docs/technophobia.md) 사람이 컴퓨터, 휴대전화, 인공지능 같은 기술을 두려워한다.
+  - [인공지능을 두고 느끼는 불안](../docs/ai-anxiety.md)
+  - [컴퓨터 불안](../docs/computer-anxiety.md)
 - [꼼지락거리기](../docs/fidgeting.md) 초조하거나 주의가 흐트러진 사람이 무심코 다리를 떨거나 손가락으로 무언가를 두드리며 몸을 가만히 두지 못한다.
   - [머리카락 배배 꼬기](../docs/hair-twirling.md)
   - [무심코 얼굴 만지기](../docs/touching-own-face.md)
@@ -93,7 +96,6 @@
 - [울고 난 뒤 후련함](../docs/relief-after-crying.md) 한바탕 운 사람이 울고 난 뒤 마음이 가벼워졌다고 느낀다.
 - [위기 때 신에게 약속을 걸고 빌기](../docs/bargaining-prayer-in-crisis.md) 목숨이 걸린 위기에 놓인 사람이 신에게 살려 주면 무엇을 하겠다고 약속하며 빈다.
 - [음악 듣다 돋는 소름](../docs/music-chills.md) 음악을 듣던 사람이 곡의 어느 대목에서 등줄기나 목덜미에 소름이 돋는 전율을 느낀다.
-- [인공지능을 두고 느끼는 불안](../docs/ai-anxiety.md) 사람이 인공지능과 그 빠른 발전을 떠올리며 무섭고 걱정스럽다고 느낀다.
 - [자기 불구화](../docs/self-handicapping.md) 실패할 수 있는 과제를 앞둔 사람이 준비를 덜 하거나 불리한 조건을 내세워 실패를 그 탓으로 돌릴 자리를 미리 만든다.
 - [자기 연민](../docs/self-pity.md) 괴로운 일을 겪은 사람이 자기 처지를 불쌍히 여기며 자기만 힘들다고 느낀다.
 - [잠든 아기의 숨 확인하기](../docs/checking-sleeping-babys-breathing.md) 어린 아기를 돌보는 부모가 잠든 아기가 숨을 쉬는지 되풀이해 들여다보고 만져 본다.
@@ -119,7 +121,6 @@
   - [행운의 물건 지니기](../docs/carrying-lucky-charms.md)
 - [천둥 번개 무서움](../docs/fear-of-thunderstorms.md) 천둥이 치고 번개가 번쩍이면 사람이 겁에 질려 몸을 떨거나 울거나 잠을 이루지 못한다.
 - [초인종 소리에 겁먹기](../docs/startled-by-doorbell.md) 예고 없이 초인종이나 노크 소리가 울리면 집에 있던 사람이 깜짝 놀라거나 겁을 먹는다.
-- [컴퓨터 불안](../docs/computer-anxiety.md) 사람이 컴퓨터와 디지털 기기를 써야 할 때 망가뜨리거나 바보처럼 보이거나 통제를 잃을까 두려워한다.
 - [하품 전염](../docs/contagious-yawning.md) 남이 하품하는 것을 보거나 하품 이야기를 읽은 사람이 따라 하품한다.
 - [한숨 쉬기](../docs/sighing.md) 사람이 답답하거나 안도할 때 숨을 길게 내쉰다.
 - [혹시 몰라 챙겨 두기](../docs/just-in-case-keeping.md) 사람이 언젠가 필요할지 모른다는 생각에 당장 쓰지 않을 물건이나 돈을 챙기거나 쌓아 둔다.
