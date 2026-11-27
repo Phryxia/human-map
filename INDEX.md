@@ -1015,6 +1015,7 @@
 - [카시트 없이 아이 태우기](docs/child-car-seat-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [카페에 오래 앉은 손님의 눈치](docs/lingering-in-cafe-guilt.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [커플 사이의 성욕 차이](docs/sexual-desire-discrepancy.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
+- [컴퓨터 불안](docs/computer-anxiety.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [큰돈이 생기는 공상](docs/daydreaming-about-windfall.md) ([돈과 소비](groups/money.md))
 - [키오스크 주문 포기](docs/kiosk-order-abandonment.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [타이어 공기압 점검하지 않기](docs/not-checking-tire-pressure.md) ([길과 운전](groups/roads-and-driving.md))
