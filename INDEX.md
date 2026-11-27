@@ -890,6 +890,7 @@
 - [정치 무력감](docs/political-inefficacy.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [정치적 의견 차이로 언팔로우하기](docs/unfollowing-over-politics.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [정해진 길 벗어나 걷기](docs/walking-off-designated-paths.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [조금씩 자꾸 집어 먹기](docs/grazing.md) ([시간과 하루 습관](groups/daily-time.md))
 - [조리 중 자리 비우기](docs/leaving-cooking-unattended.md) ([건강과 위험](groups/health-and-safety.md))
 - [조명 효과](docs/spotlight-effect.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [조부모의 손주 돌봄](docs/grandparent-childcare.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
