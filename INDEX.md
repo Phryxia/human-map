@@ -973,6 +973,7 @@
 - [책 사 두고 읽지 않기](docs/buying-books-without-reading.md) ([돈과 소비](groups/money.md))
 - [책 여백에 메모하기](docs/writing-in-book-margins.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [책 읽지 않기](docs/not-reading-books.md) ([시간과 하루 습관](groups/daily-time.md))
+- [책을 아무 데나 펼쳐 답 구하기](docs/bibliomancy.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [책장 모서리 접기](docs/dog-earing-pages.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [처방약 나눠 먹기](docs/sharing-prescription-medicine.md) ([건강과 위험](groups/health-and-safety.md))
 - [처벌이 두려워 신고하지 않기](docs/not-reporting-for-fear-of-punishment.md) ([시민 참여와 공공의 일](groups/civic-life.md))
