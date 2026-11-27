@@ -599,6 +599,7 @@
 - [식물에게 말 걸기](docs/talking-to-plants.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [식사비 낼 사람 정하기](docs/deciding-who-pays-for-meals.md) ([돈과 소비](groups/money.md))
 - [신고해도 소용없다는 믿음](docs/believing-reporting-is-futile.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [신발 아끼려고 들고 맨발로 걷기](docs/carrying-shoes-to-save-them.md) ([돈과 소비](groups/money.md))
 - [신세타령](docs/lamenting-ones-lot.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [신을 원망한 뒤 종교 행위 끊기](docs/quitting-religious-practice-after-blaming-god.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [신조어 몰라 뒤처졌다고 느끼기](docs/feeling-behind-on-slang.md) ([남의 시선과 창피함](groups/others-gaze.md))

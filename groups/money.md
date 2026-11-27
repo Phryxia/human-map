@@ -74,6 +74,7 @@
 - [식사비 낼 사람 정하기](../docs/deciding-who-pays-for-meals.md) 다른 사람과 함께 밥을 먹은 사람이 상대의 나이, 성별, 친한 정도와 자리의 성격에 따라 누가 식사비를 낼지 정한다.
   - [계산 피하기](../docs/dodging-the-bill.md)
   - [서로 계산하겠다고 다투기](../docs/fighting-over-the-bill.md)
+- [신발 아끼려고 들고 맨발로 걷기](../docs/carrying-shoes-to-save-them.md) 신발이 닳을까 아끼는 사람이 신발을 손에 들고 맨발로 걷다가 길이 험하거나 목적지가 가까워지면 신는다.
 - [심적 회계](../docs/mental-accounting.md) 사람이 돈을 들어온 곳이나 쓸 곳에 따라 머릿속에서 나누어 같은 액수의 돈도 다르게 쓴다.
   - [마음속 예산 나누기](../docs/mental-budgeting.md)
 - [쓰지 않는 가전 플러그 꽂아 두기](../docs/leaving-appliances-plugged-in.md) 집에 있는 사람이 쓰지 않는 가전제품의 플러그를 콘센트에서 뽑지 않고 꽂아 둔다.
