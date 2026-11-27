@@ -1,6 +1,6 @@
 # 시름을 술로 달래기
 
-별칭: Drinking to cope[^3]
+별칭: Drinking to cope[^4]
 
 좌절이나 우울, 불안을 느끼는 사람이 그 기분을 누그러뜨리려고 술을 마신다.
 
@@ -12,11 +12,13 @@ NHS Borders 의 안내문 자료[^1]는 불안할 때 술이 주는 이완감이
 
 1921년 현진건의 「술 권하는 사회」에서 남편은 아내에게 이 사회에서는 술밖에 먹을 것이 없다고 말한다. 남편은 전에 무엇을 해 보려고 애를 썼으나 모두 수포가 되었다고 덧붙인다.[^2]
 
-2021년 Wycoff 등은 술을 마셔 부정적인 감정 상태에 대처하거나 그 상태를 덜어 낸다고 보고하는 사람이 많다고 적는다.[^3]
+2009년 대학생 경로 모형 연구[^3]에서 대처 동기는 폭음으로 이어졌고 폭음은 다시 음주 관련 문제로 이어졌다.
 
-2023년 시[^4]의 화자는 비가 오면 우울해져 빈대떡에 술 한잔이 간절해지고 한잔 술에 시름을 던다.
+2021년 Wycoff 등은 술을 마셔 부정적인 감정 상태에 대처하거나 그 상태를 덜어 낸다고 보고하는 사람이 많다고 적는다.[^4]
 
-2024년 한 금주 포럼 댓글의 글쓴이는 스트레스나 불안을 느낄 때 술로 무디게 해 왔는데 그 술이 다시 불안을 더 만든다고 쓴다.[^5]
+2023년 시[^5]의 화자는 비가 오면 우울해져 빈대떡에 술 한잔이 간절해지고 한잔 술에 시름을 던다.
+
+2024년 한 금주 포럼 댓글의 글쓴이는 스트레스나 불안을 느낄 때 술로 무디게 해 왔는데 그 술이 다시 불안을 더 만든다고 쓴다.[^6]
 
 # 관계
 
@@ -30,11 +32,12 @@ NHS Borders 의 안내문 자료[^1]는 불안할 때 술이 주는 이완감이
 
 ## 원인
 
-- [비 오는 날의 울적함](rainy-day-gloom.md)[^4]
+- [비 오는 날의 울적함](rainy-day-gloom.md)[^5]
 
 ## 결과
 
 - [혼자 술 마시기](drinking-alone.md)
+- [과음](heavy-drinking.md)[^3]
 
 ## 대립
 
@@ -42,8 +45,9 @@ NHS Borders 의 안내문 자료[^1]는 불안할 때 술이 주는 이완감이
 
 #마음
 
-[^1]: [공공] "If you experience anxiety, alcohol can you give you a short lived feeling of relaxation, but this quickly disappears and may make things worse or create other problems." (불안을 겪으면 술이 짧은 이완감을 줄 수 있지만 그 느낌은 곧 사라지고 상황을 더 나쁘게 하거나 다른 문제를 만들 수 있다.) — NHS Borders, "Limit Alcohol", Creating Hope: Ways to be well, 발행일 미상, https://www.nhsborders.scot.nhs.uk/creating-hope/ways-to-be-well/limit-alcohol/, 2026-10-18 접속
+[^1]: [공공] "If you experience anxiety, alcohol can you give you a short lived feeling of relaxation, but this quickly disappears and may make things worse or create other problems." (불안을 겪으면 술이 짧은 이완감을 줄 수 있지만 그 느낌은 곧 사라지고 상황을 더 나쁘게 하거나 다른 문제를 만들 수 있다.) — NHS Borders, "Limit Alcohol", Creating Hope: Ways to be well, 발행일 미상, https://www.nhsborders.scot.nhs.uk/creating-hope/ways-to-be-well/limit-alcohol/, 2026-10-18 접속 (소멸, 2026-11-11 까지 확인)
 [^2]: [문학] "그렇지 않으면 술밖에 먹을 게 도무지 없지. 나도 전자에는 무엇을 좀 해보겠다고 애도 써보았어. 그것이 모다 수포야." — 현진건, 「술 권하는 사회」, 1921, https://ko.wikisource.org/wiki/술_권하는_사회, 2026-10-17 접속
-[^3]: [학술] "Many individuals report drinking alcohol to cope or relieve negative affective states" (많은 사람이 부정적인 감정 상태에 대처하거나 그것을 덜려고 술을 마신다고 보고한다) — Andrea M Wycoff, Ryan W Carpenter, Johanna Hepp, Thomas M Piasecki, Timothy J Trull, "Real-time reports of drinking to cope: Associations with subjective relief from alcohol and changes in negative affect", Journal of Abnormal Psychology, 2021-08, https://pmc.ncbi.nlm.nih.gov/articles/PMC8480418/, 2026-10-17 접속
-[^4]: [문학] "헤어진 옛사랑이 그리워 비가 오면 우울해지고 빈대떡에 대포 한잔 간절해 청승 떨며 한잔 술에 시름을 던다" — 도담 박용운, 「난 안 그런 줄 알았는데」, 브런치, 2023-02-09, https://brunch.co.kr/@vulvit11/188, 2026-11-11 접속
-[^5]: [SNS] "Makes it hard when my go to for being stressed or anxious was to drink and numb it away but it then creates more anxiety and re learning some different coping tools." (스트레스받거나 불안할 때 내가 늘 하던 것이 술을 마셔 무디게 하는 것이었는데 그게 불안을 더 만들고 다른 대처 방법을 다시 배워야 하니 힘들다.) — Talking Sober 댓글, 2024-01-04, https://talkingsober.com/t/anxiety-after-drinking/176843, 2026-10-17 접속
+[^3]: [학술] "Path models showed that self-image goals relate to coping motives, but not enhancement motives; coping motives then relate to heavy-episodic drinking, which in turn relate to alcohol-related problems." (경로 모형에서 자기 이미지 목표는 고양 동기가 아니라 대처 동기와 관련됐고, 대처 동기는 다시 폭음으로, 폭음은 다시 음주 관련 문제로 이어졌다.) — Moeller, S. J. & Crocker, J., "Drinking and Desired Self-Images: Path Models of Self-Image Goals, Coping Motives, Heavy-Episodic Drinking, and Alcohol Problems", Psychology of Addictive Behaviors, 2009-06, https://pmc.ncbi.nlm.nih.gov/articles/PMC2761221/, 2026-11-27 접속
+[^4]: [학술] "Many individuals report drinking alcohol to cope or relieve negative affective states" (많은 사람이 부정적인 감정 상태에 대처하거나 그것을 덜려고 술을 마신다고 보고한다) — Andrea M Wycoff, Ryan W Carpenter, Johanna Hepp, Thomas M Piasecki, Timothy J Trull, "Real-time reports of drinking to cope: Associations with subjective relief from alcohol and changes in negative affect", Journal of Abnormal Psychology, 2021-08, https://pmc.ncbi.nlm.nih.gov/articles/PMC8480418/, 2026-10-17 접속
+[^5]: [문학] "헤어진 옛사랑이 그리워 비가 오면 우울해지고 빈대떡에 대포 한잔 간절해 청승 떨며 한잔 술에 시름을 던다" — 도담 박용운, 「난 안 그런 줄 알았는데」, 브런치, 2023-02-09, https://brunch.co.kr/@vulvit11/188, 2026-11-11 접속
+[^6]: [SNS] "Makes it hard when my go to for being stressed or anxious was to drink and numb it away but it then creates more anxiety and re learning some different coping tools." (스트레스받거나 불안할 때 내가 늘 하던 것이 술을 마셔 무디게 하는 것이었는데 그게 불안을 더 만들고 다른 대처 방법을 다시 배워야 하니 힘들다.) — Talking Sober 댓글, 2024-01-04, https://talkingsober.com/t/anxiety-after-drinking/176843, 2026-10-17 접속
