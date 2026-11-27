@@ -2428,9 +2428,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%B0%B0%EB%94%B0%EB%9D%BC%EA%B8%B0": {
     "first": "2026-10-18",
-    "last": "2026-11-25",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-25"
+    "lastVerified": "2026-11-27"
   },
   "https://wrap.warwick.ac.uk/65972": {
     "first": "2026-10-18",
@@ -36961,6 +36961,12 @@
     "lastVerified": "2026-11-27"
   },
   "https://en.wikisource.org/wiki/The_Kiss_and_its_History/Chapter_2": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www.psychologicalscience.org/news/releases/people-pick-gifts-that-will-wow-rather-than-satisfy-recipients.html": {
     "first": "2026-11-27",
     "last": "2026-11-27",
     "result": "VERIFIED",
