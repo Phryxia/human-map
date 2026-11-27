@@ -896,6 +896,7 @@
 - [좋아하는 사람의 이름 되풀이해 쓰기](docs/writing-a-crushs-name.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋아하는 상대 괴롭히기](docs/teasing-someone-liked.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [좋아하는 책 다시 읽기](docs/rereading-favorite-books.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
+- [좋은 말 뒤에 올 나쁜 말 미리 알아채기](docs/sensing-the-but-after-praise.md) ([일터와 일자리](groups/work.md))
 - [좋은 물건 아껴 두기](docs/saving-things-for-best.md) ([돈과 소비](groups/money.md))
 - [주말 몰아 자기](docs/weekend-catch-up-sleep.md) ([시간과 하루 습관](groups/daily-time.md))
 - [주머니 두드려 소지품 확인하기](docs/pocket-patting.md) ([걱정과 기분](groups/worry-and-mood.md))

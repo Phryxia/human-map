@@ -48,6 +48,7 @@
 - [재택근무 중 더 오래 일하기](../docs/working-longer-at-home.md) 재택근무하는 사람이 집에서 일하면서 사업장에서 일할 때보다 더 오래 일한다.
 - [점심 휴식 거르고 일하기](../docs/skipping-lunch-break.md) 일하는 사람이 점심시간이나 휴게시간을 다 쓰지 않고 책상에서 먹거나 곧바로 일로 돌아간다.
 - [조용한 사직](../docs/quiet-quitting.md) 일하는 사람이 회사를 그만두지 않은 채 맡은 최소한의 일만 하고 그 이상은 애쓰지 않는다.
+- [좋은 말 뒤에 올 나쁜 말 미리 알아채기](../docs/sensing-the-but-after-praise.md) 좋은 말을 듣는 사람이 그 끝에 붙는 말이나 칭찬의 순서에서 뒤에 올 나쁜 말을 미리 알아채고 그 말을 기다린다.
 - [직장 내 괴롭힘 참고 넘기기](../docs/enduring-workplace-harassment.md) 직장에서 괴롭힘을 당한 사람이 회사나 기관에 알리지 않고 참거나 모르는 척한다.
 - [직장 점심 따로 먹기](../docs/eating-lunch-apart-from-coworkers.md) 직장에 다니는 사람이 점심시간을 쉬는 시간으로 여겨 동료와 함께 먹지 않고 혼자 먹거나 다른 일을 한다.
 - [통근 피로](../docs/commute-fatigue.md) 긴 시간 출퇴근하는 직장인이 통근 때문에 지치고 스트레스를 느낀다.
