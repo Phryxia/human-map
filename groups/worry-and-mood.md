@@ -65,6 +65,7 @@
 - [불길한 예감](../docs/sense-of-foreboding.md) 사람이 아직 알지 못하는 나쁜 일이 곧 닥치거나 이미 닥쳤다고 느끼며 불안해한다.
   - [늦은 밤 전화와 전보를 나쁜 소식으로 여기기](../docs/dreading-late-night-calls-and-telegrams.md)
   - [행복할 때 뒤따를 불행 두려워하기](../docs/fear-of-happiness.md)
+- [불안한 가족을 달래며 제 걱정 감추기](../docs/calming-family-while-hiding-own-worry.md) 병원처럼 겁나는 자리에서 가족이 불안해할 때 사람이 웃거나 달래는 말을 하며 자기도 같은 걱정을 속에 품는다.
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
     - [입력 중 표시를 보며 애태우기](../docs/typing-indicator-anxiety.md)
