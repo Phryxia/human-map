@@ -36876,5 +36876,34 @@
     "last": "2026-11-26",
     "result": "VERIFIED",
     "lastVerified": "2026-11-26"
+  },
+  "https://gutenberg.pglaf.org/1/4/0/6/14060/14060-0.txt": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://gutenberg.pglaf.org/3/7/9/3796/3796-0.txt": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "UNREACHABLE"
+  },
+  "https://www.swistle.com/2013/05/14/phone-calls-in-the-middle-of-the-night/": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://stylist.co.uk/long-reads/unscheduled-phone-calls-friends-family-whatsapp/425628": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://gutenberg.pglaf.org/3/7/9/3796/3796.txt": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
   }
 }

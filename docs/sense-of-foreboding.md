@@ -24,6 +24,7 @@
 
 ## 하위
 
+- [늦은 밤 전화와 전보를 나쁜 소식으로 여기기](dreading-late-night-calls-and-telegrams.md)
 - [행복할 때 뒤따를 불행 두려워하기](fear-of-happiness.md)
 
 ## 원인

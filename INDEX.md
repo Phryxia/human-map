@@ -235,6 +235,7 @@
 - [늘 앉던 자리에 앉기](docs/sitting-in-the-usual-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [늙어 보이는 보조기구 꺼림](docs/avoiding-aids-that-look-old.md) ([건강과 위험](groups/health-and-safety.md))
 - [늦는 사람을 기다리며 서성이기](docs/waiting-for-someone-late.md) ([시간과 하루 습관](groups/daily-time.md))
+- [늦은 밤 전화와 전보를 나쁜 소식으로 여기기](docs/dreading-late-night-calls-and-telegrams.md) ([걱정과 기분](groups/worry-and-mood.md))
 - [늦잠에 대한 불안](docs/oversleeping-anxiety.md) ([시간과 하루 습관](groups/daily-time.md))
 - [니어미스 효과](docs/near-miss-effect.md) ([판단과 어림의 치우침](groups/judgment-biases.md))
 - [다녀간 자리에 이름 새기기](docs/carving-names-at-visited-places.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

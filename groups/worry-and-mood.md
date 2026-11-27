@@ -63,6 +63,7 @@
 - [밤길 혼자 걷기 두려움](../docs/fear-of-walking-alone-at-night.md) 어두워진 뒤 집 근처 길을 혼자 걷는 사람이 해를 입을까 두려워 뒤를 돌아보거나 걸음을 서두르거나 한적한 곳을 피한다.
 - [방 안 서성이기](../docs/pacing-the-room.md) 고민하거나 마음이 어지러운 사람이 방이나 좁은 자리 안을 이리저리 왔다 갔다 하며 걷는다.
 - [불길한 예감](../docs/sense-of-foreboding.md) 사람이 아직 알지 못하는 나쁜 일이 곧 닥치거나 이미 닥쳤다고 느끼며 불안해한다.
+  - [늦은 밤 전화와 전보를 나쁜 소식으로 여기기](../docs/dreading-late-night-calls-and-telegrams.md)
   - [행복할 때 뒤따를 불행 두려워하기](../docs/fear-of-happiness.md)
 - [불확실한 소식을 기다리는 불안](../docs/awaiting-uncertain-news.md) 결과를 모르는 소식을 기다리는 사람이 소식이 올 때까지 불안해한다.
   - [답장 기다리며 초조해하기](../docs/waiting-for-a-reply.md)
