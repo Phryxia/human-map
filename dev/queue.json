@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "savedAt": "2026-11-27T03:43:41.391Z",
-  "nextSeq": 6775,
-  "stops": 366,
+  "savedAt": "2026-11-27T06:31:02.353Z",
+  "nextSeq": 6791,
+  "stops": 367,
   "items": [
+    {
+      "id": "89c44e76",
+      "title": "imagining-recipients-delight 보강: 학술, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-27 작성. Yang & Urminsky 2018 Psychological Science 원 논문(smile-seeking) 학술 파편 후보. pleasure-of-anticipation, gift-choosing-anxiety 와 관계 검토",
+      "createdAt": "2026-11-27T06:11:51.788Z",
+      "seq": 6786
+    },
+    {
+      "id": "21123795",
+      "title": "scratching-head-when-sheepish 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-27 문학 1935, 매체 1982·2016 있음. 학술 자기 접촉(self-touch, self-adaptor) 연구 가운데 머리 긁기와 당혹을 잇는 것 필요. PMC9125538 은 얼굴 만지기",
+      "createdAt": "2026-11-27T06:21:43.445Z",
+      "seq": 6788
+    },
+    {
+      "id": "cb5ab9f6",
+      "title": "spending-big-after-being-snubbed 보강: 학술 파편, faking-wealth·saving-face 관계",
+      "priority": 50,
+      "note": "2026-11-27 작성. Ward & Dahl 2014 JCR 'Should the Devil Sell Prada?' 원 논문 학술 파편 후보. 레디메이드 인생 '공연한 객기를 부리느라고 당치도 아니한 해태를 샀기 때문에' 는 같은 출처라 못 씀",
+      "createdAt": "2026-11-27T06:28:12.618Z",
+      "seq": 6789
+    },
+    {
+      "id": "d9ca86a6",
+      "title": "calming-family-while-hiding-own-worry 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-27 작성. Le & Impett 2016 PSPB 'The Costs of Suppressing Negative Emotions and Amplifying Positive Emotions During Parental Caregiving' pubmed 26865288 은 쿠키 확인 페이지, psypost·eurekalert·medicalxpress 는 봇 차단. labsites.rochester.edu PDF 는 텍스트 추출 불가",
+      "createdAt": "2026-11-27T06:29:33.581Z",
+      "seq": 6790
+    },
     {
       "id": "f1b2eab8",
       "title": "eating-poisonous-plants-as-wild-greens 원인 간선",
@@ -35,14 +67,6 @@
       "note": "2026-11-13 보강 때 근거 문장 못 찾음. 후보: PMC12627122 (2025-11-18) 'trade-off exists between food waste and weight gain due to PCB' 는 같은 사람 안에서 반대로 민다는 말이 아니라 맞바꿈. HN 598654 (2009-05-07) 남기지 못해 양을 덜 주길 바람",
       "createdAt": "2026-11-21T00:21:02.005Z",
       "seq": 5974
-    },
-    {
-      "id": "aa534951",
-      "title": "faking-phone-calls 와 feigning-to-avoid-interaction 상위 관계",
-      "priority": 30,
-      "note": "2026-11-21 feigning-to-avoid-interaction 작성. faking-phone-calls [^3] Pew 13% 는 사람을 피하려고 통화하는 척. 안전 목적의 가짜 통화도 있어 상위로 둘지 판단 필요. 후보 Pew 2011 https://www.pewresearch.org/internet/2011/08/15/americans-and-their-cell-phones/ 'pretended to be using their phone in order to avoid interacting'",
-      "createdAt": "2026-11-21T03:29:28.818Z",
-      "seq": 5987
     },
     {
       "id": "ab4c1342",
@@ -3531,6 +3555,14 @@
       "note": "2026-11-27 문학 후보 확인됨(pglaf 미러): 3796.txt Rilla 17장 'Rilla slept with the letter under her pillow for weeks', 45-0.txt Anne 17장 'P.S. I shall sleep with your letter under my pillow tonight.', 498-0.txt Rebecca 17장 coral chain, 4300-0.txt Ulysses 'weeks and weeks I kept the handkerchief under my pillow for the smell of him'. 비문학 파편 못 찾음. smelling-absent-loved-ones-clothes 와 관계 후보",
       "createdAt": "2026-11-27T00:28:30.153Z",
       "seq": 6772
+    },
+    {
+      "id": "f71d44ed",
+      "title": "외상값을 재촉받자 되레 발길 끊겠다고 으르기",
+      "priority": 10,
+      "note": "2026-11-27 김유정 「산골 나그네」 위키문헌 '다른 사람들은 돈 낼 생각은커녕 이러면 다시 술 안 먹겠다고 도리어 얼러보냈던 것이다.' buying-on-credit-at-local-shops, avoiding-creditors 와 관계 후보",
+      "createdAt": "2026-11-27T06:19:19.941Z",
+      "seq": 6787
     },
     {
       "id": "02b2f242",
