@@ -37265,5 +37265,17 @@
     "last": "2026-11-27",
     "result": "VERIFIED",
     "lastVerified": "2026-11-27"
+  },
+  "https://tidbits.com/1994/12/12/relax-its-a-hoax/": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://seclists.org/fulldisclosure/2003/May/246": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
   }
 }
