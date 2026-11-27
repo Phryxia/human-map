@@ -37113,7 +37113,7 @@
   "https://bccare.ca/?p=21623": {
     "first": "2026-11-27",
     "last": "2026-11-27",
-    "result": "VERIFIED",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-27"
   },
   "https://research.tilburguniversity.edu/en/publications/emotional-consequences-of-social-debt-sharing-in-communal-relatio/": {
@@ -37243,6 +37243,12 @@
     "lastVerified": "2026-11-27"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8684066/": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://boards.straightdope.com/t/kid-invitations-ethics/443697": {
     "first": "2026-11-27",
     "last": "2026-11-27",
     "result": "VERIFIED",
