@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-27T18:36:51.682Z",
-  "nextSeq": 6824,
-  "stops": 371,
+  "savedAt": "2026-11-27T21:36:45.008Z",
+  "nextSeq": 6825,
+  "stops": 372,
   "items": [
+    {
+      "id": "79b4fbf5",
+      "title": "recognizing-sender-by-handwriting [^3] 와 leaving-mail-unopened [^1] 재확인",
+      "priority": 50,
+      "note": "2026-11-27 gutenberg.pglaf.org 19500-0.txt 가 source-check 에서 타임아웃(큰 txt). www.gutenberg.org 는 503 점검. cache/epub/19500 HTML 판으로 바꿔 확인",
+      "createdAt": "2026-11-27T21:36:31.954Z",
+      "seq": 6824
+    },
     {
       "id": "0ac5c1c6",
       "title": "post-election-distress 보강: 한국 공공 파편",
