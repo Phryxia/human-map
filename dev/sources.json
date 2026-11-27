@@ -36905,5 +36905,29 @@
     "last": "2026-11-27",
     "result": "VERIFIED",
     "lastVerified": "2026-11-27"
+  },
+  "https://www.seoul.co.kr/news/2001/12/12/20011212003001": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://econpapers.repec.org/RePEc:eee:jeborg:v:153:y:2018:i:c:p:177-193": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148924632": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148957431": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
   }
 }
