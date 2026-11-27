@@ -1,33 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-27T00:28:44.654Z",
-  "nextSeq": 6773,
-  "stops": 365,
+  "savedAt": "2026-11-27T03:43:41.391Z",
+  "nextSeq": 6775,
+  "stops": 366,
   "items": [
-    {
-      "id": "38922cca",
-      "title": "dreading-late-night-calls-and-telegrams 보강: 학술 파편, 체호프 대목",
-      "priority": 50,
-      "note": "2026-11-27 작성. 후보: gutenberg.pglaf.org 13416 Chekhov The Darling 'Olenka had received telegrams from her husband before, but this time for some reason she felt numb with terror.' (13416 은 foot-falling-asleep 이 이미 씀). 학술 파편 없음",
-      "createdAt": "2026-11-27T00:14:48.208Z",
-      "seq": 6770
-    },
-    {
-      "id": "a4661867",
-      "title": "year-end-giving 원인 간선: 세액공제 마감, 크리스마스",
-      "priority": 50,
-      "note": "2026-11-27 작성. Ekström 2018 초록 'confounding factors of charitable tax breaks, reciprocity motives, pressure from the solicitors' 는 같은 출처라 둘째 파편 불가. 경향 2004-12-26 khan 200412261735021 '소나기식으로 연말에 집중되는 기부문화'(평가어 포함), IRS CL-21-32 'make charitable contributions by December 31, 2021'",
-      "createdAt": "2026-11-27T00:19:33.075Z",
-      "seq": 6771
-    },
-    {
-      "id": "d9d6db43",
-      "title": "kissing-absent-loved-ones-letters 관계: continuing-bonds, smelling-absent-loved-ones-clothes, rereading-old-letters",
-      "priority": 30,
-      "note": "2026-11-20 작성 시 관계 미정. 남은 후보: whatsyourgrief.com relationships-with-the-dead 댓글(2021-01-14) 'I kiss his pictures, I wish him good night and good morning.', 1257 Three Musketeers Aramis 편지 입맞춤, 3796 Rilla of Ingleside 전사자 편지, 상록수 16장 감옥 편지, 문화일보 2025-07-24 [그립습니다] 사진에 뽀뽀, loc 1942 악보 'I Just Kissed Your Picture Goodnight'(scholarsjunction.msstate.edu/cht-sheet-music/7482)",
-      "createdAt": "2026-11-20T18:36:11.041Z",
-      "seq": 5942
-    },
     {
       "id": "f1b2eab8",
       "title": "eating-poisonous-plants-as-wild-greens 원인 간선",
@@ -923,6 +899,14 @@
       "note": "2026-10-20 서두름→과속은 feeling-rushed 결과 간선으로 처리(faac.com 2022-01-14). 남은 것: driving-while-drowsy, phone-use-while-driving 공통 상위 후보. m.seoul.co.kr 20181205006001 조건 후보. faac 같은 글 시간 절약 과대 어림 후보. 2026-11-26 위험 운전 문서 없음. 새 상위 문서 쓰기와 하위 셋 잇기를 따로 나눠 처리",
       "createdAt": "2026-11-26T21:40:05.507Z",
       "seq": 6766
+    },
+    {
+      "id": "a0919516",
+      "title": "kissing-absent-loved-ones-letters 관계: long-distance-longing 원인, smelling-absent-loved-ones-clothes 와 공통 상위",
+      "priority": 30,
+      "note": "2026-11-27 Nyrop 1902 학술 파편 추가. '그리워서 입 맞춘다' 인과 원문은 못 찾음. 후보: gutenberg 1366 Reade Cloister and the Hearth 53장 'She took her letter out of her bosom, and kissed it as if she had been alone;'(떠난 연인 편지). Quora 질문 글은 Cloudflare 로 막힘",
+      "createdAt": "2026-11-27T03:43:12.406Z",
+      "seq": 6774
     },
     {
       "id": "9634edf0",
