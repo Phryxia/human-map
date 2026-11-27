@@ -3237,9 +3237,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%82%A0%EA%B0%9C": {
     "first": "2026-10-19",
-    "last": "2026-11-08",
+    "last": "2026-11-27",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-27"
   },
   "https://research.monash.edu/en/publications/refusing-to-apologize-can-have-psychological-benefits-and-we-issu/": {
     "first": "2026-10-19",
@@ -36973,6 +36973,12 @@
     "lastVerified": "2026-11-27"
   },
   "https://www.japan-experience.com/plan-your-trip/to-know/understanding-japan/typical-japanese-gestures": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://theguidon.com/2020/11/a-growing-fire/": {
     "first": "2026-11-27",
     "last": "2026-11-27",
     "result": "VERIFIED",

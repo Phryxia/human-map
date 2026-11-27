@@ -275,6 +275,7 @@
 - [돈 걱정](docs/money-worry.md) ([돈과 소비](groups/money.md))
 - [돈 빌려 달라는 말 꺼내기 부끄러워하기](docs/shame-asking-to-borrow-money.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [돈 쓰기 아까워하기](docs/tightwad-spending.md) ([돈과 소비](groups/money.md))
+- [돋보기로 햇빛 모아 종이 그을리며 놀기](docs/burning-paper-with-a-magnifying-glass.md) ([시간과 하루 습관](groups/daily-time.md))
 - [돌멩이 주워 오기](docs/pocketing-pebbles.md) ([시간과 하루 습관](groups/daily-time.md))
 - [돌아온 고향의 낯섦](docs/returning-home-feels-strange.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [동료의 냄새 거슬려 하기](docs/coworker-odor-annoyance.md) ([일터와 일자리](groups/work.md))

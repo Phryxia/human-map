@@ -13,6 +13,7 @@
 - [늦는 사람을 기다리며 서성이기](../docs/waiting-for-someone-late.md) 올 시간이 지나도 오지 않는 사람을 기다리는 사람이 불안해하며 서성이거나 거듭 연락한다.
 - [늦잠에 대한 불안](../docs/oversleeping-anxiety.md) 아침에 제때 일어나야 하는 사람이 늦잠을 잘까 봐 불안해한다.
 - [다이어트 중 폭식](../docs/diet-breaking-binge.md) 먹는 것을 참던 사람이 한 번 다이어트가 깨지면 그동안 참던 음식을 한꺼번에 많이 먹는다.
+- [돋보기로 햇빛 모아 종이 그을리며 놀기](../docs/burning-paper-with-a-magnifying-glass.md) 돋보기로 햇빛을 모아 종이를 그을리는 사람이 연기가 나고 불이 붙기까지 기다리는 동안 조바심과 재미를 함께 느낀다.
 - [돌멩이 주워 오기](../docs/pocketing-pebbles.md) 바닷가나 물가를 걷는 사람이 눈에 띄는 돌멩이를 골라 주머니에 넣어 집에 가져온다.
 - [따뜻한 물 나올 때까지 물 틀어 두기](../docs/running-water-until-it-warms.md) 샤워하거나 설거지하려는 사람이 따뜻한 물이 나올 때까지 수도나 샤워기를 틀어 두고 기다린다.
 - [뜨거운 탕에 오래 몸 담그기](../docs/soaking-long-in-hot-baths.md) 추운 계절에 집에서 욕조에 드는 사람이 뜨거운 물에 오래 몸을 담근다.
