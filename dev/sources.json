@@ -37193,5 +37193,17 @@
     "last": "2026-11-27",
     "result": "VERIFIED",
     "lastVerified": "2026-11-27"
+  },
+  "https://www.psychologicalscience.org/news/releases/misinformation-on-social-media.html": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
+  },
+  "https://www150.statcan.gc.ca/n1/daily-quotidien/210202/dq210202c-eng.htm": {
+    "first": "2026-11-27",
+    "last": "2026-11-27",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-27"
   }
 }

@@ -30,7 +30,7 @@
 
 ## 하위
 
-없음.
+- [확신 없는 정보를 온라인에 공유하기](sharing-unverified-information-online.md)
 
 ## 원인
 
