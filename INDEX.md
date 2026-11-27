@@ -244,6 +244,7 @@
 - [다리미 켜 둔 채 자리 뜨기](docs/leaving-iron-on.md) ([건강과 위험](groups/health-and-safety.md))
 - [다원적 무지](docs/pluralistic-ignorance.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [다이어트 중 폭식](docs/diet-breaking-binge.md) ([시간과 하루 습관](groups/daily-time.md))
+- [다친 사람보다 망가진 물건 먼저 걱정하기](docs/worrying-about-damage-before-the-injured.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [다투는 두 사람 사이에서 편들지 못하기](docs/caught-between-quarreling-sides.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [단골 가게 두기](docs/being-a-regular.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [단속 카메라 앞에서만 속도 줄이기](docs/slowing-only-at-speed-cameras.md) ([길과 운전](groups/roads-and-driving.md))
