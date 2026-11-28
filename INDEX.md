@@ -205,6 +205,7 @@
 - [낮잠](docs/daytime-napping.md) ([시간과 하루 습관](groups/daily-time.md))
 - [낯선 곳에서 깨어 어디인지 모르기](docs/waking-disoriented-in-unfamiliar-place.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [낯선 사람과 눈이 마주치면 시선 돌리기](docs/averting-gaze-from-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
+- [낯선 사람마다 저만의 삶이 있다고 느끼기](docs/sensing-strangers-inner-lives.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [낯선 사람에게 속내 털어놓기](docs/confiding-in-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [낯선 사람의 대화 엿듣기](docs/eavesdropping-on-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [낯선 사람의 사연 지어내기](docs/imagining-strangers-backstories.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
