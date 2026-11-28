@@ -37400,15 +37400,15 @@
   },
   "https://gutenberg.pglaf.org/4/5/3/4537/4537.txt": {
     "first": "2026-11-27",
-    "last": "2026-11-27",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-27"
+    "lastVerified": "2026-11-28"
   },
   "https://bravo.etoday.co.kr/view/atc_view/7375": {
     "first": "2026-11-27",
-    "last": "2026-11-27",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-27"
+    "lastVerified": "2026-11-28"
   },
   "https://sourcebook.stanford.edu/text/divination_through_apostles/": {
     "first": "2026-11-27",
@@ -37787,6 +37787,12 @@
     "lastVerified": "2026-11-28"
   },
   "https://news.ycombinator.com/item?id=22388697": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/mss/wpalh/wpalh-37130111/37130106.alto.xml&format=alto_xml&full_text=1": {
     "first": "2026-11-28",
     "last": "2026-11-28",
     "result": "VERIFIED",
