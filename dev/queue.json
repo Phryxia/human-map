@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-28T15:06:12.726Z",
-  "nextSeq": 6875,
-  "stops": 377,
+  "savedAt": "2026-11-28T15:37:44.885Z",
+  "nextSeq": 6907,
+  "stops": 378,
   "items": [
-    {
-      "id": "24e4ea70",
-      "title": "delaying-address-update-after-moving 보강: 원인 간선, 한국 출처",
-      "priority": 50,
-      "note": "2026-11-28 AEC direct.htm 'already believe they are being automatically enrolled' 는 같은 출처라 못 씀. 한국 전입신고 지연 검색은 정보성 블로그(houseinfo.kr, jab-guyver 등)만 나옴. newsis NISX20230303_0002213483 주민등록·실거주 불일치 7만6972명",
-      "createdAt": "2026-11-28T09:30:50.327Z",
-      "seq": 6863
-    },
-    {
-      "id": "4c6c3e94",
-      "title": "bracing-for-disappointment 보강: 학술 파편",
-      "priority": 50,
-      "note": "2026-11-28 escholarship.org/uc/item/7n78p0qm 은 202 빈 페이지, psychologicalscience.org 09567976241235930 403, lima.osu.edu/media/459 PDF, Sensible-Bracing-2007 PDF. rpubs 866048 은 학술 아님. awaiting-uncertain-news, tempting-fate 와 관계 후보",
-      "createdAt": "2026-11-28T09:31:13.901Z",
-      "seq": 6864
-    },
-    {
-      "id": "d1b39b1e",
-      "title": "wiping-glasses-to-buy-time 보강: 비문학 파편",
-      "priority": 50,
-      "note": "2026-11-28 abovethelaw where-theres-smoke 403. Les Miserables 135 의 'interrupted herself to wipe her glasses' 는 시간 끌기 표지 없음. 한국어 '안경을 벗어 닦으며' 검색은 세척법 기사뿐",
-      "createdAt": "2026-11-28T12:26:37.849Z",
-      "seq": 6872
-    },
-    {
-      "id": "b8315c5d",
-      "title": "stopping-clocks-after-death 보강: 문학 파편",
-      "priority": 50,
-      "note": "2026-11-28 Gutenberg 110 6688 550 507 107 122 153 1023 766 grep 'stopped the clock' 없음. saturdayeveningpost 2023-10 grandfathers-clock 은 시계가 저절로 멈추는 이야기라 맞지 않음. Great Expectations 1400 은 4개 문서가 써서 못 씀",
-      "createdAt": "2026-11-28T12:30:19.870Z",
-      "seq": 6873
-    },
-    {
-      "id": "027dc3f8",
-      "title": "worrying-about-damage-before-the-injured 보강: SNS 또는 학술 파편",
-      "priority": 50,
-      "note": "2026-11-28 inews24 2026099 는 이미 [^2]. 남편 사고에 차부터 걱정한 원글은 기사만 찾음",
-      "createdAt": "2026-11-28T12:31:38.335Z",
-      "seq": 6874
-    },
-    {
-      "id": "0ac5c1c6",
-      "title": "post-election-distress 보강: 한국 공공 파편",
-      "priority": 30,
-      "note": "2026-11-14 UIC 2016 공공 더함. 한국 공공기관의 선거 뒤 정서 자료는 못 찾음. 남은 후보: health.osu.edu/health/mental-health/coping-with-election-outcomes (2024-10-10) 'you could be seriously disappointed'",
-      "createdAt": "2026-11-21T09:09:56.995Z",
-      "seq": 6020
-    },
-    {
-      "id": "d2596b8e",
-      "title": "driving-overconfidence 보강: 한국 공공 파편",
-      "priority": 30,
-      "note": "2026-11-14 clien park/19021500 SNS 추가. 2026-11-21 korea.kr 148928364·148958728, mediahub.seoul.go.kr 2012066·2014251·2004810, news.seoul.go.kr traffic 505470 등 대목 없음. 다음: koroad.or.kr 보도자료 '법규준수 교육 설문'(쿠키뉴스 kuk202601210300 2026-01-21 보도, 운전경력 20년 이상 46%), 경찰청·교통안전공단 '고령운전자 자가진단'",
-      "createdAt": "2026-11-21T09:32:19.117Z",
-      "seq": 6021
-    },
-    {
-      "id": "77a1e4a7",
-      "title": "gratitude 관계: thank-you-gift 결과 간선, SNS 파편",
-      "priority": 30,
-      "note": "2026-11-14 indebtedness 결과 간선 추가. 2026-11-21 clien kin/18125020 은 thank-you-gift [^2] 로 이미 쓰임. '감사의 인사로 선물' 은 감정이 원인이라는 표지가 약함. thank-you-gift [^3] 은 감사보다 부채감이 선물을 예측한다고 함. 감사 때문에 선물한다는 문장 필요",
-      "createdAt": "2026-11-21T09:33:27.698Z",
-      "seq": 6023
-    },
-    {
-      "id": "19244244",
-      "title": "childhood-places-seeming-smaller 관계: revisiting-childhood-home 과의 원인 간선",
-      "priority": 30,
-      "note": "2026-11-21 회차 321: 두 문서의 파편 모두 '다시 찾았을 때 작아 보였다'는 시간 서술뿐이고 인과 문장이 없어 간선을 긋지 않음. frontiers fpsyg.2020.01184 의 몸 크기 설명은 [^4] 와 같은 출처라 더하지 못함",
-      "createdAt": "2026-11-21T15:06:21.773Z",
-      "seq": 6058
-    },
     {
       "id": "fc595e93",
       "title": "nonurgent-police-calls 보강: 2010년 이전 시기, nonurgent-ambulance-calls 와의 관계",
@@ -957,6 +885,62 @@
       "seq": 6862
     },
     {
+      "id": "f1b97c8e",
+      "title": "delaying-address-update-after-moving 관계: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-28 세이프홈즈 1293 [^5] 가족이 자취를 반대해 전입신고를 꺼린다는 이유 대목. 상대가 될 '가족에게 숨기기' 류 문서 find 필요. 한국 정보성 블로그는 출처 아님",
+      "createdAt": "2026-11-28T15:07:55.967Z",
+      "seq": 6897
+    },
+    {
+      "id": "f91a4d2e",
+      "title": "post-election-distress 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-11-28 국가트라우마센터·국립정신건강센터·복지부 선거 뒤 정서 안내 검색 실패. 해외 후보: uc.edu news 2026/11 n21442970(매체), health.osu.edu coping-with-election-outcomes 2024-10-10 'you could be seriously disappointed' 확인(공공은 이미 UIC 2016 있음)",
+      "createdAt": "2026-11-28T15:15:41.010Z",
+      "seq": 6898
+    },
+    {
+      "id": "75da33a8",
+      "title": "driving-overconfidence 보강: 한국 공공 파편",
+      "priority": 30,
+      "note": "2026-11-28 쿠키뉴스 kuk202601210300(Cloudflare 차단)이 전한 도로교통공단 법규준수 교육 설문은 '익숙함에서 비롯된 방심' 이라 과신과 다름(방심·부주의 44.0%). 공단 원 보도자료 미발견. 이전: korea.kr 148928364·148958728, mediahub.seoul.go.kr 2012066·2014251·2004810 대목 없음",
+      "createdAt": "2026-11-28T15:16:12.753Z",
+      "seq": 6899
+    },
+    {
+      "id": "47d5eb93",
+      "title": "hesitating-to-take-leave 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-28 1981 csmonitor 072712 파편 추가. 같은 글 'My boss, before I took leave, hauled me into his office, called me weird, and told me to rethink my decision' (270자). 후보: mt.co.kr 2023032012541368585, Kossek 외 2026 EXT_ID:42474984, csmonitor 1994/0802/02182 'fathers tend to restrict their time off'",
+      "createdAt": "2026-11-28T15:28:00.718Z",
+      "seq": 6900
+    },
+    {
+      "id": "bbb7ed80",
+      "title": "wiping-glasses-to-buy-time 보강: 비문학 파편",
+      "priority": 30,
+      "note": "2026-11-28 'cleaning his glasses' 'buy time' 영문 검색은 면접 멈춤 조언(lutherwood 2022, upworthy)과 세척법만 나옴. 이전: abovethelaw where-theres-smoke 403, Les Miserables 135 표지 없음, 한국어 검색 세척법뿐",
+      "createdAt": "2026-11-28T15:28:12.163Z",
+      "seq": 6901
+    },
+    {
+      "id": "1e1c4237",
+      "title": "stopping-clocks-after-death 보강: 문학 파편",
+      "priority": 30,
+      "note": "2026-11-28 pglaf 미러로 Gutenberg 약 60권 grep(Gaskell 2153 4274 4276 4537 4275, Dickens 821 700 883 963 98 1023, Collins 583, Braddon 8954, Hardy 482 143 2662 등) 실패. 4274 'The clock had stopped, no one had remembered to wind it up' 는 의례 아님. J. J. Bell 1917 Till the Clock Stops 9873 은 유언 장치라 다름. wilkiecollinssociety.org stupid-clocks 글이 후보 작품 목록",
+      "createdAt": "2026-11-28T15:32:14.173Z",
+      "seq": 6903
+    },
+    {
+      "id": "cd2ae6d4",
+      "title": "worrying-about-damage-before-the-injured 보강: SNS 또는 학술 파편",
+      "priority": 30,
+      "note": "2026-11-28 '사고 났는데 차 걱정 먼저', '다쳤는지보다 깨진 그릇', 영문 'asked about the car before if I was okay' 검색 모두 맞는 원글 없음. 블라인드 사고 글은 다른 내용",
+      "createdAt": "2026-11-28T15:32:24.514Z",
+      "seq": 6904
+    },
+    {
       "id": "9634edf0",
       "title": "ignoring-voicemail 보강: 학술 파편, 한국어 파편, not-answering-unknown-numbers 관계",
       "priority": 25,
@@ -1093,6 +1077,14 @@
       "seq": 6623
     },
     {
+      "id": "ec81d6e7",
+      "title": "childhood-places-seeming-smaller 관계: revisiting-childhood-home 과의 원인 간선",
+      "priority": 25,
+      "note": "2026-11-28 영문 포럼 재검색(straightdope 398513·956299·714349, QVC Have-You-Ever-Gone-Back, nextavenue you-can-drive-by-again, physicsforums 954799)도 모두 '돌아가 보니 작아 보였다' 시간 서술. mumsnet 5390303 은 어릴 때 작았기 때문이라는 설명(원인은 몸 크기). 이전: frontiers fpsyg.2020.01184 는 [^4] 와 같은 출처",
+      "createdAt": "2026-11-28T15:37:33.938Z",
+      "seq": 6906
+    },
+    {
       "id": "75b0ae75",
       "title": "dental-anxiety 원인·결과: 치과 공포의 되먹임",
       "priority": 20,
@@ -1139,30 +1131,6 @@
       "note": "2026-10-23·10-24 두 회차 탐색에서 기온과 기상 지연을 잇는 학술·공공 자료 미발견. KAKEN 12680107 (2000-2001 일본 겨울 침실 온도 조사 600명) 초록만 확인, 기상 지연 언급 없음. RAND 2014 commentary 403",
       "createdAt": "2026-10-24T09:09:30.162Z",
       "seq": 1502
-    },
-    {
-      "id": "05bfbe1c",
-      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
-      "priority": 20,
-      "note": "2026-10-21 호스트 TLS 인증서 오류로 소멸 표시. 2026-10-22~2026-10-26 09:30Z 까지 / 가 TLS 실패(SELF_SIGNED_CERT_IN_CHAIN). 호스트가 복구되면 글이 그대로 있는지 확인",
-      "createdAt": "2026-10-26T09:29:13.574Z",
-      "seq": 2191
-    },
-    {
-      "id": "bbba09d8",
-      "title": "ritual-refusal: archive.carla.umn.edu 소멸 표시 재확인",
-      "priority": 20,
-      "note": "2026-10-21 부터 2026-10-26 09:30Z 까지 호스트 / 가 TLS 실패. 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
-      "createdAt": "2026-10-26T09:29:21.160Z",
-      "seq": 2192
-    },
-    {
-      "id": "0bb0feb7",
-      "title": "spouse-financial-concealment: scholarworks.iu.edu 소멸 표시 재확인",
-      "priority": 20,
-      "note": "2026-10-21 부터 2026-10-26 09:30Z 까지 호스트 / 가 TLS 실패(SELF_SIGNED_CERT_IN_CHAIN). 이슈 #6 사례. 호스트가 복구되면 글이 그대로 있는지 확인",
-      "createdAt": "2026-10-26T09:29:21.590Z",
-      "seq": 2193
     },
     {
       "id": "cfb53b6b",
@@ -1251,22 +1219,6 @@
       "note": "2026-11-01 Gutenberg 23편 무소득. Hardy 1912-13 은 다시 찾아가는 쪽. Wuthering Heights 768 은 이미 4개 문서. 한국 근대 소설(위키문헌) 쪽 후보 탐색 필요",
       "createdAt": "2026-11-13T09:28:44.367Z",
       "seq": 4840
-    },
-    {
-      "id": "8425bee5",
-      "title": "caffeine-to-stay-awake 관계: driving-while-drowsy",
-      "priority": 20,
-      "note": "2026-11-13 aasm.org coffee-is-no-cure (2025, 졸며 운전한 사람 65% 커피) 는 Cloudflare 403. insurancejournal 2004/01/30/36299 Farmers 조사 'Drink caffeine (42.3 percent)' 는 앞 문장과 사이에 광고 스크립트가 끼어 연속 원문 안 됨. sleepreviewmag drivers-stay-awake-choose-ineffective-strategies, carriermanagement 2025/04/01/273666 (Erie 63%) 후보",
-      "createdAt": "2026-11-13T09:32:03.226Z",
-      "seq": 4851
-    },
-    {
-      "id": "eb22a0c5",
-      "title": "biting-lips-to-hold-back 관계: hiding-tears",
-      "priority": 20,
-      "note": "2026-11-13 Anna Karenina 1399 'forcing herself to gulp down her tears, biting her lips' 는 1399 를 이미 4개 문서가 써서 못 씀. maily 7rolj [^5] 는 인과 표지 없음. 눈물 감추려고 입술 깨문다는 다른 원문 필요",
-      "createdAt": "2026-11-13T09:32:24.223Z",
-      "seq": 4852
     },
     {
       "id": "be71b24c",
@@ -1821,6 +1773,22 @@
       "seq": 6735
     },
     {
+      "id": "ae67a82a",
+      "title": "ignoring-emergency-alerts: start.umd.edu 소멸 표시 재확인",
+      "priority": 20,
+      "note": "2026-11-28 여전히 SELF_SIGNED_CERT_IN_CHAIN. 호스트가 복구되면 글이 그대로 있는지 확인. ritual-refusal 의 carla, spouse-financial-concealment 의 scholarworks.iu 는 2026-11-28 다시 VERIFIED 되어 표시 뗌",
+      "createdAt": "2026-11-28T15:31:45.926Z",
+      "seq": 6902
+    },
+    {
+      "id": "73410e88",
+      "title": "biting-lips-to-hold-back 관계: hiding-tears",
+      "priority": 20,
+      "note": "2026-11-28 Gutenberg grep 후보: Mill on the Floss 6688 'Tom bit his lips hard; he felt as if the tears were rising, and he would rather die than let them.', Vanity Fair 599 'bit his lips, clenched his hands, and didn't cry a bit' 는 둘 다 이미 4개 문서가 써서 못 씀. 2554 는 이 문서가 씀. 4274 'bit my lips, to keep from crying out' 은 소리 지르기. 이전: Anna Karenina 1399 4개 문서, maily 7rolj 인과 표지 없음",
+      "createdAt": "2026-11-28T15:33:56.231Z",
+      "seq": 6905
+    },
+    {
       "id": "9c55db6a",
       "title": "nonurgent-emergency-room-visits 와 medical-care-avoidance 관계",
       "priority": 15,
@@ -2067,14 +2035,6 @@
       "note": "2026-10-24 avoiding-death-talk [^3] christiantoday 2014-05-13 Dying Matters 조사 80% 가 죽음이 남을 불편하게 한다고 여겨 이야기하지 않음. avoiding-death-talk 의 원인 간선 후보",
       "createdAt": "2026-10-24T15:14:27.088Z",
       "seq": 1593
-    },
-    {
-      "id": "cf6e6e38",
-      "title": "hesitating-to-take-parental-leave 와 unused-annual-leave 의 공통 상위 현상",
-      "priority": 10,
-      "note": "2026-10-26 휴가·휴직 제도가 있어도 동료 부담과 평가를 의식해 쓰지 않는 현상. 후보: csmonitor 1981/0727/072712 상사가 재고 요구, csmonitor 1994/0802/02182 아버지가 한두 주로 줄여 씀",
-      "createdAt": "2026-10-26T09:26:19.178Z",
-      "seq": 2187
     },
     {
       "id": "90f3fa4d",
