@@ -705,6 +705,7 @@
 - [연장 보증 구매](docs/buying-extended-warranties.md) ([돈과 소비](groups/money.md))
 - [연차휴가 남기기](docs/unused-annual-leave.md) ([일터와 일자리](groups/work.md))
 - [연체 뒤 도서관 피하기](docs/avoiding-library-over-overdue-books.md) ([남의 시선과 창피함](groups/others-gaze.md))
+- [영상 배속 시청](docs/speed-watching-videos.md) ([시간과 하루 습관](groups/daily-time.md))
 - [영양표시 보지 않고 사기](docs/not-reading-nutrition-labels.md) ([건강과 위험](groups/health-and-safety.md))
 - [영정 사진 미리 찍기](docs/taking-funeral-portraits-in-advance.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [옆 빈자리에 가방 두기](docs/blocking-adjacent-seat-with-bag.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))

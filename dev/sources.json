@@ -37659,5 +37659,35 @@
     "last": "2026-11-28",
     "result": "VERIFIED",
     "lastVerified": "2026-11-28"
+  },
+  "https://www.kocca.kr/trend/vol35/sub/s11.html": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://news.ycombinator.com/item?id=7860607": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://v.daum.net/v/20211228090601934": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://www.newsis.com/view/NISX20231222_0002568536": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12238543/": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
   }
 }
