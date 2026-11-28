@@ -1,9 +1,17 @@
 {
   "version": 1,
-  "savedAt": "2026-11-28T15:37:44.885Z",
-  "nextSeq": 6907,
-  "stops": 378,
+  "savedAt": "2026-11-28T18:35:13.821Z",
+  "nextSeq": 6909,
+  "stops": 379,
   "items": [
+    {
+      "id": "5d772d24",
+      "title": "jealousy-of-a-newborn-sibling 보강: 1930년대 한국 소설, (미확인) 해소",
+      "priority": 50,
+      "note": "2026-11-28 회차 378: [^3] Rainbow pglaf 타임아웃(gutenberg.org 503 점검). 후보 이광수 「그 여자의 일생」 방랑편 ko.wikisource '정선이가 동생헌테 빼앗겼던 어머니를 독차지하게 된 것이 기뻐서,' 발행연도 확인 필요. brunch @urisai/14 '나는 동생이 없었으면 좋겠어'",
+      "createdAt": "2026-11-28T18:35:05.686Z",
+      "seq": 6908
+    },
     {
       "id": "fc595e93",
       "title": "nonurgent-police-calls 보강: 2010년 이전 시기, nonurgent-ambulance-calls 와의 관계",
