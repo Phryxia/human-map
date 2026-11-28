@@ -27267,9 +27267,9 @@
   },
   "https://brunch.co.kr/@daeheestory/283": {
     "first": "2026-11-14",
-    "last": "2026-11-21",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-21"
+    "lastVerified": "2026-11-28"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5501400/": {
     "first": "2026-11-14",
@@ -27662,7 +27662,7 @@
   },
   "https://www.gutenberg.org/cache/epub/600/pg600.txt": {
     "first": "2026-11-14",
-    "last": "2026-11-21",
+    "last": "2026-11-28",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
@@ -32918,9 +32918,9 @@
   },
   "https://gutenberg.pglaf.org/7/9/8/7986/7986-h/7986-h.htm": {
     "first": "2026-11-21",
-    "last": "2026-11-21",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-21"
+    "lastVerified": "2026-11-28"
   },
   "https://ans-names.pitt.edu/ans/article/view/1530": {
     "first": "2026-11-21",
@@ -32984,9 +32984,9 @@
   },
   "https://gutenberg.pglaf.org/2/8/0/5/28054/28054-h/28054-h.htm": {
     "first": "2026-11-21",
-    "last": "2026-11-21",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-21"
+    "lastVerified": "2026-11-28"
   },
   "https://www.gov.uk/cma-cases/extended-warranties-on-domestic-electrical-goods-market-investigation-reference-oft": {
     "first": "2026-11-21",
@@ -37629,5 +37629,29 @@
     "first": "2026-11-28",
     "last": "2026-11-28",
     "result": "UNREACHABLE"
+  },
+  "https://boards.straightdope.com/t/self-esteem/12702": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://phenxtoolkit.org/protocols/view/180901": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://www.vogue.co.kr/?p=158584": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://ejop.psychopen.eu/index.php/ejop/article/download/1065/1065.html?inline=1": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
   }
 }

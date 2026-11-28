@@ -201,6 +201,7 @@
 - [남의 책장 훑어보기](docs/browsing-others-bookshelves.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [남의 화면이나 신문 넘겨다보기](docs/glancing-at-others-screens.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [남이 버린 꽁초 주워 피우기](docs/picking-up-cigarette-butts.md) ([돈과 소비](groups/money.md))
+- [낮은 자존감](docs/low-self-esteem.md) ([성향과 기질](groups/traits.md))
 - [낮잠](docs/daytime-napping.md) ([시간과 하루 습관](groups/daily-time.md))
 - [낯선 곳에서 깨어 어디인지 모르기](docs/waking-disoriented-in-unfamiliar-place.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [낯선 사람과 눈이 마주치면 시선 돌리기](docs/averting-gaze-from-strangers.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
