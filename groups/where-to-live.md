@@ -10,6 +10,7 @@
 - [성인 자녀의 부모 집 거주](../docs/adult-children-living-with-parents.md) 학교를 마친 성인 자녀가 독립하지 않고 부모 집에 머물러 살거나 독립했다가 부모 집으로 돌아온다.
 - [은퇴 뒤 따뜻한 곳으로 옮겨 살기](../docs/retirement-migration.md) 일을 그만둔 사람이 은퇴한 뒤 날씨가 따뜻하거나 생활비가 싸거나 편의시설이 많은 지역으로 옮겨 산다.
 - [이민 갔다 고국으로 돌아오기](../docs/return-migration.md) 다른 나라로 이민 가서 살던 사람이 몇 해 뒤 태어난 나라로 돌아와 다시 산다.
+- [이사 뒤 주소 변경 미루기](../docs/delaying-address-update-after-moving.md) 이사한 사람이 선거인 명부나 운전면허 같은 공적 기록의 주소를 정해진 기한 안에 고치지 않고 미루거나 고치지 않은 채 지낸다.
 - [일자리와 학교를 찾아 대도시로 떠나기](../docs/leaving-hometown-for-city-jobs.md) 작은 도시나 지방에서 자란 젊은 사람이 대학이나 일자리를 찾아 고향을 떠나 수도나 대도시로 옮겨 산다.
 - [집값 때문에 외곽으로 옮겨 살기](../docs/moving-out-for-cheaper-housing.md) 도시에 살던 사람이 집값이나 집세가 비싸서 더 싼 외곽이나 이웃 지역으로 이사한다.
 - [학군 따라 이사하기](../docs/moving-for-school-district.md) 자녀를 원하는 학교에 보내려는 부모가 그 학교가 있는 동네로 집을 옮긴다.

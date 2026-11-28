@@ -777,6 +777,7 @@
 - [이민 갔다 고국으로 돌아오기](docs/return-migration.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [이별 앞에서 눈물 참기](docs/holding-back-tears-at-breakup.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [이별을 아쉬워하기](docs/reluctant-parting.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
+- [이사 뒤 주소 변경 미루기](docs/delaying-address-update-after-moving.md) ([사는 곳과 옮겨 살기](groups/where-to-live.md))
 - [이삿날 빈집 둘러보기](docs/last-look-at-empty-house.md) ([혼자 있음과 상실](groups/solitude-and-loss.md))
 - [이안류 거슬러 헤엄치기](docs/swimming-against-rip-current.md) ([건강과 위험](groups/health-and-safety.md))
 - [이어폰 끼고 길 걷기](docs/walking-with-earphones.md) ([길과 운전](groups/roads-and-driving.md))

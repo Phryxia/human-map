@@ -1008,7 +1008,8 @@
       "retirement-migration",
       "return-migration",
       "aging-in-place",
-      "moving-for-school-district"
+      "moving-for-school-district",
+      "delaying-address-update-after-moving"
     ]
   },
   {
