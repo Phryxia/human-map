@@ -32654,9 +32654,9 @@
   },
   "https://gutenberg.pglaf.org/cache/epub/4085/pg4085.txt": {
     "first": "2026-11-20",
-    "last": "2026-11-27",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-11-27"
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
   },
   "https://ko.wikisource.org/wiki/%EC%9C%A4%EA%B4%91%ED%98%B8": {
     "first": "2026-11-20",
@@ -34465,27 +34465,27 @@
   },
   "https://gutenberg.pglaf.org/5/8/583/583-h/583-h.htm": {
     "first": "2026-11-23",
-    "last": "2026-11-27",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-27"
+    "lastVerified": "2026-11-28"
   },
   "https://m.seoul.co.kr/news/2002/05/06/20020506008004": {
     "first": "2026-11-23",
-    "last": "2026-11-27",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-27"
+    "lastVerified": "2026-11-28"
   },
   "https://www.metafilter.com/137535/Dig-out-your-sparkly-pens-again#5465443": {
     "first": "2026-11-23",
-    "last": "2026-11-27",
+    "last": "2026-11-28",
     "result": "UNREACHABLE",
     "lastVerified": "2026-11-23"
   },
   "https://spectator.com/article/the-proustian-power-of-handwriting": {
     "first": "2026-11-23",
-    "last": "2026-11-27",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-27"
+    "lastVerified": "2026-11-28"
   },
   "https://gutenberg.pglaf.org/2/9/2/2/29220/29220-h/29220-h.htm": {
     "first": "2026-11-23",
@@ -34991,9 +34991,9 @@
   },
   "https://arts.units.it/handle/11368/2702032": {
     "first": "2026-11-23",
-    "last": "2026-11-27",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-27"
+    "lastVerified": "2026-11-28"
   },
   "https://www.jstage.jst.go.jp/article/jpnjschhealth/54/1/54_62/_article/-char/ja/": {
     "first": "2026-11-23",
@@ -37423,8 +37423,9 @@
   },
   "https://gutenberg.pglaf.org/1/9/5/0/19500/19500-0.txt": {
     "first": "2026-11-27",
-    "last": "2026-11-27",
-    "result": "UNREACHABLE"
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
   },
   "https://singletrackworld.com/forum/off-topic/help-with-british-driving-licence-expired-in-november-will-i-get-a-fine/": {
     "first": "2026-11-28",
