@@ -30,7 +30,7 @@
 
 ## 결과
 
-없음.
+- [잠을 쫓으려고 카페인 마시기](caffeine-to-stay-awake.md)[^8]
 
 ## 대립
 
@@ -45,3 +45,4 @@
 [^5]: [매체] "100㎞ 거리를 이동한다면 출발 후 45㎞ 지점에서 졸음이 몰려오지만 10㎞를 더 이동해서야 휴식을 취하는 셈이다." — 문화일보, 「고속道 100㎞ 달릴때 10㎞는 '졸린 상태'」, 문화일보, 2017-01-13, https://www.munhwa.com/article/11017810, 2026-10-19 접속
 [^6]: [매체] "교차로나 신호등에 걸려 수시로 핸들이나 브레이크를 제어하는 일반도로와 달리 고속도로는 곧은 도로인 데다 오랫동안 같은 패턴으로 운전하기 때문에 긴장감이 떨어지고 졸음이 쉽게 몰려온다." — 서울신문, 「고속도 사망사고 70%가 주시 태만 원인… 피로 푸는 게 최선[교통안전 행복 플러스]」, 2022-09-27, https://m.seoul.co.kr/news/2022/09/27/20220927009005, 2026-10-19 접속
 [^7]: [학술] "Even when participants rated themselves as extremely drowsy, and had the opportunity to take a break, more than 75% chose to continue driving without taking a break." (참가자가 자기를 몹시 졸리다고 평가하고 쉴 기회가 있을 때에도 75% 넘게 쉬지 않고 운전을 계속하기로 했다.) — J. G. Gaspar, C. Carney, "Drowsiness and Decision Making During Long Drives: A Driving Simulation Study", AAA Foundation for Traffic Safety, 2023-03, https://aaafoundation.org/research/drowsiness-and-decision-making-during-long-drives-a-driving-simulation-study/, 2026-10-19 접속
+[^8]: [공공] "Many of the adults who admitted to driving while sleepy have tried different strategies to keep themselves awake and alert behind the wheel: 65% drink coffee or a caffeinated beverage" (졸음운전을 했다고 인정한 성인 다수는 운전 중에 깨어 있고 정신을 차리려고 여러 방법을 써 봤다. 65%는 커피나 카페인 음료를 마신다) — Colorado Department of Transportation, "Coffee is no cure: Survey data highlight risks of drowsy driving (AASM)", 2026-10, https://www.codot.gov/safety/shift-into-safe-news/2026/october/coffee-is-no-cure-survey-data-highlight-risks-of-drowsy-driving-aasm, 2026-11-28 접속
