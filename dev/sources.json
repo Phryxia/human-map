@@ -27129,8 +27129,8 @@
   },
   "https://www.gutenberg.org/cache/epub/1715/pg1715.txt": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
-    "result": "VERIFIED",
+    "last": "2026-11-28",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-11-14"
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC12220072/": {
@@ -27273,15 +27273,15 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5501400/": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-28"
   },
   "https://www.asiae.co.kr/article/2024031817444611013": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-28"
   },
   "https://www.clien.net/service/board/park/11117711": {
     "first": "2026-11-14",
@@ -27381,9 +27381,9 @@
   },
   "https://www.clien.net/service/board/park/19189193": {
     "first": "2026-11-14",
-    "last": "2026-11-14",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-28"
   },
   "https://www.clien.net/service/board/kin/18125020": {
     "first": "2026-11-14",
