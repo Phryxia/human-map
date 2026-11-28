@@ -46,7 +46,7 @@
 
 #관계
 
-[^1]: [학술] "Generally in Chinese, speakers are not supposed to accept an invitation or an offer right away but should normally refuse several times before accepting." (중국어에서 화자는 대개 초대나 제안을 바로 받아들이지 않고 받기 전에 보통 여러 번 거절해야 한다.) — Center for Advanced Research on Language Acquisition, University of Minnesota, "Pragmatics and Speech Acts: Refusals", 발행일 미상, https://archive.carla.umn.edu/speechacts/refusals/tt.html, 2026-10-18 접속 (소멸, 2026-10-18 까지 확인)
+[^1]: [학술] "Generally in Chinese, speakers are not supposed to accept an invitation or an offer right away but should normally refuse several times before accepting." (중국어에서 화자는 대개 초대나 제안을 바로 받아들이지 않고 받기 전에 보통 여러 번 거절해야 한다.) — Center for Advanced Research on Language Acquisition, University of Minnesota, "Pragmatics and Speech Acts: Refusals", 발행일 미상, https://archive.carla.umn.edu/speechacts/refusals/tt.html, 2026-11-28 접속
 [^2]: [문학] "나는 그만 기뻤다. 그러나 어쩐지 화끈 달며 냉큼 그 양산을 가질 수가 없더구나. 그래서 새침하고 앉았노라니 동무는 킥 웃으며 나가더구나. 그 동무가 나가자마자 나는 얼른 양산을 쥐고 펴 보니 하나도 성한 곳이 없더라." — 강경애, 「원고료 이백원」, 신가정, 1935-02, https://ko.wikisource.org/wiki/%EC%9B%90%EA%B3%A0%EB%A3%8C_%EC%9D%B4%EB%B0%B1%EC%9B%90, 2026-11-22 접속
 [^3]: [문학] "『괜찮어요』 애라는 사양했다. 『아니야. 우리만 먹고 혼자 가만있으면 됐어』 『암 해야지』" — 김규택, 「망부석」, 조선일보, 1935-05, https://ko.wikisource.org/wiki/%EB%A7%9D%EB%B6%80%EC%84%9D, 2026-10-18 접속
 [^4]: [문학] "Chia Lien and lady Feng promptly pressed her to have a glass of wine, and bade her sit on the stove-couch, but dame Chao was obstinate in her refusal." (가련과 봉저는 곧바로 그녀에게 술 한 잔을 권하고 구들 위에 앉으라고 했지만 조 유모는 한사코 사양했다.) — Cao Xueqin, Hung Lou Meng, or, the Dream of the Red Chamber, Book I, H. Bencraft Joly 옮김, Project Gutenberg, 2006-01-01, https://www.gutenberg.org/cache/epub/9603/pg9603-images.html, 2026-10-18 접속

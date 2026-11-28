@@ -89,21 +89,21 @@
   },
   "https://scholarworks.iu.edu/dspace/items/b4246181-ad4a-4bab-9c51-29da4b3eda84": {
     "first": "2026-10-16",
-    "last": "2026-10-31",
-    "result": "UNREACHABLE",
-    "lastVerified": "2026-10-18"
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
   },
   "https://www.nfcc.org/press_release/financial-infidelity-growing-concern/": {
     "first": "2026-10-16",
-    "last": "2026-10-31",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-28"
   },
   "https://link.springer.com/article/10.1007/s10834-024-09988-2": {
     "first": "2026-10-16",
-    "last": "2026-10-31",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-28"
   },
   "https://ko.wikisource.org/wiki/봄봄": {
     "first": "2026-10-16",
@@ -1312,27 +1312,27 @@
   },
   "https://archive.carla.umn.edu/speechacts/refusals/tt.html": {
     "first": "2026-10-18",
-    "last": "2026-11-22",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-28"
   },
   "https://www.gutenberg.org/cache/epub/9603/pg9603-images.html": {
     "first": "2026-10-18",
-    "last": "2026-11-22",
+    "last": "2026-11-28",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-24"
   },
   "https://engagedscholarship.csuohio.edu/cltmt/vol3/iss2/3": {
     "first": "2026-10-18",
-    "last": "2026-11-22",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-28"
   },
   "https://v.daum.net/v/Fa0lMeDxRv": {
     "first": "2026-10-18",
-    "last": "2026-11-22",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-28"
   },
   "https://www.ischool.berkeley.edu/news/2013/online-community-members-resist-being-freeloaders-researchers-find": {
     "first": "2026-10-18",
@@ -1396,9 +1396,9 @@
   },
   "https://ko.wikisource.org/wiki/%EB%A7%9D%EB%B6%80%EC%84%9D": {
     "first": "2026-10-18",
-    "last": "2026-11-22",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-28"
   },
   "https://www.nbcnews.com/technolog/think-you-post-5-reasons-people-self-censor-facebook-2D11759816": {
     "first": "2026-10-18",
@@ -1672,9 +1672,9 @@
   },
   "https://www.imaeil.com/page/view/2007111517391962006": {
     "first": "2026-10-18",
-    "last": "2026-10-31",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-28"
   },
   "https://api.crossref.org/works/10.1002/job.4030150306": {
     "first": "2026-10-18",
@@ -2194,45 +2194,45 @@
   },
   "https://www.govinfo.gov/content/pkg/FR-2016-11-01/html/2016-26120.htm": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-11-28"
   },
   "https://start.umd.edu/publication/cry-wolf-effect-evaluating-impact-false-alarms-public-responses-tornado-alerts": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
+    "last": "2026-11-28",
     "result": "UNREACHABLE",
     "lastVerified": "2026-10-18"
   },
   "https://v.daum.net/v/20201102065204608": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-11-28"
   },
   "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=100282": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
-    "result": "VERIFIED",
+    "last": "2026-11-28",
+    "result": "UNREACHABLE",
     "lastVerified": "2026-10-26"
   },
   "https://scholarsarchive.library.albany.edu/ehc_fac_scholar/20": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-11-28"
   },
   "https://supple.kr/community/culture/121451469": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-11-28"
   },
   "https://www.kyeongin.com/article/1768525": {
     "first": "2026-10-18",
-    "last": "2026-10-26",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-26"
+    "lastVerified": "2026-11-28"
   },
   "https://www.gutenberg.org/files/1342/1342-h/1342-h.htm": {
     "first": "2026-10-18",
@@ -12020,9 +12020,9 @@
   },
   "https://journals.newprairiepress.org/jft/article/id/5558/": {
     "first": "2026-10-27",
-    "last": "2026-10-31",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-28"
   },
   "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21259179&rettype=abstract&retmode=text": {
     "first": "2026-10-27",
@@ -15454,9 +15454,9 @@
   },
   "https://journals.newprairiepress.org/jft/article/id/5697/": {
     "first": "2026-10-31",
-    "last": "2026-10-31",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-10-31"
+    "lastVerified": "2026-11-28"
   },
   "https://www.gutenberg.org/cache/epub/34689/pg34689.txt": {
     "first": "2026-10-31",
@@ -30234,9 +30234,9 @@
   },
   "https://www.polyglottistlanguageacademy.com/language-culture-travelling-blog/2025/7/18/8-unspoken-rules-of-chinese-hospitality": {
     "first": "2026-11-17",
-    "last": "2026-11-22",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-28"
   },
   "https://www.segye.com/newsView/20141210003188": {
     "first": "2026-11-17",
@@ -34369,9 +34369,9 @@
   },
   "https://ko.wikisource.org/wiki/%EC%9B%90%EA%B3%A0%EB%A3%8C_%EC%9D%B4%EB%B0%B1%EC%9B%90": {
     "first": "2026-11-22",
-    "last": "2026-11-22",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-22"
+    "lastVerified": "2026-11-28"
   },
   "https://www.newsis.com/view/NISX20181214_0000502634": {
     "first": "2026-11-22",
