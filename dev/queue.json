@@ -1,48 +1,24 @@
 {
   "version": 1,
-  "savedAt": "2026-11-28T06:29:47.610Z",
-  "nextSeq": 6852,
-  "stops": 375,
+  "savedAt": "2026-11-28T09:31:14.802Z",
+  "nextSeq": 6865,
+  "stops": 376,
   "items": [
     {
-      "id": "7192e9ca",
-      "title": "misparking-shared-scooters 보강: SNS 파편, 원인 간선",
-      "priority": 50,
-      "note": "2026-11-28 공개 게시판 후보 못 찾음. findingspress 19537 은 규칙을 모름이 이유. 보여 준 뒤 8.6%→26% 대목은 같은 출처. mediahub 2002346 2021-07-30 견인 시작",
-      "createdAt": "2026-11-28T00:19:43.257Z",
-      "seq": 6834
-    },
-    {
-      "id": "e7c51e7e",
-      "title": "not-claiming-small-insurance-payouts 보강: SNS 파편, 2010년 이전 시기",
-      "priority": 50,
-      "note": "2026-11-28 dailypharm 51790 의 포기 사유 대목(진료금액이 적어서 51.3%, 서류 못 챙김 46.6%)은 같은 출처. twig24 20181019500169 보험연구원 설문 소액 90.6%. 공개 게시판 글 못 찾음",
-      "createdAt": "2026-11-28T00:30:39.510Z",
-      "seq": 6837
-    },
-    {
-      "id": "20a7a119",
-      "title": "carrying-shoes-to-save-them 보강: 공공 또는 SNS 파편",
-      "priority": 50,
-      "note": "2026-11-28 duchas.ie Schools' Collection(Carpenterstown 5009034/4979347/5115503 'carried the shoes to the church door', Coolavin 4701772 'in order to save the shoes') 은 curl HTML 에 본문 없음(21KB, JS). 다른 판이나 아일랜드 공공 자료 찾을 것",
-      "createdAt": "2026-11-28T03:37:00.283Z",
-      "seq": 6846
-    },
-    {
-      "id": "61fd9c06",
+      "id": "24e4ea70",
       "title": "delaying-address-update-after-moving 보강: 원인 간선, 한국 출처",
       "priority": 50,
-      "note": "2026-11-28 AEC direct.htm 의 'already believe they are being automatically enrolled' 는 자동 갱신 믿음이 원인 후보이나 같은 출처라 못 씀. Singletrack 같은 스레드 댓글 'never been fined' 도 같은 출처. 한국 전입신고 지연 공공 자료 못 찾음. newsis NISX20230303_0002213483 주민등록·실거주 불일치 7만6972명",
-      "createdAt": "2026-11-28T03:37:10.010Z",
-      "seq": 6847
+      "note": "2026-11-28 AEC direct.htm 'already believe they are being automatically enrolled' 는 같은 출처라 못 씀. 한국 전입신고 지연 검색은 정보성 블로그(houseinfo.kr, jab-guyver 등)만 나옴. newsis NISX20230303_0002213483 주민등록·실거주 불일치 7만6972명",
+      "createdAt": "2026-11-28T09:30:50.327Z",
+      "seq": 6863
     },
     {
-      "id": "4d072862",
+      "id": "4c6c3e94",
       "title": "bracing-for-disappointment 보강: 학술 파편",
       "priority": 50,
-      "note": "2026-11-28 Sweeny & Shepperd 2007 PSPB(people.clas.ufl.edu/shepperd/files/Sensible-Bracing-2007.pdf) 는 PDF. psychologicalscience.org 09567976241235930(2024, 시험 성적 기다리며 기대가 비관 쪽으로 흐름) 은 403. Golub·Gilbert·Wilson 2009 의 HTML 판 찾을 것. awaiting-uncertain-news, tempting-fate 와 관계 후보",
-      "createdAt": "2026-11-28T06:19:06.800Z",
-      "seq": 6850
+      "note": "2026-11-28 escholarship.org/uc/item/7n78p0qm 은 202 빈 페이지, psychologicalscience.org 09567976241235930 403, lima.osu.edu/media/459 PDF, Sensible-Bracing-2007 PDF. rpubs 866048 은 학술 아님. awaiting-uncertain-news, tempting-fate 와 관계 후보",
+      "createdAt": "2026-11-28T09:31:13.901Z",
+      "seq": 6864
     },
     {
       "id": "0ac5c1c6",
@@ -931,6 +907,30 @@
       "note": "2026-11-28 sleepless-before-exciting-day 와 같은 들뜸. '들떠서 때문에 못 먹는다' 를 원인으로 말하는 파편 필요. onefabday.com tips-for-a-calm-wedding-morning 'too anxious or excited to eat' 는 불안이 섞임",
       "createdAt": "2026-11-28T06:29:17.649Z",
       "seq": 6851
+    },
+    {
+      "id": "98a921dd",
+      "title": "misparking-shared-scooters 보강: 원인 간선",
+      "priority": 30,
+      "note": "2026-11-28 SNS 파편 더함(HN 20423751). 원인 후보: HN 16875942 '벌금 없어서 신경 안 씀', HN 33409068 dockless 반납, clien park/19107206 '아무데나 버리고 가도 되는 게 매력'. 상대 문서 후보 없음(남의 물건 함부로 쓰기 현상 문서 필요)",
+      "createdAt": "2026-11-28T09:08:34.804Z",
+      "seq": 6859
+    },
+    {
+      "id": "94499ec3",
+      "title": "not-claiming-small-insurance-payouts 보강: 2010년 이전 시기",
+      "priority": 30,
+      "note": "2026-11-28 HN 22388697 SNS 더함. 2010년 이전 출처 못 찾음. 남은 SNS 후보 clien park/16265720(2021), park/19193453(2026)",
+      "createdAt": "2026-11-28T09:12:30.378Z",
+      "seq": 6861
+    },
+    {
+      "id": "5e252ecd",
+      "title": "carrying-shoes-to-save-them 보강: SNS 파편",
+      "priority": 30,
+      "note": "2026-11-28 LOC wpalh-37130111 공공 더함. 다른 공공 후보 tile.loc.gov wpalh-17080615/17080605(학교, 1938-11-11). SNS 못 찾음(Reddit 403, HN 없음)",
+      "createdAt": "2026-11-28T09:30:16.882Z",
+      "seq": 6862
     },
     {
       "id": "9634edf0",
@@ -3563,6 +3563,14 @@
       "note": "2026-11-28 두 문서와 delaying-address-update-after-moving, late-passport-expiry-check 가 모두 행정 기한을 잊는 현상. 일반 문서를 둘 파편 필요. GOV.UK DVSA 'drivers forgetting' 이 잊음을 이유로 든다",
       "createdAt": "2026-11-28T00:27:05.787Z",
       "seq": 6836
+    },
+    {
+      "id": "1f500117",
+      "title": "남의 물건이라 함부로 다루기",
+      "priority": 10,
+      "note": "HN 20423751·16875942 에서 봄. misparking-shared-scooters 의 원인 후보, not-returning-shared-umbrellas 와 관계 후보",
+      "createdAt": "2026-11-28T09:08:34.908Z",
+      "seq": 6860
     },
     {
       "id": "02b2f242",
