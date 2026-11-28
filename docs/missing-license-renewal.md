@@ -12,9 +12,11 @@
 
 2017년 기사[^2]에 따르면 2016년 전국 운전면허 취소처분 21만 267건 가운데 25.18%가 적성검사 미필 때문이었다.
 
-2021년 텍사스 공공안전부 보도자료[^3]는 2021년 4월 1일 기준으로 시스템에 만료된 운전면허가 약 85만 8천 건 있다고 적었다.
+2018년 기사[^3]에서 적성검사 기간을 놓친 40대 운전자는 경찰청 등기우편이 계속 왔지만 집에 아무도 없었고 잘못한 게 없어 신경 쓰지 않았다고 말했다.
 
-2025년 서울시 시민기자 글[^4]은 갱신 신청을 연말까지 미루면 시간이 많이 걸린다고 썼다. 2026년 기사[^5]에 따르면 2022년 한 해 적성검사 기한을 놓쳐 과태료를 받은 운전자는 전국 56만여 명이었다.
+2021년 텍사스 공공안전부 보도자료[^4]는 2021년 4월 1일 기준으로 시스템에 만료된 운전면허가 약 85만 8천 건 있다고 적었다.
+
+2025년 서울시 시민기자 글[^5]은 갱신 신청을 연말까지 미루면 시간이 많이 걸린다고 썼다. 2026년 기사[^6]에 따르면 2022년 한 해 적성검사 기한을 놓쳐 과태료를 받은 운전자는 전국 56만여 명이었다.
 
 # 관계
 
@@ -42,6 +44,7 @@
 
 [^1]: [SNS] "My licence expired in November, i got a reminder in September, but i completely forgot to renew it." (면허가 11월에 만료됐다. 9월에 안내를 받았는데 갱신하는 것을 완전히 잊었다.) — Singletrack 게시글, 2012-01-04, https://singletrackworld.com/forum/off-topic/help-with-british-driving-licence-expired-in-november-will-i-get-a-fine/, 2026-11-28 접속
 [^2]: [매체] "2016년 경찰청에서 취합한 전국 운전면허 취소처분 현황을 살펴보면 총 21만 267건의 면허취소 처분 중 25.18%(5만 2984건)가 적성검사 미필로 인한 것이었습니다." — 노컷뉴스, 「'음주운전'도 안했는데, 왜 면허가 '취소'됐지?」, 2017-03-17, https://www.nocutnews.co.kr/news/4750389, 2026-11-28 접속
-[^3]: [공공] "As of April 1, 2021, there were approximately 858,000 expired driver licenses in the DPS system." (2021년 4월 1일 기준으로 DPS 시스템에는 약 85만 8천 건의 만료된 운전면허가 있었다.) — Texas Department of Public Safety, "Expiration Waiver for Driver Licenses has Now Ended", 2021-04-15, https://www.dps.texas.gov/news/expiration-waiver-driver-licenses-has-now-ended, 2026-11-28 접속
-[^4]: [공공] "연말이 되어 갱신 신청을 하게 된다면 많은 시간이 소요될 것이다." — 서울시 내 손안에 서울, 「운전면허증 갱신 신청, 지금 하면 10분, 연말에는 4시간!」, 2025-09-05, https://mediahub.seoul.go.kr/archives/2015492, 2026-11-28 접속
-[^5]: [매체] "공단 집계를 보면 2022년 한 해 적성검사 기한을 놓쳐 과태료를 부과받은 운전자는 전국 56만여 명이었다." — 매일신문, 「운전면허 적성검사, 12월 대기 4시간…9월 온라인은 10분」, 2026-09-20, https://www.imaeil.com/page/view/2026092007292356641, 2026-11-28 접속
+[^3]: [매체] "얼마 전부터 경찰청에서 계속 등기우편이 왔지만 집에 아무도 없었고 잘못한 게 없기에 따로 신경 쓰지 않았다" — 아주경제, 「[단독] 운전면허 적성검사 '카톡'으로도 알려준다」, 2018-03-26, https://www.ajunews.com/view/20180326154819327, 2026-11-28 접속
+[^4]: [공공] "As of April 1, 2021, there were approximately 858,000 expired driver licenses in the DPS system." (2021년 4월 1일 기준으로 DPS 시스템에는 약 85만 8천 건의 만료된 운전면허가 있었다.) — Texas Department of Public Safety, "Expiration Waiver for Driver Licenses has Now Ended", 2021-04-15, https://www.dps.texas.gov/news/expiration-waiver-driver-licenses-has-now-ended, 2026-11-28 접속
+[^5]: [공공] "연말이 되어 갱신 신청을 하게 된다면 많은 시간이 소요될 것이다." — 서울시 내 손안에 서울, 「운전면허증 갱신 신청, 지금 하면 10분, 연말에는 4시간!」, 2025-09-05, https://mediahub.seoul.go.kr/archives/2015492, 2026-11-28 접속
+[^6]: [매체] "공단 집계를 보면 2022년 한 해 적성검사 기한을 놓쳐 과태료를 부과받은 운전자는 전국 56만여 명이었다." — 매일신문, 「운전면허 적성검사, 12월 대기 4시간…9월 온라인은 10분」, 2026-09-20, https://www.imaeil.com/page/view/2026092007292356641, 2026-11-28 접속
