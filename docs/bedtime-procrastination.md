@@ -14,7 +14,9 @@
 
 2021년 글[^4]의 기사는 업무와 집안일, 육아 등을 마치고 침대에 누운 뒤에야 쉴 시간이 생기고 그 때문에 힘들었던 하루를 보상받고 싶은 심리가 생긴다고 적었다. 2023년 글[^5]의 문답 기사에서 답변자는 졸리거나 피곤한데도 잠을 미루는 사람들이 전자기기로 게임을 하거나 좋아하는 드라마를 보거나 친구와 채팅하기를 더 원한다고 말했다.
 
-2026년 9월 8일 루리웹 게시글의 글쓴이는 할 일을 미루다 보니 수면을 미루게 되고 수면을 미루다 보니 할 일이 조금씩 미뤄진다고 적었다.[^6] 2026년 9월 12일 루리웹 게시글의 글쓴이는 문제가 있거나 할 일이 있던 것도 아닌데 자기 전에 잠깐 폰을 보려다 그대로 밤을 새웠다고 적었다.[^7]
+2023년 12월 기사[^6]가 전한 설문에서 응답자의 91%가 TV 프로그램의 여러 회를 몰아 보느라 늦게까지 깨어 있다가 잠을 잃은 적이 있다고 답했다.
+
+2026년 9월 8일 루리웹 게시글의 글쓴이는 할 일을 미루다 보니 수면을 미루게 되고 수면을 미루다 보니 할 일이 조금씩 미뤄진다고 적었다.[^7] 2026년 9월 12일 루리웹 게시글의 글쓴이는 문제가 있거나 할 일이 있던 것도 아닌데 자기 전에 잠깐 폰을 보려다 그대로 밤을 새웠다고 적었다.[^8]
 
 # 관계
 
@@ -28,11 +30,12 @@
 
 ## 원인
 
-- [미루기](procrastination.md)[^6]
+- [몰아보기](binge-watching.md)[^6]
+- [미루기](procrastination.md)[^7]
 
 ## 결과
 
-- [미루기](procrastination.md)[^6]
+- [미루기](procrastination.md)[^7]
 
 ## 대립
 
@@ -45,5 +48,6 @@
 [^3]: [학술] "In other words, participants who were depleted because they had attempted to resist many desires throughout the day procrastinated more about going to bed." (다시 말해 하루 동안 많은 욕구를 참으려 해서 소진된 참가자들은 잠자리에 드는 것을 더 미뤘다.) — Bart A. Kamphorst, Sanne Nauts, Denise T. D. De Ridder, Joel H. Anderson, "Too Depleted to Turn In: The Relevance of End-of-the-Day Resource Depletion for Reducing Bedtime Procrastination", Frontiers in Psychology 9, 2018-03-14, https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00252/full, 2026-10-19 접속
 [^4]: [매체] "이로 인해 침대에 누운 상태에서 힘들었던 하루에 대한 보상을 받고 싶은 심리가 생긴다." — 문세영, "보상 심리로 늦게 자는 잠, 괜찮을까?", 코메디닷컴, 2021-04-08, https://kormedi.com/1337343/, 2026-10-19 접속
 [^5]: [매체] "People who delay sleep even though they feel sleepy or tired do so because they prefer to do things like play games, watch their favourite dramas or chat with friends on their electronic devices." (졸리거나 피곤한데도 잠을 미루는 사람들은 전자기기로 게임을 하거나 좋아하는 드라마를 보거나 친구와 채팅하는 일을 더 원해서 그렇게 한다.) — Leow Leong Chai, "Bedtime procrastination", Singapore Health, Singapore General Hospital, 2023-09-07, https://www.sgh.com.sg/news/singapore-health/bedtime-procrastination, 2026-10-19 접속
-[^6]: [SNS] "할 일을 미루다보니 수면을 미루게 되고 수면을 미루다보니 할 일이 조금씩 미뤄지고" — 루리웹 게시글, 2026-09-08, https://bbs.ruliweb.com/family/4526/board/300143/read/76592812, 2026-10-19 접속
-[^7]: [SNS] "무슨 문제가 있는 것도 아니고 할 일이 있던 것도 아닌데 그냥 자기 전에 잠깐 폰 좀 보려다 그대로 폰질하면서 밤을 새버림" — 루리웹 게시글, 2026-09-12, https://bbs.ruliweb.com/community/board/300143/read/76641698, 2026-10-19 접속
+[^6]: [매체] "According to the survey, 91% reported they have lost sleep because they stayed up to binge-watch multiple episodes of a TV show." (설문에 따르면 응답자의 91%가 TV 프로그램의 여러 회를 몰아 보느라 깨어 있다가 잠을 잃은 적이 있다고 답했다.) — Chelsie Derman, "Screen Time Inhibits Sleep for Most Americans, Survey Finds", AJMC, 2023-12-06, https://www.ajmc.com/view/screen-time-inhibits-sleep-for-most-americans-survey-finds, 2026-11-28 접속
+[^7]: [SNS] "할 일을 미루다보니 수면을 미루게 되고 수면을 미루다보니 할 일이 조금씩 미뤄지고" — 루리웹 게시글, 2026-09-08, https://bbs.ruliweb.com/family/4526/board/300143/read/76592812, 2026-10-19 접속
+[^8]: [SNS] "무슨 문제가 있는 것도 아니고 할 일이 있던 것도 아닌데 그냥 자기 전에 잠깐 폰 좀 보려다 그대로 폰질하면서 밤을 새버림" — 루리웹 게시글, 2026-09-12, https://bbs.ruliweb.com/community/board/300143/read/76641698, 2026-10-19 접속

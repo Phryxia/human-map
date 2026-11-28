@@ -34,7 +34,7 @@
 
 ## 결과
 
-없음.
+- [잠자리 미루기](bedtime-procrastination.md)
 
 ## 대립
 
