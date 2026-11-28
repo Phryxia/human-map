@@ -22,7 +22,7 @@
 
 ## 상위
 
-없음.
+- [휴가와 휴직 쓰기 망설이기](hesitating-to-take-leave.md)
 
 ## 하위
 

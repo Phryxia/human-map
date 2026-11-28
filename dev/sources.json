@@ -37868,5 +37868,29 @@
     "last": "2026-11-28",
     "result": "VERIFIED",
     "lastVerified": "2026-11-28"
+  },
+  "https://www.startup-roudou.mhlw.go.jp/qa/zigyonushi/yukyu/q4.html": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31226966%20AND%20SRC:MED&resultType=core&format=json": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:35595628%20AND%20SRC:MED&resultType=core&format=json": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
+  },
+  "https://news.tf.co.kr/read/life/2354663.htm": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "VERIFIED",
+    "lastVerified": "2026-11-28"
   }
 }

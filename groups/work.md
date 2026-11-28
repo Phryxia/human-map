@@ -32,13 +32,10 @@
 - [손님의 폭언](../docs/customer-verbal-abuse.md) 손님이나 민원인이 자기를 응대하는 직원이나 공무원에게 소리 지르거나 욕한다.
 - [심리적 계약 위반 지각](../docs/psychological-contract-breach.md) 직원이 회사가 고용 때 약속한 의무를 지키지 않았다고 느끼고 회사를 덜 믿게 된다.
 - [아는 것을 모르는 척하기](../docs/feigning-ignorance.md) 알고 있는 것에 대해 질문이나 요청을 받은 사람이 답하거나 내주지 않으려고 모르는 척한다.
-- [아파도 출근하기](../docs/sickness-presenteeism.md) 몸이 아픈 근로자가 쉬지 않고 출근해 일한다.
 - [연봉 협상하지 않기](../docs/not-negotiating-salary.md) 일자리 제안을 받은 사람이 돈을 더 달라고 하기가 불편하거나 제안이 철회될까 걱정해 연봉을 협상하지 않고 처음 제시된 금액을 받아들인다.
-- [연차휴가 남기기](../docs/unused-annual-leave.md) 유급휴가를 받은 직장인이 직장 분위기와 상사의 눈치, 일의 양 때문에 휴가를 다 쓰지 않고 남긴다.
 - [윗사람에게 아첨하기](../docs/flattering-superiors.md) 아랫사람이 상사나 힘 있는 사람의 호감을 사려고 그를 추어올리거나 낮은 자세를 보인다.
   - [윗사람에게 일부러 져 주기](../docs/letting-superiors-win.md)
   - [윗사람의 농담에 따라 웃기](../docs/laughing-at-the-bosss-jokes.md)
-- [육아휴직 망설이기](../docs/hesitating-to-take-parental-leave.md) 육아휴직을 쓸 수 있는 직장인이 동료의 업무 부담과 직장 분위기, 경력 불이익을 걱정해 휴직 신청을 미루거나 하지 않는다.
 - [은퇴 번복](../docs/unretirement.md) 은퇴한 사람이 일을 그만둔 뒤 다시 일자리로 돌아간다.
 - [일 맡기지 못하기](../docs/reluctance-to-delegate.md) 관리자나 직장인이 남에게 맡길 수 있는 일을 맡기지 않고 직접 한다.
 - [일 중독](../docs/workaholism.md) 일하는 사람이 일을 멈추지 못하고 일에서 떨어지면 일을 생각하거나 일하지 않는 데 죄책감을 느낀다.
@@ -62,3 +59,7 @@
 - [회식 참석 부담](../docs/company-dinner-pressure.md) 직장인이 회식을 부담스러워하면서도 빠졌을 때 상사나 동료가 어떻게 볼지 신경 쓰며 참석하거나 빠질 핑계를 찾는다.
 - [회식을 업무의 연장으로 느끼기](../docs/company-dinner-as-work.md) 회식에 나가는 직장인이 회식을 쉬는 자리가 아니라 근무 시간 밖으로 이어진 업무로 느낀다.
 - [회의 중 딴 일 하기](../docs/multitasking-in-meetings.md) 회의에 참석한 사람이 회의 도중 이메일 확인이나 다른 업무 같은 딴 일을 한다.
+- [휴가와 휴직 쓰기 망설이기](../docs/hesitating-to-take-leave.md) 휴가나 휴직을 쓸 수 있는 직장인이 동료에게 일이 넘어가는 부담과 직장의 눈치를 의식해 쓰기를 망설이거나 쓰지 않는다.
+  - [아파도 출근하기](../docs/sickness-presenteeism.md)
+  - [연차휴가 남기기](../docs/unused-annual-leave.md)
+  - [육아휴직 망설이기](../docs/hesitating-to-take-parental-leave.md)
