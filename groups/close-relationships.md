@@ -119,6 +119,7 @@
 - [용서하기](../docs/forgiveness.md) 자기에게 잘못한 사람을 두고 잘못을 당한 사람이 원한과 앙갚음하려는 마음을 내려놓는다.
 - [원한 품기](../docs/holding-a-grudge.md) 언짢은 일을 겪은 사람이 오랜 시간이 지나도 그 일과 상대에 대한 원망을 놓지 않고 품고 있다.
 - [은퇴남편 증후군](../docs/retired-husband-syndrome.md) 남편이 은퇴해 집에 머무는 시간이 늘자 아내가 스트레스를 받고 마음이 무거워진다.
+- [일기 숨기기](../docs/hiding-ones-diary.md) 일기나 사적인 글을 쓰는 사람이 가족이나 같이 사는 사람이 읽을까 봐 그것을 숨겨 두거나 치운다.
 - [일부러 져 주기](../docs/letting-others-win.md) 놀이나 시합에서 이길 수 있는 사람이 상대가 이기도록 일부러 힘을 빼거나 나쁜 수를 둔다.
   - [윗사람에게 일부러 져 주기](../docs/letting-superiors-win.md)
 - [자기 농담에 자기가 웃기](../docs/laughing-at-own-jokes.md) 농담이나 말장난을 한 사람이 그 말 끝에 스스로 웃는다.

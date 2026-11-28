@@ -801,6 +801,7 @@
 - [인플루언서 추천 보고 사기](docs/buying-on-influencer-recommendation.md) ([돈과 소비](groups/money.md))
 - [일 맡기지 못하기](docs/reluctance-to-delegate.md) ([일터와 일자리](groups/work.md))
 - [일 중독](docs/workaholism.md) ([일터와 일자리](groups/work.md))
+- [일기 숨기기](docs/hiding-ones-diary.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [일기 쓰기](docs/keeping-a-diary.md) ([기억과 떠오르는 생각](groups/memory-and-thoughts.md))
 - [일부러 져 주기](docs/letting-others-win.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [일부러 피부 태우기](docs/intentional-tanning.md) ([건강과 위험](groups/health-and-safety.md))
