@@ -54,6 +54,7 @@
   - [리베이트 받지 않기](../docs/rebate-slippage.md)
   - [복지 급여 미신청](../docs/not-claiming-benefits.md)
   - [상품권과 포인트 쓰지 않고 소멸시키기](../docs/letting-gift-cards-and-points-expire.md)
+  - [소액 보험금 청구하지 않기](../docs/not-claiming-small-insurance-payouts.md)
 - [밥값 아껴 책 사기](../docs/skipping-meals-to-buy-books.md) 돈이 넉넉하지 않은 사람이 끼니에 쓸 돈으로 책을 사고 끼니를 거르거나 값싼 음식으로 때운다.
 - [배우자에게 재정 정보 숨기기](../docs/spouse-financial-concealment.md) 연인이나 배우자 사이에서 한쪽이 지출, 부채, 저축 같은 재정 정보를 상대에게 숨긴다.
   - [배우자 몰래 비상금 모으기](../docs/secret-stash-from-spouse.md)
