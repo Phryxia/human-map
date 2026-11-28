@@ -1,16 +1,48 @@
 {
   "version": 1,
-  "savedAt": "2026-11-27T21:36:45.008Z",
-  "nextSeq": 6825,
-  "stops": 372,
+  "savedAt": "2026-11-28T00:38:17.114Z",
+  "nextSeq": 6838,
+  "stops": 373,
   "items": [
     {
-      "id": "79b4fbf5",
-      "title": "recognizing-sender-by-handwriting [^3] 와 leaving-mail-unopened [^1] 재확인",
+      "id": "3a9eb18d",
+      "title": "missing-license-renewal 보강: 안내 우편 무시 원인",
       "priority": 50,
-      "note": "2026-11-27 gutenberg.pglaf.org 19500-0.txt 가 source-check 에서 타임아웃(큰 txt). www.gutenberg.org 는 503 점검. cache/epub/19500 HTML 판으로 바꿔 확인",
-      "createdAt": "2026-11-27T21:36:31.954Z",
-      "seq": 6824
+      "note": "2026-11-28 ajunews 20180326154819327 '경찰청에서 계속 등기우편이 왔지만 ... 신경 쓰지 않았다' 는 안내를 무시한 이유. leaving-mail-unopened 와의 관계 후보. GOV.UK DVLA 2013-06-24 는 벌금 경고만 있음",
+      "createdAt": "2026-11-28T00:11:37.660Z",
+      "seq": 6832
+    },
+    {
+      "id": "c47bb18f",
+      "title": "delaying-address-update-after-moving 보강: 원인 간선, 한국 출처",
+      "priority": 50,
+      "note": "2026-11-28 AEC direct.htm 의 'already believe they are being automatically enrolled' 는 자동 갱신 믿음이 원인 후보이나 같은 출처라 못 씀. Singletrack 같은 스레드 댓글 'never been fined' 도 같은 출처. 한국 전입신고 지연 공공 자료 못 찾음. newsis NISX20230303_0002213483 주민등록·실거주 불일치 7만6972명",
+      "createdAt": "2026-11-28T00:15:38.396Z",
+      "seq": 6833
+    },
+    {
+      "id": "7192e9ca",
+      "title": "misparking-shared-scooters 보강: SNS 파편, 원인 간선",
+      "priority": 50,
+      "note": "2026-11-28 공개 게시판 후보 못 찾음. findingspress 19537 은 규칙을 모름이 이유. 보여 준 뒤 8.6%→26% 대목은 같은 출처. mediahub 2002346 2021-07-30 견인 시작",
+      "createdAt": "2026-11-28T00:19:43.257Z",
+      "seq": 6834
+    },
+    {
+      "id": "46835e99",
+      "title": "post-holiday-divorce-filing 관계: mother-in-law-conflict 원인 간선, SNS 파편",
+      "priority": 50,
+      "note": "2026-11-28 mt.co.kr 2021091712145174264 '명절 준비를 며느리에게만 부담시키고 ... 갈등이 많이 생긴다', segye 20160917000648 '가사일 분담 등 부부갈등이 심화돼 이혼건수가 급증' 이 원인 문장 후보. 공개 게시판 글 못 찾음",
+      "createdAt": "2026-11-28T00:23:51.145Z",
+      "seq": 6835
+    },
+    {
+      "id": "e7c51e7e",
+      "title": "not-claiming-small-insurance-payouts 보강: SNS 파편, 2010년 이전 시기",
+      "priority": 50,
+      "note": "2026-11-28 dailypharm 51790 의 포기 사유 대목(진료금액이 적어서 51.3%, 서류 못 챙김 46.6%)은 같은 출처. twig24 20181019500169 보험연구원 설문 소액 90.6%. 공개 게시판 글 못 찾음",
+      "createdAt": "2026-11-28T00:30:39.510Z",
+      "seq": 6837
     },
     {
       "id": "0ac5c1c6",
@@ -3515,6 +3547,14 @@
       "note": "2026-11-27 김유정 「산골 나그네」 위키문헌 '다른 사람들은 돈 낼 생각은커녕 이러면 다시 술 안 먹겠다고 도리어 얼러보냈던 것이다.' buying-on-credit-at-local-shops, avoiding-creditors 와 관계 후보",
       "createdAt": "2026-11-27T06:19:19.941Z",
       "seq": 6787
+    },
+    {
+      "id": "36761356",
+      "title": "missing-vehicle-inspection, missing-license-renewal 상위 후보: 공적 기한 놓치기",
+      "priority": 10,
+      "note": "2026-11-28 두 문서와 delaying-address-update-after-moving, late-passport-expiry-check 가 모두 행정 기한을 잊는 현상. 일반 문서를 둘 파편 필요. GOV.UK DVSA 'drivers forgetting' 이 잊음을 이유로 든다",
+      "createdAt": "2026-11-28T00:27:05.787Z",
+      "seq": 6836
     },
     {
       "id": "02b2f242",
