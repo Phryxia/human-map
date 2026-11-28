@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "savedAt": "2026-11-28T00:38:17.114Z",
-  "nextSeq": 6838,
-  "stops": 373,
+  "savedAt": "2026-11-28T03:37:19.350Z",
+  "nextSeq": 6848,
+  "stops": 374,
   "items": [
-    {
-      "id": "3a9eb18d",
-      "title": "missing-license-renewal 보강: 안내 우편 무시 원인",
-      "priority": 50,
-      "note": "2026-11-28 ajunews 20180326154819327 '경찰청에서 계속 등기우편이 왔지만 ... 신경 쓰지 않았다' 는 안내를 무시한 이유. leaving-mail-unopened 와의 관계 후보. GOV.UK DVLA 2013-06-24 는 벌금 경고만 있음",
-      "createdAt": "2026-11-28T00:11:37.660Z",
-      "seq": 6832
-    },
-    {
-      "id": "c47bb18f",
-      "title": "delaying-address-update-after-moving 보강: 원인 간선, 한국 출처",
-      "priority": 50,
-      "note": "2026-11-28 AEC direct.htm 의 'already believe they are being automatically enrolled' 는 자동 갱신 믿음이 원인 후보이나 같은 출처라 못 씀. Singletrack 같은 스레드 댓글 'never been fined' 도 같은 출처. 한국 전입신고 지연 공공 자료 못 찾음. newsis NISX20230303_0002213483 주민등록·실거주 불일치 7만6972명",
-      "createdAt": "2026-11-28T00:15:38.396Z",
-      "seq": 6833
-    },
     {
       "id": "7192e9ca",
       "title": "misparking-shared-scooters 보강: SNS 파편, 원인 간선",
@@ -29,20 +13,28 @@
       "seq": 6834
     },
     {
-      "id": "46835e99",
-      "title": "post-holiday-divorce-filing 관계: mother-in-law-conflict 원인 간선, SNS 파편",
-      "priority": 50,
-      "note": "2026-11-28 mt.co.kr 2021091712145174264 '명절 준비를 며느리에게만 부담시키고 ... 갈등이 많이 생긴다', segye 20160917000648 '가사일 분담 등 부부갈등이 심화돼 이혼건수가 급증' 이 원인 문장 후보. 공개 게시판 글 못 찾음",
-      "createdAt": "2026-11-28T00:23:51.145Z",
-      "seq": 6835
-    },
-    {
       "id": "e7c51e7e",
       "title": "not-claiming-small-insurance-payouts 보강: SNS 파편, 2010년 이전 시기",
       "priority": 50,
       "note": "2026-11-28 dailypharm 51790 의 포기 사유 대목(진료금액이 적어서 51.3%, 서류 못 챙김 46.6%)은 같은 출처. twig24 20181019500169 보험연구원 설문 소액 90.6%. 공개 게시판 글 못 찾음",
       "createdAt": "2026-11-28T00:30:39.510Z",
       "seq": 6837
+    },
+    {
+      "id": "20a7a119",
+      "title": "carrying-shoes-to-save-them 보강: 공공 또는 SNS 파편",
+      "priority": 50,
+      "note": "2026-11-28 duchas.ie Schools' Collection(Carpenterstown 5009034/4979347/5115503 'carried the shoes to the church door', Coolavin 4701772 'in order to save the shoes') 은 curl HTML 에 본문 없음(21KB, JS). 다른 판이나 아일랜드 공공 자료 찾을 것",
+      "createdAt": "2026-11-28T03:37:00.283Z",
+      "seq": 6846
+    },
+    {
+      "id": "61fd9c06",
+      "title": "delaying-address-update-after-moving 보강: 원인 간선, 한국 출처",
+      "priority": 50,
+      "note": "2026-11-28 AEC direct.htm 의 'already believe they are being automatically enrolled' 는 자동 갱신 믿음이 원인 후보이나 같은 출처라 못 씀. Singletrack 같은 스레드 댓글 'never been fined' 도 같은 출처. 한국 전입신고 지연 공공 자료 못 찾음. newsis NISX20230303_0002213483 주민등록·실거주 불일치 7만6972명",
+      "createdAt": "2026-11-28T03:37:10.010Z",
+      "seq": 6847
     },
     {
       "id": "0ac5c1c6",
@@ -59,14 +51,6 @@
       "note": "2026-11-14 clien park/19021500 SNS 추가. 2026-11-21 korea.kr 148928364·148958728, mediahub.seoul.go.kr 2012066·2014251·2004810, news.seoul.go.kr traffic 505470 등 대목 없음. 다음: koroad.or.kr 보도자료 '법규준수 교육 설문'(쿠키뉴스 kuk202601210300 2026-01-21 보도, 운전경력 20년 이상 46%), 경찰청·교통안전공단 '고령운전자 자가진단'",
       "createdAt": "2026-11-21T09:32:19.117Z",
       "seq": 6021
-    },
-    {
-      "id": "5be4c2c8",
-      "title": "self-deprecation 원인 간선: 낮은 자존감",
-      "priority": 30,
-      "note": "2026-11-21 Cherry Orchard 7986, Brothers Karamazov 28054 문학 추가. 남은 후보: PMC4991046 'low self-esteem (Martin et al., 2003)'. 낮은 자존감 문서 없음",
-      "createdAt": "2026-11-21T09:33:08.208Z",
-      "seq": 6022
     },
     {
       "id": "77a1e4a7",
@@ -155,14 +139,6 @@
       "note": "2026-11-18 별칭(Pain catastrophizing)은 arthritis.org 2021-10-31 로 붙임. Straight Dope search.json 'catastrophizing pain' 결과 없음. 2026-11-21 회차 321: search.json 'pain worse think about it', 'focus on the pain' 도 맞는 글 없음. doctornow.co.kr qna 는 건강 불안 쪽",
       "createdAt": "2026-11-21T15:24:33.668Z",
       "seq": 6068
-    },
-    {
-      "id": "72e25a1e",
-      "title": "browsing-the-open-fridge 보강: 공공 파편",
-      "priority": 30,
-      "note": "2026-11-18 OSTI 211872 1995 학술 추가함. 2026-11-21 회차 321: food.gov.uk 의 storing-chilled-foods-at-incorrect-temperatures, kitchen-life-2, kitchen-life-2-technical-report, 뉴스 페이지 모두 410. foodsafetynews 2023-11 FSA Kitchen Life 2 'average time in households was 48 seconds'(매체). iifiir.org fridoc 141828 2019 Harrington 실측(학술). 다른 정부 기관(에너지 절약 안내) 쪽을 찾을 것",
-      "createdAt": "2026-11-21T15:25:33.946Z",
-      "seq": 6069
     },
     {
       "id": "558aa1d0",
@@ -923,6 +899,22 @@
       "note": "2026-10-21 원인 간선은 '괜찮겠지' 판단을 원인으로 말하는 문장 필요. 2026-11-27 후보: PMC5309158 2017-01-17 'DUI offenders systematically underestimate the degree to which alcohol impairs their ability to drive'(남과 견준 과신이 아니라 술의 영향 과소평가), PMC4814299 2016-02-10 'BAC underestimation can promote the decision to drive after drinking'. '술 영향 과소평가' 를 새 현상으로 둘지 정할 것",
       "createdAt": "2026-11-27T15:39:42.705Z",
       "seq": 6820
+    },
+    {
+      "id": "db5c3e33",
+      "title": "post-holiday-divorce-filing 관계: mother-in-law-conflict 원인 간선, SNS 파편",
+      "priority": 30,
+      "note": "2026-11-28 mt.co.kr 2021091712145174264 를 [^6] 으로 더함('시집 스트레스로 이혼'). 같은 기사 변호사 말 '며느리에게만 부담시키고 ... 갈등' 은 부부 갈등이라 고부 갈등 간선 근거 아님. 공개 게시판 글 못 찾음",
+      "createdAt": "2026-11-28T03:17:47.353Z",
+      "seq": 6844
+    },
+    {
+      "id": "0f1583a0",
+      "title": "apologizing-for-messy-home 원인 간선: 평가받을 두려움",
+      "priority": 30,
+      "note": "2026-11-28 livingetc 2026-07-24 [^3] 'The fear of being judged is what causes most people to feel uncomfortable enough to say sorry'. 상대 문서(부정 평가 두려움) 있는지 find 로 확인",
+      "createdAt": "2026-11-28T03:34:44.080Z",
+      "seq": 6845
     },
     {
       "id": "9634edf0",
