@@ -29952,15 +29952,15 @@
   },
   "https://green.start-up.ro/en/9-out-of-10-homeowners-ignore-energy-efficient-features/": {
     "first": "2026-11-17",
-    "last": "2026-11-18",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-28"
   },
   "https://news.ycombinator.com/item?id=35243823": {
     "first": "2026-11-17",
-    "last": "2026-11-18",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-28"
   },
   "https://singletrackworld.com/forum/off-topic/how-do-you-deal-with-your-mothers-death//paged/3/": {
     "first": "2026-11-17",
@@ -30000,9 +30000,9 @@
   },
   "https://uk.news.yahoo.com/indecisive-brits-spend-37-hours-125045946.html": {
     "first": "2026-11-17",
-    "last": "2026-11-18",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-28"
   },
   "https://news.ycombinator.com/item?id=36803512": {
     "first": "2026-11-17",
@@ -30474,9 +30474,9 @@
   },
   "https://boards.straightdope.com/t/tales-of-compulsive-and-emotional-eating/368235?page=3": {
     "first": "2026-11-17",
-    "last": "2026-11-18",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-28"
   },
   "https://boards.straightdope.com/t/522760": {
     "first": "2026-11-17",
@@ -30618,9 +30618,9 @@
   },
   "https://www.osti.gov/biblio/211872": {
     "first": "2026-11-18",
-    "last": "2026-11-18",
+    "last": "2026-11-28",
     "result": "VERIFIED",
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-28"
   },
   "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_2/Surprized_by_joy": {
     "first": "2026-11-18",
@@ -37624,5 +37624,10 @@
     "last": "2026-11-28",
     "result": "VERIFIED",
     "lastVerified": "2026-11-28"
+  },
+  "https://gea.gov.gy/?p=1733": {
+    "first": "2026-11-28",
+    "last": "2026-11-28",
+    "result": "UNREACHABLE"
   }
 }
