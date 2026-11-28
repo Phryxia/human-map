@@ -5,6 +5,7 @@
 [문서 묶음](../README.md#문서-묶음), [전체 문서 목록](../INDEX.md)
 
 - [계기판 경고등 무시하고 운전하기](../docs/ignoring-dashboard-warning-lights.md) 계기판 경고등이 켜진 차의 운전자가 정비를 미루고 그대로 차를 몬다.
+- [공유 킥보드 아무 데나 세워 두기](../docs/misparking-shared-scooters.md) 공유 전동킥보드나 공유 자전거를 다 탄 사람이 보도, 지하철역 출입구, 버스정류장, 점자블록 위처럼 정해지지 않은 자리에 기기를 세워 두고 떠난다.
 - [과속 운전](../docs/speeding.md) 운전자가 운전을 통제하고 있다고 믿거나 더 빨리 도착하려고 제한 속도보다 빠르게 달린다.
   - [눈길과 빙판길에서 속도 줄이지 않기](../docs/not-slowing-on-icy-roads.md)
   - [단속 카메라 앞에서만 속도 줄이기](../docs/slowing-only-at-speed-cameras.md)

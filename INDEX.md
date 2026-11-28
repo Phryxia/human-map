@@ -92,6 +92,7 @@
 - [공사 현장 안전모와 안전대 미착용](docs/construction-ppe-nonuse.md) ([건강과 위험](groups/health-and-safety.md))
 - [공용 와이파이에서 민감한 일 하기](docs/sensitive-tasks-on-public-wifi.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
 - [공용 우산 돌려주지 않기](docs/not-returning-shared-umbrellas.md) ([시민 참여와 공공의 일](groups/civic-life.md))
+- [공유 킥보드 아무 데나 세워 두기](docs/misparking-shared-scooters.md) ([길과 운전](groups/roads-and-driving.md))
 - [공중화장실 변기에 앉지 않기](docs/hovering-over-public-toilet-seats.md) ([건강과 위험](groups/health-and-safety.md))
 - [과다복용 현장에서 신고 꺼리기](docs/not-calling-for-help-at-overdose.md) ([시민 참여와 공공의 일](groups/civic-life.md))
 - [과속 운전](docs/speeding.md) ([길과 운전](groups/roads-and-driving.md))
