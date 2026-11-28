@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-28T09:31:14.802Z",
-  "nextSeq": 6865,
-  "stops": 376,
+  "savedAt": "2026-11-28T12:31:45.051Z",
+  "nextSeq": 6875,
+  "stops": 377,
   "items": [
     {
       "id": "24e4ea70",
@@ -19,6 +19,30 @@
       "note": "2026-11-28 escholarship.org/uc/item/7n78p0qm 은 202 빈 페이지, psychologicalscience.org 09567976241235930 403, lima.osu.edu/media/459 PDF, Sensible-Bracing-2007 PDF. rpubs 866048 은 학술 아님. awaiting-uncertain-news, tempting-fate 와 관계 후보",
       "createdAt": "2026-11-28T09:31:13.901Z",
       "seq": 6864
+    },
+    {
+      "id": "d1b39b1e",
+      "title": "wiping-glasses-to-buy-time 보강: 비문학 파편",
+      "priority": 50,
+      "note": "2026-11-28 abovethelaw where-theres-smoke 403. Les Miserables 135 의 'interrupted herself to wipe her glasses' 는 시간 끌기 표지 없음. 한국어 '안경을 벗어 닦으며' 검색은 세척법 기사뿐",
+      "createdAt": "2026-11-28T12:26:37.849Z",
+      "seq": 6872
+    },
+    {
+      "id": "b8315c5d",
+      "title": "stopping-clocks-after-death 보강: 문학 파편",
+      "priority": 50,
+      "note": "2026-11-28 Gutenberg 110 6688 550 507 107 122 153 1023 766 grep 'stopped the clock' 없음. saturdayeveningpost 2023-10 grandfathers-clock 은 시계가 저절로 멈추는 이야기라 맞지 않음. Great Expectations 1400 은 4개 문서가 써서 못 씀",
+      "createdAt": "2026-11-28T12:30:19.870Z",
+      "seq": 6873
+    },
+    {
+      "id": "027dc3f8",
+      "title": "worrying-about-damage-before-the-injured 보강: SNS 또는 학술 파편",
+      "priority": 50,
+      "note": "2026-11-28 inews24 2026099 는 이미 [^2]. 남편 사고에 차부터 걱정한 원글은 기사만 찾음",
+      "createdAt": "2026-11-28T12:31:38.335Z",
+      "seq": 6874
     },
     {
       "id": "0ac5c1c6",
@@ -3571,6 +3595,22 @@
       "note": "HN 20423751·16875942 에서 봄. misparking-shared-scooters 의 원인 후보, not-returning-shared-umbrellas 와 관계 후보",
       "createdAt": "2026-11-28T09:08:34.908Z",
       "seq": 6860
+    },
+    {
+      "id": "37b28d20",
+      "title": "imagining-strangers-backstories 관계: sensing-strangers-inner-lives",
+      "priority": 10,
+      "note": "2026-11-28 두 문서 모두 낯선 사람의 삶을 떠올리는 현상. 한쪽이 다른 쪽을 부른다는 인과 파편이 있으면 원인 간선",
+      "createdAt": "2026-11-28T12:18:28.299Z",
+      "seq": 6870
+    },
+    {
+      "id": "1b043acd",
+      "title": "hiding-ones-diary 관계: reading-others-private-writing 원인 간선",
+      "priority": 10,
+      "note": "2026-11-28 phdkim free/24721 은 숨긴 일기를 엄마가 찾아 읽었다는 시간 서술뿐. 들킬까 봐 숨긴다는 인과 문장 필요. uvic Girls' Diary Project PDF 는 미확인",
+      "createdAt": "2026-11-28T12:25:23.898Z",
+      "seq": 6871
     },
     {
       "id": "02b2f242",
