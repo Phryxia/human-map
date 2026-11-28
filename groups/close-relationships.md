@@ -54,6 +54,7 @@
 - [맞대 놓고 못 할 말을 남을 거쳐 전하기](../docs/passing-words-through-a-go-between.md) 가족이나 가까운 사람에게 껄끄러운 말을 할 사람이 그 말을 당사자에게 직접 하지 않고 다른 가족을 시켜 전한다.
 - [명절 귀성 포기](../docs/skipping-holiday-homecoming.md) 명절에 고향이나 부모 집에 갈 수 있는 사람이 가지 않고 지내던 곳에 남기로 한다.
   - [부끄러워 귀향 피하기](../docs/skipping-homecoming-out-of-shame.md)
+- [명절 뒤 이혼 신청](../docs/post-holiday-divorce-filing.md) 명절이나 크리스마스 연휴를 함께 보낸 부부 가운데 일부가 연휴 동안이나 그 뒤에 다투고 연휴가 끝나면 이혼을 신청한다.
 - [명절 잔소리를 웃음으로 넘기기](../docs/laughing-off-holiday-nagging.md) 명절에 친척에게 취업이나 결혼에 관한 잔소리를 들은 사람이 맞서지 않고 웃거나 적당히 대답해 넘긴다.
 - [명절 친지 모임 피하기](../docs/skipping-holiday-gatherings.md) 명절을 맞은 사람이 친척의 질문과 잔소리를 부담스러워하며 친지 모임에 가지 않고 혼자 또는 따로 지낸다.
 - [목이 메어 말을 잇지 못하기](../docs/choking-up-mid-speech.md) 감정이 북받친 사람이 말을 하다가 목이 메어 목소리가 갈라지거나 말을 잇지 못한다.
