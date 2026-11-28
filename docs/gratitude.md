@@ -34,6 +34,7 @@
 
 - [부채감](indebtedness.md)[^2]
 - [택배 기사에게 음료와 간식 두기](leaving-drinks-for-delivery-workers.md)[^4]
+- [감사 선물](thank-you-gift.md)
 
 ## 대립
 

@@ -29,6 +29,7 @@
 ## 원인
 
 - [부채감](indebtedness.md)[^3]
+- [고마움](gratitude.md)[^5]
 
 ## 결과
 
@@ -44,3 +45,4 @@
 [^2]: [SNS] "최근 제가 크게 신세진 분이 있어서 감사의 인사로 선물을 드릴려 했는데요" — 클리앙 게시글, 2023-06-09, https://www.clien.net/service/board/kin/18125020, 2026-11-14 접속
 [^3]: [학술] "A thank‐you gift seems to be best predicted by the emotion of indebtedness." (감사 선물은 부채감이라는 감정으로 가장 잘 예측되는 것으로 보인다.) — Shigehiro Oishi, Minha Lee, Minkyung Koo, Youngjae Cha, "The psychology of a thank‐you gift: Who gives it and why?", Applied Psychology: Health and Well-Being 17, 2025-05-07, https://pmc.ncbi.nlm.nih.gov/articles/PMC12106001/, 2026-10-18 접속
 [^4]: [매체] "나는 한참을 고민했다. 얼마짜리 선물을 해야 할까. 너무 저렴하면 안 될 것 같고, 너무 비싸도 이상할 것 같았다. 결국 나는 친구의 생일에 5만 원짜리 기프티콘을 보냈다. 그리고 그제야 마음이 편해졌다." — 「고맙지만 불편합니다.」, 브런치, 2026-06-24, https://brunch.co.kr/@beliebt83/6, 2026-10-18 접속
+[^5]: [SNS] "그래서 병원 대표원장님이 저희 생명의 은인? 아무튼 너무 감사해서 다음 병원 진료일에 작은 선물과 편지라도 전달해드리고싶은데, 어떤 선물이 좋을까요?" — 블라인드 게시글, 2026-07-11, https://www.teamblind.com/kr/post/의사선생님께-감사선물-추천-l5evkemh, 2026-11-28 접속
