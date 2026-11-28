@@ -1036,6 +1036,7 @@
 - [타인의 표정을 부정적으로 읽기](docs/reading-faces-as-negative.md) ([남의 시선과 창피함](groups/others-gaze.md))
 - [탐욕](docs/greed.md) ([돈과 소비](groups/money.md))
 - [태풍 앞두고 유리창에 테이프 붙이기](docs/taping-windows-before-typhoons.md) ([건강과 위험](groups/health-and-safety.md))
+- [택배 기사에게 음료와 간식 두기](docs/leaving-drinks-for-delivery-workers.md) ([선물, 대접과 예의](groups/gifts-and-hospitality.md))
 - [텃밭 가꾸기](docs/vegetable-gardening.md) ([시간과 하루 습관](groups/daily-time.md))
 - [텐트 안에서 난로 켜고 자기](docs/heating-inside-tents.md) ([건강과 위험](groups/health-and-safety.md))
 - [통계 조사 응답 거부](docs/refusing-statistical-surveys.md) ([시민 참여와 공공의 일](groups/civic-life.md))
