@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "savedAt": "2026-11-28T03:37:19.350Z",
-  "nextSeq": 6848,
-  "stops": 374,
+  "savedAt": "2026-11-28T06:29:47.610Z",
+  "nextSeq": 6852,
+  "stops": 375,
   "items": [
     {
       "id": "7192e9ca",
@@ -35,6 +35,14 @@
       "note": "2026-11-28 AEC direct.htm 의 'already believe they are being automatically enrolled' 는 자동 갱신 믿음이 원인 후보이나 같은 출처라 못 씀. Singletrack 같은 스레드 댓글 'never been fined' 도 같은 출처. 한국 전입신고 지연 공공 자료 못 찾음. newsis NISX20230303_0002213483 주민등록·실거주 불일치 7만6972명",
       "createdAt": "2026-11-28T03:37:10.010Z",
       "seq": 6847
+    },
+    {
+      "id": "4d072862",
+      "title": "bracing-for-disappointment 보강: 학술 파편",
+      "priority": 50,
+      "note": "2026-11-28 Sweeny & Shepperd 2007 PSPB(people.clas.ufl.edu/shepperd/files/Sensible-Bracing-2007.pdf) 는 PDF. psychologicalscience.org 09567976241235930(2024, 시험 성적 기다리며 기대가 비관 쪽으로 흐름) 은 403. Golub·Gilbert·Wilson 2009 의 HTML 판 찾을 것. awaiting-uncertain-news, tempting-fate 와 관계 후보",
+      "createdAt": "2026-11-28T06:19:06.800Z",
+      "seq": 6850
     },
     {
       "id": "0ac5c1c6",
@@ -915,6 +923,14 @@
       "note": "2026-11-28 livingetc 2026-07-24 [^3] 'The fear of being judged is what causes most people to feel uncomfortable enough to say sorry'. 상대 문서(부정 평가 두려움) 있는지 find 로 확인",
       "createdAt": "2026-11-28T03:34:44.080Z",
       "seq": 6845
+    },
+    {
+      "id": "2135914e",
+      "title": "too-excited-to-eat 관계: pleasure-of-anticipation 원인 간선",
+      "priority": 30,
+      "note": "2026-11-28 sleepless-before-exciting-day 와 같은 들뜸. '들떠서 때문에 못 먹는다' 를 원인으로 말하는 파편 필요. onefabday.com tips-for-a-calm-wedding-morning 'too anxious or excited to eat' 는 불안이 섞임",
+      "createdAt": "2026-11-28T06:29:17.649Z",
+      "seq": 6851
     },
     {
       "id": "9634edf0",
