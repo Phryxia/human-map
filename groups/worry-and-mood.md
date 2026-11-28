@@ -57,6 +57,7 @@
   - [비 오는 날의 울적함](../docs/rainy-day-gloom.md)
 - [뉴스 회피](../docs/news-avoidance.md) 뉴스에 지치거나 기분이 가라앉는 사람이 뉴스를 일부러 보지 않는다.
 - [둠스크롤링](../docs/doomscrolling.md) 불안한 소식을 접한 사람이 나쁜 뉴스를 멈추지 못하고 계속 찾아 읽는다.
+- [들떠서 입맛 잃기](../docs/too-excited-to-eat.md) 기다리던 날을 맞거나 즐거운 일을 앞둔 사람이 들뜬 마음에 입맛을 잃고 음식을 잘 먹지 못한다.
 - [들킬까 두려워하기](../docs/fear-of-being-found-out.md) 거짓말을 하거나 잘못을 숨긴 사람이 그것이 드러날까 불안해한다.
 - [뜨개질로 마음 가라앉히기](../docs/knitting-to-calm-down.md) 걱정이나 불안 속에서 소식을 기다리는 사람이 뜨개질을 손에 잡고 마음을 가라앉힌다.
 - [문과 전기 기구 다시 확인하기](../docs/rechecking-door-and-stove.md) 집을 나서는 사람이 문을 잠갔는지나 기구를 껐는지 이미 확인하고도 그것을 다시 확인한다.
