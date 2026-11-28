@@ -22,6 +22,7 @@
 
 ## 하위
 
+- [동생 본 맏이의 질투](jealousy-of-a-newborn-sibling.md)
 - [연애 질투](romantic-jealousy.md)
 - [편애받는 형제에 대한 질투](sibling-jealousy-over-favoritism.md)
 
