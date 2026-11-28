@@ -16,7 +16,9 @@
 
 2019년 뉴질랜드 기사[^5]에서 이혼 변호사는 자녀가 있는 사람 가운데 일부가 아이와 크리스마스를 한 번 더 보낸 뒤 새해에 이혼을 진행하려 한다고 말했다.
 
-2022년 기사[^6]에 따르면 귀성 자제령이 내려진 해에는 명절 직후의 이혼 건수가 예년보다 줄었다.
+2021년 기사[^6]에서 결혼 10년 차 사례자는 시집 스트레스로 이혼을 결정했다고 말했다.
+
+2022년 기사[^7]에 따르면 귀성 자제령이 내려진 해에는 명절 직후의 이혼 건수가 예년보다 줄었다.
 
 # 관계
 
@@ -47,4 +49,5 @@
 [^3]: [매체] "The consistent pattern in filings, the researchers believe, reflects the disillusionment unhappy spouses feel when the holidays don’t live up to expectations." (연구진은 신청에서 보이는 일관된 패턴이 휴일이 기대에 미치지 못할 때 불행한 배우자들이 느끼는 환멸을 반영한다고 본다.) — UW News, "Is divorce seasonal? UW research shows biannual spike in divorce filings", 2016-08-21, https://www.washington.edu/news/2016/08/21/is-divorce-seasonal-uw-research-shows-biannual-spike-in-divorce-filings/, 2026-11-28 접속
 [^4]: [매체] "그런데 지난해 설날과 추석 연휴 이후 각각 10일간은 하루 평균 750건의 이혼신청이 접수돼 평소보다 2.5배 이상 많은 것으로 나타났다." — 법률신문, 「명절 후 10일간 한 해 이혼신청의 14% 집중돼」, 2017-09-27, https://www.lawtimes.co.kr/news/121470, 2026-11-28 접속
 [^5]: [매체] "in some cases people with children might say 'look we're just gonna have one more Christmas with the kids and then in the new year I'm gonna do something about it'." (어떤 경우 자녀가 있는 사람들은 '아이들과 크리스마스를 한 번만 더 보내고 새해에 어떻게든 하겠다'고 말하기도 한다.) — RNZ, "Divorce applications rise sharply after Christmas", 2019-01-07, https://www.rnz.co.nz/news/national/379640/divorce-applications-rise-sharply-after-christmas, 2026-11-28 접속
-[^6]: [매체] "'귀성 자제령'이 내려진 그해 2월에는 8232건, 3월은 7296건으로 줄어들었고 9월 9536건, 10월 9347건으로 명절 직후 이혼 건수는 과거 사례와 비교해 감소하는 모습을 보였습니다." — CBS노컷뉴스, 「[그래?픽!]부엌만 '콕'?…코로나가 바꾼 '명절 이혼' 풍경」, 2022-01-24, https://nocutnews.co.kr/news/5692435, 2026-11-28 접속
+[^6]: [매체] "시집 스트레스로 이혼을 결정하게 됐어요." — 박효주, 「"명절마다 싸운다"…연휴 끝나면 정말 이혼 급증할까?[팩트체크]」, 머니투데이, 2021-09-21, https://news.mt.co.kr/mtview.php?no=2021091712145174264, 2026-11-28 접속
+[^7]: [매체] "'귀성 자제령'이 내려진 그해 2월에는 8232건, 3월은 7296건으로 줄어들었고 9월 9536건, 10월 9347건으로 명절 직후 이혼 건수는 과거 사례와 비교해 감소하는 모습을 보였습니다." — CBS노컷뉴스, 「[그래?픽!]부엌만 '콕'?…코로나가 바꾼 '명절 이혼' 풍경」, 2022-01-24, https://nocutnews.co.kr/news/5692435, 2026-11-28 접속
