@@ -833,6 +833,7 @@
 - [자녀 사진을 소셜 미디어에 올리기](docs/sharenting.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자녀 시험 날 시험장 밖에서 빌기](docs/praying-outside-exam-hall.md) ([가까운 사이의 감정과 말](groups/close-relationships.md))
 - [자녀의 첫 휴대폰을 두고 망설이기](docs/first-phone-for-child-dilemma.md) ([메시지와 휴대전화](groups/messages-and-phones.md))
+- [자동차 정기검사 기한 넘기기](docs/missing-vehicle-inspection.md) ([길과 운전](groups/roads-and-driving.md))
 - [자리 양보 망설임](docs/hesitating-to-offer-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자리를 양보받고 늙었다고 느끼기](docs/feeling-old-when-offered-a-seat.md) ([낯선 사람과 공공장소](groups/strangers-and-public-places.md))
 - [자리에 맞지 않는 옷차림의 겸연쩍음](docs/mismatched-dress-embarrassment.md) ([남의 시선과 창피함](groups/others-gaze.md))
