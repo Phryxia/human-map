@@ -409,3 +409,11 @@ test('fetchText: 봇 확인 페이지를 한 번이라도 받았고 원문이 �
   assert.equal(page.ok, false)
   assert.equal(page.reason, '봇 확인 페이지')
 })
+
+test('extractText: JSON 응답은 문자열 값을 풀어 줄바꿈 이스케이프를 넘는 원문을 찾는다', () => {
+  // tile.loc.gov 의 text-services 는 OCR 전문을 JSON 문자열의 full_text 에 \n 이스케이프로 준다(2026-11-28).
+  const body = '{"a.xml":{"full_text":"the church and put them on\\nand again to take them off after church. We had to save shoe\\nleather and bare feet"}}'
+  const t = extractText(body, 'application/json')
+  assert.ok(quoteIn(t, 'and again to take them off after church. We had to save shoe leather and bare feet'))
+  assert.equal(extractText('{깨진 json', 'application/json'), '{깨진 json')
+})

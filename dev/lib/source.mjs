@@ -19,6 +19,8 @@ const LD_JSON_RE = /<script[^>]*type=["']?application\/ld\+json["']?[^>]*>([\s\S
 const articleBodies = v => !v || typeof v !== 'object' ? [] : Array.isArray(v) ? v.flatMap(articleBodies)
   : [...(typeof v.articleBody === 'string' ? [v.articleBody] : []), ...Object.entries(v).filter(([k]) => k !== 'articleBody').flatMap(([, x]) => articleBodies(x))]
 
+const jsonStrings = v => typeof v === 'string' ? [v] : v && typeof v === 'object' ? Object.values(v).flatMap(jsonStrings) : []
+
 export function extractText(body, contentType = '') {
   if (/html|xml/i.test(contentType) || /^\s*<(!doctype|html)/i.test(body)) {
     const root = parse(body.replace(BLOCK_TAG_RE, ' <$1'), {blockTextElements: {script: false, style: false, noscript: false}})
@@ -27,7 +29,9 @@ export function extractText(body, contentType = '') {
     root.querySelectorAll('script,style,noscript,template').forEach(n => n.remove())
     return [root.textContent, ...bodies].join(' ')
   }
-  if (/^text\/|json/i.test(contentType) || contentType === '') return body
+  // tile.loc.gov 의 text-services 는 OCR 전문을 JSON 문자열에 \n 이스케이프로 준다. 문자열 값을 풀어 이어 붙인다.
+  if (/json/i.test(contentType)) { try { return jsonStrings(JSON.parse(body)).join(' ') } catch { return body } }
+  if (/^text\//i.test(contentType) || contentType === '') return body
   return null
 }
 
